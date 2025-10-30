@@ -1,0 +1,167 @@
+[
+  {
+    "entidad": "función renal",
+    "relacion": "afecta a",
+    "valor": "dosificación de drogas"
+  },
+  {
+    "entidad": "dosificación de drogas",
+    "relacion": "tiene como objetivo",
+    "valor": "evitar toxicidad asociada a fármacos"
+  },
+  {
+    "entidad": "creatinina",
+    "relacion": "se utiliza para",
+    "valor": "estimar la función renal"
+  },
+  {
+    "entidad": "tasa de filtración glomerular (VFG)",
+    "relacion": "es considerada",
+    "valor": "mejor aproximación a la función renal global"
+  },
+  {
+    "entidad": "biomarcadores",
+    "relacion": "se utilizan para",
+    "valor": "estimar la VFG"
+  },
+  {
+    "entidad": "CKD-EPI",
+    "relacion": "es",
+    "valor": "una fórmula para estimar la VFG"
+  },
+  {
+    "entidad": "MDRD",
+    "relacion": "es",
+    "valor": "una fórmula para estimar la VFG"
+  },
+  {
+    "entidad": "Cockcroft-Gault",
+    "relacion": "es",
+    "valor": "una fórmula para estimar la VFG"
+  },
+  {
+    "entidad": "enfermedad renal crónica (ERC)",
+    "relacion": "afecta a",
+    "valor": "la farmacocinética de los fármacos"
+  },
+  {
+    "entidad": "insuficiencia renal aguda (IRA)",
+    "relacion": "ofrece",
+    "valor": "complejidades farmacocinéticas"
+  },
+  {
+    "entidad": "recomendaciones para la prescripción",
+    "relacion": "deben considerar",
+    "valor": "la gravedad del paciente"
+  },
+  {
+    "entidad": "niveles plasmáticos del fármaco",
+    "relacion": "deben ser",
+    "valor": "medidos cuando sea posible"
+  },
+  {
+    "entidad": "monitorización",
+    "relacion": "debe ser",
+    "valor": "frecuente para efectos terapéuticos y toxicidad"
+  },
+  {
+    "entidad": "fármacos",
+    "relacion": "deben ser elegidos",
+    "valor": "con amplio margen terapéutico"
+  },
+  {
+    "entidad": "cistatina C",
+    "relacion": "se utiliza para",
+    "valor": "estimar la VFG"
+  },
+  {
+    "entidad": "algoritmo de dosificación de vancomicina",
+    "relacion": "se basa en",
+    "valor": "eVFG por CKD-EPI"
+  },
+  {
+    "entidad": "pacientes obesos",
+    "relacion": "deben considerar",
+    "valor": "remover el ajuste por superficie corporal"
+  },
+  {
+    "entidad": "adultos mayores",
+    "relacion": "deben preferir",
+    "valor": "ecuaciones que utilicen creatinina y cistatina C"
+  },
+  {
+    "entidad": "capacidad funcional intrínseca (CFI)",
+    "relacion": "es un",
+    "valor": "indicador pronóstico en personas mayores"
+  },
+  {
+    "entidad": "fragilidad",
+    "relacion": "es un",
+    "valor": "indicador pronóstico en personas mayores"
+  },
+  {
+    "entidad": "Examen de Medicina Preventiva del Adulto Mayor (EMPAM)",
+    "relacion": "es un",
+    "valor": "estrategia de atención en salud"
+  },
+  {
+    "entidad": "Examen de Funcionalidad del Adulto Mayor (EFAM)",
+    "relacion": "es el",
+    "valor": "principal instrumento para evaluar CFI en Chile"
+  },
+  {
+    "entidad": "Fried criteria",
+    "relacion": "es un",
+    "valor": "criterio para evaluar fragilidad"
+  },
+  {
+    "entidad": "Frailty Tilburg Indicator (FTI)",
+    "relacion": "es un",
+    "valor": "instrumento para evaluar fragilidad"
+  },
+  {
+    "entidad": "Atención Primaria de Salud (APS)",
+    "relacion": "atiende",
+    "valor": "91% de las personas mayores en Chile"
+  },
+  {
+    "entidad": "fuerza de agarre",
+    "relacion": "se sugiere como",
+    "valor": "predictor de fragilidad"
+  },
+  {
+    "entidad": "ANID",
+    "relacion": "financia",
+    "valor": "Proyecto FONDEF IDeA 2019 ID 19I10319"
+  },
+  {
+    "entidad": "Estrategia Nacional de Salud 2021-2030",
+    "relacion": "considera",
+    "valor": "la funcionalidad en personas mayores como una meta"
+  },
+  {
+    "entidad": "fuerza de prensión manual",
+    "relacion": "se relaciona con",
+    "valor": "la evolución de la funcionalidad en personas mayores"
+  },
+  {
+    "entidad": "EFAM",
+    "relacion": "no clasifica",
+    "valor": "deterioros funcionales en personas mayores"
+  },
+  {
+    "entidad": "EMPAM",
+    "relacion": "debe optimizarse con",
+    "valor": "una mejor evaluación de la fragilidad"
+  },
+  {
+    "entidad": "fuerza de agarre",
+    "relacion": "es un",
+    "valor": "indicador funcional importante"
+  },
+  {
+    "entidad": "proyecto FONDEF IDeA 2019 ID 19I10319",
+    "relacion": "apunta a",
+    "valor": "construir una herramienta predictiva del riesgo de pérdida CFI"
+  }
+]

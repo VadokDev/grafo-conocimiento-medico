@@ -1,0 +1,327 @@
+[
+  {
+    "entidad": "infarto oculto",
+    "relacion": "es un tipo de",
+    "valor": "infarto posterior"
+  },
+  {
+    "entidad": "síndrome coronario agudo",
+    "relacion": "requiere",
+    "valor": "rápida reperfusión"
+  },
+  {
+    "entidad": "diagnóstico precoz",
+    "relacion": "es esencial para",
+    "valor": "decisiones terapéuticas"
+  },
+  {
+    "entidad": "electrocardiograma (ECG)",
+    "relacion": "se utiliza para",
+    "valor": "diagnosticar infartos"
+  },
+  {
+    "entidad": "infarto de pared posterior",
+    "relacion": "se presenta como",
+    "valor": "dificultad en el diagnóstico"
+  },
+  {
+    "entidad": "método clásico de ECG de 12 derivaciones",
+    "relacion": "no es capaz de",
+    "valor": "evidenciar cambios discretos"
+  },
+  {
+    "entidad": "derivadas posteriores (V7, V8, V9)",
+    "relacion": "aumentan",
+    "valor": "la posibilidad de diagnóstico"
+  },
+  {
+    "entidad": "angioplastía primaria",
+    "relacion": "se utiliza para",
+    "valor": "tratar infartos"
+  },
+  {
+    "entidad": "necrosis miocárdica",
+    "relacion": "es consecuencia de",
+    "valor": "oclusión completa del flujo coronario"
+  },
+  {
+    "entidad": "arteria circunfleja",
+    "relacion": "puede causar",
+    "valor": "compromiso trombótico"
+  },
+  {
+    "entidad": "pacientes con infarto posterior verdadero",
+    "relacion": "tienen",
+    "valor": "mayor riesgo de mortalidad intrahospitalaria"
+  },
+  {
+    "entidad": "Bayes de Luna",
+    "relacion": "propone",
+    "valor": "nueva terminología para infartos"
+  },
+  {
+    "entidad": "consentimientos informados",
+    "relacion": "son requeridos para",
+    "valor": "casos clínicos"
+  },
+  {
+    "entidad": "comité de ética",
+    "relacion": "evalúa",
+    "valor": "casos clínicos"
+  },
+  {
+    "entidad": "sintomatología de SCA",
+    "relacion": "puede incluir",
+    "valor": "dolor retroesternal y disnea"
+  },
+  {
+    "entidad": "curva enzimática",
+    "relacion": "es compatible con",
+    "valor": "síndrome coronario agudo con supra desnivel del segmento ST"
+  },
+  {
+    "entidad": "diagnóstico diferencial",
+    "relacion": "incluye",
+    "valor": "onda 'R' alta en V1"
+  },
+  {
+    "entidad": "infarto de pared posterior",
+    "relacion": "es asociado a",
+    "valor": "insuficiencia mitral moderada a severa"
+  },
+  {
+    "entidad": "linfoma difuso de células grandes B",
+    "relacion": "es un",
+    "valor": "tipo de linfoma"
+  },
+  {
+    "entidad": "miocardio",
+    "relacion": "es afectado por",
+    "valor": "linfoma difuso de células grandes B"
+  },
+  {
+    "entidad": "65 años",
+    "relacion": "es la edad de",
+    "valor": "paciente"
+  },
+  {
+    "entidad": "taponamiento cardíaco",
+    "relacion": "se presenta en",
+    "valor": "paciente"
+  },
+  {
+    "entidad": "rituximab",
+    "relacion": "es un",
+    "valor": "tratamiento quimioterapéutico"
+  },
+  {
+    "entidad": "ciclofosfamida",
+    "relacion": "es un",
+    "valor": "tratamiento quimioterapéutico"
+  },
+  {
+    "entidad": "vincristina",
+    "relacion": "es un",
+    "valor": "tratamiento quimioterapéutico"
+  },
+  {
+    "entidad": "prednisona",
+    "relacion": "es un",
+    "valor": "tratamiento quimioterapéutico"
+  },
+  {
+    "entidad": "gemcitabina",
+    "relacion": "es un",
+    "valor": "tratamiento paliativo"
+  },
+  {
+    "entidad": "oxaliplatino",
+    "relacion": "es un",
+    "valor": "tratamiento paliativo"
+  },
+  {
+    "entidad": "Instituto Nacional de Cancerología - México",
+    "relacion": "es una",
+    "valor": "institución de salud"
+  },
+  {
+    "entidad": "Universidad Nacional Autónoma de México",
+    "relacion": "es una",
+    "valor": "institución educativa"
+  },
+  {
+    "entidad": "biopsia miocárdica",
+    "relacion": "es un",
+    "valor": "método diagnóstico"
+  },
+  {
+    "entidad": "quimioterapia",
+    "relacion": "es un",
+    "valor": "tipo de tratamiento"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "requiere",
+    "valor": "marcapasos"
+  },
+  {
+    "entidad": "quimioterapia R-CVP",
+    "relacion": "se utiliza en",
+    "valor": "tratamiento de linfoma"
+  },
+  {
+    "entidad": "quimioterapia paliativa",
+    "relacion": "se prescribe cuando",
+    "valor": "no hay respuesta al tratamiento"
+  },
+  {
+    "entidad": "prognosis",
+    "relacion": "es peor en",
+    "valor": "linfoma difuso de células grandes B"
+  },
+  {
+    "entidad": "infiltración extracardiaca",
+    "relacion": "se asocia con",
+    "valor": "mala prognosis"
+  },
+  {
+    "entidad": "ventrículo izquierdo",
+    "relacion": "es un factor de riesgo para",
+    "valor": "mala prognosis"
+  },
+  {
+    "entidad": "arritmias",
+    "relacion": "se asocian con",
+    "valor": "mala prognosis"
+  },
+  {
+    "entidad": "melanoma cutáneo maligno",
+    "relacion": "es un",
+    "valor": "tumor maligno"
+  },
+  {
+    "entidad": "melanoma cutáneo maligno",
+    "relacion": "presenta",
+    "valor": "recidiva intestinal única"
+  },
+  {
+    "entidad": "recidiva intestinal única",
+    "relacion": "es",
+    "valor": "rara"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "tiene",
+    "valor": "69 años"
+  },
+  {
+    "entidad": "lesión cutánea",
+    "relacion": "es",
+    "valor": "verrucosa e hiperpigmentada"
+  },
+  {
+    "entidad": "biopsia",
+    "relacion": "es compatible con",
+    "valor": "melanoma"
+  },
+  {
+    "entidad": "PET/CT",
+    "relacion": "demuestra",
+    "valor": "metástasis en nódulos"
+  },
+  {
+    "entidad": "radioterapia",
+    "relacion": "es un",
+    "valor": "tratamiento"
+  },
+  {
+    "entidad": "quimioterapia",
+    "relacion": "es un",
+    "valor": "tratamiento"
+  },
+  {
+    "entidad": "pembrolizumab",
+    "relacion": "es un",
+    "valor": "bloqueador del receptor PD-1"
+  },
+  {
+    "entidad": "resección",
+    "relacion": "se realiza en",
+    "valor": "linfonodo inguinal"
+  },
+  {
+    "entidad": "recidiva",
+    "relacion": "es confirmada por",
+    "valor": "biopsia endoscópica"
+  },
+  {
+    "entidad": "resección laparoscópica",
+    "relacion": "se realiza con",
+    "valor": "anastomosis primaria"
+  },
+  {
+    "entidad": "biopsia definitiva",
+    "relacion": "muestra",
+    "valor": "metástasis de melanoma"
+  },
+  {
+    "entidad": "BRAF",
+    "relacion": "es",
+    "valor": "no mutado"
+  },
+  {
+    "entidad": "European Society for Medical Oncology (ESMO)",
+    "relacion": "recomienda",
+    "valor": "resección quirúrgica y terapia sistémica"
+  },
+  {
+    "entidad": "sobrevida global mediana",
+    "relacion": "es",
+    "valor": "5,5 años"
+  },
+  {
+    "entidad": "metástasis intestinales",
+    "relacion": "son generadas por",
+    "valor": "melanoma"
+  },
+  {
+    "entidad": "intestino delgado",
+    "relacion": "es el sitio más frecuente para",
+    "valor": "metástasis"
+  },
+  {
+    "entidad": "tomografía computada (TC)",
+    "relacion": "tiene",
+    "valor": "sensibilidad cercana a 66%"
+  },
+  {
+    "entidad": "PET-TC",
+    "relacion": "es más sensible que",
+    "valor": "TC"
+  },
+  {
+    "entidad": "endoscopía",
+    "relacion": "permite detectar",
+    "valor": "lesiones"
+  },
+  {
+    "entidad": "resección completa",
+    "relacion": "mejora",
+    "valor": "sobrevida a 5 años"
+  },
+  {
+    "entidad": "melanoma primario de intestino delgado",
+    "relacion": "es",
+    "valor": "extremadamente infrecuente"
+  },
+  {
+    "entidad": "CCR9",
+    "relacion": "es un",
+    "valor": "receptor en células tumorales de melanoma"
+  },
+  {
+    "entidad": "CCL25",
+    "relacion": "es",
+    "valor": "una citoquina altamente expresada en epitelio intestinal"
+  }
+]

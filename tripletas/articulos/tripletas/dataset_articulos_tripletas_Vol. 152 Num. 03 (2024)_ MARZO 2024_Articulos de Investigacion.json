@@ -1,0 +1,742 @@
+[
+  {
+    "entidad": "centros primarios de salud",
+    "relacion": "solicitan",
+    "valor": "colaboración para el manejo de patologías"
+  },
+  {
+    "entidad": "interconsultas médicas",
+    "relacion": "son",
+    "valor": "herramienta para colaboración entre centros de salud"
+  },
+  {
+    "entidad": "Servicio de Salud Metropolitano Sur Oriente",
+    "relacion": "envía",
+    "valor": "interconsultas al Servicio de Otorrinolaringología"
+  },
+  {
+    "entidad": "Servicio de Otorrinolaringología",
+    "relacion": "recibe",
+    "valor": "interconsultas del Hospital Sótero del Río"
+  },
+  {
+    "entidad": "Hospital Sótero del Río",
+    "relacion": "es un",
+    "valor": "centro de mayor complejidad"
+  },
+  {
+    "entidad": "hipoacusia",
+    "relacion": "es el motivo de consulta más frecuente",
+    "valor": "en interconsultas"
+  },
+  {
+    "entidad": "índice de kappa",
+    "relacion": "indica",
+    "valor": "nivel de concordancia en priorización"
+  },
+  {
+    "entidad": "priorización alta",
+    "relacion": "es definida como",
+    "valor": "evaluación dentro de 10 días"
+  },
+  {
+    "entidad": "priorización media",
+    "relacion": "es definida como",
+    "valor": "evaluación dentro de 60 días"
+  },
+  {
+    "entidad": "priorización baja",
+    "relacion": "es definida como",
+    "valor": "evaluación dentro de 90 días"
+  },
+  {
+    "entidad": "interconsultas",
+    "relacion": "deben ser completadas adecuadamente",
+    "valor": "por médicos de APS"
+  },
+  {
+    "entidad": "médicos de APS",
+    "relacion": "deben mejorar",
+    "valor": "su formación en ORL"
+  },
+  {
+    "entidad": "comunicación y educación",
+    "relacion": "deben ser mejoradas",
+    "valor": "entre centros de salud primaria y secundaria"
+  },
+  {
+    "entidad": "pautas estructuradas de derivación",
+    "relacion": "pueden mejorar",
+    "valor": "la concordancia en la derivación"
+  },
+  {
+    "entidad": "cirugía bariátrica",
+    "relacion": "mejora",
+    "valor": "calidad de vida a corto plazo"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "es evaluada por",
+    "valor": "BAROS"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "se someten a",
+    "valor": "bariatric surgery"
+  },
+  {
+    "entidad": "Roux-en-Y gastric bypass (RYGB)",
+    "relacion": "es un tipo de",
+    "valor": "cirugía bariátrica"
+  },
+  {
+    "entidad": "sleeve gastrectomy (SG)",
+    "relacion": "es un tipo de",
+    "valor": "cirugía bariátrica"
+  },
+  {
+    "entidad": "Bariatric Analysis and Reporting Outcome System (BAROS)",
+    "relacion": "utiliza",
+    "valor": "para evaluar resultados"
+  },
+  {
+    "entidad": "calidad de vida a largo plazo",
+    "relacion": "es limitada en evidencia sobre",
+    "valor": "pacientes con cirugía bariátrica"
+  },
+  {
+    "entidad": "pérdida de peso excesiva",
+    "relacion": "correlaciona con",
+    "valor": "calidad de vida"
+  },
+  {
+    "entidad": "Moorehead-Ardelt Quality of Life (MAQoL)",
+    "relacion": "es un tipo de",
+    "valor": "evaluación de calidad de vida"
+  },
+  {
+    "entidad": "pacientes con SG",
+    "relacion": "tienen",
+    "valor": "mejor puntuación en MAQoL que pacientes con RYGB"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "se mantiene",
+    "valor": "buena a largo plazo"
+  },
+  {
+    "entidad": "comorbilidades",
+    "relacion": "se evalúan antes y después de",
+    "valor": "cirugía bariátrica"
+  },
+  {
+    "entidad": "Bariatric Analysis and Reporting Outcome System (BAROS)",
+    "relacion": "incluye",
+    "valor": "autoestima, actividad física, vida social, capacidad para trabajar, vida sexual"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "fue aprobado por",
+    "valor": "Comité de Ética de la Pontificia Universidad Católica de Chile"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "reportan",
+    "valor": "mejoras en calidad de vida tras cirugía bariátrica"
+  },
+  {
+    "entidad": "cirugía bariátrica",
+    "relacion": "afecta a",
+    "valor": "comorbilidades como diabetes y hipertensión"
+  },
+  {
+    "entidad": "Fundación las Rosas (FLR)",
+    "relacion": "es",
+    "valor": "el mayor establecimiento de larga estadía en Chile"
+  },
+  {
+    "entidad": "personas mayores institucionalizadas",
+    "relacion": "tienen",
+    "valor": "cambios fisiológicos, económicos y psicológicos"
+  },
+  {
+    "entidad": "envejecimiento",
+    "relacion": "afecta",
+    "valor": "estado nutricional y funcional"
+  },
+  {
+    "entidad": "malnutrición por déficit",
+    "relacion": "se asocia",
+    "valor": "funcionalidad disminuida"
+  },
+  {
+    "entidad": "malnutrición por exceso",
+    "relacion": "se asocia",
+    "valor": "funcionalidad disminuida"
+  },
+  {
+    "entidad": "bajo nivel educacional",
+    "relacion": "se asocia",
+    "valor": "dependencia y estar postrado"
+  },
+  {
+    "entidad": "deterioro cognitivo",
+    "relacion": "se asocia",
+    "valor": "dependencia y estar postrado"
+  },
+  {
+    "entidad": "Instituto de Nutrición y Tecnología de los Alimentos (INTA)",
+    "relacion": "pertenece a",
+    "valor": "Universidad de Chile"
+  },
+  {
+    "entidad": "SENAMA",
+    "relacion": "informa",
+    "valor": "sobre la cantidad de personas mayores institucionalizadas en Chile"
+  },
+  {
+    "entidad": "personas mayores",
+    "relacion": "presentan",
+    "valor": "sospecha de deterioro cognitivo"
+  },
+  {
+    "entidad": "deterioro cognitivo",
+    "relacion": "aumenta con",
+    "valor": "la edad"
+  },
+  {
+    "entidad": "personas mayores institucionalizadas",
+    "relacion": "son evaluadas por",
+    "valor": "personal capacitado"
+  },
+  {
+    "entidad": "análisis de datos",
+    "relacion": "se realiza utilizando",
+    "valor": "software estadístico"
+  },
+  {
+    "entidad": "estado nutricional",
+    "relacion": "se mide mediante",
+    "valor": "índice de masa corporal (IMC)"
+  },
+  {
+    "entidad": "funcionalidad",
+    "relacion": "se mide mediante",
+    "valor": "Índice de Barthel"
+  },
+  {
+    "entidad": "personas mayores",
+    "relacion": "requieren",
+    "valor": "intervenciones nutricionales"
+  },
+  {
+    "entidad": "intervenciones multidisciplinarias",
+    "relacion": "son necesarias para",
+    "valor": "mejorar la calidad de vida"
+  },
+  {
+    "entidad": "personas mayores institucionalizadas",
+    "relacion": "son un grupo",
+    "valor": "vulnerable"
+  },
+  {
+    "entidad": "análisis estadístico",
+    "relacion": "considera",
+    "valor": "técnicas descriptivas y de regresión"
+  },
+  {
+    "entidad": "deterioro cognitivo",
+    "relacion": "se mide con",
+    "valor": "Mini-Mental State Examination (MMSE)"
+  },
+  {
+    "entidad": "infarto agudo al miocardio con supradesnivel del ST",
+    "relacion": "es un",
+    "valor": "tipo de patología cardiovascular"
+  },
+  {
+    "entidad": "Hospital Las Higueras",
+    "relacion": "es un",
+    "valor": "centro de salud"
+  },
+  {
+    "entidad": "protocolo de alta precoz",
+    "relacion": "implementa",
+    "valor": "estrategia para reducir tiempo de hospitalización"
+  },
+  {
+    "entidad": "pacientes de bajo riesgo",
+    "relacion": "son identificados por",
+    "valor": "protocolo local"
+  },
+  {
+    "entidad": "angioplastía primaria",
+    "relacion": "es un",
+    "valor": "procedimiento médico"
+  },
+  {
+    "entidad": "Sociedad Europea de Cardiología",
+    "relacion": "recomienda",
+    "valor": "alta precoz en IAMCEST"
+  },
+  {
+    "entidad": "puntaje de GRACE",
+    "relacion": "evalúa",
+    "valor": "riesgo en pacientes con IAMCEST"
+  },
+  {
+    "entidad": "puntaje de Zwolle",
+    "relacion": "es utilizado para",
+    "valor": "identificar pacientes susceptibles de alta precoz"
+  },
+  {
+    "entidad": "ecocardiograma",
+    "relacion": "es realizado por",
+    "valor": "hemodinamistas antes del alta"
+  },
+  {
+    "entidad": "seguimiento post alta",
+    "relacion": "es realizado dentro de",
+    "valor": "7-14 días"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "no se registró en",
+    "valor": "seguimiento a 6 meses"
+  },
+  {
+    "entidad": "reingreso hospitalario",
+    "relacion": "ocurrió en",
+    "valor": "1 paciente"
+  },
+  {
+    "entidad": "protocolo de alta precoz",
+    "relacion": "permite",
+    "valor": "acortar estadía hospitalaria"
+  },
+  {
+    "entidad": "estudio observacional descriptivo",
+    "relacion": "es el tipo de",
+    "valor": "diseño del estudio"
+  },
+  {
+    "entidad": "Comité de Ética del Servicio de Salud Talcahuano",
+    "relacion": "aprueba",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "pacientes con IAMCEST",
+    "relacion": "son tratados con",
+    "valor": "angioplastía primaria"
+  },
+  {
+    "entidad": "Hospital Las Higueras",
+    "relacion": "es parte de",
+    "valor": "S.S. Talcahuano"
+  },
+  {
+    "entidad": "infección del tracto urinario adquirida en la comunidad (ITU-AC)",
+    "relacion": "es",
+    "valor": "una de las infecciones más comunes"
+  },
+  {
+    "entidad": "Escherichia coli",
+    "relacion": "es",
+    "valor": "el agente infeccioso más frecuente en ITU-AC"
+  },
+  {
+    "entidad": "Klebsiella spp.",
+    "relacion": "es",
+    "valor": "el segundo agente infeccioso más frecuente en ITU-AC"
+  },
+  {
+    "entidad": "Enterococcus faecalis",
+    "relacion": "es",
+    "valor": "el tercer agente infeccioso más frecuente en ITU-AC"
+  },
+  {
+    "entidad": "antibióticos",
+    "relacion": "son",
+    "valor": "utilizados en el tratamiento empírico de ITU-AC"
+  },
+  {
+    "entidad": "resistencia a antibióticos",
+    "relacion": "afecta a",
+    "valor": "la selección empírica de tratamientos"
+  },
+  {
+    "entidad": "Hospital Clínico UC (HCUC)",
+    "relacion": "es",
+    "valor": "un hospital terciario en Santiago, Chile"
+  },
+  {
+    "entidad": "Complejo Asistencial Dr. Sótero del Río (CASR)",
+    "relacion": "es",
+    "valor": "un hospital terciario en Santiago, Chile"
+  },
+  {
+    "entidad": "Proyecto FONIS 2020",
+    "relacion": "financia",
+    "valor": "la investigación sobre ITU-AC"
+  },
+  {
+    "entidad": "bacterias resistentes",
+    "relacion": "causan",
+    "valor": "alta prevalencia de ITU-AC"
+  },
+  {
+    "entidad": "morbimortalidad",
+    "relacion": "es afectada por",
+    "valor": "una selección empírica inadecuada de antibióticos"
+  },
+  {
+    "entidad": "susceptibilidad antimicrobiana",
+    "relacion": "debe ser",
+    "valor": "actualizada periódicamente"
+  },
+  {
+    "entidad": "pacientes adultos hospitalizados",
+    "relacion": "requieren",
+    "valor": "tratamiento por ITU-AC"
+  },
+  {
+    "entidad": "bacterias Gram positivas",
+    "relacion": "son",
+    "valor": "resistentes a oxacilina y ampicilina"
+  },
+  {
+    "entidad": "Escherichia coli",
+    "relacion": "presenta",
+    "valor": "alta resistencia a cefalosporinas de primera generación"
+  },
+  {
+    "entidad": "Klebsiella spp.",
+    "relacion": "presenta",
+    "valor": "alta resistencia a nitrofurantoína"
+  },
+  {
+    "entidad": "Enterococcus faecalis",
+    "relacion": "presenta",
+    "valor": "resistencia a ciprofloxacino"
+  },
+  {
+    "entidad": "Enterococcus faecium",
+    "relacion": "es",
+    "valor": "resistente a ampicilina y ciprofloxacino"
+  },
+  {
+    "entidad": "Staphylococcus spp.",
+    "relacion": "es",
+    "valor": "resistente a oxacilina"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "fue aprobado por",
+    "valor": "el Comité Ético Científico de Ciencias de la Salud de la Facultad de Medicina de la Pontificia Universidad Católica de Chile"
+  },
+  {
+    "entidad": "análisis de datos",
+    "relacion": "se realiza con",
+    "valor": "software STATA"
+  },
+  {
+    "entidad": "antibióticos de primera línea",
+    "relacion": "son",
+    "valor": "recomendados para el tratamiento de ITU-AC"
+  },
+  {
+    "entidad": "resistencia a antibióticos",
+    "relacion": "es un",
+    "valor": "problema creciente en el tratamiento de ITU-AC"
+  },
+  {
+    "entidad": "paciente oncológico",
+    "relacion": "tiene",
+    "valor": "percepción sobre la información recibida"
+  },
+  {
+    "entidad": "cuestionario EORTC QLQ-INFO25",
+    "relacion": "evalúa",
+    "valor": "la percepción del paciente sobre la información recibida"
+  },
+  {
+    "entidad": "Fundación Arturo López Pérez",
+    "relacion": "es un",
+    "valor": "centro de atención médica en Chile"
+  },
+  {
+    "entidad": "Fundación Oncoloop",
+    "relacion": "financia",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "diagnóstico de cáncer",
+    "relacion": "afecta",
+    "valor": "la calidad de vida de los pacientes"
+  },
+  {
+    "entidad": "información clara y precisa",
+    "relacion": "es crucial durante",
+    "valor": "el curso de la enfermedad y el tratamiento"
+  },
+  {
+    "entidad": "EORTC",
+    "relacion": "desarrolla",
+    "valor": "el cuestionario QLQ-INFO25"
+  },
+  {
+    "entidad": "pacientes chilenos",
+    "relacion": "requieren",
+    "valor": "instrumentos adaptados a su contexto local"
+  },
+  {
+    "entidad": "propiedades psicométricas",
+    "relacion": "son evaluadas en",
+    "valor": "el cuestionario QLQ-INFO25"
+  },
+  {
+    "entidad": "validez convergente y discriminante",
+    "relacion": "se calcula utilizando",
+    "valor": "matrices multi-rasgo y multi-ítem"
+  },
+  {
+    "entidad": "coeficiente α de Cronbach",
+    "relacion": "evalúa",
+    "valor": "la consistencia interna del instrumento"
+  },
+  {
+    "entidad": "correlaciones test-retest",
+    "relacion": "evalúan",
+    "valor": "la estabilidad temporal del instrumento"
+  },
+  {
+    "entidad": "pacientes con cáncer",
+    "relacion": "son estudiados en",
+    "valor": "diferentes países"
+  },
+  {
+    "entidad": "cuestionario EORTC QLQ-C30",
+    "relacion": "complementa",
+    "valor": "el QLQ-INFO25"
+  },
+  {
+    "entidad": "estrategias de información",
+    "relacion": "mejoran",
+    "valor": "la gestión de la información para pacientes"
+  },
+  {
+    "entidad": "dimensión de la enfermedad",
+    "relacion": "muestra",
+    "valor": "acuerdo parcial con la estructura esperada"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "reciben",
+    "valor": "diferente información según su contexto"
+  },
+  {
+    "entidad": "cuestionario EORTC QLQ-INFO25",
+    "relacion": "es una herramienta",
+    "valor": "confiable para pacientes chilenos"
+  },
+  {
+    "entidad": "patología cardiovascular",
+    "relacion": "lidera",
+    "valor": "tasa de morbimortalidad en Chile y el mundo"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud (ENS)",
+    "relacion": "describe",
+    "valor": "patología cardiovascular a nivel nacional"
+  },
+  {
+    "entidad": "Archipiélago de Juan Fernández",
+    "relacion": "excluido de",
+    "valor": "muestra de la ENS"
+  },
+  {
+    "entidad": "Programa de Salud Cardiovascular (PSCV)",
+    "relacion": "caracteriza",
+    "valor": "perfil biosocial de la población"
+  },
+  {
+    "entidad": "Archipiélago de Juan Fernández",
+    "relacion": "tiene",
+    "valor": "población cautiva"
+  },
+  {
+    "entidad": "Consultorio General Rural de Juan Fernández",
+    "relacion": "es",
+    "valor": "único centro de salud del Archipiélago"
+  },
+  {
+    "entidad": "enfermedad renal crónica",
+    "relacion": "se concentra en",
+    "valor": "etapas más tempranas que a nivel nacional"
+  },
+  {
+    "entidad": "población del Archipiélago de Juan Fernández",
+    "relacion": "presenta",
+    "valor": "mejor perfil cardiovascular que el nacional"
+  },
+  {
+    "entidad": "factores de riesgo cardiovascular",
+    "relacion": "se estiman",
+    "valor": "prevalencias en la población"
+  },
+  {
+    "entidad": "Ministerio de Salud del Gobierno de Chile",
+    "relacion": "emana",
+    "valor": "orientación técnica del PSCV"
+  },
+  {
+    "entidad": "población endémica del Archipiélago de Juan Fernández",
+    "relacion": "constituyen",
+    "valor": "926 personas según el último censo"
+  },
+  {
+    "entidad": "población del Archipiélago",
+    "relacion": "está influenciada por",
+    "valor": "aislamiento geográfico"
+  },
+  {
+    "entidad": "población del Archipiélago",
+    "relacion": "está influenciada por",
+    "valor": "escasez de recursos"
+  },
+  {
+    "entidad": "población del Archipiélago",
+    "relacion": "está influenciada por",
+    "valor": "vulnerabilidad frente a desastres naturales"
+  },
+  {
+    "entidad": "población del Archipiélago",
+    "relacion": "está influenciada por",
+    "valor": "estilo de vida rural y tradicional"
+  },
+  {
+    "entidad": "dieta local",
+    "relacion": "es rica en",
+    "valor": "carbohidratos simples y pobre en frutas y vegetales"
+  },
+  {
+    "entidad": "población del Archipiélago",
+    "relacion": "tiene",
+    "valor": "bajo nivel de inmigración"
+  },
+  {
+    "entidad": "población del Archipiélago",
+    "relacion": "tiene",
+    "valor": "alto índice de alfabetización"
+  },
+  {
+    "entidad": "población del Archipiélago",
+    "relacion": "presenta",
+    "valor": "bajo nivel de instrucción formal"
+  },
+  {
+    "entidad": "población del Archipiélago",
+    "relacion": "se caracteriza por",
+    "valor": "bajo nivel de escolaridad"
+  },
+  {
+    "entidad": "población del Archipiélago",
+    "relacion": "es objeto de",
+    "valor": "intervenciones de salud pública"
+  },
+  {
+    "entidad": "población del Archipiélago",
+    "relacion": "se beneficia de",
+    "valor": "programas de salud cardiovascular"
+  },
+  {
+    "entidad": "Terapia con plasma convaleciente",
+    "relacion": "es un",
+    "valor": "tratamiento para COVID-19 grave"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "es causado por",
+    "valor": "SARS-CoV-2"
+  },
+  {
+    "entidad": "plasma convaleciente",
+    "relacion": "contiene",
+    "valor": "anticuerpos neutralizantes contra la proteína viral S del SARS-CoV-2"
+  },
+  {
+    "entidad": "estudio piloto",
+    "relacion": "evalúa",
+    "valor": "efecto y seguridad de la terapia con plasma convaleciente"
+  },
+  {
+    "entidad": "156 pacientes",
+    "relacion": "recibieron",
+    "valor": "plasma convaleciente"
+  },
+  {
+    "entidad": "grupo control",
+    "relacion": "incluyó",
+    "valor": "113 individuos con COVID-19 grave"
+  },
+  {
+    "entidad": "plasma convaleciente",
+    "relacion": "no causó",
+    "valor": "reacciones adversas"
+  },
+  {
+    "entidad": "días en ventilación mecánica",
+    "relacion": "fueron menores en",
+    "valor": "grupo de plasma convaleciente"
+  },
+  {
+    "entidad": "estancia en la unidad de pacientes críticos",
+    "relacion": "fue menor en",
+    "valor": "grupo de plasma convaleciente"
+  },
+  {
+    "entidad": "administración de plasma convaleciente",
+    "relacion": "no se asoció con",
+    "valor": "supervivencia a 14 días"
+  },
+  {
+    "entidad": "Terapia con plasma convaleciente",
+    "relacion": "fue",
+    "valor": "segura"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "fue similar entre",
+    "valor": "grupo de plasma convaleciente y grupo control"
+  },
+  {
+    "entidad": "donantes de plasma convaleciente",
+    "relacion": "deben ser",
+    "valor": "personas recuperadas de COVID-19"
+  },
+  {
+    "entidad": "sintomatología severa",
+    "relacion": "puede llevar a",
+    "valor": "fallo respiratorio y muerte"
+  },
+  {
+    "entidad": "corticoides",
+    "relacion": "se recomienda en",
+    "valor": "pacientes con COVID-19"
+  },
+  {
+    "entidad": "mecanismo de acción del plasma convaleciente",
+    "relacion": "puede incluir",
+    "valor": "activación del complemento y citotoxicidad celular dependiente de anticuerpos"
+  },
+  {
+    "entidad": "prono",
+    "relacion": "mejora",
+    "valor": "mecánica pulmonar y intercambio de gases"
+  },
+  {
+    "entidad": "plasma convaleciente",
+    "relacion": "es una posible terapia en",
+    "valor": "pacientes con riesgo de muerte temprana por COVID-19"
+  }
+]

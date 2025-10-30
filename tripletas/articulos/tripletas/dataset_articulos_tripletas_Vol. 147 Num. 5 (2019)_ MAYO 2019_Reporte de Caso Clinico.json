@@ -1,0 +1,257 @@
+[
+  {
+    "entidad": "Diabetes Mellitus",
+    "relacion": "asociada a",
+    "valor": "pancreatitis autoinmune"
+  },
+  {
+    "entidad": "pancreatitis autoinmune",
+    "relacion": "responde a",
+    "valor": "esteroides"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "ictericia obstructiva"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "diagnosticado con",
+    "valor": "diabetes mellitus tipo 2"
+  },
+  {
+    "entidad": "metformina",
+    "relacion": "indicado para",
+    "valor": "tratamiento de diabetes"
+  },
+  {
+    "entidad": "prednisona",
+    "relacion": "iniciada en",
+    "valor": "40 mg/día"
+  },
+  {
+    "entidad": "IgG4",
+    "relacion": "confirmado en",
+    "valor": "339 mg/dl"
+  },
+  {
+    "entidad": "terapia esteroidal",
+    "relacion": "mejora",
+    "valor": "control glicémico"
+  },
+  {
+    "entidad": "resonancia magnética",
+    "relacion": "muestra",
+    "valor": "signos de remisión"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "evoluciona a",
+    "valor": "asintomático"
+  },
+  {
+    "entidad": "metformina",
+    "relacion": "continuada en",
+    "valor": "850 mg c/12 h"
+  },
+  {
+    "entidad": "prednisona",
+    "relacion": "suspendida",
+    "valor": "3 meses antes"
+  },
+  {
+    "entidad": "diabetes mellitus",
+    "relacion": "debe sospechar",
+    "valor": "patología pancreática"
+  },
+  {
+    "entidad": "cáncer de páncreas",
+    "relacion": "es un",
+    "valor": "diagnóstico diferencial"
+  },
+  {
+    "entidad": "signo del halo invertido",
+    "relacion": "es un",
+    "valor": "hallazgo radiológico"
+  },
+  {
+    "entidad": "neumonía organizada criptogénica",
+    "relacion": "es un",
+    "valor": "tipo de neumonía"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "fiebre, tos, disnea"
+  },
+  {
+    "entidad": "tomografía computarizada",
+    "relacion": "muestra",
+    "valor": "opacidades en vidrio esmerilado"
+  },
+  {
+    "entidad": "neumonía organizada",
+    "relacion": "puede ser",
+    "valor": "criptogénica"
+  },
+  {
+    "entidad": "biopsia",
+    "relacion": "confirma",
+    "valor": "neumonía organizada"
+  },
+  {
+    "entidad": "sistema esteroidal",
+    "relacion": "se utiliza para",
+    "valor": "tratamiento de neumonía organizada"
+  },
+  {
+    "entidad": "respuesta clínica",
+    "relacion": "es buena tras",
+    "valor": "tratamiento con esteroides"
+  },
+  {
+    "entidad": "Hospital Militar de Santiago",
+    "relacion": "es un",
+    "valor": "centro médico"
+  },
+  {
+    "entidad": "Universidad de los Andes",
+    "relacion": "es un",
+    "valor": "institución educativa"
+  },
+  {
+    "entidad": "Universidad de Santiago",
+    "relacion": "es un",
+    "valor": "institución educativa"
+  },
+  {
+    "entidad": "Clínica Alemana de Santiago",
+    "relacion": "es un",
+    "valor": "centro médico"
+  },
+  {
+    "entidad": "fiebre",
+    "relacion": "es un",
+    "valor": "síntoma"
+  },
+  {
+    "entidad": "tos seca",
+    "relacion": "es un",
+    "valor": "síntoma"
+  },
+  {
+    "entidad": "disnea",
+    "relacion": "es un",
+    "valor": "síntoma"
+  },
+  {
+    "entidad": "opacidades pulmonares",
+    "relacion": "son observadas en",
+    "valor": "radiografías"
+  },
+  {
+    "entidad": "antibióticos",
+    "relacion": "no mejoran",
+    "valor": "síntomas del paciente"
+  },
+  {
+    "entidad": "sintomatología respiratoria",
+    "relacion": "se resuelve con",
+    "valor": "prednisona"
+  },
+  {
+    "entidad": "neumonía organizada",
+    "relacion": "se diagnostica tras",
+    "valor": "descartar otras etiologías"
+  },
+  {
+    "entidad": "Xantomatosis cerebrotendinosa",
+    "relacion": "es un",
+    "valor": "enfermedad autosómica recesiva"
+  },
+  {
+    "entidad": "CYP27A1",
+    "relacion": "codifica para",
+    "valor": "enzima esterol 27-hidroxilasa"
+  },
+  {
+    "entidad": "deficiencia de 27-sterol-hydroxylase",
+    "relacion": "causa",
+    "valor": "acumulación de colestanol en el sistema nervioso central"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "inestabilidad de la marcha y caídas frecuentes"
+  },
+  {
+    "entidad": "resonancia magnética",
+    "relacion": "muestra",
+    "valor": "aumento de la señal en sustancia blanca periventricular"
+  },
+  {
+    "entidad": "CXT",
+    "relacion": "puede comenzar",
+    "valor": "durante la infancia o adultez"
+  },
+  {
+    "entidad": "diarrea crónica",
+    "relacion": "es un",
+    "valor": "síntoma clave en el diagnóstico de CXT"
+  },
+  {
+    "entidad": "ácido quenodesoxicólico",
+    "relacion": "es un",
+    "valor": "tratamiento para CXT"
+  },
+  {
+    "entidad": "variante homocigota c.1183C>T",
+    "relacion": "es",
+    "valor": "una variante patogénica en el gen CYP27A1"
+  },
+  {
+    "entidad": "CXT",
+    "relacion": "se caracteriza por",
+    "valor": "diarrea y cataratas en la infancia"
+  },
+  {
+    "entidad": "xantomas tendíneos",
+    "relacion": "son",
+    "valor": "manifestaciones tardías de la enfermedad"
+  },
+  {
+    "entidad": "CXT",
+    "relacion": "asocia con",
+    "valor": "deterioro cognitivo y trastornos neurológicos"
+  },
+  {
+    "entidad": "estudio genético",
+    "relacion": "se realiza para",
+    "valor": "confirmar diagnóstico de CXT"
+  },
+  {
+    "entidad": "CXT",
+    "relacion": "puede causar",
+    "valor": "aterosclerosis prematura"
+  },
+  {
+    "entidad": "tratamiento precoz",
+    "relacion": "puede mejorar",
+    "valor": "resultado y calidad de vida"
+  },
+  {
+    "entidad": "electromiografía",
+    "relacion": "no revela",
+    "valor": "signos de denervación activa"
+  },
+  {
+    "entidad": "CXT",
+    "relacion": "presenta",
+    "valor": "variabilidad clínica en síntomas"
+  },
+  {
+    "entidad": "CXT",
+    "relacion": "se diagnostica mediante",
+    "valor": "identificación de variantes patogénicas en CYP27A1"
+  }
+]

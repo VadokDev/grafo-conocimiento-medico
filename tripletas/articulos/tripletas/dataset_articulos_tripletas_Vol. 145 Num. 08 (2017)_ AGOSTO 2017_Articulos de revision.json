@@ -1,0 +1,282 @@
+[
+  {
+    "entidad": "Adenovirus 36",
+    "relacion": "contribuye a",
+    "valor": "desarrollo de obesidad"
+  },
+  {
+    "entidad": "Adenovirus 36",
+    "relacion": "asociado con",
+    "valor": "índice de masa corporal (BMI)"
+  },
+  {
+    "entidad": "infecciones virales",
+    "relacion": "aumentan",
+    "valor": "riesgo de obesidad"
+  },
+  {
+    "entidad": "Adipocitos",
+    "relacion": "secretan",
+    "valor": "leptina"
+  },
+  {
+    "entidad": "leptina",
+    "relacion": "regula",
+    "valor": "ingesta de alimentos"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "produce",
+    "valor": "acumulación de tejido adiposo"
+  },
+  {
+    "entidad": "Adenovirus 36",
+    "relacion": "aumenta",
+    "valor": "adipogénesis"
+  },
+  {
+    "entidad": "Adenovirus 36",
+    "relacion": "disminuye",
+    "valor": "secreción de leptina"
+  },
+  {
+    "entidad": "Adenovirus 36",
+    "relacion": "aumenta",
+    "valor": "sensibilidad a la insulina"
+  },
+  {
+    "entidad": "Virus del distemper canino",
+    "relacion": "asociado con",
+    "valor": "obesidad"
+  },
+  {
+    "entidad": "Virus asociado a sarcoma de Rous tipo 7",
+    "relacion": "induce",
+    "valor": "obesidad en pollos"
+  },
+  {
+    "entidad": "Virus de la enfermedad de Borna",
+    "relacion": "produce",
+    "valor": "obesidad en ratas"
+  },
+  {
+    "entidad": "SMAM-1",
+    "relacion": "causa",
+    "valor": "acumulación de grasa visceral"
+  },
+  {
+    "entidad": "Adenovirus 36",
+    "relacion": "asociado con",
+    "valor": "aumento de peso corporal"
+  },
+  {
+    "entidad": "Adenovirus 36",
+    "relacion": "asociado con",
+    "valor": "disminución de lípidos"
+  },
+  {
+    "entidad": "Adenovirus 36",
+    "relacion": "induce",
+    "valor": "lipogénesis en células musculares"
+  },
+  {
+    "entidad": "Adenovirus 36",
+    "relacion": "afecta",
+    "valor": "metabolismo de la grasa"
+  },
+  {
+    "entidad": "Adenovirus 36",
+    "relacion": "aumenta",
+    "valor": "captación de glucosa por adipocitos"
+  },
+  {
+    "entidad": "Adenovirus 36",
+    "relacion": "suprime",
+    "valor": "expresión de leptina"
+  },
+  {
+    "entidad": "Adenovirus 36",
+    "relacion": "induce",
+    "valor": "diferenciación de preadipocitos"
+  },
+  {
+    "entidad": "Esquizofrenia",
+    "relacion": "afecta a",
+    "valor": "1% de la población mundial"
+  },
+  {
+    "entidad": "Esquizofrenia",
+    "relacion": "asociación con",
+    "valor": "enfermedades médicas crónicas"
+  },
+  {
+    "entidad": "Esquizofrenia",
+    "relacion": "reduce",
+    "valor": "expectativa de vida entre 11 y 20 años"
+  },
+  {
+    "entidad": "Esquizofrenia",
+    "relacion": "asociada a",
+    "valor": "enfermedades cardiovasculares"
+  },
+  {
+    "entidad": "Antipsicóticos",
+    "relacion": "asociados a",
+    "valor": "alteraciones cardiometabólicas"
+  },
+  {
+    "entidad": "Esquizofrenia",
+    "relacion": "presenta",
+    "valor": "alta prevalencia de riesgo de conductas como tabaquismo y mala alimentación"
+  },
+  {
+    "entidad": "Esquizofrenia",
+    "relacion": "asociada a",
+    "valor": "síndrome metabólico"
+  },
+  {
+    "entidad": "Esquizofrenia",
+    "relacion": "asociada a",
+    "valor": "diabetes mellitus tipo 2"
+  },
+  {
+    "entidad": "Esquizofrenia",
+    "relacion": "asociada a",
+    "valor": "enfermedad renal crónica"
+  },
+  {
+    "entidad": "Esquizofrenia",
+    "relacion": "asociada a",
+    "valor": "osteoporosis"
+  },
+  {
+    "entidad": "Esquizofrenia",
+    "relacion": "causa",
+    "valor": "disfunciones cognitivas"
+  },
+  {
+    "entidad": "Esquizofrenia",
+    "relacion": "requiere",
+    "valor": "enfoque multidisciplinario en su manejo"
+  },
+  {
+    "entidad": "Síndrome metabólico",
+    "relacion": "incluye",
+    "valor": "intolerancia a la glucosa, hipertensión arterial y dislipidemia"
+  },
+  {
+    "entidad": "Antipsicóticos atípicos",
+    "relacion": "inhiben",
+    "valor": "recaptación de glucosa"
+  },
+  {
+    "entidad": "Esquizofrenia",
+    "relacion": "aumenta",
+    "valor": "riesgo de muerte súbita"
+  },
+  {
+    "entidad": "Esquizofrenia",
+    "relacion": "asociada a",
+    "valor": "patrones electrocardiográficos anormales"
+  },
+  {
+    "entidad": "Osteoporosis",
+    "relacion": "caracterizada por",
+    "valor": "disminución de masa ósea"
+  },
+  {
+    "entidad": "Esquizofrenia",
+    "relacion": "presenta",
+    "valor": "mayor prevalencia de osteoporosis"
+  },
+  {
+    "entidad": "Enfermedad renal crónica",
+    "relacion": "aumenta en",
+    "valor": "pacientes con esquizofrenia"
+  },
+  {
+    "entidad": "Esquizofrenia",
+    "relacion": "requiere",
+    "valor": "tamizaje de enfermedades asociadas"
+  },
+  {
+    "entidad": "trauma maxilofacial",
+    "relacion": "es un",
+    "valor": "patología prevalente y compleja"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud",
+    "relacion": "define",
+    "valor": "trauma como daño intencional o no intencional"
+  },
+  {
+    "entidad": "traumatismo craneofacial (TCF)",
+    "relacion": "afecta a",
+    "valor": "complejo dentoalveolar, tejidos blandos y óseos craneofaciales"
+  },
+  {
+    "entidad": "etiología del TCF",
+    "relacion": "difiere entre",
+    "valor": "países por razones culturales, sociales y ambientales"
+  },
+  {
+    "entidad": "causas del TCF",
+    "relacion": "incluyen",
+    "valor": "caídas, accidentes de tránsito, accidentes deportivos y violencia interpersonal"
+  },
+  {
+    "entidad": "evaluación y manejo temprano",
+    "relacion": "es fundamental para",
+    "valor": "reducir la morbimortalidad"
+  },
+  {
+    "entidad": "mortalidad por trauma",
+    "relacion": "presenta",
+    "valor": "distribución trimodal"
+  },
+  {
+    "entidad": "Centro de Control y Prevención de Enfermedades de Estados Unidos",
+    "relacion": "ha establecido",
+    "valor": "guías para la realización del triage"
+  },
+  {
+    "entidad": "evaluación primaria",
+    "relacion": "tiene como objetivo",
+    "valor": "identificar lesiones y condiciones del paciente"
+  },
+  {
+    "entidad": "ABC",
+    "relacion": "son principios fundamentales del manejo del trauma",
+    "valor": "protección de la vía aérea, ventilación, circulación"
+  },
+  {
+    "entidad": "examen físico maxilofacial",
+    "relacion": "comienza con",
+    "valor": "inspección y evaluación de asimetrías"
+  },
+  {
+    "entidad": "evaluación neurológica",
+    "relacion": "debe incluir",
+    "valor": "evaluación de los nervios craneales"
+  },
+  {
+    "entidad": "tomografía computarizada",
+    "relacion": "es el estándar de calidad en",
+    "valor": "traumatismo encefalocraneano"
+  },
+  {
+    "entidad": "hemorragia",
+    "relacion": "representa",
+    "valor": "30-40% de la mortalidad en trauma"
+  },
+  {
+    "entidad": "evaluación oftalmológica",
+    "relacion": "debe incluir",
+    "valor": "examen de la córnea, conjuntiva y agudeza visual"
+  },
+  {
+    "entidad": "algoritmo para el manejo de urgencias",
+    "relacion": "es presentado para",
+    "valor": "cirugía maxilofacial por no especialistas"
+  }
+]

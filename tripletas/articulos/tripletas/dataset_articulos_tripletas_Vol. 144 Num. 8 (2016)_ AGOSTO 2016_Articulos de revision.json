@@ -1,0 +1,222 @@
+[
+  {
+    "entidad": "técnica aséptica",
+    "relacion": "reduce",
+    "valor": "riesgo de infección del sitio quirúrgico (SSI)"
+  },
+  {
+    "entidad": "infección del sitio quirúrgico (SSI)",
+    "relacion": "ocurre dentro de",
+    "valor": "30 días del procedimiento"
+  },
+  {
+    "entidad": "características de la herida quirúrgica",
+    "relacion": "afectan",
+    "valor": "riesgo de SSI"
+  },
+  {
+    "entidad": "características del paciente",
+    "relacion": "afectan",
+    "valor": "riesgo de SSI"
+  },
+  {
+    "entidad": "técnica quirúrgica",
+    "relacion": "afecta",
+    "valor": "riesgo de SSI"
+  },
+  {
+    "entidad": "lavado de manos",
+    "relacion": "es una medida",
+    "valor": "importante para disminuir infecciones"
+  },
+  {
+    "entidad": "antibióticos profilácticos",
+    "relacion": "se consideran",
+    "valor": "en procedimientos quirúrgicos"
+  },
+  {
+    "entidad": "flora normal",
+    "relacion": "es",
+    "valor": "reservorio de microorganismos"
+  },
+  {
+    "entidad": "Staphylococci coagulasa (-)",
+    "relacion": "forma parte de",
+    "valor": "flora residente"
+  },
+  {
+    "entidad": "S. aureus",
+    "relacion": "es el agente",
+    "valor": "más frecuente de SSI"
+  },
+  {
+    "entidad": "procedimientos quirúrgicos",
+    "relacion": "pueden ser",
+    "valor": "limpios, contaminados o sucios"
+  },
+  {
+    "entidad": "antisépticos",
+    "relacion": "son",
+    "valor": "agentes químicos que eliminan microorganismos"
+  },
+  {
+    "entidad": "povidona yodada",
+    "relacion": "es un",
+    "valor": "antiséptico de amplio espectro"
+  },
+  {
+    "entidad": "clorhexidina",
+    "relacion": "es un",
+    "valor": "antiséptico de amplio espectro"
+  },
+  {
+    "entidad": "antibióticos",
+    "relacion": "pueden ser utilizados",
+    "valor": "en profilaxis o tratamiento"
+  },
+  {
+    "entidad": "profilaxis antibiótica",
+    "relacion": "se recomienda",
+    "valor": "en pacientes inmunocomprometidos"
+  },
+  {
+    "entidad": "cirugía dermatológica",
+    "relacion": "no requiere",
+    "valor": "profilaxis antibiótica de rutina"
+  },
+  {
+    "entidad": "riesgo de infección",
+    "relacion": "es mayor",
+    "valor": "en procedimientos que involucran mucosa"
+  },
+  {
+    "entidad": "antibióticos intraincisión",
+    "relacion": "han mostrado",
+    "valor": "menos tasas de infección"
+  },
+  {
+    "entidad": "cefalosporina de primera generación",
+    "relacion": "es de elección",
+    "valor": "en profilaxis antibiótica"
+  },
+  {
+    "entidad": "S. viridans",
+    "relacion": "puede causar",
+    "valor": "endocarditis infecciosa"
+  },
+  {
+    "entidad": "pacientes portadores nasales de S. aureus",
+    "relacion": "tienen",
+    "valor": "mayor riesgo de SSI"
+  },
+  {
+    "entidad": "dieta mediterránea",
+    "relacion": "es considerada",
+    "valor": "una dieta funcional"
+  },
+  {
+    "entidad": "dieta mediterránea",
+    "relacion": "tiene efectos beneficiosos en",
+    "valor": "la salud humana"
+  },
+  {
+    "entidad": "dieta mediterránea",
+    "relacion": "se asocia con",
+    "valor": "menor prevalencia de enfermedades crónicas"
+  },
+  {
+    "entidad": "enfermedades crónicas",
+    "relacion": "incluyen",
+    "valor": "enfermedad cardiovascular, cáncer, síndrome metabólico, diabetes, enfermedades neurodegenerativas"
+  },
+  {
+    "entidad": "PREDIMED",
+    "relacion": "es",
+    "valor": "una iniciativa de intervención clínica"
+  },
+  {
+    "entidad": "PREDIMED",
+    "relacion": "demostró que",
+    "valor": "la dieta mediterránea puede reducir la incidencia de enfermedad cardiovascular"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "tiene",
+    "valor": "uno de los cinco ecosistemas mediterráneos del mundo"
+  },
+  {
+    "entidad": "dieta mediterránea",
+    "relacion": "puede determinar",
+    "valor": "grandes beneficios en la salud de la población chilena"
+  },
+  {
+    "entidad": "estilo de vida",
+    "relacion": "es un factor",
+    "valor": "fundamental en la prevención de patologías crónicas"
+  },
+  {
+    "entidad": "dieta mediterránea",
+    "relacion": "se asocia con",
+    "valor": "menor mortalidad total"
+  },
+  {
+    "entidad": "síndrome metabólico",
+    "relacion": "aumenta el riesgo de",
+    "valor": "enfermedad cardiovascular y diabetes"
+  },
+  {
+    "entidad": "dieta mediterránea",
+    "relacion": "se asocia con",
+    "valor": "menor riesgo de síndrome metabólico"
+  },
+  {
+    "entidad": "dieta mediterránea",
+    "relacion": "mejora",
+    "valor": "factores de riesgo cardiovascular"
+  },
+  {
+    "entidad": "dieta mediterránea",
+    "relacion": "se asocia con",
+    "valor": "menor incidencia de diabetes"
+  },
+  {
+    "entidad": "dieta mediterránea",
+    "relacion": "se asocia con",
+    "valor": "mejor control metabólico en diabéticos"
+  },
+  {
+    "entidad": "dieta mediterránea",
+    "relacion": "se asocia con",
+    "valor": "menor mortalidad en diabéticos"
+  },
+  {
+    "entidad": "dieta mediterránea",
+    "relacion": "se asocia con",
+    "valor": "beneficios en el control del hígado graso"
+  },
+  {
+    "entidad": "dieta mediterránea",
+    "relacion": "se correlaciona con",
+    "valor": "menor incidencia y mortalidad por cáncer"
+  },
+  {
+    "entidad": "dieta mediterránea",
+    "relacion": "se asocia con",
+    "valor": "menor riesgo de enfermedades neurodegenerativas"
+  },
+  {
+    "entidad": "dieta mediterránea",
+    "relacion": "se asocia con",
+    "valor": "menor mortalidad por cualquier causa"
+  },
+  {
+    "entidad": "dieta mediterránea",
+    "relacion": "es una herramienta",
+    "valor": "para implementar en políticas de salud pública"
+  },
+  {
+    "entidad": "dieta mediterránea",
+    "relacion": "ofrece",
+    "valor": "oportunidades para el manejo de enfermedades crónicas"
+  }
+]

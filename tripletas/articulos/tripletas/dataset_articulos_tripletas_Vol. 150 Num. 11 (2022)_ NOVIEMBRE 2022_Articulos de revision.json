@@ -1,0 +1,87 @@
+[
+  {
+    "entidad": "Terapia electroconvulsiva (TEC)",
+    "relacion": "es un",
+    "valor": "tratamiento en psiquiatría"
+  },
+  {
+    "entidad": "esquizofrenia",
+    "relacion": "es una",
+    "valor": "enfermedad mental"
+  },
+  {
+    "entidad": "mecanismos de acción (MA)",
+    "relacion": "son",
+    "valor": "poco comprendidos en TEC"
+  },
+  {
+    "entidad": "ECT",
+    "relacion": "aumenta",
+    "valor": "el factor neurotrófico derivado del cerebro (BDNF)"
+  },
+  {
+    "entidad": "ECT",
+    "relacion": "mejora",
+    "valor": "parámetros inflamatorios y oxidativos"
+  },
+  {
+    "entidad": "ECT",
+    "relacion": "asocia con",
+    "valor": "aumento de conectividad funcional en el tálamo"
+  },
+  {
+    "entidad": "conectividad funcional",
+    "relacion": "se reduce entre",
+    "valor": "tálamo y corteza sensorial"
+  },
+  {
+    "entidad": "volumen hipocampal",
+    "relacion": "aumenta tras",
+    "valor": "la terapia electroconvulsiva"
+  },
+  {
+    "entidad": "N-acetilaspartato",
+    "relacion": "es un",
+    "valor": "marcador de integridad neuronal"
+  },
+  {
+    "entidad": "interleuquina-4",
+    "relacion": "aumenta tras",
+    "valor": "la terapia electroconvulsiva"
+  },
+  {
+    "entidad": "circuitos neuronales",
+    "relacion": "se alteran en",
+    "valor": "esquizofrenia"
+  },
+  {
+    "entidad": "sustancia gris",
+    "relacion": "aumenta en",
+    "valor": "diversas regiones cerebrales tras TEC"
+  },
+  {
+    "entidad": "Instituto Nacional de Salud Mental de EE.UU.",
+    "relacion": "propone",
+    "valor": "la iniciativa Research Domain Criteria (RDoC)"
+  },
+  {
+    "entidad": "TEC",
+    "relacion": "debería ser investigada desde",
+    "valor": "dimensiones neurobiológicas y clínicas"
+  },
+  {
+    "entidad": "esquizofrenia",
+    "relacion": "podría ser resultado de",
+    "valor": "alteraciones en conectividad neuronal"
+  },
+  {
+    "entidad": "métodos de detección de radioligandos",
+    "relacion": "son limitados por",
+    "valor": "falta de especificidad"
+  },
+  {
+    "entidad": "BDNF",
+    "relacion": "se plantea como",
+    "valor": "marcador de progresión en esquizofrenia"
+  }
+]

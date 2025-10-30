@@ -1,0 +1,197 @@
+[
+  {
+    "entidad": "Nutrición perioperatoria",
+    "relacion": "se utiliza en",
+    "valor": "protocolos quirúrgicos"
+  },
+  {
+    "entidad": "Protocolos ERAS",
+    "relacion": "incluye",
+    "valor": "intervenciones anestésicas, quirúrgicas, kinésicas, nutricionales y de enfermería"
+  },
+  {
+    "entidad": "respuesta metabólica al estrés",
+    "relacion": "se caracteriza por",
+    "valor": "resistencia a la insulina postoperatoria"
+  },
+  {
+    "entidad": "resistencia a la insulina postoperatoria",
+    "relacion": "es un marcador de",
+    "valor": "estrés quirúrgico"
+  },
+  {
+    "entidad": "ayuno preoperatorio prolongado",
+    "relacion": "afecta a",
+    "valor": "resistencia a la insulina postoperatoria"
+  },
+  {
+    "entidad": "carga de hidratos de carbono",
+    "relacion": "se recomienda en",
+    "valor": "pacientes antes de cirugía"
+  },
+  {
+    "entidad": "realimentación postoperatoria precoz",
+    "relacion": "reduce",
+    "valor": "complicaciones postoperatorias"
+  },
+  {
+    "entidad": "Protocolo ERAS",
+    "relacion": "promueve",
+    "valor": "recuperación postoperatoria"
+  },
+  {
+    "entidad": "Grupo de Estudio ERAS",
+    "relacion": "se convirtió en",
+    "valor": "Sociedad ERAS"
+  },
+  {
+    "entidad": "intervenciones nutricionales",
+    "relacion": "son",
+    "valor": "piedras angulares del Protocolo ERAS"
+  },
+  {
+    "entidad": "realimentación precoz",
+    "relacion": "mantiene",
+    "valor": "trofismo intestinal"
+  },
+  {
+    "entidad": "realimentación precoz",
+    "relacion": "incrementa",
+    "valor": "contenido de colágeno"
+  },
+  {
+    "entidad": "realimentación precoz",
+    "relacion": "disminuye",
+    "valor": "mortalidad postoperatoria"
+  },
+  {
+    "entidad": "Protocolo ERAS",
+    "relacion": "se aplica en",
+    "valor": "cirugía colorrectal"
+  },
+  {
+    "entidad": "Hospital Clínico de la Universidad de Chile",
+    "relacion": "aplica",
+    "valor": "Protocolo ERAS"
+  },
+  {
+    "entidad": "intervenciones nutricionales",
+    "relacion": "previenen",
+    "valor": "ayuno preoperatorio prolongado"
+  },
+  {
+    "entidad": "carga de hidratos de carbono",
+    "relacion": "es segura para",
+    "valor": "pacientes diabéticos tipo 2 bien controlados"
+  },
+  {
+    "entidad": "Protocolo ERAS",
+    "relacion": "reduce",
+    "valor": "estadía hospitalaria"
+  },
+  {
+    "entidad": "Protocolo ERAS",
+    "relacion": "optimiza",
+    "valor": "uso de recursos económicos"
+  },
+  {
+    "entidad": "paciente anciano",
+    "relacion": "presenta",
+    "valor": "fractura osteoporótica de cadera"
+  },
+  {
+    "entidad": "fractura osteoporótica de cadera",
+    "relacion": "es",
+    "valor": "la fractura más relevante"
+  },
+  {
+    "entidad": "pacientes mayores de 65 años",
+    "relacion": "tienen",
+    "valor": "múltiples condiciones crónicas"
+  },
+  {
+    "entidad": "fractura de cadera",
+    "relacion": "conlleva",
+    "valor": "gran morbimortalidad"
+  },
+  {
+    "entidad": "manejo multidisciplinario",
+    "relacion": "es",
+    "valor": "importante para resultados terapéuticos"
+  },
+  {
+    "entidad": "manejo ortogeriátrico conjunto",
+    "relacion": "debe ser",
+    "valor": "incorporado en tratamiento de fracturas por fragilidad"
+  },
+  {
+    "entidad": "modelo tradicional",
+    "relacion": "carece de",
+    "valor": "coordinación y objetivos comunes"
+  },
+  {
+    "entidad": "modelo de manejo conjunto",
+    "relacion": "implica",
+    "valor": "cuidado interdisciplinario"
+  },
+  {
+    "entidad": "evaluación diaria del paciente",
+    "relacion": "es parte de",
+    "valor": "modelo de manejo conjunto"
+  },
+  {
+    "entidad": "cirugía precoz",
+    "relacion": "mejora",
+    "valor": "resultados postoperatorios"
+  },
+  {
+    "entidad": "hidratación adecuada",
+    "relacion": "conlleva",
+    "valor": "mejores tasas de sobrevida"
+  },
+  {
+    "entidad": "evaluación preoperatoria",
+    "relacion": "tiene como objetivo",
+    "valor": "estratificar al paciente"
+  },
+  {
+    "entidad": "cirugía precoz",
+    "relacion": "disminuye",
+    "valor": "dolor y complicaciones"
+  },
+  {
+    "entidad": "delirium",
+    "relacion": "es una complicación",
+    "valor": "frecuente en pacientes con fracturas de cadera"
+  },
+  {
+    "entidad": "nutrición adecuada",
+    "relacion": "aumenta",
+    "valor": "probabilidades de recuperación"
+  },
+  {
+    "entidad": "malnutrición",
+    "relacion": "es común en",
+    "valor": "pacientes con fractura de cadera"
+  },
+  {
+    "entidad": "rehabilitación",
+    "relacion": "debe iniciarse",
+    "valor": "inmediatamente después de la cirugía"
+  },
+  {
+    "entidad": "calcio y vitamina D",
+    "relacion": "mejoran",
+    "valor": "densidad mineral ósea"
+  },
+  {
+    "entidad": "bisfosfonatos",
+    "relacion": "reducen",
+    "valor": "riesgo de fracturas"
+  },
+  {
+    "entidad": "American Heart Association (AHA)",
+    "relacion": "señala",
+    "valor": "contraindicaciones para cirugía de fractura de cadera"
+  }
+]

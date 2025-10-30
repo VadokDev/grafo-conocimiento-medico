@@ -1,0 +1,172 @@
+[
+  {
+    "entidad": "demencia severa",
+    "relacion": "es un",
+    "valor": "trastorno neuropsiquiátrico"
+  },
+  {
+    "entidad": "cuidados paliativos",
+    "relacion": "deben aplicarse",
+    "valor": "desde las primeras etapas de la enfermedad"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud",
+    "relacion": "recomienda",
+    "valor": "cuidados paliativos para demencias"
+  },
+  {
+    "entidad": "cuidados paliativos",
+    "relacion": "deben diferenciarse",
+    "valor": "cuidados durante el curso de la enfermedad y cuidados de fin de vida"
+  },
+  {
+    "entidad": "pacientes con demencia",
+    "relacion": "enfrentan",
+    "valor": "necesidades no cubiertas en etapas finales"
+  },
+  {
+    "entidad": "intervenciones fútiles",
+    "relacion": "son comunes en",
+    "valor": "etapas finales de demencias"
+  },
+  {
+    "entidad": "alimentación artificial",
+    "relacion": "es una técnica",
+    "valor": "para nutrir pacientes que no pueden alimentarse"
+  },
+  {
+    "entidad": "técnicas de nutrición artificial",
+    "relacion": "se utilizan en",
+    "valor": "pacientes con demencias en etapa terminal"
+  },
+  {
+    "entidad": "tubos de alimentación",
+    "relacion": "no prolongan",
+    "valor": "la vida de pacientes con demencia"
+  },
+  {
+    "entidad": "hospitalización por neumonía",
+    "relacion": "se asocia a",
+    "valor": "mayor gasto de salud y decrecimiento de calidad de sobrevida"
+  },
+  {
+    "entidad": "hidratación",
+    "relacion": "debe ser priorizada",
+    "valor": "por vía oral en etapas finales"
+  },
+  {
+    "entidad": "familias y equipos de salud",
+    "relacion": "deben recibir",
+    "valor": "educación sobre el fin de vida"
+  },
+  {
+    "entidad": "Ley Nº 20.584",
+    "relacion": "regula",
+    "valor": "derechos y deberes en relación a la salud"
+  },
+  {
+    "entidad": "cuidados paliativos",
+    "relacion": "son necesarios",
+    "valor": "en la fase terminal de demencias"
+  },
+  {
+    "entidad": "entorno próximo del paciente",
+    "relacion": "requiere",
+    "valor": "apoyo y acompañamiento especial"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "debe ser mejorada",
+    "valor": "en pacientes con demencia severa"
+  },
+  {
+    "entidad": "Estado Epiléptico Convulsivo Pediátrico",
+    "relacion": "es",
+    "valor": "una emergencia médica"
+  },
+  {
+    "entidad": "Estado Epiléptico Convulsivo Pediátrico",
+    "relacion": "requiere",
+    "valor": "manejo precoz y agresivo"
+  },
+  {
+    "entidad": "Liga Internacional contra la Epilepsia (ILAE)",
+    "relacion": "define",
+    "valor": "estado epiléptico"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud (OMS)",
+    "relacion": "define",
+    "valor": "estado epiléptico"
+  },
+  {
+    "entidad": "Estado Epiléptico Refractario",
+    "relacion": "requiere",
+    "valor": "manejo anestésico"
+  },
+  {
+    "entidad": "Estado Epiléptico Super-Refractario",
+    "relacion": "se caracteriza por",
+    "valor": "falta de respuesta a manejo anestésico"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "es",
+    "valor": "alta en estado epiléptico"
+  },
+  {
+    "entidad": "fármacos antiepilépticos",
+    "relacion": "se utilizan para",
+    "valor": "controlar crisis"
+  },
+  {
+    "entidad": "ketogénica",
+    "relacion": "es un tipo de",
+    "valor": "dieta utilizada en tratamiento"
+  },
+  {
+    "entidad": "inmunoterapia",
+    "relacion": "se describe como",
+    "valor": "una alternativa de tratamiento"
+  },
+  {
+    "entidad": "hipotermia",
+    "relacion": "se utiliza en",
+    "valor": "estado epiléptico super-refractario"
+  },
+  {
+    "entidad": "neurocirugía",
+    "relacion": "puede incluir",
+    "valor": "resección de la lesión epileptogénica"
+  },
+  {
+    "entidad": "Estado Epiléptico Convulsivo",
+    "relacion": "se asocia con",
+    "valor": "daño neurológico"
+  },
+  {
+    "entidad": "Estado Epiléptico Convulsivo",
+    "relacion": "puede resultar en",
+    "valor": "discapacidad cognitiva"
+  },
+  {
+    "entidad": "Estado Epiléptico Convulsivo",
+    "relacion": "puede resultar en",
+    "valor": "epilepsia"
+  },
+  {
+    "entidad": "Dra. Carmen Paz Vargas Leal",
+    "relacion": "es",
+    "valor": "autora del artículo"
+  },
+  {
+    "entidad": "Hospital Dr. Roberto del Río",
+    "relacion": "es",
+    "valor": "institución asociada al estudio"
+  },
+  {
+    "entidad": "Universidad de Chile",
+    "relacion": "es",
+    "valor": "institución asociada al estudio"
+  }
+]

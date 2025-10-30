@@ -1,0 +1,792 @@
+[
+  {
+    "entidad": "Atención Primaria de Salud Municipal",
+    "relacion": "tiene",
+    "valor": "desigualdad en recursos financieros"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "evalúa",
+    "valor": "desigualdad en recursos financieros de APS"
+  },
+  {
+    "entidad": "Gini",
+    "relacion": "mide",
+    "valor": "desigualdad en ingresos y gastos"
+  },
+  {
+    "entidad": "pobreza",
+    "relacion": "afecta",
+    "valor": "gasto per cápita en salud"
+  },
+  {
+    "entidad": "dependencia del Fondo Común Municipal",
+    "relacion": "afecta",
+    "valor": "gasto per cápita en salud"
+  },
+  {
+    "entidad": "escolaridad",
+    "relacion": "afecta",
+    "valor": "tasa de años de vida potencialmente perdidos"
+  },
+  {
+    "entidad": "tasa de mortalidad infantil",
+    "relacion": "asocia",
+    "valor": "gasto en salud municipal per cápita"
+  },
+  {
+    "entidad": "municipios",
+    "relacion": "administran",
+    "valor": "Atención Primaria de Salud"
+  },
+  {
+    "entidad": "Sistema Nacional de Información Municipal (SINIM)",
+    "relacion": "proporciona",
+    "valor": "datos sobre recursos de salud"
+  },
+  {
+    "entidad": "Organización para la Cooperación Económica y el Desarrollo (OECD)",
+    "relacion": "informa sobre",
+    "valor": "desigualdad de ingresos en Chile"
+  },
+  {
+    "entidad": "recursos financieros",
+    "relacion": "determinan",
+    "valor": "acceso a atención sanitaria"
+  },
+  {
+    "entidad": "inversión en salud",
+    "relacion": "afecta",
+    "valor": "resultados en salud"
+  },
+  {
+    "entidad": "cobertura de APS",
+    "relacion": "asocia",
+    "valor": "gasto en salud municipal"
+  },
+  {
+    "entidad": "tasa de profesionales sanitarios",
+    "relacion": "afecta",
+    "valor": "gasto por inscrito en APS"
+  },
+  {
+    "entidad": "tasa de centros de APS",
+    "relacion": "afecta",
+    "valor": "gasto por inscrito en APS"
+  },
+  {
+    "entidad": "gasto en personal",
+    "relacion": "afecta",
+    "valor": "gasto en salud municipal"
+  },
+  {
+    "entidad": "disponibilidad de SAPU",
+    "relacion": "afecta",
+    "valor": "acceso a atención primaria"
+  },
+  {
+    "entidad": "desigualdad en salud",
+    "relacion": "es",
+    "valor": "diferencias innecesarias y evitables"
+  },
+  {
+    "entidad": "comunas vulnerables",
+    "relacion": "tienen",
+    "valor": "menor acceso a atención sanitaria"
+  },
+  {
+    "entidad": "gasto por inscrito",
+    "relacion": "asocia",
+    "valor": "menores tasas de mortalidad infantil"
+  },
+  {
+    "entidad": "reserva ovárica",
+    "relacion": "es determinada por",
+    "valor": "número de folículos primordiales"
+  },
+  {
+    "entidad": "envejecimiento del ovario",
+    "relacion": "afecta a",
+    "valor": "fertilidad"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "juega un papel en",
+    "valor": "calidad y cantidad de ovocitos"
+  },
+  {
+    "entidad": "recuento de folículos antrales (AFC)",
+    "relacion": "es evaluado mediante",
+    "valor": "ultrasonido transvaginal"
+  },
+  {
+    "entidad": "mujeres en edad reproductiva",
+    "relacion": "son objeto de estudio en",
+    "valor": "evaluación de la reserva ovárica"
+  },
+  {
+    "entidad": "hipertensión",
+    "relacion": "se relaciona con",
+    "valor": "menor recuento de folículos antrales"
+  },
+  {
+    "entidad": "diabetes mellitus tipo 2",
+    "relacion": "se relaciona con",
+    "valor": "menor recuento de folículos antrales"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "es un predictor significativo de",
+    "valor": "recuento de folículos antrales"
+  },
+  {
+    "entidad": "recuento de folículos antrales",
+    "relacion": "declina con",
+    "valor": "edad"
+  },
+  {
+    "entidad": "mujeres con fertilidad probada",
+    "relacion": "son evaluadas para",
+    "valor": "recuento de folículos antrales"
+  },
+  {
+    "entidad": "método de CG-LMS",
+    "relacion": "es utilizado para",
+    "valor": "fabricar un nomograma de recuento de folículos antrales"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "no muestra diferencias en",
+    "valor": "recuento de folículos antrales"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "es prospectivo",
+    "valor": "diseño del estudio"
+  },
+  {
+    "entidad": "nomograma de RFA",
+    "relacion": "permite entregar",
+    "valor": "información sobre la reserva ovárica esperable"
+  },
+  {
+    "entidad": "mujeres con RFA bajo percentil 50",
+    "relacion": "pueden requerir",
+    "valor": "consejería o técnicas de reproducción asistida"
+  },
+  {
+    "entidad": "Escala Numérica para Evaluar Síntomas Espirituales (ENESE)",
+    "relacion": "evalúa",
+    "valor": "síntomas espirituales en cuidados paliativos"
+  },
+  {
+    "entidad": "síntomas espirituales",
+    "relacion": "incluye",
+    "valor": "dolor espiritual"
+  },
+  {
+    "entidad": "síntomas espirituales",
+    "relacion": "incluye",
+    "valor": "auto-castigo"
+  },
+  {
+    "entidad": "síntomas espirituales",
+    "relacion": "incluye",
+    "valor": "búsqueda espiritual proyectada"
+  },
+  {
+    "entidad": "síntomas espirituales",
+    "relacion": "incluye",
+    "valor": "angustia espiritual"
+  },
+  {
+    "entidad": "síntomas espirituales",
+    "relacion": "incluye",
+    "valor": "incredulidad"
+  },
+  {
+    "entidad": "síntomas espirituales",
+    "relacion": "incluye",
+    "valor": "desesperanza"
+  },
+  {
+    "entidad": "síntomas espirituales",
+    "relacion": "incluye",
+    "valor": "desamor"
+  },
+  {
+    "entidad": "Organización Mundial de Salud (OMS)",
+    "relacion": "define",
+    "valor": "cuidados paliativos como atención integral"
+  },
+  {
+    "entidad": "Dra. Cristina Puchalski",
+    "relacion": "investiga",
+    "valor": "espiritualidad en cuidados paliativos"
+  },
+  {
+    "entidad": "George Washington University’s Institute for Spirituality and Health (GWish)",
+    "relacion": "desarrolla",
+    "valor": "estrategias docentes para el cuidado total"
+  },
+  {
+    "entidad": "Ley 20.584",
+    "relacion": "regula",
+    "valor": "derechos y deberes en atención de salud en Chile"
+  },
+  {
+    "entidad": "ENESE",
+    "relacion": "aplicado por",
+    "valor": "enfermeras de cuidados paliativos"
+  },
+  {
+    "entidad": "ENESE",
+    "relacion": "valida",
+    "valor": "la presencia e intensidad de síntomas espirituales"
+  },
+  {
+    "entidad": "pacientes en cuidados paliativos",
+    "relacion": "necesitan",
+    "valor": "explorar y encontrar significado a su enfermedad"
+  },
+  {
+    "entidad": "bienestar espiritual",
+    "relacion": "correlaciona",
+    "valor": "con menor frecuencia de depresión clínica"
+  },
+  {
+    "entidad": "síntomas espirituales",
+    "relacion": "pueden ser",
+    "valor": "cuantificados de manera confiable"
+  },
+  {
+    "entidad": "ENESE",
+    "relacion": "disponible en",
+    "valor": "español"
+  },
+  {
+    "entidad": "ENESE",
+    "relacion": "validado en",
+    "valor": "Chile"
+  },
+  {
+    "entidad": "síntomas espirituales",
+    "relacion": "pueden contribuir a",
+    "valor": "mejor atención en cuidados paliativos"
+  },
+  {
+    "entidad": "neumonía adquirida en la comunidad",
+    "relacion": "causa",
+    "valor": "morbilidad y mortalidad significativa en adultos"
+  },
+  {
+    "entidad": "PSI",
+    "relacion": "evalúa",
+    "valor": "gravedad de la neumonía"
+  },
+  {
+    "entidad": "CURB-65",
+    "relacion": "evalúa",
+    "valor": "gravedad de la neumonía"
+  },
+  {
+    "entidad": "SMART-COP",
+    "relacion": "evalúa",
+    "valor": "gravedad de la neumonía"
+  },
+  {
+    "entidad": "SCAP",
+    "relacion": "evalúa",
+    "valor": "gravedad de la neumonía"
+  },
+  {
+    "entidad": "PSI",
+    "relacion": "predice",
+    "valor": "admisión a UCI"
+  },
+  {
+    "entidad": "CURB-65",
+    "relacion": "predice",
+    "valor": "admisión a UCI"
+  },
+  {
+    "entidad": "SMART-COP",
+    "relacion": "predice",
+    "valor": "admisión a UCI"
+  },
+  {
+    "entidad": "SCAP",
+    "relacion": "predice",
+    "valor": "admisión a UCI"
+  },
+  {
+    "entidad": "PSI",
+    "relacion": "predice",
+    "valor": "necesidad de ventilación mecánica"
+  },
+  {
+    "entidad": "SMART-COP",
+    "relacion": "predice",
+    "valor": "necesidad de ventilación mecánica"
+  },
+  {
+    "entidad": "SCAP",
+    "relacion": "predice",
+    "valor": "necesidad de ventilación mecánica"
+  },
+  {
+    "entidad": "PSI",
+    "relacion": "predice",
+    "valor": "mortalidad a 30 días"
+  },
+  {
+    "entidad": "SCAP",
+    "relacion": "predice",
+    "valor": "mortalidad a 30 días"
+  },
+  {
+    "entidad": "SMART-COP",
+    "relacion": "predice",
+    "valor": "mortalidad a 30 días"
+  },
+  {
+    "entidad": "adultos inmunocompetentes",
+    "relacion": "hospitalizados por",
+    "valor": "neumonía adquirida en la comunidad"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "realiza",
+    "valor": "estudio sobre neumonía"
+  },
+  {
+    "entidad": "comorbilidades",
+    "relacion": "aumentan",
+    "valor": "riesgo de complicaciones y muerte"
+  },
+  {
+    "entidad": "hospitalización",
+    "relacion": "requerida por",
+    "valor": "20-40% de los pacientes con neumonía"
+  },
+  {
+    "entidad": "guías clínicas",
+    "relacion": "recomiendan",
+    "valor": "evaluar gravedad de neumonía"
+  },
+  {
+    "entidad": "evaluación de gravedad",
+    "relacion": "permite",
+    "valor": "decidir lugar de manejo"
+  },
+  {
+    "entidad": "índices pronósticos",
+    "relacion": "diseñados para",
+    "valor": "evaluar riesgo de muerte"
+  },
+  {
+    "entidad": "PSI y SCAP",
+    "relacion": "son más precisos que",
+    "valor": "CURB-65 y CRB-65"
+  },
+  {
+    "entidad": "categorías de alto riesgo",
+    "relacion": "asociadas a",
+    "valor": "estadías prolongadas en el hospital"
+  },
+  {
+    "entidad": "Bivalirudina",
+    "relacion": "es un",
+    "valor": "anticoagulante"
+  },
+  {
+    "entidad": "Soporte Vital Extracorpóreo (ECMO)",
+    "relacion": "es utilizado en",
+    "valor": "pacientes con falla respiratoria y cardíaca"
+  },
+  {
+    "entidad": "Heparina no fraccionada (HNF)",
+    "relacion": "es un",
+    "valor": "anticoagulante comúnmente utilizado"
+  },
+  {
+    "entidad": "Bivalirudina",
+    "relacion": "se utiliza como",
+    "valor": "alternativa a HNF"
+  },
+  {
+    "entidad": "Trombocitopenia inducida por heparina (HIT)",
+    "relacion": "es una",
+    "valor": "causa para cambiar a bivalirudina"
+  },
+  {
+    "entidad": "Antitrombina III (ATIII)",
+    "relacion": "es un",
+    "valor": "factor que afecta la eficacia de HNF"
+  },
+  {
+    "entidad": "Bivalirudina",
+    "relacion": "inhibe",
+    "valor": "la trombina"
+  },
+  {
+    "entidad": "Bivalirudina",
+    "relacion": "no requiere",
+    "valor": "antitrombina III para su activación"
+  },
+  {
+    "entidad": "Bivalirudina",
+    "relacion": "se asocia con",
+    "valor": "aumento de niveles de PTT"
+  },
+  {
+    "entidad": "Bivalirudina",
+    "relacion": "se asocia con",
+    "valor": "aumento de recuento plaquetario en pacientes con HIT"
+  },
+  {
+    "entidad": "Bivalirudina",
+    "relacion": "es considerada",
+    "valor": "una opción segura y eficiente en ECMO"
+  },
+  {
+    "entidad": "ECMO",
+    "relacion": "requiere",
+    "valor": "anticoagulación efectiva"
+  },
+  {
+    "entidad": "Bivalirudina",
+    "relacion": "se utiliza en",
+    "valor": "pacientes con resistencia a HNF"
+  },
+  {
+    "entidad": "Bivalirudina",
+    "relacion": "se utiliza en",
+    "valor": "pacientes con dificultad para anticoagular"
+  },
+  {
+    "entidad": "Bivalirudina",
+    "relacion": "tiene un costo",
+    "valor": "mayor que HNF"
+  },
+  {
+    "entidad": "Bivalirudina",
+    "relacion": "tiene una vida media",
+    "valor": "aproximadamente 25 minutos"
+  },
+  {
+    "entidad": "Bivalirudina",
+    "relacion": "es metabolizada principalmente por",
+    "valor": "proteólisis plasmática"
+  },
+  {
+    "entidad": "Bivalirudina",
+    "relacion": "es una alternativa para",
+    "valor": "pacientes en ECMO que no pueden usar HNF"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "tiene",
+    "valor": "una alta tasa de obesidad en América Latina"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud 2009-2010",
+    "relacion": "evidencia",
+    "valor": "prevalencia de obesidad del 28% en mayores de 18 años"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "es un",
+    "valor": "factor de riesgo de morbilidad y mortalidad"
+  },
+  {
+    "entidad": "factores de riesgo",
+    "relacion": "incluyen",
+    "valor": "variables socioeconómicas, dieta, actividad física, comorbilidades y bienestar general"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "aumenta el riesgo de",
+    "valor": "obesidad"
+  },
+  {
+    "entidad": "consumo alto de sal",
+    "relacion": "aumenta el riesgo de",
+    "valor": "obesidad"
+  },
+  {
+    "entidad": "consumo alto de alcohol",
+    "relacion": "aumenta el riesgo de",
+    "valor": "obesidad"
+  },
+  {
+    "entidad": "educación",
+    "relacion": "es un factor protector para",
+    "valor": "mujeres"
+  },
+  {
+    "entidad": "ingreso",
+    "relacion": "es un factor protector para",
+    "valor": "mujeres"
+  },
+  {
+    "entidad": "vivir en zonas rurales",
+    "relacion": "es un factor protector para",
+    "valor": "mujeres"
+  },
+  {
+    "entidad": "sedentarismo",
+    "relacion": "es un factor de riesgo para",
+    "valor": "hombres"
+  },
+  {
+    "entidad": "falta de actividad física",
+    "relacion": "es un factor de riesgo para",
+    "valor": "hombres"
+  },
+  {
+    "entidad": "dormir menos de 7 horas",
+    "relacion": "aumenta el riesgo de",
+    "valor": "obesidad en mujeres"
+  },
+  {
+    "entidad": "mal estado de salud",
+    "relacion": "aumenta el riesgo de",
+    "valor": "obesidad en mujeres"
+  },
+  {
+    "entidad": "diabetes mellitus tipo 2",
+    "relacion": "se relaciona con",
+    "valor": "obesidad"
+  },
+  {
+    "entidad": "hipertensión arterial",
+    "relacion": "se relaciona con",
+    "valor": "obesidad"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "se relaciona con",
+    "valor": "síndrome metabólico"
+  },
+  {
+    "entidad": "políticas públicas",
+    "relacion": "deben considerar",
+    "valor": "factores de riesgo identificados"
+  },
+  {
+    "entidad": "Grupo PREDIMERC",
+    "relacion": "identificó",
+    "valor": "factores protectores en mujeres fumadoras con estudios universitarios"
+  },
+  {
+    "entidad": "Galectina-3",
+    "relacion": "es un",
+    "valor": "mediador de fibrosis miocárdica"
+  },
+  {
+    "entidad": "Galectina-3",
+    "relacion": "está involucrado en",
+    "valor": "remodelación cardíaca"
+  },
+  {
+    "entidad": "Galectina-3",
+    "relacion": "es un",
+    "valor": "marcador pronóstico en insuficiencia cardíaca"
+  },
+  {
+    "entidad": "insuficiencia cardíaca",
+    "relacion": "es una",
+    "valor": "patología de alta prevalencia"
+  },
+  {
+    "entidad": "biomarcadores",
+    "relacion": "son utilizados para",
+    "valor": "diagnóstico y estratificación de riesgo"
+  },
+  {
+    "entidad": "Galectina-3",
+    "relacion": "se mide en",
+    "valor": "pacientes hospitalizados por insuficiencia cardíaca"
+  },
+  {
+    "entidad": "pacientes con insuficiencia cardíaca",
+    "relacion": "presentan",
+    "valor": "niveles elevados de Galectina-3"
+  },
+  {
+    "entidad": "edad avanzada",
+    "relacion": "afecta a",
+    "valor": "niveles de Galectina-3"
+  },
+  {
+    "entidad": "hipertensión arterial",
+    "relacion": "aumenta",
+    "valor": "niveles de Galectina-3"
+  },
+  {
+    "entidad": "Hospital del Salvador",
+    "relacion": "es un",
+    "valor": "centro de investigación"
+  },
+  {
+    "entidad": "Universidad de Chile",
+    "relacion": "es un",
+    "valor": "centro de investigación"
+  },
+  {
+    "entidad": "Universidad Andrés Bello",
+    "relacion": "es un",
+    "valor": "centro de investigación"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "es un",
+    "valor": "centro de investigación"
+  },
+  {
+    "entidad": "Hospital DIPRECA",
+    "relacion": "es un",
+    "valor": "centro de investigación"
+  },
+  {
+    "entidad": "Hospital Clínico de la Universidad de Chile",
+    "relacion": "es un",
+    "valor": "centro de investigación"
+  },
+  {
+    "entidad": "pacientes con insuficiencia cardíaca",
+    "relacion": "son tratados con",
+    "valor": "fármacos que impactan en la sobrevida"
+  },
+  {
+    "entidad": "pro-BNP",
+    "relacion": "es un",
+    "valor": "biomarcador en insuficiencia cardíaca"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "se mide con",
+    "valor": "cuestionario Minnesota Living With Heart Failure"
+  },
+  {
+    "entidad": "síntomas depresivos",
+    "relacion": "se evalúan con",
+    "valor": "Center for Epidemiologic Studies Depression Scale"
+  },
+  {
+    "entidad": "fragilidad",
+    "relacion": "se diagnostica según",
+    "valor": "criterios de Fried"
+  },
+  {
+    "entidad": "Galectina-3",
+    "relacion": "se mide con",
+    "valor": "kit comercial VIDAS Galectin-3"
+  },
+  {
+    "entidad": "pro-BNP",
+    "relacion": "se mide con",
+    "valor": "kit comercial VIDAS NT-proBNP"
+  },
+  {
+    "entidad": "pacientes con Galectina-3 elevada",
+    "relacion": "son",
+    "valor": "mayormente hipertensos"
+  },
+  {
+    "entidad": "pacientes con Galectina-3 elevada",
+    "relacion": "son",
+    "valor": "mayormente de edad avanzada"
+  },
+  {
+    "entidad": "insuficiencia cardiaca",
+    "relacion": "representa",
+    "valor": "un problema creciente de salud pública"
+  },
+  {
+    "entidad": "insuficiencia cardiaca",
+    "relacion": "es la",
+    "valor": "primera causa de hospitalización en población adulta"
+  },
+  {
+    "entidad": "insuficiencia cardiaca",
+    "relacion": "constituye",
+    "valor": "una de las principales causas de morbimortalidad cardiovascular"
+  },
+  {
+    "entidad": "prevalencia de insuficiencia cardiaca",
+    "relacion": "alcanzará",
+    "valor": "4,5% al año 2030"
+  },
+  {
+    "entidad": "letalidad intrahospitalaria por insuficiencia cardiaca",
+    "relacion": "fluctúa entre",
+    "valor": "2% y 20%"
+  },
+  {
+    "entidad": "letalidad intrahospitalaria por insuficiencia cardiaca",
+    "relacion": "se estima en",
+    "valor": "11,5% en América Latina"
+  },
+  {
+    "entidad": "hospitalizaciones por insuficiencia cardiaca",
+    "relacion": "se evaluaron",
+    "valor": "diferencias por sexo"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "proporciona",
+    "valor": "base de datos de egresos hospitalarios"
+  },
+  {
+    "entidad": "hospitalizaciones por insuficiencia cardiaca",
+    "relacion": "se consideran",
+    "valor": "según códigos ICD-10"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen mayor",
+    "valor": "prevalencia de hospitalizaciones por insuficiencia cardiaca"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "tienen mayor",
+    "valor": "incidencia de hospitalizaciones por insuficiencia cardiaca"
+  },
+  {
+    "entidad": "edad mayor a 80 años",
+    "relacion": "se asocia con",
+    "valor": "mayor riesgo de mortalidad intrahospitalaria"
+  },
+  {
+    "entidad": "estadía hospitalaria superior a 7 días",
+    "relacion": "se asocia con",
+    "valor": "mayor riesgo de mortalidad intrahospitalaria"
+  },
+  {
+    "entidad": "hospitales de alta complejidad",
+    "relacion": "se asocian con",
+    "valor": "mayor riesgo de mortalidad intrahospitalaria"
+  },
+  {
+    "entidad": "afiliación a FONASA",
+    "relacion": "se asocia con",
+    "valor": "mayor riesgo de mortalidad intrahospitalaria"
+  },
+  {
+    "entidad": "sexo femenino",
+    "relacion": "no constituye",
+    "valor": "un factor asociado a mayor letalidad intrahospitalaria"
+  },
+  {
+    "entidad": "insuficiencia cardiaca",
+    "relacion": "es un",
+    "valor": "problema de salud difícil de estimar"
+  },
+  {
+    "entidad": "análisis de información de egresos hospitalarios",
+    "relacion": "es útil para",
+    "valor": "conocer la distribución de la enfermedad"
+  }
+]

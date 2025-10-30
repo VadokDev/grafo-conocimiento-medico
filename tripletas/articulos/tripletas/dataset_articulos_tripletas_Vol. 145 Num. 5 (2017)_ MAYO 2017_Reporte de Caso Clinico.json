@@ -1,0 +1,367 @@
+[
+  {
+    "entidad": "Granulomas pulmonares",
+    "relacion": "son",
+    "valor": "hallazgos clínicos"
+  },
+  {
+    "entidad": "Granulomas en médula ósea",
+    "relacion": "son",
+    "valor": "hallazgos clínicos"
+  },
+  {
+    "entidad": "Tuberculosis pulmonar (TBCP)",
+    "relacion": "es un tipo de",
+    "valor": "enfermedad"
+  },
+  {
+    "entidad": "Linfoma no Hodgkin difuso de células grandes B (LNH DCGB)",
+    "relacion": "es un tipo de",
+    "valor": "enfermedad"
+  },
+  {
+    "entidad": "PCR convencional",
+    "relacion": "se utiliza para",
+    "valor": "diagnosticar TBC"
+  },
+  {
+    "entidad": "M. tuberculosis",
+    "relacion": "es un",
+    "valor": "patógeno"
+  },
+  {
+    "entidad": "Biopsia de ganglio linfático",
+    "relacion": "confirma",
+    "valor": "presencia de LNH"
+  },
+  {
+    "entidad": "Granulomas no caseificantes",
+    "relacion": "se encuentran en",
+    "valor": "médula ósea"
+  },
+  {
+    "entidad": "Reacción sarcoide",
+    "relacion": "es una",
+    "valor": "respuesta inmune"
+  },
+  {
+    "entidad": "Quimioterapia R-CHOP",
+    "relacion": "se utiliza para",
+    "valor": "tratar LNH"
+  },
+  {
+    "entidad": "Dra. Camila Peña",
+    "relacion": "es un",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "Hospital del Salvador",
+    "relacion": "es un",
+    "valor": "centro médico"
+  },
+  {
+    "entidad": "Diagnóstico diferencial",
+    "relacion": "es importante entre",
+    "valor": "TBCP y LNH"
+  },
+  {
+    "entidad": "Infecciones diseminadas",
+    "relacion": "pueden causar",
+    "valor": "granulomas en médula ósea"
+  },
+  {
+    "entidad": "Inmunocomprometidos",
+    "relacion": "tienen mayor riesgo de",
+    "valor": "granulomas en médula ósea"
+  },
+  {
+    "entidad": "Cavitaciones pulmonares",
+    "relacion": "pueden ser causadas por",
+    "valor": "TBCP o linfoma"
+  },
+  {
+    "entidad": "Antígenos tumorales",
+    "relacion": "pueden causar",
+    "valor": "reacciones sarcoides"
+  },
+  {
+    "entidad": "Control médico",
+    "relacion": "es necesario para",
+    "valor": "pacientes en remisión"
+  },
+  {
+    "entidad": "Hemangioendotelioma epitelioide pulmonar",
+    "relacion": "es un",
+    "valor": "tumor multifocal"
+  },
+  {
+    "entidad": "Hemangioendotelioma epitelioide pulmonar",
+    "relacion": "afecta a",
+    "valor": "pulmón, hígado y partes blandas"
+  },
+  {
+    "entidad": "Hemangioendotelioma epitelioide pulmonar",
+    "relacion": "es diagnosticado por",
+    "valor": "histología y marcadores tumorales"
+  },
+  {
+    "entidad": "Weibel-Palade bodies",
+    "relacion": "son",
+    "valor": "hallazgos importantes para el diagnóstico"
+  },
+  {
+    "entidad": "factor VIII",
+    "relacion": "es un",
+    "valor": "marcador tumoral"
+  },
+  {
+    "entidad": "CD34",
+    "relacion": "es un",
+    "valor": "marcador tumoral"
+  },
+  {
+    "entidad": "Mujer de 21 años",
+    "relacion": "presenta",
+    "valor": "tos y disnea"
+  },
+  {
+    "entidad": "Radiografía de tórax",
+    "relacion": "sugiere",
+    "valor": "tuberculosis"
+  },
+  {
+    "entidad": "Sputum smears",
+    "relacion": "son",
+    "valor": "negativos para bacilos ácido-alcohol resistentes"
+  },
+  {
+    "entidad": "Tomografía computada de tórax",
+    "relacion": "muestra",
+    "valor": "lesiones nodulares múltiples"
+  },
+  {
+    "entidad": "Biopsia quirúrgica",
+    "relacion": "confirma",
+    "valor": "hemangioendotelioma"
+  },
+  {
+    "entidad": "Prednisona y azatioprina",
+    "relacion": "son",
+    "valor": "tratamientos iniciales"
+  },
+  {
+    "entidad": "Paciente",
+    "relacion": "decide",
+    "valor": "manejo expectante tras efectos adversos"
+  },
+  {
+    "entidad": "Embarazo",
+    "relacion": "es logrado",
+    "valor": "sin incidentes"
+  },
+  {
+    "entidad": "Hemangioendotelioma epitelioide",
+    "relacion": "es asociado a",
+    "valor": "moduladores de la angiogénesis"
+  },
+  {
+    "entidad": "Bartonella",
+    "relacion": "se relaciona con",
+    "valor": "desarrollo del tumor"
+  },
+  {
+    "entidad": "Interferón 2a",
+    "relacion": "ha demostrado",
+    "valor": "respuesta parcial o completa en nódulos bilaterales"
+  },
+  {
+    "entidad": "Quimioterapia",
+    "relacion": "se utiliza en",
+    "valor": "pacientes con enfermedad metastásica"
+  },
+  {
+    "entidad": "Sobrevida media",
+    "relacion": "en afectación pulmonar es",
+    "valor": "4.6 años"
+  },
+  {
+    "entidad": "Diagnóstico de certeza",
+    "relacion": "se hace con",
+    "valor": "inmunohistoquímica"
+  },
+  {
+    "entidad": "CD31",
+    "relacion": "es un",
+    "valor": "marcador endotelial específico"
+  },
+  {
+    "entidad": "CD34",
+    "relacion": "se encuentra en",
+    "valor": "90% de los tumores de origen vascular"
+  },
+  {
+    "entidad": "Radioyodo (131-I)",
+    "relacion": "es un",
+    "valor": "tratamiento para hipertiroidismo"
+  },
+  {
+    "entidad": "hipertiroidismo",
+    "relacion": "afecta a",
+    "valor": "pacientes en hemodiálisis"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "es",
+    "valor": "mujer de 58 años"
+  },
+  {
+    "entidad": "enfermedad renal crónica",
+    "relacion": "es un",
+    "valor": "antecedente del paciente"
+  },
+  {
+    "entidad": "propiltiouracilo",
+    "relacion": "es un",
+    "valor": "fármaco antitiroideo"
+  },
+  {
+    "entidad": "131-I",
+    "relacion": "se administra",
+    "valor": "después de hemodiálisis"
+  },
+  {
+    "entidad": "131-I",
+    "relacion": "resulta en",
+    "valor": "eutirodismo"
+  },
+  {
+    "entidad": "131-I",
+    "relacion": "se mide en",
+    "valor": "sangre y líquido dializado"
+  },
+  {
+    "entidad": "exposición a radiación",
+    "relacion": "es mínima para",
+    "valor": "personal de salud"
+  },
+  {
+    "entidad": "efectividad del tratamiento",
+    "relacion": "es confirmada por",
+    "valor": "normalización de TSH"
+  },
+  {
+    "entidad": "tiroidectomía",
+    "relacion": "es una alternativa a",
+    "valor": "tratamiento con 131-I"
+  },
+  {
+    "entidad": "Hospital Dr. Gustavo Fricke",
+    "relacion": "es un",
+    "valor": "centro de atención médica"
+  },
+  {
+    "entidad": "Dra. María Soledad Báez",
+    "relacion": "es",
+    "valor": "autora del estudio"
+  },
+  {
+    "entidad": "radiación",
+    "relacion": "cumple con",
+    "valor": "normas internacionales de seguridad"
+  },
+  {
+    "entidad": "dosis de 131-I",
+    "relacion": "es menor que",
+    "valor": "dosis para carcinoma diferenciado de tiroides"
+  },
+  {
+    "entidad": "tasa de eliminación de 131-I",
+    "relacion": "es menor en",
+    "valor": "pacientes con hipertiroidismo que en CDT"
+  },
+  {
+    "entidad": "actividad de 131-I",
+    "relacion": "se mide en",
+    "valor": "Mega Becquerel (MBq)"
+  },
+  {
+    "entidad": "EPOC",
+    "relacion": "es un",
+    "valor": "enfermedad crónica"
+  },
+  {
+    "entidad": "reducción de volumen pulmonar endoscópica",
+    "relacion": "es un",
+    "valor": "tratamiento para enfisema pulmonar avanzado"
+  },
+  {
+    "entidad": "válvulas endobronquiales",
+    "relacion": "son un tipo de",
+    "valor": "dispositivo utilizado en la reducción de volumen pulmonar"
+  },
+  {
+    "entidad": "coils",
+    "relacion": "son un tipo de",
+    "valor": "dispositivo utilizado en la reducción de volumen pulmonar"
+  },
+  {
+    "entidad": "enfisema pulmonar avanzado",
+    "relacion": "afecta a",
+    "valor": "calidad de vida y parámetros funcionales"
+  },
+  {
+    "entidad": "reducción de volumen pulmonar quirúrgica",
+    "relacion": "es un",
+    "valor": "tratamiento alternativo a la reducción de volumen pulmonar endoscópica"
+  },
+  {
+    "entidad": "pacientes mayores de 35 años",
+    "relacion": "son candidatos a",
+    "valor": "reducción de volumen pulmonar endoscópica"
+  },
+  {
+    "entidad": "TAC de tórax de alta resolución",
+    "relacion": "se utiliza para",
+    "valor": "evaluar candidatos a la intervención"
+  },
+  {
+    "entidad": "sistema VIDA",
+    "relacion": "se utiliza para",
+    "valor": "evaluar la integridad de las cisuras"
+  },
+  {
+    "entidad": "sistema CHARTIS",
+    "relacion": "se utiliza para",
+    "valor": "evaluar la ventilación colateral"
+  },
+  {
+    "entidad": "neumotórax",
+    "relacion": "es una posible",
+    "valor": "complicación del tratamiento con válvulas endobronquiales"
+  },
+  {
+    "entidad": "Dr. Sebastián Fernández-Bussy",
+    "relacion": "es el autor de",
+    "valor": "el artículo"
+  },
+  {
+    "entidad": "Universidad del Desarrollo",
+    "relacion": "es una",
+    "valor": "institución involucrada en el estudio"
+  },
+  {
+    "entidad": "Universidad San Sebastián",
+    "relacion": "es una",
+    "valor": "institución involucrada en el estudio"
+  },
+  {
+    "entidad": "University of Florida-Gainesville",
+    "relacion": "es una",
+    "valor": "institución involucrada en el estudio"
+  },
+  {
+    "entidad": "Beth Israel Deaconess Center",
+    "relacion": "es una",
+    "valor": "institución involucrada en el estudio"
+  }
+]

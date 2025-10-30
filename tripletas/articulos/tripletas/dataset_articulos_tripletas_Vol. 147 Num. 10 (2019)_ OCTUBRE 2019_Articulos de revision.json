@@ -1,0 +1,272 @@
+[
+  {
+    "entidad": "impresión 3D",
+    "relacion": "es un",
+    "valor": "proceso de fabricación aditiva"
+  },
+  {
+    "entidad": "impresión 3D",
+    "relacion": "se utiliza en",
+    "valor": "medicina"
+  },
+  {
+    "entidad": "impresión 3D",
+    "relacion": "permite",
+    "valor": "creación de modelos anatómicos"
+  },
+  {
+    "entidad": "modelos de simulación",
+    "relacion": "se utilizan para",
+    "valor": "broncoscopia"
+  },
+  {
+    "entidad": "prótesis ortopédicas",
+    "relacion": "se desarrollan mediante",
+    "valor": "impresión 3D"
+  },
+  {
+    "entidad": "tecnología de impresión 3D",
+    "relacion": "es útil en",
+    "valor": "docencia clínica"
+  },
+  {
+    "entidad": "impresión 3D",
+    "relacion": "aplica en",
+    "valor": "investigación farmacéutica"
+  },
+  {
+    "entidad": "materiales de impresión 3D",
+    "relacion": "incluyen",
+    "valor": "plástico, nylon, titanio"
+  },
+  {
+    "entidad": "técnicas de impresión",
+    "relacion": "se clasifican en",
+    "valor": "varios tipos como SLA, SLS, FDM"
+  },
+  {
+    "entidad": "programas de diseño asistido",
+    "relacion": "se utilizan para",
+    "valor": "reconstrucción de imágenes"
+  },
+  {
+    "entidad": "modelos impresos en 3D",
+    "relacion": "mejoran",
+    "valor": "la comprensión anatómica"
+  },
+  {
+    "entidad": "simuladores de broncoscopia",
+    "relacion": "se fabrican con",
+    "valor": "impresión 3D"
+  },
+  {
+    "entidad": "stents",
+    "relacion": "se diseñan mediante",
+    "valor": "impresión 3D"
+  },
+  {
+    "entidad": "sustitutos traqueales",
+    "relacion": "se dividen en",
+    "valor": "prótesis sintética, aloinjerto"
+  },
+  {
+    "entidad": "ingeniería de tejidos",
+    "relacion": "permite",
+    "valor": "creación de tejidos traqueales"
+  },
+  {
+    "entidad": "dispositivo en arco abierto",
+    "relacion": "se utiliza para",
+    "valor": "sostener el bronquio o tráquea"
+  },
+  {
+    "entidad": "impresión 3D",
+    "relacion": "complementa",
+    "valor": "educación y entrenamiento médico"
+  },
+  {
+    "entidad": "impresión 3D",
+    "relacion": "promete tener",
+    "valor": "utilidad en desarrollo de tejidos viables"
+  },
+  {
+    "entidad": "Reserva funcional renal",
+    "relacion": "es",
+    "valor": "capacidad del riñón para aumentar su tasa de filtración glomerular"
+  },
+  {
+    "entidad": "tasa de filtración glomerular (GFR)",
+    "relacion": "es medida por",
+    "valor": "diferencia entre GFR estimulada y GFR basal"
+  },
+  {
+    "entidad": "carga oral de proteínas",
+    "relacion": "se utiliza para evaluar",
+    "valor": "reserva funcional renal"
+  },
+  {
+    "entidad": "vegetarianos",
+    "relacion": "tienen",
+    "valor": "GFR basal más baja y RFR aumentada"
+  },
+  {
+    "entidad": "sujetos con un solo riñón",
+    "relacion": "tienen",
+    "valor": "RFR reducida o ausente"
+  },
+  {
+    "entidad": "nephropathies crónicas",
+    "relacion": "se asocian con",
+    "valor": "RFR reducida o ausente"
+  },
+  {
+    "entidad": "cuantificación de RFR",
+    "relacion": "puede ser útil para",
+    "valor": "detectar daño renal subclínico"
+  },
+  {
+    "entidad": "RFR",
+    "relacion": "puede indicar",
+    "valor": "susceptibilidad a injuria renal aguda"
+  },
+  {
+    "entidad": "ingesta de proteínas",
+    "relacion": "aumenta",
+    "valor": "GFR en sujetos sanos"
+  },
+  {
+    "entidad": "RFR",
+    "relacion": "puede ser evaluada en",
+    "valor": "potenciales donantes de riñón"
+  },
+  {
+    "entidad": "RFR disminuida",
+    "relacion": "puede indicar",
+    "valor": "mayor riesgo de hipertensión gestacional"
+  },
+  {
+    "entidad": "RFR",
+    "relacion": "se asocia con",
+    "valor": "recuperación incompleta después de AKI"
+  },
+  {
+    "entidad": "métodos de medición de RFR",
+    "relacion": "son",
+    "valor": "complejos y costosos"
+  },
+  {
+    "entidad": "dieta baja en proteínas",
+    "relacion": "puede causar",
+    "valor": "caída en la GFR basal"
+  },
+  {
+    "entidad": "RFR",
+    "relacion": "es un mejor parámetro para",
+    "valor": "detectar daño subclínico"
+  },
+  {
+    "entidad": "RFR",
+    "relacion": "puede ser afectada por",
+    "valor": "drogas nefrotóxicas"
+  },
+  {
+    "entidad": "RFR",
+    "relacion": "se mide con",
+    "valor": "clearance de creatinina"
+  },
+  {
+    "entidad": "RFR",
+    "relacion": "puede ser evaluada tras",
+    "valor": "injuria renal aguda"
+  },
+  {
+    "entidad": "RFR",
+    "relacion": "se relaciona con",
+    "valor": "progresión a enfermedad renal crónica"
+  },
+  {
+    "entidad": "sarcoidosis",
+    "relacion": "es un",
+    "valor": "enfermedad multisistémica"
+  },
+  {
+    "entidad": "sarcoidosis",
+    "relacion": "afecta a",
+    "valor": "linfáticos torácicos y parénquima pulmonar"
+  },
+  {
+    "entidad": "PET/CT",
+    "relacion": "evalúa",
+    "valor": "actividad inflamatoria en sarcoidosis"
+  },
+  {
+    "entidad": "PET/CT",
+    "relacion": "detecta",
+    "valor": "enfermedad extrapulmonar"
+  },
+  {
+    "entidad": "PET/CT",
+    "relacion": "evalúa",
+    "valor": "respuesta a tratamiento en sarcoidosis"
+  },
+  {
+    "entidad": "sarcoidosis",
+    "relacion": "requiere",
+    "valor": "diagnóstico basado en clínica y radiografías"
+  },
+  {
+    "entidad": "sarcoidosis",
+    "relacion": "puede ser",
+    "valor": "asintomática o con síntomas variables"
+  },
+  {
+    "entidad": "PET/CT",
+    "relacion": "no es",
+    "valor": "el estudio inicial de elección para sarcoidosis"
+  },
+  {
+    "entidad": "PET/CT",
+    "relacion": "puede ayudar en",
+    "valor": "la elección del mejor sitio de biopsia"
+  },
+  {
+    "entidad": "FDG/PET",
+    "relacion": "es un",
+    "valor": "estudio sensible en la detección de actividad inflamatoria"
+  },
+  {
+    "entidad": "sarcoidosis cardiaca",
+    "relacion": "es una",
+    "valor": "causa de muerte por sarcoidosis"
+  },
+  {
+    "entidad": "Ministerio de Salud y Bienestar japonés",
+    "relacion": "cuenta con",
+    "valor": "guías clínicas para la evaluación de sarcoidosis cardiaca"
+  },
+  {
+    "entidad": "PET/CT",
+    "relacion": "detecta",
+    "valor": "inflamación miocárdica activa"
+  },
+  {
+    "entidad": "PET/CT",
+    "relacion": "puede ser",
+    "valor": "útil en la evaluación de la respuesta a tratamiento"
+  },
+  {
+    "entidad": "sarcoidosis",
+    "relacion": "requiere",
+    "valor": "monitoreo de respuesta a tratamiento"
+  },
+  {
+    "entidad": "sintomatología",
+    "relacion": "guía",
+    "valor": "inicio de la terapia en sarcoidosis"
+  },
+  {
+    "entidad": "sintomatología inexplicable",
+    "relacion": "puede requerir",
+    "valor": "evaluación con PET/CT"
+  }
+]

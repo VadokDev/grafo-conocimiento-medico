@@ -1,0 +1,737 @@
+[
+  {
+    "entidad": "Embarazo",
+    "relacion": "ocurre en",
+    "valor": "mujeres con hemodiálisis crónica"
+  },
+  {
+    "entidad": "Hospital Clínico Universidad de Chile",
+    "relacion": "realiza",
+    "valor": "estudio observacional"
+  },
+  {
+    "entidad": "anemia",
+    "relacion": "afecta a",
+    "valor": "mujeres embarazadas en hemodiálisis"
+  },
+  {
+    "entidad": "técnicas de diálisis",
+    "relacion": "mejoran",
+    "valor": "resultados de embarazo"
+  },
+  {
+    "entidad": "complicaciones maternas",
+    "relacion": "incluyen",
+    "valor": "hipertensión arterial severa"
+  },
+  {
+    "entidad": "diálisis",
+    "relacion": "se realiza en",
+    "valor": "máquinas Fresenius 4008 S"
+  },
+  {
+    "entidad": "eritropoyetina",
+    "relacion": "se utiliza para",
+    "valor": "corrección de anemia"
+  },
+  {
+    "entidad": "diálisis intensiva",
+    "relacion": "mejora",
+    "valor": "resultados maternos y fetales"
+  },
+  {
+    "entidad": "cesárea",
+    "relacion": "es la vía de resolución",
+    "valor": "100% de los embarazos"
+  },
+  {
+    "entidad": "hospitalización neonatal",
+    "relacion": "promedio",
+    "valor": "4 días"
+  },
+  {
+    "entidad": "mortalidad neonatal",
+    "relacion": "es del",
+    "valor": "18%"
+  },
+  {
+    "entidad": "mujeres con enfermedad renal crónica",
+    "relacion": "presentan",
+    "valor": "ciclos anovulatorios"
+  },
+  {
+    "entidad": "diálisis peritoneal",
+    "relacion": "se cambia a",
+    "valor": "hemodiálisis durante el embarazo"
+  },
+  {
+    "entidad": "complicaciones",
+    "relacion": "incluyen",
+    "valor": "polihidroamnios"
+  },
+  {
+    "entidad": "peso de los recién nacidos",
+    "relacion": "promedio",
+    "valor": "1.880 g"
+  },
+  {
+    "entidad": "APGAR",
+    "relacion": "promedio",
+    "valor": "9 al minuto 1"
+  },
+  {
+    "entidad": "mujeres en edad fértil",
+    "relacion": "no utilizan",
+    "valor": "métodos anticonceptivos"
+  },
+  {
+    "entidad": "diálisis",
+    "relacion": "se inicia",
+    "valor": "en el segundo trimestre"
+  },
+  {
+    "entidad": "anemia severa",
+    "relacion": "requiere",
+    "valor": "dosis altas de hierro endovenoso"
+  },
+  {
+    "entidad": "profilaxis de preeclampsia",
+    "relacion": "se realiza con",
+    "valor": "aspirina 100 mg"
+  },
+  {
+    "entidad": "mujeres con ERC avanzada",
+    "relacion": "tienen",
+    "valor": "alto riesgo de preeclampsia"
+  },
+  {
+    "entidad": "fuerza de prensión manual",
+    "relacion": "es un",
+    "valor": "parámetro de utilidad en rehabilitación"
+  },
+  {
+    "entidad": "fuerza de prensión manual",
+    "relacion": "se mide con",
+    "valor": "dinamometría"
+  },
+  {
+    "entidad": "dinamómetro Jamar",
+    "relacion": "es un",
+    "valor": "instrumento para medir fuerza de prensión"
+  },
+  {
+    "entidad": "fuerza de prensión manual",
+    "relacion": "afecta a",
+    "valor": "calidad de vida"
+  },
+  {
+    "entidad": "fuerza de prensión manual",
+    "relacion": "se correlaciona con",
+    "valor": "resultados clínicos en diversas patologías"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "tienen mayor",
+    "valor": "fuerza de prensión manual que mujeres"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "afecta",
+    "valor": "fuerza de prensión manual"
+  },
+  {
+    "entidad": "sarcopenia",
+    "relacion": "es una condición relacionada con",
+    "valor": "disminución de fuerza de prensión manual"
+  },
+  {
+    "entidad": "fuerza de prensión manual",
+    "relacion": "es un predictor de",
+    "valor": "mortalidad"
+  },
+  {
+    "entidad": "valores normales de fuerza de prensión manual",
+    "relacion": "son necesarios para",
+    "valor": "evaluación clínica"
+  },
+  {
+    "entidad": "profesionales de la salud",
+    "relacion": "utilizan",
+    "valor": "valores de referencia para la rehabilitación"
+  },
+  {
+    "entidad": "fuerza de prensión manual",
+    "relacion": "se asocia con",
+    "valor": "días en ventilación mecánica"
+  },
+  {
+    "entidad": "fuerza de prensión manual",
+    "relacion": "se relaciona con",
+    "valor": "mortalidad intrahospitalaria"
+  },
+  {
+    "entidad": "fuerza de prensión manual",
+    "relacion": "se correlaciona con",
+    "valor": "calidad de vida en pacientes oncológicos"
+  },
+  {
+    "entidad": "entrenamiento de fuerza muscular",
+    "relacion": "se recomienda",
+    "valor": "2 a 3 veces a la semana"
+  },
+  {
+    "entidad": "cambio climático",
+    "relacion": "afecta a",
+    "valor": "enfermedad de Chagas"
+  },
+  {
+    "entidad": "enfermedad de Chagas",
+    "relacion": "se transmite por",
+    "valor": "T. infestans"
+  },
+  {
+    "entidad": "número reproductivo (R0)",
+    "relacion": "se utiliza para",
+    "valor": "estimar el riesgo de Chagas"
+  },
+  {
+    "entidad": "R0",
+    "relacion": "indica",
+    "valor": "número de casos nuevos a partir de un caso"
+  },
+  {
+    "entidad": "T. cruzi",
+    "relacion": "transmisión",
+    "valor": "aumentará debido al cambio climático"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "es un",
+    "valor": "lugar de estudio para Chagas"
+  },
+  {
+    "entidad": "Instituto de Salud Pública de Chile (ISP)",
+    "relacion": "realiza",
+    "valor": "vigilancia de la enfermedad de Chagas"
+  },
+  {
+    "entidad": "Universidad de Chile",
+    "relacion": "participa en",
+    "valor": "investigación sobre Chagas"
+  },
+  {
+    "entidad": "Fondecyt",
+    "relacion": "financia",
+    "valor": "investigación sobre Chagas"
+  },
+  {
+    "entidad": "T. infestans",
+    "relacion": "es un",
+    "valor": "vector de Chagas"
+  },
+  {
+    "entidad": "RCP 2.6",
+    "relacion": "es un",
+    "valor": "escenario optimista de cambio climático"
+  },
+  {
+    "entidad": "RCP 8.5",
+    "relacion": "es un",
+    "valor": "escenario pesimista de cambio climático"
+  },
+  {
+    "entidad": "densidad de T. infestans",
+    "relacion": "varía con",
+    "valor": "temperatura y precipitación"
+  },
+  {
+    "entidad": "R0",
+    "relacion": "se estima en",
+    "valor": "diferentes escenarios climáticos"
+  },
+  {
+    "entidad": "zonas de riesgo",
+    "relacion": "se mapean para",
+    "valor": "enfermedad de Chagas"
+  },
+  {
+    "entidad": "Chagas",
+    "relacion": "es considerada",
+    "valor": "una enfermedad desatendida"
+  },
+  {
+    "entidad": "población en riesgo",
+    "relacion": "se encuentra en",
+    "valor": "Arica-Parinacota a Libertador Bernardo O'Higgins"
+  },
+  {
+    "entidad": "T. cruzi",
+    "relacion": "causa",
+    "valor": "infección en humanos"
+  },
+  {
+    "entidad": "R0",
+    "relacion": "indica",
+    "valor": "potencial de transmisión de Chagas"
+  },
+  {
+    "entidad": "mortalidad del vector",
+    "relacion": "se relaciona con",
+    "valor": "temperatura"
+  },
+  {
+    "entidad": "T. infestans",
+    "relacion": "se encuentra en",
+    "valor": "zonas rurales y urbanas de Chile"
+  },
+  {
+    "entidad": "ingesta de once",
+    "relacion": "reemplaza",
+    "valor": "cena"
+  },
+  {
+    "entidad": "ingesta de once",
+    "relacion": "asocia a",
+    "valor": "riesgo de síndrome metabólico"
+  },
+  {
+    "entidad": "síndrome metabólico",
+    "relacion": "es un",
+    "valor": "trastorno metabólico"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "tiene",
+    "valor": "alta prevalencia de síndrome metabólico"
+  },
+  {
+    "entidad": "dieta",
+    "relacion": "afecta",
+    "valor": "síndrome metabólico"
+  },
+  {
+    "entidad": "sedentarismo",
+    "relacion": "es un",
+    "valor": "factor de riesgo para síndrome metabólico"
+  },
+  {
+    "entidad": "carbohidratos refinados",
+    "relacion": "aumentan",
+    "valor": "riesgo de síndrome metabólico"
+  },
+  {
+    "entidad": "once",
+    "relacion": "caracterizada por",
+    "valor": "alto contenido de carbohidratos refinados"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud (OMS)",
+    "relacion": "recomienda",
+    "valor": "consumo de frutas y verduras"
+  },
+  {
+    "entidad": "consumo de frutas y verduras",
+    "relacion": "asociado a",
+    "valor": "reducción del riesgo de enfermedad cardiovascular"
+  },
+  {
+    "entidad": "estilo de vida",
+    "relacion": "tiene un rol",
+    "valor": "fundamental en la salud"
+  },
+  {
+    "entidad": "once",
+    "relacion": "incentiva",
+    "valor": "consumo de alimentos procesados"
+  },
+  {
+    "entidad": "sodio",
+    "relacion": "proviene de",
+    "valor": "ingesta de pan y agregados"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "lanzó",
+    "valor": "campaña para reducir sodio en pan"
+  },
+  {
+    "entidad": "dieta mediterránea",
+    "relacion": "recomendada",
+    "valor": "para la salud cardiovascular"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "tienen menor frecuencia de",
+    "valor": "cena baja en carbohidratos refinados"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen mayor frecuencia de",
+    "valor": "cena baja en carbohidratos refinados"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "es el primero en",
+    "valor": "determinar la asociación entre hábitos alimentarios y salud cardiometabólica"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "realiza",
+    "valor": "estudio sobre lugar de muerte"
+  },
+  {
+    "entidad": "Jorge Browne",
+    "relacion": "es autor de",
+    "valor": "estudio sobre lugar de muerte en Chile"
+  },
+  {
+    "entidad": "Facultad de Medicina, Pontificia Universidad Católica de Chile",
+    "relacion": "pertenece a",
+    "valor": "sección de geriatría"
+  },
+  {
+    "entidad": "Escuela de Salud Pública, Universidad de Chile",
+    "relacion": "pertenece a",
+    "valor": "investigación sobre salud pública"
+  },
+  {
+    "entidad": "lugar de muerte",
+    "relacion": "afecta a",
+    "valor": "políticas públicas de final de vida"
+  },
+  {
+    "entidad": "muerte hospitalaria",
+    "relacion": "es un",
+    "valor": "resultado principal del estudio"
+  },
+  {
+    "entidad": "cáncer",
+    "relacion": "aumenta",
+    "valor": "probabilidad de morir fuera del hospital"
+  },
+  {
+    "entidad": "personas mayores de 85 años",
+    "relacion": "tienen mayor riesgo de",
+    "valor": "morir fuera del hospital"
+  },
+  {
+    "entidad": "cuidados paliativos",
+    "relacion": "se implementa en",
+    "valor": "plan de Garantías Explícitas en Salud (GES)"
+  },
+  {
+    "entidad": "regiones de Chile",
+    "relacion": "muestran diferencias en",
+    "valor": "probabilidad de morir en hospital"
+  },
+  {
+    "entidad": "Instituto Nacional de Estadísticas",
+    "relacion": "estima",
+    "valor": "aumento en la tasa cruda de mortalidad"
+  },
+  {
+    "entidad": "cuidados domiciliarios",
+    "relacion": "son parte de",
+    "valor": "políticas de final de vida"
+  },
+  {
+    "entidad": "Establecimientos de Larga Estadía para el Adulto Mayor (ELEAM)",
+    "relacion": "desarrolla",
+    "valor": "cuidados de largo plazo"
+  },
+  {
+    "entidad": "muerte en hospital",
+    "relacion": "se mantiene",
+    "valor": "en la población general"
+  },
+  {
+    "entidad": "muerte en casa",
+    "relacion": "es preferida por",
+    "valor": "la mayoría de las personas mayores"
+  },
+  {
+    "entidad": "carga hospitalaria",
+    "relacion": "aumentará debido a",
+    "valor": "incremento en la tasa de mortalidad"
+  },
+  {
+    "entidad": "políticas de final de vida",
+    "relacion": "deben ser evaluadas para",
+    "valor": "mejorar la calidad del proceso de muerte"
+  },
+  {
+    "entidad": "masas renales pequeñas",
+    "relacion": "son definidas como",
+    "valor": "lesiones sólidas o quísticas complejas < 4 cm"
+  },
+  {
+    "entidad": "masas renales pequeñas",
+    "relacion": "pueden ser",
+    "valor": "benignas o malignas"
+  },
+  {
+    "entidad": "gestión conservadora",
+    "relacion": "puede incluir",
+    "valor": "vigilancia activa"
+  },
+  {
+    "entidad": "vigilancia activa",
+    "relacion": "es recomendada para",
+    "valor": "pacientes con comorbilidades significativas"
+  },
+  {
+    "entidad": "tumores renales",
+    "relacion": "son sometidos a",
+    "valor": "nefrectomía parcial o total"
+  },
+  {
+    "entidad": "histología",
+    "relacion": "se clasifica en",
+    "valor": "benigna, favorable, intermedia y desfavorable"
+  },
+  {
+    "entidad": "carcinoma de células renales",
+    "relacion": "es el tipo más común de",
+    "valor": "tumores malignos"
+  },
+  {
+    "entidad": "tamaño del tumor",
+    "relacion": "se relaciona con",
+    "valor": "malignidad histológica"
+  },
+  {
+    "entidad": "biopsia renal percutánea",
+    "relacion": "es un procedimiento",
+    "valor": "para evaluar malignidad"
+  },
+  {
+    "entidad": "imágenes por TAC",
+    "relacion": "son utilizadas para",
+    "valor": "diagnosticar masas renales"
+  },
+  {
+    "entidad": "NCCN",
+    "relacion": "recomienda",
+    "valor": "vigilancia activa solo en pacientes con baja expectativa de vida"
+  },
+  {
+    "entidad": "AUA",
+    "relacion": "recomienda",
+    "valor": "biopsia en caso de sospecha de malignidad"
+  },
+  {
+    "entidad": "tasa de complicaciones de BRP",
+    "relacion": "es",
+    "valor": "menor al 9%"
+  },
+  {
+    "entidad": "masas renales pequeñas",
+    "relacion": "representan",
+    "valor": "un grupo heterogéneo de tumores"
+  },
+  {
+    "entidad": "técnicas de imagen",
+    "relacion": "han permitido",
+    "valor": "aumentar el diagnóstico de masas renales"
+  },
+  {
+    "entidad": "carcinomas de células renales",
+    "relacion": "pueden crecer",
+    "valor": "lentamente sin diferencias entre benignos y malignos"
+  },
+  {
+    "entidad": "revascularización exclusiva con dos arterias mamarias",
+    "relacion": "permite",
+    "valor": "revascularización completa del corazón"
+  },
+  {
+    "entidad": "revascularización exclusiva con dos arterias mamarias",
+    "relacion": "asocia",
+    "valor": "baja tasa de complicaciones"
+  },
+  {
+    "entidad": "pacientes con enfermedad coronaria multivaso",
+    "relacion": "son tratados con",
+    "valor": "cirugía coronaria exclusiva"
+  },
+  {
+    "entidad": "Hospital Guillermo Grant Benavente",
+    "relacion": "realiza",
+    "valor": "cirugía coronaria exclusiva con dos mamarias"
+  },
+  {
+    "entidad": "técnica BIMA-Y",
+    "relacion": "es utilizada en",
+    "valor": "cirugía coronaria"
+  },
+  {
+    "entidad": "EuroSCORE",
+    "relacion": "evalúa",
+    "valor": "riesgo operatorio"
+  },
+  {
+    "entidad": "mediastinitis",
+    "relacion": "es una complicación de",
+    "valor": "cirugía coronaria"
+  },
+  {
+    "entidad": "sobrevida a 5 años",
+    "relacion": "es",
+    "valor": "90.4%"
+  },
+  {
+    "entidad": "complicaciones médicas",
+    "relacion": "se presentan en",
+    "valor": "8 pacientes"
+  },
+  {
+    "entidad": "complicaciones quirúrgicas",
+    "relacion": "se presentan en",
+    "valor": "7 pacientes"
+  },
+  {
+    "entidad": "mortalidad operatoria",
+    "relacion": "es",
+    "valor": "1.5%"
+  },
+  {
+    "entidad": "cirugía coronaria",
+    "relacion": "utiliza",
+    "valor": "injertos de arteria mamaria interna"
+  },
+  {
+    "entidad": "injertos de arteria mamaria interna",
+    "relacion": "tienen",
+    "valor": "mayor permeabilidad"
+  },
+  {
+    "entidad": "técnica de disección esqueletizada",
+    "relacion": "disminuye",
+    "valor": "riesgo de complicaciones"
+  },
+  {
+    "entidad": "seguimiento a 5 años",
+    "relacion": "es necesario para",
+    "valor": "evaluar beneficios de la técnica"
+  },
+  {
+    "entidad": "pacientes diabéticos",
+    "relacion": "son intervenidos con",
+    "valor": "técnica de dos arterias mamarias"
+  },
+  {
+    "entidad": "revascularización arterial completa",
+    "relacion": "es el objetivo de",
+    "valor": "cirugía coronaria exclusiva con dos mamarias"
+  },
+  {
+    "entidad": "estudio ART",
+    "relacion": "compara",
+    "valor": "uso de una y dos arterias mamarias"
+  },
+  {
+    "entidad": "revascularización",
+    "relacion": "se considera completa",
+    "valor": "cuando se confeccionan anastomosis a todos los vasos planeados"
+  },
+  {
+    "entidad": "asma",
+    "relacion": "asociación con",
+    "valor": "adiposidad"
+  },
+  {
+    "entidad": "adiposidad",
+    "relacion": "asociación con",
+    "valor": "más síntomas y menos control de la enfermedad en personas con asma"
+  },
+  {
+    "entidad": "adiposidad",
+    "relacion": "asociación con",
+    "valor": "mayor riesgo de desarrollar asma en personas sin diagnóstico previo"
+  },
+  {
+    "entidad": "población adulta chilena",
+    "relacion": "investiga",
+    "valor": "asociación entre asma y adiposidad"
+  },
+  {
+    "entidad": "índice de masa corporal (IMC)",
+    "relacion": "utiliza como proxy de",
+    "valor": "adiposidad"
+  },
+  {
+    "entidad": "perímetro de cintura (PC)",
+    "relacion": "utiliza como proxy de",
+    "valor": "adiposidad"
+  },
+  {
+    "entidad": "modelo de regresión logística",
+    "relacion": "determina",
+    "valor": "asociación entre asma y quintiles de IMC y PC"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "factor de riesgo para",
+    "valor": "desarrollo de asma"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "asociación con",
+    "valor": "peor control de asma"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud (ENS) 2016-2017",
+    "relacion": "proporciona",
+    "valor": "datos sobre prevalencia de asma y obesidad"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "mayor prevalencia de",
+    "valor": "asma"
+  },
+  {
+    "entidad": "población afro-americana",
+    "relacion": "mayor prevalencia de",
+    "valor": "asma"
+  },
+  {
+    "entidad": "contaminación ambiental",
+    "relacion": "factor ambiental asociado a",
+    "valor": "asma"
+  },
+  {
+    "entidad": "estrés",
+    "relacion": "factor asociado a",
+    "valor": "asma"
+  },
+  {
+    "entidad": "ansiedad",
+    "relacion": "factor asociado a",
+    "valor": "asma"
+  },
+  {
+    "entidad": "adiposidad",
+    "relacion": "asociación con",
+    "valor": "aumento de síntomas en personas con asma"
+  },
+  {
+    "entidad": "adiposidad",
+    "relacion": "asociación con",
+    "valor": "mayor uso de broncodilatadores"
+  },
+  {
+    "entidad": "adiposidad",
+    "relacion": "asociación con",
+    "valor": "mayor dificultad para el control de asma"
+  },
+  {
+    "entidad": "adiposidad",
+    "relacion": "asociación con",
+    "valor": "mayor probabilidad de desarrollar asma"
+  },
+  {
+    "entidad": "políticas públicas",
+    "relacion": "necesarias para",
+    "valor": "disminuir la epidemia de obesidad y asma"
+  }
+]

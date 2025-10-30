@@ -1,0 +1,102 @@
+[
+  {
+    "entidad": "Síndrome de Ovario Poliquístico (SOP)",
+    "relacion": "es un",
+    "valor": "desorden endocrino-metabólico"
+  },
+  {
+    "entidad": "SOP",
+    "relacion": "se caracteriza por",
+    "valor": "hiperandrogenismo, oligo-anovulación y morfología de ovario poliquístico"
+  },
+  {
+    "entidad": "SOP",
+    "relacion": "es asociado con",
+    "valor": "obesidad y resistencia a la insulina"
+  },
+  {
+    "entidad": "SOP",
+    "relacion": "tiene una etiología",
+    "valor": "multifactorial"
+  },
+  {
+    "entidad": "SOP",
+    "relacion": "es considerado un",
+    "valor": "desorden genético complejo"
+  },
+  {
+    "entidad": "programación fetal",
+    "relacion": "podría estar implicada en",
+    "valor": "la patogenia del SOP"
+  },
+  {
+    "entidad": "exposición prenatal a andrógenos",
+    "relacion": "es un",
+    "valor": "factor reprogramador del SOP"
+  },
+  {
+    "entidad": "metilación del DNA",
+    "relacion": "modifica",
+    "valor": "la expresión génica"
+  },
+  {
+    "entidad": "metilación del DNA",
+    "relacion": "es un",
+    "valor": "fenómeno epigenético"
+  },
+  {
+    "entidad": "miARNs",
+    "relacion": "regulan",
+    "valor": "la expresión génica"
+  },
+  {
+    "entidad": "miR-222",
+    "relacion": "se asocia con",
+    "valor": "niveles de insulina en mujeres con SOP"
+  },
+  {
+    "entidad": "miR-146a",
+    "relacion": "se correlaciona con",
+    "valor": "testosterona plasmática en mujeres con SOP"
+  },
+  {
+    "entidad": "CYP19A1",
+    "relacion": "se relaciona con",
+    "valor": "menor actividad de la aromatasa en mujeres con SOP"
+  },
+  {
+    "entidad": "miR-93",
+    "relacion": "promueve",
+    "valor": "la proliferación celular en mujeres con SOP"
+  },
+  {
+    "entidad": "miR-92b",
+    "relacion": "podría estar involucrado en",
+    "valor": "la sobre-regulación de la apoptosis en mujeres con SOP"
+  },
+  {
+    "entidad": "miR-200a",
+    "relacion": "presenta disminución en",
+    "valor": "la expresión en células de la teca en mujeres con SOP"
+  },
+  {
+    "entidad": "IRS-2",
+    "relacion": "es un",
+    "valor": "regulador clave en la vía de señalización de la insulina"
+  },
+  {
+    "entidad": "SOP",
+    "relacion": "se asocia a",
+    "valor": "diversos marcadores genéticos"
+  },
+  {
+    "entidad": "modificaciones epigenéticas",
+    "relacion": "son",
+    "valor": "heredables y reversibles"
+  },
+  {
+    "entidad": "SOP",
+    "relacion": "requiere",
+    "valor": "un enfoque clínico diferente a través de la dieta, ejercicio y fármacos"
+  }
+]

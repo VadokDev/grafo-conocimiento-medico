@@ -1,0 +1,3957 @@
+[
+  {
+    "entidad": "Tafamidis",
+    "relacion": "trata",
+    "valor": "cardiomiopatía amiloide por transtiretina (ATTR-CM)"
+  },
+  {
+    "entidad": "Tafamidis",
+    "relacion": "uso",
+    "valor": "cápsulas para tomar por vía oral, una vez al día"
+  },
+  {
+    "entidad": "Tafamidis",
+    "relacion": "se_administra_via",
+    "valor": "vía oral"
+  },
+  {
+    "entidad": "Tafamidis",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Tafamidis",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos concurrentes"
+  },
+  {
+    "entidad": "Tafamidis",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta a menos que lo indique el médico"
+  },
+  {
+    "entidad": "Tafamidis",
+    "relacion": "olvido",
+    "valor": "tome la dosis omitida tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Tafamidis",
+    "relacion": "efecto_secundario",
+    "valor": "puede ocasionar efectos secundarios"
+  },
+  {
+    "entidad": "Tafamidis",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, a temperatura ambiente y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Tafamidis",
+    "relacion": "sobredosis",
+    "valor": "llame a la línea de ayuda de control de envenenamiento o a los servicios de emergencia"
+  },
+  {
+    "entidad": "Tafamidis",
+    "relacion": "marca_comercial",
+    "valor": "Vyndamax"
+  },
+  {
+    "entidad": "Tafamidis",
+    "relacion": "marca_comercial",
+    "valor": "Vyndaqel"
+  },
+  {
+    "entidad": "Tafluprost oftálmico",
+    "relacion": "trata",
+    "valor": "glaucoma"
+  },
+  {
+    "entidad": "Tafluprost oftálmico",
+    "relacion": "trata",
+    "valor": "hipertensión ocular"
+  },
+  {
+    "entidad": "Tafluprost oftálmico",
+    "relacion": "uso",
+    "valor": "aplicar una vez al día por la noche"
+  },
+  {
+    "entidad": "Tafluprost oftálmico",
+    "relacion": "se_administra_via",
+    "valor": "vía oftálmica"
+  },
+  {
+    "entidad": "Tafluprost oftálmico",
+    "relacion": "otro_uso",
+    "valor": "otros usos según prescripción médica"
+  },
+  {
+    "entidad": "Tafluprost oftálmico",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos"
+  },
+  {
+    "entidad": "Tafluprost oftálmico",
+    "relacion": "dieta",
+    "valor": "continuar con la dieta normal"
+  },
+  {
+    "entidad": "Tafluprost oftálmico",
+    "relacion": "olvido",
+    "valor": "aplicar la dosis olvidada tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Tafluprost oftálmico",
+    "relacion": "efecto_secundario",
+    "valor": "ardor, irritación o picazón de los ojos"
+  },
+  {
+    "entidad": "Tafluprost oftálmico",
+    "relacion": "efecto_secundario",
+    "valor": "ojos secos"
+  },
+  {
+    "entidad": "Tafluprost oftálmico",
+    "relacion": "efecto_secundario",
+    "valor": "visión borrosa o nublada"
+  },
+  {
+    "entidad": "Tafluprost oftálmico",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Tafluprost oftálmico",
+    "relacion": "efecto_secundario",
+    "valor": "dolor, inflamación o enrojecimiento de los ojos o párpados"
+  },
+  {
+    "entidad": "Tafluprost oftálmico",
+    "relacion": "efecto_secundario",
+    "valor": "cambios repentinos o pérdida de la visión"
+  },
+  {
+    "entidad": "Tafluprost oftálmico",
+    "relacion": "efecto_secundario",
+    "valor": "lesiones oculares"
+  },
+  {
+    "entidad": "Tafluprost oftálmico",
+    "relacion": "efecto_secundario",
+    "valor": "infección de los ojos"
+  },
+  {
+    "entidad": "Tafluprost oftálmico",
+    "relacion": "almacenamiento",
+    "valor": "mantener en empaque original y refrigerar sin abrir"
+  },
+  {
+    "entidad": "Tafluprost oftálmico",
+    "relacion": "almacenamiento",
+    "valor": "desechar envases sin usar después de 28 días"
+  },
+  {
+    "entidad": "Tafluprost oftálmico",
+    "relacion": "marca_comercial",
+    "valor": "Zioptan ®"
+  },
+  {
+    "entidad": "Talazoparib",
+    "relacion": "trata",
+    "valor": "cáncer de seno que se ha extendido"
+  },
+  {
+    "entidad": "Talazoparib",
+    "relacion": "trata",
+    "valor": "cáncer de próstata que se ha extendido"
+  },
+  {
+    "entidad": "Talazoparib",
+    "relacion": "uso",
+    "valor": "cápsulas para tomar por vía oral una vez al día"
+  },
+  {
+    "entidad": "Talazoparib",
+    "relacion": "se_administra_via",
+    "valor": "vía oral"
+  },
+  {
+    "entidad": "Talazoparib",
+    "relacion": "otro_uso",
+    "valor": "puede ser recetado para otros usos"
+  },
+  {
+    "entidad": "Talazoparib",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos"
+  },
+  {
+    "entidad": "Talazoparib",
+    "relacion": "precaucion",
+    "valor": "no quedar embarazada durante el tratamiento"
+  },
+  {
+    "entidad": "Talazoparib",
+    "relacion": "dieta",
+    "valor": "continuar con dieta normal a menos que se indique lo contrario"
+  },
+  {
+    "entidad": "Talazoparib",
+    "relacion": "olvido",
+    "valor": "saltar la dosis omitida y seguir con la dosis habitual"
+  },
+  {
+    "entidad": "Talazoparib",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Talazoparib",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de apetito"
+  },
+  {
+    "entidad": "Talazoparib",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Talazoparib",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Talazoparib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago"
+  },
+  {
+    "entidad": "Talazoparib",
+    "relacion": "efecto_secundario",
+    "valor": "cambio en sentido del gusto"
+  },
+  {
+    "entidad": "Talazoparib",
+    "relacion": "efecto_secundario",
+    "valor": "acidez estomacal"
+  },
+  {
+    "entidad": "Talazoparib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor o llagas en la boca"
+  },
+  {
+    "entidad": "Talazoparib",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida del cabello"
+  },
+  {
+    "entidad": "Talazoparib",
+    "relacion": "efecto_secundario",
+    "valor": "fatiga"
+  },
+  {
+    "entidad": "Talazoparib",
+    "relacion": "efecto_secundario",
+    "valor": "debilidad"
+  },
+  {
+    "entidad": "Talazoparib",
+    "relacion": "efecto_secundario",
+    "valor": "sensación de cansancio"
+  },
+  {
+    "entidad": "Talazoparib",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de peso"
+  },
+  {
+    "entidad": "Talazoparib",
+    "relacion": "efecto_secundario",
+    "valor": "fiebre, escalofríos, tos u otros síntomas de infección"
+  },
+  {
+    "entidad": "Talazoparib",
+    "relacion": "efecto_secundario",
+    "valor": "falta de aliento"
+  },
+  {
+    "entidad": "Talazoparib",
+    "relacion": "efecto_secundario",
+    "valor": "ritmo cardíaco acelerado"
+  },
+  {
+    "entidad": "Talazoparib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza, mareos, confusión o palidez de la piel"
+  },
+  {
+    "entidad": "Talazoparib",
+    "relacion": "efecto_secundario",
+    "valor": "sangre en la orina o las heces"
+  },
+  {
+    "entidad": "Talazoparib",
+    "relacion": "efecto_secundario",
+    "valor": "sangrado o moretones inusuales"
+  },
+  {
+    "entidad": "Talazoparib",
+    "relacion": "efecto_secundario",
+    "valor": "huesos rotos o fracturas"
+  },
+  {
+    "entidad": "Talazoparib",
+    "relacion": "almacenamiento",
+    "valor": "mantener en empaque original, bien cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Talazoparib",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente y lejos del calor y la humedad"
+  },
+  {
+    "entidad": "Talazoparib",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Talazoparib",
+    "relacion": "marca_comercial",
+    "valor": "Talzenna ®"
+  },
+  {
+    "entidad": "Talidomida",
+    "relacion": "contraindicado_en",
+    "valor": "mujeres embarazadas o que pudieran quedar embarazadas"
+  },
+  {
+    "entidad": "Talidomida",
+    "relacion": "trata",
+    "valor": "mieloma múltiple"
+  },
+  {
+    "entidad": "Talidomida",
+    "relacion": "trata",
+    "valor": "eritema nodoso leproso"
+  },
+  {
+    "entidad": "Talidomida",
+    "relacion": "uso",
+    "valor": "cápsulas por vía oral una vez al día"
+  },
+  {
+    "entidad": "Talidomida",
+    "relacion": "uso",
+    "valor": "tomar con agua al menos 1 hora después de la cena"
+  },
+  {
+    "entidad": "Talidomida",
+    "relacion": "otro_uso",
+    "valor": "afecciones de la piel que impliquen inflamación e irritación"
+  },
+  {
+    "entidad": "Talidomida",
+    "relacion": "otro_uso",
+    "valor": "complicaciones del VIH como estomatitis aftosa y diarrea"
+  },
+  {
+    "entidad": "Talidomida",
+    "relacion": "otro_uso",
+    "valor": "sarcoma de Kaposi"
+  },
+  {
+    "entidad": "Talidomida",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias a medicamentos"
+  },
+  {
+    "entidad": "Talidomida",
+    "relacion": "precaucion",
+    "valor": "no conducir hasta saber cómo le afecta"
+  },
+  {
+    "entidad": "Talidomida",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Talidomida",
+    "relacion": "olvido",
+    "valor": "tomar la dosis omitida tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Talidomida",
+    "relacion": "efecto_secundario",
+    "valor": "daños en los nervios"
+  },
+  {
+    "entidad": "Talidomida",
+    "relacion": "efecto_secundario",
+    "valor": "somnolencia"
+  },
+  {
+    "entidad": "Talidomida",
+    "relacion": "efecto_secundario",
+    "valor": "confusión"
+  },
+  {
+    "entidad": "Talidomida",
+    "relacion": "efecto_secundario",
+    "valor": "ansiedad"
+  },
+  {
+    "entidad": "Talidomida",
+    "relacion": "efecto_secundario",
+    "valor": "depresión o cambios de humor"
+  },
+  {
+    "entidad": "Talidomida",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para conciliar el sueño"
+  },
+  {
+    "entidad": "Talidomida",
+    "relacion": "efecto_secundario",
+    "valor": "dolor muscular"
+  },
+  {
+    "entidad": "Talidomida",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Talidomida",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original y cerrado herméticamente"
+  },
+  {
+    "entidad": "Talidomida",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente y lejos del calor y humedad"
+  },
+  {
+    "entidad": "Talidomida",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Talidomida",
+    "relacion": "marca_comercial",
+    "valor": "Thalomid ®"
+  },
+  {
+    "entidad": "Talquetamab-tgvs",
+    "relacion": "contraindicado_en",
+    "valor": "síndrome de liberación de citocinas (SLC)"
+  },
+  {
+    "entidad": "Talquetamab-tgvs",
+    "relacion": "contraindicado_en",
+    "valor": "síndrome de neurotoxicidad asociada a células inmunoefectoras (ICANS)"
+  },
+  {
+    "entidad": "Talquetamab-tgvs",
+    "relacion": "trata",
+    "valor": "mieloma múltiple"
+  },
+  {
+    "entidad": "Talquetamab-tgvs",
+    "relacion": "uso",
+    "valor": "solución para administración intravenosa"
+  },
+  {
+    "entidad": "Talquetamab-tgvs",
+    "relacion": "se_administra_via",
+    "valor": "intravenosa"
+  },
+  {
+    "entidad": "Talquetamab-tgvs",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos actuales"
+  },
+  {
+    "entidad": "Talquetamab-tgvs",
+    "relacion": "precaucion",
+    "valor": "no amamantar durante el tratamiento y 3 meses después"
+  },
+  {
+    "entidad": "Talquetamab-tgvs",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Talquetamab-tgvs",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de peso"
+  },
+  {
+    "entidad": "Talquetamab-tgvs",
+    "relacion": "efecto_secundario",
+    "valor": "fiebre"
+  },
+  {
+    "entidad": "Talquetamab-tgvs",
+    "relacion": "efecto_secundario",
+    "valor": "fatiga"
+  },
+  {
+    "entidad": "Talquetamab-tgvs",
+    "relacion": "efecto_secundario",
+    "valor": "escalofríos"
+  },
+  {
+    "entidad": "Talquetamab-tgvs",
+    "relacion": "efecto_secundario",
+    "valor": "dolor"
+  },
+  {
+    "entidad": "Talquetamab-tgvs",
+    "relacion": "efecto_secundario",
+    "valor": "hinchazón"
+  },
+  {
+    "entidad": "Talquetamab-tgvs",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Talquetamab-tgvs",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento o diarrea"
+  },
+  {
+    "entidad": "Talquetamab-tgvs",
+    "relacion": "efecto_secundario",
+    "valor": "decoloración de las uñas"
+  },
+  {
+    "entidad": "Talquetamab-tgvs",
+    "relacion": "efecto_secundario",
+    "valor": "piel seca"
+  },
+  {
+    "entidad": "Talquetamab-tgvs",
+    "relacion": "efecto_secundario",
+    "valor": "dolor muscular y óseo"
+  },
+  {
+    "entidad": "Talquetamab-tgvs",
+    "relacion": "efecto_secundario",
+    "valor": "disminución del apetito"
+  },
+  {
+    "entidad": "Talquetamab-tgvs",
+    "relacion": "efecto_secundario",
+    "valor": "coloración amarillenta de la piel o del blanco de los ojos"
+  },
+  {
+    "entidad": "Talquetamab-tgvs",
+    "relacion": "almacenamiento",
+    "valor": "mantener en farmacias registradas en el programa TECVAYLI y TALVEY REMS"
+  },
+  {
+    "entidad": "Talquetamab-tgvs",
+    "relacion": "marca_comercial",
+    "valor": "Talvey ®"
+  },
+  {
+    "entidad": "Tapinarof tópico",
+    "relacion": "trata",
+    "valor": "psoriasis en placas"
+  },
+  {
+    "entidad": "Tapinarof tópico",
+    "relacion": "trata",
+    "valor": "dermatitis atópica"
+  },
+  {
+    "entidad": "Tapinarof tópico",
+    "relacion": "uso",
+    "valor": "aplicar en la piel una vez al día"
+  },
+  {
+    "entidad": "Tapinarof tópico",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos en uso"
+  },
+  {
+    "entidad": "Tapinarof tópico",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Tapinarof tópico",
+    "relacion": "olvido",
+    "valor": "aplicar la dosis omitida tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Tapinarof tópico",
+    "relacion": "efecto_secundario",
+    "valor": "protuberancias rojas o pequeños granos alrededor de los folículos pilosos"
+  },
+  {
+    "entidad": "Tapinarof tópico",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido, irritación, picazón, ardor o escozor de la piel"
+  },
+  {
+    "entidad": "Tapinarof tópico",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de nariz o garganta"
+  },
+  {
+    "entidad": "Tapinarof tópico",
+    "relacion": "efecto_secundario",
+    "valor": "congestión o secreción nasal"
+  },
+  {
+    "entidad": "Tapinarof tópico",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Tapinarof tópico",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original, cerrado herméticamente y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Tapinarof tópico",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Tapinarof tópico",
+    "relacion": "marca_comercial",
+    "valor": "Vtama ®"
+  },
+  {
+    "entidad": "Tazemetostat",
+    "relacion": "trata",
+    "valor": "sarcoma epitelioide"
+  },
+  {
+    "entidad": "Tazemetostat",
+    "relacion": "trata",
+    "valor": "linfoma folicular"
+  },
+  {
+    "entidad": "Tazemetostat",
+    "relacion": "uso",
+    "valor": "tableta para tomar por vía oral, dos veces al día"
+  },
+  {
+    "entidad": "Tazemetostat",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Tazemetostat",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos"
+  },
+  {
+    "entidad": "Tazemetostat",
+    "relacion": "precaucion",
+    "valor": "no usar anticonceptivos hormonales como único método anticonceptivo"
+  },
+  {
+    "entidad": "Tazemetostat",
+    "relacion": "dieta",
+    "valor": "no comer grandes cantidades de toronja ni tomar jugo de toronja"
+  },
+  {
+    "entidad": "Tazemetostat",
+    "relacion": "olvido",
+    "valor": "omitir la dosis y seguir con la dosis normal"
+  },
+  {
+    "entidad": "Tazemetostat",
+    "relacion": "efecto_secundario",
+    "valor": "mayor riesgo de desarrollar cáncer"
+  },
+  {
+    "entidad": "Tazemetostat",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de apetito"
+  },
+  {
+    "entidad": "Tazemetostat",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Tazemetostat",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Tazemetostat",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Tazemetostat",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Tazemetostat",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago"
+  },
+  {
+    "entidad": "Tazemetostat",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de peso"
+  },
+  {
+    "entidad": "Tazemetostat",
+    "relacion": "efecto_secundario",
+    "valor": "tos"
+  },
+  {
+    "entidad": "Tazemetostat",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Tazemetostat",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio"
+  },
+  {
+    "entidad": "Tazemetostat",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de músculos, huesos o articulaciones"
+  },
+  {
+    "entidad": "Tazemetostat",
+    "relacion": "efecto_secundario",
+    "valor": "fatiga"
+  },
+  {
+    "entidad": "Tazemetostat",
+    "relacion": "efecto_secundario",
+    "valor": "moretones que se forman con facilidad"
+  },
+  {
+    "entidad": "Tazemetostat",
+    "relacion": "efecto_secundario",
+    "valor": "fiebre"
+  },
+  {
+    "entidad": "Tazemetostat",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de huesos"
+  },
+  {
+    "entidad": "Tazemetostat",
+    "relacion": "efecto_secundario",
+    "valor": "palidez de la piel"
+  },
+  {
+    "entidad": "Tazemetostat",
+    "relacion": "efecto_secundario",
+    "valor": "hemorragia inusual"
+  },
+  {
+    "entidad": "Tazemetostat",
+    "relacion": "efecto_secundario",
+    "valor": "infecciones en la piel"
+  },
+  {
+    "entidad": "Tazemetostat",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para respirar"
+  },
+  {
+    "entidad": "Tazemetostat",
+    "relacion": "almacenamiento",
+    "valor": "mantener en empaque original, a temperatura ambiente y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Tazemetostat",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento o a los servicios de emergencia"
+  },
+  {
+    "entidad": "Tazemetostat",
+    "relacion": "marca_comercial",
+    "valor": "Tazverik"
+  },
+  {
+    "entidad": "Tópico de alcohol bencílico",
+    "relacion": "trata",
+    "valor": "pediculosis en la cabeza"
+  },
+  {
+    "entidad": "Tópico de alcohol bencílico",
+    "relacion": "uso",
+    "valor": "aplicar en el cuero cabelludo y el cabello en dos o tres tratamientos"
+  },
+  {
+    "entidad": "Tópico de alcohol bencílico",
+    "relacion": "se_administra_via",
+    "valor": "loción"
+  },
+  {
+    "entidad": "Tópico de alcohol bencílico",
+    "relacion": "precaucion",
+    "valor": "informar si es alérgico al alcohol bencílico o a otros medicamentos"
+  },
+  {
+    "entidad": "Tópico de alcohol bencílico",
+    "relacion": "dieta",
+    "valor": "continuar con la dieta normal a menos que el médico indique lo contrario"
+  },
+  {
+    "entidad": "Tópico de alcohol bencílico",
+    "relacion": "olvido",
+    "valor": "llamar a su médico si olvida el segundo tratamiento"
+  },
+  {
+    "entidad": "Tópico de alcohol bencílico",
+    "relacion": "efecto_secundario",
+    "valor": "comezón del área del cuero cabelludo"
+  },
+  {
+    "entidad": "Tópico de alcohol bencílico",
+    "relacion": "efecto_secundario",
+    "valor": "enrojecimiento del área del cuero cabelludo"
+  },
+  {
+    "entidad": "Tópico de alcohol bencílico",
+    "relacion": "efecto_secundario",
+    "valor": "entumecimiento o dolor en el área del cuero cabelludo"
+  },
+  {
+    "entidad": "Tópico de alcohol bencílico",
+    "relacion": "efecto_secundario",
+    "valor": "irritación del área del cuero cabelludo"
+  },
+  {
+    "entidad": "Tópico de alcohol bencílico",
+    "relacion": "efecto_secundario",
+    "valor": "áreas infectadas o llenas de pus en la piel en el área del cuero cabelludo"
+  },
+  {
+    "entidad": "Tópico de alcohol bencílico",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original, cerrado herméticamente y a temperatura ambiente"
+  },
+  {
+    "entidad": "Tópico de alcohol bencílico",
+    "relacion": "sobredosis",
+    "valor": "llamar al centro local de control de intoxicaciones"
+  },
+  {
+    "entidad": "Tópico de alcohol bencílico",
+    "relacion": "marca_comercial",
+    "valor": "Ulesfia"
+  },
+  {
+    "entidad": "Tegaserod",
+    "relacion": "trata",
+    "valor": "síndrome de intestino irritable con estreñimiento (IBS-C)"
+  },
+  {
+    "entidad": "Tegaserod",
+    "relacion": "uso",
+    "valor": "dos veces al día, al menos 30 minutos antes de una comida"
+  },
+  {
+    "entidad": "Tegaserod",
+    "relacion": "se_administra_via",
+    "valor": "vía oral"
+  },
+  {
+    "entidad": "Tegaserod",
+    "relacion": "otro_uso",
+    "valor": "consultar al médico o farmacéutico"
+  },
+  {
+    "entidad": "Tegaserod",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos"
+  },
+  {
+    "entidad": "Tegaserod",
+    "relacion": "dieta",
+    "valor": "continuar con la dieta normal a menos que se indique lo contrario"
+  },
+  {
+    "entidad": "Tegaserod",
+    "relacion": "olvido",
+    "valor": "tomar la dosis omitida tan pronto como se recuerde"
+  },
+  {
+    "entidad": "Tegaserod",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Tegaserod",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Tegaserod",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Tegaserod",
+    "relacion": "efecto_secundario",
+    "valor": "gases"
+  },
+  {
+    "entidad": "Tegaserod",
+    "relacion": "efecto_secundario",
+    "valor": "acidez"
+  },
+  {
+    "entidad": "Tegaserod",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Tegaserod",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Tegaserod",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para respirar"
+  },
+  {
+    "entidad": "Tegaserod",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original, cerrado herméticamente y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Tegaserod",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento o a los servicios de emergencia"
+  },
+  {
+    "entidad": "Tegaserod",
+    "relacion": "marca_comercial",
+    "valor": "Zelnorm"
+  },
+  {
+    "entidad": "Telbivudina",
+    "relacion": "trata",
+    "valor": "infección de hepatitis B crónica"
+  },
+  {
+    "entidad": "Telbivudina",
+    "relacion": "uso",
+    "valor": "tableta para tomar por vía oral, 1 vez al día"
+  },
+  {
+    "entidad": "Telbivudina",
+    "relacion": "precaucion",
+    "valor": "informar al doctor sobre alergias y otros medicamentos"
+  },
+  {
+    "entidad": "Telbivudina",
+    "relacion": "dieta",
+    "valor": "continuar con el régimen de alimentación normal"
+  },
+  {
+    "entidad": "Telbivudina",
+    "relacion": "olvido",
+    "valor": "tomar la dosis olvidada tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Telbivudina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Telbivudina",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Telbivudina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de espalda"
+  },
+  {
+    "entidad": "Telbivudina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor en las articulaciones"
+  },
+  {
+    "entidad": "Telbivudina",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para dormir"
+  },
+  {
+    "entidad": "Telbivudina",
+    "relacion": "efecto_secundario",
+    "valor": "prurito"
+  },
+  {
+    "entidad": "Telbivudina",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Telbivudina",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase, bien cerrado, a temperatura ambiente"
+  },
+  {
+    "entidad": "Telbivudina",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Telbivudina",
+    "relacion": "marca_comercial",
+    "valor": "Tyzeka"
+  },
+  {
+    "entidad": "Telotristat",
+    "relacion": "trata",
+    "valor": "diarrea causada por tumores carcinoides"
+  },
+  {
+    "entidad": "Telotristat",
+    "relacion": "uso",
+    "valor": "tabletas para tomar por vía oral, tres veces al día con alimentos"
+  },
+  {
+    "entidad": "Telotristat",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Telotristat",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos"
+  },
+  {
+    "entidad": "Telotristat",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta a menos que se indique"
+  },
+  {
+    "entidad": "Telotristat",
+    "relacion": "olvido",
+    "valor": "omitir la dosis y continuar con el programa habitual"
+  },
+  {
+    "entidad": "Telotristat",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Telotristat",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Telotristat",
+    "relacion": "efecto_secundario",
+    "valor": "depresión"
+  },
+  {
+    "entidad": "Telotristat",
+    "relacion": "efecto_secundario",
+    "valor": "hinchazón de manos, pies, o piernas"
+  },
+  {
+    "entidad": "Telotristat",
+    "relacion": "efecto_secundario",
+    "valor": "gases"
+  },
+  {
+    "entidad": "Telotristat",
+    "relacion": "efecto_secundario",
+    "valor": "disminución del apetito"
+  },
+  {
+    "entidad": "Telotristat",
+    "relacion": "efecto_secundario",
+    "valor": "fiebre"
+  },
+  {
+    "entidad": "Telotristat",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Telotristat",
+    "relacion": "efecto_secundario",
+    "valor": "dolor abdominal"
+  },
+  {
+    "entidad": "Telotristat",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido o picazón"
+  },
+  {
+    "entidad": "Telotristat",
+    "relacion": "efecto_secundario",
+    "valor": "hinchazón alrededor de los labios u ojos, dificultad para respirar"
+  },
+  {
+    "entidad": "Telotristat",
+    "relacion": "almacenamiento",
+    "valor": "mantener en empaque original, a temperatura ambiente, alejado del calor y la humedad"
+  },
+  {
+    "entidad": "Telotristat",
+    "relacion": "marca_comercial",
+    "valor": "Xermelo ®"
+  },
+  {
+    "entidad": "Temozolomida",
+    "relacion": "trata",
+    "valor": "ciertos tipos de tumores cerebrales"
+  },
+  {
+    "entidad": "Temozolomida",
+    "relacion": "uso",
+    "valor": "cápsulas por vía oral una vez al día por la noche con el estómago vacío"
+  },
+  {
+    "entidad": "Temozolomida",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Temozolomida",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos"
+  },
+  {
+    "entidad": "Temozolomida",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta a menos que se indique"
+  },
+  {
+    "entidad": "Temozolomida",
+    "relacion": "olvido",
+    "valor": "consultar al médico, no tomar dosis doble"
+  },
+  {
+    "entidad": "Temozolomida",
+    "relacion": "efecto_secundario",
+    "valor": "aumento del riesgo de otros cánceres"
+  },
+  {
+    "entidad": "Temozolomida",
+    "relacion": "efecto_secundario",
+    "valor": "náusea"
+  },
+  {
+    "entidad": "Temozolomida",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Temozolomida",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Temozolomida",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Temozolomida",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de apetito"
+  },
+  {
+    "entidad": "Temozolomida",
+    "relacion": "efecto_secundario",
+    "valor": "llagas en la boca y garganta"
+  },
+  {
+    "entidad": "Temozolomida",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Temozolomida",
+    "relacion": "efecto_secundario",
+    "valor": "piel pálida"
+  },
+  {
+    "entidad": "Temozolomida",
+    "relacion": "efecto_secundario",
+    "valor": "falta de energía"
+  },
+  {
+    "entidad": "Temozolomida",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida del equilibrio o la coordinación"
+  },
+  {
+    "entidad": "Temozolomida",
+    "relacion": "efecto_secundario",
+    "valor": "desmayos"
+  },
+  {
+    "entidad": "Temozolomida",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Temozolomida",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida del cabello"
+  },
+  {
+    "entidad": "Temozolomida",
+    "relacion": "efecto_secundario",
+    "valor": "insomnio"
+  },
+  {
+    "entidad": "Temozolomida",
+    "relacion": "efecto_secundario",
+    "valor": "problemas de memoria"
+  },
+  {
+    "entidad": "Temozolomida",
+    "relacion": "efecto_secundario",
+    "valor": "cambios en la visión"
+  },
+  {
+    "entidad": "Temozolomida",
+    "relacion": "efecto_secundario",
+    "valor": "sangrado o moretones inusuales"
+  },
+  {
+    "entidad": "Temozolomida",
+    "relacion": "efecto_secundario",
+    "valor": "deposiciones rojas, negras o alquitranadas"
+  },
+  {
+    "entidad": "Temozolomida",
+    "relacion": "efecto_secundario",
+    "valor": "orina de color rosado, rojo o café oscuro"
+  },
+  {
+    "entidad": "Temozolomida",
+    "relacion": "efecto_secundario",
+    "valor": "toser o vomitar sangre o material que se ve como café molido"
+  },
+  {
+    "entidad": "Temozolomida",
+    "relacion": "efecto_secundario",
+    "valor": "fiebre, dolor de garganta, tos y congestión continuas"
+  },
+  {
+    "entidad": "Temozolomida",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio o debilidad inusual"
+  },
+  {
+    "entidad": "Temozolomida",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Temozolomida",
+    "relacion": "efecto_secundario",
+    "valor": "incapacidad para mover un lado del cuerpo"
+  },
+  {
+    "entidad": "Temozolomida",
+    "relacion": "efecto_secundario",
+    "valor": "falta de aliento"
+  },
+  {
+    "entidad": "Temozolomida",
+    "relacion": "efecto_secundario",
+    "valor": "convulsiones"
+  },
+  {
+    "entidad": "Temozolomida",
+    "relacion": "efecto_secundario",
+    "valor": "coloración amarillenta en la piel y los ojos"
+  },
+  {
+    "entidad": "Temozolomida",
+    "relacion": "efecto_secundario",
+    "valor": "dolor en la parte superior derecha del estómago"
+  },
+  {
+    "entidad": "Temozolomida",
+    "relacion": "efecto_secundario",
+    "valor": "micción menos frecuente"
+  },
+  {
+    "entidad": "Temozolomida",
+    "relacion": "almacenamiento",
+    "valor": "mantener en empaque original, bien cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Temozolomida",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente, lejos del calor y la humedad"
+  },
+  {
+    "entidad": "Temozolomida",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento o a los servicios de emergencia"
+  },
+  {
+    "entidad": "Temsirolimus",
+    "relacion": "trata",
+    "valor": "carcinoma de las células renales avanzado"
+  },
+  {
+    "entidad": "Temsirolimus",
+    "relacion": "uso",
+    "valor": "solución administrada por infusión intravenosa durante 30 a 60 minutos una vez por semana"
+  },
+  {
+    "entidad": "Temsirolimus",
+    "relacion": "se_administra_via",
+    "valor": "infusión intravenosa"
+  },
+  {
+    "entidad": "Temsirolimus",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos que se están tomando"
+  },
+  {
+    "entidad": "Temsirolimus",
+    "relacion": "dieta",
+    "valor": "no comer pomelo ni tomar jugo de pomelo"
+  },
+  {
+    "entidad": "Temsirolimus",
+    "relacion": "olvido",
+    "valor": "llamar al médico de inmediato si falta a una cita para recibir una dosis"
+  },
+  {
+    "entidad": "Temsirolimus",
+    "relacion": "efecto_secundario",
+    "valor": "debilidad"
+  },
+  {
+    "entidad": "Temsirolimus",
+    "relacion": "efecto_secundario",
+    "valor": "inflamación de los ojos, manos, pies, tobillos o pantorrillas"
+  },
+  {
+    "entidad": "Temsirolimus",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Temsirolimus",
+    "relacion": "efecto_secundario",
+    "valor": "comezón, lagrimeo o enrojecimiento de los ojos"
+  },
+  {
+    "entidad": "Temsirolimus",
+    "relacion": "efecto_secundario",
+    "valor": "cambio en el sabor de las cosas"
+  },
+  {
+    "entidad": "Temsirolimus",
+    "relacion": "efecto_secundario",
+    "valor": "hinchazón, enrojecimiento, dolor o llagas en la boca o garganta"
+  },
+  {
+    "entidad": "Temsirolimus",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de apetito"
+  },
+  {
+    "entidad": "Temsirolimus",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de peso"
+  },
+  {
+    "entidad": "Temsirolimus",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Temsirolimus",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Temsirolimus",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Temsirolimus",
+    "relacion": "efecto_secundario",
+    "valor": "necesidad de orinar con frecuencia"
+  },
+  {
+    "entidad": "Temsirolimus",
+    "relacion": "efecto_secundario",
+    "valor": "dolor o ardor al orinar"
+  },
+  {
+    "entidad": "Temsirolimus",
+    "relacion": "efecto_secundario",
+    "valor": "sangre en la orina"
+  },
+  {
+    "entidad": "Temsirolimus",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de espalda"
+  },
+  {
+    "entidad": "Temsirolimus",
+    "relacion": "efecto_secundario",
+    "valor": "dolor muscular o articular"
+  },
+  {
+    "entidad": "Temsirolimus",
+    "relacion": "efecto_secundario",
+    "valor": "sangrado de nariz"
+  },
+  {
+    "entidad": "Temsirolimus",
+    "relacion": "efecto_secundario",
+    "valor": "cambios en las uñas de las manos o los pies"
+  },
+  {
+    "entidad": "Temsirolimus",
+    "relacion": "efecto_secundario",
+    "valor": "piel seca"
+  },
+  {
+    "entidad": "Temsirolimus",
+    "relacion": "efecto_secundario",
+    "valor": "piel pálida"
+  },
+  {
+    "entidad": "Temsirolimus",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio excesivo"
+  },
+  {
+    "entidad": "Temsirolimus",
+    "relacion": "efecto_secundario",
+    "valor": "ritmo cardiaco acelerado"
+  },
+  {
+    "entidad": "Temsirolimus",
+    "relacion": "efecto_secundario",
+    "valor": "acné"
+  },
+  {
+    "entidad": "Temsirolimus",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para conciliar el sueño o mantenerse dormido"
+  },
+  {
+    "entidad": "Temsirolimus",
+    "relacion": "efecto_secundario",
+    "valor": "depresión"
+  },
+  {
+    "entidad": "Temsirolimus",
+    "relacion": "efecto_secundario",
+    "valor": "urticaria"
+  },
+  {
+    "entidad": "Temsirolimus",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Temsirolimus",
+    "relacion": "efecto_secundario",
+    "valor": "picazón"
+  },
+  {
+    "entidad": "Temsirolimus",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para respirar o tragar"
+  },
+  {
+    "entidad": "Temsirolimus",
+    "relacion": "efecto_secundario",
+    "valor": "enrojecimiento"
+  },
+  {
+    "entidad": "Temsirolimus",
+    "relacion": "efecto_secundario",
+    "valor": "dolor en el pecho"
+  },
+  {
+    "entidad": "Temsirolimus",
+    "relacion": "efecto_secundario",
+    "valor": "falta de aliento"
+  },
+  {
+    "entidad": "Temsirolimus",
+    "relacion": "efecto_secundario",
+    "valor": "respiración rápida o jadeo"
+  },
+  {
+    "entidad": "Temsirolimus",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de piernas, inflamación, sensibilidad, enrojecimiento o calor"
+  },
+  {
+    "entidad": "Temsirolimus",
+    "relacion": "efecto_secundario",
+    "valor": "sed intensa"
+  },
+  {
+    "entidad": "Temsirolimus",
+    "relacion": "efecto_secundario",
+    "valor": "hambre extrema"
+  },
+  {
+    "entidad": "Temsirolimus",
+    "relacion": "efecto_secundario",
+    "valor": "fiebre, dolor de garganta, escalofríos, tos y otras señales de infección"
+  },
+  {
+    "entidad": "Temsirolimus",
+    "relacion": "efecto_secundario",
+    "valor": "desmayos"
+  },
+  {
+    "entidad": "Temsirolimus",
+    "relacion": "efecto_secundario",
+    "valor": "dolor abdominal nuevo o que empeora"
+  },
+  {
+    "entidad": "Temsirolimus",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Temsirolimus",
+    "relacion": "efecto_secundario",
+    "valor": "sangre de color rojo en las heces"
+  },
+  {
+    "entidad": "Temsirolimus",
+    "relacion": "efecto_secundario",
+    "valor": "disminución en la cantidad de orina"
+  },
+  {
+    "entidad": "Temsirolimus",
+    "relacion": "efecto_secundario",
+    "valor": "visión borrosa"
+  },
+  {
+    "entidad": "Temsirolimus",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para hablar o hablar lento"
+  },
+  {
+    "entidad": "Temsirolimus",
+    "relacion": "efecto_secundario",
+    "valor": "confusión"
+  },
+  {
+    "entidad": "Temsirolimus",
+    "relacion": "efecto_secundario",
+    "valor": "mareos o desmayos"
+  },
+  {
+    "entidad": "Temsirolimus",
+    "relacion": "efecto_secundario",
+    "valor": "debilidad u hormigueo de un brazo o una pierna"
+  },
+  {
+    "entidad": "Temsirolimus",
+    "relacion": "almacenamiento",
+    "valor": "almacenar en el consultorio médico o clínica"
+  },
+  {
+    "entidad": "Temsirolimus",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento o a los servicios de emergencia"
+  },
+  {
+    "entidad": "Tenapanor",
+    "relacion": "trata",
+    "valor": "reducir los niveles de fósforo en pacientes con enfermedad renal crónica en diálisis"
+  },
+  {
+    "entidad": "Tenapanor",
+    "relacion": "uso",
+    "valor": "tabletas para tomar por vía oral, dos veces al día antes de la primera y la última comida del día"
+  },
+  {
+    "entidad": "Tenapanor",
+    "relacion": "otro_uso",
+    "valor": "tratar el síndrome del intestino irritable"
+  },
+  {
+    "entidad": "Tenapanor",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos que se están tomando"
+  },
+  {
+    "entidad": "Tenapanor",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta a menos que el médico lo indique"
+  },
+  {
+    "entidad": "Tenapanor",
+    "relacion": "olvido",
+    "valor": "omitir la dosis y continuar con el programa de dosificación habitual"
+  },
+  {
+    "entidad": "Tenapanor",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Tenapanor",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea grave"
+  },
+  {
+    "entidad": "Tenapanor",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, bien cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Tenapanor",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento al 1-800-222-1222"
+  },
+  {
+    "entidad": "Tenapanor",
+    "relacion": "marca_comercial",
+    "valor": "Xphozah"
+  },
+  {
+    "entidad": "Tenofovir alafenamida",
+    "relacion": "contraindicado_en",
+    "valor": "infección por virus de la hepatitis B (VHB)"
+  },
+  {
+    "entidad": "Tenofovir alafenamida",
+    "relacion": "trata",
+    "valor": "infección crónica por virus de la hepatitis B (VHB)"
+  },
+  {
+    "entidad": "Tenofovir alafenamida",
+    "relacion": "uso",
+    "valor": "tabletas para tomar por vía oral, una vez al día con alimentos"
+  },
+  {
+    "entidad": "Tenofovir alafenamida",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Tenofovir alafenamida",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos actuales"
+  },
+  {
+    "entidad": "Tenofovir alafenamida",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta a menos que se indique"
+  },
+  {
+    "entidad": "Tenofovir alafenamida",
+    "relacion": "olvido",
+    "valor": "tomar la dosis olvidada tan pronto como se recuerde"
+  },
+  {
+    "entidad": "Tenofovir alafenamida",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Tenofovir alafenamida",
+    "relacion": "efecto_secundario",
+    "valor": "micción menos frecuente"
+  },
+  {
+    "entidad": "Tenofovir alafenamida",
+    "relacion": "efecto_secundario",
+    "valor": "hinchazón de los pies y tobillos"
+  },
+  {
+    "entidad": "Tenofovir alafenamida",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio extremo o debilidad"
+  },
+  {
+    "entidad": "Tenofovir alafenamida",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original, cerrado herméticamente y a temperatura ambiente"
+  },
+  {
+    "entidad": "Tenofovir alafenamida",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento o a los servicios de emergencia"
+  },
+  {
+    "entidad": "Tenofovir alafenamida",
+    "relacion": "marca_comercial",
+    "valor": "Vemlidy"
+  },
+  {
+    "entidad": "Tepotinib",
+    "relacion": "trata",
+    "valor": "cáncer de pulmón de células no pequeñas (CPCNP)"
+  },
+  {
+    "entidad": "Tepotinib",
+    "relacion": "uso",
+    "valor": "tabletas para tomar por vía oral una vez al día con alimentos"
+  },
+  {
+    "entidad": "Tepotinib",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Tepotinib",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos"
+  },
+  {
+    "entidad": "Tepotinib",
+    "relacion": "precaucion",
+    "valor": "no quedar embarazada durante el tratamiento"
+  },
+  {
+    "entidad": "Tepotinib",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Tepotinib",
+    "relacion": "olvido",
+    "valor": "tome la dosis omitida tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Tepotinib",
+    "relacion": "efecto_secundario",
+    "valor": "hinchazón de brazos, manos, pies o pantorrillas"
+  },
+  {
+    "entidad": "Tepotinib",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Tepotinib",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Tepotinib",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Tepotinib",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Tepotinib",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de apetito"
+  },
+  {
+    "entidad": "Tepotinib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor abdominal"
+  },
+  {
+    "entidad": "Tepotinib",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio"
+  },
+  {
+    "entidad": "Tepotinib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor muscular, articular u óseo"
+  },
+  {
+    "entidad": "Tepotinib",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido o picazón"
+  },
+  {
+    "entidad": "Tepotinib",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Tepotinib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Tepotinib",
+    "relacion": "efecto_secundario",
+    "valor": "falta de aliento, dificultad para respirar"
+  },
+  {
+    "entidad": "Tepotinib",
+    "relacion": "efecto_secundario",
+    "valor": "confusión"
+  },
+  {
+    "entidad": "Tepotinib",
+    "relacion": "almacenamiento",
+    "valor": "mantener en empaque original, a temperatura ambiente, lejos del calor y la humedad"
+  },
+  {
+    "entidad": "Tepotinib",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento o a servicios de emergencia"
+  },
+  {
+    "entidad": "Tepotinib",
+    "relacion": "marca_comercial",
+    "valor": "Tepmetko ®"
+  },
+  {
+    "entidad": "Tetrabenazina",
+    "relacion": "contraindicado_en",
+    "valor": "depresión o pensamientos suicidas en personas con enfermedad de Huntington"
+  },
+  {
+    "entidad": "Tetrabenazina",
+    "relacion": "trata",
+    "valor": "corea causada por la enfermedad de Huntington"
+  },
+  {
+    "entidad": "Tetrabenazina",
+    "relacion": "uso",
+    "valor": "tomar tabletas por vía oral, con o sin alimentos, comenzando con una vez al día"
+  },
+  {
+    "entidad": "Tetrabenazina",
+    "relacion": "se_administra_via",
+    "valor": "oral"
+  },
+  {
+    "entidad": "Tetrabenazina",
+    "relacion": "otro_uso",
+    "valor": "otros usos a discreción del médico"
+  },
+  {
+    "entidad": "Tetrabenazina",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos concurrentes"
+  },
+  {
+    "entidad": "Tetrabenazina",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta a menos que lo indique el médico"
+  },
+  {
+    "entidad": "Tetrabenazina",
+    "relacion": "olvido",
+    "valor": "tomar la dosis olvidada tan pronto como lo recuerde, omitir si es casi hora de la siguiente dosis"
+  },
+  {
+    "entidad": "Tetrabenazina",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Tetrabenazina",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Tetrabenazina",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Tetrabenazina",
+    "relacion": "efecto_secundario",
+    "valor": "disminución del apetito"
+  },
+  {
+    "entidad": "Tetrabenazina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Tetrabenazina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor o ardor al orinar"
+  },
+  {
+    "entidad": "Tetrabenazina",
+    "relacion": "efecto_secundario",
+    "valor": "moretones"
+  },
+  {
+    "entidad": "Tetrabenazina",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para hablar"
+  },
+  {
+    "entidad": "Tetrabenazina",
+    "relacion": "efecto_secundario",
+    "valor": "fiebre"
+  },
+  {
+    "entidad": "Tetrabenazina",
+    "relacion": "efecto_secundario",
+    "valor": "sudoración"
+  },
+  {
+    "entidad": "Tetrabenazina",
+    "relacion": "efecto_secundario",
+    "valor": "confusión"
+  },
+  {
+    "entidad": "Tetrabenazina",
+    "relacion": "efecto_secundario",
+    "valor": "ritmo cardíaco irregular"
+  },
+  {
+    "entidad": "Tetrabenazina",
+    "relacion": "efecto_secundario",
+    "valor": "rigidez muscular"
+  },
+  {
+    "entidad": "Tetrabenazina",
+    "relacion": "efecto_secundario",
+    "valor": "falta de aire"
+  },
+  {
+    "entidad": "Tetrabenazina",
+    "relacion": "efecto_secundario",
+    "valor": "intranquilidad"
+  },
+  {
+    "entidad": "Tetrabenazina",
+    "relacion": "almacenamiento",
+    "valor": "mantener en empaque original, cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Tetrabenazina",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento o a servicios de emergencia"
+  },
+  {
+    "entidad": "Tetrabenazina",
+    "relacion": "marca_comercial",
+    "valor": "Xenazine"
+  },
+  {
+    "entidad": "Tiamina",
+    "relacion": "trata",
+    "valor": "beriberi"
+  },
+  {
+    "entidad": "Tiamina",
+    "relacion": "trata",
+    "valor": "síndrome de Wernicke-Korsakoff"
+  },
+  {
+    "entidad": "Tiamina",
+    "relacion": "uso",
+    "valor": "tableta, cápsula y solución para tomar por vía oral, de una a tres veces al día"
+  },
+  {
+    "entidad": "Tiamina",
+    "relacion": "otro_uso",
+    "valor": "suplemento dietético"
+  },
+  {
+    "entidad": "Tiamina",
+    "relacion": "precaucion",
+    "valor": "informe a su médico si es alérgico a la tiamina o a otros medicamentos"
+  },
+  {
+    "entidad": "Tiamina",
+    "relacion": "precaucion",
+    "valor": "informe a su médico si consume alcohol o tiene problemas para absorber alimentos"
+  },
+  {
+    "entidad": "Tiamina",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta a menos que su médico lo indique"
+  },
+  {
+    "entidad": "Tiamina",
+    "relacion": "olvido",
+    "valor": "tome la dosis que omitió tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Tiamina",
+    "relacion": "efecto_secundario",
+    "valor": "enrojecimiento"
+  },
+  {
+    "entidad": "Tiamina",
+    "relacion": "efecto_secundario",
+    "valor": "urticaria"
+  },
+  {
+    "entidad": "Tiamina",
+    "relacion": "efecto_secundario",
+    "valor": "picazón"
+  },
+  {
+    "entidad": "Tiamina",
+    "relacion": "efecto_secundario",
+    "valor": "debilidad"
+  },
+  {
+    "entidad": "Tiamina",
+    "relacion": "efecto_secundario",
+    "valor": "sudoración"
+  },
+  {
+    "entidad": "Tiamina",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Tiamina",
+    "relacion": "efecto_secundario",
+    "valor": "intranquilidad"
+  },
+  {
+    "entidad": "Tiamina",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original, cerrado herméticamente y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Tiamina",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente y lejos del calor excesivo y la humedad"
+  },
+  {
+    "entidad": "Tiamina",
+    "relacion": "sobredosis",
+    "valor": "llame a la línea de ayuda de control de envenenamiento al 1-800-222-1222"
+  },
+  {
+    "entidad": "Ticlopidina",
+    "relacion": "contraindicado_en",
+    "valor": "disminución de leucocitos"
+  },
+  {
+    "entidad": "Ticlopidina",
+    "relacion": "contraindicado_en",
+    "valor": "disminución de plaquetas"
+  },
+  {
+    "entidad": "Ticlopidina",
+    "relacion": "trata",
+    "valor": "reducir el riesgo de accidente cerebrovascular"
+  },
+  {
+    "entidad": "Ticlopidina",
+    "relacion": "trata",
+    "valor": "prevención de formación de coágulos en el stent coronario"
+  },
+  {
+    "entidad": "Ticlopidina",
+    "relacion": "uso",
+    "valor": "tomar 2 veces al día"
+  },
+  {
+    "entidad": "Ticlopidina",
+    "relacion": "otro_uso",
+    "valor": "antes de cirugía a corazón abierto"
+  },
+  {
+    "entidad": "Ticlopidina",
+    "relacion": "otro_uso",
+    "valor": "tratamiento de anemia de células falciformes"
+  },
+  {
+    "entidad": "Ticlopidina",
+    "relacion": "otro_uso",
+    "valor": "tratamiento de glomerulonefritis primaria"
+  },
+  {
+    "entidad": "Ticlopidina",
+    "relacion": "otro_uso",
+    "valor": "bloqueo de arterias en las piernas"
+  },
+  {
+    "entidad": "Ticlopidina",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias a la ticlopidina"
+  },
+  {
+    "entidad": "Ticlopidina",
+    "relacion": "precaucion",
+    "valor": "informar sobre otros medicamentos que está tomando"
+  },
+  {
+    "entidad": "Ticlopidina",
+    "relacion": "precaucion",
+    "valor": "no empezar nuevos medicamentos sin consultar"
+  },
+  {
+    "entidad": "Ticlopidina",
+    "relacion": "precaucion",
+    "valor": "informar sobre enfermedades hepáticas y renales"
+  },
+  {
+    "entidad": "Ticlopidina",
+    "relacion": "precaucion",
+    "valor": "informar si está embarazada o amamantando"
+  },
+  {
+    "entidad": "Ticlopidina",
+    "relacion": "precaucion",
+    "valor": "informar si tiene 65 años o más"
+  },
+  {
+    "entidad": "Ticlopidina",
+    "relacion": "dieta",
+    "valor": "continuar con la dieta usual"
+  },
+  {
+    "entidad": "Ticlopidina",
+    "relacion": "olvido",
+    "valor": "tomar la dosis omitida tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Ticlopidina",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Ticlopidina",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Ticlopidina",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Ticlopidina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago"
+  },
+  {
+    "entidad": "Ticlopidina",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de apetito"
+  },
+  {
+    "entidad": "Ticlopidina",
+    "relacion": "efecto_secundario",
+    "valor": "gases"
+  },
+  {
+    "entidad": "Ticlopidina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Ticlopidina",
+    "relacion": "efecto_secundario",
+    "valor": "picazón"
+  },
+  {
+    "entidad": "Ticlopidina",
+    "relacion": "efecto_secundario",
+    "valor": "fiebre"
+  },
+  {
+    "entidad": "Ticlopidina",
+    "relacion": "efecto_secundario",
+    "valor": "sangrado o moretones inusuales"
+  },
+  {
+    "entidad": "Ticlopidina",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original y cerrado herméticamente"
+  },
+  {
+    "entidad": "Ticlopidina",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente y lejos del calor y humedad"
+  },
+  {
+    "entidad": "Ticlopidina",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Ticlopidina",
+    "relacion": "marca_comercial",
+    "valor": "Ticlid ®"
+  },
+  {
+    "entidad": "Tinidazol",
+    "relacion": "contraindicado_en",
+    "valor": "posible riesgo de cáncer"
+  },
+  {
+    "entidad": "Tinidazol",
+    "relacion": "trata",
+    "valor": "tricomoniasis"
+  },
+  {
+    "entidad": "Tinidazol",
+    "relacion": "trata",
+    "valor": "giardiasis"
+  },
+  {
+    "entidad": "Tinidazol",
+    "relacion": "trata",
+    "valor": "amebiasis"
+  },
+  {
+    "entidad": "Tinidazol",
+    "relacion": "trata",
+    "valor": "vaginosis bacteriana"
+  },
+  {
+    "entidad": "Tinidazol",
+    "relacion": "uso",
+    "valor": "tomar con alimentos como una sola dosis o una vez al día por 2 a 5 días"
+  },
+  {
+    "entidad": "Tinidazol",
+    "relacion": "se_administra_via",
+    "valor": "oral"
+  },
+  {
+    "entidad": "Tinidazol",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Tinidazol",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias a tinidazol y otros medicamentos"
+  },
+  {
+    "entidad": "Tinidazol",
+    "relacion": "precaucion",
+    "valor": "no tomar bebidas alcohólicas durante el tratamiento"
+  },
+  {
+    "entidad": "Tinidazol",
+    "relacion": "dieta",
+    "valor": "consultar sobre jugo de toronja"
+  },
+  {
+    "entidad": "Tinidazol",
+    "relacion": "olvido",
+    "valor": "tomar la dosis olvidada tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Tinidazol",
+    "relacion": "efecto_secundario",
+    "valor": "sabor metálico agudo y desagradable"
+  },
+  {
+    "entidad": "Tinidazol",
+    "relacion": "efecto_secundario",
+    "valor": "molestias estomacales"
+  },
+  {
+    "entidad": "Tinidazol",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Tinidazol",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Tinidazol",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de apetito"
+  },
+  {
+    "entidad": "Tinidazol",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Tinidazol",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago o cólicos"
+  },
+  {
+    "entidad": "Tinidazol",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Tinidazol",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio o debilidad"
+  },
+  {
+    "entidad": "Tinidazol",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Tinidazol",
+    "relacion": "efecto_secundario",
+    "valor": "convulsiones"
+  },
+  {
+    "entidad": "Tinidazol",
+    "relacion": "efecto_secundario",
+    "valor": "hormigueo o adormecimiento de manos o pies"
+  },
+  {
+    "entidad": "Tinidazol",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Tinidazol",
+    "relacion": "efecto_secundario",
+    "valor": "urticaria"
+  },
+  {
+    "entidad": "Tinidazol",
+    "relacion": "efecto_secundario",
+    "valor": "inflamación del rostro y otras partes del cuerpo"
+  },
+  {
+    "entidad": "Tinidazol",
+    "relacion": "efecto_secundario",
+    "valor": "ronquera"
+  },
+  {
+    "entidad": "Tinidazol",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para tragar o respirar"
+  },
+  {
+    "entidad": "Tinidazol",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, bien cerrado y a temperatura ambiente"
+  },
+  {
+    "entidad": "Tinidazol",
+    "relacion": "almacenamiento",
+    "valor": "desechar el líquido restante al cabo de 7 días"
+  },
+  {
+    "entidad": "Tinidazol",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Tinidazol",
+    "relacion": "marca_comercial",
+    "valor": "Tindamax"
+  },
+  {
+    "entidad": "Tioguanina",
+    "relacion": "trata",
+    "valor": "leucemia mieloide aguda"
+  },
+  {
+    "entidad": "Tioguanina",
+    "relacion": "uso",
+    "valor": "tabletas orales, una vez al día"
+  },
+  {
+    "entidad": "Tioguanina",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Tioguanina",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias a tioguanina o ingredientes"
+  },
+  {
+    "entidad": "Tioguanina",
+    "relacion": "precaucion",
+    "valor": "informar si ha tomado tioguanina o mercaptopurina previamente"
+  },
+  {
+    "entidad": "Tioguanina",
+    "relacion": "precaucion",
+    "valor": "informar sobre otros medicamentos, vitaminas o suplementos"
+  },
+  {
+    "entidad": "Tioguanina",
+    "relacion": "precaucion",
+    "valor": "informar sobre enfermedades hepáticas"
+  },
+  {
+    "entidad": "Tioguanina",
+    "relacion": "precaucion",
+    "valor": "no quedar embarazada ni amamantar durante el tratamiento"
+  },
+  {
+    "entidad": "Tioguanina",
+    "relacion": "precaucion",
+    "valor": "consultar antes de recibir vacunas"
+  },
+  {
+    "entidad": "Tioguanina",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta a menos que se indique"
+  },
+  {
+    "entidad": "Tioguanina",
+    "relacion": "olvido",
+    "valor": "tomar la dosis olvidada tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Tioguanina",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Tioguanina",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Tioguanina",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de apetito o peso"
+  },
+  {
+    "entidad": "Tioguanina",
+    "relacion": "efecto_secundario",
+    "valor": "llagas en la boca y garganta"
+  },
+  {
+    "entidad": "Tioguanina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Tioguanina",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio o debilidad inusuales"
+  },
+  {
+    "entidad": "Tioguanina",
+    "relacion": "efecto_secundario",
+    "valor": "sangrado o moretones inusuales"
+  },
+  {
+    "entidad": "Tioguanina",
+    "relacion": "efecto_secundario",
+    "valor": "ictericia en la piel o los ojos"
+  },
+  {
+    "entidad": "Tioguanina",
+    "relacion": "efecto_secundario",
+    "valor": "síntomas similares a los de la gripe"
+  },
+  {
+    "entidad": "Tioguanina",
+    "relacion": "efecto_secundario",
+    "valor": "inflamación de la zona del estómago"
+  },
+  {
+    "entidad": "Tioguanina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago, particularmente en la parte derecha"
+  },
+  {
+    "entidad": "Tioguanina",
+    "relacion": "efecto_secundario",
+    "valor": "inflamación del rostro, brazos, manos, pies, tobillos o parte inferior de las piernas"
+  },
+  {
+    "entidad": "Tioguanina",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos con sangre"
+  },
+  {
+    "entidad": "Tioguanina",
+    "relacion": "efecto_secundario",
+    "valor": "heces negras, alquitranadas o con sangre"
+  },
+  {
+    "entidad": "Tioguanina",
+    "relacion": "efecto_secundario",
+    "valor": "fiebre, dolor de garganta, tos y congestión continuas"
+  },
+  {
+    "entidad": "Tioguanina",
+    "relacion": "efecto_secundario",
+    "valor": "falta de aire"
+  },
+  {
+    "entidad": "Tioguanina",
+    "relacion": "efecto_secundario",
+    "valor": "aturdimiento"
+  },
+  {
+    "entidad": "Tioguanina",
+    "relacion": "almacenamiento",
+    "valor": "mantener en empaque original, bien cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Tioguanina",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente, lejos del calor y la humedad"
+  },
+  {
+    "entidad": "Tioguanina",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Tioguanina",
+    "relacion": "marca_comercial",
+    "valor": "Tabloid ®"
+  },
+  {
+    "entidad": "Tisotumab vedotin-tftv",
+    "relacion": "contraindicado_en",
+    "valor": "alteraciones en la córnea y la conjuntiva que pueden conducir a la pérdida de visión"
+  },
+  {
+    "entidad": "Tisotumab vedotin-tftv",
+    "relacion": "trata",
+    "valor": "cáncer del cuello uterino"
+  },
+  {
+    "entidad": "Tisotumab vedotin-tftv",
+    "relacion": "uso",
+    "valor": "inyección intravenosa durante 30 minutos cada 21 días"
+  },
+  {
+    "entidad": "Tisotumab vedotin-tftv",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Tisotumab vedotin-tftv",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos"
+  },
+  {
+    "entidad": "Tisotumab vedotin-tftv",
+    "relacion": "precaucion",
+    "valor": "no usar lentes de contacto durante el tratamiento"
+  },
+  {
+    "entidad": "Tisotumab vedotin-tftv",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta a menos que se indique"
+  },
+  {
+    "entidad": "Tisotumab vedotin-tftv",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Tisotumab vedotin-tftv",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Tisotumab vedotin-tftv",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Tisotumab vedotin-tftv",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Tisotumab vedotin-tftv",
+    "relacion": "efecto_secundario",
+    "valor": "disminución del apetito"
+  },
+  {
+    "entidad": "Tisotumab vedotin-tftv",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de peso"
+  },
+  {
+    "entidad": "Tisotumab vedotin-tftv",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago"
+  },
+  {
+    "entidad": "Tisotumab vedotin-tftv",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio"
+  },
+  {
+    "entidad": "Tisotumab vedotin-tftv",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida del cabello"
+  },
+  {
+    "entidad": "Tisotumab vedotin-tftv",
+    "relacion": "efecto_secundario",
+    "valor": "dolor en las articulaciones"
+  },
+  {
+    "entidad": "Tisotumab vedotin-tftv",
+    "relacion": "efecto_secundario",
+    "valor": "fiebre"
+  },
+  {
+    "entidad": "Tisotumab vedotin-tftv",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Tisotumab vedotin-tftv",
+    "relacion": "efecto_secundario",
+    "valor": "picazón"
+  },
+  {
+    "entidad": "Tisotumab vedotin-tftv",
+    "relacion": "efecto_secundario",
+    "valor": "micción frecuente"
+  },
+  {
+    "entidad": "Tisotumab vedotin-tftv",
+    "relacion": "efecto_secundario",
+    "valor": "sangrado inusual"
+  },
+  {
+    "entidad": "Tisotumab vedotin-tftv",
+    "relacion": "efecto_secundario",
+    "valor": "problemas para respirar"
+  },
+  {
+    "entidad": "Tisotumab vedotin-tftv",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Tisotumab vedotin-tftv",
+    "relacion": "marca_comercial",
+    "valor": "Tivdak ®"
+  },
+  {
+    "entidad": "Tofacitinib",
+    "relacion": "contraindicado_en",
+    "valor": "infecciones graves"
+  },
+  {
+    "entidad": "Tofacitinib",
+    "relacion": "trata",
+    "valor": "artritis reumatoide"
+  },
+  {
+    "entidad": "Tofacitinib",
+    "relacion": "trata",
+    "valor": "artritis psoriásica"
+  },
+  {
+    "entidad": "Tofacitinib",
+    "relacion": "trata",
+    "valor": "colitis ulcerosa"
+  },
+  {
+    "entidad": "Tofacitinib",
+    "relacion": "trata",
+    "valor": "artritis idiopática juvenil poliarticular"
+  },
+  {
+    "entidad": "Tofacitinib",
+    "relacion": "uso",
+    "valor": "tableta, tableta de liberación prolongada y solución oral"
+  },
+  {
+    "entidad": "Tofacitinib",
+    "relacion": "se_administra_via",
+    "valor": "oral"
+  },
+  {
+    "entidad": "Tofacitinib",
+    "relacion": "olvido",
+    "valor": "tome la dosis que omitió tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Tofacitinib",
+    "relacion": "efecto_secundario",
+    "valor": "aumento de los niveles de colesterol"
+  },
+  {
+    "entidad": "Tofacitinib",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Tofacitinib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Tofacitinib",
+    "relacion": "efecto_secundario",
+    "valor": "congestión o secreción nasal"
+  },
+  {
+    "entidad": "Tofacitinib",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Tofacitinib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago"
+  },
+  {
+    "entidad": "Tofacitinib",
+    "relacion": "efecto_secundario",
+    "valor": "coloración amarillenta en la piel y los ojos"
+  },
+  {
+    "entidad": "Tofacitinib",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de apetito"
+  },
+  {
+    "entidad": "Tofacitinib",
+    "relacion": "efecto_secundario",
+    "valor": "orina oscura"
+  },
+  {
+    "entidad": "Tofacitinib",
+    "relacion": "efecto_secundario",
+    "valor": "deposiciones de color arcilloso"
+  },
+  {
+    "entidad": "Tofacitinib",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Tofacitinib",
+    "relacion": "efecto_secundario",
+    "valor": "piel pálida"
+  },
+  {
+    "entidad": "Tofacitinib",
+    "relacion": "efecto_secundario",
+    "valor": "falta de aliento"
+  },
+  {
+    "entidad": "Tofacitinib",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, bien cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Tofacitinib",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente y lejos del calor excesivo y la humedad"
+  },
+  {
+    "entidad": "Tofacitinib",
+    "relacion": "sobredosis",
+    "valor": "llame a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Tofacitinib",
+    "relacion": "marca_comercial",
+    "valor": "Xeljanz"
+  },
+  {
+    "entidad": "Tofacitinib",
+    "relacion": "marca_comercial",
+    "valor": "Xeljanz XR"
+  },
+  {
+    "entidad": "Tolazamida",
+    "relacion": "trata",
+    "valor": "diabetes tipo 2"
+  },
+  {
+    "entidad": "Tolazamida",
+    "relacion": "uso",
+    "valor": "tabletas por vía oral, generalmente una vez al día con el desayuno"
+  },
+  {
+    "entidad": "Tolazamida",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Tolazamida",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos en uso"
+  },
+  {
+    "entidad": "Tolazamida",
+    "relacion": "dieta",
+    "valor": "seguir recomendaciones de ejercicio y dieta del médico"
+  },
+  {
+    "entidad": "Tolazamida",
+    "relacion": "olvido",
+    "valor": "tomar la dosis olvidada tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Tolazamida",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Tolazamida",
+    "relacion": "efecto_secundario",
+    "valor": "sensación de plenitud en la parte superior del abdomen"
+  },
+  {
+    "entidad": "Tolazamida",
+    "relacion": "efecto_secundario",
+    "valor": "acidez estomacal"
+  },
+  {
+    "entidad": "Tolazamida",
+    "relacion": "efecto_secundario",
+    "valor": "coloración amarillenta en la piel y los ojos"
+  },
+  {
+    "entidad": "Tolazamida",
+    "relacion": "efecto_secundario",
+    "valor": "heces de color claro"
+  },
+  {
+    "entidad": "Tolazamida",
+    "relacion": "efecto_secundario",
+    "valor": "orina oscura"
+  },
+  {
+    "entidad": "Tolazamida",
+    "relacion": "efecto_secundario",
+    "valor": "dolor en la parte superior derecha del estómago"
+  },
+  {
+    "entidad": "Tolazamida",
+    "relacion": "efecto_secundario",
+    "valor": "sangrado o moretones inusuales"
+  },
+  {
+    "entidad": "Tolazamida",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Tolazamida",
+    "relacion": "efecto_secundario",
+    "valor": "fiebre"
+  },
+  {
+    "entidad": "Tolazamida",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de garganta"
+  },
+  {
+    "entidad": "Tolazamida",
+    "relacion": "almacenamiento",
+    "valor": "mantener en empaque original, a temperatura ambiente, lejos de luz y humedad"
+  },
+  {
+    "entidad": "Tolazamida",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Tolcapona",
+    "relacion": "contraindicado_en",
+    "valor": "daño hepático potencialmente mortal"
+  },
+  {
+    "entidad": "Tolcapona",
+    "relacion": "trata",
+    "valor": "signos y síntomas de la enfermedad de Parkinson"
+  },
+  {
+    "entidad": "Tolcapona",
+    "relacion": "uso",
+    "valor": "tableta, tres veces al día"
+  },
+  {
+    "entidad": "Tolcapona",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos"
+  },
+  {
+    "entidad": "Tolcapona",
+    "relacion": "dieta",
+    "valor": "puede tomarse con alimentos para reducir náuseas"
+  },
+  {
+    "entidad": "Tolcapona",
+    "relacion": "olvido",
+    "valor": "tome la dosis omitida tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Tolcapona",
+    "relacion": "efecto_secundario",
+    "valor": "trastornos del sueño"
+  },
+  {
+    "entidad": "Tolcapona",
+    "relacion": "efecto_secundario",
+    "valor": "sueños desmesurados"
+  },
+  {
+    "entidad": "Tolcapona",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Tolcapona",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Tolcapona",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Tolcapona",
+    "relacion": "efecto_secundario",
+    "valor": "mayor sudoración"
+  },
+  {
+    "entidad": "Tolcapona",
+    "relacion": "efecto_secundario",
+    "valor": "alucinaciones"
+  },
+  {
+    "entidad": "Tolcapona",
+    "relacion": "efecto_secundario",
+    "valor": "confusión"
+  },
+  {
+    "entidad": "Tolcapona",
+    "relacion": "efecto_secundario",
+    "valor": "ritmo cardíaco irregular"
+  },
+  {
+    "entidad": "Tolcapona",
+    "relacion": "almacenamiento",
+    "valor": "mantener en envase original, cerrado y a temperatura ambiente"
+  },
+  {
+    "entidad": "Tolcapona",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Tolcapona",
+    "relacion": "marca_comercial",
+    "valor": "Tasmar"
+  },
+  {
+    "entidad": "Tolmetina",
+    "relacion": "contraindicado_en",
+    "valor": "ataque cardíaco reciente"
+  },
+  {
+    "entidad": "Tolmetina",
+    "relacion": "trata",
+    "valor": "osteoartritis"
+  },
+  {
+    "entidad": "Tolmetina",
+    "relacion": "trata",
+    "valor": "artritis reumatoide"
+  },
+  {
+    "entidad": "Tolmetina",
+    "relacion": "trata",
+    "valor": "artritis reumatoide juvenil"
+  },
+  {
+    "entidad": "Tolmetina",
+    "relacion": "trata",
+    "valor": "espondilitis anquilosante"
+  },
+  {
+    "entidad": "Tolmetina",
+    "relacion": "uso",
+    "valor": "tabletas y cápsulas por vía oral"
+  },
+  {
+    "entidad": "Tolmetina",
+    "relacion": "uso",
+    "valor": "adultos 3 veces al día con el estómago vacío"
+  },
+  {
+    "entidad": "Tolmetina",
+    "relacion": "uso",
+    "valor": "niños mayores de 2 años 4 veces al día con el estómago vacío"
+  },
+  {
+    "entidad": "Tolmetina",
+    "relacion": "otro_uso",
+    "valor": "tratar condiciones que causan tensión muscular o hinchazón"
+  },
+  {
+    "entidad": "Tolmetina",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias a AINE"
+  },
+  {
+    "entidad": "Tolmetina",
+    "relacion": "precaucion",
+    "valor": "informar sobre medicamentos que se están tomando"
+  },
+  {
+    "entidad": "Tolmetina",
+    "relacion": "precaucion",
+    "valor": "no tomar durante el embarazo después de la semana 20"
+  },
+  {
+    "entidad": "Tolmetina",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Tolmetina",
+    "relacion": "olvido",
+    "valor": "tomar la dosis olvidada tan pronto como se recuerde"
+  },
+  {
+    "entidad": "Tolmetina",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Tolmetina",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Tolmetina",
+    "relacion": "efecto_secundario",
+    "valor": "aumento o pérdida de peso"
+  },
+  {
+    "entidad": "Tolmetina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Tolmetina",
+    "relacion": "efecto_secundario",
+    "valor": "depresión"
+  },
+  {
+    "entidad": "Tolmetina",
+    "relacion": "efecto_secundario",
+    "valor": "irritación en la piel"
+  },
+  {
+    "entidad": "Tolmetina",
+    "relacion": "efecto_secundario",
+    "valor": "zumbido en los oídos"
+  },
+  {
+    "entidad": "Tolmetina",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio excesivo"
+  },
+  {
+    "entidad": "Tolmetina",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, bien cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Tolmetina",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente, lejos del calor y la humedad"
+  },
+  {
+    "entidad": "Tolmetina",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Tolmetina",
+    "relacion": "marca_comercial",
+    "valor": "Tolectin ®"
+  },
+  {
+    "entidad": "Tolmetina",
+    "relacion": "marca_comercial",
+    "valor": "Tolectin ® DS"
+  },
+  {
+    "entidad": "Trandolapril y verapamil",
+    "relacion": "contraindicado_en",
+    "valor": "embarazo y lactancia"
+  },
+  {
+    "entidad": "Trandolapril y verapamil",
+    "relacion": "trata",
+    "valor": "presión arterial alta"
+  },
+  {
+    "entidad": "Trandolapril y verapamil",
+    "relacion": "uso",
+    "valor": "tomar una vez al día, tragar entera"
+  },
+  {
+    "entidad": "Trandolapril y verapamil",
+    "relacion": "se_administra_via",
+    "valor": "vía oral"
+  },
+  {
+    "entidad": "Trandolapril y verapamil",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos actuales"
+  },
+  {
+    "entidad": "Trandolapril y verapamil",
+    "relacion": "dieta",
+    "valor": "tomar con alimentos o leche, seguir dieta baja en sal si es indicada"
+  },
+  {
+    "entidad": "Trandolapril y verapamil",
+    "relacion": "olvido",
+    "valor": "tomar la dosis olvidada tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Trandolapril y verapamil",
+    "relacion": "efecto_secundario",
+    "valor": "tos"
+  },
+  {
+    "entidad": "Trandolapril y verapamil",
+    "relacion": "efecto_secundario",
+    "valor": "mareos o aturdimiento"
+  },
+  {
+    "entidad": "Trandolapril y verapamil",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de garganta"
+  },
+  {
+    "entidad": "Trandolapril y verapamil",
+    "relacion": "efecto_secundario",
+    "valor": "ronquera"
+  },
+  {
+    "entidad": "Trandolapril y verapamil",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio excesivo"
+  },
+  {
+    "entidad": "Trandolapril y verapamil",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Trandolapril y verapamil",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Trandolapril y verapamil",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Trandolapril y verapamil",
+    "relacion": "efecto_secundario",
+    "valor": "molestias estomacales"
+  },
+  {
+    "entidad": "Trandolapril y verapamil",
+    "relacion": "efecto_secundario",
+    "valor": "acidez estomacal"
+  },
+  {
+    "entidad": "Trandolapril y verapamil",
+    "relacion": "efecto_secundario",
+    "valor": "rubor"
+  },
+  {
+    "entidad": "Trandolapril y verapamil",
+    "relacion": "efecto_secundario",
+    "valor": "ritmo cardíaco lento"
+  },
+  {
+    "entidad": "Trandolapril y verapamil",
+    "relacion": "efecto_secundario",
+    "valor": "sueños vívidos e inusuales"
+  },
+  {
+    "entidad": "Trandolapril y verapamil",
+    "relacion": "efecto_secundario",
+    "valor": "hinchazón de la cara, ojos, labios, lengua, brazos o piernas"
+  },
+  {
+    "entidad": "Trandolapril y verapamil",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para respirar o tragar"
+  },
+  {
+    "entidad": "Trandolapril y verapamil",
+    "relacion": "efecto_secundario",
+    "valor": "desmayos"
+  },
+  {
+    "entidad": "Trandolapril y verapamil",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Trandolapril y verapamil",
+    "relacion": "efecto_secundario",
+    "valor": "coloración amarillenta en la piel y los ojos"
+  },
+  {
+    "entidad": "Trandolapril y verapamil",
+    "relacion": "efecto_secundario",
+    "valor": "fiebre"
+  },
+  {
+    "entidad": "Trandolapril y verapamil",
+    "relacion": "efecto_secundario",
+    "valor": "aumento de la frecuencia o gravedad del dolor torácico"
+  },
+  {
+    "entidad": "Trandolapril y verapamil",
+    "relacion": "almacenamiento",
+    "valor": "mantener en envase original, cerrado, a temperatura ambiente"
+  },
+  {
+    "entidad": "Trandolapril y verapamil",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Trandolapril y verapamil",
+    "relacion": "marca_comercial",
+    "valor": "Tarka"
+  },
+  {
+    "entidad": "Tretinoína",
+    "relacion": "contraindicado_en",
+    "valor": "mujeres embarazadas o que pudieran quedar embarazadas"
+  },
+  {
+    "entidad": "Tretinoína",
+    "relacion": "trata",
+    "valor": "leucemia promielocítica aguda (APL)"
+  },
+  {
+    "entidad": "Tretinoína",
+    "relacion": "uso",
+    "valor": "cápsulas por vía oral, dos veces al día hasta por 90 días"
+  },
+  {
+    "entidad": "Tretinoína",
+    "relacion": "se_administra_via",
+    "valor": "oral"
+  },
+  {
+    "entidad": "Tretinoína",
+    "relacion": "otro_uso",
+    "valor": "consultar al médico o farmacéutico"
+  },
+  {
+    "entidad": "Tretinoína",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos actuales"
+  },
+  {
+    "entidad": "Tretinoína",
+    "relacion": "dieta",
+    "valor": "consultar sobre jugo de pomelo"
+  },
+  {
+    "entidad": "Tretinoína",
+    "relacion": "olvido",
+    "valor": "tomar la dosis olvidada tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Tretinoína",
+    "relacion": "efecto_secundario",
+    "valor": "aumento de colesterol y grasas en sangre"
+  },
+  {
+    "entidad": "Tretinoína",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Tretinoína",
+    "relacion": "almacenamiento",
+    "valor": "mantener en empaque original, a temperatura ambiente"
+  },
+  {
+    "entidad": "Tretinoína",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Tretinoína",
+    "relacion": "marca_comercial",
+    "valor": "Vesanoid ®"
+  },
+  {
+    "entidad": "Triacetato de uridina",
+    "relacion": "trata",
+    "valor": "tratamiento de emergencia en niños y adultos que han recibido demasiados medicamentos de quimioterapia"
+  },
+  {
+    "entidad": "Triacetato de uridina",
+    "relacion": "uso",
+    "valor": "gránulos para tomarlos por vía oral, cuatro veces al día"
+  },
+  {
+    "entidad": "Triacetato de uridina",
+    "relacion": "se_administra_via",
+    "valor": "vía oral"
+  },
+  {
+    "entidad": "Triacetato de uridina",
+    "relacion": "precaucion",
+    "valor": "informe a su médico si es alérgico o si está tomando otros medicamentos"
+  },
+  {
+    "entidad": "Triacetato de uridina",
+    "relacion": "dieta",
+    "valor": "continúe con su dieta normal a menos que su médico indique lo contrario"
+  },
+  {
+    "entidad": "Triacetato de uridina",
+    "relacion": "olvido",
+    "valor": "tome la dosis que omitió tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Triacetato de uridina",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Triacetato de uridina",
+    "relacion": "efecto_secundario",
+    "valor": "náusea"
+  },
+  {
+    "entidad": "Triacetato de uridina",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Triacetato de uridina",
+    "relacion": "almacenamiento",
+    "valor": "mantenga en su envase original, cerrado herméticamente y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Triacetato de uridina",
+    "relacion": "marca_comercial",
+    "valor": "Vistogard ®"
+  },
+  {
+    "entidad": "Trimetadiona",
+    "relacion": "trata",
+    "valor": "crisis de ausencia"
+  },
+  {
+    "entidad": "Trimetadiona",
+    "relacion": "uso",
+    "valor": "tabletas para tomar por vía oral, tres o cuatro veces al día"
+  },
+  {
+    "entidad": "Trimetadiona",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Trimetadiona",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos actuales"
+  },
+  {
+    "entidad": "Trimetadiona",
+    "relacion": "precaucion",
+    "valor": "no conducir ni operar maquinaria hasta conocer sus efectos"
+  },
+  {
+    "entidad": "Trimetadiona",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Trimetadiona",
+    "relacion": "olvido",
+    "valor": "tomar la dosis olvidada tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Trimetadiona",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio"
+  },
+  {
+    "entidad": "Trimetadiona",
+    "relacion": "efecto_secundario",
+    "valor": "cambios en el peso"
+  },
+  {
+    "entidad": "Trimetadiona",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para conciliar el sueño"
+  },
+  {
+    "entidad": "Trimetadiona",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas o vómitos"
+  },
+  {
+    "entidad": "Trimetadiona",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, bien cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Trimetadiona",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Trimetadiona",
+    "relacion": "marca_comercial",
+    "valor": "Tridione ®"
+  },
+  {
+    "entidad": "Trimetobenzamida",
+    "relacion": "contraindicado_en",
+    "valor": "suplementos que contienen trimetobenzamida en supositorios"
+  },
+  {
+    "entidad": "Trimetobenzamida",
+    "relacion": "trata",
+    "valor": "náuseas y vómitos postquirúrgicos"
+  },
+  {
+    "entidad": "Trimetobenzamida",
+    "relacion": "trata",
+    "valor": "náuseas causadas por gastroenteritis"
+  },
+  {
+    "entidad": "Trimetobenzamida",
+    "relacion": "uso",
+    "valor": "tomar por vía oral, tres o cuatro veces al día"
+  },
+  {
+    "entidad": "Trimetobenzamida",
+    "relacion": "otro_uso",
+    "valor": "otros usos a discreción del médico"
+  },
+  {
+    "entidad": "Trimetobenzamida",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias a trimetobenzamida o otros medicamentos"
+  },
+  {
+    "entidad": "Trimetobenzamida",
+    "relacion": "precaucion",
+    "valor": "informar sobre otros medicamentos que se están tomando"
+  },
+  {
+    "entidad": "Trimetobenzamida",
+    "relacion": "precaucion",
+    "valor": "informar si padece síndrome de Reye, encefalitis o enfermedad hepática"
+  },
+  {
+    "entidad": "Trimetobenzamida",
+    "relacion": "precaucion",
+    "valor": "informar si está embarazada o amamantando"
+  },
+  {
+    "entidad": "Trimetobenzamida",
+    "relacion": "precaucion",
+    "valor": "no conducir ni operar maquinaria hasta conocer sus efectos"
+  },
+  {
+    "entidad": "Trimetobenzamida",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta a menos que el médico lo indique"
+  },
+  {
+    "entidad": "Trimetobenzamida",
+    "relacion": "olvido",
+    "valor": "tomar la dosis olvidada tan pronto como se recuerde"
+  },
+  {
+    "entidad": "Trimetobenzamida",
+    "relacion": "efecto_secundario",
+    "valor": "somnolencia"
+  },
+  {
+    "entidad": "Trimetobenzamida",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Trimetobenzamida",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Trimetobenzamida",
+    "relacion": "efecto_secundario",
+    "valor": "depresión"
+  },
+  {
+    "entidad": "Trimetobenzamida",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Trimetobenzamida",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Trimetobenzamida",
+    "relacion": "efecto_secundario",
+    "valor": "calambres musculares"
+  },
+  {
+    "entidad": "Trimetobenzamida",
+    "relacion": "efecto_secundario",
+    "valor": "confusión"
+  },
+  {
+    "entidad": "Trimetobenzamida",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, bien cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Trimetobenzamida",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente, lejos del calor y la humedad"
+  },
+  {
+    "entidad": "Trimetobenzamida",
+    "relacion": "marca_comercial",
+    "valor": "Tigan ®"
+  },
+  {
+    "entidad": "Trisalicilato de colina y magnesio",
+    "relacion": "trata",
+    "valor": "aliviar el dolor, la sensibilidad, la inflamación y la rigidez causados por la artritis y el hombro doloroso"
+  },
+  {
+    "entidad": "Trisalicilato de colina y magnesio",
+    "relacion": "trata",
+    "valor": "aliviar el dolor y bajar la fiebre"
+  },
+  {
+    "entidad": "Trisalicilato de colina y magnesio",
+    "relacion": "uso",
+    "valor": "tomar de una a tres veces al día"
+  },
+  {
+    "entidad": "Trisalicilato de colina y magnesio",
+    "relacion": "se_administra_via",
+    "valor": "vía oral"
+  },
+  {
+    "entidad": "Trisalicilato de colina y magnesio",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Trisalicilato de colina y magnesio",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias a medicamentos similares"
+  },
+  {
+    "entidad": "Trisalicilato de colina y magnesio",
+    "relacion": "precaucion",
+    "valor": "informar sobre otros medicamentos que se están tomando"
+  },
+  {
+    "entidad": "Trisalicilato de colina y magnesio",
+    "relacion": "precaucion",
+    "valor": "no tomar en niños y adolescentes con varicela o gripe"
+  },
+  {
+    "entidad": "Trisalicilato de colina y magnesio",
+    "relacion": "precaucion",
+    "valor": "informar si está embarazada o amamantando"
+  },
+  {
+    "entidad": "Trisalicilato de colina y magnesio",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta a menos que el médico lo indique"
+  },
+  {
+    "entidad": "Trisalicilato de colina y magnesio",
+    "relacion": "olvido",
+    "valor": "tomar la dosis omitida tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Trisalicilato de colina y magnesio",
+    "relacion": "efecto_secundario",
+    "valor": "molestias estomacales"
+  },
+  {
+    "entidad": "Trisalicilato de colina y magnesio",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Trisalicilato de colina y magnesio",
+    "relacion": "efecto_secundario",
+    "valor": "acidez estomacal"
+  },
+  {
+    "entidad": "Trisalicilato de colina y magnesio",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Trisalicilato de colina y magnesio",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Trisalicilato de colina y magnesio",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago"
+  },
+  {
+    "entidad": "Trisalicilato de colina y magnesio",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Trisalicilato de colina y magnesio",
+    "relacion": "efecto_secundario",
+    "valor": "aturdimiento"
+  },
+  {
+    "entidad": "Trisalicilato de colina y magnesio",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Trisalicilato de colina y magnesio",
+    "relacion": "efecto_secundario",
+    "valor": "somnolencia"
+  },
+  {
+    "entidad": "Trisalicilato de colina y magnesio",
+    "relacion": "efecto_secundario",
+    "valor": "falta de energía"
+  },
+  {
+    "entidad": "Trisalicilato de colina y magnesio",
+    "relacion": "efecto_secundario",
+    "valor": "zumbido en los oídos"
+  },
+  {
+    "entidad": "Trisalicilato de colina y magnesio",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de audición"
+  },
+  {
+    "entidad": "Trisalicilato de colina y magnesio",
+    "relacion": "efecto_secundario",
+    "valor": "heces negras y alquitranadas"
+  },
+  {
+    "entidad": "Trisalicilato de colina y magnesio",
+    "relacion": "efecto_secundario",
+    "valor": "sangre de color rojo en las heces"
+  },
+  {
+    "entidad": "Trisalicilato de colina y magnesio",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos con sangre"
+  },
+  {
+    "entidad": "Trisalicilato de colina y magnesio",
+    "relacion": "efecto_secundario",
+    "valor": "vomitar material que se ve como café molido"
+  },
+  {
+    "entidad": "Trisalicilato de colina y magnesio",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, bien cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Trisalicilato de colina y magnesio",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente, lejos del calor excesivo y la humedad"
+  },
+  {
+    "entidad": "Trisalicilato de colina y magnesio",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Trisalicilato de colina y magnesio",
+    "relacion": "marca_comercial",
+    "valor": "Trilisate ®"
+  },
+  {
+    "entidad": "Tucatinib",
+    "relacion": "trata",
+    "valor": "cáncer de mama con receptores hormonales positivos que se ha extendido a otras partes del cuerpo"
+  },
+  {
+    "entidad": "Tucatinib",
+    "relacion": "trata",
+    "valor": "cáncer colorrectal que se ha extendido a otras partes del cuerpo"
+  },
+  {
+    "entidad": "Tucatinib",
+    "relacion": "uso",
+    "valor": "tableta para tomar por vía oral, dos veces al día"
+  },
+  {
+    "entidad": "Tucatinib",
+    "relacion": "precaucion",
+    "valor": "informar si es alérgico al tucatinib o a otros medicamentos"
+  },
+  {
+    "entidad": "Tucatinib",
+    "relacion": "precaucion",
+    "valor": "informar sobre otros medicamentos, vitaminas y suplementos que toma"
+  },
+  {
+    "entidad": "Tucatinib",
+    "relacion": "precaucion",
+    "valor": "no amamantar mientras toma tucatinib y durante 1 semana después"
+  },
+  {
+    "entidad": "Tucatinib",
+    "relacion": "dieta",
+    "valor": "continuar con la dieta normal a menos que se indique lo contrario"
+  },
+  {
+    "entidad": "Tucatinib",
+    "relacion": "olvido",
+    "valor": "omitir la dosis que le faltó y continuar con el programa habitual"
+  },
+  {
+    "entidad": "Tucatinib",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Tucatinib",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Tucatinib",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Tucatinib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor abdominal"
+  },
+  {
+    "entidad": "Tucatinib",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de apetito"
+  },
+  {
+    "entidad": "Tucatinib",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de peso"
+  },
+  {
+    "entidad": "Tucatinib",
+    "relacion": "efecto_secundario",
+    "valor": "fatiga"
+  },
+  {
+    "entidad": "Tucatinib",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Tucatinib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Tucatinib",
+    "relacion": "efecto_secundario",
+    "valor": "úlceras en la boca"
+  },
+  {
+    "entidad": "Tucatinib",
+    "relacion": "efecto_secundario",
+    "valor": "sangrado de nariz"
+  },
+  {
+    "entidad": "Tucatinib",
+    "relacion": "efecto_secundario",
+    "valor": "hormigueo, ardor o adormecimiento de manos o pies"
+  },
+  {
+    "entidad": "Tucatinib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de articulaciones, muscular o de espalda"
+  },
+  {
+    "entidad": "Tucatinib",
+    "relacion": "efecto_secundario",
+    "valor": "enrojecimiento o ampollas en manos o pies"
+  },
+  {
+    "entidad": "Tucatinib",
+    "relacion": "efecto_secundario",
+    "valor": "piel pálida, fatiga o falta de aliento"
+  },
+  {
+    "entidad": "Tucatinib",
+    "relacion": "efecto_secundario",
+    "valor": "fiebre"
+  },
+  {
+    "entidad": "Tucatinib",
+    "relacion": "efecto_secundario",
+    "valor": "escalofríos"
+  },
+  {
+    "entidad": "Tucatinib",
+    "relacion": "efecto_secundario",
+    "valor": "tos"
+  },
+  {
+    "entidad": "Tucatinib",
+    "relacion": "efecto_secundario",
+    "valor": "falta de aliento"
+  },
+  {
+    "entidad": "Tucatinib",
+    "relacion": "efecto_secundario",
+    "valor": "ansiedad"
+  },
+  {
+    "entidad": "Tucatinib",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Tucatinib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor o molestias en el área superior derecha del estómago"
+  },
+  {
+    "entidad": "Tucatinib",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Tucatinib",
+    "relacion": "marca_comercial",
+    "valor": "Tukysa"
+  },
+  {
+    "entidad": "Vacuna contra la fiebre tifoidea",
+    "relacion": "trata",
+    "valor": "prevención de la fiebre tifoidea"
+  },
+  {
+    "entidad": "Vacuna contra la fiebre tifoidea",
+    "relacion": "se_administra_via",
+    "valor": "inyección (vacuna inactivada) y vía oral (vacuna viva)"
+  },
+  {
+    "entidad": "Vacuna contra la fiebre tifoidea",
+    "relacion": "uso",
+    "valor": "una dosis al menos 2 semanas antes del viaje"
+  },
+  {
+    "entidad": "Vacuna contra la fiebre tifoidea",
+    "relacion": "uso",
+    "valor": "cuatro dosis: una cápsula cada dos días durante una semana"
+  },
+  {
+    "entidad": "Vacuna contra la fiebre tifoidea",
+    "relacion": "uso",
+    "valor": "tomar cada dosis aproximadamente una hora antes de comer"
+  },
+  {
+    "entidad": "Vacuna contra la fiebre tifoidea",
+    "relacion": "contraindicado_en",
+    "valor": "niños menores de 2 años"
+  },
+  {
+    "entidad": "Vacuna contra la fiebre tifoidea",
+    "relacion": "contraindicado_en",
+    "valor": "personas con reacción grave a dosis anterior"
+  },
+  {
+    "entidad": "Vacuna contra la fiebre tifoidea",
+    "relacion": "contraindicado_en",
+    "valor": "personas con alergia grave a componentes"
+  },
+  {
+    "entidad": "Vacuna contra la fiebre tifoidea",
+    "relacion": "contraindicado_en",
+    "valor": "personas moderadamente enfermas"
+  },
+  {
+    "entidad": "Vacuna contra la fiebre tifoidea",
+    "relacion": "contraindicado_en",
+    "valor": "personas con sistema inmunitario debilitado"
+  },
+  {
+    "entidad": "Vacuna contra la fiebre tifoidea",
+    "relacion": "efecto_secundario",
+    "valor": "fiebre"
+  },
+  {
+    "entidad": "Vacuna contra la fiebre tifoidea",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Vacuna contra la fiebre tifoidea",
+    "relacion": "efecto_secundario",
+    "valor": "enrojecimiento o hinchazón en el lugar de la inyección"
+  },
+  {
+    "entidad": "Vacuna contra la fiebre tifoidea",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago"
+  },
+  {
+    "entidad": "Vacuna contra la fiebre tifoidea",
+    "relacion": "marca_comercial",
+    "valor": "Vivotif"
+  },
+  {
+    "entidad": "Vacuna contra la fiebre tifoidea",
+    "relacion": "marca_comercial",
+    "valor": "Typhim VI"
+  }
+]

@@ -1,0 +1,237 @@
+[
+  {
+    "entidad": "Epstein-Barr virus (EBV)",
+    "relacion": "es un",
+    "valor": "agente causal de mononucleosis infecciosa"
+  },
+  {
+    "entidad": "mononucleosis infecciosa",
+    "relacion": "puede causar",
+    "valor": "hepatitis aguda"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "fiebre, fatiga, cefalea, faringitis, dolor abdominal, pérdida del apetito, vómitos y orina oscura"
+  },
+  {
+    "entidad": "examen físico",
+    "relacion": "revela",
+    "valor": "ictericia, hepato-esplenomegalia, amigdalitis, adenopatías cervicales, edema facial y cervical"
+  },
+  {
+    "entidad": "pruebas serológicas",
+    "relacion": "muestran",
+    "valor": "resultados negativos para hepatitis viral, citomegalovirus, VIH-1 y VIH-2"
+  },
+  {
+    "entidad": "serología para EBV",
+    "relacion": "es positiva",
+    "valor": "indicando infección reciente"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "mejora con",
+    "valor": "manejo de soporte"
+  },
+  {
+    "entidad": "hepatitis aguda",
+    "relacion": "es un",
+    "valor": "desafío diagnóstico para médicos de atención primaria"
+  },
+  {
+    "entidad": "infección por EBV",
+    "relacion": "puede causar",
+    "valor": "ictericia colestásica"
+  },
+  {
+    "entidad": "método de manejo",
+    "relacion": "se basa en",
+    "valor": "cuidado de soporte, descanso y nutrición controlada"
+  },
+  {
+    "entidad": "EBV",
+    "relacion": "asociado con",
+    "valor": "infecciones crónicas y diversas malignidades"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "es referido a",
+    "valor": "vigilancia ambulatoria especializada"
+  },
+  {
+    "entidad": "EBV",
+    "relacion": "puede provocar",
+    "valor": "elevaciones de bilirrubina y aminotransferasas"
+  },
+  {
+    "entidad": "casos de hepatitis aguda por EBV",
+    "relacion": "son",
+    "valor": "raros pero en aumento"
+  },
+  {
+    "entidad": "diagnóstico de mononucleosis infecciosa",
+    "relacion": "se basa en",
+    "valor": "datos clínicos y hematológicos típicos"
+  },
+  {
+    "entidad": "casos de hepatitis aguda por EBV",
+    "relacion": "pueden ser",
+    "valor": "subdiagnosticados en jóvenes"
+  },
+  {
+    "entidad": "lipoma gástrico",
+    "relacion": "es un",
+    "valor": "tumor benigno raro"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "dolor abdominal, vómitos y pérdida de peso"
+  },
+  {
+    "entidad": "endoscopia",
+    "relacion": "muestra",
+    "valor": "tumor submucoso en el antro gástrico"
+  },
+  {
+    "entidad": "ultrasonido abdominal",
+    "relacion": "revela",
+    "valor": "masa gástrica homogénea y hiperecogénica"
+  },
+  {
+    "entidad": "tomografía computarizada",
+    "relacion": "demuestra",
+    "valor": "lesión con densidad grasa"
+  },
+  {
+    "entidad": "gastrectomía subtotal laparoscópica",
+    "relacion": "es el tratamiento para",
+    "valor": "lipoma gástrico sintomático"
+  },
+  {
+    "entidad": "procedimiento laparoscópico",
+    "relacion": "representa",
+    "valor": "una buena alternativa en el tratamiento"
+  },
+  {
+    "entidad": "estudio patológico",
+    "relacion": "revela",
+    "valor": "lipoma gástrico con márgenes claros"
+  },
+  {
+    "entidad": "síntomas",
+    "relacion": "dependen de",
+    "valor": "tamaño y localización del tumor"
+  },
+  {
+    "entidad": "resección quirúrgica",
+    "relacion": "se recomienda en",
+    "valor": "casos sintomáticos"
+  },
+  {
+    "entidad": "cirugía gástrica mínimamente invasiva",
+    "relacion": "ofrece",
+    "valor": "menor sangrado y dolor postoperatorio"
+  },
+  {
+    "entidad": "lipoma gástrico",
+    "relacion": "puede causar",
+    "valor": "obstrucción gástrica"
+  },
+  {
+    "entidad": "diagnóstico diferencial",
+    "relacion": "debe incluir",
+    "valor": "liposarcoma y tumor GIST lipomatoso"
+  },
+  {
+    "entidad": "Síndrome Hughes-Stovin",
+    "relacion": "es un",
+    "valor": "enfermedad de baja frecuencia"
+  },
+  {
+    "entidad": "Síndrome Hughes-Stovin",
+    "relacion": "se caracteriza por",
+    "valor": "aneurismas de las arterias pulmonares y trombosis venosa profunda"
+  },
+  {
+    "entidad": "enfermedad de Behçet",
+    "relacion": "puede estar asociada a",
+    "valor": "Síndrome Hughes-Stovin"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "fiebre, tos y hemoptisis"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "fue tratado con",
+    "valor": "antibióticos y esteroides"
+  },
+  {
+    "entidad": "filtro de vena cava inferior",
+    "relacion": "fue colocado en",
+    "valor": "paciente con alto riesgo de trombosis"
+  },
+  {
+    "entidad": "ciclofosfamida",
+    "relacion": "fue administrada a",
+    "valor": "paciente con Síndrome Hughes-Stovin"
+  },
+  {
+    "entidad": "Síndrome Hughes-Stovin",
+    "relacion": "puede presentar",
+    "valor": "aneurismas pulmonares"
+  },
+  {
+    "entidad": "aneurismas pulmonares",
+    "relacion": "tienen",
+    "valor": "mal pronóstico"
+  },
+  {
+    "entidad": "diagnóstico precoz",
+    "relacion": "puede modificar",
+    "valor": "historia natural del Síndrome Hughes-Stovin"
+  },
+  {
+    "entidad": "tratamiento temprano",
+    "relacion": "puede influir en",
+    "valor": "pronóstico del paciente"
+  },
+  {
+    "entidad": "angio TAC pulmonar",
+    "relacion": "es el método estándar para",
+    "valor": "diagnóstico del Síndrome Hughes-Stovin"
+  },
+  {
+    "entidad": "terapia inmunosupresora",
+    "relacion": "se recomienda para",
+    "valor": "tratamiento del Síndrome Hughes-Stovin"
+  },
+  {
+    "entidad": "Dr. Rafael Silva O.",
+    "relacion": "es el autor de",
+    "valor": "caso clínico"
+  },
+  {
+    "entidad": "Clínica del Maule",
+    "relacion": "es un",
+    "valor": "centro de atención médica"
+  },
+  {
+    "entidad": "Unidad de paciente crítico",
+    "relacion": "pertenece a",
+    "valor": "Clínica del Maule"
+  },
+  {
+    "entidad": "Hospital regional de Talca",
+    "relacion": "es un",
+    "valor": "centro de salud"
+  },
+  {
+    "entidad": "Facultad de Ciencias de la Salud",
+    "relacion": "pertenece a",
+    "valor": "Universidad Autónoma de Chile"
+  }
+]

@@ -1,0 +1,832 @@
+[
+  {
+    "entidad": "displasia fibrosa/síndrome de McCune-Albright",
+    "relacion": "es un",
+    "valor": "trastorno genético"
+  },
+  {
+    "entidad": "displasia fibrosa/síndrome de McCune-Albright",
+    "relacion": "se caracteriza por",
+    "valor": "manifestaciones clínicas variadas"
+  },
+  {
+    "entidad": "displasia fibrosa",
+    "relacion": "afecta a",
+    "valor": "huesos"
+  },
+  {
+    "entidad": "displasia fibrosa",
+    "relacion": "puede incluir",
+    "valor": "endocrinopatías múltiples"
+  },
+  {
+    "entidad": "pubertad precoz periférica",
+    "relacion": "es una manifestación de",
+    "valor": "displasia fibrosa/síndrome de McCune-Albright"
+  },
+  {
+    "entidad": "café-au-lait spots",
+    "relacion": "son una característica de",
+    "valor": "displasia fibrosa/síndrome de McCune-Albright"
+  },
+  {
+    "entidad": "GNAS",
+    "relacion": "es el gen asociado a",
+    "valor": "displasia fibrosa/síndrome de McCune-Albright"
+  },
+  {
+    "entidad": "mutación somática activante",
+    "relacion": "causa",
+    "valor": "displasia fibrosa/síndrome de McCune-Albright"
+  },
+  {
+    "entidad": "FGF23",
+    "relacion": "se produce en exceso en",
+    "valor": "displasia fibrosa/síndrome de McCune-Albright"
+  },
+  {
+    "entidad": "hipertiroidismo",
+    "relacion": "es una endocrinopatía asociada a",
+    "valor": "displasia fibrosa/síndrome de McCune-Albright"
+  },
+  {
+    "entidad": "letrozol",
+    "relacion": "se utiliza para tratar",
+    "valor": "pubertad precoz periférica"
+  },
+  {
+    "entidad": "tiroidectomía",
+    "relacion": "es un tratamiento para",
+    "valor": "hipertiroidismo"
+  },
+  {
+    "entidad": "estudio genético",
+    "relacion": "se realiza para identificar",
+    "valor": "variante patogénica en GNAS"
+  },
+  {
+    "entidad": "pacientes con displasia fibrosa/síndrome de McCune-Albright",
+    "relacion": "requieren",
+    "valor": "seguimiento multidisciplinario"
+  },
+  {
+    "entidad": "Centro de Investigación Traslacional en Endocrinología",
+    "relacion": "es parte de",
+    "valor": "Pontificia Universidad Católica de Chile"
+  },
+  {
+    "entidad": "Comité Ético Científico de Ciencias de la Salud UC",
+    "relacion": "aprueba",
+    "valor": "protocolos de investigación"
+  },
+  {
+    "entidad": "Entrenamiento Procedimental Básico (EPROBA)",
+    "relacion": "es un",
+    "valor": "método de entrenamiento en suturas"
+  },
+  {
+    "entidad": "estudiantes de medicina",
+    "relacion": "participan en",
+    "valor": "taller de suturas"
+  },
+  {
+    "entidad": "SARS-CoV-2",
+    "relacion": "afecta a",
+    "valor": "educación médica"
+  },
+  {
+    "entidad": "Universidad de Concepción",
+    "relacion": "ofrece",
+    "valor": "cursos de medicina"
+  },
+  {
+    "entidad": "taller de suturas",
+    "relacion": "se basa en",
+    "valor": "metodología EPROBA"
+  },
+  {
+    "entidad": "metodología EPROBA",
+    "relacion": "incluye",
+    "valor": "simulación clínica"
+  },
+  {
+    "entidad": "metodología EPROBA",
+    "relacion": "incluye",
+    "valor": "enseñanza por pares"
+  },
+  {
+    "entidad": "metodología EPROBA",
+    "relacion": "incluye",
+    "valor": "tutoría en pequeños grupos"
+  },
+  {
+    "entidad": "metodología EPROBA",
+    "relacion": "incluye",
+    "valor": "evaluación mediante instrumentos estandarizados"
+  },
+  {
+    "entidad": "metodología EPROBA",
+    "relacion": "incluye",
+    "valor": "recursos audiovisuales"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "provoca",
+    "valor": "cierre de instituciones educativas"
+  },
+  {
+    "entidad": "taller de suturas",
+    "relacion": "se realiza en",
+    "valor": "Departamento de Cirugía de la Universidad de Concepción"
+  },
+  {
+    "entidad": "evaluación de desempeño",
+    "relacion": "se realiza con",
+    "valor": "instrumento OSATS"
+  },
+  {
+    "entidad": "estudiantes",
+    "relacion": "evalúan",
+    "valor": "percepción del taller positivamente"
+  },
+  {
+    "entidad": "medidas sanitarias",
+    "relacion": "son adoptadas para",
+    "valor": "prevenir contagio de SARS-CoV-2"
+  },
+  {
+    "entidad": "taller de suturas",
+    "relacion": "se adapta a",
+    "valor": "restricciones sanitarias"
+  },
+  {
+    "entidad": "estudiantes de medicina",
+    "relacion": "mejoran",
+    "valor": "habilidades en sutura"
+  },
+  {
+    "entidad": "taller de suturas",
+    "relacion": "se lleva a cabo durante",
+    "valor": "pandemia por COVID-19"
+  },
+  {
+    "entidad": "comité de ética",
+    "relacion": "aprueba",
+    "valor": "intervención de enseñanza"
+  },
+  {
+    "entidad": "taller de suturas",
+    "relacion": "se realiza con",
+    "valor": "monitores capacitados"
+  },
+  {
+    "entidad": "estudiantes",
+    "relacion": "reportan",
+    "valor": "alta satisfacción con la intervención"
+  },
+  {
+    "entidad": "vacunas",
+    "relacion": "tienen un impacto",
+    "valor": "positivo en la reducción y prevención de enfermedades infecciosas"
+  },
+  {
+    "entidad": "vacunas",
+    "relacion": "evitan",
+    "valor": "al menos 23 millones de muertes desde 2011"
+  },
+  {
+    "entidad": "programas de vacunación",
+    "relacion": "han tenido",
+    "valor": "éxito a nivel mundial"
+  },
+  {
+    "entidad": "confianza y aceptación de vacunas",
+    "relacion": "ha disminuido",
+    "valor": "en los últimos años"
+  },
+  {
+    "entidad": "creencias negativas sobre vacunas",
+    "relacion": "constituyen",
+    "valor": "una amenaza a la salud global"
+  },
+  {
+    "entidad": "creencias",
+    "relacion": "demuestran un rol",
+    "valor": "fundamental en la predicción de conductas de salud"
+  },
+  {
+    "entidad": "intención de vacunación",
+    "relacion": "está asociada a",
+    "valor": "creencias sobre la seguridad y eficacia de las vacunas"
+  },
+  {
+    "entidad": "vacuna contra el SARS-CoV-2",
+    "relacion": "ha generado",
+    "valor": "suspicion en la población"
+  },
+  {
+    "entidad": "intención de vacunación",
+    "relacion": "está asociada a",
+    "valor": "creencias negativas sobre la vacuna contra el SARS-CoV-2"
+  },
+  {
+    "entidad": "escala CV-G",
+    "relacion": "evalúa",
+    "valor": "creencias sobre las vacunas en general"
+  },
+  {
+    "entidad": "escala CV-COVID",
+    "relacion": "evalúa",
+    "valor": "creencias sobre la vacuna contra el SARS-CoV-2"
+  },
+  {
+    "entidad": "escala CV-G",
+    "relacion": "presenta",
+    "valor": "una estructura unifactorial"
+  },
+  {
+    "entidad": "escala CV-COVID",
+    "relacion": "presenta",
+    "valor": "una estructura unifactorial"
+  },
+  {
+    "entidad": "escala CV-G",
+    "relacion": "reporta",
+    "valor": "muy buenos indicadores de confiabilidad"
+  },
+  {
+    "entidad": "escala CV-COVID",
+    "relacion": "reporta",
+    "valor": "muy buenos indicadores de confiabilidad"
+  },
+  {
+    "entidad": "creencias negativas hacia las vacunas",
+    "relacion": "están asociadas a",
+    "valor": "menor intención de vacunación"
+  },
+  {
+    "entidad": "personal de salud",
+    "relacion": "debe utilizar",
+    "valor": "instrumentos para abordar creencias negativas"
+  },
+  {
+    "entidad": "consentimiento informado",
+    "relacion": "es un",
+    "valor": "requisito para obtener material audiovisual clínico"
+  },
+  {
+    "entidad": "material audiovisual clínico",
+    "relacion": "requiere",
+    "valor": "autorización escrita del paciente"
+  },
+  {
+    "entidad": "Panel de expertos",
+    "relacion": "está formado por",
+    "valor": "cirujanos plásticos de la Sociedad Chilena de Cirugía Plástica"
+  },
+  {
+    "entidad": "metodología Delphi",
+    "relacion": "se aplica para",
+    "valor": "alcanzar consenso sobre el contenido del consentimiento informado"
+  },
+  {
+    "entidad": "formulario de consentimiento informado (FCI)",
+    "relacion": "se propone para",
+    "valor": "captura y uso de material audiovisual"
+  },
+  {
+    "entidad": "Comité de Ética de Investigación de la Pontificia Universidad Católica de Chile",
+    "relacion": "evalúa y aprueba",
+    "valor": "la metodología del proyecto"
+  },
+  {
+    "entidad": "propuesta de FCI",
+    "relacion": "está disponible para",
+    "valor": "uso entre profesionales de salud en Chile"
+  },
+  {
+    "entidad": "Ley número 20.584",
+    "relacion": "establece",
+    "valor": "la protección de la vida privada durante la atención de salud"
+  },
+  {
+    "entidad": "pacientes chilenos",
+    "relacion": "son sujetos de",
+    "valor": "consentimiento informado para material audiovisual"
+  },
+  {
+    "entidad": "traducción de formularios",
+    "relacion": "se realiza para",
+    "valor": "adaptar documentos en inglés al español"
+  },
+  {
+    "entidad": "experiencia en redes sociales",
+    "relacion": "es un requisito para",
+    "valor": "miembros del panel de expertos"
+  },
+  {
+    "entidad": "proceso de consentimiento informado",
+    "relacion": "es una instancia en la que",
+    "valor": "una persona acepta o rechaza su participación"
+  },
+  {
+    "entidad": "documento de consentimiento informado",
+    "relacion": "es un medio de",
+    "valor": "prueba de la decisión tomada"
+  },
+  {
+    "entidad": "sección 'otros'",
+    "relacion": "incluye",
+    "valor": "propuestas específicas para enriquecer el FCI"
+  },
+  {
+    "entidad": "propuestas de FCI",
+    "relacion": "se obtienen para",
+    "valor": "fines terapéuticos, académicos o científicos y para difusión"
+  },
+  {
+    "entidad": "panel de expertos",
+    "relacion": "realiza",
+    "valor": "rondas Delphi para consenso"
+  },
+  {
+    "entidad": "material audiovisual",
+    "relacion": "puede ser utilizado para",
+    "valor": "educación y difusión en medios de comunicación"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "deben ser informados sobre",
+    "valor": "la pérdida de derechos sobre el contenido una vez publicado"
+  },
+  {
+    "entidad": "diabetes mellitus tipo 2",
+    "relacion": "es un",
+    "valor": "patología metabólica"
+  },
+  {
+    "entidad": "diabetes mellitus tipo 2",
+    "relacion": "asocia a",
+    "valor": "complicaciones microvasculares y cardiovasculares"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "presenta",
+    "valor": "prevalencia mayor al 12% de diabetes tipo 2"
+  },
+  {
+    "entidad": "sobrepeso",
+    "relacion": "tiene prevalencia",
+    "valor": "cercana al 40%"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "tiene prevalencia",
+    "valor": "cercana al 35%"
+  },
+  {
+    "entidad": "metformina",
+    "relacion": "es",
+    "valor": "terapia inicial indiscutida en diabetes tipo 2"
+  },
+  {
+    "entidad": "control metabólico intensivo",
+    "relacion": "logra",
+    "valor": "reducción de complicaciones microvasculares"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "induce",
+    "valor": "enfermedad cardiovascular"
+  },
+  {
+    "entidad": "manejo de la obesidad",
+    "relacion": "puede",
+    "valor": "retrasar la progresión de prediabetes"
+  },
+  {
+    "entidad": "pérdida de peso moderada y sostenida",
+    "relacion": "mejora",
+    "valor": "control glicémico"
+  },
+  {
+    "entidad": "DME (drogas modificadoras de enfermedad)",
+    "relacion": "asociadas a",
+    "valor": "mejor control metabólico"
+  },
+  {
+    "entidad": "SGLT2i",
+    "relacion": "asociado a",
+    "valor": "mejor control metabólico que insulina rápida"
+  },
+  {
+    "entidad": "insulina rápida",
+    "relacion": "asociada a",
+    "valor": "mayor riesgo de hipoglucemia"
+  },
+  {
+    "entidad": "insulina basal",
+    "relacion": "asociada a",
+    "valor": "más eventos de hipoglucemia"
+  },
+  {
+    "entidad": "terapia hipoglicemiante",
+    "relacion": "debe ser",
+    "valor": "individualizada"
+  },
+  {
+    "entidad": "terapias tradicionales",
+    "relacion": "enfocadas en",
+    "valor": "control glicémico"
+  },
+  {
+    "entidad": "glucagón",
+    "relacion": "es un",
+    "valor": "péptido"
+  },
+  {
+    "entidad": "metformina",
+    "relacion": "no se asocia a",
+    "valor": "déficit de vitamina B12"
+  },
+  {
+    "entidad": "iSGLT2",
+    "relacion": "reporta",
+    "valor": "infecciones urogenitales en 2,7% de los usuarios"
+  },
+  {
+    "entidad": "GLP1-ra",
+    "relacion": "reporta",
+    "valor": "síntomas gastrointestinales en 18,5% de los usuarios"
+  },
+  {
+    "entidad": "síndrome de burnout",
+    "relacion": "afecta a",
+    "valor": "profesionales de la salud"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "incrementa",
+    "valor": "prevalencia del síndrome de burnout"
+  },
+  {
+    "entidad": "Clínica INDISA",
+    "relacion": "realiza",
+    "valor": "estudio sobre síndrome de burnout"
+  },
+  {
+    "entidad": "Maslach Burnout Inventory-Human Service Survey",
+    "relacion": "utiliza",
+    "valor": "para evaluar el síndrome de burnout"
+  },
+  {
+    "entidad": "trabajadores de salud",
+    "relacion": "presentan",
+    "valor": "altos niveles de agotamiento emocional"
+  },
+  {
+    "entidad": "turno nocturno",
+    "relacion": "asocia con",
+    "valor": "mayor prevalencia de síndrome de burnout"
+  },
+  {
+    "entidad": "enfermería",
+    "relacion": "muestra",
+    "valor": "mayor prevalencia de agotamiento emocional"
+  },
+  {
+    "entidad": "personal de salud",
+    "relacion": "desarrolla",
+    "valor": "problemas de salud mental"
+  },
+  {
+    "entidad": "Clínica INDISA",
+    "relacion": "implementa",
+    "valor": "conversatorios grupales con ayuda psicológica"
+  },
+  {
+    "entidad": "estrategias psicosociales",
+    "relacion": "se recomiendan para",
+    "valor": "monitorear la salud mental de trabajadores de la salud"
+  },
+  {
+    "entidad": "síndrome de burnout",
+    "relacion": "se define como",
+    "valor": "alto agotamiento emocional y baja realización personal"
+  },
+  {
+    "entidad": "instituciones de salud",
+    "relacion": "deben establecer",
+    "valor": "acciones e intervenciones basadas en evidencia"
+  },
+  {
+    "entidad": "personal de salud",
+    "relacion": "enfrenta",
+    "valor": "carga desproporcionada durante la pandemia"
+  },
+  {
+    "entidad": "Clínica INDISA",
+    "relacion": "transforma",
+    "valor": "capacidad de atención para COVID-19"
+  },
+  {
+    "entidad": "síndrome de burnout",
+    "relacion": "se relaciona con",
+    "valor": "reducción de productividad"
+  },
+  {
+    "entidad": "trabajadores de salud",
+    "relacion": "reportan",
+    "valor": "síntomas de estrés y ansiedad"
+  },
+  {
+    "entidad": "paro cardiorrespiratorio extrahospitalario (PCR-EH)",
+    "relacion": "se define como",
+    "valor": "cese de la actividad circulatoria del corazón"
+  },
+  {
+    "entidad": "Comité Internacional de Resucitación (ILCOR)",
+    "relacion": "ha creado",
+    "valor": "guías estandarizadas de reporte y recolección de datos"
+  },
+  {
+    "entidad": "registro prospectivo",
+    "relacion": "se implementó en",
+    "valor": "hospital público en Santiago, Chile"
+  },
+  {
+    "entidad": "pacientes adultos",
+    "relacion": "fueron atendidos en",
+    "valor": "servicio de urgencia tras PCR-EH"
+  },
+  {
+    "entidad": "hospital terciario",
+    "relacion": "atiende a",
+    "valor": "aproximadamente 10% de la población chilena"
+  },
+  {
+    "entidad": "mortalidad general del centro hospitalario",
+    "relacion": "es",
+    "valor": "4%"
+  },
+  {
+    "entidad": "sobrevida al alta hospitalaria",
+    "relacion": "fue",
+    "valor": "10%"
+  },
+  {
+    "entidad": "sobrevida con mRankin 0-1",
+    "relacion": "fue",
+    "valor": "5%"
+  },
+  {
+    "entidad": "ritmos cardíacos de ingreso",
+    "relacion": "registrados fueron",
+    "valor": "asistolia, actividad eléctrica sin pulso, FV/TV"
+  },
+  {
+    "entidad": "pacientes con PCR-EH no traumáticos",
+    "relacion": "fueron analizados para",
+    "valor": "manejo terapéutico y desenlaces"
+  },
+  {
+    "entidad": "reanimación cardiopulmonar (RCP)",
+    "relacion": "fue realizada por",
+    "valor": "testigos en 28% de los casos"
+  },
+  {
+    "entidad": "hospitalización",
+    "relacion": "tuvo una mediana de",
+    "valor": "18 días para sobrevivientes"
+  },
+  {
+    "entidad": "hipotermia terapéutica",
+    "relacion": "fue recibida por",
+    "valor": "7,4% de los pacientes hospitalizados"
+  },
+  {
+    "entidad": "registro de PCR",
+    "relacion": "es relevante para",
+    "valor": "mejorar resultados del manejo del PCR-EH"
+  },
+  {
+    "entidad": "educación sobre reanimación",
+    "relacion": "debería ser",
+    "valor": "materia educativa en establecimientos de educación"
+  },
+  {
+    "entidad": "pacientes con causas cardiovasculares",
+    "relacion": "tuvieron una sobrevida hospitalaria de",
+    "valor": "14%"
+  },
+  {
+    "entidad": "pacientes con antecedentes de cáncer",
+    "relacion": "tuvieron una mortalidad de",
+    "valor": "100%"
+  },
+  {
+    "entidad": "desfibriladores externos automáticos",
+    "relacion": "son promovidos por",
+    "valor": "ley 21.156 en Chile"
+  },
+  {
+    "entidad": "enfermedad de Crohn",
+    "relacion": "afecta a",
+    "valor": "región ileocecal"
+  },
+  {
+    "entidad": "tratamiento médico",
+    "relacion": "incluye",
+    "valor": "terapia biológica"
+  },
+  {
+    "entidad": "terapia biológica",
+    "relacion": "tiene resultados",
+    "valor": "remisión variables a largo plazo"
+  },
+  {
+    "entidad": "enfermedad de Crohn",
+    "relacion": "requiere",
+    "valor": "tratamiento quirúrgico ante falla de respuesta a terapia médica"
+  },
+  {
+    "entidad": "resección ileocecal",
+    "relacion": "es un",
+    "valor": "tratamiento quirúrgico para enfermedad de Crohn"
+  },
+  {
+    "entidad": "recidiva endoscópica",
+    "relacion": "es un tipo de",
+    "valor": "recidiva de enfermedad de Crohn"
+  },
+  {
+    "entidad": "recidiva clínica",
+    "relacion": "es un tipo de",
+    "valor": "recidiva de enfermedad de Crohn"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "son sometidos a",
+    "valor": "resección ileocecal"
+  },
+  {
+    "entidad": "Hospital Clínico de la Pontificia Universidad Católica",
+    "relacion": "realiza",
+    "valor": "resección ileocecal"
+  },
+  {
+    "entidad": "complicaciones postoperatorias",
+    "relacion": "se clasifican en",
+    "valor": "menores y mayores"
+  },
+  {
+    "entidad": "anastomosis primaria",
+    "relacion": "se realiza en",
+    "valor": "pacientes sometidos a resección ileocecal"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "es un factor",
+    "valor": "que contribuye a complicaciones postoperatorias"
+  },
+  {
+    "entidad": "optimización nutricional",
+    "relacion": "es necesaria en",
+    "valor": "pacientes antes de cirugía"
+  },
+  {
+    "entidad": "Kono-S",
+    "relacion": "es una técnica",
+    "valor": "de anastomosis que reduce recurrencia"
+  },
+  {
+    "entidad": "mesenterio",
+    "relacion": "influye en",
+    "valor": "recurrencia de enfermedad de Crohn"
+  },
+  {
+    "entidad": "biológicos",
+    "relacion": "se utilizan para",
+    "valor": "profilaxis postoperatoria en enfermedad de Crohn"
+  },
+  {
+    "entidad": "recidiva endoscópica",
+    "relacion": "persiste en",
+    "valor": "pacientes después de resección"
+  },
+  {
+    "entidad": "recidiva clínica",
+    "relacion": "persiste en",
+    "valor": "pacientes después de resección"
+  },
+  {
+    "entidad": "micofenolato mofetilo",
+    "relacion": "es un",
+    "valor": "medicamento inmunosupresor"
+  },
+  {
+    "entidad": "micofenolato mofetilo",
+    "relacion": "se utiliza en",
+    "valor": "enfermedades inmunomediadas"
+  },
+  {
+    "entidad": "micofenolato mofetilo",
+    "relacion": "previene",
+    "valor": "rechazo de trasplante"
+  },
+  {
+    "entidad": "micofenolato mofetilo",
+    "relacion": "se extiende a",
+    "valor": "lupus nephritis"
+  },
+  {
+    "entidad": "micofenolato mofetilo",
+    "relacion": "se utiliza como",
+    "valor": "agente ahorrador de glucocorticoides"
+  },
+  {
+    "entidad": "micofenolato mofetilo",
+    "relacion": "tiene un perfil de",
+    "valor": "respuesta favorable como inmunosupresor de segunda línea"
+  },
+  {
+    "entidad": "glucocorticoides",
+    "relacion": "son efectivos en",
+    "valor": "respuesta antiinflamatoria e inmunosupresora"
+  },
+  {
+    "entidad": "glucocorticoides",
+    "relacion": "pueden causar",
+    "valor": "efectos adversos a largo plazo"
+  },
+  {
+    "entidad": "enfermedades inmunomediadas",
+    "relacion": "requieren",
+    "valor": "uso de inmunosupresores"
+  },
+  {
+    "entidad": "micofenolato mofetilo",
+    "relacion": "se utiliza en",
+    "valor": "enfermedades autoinmunes sistémicas"
+  },
+  {
+    "entidad": "micofenolato mofetilo",
+    "relacion": "se utiliza en",
+    "valor": "enfermedades neurológicas inmunomediadas"
+  },
+  {
+    "entidad": "micofenolato mofetilo",
+    "relacion": "se utiliza en",
+    "valor": "enfermedades hematológicas inmunomediadas"
+  },
+  {
+    "entidad": "ácido micofenólico",
+    "relacion": "es el metabolito activo de",
+    "valor": "micofenolato mofetilo"
+  },
+  {
+    "entidad": "enzima inosina monofosfato deshidrogenasa",
+    "relacion": "es inhibida por",
+    "valor": "ácido micofenólico"
+  },
+  {
+    "entidad": "linfocitos T",
+    "relacion": "son inducidos a",
+    "valor": "apoptosis por ácido micofenólico"
+  },
+  {
+    "entidad": "linfocitos B",
+    "relacion": "tienen su proliferación inhibida por",
+    "valor": "ácido micofenólico"
+  },
+  {
+    "entidad": "micofenolato mofetilo",
+    "relacion": "se relaciona con",
+    "valor": "infecciones virales"
+  },
+  {
+    "entidad": "micofenolato mofetilo",
+    "relacion": "se utiliza en",
+    "valor": "casos refractarios"
+  },
+  {
+    "entidad": "lupus eritematoso sistémico",
+    "relacion": "es una",
+    "valor": "patología autoinmune sistémica"
+  },
+  {
+    "entidad": "micofenolato mofetilo",
+    "relacion": "se considera",
+    "valor": "una opción terapéutica de segunda línea"
+  },
+  {
+    "entidad": "efectos adversos",
+    "relacion": "son",
+    "valor": "escasos y leves"
+  },
+  {
+    "entidad": "dosis de mantenimiento de micofenolato mofetilo",
+    "relacion": "es",
+    "valor": "1,500 mg/día"
+  }
+]

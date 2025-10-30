@@ -1,0 +1,807 @@
+[
+  {
+    "entidad": "Aneurisma toracoabdominal",
+    "relacion": "es un",
+    "valor": "enfermedad"
+  },
+  {
+    "entidad": "Cirugía convencional",
+    "relacion": "es el",
+    "valor": "gold standard para el tratamiento del aneurisma toracoabdominal"
+  },
+  {
+    "entidad": "Cirugía convencional",
+    "relacion": "asocia a",
+    "valor": "elevada tasa de mortalidad y morbilidad"
+  },
+  {
+    "entidad": "Paraplejia",
+    "relacion": "es una",
+    "valor": "complicación importante de la cirugía convencional"
+  },
+  {
+    "entidad": "Falla renal",
+    "relacion": "es una",
+    "valor": "complicación importante de la cirugía convencional"
+  },
+  {
+    "entidad": "Operación",
+    "relacion": "resulta en",
+    "valor": "mortalidad perioperatoria"
+  },
+  {
+    "entidad": "Mortalidad perioperatoria",
+    "relacion": "fue",
+    "valor": "4.4%"
+  },
+  {
+    "entidad": "Sobrevida a 5 años",
+    "relacion": "fue",
+    "valor": "60%"
+  },
+  {
+    "entidad": "Sobrevida a 10 años",
+    "relacion": "fue",
+    "valor": "40%"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "es un",
+    "valor": "centro de cirugía vascular y endovascular"
+  },
+  {
+    "entidad": "Comité de Ética",
+    "relacion": "evaluó y aprobó",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "Aneurisma toracoabdominal asintomático",
+    "relacion": "puede alcanzar",
+    "valor": "mortalidad de hasta 70% a dos años"
+  },
+  {
+    "entidad": "Cirugía híbrida",
+    "relacion": "es un",
+    "valor": "método alternativo al tratamiento del aneurisma toracoabdominal"
+  },
+  {
+    "entidad": "Re-intervención aórtica",
+    "relacion": "es necesaria en",
+    "valor": "algunos pacientes a largo plazo"
+  },
+  {
+    "entidad": "Drenaje de líquido cefalorraquídeo",
+    "relacion": "se utilizó en",
+    "valor": "algunos pacientes para prevenir isquemia medular"
+  },
+  {
+    "entidad": "Mortalidad tardía",
+    "relacion": "es un",
+    "valor": "resultado secundario a evaluar"
+  },
+  {
+    "entidad": "Complicaciones neurológicas",
+    "relacion": "son frecuentes en",
+    "valor": "pacientes con mayor extensión del aneurisma"
+  },
+  {
+    "entidad": "Tasa de re-intervención",
+    "relacion": "fue",
+    "valor": "baja y tardía en la serie"
+  },
+  {
+    "entidad": "Seguimiento estricto",
+    "relacion": "es fundamental para",
+    "valor": "evaluar el compromiso de la aorta remanente"
+  },
+  {
+    "entidad": "Hospital San Borja Arriarán",
+    "relacion": "ubicado en",
+    "valor": "Santiago, Chile"
+  },
+  {
+    "entidad": "Escuela de Nutrición y Dietética",
+    "relacion": "pertenece a",
+    "valor": "Universidad San Sebastián"
+  },
+  {
+    "entidad": "Escuela de Nutrición y Dietética",
+    "relacion": "pertenece a",
+    "valor": "Universidad Mayor"
+  },
+  {
+    "entidad": "Escuela de Nutrición y Dietética",
+    "relacion": "pertenece a",
+    "valor": "Universidad Finis Terrae"
+  },
+  {
+    "entidad": "Instituto de Nutrición y Tecnología de los Alimentos",
+    "relacion": "pertenece a",
+    "valor": "Universidad de Chile"
+  },
+  {
+    "entidad": "Magíster en Nutrición y Alimentos",
+    "relacion": "ofrecido por",
+    "valor": "Universidad de Chile"
+  },
+  {
+    "entidad": "Nutricionista",
+    "relacion": "es un",
+    "valor": "profesional de la salud"
+  },
+  {
+    "entidad": "Doctor en Nutrición y Alimentos",
+    "relacion": "es un",
+    "valor": "profesional de la salud"
+  },
+  {
+    "entidad": "Magister en Nutrición",
+    "relacion": "ofrecido por",
+    "valor": "Pontificia Universidad Católica de Chile"
+  },
+  {
+    "entidad": "Especialidad en ECNT",
+    "relacion": "ofrecido por",
+    "valor": "INTA, Universidad de Chile"
+  },
+  {
+    "entidad": "calidad de vida relacionada con la salud (CVRS)",
+    "relacion": "define como",
+    "valor": "evaluación subjetiva de influencias del estado de salud"
+  },
+  {
+    "entidad": "CKD",
+    "relacion": "afecta a",
+    "valor": "calidad de vida"
+  },
+  {
+    "entidad": "KDQOL-36",
+    "relacion": "es un",
+    "valor": "cuestionario de calidad de vida"
+  },
+  {
+    "entidad": "diálisis peritoneal",
+    "relacion": "es un",
+    "valor": "tratamiento para CKD"
+  },
+  {
+    "entidad": "pacientes en diálisis peritoneal",
+    "relacion": "reportan",
+    "valor": "buena calidad de vida"
+  },
+  {
+    "entidad": "síntomas de enfermedad renal",
+    "relacion": "afectan",
+    "valor": "calidad de vida"
+  },
+  {
+    "entidad": "evaluación de CVRS",
+    "relacion": "permite",
+    "valor": "mejorar pronóstico en pacientes"
+  },
+  {
+    "entidad": "K-DOQI",
+    "relacion": "establece",
+    "valor": "deterioro de CVRS en CKD"
+  },
+  {
+    "entidad": "componente genérico del KDQOL-36",
+    "relacion": "evalúa",
+    "valor": "funcionamiento físico y mental"
+  },
+  {
+    "entidad": "carga de enfermedad renal",
+    "relacion": "evalúa",
+    "valor": "interferencia en la vida diaria"
+  },
+  {
+    "entidad": "síntomas",
+    "relacion": "incluyen",
+    "valor": "dolor, prurito, ansiedad"
+  },
+  {
+    "entidad": "efectos de la enfermedad renal",
+    "relacion": "incluyen",
+    "valor": "ingesta de líquidos y restricciones dietéticas"
+  },
+  {
+    "entidad": "Comité de Ética del HCSBA",
+    "relacion": "aprueba",
+    "valor": "protocolo de investigación"
+  },
+  {
+    "entidad": "KDQOL-36",
+    "relacion": "es utilizado para",
+    "valor": "evaluar calidad de vida en pacientes con ERC"
+  },
+  {
+    "entidad": "pacientes sin diabetes",
+    "relacion": "reportan",
+    "valor": "mejor calidad de vida"
+  },
+  {
+    "entidad": "pacientes activos laboralmente",
+    "relacion": "reportan",
+    "valor": "mejor puntaje en componente físico"
+  },
+  {
+    "entidad": "pacientes inactivos laboralmente",
+    "relacion": "reportan",
+    "valor": "mejor puntaje en componente efecto"
+  },
+  {
+    "entidad": "nivel de ingresos",
+    "relacion": "afecta",
+    "valor": "calidad de vida"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "es importante para",
+    "valor": "acciones preventivas en pacientes"
+  },
+  {
+    "entidad": "Hepatitis crónica por virus C",
+    "relacion": "es una",
+    "valor": "enfermedad"
+  },
+  {
+    "entidad": "antivirales de acción directa (AAD)",
+    "relacion": "son utilizados para",
+    "valor": "tratar hepatitis C"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "recolecta",
+    "valor": "datos de pacientes"
+  },
+  {
+    "entidad": "Sofosbuvir-Velpatasvir",
+    "relacion": "es un",
+    "valor": "tratamiento antiviral"
+  },
+  {
+    "entidad": "pacientes tratados",
+    "relacion": "logran",
+    "valor": "respuesta viral sostenida (RVS)"
+  },
+  {
+    "entidad": "OMS",
+    "relacion": "insta a",
+    "valor": "incrementar esfuerzos en pesquisa y prevención"
+  },
+  {
+    "entidad": "cirrosis",
+    "relacion": "es una complicación de",
+    "valor": "hepatitis C"
+  },
+  {
+    "entidad": "hepatocarcinoma",
+    "relacion": "es una complicación de",
+    "valor": "hepatitis C"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "se ve afectada por",
+    "valor": "hepatitis C"
+  },
+  {
+    "entidad": "MELD-Na",
+    "relacion": "se utiliza para",
+    "valor": "estimar pronóstico de pacientes cirróticos"
+  },
+  {
+    "entidad": "Gabriel Mezzano",
+    "relacion": "es autor de",
+    "valor": "estudio sobre hepatitis C"
+  },
+  {
+    "entidad": "ACHHEP",
+    "relacion": "representa",
+    "valor": "a los autores del estudio"
+  },
+  {
+    "entidad": "pacientes con hepatitis C",
+    "relacion": "son tratados en",
+    "valor": "sistema público de salud de Chile"
+  },
+  {
+    "entidad": "falla a tratamiento previo",
+    "relacion": "es una causa de",
+    "valor": "priorización para tratamiento"
+  },
+  {
+    "entidad": "cirrosis",
+    "relacion": "es un diagnóstico en",
+    "valor": "pacientes tratados"
+  },
+  {
+    "entidad": "tratamiento antiviral",
+    "relacion": "se realiza durante",
+    "valor": "12 semanas"
+  },
+  {
+    "entidad": "carga viral positiva",
+    "relacion": "persiste en",
+    "valor": "un porcentaje de pacientes"
+  },
+  {
+    "entidad": "mortalidad de causa hepática",
+    "relacion": "se reduce con",
+    "valor": "tratamiento antiviral"
+  },
+  {
+    "entidad": "tratamiento con AAD",
+    "relacion": "presenta tasas de",
+    "valor": "RVS comparables a datos internacionales"
+  },
+  {
+    "entidad": "pacientes beneficiados",
+    "relacion": "son tratados de acuerdo a",
+    "valor": "registros de cada centro asistencial"
+  },
+  {
+    "entidad": "enfermedad de Parkinson",
+    "relacion": "es",
+    "valor": "una enfermedad neurodegenerativa"
+  },
+  {
+    "entidad": "enfermedad de Parkinson",
+    "relacion": "se caracteriza por",
+    "valor": "síntomas motores y no motores"
+  },
+  {
+    "entidad": "enfermedad de Parkinson",
+    "relacion": "asocia a",
+    "valor": "complicaciones como caídas, fracturas e infecciones"
+  },
+  {
+    "entidad": "hospitalizaciones",
+    "relacion": "son más frecuentes en",
+    "valor": "personas con enfermedad de Parkinson"
+  },
+  {
+    "entidad": "hospitalizaciones",
+    "relacion": "son evitables por",
+    "valor": "condiciones sensibles al cuidado ambulatorio"
+  },
+  {
+    "entidad": "hospitalizaciones por Parkinson",
+    "relacion": "se analizan en",
+    "valor": "el sistema sanitario chileno"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "proporciona",
+    "valor": "base de datos de egresos hospitalarios"
+  },
+  {
+    "entidad": "FONASA",
+    "relacion": "es",
+    "valor": "el sistema de salud pública en Chile"
+  },
+  {
+    "entidad": "ISAPRE",
+    "relacion": "es",
+    "valor": "el sistema de salud privado en Chile"
+  },
+  {
+    "entidad": "hospitalizaciones por Parkinson",
+    "relacion": "se distribuyen entre",
+    "valor": "sector público y privado"
+  },
+  {
+    "entidad": "pacientes con Parkinson",
+    "relacion": "tienen",
+    "valor": "una duración promedio de hospitalización de 13.4 días"
+  },
+  {
+    "entidad": "Garantías Explícitas en Salud (GES)",
+    "relacion": "mejoran",
+    "valor": "el acceso a medicamentos"
+  },
+  {
+    "entidad": "hospitalizaciones",
+    "relacion": "muestran",
+    "valor": "una disminución en el tiempo"
+  },
+  {
+    "entidad": "hospitalizaciones",
+    "relacion": "son más frecuentes en",
+    "valor": "hombres que en mujeres"
+  },
+  {
+    "entidad": "sistema de salud chileno",
+    "relacion": "es",
+    "valor": "altamente segregado"
+  },
+  {
+    "entidad": "hospitalizaciones de hasta 3 días",
+    "relacion": "son más comunes en",
+    "valor": "el sector privado"
+  },
+  {
+    "entidad": "hospitalizaciones por Parkinson",
+    "relacion": "representan",
+    "valor": "0.03% del total de hospitalizaciones"
+  },
+  {
+    "entidad": "Escuelas de Medicina de Chile",
+    "relacion": "realizan",
+    "valor": "investigación en pregrado"
+  },
+  {
+    "entidad": "Estudiantes de Medicina",
+    "relacion": "tienen",
+    "valor": "percepción sobre facilitadores y limitantes"
+  },
+  {
+    "entidad": "Congreso Chileno de Estudiantes de Medicina (CoCEM)",
+    "relacion": "es un",
+    "valor": "evento para estudiantes de medicina"
+  },
+  {
+    "entidad": "Investigación científica",
+    "relacion": "es fundamental para",
+    "valor": "la educación de estudiantes de medicina"
+  },
+  {
+    "entidad": "Vinculación con docentes",
+    "relacion": "es un",
+    "valor": "facilitador para investigar"
+  },
+  {
+    "entidad": "Motivación personal",
+    "relacion": "es un",
+    "valor": "facilitador para investigar"
+  },
+  {
+    "entidad": "Malla curricular orientada a investigación",
+    "relacion": "facilita",
+    "valor": "la participación en investigación"
+  },
+  {
+    "entidad": "Falta de tiempo",
+    "relacion": "es un",
+    "valor": "limitante para investigar"
+  },
+  {
+    "entidad": "Falta de acceso a información formal",
+    "relacion": "es un",
+    "valor": "limitante para investigar"
+  },
+  {
+    "entidad": "Condiciones subóptimas de investigación",
+    "relacion": "son un",
+    "valor": "limitante para investigar"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "aporta",
+    "valor": "insumos para investigación"
+  },
+  {
+    "entidad": "Academia Científica de Estudiantes de Medicina UC",
+    "relacion": "entrega",
+    "valor": "aporte financiero para gastos administrativos"
+  },
+  {
+    "entidad": "Estudiantes de medicina",
+    "relacion": "reportan",
+    "valor": "interés en participar en investigación"
+  },
+  {
+    "entidad": "Carga académica",
+    "relacion": "dificulta",
+    "valor": "la participación en investigación"
+  },
+  {
+    "entidad": "Plataformas y vías oficiales",
+    "relacion": "son percibidas como",
+    "valor": "desactualizadas o de difícil navegación"
+  },
+  {
+    "entidad": "Investigación",
+    "relacion": "promueve",
+    "valor": "el desarrollo de habilidades como pensamiento crítico y liderazgo"
+  },
+  {
+    "entidad": "Estudiantes de medicina",
+    "relacion": "mencionan",
+    "valor": "desinterés como limitante"
+  },
+  {
+    "entidad": "Educación",
+    "relacion": "es un",
+    "valor": "proceso continuo y crítico"
+  },
+  {
+    "entidad": "Poder",
+    "relacion": "se establece",
+    "valor": "en relación con el género"
+  },
+  {
+    "entidad": "Docentes",
+    "relacion": "interactúan con",
+    "valor": "estudiantes"
+  },
+  {
+    "entidad": "Estudiantes",
+    "relacion": "son afectados por",
+    "valor": "diferencias de género en la educación"
+  },
+  {
+    "entidad": "Universidades chilenas",
+    "relacion": "son",
+    "valor": "contexto del estudio"
+  },
+  {
+    "entidad": "Poder por coerción",
+    "relacion": "se manifiesta en",
+    "valor": "castigos desiguales"
+  },
+  {
+    "entidad": "Poder por recompensa",
+    "relacion": "se expresa en",
+    "valor": "diferencias en recompensas académicas"
+  },
+  {
+    "entidad": "Poder por conocimiento",
+    "relacion": "se refiere a",
+    "valor": "influencia del docente sobre el alumno"
+  },
+  {
+    "entidad": "Poder legítimo",
+    "relacion": "se relaciona con",
+    "valor": "reconocimiento de la autoridad"
+  },
+  {
+    "entidad": "Acoso sexual",
+    "relacion": "es una expresión de",
+    "valor": "poder legitimado por la sociedad"
+  },
+  {
+    "entidad": "Docentes mujeres",
+    "relacion": "deben adquirir",
+    "valor": "características masculinas para ser reconocidas"
+  },
+  {
+    "entidad": "Estudiantes mujeres",
+    "relacion": "son más afectadas por",
+    "valor": "maltrato psicológico"
+  },
+  {
+    "entidad": "Estudiantes",
+    "relacion": "prefieren aprender con",
+    "valor": "docentes varones"
+  },
+  {
+    "entidad": "Eminencias médicas",
+    "relacion": "se refiere a",
+    "valor": "hombres en su mayoría"
+  },
+  {
+    "entidad": "Perspectiva de género",
+    "relacion": "requiere",
+    "valor": "sensibilización en la práctica docente"
+  },
+  {
+    "entidad": "Relaciones asimétricas de poder",
+    "relacion": "perjudican",
+    "valor": "a mujeres y lo femenino"
+  },
+  {
+    "entidad": "Estudiantes",
+    "relacion": "experimentan",
+    "valor": "acoso sexual en su formación"
+  },
+  {
+    "entidad": "Poder referente",
+    "relacion": "se relaciona con",
+    "valor": "carisma y reconocimiento de género"
+  },
+  {
+    "entidad": "Tribunal de Ética del Colegio Médico de Chile",
+    "relacion": "analiza",
+    "valor": "reclamos éticos"
+  },
+  {
+    "entidad": "reclamos éticos",
+    "relacion": "involucra",
+    "valor": "conducta médica"
+  },
+  {
+    "entidad": "código de ética",
+    "relacion": "define",
+    "valor": "estándares de conducta"
+  },
+  {
+    "entidad": "médicos",
+    "relacion": "deben seguir",
+    "valor": "estándares éticos"
+  },
+  {
+    "entidad": "reclamos",
+    "relacion": "se generan por",
+    "valor": "falta de cumplimiento en el estándar de cuidado médico"
+  },
+  {
+    "entidad": "reclamos",
+    "relacion": "se generan por",
+    "valor": "conducta poco profesional"
+  },
+  {
+    "entidad": "reclamos",
+    "relacion": "se generan por",
+    "valor": "mala relación entre colegas"
+  },
+  {
+    "entidad": "reclamos",
+    "relacion": "se generan por",
+    "valor": "mal resultado terapéutico"
+  },
+  {
+    "entidad": "reclamos",
+    "relacion": "se generan por",
+    "valor": "conducta fraudulenta"
+  },
+  {
+    "entidad": "reclamos",
+    "relacion": "se generan por",
+    "valor": "ofensas de connotación sexual"
+  },
+  {
+    "entidad": "reclamos",
+    "relacion": "se generan por",
+    "valor": "cobro abusivo de honorarios"
+  },
+  {
+    "entidad": "reclamos",
+    "relacion": "se generan por",
+    "valor": "error diagnóstico"
+  },
+  {
+    "entidad": "reclamos",
+    "relacion": "se generan por",
+    "valor": "conducta socialmente inadecuada"
+  },
+  {
+    "entidad": "reclamos",
+    "relacion": "se generan por",
+    "valor": "ejercicio ilegal de la profesión"
+  },
+  {
+    "entidad": "Tribunal de Ética",
+    "relacion": "protege",
+    "valor": "pacientes de actos reprobables"
+  },
+  {
+    "entidad": "Tribunal de Ética",
+    "relacion": "protege",
+    "valor": "médicos de acusaciones injustas"
+  },
+  {
+    "entidad": "médicos",
+    "relacion": "son regulados por",
+    "valor": "Tribunal de Ética"
+  },
+  {
+    "entidad": "Colegio Médico de Chile",
+    "relacion": "ejerció",
+    "valor": "control sobre la ética médica"
+  },
+  {
+    "entidad": "Tribunales Regionales de Ética",
+    "relacion": "fueron creados por",
+    "valor": "Colegio Médico de Chile"
+  },
+  {
+    "entidad": "sanciones",
+    "relacion": "pueden incluir",
+    "valor": "amonestación, multa, suspensión de licencia"
+  },
+  {
+    "entidad": "reclamos",
+    "relacion": "son revisados por",
+    "valor": "Tribunal de Ética"
+  },
+  {
+    "entidad": "médicos no colegiados",
+    "relacion": "reciben",
+    "valor": "alto número de reclamos"
+  },
+  {
+    "entidad": "Tribunal de Ética",
+    "relacion": "debe actualizar",
+    "valor": "Código de Ética"
+  },
+  {
+    "entidad": "tecnologías de la información",
+    "relacion": "deben ser incorporadas para",
+    "valor": "manejo de causas"
+  },
+  {
+    "entidad": "cuarentena",
+    "relacion": "exacerba",
+    "valor": "síntomas emocionales y ansiedad"
+  },
+  {
+    "entidad": "tiempo en cuarentena",
+    "relacion": "asocia",
+    "valor": "desarrollo de síntomas depresivos y ansiosos"
+  },
+  {
+    "entidad": "GAD-7",
+    "relacion": "es un",
+    "valor": "cuestionario de ansiedad"
+  },
+  {
+    "entidad": "PHQ-9",
+    "relacion": "es un",
+    "valor": "cuestionario de depresión"
+  },
+  {
+    "entidad": "acceso a salud",
+    "relacion": "aumenta",
+    "valor": "riesgo de depresión"
+  },
+  {
+    "entidad": "enfermedad respiratoria",
+    "relacion": "aumenta",
+    "valor": "riesgo de ansiedad"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen",
+    "valor": "mayor riesgo de depresión"
+  },
+  {
+    "entidad": "jóvenes de 18 a 24 años",
+    "relacion": "tienen",
+    "valor": "mayor riesgo de depresión"
+  },
+  {
+    "entidad": "cuarentena voluntaria",
+    "relacion": "asocia",
+    "valor": "presencia de depresión"
+  },
+  {
+    "entidad": "cuarentena obligatoria",
+    "relacion": "asocia",
+    "valor": "presencia de depresión"
+  },
+  {
+    "entidad": "dificultad de acceso a salud",
+    "relacion": "aumenta",
+    "valor": "riesgo de depresión"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "asocia",
+    "valor": "síntomas depresivos"
+  },
+  {
+    "entidad": "percepción de gastos",
+    "relacion": "asocia",
+    "valor": "síntomas depresivos"
+  },
+  {
+    "entidad": "cuarentena",
+    "relacion": "se relaciona con",
+    "valor": "síntomas de ansiedad"
+  },
+  {
+    "entidad": "consumo de tabaco",
+    "relacion": "aumenta",
+    "valor": "riesgo de ansiedad"
+  },
+  {
+    "entidad": "desempleo",
+    "relacion": "aumenta",
+    "valor": "riesgo de ansiedad"
+  },
+  {
+    "entidad": "afiliación a FONASA",
+    "relacion": "asocia",
+    "valor": "síntomas ansiosos"
+  }
+]

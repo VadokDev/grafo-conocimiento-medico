@@ -1,0 +1,662 @@
+[
+  {
+    "entidad": "Ambiente educativo",
+    "relacion": "refiere a",
+    "valor": "recursos materiales y relaciones interpersonales"
+  },
+  {
+    "entidad": "Facultad de Medicina Humana",
+    "relacion": "pertenece a",
+    "valor": "Universidad de San Martín de Porres"
+  },
+  {
+    "entidad": "Dundee Ready Education Environment Measure (DREEM)",
+    "relacion": "utiliza",
+    "valor": "para evaluar el ambiente educativo"
+  },
+  {
+    "entidad": "estudiantes de medicina",
+    "relacion": "completan",
+    "valor": "cuestionarios voluntarios"
+  },
+  {
+    "entidad": "percepción del ambiente educativo",
+    "relacion": "influye en",
+    "valor": "el aprendizaje y la satisfacción de los estudiantes"
+  },
+  {
+    "entidad": "Superintendencia Nacional de Educación Superior Universitaria (SUNEDU)",
+    "relacion": "evalúa",
+    "valor": "la calidad de educación en universidades"
+  },
+  {
+    "entidad": "estudiantes de años superiores",
+    "relacion": "tienen",
+    "valor": "una percepción más negativa del ambiente educativo"
+  },
+  {
+    "entidad": "estudio transversal",
+    "relacion": "realiza",
+    "valor": "una evaluación del ambiente educativo"
+  },
+  {
+    "entidad": "cuestionario DREEM",
+    "relacion": "mide",
+    "valor": "la percepción del ambiente educativo"
+  },
+  {
+    "entidad": "facultades de medicina en Perú",
+    "relacion": "experimentan",
+    "valor": "un aumento en la cantidad de facultades de calidad cuestionable"
+  },
+  {
+    "entidad": "estudiantes de medicina",
+    "relacion": "reportan",
+    "valor": "cansancio y falta de apoyo en situaciones de estrés"
+  },
+  {
+    "entidad": "metodología de enseñanza",
+    "relacion": "debe ser",
+    "valor": "evaluada y replanteada"
+  },
+  {
+    "entidad": "copia en los exámenes",
+    "relacion": "es un problema",
+    "valor": "importante en la facultad"
+  },
+  {
+    "entidad": "ambiente educativo",
+    "relacion": "se asocia con",
+    "valor": "éxito y satisfacción de los estudiantes"
+  },
+  {
+    "entidad": "estudiantes de medicina",
+    "relacion": "se sienten",
+    "valor": "menos estimulados en la etapa clínica"
+  },
+  {
+    "entidad": "horarios de la facultad",
+    "relacion": "no están",
+    "valor": "bien programados"
+  },
+  {
+    "entidad": "apoyo psicológico y tutoría",
+    "relacion": "es insuficiente",
+    "valor": "para estudiantes que sufren estrés"
+  },
+  {
+    "entidad": "evaluación auténtica",
+    "relacion": "es un",
+    "valor": "modelo de evaluación"
+  },
+  {
+    "entidad": "carreras de la salud",
+    "relacion": "incluye",
+    "valor": "Fonoaudiología"
+  },
+  {
+    "entidad": "carreras de la salud",
+    "relacion": "incluye",
+    "valor": "Tecnología Médica"
+  },
+  {
+    "entidad": "carreras de la salud",
+    "relacion": "incluye",
+    "valor": "Enfermería"
+  },
+  {
+    "entidad": "carreras de otras áreas",
+    "relacion": "incluye",
+    "valor": "Administración de Empresas"
+  },
+  {
+    "entidad": "carreras de otras áreas",
+    "relacion": "incluye",
+    "valor": "Psicología"
+  },
+  {
+    "entidad": "carreras de otras áreas",
+    "relacion": "incluye",
+    "valor": "Bioingeniería"
+  },
+  {
+    "entidad": "intervención docente",
+    "relacion": "mejora",
+    "valor": "habilidades para preparar pruebas"
+  },
+  {
+    "entidad": "pruebas escritas",
+    "relacion": "se analizan",
+    "valor": "bajo principios de evaluación auténtica"
+  },
+  {
+    "entidad": "cognición",
+    "relacion": "se mide a través de",
+    "valor": "complejidad cognitiva"
+  },
+  {
+    "entidad": "evaluación del aprendizaje",
+    "relacion": "impacta en",
+    "valor": "logros de los estudiantes"
+  },
+  {
+    "entidad": "docentes",
+    "relacion": "participan en",
+    "valor": "capacitación sobre evaluación auténtica"
+  },
+  {
+    "entidad": "indicadores de evaluación auténtica",
+    "relacion": "se utilizan para",
+    "valor": "evaluar pruebas escritas"
+  },
+  {
+    "entidad": "carreras de la salud",
+    "relacion": "muestran",
+    "valor": "mejoras en indicadores de evaluación auténtica"
+  },
+  {
+    "entidad": "carreras de otras áreas",
+    "relacion": "muestran",
+    "valor": "menor mejora en indicadores de evaluación auténtica"
+  },
+  {
+    "entidad": "autenticidad en evaluación",
+    "relacion": "promueve",
+    "valor": "aprendizaje contextualizado"
+  },
+  {
+    "entidad": "evaluación auténtica",
+    "relacion": "fomenta",
+    "valor": "autonomía del estudiante"
+  },
+  {
+    "entidad": "evaluación auténtica",
+    "relacion": "aumenta",
+    "valor": "motivación del estudiante"
+  },
+  {
+    "entidad": "metodología de evaluación auténtica",
+    "relacion": "se aplica en",
+    "valor": "educación superior"
+  },
+  {
+    "entidad": "carreras de la salud",
+    "relacion": "tienen",
+    "valor": "un enfoque en competencias"
+  },
+  {
+    "entidad": "carreras de la salud",
+    "relacion": "utilizan",
+    "valor": "simulaciones y observaciones"
+  },
+  {
+    "entidad": "análisis de ítems",
+    "relacion": "se realiza antes y después de",
+    "valor": "intervención docente"
+  },
+  {
+    "entidad": "O6-metilguanina-DNA-metiltransferasa (MGMT)",
+    "relacion": "es un",
+    "valor": "biomarcador de respuesta a quimioterapia"
+  },
+  {
+    "entidad": "Glioblastoma multiforme (GBM)",
+    "relacion": "tiene",
+    "valor": "una baja tasa de supervivencia a 5 años"
+  },
+  {
+    "entidad": "MGMT",
+    "relacion": "afecta a",
+    "valor": "la respuesta a quimioterapia con agentes alquilantes"
+  },
+  {
+    "entidad": "inmunohistochemistry (IHC)",
+    "relacion": "es un",
+    "valor": "método para evaluar la expresión de MGMT"
+  },
+  {
+    "entidad": "pacientes chilenos",
+    "relacion": "son diagnosticados con",
+    "valor": "glioblastoma multiforme"
+  },
+  {
+    "entidad": "estado de metilación del promotor de MGMT",
+    "relacion": "determina",
+    "valor": "la expresión de MGMT"
+  },
+  {
+    "entidad": "MGMT",
+    "relacion": "protege a",
+    "valor": "la célula normal de la carcinogénesis"
+  },
+  {
+    "entidad": "técnica de tinción inmunohistoquímica",
+    "relacion": "se utiliza para",
+    "valor": "estudiar la expresión de MGMT"
+  },
+  {
+    "entidad": "Instituto de Neurocirugía Dr. Alfonso Asenjo",
+    "relacion": "es un",
+    "valor": "centro de referencia nacional"
+  },
+  {
+    "entidad": "quimioterapia alquilante",
+    "relacion": "es parte del",
+    "valor": "tratamiento estándar para GBM"
+  },
+  {
+    "entidad": "expresión de MGMT",
+    "relacion": "se correlaciona con",
+    "valor": "la respuesta a quimioterapia"
+  },
+  {
+    "entidad": "método de polimerasa en cadena específica de metilación (MS-PCR)",
+    "relacion": "es un",
+    "valor": "método tradicional para estudiar metilación del promotor de MGMT"
+  },
+  {
+    "entidad": "técnica de inmunohistoquímica",
+    "relacion": "ha mostrado",
+    "valor": "resultados dispares como predictor de respuesta a quimioterapia"
+  },
+  {
+    "entidad": "promotor de MGMT",
+    "relacion": "puede estar",
+    "valor": "metilado en un porcentaje de pacientes"
+  },
+  {
+    "entidad": "análisis de MGMT",
+    "relacion": "requiere",
+    "valor": "nuevos estudios que correlacionen metilación y expresión"
+  },
+  {
+    "entidad": "sedentarismo",
+    "relacion": "es un",
+    "valor": "factor de riesgo para enfermedades cardiovasculares"
+  },
+  {
+    "entidad": "población chilena",
+    "relacion": "presenta",
+    "valor": "altos niveles de sedentarismo"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud 2009-2010",
+    "relacion": "es",
+    "valor": "fuente de datos para el estudio"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen mayor prevalencia de",
+    "valor": "sedentarismo en comparación con hombres"
+  },
+  {
+    "entidad": "alto ingreso económico",
+    "relacion": "asocia con",
+    "valor": "altos niveles de sedentarismo"
+  },
+  {
+    "entidad": "obesidad central",
+    "relacion": "asocia con",
+    "valor": "altos niveles de sedentarismo"
+  },
+  {
+    "entidad": "diabetes mellitus tipo 2",
+    "relacion": "asocia con",
+    "valor": "altos niveles de sedentarismo"
+  },
+  {
+    "entidad": "síndrome metabólico",
+    "relacion": "asocia con",
+    "valor": "altos niveles de sedentarismo"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "asocia con",
+    "valor": "altos niveles de sedentarismo"
+  },
+  {
+    "entidad": "televisión",
+    "relacion": "es un",
+    "valor": "factor asociado a sedentarismo"
+  },
+  {
+    "entidad": "computadora",
+    "relacion": "es un",
+    "valor": "factor asociado a sedentarismo"
+  },
+  {
+    "entidad": "vehículo privado",
+    "relacion": "es un",
+    "valor": "factor asociado a sedentarismo"
+  },
+  {
+    "entidad": "autorreporte de salud",
+    "relacion": "indica",
+    "valor": "mayor sedentarismo en población"
+  },
+  {
+    "entidad": "urbanización",
+    "relacion": "contribuye a",
+    "valor": "aumento de sedentarismo"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "presenta beneficios en",
+    "valor": "salud"
+  },
+  {
+    "entidad": "sedentarismo",
+    "relacion": "afecta",
+    "valor": "salud cardiometabólica"
+  },
+  {
+    "entidad": "Comité de Ética de Investigación de la Escuela de Medicina de la Pontificia Universidad Católica de Chile",
+    "relacion": "aprueba",
+    "valor": "protocolo de estudio"
+  },
+  {
+    "entidad": "Unidad de Artritis Reumatoide Temprana",
+    "relacion": "implementa",
+    "valor": "estrategia de tratamiento"
+  },
+  {
+    "entidad": "artritis reumatoide",
+    "relacion": "es una",
+    "valor": "enfermedad autoinmune"
+  },
+  {
+    "entidad": "pacientes chilenos",
+    "relacion": "son",
+    "valor": "beneficiarios de la unidad"
+  },
+  {
+    "entidad": "centros de atención primaria de salud",
+    "relacion": "derivan",
+    "valor": "pacientes a la unidad"
+  },
+  {
+    "entidad": "Francisco Espinoza",
+    "relacion": "es el",
+    "valor": "autor principal del estudio"
+  },
+  {
+    "entidad": "Servicio de Salud Metropolitano Oriente",
+    "relacion": "pertenece a",
+    "valor": "Ministerio de Salud de Chile"
+  },
+  {
+    "entidad": "capacitación de médicos",
+    "relacion": "se realiza para",
+    "valor": "mejorar el reconocimiento de criterios"
+  },
+  {
+    "entidad": "criterios de derivación",
+    "relacion": "incluyen",
+    "valor": "edad mayor a 17 años y síntomas articulares menores a 1 año"
+  },
+  {
+    "entidad": "sintomatología de artritis reumatoide",
+    "relacion": "afecta",
+    "valor": "calidad de vida"
+  },
+  {
+    "entidad": "remisión prolongada",
+    "relacion": "es un objetivo de",
+    "valor": "tratamiento por objetivos"
+  },
+  {
+    "entidad": "ventana de oportunidad",
+    "relacion": "indica",
+    "valor": "beneficios de intervención precoz"
+  },
+  {
+    "entidad": "DAS-28",
+    "relacion": "es una herramienta para",
+    "valor": "evaluar actividad de la enfermedad"
+  },
+  {
+    "entidad": "metotrexato",
+    "relacion": "es el",
+    "valor": "fármaco más comúnmente usado"
+  },
+  {
+    "entidad": "artritis reumatoide temprana",
+    "relacion": "es identificada en",
+    "valor": "un tercio de los pacientes"
+  },
+  {
+    "entidad": "rigidez matinal",
+    "relacion": "es el criterio más sensible para",
+    "valor": "diagnóstico de artritis reumatoide"
+  },
+  {
+    "entidad": "sinovitis",
+    "relacion": "es el criterio más específico para",
+    "valor": "diagnóstico de artritis reumatoide"
+  },
+  {
+    "entidad": "pacientes con AR",
+    "relacion": "tienen",
+    "valor": "alta incidencia de comorbilidades"
+  },
+  {
+    "entidad": "Centro de Referencia de Salud Cordillera",
+    "relacion": "es el",
+    "valor": "lugar de implementación de la unidad"
+  },
+  {
+    "entidad": "pacientes derivados a la UART",
+    "relacion": "son registrados en",
+    "valor": "una base de datos electrónica confidencial"
+  },
+  {
+    "entidad": "Sarcoma de Kaposi",
+    "relacion": "es un",
+    "valor": "tumor raro"
+  },
+  {
+    "entidad": "Sarcoma de Kaposi",
+    "relacion": "afecta a",
+    "valor": "pacientes inmunodeficientes y ancianos"
+  },
+  {
+    "entidad": "Radioterapia",
+    "relacion": "es un",
+    "valor": "tratamiento local"
+  },
+  {
+    "entidad": "Radioterapia",
+    "relacion": "es eficaz para",
+    "valor": "el tratamiento del Sarcoma de Kaposi"
+  },
+  {
+    "entidad": "Sarcoma de Kaposi",
+    "relacion": "tiene variedades",
+    "valor": "clásica, epidémica, iatrogénica y endémica africana"
+  },
+  {
+    "entidad": "variedad clásica",
+    "relacion": "se manifiesta en",
+    "valor": "población de origen judío, de Europa del este y mediterránea"
+  },
+  {
+    "entidad": "variedad epidémica",
+    "relacion": "está asociada a",
+    "valor": "SIDA"
+  },
+  {
+    "entidad": "variedad iatrogénica",
+    "relacion": "es propia de",
+    "valor": "pacientes en tratamiento inmunosupresor"
+  },
+  {
+    "entidad": "variedad endémica africana",
+    "relacion": "afecta principalmente a",
+    "valor": "hombres"
+  },
+  {
+    "entidad": "Radioterapia",
+    "relacion": "puede ser considerada como",
+    "valor": "opción razonable para el tratamiento de Sarcoma de Kaposi"
+  },
+  {
+    "entidad": "Sarcoma de Kaposi",
+    "relacion": "se presenta con",
+    "valor": "nódulos vasculares múltiples en la piel"
+  },
+  {
+    "entidad": "Sarcoma de Kaposi",
+    "relacion": "puede afectar a",
+    "valor": "mucosas, linfonodos y órganos sólidos"
+  },
+  {
+    "entidad": "Terapia antirretroviral de alto grado de actividad",
+    "relacion": "es un tratamiento previo a",
+    "valor": "Radioterapia"
+  },
+  {
+    "entidad": "Radioterapia",
+    "relacion": "produce",
+    "valor": "respuesta clínica completa en pacientes con Sarcoma de Kaposi"
+  },
+  {
+    "entidad": "Sarcoma de Kaposi",
+    "relacion": "se presenta con síntomas como",
+    "valor": "dolor, edema y hemorragia"
+  },
+  {
+    "entidad": "epitelitis",
+    "relacion": "es un efecto adverso de",
+    "valor": "Radioterapia"
+  },
+  {
+    "entidad": "Sarcoma de Kaposi epidémico",
+    "relacion": "presenta compromiso",
+    "valor": "cutáneo-visceral más frecuente"
+  },
+  {
+    "entidad": "Sarcoma de Kaposi",
+    "relacion": "puede tener un curso",
+    "valor": "indolente o agresivo"
+  },
+  {
+    "entidad": "Radioterapia",
+    "relacion": "ha demostrado ser",
+    "valor": "eficaz para la paliación de síntomas"
+  },
+  {
+    "entidad": "doxorrubicina liposomal",
+    "relacion": "es utilizada como",
+    "valor": "quimioterapia de primera línea"
+  },
+  {
+    "entidad": "Sarcoma de Kaposi",
+    "relacion": "tiene una incidencia",
+    "valor": "baja en Chile"
+  },
+  {
+    "entidad": "Sarcoma de Kaposi",
+    "relacion": "es tratado con",
+    "valor": "Radioterapia y Terapia antirretroviral"
+  },
+  {
+    "entidad": "cinetica del consumo de oxígeno",
+    "relacion": "se utiliza para",
+    "valor": "evaluar la capacidad cardiorrespiratoria"
+  },
+  {
+    "entidad": "pacientes con obesidad",
+    "relacion": "presentan",
+    "valor": "deterioro general en la salud"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud (OMS)",
+    "relacion": "informa sobre",
+    "valor": "la prevalencia de obesidad en el mundo"
+  },
+  {
+    "entidad": "capacidad cardiorrespiratoria (CCR)",
+    "relacion": "es un",
+    "valor": "componente de la condición física"
+  },
+  {
+    "entidad": "consumo de oxígeno máximo (VO2 max)",
+    "relacion": "se utiliza para",
+    "valor": "evaluar la capacidad cardiorrespiratoria"
+  },
+  {
+    "entidad": "consumo de oxígeno peak (VO2 peak)",
+    "relacion": "denomina",
+    "valor": "la cantidad de oxígeno consumido en la detención de la prueba"
+  },
+  {
+    "entidad": "tau (τ)",
+    "relacion": "es un",
+    "valor": "valor que representa la cinética del VO2"
+  },
+  {
+    "entidad": "carga de trabajo de 0.5 W/kg",
+    "relacion": "se sugiere para",
+    "valor": "prueba de cinética del VO2 en pacientes con obesidad"
+  },
+  {
+    "entidad": "carga de trabajo de 0.8 W/kg",
+    "relacion": "se utiliza para",
+    "valor": "evaluar la capacidad cardiorrespiratoria"
+  },
+  {
+    "entidad": "tau (τ)",
+    "relacion": "está inversamente relacionada con",
+    "valor": "el VO2 peak absoluto"
+  },
+  {
+    "entidad": "Universidad Andres Bello",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "Comité de Ética en Investigación en Seres Humanos",
+    "relacion": "aprueba",
+    "valor": "protocolos de investigación"
+  },
+  {
+    "entidad": "cicloergómetro",
+    "relacion": "se utiliza para",
+    "valor": "medir el consumo de oxígeno"
+  },
+  {
+    "entidad": "metodología de Poole",
+    "relacion": "se emplea para",
+    "valor": "obtener el valor τ"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "se asocia con",
+    "valor": "patologías como enfermedad respiratoria crónica y diabetes mellitus tipo II"
+  },
+  {
+    "entidad": "carga de trabajo",
+    "relacion": "afecta a",
+    "valor": "la respuesta de la cinética del VO2"
+  },
+  {
+    "entidad": "prueba de cinética del VO2",
+    "relacion": "es un",
+    "valor": "procedimiento de bajo riesgo y no invasivo"
+  },
+  {
+    "entidad": "muestra de 40 participantes",
+    "relacion": "fue obtenida por",
+    "valor": "conveniencia"
+  },
+  {
+    "entidad": "tau (τ)",
+    "relacion": "demuestra ser",
+    "valor": "sensible a cambios de la CCR"
+  },
+  {
+    "entidad": "carga de trabajo de 0.5 W/kg",
+    "relacion": "se recomienda para",
+    "valor": "evaluaciones en sujetos con obesidad"
+  }
+]

@@ -1,0 +1,187 @@
+[
+  {
+    "entidad": "alcalosis respiratoria severa",
+    "relacion": "es un",
+    "valor": "trastorno ácido-base"
+  },
+  {
+    "entidad": "hiperventilación psicogénica",
+    "relacion": "causa",
+    "valor": "alcalosis respiratoria severa"
+  },
+  {
+    "entidad": "SARS-CoV-2",
+    "relacion": "afecta a",
+    "valor": "pacientes con trastornos de conversión"
+  },
+  {
+    "entidad": "paciente mujer de 37 años",
+    "relacion": "presenta",
+    "valor": "episodios de cefalea y compromiso de conciencia"
+  },
+  {
+    "entidad": "depresión",
+    "relacion": "es un",
+    "valor": "diagnóstico asociado"
+  },
+  {
+    "entidad": "cistitis intersticial",
+    "relacion": "es un",
+    "valor": "diagnóstico asociado"
+  },
+  {
+    "entidad": "tratamiento con benzodiazepinas",
+    "relacion": "es utilizado para",
+    "valor": "manejar la alcalosis respiratoria severa"
+  },
+  {
+    "entidad": "hipocalcemia iónica",
+    "relacion": "induce",
+    "valor": "irritabilidad neuromuscular"
+  },
+  {
+    "entidad": "alcalosis respiratoria",
+    "relacion": "produce",
+    "valor": "vasoconstricción cerebral y miocárdica"
+  },
+  {
+    "entidad": "alcalosis respiratoria severa",
+    "relacion": "puede causar",
+    "valor": "isquemia cerebral y miocárdica"
+  },
+  {
+    "entidad": "alcalosis respiratoria grave",
+    "relacion": "es mediada por",
+    "valor": "trastornos funcionales"
+  },
+  {
+    "entidad": "mascarilla con reservorio",
+    "relacion": "se utiliza para",
+    "valor": "mejorar la oxigenación"
+  },
+  {
+    "entidad": "evaluación multidisciplinaria",
+    "relacion": "es realizada por",
+    "valor": "especialistas en cardiología, neurología y psiquiatría"
+  },
+  {
+    "entidad": "alcalosis respiratoria grave",
+    "relacion": "puede llevar a",
+    "valor": "daños irreversibles miocárdicos y cerebrales"
+  },
+  {
+    "entidad": "trastorno conversivo",
+    "relacion": "es frecuente en",
+    "valor": "servicios de urgencias"
+  },
+  {
+    "entidad": "factores de riesgo",
+    "relacion": "asocian con",
+    "valor": "trastornos de conversión"
+  },
+  {
+    "entidad": "alcalosis respiratoria",
+    "relacion": "se produce por",
+    "valor": "hiperventilación"
+  },
+  {
+    "entidad": "alcalosis respiratoria grave",
+    "relacion": "es un",
+    "valor": "cuadro potencialmente letal"
+  },
+  {
+    "entidad": "encefalitis herpética",
+    "relacion": "es una",
+    "valor": "infección letal"
+  },
+  {
+    "entidad": "virus Herpes simple",
+    "relacion": "es el agente etiológico más frecuente de",
+    "valor": "encefalitis viral"
+  },
+  {
+    "entidad": "líquido cefalorraquídeo (LCR)",
+    "relacion": "es esencial para",
+    "valor": "diagnóstico de encefalitis herpética"
+  },
+  {
+    "entidad": "PCR",
+    "relacion": "es el examen de elección para",
+    "valor": "diagnóstico de infección por VHS-1 y 2"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "fiebre y estado mental alterado"
+  },
+  {
+    "entidad": "tomografía computarizada (TAC)",
+    "relacion": "generalmente es",
+    "valor": "normal en encefalitis herpética"
+  },
+  {
+    "entidad": "resonancia magnética (RM)",
+    "relacion": "es la imagen de elección para",
+    "valor": "visualizar lesiones en encefalitis"
+  },
+  {
+    "entidad": "aciclovir",
+    "relacion": "es el tratamiento indicado para",
+    "valor": "encefalitis herpética"
+  },
+  {
+    "entidad": "mujer de 57 años",
+    "relacion": "fue diagnosticada con",
+    "valor": "encefalitis por virus herpes tipo I"
+  },
+  {
+    "entidad": "análisis de LCR",
+    "relacion": "permite orientar",
+    "valor": "diagnóstico de encefalitis"
+  },
+  {
+    "entidad": "infecciones del sistema nervioso central",
+    "relacion": "son una",
+    "valor": "emergencia médica"
+  },
+  {
+    "entidad": "pacientes inmunocomprometidos",
+    "relacion": "pueden ser afectados por",
+    "valor": "virus Herpes simple"
+  },
+  {
+    "entidad": "dexametasona",
+    "relacion": "fue utilizada en",
+    "valor": "el manejo inicial del paciente"
+  },
+  {
+    "entidad": "neutrófilos",
+    "relacion": "predominan en",
+    "valor": "el LCR al inicio del cuadro"
+  },
+  {
+    "entidad": "linfocitos",
+    "relacion": "predominan en",
+    "valor": "el LCR en fase aguda de encefalitis herpética"
+  },
+  {
+    "entidad": "hospital San Luis de Buin",
+    "relacion": "fue donde",
+    "valor": "la paciente consultó inicialmente"
+  },
+  {
+    "entidad": "Hospital Barros Luco Trudeau",
+    "relacion": "fue donde",
+    "valor": "la paciente fue derivada para evaluación neurológica"
+  },
+  {
+    "entidad": "afasia",
+    "relacion": "fue una manifestación de",
+    "valor": "la encefalitis herpética en la paciente"
+  },
+  {
+    "entidad": "control a los 6 meses",
+    "relacion": "mostró que",
+    "valor": "la paciente mantuvo fallas en memoria anterógrada"
+  }
+]

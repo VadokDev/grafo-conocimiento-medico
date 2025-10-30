@@ -1,0 +1,357 @@
+[
+  {
+    "entidad": "Cetoacidosis diabética euglicémica",
+    "relacion": "asociada a",
+    "valor": "inhibidor de cotransportador de sodio glucosa Tipo 2"
+  },
+  {
+    "entidad": "Canagliflozin",
+    "relacion": "causa",
+    "valor": "cetoacidosis diabética euglicémica"
+  },
+  {
+    "entidad": "Diabetes Mellitus Tipo 1",
+    "relacion": "afecta a",
+    "valor": "pacientes con cetoacidosis diabética euglicémica"
+  },
+  {
+    "entidad": "Diabetes Mellitus Tipo 1",
+    "relacion": "es un",
+    "valor": "tipo de diabetes"
+  },
+  {
+    "entidad": "inhibidores de cotransportador de sodio glucosa Tipo 2",
+    "relacion": "no están aprobados para",
+    "valor": "pacientes con diabetes mellitus tipo 1"
+  },
+  {
+    "entidad": "FDA",
+    "relacion": "aprueba",
+    "valor": "inhibidores de cotransportador de sodio glucosa Tipo 2 para diabetes mellitus tipo 2"
+  },
+  {
+    "entidad": "Cetoacidosis diabética",
+    "relacion": "se presenta con",
+    "valor": "hiperglicemia leve"
+  },
+  {
+    "entidad": "Cetoacidosis diabética euglicémica",
+    "relacion": "se relaciona con",
+    "valor": "factores desencadenantes como infecciones y dieta baja en carbohidratos"
+  },
+  {
+    "entidad": "iSGLT2",
+    "relacion": "se utilizan para",
+    "valor": "mejorar el control glicémico"
+  },
+  {
+    "entidad": "pacientes con diabetes mellitus tipo 1",
+    "relacion": "presentan",
+    "valor": "mayor riesgo de cetoacidosis euglicémica"
+  },
+  {
+    "entidad": "insulina",
+    "relacion": "se utiliza para",
+    "valor": "controlar la diabetes mellitus tipo 1"
+  },
+  {
+    "entidad": "Unidad de Cuidados Intensivos",
+    "relacion": "se utiliza para",
+    "valor": "tratar cetoacidosis diabética"
+  },
+  {
+    "entidad": "Instituto de Salud Pública",
+    "relacion": "recibe",
+    "valor": "notificación de casos de cetoacidosis diabética"
+  },
+  {
+    "entidad": "Laboratorio Janssen Chile",
+    "relacion": "es informado sobre",
+    "valor": "casos de cetoacidosis diabética"
+  },
+  {
+    "entidad": "Morfina",
+    "relacion": "induce",
+    "valor": "contracción del esfínter de Oddi"
+  },
+  {
+    "entidad": "contracción del esfínter de Oddi",
+    "relacion": "causa",
+    "valor": "dolor biliar"
+  },
+  {
+    "entidad": "dolor biliar",
+    "relacion": "se manifiesta como",
+    "valor": "dolor colérico"
+  },
+  {
+    "entidad": "mujer de 32 años",
+    "relacion": "consultó por",
+    "valor": "dolor abdominal bajo"
+  },
+  {
+    "entidad": "morfina",
+    "relacion": "controló",
+    "valor": "dolor abdominal bajo"
+  },
+  {
+    "entidad": "morfina",
+    "relacion": "provocó",
+    "valor": "dolor epigástrico colérico"
+  },
+  {
+    "entidad": "transaminasas",
+    "relacion": "aumentaron",
+    "valor": "de valor normal a más de 1,000 U/L"
+  },
+  {
+    "entidad": "colangioresonancia",
+    "relacion": "mostró",
+    "valor": "vía biliar fina sin piedras"
+  },
+  {
+    "entidad": "alta presión biliar",
+    "relacion": "causa",
+    "valor": "necrosis hepatocelular"
+  },
+  {
+    "entidad": "disquinesia hipertónica del esfínter de Oddi",
+    "relacion": "es un",
+    "valor": "trastorno funcional"
+  },
+  {
+    "entidad": "morfina",
+    "relacion": "se utiliza en",
+    "valor": "diagnóstico de disquinesia del esfínter de Oddi"
+  },
+  {
+    "entidad": "esfinterotomía endoscópica",
+    "relacion": "es la terapia definitiva para",
+    "valor": "disquinesia tipo I"
+  },
+  {
+    "entidad": "morfina",
+    "relacion": "puede provocar",
+    "valor": "pancreatitis aguda"
+  },
+  {
+    "entidad": "nitroglicerina",
+    "relacion": "relaja",
+    "valor": "esfínter de Oddi"
+  },
+  {
+    "entidad": "naloxona",
+    "relacion": "actúa para",
+    "valor": "aliviar espasmo del esfínter de Oddi"
+  },
+  {
+    "entidad": "mujer de 32 años",
+    "relacion": "fue hospitalizada para",
+    "valor": "manejo del dolor y observación"
+  },
+  {
+    "entidad": "mujer de 32 años",
+    "relacion": "fue diagnosticada con",
+    "valor": "síndrome de congestión pélvica"
+  },
+  {
+    "entidad": "Diverticulitis aguda",
+    "relacion": "afecta a",
+    "valor": "intestino delgado"
+  },
+  {
+    "entidad": "Enfermedad de Crohn",
+    "relacion": "se presenta en",
+    "valor": "pacientes con diverticulitis"
+  },
+  {
+    "entidad": "Diverticulitis yeyunal",
+    "relacion": "es un tipo de",
+    "valor": "diverticulitis"
+  },
+  {
+    "entidad": "Diverticulosis de intestino delgado",
+    "relacion": "es",
+    "valor": "una patología infrecuente"
+  },
+  {
+    "entidad": "Diverticulitis",
+    "relacion": "puede causar",
+    "valor": "peritonitis"
+  },
+  {
+    "entidad": "Diverticulitis",
+    "relacion": "puede causar",
+    "valor": "hemorragia gastrointestinal"
+  },
+  {
+    "entidad": "Diverticulitis",
+    "relacion": "puede causar",
+    "valor": "obstrucción intestinal"
+  },
+  {
+    "entidad": "Tratamiento recomendado",
+    "relacion": "es",
+    "valor": "cirugía en casos complicados"
+  },
+  {
+    "entidad": "Paciente",
+    "relacion": "tiene",
+    "valor": "77 años"
+  },
+  {
+    "entidad": "Paciente",
+    "relacion": "presenta",
+    "valor": "diverticulitis yeyunal aguda"
+  },
+  {
+    "entidad": "Tratamiento médico",
+    "relacion": "resuelve",
+    "valor": "diverticulitis en paciente"
+  },
+  {
+    "entidad": "Antibióticos",
+    "relacion": "son utilizados en",
+    "valor": "el tratamiento de diverticulitis"
+  },
+  {
+    "entidad": "Diverticulitis yeyunal",
+    "relacion": "puede ser",
+    "valor": "asintomática"
+  },
+  {
+    "entidad": "Diverticulitis yeyunal",
+    "relacion": "puede ser complicada por",
+    "valor": "perforación"
+  },
+  {
+    "entidad": "Diverticulitis yeyunal",
+    "relacion": "puede ser complicada por",
+    "valor": "colecciones intraabdominales"
+  },
+  {
+    "entidad": "Diverticulitis",
+    "relacion": "se asocia a",
+    "valor": "diverticulosis colónica"
+  },
+  {
+    "entidad": "Diverticulitis",
+    "relacion": "se asocia a",
+    "valor": "diverticulosis duodenal"
+  },
+  {
+    "entidad": "Diverticulitis",
+    "relacion": "se asocia a",
+    "valor": "diverticulosis esofágica"
+  },
+  {
+    "entidad": "Diverticulitis",
+    "relacion": "se presenta en",
+    "valor": "la sexta y séptima década de la vida"
+  },
+  {
+    "entidad": "Diverticulitis",
+    "relacion": "es más frecuente en",
+    "valor": "hombres"
+  },
+  {
+    "entidad": "Diverticulitis",
+    "relacion": "puede ser manejada con",
+    "valor": "tratamiento conservador en casos no complicados"
+  },
+  {
+    "entidad": "Diverticulitis aguda",
+    "relacion": "requiere",
+    "valor": "cirugía en casos de perforación libre"
+  },
+  {
+    "entidad": "Manejo médico conservador",
+    "relacion": "es una opción en",
+    "valor": "pacientes con diverticulitis complicada"
+  },
+  {
+    "entidad": "vitrified-warmed embryo",
+    "relacion": "derivado de",
+    "valor": "vitrified-warmed oocyte"
+  },
+  {
+    "entidad": "vitrified-warmed embryo",
+    "relacion": "derivado de",
+    "valor": "frozen-thawed sperm"
+  },
+  {
+    "entidad": "ICSI",
+    "relacion": "fallido en",
+    "valor": "paciente con oligoasthenospermia severa"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "es",
+    "valor": "mujer de 27 años"
+  },
+  {
+    "entidad": "espermios inactivos",
+    "relacion": "encontrados en",
+    "valor": "semen del marido"
+  },
+  {
+    "entidad": "biopsia testicular",
+    "relacion": "realizada en",
+    "valor": "marido de la paciente"
+  },
+  {
+    "entidad": "transferencia de embriones",
+    "relacion": "resultó en",
+    "valor": "parto de dos bebés sanos"
+  },
+  {
+    "entidad": "vitrified-warmed oocytes",
+    "relacion": "utilizados en",
+    "valor": "ICSI"
+  },
+  {
+    "entidad": "frozen-thawed sperm",
+    "relacion": "utilizados en",
+    "valor": "ICSI"
+  },
+  {
+    "entidad": "vitrificación",
+    "relacion": "mejora",
+    "valor": "tasa de supervivencia de oocitos"
+  },
+  {
+    "entidad": "oocyte cryopreservation",
+    "relacion": "ofrece",
+    "valor": "preservación de fertilidad"
+  },
+  {
+    "entidad": "ASRM",
+    "relacion": "recomienda",
+    "valor": "criocongelación de oocitos y embriones"
+  },
+  {
+    "entidad": "donor sperm",
+    "relacion": "utilizado en",
+    "valor": "ciclos de inseminación artificial"
+  },
+  {
+    "entidad": "pacientes con oligozoospermia",
+    "relacion": "pueden beneficiarse de",
+    "valor": "ICSI"
+  },
+  {
+    "entidad": "vitrificación de oocitos",
+    "relacion": "asociada con",
+    "valor": "mejores resultados clínicos"
+  },
+  {
+    "entidad": "First Hospital, Jilin University",
+    "relacion": "es un",
+    "valor": "centro de medicina reproductiva"
+  },
+  {
+    "entidad": "Youth Foundation of First Hospital, Jilin University",
+    "relacion": "proporciona",
+    "valor": "apoyo financiero"
+  }
+]

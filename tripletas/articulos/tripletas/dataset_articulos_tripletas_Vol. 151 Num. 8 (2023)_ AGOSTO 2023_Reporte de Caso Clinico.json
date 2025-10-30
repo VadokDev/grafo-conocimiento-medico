@@ -1,0 +1,262 @@
+[
+  {
+    "entidad": "Apendicitis aguda",
+    "relacion": "es",
+    "valor": "la patología quirúrgica abdominal más común"
+  },
+  {
+    "entidad": "Paciente",
+    "relacion": "tiene",
+    "valor": "78 años"
+  },
+  {
+    "entidad": "Paciente",
+    "relacion": "presenta",
+    "valor": "apendicitis aguda"
+  },
+  {
+    "entidad": "Tomografía computada",
+    "relacion": "muestra",
+    "valor": "apendicitis aguda secundaria a obstrucción"
+  },
+  {
+    "entidad": "Obstrucción del orificio apendicular",
+    "relacion": "es causada por",
+    "valor": "migración de prótesis biliar"
+  },
+  {
+    "entidad": "Manejo exitoso",
+    "relacion": "se realiza mediante",
+    "valor": "retiro de la prótesis por colonoscopía"
+  },
+  {
+    "entidad": "Paciente",
+    "relacion": "es dado de alta",
+    "valor": "72 horas después de la admisión"
+  },
+  {
+    "entidad": "Prótesis biliar",
+    "relacion": "puede causar",
+    "valor": "obstrucción"
+  },
+  {
+    "entidad": "Migración de prótesis biliar",
+    "relacion": "es un",
+    "valor": "riesgo en pacientes con vía biliar dilatada"
+  },
+  {
+    "entidad": "Terapia endoscópica retrograda",
+    "relacion": "fue descrita por",
+    "valor": "Liu et al. en 2012"
+  },
+  {
+    "entidad": "Manejo endoscópico",
+    "relacion": "disminuye",
+    "valor": "riesgo de contaminación intraabdominal"
+  },
+  {
+    "entidad": "Obstrucción de lumen apendicular",
+    "relacion": "es",
+    "valor": "una complicación poco frecuente"
+  },
+  {
+    "entidad": "Estudio imagenológico adecuado",
+    "relacion": "es fundamental para",
+    "valor": "identificar cambios patológicos"
+  },
+  {
+    "entidad": "Complicaciones de prótesis migradas",
+    "relacion": "incluyen",
+    "valor": "obstrucción, migración, perforación"
+  },
+  {
+    "entidad": "Apendicitis aguda recurrente",
+    "relacion": "es un evento",
+    "valor": "notificado en el 9,09% de los participantes de un ensayo clínico"
+  },
+  {
+    "entidad": "Granulomatosis con Poliangeítis (GPA)",
+    "relacion": "es un",
+    "valor": "vasculitis sistémica"
+  },
+  {
+    "entidad": "GPA",
+    "relacion": "compromete",
+    "valor": "vía aérea superior, pulmones y riñones"
+  },
+  {
+    "entidad": "GPA",
+    "relacion": "asociada a",
+    "valor": "anticuerpos anticitoplasma de neutrófilos (cANCA)"
+  },
+  {
+    "entidad": "GPA",
+    "relacion": "puede causar",
+    "valor": "bloqueo auriculoventricular (BAV)"
+  },
+  {
+    "entidad": "bloqueo auriculoventricular (BAV)",
+    "relacion": "es un",
+    "valor": "trastorno del sistema de conducción cardíaco"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "diagnosticado con",
+    "valor": "GPA"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "disnea y bradicardia"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "muestra",
+    "valor": "BAV de 2º grado avanzado"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "requiere",
+    "valor": "marcapasos"
+  },
+  {
+    "entidad": "marcapasos",
+    "relacion": "es un",
+    "valor": "dispositivo para tratar BAV"
+  },
+  {
+    "entidad": "GPA",
+    "relacion": "puede requerir",
+    "valor": "tratamiento con rituximab"
+  },
+  {
+    "entidad": "tratamiento con rituximab",
+    "relacion": "mejora",
+    "valor": "condición general del paciente"
+  },
+  {
+    "entidad": "GPA",
+    "relacion": "puede causar",
+    "valor": "compromiso del sistema de conducción cardíaco"
+  },
+  {
+    "entidad": "sistema de conducción cardíaco",
+    "relacion": "es afectado por",
+    "valor": "inflamación y necrosis"
+  },
+  {
+    "entidad": "GPA",
+    "relacion": "tiene una alta tasa de",
+    "valor": "recidiva"
+  },
+  {
+    "entidad": "pacientes con GPA",
+    "relacion": "presentan",
+    "valor": "recidiva a los 10 años"
+  },
+  {
+    "entidad": "bloqueo auriculoventricular (BAV)",
+    "relacion": "puede ser",
+    "valor": "transitorio"
+  },
+  {
+    "entidad": "implante de marcapasos",
+    "relacion": "resuelve",
+    "valor": "urgencia en BAV grave"
+  },
+  {
+    "entidad": "GPA",
+    "relacion": "puede presentar",
+    "valor": "compromiso del sistema de conducción sin otras manifestaciones cardíacas"
+  },
+  {
+    "entidad": "sarcoma recurrente",
+    "relacion": "es un",
+    "valor": "tumor"
+  },
+  {
+    "entidad": "fosa isquiorrectal",
+    "relacion": "es un",
+    "valor": "sitio anatómico"
+  },
+  {
+    "entidad": "tumores de la fosa isquiorrectal",
+    "relacion": "son",
+    "valor": "lesiones raras"
+  },
+  {
+    "entidad": "estudio preoperatorio",
+    "relacion": "es necesario para",
+    "valor": "lograr buenos resultados"
+  },
+  {
+    "entidad": "discusión multidisciplinaria",
+    "relacion": "es esencial para",
+    "valor": "el manejo de tumores"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "es un",
+    "valor": "hombre de 73 años"
+  },
+  {
+    "entidad": "tumor glúteo izquierdo",
+    "relacion": "fue diagnosticado como",
+    "valor": "sarcoma epiteloide de alto grado"
+  },
+  {
+    "entidad": "radioterapia adyuvante",
+    "relacion": "fue administrada a",
+    "valor": "el paciente"
+  },
+  {
+    "entidad": "recidiva tumoral local",
+    "relacion": "fue diagnosticada por",
+    "valor": "imágenes"
+  },
+  {
+    "entidad": "equipo multidisciplinario",
+    "relacion": "decidió realizar",
+    "valor": "resección de la lesión"
+  },
+  {
+    "entidad": "resección de la lesión",
+    "relacion": "se realizó con",
+    "valor": "preservación del ano y del piso pélvico"
+  },
+  {
+    "entidad": "colgajo perforante de la arteria glútea superior",
+    "relacion": "fue utilizado para",
+    "valor": "cubrir el defecto"
+  },
+  {
+    "entidad": "histopatología final",
+    "relacion": "confirmó",
+    "valor": "sarcoma epitelioide recurrente"
+  },
+  {
+    "entidad": "seguimiento",
+    "relacion": "se realiza cada",
+    "valor": "3-6 meses"
+  },
+  {
+    "entidad": "Tazemetostat",
+    "relacion": "es un",
+    "valor": "inhibidor de EZH2"
+  },
+  {
+    "entidad": "reconstrucción perineal",
+    "relacion": "debe considerar",
+    "valor": "características del defecto"
+  },
+  {
+    "entidad": "márgenes de resección negativos",
+    "relacion": "son importantes para",
+    "valor": "evitar recurrencias"
+  },
+  {
+    "entidad": "imágenes preoperatorias",
+    "relacion": "son clave para",
+    "valor": "evaluar relaciones del tumor"
+  }
+]

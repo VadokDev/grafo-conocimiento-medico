@@ -1,0 +1,117 @@
+[
+  {
+    "entidad": "Índices de glóbulos rojos",
+    "relacion": "mide",
+    "valor": "tamaño, forma y calidad de los glóbulos rojos"
+  },
+  {
+    "entidad": "Índices de glóbulos rojos",
+    "relacion": "diagnostica",
+    "valor": "anemia"
+  },
+  {
+    "entidad": "Índices de glóbulos rojos",
+    "relacion": "requiere_muestra_de",
+    "valor": "sangre de una vena del brazo"
+  },
+  {
+    "entidad": "Índices de glóbulos rojos",
+    "relacion": "es_parte_de",
+    "valor": "conteo sanguíneo completo"
+  },
+  {
+    "entidad": "Índices de glóbulos rojos",
+    "relacion": "indicado_si_tiene",
+    "valor": "síntomas de anemia"
+  },
+  {
+    "entidad": "Índices de glóbulos rojos",
+    "relacion": "tiene_duracion",
+    "valor": "menos de cinco minutos"
+  },
+  {
+    "entidad": "Índices de glóbulos rojos",
+    "relacion": "tiene_riesgo",
+    "valor": "dolor leve o moretón en el lugar de la punción"
+  },
+  {
+    "entidad": "Índices de glóbulos rojos",
+    "relacion": "util_para",
+    "valor": "determinar tipo de anemia"
+  },
+  {
+    "entidad": "Índices de glóbulos rojos",
+    "relacion": "ayuda_diagnosticar",
+    "valor": "diferentes tipos de anemia"
+  },
+  {
+    "entidad": "Índice de IgG en LCR",
+    "relacion": "mide",
+    "valor": "niveles de IgG en el líquido cefalorraquídeo"
+  },
+  {
+    "entidad": "Índice de IgG en LCR",
+    "relacion": "detecta",
+    "valor": "enfermedades del sistema nervioso central"
+  },
+  {
+    "entidad": "Índice de IgG en LCR",
+    "relacion": "indicado_si_tiene",
+    "valor": "síntomas de un trastorno del sistema nervioso central"
+  },
+  {
+    "entidad": "Índice de IgG en LCR",
+    "relacion": "diagnostica",
+    "valor": "esclerosis múltiple"
+  },
+  {
+    "entidad": "Índice de IgG en LCR",
+    "relacion": "requiere_muestra_de",
+    "valor": "líquido cefalorraquídeo"
+  },
+  {
+    "entidad": "Índice de IgG en LCR",
+    "relacion": "es_tipo_de",
+    "valor": "prueba de laboratorio"
+  },
+  {
+    "entidad": "Índice de IgG en LCR",
+    "relacion": "tiene_duracion",
+    "valor": "unos cinco minutos"
+  },
+  {
+    "entidad": "Índice de IgG en LCR",
+    "relacion": "tiene_riesgo",
+    "valor": "dolor o sensibilidad en el lugar de la punción"
+  },
+  {
+    "entidad": "Índice de IgG en LCR",
+    "relacion": "tiene_riesgo",
+    "valor": "sangrado en el lugar de la punción"
+  },
+  {
+    "entidad": "Índice de IgG en LCR",
+    "relacion": "tiene_riesgo",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Índice de IgG en LCR",
+    "relacion": "ayuda_diagnosticar",
+    "valor": "infección o inflamación del sistema nervioso central"
+  },
+  {
+    "entidad": "Índice de IgG en LCR",
+    "relacion": "sugiere_condicion",
+    "valor": "infección o trastorno autoinmune"
+  },
+  {
+    "entidad": "Índice de IgG en LCR",
+    "relacion": "realizado_por",
+    "valor": "profesional de la salud"
+  },
+  {
+    "entidad": "Índice de IgG en LCR",
+    "relacion": "util_para",
+    "valor": "evaluar trastornos del sistema nervioso central"
+  }
+]

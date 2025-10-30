@@ -1,0 +1,737 @@
+[
+  {
+    "entidad": "paniculitis mesentérica",
+    "relacion": "es un",
+    "valor": "condición benigna"
+  },
+  {
+    "entidad": "paniculitis mesentérica",
+    "relacion": "afecta a",
+    "valor": "raíz del mesenterio"
+  },
+  {
+    "entidad": "paniculitis mesentérica",
+    "relacion": "puede ser",
+    "valor": "idiopática o asociada a neoplasias"
+  },
+  {
+    "entidad": "linfoma no Hodgkin",
+    "relacion": "está asociado con",
+    "valor": "paniculitis mesentérica"
+  },
+  {
+    "entidad": "cáncer de próstata",
+    "relacion": "está asociado con",
+    "valor": "paniculitis mesentérica"
+  },
+  {
+    "entidad": "pacientes oncológicos",
+    "relacion": "presentan",
+    "valor": "frecuencia de paniculitis mesentérica"
+  },
+  {
+    "entidad": "paniculitis mesentérica",
+    "relacion": "es más frecuente en",
+    "valor": "linfoma no Hodgkin y cáncer de próstata"
+  },
+  {
+    "entidad": "Hodgkin Lymphoma",
+    "relacion": "no presenta",
+    "valor": "paniculitis mesentérica"
+  },
+  {
+    "entidad": "cáncer cervicouterino",
+    "relacion": "no presenta",
+    "valor": "paniculitis mesentérica"
+  },
+  {
+    "entidad": "cáncer endometrial",
+    "relacion": "no presenta",
+    "valor": "paniculitis mesentérica"
+  },
+  {
+    "entidad": "PET/CT",
+    "relacion": "se utiliza para",
+    "valor": "diagnosticar paniculitis mesentérica"
+  },
+  {
+    "entidad": "paniculitis mesentérica",
+    "relacion": "se define como",
+    "valor": "aumento de densidad y volumen de grasa en mesenterio"
+  },
+  {
+    "entidad": "nódulos mesentéricos",
+    "relacion": "se asocian con",
+    "valor": "paniculitis mesentérica"
+  },
+  {
+    "entidad": "hipercaptación de FDG",
+    "relacion": "sugiere",
+    "valor": "asociación con linfoma no Hodgkin"
+  },
+  {
+    "entidad": "pacientes con paniculitis mesentérica",
+    "relacion": "tienen mayor riesgo de",
+    "valor": "presentar malignidades"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "fue realizado por",
+    "valor": "David Ladrón de Guevara H. y otros"
+  },
+  {
+    "entidad": "Clínica Las Condes",
+    "relacion": "es un",
+    "valor": "centro de investigación"
+  },
+  {
+    "entidad": "histología",
+    "relacion": "es confirmada por",
+    "valor": "patólogos expertos"
+  },
+  {
+    "entidad": "Asma",
+    "relacion": "es un",
+    "valor": "factor protector contra mortalidad"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "afecta a",
+    "valor": "población mexicana"
+  },
+  {
+    "entidad": "SARS-CoV-2",
+    "relacion": "asociado con",
+    "valor": "comorbilidades"
+  },
+  {
+    "entidad": "comorbilidades",
+    "relacion": "incrementa",
+    "valor": "riesgo de mortalidad"
+  },
+  {
+    "entidad": "Asma",
+    "relacion": "disminuye",
+    "valor": "riesgo de mortalidad en COVID-19"
+  },
+  {
+    "entidad": "población mexicana",
+    "relacion": "incluye",
+    "valor": "pacientes con diagnóstico confirmado de COVID-19"
+  },
+  {
+    "entidad": "Asma",
+    "relacion": "tiene una prevalencia de",
+    "valor": "1.9% en población con COVID-19"
+  },
+  {
+    "entidad": "edad > 60 años",
+    "relacion": "asociado con",
+    "valor": "incremento en mortalidad"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "asociado con",
+    "valor": "incremento en mortalidad"
+  },
+  {
+    "entidad": "Diabetes",
+    "relacion": "asociado con",
+    "valor": "incremento en mortalidad"
+  },
+  {
+    "entidad": "EPOC",
+    "relacion": "asociado con",
+    "valor": "incremento en mortalidad"
+  },
+  {
+    "entidad": "enfermedad cardiovascular",
+    "relacion": "asociado con",
+    "valor": "incremento en mortalidad"
+  },
+  {
+    "entidad": "enfermedad renal crónica",
+    "relacion": "asociado con",
+    "valor": "incremento en mortalidad"
+  },
+  {
+    "entidad": "Asma",
+    "relacion": "no se asocia con",
+    "valor": "ingreso a UCI"
+  },
+  {
+    "entidad": "Asma",
+    "relacion": "no se asocia con",
+    "valor": "ventilación mecánica"
+  },
+  {
+    "entidad": "Asma",
+    "relacion": "explica",
+    "valor": "disminución en riesgo de mortalidad"
+  },
+  {
+    "entidad": "inmunidad antiviral",
+    "relacion": "promueve",
+    "valor": "aclaramiento viral en asmáticos"
+  },
+  {
+    "entidad": "antagonistas de leucotrienos",
+    "relacion": "pueden ser",
+    "valor": "moduladores de la respuesta inflamatoria"
+  },
+  {
+    "entidad": "tabaquismo activo",
+    "relacion": "incrementa",
+    "valor": "mortalidad en asmáticos"
+  },
+  {
+    "entidad": "Asma",
+    "relacion": "muestra",
+    "valor": "menor riesgo de mortalidad"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "disminuye en",
+    "valor": "pacientes asmáticos"
+  },
+  {
+    "entidad": "Asma",
+    "relacion": "asociado con",
+    "valor": "menor severidad en COVID-19"
+  },
+  {
+    "entidad": "Asma",
+    "relacion": "tiene un impacto en",
+    "valor": "mortalidad en COVID-19"
+  },
+  {
+    "entidad": "fractura de cadera",
+    "relacion": "representa",
+    "valor": "un desafío de salud pública"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "tiene",
+    "valor": "una incidencia de 40 fracturas de cadera cada 100.000 habitantes en 2017"
+  },
+  {
+    "entidad": "población geriátrica",
+    "relacion": "exhibe",
+    "valor": "factores predisponentes como osteoporosis"
+  },
+  {
+    "entidad": "latencia quirúrgica",
+    "relacion": "afecta a",
+    "valor": "la mortalidad en pacientes con fractura de cadera"
+  },
+  {
+    "entidad": "pacientes con fractura de cadera",
+    "relacion": "fueron tratados en",
+    "valor": "un hospital público en Chile"
+  },
+  {
+    "entidad": "Grupo 1",
+    "relacion": "tiene",
+    "valor": "pacientes operados en menos de 2 días"
+  },
+  {
+    "entidad": "Grupo 2",
+    "relacion": "tiene",
+    "valor": "pacientes operados entre 2 y 7 días"
+  },
+  {
+    "entidad": "Grupo 3",
+    "relacion": "tiene",
+    "valor": "pacientes operados en más de 7 días"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "se calcula a",
+    "valor": "6, 12 y 24 meses de seguimiento"
+  },
+  {
+    "entidad": "sexo masculino",
+    "relacion": "aumenta",
+    "valor": "el riesgo de mortalidad a largo plazo"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "aumenta",
+    "valor": "el riesgo de mortalidad a largo plazo"
+  },
+  {
+    "entidad": "mortalidad a largo plazo",
+    "relacion": "es mayor en",
+    "valor": "pacientes con latencia quirúrgica mayor a 7 días"
+  },
+  {
+    "entidad": "comorbilidades",
+    "relacion": "predisponen a",
+    "valor": "mayor riesgo quirúrgico en pacientes con fractura de cadera"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "es",
+    "valor": "la primera cohorte nacional que establece la importancia de la latencia quirúrgica y mortalidad"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "se relaciona con",
+    "valor": "la latencia quirúrgica"
+  },
+  {
+    "entidad": "pacientes geriátricos",
+    "relacion": "son",
+    "valor": "la mayoría de los pacientes con fractura de cadera"
+  },
+  {
+    "entidad": "fracturas extracapsulares",
+    "relacion": "son",
+    "valor": "las más comunes en este estudio"
+  },
+  {
+    "entidad": "mortalidad a 2 años",
+    "relacion": "es",
+    "valor": "aproximadamente 30% en población chilena"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "causa",
+    "valor": "mortalidad y recuperación funcional en pacientes"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "ingresados en",
+    "valor": "UCI por COVID-19 severo"
+  },
+  {
+    "entidad": "posición decúbito prono",
+    "relacion": "asociada a",
+    "valor": "mayor severidad de enfermedad"
+  },
+  {
+    "entidad": "hospitalización",
+    "relacion": "asociada a",
+    "valor": "menor recuperación funcional"
+  },
+  {
+    "entidad": "ciclos de decúbito prono",
+    "relacion": "asociados a",
+    "valor": "mayor recuperación funcional post-alta"
+  },
+  {
+    "entidad": "nivel educativo",
+    "relacion": "asociado a",
+    "valor": "mayor recuperación funcional post-alta"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "asociados a",
+    "valor": "mayor riesgo de mortalidad intrahospitalaria"
+  },
+  {
+    "entidad": "mayor edad",
+    "relacion": "asociada a",
+    "valor": "mayor riesgo de mortalidad intrahospitalaria"
+  },
+  {
+    "entidad": "antecedentes de salud mental",
+    "relacion": "asociados a",
+    "valor": "mayor riesgo de mortalidad intrahospitalaria"
+  },
+  {
+    "entidad": "comuna de alta prioridad social",
+    "relacion": "asociada a",
+    "valor": "mayor riesgo de mortalidad intrahospitalaria"
+  },
+  {
+    "entidad": "días de hospitalización",
+    "relacion": "relacionados con",
+    "valor": "pérdida de funcionalidad"
+  },
+  {
+    "entidad": "evaluación biopsicosocial",
+    "relacion": "puede predecir",
+    "valor": "pronóstico de sobrevida y funcional"
+  },
+  {
+    "entidad": "acciones intrahospitalarias",
+    "relacion": "podrían mejorar",
+    "valor": "recuperación funcional en AVD"
+  },
+  {
+    "entidad": "SARS-CoV-2",
+    "relacion": "causa",
+    "valor": "síndrome de dificultad respiratoria aguda"
+  },
+  {
+    "entidad": "ventilación mecánica invasiva",
+    "relacion": "requerida en",
+    "valor": "unidades de cuidados intensivos"
+  },
+  {
+    "entidad": "Hospital Clínico San José",
+    "relacion": "lugar de",
+    "valor": "estudio observacional prospectivo"
+  },
+  {
+    "entidad": "población adulta mayor en Chile",
+    "relacion": "presenta",
+    "valor": "aumento de enfermedades neurocognitivas"
+  },
+  {
+    "entidad": "deterioro cognitivo",
+    "relacion": "es precursor de",
+    "valor": "demencia"
+  },
+  {
+    "entidad": "factores de riesgo",
+    "relacion": "asociados a",
+    "valor": "deterioro cognitivo"
+  },
+  {
+    "entidad": "adultos mayores chilenos",
+    "relacion": "tienen",
+    "valor": "prevalencia de deterioro cognitivo del 9.13%"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "afecta a",
+    "valor": "deterioro cognitivo"
+  },
+  {
+    "entidad": "depresión",
+    "relacion": "aumenta",
+    "valor": "riesgo de deterioro cognitivo"
+  },
+  {
+    "entidad": "dificultades visuales",
+    "relacion": "incrementan",
+    "valor": "probabilidad de deterioro cognitivo"
+  },
+  {
+    "entidad": "no realizar actividades fuera del hogar",
+    "relacion": "disminuye",
+    "valor": "riesgo de deterioro cognitivo"
+  },
+  {
+    "entidad": "no realizar tareas domésticas",
+    "relacion": "disminuye",
+    "valor": "riesgo de deterioro cognitivo"
+  },
+  {
+    "entidad": "no ir al supermercado",
+    "relacion": "incrementa",
+    "valor": "riesgo de deterioro cognitivo"
+  },
+  {
+    "entidad": "Harmoni-zed Cognitive Assessment Protocol (HCAP)",
+    "relacion": "es utilizado para",
+    "valor": "evaluar el estado cognitivo"
+  },
+  {
+    "entidad": "Centro UC Encuestas y Estudios Longitudinales",
+    "relacion": "realiza",
+    "valor": "estudios de salud y cognición"
+  },
+  {
+    "entidad": "Subsecretaría de Previsión Social",
+    "relacion": "es propietaria de",
+    "valor": "la Encuesta de Protección Social"
+  },
+  {
+    "entidad": "sociodemográficos",
+    "relacion": "incluyen",
+    "valor": "sexo y edad"
+  },
+  {
+    "entidad": "sintomatología depresiva",
+    "relacion": "es evaluada a través de",
+    "valor": "escala reducida de Yesavage"
+  },
+  {
+    "entidad": "soledad percibida",
+    "relacion": "es evaluada mediante",
+    "valor": "preguntas sobre aislamiento"
+  },
+  {
+    "entidad": "participación social",
+    "relacion": "se evalúa a través de",
+    "valor": "entrevistas sobre actividades"
+  },
+  {
+    "entidad": "deterioro cognitivo",
+    "relacion": "es evaluado a través de",
+    "valor": "Minnesota Mental State Examination (MMSE)"
+  },
+  {
+    "entidad": "Masa Muscular Apendicular Esquelética (MMAE)",
+    "relacion": "se relaciona con",
+    "valor": "funcionalidad en personas mayores"
+  },
+  {
+    "entidad": "personas mayores no institucionalizadas",
+    "relacion": "se encuentran en",
+    "valor": "Santiago, Chile"
+  },
+  {
+    "entidad": "Evaluación Funcional del Adulto Mayor (EFAM)",
+    "relacion": "es utilizado por",
+    "valor": "Ministerio de Salud de Chile"
+  },
+  {
+    "entidad": "Instituto de Nutrición y Tecnología de los Alimentos (INTA)",
+    "relacion": "realiza investigaciones sobre",
+    "valor": "pérdida de MMAE"
+  },
+  {
+    "entidad": "Masa Muscular Apendicular Esquelética (MMAE)",
+    "relacion": "se asocia positivamente con",
+    "valor": "edad"
+  },
+  {
+    "entidad": "Masa Muscular Apendicular Esquelética (MMAE)",
+    "relacion": "se asocia negativamente con",
+    "valor": "sobrepeso y obesidad"
+  },
+  {
+    "entidad": "resonancia magnética (DEXA)",
+    "relacion": "es el",
+    "valor": "Gold Standard para diagnosticar MMAE"
+  },
+  {
+    "entidad": "Masa Muscular Apendicular Esquelética (MMAE)",
+    "relacion": "se relaciona con",
+    "valor": "independencia funcional"
+  },
+  {
+    "entidad": "bajos niveles de masa muscular",
+    "relacion": "se relacionan con",
+    "valor": "deterioro funcional y discapacidad"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "influye en",
+    "valor": "nivel de MMAE"
+  },
+  {
+    "entidad": "malnutrición",
+    "relacion": "es una causa de",
+    "valor": "deterioro de la función física"
+  },
+  {
+    "entidad": "Masa Muscular Apendicular Esquelética (MMAE)",
+    "relacion": "no tiene correlación lineal directa significativa con",
+    "valor": "funcionalidad"
+  },
+  {
+    "entidad": "personas mayores",
+    "relacion": "presentan",
+    "valor": "afecciones patológicas crónicas"
+  },
+  {
+    "entidad": "sedentarismo",
+    "relacion": "provoca",
+    "valor": "aparición de problemas de salud"
+  },
+  {
+    "entidad": "expectativa de vida en Chile",
+    "relacion": "es mayor para",
+    "valor": "mujeres que para hombres"
+  },
+  {
+    "entidad": "Mini Mental State Examination (MMSE)",
+    "relacion": "es",
+    "valor": "un test para evaluar el deterioro cognitivo"
+  },
+  {
+    "entidad": "población de personas mayores en Chile",
+    "relacion": "es objeto de estudio",
+    "valor": "normas del MMSE"
+  },
+  {
+    "entidad": "normas del MMSE",
+    "relacion": "se desarrollan",
+    "valor": "según edad y nivel educativo"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "fue realizado por",
+    "valor": "diversos centros de investigación en Chile"
+  },
+  {
+    "entidad": "deterioro cognitivo",
+    "relacion": "afecta a",
+    "valor": "actividades diarias de los adultos mayores"
+  },
+  {
+    "entidad": "Mini Mental State Examination (MMSE)",
+    "relacion": "mide",
+    "valor": "5 dominios cognitivos"
+  },
+  {
+    "entidad": "diferencias en puntuaciones del MMSE",
+    "relacion": "se observan entre",
+    "valor": "sujetos con diferentes niveles de escolaridad"
+  },
+  {
+    "entidad": "población chilena",
+    "relacion": "requiere",
+    "valor": "datos normativos específicos para el MMSE"
+  },
+  {
+    "entidad": "ANID",
+    "relacion": "financia",
+    "valor": "la investigación"
+  },
+  {
+    "entidad": "Comité de Ética",
+    "relacion": "aprueba",
+    "valor": "el estudio según principios éticos"
+  },
+  {
+    "entidad": "Mini Mental State Examination (MMSE)",
+    "relacion": "fue validado por",
+    "valor": "Quiroga y colaboradores en 2004"
+  },
+  {
+    "entidad": "población de América Latina",
+    "relacion": "tiene una prevalencia de",
+    "valor": "11% de demencia en mayores de 65 años"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "incluye",
+    "valor": "sujetos de 50 a 91 años"
+  },
+  {
+    "entidad": "puntuaciones del MMSE",
+    "relacion": "se estratifican por",
+    "valor": "edad y nivel educativo"
+  },
+  {
+    "entidad": "población de Iquique, Santiago, Valparaíso, Temuco y Concepción",
+    "relacion": "es parte de",
+    "valor": "la muestra del estudio"
+  },
+  {
+    "entidad": "diferencias culturales",
+    "relacion": "pueden influir en",
+    "valor": "la interpretación del MMSE"
+  },
+  {
+    "entidad": "profesionales de salud",
+    "relacion": "requieren",
+    "valor": "instrumentos con buenas propiedades psicométricas"
+  },
+  {
+    "entidad": "Mini Mental State Examination (MMSE)",
+    "relacion": "es utilizado por",
+    "valor": "cualquier profesional de salud"
+  },
+  {
+    "entidad": "Universidad Austral de Chile",
+    "relacion": "desarrolla",
+    "valor": "competencias disciplinares y genéricas en estudiantes de medicina"
+  },
+  {
+    "entidad": "simulación a distancia con paciente simulado",
+    "relacion": "es un",
+    "valor": "método educativo centrado en el estudiante"
+  },
+  {
+    "entidad": "estudiantes de medicina",
+    "relacion": "participan en",
+    "valor": "simulación a distancia"
+  },
+  {
+    "entidad": "simulación clínica",
+    "relacion": "sustituye",
+    "valor": "experiencias reales en educación médica"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "afecta",
+    "valor": "prácticas clínicas en educación médica"
+  },
+  {
+    "entidad": "debate de Buen Juicio",
+    "relacion": "promueve",
+    "valor": "aprendizaje significativo y reflexión"
+  },
+  {
+    "entidad": "paciente simulado",
+    "relacion": "representa",
+    "valor": "un paciente en diversas situaciones"
+  },
+  {
+    "entidad": "competencias de comunicación",
+    "relacion": "se desarrollan a través de",
+    "valor": "simulación clínica"
+  },
+  {
+    "entidad": "metodología de simulación",
+    "relacion": "requiere",
+    "valor": "planificación y objetivos claros"
+  },
+  {
+    "entidad": "experiencia educativa",
+    "relacion": "es valorada por",
+    "valor": "estudiantes de medicina"
+  },
+  {
+    "entidad": "análisis cualitativo",
+    "relacion": "se realiza mediante",
+    "valor": "esquema de reducción progresiva"
+  },
+  {
+    "entidad": "simulación a distancia",
+    "relacion": "facilita",
+    "valor": "entrenamiento educativo en un entorno seguro"
+  },
+  {
+    "entidad": "competencias genéricas",
+    "relacion": "se desarrollan a través de",
+    "valor": "experiencia de simulación"
+  },
+  {
+    "entidad": "confidencialidad",
+    "relacion": "es protegida por",
+    "valor": "firma de contrato"
+  },
+  {
+    "entidad": "universidades",
+    "relacion": "implementan",
+    "valor": "docencia remota de emergencia"
+  },
+  {
+    "entidad": "estudiantes de tercer año de medicina",
+    "relacion": "participan en",
+    "valor": "asignatura de Semiología"
+  },
+  {
+    "entidad": "simulación clínica",
+    "relacion": "se utiliza para",
+    "valor": "desarrollar habilidades clínicas"
+  },
+  {
+    "entidad": "debriefing",
+    "relacion": "es fundamental para",
+    "valor": "evaluar y reflexionar sobre la experiencia"
+  },
+  {
+    "entidad": "entrenamiento sistemático",
+    "relacion": "es necesario para",
+    "valor": "desarrollar competencias"
+  },
+  {
+    "entidad": "experiencia de simulación",
+    "relacion": "contribuye a",
+    "valor": "desarrollo de competencias disciplinares"
+  },
+  {
+    "entidad": "estudiantes",
+    "relacion": "valoran",
+    "valor": "la actividad de simulación a distancia"
+  }
+]

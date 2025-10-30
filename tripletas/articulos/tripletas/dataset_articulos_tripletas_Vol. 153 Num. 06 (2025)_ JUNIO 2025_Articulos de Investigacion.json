@@ -1,0 +1,452 @@
+[
+  {
+    "entidad": "carcinoma hepatocelular (HCC)",
+    "relacion": "es",
+    "valor": "una de las principales causas de mortalidad oncológica"
+  },
+  {
+    "entidad": "radioterapia estereotáxica corporal (SBRT)",
+    "relacion": "es",
+    "valor": "una alternativa prometedora en pacientes inoperables"
+  },
+  {
+    "entidad": "Clínica IRAM",
+    "relacion": "realiza",
+    "valor": "tratamientos con SBRT"
+  },
+  {
+    "entidad": "SBRT",
+    "relacion": "permite",
+    "valor": "administrar altas dosis de radiación de manera precisa"
+  },
+  {
+    "entidad": "SBRT",
+    "relacion": "se asocia con",
+    "valor": "altas tasas de respuesta tumoral"
+  },
+  {
+    "entidad": "tamaño tumoral",
+    "relacion": "se asocia con",
+    "valor": "peor sobrevida global (SG)"
+  },
+  {
+    "entidad": "toxicidad",
+    "relacion": "es",
+    "valor": "manejable en pacientes tratados con SBRT"
+  },
+  {
+    "entidad": "SBRT",
+    "relacion": "refuerza",
+    "valor": "la necesidad de un enfoque multidisciplinario"
+  },
+  {
+    "entidad": "SBRT",
+    "relacion": "es",
+    "valor": "una opción segura y efectiva"
+  },
+  {
+    "entidad": "HCC",
+    "relacion": "requiere",
+    "valor": "un enfoque escalonado según el estadio de la enfermedad"
+  },
+  {
+    "entidad": "radioterapia",
+    "relacion": "se utilizó",
+    "valor": "exclusivamente con intención paliativa"
+  },
+  {
+    "entidad": "SBRT",
+    "relacion": "ha sido incorporada en",
+    "valor": "diversas guías clínicas internacionales"
+  },
+  {
+    "entidad": "SBRT",
+    "relacion": "ofrece",
+    "valor": "un alto control local comparable con otras terapias locorregionales"
+  },
+  {
+    "entidad": "SBRT",
+    "relacion": "es considerada",
+    "valor": "una opción terapéutica real en pacientes con HCC"
+  },
+  {
+    "entidad": "tamaño tumoral",
+    "relacion": "es",
+    "valor": "un factor pronóstico significativo"
+  },
+  {
+    "entidad": "SBRT",
+    "relacion": "se perfila como",
+    "valor": "una opción puente para trasplante hepático"
+  },
+  {
+    "entidad": "SBRT",
+    "relacion": "mejora",
+    "valor": "el control tumoral y la calidad de vida en pacientes con HCC"
+  },
+  {
+    "entidad": "inactividad física",
+    "relacion": "asocia con",
+    "valor": "mayor riesgo de mortalidad por todas las causas"
+  },
+  {
+    "entidad": "población chilena",
+    "relacion": "considera",
+    "valor": "efectos diferenciales de factores sociodemográficos, de estilo de vida y de salud"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud 2009-2010",
+    "relacion": "realizada por",
+    "valor": "Ministerio de Salud de Chile"
+  },
+  {
+    "entidad": "inactividad física",
+    "relacion": "se determina con",
+    "valor": "Cuestionario Global de Actividad Física (GPAQ)"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "se obtiene de",
+    "valor": "vinculación de datos del Registro Civil e Identificación de Chile"
+  },
+  {
+    "entidad": "personas físicamente inactivas",
+    "relacion": "presentan",
+    "valor": "mayor riesgo de mortalidad en comparación con activas"
+  },
+  {
+    "entidad": "inactividad física",
+    "relacion": "identificada como",
+    "valor": "factor de riesgo de mortalidad"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "presentan",
+    "valor": "mayor riesgo de inactividad física"
+  },
+  {
+    "entidad": "personas de 60 años o más",
+    "relacion": "tienen",
+    "valor": "mayor riesgo de mortalidad asociado a inactividad física"
+  },
+  {
+    "entidad": "personas inactivas",
+    "relacion": "podrían prevenir",
+    "valor": "11.470 muertes anuales si reducen tiempo sedentario"
+  },
+  {
+    "entidad": "inactividad física",
+    "relacion": "asociada a",
+    "valor": "2,4% de muertes por cáncer en Chile"
+  },
+  {
+    "entidad": "estilo de vida menos saludable",
+    "relacion": "muestra",
+    "valor": "mayor riesgo de mortalidad"
+  },
+  {
+    "entidad": "factores sociodemográficos",
+    "relacion": "asociados a",
+    "valor": "aumento de la inactividad física"
+  },
+  {
+    "entidad": "inactividad física",
+    "relacion": "incrementa",
+    "valor": "riesgo acumulado de mortalidad con la edad"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "tienen",
+    "valor": "menor riesgo de mortalidad asociado a inactividad física en comparación con mujeres"
+  },
+  {
+    "entidad": "personas inactivas con nivel educativo alto",
+    "relacion": "presentan",
+    "valor": "mayor riesgo de mortalidad"
+  },
+  {
+    "entidad": "personas inactivas con ingresos bajos",
+    "relacion": "presentan",
+    "valor": "menor riesgo de mortalidad"
+  },
+  {
+    "entidad": "inactividad física",
+    "relacion": "afecta",
+    "valor": "riesgo de mortalidad en población chilena"
+  },
+  {
+    "entidad": "años de vida perdidos",
+    "relacion": "se estima que",
+    "valor": "personas inactivas podrían morir 5,88 años antes que activas"
+  },
+  {
+    "entidad": "suicidio",
+    "relacion": "es una",
+    "valor": "causa de muerte en personas mayores"
+  },
+  {
+    "entidad": "intentos de suicidio",
+    "relacion": "son un",
+    "valor": "factor de riesgo para suicidio"
+  },
+  {
+    "entidad": "personas mayores",
+    "relacion": "son",
+    "valor": "grupo vulnerable al suicidio"
+  },
+  {
+    "entidad": "Unidad de Psiquiatría del Hospital Herminda Martin",
+    "relacion": "realiza",
+    "valor": "seguimiento de intentos de suicidio"
+  },
+  {
+    "entidad": "estudio correlacional",
+    "relacion": "evalúa",
+    "valor": "características sociodemográficas y clínicas"
+  },
+  {
+    "entidad": "grupo etario mayor de 70 años",
+    "relacion": "se relaciona con",
+    "valor": "intentos de suicidio"
+  },
+  {
+    "entidad": "sexo masculino",
+    "relacion": "se relaciona con",
+    "valor": "intentos de suicidio"
+  },
+  {
+    "entidad": "factores estresantes en el grupo primario de apoyo",
+    "relacion": "se relacionan con",
+    "valor": "intentos de suicidio"
+  },
+  {
+    "entidad": "problemas de vivienda",
+    "relacion": "se relacionan con",
+    "valor": "intentos de suicidio"
+  },
+  {
+    "entidad": "métodos suicidas",
+    "relacion": "incluyen",
+    "valor": "ingesta de medicamentos y asfixia por ahorcamiento"
+  },
+  {
+    "entidad": "diagnóstico psiquiátrico",
+    "relacion": "se relaciona con",
+    "valor": "conducta suicida"
+  },
+  {
+    "entidad": "trastorno depresivo",
+    "relacion": "es un",
+    "valor": "diagnóstico asociado a intentos de suicidio"
+  },
+  {
+    "entidad": "conflictos familiares",
+    "relacion": "son",
+    "valor": "factores precipitantes de intentos de suicidio"
+  },
+  {
+    "entidad": "sentimientos adversos",
+    "relacion": "son",
+    "valor": "factores precipitantes de intentos de suicidio"
+  },
+  {
+    "entidad": "suicidio",
+    "relacion": "se relaciona con",
+    "valor": "conducta suicida previa"
+  },
+  {
+    "entidad": "intervenciones de seguimiento",
+    "relacion": "son necesarias para",
+    "valor": "continuidad de cuidados"
+  },
+  {
+    "entidad": "Hospital Clínico Herminda Martin",
+    "relacion": "es un",
+    "valor": "centro terciario de salud"
+  },
+  {
+    "entidad": "mortalidad por suicidio",
+    "relacion": "se puede reducir con",
+    "valor": "intervenciones de seguimiento"
+  },
+  {
+    "entidad": "personas mayores",
+    "relacion": "requieren",
+    "valor": "prevención focalizada en suicidio"
+  },
+  {
+    "entidad": "Síndrome del conducto pancreático desconectado",
+    "relacion": "es una",
+    "valor": "complicación de la pancreatitis aguda necrotizante"
+  },
+  {
+    "entidad": "SCPD",
+    "relacion": "se caracteriza por",
+    "valor": "rotura del conducto pancreático"
+  },
+  {
+    "entidad": "SCPD",
+    "relacion": "alimenta",
+    "valor": "colecciones pancreáticas difíciles de manejar"
+  },
+  {
+    "entidad": "diagnóstico de SCPD",
+    "relacion": "suele ser",
+    "valor": "tardío"
+  },
+  {
+    "entidad": "Hospital Clínico Universidad de Chile",
+    "relacion": "realiza",
+    "valor": "diagnóstico y tratamiento de SCPD"
+  },
+  {
+    "entidad": "pacientes con SCPD",
+    "relacion": "requieren",
+    "valor": "múltiples intervenciones"
+  },
+  {
+    "entidad": "intervenciones",
+    "relacion": "incluyen",
+    "valor": "endoscopía, radiología intervencional y cirugía"
+  },
+  {
+    "entidad": "diabetes mellitus de inicio reciente",
+    "relacion": "se detecta en",
+    "valor": "pacientes con SCPD"
+  },
+  {
+    "entidad": "insuficiencia exocrina",
+    "relacion": "se detecta en",
+    "valor": "pacientes con SCPD"
+  },
+  {
+    "entidad": "SCPD",
+    "relacion": "requiere",
+    "valor": "múltiples intervenciones mínimamente invasivas"
+  },
+  {
+    "entidad": "mortalidad en SCPD",
+    "relacion": "es",
+    "valor": "baja"
+  },
+  {
+    "entidad": "insuficiencia pancreática exocrina y endocrina",
+    "relacion": "son consecuencias tardías de",
+    "valor": "SCPD"
+  },
+  {
+    "entidad": "colecciones necróticas",
+    "relacion": "constituyen",
+    "valor": "posible foco de infección en pancreatitis aguda necrotizante"
+  },
+  {
+    "entidad": "conducto pancreático",
+    "relacion": "puede ser",
+    "valor": "completamente o parcialmente desconectado"
+  },
+  {
+    "entidad": "SCPD",
+    "relacion": "es",
+    "valor": "poco conocido y subdiagnosticado"
+  },
+  {
+    "entidad": "reconocimiento temprano de SCPD",
+    "relacion": "es crucial para",
+    "valor": "evitar complicaciones locales persistentes"
+  },
+  {
+    "entidad": "tratamiento endoscópico",
+    "relacion": "debe ser considerado en",
+    "valor": "la estrategia terapéutica a largo plazo"
+  },
+  {
+    "entidad": "Ataque Cerebrovascular (ACV)",
+    "relacion": "es",
+    "valor": "la tercera causa de muerte en Chile"
+  },
+  {
+    "entidad": "Régimen de Garantías Explícitas en Salud (GES)",
+    "relacion": "garantiza",
+    "valor": "evaluación post alta de pacientes con ACV isquémico dentro de 10 días"
+  },
+  {
+    "entidad": "estudio etiológico de ACV",
+    "relacion": "es crucial debido a",
+    "valor": "elevado riesgo de recurrencia en pacientes sin causa específica"
+  },
+  {
+    "entidad": "Hospital Dr. Hernán Henríquez Aravena (HHHA)",
+    "relacion": "es",
+    "valor": "un hospital regional de alta complejidad en Temuco"
+  },
+  {
+    "entidad": "pacientes con ACV",
+    "relacion": "son evaluados en",
+    "valor": "el policlínico de neurología vascular del HHHA"
+  },
+  {
+    "entidad": "ecocardiograma transtorácico",
+    "relacion": "tiempo para realización",
+    "valor": "9 días"
+  },
+  {
+    "entidad": "ecocardiograma transesofágico",
+    "relacion": "tiempo para realización",
+    "valor": "21 días"
+  },
+  {
+    "entidad": "Holter de ritmo",
+    "relacion": "tiempo para realización",
+    "valor": "35,5 días"
+  },
+  {
+    "entidad": "pacientes con ACVi",
+    "relacion": "cumplen con",
+    "valor": "la garantía GES de seguimiento en un bajo porcentaje"
+  },
+  {
+    "entidad": "etiología del ACVi",
+    "relacion": "destaca",
+    "valor": "19,3% de estudio incompleto"
+  },
+  {
+    "entidad": "pacientes con HIC",
+    "relacion": "destaca",
+    "valor": "56,5% de hipertensión como causa"
+  },
+  {
+    "entidad": "Régimen de Garantías Explícitas en Salud (GES)",
+    "relacion": "establece",
+    "valor": "control post alta dentro de 10 días"
+  },
+  {
+    "entidad": "modelo de regresión logística",
+    "relacion": "muestra significación estadística en",
+    "valor": "el año de ingreso al policlínico"
+  },
+  {
+    "entidad": "pacientes con ACVi",
+    "relacion": "tienen",
+    "valor": "dificultades de acceso al policlínico"
+  },
+  {
+    "entidad": "estudio etiológico",
+    "relacion": "es fundamental para",
+    "valor": "guiar la prevención secundaria"
+  },
+  {
+    "entidad": "anticoagulantes directos",
+    "relacion": "son medidas de prevención secundaria para",
+    "valor": "fibrilación auricular no valvular"
+  },
+  {
+    "entidad": "endarterectomía carotidea",
+    "relacion": "es una medida de prevención secundaria para",
+    "valor": "estenosis carotídea sintomática"
+  },
+  {
+    "entidad": "cierre percutáneo del foramen oval permeable",
+    "relacion": "es una medida de prevención secundaria para",
+    "valor": "pacientes menores de 60 años sin factores de riesgo cerebrovascular"
+  }
+]

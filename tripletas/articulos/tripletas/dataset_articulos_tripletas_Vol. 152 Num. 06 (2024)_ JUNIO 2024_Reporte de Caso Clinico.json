@@ -1,0 +1,427 @@
+[
+  {
+    "entidad": "Endocarditis Infecciosa bivalvular",
+    "relacion": "es una",
+    "valor": "forma de presentación clínica"
+  },
+  {
+    "entidad": "Endocarditis Infecciosa bivalvular",
+    "relacion": "asocia a",
+    "valor": "eventos adversos"
+  },
+  {
+    "entidad": "compromiso de la fibrosa mitroaórtica",
+    "relacion": "es una",
+    "valor": "complicación infrecuente"
+  },
+  {
+    "entidad": "compromiso de la fibrosa mitroaórtica",
+    "relacion": "presenta",
+    "valor": "altas tasas de mortalidad"
+  },
+  {
+    "entidad": "Staphylococcus lugdunensis",
+    "relacion": "es un",
+    "valor": "agente etiológico"
+  },
+  {
+    "entidad": "Staphylococcus lugdunensis",
+    "relacion": "causa",
+    "valor": "Endocarditis Infecciosa bivalvular"
+  },
+  {
+    "entidad": "cirugía de alta complejidad",
+    "relacion": "requiere",
+    "valor": "compromiso de la fibrosa mitroaórtica"
+  },
+  {
+    "entidad": "paciente joven",
+    "relacion": "presenta",
+    "valor": "Endocarditis Infecciosa bivalvular"
+  },
+  {
+    "entidad": "Endocarditis Infecciosa",
+    "relacion": "es una",
+    "valor": "enfermedad"
+  },
+  {
+    "entidad": "Endocarditis Infecciosa",
+    "relacion": "asociada a",
+    "valor": "elevada mortalidad"
+  },
+  {
+    "entidad": "Endocarditis Infecciosa",
+    "relacion": "aumenta su",
+    "valor": "prevalencia en los últimos 30 años"
+  },
+  {
+    "entidad": "compromiso bivalvular de la EI",
+    "relacion": "determina",
+    "valor": "lesiones cardiacas más extensas y severas"
+  },
+  {
+    "entidad": "compromiso de la fibrosa mitroaórtica",
+    "relacion": "requiere",
+    "valor": "tratamiento quirúrgico complejo"
+  },
+  {
+    "entidad": "Staphylococcus lugdunensis",
+    "relacion": "tiene",
+    "valor": "mayor virulencia"
+  },
+  {
+    "entidad": "Staphylococcus lugdunensis",
+    "relacion": "se asocia con",
+    "valor": "necesidad de realizar recambio valvular precoz"
+  },
+  {
+    "entidad": "Endocarditis Infecciosa",
+    "relacion": "desarrolla",
+    "valor": "complicaciones severas"
+  },
+  {
+    "entidad": "cirugía",
+    "relacion": "complementa",
+    "valor": "tratamiento antibiótico"
+  },
+  {
+    "entidad": "compromiso de la FM",
+    "relacion": "es una",
+    "valor": "presentación rara de la EI activa"
+  },
+  {
+    "entidad": "desbridamiento radical del tejido infectado",
+    "relacion": "es la",
+    "valor": "única opción de tratamiento"
+  },
+  {
+    "entidad": "sobrevida de este procedimiento",
+    "relacion": "es de",
+    "valor": "un 84%"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "evoluciona",
+    "valor": "favorablemente en controles ambulatorios"
+  },
+  {
+    "entidad": "Histiocitosis de Erdheim Chester",
+    "relacion": "es un",
+    "valor": "tipo de histiocitosis no Langerhans"
+  },
+  {
+    "entidad": "Histiocitosis de Erdheim Chester",
+    "relacion": "caracteriza por",
+    "valor": "compromiso multiorgánico"
+  },
+  {
+    "entidad": "Histiocitosis de Erdheim Chester",
+    "relacion": "requiere",
+    "valor": "alta sospecha diagnóstica"
+  },
+  {
+    "entidad": "células mieloides patogénicas",
+    "relacion": "causa",
+    "valor": "histiocitosis"
+  },
+  {
+    "entidad": "Erdheim-Chester Disease",
+    "relacion": "es un",
+    "valor": "trastorno raro"
+  },
+  {
+    "entidad": "Erdheim-Chester Disease",
+    "relacion": "afecta a",
+    "valor": "adultos de 50-70 años"
+  },
+  {
+    "entidad": "Erdheim-Chester Disease",
+    "relacion": "presenta",
+    "valor": "infiltración xantogranulomatosa"
+  },
+  {
+    "entidad": "diagnóstico",
+    "relacion": "se establece por",
+    "valor": "criterios radiológicos e histológicos"
+  },
+  {
+    "entidad": "corticoides sistémicos",
+    "relacion": "se utiliza para",
+    "valor": "manejo inicial"
+  },
+  {
+    "entidad": "biopsia de masa retroperitoneal",
+    "relacion": "confirma",
+    "valor": "histiocitos espumosos"
+  },
+  {
+    "entidad": "mutación BRAFV600",
+    "relacion": "se asocia con",
+    "valor": "Erdheim-Chester Disease"
+  },
+  {
+    "entidad": "Vemurafenib",
+    "relacion": "se utiliza como",
+    "valor": "tratamiento de segunda línea"
+  },
+  {
+    "entidad": "IFN-alfa",
+    "relacion": "es el",
+    "valor": "tratamiento de primera línea"
+  },
+  {
+    "entidad": "Erdheim-Chester Disease",
+    "relacion": "se asocia con",
+    "valor": "efectos adversos en tratamientos"
+  },
+  {
+    "entidad": "Erdheim-Chester Disease",
+    "relacion": "puede comprometer",
+    "valor": "múltiples órganos"
+  },
+  {
+    "entidad": "histiocitos CD68",
+    "relacion": "son positivos en",
+    "valor": "Erdheim-Chester Disease"
+  },
+  {
+    "entidad": "histiocitos CD1a",
+    "relacion": "son negativos en",
+    "valor": "Erdheim-Chester Disease"
+  },
+  {
+    "entidad": "Erdheim-Chester Disease",
+    "relacion": "se ha reportado en",
+    "valor": "menos de 500 casos"
+  },
+  {
+    "entidad": "Erdheim-Chester Disease",
+    "relacion": "se presenta con",
+    "valor": "compromiso óseo, neurológico, orbitario"
+  },
+  {
+    "entidad": "Erdheim-Chester Disease",
+    "relacion": "se asocia con",
+    "valor": "fenómenos de autoinmunidad"
+  },
+  {
+    "entidad": "escala autoevaluativa de síntomas",
+    "relacion": "se llama",
+    "valor": "ECD Symptom Scale"
+  },
+  {
+    "entidad": "Neoplasia endocrina múltiple tipo 1 (NEM1)",
+    "relacion": "es un",
+    "valor": "enfermedad rara de herencia autosómica dominante"
+  },
+  {
+    "entidad": "NEM1",
+    "relacion": "es causada por",
+    "valor": "mutación en el gen MEN1"
+  },
+  {
+    "entidad": "gen MEN1",
+    "relacion": "está ubicado en",
+    "valor": "el cromosoma 11"
+  },
+  {
+    "entidad": "MEN1",
+    "relacion": "codifica",
+    "valor": "la proteína menina"
+  },
+  {
+    "entidad": "NEM1",
+    "relacion": "se caracteriza por",
+    "valor": "predisposición a tumores paratiroideos, entero pancreáticos y de hipófisis anterior"
+  },
+  {
+    "entidad": "NEM1",
+    "relacion": "afecta",
+    "valor": "la calidad de vida y la expectativa de vida"
+  },
+  {
+    "entidad": "insulinoma",
+    "relacion": "es un tipo de",
+    "valor": "tumor asociado a NEM1"
+  },
+  {
+    "entidad": "hipoglucemia sintomática",
+    "relacion": "es un síntoma de",
+    "valor": "insulinoma"
+  },
+  {
+    "entidad": "mujer de 24 años",
+    "relacion": "presenta",
+    "valor": "episodios recurrentes de hipoglucemia sintomática"
+  },
+  {
+    "entidad": "estudio genético",
+    "relacion": "revela",
+    "valor": "deleción en el gen IAT compatible con MEN1"
+  },
+  {
+    "entidad": "resección tumoral pancreática",
+    "relacion": "es un tratamiento para",
+    "valor": "NEM1"
+  },
+  {
+    "entidad": "paratiroidectomía subtotal",
+    "relacion": "es un tratamiento para",
+    "valor": "hiperparatiroidismo primario"
+  },
+  {
+    "entidad": "diagnóstico de NEM1",
+    "relacion": "se establece en",
+    "valor": "presencia de dos o más tumores definitorios o uno asociado a examen genético"
+  },
+  {
+    "entidad": "vigilancia activa",
+    "relacion": "permite",
+    "valor": "disminuir la carga de enfermedad en pacientes con NEM1"
+  },
+  {
+    "entidad": "tumores neuroendocrinos",
+    "relacion": "son responsables de",
+    "valor": "30% de las muertes en pacientes con NEM1"
+  },
+  {
+    "entidad": "hiperparatiroidismo primario",
+    "relacion": "es la principal manifestación de",
+    "valor": "NEM1"
+  },
+  {
+    "entidad": "insulinomas",
+    "relacion": "son raramente causados por",
+    "valor": "NEM1"
+  },
+  {
+    "entidad": "diagnóstico genético",
+    "relacion": "es importante para",
+    "valor": "vigilancia en familiares de primer grado con NEM1"
+  },
+  {
+    "entidad": "mutación en el gen MEN1",
+    "relacion": "causa",
+    "valor": "corrimiento en el marco de lectura y un codón de término prematuro"
+  },
+  {
+    "entidad": "estudio genético",
+    "relacion": "se realiza en",
+    "valor": "pacientes con al menos 2 neoplasias asociadas a NEM1"
+  },
+  {
+    "entidad": "tuberculosis intestinal",
+    "relacion": "es un",
+    "valor": "infección bacteriana"
+  },
+  {
+    "entidad": "tuberculosis intestinal",
+    "relacion": "representa",
+    "valor": "10% de la tuberculosis extrapulmonar"
+  },
+  {
+    "entidad": "tuberculosis intestinal",
+    "relacion": "es conocido como",
+    "valor": "el gran imitador"
+  },
+  {
+    "entidad": "enfermedad de Crohn",
+    "relacion": "simula",
+    "valor": "tuberculosis intestinal"
+  },
+  {
+    "entidad": "tuberculosis intestinal",
+    "relacion": "puede afectar",
+    "valor": "cualquier segmento del tubo digestivo"
+  },
+  {
+    "entidad": "tuberculosis intestinal",
+    "relacion": "causa",
+    "valor": "diagnóstico erróneo en hasta 70% de los casos"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "tiene",
+    "valor": "57 años"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "recibió",
+    "valor": "tratamiento inmunosupresor"
+  },
+  {
+    "entidad": "tuberculosis intestinal",
+    "relacion": "es tratada con",
+    "valor": "buena respuesta"
+  },
+  {
+    "entidad": "Mycobacterium tuberculosis complex",
+    "relacion": "causa",
+    "valor": "tuberculosis"
+  },
+  {
+    "entidad": "tuberculosis intestinal",
+    "relacion": "afecta",
+    "valor": "20% de pacientes inmunocompetentes"
+  },
+  {
+    "entidad": "tuberculosis intestinal",
+    "relacion": "afecta",
+    "valor": "50% de pacientes inmunocomprometidos"
+  },
+  {
+    "entidad": "enfermedad inflamatoria intestinal",
+    "relacion": "es un",
+    "valor": "factor de riesgo para tuberculosis intestinal"
+  },
+  {
+    "entidad": "diagnóstico de tuberculosis intestinal",
+    "relacion": "es complejo debido a",
+    "valor": "característica paucibacilar"
+  },
+  {
+    "entidad": "cultivo de Mycobacterium tuberculosis",
+    "relacion": "es el",
+    "valor": "estándar de oro para diagnóstico"
+  },
+  {
+    "entidad": "PCR",
+    "relacion": "aumenta",
+    "valor": "diagnóstico de tuberculosis"
+  },
+  {
+    "entidad": "técnica de reacción polimerasa en cadena (PCR)",
+    "relacion": "permite",
+    "valor": "descartar o confirmar tuberculosis en menos de 48 horas"
+  },
+  {
+    "entidad": "endoscopía",
+    "relacion": "permite",
+    "valor": "visualizar la mucosa y obtener muestras"
+  },
+  {
+    "entidad": "granulomas",
+    "relacion": "son",
+    "valor": "colecciones de histiocitos epitelioides"
+  },
+  {
+    "entidad": "granulomas en tuberculosis intestinal",
+    "relacion": "se caracterizan por",
+    "valor": "mayor longitud y necrosis caseificante"
+  },
+  {
+    "entidad": "granulomas en enfermedad de Crohn",
+    "relacion": "son",
+    "valor": "pequeños y dispersos"
+  },
+  {
+    "entidad": "tinción de bacilos ácido alcoholes resistentes (BAAR)",
+    "relacion": "permite identificar",
+    "valor": "Mycobacterium tuberculosis"
+  },
+  {
+    "entidad": "tuberculosis intestinal",
+    "relacion": "requiere",
+    "valor": "diagnóstico diferencial con enfermedad de Crohn"
+  }
+]

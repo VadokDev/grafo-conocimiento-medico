@@ -1,0 +1,122 @@
+[
+  {
+    "entidad": "Glioma difuso de línea media H3K27M",
+    "relacion": "es un",
+    "valor": "tumor"
+  },
+  {
+    "entidad": "H3K27M",
+    "relacion": "es una",
+    "valor": "mutación"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud (OMS)",
+    "relacion": "publica",
+    "valor": "clasificación de tumores del sistema nervioso central"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "tiene",
+    "valor": "51 años"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "diplopia progresiva"
+  },
+  {
+    "entidad": "estudio de imagen",
+    "relacion": "muestra",
+    "valor": "tumor mesencefálico"
+  },
+  {
+    "entidad": "biopsia estereotáxica",
+    "relacion": "revela",
+    "valor": "astrocitoma anaplásico IDH salvaje"
+  },
+  {
+    "entidad": "estudio molecular",
+    "relacion": "concluye",
+    "valor": "mutación H3K27"
+  },
+  {
+    "entidad": "tratamiento",
+    "relacion": "incluye",
+    "valor": "radioterapia y quimioterapia"
+  },
+  {
+    "entidad": "temozolomida",
+    "relacion": "es un",
+    "valor": "fármaco utilizado en quimioterapia"
+  },
+  {
+    "entidad": "H3K27M",
+    "relacion": "se asocia a",
+    "valor": "peor pronóstico"
+  },
+  {
+    "entidad": "H3K27M",
+    "relacion": "es característico en",
+    "valor": "tumores de línea media"
+  },
+  {
+    "entidad": "MD Anderson Cancer Center",
+    "relacion": "realiza",
+    "valor": "análisis molecular"
+  },
+  {
+    "entidad": "comité de neuro-oncología",
+    "relacion": "evalúa",
+    "valor": "caso del paciente"
+  },
+  {
+    "entidad": "ONC201",
+    "relacion": "es un",
+    "valor": "inductor de la transcripción del gen TRAIL"
+  },
+  {
+    "entidad": "H3K27M",
+    "relacion": "sensibiliza a",
+    "valor": "células tumorales"
+  },
+  {
+    "entidad": "estudios fase II",
+    "relacion": "investigan",
+    "valor": "tratamiento de gliomas difusos H3K27M"
+  },
+  {
+    "entidad": "Clínica Alemana",
+    "relacion": "es un",
+    "valor": "centro médico en Santiago, Chile"
+  },
+  {
+    "entidad": "Departamento de Neurología-Psiquiatría",
+    "relacion": "pertenece a",
+    "valor": "Clínica Alemana"
+  },
+  {
+    "entidad": "Departamento de Oncología",
+    "relacion": "pertenece a",
+    "valor": "Clínica Alemana"
+  },
+  {
+    "entidad": "Departamento de Imagenología",
+    "relacion": "pertenece a",
+    "valor": "Clínica Alemana"
+  },
+  {
+    "entidad": "Departamento de Cirugía",
+    "relacion": "pertenece a",
+    "valor": "Clínica Alemana"
+  },
+  {
+    "entidad": "Departamento de Laboratorio Clínico",
+    "relacion": "pertenece a",
+    "valor": "Clínica Alemana"
+  },
+  {
+    "entidad": "Department of Pathology, MD Anderson Cancer Center",
+    "relacion": "es un",
+    "valor": "centro médico en Texas, Estados Unidos"
+  }
+]

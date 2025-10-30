@@ -1,0 +1,222 @@
+[
+  {
+    "entidad": "Paracetamol",
+    "relacion": "es un",
+    "valor": "analgésico"
+  },
+  {
+    "entidad": "opioides fuertes",
+    "relacion": "se asocian con",
+    "valor": "paracetamol como coadyuvante"
+  },
+  {
+    "entidad": "dolor oncológico",
+    "relacion": "es causado por",
+    "valor": "tumores malignos"
+  },
+  {
+    "entidad": "cáncer",
+    "relacion": "es la",
+    "valor": "segunda causa de muerte en Chile"
+  },
+  {
+    "entidad": "Ministerio de Salud (MINSAL)",
+    "relacion": "reporta",
+    "valor": "90% de pacientes con dolor en el programa GES ADCCP"
+  },
+  {
+    "entidad": "cuidado paliativo",
+    "relacion": "incluye",
+    "valor": "alivio del dolor por cáncer"
+  },
+  {
+    "entidad": "escala verbal análoga (EVERA)",
+    "relacion": "es un",
+    "valor": "instrumento para evaluar la intensidad del dolor"
+  },
+  {
+    "entidad": "escala visual análoga (EVA)",
+    "relacion": "es un",
+    "valor": "instrumento para evaluar la intensidad del dolor"
+  },
+  {
+    "entidad": "estrategia escalonada de analgésicos",
+    "relacion": "fue presentada por",
+    "valor": "la OMS en 1986"
+  },
+  {
+    "entidad": "paracetamol",
+    "relacion": "puede reducir",
+    "valor": "efectos adversos de opioides"
+  },
+  {
+    "entidad": "cáncer",
+    "relacion": "aumenta",
+    "valor": "la intensidad del dolor"
+  },
+  {
+    "entidad": "cáncer",
+    "relacion": "causa",
+    "valor": "impacto en la calidad de vida"
+  },
+  {
+    "entidad": "paracetamol",
+    "relacion": "es utilizado en",
+    "valor": "manejo del dolor de diversas etiologías"
+  },
+  {
+    "entidad": "cáncer",
+    "relacion": "se asocia con",
+    "valor": "dolor moderado a intenso"
+  },
+  {
+    "entidad": "paracetamol",
+    "relacion": "no tiene evidencia clara de",
+    "valor": "efectividad como coadyuvante en dolor oncológico"
+  },
+  {
+    "entidad": "cáncer",
+    "relacion": "requiere",
+    "valor": "estrategias de alivio del dolor"
+  },
+  {
+    "entidad": "cáncer",
+    "relacion": "es un",
+    "valor": "problema de salud grave"
+  },
+  {
+    "entidad": "paracetamol",
+    "relacion": "es considerado",
+    "valor": "de bajo costo y fácil acceso"
+  },
+  {
+    "entidad": "cáncer",
+    "relacion": "afecta",
+    "valor": "la funcionalidad, ánimo, apetito y sueño de los pacientes"
+  },
+  {
+    "entidad": "Tumores Neuroendocrinos (NETs)",
+    "relacion": "son",
+    "valor": "tumores que surgen de células neuroendocrinas"
+  },
+  {
+    "entidad": "Carcinoid syndrome",
+    "relacion": "es",
+    "valor": "el síndrome hormonal más común producido por NETs"
+  },
+  {
+    "entidad": "Somatostatin analogues",
+    "relacion": "se utilizan para",
+    "valor": "mejorar el pronóstico de pacientes con NETs"
+  },
+  {
+    "entidad": "Radiación",
+    "relacion": "se utiliza para",
+    "valor": "mejorar el pronóstico de pacientes con NETs"
+  },
+  {
+    "entidad": "Biological drugs",
+    "relacion": "se utilizan para",
+    "valor": "mejorar el pronóstico de pacientes con NETs"
+  },
+  {
+    "entidad": "Cytotoxic drugs",
+    "relacion": "se utilizan para",
+    "valor": "mejorar el pronóstico de pacientes con NETs"
+  },
+  {
+    "entidad": "Incidencia de NETs",
+    "relacion": "ha aumentado",
+    "valor": "significativamente en las últimas décadas"
+  },
+  {
+    "entidad": "Tumores carcinoides",
+    "relacion": "se asocian con",
+    "valor": "síndrome carcinoide"
+  },
+  {
+    "entidad": "Síndrome carcinoide",
+    "relacion": "se caracteriza por",
+    "valor": "diarrea, flushing y lesiones valvulares cardíacas"
+  },
+  {
+    "entidad": "Neoplasia Endocrina Múltiple tipo 1 y 2 (NEM1 y NEM2)",
+    "relacion": "son",
+    "valor": "síndromes genéticos asociados a NETs"
+  },
+  {
+    "entidad": "Cromogranina A (CgA)",
+    "relacion": "es",
+    "valor": "un biomarcador utilizado en el diagnóstico de NETs"
+  },
+  {
+    "entidad": "Tomografía computada (TC)",
+    "relacion": "se utiliza para",
+    "valor": "caracterizar NETs"
+  },
+  {
+    "entidad": "Resonancia magnética (RM)",
+    "relacion": "se utiliza para",
+    "valor": "mejorar la sensibilidad y especificidad en NETs"
+  },
+  {
+    "entidad": "Terapia con péptidos radiactivos (PRRT)",
+    "relacion": "se utiliza para",
+    "valor": "tratar NETs"
+  },
+  {
+    "entidad": "Everolimus",
+    "relacion": "mejora",
+    "valor": "la sobrevida libre de progresión en NETs"
+  },
+  {
+    "entidad": "Quimioterapia citotóxica",
+    "relacion": "se utiliza en",
+    "valor": "el tratamiento de NETs avanzados"
+  },
+  {
+    "entidad": "Telotristat",
+    "relacion": "se utiliza para",
+    "valor": "disminuir la hipersecreción de serotonina en tumores carcinoides"
+  },
+  {
+    "entidad": "Inhibidores de la bomba de protones (IBP)",
+    "relacion": "se utilizan para",
+    "valor": "tratar la hipersecreción de ácido clorhídrico gástrico"
+  },
+  {
+    "entidad": "Insulinomas",
+    "relacion": "son",
+    "valor": "un tipo de TNE que secreta insulina"
+  },
+  {
+    "entidad": "Cushing ectópico",
+    "relacion": "es",
+    "valor": "un síndrome asociado a TNEs"
+  },
+  {
+    "entidad": "Factores demográficos",
+    "relacion": "se asocian a",
+    "valor": "peor pronóstico en pacientes con NETs"
+  },
+  {
+    "entidad": "Edad avanzada",
+    "relacion": "se asocia a",
+    "valor": "peor pronóstico en pacientes con NETs"
+  },
+  {
+    "entidad": "Sexo masculino",
+    "relacion": "se asocia a",
+    "valor": "peor pronóstico en pacientes con NETs"
+  },
+  {
+    "entidad": "Nivel socio-económico bajo",
+    "relacion": "se asocia a",
+    "valor": "peor pronóstico en pacientes con NETs"
+  },
+  {
+    "entidad": "Ruralidad",
+    "relacion": "se asocia a",
+    "valor": "peor pronóstico en pacientes con NETs"
+  }
+]

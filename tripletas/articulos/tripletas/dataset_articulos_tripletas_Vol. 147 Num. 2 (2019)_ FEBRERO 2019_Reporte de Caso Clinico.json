@@ -1,0 +1,372 @@
+[
+  {
+    "entidad": "Accidente cerebrovascular embólico",
+    "relacion": "es causado por",
+    "valor": "fibroelastoma papilar de válvula mitral"
+  },
+  {
+    "entidad": "fibroelastoma papilar",
+    "relacion": "es un tipo de",
+    "valor": "tumor cardíaco"
+  },
+  {
+    "entidad": "tumores cardíacos",
+    "relacion": "pueden causar",
+    "valor": "embolia sistémica"
+  },
+  {
+    "entidad": "ecocardiografía",
+    "relacion": "es el método de elección para",
+    "valor": "diagnóstico de fibroelastoma papilar"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "afasia y hemiparesia derecha"
+  },
+  {
+    "entidad": "tumor",
+    "relacion": "fue encontrado en",
+    "valor": "el aparato subvalvular de la válvula mitral"
+  },
+  {
+    "entidad": "cirugía",
+    "relacion": "es el tratamiento recomendado para",
+    "valor": "tumores cardíacos sintomáticos"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "se recuperó",
+    "valor": "sin complicaciones postoperatorias"
+  },
+  {
+    "entidad": "fibroelastoma papilar",
+    "relacion": "representa",
+    "valor": "1-2% de los tumores cardíacos primarios"
+  },
+  {
+    "entidad": "tumores cardíacos",
+    "relacion": "son infrecuentes",
+    "valor": "en la población general"
+  },
+  {
+    "entidad": "tumores cardíacos",
+    "relacion": "son en su mayoría",
+    "valor": "benignos"
+  },
+  {
+    "entidad": "tumores cardíacos",
+    "relacion": "pueden ser",
+    "valor": "asintomáticos"
+  },
+  {
+    "entidad": "ecocardiografía",
+    "relacion": "permite caracterizar",
+    "valor": "morfología y ubicación del tumor"
+  },
+  {
+    "entidad": "pacientes asintomáticos con fibroelastoma papilar",
+    "relacion": "deben considerar",
+    "valor": "ubicación, tamaño y movilidad para tratamiento"
+  },
+  {
+    "entidad": "cirugía",
+    "relacion": "es un tratamiento",
+    "valor": "curativo para fibroelastoma papilar"
+  },
+  {
+    "entidad": "Linfoma No Hodgkin",
+    "relacion": "es un",
+    "valor": "tipo de cáncer"
+  },
+  {
+    "entidad": "pacientes trasplantados de órganos sólidos",
+    "relacion": "tienen",
+    "valor": "mayor riesgo de cáncer"
+  },
+  {
+    "entidad": "Linfomas",
+    "relacion": "corresponden a",
+    "valor": "4-5% de neoplasias malignas"
+  },
+  {
+    "entidad": "incidencia de linfomas en trasplantados",
+    "relacion": "alcanza",
+    "valor": "21%"
+  },
+  {
+    "entidad": "linfoma no Hodgkin",
+    "relacion": "tiene una incidencia",
+    "valor": "10 veces mayor en trasplantados"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "desarrolló",
+    "valor": "linfoma no Hodgkin difuso de células grandes B"
+  },
+  {
+    "entidad": "marcadores de pronóstico",
+    "relacion": "incluyen",
+    "valor": "triple MYC, BCL2 y BCL6"
+  },
+  {
+    "entidad": "quimioterapia DA-R-EPOCH",
+    "relacion": "fue utilizada en",
+    "valor": "el tratamiento del paciente"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presentó",
+    "valor": "adenopatías supraclaviculares e inguinales"
+  },
+  {
+    "entidad": "biopsia excisional",
+    "relacion": "mostró",
+    "valor": "infiltración linfoide atípica"
+  },
+  {
+    "entidad": "inmunohistoquímica",
+    "relacion": "reveló",
+    "valor": "expresión de CD20, BCL6, BCL2 y C-MYC"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "fue clasificado como",
+    "valor": "estadio IVB"
+  },
+  {
+    "entidad": "índice pronóstico internacional (IPI)",
+    "relacion": "fue",
+    "valor": "5 (riesgo elevado)"
+  },
+  {
+    "entidad": "quimioterapia",
+    "relacion": "se administró",
+    "valor": "6 ciclos del esquema DA-R-EPOCH"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "se encuentra",
+    "valor": "en buenas condiciones generales"
+  },
+  {
+    "entidad": "injerto renal",
+    "relacion": "tiene",
+    "valor": "buena función"
+  },
+  {
+    "entidad": "terapia usual en PTLD",
+    "relacion": "es",
+    "valor": "reducción de la inmunosupresión y administración de rituximab"
+  },
+  {
+    "entidad": "LNH 'doble o triple expresores'",
+    "relacion": "no constituyen",
+    "valor": "una entidad distinta en la clasificación de la OMS"
+  },
+  {
+    "entidad": "quimioterapia intensiva (R DA-EPOCH)",
+    "relacion": "fue decidida para",
+    "valor": "el tratamiento del paciente"
+  },
+  {
+    "entidad": "Adenovirus (ADV)",
+    "relacion": "causa",
+    "valor": "enfermedades graves en pacientes inmunocomprometidos"
+  },
+  {
+    "entidad": "mujer de 39 años",
+    "relacion": "fue admitida por",
+    "valor": "neumonía por influenza"
+  },
+  {
+    "entidad": "neumonía por influenza",
+    "relacion": "evolucionó a",
+    "valor": "hemorragia pulmonar"
+  },
+  {
+    "entidad": "hemorragia pulmonar",
+    "relacion": "causó",
+    "valor": "falla renal aguda"
+  },
+  {
+    "entidad": "falla renal aguda",
+    "relacion": "requiere",
+    "valor": "ventilación mecánica y hemodiálisis"
+  },
+  {
+    "entidad": "corticoides",
+    "relacion": "fueron administrados por",
+    "valor": "sospecha de hemorragia alveolar"
+  },
+  {
+    "entidad": "linfopenia",
+    "relacion": "fue mantenida durante",
+    "valor": "toda la estadía hospitalaria"
+  },
+  {
+    "entidad": "diarrea de alto volumen",
+    "relacion": "asociada a",
+    "valor": "deposiciones con sangre"
+  },
+  {
+    "entidad": "enterocolitis ulcerativa",
+    "relacion": "fue confirmada por",
+    "valor": "tomografía computada y colonoscopía"
+  },
+  {
+    "entidad": "Adenovirus (ADV)",
+    "relacion": "fue detectado en",
+    "valor": "muestra de tejido colónico"
+  },
+  {
+    "entidad": "cidofovir-probenecid",
+    "relacion": "fue indicado sin",
+    "valor": "cambio en el curso clínico"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "falleció debido a",
+    "valor": "enterocolitis hemorrágica"
+  },
+  {
+    "entidad": "infecciones por Adenovirus",
+    "relacion": "son importantes en",
+    "valor": "pacientes inmunocomprometidos"
+  },
+  {
+    "entidad": "infección por Adenovirus",
+    "relacion": "puede provocar",
+    "valor": "neumonía, hepatitis, enterocolitis"
+  },
+  {
+    "entidad": "transmisión",
+    "relacion": "ocurre por",
+    "valor": "vía fecal-oral, gotas o fomites"
+  },
+  {
+    "entidad": "linfopenia",
+    "relacion": "puede potenciar",
+    "valor": "infecciones oportunistas"
+  },
+  {
+    "entidad": "cidofovir",
+    "relacion": "ha sido evaluado en",
+    "valor": "pacientes inmunocomprometidos"
+  },
+  {
+    "entidad": "probenecid",
+    "relacion": "se prescribe junto con",
+    "valor": "cidofovir para proteger riñones"
+  },
+  {
+    "entidad": "diagnóstico de infección por ADV",
+    "relacion": "puede ser intentado por",
+    "valor": "PCR, cultivo viral o detección de antígenos"
+  },
+  {
+    "entidad": "FilmArray GI panel",
+    "relacion": "no detectó",
+    "valor": "ADV en muestras de heces"
+  },
+  {
+    "entidad": "método molecular",
+    "relacion": "permitió diagnóstico de",
+    "valor": "infección por Adenovirus"
+  },
+  {
+    "entidad": "Hepatitis sifilítica",
+    "relacion": "es un",
+    "valor": "tipo de hepatitis"
+  },
+  {
+    "entidad": "Treponema pallidum",
+    "relacion": "causa",
+    "valor": "sífilis"
+  },
+  {
+    "entidad": "sífilis",
+    "relacion": "afecta a",
+    "valor": "hígado"
+  },
+  {
+    "entidad": "sífilis",
+    "relacion": "se manifiesta como",
+    "valor": "sífilis primaria, secundaria, terciaria o latente"
+  },
+  {
+    "entidad": "HIV",
+    "relacion": "aumenta el riesgo de",
+    "valor": "compromiso hepático por sífilis"
+  },
+  {
+    "entidad": "VDRL",
+    "relacion": "es un",
+    "valor": "test serológico para sífilis"
+  },
+  {
+    "entidad": "penicilina",
+    "relacion": "se utiliza para",
+    "valor": "tratar sífilis"
+  },
+  {
+    "entidad": "Hospital del Salvador",
+    "relacion": "es un",
+    "valor": "hospital en Santiago, Chile"
+  },
+  {
+    "entidad": "Clínica Universidad de los Andes",
+    "relacion": "es un",
+    "valor": "clínica en Santiago, Chile"
+  },
+  {
+    "entidad": "Facultad de Medicina, Universidad de Chile",
+    "relacion": "es un",
+    "valor": "institución educativa en Santiago, Chile"
+  },
+  {
+    "entidad": "infecciones de transmisión sexual (ITS)",
+    "relacion": "han aumentado en",
+    "valor": "Chile"
+  },
+  {
+    "entidad": "sífilis",
+    "relacion": "es un",
+    "valor": "problema de salud pública"
+  },
+  {
+    "entidad": "hepatitis sifilítica",
+    "relacion": "es una manifestación",
+    "valor": "poco frecuente de sífilis"
+  },
+  {
+    "entidad": "sífilis",
+    "relacion": "presenta",
+    "valor": "compromiso hepático en 0.2-3% de los casos"
+  },
+  {
+    "entidad": "diagnóstico diferencial",
+    "relacion": "se plantea en",
+    "valor": "pacientes con alteración del perfil hepático"
+  },
+  {
+    "entidad": "tratamiento",
+    "relacion": "se basa en",
+    "valor": "el estadio de la enfermedad"
+  },
+  {
+    "entidad": "penicilina G benzatina",
+    "relacion": "es el tratamiento recomendado para",
+    "valor": "sífilis temprana"
+  },
+  {
+    "entidad": "sífilis",
+    "relacion": "puede comprometer",
+    "valor": "cualquier órgano del cuerpo humano"
+  },
+  {
+    "entidad": "hepatitis sifilítica",
+    "relacion": "ha sido descrita en",
+    "valor": "50 casos en la literatura desde 1960"
+  }
+]

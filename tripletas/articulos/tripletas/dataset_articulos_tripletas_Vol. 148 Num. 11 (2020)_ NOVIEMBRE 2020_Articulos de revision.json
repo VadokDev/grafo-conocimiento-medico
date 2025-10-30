@@ -1,0 +1,312 @@
+[
+  {
+    "entidad": "Arteritis de células gigantes",
+    "relacion": "es un",
+    "valor": "vasculitis sistémica granulomatosa"
+  },
+  {
+    "entidad": "Arteritis de células gigantes",
+    "relacion": "afecta a",
+    "valor": "personas mayores de 50 años"
+  },
+  {
+    "entidad": "Arteritis de células gigantes",
+    "relacion": "involucra",
+    "valor": "aorta y sus ramas principales"
+  },
+  {
+    "entidad": "Arteritis de células gigantes",
+    "relacion": "presenta",
+    "valor": "fenotipos craneanos y extracranianos"
+  },
+  {
+    "entidad": "Arteritis de células gigantes",
+    "relacion": "causa",
+    "valor": "isquemia del nervio óptico"
+  },
+  {
+    "entidad": "Arteritis de células gigantes",
+    "relacion": "causa",
+    "valor": "aneurismas de la aorta"
+  },
+  {
+    "entidad": "biopsia de arteria temporal",
+    "relacion": "es el",
+    "valor": "gold standard para diagnóstico"
+  },
+  {
+    "entidad": "ultrasonografía",
+    "relacion": "mejora",
+    "valor": "diagnóstico de formas subclínicas"
+  },
+  {
+    "entidad": "tratamiento de Arteritis de células gigantes",
+    "relacion": "se basa en",
+    "valor": "terapia esteroidal"
+  },
+  {
+    "entidad": "Polimialgia reumática",
+    "relacion": "puede asociarse a",
+    "valor": "Arteritis de células gigantes"
+  },
+  {
+    "entidad": "Angiografía por tomografía computada",
+    "relacion": "es útil para",
+    "valor": "estudio de aortitis"
+  },
+  {
+    "entidad": "PET/CT",
+    "relacion": "proporciona",
+    "valor": "información funcional sobre inflamación"
+  },
+  {
+    "entidad": "Doppler color",
+    "relacion": "es una técnica",
+    "valor": "importante para diagnóstico precoz"
+  },
+  {
+    "entidad": "corticoesteroides sistémicos",
+    "relacion": "son el",
+    "valor": "eje terapéutico principal"
+  },
+  {
+    "entidad": "seguimiento de Arteritis de células gigantes",
+    "relacion": "se realiza en base a",
+    "valor": "parámetros clínicos y de laboratorio"
+  },
+  {
+    "entidad": "algoritmos de diagnóstico",
+    "relacion": "se han diseñado para",
+    "valor": "diagnóstico precoz de Arteritis de células gigantes"
+  },
+  {
+    "entidad": "dieta baja en carbohidratos",
+    "relacion": "impacta en",
+    "valor": "enfermedades metabólicas y reproductivas"
+  },
+  {
+    "entidad": "dieta cetogénica",
+    "relacion": "impacta en",
+    "valor": "enfermedades metabólicas y reproductivas"
+  },
+  {
+    "entidad": "glucosa",
+    "relacion": "se vuelve",
+    "valor": "fuente de energía no disponible"
+  },
+  {
+    "entidad": "cuerpos cetónicos",
+    "relacion": "se producen a partir de",
+    "valor": "ácidos grasos en el hígado"
+  },
+  {
+    "entidad": "cetosis nutricional",
+    "relacion": "es conocida como",
+    "valor": "aumento en plasma de cuerpos cetónicos"
+  },
+  {
+    "entidad": "dieta baja en carbohidratos",
+    "relacion": "es efectiva para",
+    "valor": "pérdida de peso"
+  },
+  {
+    "entidad": "dieta cetogénica",
+    "relacion": "es efectiva para",
+    "valor": "pérdida de peso"
+  },
+  {
+    "entidad": "dieta baja en carbohidratos",
+    "relacion": "mejora",
+    "valor": "marcadores de riesgo cardiovascular"
+  },
+  {
+    "entidad": "dieta baja en carbohidratos",
+    "relacion": "reduce",
+    "valor": "glucosa en sangre"
+  },
+  {
+    "entidad": "dieta baja en carbohidratos",
+    "relacion": "reduce",
+    "valor": "insulina"
+  },
+  {
+    "entidad": "dieta baja en carbohidratos",
+    "relacion": "reduce",
+    "valor": "triglicéridos"
+  },
+  {
+    "entidad": "dieta baja en carbohidratos",
+    "relacion": "reduce",
+    "valor": "números de partículas LDL pequeñas y densas"
+  },
+  {
+    "entidad": "dieta baja en carbohidratos",
+    "relacion": "reduce",
+    "valor": "hemoglobina glucosilada"
+  },
+  {
+    "entidad": "dieta baja en carbohidratos",
+    "relacion": "reduce",
+    "valor": "presión arterial"
+  },
+  {
+    "entidad": "dieta baja en carbohidratos",
+    "relacion": "reduce",
+    "valor": "peso corporal"
+  },
+  {
+    "entidad": "dieta baja en carbohidratos",
+    "relacion": "aumenta",
+    "valor": "concentraciones de HDL-colesterol"
+  },
+  {
+    "entidad": "dieta baja en carbohidratos",
+    "relacion": "revierte",
+    "valor": "hígado graso no alcohólico"
+  },
+  {
+    "entidad": "dieta baja en carbohidratos",
+    "relacion": "es una estrategia eficiente para",
+    "valor": "manejo de obesidad y síndrome metabólico"
+  },
+  {
+    "entidad": "síndrome de ovario poliquístico",
+    "relacion": "puede beneficiarse de",
+    "valor": "dieta baja en carbohidratos"
+  },
+  {
+    "entidad": "dieta baja en carbohidratos",
+    "relacion": "debe ser prescrita por",
+    "valor": "profesionales capacitados"
+  },
+  {
+    "entidad": "dieta baja en carbohidratos",
+    "relacion": "requiere",
+    "valor": "investigación futura sobre respuestas individuales"
+  },
+  {
+    "entidad": "cuerpos cetónicos",
+    "relacion": "son generados por",
+    "valor": "b-oxidación de ácidos grasos libres"
+  },
+  {
+    "entidad": "cetosis nutricional",
+    "relacion": "es desencadenada por",
+    "valor": "restricción de carbohidratos"
+  },
+  {
+    "entidad": "dieta cetogénica",
+    "relacion": "se asocia a",
+    "valor": "mejoras en la sensibilidad a la insulina"
+  },
+  {
+    "entidad": "dieta cetogénica",
+    "relacion": "se asocia a",
+    "valor": "disminución del hiperandrogenismo"
+  },
+  {
+    "entidad": "dieta cetogénica",
+    "relacion": "mejora",
+    "valor": "función menstrual y fertilidad"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "causa",
+    "valor": "proceso inflamatorio grave"
+  },
+  {
+    "entidad": "SARS-CoV-2",
+    "relacion": "induce",
+    "valor": "tormenta citoquínica"
+  },
+  {
+    "entidad": "Ruxolitinib",
+    "relacion": "inhibe",
+    "valor": "vía JAK/STAT"
+  },
+  {
+    "entidad": "Tocilizumab",
+    "relacion": "es un",
+    "valor": "anticuerpo anti receptor de IL-6"
+  },
+  {
+    "entidad": "síndrome hemofagocítico",
+    "relacion": "se asemeja a",
+    "valor": "manifestaciones graves de COVID-19"
+  },
+  {
+    "entidad": "IL-6",
+    "relacion": "promueve",
+    "valor": "hiper inflamación sistémica"
+  },
+  {
+    "entidad": "corticoides",
+    "relacion": "se utilizan en",
+    "valor": "tratamiento de COVID-19"
+  },
+  {
+    "entidad": "pacientes con COVID-19",
+    "relacion": "pueden experimentar",
+    "valor": "falla orgánica"
+  },
+  {
+    "entidad": "falla respiratoria",
+    "relacion": "puede ser causada por",
+    "valor": "inflamación persistente"
+  },
+  {
+    "entidad": "interleucinas",
+    "relacion": "son necesarias para",
+    "valor": "control de la infección viral"
+  },
+  {
+    "entidad": "células mesenquimatosas",
+    "relacion": "se mencionan como",
+    "valor": "potenciales terapias"
+  },
+  {
+    "entidad": "dímero D",
+    "relacion": "se eleva en",
+    "valor": "infección grave por SARS-CoV-2"
+  },
+  {
+    "entidad": "fibrinógeno",
+    "relacion": "puede descender en",
+    "valor": "mal pronóstico"
+  },
+  {
+    "entidad": "Ruxolitinib",
+    "relacion": "disminuye",
+    "valor": "secreción de IL-6"
+  },
+  {
+    "entidad": "Tocilizumab",
+    "relacion": "se utiliza en",
+    "valor": "síndrome de liberación de citoquinas"
+  },
+  {
+    "entidad": "tratamientos antiinflamatorios",
+    "relacion": "son evaluados en",
+    "valor": "pacientes con COVID-19"
+  },
+  {
+    "entidad": "profesionales de salud",
+    "relacion": "enfrentan",
+    "valor": "desafíos por COVID-19"
+  },
+  {
+    "entidad": "Ruxolitinib",
+    "relacion": "ha mostrado",
+    "valor": "eficacia en tratamiento de COVID-19"
+  },
+  {
+    "entidad": "Tocilizumab",
+    "relacion": "ha mostrado",
+    "valor": "resultados auspiciosos en COVID-19"
+  },
+  {
+    "entidad": "infección grave por COVID-19",
+    "relacion": "requiere",
+    "valor": "tratamiento multidisciplinario"
+  }
+]

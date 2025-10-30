@@ -1,0 +1,162 @@
+[
+  {
+    "entidad": "medicina traslacional",
+    "relacion": "se define como",
+    "valor": "transferencia de resultados de laboratorio a innovación en salud"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "tiene preocupación por",
+    "valor": "aumentar la traslación de resultados de investigación a la práctica clínica"
+  },
+  {
+    "entidad": "Comisión Nacional de Investigación Científica y Tecnológica (CONICYT)",
+    "relacion": "financia",
+    "valor": "trabajos de investigación científica"
+  },
+  {
+    "entidad": "investigación biomédica",
+    "relacion": "implica",
+    "valor": "transformar resultados en avances para la salud"
+  },
+  {
+    "entidad": "modelo de investigación traslacional",
+    "relacion": "ha evolucionado a",
+    "valor": "modelos de cuatro etapas"
+  },
+  {
+    "entidad": "ensayos clínicos",
+    "relacion": "permiten conocer",
+    "valor": "eficacia de nuevos productos farmacéuticos"
+  },
+  {
+    "entidad": "Instituto de Salud Pública de Chile",
+    "relacion": "controla",
+    "valor": "uso de compuestos en ensayos clínicos"
+  },
+  {
+    "entidad": "Harvard Catalyst",
+    "relacion": "utiliza",
+    "valor": "etapas T1, T2, T3 y T4 en investigación traslacional"
+  },
+  {
+    "entidad": "innovación en salud",
+    "relacion": "es un proceso",
+    "valor": "interactivo, circular e iterativo"
+  },
+  {
+    "entidad": "OCDE",
+    "relacion": "define",
+    "valor": "cinco etapas de innovación en salud"
+  },
+  {
+    "entidad": "nuevas tecnologías",
+    "relacion": "pueden generar",
+    "valor": "mejoras en la salud humana"
+  },
+  {
+    "entidad": "biotecnología",
+    "relacion": "agrupa",
+    "valor": "nuevas tecnologías en genómica, proteómica, ingeniería de tejidos y terapia celular"
+  },
+  {
+    "entidad": "Asociación Chilena de Biotecnología (ASEMBIO)",
+    "relacion": "fue fundada para",
+    "valor": "potenciar el crecimiento y cooperación entre empresas del sector"
+  },
+  {
+    "entidad": "Fondo de Financiamiento de Centros de Excelencia en Investigación en Áreas Prioritarias (FONDAP)",
+    "relacion": "financia",
+    "valor": "centros enfocados en problemas de salud"
+  },
+  {
+    "entidad": "Centro de Estudios Avanzados de Enfermedades Crónicas (ACCDIS)",
+    "relacion": "estudia",
+    "valor": "enfermedades cardiovasculares y cáncer"
+  },
+  {
+    "entidad": "Centro de Gerociencia, Salud Mental y Metabolismo (GERO)",
+    "relacion": "estudia",
+    "valor": "impacto del envejecimiento en enfermedades del cerebro"
+  },
+  {
+    "entidad": "Ley 20.241",
+    "relacion": "permite",
+    "valor": "rebajar impuestos en actividades de I+D"
+  },
+  {
+    "entidad": "universidades",
+    "relacion": "son actores clave en",
+    "valor": "el sistema de innovación nacional"
+  },
+  {
+    "entidad": "relación academia-industria",
+    "relacion": "es un factor esencial para",
+    "valor": "transferir conocimientos generados en universidades"
+  },
+  {
+    "entidad": "Ministerio de Economía, Fomento y Turismo",
+    "relacion": "reporta que",
+    "valor": "solo 9,4% de grandes empresas colaboran en innovación con universidades"
+  },
+  {
+    "entidad": "profilaxis antibiótica",
+    "relacion": "es utilizada en",
+    "valor": "procedimientos dentales"
+  },
+  {
+    "entidad": "procedimientos dentales",
+    "relacion": "generan",
+    "valor": "bacteriemias transitorias"
+  },
+  {
+    "entidad": "bacteriemias transitorias",
+    "relacion": "pueden causar",
+    "valor": "endocarditis bacteriana"
+  },
+  {
+    "entidad": "pacientes de alto riesgo",
+    "relacion": "deben recibir",
+    "valor": "profilaxis antibiótica"
+  },
+  {
+    "entidad": "American Heart Association (AHA)",
+    "relacion": "propone",
+    "valor": "esquemas de profilaxis antibiótica"
+  },
+  {
+    "entidad": "National Institute for Health and Care Excellence (NICE)",
+    "relacion": "declara",
+    "valor": "procedimientos dentales no necesitan profilaxis antibiótica"
+  },
+  {
+    "entidad": "Cochrane Institute",
+    "relacion": "realiza",
+    "valor": "revisión sistemática sobre profilaxis antibiótica"
+  },
+  {
+    "entidad": "salud periodontal",
+    "relacion": "es importante para",
+    "valor": "prevención de endocarditis"
+  },
+  {
+    "entidad": "Streptococcus viridans",
+    "relacion": "asociado a",
+    "valor": "bacteriemia de origen oral"
+  },
+  {
+    "entidad": "higiene bucal adecuada",
+    "relacion": "es fundamental para",
+    "valor": "disminución de bacteriemias"
+  },
+  {
+    "entidad": "procedimientos de higiene dental",
+    "relacion": "pueden influir en",
+    "valor": "desarrollo de endocarditis"
+  },
+  {
+    "entidad": "resistencia bacteriana",
+    "relacion": "es un problema",
+    "valor": "reconocido por la OMS"
+  }
+]

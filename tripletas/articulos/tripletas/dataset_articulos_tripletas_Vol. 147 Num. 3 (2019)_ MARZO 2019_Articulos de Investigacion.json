@@ -1,0 +1,557 @@
+[
+  {
+    "entidad": "Rosa Alcayaga D.",
+    "relacion": "es autora de",
+    "valor": "propuesta de protocolo de estandarización y gestión de calidad para el proceso de procuramiento de órganos"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "regula",
+    "valor": "proceso de procuramiento de órganos"
+  },
+  {
+    "entidad": "Coordinadora Nacional de Procuramiento y Trasplante (CNTP)",
+    "relacion": "depende de",
+    "valor": "Ministerio de Salud de Chile"
+  },
+  {
+    "entidad": "Organización Nacional de Trasplantes de España (ONT)",
+    "relacion": "es responsable de",
+    "valor": "implementación y control de procesos de procuramiento de órganos"
+  },
+  {
+    "entidad": "proceso de procuramiento de órganos",
+    "relacion": "se define como",
+    "valor": "proceso mediante el cual se obtienen órganos de donantes fallecidos para trasplante"
+  },
+  {
+    "entidad": "protocolo de estandarización",
+    "relacion": "contribuirá a",
+    "valor": "mejorar la calidad del proceso de procuramiento de órganos"
+  },
+  {
+    "entidad": "etapas del proceso de procuramiento",
+    "relacion": "comprenden",
+    "valor": "9 etapas"
+  },
+  {
+    "entidad": "criterios del proceso de procuramiento",
+    "relacion": "comprenden",
+    "valor": "36 criterios"
+  },
+  {
+    "entidad": "Técnica Delphi",
+    "relacion": "se utiliza para",
+    "valor": "recolectar opiniones de expertos"
+  },
+  {
+    "entidad": "expertos coordinadores",
+    "relacion": "participan en",
+    "valor": "elaboración del protocolo"
+  },
+  {
+    "entidad": "proceso de donación de órganos",
+    "relacion": "se ve afectado por",
+    "valor": "negativa familiar"
+  },
+  {
+    "entidad": "protocolo de extracción de órganos",
+    "relacion": "debe ser",
+    "valor": "estandarizado"
+  },
+  {
+    "entidad": "sistema SIDOT",
+    "relacion": "registra",
+    "valor": "información de potenciales donantes"
+  },
+  {
+    "entidad": "etapa de Solicitud de Última Voluntad",
+    "relacion": "es crucial para",
+    "valor": "continuar el proceso de procuramiento"
+  },
+  {
+    "entidad": "coordinadores locales de procuramiento",
+    "relacion": "son responsables de",
+    "valor": "ejecución del programa de procuramiento de órganos"
+  },
+  {
+    "entidad": "protocolo de entrega del cuerpo",
+    "relacion": "debe ser",
+    "valor": "respetado éticamente"
+  },
+  {
+    "entidad": "proceso de procuramiento",
+    "relacion": "se basa en",
+    "valor": "Orientaciones Técnicas del Minsal"
+  },
+  {
+    "entidad": "expertos nacionales",
+    "relacion": "desarrollan",
+    "valor": "propuesta de protocolo"
+  },
+  {
+    "entidad": "proceso de procuramiento de órganos",
+    "relacion": "debe ser",
+    "valor": "optimizado para aumentar donantes efectivos"
+  },
+  {
+    "entidad": "melatonina",
+    "relacion": "modula",
+    "valor": "expresión de agentes prostanoides"
+  },
+  {
+    "entidad": "pulmón de neonatos de oveja",
+    "relacion": "presenta",
+    "valor": "hipertensión pulmonar"
+  },
+  {
+    "entidad": "hipertensión pulmonar neonatal (HAPN)",
+    "relacion": "es una",
+    "valor": "condición fisiopatológica"
+  },
+  {
+    "entidad": "melatonina",
+    "relacion": "tiene",
+    "valor": "propiedades vasodilatadoras"
+  },
+  {
+    "entidad": "melatonina",
+    "relacion": "induce",
+    "valor": "expresión de prostaciclina sintasa"
+  },
+  {
+    "entidad": "melatonina",
+    "relacion": "disminuye",
+    "valor": "expresión de COX-2"
+  },
+  {
+    "entidad": "COX-2",
+    "relacion": "aumenta en",
+    "valor": "estrés oxidativo e inflamación"
+  },
+  {
+    "entidad": "agentes prostanoides",
+    "relacion": "se clasifican en",
+    "valor": "vasodilatadores y vasoconstrictores"
+  },
+  {
+    "entidad": "prostaglandinas vasodilatadoras",
+    "relacion": "incluyen",
+    "valor": "PGD2 y PGI2"
+  },
+  {
+    "entidad": "prostaglandinas vasoconstrictoras",
+    "relacion": "incluyen",
+    "valor": "PGF2, TX y PGE2"
+  },
+  {
+    "entidad": "melatonina",
+    "relacion": "puede ser",
+    "valor": "terapia coadyuvante para HAPN"
+  },
+  {
+    "entidad": "HAPN",
+    "relacion": "se asocia a",
+    "valor": "disfunción endotelial"
+  },
+  {
+    "entidad": "melatonina",
+    "relacion": "aumenta",
+    "valor": "expresión del receptor Ip"
+  },
+  {
+    "entidad": "receptor Ip",
+    "relacion": "favorece",
+    "valor": "acción vasodilatadora de PGI2"
+  },
+  {
+    "entidad": "estrés oxidativo",
+    "relacion": "es disminuido por",
+    "valor": "melatonina"
+  },
+  {
+    "entidad": "melatonina",
+    "relacion": "modula",
+    "valor": "producción de mediadores inflamatorios"
+  },
+  {
+    "entidad": "NF-κB",
+    "relacion": "es inhibido por",
+    "valor": "melatonina"
+  },
+  {
+    "entidad": "melatonina",
+    "relacion": "induce",
+    "valor": "expresión de enzimas antioxidantes"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "es un",
+    "valor": "problema de salud"
+  },
+  {
+    "entidad": "estigma de obesidad",
+    "relacion": "afecta a",
+    "valor": "mujeres"
+  },
+  {
+    "entidad": "cortisol",
+    "relacion": "se asocia con",
+    "valor": "estrés psicológico"
+  },
+  {
+    "entidad": "estrés psicológico",
+    "relacion": "modera",
+    "valor": "la relación entre estigma y cortisol"
+  },
+  {
+    "entidad": "ingesta alimentaria",
+    "relacion": "es una respuesta a",
+    "valor": "estrés psicológico"
+  },
+  {
+    "entidad": "mujeres estigmatizadas",
+    "relacion": "tienen",
+    "valor": "mayor ingesta alimentaria"
+  },
+  {
+    "entidad": "modelo Cíclico de la Obesidad y el Estigma basado en el Peso (mCOEP)",
+    "relacion": "describe",
+    "valor": "la relación entre estigma y aumento de peso"
+  },
+  {
+    "entidad": "grelina",
+    "relacion": "se asocia con",
+    "valor": "apetito"
+  },
+  {
+    "entidad": "ambiente obesogénico",
+    "relacion": "asocia con",
+    "valor": "conductas de ganancia de peso"
+  },
+  {
+    "entidad": "estrés psicológico",
+    "relacion": "se relaciona con",
+    "valor": "emociones negativas"
+  },
+  {
+    "entidad": "cortisol salival",
+    "relacion": "se mide a través de",
+    "valor": "muestras de saliva"
+  },
+  {
+    "entidad": "Universidad de La Frontera",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "CONICYT",
+    "relacion": "financia",
+    "valor": "proyectos de investigación"
+  },
+  {
+    "entidad": "FONDECYT",
+    "relacion": "financia",
+    "valor": "proyectos de investigación"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "reportan",
+    "valor": "mayor frecuencia de estigmatización"
+  },
+  {
+    "entidad": "estrés psicológico",
+    "relacion": "aumenta",
+    "valor": "la producción de cortisol"
+  },
+  {
+    "entidad": "estrés psicológico",
+    "relacion": "se asocia con",
+    "valor": "irritabilidad"
+  },
+  {
+    "entidad": "estrés psicológico",
+    "relacion": "predice",
+    "valor": "trayectorias de cortisol"
+  },
+  {
+    "entidad": "Atención Primaria de Salud (APS)",
+    "relacion": "constituye",
+    "valor": "base del sistema público de salud chileno"
+  },
+  {
+    "entidad": "Modelo de Salud Integral, Familiar y Comunitaria (MAIS)",
+    "relacion": "responde a",
+    "valor": "necesidades de los usuarios"
+  },
+  {
+    "entidad": "Atención Primaria de Salud (APS)",
+    "relacion": "debe ser",
+    "valor": "integral, oportuna, de calidad y resolutiva"
+  },
+  {
+    "entidad": "Atención Primaria de Salud (APS)",
+    "relacion": "fomenta",
+    "valor": "participación de la población"
+  },
+  {
+    "entidad": "familia",
+    "relacion": "es considerada como",
+    "valor": "unidad primaria en salud"
+  },
+  {
+    "entidad": "continuidad del cuidado",
+    "relacion": "es un elemento",
+    "valor": "estructurante del modelo de APS"
+  },
+  {
+    "entidad": "coordinación intra- e interinstitucional",
+    "relacion": "es un elemento",
+    "valor": "estructurante del modelo de APS"
+  },
+  {
+    "entidad": "Primary Care Assessment Tool (PCAT)",
+    "relacion": "fue adaptado y validado para",
+    "valor": "Chile"
+  },
+  {
+    "entidad": "Primary Care Assessment Tool (PCAT)",
+    "relacion": "explora",
+    "valor": "acceso, continuidad, coordinación e integralidad"
+  },
+  {
+    "entidad": "Primary Care Assessment Tool (PCAT)",
+    "relacion": "está dirigido a",
+    "valor": "usuarios infantiles y adultos, prestadores y gestores"
+  },
+  {
+    "entidad": "Centro de Políticas de Atención Primaria de la Universidad Johns Hopkins",
+    "relacion": "diseñó",
+    "valor": "instrumentos para caracterizar el funcionamiento de la APS"
+  },
+  {
+    "entidad": "PCAT",
+    "relacion": "detalla",
+    "valor": "funcionamiento de la APS desde la percepción de los involucrados"
+  },
+  {
+    "entidad": "Universidad de Chile",
+    "relacion": "aproba",
+    "valor": "investigaciones en salud"
+  },
+  {
+    "entidad": "Comité de Ética de Investigación en Seres Humanos",
+    "relacion": "aprueba",
+    "valor": "investigaciones en salud"
+  },
+  {
+    "entidad": "COSAM",
+    "relacion": "es un tipo de",
+    "valor": "centro comunitario de salud mental"
+  },
+  {
+    "entidad": "Fondo Nacional de Salud",
+    "relacion": "adscriben",
+    "valor": "81,7% de la población de Conchalí"
+  },
+  {
+    "entidad": "enfermedades del sistema circulatorio",
+    "relacion": "son la primera causa de",
+    "valor": "muerte en Conchalí"
+  },
+  {
+    "entidad": "nutricionistas y psicólogos",
+    "relacion": "tuvieron",
+    "valor": "mayores porcentajes de respuesta en la encuesta"
+  },
+  {
+    "entidad": "competencia cultural",
+    "relacion": "tuvo",
+    "valor": "el puntaje más bajo en la evaluación"
+  },
+  {
+    "entidad": "enfoque familiar",
+    "relacion": "obtuvo",
+    "valor": "el puntaje más alto en la evaluación"
+  },
+  {
+    "entidad": "prestadores de salud",
+    "relacion": "reportan",
+    "valor": "necesidad de mayor capacitación en competencia cultural"
+  },
+  {
+    "entidad": "continuidad de atención",
+    "relacion": "se evalúa como",
+    "valor": "buen desempeño en todos los establecimientos"
+  },
+  {
+    "entidad": "PCAT",
+    "relacion": "incluye",
+    "valor": "prestadores y usuarios"
+  },
+  {
+    "entidad": "técnicos de salud",
+    "relacion": "desempeñan",
+    "valor": "un papel importante en la APS chilena"
+  },
+  {
+    "entidad": "PCAT-Prestadores",
+    "relacion": "se recomienda aplicar a",
+    "valor": "prestadores no profesionales"
+  },
+  {
+    "entidad": "Macroglobulinemia de Waldenström",
+    "relacion": "es un",
+    "valor": "linfoma B de células indolentes"
+  },
+  {
+    "entidad": "Hospital del Salvador",
+    "relacion": "realiza",
+    "valor": "tratamiento de pacientes con Macroglobulinemia de Waldenström"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud (OMS)",
+    "relacion": "clasifica",
+    "valor": "linfomas linfoplasmocíticos"
+  },
+  {
+    "entidad": "inmunoglobulina M (IgM)",
+    "relacion": "es secretada por",
+    "valor": "células linfoplasmáticas"
+  },
+  {
+    "entidad": "plasmaféresis",
+    "relacion": "es un",
+    "valor": "tratamiento utilizado en pacientes con hiperviscosidad"
+  },
+  {
+    "entidad": "rituximab",
+    "relacion": "es un",
+    "valor": "tratamiento utilizado en Macroglobulinemia de Waldenström"
+  },
+  {
+    "entidad": "International Prognostic Score System for Waldenström macroglobulinemia (IPSSWM)",
+    "relacion": "evalúa",
+    "valor": "el riesgo de pacientes"
+  },
+  {
+    "entidad": "sobrevida global (SG)",
+    "relacion": "se calcula desde",
+    "valor": "la fecha de diagnóstico hasta el fallecimiento"
+  },
+  {
+    "entidad": "Dra. Daniela Cardemil Navarrete",
+    "relacion": "es",
+    "valor": "autora del estudio"
+  },
+  {
+    "entidad": "comorbilidades",
+    "relacion": "incluyen",
+    "valor": "enfermedades cardiovasculares y neoplasias no hematológicas"
+  },
+  {
+    "entidad": "anemia",
+    "relacion": "es un",
+    "valor": "síntoma común en pacientes con Macroglobulinemia de Waldenström"
+  },
+  {
+    "entidad": "mielograma",
+    "relacion": "se utiliza para",
+    "valor": "diagnosticar Macroglobulinemia de Waldenström"
+  },
+  {
+    "entidad": "tratamiento",
+    "relacion": "se basa en",
+    "valor": "características individuales del paciente"
+  },
+  {
+    "entidad": "mutaciones de genes MYD88 y CXCR4",
+    "relacion": "tienen",
+    "valor": "valor pronóstico en Macroglobulinemia de Waldenström"
+  },
+  {
+    "entidad": "sobrevida media",
+    "relacion": "es",
+    "valor": "prolongada en pacientes con Macroglobulinemia de Waldenström"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "se caracteriza por",
+    "valor": "incremento excesivo de la grasa corporal"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "es un",
+    "valor": "factor de riesgo frente a enfermedades como diabetes mellitus 2"
+  },
+  {
+    "entidad": "condición física",
+    "relacion": "se relaciona con",
+    "valor": "capacidad de generar trabajo"
+  },
+  {
+    "entidad": "menor condición física en obesos",
+    "relacion": "se relaciona con",
+    "valor": "mayor riesgo cardiovascular"
+  },
+  {
+    "entidad": "evaluación de la condición física",
+    "relacion": "es indispensable en",
+    "valor": "práctica clínica"
+  },
+  {
+    "entidad": "potencia aeróbica máxima (PAM)",
+    "relacion": "se determina mediante",
+    "valor": "test en cicloergómetro"
+  },
+  {
+    "entidad": "potencia aeróbica máxima (PAM)",
+    "relacion": "se relaciona con",
+    "valor": "consumo máximo de oxígeno (VO2máx)"
+  },
+  {
+    "entidad": "test en cicloergómetro",
+    "relacion": "es bien tolerado en",
+    "valor": "individuos obesos"
+  },
+  {
+    "entidad": "potencia aeróbica máxima (PAM)",
+    "relacion": "disminuye con",
+    "valor": "incrementos en el IMC en mujeres"
+  },
+  {
+    "entidad": "grado de obesidad",
+    "relacion": "no afecta",
+    "valor": "potencia aeróbica máxima en hombres"
+  },
+  {
+    "entidad": "potencia mecánica",
+    "relacion": "depende de",
+    "valor": "masa muscular activa"
+  },
+  {
+    "entidad": "evaluación de la PAM",
+    "relacion": "debe ser considerada como",
+    "valor": "alternativa válida para entrenamiento"
+  },
+  {
+    "entidad": "ejercicio físico",
+    "relacion": "es fundamental para",
+    "valor": "pacientes con obesidad"
+  },
+  {
+    "entidad": "potencia aeróbica máxima (PAM)",
+    "relacion": "se obtiene a partir de",
+    "valor": "test indirectos submáximos"
+  },
+  {
+    "entidad": "mujeres con IMC ≥ 40 kg/m2",
+    "relacion": "presentan",
+    "valor": "diferencias relativas en P170"
+  },
+  {
+    "entidad": "cicloergómetro",
+    "relacion": "permite evaluar",
+    "valor": "capacidad funcional sin transportar peso corporal"
+  }
+]

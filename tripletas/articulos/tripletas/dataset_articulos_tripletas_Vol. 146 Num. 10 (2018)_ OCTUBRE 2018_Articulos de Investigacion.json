@@ -1,0 +1,627 @@
+[
+  {
+    "entidad": "dislipidemias",
+    "relacion": "aumenta",
+    "valor": "riesgo de eventos cardiovasculares en la vida adulta"
+  },
+  {
+    "entidad": "índice de aterogenicidad del plasma (IAP)",
+    "relacion": "se utiliza para",
+    "valor": "evaluar riesgo cardiometabólico"
+  },
+  {
+    "entidad": "población infanto-juvenil",
+    "relacion": "presenta",
+    "valor": "alta prevalencia de dislipidemias"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "asociada con",
+    "valor": "mayor prevalencia de dislipidemia"
+  },
+  {
+    "entidad": "circunferencia de cintura",
+    "relacion": "se define como",
+    "valor": "mayor que el percentil 90"
+  },
+  {
+    "entidad": "dislipidemia aterogénica",
+    "relacion": "se define como",
+    "valor": "tener triglicéridos elevados y colesterol HDL bajo"
+  },
+  {
+    "entidad": "resistencia a la insulina",
+    "relacion": "se asocia con",
+    "valor": "riesgo de aterogenicidad"
+  },
+  {
+    "entidad": "Centro de Excelencia en Medicina Traslacional",
+    "relacion": "pertenece a",
+    "valor": "Universidad de La Frontera"
+  },
+  {
+    "entidad": "Centro de Investigación en Epidemiología Cardiovascular y Nutricional",
+    "relacion": "pertenece a",
+    "valor": "Universidad de La Frontera"
+  },
+  {
+    "entidad": "Comuna de Carahue",
+    "relacion": "representa",
+    "valor": "perfil demográfico de alta pobreza y ruralidad"
+  },
+  {
+    "entidad": "índice de masa corporal (IMC)",
+    "relacion": "se calcula mediante",
+    "valor": "peso y talla"
+  },
+  {
+    "entidad": "glucosa",
+    "relacion": "se mide para evaluar",
+    "valor": "estado metabólico"
+  },
+  {
+    "entidad": "cholesterol total",
+    "relacion": "se mide para evaluar",
+    "valor": "perfil lipídico"
+  },
+  {
+    "entidad": "triglicéridos",
+    "relacion": "se mide para evaluar",
+    "valor": "perfil lipídico"
+  },
+  {
+    "entidad": "insulina",
+    "relacion": "se mide para evaluar",
+    "valor": "resistencia a la insulina"
+  },
+  {
+    "entidad": "obesidad abdominal",
+    "relacion": "se define como",
+    "valor": "circunferencia de cintura mayor que el percentil 90"
+  },
+  {
+    "entidad": "índice Quicki",
+    "relacion": "se utiliza para",
+    "valor": "evaluar sensibilidad a la insulina"
+  },
+  {
+    "entidad": "análisis de regresión logística",
+    "relacion": "se utiliza para",
+    "valor": "evaluar contribución de variables clínicas"
+  },
+  {
+    "entidad": "índice de aterogenicidad del plasma (IAP)",
+    "relacion": "se correlaciona con",
+    "valor": "estado nutricional"
+  },
+  {
+    "entidad": "índice de aterogenicidad del plasma (IAP)",
+    "relacion": "se correlaciona con",
+    "valor": "obesidad abdominal"
+  },
+  {
+    "entidad": "índice de aterogenicidad del plasma (IAP)",
+    "relacion": "se correlaciona con",
+    "valor": "parámetros de resistencia a la insulina"
+  },
+  {
+    "entidad": "cáncer de mama HER2 positivo",
+    "relacion": "es un",
+    "valor": "subtipo de cáncer de mama"
+  },
+  {
+    "entidad": "HER2",
+    "relacion": "es un",
+    "valor": "receptor de crecimiento"
+  },
+  {
+    "entidad": "cáncer de mama HER2 positivo",
+    "relacion": "se caracteriza por",
+    "valor": "agresividad y alta sensibilidad a terapias anti-HER2"
+  },
+  {
+    "entidad": "terapias anti-HER2",
+    "relacion": "mejoran",
+    "valor": "la sobrevida de pacientes con cáncer de mama HER2 positivo"
+  },
+  {
+    "entidad": "sobrevida global",
+    "relacion": "depende de",
+    "valor": "la etapa de la enfermedad y del subtipo tumoral"
+  },
+  {
+    "entidad": "cáncer de mama avanzado",
+    "relacion": "tiene una tasa de",
+    "valor": "sobrevida global a 5 años cercana al 20%"
+  },
+  {
+    "entidad": "cáncer de mama HER2 positivo",
+    "relacion": "explica",
+    "valor": "hasta el 25% de los cánceres de mama"
+  },
+  {
+    "entidad": "Ley 20.850",
+    "relacion": "promulgada por",
+    "valor": "el Ministerio de Salud de Chile"
+  },
+  {
+    "entidad": "Ley 20.850",
+    "relacion": "subsidia",
+    "valor": "el acceso a trastuzumab"
+  },
+  {
+    "entidad": "trastuzumab",
+    "relacion": "es un",
+    "valor": "anticuerpo monoclonal anti-HER2"
+  },
+  {
+    "entidad": "pertuzumab",
+    "relacion": "es un",
+    "valor": "anticuerpo anti-HER2"
+  },
+  {
+    "entidad": "Centro de Cáncer Nuestra Señora de La Esperanza",
+    "relacion": "es parte de",
+    "valor": "la Pontificia Universidad Católica de Chile"
+  },
+  {
+    "entidad": "cáncer de mama HER2 positivo",
+    "relacion": "ha mostrado",
+    "valor": "mejoras en la sobrevida en la última década"
+  },
+  {
+    "entidad": "métodos diagnósticos",
+    "relacion": "mejoran",
+    "valor": "la identificación del subtipo tumoral"
+  },
+  {
+    "entidad": "cáncer de mama HER2 positivo",
+    "relacion": "puede convertirse en",
+    "valor": "una enfermedad crónica para algunos pacientes"
+  },
+  {
+    "entidad": "síndrome de apneas obstructivas del sueño (SAHOS)",
+    "relacion": "es un",
+    "valor": "trastorno respiratorio"
+  },
+  {
+    "entidad": "cuestionarios de sueño",
+    "relacion": "evalúa",
+    "valor": "riesgo de SAHOS"
+  },
+  {
+    "entidad": "cuestionario de Berlín",
+    "relacion": "permite",
+    "valor": "estimar riesgo de SAHOS"
+  },
+  {
+    "entidad": "cuestionario STOP",
+    "relacion": "evalúa",
+    "valor": "presencia de ronquido y somnolencia diurna"
+  },
+  {
+    "entidad": "cuestionario STOP-Bang",
+    "relacion": "incorpora",
+    "valor": "parámetros adicionales para evaluar riesgo de SAHOS"
+  },
+  {
+    "entidad": "escala de Epworth",
+    "relacion": "evalúa",
+    "valor": "somnolencia diurna excesiva"
+  },
+  {
+    "entidad": "escala de somnolencia de Stanford",
+    "relacion": "mide",
+    "valor": "niveles de somnolencia subjetiva"
+  },
+  {
+    "entidad": "polisomnografía (PSG)",
+    "relacion": "es",
+    "valor": "examen de referencia para diagnóstico de SAHOS"
+  },
+  {
+    "entidad": "poligrafía respiratoria (PR)",
+    "relacion": "permite",
+    "valor": "diagnosticar SAHOS"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "es un",
+    "valor": "factor de riesgo para SAHOS"
+  },
+  {
+    "entidad": "género masculino",
+    "relacion": "es un",
+    "valor": "factor de riesgo para SAHOS"
+  },
+  {
+    "entidad": "hipertensión arterial",
+    "relacion": "es un",
+    "valor": "factor de riesgo para SAHOS"
+  },
+  {
+    "entidad": "índice de masa corporal (IMC)",
+    "relacion": "es un",
+    "valor": "factor de riesgo para SAHOS"
+  },
+  {
+    "entidad": "perímetro cervical",
+    "relacion": "es un",
+    "valor": "factor de riesgo para SAHOS"
+  },
+  {
+    "entidad": "apneas presenciadas",
+    "relacion": "es un",
+    "valor": "factor de riesgo para SAHOS"
+  },
+  {
+    "entidad": "nicturia",
+    "relacion": "es un",
+    "valor": "factor de riesgo para SAHOS"
+  },
+  {
+    "entidad": "cuestionario de Flemons",
+    "relacion": "permite",
+    "valor": "predecir riesgo de SAHOS"
+  },
+  {
+    "entidad": "cuestionarios STOP y STOP-Bang",
+    "relacion": "son",
+    "valor": "más sensibles en la pesquisa de SAHOS"
+  },
+  {
+    "entidad": "índice de Flemons",
+    "relacion": "es",
+    "valor": "más específico en la pesquisa de SAHOS"
+  },
+  {
+    "entidad": "tratamiento con CPAP",
+    "relacion": "mejora",
+    "valor": "calidad de vida de pacientes con SAHOS"
+  },
+  {
+    "entidad": "neoplasias epiteliales de glándulas salivales",
+    "relacion": "son",
+    "valor": "poco comunes"
+  },
+  {
+    "entidad": "neoplasias epiteliales de glándulas salivales",
+    "relacion": "representan",
+    "valor": "3-6% de los tumores de cabeza y cuello"
+  },
+  {
+    "entidad": "neoplasias epiteliales de glándulas salivales",
+    "relacion": "representan",
+    "valor": "0,6% de todas las neoplasias"
+  },
+  {
+    "entidad": "tumores salivales",
+    "relacion": "varían",
+    "valor": "de acuerdo a la raza, tipo histológico y ubicación geográfica"
+  },
+  {
+    "entidad": "Laboratorio de Anatomía Patológica",
+    "relacion": "pertenece a",
+    "valor": "Hospital Clínico de la Pontificia Universidad Católica de Chile"
+  },
+  {
+    "entidad": "neoplasias benignas",
+    "relacion": "son",
+    "valor": "más frecuentes que las malignas"
+  },
+  {
+    "entidad": "adenoma pleomorfo",
+    "relacion": "es",
+    "valor": "el tipo histológico más común"
+  },
+  {
+    "entidad": "carcinoma mucoepidermoide",
+    "relacion": "es",
+    "valor": "el tipo maligno más frecuente"
+  },
+  {
+    "entidad": "glándula parótida",
+    "relacion": "es",
+    "valor": "la más afectada por neoplasias"
+  },
+  {
+    "entidad": "glándula submandibular",
+    "relacion": "es",
+    "valor": "la segunda más afectada por neoplasias"
+  },
+  {
+    "entidad": "glándulas salivales menores",
+    "relacion": "son",
+    "valor": "poco frecuentes en neoplasias"
+  },
+  {
+    "entidad": "edad promedio",
+    "relacion": "corresponde a",
+    "valor": "48 años"
+  },
+  {
+    "entidad": "neoplasias benignas",
+    "relacion": "tienen edad promedio",
+    "valor": "47 años"
+  },
+  {
+    "entidad": "neoplasias malignas",
+    "relacion": "tienen edad promedio",
+    "valor": "52 años"
+  },
+  {
+    "entidad": "género masculino",
+    "relacion": "tiene proporción",
+    "valor": "1:1,86 con género femenino"
+  },
+  {
+    "entidad": "género femenino",
+    "relacion": "tiene proporción",
+    "valor": "1:1,86 con género masculino"
+  },
+  {
+    "entidad": "neoplasias malignas",
+    "relacion": "tienen mayor frecuencia en",
+    "valor": "mujeres"
+  },
+  {
+    "entidad": "sexto década de vida",
+    "relacion": "es",
+    "valor": "el rango etario con más casos de neoplasias benignas"
+  },
+  {
+    "entidad": "cuarta década de vida",
+    "relacion": "es",
+    "valor": "el rango etario con más casos de neoplasias malignas"
+  },
+  {
+    "entidad": "neoplasia pulmonar",
+    "relacion": "presenta",
+    "valor": "lesiones quísticas pulmonares"
+  },
+  {
+    "entidad": "lesiones quísticas pulmonares",
+    "relacion": "no siempre son",
+    "valor": "benignas"
+  },
+  {
+    "entidad": "tomografía computarizada (TC)",
+    "relacion": "se utiliza para",
+    "valor": "estudio de patología broncopulmonar"
+  },
+  {
+    "entidad": "nódulos pulmonares",
+    "relacion": "son",
+    "valor": "hallazgos incidentales frecuentes"
+  },
+  {
+    "entidad": "programas de detección precoz de cáncer pulmonar",
+    "relacion": "favorecen",
+    "valor": "desarrollo de guías para manejo de lesiones"
+  },
+  {
+    "entidad": "engrosamiento progresivo de paredes de quistes",
+    "relacion": "es un signo de",
+    "valor": "sospecha de cáncer pulmonar"
+  },
+  {
+    "entidad": "cáncer pulmonar",
+    "relacion": "puede presentarse como",
+    "valor": "lesiones quísticas"
+  },
+  {
+    "entidad": "análisis retrospectivo",
+    "relacion": "se realiza en",
+    "valor": "base de datos de TC"
+  },
+  {
+    "entidad": "Clínica Alemana de Santiago",
+    "relacion": "es un",
+    "valor": "centro de estudio"
+  },
+  {
+    "entidad": "diagnóstico histopatológico",
+    "relacion": "se basa en",
+    "valor": "análisis histológico"
+  },
+  {
+    "entidad": "PET/CT",
+    "relacion": "se utiliza para",
+    "valor": "evaluar captación de 18F-FDG"
+  },
+  {
+    "entidad": "cáncer pulmonar",
+    "relacion": "se asocia con",
+    "valor": "espacios aéreos quísticos"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "es un antecedente en",
+    "valor": "pacientes con cáncer pulmonar"
+  },
+  {
+    "entidad": "adenocarcinoma",
+    "relacion": "es un tipo de",
+    "valor": "cáncer pulmonar"
+  },
+  {
+    "entidad": "engrosamiento de la pared del quiste",
+    "relacion": "indica",
+    "valor": "posible malignidad"
+  },
+  {
+    "entidad": "retardo en el diagnóstico",
+    "relacion": "es un problema en",
+    "valor": "la identificación de cáncer pulmonar"
+  },
+  {
+    "entidad": "morfología de lesiones quísticas",
+    "relacion": "se clasifica según",
+    "valor": "patrones morfológicos"
+  },
+  {
+    "entidad": "cáncer pulmonar",
+    "relacion": "puede ser",
+    "valor": "diagnosticado en etapas avanzadas"
+  },
+  {
+    "entidad": "Senior Fitness Test (SFT)",
+    "relacion": "se utiliza para",
+    "valor": "evaluar la condición física en personas mayores"
+  },
+  {
+    "entidad": "mujeres mayores chilenas",
+    "relacion": "son evaluadas en",
+    "valor": "condición física y funcionalidad"
+  },
+  {
+    "entidad": "mujeres mayores chilenas",
+    "relacion": "muestran",
+    "valor": "deterioro en la condición física con la edad"
+  },
+  {
+    "entidad": "condición física",
+    "relacion": "depende de",
+    "valor": "fuerza, resistencia aeróbica, flexibilidad, agilidad y equilibrio dinámico"
+  },
+  {
+    "entidad": "inactividad física",
+    "relacion": "es un",
+    "valor": "factor de riesgo de mortalidad"
+  },
+  {
+    "entidad": "valores de referencia",
+    "relacion": "se establecen para",
+    "valor": "la batería de pruebas SFT"
+  },
+  {
+    "entidad": "mujeres mayores chilenas físicamente activas",
+    "relacion": "tienen",
+    "valor": "valores de referencia superiores en fuerza y resistencia"
+  },
+  {
+    "entidad": "mujeres mayores chilenas",
+    "relacion": "participan en",
+    "valor": "programas de actividad física"
+  },
+  {
+    "entidad": "Instituto Nacional de Deportes",
+    "relacion": "ofrece",
+    "valor": "programas de actividad física para adultos mayores"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "implementa",
+    "valor": "programas para adultos mayores autovalentes"
+  },
+  {
+    "entidad": "valores de referencia",
+    "relacion": "son comparados con",
+    "valor": "datos normativos internacionales"
+  },
+  {
+    "entidad": "mujeres mayores chilenas",
+    "relacion": "alcanzan",
+    "valor": "rendimiento físico-funcional superior en ciertas pruebas"
+  },
+  {
+    "entidad": "mujeres mayores chilenas",
+    "relacion": "presentan",
+    "valor": "valores inferiores en agilidad y equilibrio dinámico"
+  },
+  {
+    "entidad": "valores de referencia",
+    "relacion": "son necesarios para",
+    "valor": "diagnóstico y seguimiento de la condición física"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "es realizado por",
+    "valor": "investigadores de universidades chilenas"
+  },
+  {
+    "entidad": "diabetes mellitus tipo 2",
+    "relacion": "es un",
+    "valor": "enfermedad crónica"
+  },
+  {
+    "entidad": "adherencia al tratamiento",
+    "relacion": "afecta a",
+    "valor": "manejo de diabetes mellitus tipo 2"
+  },
+  {
+    "entidad": "variables psicológicas",
+    "relacion": "asociadas a",
+    "valor": "adherencia al tratamiento"
+  },
+  {
+    "entidad": "hemoglobina glicosilada",
+    "relacion": "se utiliza para evaluar",
+    "valor": "adherencia al tratamiento"
+  },
+  {
+    "entidad": "locus de control interno",
+    "relacion": "se asocia a",
+    "valor": "cumplimiento de régimen en diabetes mellitus"
+  },
+  {
+    "entidad": "locus de control externo",
+    "relacion": "se asocia a",
+    "valor": "no adherencia al régimen de diabetes"
+  },
+  {
+    "entidad": "perfil temporal negativo",
+    "relacion": "se asocia a",
+    "valor": "estrés psicológico y depresión"
+  },
+  {
+    "entidad": "pacientes con daño renal",
+    "relacion": "presentan",
+    "valor": "mayor orientación de perfil temporal negativo"
+  },
+  {
+    "entidad": "nivel educacional",
+    "relacion": "afecta a",
+    "valor": "adherencia en presencia de daño renal"
+  },
+  {
+    "entidad": "percepción de control en salud",
+    "relacion": "se evalúa a través de",
+    "valor": "Escala Locus de Control"
+  },
+  {
+    "entidad": "percepción de control general",
+    "relacion": "se evalúa a través de",
+    "valor": "Escala de Locus de Control de Rotter"
+  },
+  {
+    "entidad": "adherencia al tratamiento",
+    "relacion": "se considera",
+    "valor": "si HbA1c es < 7%"
+  },
+  {
+    "entidad": "adherencia al tratamiento",
+    "relacion": "se considera",
+    "valor": "no adherente si HbA1c es ≥ 7%"
+  },
+  {
+    "entidad": "adherencia",
+    "relacion": "se observa en",
+    "valor": "44% de los pacientes"
+  },
+  {
+    "entidad": "daño renal",
+    "relacion": "se asocia a",
+    "valor": "mayor riesgo de complicaciones"
+  },
+  {
+    "entidad": "pie diabético",
+    "relacion": "se asocia a",
+    "valor": "no adherencia al tratamiento"
+  },
+  {
+    "entidad": "confianza en el equipo de salud",
+    "relacion": "es una estrategia de",
+    "valor": "regulación emocional externa"
+  }
+]

@@ -1,0 +1,277 @@
+[
+  {
+    "entidad": "Porfiria cutánea tarda",
+    "relacion": "es",
+    "valor": "el tipo más común de porfiria"
+  },
+  {
+    "entidad": "Porfiria cutánea tarda",
+    "relacion": "se caracteriza por",
+    "valor": "lesiones ampollosas, erosiones y costras en las manos"
+  },
+  {
+    "entidad": "Porfiria cutánea tarda",
+    "relacion": "es producida por",
+    "valor": "deficiencia de la enzima UROD"
+  },
+  {
+    "entidad": "UROD",
+    "relacion": "es",
+    "valor": "la quinta enzima en la producción del grupo heme"
+  },
+  {
+    "entidad": "deficiencia de UROD",
+    "relacion": "causa",
+    "valor": "acumulación de porfirinas en el hígado"
+  },
+  {
+    "entidad": "porfirinas",
+    "relacion": "se movilizan a",
+    "valor": "la piel"
+  },
+  {
+    "entidad": "lesiones dérmicas",
+    "relacion": "son generadas por",
+    "valor": "fotosensibilidad"
+  },
+  {
+    "entidad": "terapia de reemplazo hormonal",
+    "relacion": "fue suspendida y",
+    "valor": "las lesiones desaparecieron"
+  },
+  {
+    "entidad": "estradiol y dydrogesterona",
+    "relacion": "son",
+    "valor": "componentes de la terapia de reemplazo hormonal"
+  },
+  {
+    "entidad": "flebotomías",
+    "relacion": "se intentaron pero",
+    "valor": "no fueron toleradas por la paciente"
+  },
+  {
+    "entidad": "lesiones dérmicas",
+    "relacion": "no han",
+    "valor": "recidivado"
+  },
+  {
+    "entidad": "PCT",
+    "relacion": "tiene",
+    "valor": "una prevalencia global de uno por cada 10,000 personas"
+  },
+  {
+    "entidad": "PCT",
+    "relacion": "se presenta en",
+    "valor": "la edad media de la vida"
+  },
+  {
+    "entidad": "PCT tipo I",
+    "relacion": "es",
+    "valor": "la forma adquirida o esporádica"
+  },
+  {
+    "entidad": "PCT tipo II",
+    "relacion": "es",
+    "valor": "la forma familiar o hereditaria"
+  },
+  {
+    "entidad": "PCT tipo III",
+    "relacion": "resulta de",
+    "valor": "una mutación heredada"
+  },
+  {
+    "entidad": "diagnóstico de PCT",
+    "relacion": "requiere",
+    "valor": "medición de porfirinas en sangre, orina y heces"
+  },
+  {
+    "entidad": "UROD",
+    "relacion": "es",
+    "valor": "la enzima afectada en PCT"
+  },
+  {
+    "entidad": "factores desencadenantes de PCT",
+    "relacion": "incluyen",
+    "valor": "alcohol, tabaco, uso de estrógenos exógenos"
+  },
+  {
+    "entidad": "estrógenos exógenos",
+    "relacion": "están bien documentados en relación con",
+    "valor": "PCT"
+  },
+  {
+    "entidad": "tratamiento para PCT",
+    "relacion": "consiste en",
+    "valor": "flebotomías periódicas"
+  },
+  {
+    "entidad": "flebotomías",
+    "relacion": "se recomienda realizar cada",
+    "valor": "2 semanas"
+  },
+  {
+    "entidad": "hidroxicloroquina",
+    "relacion": "es un tratamiento alternativo para",
+    "valor": "pacientes con contraindicación para flebotomía"
+  },
+  {
+    "entidad": "pseudoquiste pancreático intramural gástrico",
+    "relacion": "es una causa",
+    "valor": "retención gástrica"
+  },
+  {
+    "entidad": "páncreas heterotópico",
+    "relacion": "es una malformación",
+    "valor": "gastrointestinal silenciosa"
+  },
+  {
+    "entidad": "26 años",
+    "relacion": "es la edad de",
+    "valor": "un paciente masculino"
+  },
+  {
+    "entidad": "vómitos",
+    "relacion": "son síntomas de",
+    "valor": "retención gástrica"
+  },
+  {
+    "entidad": "dolor abdominal",
+    "relacion": "es un síntoma de",
+    "valor": "pseudoquiste pancreático"
+  },
+  {
+    "entidad": "tomografía computarizada",
+    "relacion": "se utiliza para",
+    "valor": "diagnosticar distensión gástrica"
+  },
+  {
+    "entidad": "endosonografía",
+    "relacion": "se utiliza para",
+    "valor": "evaluar lesiones gástricas"
+  },
+  {
+    "entidad": "cisto-gastrostomía",
+    "relacion": "se realiza para",
+    "valor": "drenar el pseudoquiste"
+  },
+  {
+    "entidad": "contenido en lipasa y amilasa",
+    "relacion": "confirma que es un",
+    "valor": "pseudoquiste pancreático"
+  },
+  {
+    "entidad": "histopatología",
+    "relacion": "confirma la presencia de",
+    "valor": "tejido pancreático ectópico"
+  },
+  {
+    "entidad": "síndrome de retención gástrica",
+    "relacion": "es secundario a",
+    "valor": "pseudoquiste pancreático intramural"
+  },
+  {
+    "entidad": "pseudoquistes intramurales gástricos",
+    "relacion": "son raros y difíciles de",
+    "valor": "diagnosticar"
+  },
+  {
+    "entidad": "aspiración de líquido",
+    "relacion": "es una manera confiable para",
+    "valor": "confirmar diagnóstico de pseudoquiste"
+  },
+  {
+    "entidad": "manejo de pseudoquistes",
+    "relacion": "se basa en",
+    "valor": "reportes de casos"
+  },
+  {
+    "entidad": "tejido pancreático heterotópico",
+    "relacion": "puede causar",
+    "valor": "pancreatitis y formación de pseudoquistes"
+  },
+  {
+    "entidad": "gastrectomía subtotal",
+    "relacion": "se realiza por",
+    "valor": "reaparición de síntomas abdominales"
+  },
+  {
+    "entidad": "Síndrome de Ehlers Danlos",
+    "relacion": "es un",
+    "valor": "grupo de enfermedades hereditarias del tejido conectivo"
+  },
+  {
+    "entidad": "Síndrome de Ehlers Danlos tipo vascular",
+    "relacion": "es un",
+    "valor": "tipo de síndrome de Ehlers Danlos"
+  },
+  {
+    "entidad": "colágeno",
+    "relacion": "es responsable de",
+    "valor": "dar estructura al tejido conectivo"
+  },
+  {
+    "entidad": "COL3A1",
+    "relacion": "es un",
+    "valor": "gen asociado al síndrome de Ehlers Danlos tipo vascular"
+  },
+  {
+    "entidad": "hombres jóvenes",
+    "relacion": "deben ser evaluados por",
+    "valor": "sospecha de síndrome de Ehlers Danlos tipo vascular"
+  },
+  {
+    "entidad": "sospecha clínica de SED tipo vascular",
+    "relacion": "requiere",
+    "valor": "evaluación genética"
+  },
+  {
+    "entidad": "evaluación genética",
+    "relacion": "confirma",
+    "valor": "diagnóstico de síndrome de Ehlers Danlos"
+  },
+  {
+    "entidad": "disección arterial",
+    "relacion": "es una complicación de",
+    "valor": "síndrome de Ehlers Danlos tipo vascular"
+  },
+  {
+    "entidad": "colostomía",
+    "relacion": "es el tratamiento para",
+    "valor": "ruptura espontánea de colon"
+  },
+  {
+    "entidad": "esperanza de vida promedio",
+    "relacion": "es",
+    "valor": "51 años para individuos con síndrome de Ehlers Danlos tipo vascular"
+  },
+  {
+    "entidad": "deportes de contacto y de gran intensidad",
+    "relacion": "son desaconsejados para",
+    "valor": "pacientes con síndrome de Ehlers Danlos tipo vascular"
+  },
+  {
+    "entidad": "Celiprolol",
+    "relacion": "es un tratamiento que",
+    "valor": "retarda la aparición de eventos vasculares"
+  },
+  {
+    "entidad": "antecedentes familiares",
+    "relacion": "son criterios para",
+    "valor": "diagnóstico de síndrome de Ehlers Danlos tipo vascular"
+  },
+  {
+    "entidad": "insuficiencia venosa superficial",
+    "relacion": "es más prevalente en",
+    "valor": "pacientes con síndrome de Ehlers Danlos tipo vascular"
+  },
+  {
+    "entidad": "microscopía óptica",
+    "relacion": "puede observar",
+    "valor": "dermis adelgazada en pacientes con síndrome de Ehlers Danlos"
+  },
+  {
+    "entidad": "historia familiar de muerte precoz",
+    "relacion": "es un antecedente de",
+    "valor": "síndrome de Ehlers Danlos tipo vascular"
+  }
+]

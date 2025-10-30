@@ -1,0 +1,172 @@
+[
+  {
+    "entidad": "Tormenta eléctrica",
+    "relacion": "es un",
+    "valor": "fenómeno raro en síndrome de Brugada"
+  },
+  {
+    "entidad": "Síndrome de Brugada",
+    "relacion": "es un",
+    "valor": "trastorno eléctrico primario del corazón"
+  },
+  {
+    "entidad": "Isoproterenol",
+    "relacion": "es un",
+    "valor": "tratamiento para tormenta eléctrica en síndrome de Brugada"
+  },
+  {
+    "entidad": "Síndrome de Brugada",
+    "relacion": "se caracteriza por",
+    "valor": "bloqueo incompleto de rama derecha y supradesnivel del segmento ST"
+  },
+  {
+    "entidad": "Síndrome de Brugada",
+    "relacion": "predispone a",
+    "valor": "muerte súbita por fibrilación ventricular"
+  },
+  {
+    "entidad": "Mutaciones en el gen SCN5A",
+    "relacion": "causan",
+    "valor": "pérdida de función en el canal de sodio"
+  },
+  {
+    "entidad": "Isoproterenol",
+    "relacion": "normaliza",
+    "valor": "el patrón electrocardiográfico"
+  },
+  {
+    "entidad": "Infusión de isoproterenol",
+    "relacion": "previene",
+    "valor": "la inducción de fibrilación ventricular"
+  },
+  {
+    "entidad": "Quinidina",
+    "relacion": "es un",
+    "valor": "antiarrítmico clase IA"
+  },
+  {
+    "entidad": "Cilostazol",
+    "relacion": "es un",
+    "valor": "inhibidor de la fosfodiesterasa tipo III"
+  },
+  {
+    "entidad": "Denopamina",
+    "relacion": "es un",
+    "valor": "estimulante adrenérgico"
+  },
+  {
+    "entidad": "Bepridil",
+    "relacion": "actúa por",
+    "valor": "bloqueo de Ito"
+  },
+  {
+    "entidad": "Cardiodesfibrilador",
+    "relacion": "es un",
+    "valor": "dispositivo implantable para prevención de muerte súbita"
+  },
+  {
+    "entidad": "Dr. Julián Vega Adauy",
+    "relacion": "es el",
+    "valor": "autor principal del estudio"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "es un",
+    "valor": "institución donde se realizó el estudio"
+  },
+  {
+    "entidad": "Trombosis venosa portal",
+    "relacion": "es un",
+    "valor": "efecto adverso asociado a bevacizumab y oxaliplatino"
+  },
+  {
+    "entidad": "Hiperplasia nodular regenerativa hepática",
+    "relacion": "es un",
+    "valor": "efecto adverso asociado a bevacizumab y oxaliplatino"
+  },
+  {
+    "entidad": "Bevacizumab",
+    "relacion": "afecta a",
+    "valor": "la función endotelial"
+  },
+  {
+    "entidad": "Oxaliplatino",
+    "relacion": "afecta a",
+    "valor": "la función endotelial"
+  },
+  {
+    "entidad": "Nodular regenerativa hiperplasia (NRH)",
+    "relacion": "es causada por",
+    "valor": "alteraciones en el flujo sanguíneo"
+  },
+  {
+    "entidad": "Nodular regenerativa hiperplasia (NRH)",
+    "relacion": "es causada por",
+    "valor": "trombosis de la vena porta"
+  },
+  {
+    "entidad": "Bevacizumab",
+    "relacion": "inhibe",
+    "valor": "angiogénesis"
+  },
+  {
+    "entidad": "Oxaliplatino",
+    "relacion": "activa",
+    "valor": "metaloproteinasas"
+  },
+  {
+    "entidad": "Oxaliplatino",
+    "relacion": "depleta",
+    "valor": "glutatión sinusoidal"
+  },
+  {
+    "entidad": "Hiperplasia nodular regenerativa (HNR)",
+    "relacion": "se caracteriza por",
+    "valor": "transformación difusa del parénquima hepático"
+  },
+  {
+    "entidad": "Hiperplasia nodular regenerativa (HNR)",
+    "relacion": "puede ser secundaria a",
+    "valor": "tóxicos y fármacos"
+  },
+  {
+    "entidad": "Hiperplasia nodular regenerativa (HNR)",
+    "relacion": "es generalmente",
+    "valor": "asintomática"
+  },
+  {
+    "entidad": "Hiperplasia nodular regenerativa (HNR)",
+    "relacion": "se diagnostica mediante",
+    "valor": "histología"
+  },
+  {
+    "entidad": "Cáncer de colon",
+    "relacion": "es un",
+    "valor": "antecedente del paciente"
+  },
+  {
+    "entidad": "Quimioterapia",
+    "relacion": "incluye",
+    "valor": "bevacizumab y oxaliplatino"
+  },
+  {
+    "entidad": "Várices esofágicas",
+    "relacion": "son encontradas en",
+    "valor": "endoscopia digestiva alta"
+  },
+  {
+    "entidad": "Trombosis parcial de la vena porta",
+    "relacion": "es observada en",
+    "valor": "tomografía axial computada"
+  },
+  {
+    "entidad": "Biopsia hepática",
+    "relacion": "informa",
+    "valor": "hiperplasia nodular regenerativa"
+  },
+  {
+    "entidad": "Hiperplasia nodular regenerativa (HNR)",
+    "relacion": "puede ser causada por",
+    "valor": "efectos adversos de bevacizumab y oxaliplatino"
+  }
+]

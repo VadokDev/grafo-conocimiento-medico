@@ -1,0 +1,512 @@
+[
+  {
+    "entidad": "tasa global de fecundidad (TGF)",
+    "relacion": "ha disminuido",
+    "valor": "de 5,4 hijos por mujer en 1962 a 1,17 en 2021"
+  },
+  {
+    "entidad": "mujeres universitarias",
+    "relacion": "investiga",
+    "valor": "percepción sobre su futuro reproductivo"
+  },
+  {
+    "entidad": "criopreservación de óvulos",
+    "relacion": "es un",
+    "valor": "método para preservar la fertilidad"
+  },
+  {
+    "entidad": "Universidad Diego Portales",
+    "relacion": "realiza",
+    "valor": "encuesta a estudiantes"
+  },
+  {
+    "entidad": "encuesta auto-administrada",
+    "relacion": "aborda",
+    "valor": "antecedentes sociodemográficos y actitudes hacia la maternidad"
+  },
+  {
+    "entidad": "edad promedio de las participantes",
+    "relacion": "es",
+    "valor": "21 años"
+  },
+  {
+    "entidad": "preocupación sobre el futuro",
+    "relacion": "expresan",
+    "valor": "la mayoría de las participantes"
+  },
+  {
+    "entidad": "intención de tener hijos",
+    "relacion": "es",
+    "valor": "52% no desea tener hijos"
+  },
+  {
+    "entidad": "condiciones para ser madres",
+    "relacion": "incluyen",
+    "valor": "completar estudios, estabilidad laboral y autonomía económica"
+  },
+  {
+    "entidad": "interés en preservar fertilidad",
+    "relacion": "es expresado por",
+    "valor": "47,3% de las participantes"
+  },
+  {
+    "entidad": "maternidad",
+    "relacion": "no es una prioridad para",
+    "valor": "la mayoría de las mujeres universitarias en Chile"
+  },
+  {
+    "entidad": "madres solteras",
+    "relacion": "constituyen",
+    "valor": "75,5% de los nacimientos en 2020"
+  },
+  {
+    "entidad": "red de apoyo",
+    "relacion": "es considerada necesaria por",
+    "valor": "86,8% de las mujeres"
+  },
+  {
+    "entidad": "conocimiento sobre fertilidad",
+    "relacion": "varía entre",
+    "valor": "estudiantes de diferentes áreas de estudio"
+  },
+  {
+    "entidad": "mujeres que desean tener hijos",
+    "relacion": "están abiertas a",
+    "valor": "recurrir a la adopción"
+  },
+  {
+    "entidad": "decisión de congelar óvulos",
+    "relacion": "no es relevante para",
+    "valor": "57% de las participantes"
+  },
+  {
+    "entidad": "falta de interés en la maternidad temprana",
+    "relacion": "es valorada por",
+    "valor": "las participantes"
+  },
+  {
+    "entidad": "políticas públicas en reproducción",
+    "relacion": "son necesarias para",
+    "valor": "adaptarse a nuevas realidades de las mujeres"
+  },
+  {
+    "entidad": "autoeficacia",
+    "relacion": "es",
+    "valor": "confianza en la capacidad propia para ejecutar tareas específicas con éxito"
+  },
+  {
+    "entidad": "Soporte Vital Cardiovascular Avanzado (ACLS)",
+    "relacion": "requiere",
+    "valor": "toma de decisiones rápidas y ejecución precisa de habilidades técnicas"
+  },
+  {
+    "entidad": "autoeficacia",
+    "relacion": "afecta a",
+    "valor": "rendimiento de los profesionales de la salud en situaciones de emergencia"
+  },
+  {
+    "entidad": "exceso de confianza",
+    "relacion": "puede comprometer",
+    "valor": "desempeño real en entornos críticos"
+  },
+  {
+    "entidad": "profesionales de la salud",
+    "relacion": "son evaluados en",
+    "valor": "ACLS en hospitales públicos"
+  },
+  {
+    "entidad": "autoeficacia en ACLS",
+    "relacion": "se mide utilizando",
+    "valor": "un instrumento específico para la atención de emergencias"
+  },
+  {
+    "entidad": "habilidades prácticas en ACLS",
+    "relacion": "se evalúan mediante",
+    "valor": "pautas de la American Heart Association"
+  },
+  {
+    "entidad": "discrepancia",
+    "relacion": "entre",
+    "valor": "confianza auto-reportada y desempeño real en habilidades de ACLS"
+  },
+  {
+    "entidad": "efecto Dunning-Kruger",
+    "relacion": "describe",
+    "valor": "tendencia a sobreestimar habilidades por personas con menor competencia"
+  },
+  {
+    "entidad": "educación y simulaciones prácticas",
+    "relacion": "son clave para",
+    "valor": "mejorar resultados en emergencias y seguridad del paciente"
+  },
+  {
+    "entidad": "investigaciones futuras",
+    "relacion": "deben evaluar",
+    "valor": "evolución de la autoeficacia y desempeño en habilidades de ACLS a lo largo del tiempo"
+  },
+  {
+    "entidad": "programas de simulación y retroalimentación",
+    "relacion": "son cruciales para",
+    "valor": "ajustar discrepancia entre autoeficacia percibida y desempeño real"
+  },
+  {
+    "entidad": "certificación en ACLS",
+    "relacion": "debe ser promovida como",
+    "valor": "un estándar fundamental mínimo para garantizar calidad en atención de emergencias"
+  },
+  {
+    "entidad": "colistina",
+    "relacion": "es un",
+    "valor": "antibiótico"
+  },
+  {
+    "entidad": "infecciones bacterianas gramnegativas multirresistentes (MDRGN)",
+    "relacion": "son",
+    "valor": "un problema de salud pública"
+  },
+  {
+    "entidad": "colistina",
+    "relacion": "se considera",
+    "valor": "una de las últimas opciones terapéuticas"
+  },
+  {
+    "entidad": "colistina",
+    "relacion": "tiene",
+    "valor": "alta tasa de efectos adversos"
+  },
+  {
+    "entidad": "dosis altas de colistina",
+    "relacion": "se utilizan para",
+    "valor": "mejorar la eficacia"
+  },
+  {
+    "entidad": "pacientes con infecciones por MDRGN",
+    "relacion": "son tratados con",
+    "valor": "colistina a dosis altas"
+  },
+  {
+    "entidad": "análisis de cohorte retrospectivo",
+    "relacion": "se realizó en",
+    "valor": "pacientes tratados con colistina"
+  },
+  {
+    "entidad": "mejora clínica",
+    "relacion": "es un",
+    "valor": "resultado primario del estudio"
+  },
+  {
+    "entidad": "incidencia de lesión renal aguda (AKI)",
+    "relacion": "es un",
+    "valor": "resultado secundario del estudio"
+  },
+  {
+    "entidad": "colistina",
+    "relacion": "se asocia con",
+    "valor": "mejora clínica en infecciones pulmonares"
+  },
+  {
+    "entidad": "infecciones extrapulmonares",
+    "relacion": "se asocian con",
+    "valor": "mayor tasa de fracaso clínico"
+  },
+  {
+    "entidad": "falla en el control del foco infeccioso",
+    "relacion": "influye en",
+    "valor": "mortalidad de pacientes"
+  },
+  {
+    "entidad": "lesión renal aguda (AKI)",
+    "relacion": "se observa en",
+    "valor": "un porcentaje significativo de tratamientos"
+  },
+  {
+    "entidad": "eosinofilia",
+    "relacion": "es frecuente en",
+    "valor": "pacientes tratados con colistina"
+  },
+  {
+    "entidad": "colistina",
+    "relacion": "debe ser prescrita",
+    "valor": "con análisis cuidadoso de riesgo y beneficio"
+  },
+  {
+    "entidad": "Hospital Base Valdivia",
+    "relacion": "es un",
+    "valor": "centro de referencia regional"
+  },
+  {
+    "entidad": "comorbilidades",
+    "relacion": "se presentan en",
+    "valor": "todos los pacientes tratados"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "se asocia con",
+    "valor": "falta de control de la fuente de infección"
+  },
+  {
+    "entidad": "simulación clínica",
+    "relacion": "tiene importancia en",
+    "valor": "pregrados de salud"
+  },
+  {
+    "entidad": "concepto de integración curricular",
+    "relacion": "se aplica en",
+    "valor": "simulación clínica"
+  },
+  {
+    "entidad": "Universidad Católica del Norte",
+    "relacion": "se encuentra en",
+    "valor": "Coquimbo, Chile"
+  },
+  {
+    "entidad": "Unidad de Simulación e Innovación en Salud",
+    "relacion": "pertenece a",
+    "valor": "Universidad San Sebastián"
+  },
+  {
+    "entidad": "Facultad de Medicina",
+    "relacion": "está asociada a",
+    "valor": "Clínica Alemana-Universidad del Desarrollo"
+  },
+  {
+    "entidad": "Brauer",
+    "relacion": "define",
+    "valor": "integración vertical y horizontal"
+  },
+  {
+    "entidad": "integración horizontal",
+    "relacion": "se refiere a",
+    "valor": "integración entre disciplinas en un periodo de tiempo determinado"
+  },
+  {
+    "entidad": "integración vertical",
+    "relacion": "se refiere a",
+    "valor": "integración de contenidos a lo largo del curriculum"
+  },
+  {
+    "entidad": "Wijnen-Meijer",
+    "relacion": "reddefine",
+    "valor": "integración vertical como un enfoque educativo"
+  },
+  {
+    "entidad": "educación basada en simulación",
+    "relacion": "recomienda",
+    "valor": "realizar procesos de inserción curricular"
+  },
+  {
+    "entidad": "centros de simulación en Chile",
+    "relacion": "son",
+    "valor": "64"
+  },
+  {
+    "entidad": "simulación",
+    "relacion": "es un elemento esencial para",
+    "valor": "comprender y clarificar la evidencia"
+  },
+  {
+    "entidad": "currículo de pregrado de salud",
+    "relacion": "requiere",
+    "valor": "evaluación y mejora continua"
+  },
+  {
+    "entidad": "simulación",
+    "relacion": "puede enfrentar",
+    "valor": "retos como costos elevados y acceso limitado"
+  },
+  {
+    "entidad": "investigación longitudinal",
+    "relacion": "es esencial para",
+    "valor": "evaluar impactos a largo plazo de la formación basada en simulación"
+  },
+  {
+    "entidad": "concepto transformativo de integración curricular",
+    "relacion": "no ha sido refrendado con",
+    "valor": "evidencia a partir de la simulación en pregrado"
+  },
+  {
+    "entidad": "teletrabajo",
+    "relacion": "influye en",
+    "valor": "ganancia de peso"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "causa",
+    "valor": "confinamiento"
+  },
+  {
+    "entidad": "confinamiento",
+    "relacion": "afecta a",
+    "valor": "situación laboral"
+  },
+  {
+    "entidad": "ganancia de peso",
+    "relacion": "asociada a",
+    "valor": "reducción de actividad física"
+  },
+  {
+    "entidad": "ganancia de peso",
+    "relacion": "asociada a",
+    "valor": "aumento en número de comidas"
+  },
+  {
+    "entidad": "ganancia de peso",
+    "relacion": "asociada a",
+    "valor": "aumento de alimentos ultra-procesados"
+  },
+  {
+    "entidad": "ganancia de peso",
+    "relacion": "asociada a",
+    "valor": "ausencia de estados de ánimo positivos"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen mayor",
+    "valor": "ganancia de peso"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "no afecta a",
+    "valor": "ganancia de peso"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "disminuye durante",
+    "valor": "confinamiento"
+  },
+  {
+    "entidad": "Universidad Internacional Iberoamericana",
+    "relacion": "realiza",
+    "valor": "estudio HALCON-COVID-19"
+  },
+  {
+    "entidad": "HALCON-COVID-19",
+    "relacion": "investiga",
+    "valor": "hábitos alimentarios durante confinamiento"
+  },
+  {
+    "entidad": "estrés y ansiedad",
+    "relacion": "aumentan debido a",
+    "valor": "teletrabajo"
+  },
+  {
+    "entidad": "alimentos ultra-procesados",
+    "relacion": "aumentan por",
+    "valor": "teletrabajo"
+  },
+  {
+    "entidad": "sintomatología de ansiedad",
+    "relacion": "asociada a",
+    "valor": "aumento en ingesta energética"
+  },
+  {
+    "entidad": "sintomatología de ansiedad",
+    "relacion": "asociada a",
+    "valor": "ganancia de peso"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "realizado en",
+    "valor": "21 países iberoamericanos"
+  },
+  {
+    "entidad": "Ciencias de la Salud",
+    "relacion": "incorpora",
+    "valor": "Competencia Intercultural en el curriculum"
+  },
+  {
+    "entidad": "Debbie Álvarez-Cruces",
+    "relacion": "es",
+    "valor": "autora del artículo"
+  },
+  {
+    "entidad": "Alejandra Nocetti-de-la-Barra",
+    "relacion": "es",
+    "valor": "autora del artículo"
+  },
+  {
+    "entidad": "Juan Mansilla-Sepúlveda",
+    "relacion": "es",
+    "valor": "autor del artículo"
+  },
+  {
+    "entidad": "Política de Salud de Migrante Internacional",
+    "relacion": "se estableció en",
+    "valor": "2017"
+  },
+  {
+    "entidad": "modelo de Sensibilidad Intercultural",
+    "relacion": "describe",
+    "valor": "etapas para desarrollar empatía"
+  },
+  {
+    "entidad": "jefes de carrera",
+    "relacion": "gestionan",
+    "valor": "el curriculum"
+  },
+  {
+    "entidad": "Sensibilidad Intercultural",
+    "relacion": "es evaluada en",
+    "valor": "jefes de carrera de Ciencias de la Salud"
+  },
+  {
+    "entidad": "migrantes",
+    "relacion": "afectan",
+    "valor": "la atención en salud"
+  },
+  {
+    "entidad": "etapas de Sensibilidad Intercultural",
+    "relacion": "incluyen",
+    "valor": "negación, defensa, minimización, aceptación"
+  },
+  {
+    "entidad": "negación",
+    "relacion": "se caracteriza por",
+    "valor": "aislamiento académico y desconocimiento de PSMI"
+  },
+  {
+    "entidad": "defensa",
+    "relacion": "se caracteriza por",
+    "valor": "ausencia de académicos capacitados y curriculum rígido"
+  },
+  {
+    "entidad": "minimización",
+    "relacion": "se caracteriza por",
+    "valor": "formación implícita y minimización formativa"
+  },
+  {
+    "entidad": "aceptación",
+    "relacion": "se caracteriza por",
+    "valor": "estrategias de incorporación de contenidos"
+  },
+  {
+    "entidad": "CNA",
+    "relacion": "indica",
+    "valor": "responder a necesidades sociales, culturales y éticas"
+  },
+  {
+    "entidad": "Ciencias de la Salud",
+    "relacion": "debe incluir",
+    "valor": "Competencia Intercultural"
+  },
+  {
+    "entidad": "etapas de adaptación e integración",
+    "relacion": "no fueron observadas en",
+    "valor": "ninguna carrera"
+  },
+  {
+    "entidad": "estrategias educativas",
+    "relacion": "son",
+    "valor": "poco sistemáticas"
+  },
+  {
+    "entidad": "curriculum",
+    "relacion": "debe ser gestionado para",
+    "valor": "responder a necesidades del contexto"
+  },
+  {
+    "entidad": "Ciencias de la Salud",
+    "relacion": "debe incorporar",
+    "valor": "estrategias didácticas y evaluativas"
+  }
+]

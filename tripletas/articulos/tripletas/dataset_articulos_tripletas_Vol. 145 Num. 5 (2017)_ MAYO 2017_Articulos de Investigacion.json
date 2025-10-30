@@ -1,0 +1,727 @@
+[
+  {
+    "entidad": "Región de Coquimbo",
+    "relacion": "tiene",
+    "valor": "alta incidencia de hidatidosis"
+  },
+  {
+    "entidad": "hidatidosis",
+    "relacion": "es",
+    "valor": "enfermedad desatendida según la OMS"
+  },
+  {
+    "entidad": "Echinococcus granulosus",
+    "relacion": "causa",
+    "valor": "hidatidosis"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "tienen",
+    "valor": "mayor incidencia de hidatidosis que mujeres"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "afecta",
+    "valor": "la incidencia de hidatidosis"
+  },
+  {
+    "entidad": "Región de Coquimbo",
+    "relacion": "presenta",
+    "valor": "mayor incidencia en zonas rurales"
+  },
+  {
+    "entidad": "Programa de Prevención y Control de Hidatidosis",
+    "relacion": "se desarrolla en",
+    "valor": "la provincia del Limarí"
+  },
+  {
+    "entidad": "hidatidosis",
+    "relacion": "afecta",
+    "valor": "a personas en condiciones de pobreza"
+  },
+  {
+    "entidad": "diagnóstico de hidatidosis",
+    "relacion": "se logra con",
+    "valor": "evaluación de quistes, pruebas serológicas o análisis moleculares"
+  },
+  {
+    "entidad": "Región de Coquimbo",
+    "relacion": "incluye",
+    "valor": "enfermedades de notificación obligatoria"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "son",
+    "valor": "más frecuentemente diagnosticados con hidatidosis"
+  },
+  {
+    "entidad": "hidatidosis",
+    "relacion": "es",
+    "valor": "una zoonosis parasitaria"
+  },
+  {
+    "entidad": "pobreza económica",
+    "relacion": "favorece",
+    "valor": "la incidencia de hidatidosis"
+  },
+  {
+    "entidad": "Región de Coquimbo",
+    "relacion": "tiene",
+    "valor": "alta prevalencia de equinococosis canina"
+  },
+  {
+    "entidad": "Región de Coquimbo",
+    "relacion": "presenta",
+    "valor": "mayor tasa de seroprevalencia de hidatidosis"
+  },
+  {
+    "entidad": "hidatidosis",
+    "relacion": "impacta",
+    "valor": "la calidad de vida de los afectados"
+  },
+  {
+    "entidad": "Región de Coquimbo",
+    "relacion": "es",
+    "valor": "la región con mayor tasa de incidencia entre Arica y Biobío"
+  },
+  {
+    "entidad": "Crowding",
+    "relacion": "es un",
+    "valor": "fenómeno de saturación en emergencias"
+  },
+  {
+    "entidad": "Central de Emergencia de Adultos",
+    "relacion": "pertenece a",
+    "valor": "Hospital Italiano de Buenos Aires"
+  },
+  {
+    "entidad": "Hospital Italiano de Buenos Aires",
+    "relacion": "es un",
+    "valor": "hospital universitario de alta complejidad"
+  },
+  {
+    "entidad": "NEDOCS",
+    "relacion": "mide",
+    "valor": "el grado de hacinamiento en emergencias"
+  },
+  {
+    "entidad": "Crowding",
+    "relacion": "resulta de",
+    "valor": "desequilibrio entre demanda de atención y capacidad del sistema"
+  },
+  {
+    "entidad": "Crowding",
+    "relacion": "afecta a",
+    "valor": "la atención del paciente"
+  },
+  {
+    "entidad": "Crowding",
+    "relacion": "provoca",
+    "valor": "demoras en diagnósticos y tratamientos"
+  },
+  {
+    "entidad": "Crowding",
+    "relacion": "incrementa",
+    "valor": "morbi-mortalidad"
+  },
+  {
+    "entidad": "Crowding",
+    "relacion": "favorece",
+    "valor": "errores humanos"
+  },
+  {
+    "entidad": "Crowding",
+    "relacion": "incrementa",
+    "valor": "estadía hospitalaria y costos"
+  },
+  {
+    "entidad": "escala NEDOCS",
+    "relacion": "es utilizada para",
+    "valor": "evaluar el Crowding"
+  },
+  {
+    "entidad": "Crowding",
+    "relacion": "es un problema de",
+    "valor": "salud pública"
+  },
+  {
+    "entidad": "Hospital Italiano de Buenos Aires",
+    "relacion": "gestiona",
+    "valor": "consultas y egresos"
+  },
+  {
+    "entidad": "NEDOCS",
+    "relacion": "permite clasificar",
+    "valor": "resultados en seis categorías"
+  },
+  {
+    "entidad": "Crowding",
+    "relacion": "se relaciona con",
+    "valor": "categorías de hacinamiento"
+  },
+  {
+    "entidad": "gráficos de contorno",
+    "relacion": "son utilizados para",
+    "valor": "describir patrones de Crowding"
+  },
+  {
+    "entidad": "Crowding",
+    "relacion": "requiere",
+    "valor": "intervenciones para su alivio"
+  },
+  {
+    "entidad": "medición en tiempo real de Crowding",
+    "relacion": "podría brindar",
+    "valor": "herramienta para la gestión"
+  },
+  {
+    "entidad": "Dra. María Florencia Grande Ratti",
+    "relacion": "es",
+    "valor": "autora del artículo"
+  },
+  {
+    "entidad": "estudio de cohorte retrospectiva",
+    "relacion": "es el método utilizado para",
+    "valor": "describir características del Crowding"
+  },
+  {
+    "entidad": "Universidad Finis Terrae",
+    "relacion": "es un",
+    "valor": "institución educativa"
+  },
+  {
+    "entidad": "Carolina Williams",
+    "relacion": "es",
+    "valor": "profesora de Biología"
+  },
+  {
+    "entidad": "método de autorregulación del aprendizaje",
+    "relacion": "mejora",
+    "valor": "rendimiento académico"
+  },
+  {
+    "entidad": "estudiantes de medicina",
+    "relacion": "participan en",
+    "valor": "cursos de Biología celular y Bioquímica"
+  },
+  {
+    "entidad": "método tradicional de enseñanza",
+    "relacion": "se utiliza en",
+    "valor": "grupo 2013"
+  },
+  {
+    "entidad": "método de autorregulación del aprendizaje",
+    "relacion": "se utiliza en",
+    "valor": "grupo 2014"
+  },
+  {
+    "entidad": "metodología de enseñanza",
+    "relacion": "afecta",
+    "valor": "resultados académicos"
+  },
+  {
+    "entidad": "autonomía en el aprendizaje",
+    "relacion": "es promovida por",
+    "valor": "método de autorregulación"
+  },
+  {
+    "entidad": "evaluación de rendimiento académico",
+    "relacion": "se realiza en",
+    "valor": "asignaturas científicas"
+  },
+  {
+    "entidad": "estudiantes de primer año",
+    "relacion": "son evaluados en",
+    "valor": "Biología celular y Bioquímica"
+  },
+  {
+    "entidad": "capacitación docente",
+    "relacion": "se lleva a cabo en",
+    "valor": "2013"
+  },
+  {
+    "entidad": "método de autorregulación del aprendizaje",
+    "relacion": "se basa en",
+    "valor": "planificación, ejecución y reflexión"
+  },
+  {
+    "entidad": "resultados académicos",
+    "relacion": "mejoran con",
+    "valor": "método de autorregulación"
+  },
+  {
+    "entidad": "tasa de reprobación",
+    "relacion": "disminuye con",
+    "valor": "método de autorregulación"
+  },
+  {
+    "entidad": "estudiantes",
+    "relacion": "desarrollan",
+    "valor": "competencias de aprendizaje continuo"
+  },
+  {
+    "entidad": "método de autorregulación",
+    "relacion": "es evaluado en",
+    "valor": "programas de nivelación"
+  },
+  {
+    "entidad": "metodología tradicional",
+    "relacion": "se compara con",
+    "valor": "metodología de autorregulación"
+  },
+  {
+    "entidad": "autonomía",
+    "relacion": "es un objetivo de",
+    "valor": "método de autorregulación"
+  },
+  {
+    "entidad": "peso corporal",
+    "relacion": "se asocia a",
+    "valor": "disminución en factores de riesgo cardiovascular"
+  },
+  {
+    "entidad": "índice de masa corporal (IMC)",
+    "relacion": "se asocia a",
+    "valor": "disminución en factores de riesgo cardiovascular"
+  },
+  {
+    "entidad": "perímetro de cintura",
+    "relacion": "se asocia a",
+    "valor": "disminución en factores de riesgo cardiovascular"
+  },
+  {
+    "entidad": "población chilena",
+    "relacion": "es objeto de estudio en",
+    "valor": "investigación sobre factores de riesgo cardiovascular"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "es un factor de riesgo para",
+    "valor": "enfermedades cardiovasculares"
+  },
+  {
+    "entidad": "tipo 2 diabetes",
+    "relacion": "es un factor de riesgo cardiovascular",
+    "valor": "asociado a obesidad"
+  },
+  {
+    "entidad": "hipertensión",
+    "relacion": "es un factor de riesgo cardiovascular",
+    "valor": "asociado a obesidad"
+  },
+  {
+    "entidad": "síndrome metabólico",
+    "relacion": "es un factor de riesgo cardiovascular",
+    "valor": "asociado a obesidad"
+  },
+  {
+    "entidad": "dyslipidemia",
+    "relacion": "es un factor de riesgo cardiovascular",
+    "valor": "asociado a obesidad"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud (OMS)",
+    "relacion": "estima que",
+    "valor": "más de 1,3 billones de adultos tienen sobrepeso"
+  },
+  {
+    "entidad": "costo económico de la obesidad",
+    "relacion": "es",
+    "valor": "entre 0,7% y 2,8% del costo total de atención médica a nivel mundial"
+  },
+  {
+    "entidad": "pérdida de peso del 5%",
+    "relacion": "podría ser un objetivo para",
+    "valor": "intervenciones de estilo de vida"
+  },
+  {
+    "entidad": "población en riesgo",
+    "relacion": "debería enfocarse en",
+    "valor": "reducción de peso corporal, IMC o perímetro de cintura"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "investiga",
+    "valor": "la asociación entre peso corporal, IMC y perímetro de cintura con factores de riesgo cardiovascular"
+  },
+  {
+    "entidad": "Comité de Ética de Investigación de la Escuela de Medicina de la Pontificia Universidad Católica de Chile",
+    "relacion": "aprueba",
+    "valor": "el protocolo de estudio"
+  },
+  {
+    "entidad": "Retinopatía Diabética",
+    "relacion": "es",
+    "valor": "la primera causa de ceguera durante los años laborales"
+  },
+  {
+    "entidad": "Diabetes Mellitus",
+    "relacion": "es",
+    "valor": "un problema serio de salud pública mundial"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "tiene",
+    "valor": "una prevalencia estimada de Diabetes Mellitus del 9,4% en mayores de 15 años"
+  },
+  {
+    "entidad": "Programa de Salud Cardiovascular",
+    "relacion": "pertenece a",
+    "valor": "Servicio de Salud Metropolitano Sur Oriente"
+  },
+  {
+    "entidad": "tamizaje",
+    "relacion": "disminuye",
+    "valor": "costos del tratamiento de Retinopatía Diabética"
+  },
+  {
+    "entidad": "Día D",
+    "relacion": "es",
+    "valor": "un programa de tamizaje masivo"
+  },
+  {
+    "entidad": "retinografía digital",
+    "relacion": "es utilizada en",
+    "valor": "el sistema de tamizaje implementado por el Servicio de Salud Metropolitano Sur Oriente"
+  },
+  {
+    "entidad": "retinografía",
+    "relacion": "es realizada por",
+    "valor": "tecnólogos médicos oftalmológicos"
+  },
+  {
+    "entidad": "Asociación Americana de Diabetes",
+    "relacion": "afirma que",
+    "valor": "el seguimiento adecuado de pautas de tamizaje reduce el riesgo de ceguera entre 12% y 28%"
+  },
+  {
+    "entidad": "retinopatía diabética no proliferativa",
+    "relacion": "es",
+    "valor": "la complicación más frecuente de la Diabetes Mellitus"
+  },
+  {
+    "entidad": "cobertura del tamizaje",
+    "relacion": "es",
+    "valor": "baja en Chile, con un 21%"
+  },
+  {
+    "entidad": "retinopatía diabética",
+    "relacion": "es",
+    "valor": "un problema importante de salud pública"
+  },
+  {
+    "entidad": "panfotocoagulación",
+    "relacion": "es",
+    "valor": "un tratamiento efectivo para la retinopatía diabética"
+  },
+  {
+    "entidad": "Servicio de Salud Metropolitano Sur Oriente",
+    "relacion": "implementó",
+    "valor": "un sistema de tamizaje vía retinografía digital"
+  },
+  {
+    "entidad": "población urbana",
+    "relacion": "tiene",
+    "valor": "mayor frecuencia de hallazgos compatibles con retinopatía diabética"
+  },
+  {
+    "entidad": "población rural",
+    "relacion": "tiene",
+    "valor": "menor frecuencia de hallazgos compatibles con retinopatía diabética"
+  },
+  {
+    "entidad": "pacientes jóvenes con Diabetes Mellitus tipo 1",
+    "relacion": "pueden tener",
+    "valor": "mal control metabólico"
+  },
+  {
+    "entidad": "Edema Macular Diabético",
+    "relacion": "es",
+    "valor": "la principal causa de disminución de la agudeza visual en pacientes diabéticos"
+  },
+  {
+    "entidad": "cobertura de tamizaje",
+    "relacion": "debe ser",
+    "valor": "aumentada en estratos socioeconómicos más bajos"
+  },
+  {
+    "entidad": "puntaje de riesgo TIMI",
+    "relacion": "predice",
+    "valor": "mortalidad intrahospitalaria"
+  },
+  {
+    "entidad": "infarto agudo al miocardio con supradesnivel de ST",
+    "relacion": "es",
+    "valor": "una enfermedad cardiovascular"
+  },
+  {
+    "entidad": "Héctor Ugalde",
+    "relacion": "es el autor de",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "Hospital Clínico de la Universidad de Chile",
+    "relacion": "es",
+    "valor": "una institución médica"
+  },
+  {
+    "entidad": "pacientes chilenos",
+    "relacion": "son",
+    "valor": "el grupo estudiado"
+  },
+  {
+    "entidad": "mortalidad observada",
+    "relacion": "se relaciona con",
+    "valor": "puntaje de riesgo TIMI"
+  },
+  {
+    "entidad": "TIMI-RS",
+    "relacion": "fue diseñado para",
+    "valor": "predecir mortalidad"
+  },
+  {
+    "entidad": "curva ROC",
+    "relacion": "evalúa",
+    "valor": "la capacidad predictiva del TIMI-RS"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "es variable debido a",
+    "valor": "diversas condiciones clínicas"
+  },
+  {
+    "entidad": "escala de riesgo TIMI",
+    "relacion": "se utiliza en",
+    "valor": "la práctica clínica habitual"
+  },
+  {
+    "entidad": "pacientes no reperfundidos",
+    "relacion": "tienen",
+    "valor": "un riesgo de mortalidad subestimado"
+  },
+  {
+    "entidad": "mortalidad intrahospitalaria",
+    "relacion": "es afectada por",
+    "valor": "el puntaje de riesgo TIMI"
+  },
+  {
+    "entidad": "mortalidad a 30 días",
+    "relacion": "es predicha por",
+    "valor": "la escala de riesgo TIMI"
+  },
+  {
+    "entidad": "mortalidad a un año",
+    "relacion": "es predicha por",
+    "valor": "la escala de riesgo TIMI"
+  },
+  {
+    "entidad": "estudio original de TIMI",
+    "relacion": "utilizó",
+    "valor": "más de 15.000 pacientes"
+  },
+  {
+    "entidad": "pacientes con IAMSDST",
+    "relacion": "son",
+    "valor": "el foco del estudio"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "aumenta con",
+    "valor": "mayor puntaje de riesgo TIMI"
+  },
+  {
+    "entidad": "HCUCH",
+    "relacion": "es",
+    "valor": "la unidad donde se realizó el estudio"
+  },
+  {
+    "entidad": "mortalidad observada",
+    "relacion": "difiere de",
+    "valor": "la mortalidad predicha"
+  },
+  {
+    "entidad": "mortalidad intrahospitalaria",
+    "relacion": "es mejor predicha por",
+    "valor": "puntajes menores de 6 puntos"
+  },
+  {
+    "entidad": "cáncer de próstata",
+    "relacion": "es",
+    "valor": "el tumor de mayor frecuencia en hombres en EE. UU."
+  },
+  {
+    "entidad": "cáncer de próstata",
+    "relacion": "tiene",
+    "valor": "una alta incidencia y mortalidad a nivel mundial"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "tiene",
+    "valor": "una prevalencia de 9,2 casos por 1.000 individuos de cáncer de próstata"
+  },
+  {
+    "entidad": "cáncer de próstata",
+    "relacion": "requiere",
+    "valor": "métodos de tamizaje y pruebas diagnósticas"
+  },
+  {
+    "entidad": "tacto rectal",
+    "relacion": "permite",
+    "valor": "diagnóstico precoz de neoplasia prostática"
+  },
+  {
+    "entidad": "antígeno prostático específico (APE)",
+    "relacion": "es",
+    "valor": "un marcador proteico para cáncer de próstata"
+  },
+  {
+    "entidad": "Gleason",
+    "relacion": "mide",
+    "valor": "el grado de diferenciación celular en la próstata"
+  },
+  {
+    "entidad": "estadío clínico",
+    "relacion": "es",
+    "valor": "un factor predictor de riesgo de lesiones secundarias"
+  },
+  {
+    "entidad": "D’Amico",
+    "relacion": "clasifica",
+    "valor": "el riesgo de diseminación en cáncer de próstata"
+  },
+  {
+    "entidad": "estudios de diseminación",
+    "relacion": "son",
+    "valor": "necesarios para decidir la conducta terapéutica"
+  },
+  {
+    "entidad": "estudios de imagen",
+    "relacion": "son",
+    "valor": "utilizados para evaluar la diseminación del cáncer"
+  },
+  {
+    "entidad": "Hospital Puerto Natales",
+    "relacion": "es",
+    "valor": "un centro clínico en Chile"
+  },
+  {
+    "entidad": "Clínica Las Condes",
+    "relacion": "tiene",
+    "valor": "un servicio de Anatomía Patológica"
+  },
+  {
+    "entidad": "pacientes con cáncer de próstata",
+    "relacion": "son",
+    "valor": "evaluados para determinar la necesidad de estudios de diseminación"
+  },
+  {
+    "entidad": "estudios de imagen",
+    "relacion": "pueden",
+    "valor": "incrementar costos y riesgos para el paciente"
+  },
+  {
+    "entidad": "recomendaciones internacionales",
+    "relacion": "sugieren",
+    "valor": "no realizar estudios de diseminación en pacientes de bajo riesgo"
+  },
+  {
+    "entidad": "pacientes de bajo riesgo",
+    "relacion": "tienen",
+    "valor": "baja probabilidad de metástasis"
+  },
+  {
+    "entidad": "prostatectomía radical",
+    "relacion": "es",
+    "valor": "un tratamiento con intención curativa para cáncer de próstata"
+  },
+  {
+    "entidad": "radioterapia",
+    "relacion": "es",
+    "valor": "un tratamiento con intención curativa para cáncer de próstata"
+  },
+  {
+    "entidad": "capacitación docente",
+    "relacion": "se relaciona con",
+    "valor": "prácticas pedagógicas"
+  },
+  {
+    "entidad": "académicos de carreras de la salud",
+    "relacion": "pertenece a",
+    "valor": "universidades de Chile"
+  },
+  {
+    "entidad": "universidades de Chile",
+    "relacion": "son",
+    "valor": "públicas y privadas"
+  },
+  {
+    "entidad": "prácticas pedagógicas",
+    "relacion": "son influenciadas por",
+    "valor": "capacitación pedagógica"
+  },
+  {
+    "entidad": "capacitación disciplinar",
+    "relacion": "correlaciona con",
+    "valor": "prácticas pedagógicas"
+  },
+  {
+    "entidad": "magíster",
+    "relacion": "asocia con",
+    "valor": "mejores puntajes en planificación de la enseñanza"
+  },
+  {
+    "entidad": "doctorado",
+    "relacion": "no impacta en",
+    "valor": "prácticas pedagógicas"
+  },
+  {
+    "entidad": "capacitación pedagógica",
+    "relacion": "mejora",
+    "valor": "calidad de enseñanza"
+  },
+  {
+    "entidad": "estudiantes",
+    "relacion": "son protagonistas de",
+    "valor": "proceso formativo"
+  },
+  {
+    "entidad": "docente universitario",
+    "relacion": "no suele ser",
+    "valor": "profesional de la educación"
+  },
+  {
+    "entidad": "prácticas pedagógicas",
+    "relacion": "incluyen",
+    "valor": "reflexión y análisis educativo"
+  },
+  {
+    "entidad": "universidades",
+    "relacion": "realizan esfuerzos para",
+    "valor": "capacitar a sus docentes"
+  },
+  {
+    "entidad": "capacitación",
+    "relacion": "es necesaria para",
+    "valor": "ejercicio eficiente de la labor educativa"
+  },
+  {
+    "entidad": "participación en actividades de capacitación",
+    "relacion": "correlaciona con",
+    "valor": "mejores prácticas pedagógicas"
+  },
+  {
+    "entidad": "estudios de magíster",
+    "relacion": "mejoran",
+    "valor": "evaluación de proceso"
+  },
+  {
+    "entidad": "capacitación pedagógica",
+    "relacion": "asocia con",
+    "valor": "enseñanza centrada en el estudiante"
+  },
+  {
+    "entidad": "capacitación disciplinar",
+    "relacion": "asocia con",
+    "valor": "uso de recursos tecnológicos"
+  }
+]

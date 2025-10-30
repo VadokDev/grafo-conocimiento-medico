@@ -1,0 +1,417 @@
+[
+  {
+    "entidad": "Isoniazida",
+    "relacion": "es un",
+    "valor": "compuesto central en el tratamiento de tuberculosis"
+  },
+  {
+    "entidad": "Isoniazida",
+    "relacion": "se asocia a",
+    "valor": "hepatitis"
+  },
+  {
+    "entidad": "Isoniazida",
+    "relacion": "se asocia a",
+    "valor": "polineuropatía"
+  },
+  {
+    "entidad": "polineuropatía",
+    "relacion": "es causada por",
+    "valor": "depleción funcional de piridoxina"
+  },
+  {
+    "entidad": "depleción funcional de piridoxina",
+    "relacion": "puede ser evitada por",
+    "valor": "dosis apropiadas y suplementación con piridoxina"
+  },
+  {
+    "entidad": "gastroparesia",
+    "relacion": "es documentada por",
+    "valor": "exámenes de vaciamiento gástrico por medicina nuclear"
+  },
+  {
+    "entidad": "gastroparesia",
+    "relacion": "mejora con",
+    "valor": "suspensión de isoniazida"
+  },
+  {
+    "entidad": "gastroparesia",
+    "relacion": "reaparece con",
+    "valor": "reexposición a isoniazida"
+  },
+  {
+    "entidad": "gastroparesia",
+    "relacion": "mejora con",
+    "valor": "retirada definitiva de isoniazida"
+  },
+  {
+    "entidad": "vómitos",
+    "relacion": "causan",
+    "valor": "morbilidad prolongada"
+  },
+  {
+    "entidad": "morbilidad prolongada",
+    "relacion": "lleva a",
+    "valor": "hospitalización prolongada"
+  },
+  {
+    "entidad": "hospitalización prolongada",
+    "relacion": "causa",
+    "valor": "fracaso del tratamiento"
+  },
+  {
+    "entidad": "gastroparesia",
+    "relacion": "afecta a",
+    "valor": "erradicación de Mycobacterium tuberculosis"
+  },
+  {
+    "entidad": "gastroparesia",
+    "relacion": "debe ser agregada a",
+    "valor": "lista de efectos adversos de isoniazida"
+  },
+  {
+    "entidad": "reconocimiento de gastroparesia",
+    "relacion": "es",
+    "valor": "inicialmente clínico"
+  },
+  {
+    "entidad": "gastroparesia",
+    "relacion": "puede ser confirmado con",
+    "valor": "estudios de medicina nuclear"
+  },
+  {
+    "entidad": "Isoniazida",
+    "relacion": "causa",
+    "valor": "efectos adversos incluso con suplementación de piridoxina"
+  },
+  {
+    "entidad": "Levosulpiride",
+    "relacion": "se utiliza para",
+    "valor": "mejorar la gastroparesia"
+  },
+  {
+    "entidad": "gastroparesia",
+    "relacion": "es un",
+    "valor": "trastorno crónico caracterizado por vaciamiento gástrico retrasado"
+  },
+  {
+    "entidad": "scintigrafía gástrica",
+    "relacion": "es",
+    "valor": "la técnica más costo-efectiva para confirmar vaciamiento gástrico retrasado"
+  },
+  {
+    "entidad": "Mycobacterium abscessus",
+    "relacion": "causa",
+    "valor": "infección pulmonar"
+  },
+  {
+    "entidad": "nódulo pulmonar solitario",
+    "relacion": "presentación de",
+    "valor": "infección por Mycobacterium abscessus"
+  },
+  {
+    "entidad": "micobacterias no tuberculosas",
+    "relacion": "producen",
+    "valor": "enfermedades pulmonares crónicas"
+  },
+  {
+    "entidad": "enfermedad pulmonar causada por micobacterias no tuberculosas",
+    "relacion": "se clasifica en",
+    "valor": "5 tipos de presentaciones clínicas"
+  },
+  {
+    "entidad": "nódulo pulmonar solitario",
+    "relacion": "es una",
+    "valor": "manifestación inhabitual de EP-MNT"
+  },
+  {
+    "entidad": "resección quirúrgica",
+    "relacion": "es un",
+    "valor": "manejo para nódulo pulmonar solitario"
+  },
+  {
+    "entidad": "José Gutiérrez",
+    "relacion": "es autor de",
+    "valor": "reporte de caso clínico"
+  },
+  {
+    "entidad": "Universidad del Desarrollo",
+    "relacion": "es parte de",
+    "valor": "instituciones involucradas en el estudio"
+  },
+  {
+    "entidad": "Clínica Alemana de Santiago",
+    "relacion": "es parte de",
+    "valor": "instituciones involucradas en el estudio"
+  },
+  {
+    "entidad": "nódulo pulmonar solitario",
+    "relacion": "dificultad de diagnóstico",
+    "valor": "similar a neoplasias pulmonares"
+  },
+  {
+    "entidad": "Mycobacterium avium complex",
+    "relacion": "es un",
+    "valor": "tipo de micobacteria no tuberculosa"
+  },
+  {
+    "entidad": "Mycobacterium kansasii",
+    "relacion": "es un",
+    "valor": "tipo de micobacteria no tuberculosa"
+  },
+  {
+    "entidad": "enfermedad pulmonar fibrocavitaria",
+    "relacion": "es un",
+    "valor": "tipo de presentación clínica de EP-MNT"
+  },
+  {
+    "entidad": "pacientes con EP-MNT",
+    "relacion": "pueden ser considerados",
+    "valor": "tratados tras resección quirúrgica"
+  },
+  {
+    "entidad": "nódulo pulmonar solitario",
+    "relacion": "puede corresponder a",
+    "valor": "micobacterias no tuberculosas"
+  },
+  {
+    "entidad": "seguimiento clínico y tomográfico",
+    "relacion": "es necesario en caso de",
+    "valor": "progresión de síntomas"
+  },
+  {
+    "entidad": "tumor fibroso calcificante (TFC)",
+    "relacion": "es un",
+    "valor": "tumor mesenquimal benigno"
+  },
+  {
+    "entidad": "TFC",
+    "relacion": "tiene",
+    "valor": "ligero predominio femenino"
+  },
+  {
+    "entidad": "TFC",
+    "relacion": "puede aparecer en",
+    "valor": "cualquier rango de edad"
+  },
+  {
+    "entidad": "TFC",
+    "relacion": "se localiza en",
+    "valor": "extremidades, cuello y tracto gastrointestinal"
+  },
+  {
+    "entidad": "TFC",
+    "relacion": "puede causar",
+    "valor": "recidivas"
+  },
+  {
+    "entidad": "resección quirúrgica",
+    "relacion": "es el",
+    "valor": "tratamiento recomendado para TFC"
+  },
+  {
+    "entidad": "mujer de 56 años",
+    "relacion": "fue intervenida por",
+    "valor": "obstrucción intestinal"
+  },
+  {
+    "entidad": "obstrucción intestinal",
+    "relacion": "fue asociada con",
+    "valor": "perforación del yeyuno medio"
+  },
+  {
+    "entidad": "estudio histopatológico",
+    "relacion": "describió",
+    "valor": "presencia de un tumor fibroso calcificante"
+  },
+  {
+    "entidad": "células fusiformes",
+    "relacion": "eran positivas para",
+    "valor": "CD34, Factor XIIIa y vimentin"
+  },
+  {
+    "entidad": "perforación intestinal",
+    "relacion": "es un",
+    "valor": "hallazgo secundario a TFC"
+  },
+  {
+    "entidad": "TFC",
+    "relacion": "fue descrito por primera vez en",
+    "valor": "1988"
+  },
+  {
+    "entidad": "World Health Organization",
+    "relacion": "estableció",
+    "valor": "diagnóstico de TFC en 2002"
+  },
+  {
+    "entidad": "TFC",
+    "relacion": "es más frecuente en",
+    "valor": "niños y jóvenes adultos"
+  },
+  {
+    "entidad": "TFC",
+    "relacion": "se presenta principalmente en",
+    "valor": "estómago y intestino delgado"
+  },
+  {
+    "entidad": "diagnóstico definitivo",
+    "relacion": "se realiza mediante",
+    "valor": "hallazgos histopatológicos"
+  },
+  {
+    "entidad": "inmunohistoquímica",
+    "relacion": "es característica de",
+    "valor": "TFC"
+  },
+  {
+    "entidad": "manejo y tratamiento de TFC",
+    "relacion": "dependen de",
+    "valor": "manifestaciones clínicas y localización"
+  },
+  {
+    "entidad": "resección quirúrgica",
+    "relacion": "es el",
+    "valor": "tratamiento más apropiado para TFC"
+  },
+  {
+    "entidad": "recurrencias locales",
+    "relacion": "han sido descritas en",
+    "valor": "hasta el 20% de los pacientes"
+  },
+  {
+    "entidad": "Chlamydophila pneumoniae",
+    "relacion": "causa",
+    "valor": "síndrome respiratorio mucoso"
+  },
+  {
+    "entidad": "síndrome respiratorio mucoso",
+    "relacion": "asociado a",
+    "valor": "infección por Chlamydophila pneumoniae"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "tiene",
+    "valor": "24 años"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "compromiso mucoso extenso y respiratorio"
+  },
+  {
+    "entidad": "NSAIDs",
+    "relacion": "dificultan",
+    "valor": "diferenciación de síndromes mucocutáneos"
+  },
+  {
+    "entidad": "mucositis no oncológica",
+    "relacion": "diagnosticada en",
+    "valor": "paciente"
+  },
+  {
+    "entidad": "Chlamydophila pneumoniae",
+    "relacion": "detectada en",
+    "valor": "filmArray respiratorio"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "fue tratado con",
+    "valor": "azitromicina y hidrocortisona"
+  },
+  {
+    "entidad": "mucositis",
+    "relacion": "asociada a",
+    "valor": "infección por Chlamydophila pneumoniae"
+  },
+  {
+    "entidad": "mucositis",
+    "relacion": "presenta",
+    "valor": "lesiones erosivas en mucosas"
+  },
+  {
+    "entidad": "Chlamydophila pneumoniae",
+    "relacion": "asociada a",
+    "valor": "síndrome respiratorio mucoso"
+  },
+  {
+    "entidad": "eritema multiforme",
+    "relacion": "caracterizado por",
+    "valor": "lesiones cutáneas en diana"
+  },
+  {
+    "entidad": "síndrome de Stevens-Johnson",
+    "relacion": "diferenciado de",
+    "valor": "síndrome respiratorio mucoso"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "recibe",
+    "valor": "hidratación y nutrición parenteral"
+  },
+  {
+    "entidad": "hospitalización",
+    "relacion": "realizada en",
+    "valor": "sala con aislamiento protector"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "buena evolución clínica"
+  },
+  {
+    "entidad": "Chlamydophila pneumoniae",
+    "relacion": "reportada como",
+    "valor": "agente etiológico de EM infeccioso"
+  },
+  {
+    "entidad": "daptomicina",
+    "relacion": "es un",
+    "valor": "tratamiento"
+  },
+  {
+    "entidad": "cefazolina",
+    "relacion": "es un",
+    "valor": "tratamiento"
+  },
+  {
+    "entidad": "Staphylococcus aureus resistente a meticilina",
+    "relacion": "causa",
+    "valor": "bacteriemia"
+  },
+  {
+    "entidad": "bacteriemia",
+    "relacion": "afecta a",
+    "valor": "mujeres embarazadas"
+  },
+  {
+    "entidad": "vancomicina",
+    "relacion": "es un",
+    "valor": "tratamiento inicial"
+  },
+  {
+    "entidad": "mujer embarazada",
+    "relacion": "requiere",
+    "valor": "tratamiento combinado"
+  },
+  {
+    "entidad": "contactos familiares",
+    "relacion": "revelan",
+    "valor": "aislado similar en madre"
+  },
+  {
+    "entidad": "gatos domésticos",
+    "relacion": "no portan",
+    "valor": "Staphylococcus aureus resistente a meticilina"
+  },
+  {
+    "entidad": "tratamiento de erradicación",
+    "relacion": "es sugerido para",
+    "valor": "contactos familiares portadores"
+  },
+  {
+    "entidad": "bacteriemia por Staphylococcus aureus",
+    "relacion": "puede ser controlada por",
+    "valor": "terapias combinadas"
+  }
+]

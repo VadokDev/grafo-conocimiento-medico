@@ -1,0 +1,107 @@
+[
+  {
+    "entidad": "trasplante hepático",
+    "relacion": "es una",
+    "valor": "terapia costo-efectiva para enfermedades hepáticas avanzadas"
+  },
+  {
+    "entidad": "trasplante hepático",
+    "relacion": "mejora",
+    "valor": "supervivencia a largo plazo"
+  },
+  {
+    "entidad": "inmunosupresores",
+    "relacion": "incluyen",
+    "valor": "corticoides, inhibidores de calcineurina, micofenolato, inhibidores de mTOR, anticuerpos anti CD-25"
+  },
+  {
+    "entidad": "corticoides",
+    "relacion": "actúan sobre",
+    "valor": "linfocitos T"
+  },
+  {
+    "entidad": "complicaciones post trasplante hepático",
+    "relacion": "pueden ser",
+    "valor": "renales, infecciosas, inmunológicas, biliares, vasculares, metabólicas, cardiovasculares, neoplásicas"
+  },
+  {
+    "entidad": "infecciones",
+    "relacion": "pueden ser causadas por",
+    "valor": "bacterias, virus, hongos"
+  },
+  {
+    "entidad": "profilaxis",
+    "relacion": "debe considerar",
+    "valor": "Herpes Simple, Varicela zoster, Citomegalovirus, Pneumocystis jirovecii, Candida spp., Aspergillus spp."
+  },
+  {
+    "entidad": "rechazo celular agudo",
+    "relacion": "es frecuente en",
+    "valor": "30% de los trasplantes hepáticos"
+  },
+  {
+    "entidad": "rechazo crónico",
+    "relacion": "se presenta en",
+    "valor": "3-17% de los trasplantes hepáticos"
+  },
+  {
+    "entidad": "cambios de estilo de vida",
+    "relacion": "deben ser promovidos en",
+    "valor": "todos los pacientes post trasplante"
+  },
+  {
+    "entidad": "neoplasias",
+    "relacion": "deben ser vigiladas en",
+    "valor": "pacientes post trasplante debido al mayor riesgo de cáncer"
+  },
+  {
+    "entidad": "enfermedad renal crónica",
+    "relacion": "desarrollará",
+    "valor": "22% de los pacientes a 5 años post trasplante"
+  },
+  {
+    "entidad": "inmunosupresores",
+    "relacion": "pueden causar",
+    "valor": "complicaciones asociadas como infecciones, enfermedades metabólicas, cardiovasculares o neoplasias"
+  },
+  {
+    "entidad": "profilaxis contra infecciones",
+    "relacion": "debe realizarse durante",
+    "valor": "el periodo de máxima inmunosupresión"
+  },
+  {
+    "entidad": "colangitis biliar primaria",
+    "relacion": "recurrirá en",
+    "valor": "36% de los casos a 10 años"
+  },
+  {
+    "entidad": "carcinoma hepatocelular",
+    "relacion": "tiene un riesgo de",
+    "valor": "recurrencia de 15-20%"
+  },
+  {
+    "entidad": "virus hepatitis B",
+    "relacion": "se recomienda tratamiento con",
+    "valor": "análogos de nucleós(t)idos"
+  },
+  {
+    "entidad": "virus hepatitis C",
+    "relacion": "se recomienda tratamiento con",
+    "valor": "agentes antivirales directos"
+  },
+  {
+    "entidad": "osteoporosis",
+    "relacion": "afecta a",
+    "valor": "más del 30% de los pacientes post trasplante"
+  },
+  {
+    "entidad": "estenosis de vías biliares",
+    "relacion": "aparecen en",
+    "valor": "5-15% de los trasplantes de donante cadáver"
+  },
+  {
+    "entidad": "cáncer",
+    "relacion": "aumenta según",
+    "valor": "dosis acumuladas de inmunosupresores"
+  }
+]

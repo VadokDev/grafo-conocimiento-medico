@@ -1,0 +1,302 @@
+[
+  {
+    "entidad": "Amicrobial Pustulosis of the Folds",
+    "relacion": "es un",
+    "valor": "dermatosis neutrofílica crónica"
+  },
+  {
+    "entidad": "Amicrobial Pustulosis of the Folds",
+    "relacion": "se caracteriza por",
+    "valor": "lesiones papulopustulares, eczematosas y asépticas"
+  },
+  {
+    "entidad": "Amicrobial Pustulosis of the Folds",
+    "relacion": "ocurre predominantemente en",
+    "valor": "mujeres"
+  },
+  {
+    "entidad": "Amicrobial Pustulosis of the Folds",
+    "relacion": "asociada a",
+    "valor": "enfermedades autoinmunes"
+  },
+  {
+    "entidad": "sistema inmunológico",
+    "relacion": "afecta a",
+    "valor": "pacientes con lupus eritematoso sistémico"
+  },
+  {
+    "entidad": "corticoides",
+    "relacion": "son",
+    "valor": "terapia de primera línea"
+  },
+  {
+    "entidad": "Doxycycline",
+    "relacion": "se utiliza para",
+    "valor": "tratamiento de Amicrobial Pustulosis of the Folds"
+  },
+  {
+    "entidad": "Dapsone",
+    "relacion": "se utiliza para",
+    "valor": "tratamiento de Amicrobial Pustulosis of the Folds"
+  },
+  {
+    "entidad": "Denise Tabak",
+    "relacion": "es el autor correspondiente de",
+    "valor": "el artículo"
+  },
+  {
+    "entidad": "Hospital Barros Luco Trudeau",
+    "relacion": "es un",
+    "valor": "centro de dermatología"
+  },
+  {
+    "entidad": "Universidad de Chile",
+    "relacion": "es un",
+    "valor": "centro de dermatología"
+  },
+  {
+    "entidad": "Clínica Orlandi",
+    "relacion": "es un",
+    "valor": "centro de dermatología"
+  },
+  {
+    "entidad": "Universidad de Santiago de Chile",
+    "relacion": "es un",
+    "valor": "centro de dermatología"
+  },
+  {
+    "entidad": "Laboratorio Histodiagnóstico Málaga",
+    "relacion": "es un",
+    "valor": "laboratorio de diagnóstico"
+  },
+  {
+    "entidad": "APF",
+    "relacion": "se presenta en",
+    "valor": "pliegues cutáneos"
+  },
+  {
+    "entidad": "APF",
+    "relacion": "se presenta en",
+    "valor": "región perioral"
+  },
+  {
+    "entidad": "APF",
+    "relacion": "se presenta en",
+    "valor": "cuero cabelludo"
+  },
+  {
+    "entidad": "APF",
+    "relacion": "se presenta en",
+    "valor": "meato auditivo externo"
+  },
+  {
+    "entidad": "APF",
+    "relacion": "tiene un promedio de edad de",
+    "valor": "30 años"
+  },
+  {
+    "entidad": "APF",
+    "relacion": "se asocia frecuentemente con",
+    "valor": "enfermedades autoinmunes"
+  },
+  {
+    "entidad": "APF",
+    "relacion": "se caracteriza por",
+    "valor": "aparición súbita de lesiones papulopustulares"
+  },
+  {
+    "entidad": "APF",
+    "relacion": "presenta",
+    "valor": "evolución crónica con remisiones y recaídas"
+  },
+  {
+    "entidad": "APF",
+    "relacion": "diagnóstico basado en",
+    "valor": "criterios clínicos e histopatológicos"
+  },
+  {
+    "entidad": "APF",
+    "relacion": "diferenciar de",
+    "valor": "otras dermatosis pustulares"
+  },
+  {
+    "entidad": "APF",
+    "relacion": "puede ser tratada con",
+    "valor": "corticoides, dapsone y doxycycline"
+  },
+  {
+    "entidad": "APF",
+    "relacion": "se ha reportado como complicación secundaria de",
+    "valor": "uso de anti-TNF"
+  },
+  {
+    "entidad": "Aterosclerosis",
+    "relacion": "es la",
+    "valor": "principal causa de falla del injerto venoso"
+  },
+  {
+    "entidad": "OCT",
+    "relacion": "permite",
+    "valor": "análisis detallado de la lesión"
+  },
+  {
+    "entidad": "angiografía",
+    "relacion": "es",
+    "valor": "el patrón de oro en el estudio anatómico de arterias coronarias"
+  },
+  {
+    "entidad": "puentes venosos",
+    "relacion": "tienen",
+    "valor": "un talón de Aquiles en cirugía de revascularización miocárdica"
+  },
+  {
+    "entidad": "falla de un puente venoso",
+    "relacion": "puede deberse a",
+    "valor": "trombosis, hiperplasia neointimal o aterosclerosis"
+  },
+  {
+    "entidad": "OFDI",
+    "relacion": "se basa en",
+    "valor": "una luz infrarroja para generar imágenes"
+  },
+  {
+    "entidad": "OFDI",
+    "relacion": "tiene",
+    "valor": "mayor resolución que el ultrasonido"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "es",
+    "valor": "un hombre de 67 años con diabetes"
+  },
+  {
+    "entidad": "angioplastía",
+    "relacion": "fue",
+    "valor": "realizada con éxito"
+  },
+  {
+    "entidad": "OFDI",
+    "relacion": "confirmó que",
+    "valor": "la aterosclerosis es responsable de la disfunción tardía de un puente venoso"
+  },
+  {
+    "entidad": "placas ateroscleróticas",
+    "relacion": "pueden",
+    "valor": "romperse y promover oclusión trombótica"
+  },
+  {
+    "entidad": "angiografía",
+    "relacion": "tiene",
+    "valor": "grandes limitaciones en determinar la naturaleza de la obstrucción"
+  },
+  {
+    "entidad": "imágenes intravasculares",
+    "relacion": "son",
+    "valor": "complementarias para definir mecanismos patogénicos de obstrucción"
+  },
+  {
+    "entidad": "OFDI",
+    "relacion": "identifica",
+    "valor": "diferentes componentes de una placa aterosclerótica"
+  },
+  {
+    "entidad": "OFDI",
+    "relacion": "ha sido validado con",
+    "valor": "estudios de anatomía patológica"
+  },
+  {
+    "entidad": "angiografía",
+    "relacion": "debe ser complementada con",
+    "valor": "imágenes intracoronarias"
+  },
+  {
+    "entidad": "factor económico",
+    "relacion": "constituye",
+    "valor": "una limitación para el uso extensivo de OFDI"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "causa",
+    "valor": "shock séptico refractario"
+  },
+  {
+    "entidad": "shock séptico refractario",
+    "relacion": "afecta a",
+    "valor": "pacientes críticos"
+  },
+  {
+    "entidad": "terapia extracorpórea de purificación sanguínea",
+    "relacion": "utiliza",
+    "valor": "filtro oXiris®"
+  },
+  {
+    "entidad": "filtro oXiris®",
+    "relacion": "permite",
+    "valor": "terapia de reemplazo renal"
+  },
+  {
+    "entidad": "filtro oXiris®",
+    "relacion": "adsorbe",
+    "valor": "endotoxinas y citoquinas"
+  },
+  {
+    "entidad": "Pseudomona aeruginosa",
+    "relacion": "causa",
+    "valor": "sepsis"
+  },
+  {
+    "entidad": "sepsis",
+    "relacion": "es un",
+    "valor": "fenómeno asociado a COVID-19"
+  },
+  {
+    "entidad": "terapia de purificación sanguínea",
+    "relacion": "mejora",
+    "valor": "resultados clínicos"
+  },
+  {
+    "entidad": "hemofiltración venovenosa continua",
+    "relacion": "se inicia con",
+    "valor": "filtro oXiris®"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "desarrolla",
+    "valor": "shock séptico"
+  },
+  {
+    "entidad": "terapia de purificación sanguínea",
+    "relacion": "es una",
+    "valor": "herramienta para tratar shock séptico"
+  },
+  {
+    "entidad": "diabetes mellitus tipo 2",
+    "relacion": "es un",
+    "valor": "antecedente del paciente"
+  },
+  {
+    "entidad": "corticoides",
+    "relacion": "se administran por",
+    "valor": "protocolo RECOVERY"
+  },
+  {
+    "entidad": "Klebsiella pneumoniae",
+    "relacion": "causa",
+    "valor": "infección del torrente sanguíneo"
+  },
+  {
+    "entidad": "terapia de purificación sanguínea",
+    "relacion": "remueve",
+    "valor": "citoquinas y endotoxinas"
+  },
+  {
+    "entidad": "shock séptico",
+    "relacion": "contribuye a",
+    "valor": "incremento en la mortalidad en COVID-19"
+  },
+  {
+    "entidad": "terapia de purificación sanguínea",
+    "relacion": "debe ser considerada",
+    "valor": "en pacientes críticos con COVID-19"
+  }
+]

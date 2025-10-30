@@ -1,0 +1,267 @@
+[
+  {
+    "entidad": "vasculitis asociadas a anticuerpos anticitoplasma de neutrófilos",
+    "relacion": "son",
+    "valor": "enfermedades autoinmunes"
+  },
+  {
+    "entidad": "vasculitis asociadas a anticuerpos anticitoplasma de neutrófilos",
+    "relacion": "se caracterizan por",
+    "valor": "inflamación y destrucción de vasos sanguíneos"
+  },
+  {
+    "entidad": "anticuerpos anticitoplasma de neutrófilos",
+    "relacion": "son",
+    "valor": "anticuerpos circulantes"
+  },
+  {
+    "entidad": "granulomatosis con poliangeitis",
+    "relacion": "es un tipo de",
+    "valor": "vasculitis asociadas a anticuerpos anticitoplasma de neutrófilos"
+  },
+  {
+    "entidad": "poliangeítis microscópica",
+    "relacion": "es un tipo de",
+    "valor": "vasculitis asociadas a anticuerpos anticitoplasma de neutrófilos"
+  },
+  {
+    "entidad": "granulomatosis eosinofílica con poliangeitis",
+    "relacion": "es un tipo de",
+    "valor": "vasculitis asociadas a anticuerpos anticitoplasma de neutrófilos"
+  },
+  {
+    "entidad": "hemorragia alveolar difusa",
+    "relacion": "es",
+    "valor": "la manifestación pulmonar más grave de las VAA"
+  },
+  {
+    "entidad": "hemorragia alveolar difusa",
+    "relacion": "presenta",
+    "valor": "mortalidad de 10-25%"
+  },
+  {
+    "entidad": "diagnóstico de hemorragia alveolar difusa",
+    "relacion": "se confirma mediante",
+    "valor": "lavado broncoalveolar"
+  },
+  {
+    "entidad": "nódulos pulmonares",
+    "relacion": "se ven principalmente en",
+    "valor": "granulomatosis con poliangeitis"
+  },
+  {
+    "entidad": "asma bronquial",
+    "relacion": "es característico de",
+    "valor": "granulomatosis eosinofílica con poliangeitis"
+  },
+  {
+    "entidad": "enfermedad pulmonar intersticial",
+    "relacion": "es",
+    "valor": "una manifestación poco frecuente pero grave de las VAA"
+  },
+  {
+    "entidad": "enfermedad pulmonar intersticial",
+    "relacion": "ocurre generalmente en",
+    "valor": "pacientes mayores de 65 años"
+  },
+  {
+    "entidad": "tratamiento de hemorragia alveolar difusa",
+    "relacion": "está sujeto a",
+    "valor": "lineamientos de una enfermedad grave"
+  },
+  {
+    "entidad": "rituximab",
+    "relacion": "se recomienda para",
+    "valor": "mantención de la remisión en vasculitis"
+  },
+  {
+    "entidad": "ciclofosfamida",
+    "relacion": "se recomienda para",
+    "valor": "inducir tratamiento en casos graves"
+  },
+  {
+    "entidad": "mortalidad en pacientes con EPI",
+    "relacion": "es",
+    "valor": "4 veces mayor que en pacientes sin EPI"
+  },
+  {
+    "entidad": "bronquiectasias",
+    "relacion": "se describen en",
+    "valor": "hasta 30% de los pacientes con VAA"
+  },
+  {
+    "entidad": "tratamiento de EPI",
+    "relacion": "debe ser",
+    "valor": "individualizado"
+  },
+  {
+    "entidad": "tabaco",
+    "relacion": "favorece",
+    "valor": "la expresión de MPO en células epiteliales"
+  },
+  {
+    "entidad": "Insuficiencia Cardíaca Aguda",
+    "relacion": "asocia",
+    "valor": "mayor morbilidad y mortalidad"
+  },
+  {
+    "entidad": "terapia diurética",
+    "relacion": "es esencial para",
+    "valor": "guiar descongestión efectiva"
+  },
+  {
+    "entidad": "ecografía cardiotorácica",
+    "relacion": "es un método para",
+    "valor": "diagnosticar y monitorizar descongestión"
+  },
+  {
+    "entidad": "congestión",
+    "relacion": "se define como",
+    "valor": "expansión de volumen extracelular"
+  },
+  {
+    "entidad": "congestión hemodinámica",
+    "relacion": "depende de",
+    "valor": "aumento de presiones de llenado"
+  },
+  {
+    "entidad": "congestión intersticial",
+    "relacion": "es el desenlace de",
+    "valor": "congestión hemodinámica persistente"
+  },
+  {
+    "entidad": "monitorización",
+    "relacion": "debe integrar",
+    "valor": "componentes hemodinámicos e intersticiales"
+  },
+  {
+    "entidad": "diuréticos",
+    "relacion": "se utilizan para",
+    "valor": "iniciar el proceso de descongestión"
+  },
+  {
+    "entidad": "BNP",
+    "relacion": "se correlaciona con",
+    "valor": "aumento de presión de llenado"
+  },
+  {
+    "entidad": "CA125",
+    "relacion": "se relaciona con",
+    "valor": "parámetros clínicos de congestión"
+  },
+  {
+    "entidad": "impedanciometría pulmonar",
+    "relacion": "demuestra",
+    "valor": "reducción de hospitalizaciones"
+  },
+  {
+    "entidad": "sensor de presión de arteria pulmonar",
+    "relacion": "es un subrogante de",
+    "valor": "congestión hemodinámica"
+  },
+  {
+    "entidad": "monitorización multimodal",
+    "relacion": "se recomienda para",
+    "valor": "evitar interrupciones basadas en parámetros individuales"
+  },
+  {
+    "entidad": "ecografía de vena cava inferior",
+    "relacion": "se utiliza para",
+    "valor": "predecir presión de aurícula derecha"
+  },
+  {
+    "entidad": "Líneas B",
+    "relacion": "se visualizan como",
+    "valor": "artefactos ecográficos en congestión pulmonar"
+  },
+  {
+    "entidad": "protocolo CaTUS",
+    "relacion": "evalúa",
+    "valor": "uso de E/e`, VCI y US pulmonar"
+  },
+  {
+    "entidad": "monitorización remota",
+    "relacion": "puede ser",
+    "valor": "una alternativa atractiva"
+  },
+  {
+    "entidad": "rehospitalizaciones",
+    "relacion": "son generadas por",
+    "valor": "65% del costo anual de la enfermedad"
+  },
+  {
+    "entidad": "relación médico-paciente",
+    "relacion": "juega",
+    "valor": "un papel fundamental en la práctica profesional"
+  },
+  {
+    "entidad": "relación médico-paciente",
+    "relacion": "es",
+    "valor": "compleja y dinámica"
+  },
+  {
+    "entidad": "relación médico-paciente",
+    "relacion": "involucra",
+    "valor": "dimensiones informativas y afectivas"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "ha provocado",
+    "valor": "una reconfiguración de la relación médico-paciente"
+  },
+  {
+    "entidad": "investigación social",
+    "relacion": "se concentrará en",
+    "valor": "estudiar la resignificación de roles en la relación médico-paciente"
+  },
+  {
+    "entidad": "instrumentos de medición",
+    "relacion": "deben ser",
+    "valor": "desarrollados y refinados"
+  },
+  {
+    "entidad": "instrumentos de medición",
+    "relacion": "evalúan",
+    "valor": "la comunicación en la relación médico-paciente"
+  },
+  {
+    "entidad": "instrumentos en inglés",
+    "relacion": "fueron publicados en",
+    "valor": "revistas científicas anglosajonas"
+  },
+  {
+    "entidad": "instrumentos en español",
+    "relacion": "fueron publicados en",
+    "valor": "revistas científicas iberoamericanas"
+  },
+  {
+    "entidad": "investigaciones sobre la relación médico-paciente",
+    "relacion": "pueden ser",
+    "valor": "dificultadas por la producción excesiva de instrumentos"
+  },
+  {
+    "entidad": "dimensionalidad de la relación médico-paciente",
+    "relacion": "debe ser",
+    "valor": "confirmada y analizada"
+  },
+  {
+    "entidad": "instrumentos de medición",
+    "relacion": "deben reflejar",
+    "valor": "aspectos cognitivos y afectivos"
+  },
+  {
+    "entidad": "investigación en comunicación",
+    "relacion": "debe ser",
+    "valor": "multidimensional"
+  },
+  {
+    "entidad": "contextos iberoamericanos",
+    "relacion": "deben considerar",
+    "valor": "la diversidad cultural en la atención médica"
+  },
+  {
+    "entidad": "recomendaciones",
+    "relacion": "se organizan en",
+    "valor": "temas de investigación social, desarrollo de instrumentos y contexto iberoamericano"
+  }
+]

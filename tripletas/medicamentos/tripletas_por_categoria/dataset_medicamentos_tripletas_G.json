@@ -1,0 +1,5002 @@
+[
+  {
+    "entidad": "Gabapentina",
+    "relacion": "trata",
+    "valor": "convulsiones en personas con epilepsia"
+  },
+  {
+    "entidad": "Gabapentina",
+    "relacion": "trata",
+    "valor": "dolor de la neuralgia postherpética"
+  },
+  {
+    "entidad": "Gabapentina",
+    "relacion": "trata",
+    "valor": "síndrome de las piernas inquietas"
+  },
+  {
+    "entidad": "Gabapentina",
+    "relacion": "uso",
+    "valor": "tomar con un vaso lleno de agua, con o sin alimentos, tres veces al día"
+  },
+  {
+    "entidad": "Gabapentina",
+    "relacion": "uso",
+    "valor": "tableta de liberación prolongada (Horizant) se toma con alimentos una vez al día"
+  },
+  {
+    "entidad": "Gabapentina",
+    "relacion": "otro_uso",
+    "valor": "aliviar el dolor de la neuropatía diabética"
+  },
+  {
+    "entidad": "Gabapentina",
+    "relacion": "otro_uso",
+    "valor": "tratar y prevenir los bochornos en mujeres bajo tratamiento contra el cáncer de seno o menopausia"
+  },
+  {
+    "entidad": "Gabapentina",
+    "relacion": "precaucion",
+    "valor": "informar si es alérgico a la gabapentina o a otros medicamentos"
+  },
+  {
+    "entidad": "Gabapentina",
+    "relacion": "precaucion",
+    "valor": "consultar si está tomando antiácidos como Maalox o Mylanta"
+  },
+  {
+    "entidad": "Gabapentina",
+    "relacion": "precaucion",
+    "valor": "informar si tiene enfermedad pulmonar o renal"
+  },
+  {
+    "entidad": "Gabapentina",
+    "relacion": "precaucion",
+    "valor": "informar si está embarazada o amamantando"
+  },
+  {
+    "entidad": "Gabapentina",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta a menos que el médico lo indique"
+  },
+  {
+    "entidad": "Gabapentina",
+    "relacion": "olvido",
+    "valor": "tomar la dosis olvidada en cuanto se acuerde, pero no duplicar"
+  },
+  {
+    "entidad": "Gabapentina",
+    "relacion": "efecto_secundario",
+    "valor": "somnolencia"
+  },
+  {
+    "entidad": "Gabapentina",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio o debilidad"
+  },
+  {
+    "entidad": "Gabapentina",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Gabapentina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Gabapentina",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Gabapentina",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original, cerrado herméticamente y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Gabapentina",
+    "relacion": "almacenamiento",
+    "valor": "almacenar a temperatura ambiente, alejado del exceso de calor y humedad"
+  },
+  {
+    "entidad": "Gabapentina",
+    "relacion": "almacenamiento",
+    "valor": "guardar la solución oral en el refrigerador"
+  },
+  {
+    "entidad": "Gabapentina",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento o a los servicios de emergencia"
+  },
+  {
+    "entidad": "Gabapentina",
+    "relacion": "marca_comercial",
+    "valor": "Gralise"
+  },
+  {
+    "entidad": "Gabapentina",
+    "relacion": "marca_comercial",
+    "valor": "Horizant"
+  },
+  {
+    "entidad": "Gabapentina",
+    "relacion": "marca_comercial",
+    "valor": "Neurontin"
+  },
+  {
+    "entidad": "Galantamina",
+    "relacion": "trata",
+    "valor": "síntomas de la enfermedad de Alzheimer"
+  },
+  {
+    "entidad": "Galantamina",
+    "relacion": "uso",
+    "valor": "tableta, cápsula de liberación prolongada y solución para tomar por vía oral"
+  },
+  {
+    "entidad": "Galantamina",
+    "relacion": "se_administra_via",
+    "valor": "vía oral"
+  },
+  {
+    "entidad": "Galantamina",
+    "relacion": "otro_uso",
+    "valor": "otros usos según prescripción médica"
+  },
+  {
+    "entidad": "Galantamina",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos actuales"
+  },
+  {
+    "entidad": "Galantamina",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Galantamina",
+    "relacion": "olvido",
+    "valor": "tome la dosis omitida tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Galantamina",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Galantamina",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Galantamina",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Galantamina",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de apetito"
+  },
+  {
+    "entidad": "Galantamina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago"
+  },
+  {
+    "entidad": "Galantamina",
+    "relacion": "efecto_secundario",
+    "valor": "acidez estomacal"
+  },
+  {
+    "entidad": "Galantamina",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de peso"
+  },
+  {
+    "entidad": "Galantamina",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio extremo"
+  },
+  {
+    "entidad": "Galantamina",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Galantamina",
+    "relacion": "efecto_secundario",
+    "valor": "piel pálida"
+  },
+  {
+    "entidad": "Galantamina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Galantamina",
+    "relacion": "efecto_secundario",
+    "valor": "temblor incontrolable"
+  },
+  {
+    "entidad": "Galantamina",
+    "relacion": "efecto_secundario",
+    "valor": "depresión"
+  },
+  {
+    "entidad": "Galantamina",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para dormir"
+  },
+  {
+    "entidad": "Galantamina",
+    "relacion": "efecto_secundario",
+    "valor": "secreción nasal"
+  },
+  {
+    "entidad": "Galantamina",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para orinar"
+  },
+  {
+    "entidad": "Galantamina",
+    "relacion": "efecto_secundario",
+    "valor": "sangre en la orina"
+  },
+  {
+    "entidad": "Galantamina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor o ardor al orinar"
+  },
+  {
+    "entidad": "Galantamina",
+    "relacion": "efecto_secundario",
+    "valor": "convulsiones"
+  },
+  {
+    "entidad": "Galantamina",
+    "relacion": "efecto_secundario",
+    "valor": "ritmo cardíaco lento"
+  },
+  {
+    "entidad": "Galantamina",
+    "relacion": "efecto_secundario",
+    "valor": "desmayos"
+  },
+  {
+    "entidad": "Galantamina",
+    "relacion": "efecto_secundario",
+    "valor": "falta de aliento"
+  },
+  {
+    "entidad": "Galantamina",
+    "relacion": "efecto_secundario",
+    "valor": "heces negras"
+  },
+  {
+    "entidad": "Galantamina",
+    "relacion": "efecto_secundario",
+    "valor": "sangre en las heces"
+  },
+  {
+    "entidad": "Galantamina",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos con sangre"
+  },
+  {
+    "entidad": "Galantamina",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos con apariencia de café molido"
+  },
+  {
+    "entidad": "Galantamina",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original, cerrado herméticamente y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Galantamina",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente, lejos del calor y la humedad"
+  },
+  {
+    "entidad": "Galantamina",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Galantamina",
+    "relacion": "marca_comercial",
+    "valor": "Razadyne ®"
+  },
+  {
+    "entidad": "Galantamina",
+    "relacion": "marca_comercial",
+    "valor": "Razadyne ® ER"
+  },
+  {
+    "entidad": "Ganaxolona",
+    "relacion": "trata",
+    "valor": "convulsiones asociadas al trastorno por deficiencia de quinasa tipo 5 dependiente de ciclina (CDKL5)"
+  },
+  {
+    "entidad": "Ganaxolona",
+    "relacion": "uso",
+    "valor": "suspensión oral, tres veces al día con alimentos"
+  },
+  {
+    "entidad": "Ganaxolona",
+    "relacion": "se_administra_via",
+    "valor": "vía oral"
+  },
+  {
+    "entidad": "Ganaxolona",
+    "relacion": "otro_uso",
+    "valor": "puede ser recetado para otros usos"
+  },
+  {
+    "entidad": "Ganaxolona",
+    "relacion": "precaucion",
+    "valor": "informe a su médico si es alérgico a la ganaxolona o a otros medicamentos"
+  },
+  {
+    "entidad": "Ganaxolona",
+    "relacion": "precaucion",
+    "valor": "informe a su médico sobre el consumo de alcohol y drogas"
+  },
+  {
+    "entidad": "Ganaxolona",
+    "relacion": "precaucion",
+    "valor": "puede ocasionar somnolencia, no conduzca ni opere maquinaria"
+  },
+  {
+    "entidad": "Ganaxolona",
+    "relacion": "dieta",
+    "valor": "continúe con su dieta normal a menos que su médico indique lo contrario"
+  },
+  {
+    "entidad": "Ganaxolona",
+    "relacion": "olvido",
+    "valor": "tome la dosis que omitió tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Ganaxolona",
+    "relacion": "efecto_secundario",
+    "valor": "adormecimiento"
+  },
+  {
+    "entidad": "Ganaxolona",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio"
+  },
+  {
+    "entidad": "Ganaxolona",
+    "relacion": "efecto_secundario",
+    "valor": "babear"
+  },
+  {
+    "entidad": "Ganaxolona",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para caminar"
+  },
+  {
+    "entidad": "Ganaxolona",
+    "relacion": "efecto_secundario",
+    "valor": "fiebre, dolor de garganta, tos u otros síntomas parecidos a los de la gripe"
+  },
+  {
+    "entidad": "Ganaxolona",
+    "relacion": "efecto_secundario",
+    "valor": "secreción nasal, estornudos o congestión nasal"
+  },
+  {
+    "entidad": "Ganaxolona",
+    "relacion": "almacenamiento",
+    "valor": "mantenga en su envase, bien cerrado, en posición vertical y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Ganaxolona",
+    "relacion": "almacenamiento",
+    "valor": "guárdelo a temperatura ambiente y lejos del calor excesivo y la humedad"
+  },
+  {
+    "entidad": "Ganaxolona",
+    "relacion": "sobredosis",
+    "valor": "llame a la línea de ayuda de control de envenenamiento al 1-800-222-1222"
+  },
+  {
+    "entidad": "Ganaxolona",
+    "relacion": "marca_comercial",
+    "valor": "Ztalmy ®"
+  },
+  {
+    "entidad": "Ganciclovir oftálmico",
+    "relacion": "trata",
+    "valor": "queratitis herpética"
+  },
+  {
+    "entidad": "Ganciclovir oftálmico",
+    "relacion": "uso",
+    "valor": "aplicar una gota en los ojos afectados cinco veces al día"
+  },
+  {
+    "entidad": "Ganciclovir oftálmico",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Ganciclovir oftálmico",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos"
+  },
+  {
+    "entidad": "Ganciclovir oftálmico",
+    "relacion": "dieta",
+    "valor": "continuar con dieta normal a menos que se indique lo contrario"
+  },
+  {
+    "entidad": "Ganciclovir oftálmico",
+    "relacion": "olvido",
+    "valor": "aplicar la dosis omitida tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Ganciclovir oftálmico",
+    "relacion": "efecto_secundario",
+    "valor": "ojos rojos, hinchados, irritados, con picazón"
+  },
+  {
+    "entidad": "Ganciclovir oftálmico",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original, cerrado y a temperatura ambiente"
+  },
+  {
+    "entidad": "Ganciclovir oftálmico",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Ganciclovir oftálmico",
+    "relacion": "marca_comercial",
+    "valor": "Zirgan ®"
+  },
+  {
+    "entidad": "Gatifloxacina oftálmica",
+    "relacion": "trata",
+    "valor": "conjuntivitis bacteriana"
+  },
+  {
+    "entidad": "Gatifloxacina oftálmica",
+    "relacion": "uso",
+    "valor": "solución para ponerse en los ojos, cada 2 horas durante 2 días y luego 2 a 4 veces al día durante 5 días"
+  },
+  {
+    "entidad": "Gatifloxacina oftálmica",
+    "relacion": "otro_uso",
+    "valor": "otros usos según prescripción médica"
+  },
+  {
+    "entidad": "Gatifloxacina oftálmica",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias a gatifloxacina y otros antibióticos de quinolona"
+  },
+  {
+    "entidad": "Gatifloxacina oftálmica",
+    "relacion": "dieta",
+    "valor": "consultar sobre el consumo de café o bebidas con cafeína"
+  },
+  {
+    "entidad": "Gatifloxacina oftálmica",
+    "relacion": "olvido",
+    "valor": "aplicar la dosis olvidada tan pronto como lo recuerde, omitir si es casi hora de la siguiente dosis"
+  },
+  {
+    "entidad": "Gatifloxacina oftálmica",
+    "relacion": "efecto_secundario",
+    "valor": "enrojecimiento, irritación, picazón, visión borrosa, dolor de ojos, secreción ocular, párpados hinchados, dolor de cabeza, sabor desagradable, sarpullido, urticaria, dificultad para respirar"
+  },
+  {
+    "entidad": "Gatifloxacina oftálmica",
+    "relacion": "almacenamiento",
+    "valor": "mantener en empaque original, a temperatura ambiente, lejos del calor y la humedad"
+  },
+  {
+    "entidad": "Gatifloxacina oftálmica",
+    "relacion": "marca_comercial",
+    "valor": "Zymar"
+  },
+  {
+    "entidad": "Gatifloxacina oftálmica",
+    "relacion": "marca_comercial",
+    "valor": "Zymaxid"
+  },
+  {
+    "entidad": "Gefitinib",
+    "relacion": "trata",
+    "valor": "cáncer de pulmón de células no pequeñas que se ha esparcido a otras partes del cuerpo"
+  },
+  {
+    "entidad": "Gefitinib",
+    "relacion": "uso",
+    "valor": "tableta para tomar por vía oral, una vez al día"
+  },
+  {
+    "entidad": "Gefitinib",
+    "relacion": "se_administra_via",
+    "valor": "oral"
+  },
+  {
+    "entidad": "Gefitinib",
+    "relacion": "otro_uso",
+    "valor": "consultar con el médico o farmacéutico"
+  },
+  {
+    "entidad": "Gefitinib",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos actuales"
+  },
+  {
+    "entidad": "Gefitinib",
+    "relacion": "dieta",
+    "valor": "continuar con la dieta normal a menos que se indique lo contrario"
+  },
+  {
+    "entidad": "Gefitinib",
+    "relacion": "olvido",
+    "valor": "tomar la dosis omitida tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Gefitinib",
+    "relacion": "efecto_secundario",
+    "valor": "piel seca"
+  },
+  {
+    "entidad": "Gefitinib",
+    "relacion": "efecto_secundario",
+    "valor": "picazón"
+  },
+  {
+    "entidad": "Gefitinib",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Gefitinib",
+    "relacion": "efecto_secundario",
+    "valor": "acné"
+  },
+  {
+    "entidad": "Gefitinib",
+    "relacion": "efecto_secundario",
+    "valor": "aftas en la boca"
+  },
+  {
+    "entidad": "Gefitinib",
+    "relacion": "efecto_secundario",
+    "valor": "debilidad"
+  },
+  {
+    "entidad": "Gefitinib",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para respirar nueva o que empeora"
+  },
+  {
+    "entidad": "Gefitinib",
+    "relacion": "efecto_secundario",
+    "valor": "tos o fiebre"
+  },
+  {
+    "entidad": "Gefitinib",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea grave o continua"
+  },
+  {
+    "entidad": "Gefitinib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor abdominal intenso"
+  },
+  {
+    "entidad": "Gefitinib",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de apetito"
+  },
+  {
+    "entidad": "Gefitinib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor, enrojecimiento o irritación de ojos"
+  },
+  {
+    "entidad": "Gefitinib",
+    "relacion": "efecto_secundario",
+    "valor": "cambios en la visión"
+  },
+  {
+    "entidad": "Gefitinib",
+    "relacion": "efecto_secundario",
+    "valor": "ojos llorosos"
+  },
+  {
+    "entidad": "Gefitinib",
+    "relacion": "efecto_secundario",
+    "valor": "sensibilidad a la luz"
+  },
+  {
+    "entidad": "Gefitinib",
+    "relacion": "efecto_secundario",
+    "valor": "urticaria"
+  },
+  {
+    "entidad": "Gefitinib",
+    "relacion": "efecto_secundario",
+    "valor": "ampollas o descamación de la piel"
+  },
+  {
+    "entidad": "Gefitinib",
+    "relacion": "efecto_secundario",
+    "valor": "inflamación de los ojos, el rostro, los labios, la lengua, la garganta, los brazos, las manos, los pies, los tobillos o la parte inferior de las piernas"
+  },
+  {
+    "entidad": "Gefitinib",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Gefitinib",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Gefitinib",
+    "relacion": "efecto_secundario",
+    "valor": "coloración amarillenta en la piel y los ojos"
+  },
+  {
+    "entidad": "Gefitinib",
+    "relacion": "efecto_secundario",
+    "valor": "orina oscura"
+  },
+  {
+    "entidad": "Gefitinib",
+    "relacion": "efecto_secundario",
+    "valor": "heces pálidas"
+  },
+  {
+    "entidad": "Gefitinib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor o incomodidad en el área superior derecha del estómago"
+  },
+  {
+    "entidad": "Gefitinib",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, bien cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Gefitinib",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente y lejos del calor excesivo y la humedad"
+  },
+  {
+    "entidad": "Gefitinib",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento o a los servicios de emergencia"
+  },
+  {
+    "entidad": "Gel nasal de cianocobalamina",
+    "relacion": "trata",
+    "valor": "prevención de la falta de vitamina B 12"
+  },
+  {
+    "entidad": "Gel nasal de cianocobalamina",
+    "relacion": "uso",
+    "valor": "1 vez a la semana"
+  },
+  {
+    "entidad": "Gel nasal de cianocobalamina",
+    "relacion": "se_administra_via",
+    "valor": "nasal"
+  },
+  {
+    "entidad": "Gel nasal de cianocobalamina",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos actuales"
+  },
+  {
+    "entidad": "Gel nasal de cianocobalamina",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Gel nasal de cianocobalamina",
+    "relacion": "olvido",
+    "valor": "usar la dosis omitida tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Gel nasal de cianocobalamina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Gel nasal de cianocobalamina",
+    "relacion": "efecto_secundario",
+    "valor": "molestias estomacales"
+  },
+  {
+    "entidad": "Gel nasal de cianocobalamina",
+    "relacion": "efecto_secundario",
+    "valor": "congestión o secreción nasal"
+  },
+  {
+    "entidad": "Gel nasal de cianocobalamina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor en la lengua"
+  },
+  {
+    "entidad": "Gel nasal de cianocobalamina",
+    "relacion": "efecto_secundario",
+    "valor": "debilidad"
+  },
+  {
+    "entidad": "Gel nasal de cianocobalamina",
+    "relacion": "efecto_secundario",
+    "valor": "sangrado o moretones inusuales"
+  },
+  {
+    "entidad": "Gel nasal de cianocobalamina",
+    "relacion": "efecto_secundario",
+    "valor": "debilidad muscular, calambres o dolor"
+  },
+  {
+    "entidad": "Gel nasal de cianocobalamina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de piernas"
+  },
+  {
+    "entidad": "Gel nasal de cianocobalamina",
+    "relacion": "efecto_secundario",
+    "valor": "sed intensa"
+  },
+  {
+    "entidad": "Gel nasal de cianocobalamina",
+    "relacion": "efecto_secundario",
+    "valor": "micción frecuente"
+  },
+  {
+    "entidad": "Gel nasal de cianocobalamina",
+    "relacion": "efecto_secundario",
+    "valor": "confusión"
+  },
+  {
+    "entidad": "Gel nasal de cianocobalamina",
+    "relacion": "efecto_secundario",
+    "valor": "ardor u hormigueo en brazos, piernas, manos o pies"
+  },
+  {
+    "entidad": "Gel nasal de cianocobalamina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de garganta, fiebre, escalofríos u otros síntomas de infección"
+  },
+  {
+    "entidad": "Gel nasal de cianocobalamina",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Gel nasal de cianocobalamina",
+    "relacion": "efecto_secundario",
+    "valor": "urticaria"
+  },
+  {
+    "entidad": "Gel nasal de cianocobalamina",
+    "relacion": "efecto_secundario",
+    "valor": "picazón"
+  },
+  {
+    "entidad": "Gel nasal de cianocobalamina",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para respirar o tragar"
+  },
+  {
+    "entidad": "Gel nasal de cianocobalamina",
+    "relacion": "almacenamiento",
+    "valor": "mantener en posición vertical, bien cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Gel nasal de cianocobalamina",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Gel nasal de testosterona",
+    "relacion": "trata",
+    "valor": "niveles bajos o nulos de testosterona en hombres"
+  },
+  {
+    "entidad": "Gel nasal de testosterona",
+    "relacion": "uso",
+    "valor": "aplicar dentro de la nariz usando una bomba dispensadora, tres veces al día en cada fosa nasal"
+  },
+  {
+    "entidad": "Gel nasal de testosterona",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Gel nasal de testosterona",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos que se están tomando"
+  },
+  {
+    "entidad": "Gel nasal de testosterona",
+    "relacion": "precaucion",
+    "valor": "no usar en mujeres y niños"
+  },
+  {
+    "entidad": "Gel nasal de testosterona",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta a menos que lo indique el médico"
+  },
+  {
+    "entidad": "Gel nasal de testosterona",
+    "relacion": "olvido",
+    "valor": "aplicar la dosis olvidada tan pronto como se recuerde, omitir si es casi hora de la siguiente dosis"
+  },
+  {
+    "entidad": "Gel nasal de testosterona",
+    "relacion": "efecto_secundario",
+    "valor": "disminución en la cantidad de esperma"
+  },
+  {
+    "entidad": "Gel nasal de testosterona",
+    "relacion": "efecto_secundario",
+    "valor": "aumento del riesgo de cáncer de próstata"
+  },
+  {
+    "entidad": "Gel nasal de testosterona",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Gel nasal de testosterona",
+    "relacion": "efecto_secundario",
+    "valor": "tos"
+  },
+  {
+    "entidad": "Gel nasal de testosterona",
+    "relacion": "efecto_secundario",
+    "valor": "dolor en los senos nasales"
+  },
+  {
+    "entidad": "Gel nasal de testosterona",
+    "relacion": "efecto_secundario",
+    "valor": "cambios en el sentido del olfato"
+  },
+  {
+    "entidad": "Gel nasal de testosterona",
+    "relacion": "efecto_secundario",
+    "valor": "secreción nasal, congestión nasal, estornudos"
+  },
+  {
+    "entidad": "Gel nasal de testosterona",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para respirar"
+  },
+  {
+    "entidad": "Gel nasal de testosterona",
+    "relacion": "efecto_secundario",
+    "valor": "aumento de peso repentino"
+  },
+  {
+    "entidad": "Gel nasal de testosterona",
+    "relacion": "efecto_secundario",
+    "valor": "coloración amarillenta de la piel o los ojos"
+  },
+  {
+    "entidad": "Gel nasal de testosterona",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original, cerrado herméticamente y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Gel nasal de testosterona",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento o a los servicios de emergencia"
+  },
+  {
+    "entidad": "Gel nasal de testosterona",
+    "relacion": "marca_comercial",
+    "valor": "Natesto"
+  },
+  {
+    "entidad": "Gemfibrozil",
+    "relacion": "trata",
+    "valor": "reducción de colesterol y triglicéridos en sangre"
+  },
+  {
+    "entidad": "Gemfibrozil",
+    "relacion": "uso",
+    "valor": "tabletas para administrarse por vía oral, dos veces al día, 30 minutos antes de las comidas"
+  },
+  {
+    "entidad": "Gemfibrozil",
+    "relacion": "otro_uso",
+    "valor": "puede ser recetado para otros usos"
+  },
+  {
+    "entidad": "Gemfibrozil",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos que se están tomando"
+  },
+  {
+    "entidad": "Gemfibrozil",
+    "relacion": "dieta",
+    "valor": "dieta baja en grasa y colesterol"
+  },
+  {
+    "entidad": "Gemfibrozil",
+    "relacion": "olvido",
+    "valor": "tomar la dosis omitida tan pronto como lo recuerde, omitir si es casi hora de la siguiente dosis"
+  },
+  {
+    "entidad": "Gemfibrozil",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago"
+  },
+  {
+    "entidad": "Gemfibrozil",
+    "relacion": "efecto_secundario",
+    "valor": "acidez estomacal"
+  },
+  {
+    "entidad": "Gemfibrozil",
+    "relacion": "efecto_secundario",
+    "valor": "dolor, sensibilidad o debilidad muscular"
+  },
+  {
+    "entidad": "Gemfibrozil",
+    "relacion": "efecto_secundario",
+    "valor": "visión borrosa"
+  },
+  {
+    "entidad": "Gemfibrozil",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original, cerrado herméticamente, a temperatura ambiente y lejos de la luz y humedad"
+  },
+  {
+    "entidad": "Gemfibrozil",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento o a los servicios de emergencia"
+  },
+  {
+    "entidad": "Gemfibrozil",
+    "relacion": "marca_comercial",
+    "valor": "Lopid"
+  },
+  {
+    "entidad": "Gentamicina oftálmica",
+    "relacion": "trata",
+    "valor": "determinadas infecciones en los ojos"
+  },
+  {
+    "entidad": "Gentamicina oftálmica",
+    "relacion": "uso",
+    "valor": "solución para instilar en los ojos y pomada oftálmica"
+  },
+  {
+    "entidad": "Gentamicina oftálmica",
+    "relacion": "se_administra_via",
+    "valor": "instilación en los ojos"
+  },
+  {
+    "entidad": "Gentamicina oftálmica",
+    "relacion": "precaucion",
+    "valor": "informe a su médico si es alérgico a la gentamicina o a otros antibióticos"
+  },
+  {
+    "entidad": "Gentamicina oftálmica",
+    "relacion": "precaucion",
+    "valor": "no use lentes de contacto mientras tenga una infección ocular"
+  },
+  {
+    "entidad": "Gentamicina oftálmica",
+    "relacion": "olvido",
+    "valor": "aplíquese la dosis que olvidó tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Gentamicina oftálmica",
+    "relacion": "efecto_secundario",
+    "valor": "irritación, ardor o escozor en los ojos"
+  },
+  {
+    "entidad": "Gentamicina oftálmica",
+    "relacion": "efecto_secundario",
+    "valor": "hinchazón alrededor de los ojos"
+  },
+  {
+    "entidad": "Gentamicina oftálmica",
+    "relacion": "almacenamiento",
+    "valor": "mantenga en su empaque original, bien cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Gentamicina oftálmica",
+    "relacion": "marca_comercial",
+    "valor": "Garamycin ® Ophthalmic"
+  },
+  {
+    "entidad": "Gentamicina oftálmica",
+    "relacion": "marca_comercial",
+    "valor": "Genoptic ®"
+  },
+  {
+    "entidad": "Gentamicina oftálmica",
+    "relacion": "marca_comercial",
+    "valor": "Gentacidin ®"
+  },
+  {
+    "entidad": "Gentamicina oftálmica",
+    "relacion": "marca_comercial",
+    "valor": "Gentafair ®"
+  },
+  {
+    "entidad": "Gentamicina oftálmica",
+    "relacion": "marca_comercial",
+    "valor": "Gentak ®"
+  },
+  {
+    "entidad": "Gentamicina oftálmica",
+    "relacion": "marca_comercial",
+    "valor": "Gentasol ®"
+  },
+  {
+    "entidad": "Gentamicina oftálmica",
+    "relacion": "marca_comercial",
+    "valor": "Ocu-Mycin ®"
+  },
+  {
+    "entidad": "Gentamicina oftálmica",
+    "relacion": "marca_comercial",
+    "valor": "Pred-G ® (contiene gentamicina y prednisolona)"
+  },
+  {
+    "entidad": "Gentamicina tópica",
+    "relacion": "trata",
+    "valor": "infecciones en la piel causadas por ciertas bacterias"
+  },
+  {
+    "entidad": "Gentamicina tópica",
+    "relacion": "uso",
+    "valor": "aplicarse en la piel de tres a cuatro veces al día"
+  },
+  {
+    "entidad": "Gentamicina tópica",
+    "relacion": "se_administra_via",
+    "valor": "tópica"
+  },
+  {
+    "entidad": "Gentamicina tópica",
+    "relacion": "otro_uso",
+    "valor": "preguntar al médico o farmacéutico"
+  },
+  {
+    "entidad": "Gentamicina tópica",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias a gentamicina y otros antibióticos aminoglucósidos"
+  },
+  {
+    "entidad": "Gentamicina tópica",
+    "relacion": "dieta",
+    "valor": "continuar con la dieta normal a menos que se indique lo contrario"
+  },
+  {
+    "entidad": "Gentamicina tópica",
+    "relacion": "olvido",
+    "valor": "aplicar la dosis omitida tan pronto como se recuerde"
+  },
+  {
+    "entidad": "Gentamicina tópica",
+    "relacion": "efecto_secundario",
+    "valor": "enrojecimiento o picazón en la piel"
+  },
+  {
+    "entidad": "Gentamicina tópica",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original, cerrado herméticamente y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Gentamicina tópica",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Gentamicina tópica",
+    "relacion": "marca_comercial",
+    "valor": "Garamycin ®"
+  },
+  {
+    "entidad": "Gilteritinib",
+    "relacion": "contraindicado_en",
+    "valor": "síndrome de diferenciación"
+  },
+  {
+    "entidad": "Gilteritinib",
+    "relacion": "trata",
+    "valor": "leucemia mieloide aguda (LMA) que ha empeorado o regresado"
+  },
+  {
+    "entidad": "Gilteritinib",
+    "relacion": "uso",
+    "valor": "tabletas para tomar por vía oral una vez al día"
+  },
+  {
+    "entidad": "Gilteritinib",
+    "relacion": "se_administra_via",
+    "valor": "oral"
+  },
+  {
+    "entidad": "Gilteritinib",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos"
+  },
+  {
+    "entidad": "Gilteritinib",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Gilteritinib",
+    "relacion": "olvido",
+    "valor": "tomar la dosis omitida tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Gilteritinib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de articulaciones o músculos"
+  },
+  {
+    "entidad": "Gilteritinib",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio extremo"
+  },
+  {
+    "entidad": "Gilteritinib",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Gilteritinib",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Gilteritinib",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Gilteritinib",
+    "relacion": "efecto_secundario",
+    "valor": "aftas en la boca"
+  },
+  {
+    "entidad": "Gilteritinib",
+    "relacion": "efecto_secundario",
+    "valor": "cambios en la capacidad para degustar los alimentos"
+  },
+  {
+    "entidad": "Gilteritinib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Gilteritinib",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de apetito"
+  },
+  {
+    "entidad": "Gilteritinib",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para conciliar el sueño"
+  },
+  {
+    "entidad": "Gilteritinib",
+    "relacion": "efecto_secundario",
+    "valor": "convulsiones"
+  },
+  {
+    "entidad": "Gilteritinib",
+    "relacion": "efecto_secundario",
+    "valor": "ritmo cardiaco rápido o lento"
+  },
+  {
+    "entidad": "Gilteritinib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor continuo en el estómago"
+  },
+  {
+    "entidad": "Gilteritinib",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Gilteritinib",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Gilteritinib",
+    "relacion": "marca_comercial",
+    "valor": "Xospata"
+  },
+  {
+    "entidad": "Glecaprevir y pibrentasvir",
+    "relacion": "contraindicado_en",
+    "valor": "infección por hepatitis B"
+  },
+  {
+    "entidad": "Glecaprevir y pibrentasvir",
+    "relacion": "trata",
+    "valor": "infección de hepatitis C crónica"
+  },
+  {
+    "entidad": "Glecaprevir y pibrentasvir",
+    "relacion": "uso",
+    "valor": "tableta o gránulos por vía oral con alimentos una vez al día"
+  },
+  {
+    "entidad": "Glecaprevir y pibrentasvir",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Glecaprevir y pibrentasvir",
+    "relacion": "precaucion",
+    "valor": "informar alergias y medicamentos actuales"
+  },
+  {
+    "entidad": "Glecaprevir y pibrentasvir",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Glecaprevir y pibrentasvir",
+    "relacion": "olvido",
+    "valor": "tomar la dosis olvidada si es dentro de 18 horas"
+  },
+  {
+    "entidad": "Glecaprevir y pibrentasvir",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Glecaprevir y pibrentasvir",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio"
+  },
+  {
+    "entidad": "Glecaprevir y pibrentasvir",
+    "relacion": "efecto_secundario",
+    "valor": "debilidad"
+  },
+  {
+    "entidad": "Glecaprevir y pibrentasvir",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Glecaprevir y pibrentasvir",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Glecaprevir y pibrentasvir",
+    "relacion": "efecto_secundario",
+    "valor": "picazón"
+  },
+  {
+    "entidad": "Glecaprevir y pibrentasvir",
+    "relacion": "efecto_secundario",
+    "valor": "adormecimiento"
+  },
+  {
+    "entidad": "Glecaprevir y pibrentasvir",
+    "relacion": "efecto_secundario",
+    "valor": "confusión"
+  },
+  {
+    "entidad": "Glecaprevir y pibrentasvir",
+    "relacion": "efecto_secundario",
+    "valor": "inflamación de la zona del estómago"
+  },
+  {
+    "entidad": "Glecaprevir y pibrentasvir",
+    "relacion": "efecto_secundario",
+    "valor": "vomitar sangre"
+  },
+  {
+    "entidad": "Glecaprevir y pibrentasvir",
+    "relacion": "efecto_secundario",
+    "valor": "heces oscuras"
+  },
+  {
+    "entidad": "Glecaprevir y pibrentasvir",
+    "relacion": "almacenamiento",
+    "valor": "mantener en empaque original, a temperatura ambiente"
+  },
+  {
+    "entidad": "Glecaprevir y pibrentasvir",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Glecaprevir y pibrentasvir",
+    "relacion": "marca_comercial",
+    "valor": "Mavyret"
+  },
+  {
+    "entidad": "Gliburida y metformina",
+    "relacion": "contraindicado_en",
+    "valor": "enfermedad renal"
+  },
+  {
+    "entidad": "Gliburida y metformina",
+    "relacion": "contraindicado_en",
+    "valor": "más de 65 años"
+  },
+  {
+    "entidad": "Gliburida y metformina",
+    "relacion": "contraindicado_en",
+    "valor": "ataque cardíaco"
+  },
+  {
+    "entidad": "Gliburida y metformina",
+    "relacion": "contraindicado_en",
+    "valor": "accidente cerebrovascular"
+  },
+  {
+    "entidad": "Gliburida y metformina",
+    "relacion": "contraindicado_en",
+    "valor": "cetoacidosis diabética"
+  },
+  {
+    "entidad": "Gliburida y metformina",
+    "relacion": "contraindicado_en",
+    "valor": "coma"
+  },
+  {
+    "entidad": "Gliburida y metformina",
+    "relacion": "contraindicado_en",
+    "valor": "enfermedad cardíaca"
+  },
+  {
+    "entidad": "Gliburida y metformina",
+    "relacion": "contraindicado_en",
+    "valor": "enfermedad hepática"
+  },
+  {
+    "entidad": "Gliburida y metformina",
+    "relacion": "trata",
+    "valor": "diabetes tipo 2"
+  },
+  {
+    "entidad": "Gliburida y metformina",
+    "relacion": "uso",
+    "valor": "tomar de una a dos veces al día con las comidas"
+  },
+  {
+    "entidad": "Gliburida y metformina",
+    "relacion": "se_administra_via",
+    "valor": "vía oral"
+  },
+  {
+    "entidad": "Gliburida y metformina",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Gliburida y metformina",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias a gliburida o metformina"
+  },
+  {
+    "entidad": "Gliburida y metformina",
+    "relacion": "precaucion",
+    "valor": "informar sobre medicamentos que se están tomando"
+  },
+  {
+    "entidad": "Gliburida y metformina",
+    "relacion": "precaucion",
+    "valor": "informar sobre deficiencia de G6PD"
+  },
+  {
+    "entidad": "Gliburida y metformina",
+    "relacion": "precaucion",
+    "valor": "informar sobre trastornos hormonales"
+  },
+  {
+    "entidad": "Gliburida y metformina",
+    "relacion": "precaucion",
+    "valor": "informar sobre embarazo o lactancia"
+  },
+  {
+    "entidad": "Gliburida y metformina",
+    "relacion": "dieta",
+    "valor": "seguir una dieta saludable"
+  },
+  {
+    "entidad": "Gliburida y metformina",
+    "relacion": "olvido",
+    "valor": "tomar la dosis olvidada tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Gliburida y metformina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago"
+  },
+  {
+    "entidad": "Gliburida y metformina",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Gliburida y metformina",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Gliburida y metformina",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Gliburida y metformina",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Gliburida y metformina",
+    "relacion": "almacenamiento",
+    "valor": "mantener en envase original, cerrado y a temperatura ambiente"
+  },
+  {
+    "entidad": "Gliburida y metformina",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Gliburida y metformina",
+    "relacion": "marca_comercial",
+    "valor": "Glucovance"
+  },
+  {
+    "entidad": "Glicopirronio tópico",
+    "relacion": "trata",
+    "valor": "sudoración excesiva de las axilas en adultos y niños mayores de 9 años"
+  },
+  {
+    "entidad": "Glicopirronio tópico",
+    "relacion": "uso",
+    "valor": "aplicar en la piel de la axila una vez al día"
+  },
+  {
+    "entidad": "Glicopirronio tópico",
+    "relacion": "se_administra_via",
+    "valor": "paño medicado humedecido"
+  },
+  {
+    "entidad": "Glicopirronio tópico",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Glicopirronio tópico",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos"
+  },
+  {
+    "entidad": "Glicopirronio tópico",
+    "relacion": "precaucion",
+    "valor": "no usar cerca de fuentes de calor o llamas abiertas"
+  },
+  {
+    "entidad": "Glicopirronio tópico",
+    "relacion": "dieta",
+    "valor": "continuar con la dieta normal a menos que se indique lo contrario"
+  },
+  {
+    "entidad": "Glicopirronio tópico",
+    "relacion": "olvido",
+    "valor": "aplicar la dosis omitida tan pronto como se recuerde"
+  },
+  {
+    "entidad": "Glicopirronio tópico",
+    "relacion": "efecto_secundario",
+    "valor": "sequedad de boca, nariz, garganta, ojos o piel"
+  },
+  {
+    "entidad": "Glicopirronio tópico",
+    "relacion": "efecto_secundario",
+    "valor": "pupilas dilatadas"
+  },
+  {
+    "entidad": "Glicopirronio tópico",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de garganta"
+  },
+  {
+    "entidad": "Glicopirronio tópico",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Glicopirronio tópico",
+    "relacion": "efecto_secundario",
+    "valor": "ardor, escozor, picazón o enrojecimiento en la zona de la axila"
+  },
+  {
+    "entidad": "Glicopirronio tópico",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Glicopirronio tópico",
+    "relacion": "efecto_secundario",
+    "valor": "orinar con frecuencia o dificultad para orinar"
+  },
+  {
+    "entidad": "Glicopirronio tópico",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original, bien cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Glicopirronio tópico",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente y lejos de la luz, calor y humedad"
+  },
+  {
+    "entidad": "Glicopirronio tópico",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Glicopirronio tópico",
+    "relacion": "marca_comercial",
+    "valor": "Qbrexza"
+  },
+  {
+    "entidad": "Glipizida",
+    "relacion": "trata",
+    "valor": "diabetes tipo 2"
+  },
+  {
+    "entidad": "Glipizida",
+    "relacion": "contraindicado_en",
+    "valor": "diabetes tipo 1"
+  },
+  {
+    "entidad": "Glipizida",
+    "relacion": "contraindicado_en",
+    "valor": "cetoacidosis diabética"
+  },
+  {
+    "entidad": "Glipizida",
+    "relacion": "uso",
+    "valor": "tomar tabletas comunes 30 minutos antes del desayuno o las comidas"
+  },
+  {
+    "entidad": "Glipizida",
+    "relacion": "uso",
+    "valor": "tomar tabletas de liberación prolongada una vez al día con el desayuno"
+  },
+  {
+    "entidad": "Glipizida",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias a glipizida o ingredientes"
+  },
+  {
+    "entidad": "Glipizida",
+    "relacion": "precaucion",
+    "valor": "informar sobre otros medicamentos que se están tomando"
+  },
+  {
+    "entidad": "Glipizida",
+    "relacion": "precaucion",
+    "valor": "informar si padece deficiencia de G6PD o trastornos hormonales"
+  },
+  {
+    "entidad": "Glipizida",
+    "relacion": "precaucion",
+    "valor": "informar si está embarazada o amamantando"
+  },
+  {
+    "entidad": "Glipizida",
+    "relacion": "dieta",
+    "valor": "seguir recomendaciones de dieta y ejercicio del médico"
+  },
+  {
+    "entidad": "Glipizida",
+    "relacion": "olvido",
+    "valor": "tomar la dosis omitida tan pronto como se recuerde"
+  },
+  {
+    "entidad": "Glipizida",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Glipizida",
+    "relacion": "efecto_secundario",
+    "valor": "gases"
+  },
+  {
+    "entidad": "Glipizida",
+    "relacion": "efecto_secundario",
+    "valor": "sensación de nerviosismo"
+  },
+  {
+    "entidad": "Glipizida",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Glipizida",
+    "relacion": "efecto_secundario",
+    "valor": "temblor incontrolable"
+  },
+  {
+    "entidad": "Glipizida",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Glipizida",
+    "relacion": "efecto_secundario",
+    "valor": "urticaria"
+  },
+  {
+    "entidad": "Glipizida",
+    "relacion": "efecto_secundario",
+    "valor": "coloración amarillenta en la piel y ojos"
+  },
+  {
+    "entidad": "Glipizida",
+    "relacion": "almacenamiento",
+    "valor": "mantener en envase original, cerrado y a temperatura ambiente"
+  },
+  {
+    "entidad": "Glipizida",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Glipizida",
+    "relacion": "marca_comercial",
+    "valor": "Glucotrol"
+  },
+  {
+    "entidad": "Glipizida",
+    "relacion": "marca_comercial",
+    "valor": "Glucotrol XL"
+  },
+  {
+    "entidad": "Glipizida",
+    "relacion": "otro_uso",
+    "valor": "otros usos a consultar con el médico"
+  },
+  {
+    "entidad": "Glucarpidasa",
+    "relacion": "trata",
+    "valor": "prevenir los efectos perjudiciales del metotrexato en pacientes con enfermedad renal que reciben metotrexato para tratar ciertos tipos de cáncer"
+  },
+  {
+    "entidad": "Glucarpidasa",
+    "relacion": "uso",
+    "valor": "en polvo que se mezcla con líquido y se inyecta por vía intravenosa"
+  },
+  {
+    "entidad": "Glucarpidasa",
+    "relacion": "se_administra_via",
+    "valor": "intravenosa"
+  },
+  {
+    "entidad": "Glucarpidasa",
+    "relacion": "otro_uso",
+    "valor": "a veces se receta para otros usos"
+  },
+  {
+    "entidad": "Glucarpidasa",
+    "relacion": "precaucion",
+    "valor": "informar a su médico si es alérgico a la glucarpidasa o a otros medicamentos"
+  },
+  {
+    "entidad": "Glucarpidasa",
+    "relacion": "precaucion",
+    "valor": "informar sobre otros medicamentos, vitaminas y suplementos que toma"
+  },
+  {
+    "entidad": "Glucarpidasa",
+    "relacion": "precaucion",
+    "valor": "si está recibiendo leucovorina, administrarse al menos 2 horas antes o después"
+  },
+  {
+    "entidad": "Glucarpidasa",
+    "relacion": "precaucion",
+    "valor": "informar si está embarazada o amamantando"
+  },
+  {
+    "entidad": "Glucarpidasa",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta a menos que su médico lo indique"
+  },
+  {
+    "entidad": "Glucarpidasa",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Glucarpidasa",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Glucarpidasa",
+    "relacion": "efecto_secundario",
+    "valor": "fiebre"
+  },
+  {
+    "entidad": "Glucarpidasa",
+    "relacion": "efecto_secundario",
+    "valor": "escalofríos"
+  },
+  {
+    "entidad": "Glucarpidasa",
+    "relacion": "efecto_secundario",
+    "valor": "enrojecimiento o sensación de calor"
+  },
+  {
+    "entidad": "Glucarpidasa",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Glucarpidasa",
+    "relacion": "efecto_secundario",
+    "valor": "urticaria"
+  },
+  {
+    "entidad": "Glucarpidasa",
+    "relacion": "efecto_secundario",
+    "valor": "picazón"
+  },
+  {
+    "entidad": "Glucarpidasa",
+    "relacion": "efecto_secundario",
+    "valor": "opresión en la garganta o dificultad para respirar"
+  },
+  {
+    "entidad": "Glucarpidasa",
+    "relacion": "efecto_secundario",
+    "valor": "sensación de adormecimiento, hormigueo, ardor, pinchazos o que algo le camina por la piel"
+  },
+  {
+    "entidad": "Glucarpidasa",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Glucarpidasa",
+    "relacion": "marca_comercial",
+    "valor": "Voraxaze"
+  },
+  {
+    "entidad": "Goma de mascar de nicotina",
+    "relacion": "trata",
+    "valor": "ayudar a dejar de fumar cigarrillos"
+  },
+  {
+    "entidad": "Goma de mascar de nicotina",
+    "relacion": "uso",
+    "valor": "masticar por vía oral, no tragar"
+  },
+  {
+    "entidad": "Goma de mascar de nicotina",
+    "relacion": "se_administra_via",
+    "valor": "oral"
+  },
+  {
+    "entidad": "Goma de mascar de nicotina",
+    "relacion": "precaucion",
+    "valor": "informar a su médico sobre otros medicamentos y condiciones de salud"
+  },
+  {
+    "entidad": "Goma de mascar de nicotina",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Goma de mascar de nicotina",
+    "relacion": "olvido",
+    "valor": "usar la dosis omitida tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Goma de mascar de nicotina",
+    "relacion": "efecto_secundario",
+    "valor": "problemas en la boca, los dientes o la mandíbula"
+  },
+  {
+    "entidad": "Goma de mascar de nicotina",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Goma de mascar de nicotina",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Goma de mascar de nicotina",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Goma de mascar de nicotina",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Goma de mascar de nicotina",
+    "relacion": "efecto_secundario",
+    "valor": "debilidad"
+  },
+  {
+    "entidad": "Goma de mascar de nicotina",
+    "relacion": "efecto_secundario",
+    "valor": "ritmo cardíaco rápido, fuerte o irregular"
+  },
+  {
+    "entidad": "Goma de mascar de nicotina",
+    "relacion": "efecto_secundario",
+    "valor": "falta de aliento"
+  },
+  {
+    "entidad": "Goma de mascar de nicotina",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Goma de mascar de nicotina",
+    "relacion": "efecto_secundario",
+    "valor": "ampollas en la boca"
+  },
+  {
+    "entidad": "Goma de mascar de nicotina",
+    "relacion": "almacenamiento",
+    "valor": "mantener en el envase original, cerrado y fuera del alcance de niños"
+  },
+  {
+    "entidad": "Goma de mascar de nicotina",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Goma de mascar de nicotina",
+    "relacion": "marca_comercial",
+    "valor": "Nicorette ® Goma de mascar"
+  },
+  {
+    "entidad": "Goma de mascar de nicotina",
+    "relacion": "marca_comercial",
+    "valor": "Thrive ® Goma de mascar"
+  },
+  {
+    "entidad": "Granisetrón",
+    "relacion": "trata",
+    "valor": "náuseas y vómitos causados por quimioterapia y radioterapia"
+  },
+  {
+    "entidad": "Granisetrón",
+    "relacion": "uso",
+    "valor": "tableta para tomar por vía oral, 1 hora antes de la quimioterapia o radioterapia"
+  },
+  {
+    "entidad": "Granisetrón",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Granisetrón",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos actuales"
+  },
+  {
+    "entidad": "Granisetrón",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta a menos que lo indique el médico"
+  },
+  {
+    "entidad": "Granisetrón",
+    "relacion": "olvido",
+    "valor": "no se debe tomar en una base regular, seguir instrucciones del médico"
+  },
+  {
+    "entidad": "Granisetrón",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Granisetrón",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago"
+  },
+  {
+    "entidad": "Granisetrón",
+    "relacion": "efecto_secundario",
+    "valor": "acidez estomacal"
+  },
+  {
+    "entidad": "Granisetrón",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Granisetrón",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para conciliar el sueño"
+  },
+  {
+    "entidad": "Granisetrón",
+    "relacion": "efecto_secundario",
+    "valor": "urticaria"
+  },
+  {
+    "entidad": "Granisetrón",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Granisetrón",
+    "relacion": "efecto_secundario",
+    "valor": "picazón"
+  },
+  {
+    "entidad": "Granisetrón",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para respirar"
+  },
+  {
+    "entidad": "Granisetrón",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Granisetrón",
+    "relacion": "almacenamiento",
+    "valor": "mantener en empaque original, a temperatura ambiente, lejos del calor y humedad"
+  },
+  {
+    "entidad": "Granisetrón",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento o servicios de emergencia"
+  },
+  {
+    "entidad": "Granisetrón",
+    "relacion": "marca_comercial",
+    "valor": "Kytril"
+  },
+  {
+    "entidad": "Guanabenz",
+    "relacion": "trata",
+    "valor": "presión arterial alta"
+  },
+  {
+    "entidad": "Guanabenz",
+    "relacion": "uso",
+    "valor": "tabletas para administrarse por vía oral, generalmente dos veces al día"
+  },
+  {
+    "entidad": "Guanabenz",
+    "relacion": "otro_uso",
+    "valor": "otros usos según prescripción médica"
+  },
+  {
+    "entidad": "Guanabenz",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos"
+  },
+  {
+    "entidad": "Guanabenz",
+    "relacion": "dieta",
+    "valor": "dieta baja en sal o sodio"
+  },
+  {
+    "entidad": "Guanabenz",
+    "relacion": "olvido",
+    "valor": "tomar la dosis omitida tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Guanabenz",
+    "relacion": "efecto_secundario",
+    "valor": "boca seca"
+  },
+  {
+    "entidad": "Guanabenz",
+    "relacion": "efecto_secundario",
+    "valor": "somnolencia"
+  },
+  {
+    "entidad": "Guanabenz",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Guanabenz",
+    "relacion": "efecto_secundario",
+    "valor": "debilidad"
+  },
+  {
+    "entidad": "Guanabenz",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Guanabenz",
+    "relacion": "efecto_secundario",
+    "valor": "menor capacidad sexual"
+  },
+  {
+    "entidad": "Guanabenz",
+    "relacion": "efecto_secundario",
+    "valor": "molestias estomacales"
+  },
+  {
+    "entidad": "Guanabenz",
+    "relacion": "efecto_secundario",
+    "valor": "desmayos"
+  },
+  {
+    "entidad": "Guanabenz",
+    "relacion": "efecto_secundario",
+    "valor": "aumento o disminución de los latidos del corazón"
+  },
+  {
+    "entidad": "Guanabenz",
+    "relacion": "efecto_secundario",
+    "valor": "ritmo cardíaco irregular"
+  },
+  {
+    "entidad": "Guanabenz",
+    "relacion": "efecto_secundario",
+    "valor": "tobillos o pies hinchados"
+  },
+  {
+    "entidad": "Guanabenz",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original, cerrado herméticamente y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Guanabenz",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Guanabenz",
+    "relacion": "marca_comercial",
+    "valor": "Wytensin"
+  },
+  {
+    "entidad": "Guanfacina",
+    "relacion": "trata",
+    "valor": "presión arterial alta"
+  },
+  {
+    "entidad": "Guanfacina",
+    "relacion": "trata",
+    "valor": "trastorno de déficit de atención con hiperactividad (TDAH)"
+  },
+  {
+    "entidad": "Guanfacina",
+    "relacion": "uso",
+    "valor": "tomar por vía oral una vez al día a la hora de acostarse"
+  },
+  {
+    "entidad": "Guanfacina",
+    "relacion": "se_administra_via",
+    "valor": "oral"
+  },
+  {
+    "entidad": "Guanfacina",
+    "relacion": "precaucion",
+    "valor": "informar si es alérgico a la guanfacina o a otros medicamentos"
+  },
+  {
+    "entidad": "Guanfacina",
+    "relacion": "precaucion",
+    "valor": "no tomar ambos productos de guanfacina al mismo tiempo"
+  },
+  {
+    "entidad": "Guanfacina",
+    "relacion": "precaucion",
+    "valor": "informar sobre otros medicamentos que se están tomando"
+  },
+  {
+    "entidad": "Guanfacina",
+    "relacion": "precaucion",
+    "valor": "informar si ha tenido desmayos o problemas cardíacos"
+  },
+  {
+    "entidad": "Guanfacina",
+    "relacion": "precaucion",
+    "valor": "no conducir ni operar maquinaria hasta saber cómo le afecta"
+  },
+  {
+    "entidad": "Guanfacina",
+    "relacion": "dieta",
+    "valor": "consultar sobre el consumo de toronja o jugo de toronja"
+  },
+  {
+    "entidad": "Guanfacina",
+    "relacion": "olvido",
+    "valor": "tomar la dosis olvidada tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Guanfacina",
+    "relacion": "efecto_secundario",
+    "valor": "boca seca"
+  },
+  {
+    "entidad": "Guanfacina",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio"
+  },
+  {
+    "entidad": "Guanfacina",
+    "relacion": "efecto_secundario",
+    "valor": "debilidad"
+  },
+  {
+    "entidad": "Guanfacina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Guanfacina",
+    "relacion": "efecto_secundario",
+    "valor": "irritabilidad"
+  },
+  {
+    "entidad": "Guanfacina",
+    "relacion": "efecto_secundario",
+    "valor": "menor capacidad sexual"
+  },
+  {
+    "entidad": "Guanfacina",
+    "relacion": "efecto_secundario",
+    "valor": "disminución del apetito"
+  },
+  {
+    "entidad": "Guanfacina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago"
+  },
+  {
+    "entidad": "Guanfacina",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Guanfacina",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Guanfacina",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Guanfacina",
+    "relacion": "efecto_secundario",
+    "valor": "desmayos"
+  },
+  {
+    "entidad": "Guanfacina",
+    "relacion": "efecto_secundario",
+    "valor": "visión borrosa"
+  },
+  {
+    "entidad": "Guanfacina",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Guanfacina",
+    "relacion": "efecto_secundario",
+    "valor": "ritmo cardíaco lento"
+  },
+  {
+    "entidad": "Guanfacina",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, bien cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Guanfacina",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente y lejos del calor excesivo y la humedad"
+  },
+  {
+    "entidad": "Guanfacina",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Guanfacina",
+    "relacion": "marca_comercial",
+    "valor": "Intuniv"
+  },
+  {
+    "entidad": "Guanfacina",
+    "relacion": "marca_comercial",
+    "valor": "Tenex"
+  },
+  {
+    "entidad": "Imatinib",
+    "relacion": "trata",
+    "valor": "ciertos tipos de leucemia"
+  },
+  {
+    "entidad": "Imatinib",
+    "relacion": "trata",
+    "valor": "ciertos tipos de tumores del estroma gastrointestinal (GIST)"
+  },
+  {
+    "entidad": "Imatinib",
+    "relacion": "trata",
+    "valor": "ciertos tipos de dermatofibrosarcoma protuberante"
+  },
+  {
+    "entidad": "Imatinib",
+    "relacion": "uso",
+    "valor": "tomar por vía oral con una comida y un vaso de agua grande, una o dos veces al día"
+  },
+  {
+    "entidad": "Imatinib",
+    "relacion": "se_administra_via",
+    "valor": "vía oral"
+  },
+  {
+    "entidad": "Imatinib",
+    "relacion": "otro_uso",
+    "valor": "a veces se receta para otros usos"
+  },
+  {
+    "entidad": "Imatinib",
+    "relacion": "precaucion",
+    "valor": "informe a su médico si es alérgico a este medicamento"
+  },
+  {
+    "entidad": "Imatinib",
+    "relacion": "precaucion",
+    "valor": "informe a su médico qué medicamentos está tomando"
+  },
+  {
+    "entidad": "Imatinib",
+    "relacion": "precaucion",
+    "valor": "informe a su médico si padece diabetes o problemas cardíacos"
+  },
+  {
+    "entidad": "Imatinib",
+    "relacion": "precaucion",
+    "valor": "no debe quedar embarazada mientras toma imatinib"
+  },
+  {
+    "entidad": "Imatinib",
+    "relacion": "dieta",
+    "valor": "no comer pomelo ni tomar jugo de pomelo"
+  },
+  {
+    "entidad": "Imatinib",
+    "relacion": "olvido",
+    "valor": "tome la dosis que omitió tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Imatinib",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Imatinib",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Imatinib",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Imatinib",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de apetito"
+  },
+  {
+    "entidad": "Imatinib",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio o debilidad excesiva"
+  },
+  {
+    "entidad": "Imatinib",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original, cerrado herméticamente y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Imatinib",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente y lejos del calor excesivo y la humedad"
+  },
+  {
+    "entidad": "Imatinib",
+    "relacion": "sobredosis",
+    "valor": "llame a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Imatinib",
+    "relacion": "marca_comercial",
+    "valor": "Gleevec ®"
+  },
+  {
+    "entidad": "Imatinib",
+    "relacion": "marca_comercial",
+    "valor": "Imkeldi ®"
+  },
+  {
+    "entidad": "Implante de carmustina",
+    "relacion": "trata",
+    "valor": "glioma maligno"
+  },
+  {
+    "entidad": "Implante de carmustina",
+    "relacion": "uso",
+    "valor": "colocado en el cerebro durante la cirugía"
+  },
+  {
+    "entidad": "Implante de carmustina",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos actuales"
+  },
+  {
+    "entidad": "Implante de carmustina",
+    "relacion": "dieta",
+    "valor": "continuar con dieta normal a menos que se indique lo contrario"
+  },
+  {
+    "entidad": "Implante de carmustina",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Implante de carmustina",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Implante de carmustina",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Implante de carmustina",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Implante de carmustina",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Implante de carmustina",
+    "relacion": "efecto_secundario",
+    "valor": "confusión"
+  },
+  {
+    "entidad": "Implante de carmustina",
+    "relacion": "efecto_secundario",
+    "valor": "estado de ánimo deprimido"
+  },
+  {
+    "entidad": "Implante de carmustina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor"
+  },
+  {
+    "entidad": "Implante de carmustina",
+    "relacion": "efecto_secundario",
+    "valor": "somnolencia o sopor"
+  },
+  {
+    "entidad": "Implante de carmustina",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio o debilidad extremos"
+  },
+  {
+    "entidad": "Implante de carmustina",
+    "relacion": "efecto_secundario",
+    "valor": "convulsiones"
+  },
+  {
+    "entidad": "Implante de carmustina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza intenso, rigidez del cuello, fiebre y escalofríos"
+  },
+  {
+    "entidad": "Implante de carmustina",
+    "relacion": "efecto_secundario",
+    "valor": "cicatrización lenta de las heridas"
+  },
+  {
+    "entidad": "Implante de carmustina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de garganta; tos; fiebre; síntomas parecidos a los de la gripe"
+  },
+  {
+    "entidad": "Implante de carmustina",
+    "relacion": "efecto_secundario",
+    "valor": "inflamación de los pies, las manos o la cara"
+  },
+  {
+    "entidad": "Implante de carmustina",
+    "relacion": "efecto_secundario",
+    "valor": "incapacidad para mover un lado del cuerpo"
+  },
+  {
+    "entidad": "Implante de carmustina",
+    "relacion": "efecto_secundario",
+    "valor": "sangrado intenso"
+  },
+  {
+    "entidad": "Implante de carmustina",
+    "relacion": "efecto_secundario",
+    "valor": "habla defectuosa"
+  },
+  {
+    "entidad": "Implante de carmustina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor en el pecho"
+  },
+  {
+    "entidad": "Implante de carmustina",
+    "relacion": "marca_comercial",
+    "valor": "Gliadel ®"
+  },
+  {
+    "entidad": "Inmunoglobulina Intramuscular (Humana)",
+    "relacion": "contraindicado_en",
+    "valor": "enfermedades que afectan la coagulación de la sangre, antecedentes de coágulos sanguíneos, catéter en vena, presión arterial alta, niveles altos de colesterol, diabetes, sobrepeso u obesidad, adultos mayores, postrados en cama"
+  },
+  {
+    "entidad": "Inmunoglobulina Intramuscular (Humana)",
+    "relacion": "trata",
+    "valor": "prevención de hepatitis A, sarampión, varicela, rubéola en mujeres embarazadas"
+  },
+  {
+    "entidad": "Inmunoglobulina Intramuscular (Humana)",
+    "relacion": "uso",
+    "valor": "administrar por vía intramuscular en el brazo o muslo, generalmente en una sola dosis"
+  },
+  {
+    "entidad": "Inmunoglobulina Intramuscular (Humana)",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Inmunoglobulina Intramuscular (Humana)",
+    "relacion": "precaucion",
+    "valor": "alergias a la inmunoglobulina o ingredientes, deficiencia de IgA, medicamentos actuales, embarazo o lactancia, no vacunarse sin consultar"
+  },
+  {
+    "entidad": "Inmunoglobulina Intramuscular (Humana)",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta a menos que el médico lo indique"
+  },
+  {
+    "entidad": "Inmunoglobulina Intramuscular (Humana)",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza, náuseas, dolor, hinchazón o enrojecimiento en el lugar de la inyección, fiebre, escalofríos, cansancio"
+  },
+  {
+    "entidad": "Inmunoglobulina Intramuscular (Humana)",
+    "relacion": "marca_comercial",
+    "valor": "Gamastan ®"
+  },
+  {
+    "entidad": "Inyección de emapalumab-lzsg",
+    "relacion": "trata",
+    "valor": "linfohistiocitosis hemofagocítica primaria"
+  },
+  {
+    "entidad": "Inyección de emapalumab-lzsg",
+    "relacion": "uso",
+    "valor": "inyectado por vía intravenosa durante 1 hora"
+  },
+  {
+    "entidad": "Inyección de emapalumab-lzsg",
+    "relacion": "se_administra_via",
+    "valor": "intravenosa"
+  },
+  {
+    "entidad": "Inyección de emapalumab-lzsg",
+    "relacion": "otro_uso",
+    "valor": "preguntar al médico o farmacéutico"
+  },
+  {
+    "entidad": "Inyección de emapalumab-lzsg",
+    "relacion": "precaucion",
+    "valor": "informar alergias a emapalumab-lzsg o ingredientes"
+  },
+  {
+    "entidad": "Inyección de emapalumab-lzsg",
+    "relacion": "precaucion",
+    "valor": "indicar condiciones médicas previas"
+  },
+  {
+    "entidad": "Inyección de emapalumab-lzsg",
+    "relacion": "precaucion",
+    "valor": "informar sobre otros medicamentos que está tomando"
+  },
+  {
+    "entidad": "Inyección de emapalumab-lzsg",
+    "relacion": "precaucion",
+    "valor": "informar si está embarazada o amamantando"
+  },
+  {
+    "entidad": "Inyección de emapalumab-lzsg",
+    "relacion": "precaucion",
+    "valor": "puede reducir capacidad para combatir infecciones"
+  },
+  {
+    "entidad": "Inyección de emapalumab-lzsg",
+    "relacion": "precaucion",
+    "valor": "aumenta riesgo de tuberculosis"
+  },
+  {
+    "entidad": "Inyección de emapalumab-lzsg",
+    "relacion": "dieta",
+    "valor": "continuar con dieta normal"
+  },
+  {
+    "entidad": "Inyección de emapalumab-lzsg",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Inyección de emapalumab-lzsg",
+    "relacion": "efecto_secundario",
+    "valor": "sangrado de nariz"
+  },
+  {
+    "entidad": "Inyección de emapalumab-lzsg",
+    "relacion": "efecto_secundario",
+    "valor": "ritmo cardiaco irregular"
+  },
+  {
+    "entidad": "Inyección de emapalumab-lzsg",
+    "relacion": "efecto_secundario",
+    "valor": "respiración rápida"
+  },
+  {
+    "entidad": "Inyección de emapalumab-lzsg",
+    "relacion": "efecto_secundario",
+    "valor": "calambres musculares"
+  },
+  {
+    "entidad": "Inyección de emapalumab-lzsg",
+    "relacion": "efecto_secundario",
+    "valor": "entumecimiento y adormecimiento"
+  },
+  {
+    "entidad": "Inyección de emapalumab-lzsg",
+    "relacion": "efecto_secundario",
+    "valor": "deposiciones con sangre"
+  },
+  {
+    "entidad": "Inyección de emapalumab-lzsg",
+    "relacion": "efecto_secundario",
+    "valor": "vomitar sangre"
+  },
+  {
+    "entidad": "Inyección de emapalumab-lzsg",
+    "relacion": "efecto_secundario",
+    "valor": "micción menos frecuente"
+  },
+  {
+    "entidad": "Inyección de emapalumab-lzsg",
+    "relacion": "efecto_secundario",
+    "valor": "hinchazón de manos y pies"
+  },
+  {
+    "entidad": "Inyección de emapalumab-lzsg",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Inyección de emapalumab-lzsg",
+    "relacion": "marca_comercial",
+    "valor": "Gamifant ®"
+  },
+  {
+    "entidad": "Inyección de gemcitabina",
+    "relacion": "trata",
+    "valor": "cáncer de ovario"
+  },
+  {
+    "entidad": "Inyección de gemcitabina",
+    "relacion": "trata",
+    "valor": "cáncer de mama"
+  },
+  {
+    "entidad": "Inyección de gemcitabina",
+    "relacion": "trata",
+    "valor": "cáncer de pulmón de células no pequeñas"
+  },
+  {
+    "entidad": "Inyección de gemcitabina",
+    "relacion": "trata",
+    "valor": "cáncer de páncreas"
+  },
+  {
+    "entidad": "Inyección de gemcitabina",
+    "relacion": "otro_uso",
+    "valor": "cáncer de vejiga"
+  },
+  {
+    "entidad": "Inyección de gemcitabina",
+    "relacion": "otro_uso",
+    "valor": "cáncer del tracto biliar"
+  },
+  {
+    "entidad": "Inyección de gemcitabina",
+    "relacion": "uso",
+    "valor": "mezclar en polvo con líquido para inyección"
+  },
+  {
+    "entidad": "Inyección de gemcitabina",
+    "relacion": "se_administra_via",
+    "valor": "vía intravenosa"
+  },
+  {
+    "entidad": "Inyección de gemcitabina",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias a la gemcitabina"
+  },
+  {
+    "entidad": "Inyección de gemcitabina",
+    "relacion": "precaucion",
+    "valor": "informar sobre otros medicamentos que se están tomando"
+  },
+  {
+    "entidad": "Inyección de gemcitabina",
+    "relacion": "precaucion",
+    "valor": "informar sobre consumo de alcohol y enfermedades hepáticas o renales"
+  },
+  {
+    "entidad": "Inyección de gemcitabina",
+    "relacion": "precaucion",
+    "valor": "informar sobre radioterapia previa"
+  },
+  {
+    "entidad": "Inyección de gemcitabina",
+    "relacion": "precaucion",
+    "valor": "realizar prueba de embarazo antes del tratamiento"
+  },
+  {
+    "entidad": "Inyección de gemcitabina",
+    "relacion": "precaucion",
+    "valor": "no amamantar durante el tratamiento y 1 semana después"
+  },
+  {
+    "entidad": "Inyección de gemcitabina",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Inyección de gemcitabina",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Inyección de gemcitabina",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Inyección de gemcitabina",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Inyección de gemcitabina",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de apetito"
+  },
+  {
+    "entidad": "Inyección de gemcitabina",
+    "relacion": "efecto_secundario",
+    "valor": "llagas en la boca y garganta"
+  },
+  {
+    "entidad": "Inyección de gemcitabina",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida del cabello"
+  },
+  {
+    "entidad": "Inyección de gemcitabina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Inyección de gemcitabina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor muscular"
+  },
+  {
+    "entidad": "Inyección de gemcitabina",
+    "relacion": "efecto_secundario",
+    "valor": "hinchazón en el lugar de la inyección"
+  },
+  {
+    "entidad": "Inyección de gemcitabina",
+    "relacion": "efecto_secundario",
+    "valor": "erupción cutánea"
+  },
+  {
+    "entidad": "Inyección de gemcitabina",
+    "relacion": "efecto_secundario",
+    "valor": "fiebre"
+  },
+  {
+    "entidad": "Inyección de gemcitabina",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Inyección de gemcitabina",
+    "relacion": "marca_comercial",
+    "valor": "Gemzar ®"
+  },
+  {
+    "entidad": "Inyección de gentamicina",
+    "relacion": "contraindicado_en",
+    "valor": "problemas renales graves"
+  },
+  {
+    "entidad": "Inyección de gentamicina",
+    "relacion": "contraindicado_en",
+    "valor": "problemas de audición"
+  },
+  {
+    "entidad": "Inyección de gentamicina",
+    "relacion": "contraindicado_en",
+    "valor": "problemas de los nervios"
+  },
+  {
+    "entidad": "Inyección de gentamicina",
+    "relacion": "trata",
+    "valor": "infecciones graves causadas por bacterias"
+  },
+  {
+    "entidad": "Inyección de gentamicina",
+    "relacion": "trata",
+    "valor": "meningitis"
+  },
+  {
+    "entidad": "Inyección de gentamicina",
+    "relacion": "trata",
+    "valor": "infecciones de la sangre"
+  },
+  {
+    "entidad": "Inyección de gentamicina",
+    "relacion": "trata",
+    "valor": "infecciones del abdomen"
+  },
+  {
+    "entidad": "Inyección de gentamicina",
+    "relacion": "trata",
+    "valor": "infecciones de los pulmones"
+  },
+  {
+    "entidad": "Inyección de gentamicina",
+    "relacion": "trata",
+    "valor": "infecciones de la piel"
+  },
+  {
+    "entidad": "Inyección de gentamicina",
+    "relacion": "trata",
+    "valor": "infecciones de los huesos"
+  },
+  {
+    "entidad": "Inyección de gentamicina",
+    "relacion": "trata",
+    "valor": "infecciones de las articulaciones"
+  },
+  {
+    "entidad": "Inyección de gentamicina",
+    "relacion": "trata",
+    "valor": "infecciones de las vías urinarias"
+  },
+  {
+    "entidad": "Inyección de gentamicina",
+    "relacion": "uso",
+    "valor": "inyectada por vía intravenosa o intramuscular"
+  },
+  {
+    "entidad": "Inyección de gentamicina",
+    "relacion": "uso",
+    "valor": "infusión intravenosa durante 30 minutos a 2 horas"
+  },
+  {
+    "entidad": "Inyección de gentamicina",
+    "relacion": "uso",
+    "valor": "una vez cada 6 u 8 horas"
+  },
+  {
+    "entidad": "Inyección de gentamicina",
+    "relacion": "otro_uso",
+    "valor": "enfermedad pélvica inflamatoria"
+  },
+  {
+    "entidad": "Inyección de gentamicina",
+    "relacion": "otro_uso",
+    "valor": "granuloma inguinal"
+  },
+  {
+    "entidad": "Inyección de gentamicina",
+    "relacion": "otro_uso",
+    "valor": "plaga"
+  },
+  {
+    "entidad": "Inyección de gentamicina",
+    "relacion": "otro_uso",
+    "valor": "tularemia"
+  },
+  {
+    "entidad": "Inyección de gentamicina",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias a antibióticos aminoglucósidos"
+  },
+  {
+    "entidad": "Inyección de gentamicina",
+    "relacion": "precaucion",
+    "valor": "informar sobre otros medicamentos que toma"
+  },
+  {
+    "entidad": "Inyección de gentamicina",
+    "relacion": "precaucion",
+    "valor": "informar sobre condiciones médicas previas"
+  },
+  {
+    "entidad": "Inyección de gentamicina",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Inyección de gentamicina",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Inyección de gentamicina",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Inyección de gentamicina",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Inyección de gentamicina",
+    "relacion": "efecto_secundario",
+    "valor": "disminución del apetito"
+  },
+  {
+    "entidad": "Inyección de gentamicina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor en el sitio de la inyección"
+  },
+  {
+    "entidad": "Inyección de gentamicina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Inyección de gentamicina",
+    "relacion": "efecto_secundario",
+    "valor": "fiebre"
+  },
+  {
+    "entidad": "Inyección de gentamicina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor en las articulaciones"
+  },
+  {
+    "entidad": "Inyección de gentamicina",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio inusual"
+  },
+  {
+    "entidad": "Inyección de gentamicina",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Inyección de gentamicina",
+    "relacion": "efecto_secundario",
+    "valor": "descamación o ampollas en la piel"
+  },
+  {
+    "entidad": "Inyección de gentamicina",
+    "relacion": "efecto_secundario",
+    "valor": "picazón"
+  },
+  {
+    "entidad": "Inyección de gentamicina",
+    "relacion": "efecto_secundario",
+    "valor": "urticaria"
+  },
+  {
+    "entidad": "Inyección de gentamicina",
+    "relacion": "efecto_secundario",
+    "valor": "hinchazón en los ojos, rostro, garganta, lengua o labios"
+  },
+  {
+    "entidad": "Inyección de gentamicina",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para respirar o tragar"
+  },
+  {
+    "entidad": "Inyección de gentamicina",
+    "relacion": "efecto_secundario",
+    "valor": "ronquera"
+  },
+  {
+    "entidad": "Inyección de gentamicina",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Inyección de gentamicina",
+    "relacion": "sobredosis",
+    "valor": "llamar a servicios de emergencia si hay síntomas graves"
+  },
+  {
+    "entidad": "Inyección de gentamicina",
+    "relacion": "marca_comercial",
+    "valor": "Garamycin ® intravenoso"
+  },
+  {
+    "entidad": "Inyección de glucagón",
+    "relacion": "trata",
+    "valor": "hipoglucemia severa"
+  },
+  {
+    "entidad": "Inyección de glucagón",
+    "relacion": "trata",
+    "valor": "disminuir la motilidad del sistema digestivo durante pruebas de laboratorio"
+  },
+  {
+    "entidad": "Inyección de glucagón",
+    "relacion": "uso",
+    "valor": "administrar por vía subcutánea, intramuscular o intravenosa"
+  },
+  {
+    "entidad": "Inyección de glucagón",
+    "relacion": "se_administra_via",
+    "valor": "subcutánea, intramuscular o intravenosa"
+  },
+  {
+    "entidad": "Inyección de glucagón",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos"
+  },
+  {
+    "entidad": "Inyección de glucagón",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Inyección de glucagón",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Inyección de glucagón",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Inyección de glucagón",
+    "relacion": "efecto_secundario",
+    "valor": "cambios en la capacidad para degustar los alimentos"
+  },
+  {
+    "entidad": "Inyección de glucagón",
+    "relacion": "efecto_secundario",
+    "valor": "enrojecimiento o inflamación en el sitio de la inyección"
+  },
+  {
+    "entidad": "Inyección de glucagón",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Inyección de glucagón",
+    "relacion": "efecto_secundario",
+    "valor": "ritmo cardíaco acelerado"
+  },
+  {
+    "entidad": "Inyección de glucagón",
+    "relacion": "efecto_secundario",
+    "valor": "erupción cutánea"
+  },
+  {
+    "entidad": "Inyección de glucagón",
+    "relacion": "efecto_secundario",
+    "valor": "mareo"
+  },
+  {
+    "entidad": "Inyección de glucagón",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original, cerrado y a temperatura ambiente"
+  },
+  {
+    "entidad": "Inyección de glucagón",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Inyección de glucagón",
+    "relacion": "marca_comercial",
+    "valor": "GlucaGen ® Diagnostic Kit"
+  },
+  {
+    "entidad": "Inyección de glucagón",
+    "relacion": "marca_comercial",
+    "valor": "Gvoke ®"
+  },
+  {
+    "entidad": "Inyección de obinutuzumab",
+    "relacion": "contraindicado_en",
+    "valor": "infección por hepatitis B"
+  },
+  {
+    "entidad": "Inyección de obinutuzumab",
+    "relacion": "trata",
+    "valor": "leucemia linfocítica crónica"
+  },
+  {
+    "entidad": "Inyección de obinutuzumab",
+    "relacion": "trata",
+    "valor": "linfoma no Hodgkin folicular"
+  },
+  {
+    "entidad": "Inyección de obinutuzumab",
+    "relacion": "uso",
+    "valor": "solución inyectable administrada por vía intravenosa"
+  },
+  {
+    "entidad": "Inyección de obinutuzumab",
+    "relacion": "otro_uso",
+    "valor": "otros usos a discreción del médico"
+  },
+  {
+    "entidad": "Inyección de obinutuzumab",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos"
+  },
+  {
+    "entidad": "Inyección de obinutuzumab",
+    "relacion": "precaucion",
+    "valor": "informar sobre enfermedades previas y actuales"
+  },
+  {
+    "entidad": "Inyección de obinutuzumab",
+    "relacion": "precaucion",
+    "valor": "usar anticonceptivos durante y 6 meses después del tratamiento"
+  },
+  {
+    "entidad": "Inyección de obinutuzumab",
+    "relacion": "precaucion",
+    "valor": "no amamantar durante y 6 meses después del tratamiento"
+  },
+  {
+    "entidad": "Inyección de obinutuzumab",
+    "relacion": "dieta",
+    "valor": "continuar con la dieta normal a menos que se indique lo contrario"
+  },
+  {
+    "entidad": "Inyección de obinutuzumab",
+    "relacion": "olvido",
+    "valor": "llamar al médico si no puede asistir a la cita"
+  },
+  {
+    "entidad": "Inyección de obinutuzumab",
+    "relacion": "efecto_secundario",
+    "valor": "dolor en músculos o articulaciones"
+  },
+  {
+    "entidad": "Inyección de obinutuzumab",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Inyección de obinutuzumab",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Inyección de obinutuzumab",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para conciliar el sueño"
+  },
+  {
+    "entidad": "Inyección de obinutuzumab",
+    "relacion": "efecto_secundario",
+    "valor": "disminución del apetito"
+  },
+  {
+    "entidad": "Inyección de obinutuzumab",
+    "relacion": "efecto_secundario",
+    "valor": "picazón"
+  },
+  {
+    "entidad": "Inyección de obinutuzumab",
+    "relacion": "efecto_secundario",
+    "valor": "fiebre"
+  },
+  {
+    "entidad": "Inyección de obinutuzumab",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio o debilidad inusuales"
+  },
+  {
+    "entidad": "Inyección de obinutuzumab",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para respirar"
+  },
+  {
+    "entidad": "Inyección de obinutuzumab",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Inyección de obinutuzumab",
+    "relacion": "marca_comercial",
+    "valor": "Gazyva ®"
+  },
+  {
+    "entidad": "Inyección de remdesivir",
+    "relacion": "trata",
+    "valor": "enfermedad por coronavirus 2019 (COVID-19) en adultos y niños hospitalizados"
+  },
+  {
+    "entidad": "Inyección de remdesivir",
+    "relacion": "trata",
+    "valor": "enfermedad por coronavirus 2019 (COVID-19) en adultos y niños no hospitalizados con alto riesgo"
+  },
+  {
+    "entidad": "Inyección de remdesivir",
+    "relacion": "uso",
+    "valor": "administrar mediante infusión en una vena durante 30 a 120 minutos"
+  },
+  {
+    "entidad": "Inyección de remdesivir",
+    "relacion": "se_administra_via",
+    "valor": "vena"
+  },
+  {
+    "entidad": "Inyección de remdesivir",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Inyección de remdesivir",
+    "relacion": "efecto_secundario",
+    "valor": "dolor, sangrado, hematomas en la piel cerca del lugar de inyección"
+  },
+  {
+    "entidad": "Inyección de remdesivir",
+    "relacion": "efecto_secundario",
+    "valor": "ojos o piel de color amarillo"
+  },
+  {
+    "entidad": "Inyección de remdesivir",
+    "relacion": "efecto_secundario",
+    "valor": "orina oscura"
+  },
+  {
+    "entidad": "Inyección de remdesivir",
+    "relacion": "efecto_secundario",
+    "valor": "dolor o malestar en el área superior derecha del estómago"
+  },
+  {
+    "entidad": "Inyección de remdesivir",
+    "relacion": "sobredosis",
+    "valor": "llame a la línea de ayuda de control de envenenamiento al 1-800-222-1222"
+  },
+  {
+    "entidad": "Inyección de remdesivir",
+    "relacion": "marca_comercial",
+    "valor": "Veklury"
+  },
+  {
+    "entidad": "Inyección de teduglutida",
+    "relacion": "trata",
+    "valor": "síndrome de intestino irritable"
+  },
+  {
+    "entidad": "Inyección de teduglutida",
+    "relacion": "uso",
+    "valor": "mezclar con líquido e inyectar subcutáneamente una vez al día"
+  },
+  {
+    "entidad": "Inyección de teduglutida",
+    "relacion": "se_administra_via",
+    "valor": "subcutáneamente"
+  },
+  {
+    "entidad": "Inyección de teduglutida",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos"
+  },
+  {
+    "entidad": "Inyección de teduglutida",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Inyección de teduglutida",
+    "relacion": "olvido",
+    "valor": "inyectar la dosis olvidada tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Inyección de teduglutida",
+    "relacion": "efecto_secundario",
+    "valor": "aumento del riesgo de desarrollar cáncer"
+  },
+  {
+    "entidad": "Inyección de teduglutida",
+    "relacion": "efecto_secundario",
+    "valor": "problemas de la piel en el sitio de inyección"
+  },
+  {
+    "entidad": "Inyección de teduglutida",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, a temperatura ambiente y lejos del calor y la humedad"
+  },
+  {
+    "entidad": "Inyección de teduglutida",
+    "relacion": "sobredosis",
+    "valor": "llamar al médico de inmediato"
+  },
+  {
+    "entidad": "Inyección de teduglutida",
+    "relacion": "marca_comercial",
+    "valor": "Gattex ®"
+  },
+  {
+    "entidad": "Inyección de treosulfán",
+    "relacion": "contraindicado_en",
+    "valor": "reducción severa en la cantidad de células sanguíneas"
+  },
+  {
+    "entidad": "Inyección de treosulfán",
+    "relacion": "trata",
+    "valor": "leucemia mieloide aguda (LMA)"
+  },
+  {
+    "entidad": "Inyección de treosulfán",
+    "relacion": "trata",
+    "valor": "síndrome mielodisplásico"
+  },
+  {
+    "entidad": "Inyección de treosulfán",
+    "relacion": "uso",
+    "valor": "mezclar en polvo con líquido y administrar por vía intravenosa durante 2 horas"
+  },
+  {
+    "entidad": "Inyección de treosulfán",
+    "relacion": "se_administra_via",
+    "valor": "intravenosa"
+  },
+  {
+    "entidad": "Inyección de treosulfán",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Inyección de treosulfán",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos actuales"
+  },
+  {
+    "entidad": "Inyección de treosulfán",
+    "relacion": "precaucion",
+    "valor": "puede reducir la fertilidad"
+  },
+  {
+    "entidad": "Inyección de treosulfán",
+    "relacion": "precaucion",
+    "valor": "informar si está amamantando"
+  },
+  {
+    "entidad": "Inyección de treosulfán",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Inyección de treosulfán",
+    "relacion": "efecto_secundario",
+    "valor": "aumento del riesgo de otros tipos de cáncer"
+  },
+  {
+    "entidad": "Inyección de treosulfán",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Inyección de treosulfán",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Inyección de treosulfán",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Inyección de treosulfán",
+    "relacion": "efecto_secundario",
+    "valor": "llagas en la boca y garganta"
+  },
+  {
+    "entidad": "Inyección de treosulfán",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago"
+  },
+  {
+    "entidad": "Inyección de treosulfán",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Inyección de treosulfán",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Inyección de treosulfán",
+    "relacion": "efecto_secundario",
+    "valor": "dolor muscular o de huesos"
+  },
+  {
+    "entidad": "Inyección de treosulfán",
+    "relacion": "efecto_secundario",
+    "valor": "inflamación de rostro y extremidades"
+  },
+  {
+    "entidad": "Inyección de treosulfán",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio"
+  },
+  {
+    "entidad": "Inyección de treosulfán",
+    "relacion": "efecto_secundario",
+    "valor": "reacciones cutáneas"
+  },
+  {
+    "entidad": "Inyección de treosulfán",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Inyección de treosulfán",
+    "relacion": "marca_comercial",
+    "valor": "Grafapex ®"
+  },
+  {
+    "entidad": "Inyección de ziprasidona",
+    "relacion": "contraindicado_en",
+    "valor": "adultos mayores con demencia"
+  },
+  {
+    "entidad": "Inyección de ziprasidona",
+    "relacion": "trata",
+    "valor": "episodios de agitación en personas con esquizofrenia"
+  },
+  {
+    "entidad": "Inyección de ziprasidona",
+    "relacion": "uso",
+    "valor": "mezcla en polvo con agua y administrada en un músculo por un profesional de la salud"
+  },
+  {
+    "entidad": "Inyección de ziprasidona",
+    "relacion": "otro_uso",
+    "valor": "otros usos según prescripción médica"
+  },
+  {
+    "entidad": "Inyección de ziprasidona",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos actuales"
+  },
+  {
+    "entidad": "Inyección de ziprasidona",
+    "relacion": "precaucion",
+    "valor": "consultar sobre el consumo de alcohol"
+  },
+  {
+    "entidad": "Inyección de ziprasidona",
+    "relacion": "precaucion",
+    "valor": "informar sobre embarazo y lactancia"
+  },
+  {
+    "entidad": "Inyección de ziprasidona",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Inyección de ziprasidona",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Inyección de ziprasidona",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Inyección de ziprasidona",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Inyección de ziprasidona",
+    "relacion": "efecto_secundario",
+    "valor": "aumento de peso"
+  },
+  {
+    "entidad": "Inyección de ziprasidona",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Inyección de ziprasidona",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Inyección de ziprasidona",
+    "relacion": "marca_comercial",
+    "valor": "Geodon"
+  },
+  {
+    "entidad": "Linagliptina",
+    "relacion": "trata",
+    "valor": "niveles altos de azúcar en la sangre en adultos con diabetes tipo 2"
+  },
+  {
+    "entidad": "Linagliptina",
+    "relacion": "uso",
+    "valor": "tomar una vez al día con o sin alimentos"
+  },
+  {
+    "entidad": "Linagliptina",
+    "relacion": "se_administra_via",
+    "valor": "vía oral"
+  },
+  {
+    "entidad": "Linagliptina",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos actuales"
+  },
+  {
+    "entidad": "Linagliptina",
+    "relacion": "dieta",
+    "valor": "seguir recomendaciones de dieta y ejercicio"
+  },
+  {
+    "entidad": "Linagliptina",
+    "relacion": "olvido",
+    "valor": "tomar la dosis olvidada tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Linagliptina",
+    "relacion": "efecto_secundario",
+    "valor": "congestión o secreción nasal"
+  },
+  {
+    "entidad": "Linagliptina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de garganta"
+  },
+  {
+    "entidad": "Linagliptina",
+    "relacion": "efecto_secundario",
+    "valor": "tos"
+  },
+  {
+    "entidad": "Linagliptina",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Linagliptina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Linagliptina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor en las articulaciones"
+  },
+  {
+    "entidad": "Linagliptina",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Linagliptina",
+    "relacion": "efecto_secundario",
+    "valor": "picazón, descamación o formación de ampollas en la piel"
+  },
+  {
+    "entidad": "Linagliptina",
+    "relacion": "efecto_secundario",
+    "valor": "urticaria"
+  },
+  {
+    "entidad": "Linagliptina",
+    "relacion": "efecto_secundario",
+    "valor": "inflamación del rostro, los labios, la lengua o la garganta"
+  },
+  {
+    "entidad": "Linagliptina",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para respirar o tragar"
+  },
+  {
+    "entidad": "Linagliptina",
+    "relacion": "efecto_secundario",
+    "valor": "ronquera"
+  },
+  {
+    "entidad": "Linagliptina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor continuo en la parte superior izquierda o central del estómago"
+  },
+  {
+    "entidad": "Linagliptina",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Linagliptina",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Linagliptina",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de apetito"
+  },
+  {
+    "entidad": "Linagliptina",
+    "relacion": "efecto_secundario",
+    "valor": "falta de aliento o dificultad para respirar"
+  },
+  {
+    "entidad": "Linagliptina",
+    "relacion": "efecto_secundario",
+    "valor": "hinchazón de pies, tobillos o piernas"
+  },
+  {
+    "entidad": "Linagliptina",
+    "relacion": "efecto_secundario",
+    "valor": "aumento repentino de peso"
+  },
+  {
+    "entidad": "Linagliptina",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio excesivo"
+  },
+  {
+    "entidad": "Linagliptina",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, bien cerrado y a temperatura ambiente"
+  },
+  {
+    "entidad": "Linagliptina",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Lindano",
+    "relacion": "trata",
+    "valor": "pediculosis"
+  },
+  {
+    "entidad": "Lindano",
+    "relacion": "trata",
+    "valor": "sarna"
+  },
+  {
+    "entidad": "Lindano",
+    "relacion": "uso",
+    "valor": "loción o champú aplicado en la piel o cabello una sola vez"
+  },
+  {
+    "entidad": "Lindano",
+    "relacion": "se_administra_via",
+    "valor": "tópica"
+  },
+  {
+    "entidad": "Lindano",
+    "relacion": "precaucion",
+    "valor": "no usar en bebés prematuros ni en personas con convulsiones"
+  },
+  {
+    "entidad": "Lindano",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Lindano",
+    "relacion": "efecto_secundario",
+    "valor": "convulsiones"
+  },
+  {
+    "entidad": "Lindano",
+    "relacion": "efecto_secundario",
+    "valor": "erupción cutánea"
+  },
+  {
+    "entidad": "Lindano",
+    "relacion": "efecto_secundario",
+    "valor": "picazón o escozor en la piel"
+  },
+  {
+    "entidad": "Lindano",
+    "relacion": "efecto_secundario",
+    "valor": "piel seca"
+  },
+  {
+    "entidad": "Lindano",
+    "relacion": "efecto_secundario",
+    "valor": "entumecimiento u hormigueo de la piel"
+  },
+  {
+    "entidad": "Lindano",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida del cabello"
+  },
+  {
+    "entidad": "Lindano",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Lindano",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Lindano",
+    "relacion": "efecto_secundario",
+    "valor": "somnolencia"
+  },
+  {
+    "entidad": "Lindano",
+    "relacion": "efecto_secundario",
+    "valor": "sacudidas incontrolables"
+  },
+  {
+    "entidad": "Lindano",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Lindano",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente, lejos del calor y la humedad"
+  },
+  {
+    "entidad": "Lindano",
+    "relacion": "sobredosis",
+    "valor": "llamar al control de envenenamiento o a los servicios de emergencia"
+  },
+  {
+    "entidad": "Lindano",
+    "relacion": "marca_comercial",
+    "valor": "Gamene"
+  },
+  {
+    "entidad": "Lindano",
+    "relacion": "marca_comercial",
+    "valor": "Kwell"
+  },
+  {
+    "entidad": "Lindano",
+    "relacion": "marca_comercial",
+    "valor": "Scabene"
+  },
+  {
+    "entidad": "Miglitol",
+    "relacion": "trata",
+    "valor": "diabetes tipo 2"
+  },
+  {
+    "entidad": "Miglitol",
+    "relacion": "uso",
+    "valor": "tabletas para tomar por vía oral, tres veces al día con el primer bocado de la comida"
+  },
+  {
+    "entidad": "Miglitol",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos que se están tomando"
+  },
+  {
+    "entidad": "Miglitol",
+    "relacion": "dieta",
+    "valor": "en combinación con una dieta adecuada y ejercicio"
+  },
+  {
+    "entidad": "Miglitol",
+    "relacion": "olvido",
+    "valor": "tomar la dosis que omitió tan pronto como lo recuerde, pero no tomar una dosis doble"
+  },
+  {
+    "entidad": "Miglitol",
+    "relacion": "efecto_secundario",
+    "valor": "disminución excesiva de los niveles de azúcar en la sangre"
+  },
+  {
+    "entidad": "Miglitol",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, bien cerrado, a temperatura ambiente y lejos del calor y la humedad"
+  },
+  {
+    "entidad": "Miglitol",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento o a los servicios de emergencia"
+  },
+  {
+    "entidad": "Miglitol",
+    "relacion": "marca_comercial",
+    "valor": "Glyset ®"
+  },
+  {
+    "entidad": "Mirdametinib",
+    "relacion": "trata",
+    "valor": "neurofibromatosis tipo 1"
+  },
+  {
+    "entidad": "Mirdametinib",
+    "relacion": "uso",
+    "valor": "tabletas y cápsula para tomar por vía oral, dos veces al día durante 21 días"
+  },
+  {
+    "entidad": "Mirdametinib",
+    "relacion": "se_administra_via",
+    "valor": "vía oral"
+  },
+  {
+    "entidad": "Mirdametinib",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Mirdametinib",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos actuales"
+  },
+  {
+    "entidad": "Mirdametinib",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Mirdametinib",
+    "relacion": "olvido",
+    "valor": "saltar la dosis omitida y continuar con la dosis habitual"
+  },
+  {
+    "entidad": "Mirdametinib",
+    "relacion": "efecto_secundario",
+    "valor": "infertilidad en personas con órganos reproductores femeninos"
+  },
+  {
+    "entidad": "Mirdametinib",
+    "relacion": "efecto_secundario",
+    "valor": "erupción cutánea"
+  },
+  {
+    "entidad": "Mirdametinib",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de cabello"
+  },
+  {
+    "entidad": "Mirdametinib",
+    "relacion": "efecto_secundario",
+    "valor": "náusea y/o vómitos"
+  },
+  {
+    "entidad": "Mirdametinib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago"
+  },
+  {
+    "entidad": "Mirdametinib",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio"
+  },
+  {
+    "entidad": "Mirdametinib",
+    "relacion": "almacenamiento",
+    "valor": "mantener en empaque original, a temperatura ambiente, lejos de luz y humedad"
+  },
+  {
+    "entidad": "Mirdametinib",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Oxibato de sodio",
+    "relacion": "contraindicado_en",
+    "valor": "uso indebido, venta o compartición ilegal"
+  },
+  {
+    "entidad": "Oxibato de sodio",
+    "relacion": "trata",
+    "valor": "narcolepsia y cataplejía"
+  },
+  {
+    "entidad": "Oxibato de sodio",
+    "relacion": "uso",
+    "valor": "mezclar con agua y tomar por vía oral"
+  },
+  {
+    "entidad": "Oxibato de sodio",
+    "relacion": "se_administra_via",
+    "valor": "oral"
+  },
+  {
+    "entidad": "Oxibato de sodio",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos"
+  },
+  {
+    "entidad": "Oxibato de sodio",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Oxibato de sodio",
+    "relacion": "olvido",
+    "valor": "omitir la dosis olvidada y continuar con el horario regular"
+  },
+  {
+    "entidad": "Oxibato de sodio",
+    "relacion": "efecto_secundario",
+    "valor": "enuresis"
+  },
+  {
+    "entidad": "Oxibato de sodio",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Oxibato de sodio",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Oxibato de sodio",
+    "relacion": "efecto_secundario",
+    "valor": "sensación de embriaguez"
+  },
+  {
+    "entidad": "Oxibato de sodio",
+    "relacion": "efecto_secundario",
+    "valor": "temblor incontrolable"
+  },
+  {
+    "entidad": "Oxibato de sodio",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Oxibato de sodio",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Oxibato de sodio",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Oxibato de sodio",
+    "relacion": "efecto_secundario",
+    "valor": "somnolencia excesiva durante el día"
+  },
+  {
+    "entidad": "Oxibato de sodio",
+    "relacion": "almacenamiento",
+    "valor": "mantener en empaque original, cerrado y a temperatura ambiente"
+  },
+  {
+    "entidad": "Oxibato de sodio",
+    "relacion": "sobredosis",
+    "valor": "confusión, problemas con la coordinación, pérdida de conciencia"
+  },
+  {
+    "entidad": "Oxibato de sodio",
+    "relacion": "marca_comercial",
+    "valor": "Lumryz ®"
+  },
+  {
+    "entidad": "Oxibato de sodio",
+    "relacion": "marca_comercial",
+    "valor": "Xyrem ®"
+  },
+  {
+    "entidad": "Oxibutinina tópica",
+    "relacion": "trata",
+    "valor": "vejiga hiperactiva"
+  },
+  {
+    "entidad": "Oxibutinina tópica",
+    "relacion": "uso",
+    "valor": "aplicar sobre la piel una vez al día"
+  },
+  {
+    "entidad": "Oxibutinina tópica",
+    "relacion": "se_administra_via",
+    "valor": "tópica"
+  },
+  {
+    "entidad": "Oxibutinina tópica",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Oxibutinina tópica",
+    "relacion": "precaucion",
+    "valor": "informar al médico si está embarazada o amamantando"
+  },
+  {
+    "entidad": "Oxibutinina tópica",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Oxibutinina tópica",
+    "relacion": "olvido",
+    "valor": "aplicar la dosis omitida tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Oxibutinina tópica",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Oxibutinina tópica",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Oxibutinina tópica",
+    "relacion": "efecto_secundario",
+    "valor": "somnolencia"
+  },
+  {
+    "entidad": "Oxibutinina tópica",
+    "relacion": "efecto_secundario",
+    "valor": "boca seca"
+  },
+  {
+    "entidad": "Oxibutinina tópica",
+    "relacion": "efecto_secundario",
+    "valor": "visión borrosa"
+  },
+  {
+    "entidad": "Oxibutinina tópica",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Oxibutinina tópica",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, bien cerrado y a temperatura ambiente"
+  },
+  {
+    "entidad": "Oxibutinina tópica",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Pastillas de nicotina",
+    "relacion": "trata",
+    "valor": "ayudar a las personas a dejar de fumar"
+  },
+  {
+    "entidad": "Pastillas de nicotina",
+    "relacion": "uso",
+    "valor": "disolverse lentamente en la boca, seguir instrucciones del envase"
+  },
+  {
+    "entidad": "Pastillas de nicotina",
+    "relacion": "se_administra_via",
+    "valor": "oral"
+  },
+  {
+    "entidad": "Pastillas de nicotina",
+    "relacion": "precaucion",
+    "valor": "informar a su médico si es alérgico a la nicotina"
+  },
+  {
+    "entidad": "Pastillas de nicotina",
+    "relacion": "precaucion",
+    "valor": "no usar con otros sistemas de ayuda con nicotina"
+  },
+  {
+    "entidad": "Pastillas de nicotina",
+    "relacion": "precaucion",
+    "valor": "informar sobre otros medicamentos que toma"
+  },
+  {
+    "entidad": "Pastillas de nicotina",
+    "relacion": "precaucion",
+    "valor": "informar si ha tenido un ataque cardíaco o enfermedades del corazón"
+  },
+  {
+    "entidad": "Pastillas de nicotina",
+    "relacion": "precaucion",
+    "valor": "dejar de fumar por completo"
+  },
+  {
+    "entidad": "Pastillas de nicotina",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Pastillas de nicotina",
+    "relacion": "efecto_secundario",
+    "valor": "acidez estomacal"
+  },
+  {
+    "entidad": "Pastillas de nicotina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de garganta"
+  },
+  {
+    "entidad": "Pastillas de nicotina",
+    "relacion": "efecto_secundario",
+    "valor": "problemas en la boca"
+  },
+  {
+    "entidad": "Pastillas de nicotina",
+    "relacion": "efecto_secundario",
+    "valor": "ritmo cardíaco irregular o rápido"
+  },
+  {
+    "entidad": "Pastillas de nicotina",
+    "relacion": "almacenamiento",
+    "valor": "mantener en el envase original, cerrado y fuera del alcance de niños"
+  },
+  {
+    "entidad": "Pastillas de nicotina",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Pastillas de nicotina",
+    "relacion": "marca_comercial",
+    "valor": "Grageas Commit ®"
+  },
+  {
+    "entidad": "Pastillas de nicotina",
+    "relacion": "marca_comercial",
+    "valor": "Grageas Nicorette ®"
+  },
+  {
+    "entidad": "Potasio",
+    "relacion": "trata",
+    "valor": "reponer pérdidas de potasio y prevenir su deficiencia"
+  },
+  {
+    "entidad": "Potasio",
+    "relacion": "uso",
+    "valor": "tomar de dos a cuatro veces al día, con las comidas o inmediatamente después de comer"
+  },
+  {
+    "entidad": "Potasio",
+    "relacion": "se_administra_via",
+    "valor": "líquido oral, polvo, gránulos, tabletas efervescentes, tabletas regulares, tabletas de liberación prolongada, cápsulas de liberación prolongada"
+  },
+  {
+    "entidad": "Potasio",
+    "relacion": "precaucion",
+    "valor": "informar al médico si es alérgico al potasio o a cualquier otro fármaco"
+  },
+  {
+    "entidad": "Potasio",
+    "relacion": "precaucion",
+    "valor": "informar al médico si padece o ha padecido alguna vez una enfermedad cardíaca, renal o de Addison"
+  },
+  {
+    "entidad": "Potasio",
+    "relacion": "precaucion",
+    "valor": "informar al médico si está embarazada, planea quedar embarazada o está amamantando"
+  },
+  {
+    "entidad": "Potasio",
+    "relacion": "dieta",
+    "valor": "usar un sustituto de la sal que contenga potasio y consumir alimentos ricos en potasio"
+  },
+  {
+    "entidad": "Potasio",
+    "relacion": "olvido",
+    "valor": "tomar la dosis que omitió tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Potasio",
+    "relacion": "efecto_secundario",
+    "valor": "molestias estomacales"
+  },
+  {
+    "entidad": "Potasio",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Potasio",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Potasio",
+    "relacion": "efecto_secundario",
+    "valor": "confusión mental"
+  },
+  {
+    "entidad": "Potasio",
+    "relacion": "efecto_secundario",
+    "valor": "desgano"
+  },
+  {
+    "entidad": "Potasio",
+    "relacion": "efecto_secundario",
+    "valor": "sensación de hormigueo, pinchazos, quemazón, tirantez o tirones en brazos, manos, piernas o pies"
+  },
+  {
+    "entidad": "Potasio",
+    "relacion": "efecto_secundario",
+    "valor": "pesadez o debilidad en las piernas"
+  },
+  {
+    "entidad": "Potasio",
+    "relacion": "efecto_secundario",
+    "valor": "piel fría, pálida y grisácea"
+  },
+  {
+    "entidad": "Potasio",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago"
+  },
+  {
+    "entidad": "Potasio",
+    "relacion": "efecto_secundario",
+    "valor": "abultamiento inusual del estómago"
+  },
+  {
+    "entidad": "Potasio",
+    "relacion": "efecto_secundario",
+    "valor": "heces negras"
+  },
+  {
+    "entidad": "Potasio",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, bien cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Potasio",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente y lejos del calor excesivo y la humedad"
+  },
+  {
+    "entidad": "Potasio",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento al 1-800-222-1222"
+  },
+  {
+    "entidad": "Potasio",
+    "relacion": "marca_comercial",
+    "valor": "Glu-K ®"
+  },
+  {
+    "entidad": "Potasio",
+    "relacion": "marca_comercial",
+    "valor": "K + 10 ®"
+  },
+  {
+    "entidad": "Potasio",
+    "relacion": "marca_comercial",
+    "valor": "K + 8 ®"
+  },
+  {
+    "entidad": "Potasio",
+    "relacion": "marca_comercial",
+    "valor": "K + Care ®"
+  },
+  {
+    "entidad": "Potasio",
+    "relacion": "marca_comercial",
+    "valor": "K + Care ® Tabletas efervescentes"
+  },
+  {
+    "entidad": "Potasio",
+    "relacion": "marca_comercial",
+    "valor": "Kaochlor ® 10%"
+  },
+  {
+    "entidad": "Potasio",
+    "relacion": "marca_comercial",
+    "valor": "Kaon ® Elixir"
+  },
+  {
+    "entidad": "Potasio",
+    "relacion": "marca_comercial",
+    "valor": "Kaon-Cl ® 20% Elixir"
+  },
+  {
+    "entidad": "Potasio",
+    "relacion": "marca_comercial",
+    "valor": "Kaon-Cl-10 ®"
+  },
+  {
+    "entidad": "Potasio",
+    "relacion": "marca_comercial",
+    "valor": "Kay Ciel ®"
+  },
+  {
+    "entidad": "Potasio",
+    "relacion": "marca_comercial",
+    "valor": "K-Dur ® 10"
+  },
+  {
+    "entidad": "Potasio",
+    "relacion": "marca_comercial",
+    "valor": "K-Dur ® 20"
+  },
+  {
+    "entidad": "Potasio",
+    "relacion": "marca_comercial",
+    "valor": "K-Lor ®"
+  },
+  {
+    "entidad": "Potasio",
+    "relacion": "marca_comercial",
+    "valor": "Klor-Con ® 10"
+  },
+  {
+    "entidad": "Potasio",
+    "relacion": "marca_comercial",
+    "valor": "Klor-Con ® 8"
+  },
+  {
+    "entidad": "Potasio",
+    "relacion": "marca_comercial",
+    "valor": "Klor-Con ® Polvo"
+  },
+  {
+    "entidad": "Potasio",
+    "relacion": "marca_comercial",
+    "valor": "Klor-Con ® /25 Polvo"
+  },
+  {
+    "entidad": "Potasio",
+    "relacion": "marca_comercial",
+    "valor": "Klor-Con ® /EF"
+  },
+  {
+    "entidad": "Potasio",
+    "relacion": "marca_comercial",
+    "valor": "Klotrix ®"
+  },
+  {
+    "entidad": "Potasio",
+    "relacion": "marca_comercial",
+    "valor": "K-Lyte/CL ® 50 Tabletas efervescentes"
+  },
+  {
+    "entidad": "Potasio",
+    "relacion": "marca_comercial",
+    "valor": "K-Lyte/CL ® Tabletas efervescentes"
+  },
+  {
+    "entidad": "Potasio",
+    "relacion": "marca_comercial",
+    "valor": "K-Lyte ® DS Tabletas efervescentes"
+  },
+  {
+    "entidad": "Potasio",
+    "relacion": "marca_comercial",
+    "valor": "K-Lyte ® Tabletas efervescentes"
+  },
+  {
+    "entidad": "Potasio",
+    "relacion": "marca_comercial",
+    "valor": "K-Tab ® Filmtab ®"
+  },
+  {
+    "entidad": "Potasio",
+    "relacion": "marca_comercial",
+    "valor": "Micro-K ®"
+  },
+  {
+    "entidad": "Potasio",
+    "relacion": "marca_comercial",
+    "valor": "Quic-K ®"
+  },
+  {
+    "entidad": "Potasio",
+    "relacion": "marca_comercial",
+    "valor": "Rum-K ®"
+  },
+  {
+    "entidad": "Potasio",
+    "relacion": "marca_comercial",
+    "valor": "Slow-K ®"
+  },
+  {
+    "entidad": "Potasio",
+    "relacion": "marca_comercial",
+    "valor": "Tri-K ®"
+  },
+  {
+    "entidad": "Potasio",
+    "relacion": "marca_comercial",
+    "valor": "Twin-K ®"
+  },
+  {
+    "entidad": "Potasio",
+    "relacion": "otro_uso",
+    "valor": "consultar al médico o farmacéutico para más información"
+  },
+  {
+    "entidad": "Pralsetinib",
+    "relacion": "trata",
+    "valor": "cáncer de pulmón de células no pequeñas (CPCNP)"
+  },
+  {
+    "entidad": "Pralsetinib",
+    "relacion": "trata",
+    "valor": "cáncer de tiroides en adultos y niños mayores de 12 años"
+  },
+  {
+    "entidad": "Pralsetinib",
+    "relacion": "uso",
+    "valor": "cápsula para tomar por vía oral una vez al día con el estómago vacío"
+  },
+  {
+    "entidad": "Pralsetinib",
+    "relacion": "otro_uso",
+    "valor": "puede ser recetado para otros usos"
+  },
+  {
+    "entidad": "Pralsetinib",
+    "relacion": "precaucion",
+    "valor": "informe a su médico si es alérgico al pralsetinib"
+  },
+  {
+    "entidad": "Pralsetinib",
+    "relacion": "precaucion",
+    "valor": "informe a su médico sobre otros medicamentos que toma"
+  },
+  {
+    "entidad": "Pralsetinib",
+    "relacion": "precaucion",
+    "valor": "no usar anticonceptivos hormonales como único método anticonceptivo"
+  },
+  {
+    "entidad": "Pralsetinib",
+    "relacion": "precaucion",
+    "valor": "no amamantar mientras esté tomando pralsetinib"
+  },
+  {
+    "entidad": "Pralsetinib",
+    "relacion": "dieta",
+    "valor": "continúe con su dieta normal a menos que su médico indique lo contrario"
+  },
+  {
+    "entidad": "Pralsetinib",
+    "relacion": "olvido",
+    "valor": "tome la dosis que olvidó tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Pralsetinib",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Pralsetinib",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Pralsetinib",
+    "relacion": "efecto_secundario",
+    "valor": "boca seca"
+  },
+  {
+    "entidad": "Pralsetinib",
+    "relacion": "efecto_secundario",
+    "valor": "aftas en la boca"
+  },
+  {
+    "entidad": "Pralsetinib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de los músculos o de los huesos"
+  },
+  {
+    "entidad": "Pralsetinib",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio"
+  },
+  {
+    "entidad": "Pralsetinib",
+    "relacion": "efecto_secundario",
+    "valor": "hinchazón de las manos, tobillos o pies"
+  },
+  {
+    "entidad": "Pralsetinib",
+    "relacion": "efecto_secundario",
+    "valor": "entumecimiento u hormigueo en brazos, manos, piernas o pies"
+  },
+  {
+    "entidad": "Pralsetinib",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Pralsetinib",
+    "relacion": "efecto_secundario",
+    "valor": "disminución del apetito"
+  },
+  {
+    "entidad": "Pralsetinib",
+    "relacion": "efecto_secundario",
+    "valor": "confusión"
+  },
+  {
+    "entidad": "Pralsetinib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Pralsetinib",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para respirar"
+  },
+  {
+    "entidad": "Pralsetinib",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Pralsetinib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor en el pecho"
+  },
+  {
+    "entidad": "Pralsetinib",
+    "relacion": "efecto_secundario",
+    "valor": "fiebre"
+  },
+  {
+    "entidad": "Pralsetinib",
+    "relacion": "efecto_secundario",
+    "valor": "piel pálida"
+  },
+  {
+    "entidad": "Pralsetinib",
+    "relacion": "efecto_secundario",
+    "valor": "coloración amarillenta de la piel o los ojos"
+  },
+  {
+    "entidad": "Pralsetinib",
+    "relacion": "efecto_secundario",
+    "valor": "sangrado o moretones inusuales"
+  },
+  {
+    "entidad": "Pralsetinib",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, bien cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Pralsetinib",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente y lejos del calor excesivo y la humedad"
+  },
+  {
+    "entidad": "Pralsetinib",
+    "relacion": "sobredosis",
+    "valor": "llame a la línea de ayuda de control de envenenamiento al 1-800-222-1222"
+  },
+  {
+    "entidad": "Pralsetinib",
+    "relacion": "marca_comercial",
+    "valor": "Gavreto ®"
+  },
+  {
+    "entidad": "Tiagabina",
+    "relacion": "trata",
+    "valor": "convulsiones parciales (un tipo de epilepsia)"
+  },
+  {
+    "entidad": "Tiagabina",
+    "relacion": "uso",
+    "valor": "tableta que se administra por vía oral, generalmente con alimentos de dos a cuatro veces al día"
+  },
+  {
+    "entidad": "Tiagabina",
+    "relacion": "otro_uso",
+    "valor": "puede recetarse para otros usos"
+  },
+  {
+    "entidad": "Tiagabina",
+    "relacion": "precaucion",
+    "valor": "informar a su médico si es alérgico a la tiagabina o a cualquier otro medicamento"
+  },
+  {
+    "entidad": "Tiagabina",
+    "relacion": "precaucion",
+    "valor": "informar sobre otros medicamentos, vitaminas y suplementos que se tomen"
+  },
+  {
+    "entidad": "Tiagabina",
+    "relacion": "precaucion",
+    "valor": "informar si tiene o ha tenido erupción cutánea grave, estado epiléptico, o enfermedad ocular o hepática"
+  },
+  {
+    "entidad": "Tiagabina",
+    "relacion": "precaucion",
+    "valor": "informar si está embarazada, planea quedar embarazada o está amamantando"
+  },
+  {
+    "entidad": "Tiagabina",
+    "relacion": "precaucion",
+    "valor": "no conducir ni operar maquinaria hasta saber cómo le afecta"
+  },
+  {
+    "entidad": "Tiagabina",
+    "relacion": "precaucion",
+    "valor": "el alcohol puede aumentar la somnolencia"
+  },
+  {
+    "entidad": "Tiagabina",
+    "relacion": "dieta",
+    "valor": "hablar con su médico sobre tomar jugo de toronja"
+  },
+  {
+    "entidad": "Tiagabina",
+    "relacion": "olvido",
+    "valor": "tomar la dosis que omitió tan pronto como lo recuerde, omitir si es casi hora de la siguiente dosis"
+  },
+  {
+    "entidad": "Tiagabina",
+    "relacion": "efecto_secundario",
+    "valor": "mareos o aturdimiento"
+  },
+  {
+    "entidad": "Tiagabina",
+    "relacion": "efecto_secundario",
+    "valor": "somnolencia"
+  },
+  {
+    "entidad": "Tiagabina",
+    "relacion": "efecto_secundario",
+    "valor": "falta de energía o debilidad"
+  },
+  {
+    "entidad": "Tiagabina",
+    "relacion": "efecto_secundario",
+    "valor": "temblor, inestabilidad o falta de coordinación"
+  },
+  {
+    "entidad": "Tiagabina",
+    "relacion": "efecto_secundario",
+    "valor": "depresión"
+  },
+  {
+    "entidad": "Tiagabina",
+    "relacion": "efecto_secundario",
+    "valor": "hostilidad o enojo"
+  },
+  {
+    "entidad": "Tiagabina",
+    "relacion": "efecto_secundario",
+    "valor": "irritabilidad"
+  },
+  {
+    "entidad": "Tiagabina",
+    "relacion": "efecto_secundario",
+    "valor": "confusión"
+  },
+  {
+    "entidad": "Tiagabina",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para concentrarse"
+  },
+  {
+    "entidad": "Tiagabina",
+    "relacion": "efecto_secundario",
+    "valor": "pensamientos anormales"
+  },
+  {
+    "entidad": "Tiagabina",
+    "relacion": "efecto_secundario",
+    "valor": "problemas del habla o del lenguaje"
+  },
+  {
+    "entidad": "Tiagabina",
+    "relacion": "efecto_secundario",
+    "valor": "aumento del apetito"
+  },
+  {
+    "entidad": "Tiagabina",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Tiagabina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago"
+  },
+  {
+    "entidad": "Tiagabina",
+    "relacion": "efecto_secundario",
+    "valor": "nerviosismo"
+  },
+  {
+    "entidad": "Tiagabina",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para conciliar el sueño"
+  },
+  {
+    "entidad": "Tiagabina",
+    "relacion": "efecto_secundario",
+    "valor": "picazón"
+  },
+  {
+    "entidad": "Tiagabina",
+    "relacion": "efecto_secundario",
+    "valor": "moretones"
+  },
+  {
+    "entidad": "Tiagabina",
+    "relacion": "efecto_secundario",
+    "valor": "micción dolorosa o frecuente"
+  },
+  {
+    "entidad": "Tiagabina",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Tiagabina",
+    "relacion": "efecto_secundario",
+    "valor": "llagas en el interior de la boca, nariz, ojos o garganta"
+  },
+  {
+    "entidad": "Tiagabina",
+    "relacion": "efecto_secundario",
+    "valor": "síntomas similares a los de la gripe"
+  },
+  {
+    "entidad": "Tiagabina",
+    "relacion": "efecto_secundario",
+    "valor": "cambios en la visión"
+  },
+  {
+    "entidad": "Tiagabina",
+    "relacion": "efecto_secundario",
+    "valor": "debilidad intensa"
+  },
+  {
+    "entidad": "Tiagabina",
+    "relacion": "efecto_secundario",
+    "valor": "manos temblorosas"
+  },
+  {
+    "entidad": "Tiagabina",
+    "relacion": "efecto_secundario",
+    "valor": "adormecimiento, dolor, ardor o hormigueo de las manos o los pies"
+  },
+  {
+    "entidad": "Tiagabina",
+    "relacion": "efecto_secundario",
+    "valor": "convulsiones, incluido el estado epiléptico"
+  },
+  {
+    "entidad": "Tiagabina",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original, cerrado herméticamente y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Tiagabina",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente, lejos del calor excesivo y la humedad"
+  },
+  {
+    "entidad": "Tiagabina",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento o a los servicios de emergencia"
+  },
+  {
+    "entidad": "Tiagabina",
+    "relacion": "marca_comercial",
+    "valor": "Gabitril ®"
+  },
+  {
+    "entidad": "Vacuna contra el Virus del Papiloma Humano (VPH)",
+    "relacion": "trata",
+    "valor": "prevención de infecciones por el VPH y ciertos tipos de cáncer"
+  },
+  {
+    "entidad": "Vacuna contra el Virus del Papiloma Humano (VPH)",
+    "relacion": "uso",
+    "valor": "administrar a partir de los 9 años, recomendada a adolescentes de 11 o 12 años"
+  },
+  {
+    "entidad": "Vacuna contra el Virus del Papiloma Humano (VPH)",
+    "relacion": "se_administra_via",
+    "valor": "inyección"
+  },
+  {
+    "entidad": "Vacuna contra el Virus del Papiloma Humano (VPH)",
+    "relacion": "contraindicado_en",
+    "valor": "embarazo"
+  },
+  {
+    "entidad": "Vacuna contra el Virus del Papiloma Humano (VPH)",
+    "relacion": "efecto_secundario",
+    "valor": "dolor, enrojecimiento o hinchazón en el sitio de inyección"
+  },
+  {
+    "entidad": "Vacuna contra el Virus del Papiloma Humano (VPH)",
+    "relacion": "efecto_secundario",
+    "valor": "fiebre"
+  },
+  {
+    "entidad": "Vacuna contra el Virus del Papiloma Humano (VPH)",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Vacuna contra el Virus del Papiloma Humano (VPH)",
+    "relacion": "marca_comercial",
+    "valor": "Gardasil-9"
+  },
+  {
+    "entidad": "Vibegron",
+    "relacion": "trata",
+    "valor": "vejiga urinaria hiperactiva"
+  },
+  {
+    "entidad": "Vibegron",
+    "relacion": "trata",
+    "valor": "vejiga hiperactiva en hombres con agrandamiento de la próstata"
+  },
+  {
+    "entidad": "Vibegron",
+    "relacion": "uso",
+    "valor": "tabletas para tomar por vía oral una vez al día"
+  },
+  {
+    "entidad": "Vibegron",
+    "relacion": "uso",
+    "valor": "tragar la tableta entera con un vaso de agua o triturarla y mezclarla con puré de manzana"
+  },
+  {
+    "entidad": "Vibegron",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias a vibegron o ingredientes de las tabletas"
+  },
+  {
+    "entidad": "Vibegron",
+    "relacion": "precaucion",
+    "valor": "informar sobre otros medicamentos que se estén tomando"
+  },
+  {
+    "entidad": "Vibegron",
+    "relacion": "precaucion",
+    "valor": "informar sobre problemas de vejiga, hipertensión o enfermedades renales o hepáticas"
+  },
+  {
+    "entidad": "Vibegron",
+    "relacion": "precaucion",
+    "valor": "informar si está embarazada o amamantando"
+  },
+  {
+    "entidad": "Vibegron",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta a menos que lo indique el médico"
+  },
+  {
+    "entidad": "Vibegron",
+    "relacion": "olvido",
+    "valor": "tomar la dosis omitida tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Vibegron",
+    "relacion": "olvido",
+    "valor": "si es casi hora de la siguiente dosis, omitir la olvidada"
+  },
+  {
+    "entidad": "Vibegron",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Vibegron",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Vibegron",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Vibegron",
+    "relacion": "efecto_secundario",
+    "valor": "fiebre, secreción o congestión nasal, dolor de garganta"
+  },
+  {
+    "entidad": "Vibegron",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para vaciar la vejiga"
+  },
+  {
+    "entidad": "Vibegron",
+    "relacion": "efecto_secundario",
+    "valor": "micción dolorosa, urgente o frecuente"
+  },
+  {
+    "entidad": "Vibegron",
+    "relacion": "efecto_secundario",
+    "valor": "hinchazón de ojos, cara, lengua, labios o garganta"
+  },
+  {
+    "entidad": "Vibegron",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido, picazón o urticaria"
+  },
+  {
+    "entidad": "Vibegron",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original, cerrado herméticamente y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Vibegron",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente, lejos del calor y la humedad"
+  },
+  {
+    "entidad": "Vibegron",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Vibegron",
+    "relacion": "sobredosis",
+    "valor": "llamar a los servicios de emergencia si hay desmayo o problemas para respirar"
+  },
+  {
+    "entidad": "Vibegron",
+    "relacion": "marca_comercial",
+    "valor": "Gemtesa ®"
+  },
+  {
+    "entidad": "Ziprasidona",
+    "relacion": "contraindicado_en",
+    "valor": "adultos mayores con demencia"
+  },
+  {
+    "entidad": "Ziprasidona",
+    "relacion": "trata",
+    "valor": "esquizofrenia"
+  },
+  {
+    "entidad": "Ziprasidona",
+    "relacion": "trata",
+    "valor": "trastorno bipolar"
+  },
+  {
+    "entidad": "Ziprasidona",
+    "relacion": "uso",
+    "valor": "tomar dos veces al día con alimentos"
+  },
+  {
+    "entidad": "Ziprasidona",
+    "relacion": "se_administra_via",
+    "valor": "vía oral"
+  },
+  {
+    "entidad": "Ziprasidona",
+    "relacion": "otro_uso",
+    "valor": "otros usos a consultar con el médico"
+  },
+  {
+    "entidad": "Ziprasidona",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos actuales"
+  },
+  {
+    "entidad": "Ziprasidona",
+    "relacion": "precaucion",
+    "valor": "no tomar con ciertos medicamentos sin consultar"
+  },
+  {
+    "entidad": "Ziprasidona",
+    "relacion": "precaucion",
+    "valor": "informar sobre condiciones cardíacas y de salud mental"
+  },
+  {
+    "entidad": "Ziprasidona",
+    "relacion": "precaucion",
+    "valor": "puede causar somnolencia"
+  },
+  {
+    "entidad": "Ziprasidona",
+    "relacion": "dieta",
+    "valor": "consultar sobre jugo de pomelo"
+  },
+  {
+    "entidad": "Ziprasidona",
+    "relacion": "olvido",
+    "valor": "tomar la dosis olvidada tan pronto como se recuerde"
+  },
+  {
+    "entidad": "Ziprasidona",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Ziprasidona",
+    "relacion": "efecto_secundario",
+    "valor": "intranquilidad"
+  },
+  {
+    "entidad": "Ziprasidona",
+    "relacion": "efecto_secundario",
+    "valor": "ansiedad"
+  },
+  {
+    "entidad": "Ziprasidona",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Ziprasidona",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original, cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Ziprasidona",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Ziprasidona",
+    "relacion": "marca_comercial",
+    "valor": "Geodon"
+  }
+]

@@ -1,0 +1,817 @@
+[
+  {
+    "entidad": "estudiantes de medicina latinoamericanos",
+    "relacion": "evalúan",
+    "valor": "capacitación universitaria en investigación científica"
+  },
+  {
+    "entidad": "capacitación universitaria",
+    "relacion": "es",
+    "valor": "deficiente"
+  },
+  {
+    "entidad": "sociedades científicas de estudiantes de medicina",
+    "relacion": "despliegan",
+    "valor": "estrategias para mejorar la capacitación en investigación"
+  },
+  {
+    "entidad": "revistas científicas estudiantiles",
+    "relacion": "tienen como objetivo",
+    "valor": "publicación de resultados originales"
+  },
+  {
+    "entidad": "Federación Latinoamericana de Sociedades Científicas de Estudiantes de Medicina (FELSOCEM)",
+    "relacion": "congrega",
+    "valor": "organizaciones en la región"
+  },
+  {
+    "entidad": "revista CIMEL",
+    "relacion": "es",
+    "valor": "medio de difusión científica oficial de FELSOCEM"
+  },
+  {
+    "entidad": "estudiantes de medicina",
+    "relacion": "perciben",
+    "valor": "importancia de publicar en pregrado"
+  },
+  {
+    "entidad": "falta de apoyo docente",
+    "relacion": "es una",
+    "valor": "limitación para publicar"
+  },
+  {
+    "entidad": "estrategias de sociedades científicas",
+    "relacion": "mejoran",
+    "valor": "capacitación en investigación"
+  },
+  {
+    "entidad": "publicación científica",
+    "relacion": "debe ser motivada",
+    "valor": "desde pregrado"
+  },
+  {
+    "entidad": "cáncer de mama",
+    "relacion": "es",
+    "valor": "el cáncer de mayor prevalencia en 145 países"
+  },
+  {
+    "entidad": "cáncer de mama",
+    "relacion": "constituye",
+    "valor": "la primera causa de muerte por enfermedad oncológica en la mujer"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "se define como",
+    "valor": "la valoración subjetiva del paciente sobre su bienestar global"
+  },
+  {
+    "entidad": "cuestionario BR23",
+    "relacion": "es desarrollado por",
+    "valor": "la European Organization for Research and Treatment of Cancer (EORTC)"
+  },
+  {
+    "entidad": "cuestionario BR23",
+    "relacion": "evalúa",
+    "valor": "la calidad de vida de pacientes con cáncer de mama"
+  },
+  {
+    "entidad": "cuestionario BR23",
+    "relacion": "es validado en",
+    "valor": "Chile"
+  },
+  {
+    "entidad": "cuestionario BR23",
+    "relacion": "demuestra",
+    "valor": "satisfactorios niveles de sensibilidad y especificidad"
+  },
+  {
+    "entidad": "EORTC",
+    "relacion": "desarrolla",
+    "valor": "diversos cuestionarios específicos de calidad de vida"
+  },
+  {
+    "entidad": "cuestionario SF-36",
+    "relacion": "es",
+    "valor": "un gold-standard validado en Chile"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "es un",
+    "valor": "parámetro de importancia para medir la eficacia de un tratamiento"
+  },
+  {
+    "entidad": "Grupo de Calidad de Vida de la EORTC",
+    "relacion": "asesora",
+    "valor": "la validación local y el uso adecuado de sus instrumentos"
+  },
+  {
+    "entidad": "cáncer de mama",
+    "relacion": "ocupa",
+    "valor": "el primer lugar en defunciones por enfermedad oncológica en la mujer chilena"
+  },
+  {
+    "entidad": "cáncer de mama",
+    "relacion": "se asocia a",
+    "valor": "el envejecimiento de la población"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "adquiere",
+    "valor": "gran relevancia en el contexto del cáncer"
+  },
+  {
+    "entidad": "cuestionarios de calidad de vida",
+    "relacion": "se aplican a",
+    "valor": "diversas áreas como análisis económicos y evaluación de ensayos clínicos"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "influye en",
+    "valor": "la sobrevida de pacientes con cáncer"
+  },
+  {
+    "entidad": "cuestionario BR23",
+    "relacion": "es",
+    "valor": "lingüísticamente apropiado y psicométricamente válido en Chile"
+  },
+  {
+    "entidad": "pacientes con cáncer de mama",
+    "relacion": "son evaluados por",
+    "valor": "el cuestionario BR23"
+  },
+  {
+    "entidad": "cuestionario C30",
+    "relacion": "es",
+    "valor": "el instrumento base para el BR23"
+  },
+  {
+    "entidad": "cuestionario BR23",
+    "relacion": "se divide en",
+    "valor": "cuatro escalas funcionales y cuatro escalas de síntomas"
+  },
+  {
+    "entidad": "cuestionario BR23",
+    "relacion": "requiere",
+    "valor": "validación lingüística y estadística en cada país"
+  },
+  {
+    "entidad": "cuestionario BR23",
+    "relacion": "es utilizado en",
+    "valor": "la evaluación de la calidad de vida de pacientes con cáncer de mama"
+  },
+  {
+    "entidad": "estudiantes de medicina",
+    "relacion": "utilizan",
+    "valor": "criterios de juicio moral"
+  },
+  {
+    "entidad": "Modelo Intuitivo Social",
+    "relacion": "describe",
+    "valor": "juicio moral"
+  },
+  {
+    "entidad": "bioética",
+    "relacion": "es un",
+    "valor": "campo de estudio en medicina"
+  },
+  {
+    "entidad": "Moral Foundations Questionnaire (MFQ30)",
+    "relacion": "se aplica a",
+    "valor": "estudiantes de medicina"
+  },
+  {
+    "entidad": "compasión",
+    "relacion": "es el criterio más importante para",
+    "valor": "estudiantes de medicina"
+  },
+  {
+    "entidad": "reciprocidad",
+    "relacion": "es el criterio más importante para",
+    "valor": "hombres"
+  },
+  {
+    "entidad": "respeto a la autoridad",
+    "relacion": "es el criterio menos importante para",
+    "valor": "mujeres"
+  },
+  {
+    "entidad": "lealtad",
+    "relacion": "es más importante en",
+    "valor": "estudiantes de primer año"
+  },
+  {
+    "entidad": "pureza corporal",
+    "relacion": "es menos importante en",
+    "valor": "estudiantes de medicina"
+  },
+  {
+    "entidad": "tendencia moral",
+    "relacion": "es",
+    "valor": "liberal en estudiantes de medicina"
+  },
+  {
+    "entidad": "Haidt",
+    "relacion": "propone",
+    "valor": "educación moral basada en emociones"
+  },
+  {
+    "entidad": "Kohlberg",
+    "relacion": "se basa en",
+    "valor": "teoría universal de la moral"
+  },
+  {
+    "entidad": "virtudes",
+    "relacion": "son habilidades sociales adquiridas mediante",
+    "valor": "entrenamiento"
+  },
+  {
+    "entidad": "estudiantes de medicina",
+    "relacion": "son evaluados en",
+    "valor": "criterios de juicio moral"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "es la institución donde se realiza",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "Comité de Ética de Investigación",
+    "relacion": "aprueba",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "valoran más",
+    "valor": "el criterio de compasión"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "valoran más",
+    "valor": "el criterio de reciprocidad"
+  },
+  {
+    "entidad": "educación moral",
+    "relacion": "implica",
+    "valor": "reforzar intuiciones morales"
+  },
+  {
+    "entidad": "identidad moral",
+    "relacion": "explica",
+    "valor": "la acción moral"
+  },
+  {
+    "entidad": "Grosor íntima media carotídeo",
+    "relacion": "es un",
+    "valor": "marcador de aterosclerosis subclínica"
+  },
+  {
+    "entidad": "Grosor íntima media carotídeo",
+    "relacion": "asociado con",
+    "valor": "factores de riesgo cardiovascular tradicionales"
+  },
+  {
+    "entidad": "factores de riesgo cardiovascular tradicionales",
+    "relacion": "incluyen",
+    "valor": "edad, dislipidemia, presión arterial sistólica, obesidad abdominal"
+  },
+  {
+    "entidad": "dislipidemia",
+    "relacion": "es un",
+    "valor": "factor de riesgo para grosor íntima media carotídeo elevado"
+  },
+  {
+    "entidad": "presión arterial sistólica",
+    "relacion": "afecta a",
+    "valor": "grosor íntima media carotídeo"
+  },
+  {
+    "entidad": "obesidad abdominal",
+    "relacion": "asociada con",
+    "valor": "incremento del grosor íntima media carotídeo"
+  },
+  {
+    "entidad": "síndrome metabólico",
+    "relacion": "asociado con",
+    "valor": "grosor íntima media carotídeo elevado"
+  },
+  {
+    "entidad": "estudio CARMELA",
+    "relacion": "demostró",
+    "valor": "diferencias en grosor íntima media carotídeo entre poblaciones"
+  },
+  {
+    "entidad": "medición del grosor íntima media carotídeo",
+    "relacion": "se realiza mediante",
+    "valor": "ultrasonografía modo B"
+  },
+  {
+    "entidad": "factores metabólicos",
+    "relacion": "no han mostrado consenso en",
+    "valor": "su relación con aterosclerosis"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "es un",
+    "valor": "factor de riesgo cardiovascular"
+  },
+  {
+    "entidad": "Grosor íntima media carotídeo",
+    "relacion": "incrementa con",
+    "valor": "la carga de factores de riesgo"
+  },
+  {
+    "entidad": "Grosor íntima media carotídeo",
+    "relacion": "se correlaciona con",
+    "valor": "edad y presión arterial sistólica"
+  },
+  {
+    "entidad": "terapia antihipertensiva",
+    "relacion": "puede reflejar",
+    "valor": "hipertensión prolongada"
+  },
+  {
+    "entidad": "obesidad abdominal",
+    "relacion": "se considera",
+    "valor": "un estado de inflamación crónica"
+  },
+  {
+    "entidad": "factores de riesgo cardiovascular",
+    "relacion": "se agrupan y",
+    "valor": "incrementan el riesgo"
+  },
+  {
+    "entidad": "Grosor íntima media carotídeo",
+    "relacion": "se mide en",
+    "valor": "carótidas comunes"
+  },
+  {
+    "entidad": "Grosor íntima media carotídeo",
+    "relacion": "se considera elevado",
+    "valor": "sobre el percentil 75 de la muestra"
+  },
+  {
+    "entidad": "programa de nivelación",
+    "relacion": "afecta a",
+    "valor": "estudiantes de primer año de medicina"
+  },
+  {
+    "entidad": "programa de nivelación",
+    "relacion": "mejora",
+    "valor": "rendimiento académico en biología celular"
+  },
+  {
+    "entidad": "programa de nivelación",
+    "relacion": "mejora",
+    "valor": "rendimiento académico en bioquímica"
+  },
+  {
+    "entidad": "estudiantes de medicina",
+    "relacion": "participan en",
+    "valor": "programa de nivelación"
+  },
+  {
+    "entidad": "universidad Finis Terrae",
+    "relacion": "ofrece",
+    "valor": "programa de nivelación"
+  },
+  {
+    "entidad": "biología celular",
+    "relacion": "es una asignatura de",
+    "valor": "primer año de medicina"
+  },
+  {
+    "entidad": "bioquímica",
+    "relacion": "es una asignatura de",
+    "valor": "primer año de medicina"
+  },
+  {
+    "entidad": "prueba diagnóstica",
+    "relacion": "evalúa",
+    "valor": "conocimientos previos de estudiantes"
+  },
+  {
+    "entidad": "estudiantes que completan el programa de nivelación",
+    "relacion": "tienen",
+    "valor": "mayor tasa de aprobación en biología celular"
+  },
+  {
+    "entidad": "estudiantes que completan el programa de nivelación",
+    "relacion": "tienen",
+    "valor": "mayor tasa de aprobación en bioquímica"
+  },
+  {
+    "entidad": "riesgo de reprobar",
+    "relacion": "disminuye por",
+    "valor": "participación en el programa de nivelación"
+  },
+  {
+    "entidad": "conceptos científicos claves",
+    "relacion": "son necesarios para",
+    "valor": "aprender biología celular y bioquímica"
+  },
+  {
+    "entidad": "estudiantes de medicina",
+    "relacion": "necesitan",
+    "valor": "conocimientos científicos previos"
+  },
+  {
+    "entidad": "programa de nivelación",
+    "relacion": "reduce",
+    "valor": "riesgo de reprobación en asignaturas"
+  },
+  {
+    "entidad": "estudiantes que no participan en el programa de nivelación",
+    "relacion": "tienen",
+    "valor": "mayor riesgo de reprobar"
+  },
+  {
+    "entidad": "evaluación de conocimientos",
+    "relacion": "se realiza mediante",
+    "valor": "pruebas diagnósticas"
+  },
+  {
+    "entidad": "universidades tradicionales",
+    "relacion": "tienen",
+    "valor": "requisitos de admisión más altos"
+  },
+  {
+    "entidad": "Óxido nítrico exhalado",
+    "relacion": "es un",
+    "valor": "biomarcador no invasivo de inflamación de las vías aéreas"
+  },
+  {
+    "entidad": "asma",
+    "relacion": "afecta a",
+    "valor": "la inflamación crónica de las vías aéreas"
+  },
+  {
+    "entidad": "asma",
+    "relacion": "se mide por",
+    "valor": "niveles de óxido nítrico exhalado"
+  },
+  {
+    "entidad": "atopia",
+    "relacion": "se mide por",
+    "valor": "test cutáneo de alergias"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "evalúa",
+    "valor": "la relación entre óxido nítrico exhalado, asma y atopia"
+  },
+  {
+    "entidad": "Hospital Roberto del Río",
+    "relacion": "es un",
+    "valor": "centro de salud en Santiago, Chile"
+  },
+  {
+    "entidad": "Consultorio Cruz Melo",
+    "relacion": "es un",
+    "valor": "centro de salud en Santiago, Chile"
+  },
+  {
+    "entidad": "Universidad de Chile",
+    "relacion": "es un",
+    "valor": "institución que aprueba el protocolo de estudio"
+  },
+  {
+    "entidad": "FONDECYT",
+    "relacion": "financia",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "niños asmáticos",
+    "relacion": "presentan",
+    "valor": "sibilancias"
+  },
+  {
+    "entidad": "niños no asmáticos",
+    "relacion": "no presentan",
+    "valor": "sibilancias"
+  },
+  {
+    "entidad": "niveles de óxido nítrico exhalado",
+    "relacion": "no muestran",
+    "valor": "diferencias significativas según asma o atopia"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "afecta a",
+    "valor": "los niveles de óxido nítrico exhalado"
+  },
+  {
+    "entidad": "asma y atopia",
+    "relacion": "no muestran",
+    "valor": "efecto significativo en los niveles de óxido nítrico exhalado"
+  },
+  {
+    "entidad": "mediciones de óxido nítrico exhalado",
+    "relacion": "se realizan con",
+    "valor": "equipo portátil Niox Mino"
+  },
+  {
+    "entidad": "test cutáneo de alergias",
+    "relacion": "se utiliza para",
+    "valor": "identificar la presencia de atopia"
+  },
+  {
+    "entidad": "enfermedad de Alzheimer",
+    "relacion": "afecta a",
+    "valor": "facultades cognitivas"
+  },
+  {
+    "entidad": "enfermedad de Alzheimer",
+    "relacion": "causa",
+    "valor": "dependencia"
+  },
+  {
+    "entidad": "reeducación psicomotriz",
+    "relacion": "mejora",
+    "valor": "calidad de vida"
+  },
+  {
+    "entidad": "guía de reeducación psicomotriz",
+    "relacion": "diseñada para",
+    "valor": "personas con Alzheimer"
+  },
+  {
+    "entidad": "programa de ejercicio",
+    "relacion": "implementado en",
+    "valor": "hospitales de día"
+  },
+  {
+    "entidad": "ejercicio físico",
+    "relacion": "es un tipo de",
+    "valor": "terapia complementaria"
+  },
+  {
+    "entidad": "ejercicio físico",
+    "relacion": "mejora",
+    "valor": "salud en la enfermedad de Alzheimer"
+  },
+  {
+    "entidad": "guía de reeducación psicomotriz",
+    "relacion": "integra",
+    "valor": "ejercicio físico, reeducación cognitiva y estimulación psicomotriz"
+  },
+  {
+    "entidad": "cognición",
+    "relacion": "declina con",
+    "valor": "progresión de la enfermedad"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "afectada por",
+    "valor": "estado de dependencia"
+  },
+  {
+    "entidad": "ejercicio físico",
+    "relacion": "tiene un efecto",
+    "valor": "neuroprotector"
+  },
+  {
+    "entidad": "corteza cerebral",
+    "relacion": "aumenta",
+    "valor": "memoria a largo plazo"
+  },
+  {
+    "entidad": "guía de reeducación psicomotriz",
+    "relacion": "evaluada en",
+    "valor": "fases leve y moderada de la enfermedad"
+  },
+  {
+    "entidad": "capacidad física",
+    "relacion": "mejora en",
+    "valor": "fases leve y moderada de la enfermedad"
+  },
+  {
+    "entidad": "capacidad cognitiva",
+    "relacion": "disminuye en",
+    "valor": "todas las fases de la enfermedad"
+  },
+  {
+    "entidad": "programa de intervención",
+    "relacion": "duración de",
+    "valor": "12 meses"
+  },
+  {
+    "entidad": "comité ético de investigación clínica",
+    "relacion": "aprueba",
+    "valor": "programa de ejercicio"
+  },
+  {
+    "entidad": "universidad de Girona",
+    "relacion": "pertenece a",
+    "valor": "departamento de enfermería"
+  },
+  {
+    "entidad": "Institut d’Assistència Sanitària",
+    "relacion": "es una",
+    "valor": "unidad de investigación"
+  },
+  {
+    "entidad": "Programa de Prevención de Defectos de Tubo Neural",
+    "relacion": "implementa",
+    "valor": "fortificación de harina con ácido fólico"
+  },
+  {
+    "entidad": "ácido fólico",
+    "relacion": "previene",
+    "valor": "defectos de tubo neural"
+  },
+  {
+    "entidad": "ECLAMC",
+    "relacion": "mantiene",
+    "valor": "vigilancia epidemiológica de malformaciones congénitas en Chile"
+  },
+  {
+    "entidad": "Congenital malformations (CMF)",
+    "relacion": "afecta a",
+    "valor": "mortalidad infantil"
+  },
+  {
+    "entidad": "Neural tube defects (NTD)",
+    "relacion": "tiene relevancia",
+    "valor": "salud pública"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "dispone",
+    "valor": "fortificación de harina con ácido fólico"
+  },
+  {
+    "entidad": "harina de trigo",
+    "relacion": "es fortificada con",
+    "valor": "ácido fólico"
+  },
+  {
+    "entidad": "anencefalia",
+    "relacion": "es un tipo de",
+    "valor": "defecto de tubo neural"
+  },
+  {
+    "entidad": "espina bífida",
+    "relacion": "es un tipo de",
+    "valor": "defecto de tubo neural"
+  },
+  {
+    "entidad": "cefalocele",
+    "relacion": "es un tipo de",
+    "valor": "defecto de tubo neural"
+  },
+  {
+    "entidad": "nacimientos en Chile",
+    "relacion": "se registran en",
+    "valor": "ECLAMC"
+  },
+  {
+    "entidad": "fortificación de harina",
+    "relacion": "reduce",
+    "valor": "prevalencia de defectos de tubo neural"
+  },
+  {
+    "entidad": "tasa de prevalencia de NTD",
+    "relacion": "se reduce de",
+    "valor": "17,03 a 9,58 por 10.000 nacimientos"
+  },
+  {
+    "entidad": "anencefalia",
+    "relacion": "se reduce de",
+    "valor": "7,15 a 3,66 por 10.000 nacimientos"
+  },
+  {
+    "entidad": "espina bífida",
+    "relacion": "se reduce de",
+    "valor": "8,60 a 4,48 por 10.000 nacimientos"
+  },
+  {
+    "entidad": "cefalocele",
+    "relacion": "se reduce en",
+    "valor": "20,10%"
+  },
+  {
+    "entidad": "fortificación de harina con ácido fólico",
+    "relacion": "previene",
+    "valor": "185 casos de NTD al año"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "es un país que",
+    "valor": "fortifica harina con ácido fólico desde 2000"
+  },
+  {
+    "entidad": "ECLAMC",
+    "relacion": "participan",
+    "valor": "114 maternidades en 10 países de Sudamérica"
+  },
+  {
+    "entidad": "ECLAMC",
+    "relacion": "es miembro de",
+    "valor": "ICBDMS"
+  },
+  {
+    "entidad": "tendencia de tasas de NTD",
+    "relacion": "se estudia en",
+    "valor": "períodos pre y post fortificación"
+  },
+  {
+    "entidad": "macroprolactinoma",
+    "relacion": "es un",
+    "valor": "tipo de tumor hipofisario"
+  },
+  {
+    "entidad": "agonistas de dopamina",
+    "relacion": "son",
+    "valor": "tratamiento efectivo para macroprolactinomas"
+  },
+  {
+    "entidad": "Instituto de Neurocirugía Dr. Asenjo",
+    "relacion": "realiza",
+    "valor": "tratamiento de macroprolactinomas"
+  },
+  {
+    "entidad": "bromocriptina",
+    "relacion": "es un",
+    "valor": "agonista de dopamina"
+  },
+  {
+    "entidad": "cabergolina",
+    "relacion": "es un",
+    "valor": "agonista de dopamina"
+  },
+  {
+    "entidad": "macroprolactinoma",
+    "relacion": "causa",
+    "valor": "deterioro visual"
+  },
+  {
+    "entidad": "deterioro visual",
+    "relacion": "es un",
+    "valor": "síntoma asociado a macroprolactinomas"
+  },
+  {
+    "entidad": "neuroendocrinología",
+    "relacion": "es un",
+    "valor": "campo de estudio relacionado con macroprolactinomas"
+  },
+  {
+    "entidad": "neurooftalmología",
+    "relacion": "es un",
+    "valor": "campo de estudio relacionado con deterioro visual"
+  },
+  {
+    "entidad": "macroprolactinoma",
+    "relacion": "se manifiesta por",
+    "valor": "cefalea, hipopituitarismo y deterioro visual"
+  },
+  {
+    "entidad": "niveles de prolactina",
+    "relacion": "son",
+    "valor": "indicadores para diagnóstico de macroprolactinoma"
+  },
+  {
+    "entidad": "resonancia magnética",
+    "relacion": "es un",
+    "valor": "examen de elección para diagnóstico de macroprolactinoma"
+  },
+  {
+    "entidad": "prolactinomas",
+    "relacion": "son",
+    "valor": "la principal patología neuroendocrina en neurocirugía"
+  },
+  {
+    "entidad": "deterioro visual",
+    "relacion": "puede ser causado por",
+    "valor": "compresión quiasmática"
+  },
+  {
+    "entidad": "macroprolactinoma",
+    "relacion": "puede ser tratado con",
+    "valor": "agonistas de dopamina"
+  },
+  {
+    "entidad": "pacientes con compromiso visual",
+    "relacion": "logran",
+    "valor": "mejoría visual con tratamiento"
+  },
+  {
+    "entidad": "atrofia papilar",
+    "relacion": "se asocia con",
+    "valor": "recuperación visual de menor cuantía"
+  },
+  {
+    "entidad": "macroprolactinomas",
+    "relacion": "son tratados con",
+    "valor": "cabergolina y bromocriptina"
+  },
+  {
+    "entidad": "cirugía",
+    "relacion": "es considerada",
+    "valor": "opción en casos refractarios a tratamiento médico"
+  },
+  {
+    "entidad": "evaluación multidisciplinaria",
+    "relacion": "es clave para",
+    "valor": "buenos resultados clínicos en pacientes con macroprolactinomas"
+  }
+]

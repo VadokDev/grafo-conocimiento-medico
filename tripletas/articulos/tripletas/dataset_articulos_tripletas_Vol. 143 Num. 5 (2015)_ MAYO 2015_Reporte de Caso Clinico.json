@@ -1,0 +1,262 @@
+[
+  {
+    "entidad": "Arteria hepática izquierda",
+    "relacion": "emerge de",
+    "valor": "arteria gastroduodenal"
+  },
+  {
+    "entidad": "Arteria hepática izquierda",
+    "relacion": "observada durante",
+    "valor": "cirugía de Whipple"
+  },
+  {
+    "entidad": "Variaciones anatómicas de la arteria hepática",
+    "relacion": "ocurren en",
+    "valor": "30 a 50% de pacientes"
+  },
+  {
+    "entidad": "Cáncer de cabeza de páncreas",
+    "relacion": "es tratado con",
+    "valor": "pancreatoduodenectomía"
+  },
+  {
+    "entidad": "Pancreatoduodenectomía",
+    "relacion": "es un",
+    "valor": "procedimiento complejo"
+  },
+  {
+    "entidad": "Equipo entrenado",
+    "relacion": "es recomendable para",
+    "valor": "cirugía de Whipple"
+  },
+  {
+    "entidad": "Variaciones anatómicas de la arteria hepática",
+    "relacion": "son importantes en",
+    "valor": "procedimientos quirúrgicos"
+  },
+  {
+    "entidad": "Hígado",
+    "relacion": "tiene suministro de sangre de",
+    "valor": "arteria hepática propia y vena porta"
+  },
+  {
+    "entidad": "Arteria hepática común",
+    "relacion": "se origina en",
+    "valor": "tronco celíaco"
+  },
+  {
+    "entidad": "Sección inadvertida de arterias hepáticas variantes",
+    "relacion": "puede llevar a",
+    "valor": "necrosis hepática"
+  },
+  {
+    "entidad": "Paciente de 58 años",
+    "relacion": "presenta",
+    "valor": "epigastric pain, jaundice y prurito"
+  },
+  {
+    "entidad": "Resonancia magnética",
+    "relacion": "mostró",
+    "valor": "masa en la cabeza del páncreas"
+  },
+  {
+    "entidad": "Arteria hepática accesoria",
+    "relacion": "provenía de",
+    "valor": "arteria gástrica izquierda"
+  },
+  {
+    "entidad": "Flujo arterial retrógrado",
+    "relacion": "significa",
+    "valor": "irrigación de territorio hepático"
+  },
+  {
+    "entidad": "Infarto en segmentos laterales del lóbulo hepático izquierdo",
+    "relacion": "fue informado por",
+    "valor": "TAC"
+  },
+  {
+    "entidad": "Evolución de la paciente",
+    "relacion": "fue",
+    "valor": "favorable"
+  },
+  {
+    "entidad": "Daño biliar intrahepático",
+    "relacion": "puede requerir",
+    "valor": "resección de zonas infartadas"
+  },
+  {
+    "entidad": "virus hepatitis C",
+    "relacion": "causa",
+    "valor": "cirrosis"
+  },
+  {
+    "entidad": "cirrosis",
+    "relacion": "es una",
+    "valor": "causa de trasplante hepático"
+  },
+  {
+    "entidad": "trasplante hepático",
+    "relacion": "recibe",
+    "valor": "inmunosupresión"
+  },
+  {
+    "entidad": "inmunosupresión",
+    "relacion": "disminuye",
+    "valor": "respuesta del tipo linfocito T"
+  },
+  {
+    "entidad": "eliminación espontánea de VHC",
+    "relacion": "ocurre en",
+    "valor": "pacientes trasplantados"
+  },
+  {
+    "entidad": "pacientes trasplantados",
+    "relacion": "tienen",
+    "valor": "reinfección universal de VHC"
+  },
+  {
+    "entidad": "mecanismos de eliminación",
+    "relacion": "son",
+    "valor": "múltiples y no predecibles"
+  },
+  {
+    "entidad": "respuesta de linfocitos T",
+    "relacion": "se asocia con",
+    "valor": "eliminación del VHC"
+  },
+  {
+    "entidad": "interferón gamma",
+    "relacion": "es producido por",
+    "valor": "linfocitos T en respuesta a proteínas virales"
+  },
+  {
+    "entidad": "superinfección por VHB",
+    "relacion": "puede estimular",
+    "valor": "eliminación del VHC"
+  },
+  {
+    "entidad": "sirolimus",
+    "relacion": "se asocia con",
+    "valor": "eliminación del VHC"
+  },
+  {
+    "entidad": "polimorfismos de IL28B",
+    "relacion": "inciden en",
+    "valor": "eliminación del VHC"
+  },
+  {
+    "entidad": "genotipo CC del polimorfismo rs12979860",
+    "relacion": "se asocia con",
+    "valor": "mayor probabilidad de eliminación espontánea"
+  },
+  {
+    "entidad": "pacientes con THO",
+    "relacion": "pueden experimentar",
+    "valor": "eliminación espontánea del VHC"
+  },
+  {
+    "entidad": "inmunosupresión prolongada",
+    "relacion": "no impide",
+    "valor": "eliminación del VHC"
+  },
+  {
+    "entidad": "terapia inmunosupresora",
+    "relacion": "puede ser seleccionada mejor por",
+    "valor": "factores que determinan eliminación del VHC"
+  },
+  {
+    "entidad": "Ileostomía en asa derivativa",
+    "relacion": "es un",
+    "valor": "tratamiento alternativo"
+  },
+  {
+    "entidad": "lavado colónico intraoperatorio",
+    "relacion": "es un",
+    "valor": "tratamiento alternativo"
+  },
+  {
+    "entidad": "Clostridium difficile",
+    "relacion": "causa",
+    "valor": "colitis grave"
+  },
+  {
+    "entidad": "colitis grave",
+    "relacion": "requiere",
+    "valor": "manejo quirúrgico"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "diabetes mellitus tipo 2"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "fue hospitalizada por",
+    "valor": "shock séptico grave"
+  },
+  {
+    "entidad": "diagnóstico",
+    "relacion": "se basa en",
+    "valor": "cuadro clínico y confirmación microbiológica"
+  },
+  {
+    "entidad": "C. difficile",
+    "relacion": "produce",
+    "valor": "exotoxinas nocivas"
+  },
+  {
+    "entidad": "exotoxinas",
+    "relacion": "gatillan",
+    "valor": "respuesta inflamatoria"
+  },
+  {
+    "entidad": "lavado colónico",
+    "relacion": "se realiza con",
+    "valor": "polietilenglicol al 7.5%"
+  },
+  {
+    "entidad": "vancomicina",
+    "relacion": "se utiliza para",
+    "valor": "lavados anterógrados"
+  },
+  {
+    "entidad": "colectomía total",
+    "relacion": "asocia a",
+    "valor": "alta mortalidad"
+  },
+  {
+    "entidad": "técnica quirúrgica",
+    "relacion": "se describe como",
+    "valor": "menos mórbida"
+  },
+  {
+    "entidad": "ICD grave",
+    "relacion": "requiere",
+    "valor": "evaluación multidisciplinaria"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "se reduce con",
+    "valor": "lavado colónico e ileostomía"
+  },
+  {
+    "entidad": "colitis pseudomembranosa",
+    "relacion": "se resuelve con",
+    "valor": "lavado colónico"
+  },
+  {
+    "entidad": "Clostridium difficile",
+    "relacion": "es un",
+    "valor": "bacteria Gram (+) formadora de esporas"
+  },
+  {
+    "entidad": "algoritmos diagnósticos",
+    "relacion": "son recomendados para",
+    "valor": "detección de C. difficile"
+  },
+  {
+    "entidad": "vancomicina",
+    "relacion": "se administra cada",
+    "valor": "6 horas postoperatorias"
+  }
+]

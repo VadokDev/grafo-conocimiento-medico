@@ -1,0 +1,407 @@
+[
+  {
+    "entidad": "Hiperactividad Simpática Paroxística",
+    "relacion": "es un",
+    "valor": "síndrome"
+  },
+  {
+    "entidad": "Hiperactividad Simpática Paroxística",
+    "relacion": "se asocia a",
+    "valor": "lesión cerebral aguda"
+  },
+  {
+    "entidad": "lesión cerebral aguda",
+    "relacion": "puede causar",
+    "valor": "Hiperactividad Simpática Paroxística"
+  },
+  {
+    "entidad": "Hiperactividad Simpática Paroxística",
+    "relacion": "presenta",
+    "valor": "crisis de hipertensión"
+  },
+  {
+    "entidad": "Hiperactividad Simpática Paroxística",
+    "relacion": "presenta",
+    "valor": "taquicardia"
+  },
+  {
+    "entidad": "Hiperactividad Simpática Paroxística",
+    "relacion": "presenta",
+    "valor": "hiperhidrosis"
+  },
+  {
+    "entidad": "Hiperactividad Simpática Paroxística",
+    "relacion": "presenta",
+    "valor": "rigidez muscular"
+  },
+  {
+    "entidad": "Hiperactividad Simpática Paroxística",
+    "relacion": "se alivia con",
+    "valor": "morfina"
+  },
+  {
+    "entidad": "Hiperactividad Simpática Paroxística",
+    "relacion": "se alivia con",
+    "valor": "beta-bloqueadores"
+  },
+  {
+    "entidad": "dysautonomia",
+    "relacion": "causa",
+    "valor": "aumento de catecolaminas"
+  },
+  {
+    "entidad": "paciente masculino de 19 años",
+    "relacion": "presenta",
+    "valor": "daño axonal difuso"
+  },
+  {
+    "entidad": "daño axonal difuso",
+    "relacion": "es secundario a",
+    "valor": "traumatismo encéfalo-craneano"
+  },
+  {
+    "entidad": "morfina",
+    "relacion": "se utiliza para",
+    "valor": "aliviar síntomas de Hiperactividad Simpática Paroxística"
+  },
+  {
+    "entidad": "Hiperactividad Simpática Paroxística",
+    "relacion": "se asocia a",
+    "valor": "mayor morbilidad"
+  },
+  {
+    "entidad": "Hiperactividad Simpática Paroxística",
+    "relacion": "se asocia a",
+    "valor": "mayores costos en salud"
+  },
+  {
+    "entidad": "Hiperactividad Simpática Paroxística",
+    "relacion": "se asocia a",
+    "valor": "hospitalizaciones prolongadas"
+  },
+  {
+    "entidad": "Hiperactividad Simpática Paroxística",
+    "relacion": "se asocia a",
+    "valor": "peores resultados"
+  },
+  {
+    "entidad": "respuesta simpática",
+    "relacion": "es mediada por",
+    "valor": "receptores de opioides"
+  },
+  {
+    "entidad": "Hiperactividad Simpática Paroxística",
+    "relacion": "se presenta en",
+    "valor": "8-10% de sobrevivientes de LCA severa"
+  },
+  {
+    "entidad": "Hiperactividad Simpática Paroxística",
+    "relacion": "puede ser diagnosticada con",
+    "valor": "herramienta diagnóstica propuesta por Baguley et al."
+  },
+  {
+    "entidad": "Hiperactividad Simpática Paroxística",
+    "relacion": "se presenta en",
+    "valor": "tres fases"
+  },
+  {
+    "entidad": "fase asintomática",
+    "relacion": "dura",
+    "valor": "entre una y dos semanas"
+  },
+  {
+    "entidad": "fase clínica",
+    "relacion": "aparece en promedio",
+    "valor": "día 74 de evolución"
+  },
+  {
+    "entidad": "fase de resolución",
+    "relacion": "consiste en",
+    "valor": "la desaparición de síntomas"
+  },
+  {
+    "entidad": "Carcinoma papilar de tiroides",
+    "relacion": "es un",
+    "valor": "cáncer endocrinológico"
+  },
+  {
+    "entidad": "Metástasis pancreática",
+    "relacion": "es un",
+    "valor": "presentación rara de carcinoma papilar de tiroides"
+  },
+  {
+    "entidad": "Hombre de 80 años",
+    "relacion": "presenta",
+    "valor": "ictericia obstructiva y disfonía"
+  },
+  {
+    "entidad": "Ultrasonografía abdominal",
+    "relacion": "muestra",
+    "valor": "dilatación biliar"
+  },
+  {
+    "entidad": "Resonancia magnética abdominal",
+    "relacion": "evidencia",
+    "valor": "masa en cabeza de páncreas"
+  },
+  {
+    "entidad": "Tomografía computarizada cervical",
+    "relacion": "muestra",
+    "valor": "múltiples nódulos tiroideos"
+  },
+  {
+    "entidad": "PET/CT con 18F-FDG",
+    "relacion": "evidencia",
+    "valor": "actividad hipermetabólica en múltiples localizaciones"
+  },
+  {
+    "entidad": "Biopsia tiroidea",
+    "relacion": "reporta",
+    "valor": "variante de células altas de carcinoma papilar de tiroides"
+  },
+  {
+    "entidad": "EUS-FNA",
+    "relacion": "confirma",
+    "valor": "metástasis de carcinoma papilar de tiroides"
+  },
+  {
+    "entidad": "Estudio molecular",
+    "relacion": "es positivo para",
+    "valor": "BRAFV600E"
+  },
+  {
+    "entidad": "Metástasis pancreática",
+    "relacion": "puede ser diagnosticada con",
+    "valor": "18F-FDG PET/CT y EUS-FNA"
+  },
+  {
+    "entidad": "Mutación BRAFV600E",
+    "relacion": "asocia a",
+    "valor": "presentación agresiva y pobre supervivencia"
+  },
+  {
+    "entidad": "Terapia multimodal",
+    "relacion": "puede mejorar",
+    "valor": "pronóstico en pacientes con metástasis pancreática"
+  },
+  {
+    "entidad": "Endocrinología",
+    "relacion": "pertenece a",
+    "valor": "Pontificia Universidad Católica de Chile"
+  },
+  {
+    "entidad": "Gastroenterología",
+    "relacion": "pertenece a",
+    "valor": "Pontificia Universidad Católica de Chile"
+  },
+  {
+    "entidad": "Cirugía de Cabeza y Cuello",
+    "relacion": "pertenece a",
+    "valor": "Pontificia Universidad Católica de Chile"
+  },
+  {
+    "entidad": "Anatomía Patológica",
+    "relacion": "pertenece a",
+    "valor": "Pontificia Universidad Católica de Chile"
+  },
+  {
+    "entidad": "Centro Traslacional de Endocrinología (CETREN)",
+    "relacion": "es un",
+    "valor": "centro de investigación"
+  },
+  {
+    "entidad": "Tiroglobulina",
+    "relacion": "es un",
+    "valor": "marcador tumoral"
+  },
+  {
+    "entidad": "Anticuerpos anti-tiroglobulina",
+    "relacion": "mide",
+    "valor": "respuesta inmune"
+  },
+  {
+    "entidad": "Colangiopancreatografía retrógrada endoscópica",
+    "relacion": "se utiliza para",
+    "valor": "desobstruir la vía biliar"
+  },
+  {
+    "entidad": "Inhibidores de tirosin kinasa",
+    "relacion": "son considerados en",
+    "valor": "progresión clínica significativa"
+  },
+  {
+    "entidad": "Radioyodo",
+    "relacion": "se administra para",
+    "valor": "tratamiento de metástasis"
+  },
+  {
+    "entidad": "Mutación BRAF",
+    "relacion": "es relevante para",
+    "valor": "carcinogénesis del carcinoma papilar de tiroides"
+  },
+  {
+    "entidad": "Miastenia gravis",
+    "relacion": "es un",
+    "valor": "trastorno neuromuscular"
+  },
+  {
+    "entidad": "Miastenia gravis refractaria",
+    "relacion": "se define como",
+    "valor": "falta de cambio o deterioro tras tratamiento adecuado"
+  },
+  {
+    "entidad": "Fundación Americana de Miastenia Gravis (MGFA)",
+    "relacion": "definió",
+    "valor": "miastenia gravis refractaria"
+  },
+  {
+    "entidad": "rituximab",
+    "relacion": "es un",
+    "valor": "anticuerpo monoclonal quimérico anti-CD20"
+  },
+  {
+    "entidad": "rituximab",
+    "relacion": "demostró efectividad en",
+    "valor": "varias series de casos clínicos"
+  },
+  {
+    "entidad": "rituximab",
+    "relacion": "es efectivo en",
+    "valor": "50-70% de los pacientes con MG"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presentó",
+    "valor": "cuatro crisis miasténicas en 17 meses"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "fue tratada con",
+    "valor": "rituximab"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "evolucionó con",
+    "valor": "respuesta excelente al tratamiento"
+  },
+  {
+    "entidad": "rituximab",
+    "relacion": "permite la",
+    "valor": "disminución de terapias inmunosupresoras"
+  },
+  {
+    "entidad": "rituximab",
+    "relacion": "impacta en",
+    "valor": "costos hospitalarios"
+  },
+  {
+    "entidad": "timectomía",
+    "relacion": "ha demostrado ser",
+    "valor": "efectiva en pacientes con MG generalizada"
+  },
+  {
+    "entidad": "azatioprina",
+    "relacion": "es un",
+    "valor": "agente inmunosupresor de primera línea"
+  },
+  {
+    "entidad": "terapias biológicas",
+    "relacion": "prometen tener",
+    "valor": "efecto significativo como ahorrador de corticoides"
+  },
+  {
+    "entidad": "metaanálisis",
+    "relacion": "avaló",
+    "valor": "uso de rituximab en MG refractaria"
+  },
+  {
+    "entidad": "pacientes con anticuerpos MuSK",
+    "relacion": "son más efectivos con",
+    "valor": "rituximab que pacientes con anticuerpos AChR-Ab"
+  },
+  {
+    "entidad": "Tofacitinib",
+    "relacion": "es un",
+    "valor": "tratamiento para la colitis ulcerosa"
+  },
+  {
+    "entidad": "colitis ulcerosa",
+    "relacion": "es una",
+    "valor": "enfermedad inflamatoria intestinal"
+  },
+  {
+    "entidad": "Tofacitinib",
+    "relacion": "actúa sobre",
+    "valor": "la vía JAK/STAT"
+  },
+  {
+    "entidad": "Tofacitinib",
+    "relacion": "induce",
+    "valor": "remisión en pacientes con colitis ulcerosa"
+  },
+  {
+    "entidad": "colitis ulcerosa",
+    "relacion": "presenta",
+    "valor": "períodos de actividad y remisión"
+  },
+  {
+    "entidad": "Tofacitinib",
+    "relacion": "es seguro y efectivo en",
+    "valor": "inducir y mantener remisión"
+  },
+  {
+    "entidad": "pacientes con colitis ulcerosa",
+    "relacion": "pueden ser tratados con",
+    "valor": "anti-TNF o tofacitinib"
+  },
+  {
+    "entidad": "Tofacitinib",
+    "relacion": "no produce",
+    "valor": "inmunogenicidad"
+  },
+  {
+    "entidad": "Tofacitinib",
+    "relacion": "mejora",
+    "valor": "la calidad de vida relacionada con la salud"
+  },
+  {
+    "entidad": "perfil lipídico",
+    "relacion": "puede ser alterado por",
+    "valor": "Tofacitinib"
+  },
+  {
+    "entidad": "Tofacitinib",
+    "relacion": "es una opción para",
+    "valor": "pacientes refractarios a anti-TNF"
+  },
+  {
+    "entidad": "vacuna varicela zoster",
+    "relacion": "debe ser administrada",
+    "valor": "4 semanas antes de iniciar Tofacitinib"
+  },
+  {
+    "entidad": "estudios OCTAVE Induction 1 y 2",
+    "relacion": "evaluaron",
+    "valor": "la efectividad de Tofacitinib"
+  },
+  {
+    "entidad": "Tofacitinib",
+    "relacion": "se utiliza en",
+    "valor": "fase de inducción y mantenimiento"
+  },
+  {
+    "entidad": "Tofacitinib",
+    "relacion": "demuestra",
+    "valor": "eficacia clínica rápida"
+  },
+  {
+    "entidad": "Tofacitinib",
+    "relacion": "es asociado con",
+    "valor": "eventos trombóticos y herpes zoster"
+  },
+  {
+    "entidad": "Tofacitinib",
+    "relacion": "requiere consideración de",
+    "valor": "costos económicos"
+  }
+]

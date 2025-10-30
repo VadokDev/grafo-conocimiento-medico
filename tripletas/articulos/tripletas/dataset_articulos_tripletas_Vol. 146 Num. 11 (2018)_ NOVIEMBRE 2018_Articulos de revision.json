@@ -1,0 +1,122 @@
+[
+  {
+    "entidad": "ácido acetilsalicílico",
+    "relacion": "causa",
+    "valor": "intoxicación"
+  },
+  {
+    "entidad": "ácido acetilsalicílico",
+    "relacion": "se transforma en",
+    "valor": "ácido salicílico"
+  },
+  {
+    "entidad": "ácido salicílico",
+    "relacion": "produce",
+    "valor": "alteraciones múltiples"
+  },
+  {
+    "entidad": "salicilato",
+    "relacion": "es la principal forma de",
+    "valor": "ácido acetilsalicílico en el cuerpo"
+  },
+  {
+    "entidad": "salicilato",
+    "relacion": "induce",
+    "valor": "acidosis metabólica"
+  },
+  {
+    "entidad": "intoxicación por salicilatos",
+    "relacion": "puede causar",
+    "valor": "falla orgánica múltiple"
+  },
+  {
+    "entidad": "intoxicación por salicilatos",
+    "relacion": "se presenta con",
+    "valor": "síntomas neurológicos"
+  },
+  {
+    "entidad": "intoxicación por salicilatos",
+    "relacion": "requiere",
+    "valor": "conocimiento de farmacocinética y farmacodinamia"
+  },
+  {
+    "entidad": "tratamiento",
+    "relacion": "incluye",
+    "valor": "medidas de soporte vital"
+  },
+  {
+    "entidad": "tratamiento",
+    "relacion": "incluye",
+    "valor": "lavado gástrico"
+  },
+  {
+    "entidad": "tratamiento",
+    "relacion": "incluye",
+    "valor": "carbón activado"
+  },
+  {
+    "entidad": "tratamiento",
+    "relacion": "incluye",
+    "valor": "alcalinización urinaria"
+  },
+  {
+    "entidad": "salicilato",
+    "relacion": "se excreta principalmente como",
+    "valor": "salicilurato"
+  },
+  {
+    "entidad": "salicilato",
+    "relacion": "afecta",
+    "valor": "coagulación"
+  },
+  {
+    "entidad": "salicilato",
+    "relacion": "produce",
+    "valor": "lesiones gastrointestinales"
+  },
+  {
+    "entidad": "salicilato",
+    "relacion": "causa",
+    "valor": "ototoxicidad"
+  },
+  {
+    "entidad": "salicilato",
+    "relacion": "induce",
+    "valor": "encefalopatía"
+  },
+  {
+    "entidad": "hemodiálisis",
+    "relacion": "es indicada en",
+    "valor": "intoxicación severa"
+  },
+  {
+    "entidad": "bicarbonato de sodio",
+    "relacion": "se utiliza para",
+    "valor": "alcalinización urinaria"
+  },
+  {
+    "entidad": "salicilato",
+    "relacion": "tiene un efecto",
+    "valor": "dual en la excreción urinaria de ácido úrico"
+  },
+  {
+    "entidad": "salicilato",
+    "relacion": "puede causar",
+    "valor": "hipokalemia"
+  },
+  {
+    "entidad": "salicilato",
+    "relacion": "puede provocar",
+    "valor": "acidosis metabólica"
+  },
+  {
+    "entidad": "salicilato",
+    "relacion": "puede causar",
+    "valor": "bicarbonaturia"
+  },
+  {
+    "entidad": "intoxicación por salicilatos",
+    "relacion": "puede resultar en",
+    "valor": "deshidratación"
+  }
+]

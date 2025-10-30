@@ -1,0 +1,107 @@
+[
+  {
+    "entidad": "Finasteride",
+    "relacion": "es un",
+    "valor": "inhibidor de 5-α reductasa"
+  },
+  {
+    "entidad": "Finasteride",
+    "relacion": "se utiliza en",
+    "valor": "el manejo de hiperplasia prostática benigna"
+  },
+  {
+    "entidad": "Finasteride",
+    "relacion": "se utiliza en",
+    "valor": "la pérdida de cabello de patrón masculino"
+  },
+  {
+    "entidad": "Finasteride",
+    "relacion": "mejora",
+    "valor": "la calidad de vida en hombres con estas condiciones"
+  },
+  {
+    "entidad": "Finasteride",
+    "relacion": "asociado a",
+    "valor": "efectos adversos transitorios y permanentes"
+  },
+  {
+    "entidad": "Food and Drug Administration (FDA)",
+    "relacion": "publicó",
+    "valor": "advertencia sobre el riesgo de cáncer de mama asociado a finasteride"
+  },
+  {
+    "entidad": "cáncer de mama",
+    "relacion": "asociado a",
+    "valor": "uso de finasteride"
+  },
+  {
+    "entidad": "estudio MTOPS",
+    "relacion": "incluyó",
+    "valor": "3.047 hombres"
+  },
+  {
+    "entidad": "cáncer de próstata",
+    "relacion": "asociado a",
+    "valor": "uso de finasteride"
+  },
+  {
+    "entidad": "Finasteride",
+    "relacion": "reduce",
+    "valor": "el riesgo de cáncer de próstata en hombres mayores de 54 años"
+  },
+  {
+    "entidad": "Finasteride",
+    "relacion": "aumenta",
+    "valor": "el riesgo de disfunción eréctil"
+  },
+  {
+    "entidad": "Finasteride",
+    "relacion": "aumenta",
+    "valor": "el riesgo de disminución de la libido"
+  },
+  {
+    "entidad": "Finasteride",
+    "relacion": "aumenta",
+    "valor": "el riesgo de disminución del volumen eyaculatorio"
+  },
+  {
+    "entidad": "tadalafil",
+    "relacion": "mejora",
+    "valor": "la disfunción sexual en pacientes tratados con finasteride"
+  },
+  {
+    "entidad": "alteraciones del espermiograma",
+    "relacion": "asociadas a",
+    "valor": "uso de finasteride"
+  },
+  {
+    "entidad": "Finasteride",
+    "relacion": "no afecta",
+    "valor": "el espermiograma a dosis de 1 mg/día"
+  },
+  {
+    "entidad": "5-α reductasa",
+    "relacion": "juega un rol en",
+    "valor": "el metabolismo de andrógenos y glucocorticoides"
+  },
+  {
+    "entidad": "Finasteride",
+    "relacion": "no ocasiona",
+    "valor": "disminución de la densidad mineral ósea"
+  },
+  {
+    "entidad": "Finasteride",
+    "relacion": "no aumenta",
+    "valor": "el riesgo de eventos cardiovasculares adversos"
+  },
+  {
+    "entidad": "depresión",
+    "relacion": "asociada a",
+    "valor": "exposición a finasteride en dosis bajas"
+  },
+  {
+    "entidad": "neuroesteroides",
+    "relacion": "juegan un rol en",
+    "valor": "la modulación de la depresión"
+  }
+]

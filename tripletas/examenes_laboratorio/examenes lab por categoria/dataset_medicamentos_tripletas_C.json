@@ -1,0 +1,742 @@
+[
+  {
+    "entidad": "Cadenas ligeras libres",
+    "relacion": "mide",
+    "valor": "nivel de cadenas ligeras libres en la sangre"
+  },
+  {
+    "entidad": "Cadenas ligeras libres",
+    "relacion": "diagnostica",
+    "valor": "mieloma múltiple"
+  },
+  {
+    "entidad": "Cadenas ligeras libres",
+    "relacion": "diagnostica",
+    "valor": "amiloidosis"
+  },
+  {
+    "entidad": "Cadenas ligeras libres",
+    "relacion": "diagnostica",
+    "valor": "gammapatía monoclonal de significado desconocido (MGUS)"
+  },
+  {
+    "entidad": "Cadenas ligeras libres",
+    "relacion": "diagnostica",
+    "valor": "macroglobulinemia de Waldenstrom"
+  },
+  {
+    "entidad": "Cadenas ligeras libres",
+    "relacion": "requiere_muestra_de",
+    "valor": "sangre de una vena del brazo"
+  },
+  {
+    "entidad": "Cadenas ligeras libres",
+    "relacion": "tiene_duracion",
+    "valor": "menos de cinco minutos"
+  },
+  {
+    "entidad": "Cadenas ligeras libres",
+    "relacion": "tiene_riesgo",
+    "valor": "dolor leve o moretón en el lugar de la punción"
+  },
+  {
+    "entidad": "Cadenas ligeras libres",
+    "relacion": "util_para",
+    "valor": "controlar tratamiento de trastornos de células plasmáticas"
+  },
+  {
+    "entidad": "Cadenas ligeras libres",
+    "relacion": "indicado_si_tiene",
+    "valor": "síntomas de un trastorno de las células plasmáticas"
+  },
+  {
+    "entidad": "Cadenas ligeras libres",
+    "relacion": "ayuda_diagnosticar",
+    "valor": "trastornos de células plasmáticas"
+  },
+  {
+    "entidad": "Cadenas ligeras libres",
+    "relacion": "es_tipo_de",
+    "valor": "prueba de laboratorio"
+  },
+  {
+    "entidad": "Colposcopia",
+    "relacion": "analiza",
+    "valor": "células anormales"
+  },
+  {
+    "entidad": "Colposcopia",
+    "relacion": "detecta",
+    "valor": "células cancerosas"
+  },
+  {
+    "entidad": "Colposcopia",
+    "relacion": "detecta",
+    "valor": "células precancerosas"
+  },
+  {
+    "entidad": "Colposcopia",
+    "relacion": "detecta",
+    "valor": "verrugas genitales"
+  },
+  {
+    "entidad": "Colposcopia",
+    "relacion": "detecta",
+    "valor": "pólipos"
+  },
+  {
+    "entidad": "Colposcopia",
+    "relacion": "diagnostica",
+    "valor": "cáncer cervical"
+  },
+  {
+    "entidad": "Colposcopia",
+    "relacion": "diagnostica",
+    "valor": "cáncer de vagina"
+  },
+  {
+    "entidad": "Colposcopia",
+    "relacion": "diagnostica",
+    "valor": "cáncer de vulva"
+  },
+  {
+    "entidad": "Colposcopia",
+    "relacion": "indicado_si_tiene",
+    "valor": "resultados anormales en la prueba de Papanicolaou"
+  },
+  {
+    "entidad": "Colposcopia",
+    "relacion": "indicado_si_tiene",
+    "valor": "diagnóstico de VPH"
+  },
+  {
+    "entidad": "Colposcopia",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "sangrado vaginal anormal"
+  },
+  {
+    "entidad": "Colposcopia",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "picazón de la vulva"
+  },
+  {
+    "entidad": "Colposcopia",
+    "relacion": "tiene_duracion",
+    "valor": "10 a 20 minutos"
+  },
+  {
+    "entidad": "Colposcopia",
+    "relacion": "requiere_muestra_de",
+    "valor": "tejido del cuello uterino"
+  },
+  {
+    "entidad": "Colposcopia",
+    "relacion": "utiliza_equipo",
+    "valor": "colposcopio"
+  },
+  {
+    "entidad": "Colposcopia",
+    "relacion": "realizado_por",
+    "valor": "profesional de la salud"
+  },
+  {
+    "entidad": "Colposcopia",
+    "relacion": "realizado_por",
+    "valor": "ginecólogo"
+  },
+  {
+    "entidad": "Colposcopia",
+    "relacion": "tiene_riesgo",
+    "valor": "dolor leve a moderado"
+  },
+  {
+    "entidad": "Colposcopia",
+    "relacion": "tiene_riesgo",
+    "valor": "sangrado leve"
+  },
+  {
+    "entidad": "Colposcopia",
+    "relacion": "tiene_riesgo",
+    "valor": "infección"
+  },
+  {
+    "entidad": "Colposcopia",
+    "relacion": "es_tipo_de",
+    "valor": "procedimiento diagnóstico"
+  },
+  {
+    "entidad": "Cultivo de esputo",
+    "relacion": "analiza",
+    "valor": "bacterias y otros gérmenes"
+  },
+  {
+    "entidad": "Cultivo de esputo",
+    "relacion": "alivia",
+    "valor": "infecciones en el aparato respiratorio"
+  },
+  {
+    "entidad": "Cultivo de esputo",
+    "relacion": "requiere_muestra_de",
+    "valor": "esputo"
+  },
+  {
+    "entidad": "Cultivo de esputo",
+    "relacion": "indicado_si_tiene",
+    "valor": "infección pulmonar"
+  },
+  {
+    "entidad": "Cultivo de esputo",
+    "relacion": "diagnostica",
+    "valor": "neumonía"
+  },
+  {
+    "entidad": "Cultivo de esputo",
+    "relacion": "diagnostica",
+    "valor": "tuberculosis"
+  },
+  {
+    "entidad": "Cultivo de esputo",
+    "relacion": "diagnostica",
+    "valor": "bronquiectasia"
+  },
+  {
+    "entidad": "Cultivo de esputo",
+    "relacion": "tiene_duracion",
+    "valor": "días a semanas"
+  },
+  {
+    "entidad": "Cultivo de esputo",
+    "relacion": "utiliza_equipo",
+    "valor": "taza especial"
+  },
+  {
+    "entidad": "Cultivo de esputo",
+    "relacion": "se_realiza_en",
+    "valor": "laboratorio"
+  },
+  {
+    "entidad": "Cultivo de esputo",
+    "relacion": "es_tipo_de",
+    "valor": "prueba de laboratorio"
+  },
+  {
+    "entidad": "Cultivo de esputo",
+    "relacion": "ayuda_diagnosticar",
+    "valor": "infecciones bacterianas o por hongos"
+  },
+  {
+    "entidad": "Cultivo de esputo",
+    "relacion": "sugiere_condicion",
+    "valor": "empeoramiento de enfermedad pulmonar crónica"
+  },
+  {
+    "entidad": "Cultivo de esputo",
+    "relacion": "realizado_por",
+    "valor": "profesional de la salud"
+  },
+  {
+    "entidad": "Conteo de glóbulos rojos",
+    "relacion": "mide",
+    "valor": "número de glóbulos rojos en la sangre"
+  },
+  {
+    "entidad": "Conteo de glóbulos rojos",
+    "relacion": "diagnostica",
+    "valor": "anemia"
+  },
+  {
+    "entidad": "Conteo de glóbulos rojos",
+    "relacion": "diagnostica",
+    "valor": "leucemia"
+  },
+  {
+    "entidad": "Conteo de glóbulos rojos",
+    "relacion": "diagnostica",
+    "valor": "desnutrición"
+  },
+  {
+    "entidad": "Conteo de glóbulos rojos",
+    "relacion": "diagnostica",
+    "valor": "mieloma múltiple"
+  },
+  {
+    "entidad": "Conteo de glóbulos rojos",
+    "relacion": "diagnostica",
+    "valor": "insuficiencia renal"
+  },
+  {
+    "entidad": "Conteo de glóbulos rojos",
+    "relacion": "diagnostica",
+    "valor": "pérdida de sangre"
+  },
+  {
+    "entidad": "Conteo de glóbulos rojos",
+    "relacion": "diagnostica",
+    "valor": "trastorno por consumo de alcohol"
+  },
+  {
+    "entidad": "Conteo de glóbulos rojos",
+    "relacion": "diagnostica",
+    "valor": "embarazo"
+  },
+  {
+    "entidad": "Conteo de glóbulos rojos",
+    "relacion": "diagnostica",
+    "valor": "deshidratación"
+  },
+  {
+    "entidad": "Conteo de glóbulos rojos",
+    "relacion": "diagnostica",
+    "valor": "enfermedad del corazón"
+  },
+  {
+    "entidad": "Conteo de glóbulos rojos",
+    "relacion": "diagnostica",
+    "valor": "policitemia vera"
+  },
+  {
+    "entidad": "Conteo de glóbulos rojos",
+    "relacion": "diagnostica",
+    "valor": "cicatrización de los pulmones"
+  },
+  {
+    "entidad": "Conteo de glóbulos rojos",
+    "relacion": "diagnostica",
+    "valor": "enfermedad pulmonar"
+  },
+  {
+    "entidad": "Conteo de glóbulos rojos",
+    "relacion": "diagnostica",
+    "valor": "cáncer de riñón"
+  },
+  {
+    "entidad": "Conteo de glóbulos rojos",
+    "relacion": "diagnostica",
+    "valor": "apnea del sueño"
+  },
+  {
+    "entidad": "Conteo de glóbulos rojos",
+    "relacion": "requiere_muestra_de",
+    "valor": "sangre de una vena del brazo"
+  },
+  {
+    "entidad": "Conteo de glóbulos rojos",
+    "relacion": "tiene_duracion",
+    "valor": "menos de cinco minutos"
+  },
+  {
+    "entidad": "Conteo de glóbulos rojos",
+    "relacion": "tiene_riesgo",
+    "valor": "dolor leve o moretón en el lugar de la punción"
+  },
+  {
+    "entidad": "Conteo de glóbulos rojos",
+    "relacion": "es_parte_de",
+    "valor": "conteo sanguíneo completo"
+  },
+  {
+    "entidad": "Conteo de glóbulos rojos",
+    "relacion": "util_para",
+    "valor": "monitorear problemas de salud"
+  },
+  {
+    "entidad": "Conteo de glóbulos rojos",
+    "relacion": "indicado_si_tiene",
+    "valor": "síntomas de conteo de glóbulos rojos bajo o alto"
+  },
+  {
+    "entidad": "Conteo de glóbulos rojos",
+    "relacion": "realizado_por",
+    "valor": "profesional de la salud"
+  },
+  {
+    "entidad": "Conteo de glóbulos blancos",
+    "relacion": "mide",
+    "valor": "número de glóbulos blancos en la sangre"
+  },
+  {
+    "entidad": "Conteo de glóbulos blancos",
+    "relacion": "diagnostica",
+    "valor": "infecciones bacterianas o virales"
+  },
+  {
+    "entidad": "Conteo de glóbulos blancos",
+    "relacion": "diagnostica",
+    "valor": "cánceres como la leucemia y la enfermedad de Hodgkin"
+  },
+  {
+    "entidad": "Conteo de glóbulos blancos",
+    "relacion": "diagnostica",
+    "valor": "enfermedades autoinmunitarias e inflamatorias"
+  },
+  {
+    "entidad": "Conteo de glóbulos blancos",
+    "relacion": "diagnostica",
+    "valor": "reacciones alérgicas"
+  },
+  {
+    "entidad": "Conteo de glóbulos blancos",
+    "relacion": "diagnostica",
+    "valor": "enfermedades del sistema inmunitario como el VIH"
+  },
+  {
+    "entidad": "Conteo de glóbulos blancos",
+    "relacion": "diagnostica",
+    "valor": "enfermedades del hígado o del bazo"
+  },
+  {
+    "entidad": "Conteo de glóbulos blancos",
+    "relacion": "indicado_si_tiene",
+    "valor": "signos de infección"
+  },
+  {
+    "entidad": "Conteo de glóbulos blancos",
+    "relacion": "indicado_si_tiene",
+    "valor": "inflamación"
+  },
+  {
+    "entidad": "Conteo de glóbulos blancos",
+    "relacion": "indicado_si_tiene",
+    "valor": "enfermedad autoinmunitaria"
+  },
+  {
+    "entidad": "Conteo de glóbulos blancos",
+    "relacion": "requiere_muestra_de",
+    "valor": "sangre de una vena del brazo"
+  },
+  {
+    "entidad": "Conteo de glóbulos blancos",
+    "relacion": "tiene_riesgo",
+    "valor": "dolor leve o moretón en el lugar de la punción"
+  },
+  {
+    "entidad": "Conteo de glóbulos blancos",
+    "relacion": "es_tipo_de",
+    "valor": "prueba de laboratorio"
+  },
+  {
+    "entidad": "Conteo de glóbulos blancos",
+    "relacion": "util_para",
+    "valor": "diagnosticar o controlar enfermedades relacionadas con el conteo de glóbulos blancos"
+  },
+  {
+    "entidad": "Conteo de glóbulos blancos",
+    "relacion": "es_parte_de",
+    "valor": "hemograma o conteo sanguíneo completo"
+  },
+  {
+    "entidad": "Cociente de microalbúmina y creatinina",
+    "relacion": "mide",
+    "valor": "niveles de albúmina y creatinina en la orina"
+  },
+  {
+    "entidad": "Cociente de microalbúmina y creatinina",
+    "relacion": "indicado_si_tiene",
+    "valor": "diabetes"
+  },
+  {
+    "entidad": "Cociente de microalbúmina y creatinina",
+    "relacion": "indicado_si_tiene",
+    "valor": "presión arterial alta"
+  },
+  {
+    "entidad": "Cociente de microalbúmina y creatinina",
+    "relacion": "indicado_si_tiene",
+    "valor": "antecedentes familiares de enfermedad renal"
+  },
+  {
+    "entidad": "Cociente de microalbúmina y creatinina",
+    "relacion": "indicado_si_tiene",
+    "valor": "enfermedad cardiaca"
+  },
+  {
+    "entidad": "Cociente de microalbúmina y creatinina",
+    "relacion": "indicado_si_tiene",
+    "valor": "más de 50 años"
+  },
+  {
+    "entidad": "Cociente de microalbúmina y creatinina",
+    "relacion": "indicado_si_tiene",
+    "valor": "obesidad"
+  },
+  {
+    "entidad": "Cociente de microalbúmina y creatinina",
+    "relacion": "diagnostica",
+    "valor": "enfermedad renal"
+  },
+  {
+    "entidad": "Cociente de microalbúmina y creatinina",
+    "relacion": "requiere_muestra_de",
+    "valor": "orina"
+  },
+  {
+    "entidad": "Cociente de microalbúmina y creatinina",
+    "relacion": "tiene_riesgo",
+    "valor": "no tiene riesgos conocidos"
+  },
+  {
+    "entidad": "Cociente de microalbúmina y creatinina",
+    "relacion": "util_para",
+    "valor": "buscar signos de enfermedad renal"
+  },
+  {
+    "entidad": "Cociente de microalbúmina y creatinina",
+    "relacion": "es_tipo_de",
+    "valor": "prueba de laboratorio"
+  },
+  {
+    "entidad": "Cociente de microalbúmina y creatinina",
+    "relacion": "ayuda_diagnosticar",
+    "valor": "enfermedad renal en etapas iniciales"
+  },
+  {
+    "entidad": "Cociente de microalbúmina y creatinina",
+    "relacion": "sugiere_condicion",
+    "valor": "enfermedad renal"
+  },
+  {
+    "entidad": "Cociente de microalbúmina y creatinina",
+    "relacion": "realizado_por",
+    "valor": "profesional de la salud"
+  },
+  {
+    "entidad": "Conteo de reticulocitos",
+    "relacion": "mide",
+    "valor": "número de reticulocitos en la sangre"
+  },
+  {
+    "entidad": "Conteo de reticulocitos",
+    "relacion": "diagnostica",
+    "valor": "anemia"
+  },
+  {
+    "entidad": "Conteo de reticulocitos",
+    "relacion": "diagnostica",
+    "valor": "trastornos de la médula ósea"
+  },
+  {
+    "entidad": "Conteo de reticulocitos",
+    "relacion": "diagnostica",
+    "valor": "enfermedad del hígado"
+  },
+  {
+    "entidad": "Conteo de reticulocitos",
+    "relacion": "diagnostica",
+    "valor": "enfermedad de los riñones"
+  },
+  {
+    "entidad": "Conteo de reticulocitos",
+    "relacion": "indicado_si_tiene",
+    "valor": "anemia"
+  },
+  {
+    "entidad": "Conteo de reticulocitos",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "debilidad"
+  },
+  {
+    "entidad": "Conteo de reticulocitos",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "fatiga"
+  },
+  {
+    "entidad": "Conteo de reticulocitos",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Conteo de reticulocitos",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "mareo"
+  },
+  {
+    "entidad": "Conteo de reticulocitos",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "arritmia"
+  },
+  {
+    "entidad": "Conteo de reticulocitos",
+    "relacion": "requiere_muestra_de",
+    "valor": "sangre de una vena del brazo"
+  },
+  {
+    "entidad": "Conteo de reticulocitos",
+    "relacion": "tiene_duracion",
+    "valor": "menos de cinco minutos"
+  },
+  {
+    "entidad": "Conteo de reticulocitos",
+    "relacion": "tiene_riesgo",
+    "valor": "dolor leve en el lugar de la punción"
+  },
+  {
+    "entidad": "Conteo de reticulocitos",
+    "relacion": "tiene_riesgo",
+    "valor": "moretón en el lugar de la punción"
+  },
+  {
+    "entidad": "Conteo de reticulocitos",
+    "relacion": "util_para",
+    "valor": "verificar producción de glóbulos rojos"
+  },
+  {
+    "entidad": "Conteo de reticulocitos",
+    "relacion": "es_tipo_de",
+    "valor": "examen de sangre"
+  },
+  {
+    "entidad": "Conteo de reticulocitos",
+    "relacion": "realizado_por",
+    "valor": "profesional de la salud"
+  },
+  {
+    "entidad": "Creatina cinasa",
+    "relacion": "mide",
+    "valor": "cantidad de creatina cinasa en sangre"
+  },
+  {
+    "entidad": "Creatina cinasa",
+    "relacion": "alivia",
+    "valor": "daño muscular"
+  },
+  {
+    "entidad": "Creatina cinasa",
+    "relacion": "indicado_si_tiene",
+    "valor": "lesiones musculares"
+  },
+  {
+    "entidad": "Creatina cinasa",
+    "relacion": "indicado_si_tiene",
+    "valor": "enfermedades musculares"
+  },
+  {
+    "entidad": "Creatina cinasa",
+    "relacion": "indicado_si_tiene",
+    "valor": "ataque al corazón"
+  },
+  {
+    "entidad": "Creatina cinasa",
+    "relacion": "indicado_si_tiene",
+    "valor": "accidente cerebrovascular"
+  },
+  {
+    "entidad": "Creatina cinasa",
+    "relacion": "diagnostica",
+    "valor": "distrofia muscular"
+  },
+  {
+    "entidad": "Creatina cinasa",
+    "relacion": "diagnostica",
+    "valor": "rabdomiólisis"
+  },
+  {
+    "entidad": "Creatina cinasa",
+    "relacion": "diagnostica",
+    "valor": "miositis"
+  },
+  {
+    "entidad": "Creatina cinasa",
+    "relacion": "requiere_muestra_de",
+    "valor": "sangre"
+  },
+  {
+    "entidad": "Creatina cinasa",
+    "relacion": "tiene_duracion",
+    "valor": "menos de cinco minutos"
+  },
+  {
+    "entidad": "Creatina cinasa",
+    "relacion": "tiene_riesgo",
+    "valor": "dolor leve o moretón en el lugar de la punción"
+  },
+  {
+    "entidad": "Creatina cinasa",
+    "relacion": "realizado_por",
+    "valor": "profesional de la salud"
+  },
+  {
+    "entidad": "Conteo sanguíneo completo",
+    "relacion": "mide",
+    "valor": "cantidad y tamaño de diferentes células en la sangre"
+  },
+  {
+    "entidad": "Conteo sanguíneo completo",
+    "relacion": "mide",
+    "valor": "glóbulos rojos"
+  },
+  {
+    "entidad": "Conteo sanguíneo completo",
+    "relacion": "mide",
+    "valor": "glóbulos blancos"
+  },
+  {
+    "entidad": "Conteo sanguíneo completo",
+    "relacion": "mide",
+    "valor": "plaquetas"
+  },
+  {
+    "entidad": "Conteo sanguíneo completo",
+    "relacion": "mide",
+    "valor": "hemoglobina"
+  },
+  {
+    "entidad": "Conteo sanguíneo completo",
+    "relacion": "mide",
+    "valor": "hematocrito"
+  },
+  {
+    "entidad": "Conteo sanguíneo completo",
+    "relacion": "mide",
+    "valor": "volumen corpuscular medio (VCM)"
+  },
+  {
+    "entidad": "Conteo sanguíneo completo",
+    "relacion": "util_para",
+    "valor": "evaluar estado general de salud"
+  },
+  {
+    "entidad": "Conteo sanguíneo completo",
+    "relacion": "diagnostica",
+    "valor": "enfermedades de la sangre"
+  },
+  {
+    "entidad": "Conteo sanguíneo completo",
+    "relacion": "diagnostica",
+    "valor": "infecciones"
+  },
+  {
+    "entidad": "Conteo sanguíneo completo",
+    "relacion": "diagnostica",
+    "valor": "trastornos del sistema inmunitario"
+  },
+  {
+    "entidad": "Conteo sanguíneo completo",
+    "relacion": "diagnostica",
+    "valor": "cánceres de la sangre"
+  },
+  {
+    "entidad": "Conteo sanguíneo completo",
+    "relacion": "requiere_muestra_de",
+    "valor": "sangre de una vena del brazo"
+  },
+  {
+    "entidad": "Conteo sanguíneo completo",
+    "relacion": "tiene_duracion",
+    "valor": "menos de cinco minutos"
+  },
+  {
+    "entidad": "Conteo sanguíneo completo",
+    "relacion": "tiene_riesgo",
+    "valor": "dolor leve o moretón en el lugar de la punción"
+  },
+  {
+    "entidad": "Conteo sanguíneo completo",
+    "relacion": "es_tipo_de",
+    "valor": "análisis de sangre"
+  },
+  {
+    "entidad": "Conteo sanguíneo completo",
+    "relacion": "es_parte_de",
+    "valor": "chequeo de rutina"
+  }
+]

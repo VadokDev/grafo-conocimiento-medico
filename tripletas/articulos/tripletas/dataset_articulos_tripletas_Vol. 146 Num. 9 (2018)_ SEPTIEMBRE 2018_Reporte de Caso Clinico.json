@@ -1,0 +1,282 @@
+[
+  {
+    "entidad": "Enfermedad de Fabry",
+    "relacion": "es un",
+    "valor": "trastorno de almacenamiento lisosomal"
+  },
+  {
+    "entidad": "α-Galactosidasa A",
+    "relacion": "es",
+    "valor": "enzima cuya deficiencia causa la enfermedad de Fabry"
+  },
+  {
+    "entidad": "síntomas",
+    "relacion": "incluyen",
+    "valor": "neuropatía, trastornos autonómicos y lesiones cutáneas"
+  },
+  {
+    "entidad": "neuropatía",
+    "relacion": "afecta a",
+    "valor": "sistema nervioso periférico"
+  },
+  {
+    "entidad": "angioqueratomas",
+    "relacion": "son",
+    "valor": "lesiones cutáneas características de la enfermedad de Fabry"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "presentan",
+    "valor": "síntomas más severos"
+  },
+  {
+    "entidad": "insuficiencia renal",
+    "relacion": "es una",
+    "valor": "complicación tardía de la enfermedad de Fabry"
+  },
+  {
+    "entidad": "cardiomiopatía",
+    "relacion": "es una",
+    "valor": "complicación tardía de la enfermedad de Fabry"
+  },
+  {
+    "entidad": "accidente cerebrovascular",
+    "relacion": "es una",
+    "valor": "complicación tardía de la enfermedad de Fabry"
+  },
+  {
+    "entidad": "pacientes con enfermedad de Fabry",
+    "relacion": "pueden presentar",
+    "valor": "crisis de dolor quemante"
+  },
+  {
+    "entidad": "evaluación neurofisiológica",
+    "relacion": "incluye",
+    "valor": "estudios de conducción nerviosa y pruebas de sensibilidad"
+  },
+  {
+    "entidad": "terapia de reemplazo enzimático",
+    "relacion": "se inicia",
+    "valor": "para tratar la enfermedad de Fabry"
+  },
+  {
+    "entidad": "disfunción autonómica",
+    "relacion": "se asocia con",
+    "valor": "síntomas como intolerancia al calor y alteraciones gastrointestinales"
+  },
+  {
+    "entidad": "respuesta simpática cutánea",
+    "relacion": "es",
+    "valor": "una prueba para evaluar la función autonómica"
+  },
+  {
+    "entidad": "glicolípidos",
+    "relacion": "se acumulan en",
+    "valor": "tejidos debido a la deficiencia enzimática"
+  },
+  {
+    "entidad": "neuropatía autonómica",
+    "relacion": "se presenta en",
+    "valor": "pacientes con enfermedad de Fabry"
+  },
+  {
+    "entidad": "síntomas de hipo o anhidrosis",
+    "relacion": "son atribuidos a",
+    "valor": "neuropatía autonómica"
+  },
+  {
+    "entidad": "biopsias de piel",
+    "relacion": "no demuestran",
+    "valor": "reducción en la inervación de las glándulas sudoríparas"
+  },
+  {
+    "entidad": "síntomas iniciales",
+    "relacion": "son",
+    "valor": "inespecíficos en la enfermedad de Fabry"
+  },
+  {
+    "entidad": "diagnóstico",
+    "relacion": "suele realizarse",
+    "valor": "después de muchos años"
+  },
+  {
+    "entidad": "terapia de reemplazo",
+    "relacion": "puede retrasarse por",
+    "valor": "diagnóstico tardío"
+  },
+  {
+    "entidad": "Cocaína",
+    "relacion": "causa",
+    "valor": "lesiones destructivas de la línea media facial"
+  },
+  {
+    "entidad": "lesiones destructivas de la línea media facial",
+    "relacion": "se caracteriza por",
+    "valor": "destrucción de estructuras óseas y cartilaginosas nasales y sinusales"
+  },
+  {
+    "entidad": "Cocaína",
+    "relacion": "provoca",
+    "valor": "vasoconstricción capilar"
+  },
+  {
+    "entidad": "vasoconstricción capilar",
+    "relacion": "causa",
+    "valor": "isquemia secundaria"
+  },
+  {
+    "entidad": "Cocaína",
+    "relacion": "contribuye a",
+    "valor": "destrucción mecánica e infecciones secundarias"
+  },
+  {
+    "entidad": "CIMDL",
+    "relacion": "es un tipo de",
+    "valor": "pseudovasculitis inducida por cocaína"
+  },
+  {
+    "entidad": "resonancia nuclear magnética (RNM)",
+    "relacion": "permite",
+    "valor": "objetivar compromiso estructural"
+  },
+  {
+    "entidad": "CIMDL",
+    "relacion": "se diagnostica mediante",
+    "valor": "histología y hallazgos clínicos"
+  },
+  {
+    "entidad": "metilprednisolona",
+    "relacion": "se utiliza para",
+    "valor": "terapia en CIMDL"
+  },
+  {
+    "entidad": "prednisona",
+    "relacion": "se utiliza para",
+    "valor": "terapia en CIMDL"
+  },
+  {
+    "entidad": "CIMDL",
+    "relacion": "requiere",
+    "valor": "cese del abuso de cocaína"
+  },
+  {
+    "entidad": "terapia antibiótica",
+    "relacion": "se inicia con",
+    "valor": "ceftriaxona y clindamicina"
+  },
+  {
+    "entidad": "CIMDL",
+    "relacion": "puede causar",
+    "valor": "obstrucción nasal crónica y epistaxis"
+  },
+  {
+    "entidad": "granulomas",
+    "relacion": "son hallazgos",
+    "valor": "histopatológicos en CIMDL"
+  },
+  {
+    "entidad": "CIMDL",
+    "relacion": "se diferencia de",
+    "valor": "granulomatosis con poliangeitis (GPA)"
+  },
+  {
+    "entidad": "CIMDL",
+    "relacion": "se asocia con",
+    "valor": "consumo de cocaína"
+  },
+  {
+    "entidad": "CIMDL",
+    "relacion": "se presenta con",
+    "valor": "dolor facial severo y parálisis facial"
+  },
+  {
+    "entidad": "CIMDL",
+    "relacion": "requiere",
+    "valor": "interrogación reiterativa sobre consumo de drogas"
+  },
+  {
+    "entidad": "Trombocitopenia hereditaria",
+    "relacion": "asociada a",
+    "valor": "gen MYH-9"
+  },
+  {
+    "entidad": "gen MYH-9",
+    "relacion": "causa",
+    "valor": "trombocitopenia hereditaria"
+  },
+  {
+    "entidad": "Mujer de 51 años",
+    "relacion": "presenta",
+    "valor": "trombocitopenia"
+  },
+  {
+    "entidad": "trombocitopenia",
+    "relacion": "diagnosticada en",
+    "valor": "familia"
+  },
+  {
+    "entidad": "eltrombopag",
+    "relacion": "utilizado para",
+    "valor": "tratamiento de trombocitopenia"
+  },
+  {
+    "entidad": "trombocitopenia",
+    "relacion": "se manifiesta con",
+    "valor": "epistaxis, equimosis y metrorragias"
+  },
+  {
+    "entidad": "trombocitopenia",
+    "relacion": "caracterizada por",
+    "valor": "plaquetas gigantes"
+  },
+  {
+    "entidad": "inclusiones en leucocitos",
+    "relacion": "tipo",
+    "valor": "cuerpos de Döhle"
+  },
+  {
+    "entidad": "mutaciones del gen MYH-9",
+    "relacion": "pueden causar",
+    "valor": "nefropatía proteinúrica, sordera y cataratas preseniles"
+  },
+  {
+    "entidad": "secuenciación exómica",
+    "relacion": "realizada por",
+    "valor": "Laboratorio CENTOGENE"
+  },
+  {
+    "entidad": "variante patogénica c.4270G>A",
+    "relacion": "encontrada en",
+    "valor": "gen MYH-9"
+  },
+  {
+    "entidad": "hijos de la paciente",
+    "relacion": "presentan",
+    "valor": "trombocitopenia"
+  },
+  {
+    "entidad": "trombocitopenia",
+    "relacion": "diagnóstico confirmado por",
+    "valor": "análisis genético"
+  },
+  {
+    "entidad": "Hospital Clínico de la Universidad de Chile",
+    "relacion": "realiza",
+    "valor": "tratamiento"
+  },
+  {
+    "entidad": "trombocitopenia",
+    "relacion": "puede ser confundida con",
+    "valor": "trastornos inmunes"
+  },
+  {
+    "entidad": "trombocitopenia hereditaria",
+    "relacion": "es",
+    "valor": "de baja frecuencia"
+  },
+  {
+    "entidad": "trombocitopenia",
+    "relacion": "requiere",
+    "valor": "anamnesis completa y revisión de morfología sanguínea"
+  }
+]

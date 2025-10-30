@@ -1,0 +1,342 @@
+[
+  {
+    "entidad": "brucelosis",
+    "relacion": "causa",
+    "valor": "meningitis aséptica"
+  },
+  {
+    "entidad": "meningitis aséptica",
+    "relacion": "representa",
+    "valor": "un desafío diagnóstico"
+  },
+  {
+    "entidad": "glucosa en LCR",
+    "relacion": "tiene",
+    "valor": "alto valor predictivo en diagnóstico de meningitis bacterianas"
+  },
+  {
+    "entidad": "hipoglucorraquia",
+    "relacion": "es",
+    "valor": "un fuerte predictor de origen bacteriano en meningitis aséptica"
+  },
+  {
+    "entidad": "reacción de polimerasa en cadena (PCR)",
+    "relacion": "permite",
+    "valor": "detección de microorganismos"
+  },
+  {
+    "entidad": "estudio citológico",
+    "relacion": "es",
+    "valor": "una herramienta para diagnóstico"
+  },
+  {
+    "entidad": "ceftriaxona",
+    "relacion": "es utilizado en",
+    "valor": "tratamiento de brucelosis"
+  },
+  {
+    "entidad": "rifampicina",
+    "relacion": "es utilizado en",
+    "valor": "tratamiento de brucelosis"
+  },
+  {
+    "entidad": "serología para brucelosis",
+    "relacion": "fue",
+    "valor": "positiva en el paciente"
+  },
+  {
+    "entidad": "meningitis aguda o crónica",
+    "relacion": "es",
+    "valor": "la complicación neurológica más frecuente de brucelosis"
+  },
+  {
+    "entidad": "brucelosis",
+    "relacion": "es",
+    "valor": "la zoonosis más frecuente en el mundo"
+  },
+  {
+    "entidad": "antecedente de viaje a México",
+    "relacion": "es",
+    "valor": "un factor epidemiológico relevante"
+  },
+  {
+    "entidad": "LCR inflamatorio",
+    "relacion": "fue observado en",
+    "valor": "el paciente con brucelosis"
+  },
+  {
+    "entidad": "meningitis bacteriana",
+    "relacion": "fue sospechada",
+    "valor": "en el paciente"
+  },
+  {
+    "entidad": "neurobrucelosis",
+    "relacion": "tiene",
+    "valor": "buena respuesta al tratamiento"
+  },
+  {
+    "entidad": "hipoglucorraquia persistente",
+    "relacion": "fue",
+    "valor": "un hallazgo clave en el diagnóstico"
+  },
+  {
+    "entidad": "Metahemoglobinemia",
+    "relacion": "es un",
+    "valor": "trastorno de la hemoglobina"
+  },
+  {
+    "entidad": "Dapsone",
+    "relacion": "causa",
+    "valor": "metahemoglobinemia"
+  },
+  {
+    "entidad": "Corticosteroides",
+    "relacion": "se utiliza en",
+    "valor": "inducción de terapia"
+  },
+  {
+    "entidad": "Rituximab",
+    "relacion": "se utiliza en",
+    "valor": "inducir terapia"
+  },
+  {
+    "entidad": "Mujer de 64 años",
+    "relacion": "presenta",
+    "valor": "antecedentes de alergia a sulfas"
+  },
+  {
+    "entidad": "Mujer de 64 años",
+    "relacion": "presenta",
+    "valor": "diagnóstico de vasculitis de vaso pequeño (ANCA-p)"
+  },
+  {
+    "entidad": "Dapsone",
+    "relacion": "se administra en lugar de",
+    "valor": "cotrimoxazol"
+  },
+  {
+    "entidad": "Glucosa-6-fosfato deshidrogenasa (G6PDH)",
+    "relacion": "se evalúa antes de",
+    "valor": "administrar dapsone"
+  },
+  {
+    "entidad": "Oximetría de pulso",
+    "relacion": "se utiliza para",
+    "valor": "evaluar saturación de oxígeno"
+  },
+  {
+    "entidad": "Metahemoglobinemia",
+    "relacion": "se confirma mediante",
+    "valor": "CO-oximetría"
+  },
+  {
+    "entidad": "Dapsone",
+    "relacion": "se suspende tras",
+    "valor": "confirmación de metahemoglobinemia"
+  },
+  {
+    "entidad": "Azul de metileno",
+    "relacion": "se utiliza para",
+    "valor": "tratar metahemoglobinemia"
+  },
+  {
+    "entidad": "Ácido ascórbico",
+    "relacion": "se utiliza en",
+    "valor": "tratamientos prolongados de metahemoglobinemia"
+  },
+  {
+    "entidad": "Metahemoglobinemia",
+    "relacion": "puede causar",
+    "valor": "cianosis y disnea"
+  },
+  {
+    "entidad": "Dapsone",
+    "relacion": "se utiliza para",
+    "valor": "tratamiento de lepra y malaria"
+  },
+  {
+    "entidad": "Cimetidina",
+    "relacion": "se asocia a",
+    "valor": "prevención de metahemoglobinemia"
+  },
+  {
+    "entidad": "Metahemoglobinemia",
+    "relacion": "puede llevar a",
+    "valor": "complicaciones como hemólisis y daño renal"
+  },
+  {
+    "entidad": "Paciente",
+    "relacion": "tiene",
+    "valor": "30 años"
+  },
+  {
+    "entidad": "Paciente",
+    "relacion": "presenta",
+    "valor": "infarto agudo al miocardio"
+  },
+  {
+    "entidad": "Paciente",
+    "relacion": "tiene",
+    "valor": "infección por SARS-CoV-2"
+  },
+  {
+    "entidad": "SARS-CoV-2",
+    "relacion": "causa",
+    "valor": "COVID-19"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "se presenta como",
+    "valor": "infarto agudo al miocardio"
+  },
+  {
+    "entidad": "infarto agudo al miocardio",
+    "relacion": "es un tipo de",
+    "valor": "evento cardiovascular"
+  },
+  {
+    "entidad": "Hospital Clínico Universidad de Chile",
+    "relacion": "es un",
+    "valor": "centro médico"
+  },
+  {
+    "entidad": "Dr. Alfredo Parra Lucares",
+    "relacion": "es",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "miopericarditis",
+    "relacion": "es secundaria a",
+    "valor": "infección por SARS-CoV-2"
+  },
+  {
+    "entidad": "Troponina",
+    "relacion": "es un",
+    "valor": "marcador de injuria cardíaca"
+  },
+  {
+    "entidad": "Resonancia Magnética Cardiaca",
+    "relacion": "se utiliza para",
+    "valor": "diagnosticar infarto"
+  },
+  {
+    "entidad": "angiografía coronaria",
+    "relacion": "muestra",
+    "valor": "oclusión de la arteria circunfleja"
+  },
+  {
+    "entidad": "anticoagulación",
+    "relacion": "se inicia con",
+    "valor": "doble antiagregación plaquetaria"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "afecta",
+    "valor": "sistema respiratorio"
+  },
+  {
+    "entidad": "injuria cardíaca",
+    "relacion": "se reporta en",
+    "valor": "14% de los pacientes hospitalizados"
+  },
+  {
+    "entidad": "receptor ACE II",
+    "relacion": "se expresa en",
+    "valor": "pulmón, riñón, intestino, corazón y endotelio"
+  },
+  {
+    "entidad": "estado pro-coagulante",
+    "relacion": "es causado por",
+    "valor": "daño endotelial"
+  },
+  {
+    "entidad": "infarto tipo II",
+    "relacion": "es causado por",
+    "valor": "desequilibrio entre oferta y demanda de oxígeno"
+  },
+  {
+    "entidad": "síndrome antifosfolípido",
+    "relacion": "es un",
+    "valor": "fenómeno autoinmunitario asociado a SARS-CoV-2"
+  },
+  {
+    "entidad": "Trombosis venosa profunda",
+    "relacion": "es un",
+    "valor": "síntoma de agenesia de vena cava inferior"
+  },
+  {
+    "entidad": "Agenesia de vena cava inferior",
+    "relacion": "es una",
+    "valor": "anomalía congénita"
+  },
+  {
+    "entidad": "Desarrollo embriológico de la vena cava inferior",
+    "relacion": "ocurre entre",
+    "valor": "la sexta y octava semana de gestación"
+  },
+  {
+    "entidad": "Doppler ultrasound",
+    "relacion": "confirma",
+    "valor": "presencia de trombosis venosa profunda"
+  },
+  {
+    "entidad": "Tomografía abdominal",
+    "relacion": "muestra",
+    "valor": "agenesia de la vena cava inferior"
+  },
+  {
+    "entidad": "Estudio de trombofilia",
+    "relacion": "es",
+    "valor": "negativo"
+  },
+  {
+    "entidad": "Tratamiento",
+    "relacion": "incluye",
+    "valor": "antagonistas de vitamina K"
+  },
+  {
+    "entidad": "Paciente",
+    "relacion": "presenta",
+    "valor": "buena respuesta clínica"
+  },
+  {
+    "entidad": "Agenesia de vena cava inferior",
+    "relacion": "asocia con",
+    "valor": "insuficiencia venosa crónica"
+  },
+  {
+    "entidad": "Agenesia de vena cava inferior",
+    "relacion": "asocia con",
+    "valor": "síndrome de congestión pélvica"
+  },
+  {
+    "entidad": "Factores de riesgo",
+    "relacion": "pueden desencadenar",
+    "valor": "estado protrombótico"
+  },
+  {
+    "entidad": "Ecografía",
+    "relacion": "es",
+    "valor": "primera modalidad de imagen en TVP"
+  },
+  {
+    "entidad": "Tomografía con contraste",
+    "relacion": "se recomienda para",
+    "valor": "evaluar anomalías de VCI"
+  },
+  {
+    "entidad": "Trombólisis dirigida por catéter",
+    "relacion": "puede ser",
+    "valor": "tratamiento de elección para TVP iliofemoral aguda"
+  },
+  {
+    "entidad": "Cirugía",
+    "relacion": "se recomienda para",
+    "valor": "pacientes con deterioro rápido de insuficiencia venosa crónica"
+  },
+  {
+    "entidad": "Agenesia de vena cava inferior",
+    "relacion": "debe sospecharse en",
+    "valor": "pacientes jóvenes con TVP"
+  }
+]

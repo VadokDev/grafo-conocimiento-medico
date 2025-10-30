@@ -1,0 +1,577 @@
+[
+  {
+    "entidad": "Self-Efficacy to Manage Chronic Disease (SEMCD-S)",
+    "relacion": "es un",
+    "valor": "instrumento de autoeficacia"
+  },
+  {
+    "entidad": "SEMCD-S-Ch",
+    "relacion": "es una",
+    "valor": "adaptación del SEMCD-S para la población chilena"
+  },
+  {
+    "entidad": "población chilena",
+    "relacion": "es objeto de",
+    "valor": "adaptación y validación del SEMCD-S"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "realiza",
+    "valor": "investigación sobre autoeficacia"
+  },
+  {
+    "entidad": "Centro de Innovación en Salud Ancora UC",
+    "relacion": "apoya",
+    "valor": "financiamiento del estudio"
+  },
+  {
+    "entidad": "enfermedades crónicas",
+    "relacion": "afectan a",
+    "valor": "la población chilena"
+  },
+  {
+    "entidad": "autoeficacia",
+    "relacion": "es un",
+    "valor": "predicador de cambio conductual"
+  },
+  {
+    "entidad": "análisis factorial exploratorio (AFE)",
+    "relacion": "se utiliza para",
+    "valor": "examinar la estructura interna del SEMCD-S-Ch"
+  },
+  {
+    "entidad": "análisis factorial confirmatorio (AFC)",
+    "relacion": "valida",
+    "valor": "los hallazgos del AFE"
+  },
+  {
+    "entidad": "SEMCD-S-Ch",
+    "relacion": "demuestra ser",
+    "valor": "comprensible, confiable y útil"
+  },
+  {
+    "entidad": "Centro Stanford de Educación al Paciente e Investigación",
+    "relacion": "crea",
+    "valor": "el SEMCD-S"
+  },
+  {
+    "entidad": "Estrategia de cuidado integral centrado en las personas",
+    "relacion": "promueve",
+    "valor": "manejo de la cronicidad"
+  },
+  {
+    "entidad": "entrevistas cognitivas",
+    "relacion": "se utilizan para",
+    "valor": "mejorar la comprensión del SEMCD-S"
+  },
+  {
+    "entidad": "CESFAM La Florida",
+    "relacion": "es un",
+    "valor": "centro de salud familiar donde se realiza el estudio"
+  },
+  {
+    "entidad": "CESFAM Villa O'Higgins",
+    "relacion": "es un",
+    "valor": "centro de salud familiar donde se realiza el estudio"
+  },
+  {
+    "entidad": "CESFAM Ancora Juan Pablo II",
+    "relacion": "es un",
+    "valor": "centro de salud familiar donde se realiza el estudio"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "está asociada a",
+    "valor": "enfermedades crónicas en Chile"
+  },
+  {
+    "entidad": "autoeficacia",
+    "relacion": "es central para",
+    "valor": "el automanejo de enfermedades crónicas"
+  },
+  {
+    "entidad": "métodos de indagación y parafraseo",
+    "relacion": "se utilizan en",
+    "valor": "entrevistas cognitivas"
+  },
+  {
+    "entidad": "autoeficacia",
+    "relacion": "requiere",
+    "valor": "apoyo para el manejo de enfermedades crónicas"
+  },
+  {
+    "entidad": "Diabetes Mellitus",
+    "relacion": "es",
+    "valor": "una de las principales epidemias del siglo XXI"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "tiene",
+    "valor": "una alta prevalencia de Diabetes Mellitus"
+  },
+  {
+    "entidad": "Diabetes Mellitus",
+    "relacion": "afecta a",
+    "valor": "537 millones de adultos a nivel mundial"
+  },
+  {
+    "entidad": "Diabetes Mellitus",
+    "relacion": "es considerada",
+    "valor": "un problema de salud pública relevante"
+  },
+  {
+    "entidad": "investigación clínica-científica",
+    "relacion": "analiza",
+    "valor": "la productividad científica sobre Diabetes Mellitus en Chile"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "realiza",
+    "valor": "una revisión sistemática de investigaciones sobre Diabetes Mellitus"
+  },
+  {
+    "entidad": "PRISMA",
+    "relacion": "guía",
+    "valor": "la revisión sistemática"
+  },
+  {
+    "entidad": "COVIDENCE®",
+    "relacion": "es una",
+    "valor": "plataforma utilizada para la revisión"
+  },
+  {
+    "entidad": "artículos",
+    "relacion": "fueron descartados",
+    "valor": "1,542 de 1,953"
+  },
+  {
+    "entidad": "artículos",
+    "relacion": "fueron obtenidos",
+    "valor": "411 tras análisis de texto completo"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "contribuyó con",
+    "valor": "411 artículos de investigación científica en Diabetes Mellitus"
+  },
+  {
+    "entidad": "Diabetes tipo 2",
+    "relacion": "es",
+    "valor": "la más estudiada en Chile"
+  },
+  {
+    "entidad": "complicaciones de Diabetes Mellitus",
+    "relacion": "no se reflejan en",
+    "valor": "el número de artículos publicados"
+  },
+  {
+    "entidad": "investigación",
+    "relacion": "debe ser incentivada en",
+    "valor": "entidades académicas y clínicas"
+  },
+  {
+    "entidad": "Diabetes Mellitus tipo 2",
+    "relacion": "debe ser priorizada para",
+    "valor": "reducir su incidencia"
+  },
+  {
+    "entidad": "producción científica",
+    "relacion": "aumentó",
+    "valor": "constantemente entre 2010 y 2016"
+  },
+  {
+    "entidad": "producción científica",
+    "relacion": "aumentó",
+    "valor": "exponencialmente entre 2017 y 2020"
+  },
+  {
+    "entidad": "producción científica",
+    "relacion": "disminuyó",
+    "valor": "entre 2021 y 2022"
+  },
+  {
+    "entidad": "Revista Médica de Chile",
+    "relacion": "es",
+    "valor": "la revista con mayor número de publicaciones en el tema"
+  },
+  {
+    "entidad": "investigadores chilenos",
+    "relacion": "participan en",
+    "valor": "estudios multicéntricos"
+  },
+  {
+    "entidad": "Diabetes Mellitus",
+    "relacion": "requiere",
+    "valor": "información local para mejorar políticas de salud"
+  },
+  {
+    "entidad": "Hemodiálisis",
+    "relacion": "comenzó en",
+    "valor": "Chile en la segunda mitad del siglo XX"
+  },
+  {
+    "entidad": "Hemodiálisis",
+    "relacion": "se utiliza para",
+    "valor": "tratar pacientes con insuficiencia renal aguda"
+  },
+  {
+    "entidad": "centros de diálisis",
+    "relacion": "se establecieron en",
+    "valor": "diferentes regiones de Chile"
+  },
+  {
+    "entidad": "AUGE",
+    "relacion": "proporciona",
+    "valor": "cobertura universal para diálisis"
+  },
+  {
+    "entidad": "mejoras tecnológicas",
+    "relacion": "han contribuido a",
+    "valor": "mejorar la sobrevida de pacientes"
+  },
+  {
+    "entidad": "pacientes en diálisis",
+    "relacion": "enfrentan",
+    "valor": "alto riesgo de mortalidad"
+  },
+  {
+    "entidad": "complicaciones asociadas a la diálisis",
+    "relacion": "afectan",
+    "valor": "la calidad de vida de los pacientes"
+  },
+  {
+    "entidad": "hemodiafiltración de alto volumen",
+    "relacion": "debe ser",
+    "valor": "adoptada progresivamente"
+  },
+  {
+    "entidad": "Hemodiafiltración",
+    "relacion": "combina",
+    "valor": "transporte difusivo y convectivo"
+  },
+  {
+    "entidad": "HDF",
+    "relacion": "se relaciona con",
+    "valor": "mayor remoción de toxinas urémicas"
+  },
+  {
+    "entidad": "HDF",
+    "relacion": "se ha implementado en",
+    "valor": "Chile desde 2008"
+  },
+  {
+    "entidad": "HDF",
+    "relacion": "es utilizada en",
+    "valor": "menos del 1% de los pacientes en diálisis en Chile"
+  },
+  {
+    "entidad": "HDF de alto volumen",
+    "relacion": "es el enfoque",
+    "valor": "más avanzado para prolongar la supervivencia"
+  },
+  {
+    "entidad": "Reglamento de Diálisis",
+    "relacion": "define",
+    "valor": "requisitos para implementar HDF"
+  },
+  {
+    "entidad": "pacientes en diálisis",
+    "relacion": "presentan",
+    "valor": "necesidades clínicas insatisfechas"
+  },
+  {
+    "entidad": "mortalidad en pacientes en diálisis",
+    "relacion": "es",
+    "valor": "10 a 30 veces mayor que la población general"
+  },
+  {
+    "entidad": "enfermedades cardiovasculares",
+    "relacion": "son causas de",
+    "valor": "muerte en pacientes en diálisis"
+  },
+  {
+    "entidad": "anemia",
+    "relacion": "está presente en",
+    "valor": "32,3% de los pacientes en diálisis"
+  },
+  {
+    "entidad": "HDF",
+    "relacion": "ha mostrado beneficios en",
+    "valor": "remoción de fosfato y menor estrés oxidativo"
+  },
+  {
+    "entidad": "HDF",
+    "relacion": "ha sido aceptada en",
+    "valor": "Europa y Japón"
+  },
+  {
+    "entidad": "HDF",
+    "relacion": "su adopción ha sido",
+    "valor": "variable en diferentes regiones"
+  },
+  {
+    "entidad": "HDF",
+    "relacion": "requiere",
+    "valor": "un arancel específico para su implementación"
+  },
+  {
+    "entidad": "Cirugía del arco aórtico",
+    "relacion": "es un",
+    "valor": "desafío quirúrgico"
+  },
+  {
+    "entidad": "protocolo quirúrgico",
+    "relacion": "describe",
+    "valor": "resultados a corto y largo plazo"
+  },
+  {
+    "entidad": "Hospital Dr. Sótero del Río",
+    "relacion": "es un",
+    "valor": "centro de cirugía cardiovascular"
+  },
+  {
+    "entidad": "aneurisma de arco",
+    "relacion": "es un",
+    "valor": "diagnóstico incluido"
+  },
+  {
+    "entidad": "disección aórtica tipo I y II de DeBakey",
+    "relacion": "es un",
+    "valor": "diagnóstico incluido"
+  },
+  {
+    "entidad": "técnica de Seldinger",
+    "relacion": "es utilizada en",
+    "valor": "canulación arterial"
+  },
+  {
+    "entidad": "hipotermia moderada",
+    "relacion": "es aplicada a",
+    "valor": "24°C"
+  },
+  {
+    "entidad": "perfusión cerebral anterógrada",
+    "relacion": "es utilizada en",
+    "valor": "cirugía de arco aórtico"
+  },
+  {
+    "entidad": "mortalidad a 30 días",
+    "relacion": "es",
+    "valor": "13.5%"
+  },
+  {
+    "entidad": "seguimiento a largo plazo",
+    "relacion": "es completado en",
+    "valor": "30 sobrevivientes"
+  },
+  {
+    "entidad": "protocolo de manejo quirúrgico",
+    "relacion": "tiene",
+    "valor": "buenos resultados en morbilidad y mortalidad"
+  },
+  {
+    "entidad": "ventilación mecánica prolongada",
+    "relacion": "es la",
+    "valor": "morbilidad más frecuente"
+  },
+  {
+    "entidad": "complicaciones neurológicas",
+    "relacion": "ocurren en",
+    "valor": "16% de los casos"
+  },
+  {
+    "entidad": "mortalidad operatoria",
+    "relacion": "es reportada en",
+    "valor": "6-8% para pacientes electivos"
+  },
+  {
+    "entidad": "sangre arterializada",
+    "relacion": "es entregada en",
+    "valor": "perfusión"
+  },
+  {
+    "entidad": "sulfato de protamina",
+    "relacion": "es utilizado para",
+    "valor": "revertir anticoagulación"
+  },
+  {
+    "entidad": "mortalidad a 90 días",
+    "relacion": "suma",
+    "valor": "18.9%"
+  },
+  {
+    "entidad": "comorbilidades",
+    "relacion": "incluyen",
+    "valor": "hipertensión arterial, tabaquismo, enfermedad pulmonar crónica"
+  },
+  {
+    "entidad": "protocolo quirúrgico",
+    "relacion": "aplica",
+    "valor": "avances en cirugía de arco"
+  },
+  {
+    "entidad": "sarcomas de partes blandas",
+    "relacion": "son",
+    "valor": "tumores malignos de origen mesenquimático"
+  },
+  {
+    "entidad": "sarcomas de partes blandas",
+    "relacion": "se asocian a",
+    "valor": "factores de riesgo genéticos y ambientales"
+  },
+  {
+    "entidad": "tratamiento",
+    "relacion": "es",
+    "valor": "quirúrgico"
+  },
+  {
+    "entidad": "márgenes positivos",
+    "relacion": "son",
+    "valor": "predictor de recidiva local y peor sobrevida"
+  },
+  {
+    "entidad": "Hospital Sótero del Río",
+    "relacion": "realiza",
+    "valor": "cirugía de cabeza y cuello"
+  },
+  {
+    "entidad": "equipo de cirugía de cabeza y cuello",
+    "relacion": "analiza",
+    "valor": "casuística de sarcomas de partes blandas"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "es",
+    "valor": "descriptivo-retrospectivo"
+  },
+  {
+    "entidad": "pacientes con sarcomas de partes blandas",
+    "relacion": "son tratados por",
+    "valor": "equipo de cirugía de cabeza y cuello"
+  },
+  {
+    "entidad": "recurrencia local",
+    "relacion": "es",
+    "valor": "frecuente en sarcomas de partes blandas"
+  },
+  {
+    "entidad": "sobrevida libre de enfermedad",
+    "relacion": "fue",
+    "valor": "66,6% a 5 años"
+  },
+  {
+    "entidad": "radioterapia",
+    "relacion": "se utiliza como",
+    "valor": "tratamiento complementario"
+  },
+  {
+    "entidad": "quimioterapia",
+    "relacion": "se ha asociado a",
+    "valor": "menor recurrencia local y a distancia"
+  },
+  {
+    "entidad": "inmunoterapia",
+    "relacion": "es considerada",
+    "valor": "alternativa terapéutica"
+  },
+  {
+    "entidad": "sarcomas de partes blandas",
+    "relacion": "requieren",
+    "valor": "seguimiento estricto"
+  },
+  {
+    "entidad": "equipo multidisciplinario",
+    "relacion": "se requiere para",
+    "valor": "optimizar el manejo de sarcomas"
+  },
+  {
+    "entidad": "Hospital Sótero del Río",
+    "relacion": "está ubicado en",
+    "valor": "Santiago, Chile"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "es el primero",
+    "valor": "a nivel nacional sobre sarcomas de partes blandas"
+  },
+  {
+    "entidad": "migrantes latinoamericanos",
+    "relacion": "reportan",
+    "valor": "menor acceso y satisfacción con servicios de salud que chilenos"
+  },
+  {
+    "entidad": "satisfacción con la atención",
+    "relacion": "es",
+    "valor": "crucial en la atención de salud"
+  },
+  {
+    "entidad": "PSQ-III",
+    "relacion": "fue adaptado",
+    "valor": "culturalmente para migrantes en Chile"
+  },
+  {
+    "entidad": "PSQ-III",
+    "relacion": "incluye",
+    "valor": "13 ítems agrupados en 'Satisfacción con el personal de salud' y 'Aspectos de mejora'"
+  },
+  {
+    "entidad": "PSQ-III",
+    "relacion": "proporciona",
+    "valor": "medidas válidas, confiables y estables en el tiempo"
+  },
+  {
+    "entidad": "satisfacción usuaria",
+    "relacion": "se encuentra asociada a",
+    "valor": "percepciones sobre diversos tipos de prestaciones"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "realiza",
+    "valor": "una encuesta anual para evaluar el trato hacia los usuarios"
+  },
+  {
+    "entidad": "encuesta de satisfacción",
+    "relacion": "no distingue",
+    "valor": "entre diferentes grupos de usuarios"
+  },
+  {
+    "entidad": "PSQ-III",
+    "relacion": "evalúa",
+    "valor": "dimensiones objetivas y subjetivas de la satisfacción usuaria en salud"
+  },
+  {
+    "entidad": "satisfacción usuaria",
+    "relacion": "puede impulsar",
+    "valor": "la recomendación del servicio"
+  },
+  {
+    "entidad": "barreras de acceso a la salud",
+    "relacion": "incluyen",
+    "valor": "aspectos legales, idiomáticos, culturales, falta de información, discriminación y estigmatización"
+  },
+  {
+    "entidad": "satisfacción con el personal de salud",
+    "relacion": "no mostró",
+    "valor": "cambios significativos en 5 meses"
+  },
+  {
+    "entidad": "PSQ-III",
+    "relacion": "es utilizado",
+    "valor": "para evaluar la satisfacción de migrantes en la atención sanitaria en Chile"
+  },
+  {
+    "entidad": "Estrategia Nacional de Salud al 2030",
+    "relacion": "contempla",
+    "valor": "asegurar la calidad de la atención"
+  },
+  {
+    "entidad": "recolección de datos en línea",
+    "relacion": "representa",
+    "valor": "una limitación en el estudio"
+  },
+  {
+    "entidad": "futuras investigaciones",
+    "relacion": "deberán explorar",
+    "valor": "las razones del no uso de servicios de salud por migrantes"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "entidad": "Linfadenitis necrotizante histiocitaria",
+    "relacion": "es un",
+    "valor": "trastorno benigno y autolimitado"
+  },
+  {
+    "entidad": "Linfadenitis necrotizante histiocitaria",
+    "relacion": "también conocido como",
+    "valor": "enfermedad de Kikuchi-Fujimoto"
+  },
+  {
+    "entidad": "Linfadenitis necrotizante histiocitaria",
+    "relacion": "afecta a",
+    "valor": "mujeres jóvenes asiáticas"
+  },
+  {
+    "entidad": "Linfadenitis necrotizante histiocitaria",
+    "relacion": "se caracteriza por",
+    "valor": "fiebre y adenopatías cervicales"
+  },
+  {
+    "entidad": "Linfadenitis necrotizante histiocitaria",
+    "relacion": "puede asociarse a",
+    "valor": "síndrome antifosfolípido"
+  },
+  {
+    "entidad": "Linfadenitis necrotizante histiocitaria",
+    "relacion": "puede asociarse a",
+    "valor": "polimiositis"
+  },
+  {
+    "entidad": "Linfadenitis necrotizante histiocitaria",
+    "relacion": "puede asociarse a",
+    "valor": "artritis idiopática juvenil"
+  },
+  {
+    "entidad": "Linfadenitis necrotizante histiocitaria",
+    "relacion": "puede asociarse a",
+    "valor": "uveítis bilateral"
+  },
+  {
+    "entidad": "Linfadenitis necrotizante histiocitaria",
+    "relacion": "puede asociarse a",
+    "valor": "síndrome de Sjögren"
+  },
+  {
+    "entidad": "Linfadenitis necrotizante histiocitaria",
+    "relacion": "puede asociarse a",
+    "valor": "vasculitis"
+  },
+  {
+    "entidad": "Linfadenitis necrotizante histiocitaria",
+    "relacion": "puede asociarse a",
+    "valor": "hemorragia pulmonar"
+  },
+  {
+    "entidad": "Linfadenitis necrotizante histiocitaria",
+    "relacion": "puede asociarse a",
+    "valor": "lupus eritematoso sistémico"
+  },
+  {
+    "entidad": "Linfadenitis necrotizante histiocitaria",
+    "relacion": "responde a",
+    "valor": "glucocorticoides"
+  },
+  {
+    "entidad": "glucocorticoides",
+    "relacion": "se utilizan en",
+    "valor": "tratamientos para casos severos o persistentes"
+  },
+  {
+    "entidad": "Linfadenitis necrotizante histiocitaria",
+    "relacion": "se diagnostica mediante",
+    "valor": "biopsia de ganglio linfático"
+  },
+  {
+    "entidad": "Linfadenitis necrotizante histiocitaria",
+    "relacion": "puede presentar",
+    "valor": "exantemas cutáneos"
+  },
+  {
+    "entidad": "Linfadenitis necrotizante histiocitaria",
+    "relacion": "puede presentar",
+    "valor": "artralgias"
+  },
+  {
+    "entidad": "Linfadenitis necrotizante histiocitaria",
+    "relacion": "puede presentar",
+    "valor": "pérdida de peso"
+  },
+  {
+    "entidad": "Linfadenitis necrotizante histiocitaria",
+    "relacion": "puede presentar",
+    "valor": "fatiga"
+  },
+  {
+    "entidad": "Linfadenitis necrotizante histiocitaria",
+    "relacion": "puede presentar",
+    "valor": "anorexia"
+  },
+  {
+    "entidad": "Linfadenitis necrotizante histiocitaria",
+    "relacion": "puede presentar",
+    "valor": "lesiones máculo-petequiales"
+  },
+  {
+    "entidad": "Linfadenitis necrotizante histiocitaria",
+    "relacion": "tiene una patogénesis",
+    "valor": "desconocida"
+  },
+  {
+    "entidad": "Linfadenitis necrotizante histiocitaria",
+    "relacion": "se asocia con",
+    "valor": "mecanismos autoinmunes"
+  },
+  {
+    "entidad": "recurrencia de la EKF",
+    "relacion": "ha sido reportada con",
+    "valor": "frecuencias entre 4% y 20%"
+  },
+  {
+    "entidad": "títulos elevados de ANA",
+    "relacion": "se relacionan con",
+    "valor": "recurrencia de la EKF"
+  },
+  {
+    "entidad": "Neumonía en organización",
+    "relacion": "es un",
+    "valor": "entidad clínico-patológica"
+  },
+  {
+    "entidad": "Neumonía en organización",
+    "relacion": "se manifiesta por",
+    "valor": "malestar general, fatigabilidad, disnea, tos y fiebre"
+  },
+  {
+    "entidad": "Neumonía en organización",
+    "relacion": "asociada a",
+    "valor": "focos de condensación pulmonar y opacidades en vidrio esmerilado"
+  },
+  {
+    "entidad": "Cáncer de mama",
+    "relacion": "puede causar",
+    "valor": "Neumonía en organización"
+  },
+  {
+    "entidad": "Radioterapia",
+    "relacion": "puede causar",
+    "valor": "Neumonía en organización"
+  },
+  {
+    "entidad": "Mujer de 64 años",
+    "relacion": "presenta",
+    "valor": "síntomas de malestar general, fiebre, tos y disnea"
+  },
+  {
+    "entidad": "Broncoalveolar lavage",
+    "relacion": "resulta en",
+    "valor": "diagnóstico negativo en microbiología"
+  },
+  {
+    "entidad": "Biopsia transbronquial",
+    "relacion": "demuestra",
+    "valor": "neumonía intersticial focal"
+  },
+  {
+    "entidad": "Tratamiento esteroidal",
+    "relacion": "es exitoso en",
+    "valor": "resolución de síntomas y signos clínicos"
+  },
+  {
+    "entidad": "Cáncer de mama",
+    "relacion": "requiere",
+    "valor": "radioterapia"
+  },
+  {
+    "entidad": "Radioterapia",
+    "relacion": "se utiliza en",
+    "valor": "tratamiento del cáncer de mama"
+  },
+  {
+    "entidad": "Neumonía en organización",
+    "relacion": "puede ocurrir sin",
+    "valor": "una causa conocida"
+  },
+  {
+    "entidad": "Criterios para diagnóstico de OP",
+    "relacion": "incluyen",
+    "valor": "radioterapia mamaria en los últimos 12 meses"
+  },
+  {
+    "entidad": "Criterios para diagnóstico de OP",
+    "relacion": "incluyen",
+    "valor": "síntomas generales o respiratorios por al menos dos semanas"
+  },
+  {
+    "entidad": "Criterios para diagnóstico de OP",
+    "relacion": "incluyen",
+    "valor": "compromiso pulmonar en radiografía fuera de la zona irradiada"
+  },
+  {
+    "entidad": "Criterios para diagnóstico de OP",
+    "relacion": "incluyen",
+    "valor": "ausencia de otra causa específica"
+  },
+  {
+    "entidad": "Edad sobre 50 años",
+    "relacion": "es un",
+    "valor": "factor de riesgo para OP"
+  },
+  {
+    "entidad": "Tratamiento esteroidal sistémico",
+    "relacion": "se emplea en",
+    "valor": "la mayoría de los casos de OP"
+  },
+  {
+    "entidad": "Pronóstico a largo plazo",
+    "relacion": "es",
+    "valor": "excelente para OP"
+  },
+  {
+    "entidad": "cáncer de ovario",
+    "relacion": "es",
+    "valor": "segunda causa de muerte por cáncer ginecológico en Chile"
+  },
+  {
+    "entidad": "cáncer de ovario",
+    "relacion": "tiene incidencia de",
+    "valor": "4,4 por 100.000 habitantes en Chile"
+  },
+  {
+    "entidad": "cáncer de ovario",
+    "relacion": "se caracteriza por",
+    "valor": "crecimiento lento y diagnóstico en etapas III o IV"
+  },
+  {
+    "entidad": "quimioterapia",
+    "relacion": "logra mediana de sobrevida de",
+    "valor": "30 meses en etapas III-C"
+  },
+  {
+    "entidad": "quimioterapia",
+    "relacion": "obtiene respuesta de",
+    "valor": "70-80%"
+  },
+  {
+    "entidad": "Ca125",
+    "relacion": "es un marcador correlacionado con",
+    "valor": "carga tumoral"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "realiza",
+    "valor": "estudio de medicina personalizada en pacientes con cáncer"
+  },
+  {
+    "entidad": "ascitis",
+    "relacion": "es un modelo óptimo para",
+    "valor": "análisis de quimiosensibilidad y resistencia"
+  },
+  {
+    "entidad": "células madre de cáncer",
+    "relacion": "son",
+    "valor": "células que escapan del tumor primario y generan micrometástasis"
+  },
+  {
+    "entidad": "ensayo in vitro",
+    "relacion": "correlaciona con",
+    "valor": "respuesta clínica en pacientes con cáncer de ovario"
+  },
+  {
+    "entidad": "quimioterapia",
+    "relacion": "se personaliza para",
+    "valor": "mejorar respuesta y sobrevida en mujeres con cáncer de ovario"
+  },
+  {
+    "entidad": "Hospital Sotero del Río",
+    "relacion": "participa en",
+    "valor": "proyectos de investigación aprobados"
+  },
+  {
+    "entidad": "Fundación Arturo López Pérez",
+    "relacion": "participa en",
+    "valor": "proyectos de investigación aprobados"
+  },
+  {
+    "entidad": "Gareth I. Owen",
+    "relacion": "es",
+    "valor": "Ph.D. y contacto del artículo"
+  },
+  {
+    "entidad": "células tumorales aisladas de ascitis",
+    "relacion": "presentan características similares a",
+    "valor": "células iniciadoras de metástasis"
+  },
+  {
+    "entidad": "proyecto de investigación",
+    "relacion": "evalúa",
+    "valor": "ensayo con un mayor número de pacientes"
+  }
+]

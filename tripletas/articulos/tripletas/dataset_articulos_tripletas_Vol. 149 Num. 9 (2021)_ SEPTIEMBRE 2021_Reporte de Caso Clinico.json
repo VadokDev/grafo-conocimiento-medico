@@ -1,0 +1,92 @@
+[
+  {
+    "entidad": "Electroencefalograma cuantitativo",
+    "relacion": "se utiliza para",
+    "valor": "predicción precoz de isquemia cerebral tardía"
+  },
+  {
+    "entidad": "Isquemia cerebral tardía",
+    "relacion": "es una complicación de",
+    "valor": "hemorragia subaracnoidea aneurismática"
+  },
+  {
+    "entidad": "Hemorragia subaracnoidea aneurismática",
+    "relacion": "causa",
+    "valor": "mortalidad en pacientes"
+  },
+  {
+    "entidad": "Electroencefalografía",
+    "relacion": "detecta",
+    "valor": "isquemia cerebral en etapas tempranas"
+  },
+  {
+    "entidad": "Mujer de 66 años",
+    "relacion": "presenta",
+    "valor": "cefalea ictal y compromiso de conciencia"
+  },
+  {
+    "entidad": "Angio-CT",
+    "relacion": "muestra",
+    "valor": "hemorragia subaracnoidea y aneurisma"
+  },
+  {
+    "entidad": "EEG continuo",
+    "relacion": "se inicia tras",
+    "valor": "coiling del aneurisma"
+  },
+  {
+    "entidad": "Resonancia magnética",
+    "relacion": "muestra",
+    "valor": "bajo flujo cerebral en área frontotemporal"
+  },
+  {
+    "entidad": "Angiografía",
+    "relacion": "confirma",
+    "valor": "vasospasmo severo"
+  },
+  {
+    "entidad": "Nimodipino",
+    "relacion": "se utiliza en",
+    "valor": "angioplastía farmacológica"
+  },
+  {
+    "entidad": "Frecuencia de borde espectral (SEF95)",
+    "relacion": "indica",
+    "valor": "cambios en la actividad electroencefalográfica"
+  },
+  {
+    "entidad": "EEG cuantitativo",
+    "relacion": "permite analizar",
+    "valor": "cambios o tendencias en la señal EEG"
+  },
+  {
+    "entidad": "Actividad eléctrica cerebral",
+    "relacion": "se registra mediante",
+    "valor": "electroencefalograma"
+  },
+  {
+    "entidad": "Morbimortalidad",
+    "relacion": "es causada por",
+    "valor": "isquemia cerebral tardía"
+  },
+  {
+    "entidad": "Análisis cuantitativo del EEG",
+    "relacion": "predice",
+    "valor": "inicio clínico de la isquemia cerebral tardía"
+  },
+  {
+    "entidad": "Variabilidad del ritmo alfa",
+    "relacion": "no fue",
+    "valor": "consistente en el caso"
+  },
+  {
+    "entidad": "EEG",
+    "relacion": "permite",
+    "valor": "monitoreo continuo y no invasivo"
+  },
+  {
+    "entidad": "Estudio prospectivo",
+    "relacion": "reporta",
+    "valor": "alta sensibilidad del EEG cuantitativo para predecir isquemia cerebral tardía"
+  }
+]

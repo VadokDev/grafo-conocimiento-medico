@@ -1,0 +1,787 @@
+[
+  {
+    "entidad": "condición física",
+    "relacion": "asocia",
+    "valor": "calidad de vida relacionada con la salud"
+  },
+  {
+    "entidad": "adultos mayores chilenos",
+    "relacion": "insertos en",
+    "valor": "la comunidad"
+  },
+  {
+    "entidad": "calidad de vida relacionada con la salud",
+    "relacion": "se entiende como",
+    "valor": "percepción de salud física y mental"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud (OMS)",
+    "relacion": "reconoce",
+    "valor": "actividad física como estrategia para envejecimiento activo"
+  },
+  {
+    "entidad": "condición física",
+    "relacion": "favorece",
+    "valor": "independencia funcional"
+  },
+  {
+    "entidad": "fuerza prensil de mano",
+    "relacion": "predice",
+    "valor": "percepción favorable de salud física"
+  },
+  {
+    "entidad": "flexiones de codo",
+    "relacion": "predice",
+    "valor": "percepción favorable de salud mental"
+  },
+  {
+    "entidad": "Centro Comunitario de Salud Familiar (CECOSF) Libertad Gaete",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "Fondo Nacional de Investigación en Salud (FONIS)",
+    "relacion": "financia",
+    "valor": "la investigación"
+  },
+  {
+    "entidad": "evaluación funcional del adulto mayor (EFAM)",
+    "relacion": "utiliza",
+    "valor": "criterios de inclusión"
+  },
+  {
+    "entidad": "cuestionario SF-12v2",
+    "relacion": "evalúa",
+    "valor": "calidad de vida relacionada con la salud"
+  },
+  {
+    "entidad": "adultos mayores autovalentes",
+    "relacion": "son",
+    "valor": "población de estudio"
+  },
+  {
+    "entidad": "parámetros de condición física",
+    "relacion": "se evalúan mediante",
+    "valor": "Senior Fitness Test (SFT)"
+  },
+  {
+    "entidad": "modelos de regresión logística",
+    "relacion": "analizan",
+    "valor": "asociaciones predictivas"
+  },
+  {
+    "entidad": "variables confundentes",
+    "relacion": "se consideran",
+    "valor": "género, edad, IMC e ICC"
+  },
+  {
+    "entidad": "población mayor",
+    "relacion": "presenta",
+    "valor": "carga de enfermedades crónicas"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "es prioridad en",
+    "valor": "salud pública"
+  },
+  {
+    "entidad": "depresión",
+    "relacion": "afecta a",
+    "valor": "personas con comorbilidades crónicas"
+  },
+  {
+    "entidad": "personas con depresión",
+    "relacion": "consultan en",
+    "valor": "centros de atención primaria de salud en Santiago, Chile"
+  },
+  {
+    "entidad": "centros de atención primaria de salud (PHCCs)",
+    "relacion": "caracterizan",
+    "valor": "población deprimida"
+  },
+  {
+    "entidad": "comorbilidad",
+    "relacion": "se presenta en",
+    "valor": "78% de los pacientes"
+  },
+  {
+    "entidad": "episodio depresivo mayor",
+    "relacion": "diagnosticado por",
+    "valor": "Mini International Neuropsychiatric Interview (MINI)"
+  },
+  {
+    "entidad": "PHQ-9",
+    "relacion": "mide",
+    "valor": "sintomatología depresiva"
+  },
+  {
+    "entidad": "Fondo Nacional de Desarrollo Científico y Tecnológico (FONDECYT)",
+    "relacion": "financia",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "Universidad de Chile",
+    "relacion": "tiene",
+    "valor": "departamento de Psiquiatría y Salud Mental"
+  },
+  {
+    "entidad": "Instituto Milenio para la Investigación en Depresión y Personalidad",
+    "relacion": "es parte de",
+    "valor": "la investigación"
+  },
+  {
+    "entidad": "comorbilidades psiquiátricas",
+    "relacion": "incluyen",
+    "valor": "trastorno de ansiedad generalizado y episodio (hipo)maníaco"
+  },
+  {
+    "entidad": "enfermedades físicas crónicas",
+    "relacion": "incluyen",
+    "valor": "hipertensión y diabetes mellitus"
+  },
+  {
+    "entidad": "sistemas sanitarios",
+    "relacion": "enfrentan",
+    "valor": "carga de enfermedades no transmisibles"
+  },
+  {
+    "entidad": "programas de prevención",
+    "relacion": "desarrollados en",
+    "valor": "atención primaria de salud (APS) en Chile"
+  },
+  {
+    "entidad": "pacientes deprimidos",
+    "relacion": "tienen",
+    "valor": "alto riesgo suicida"
+  },
+  {
+    "entidad": "comorbilidad médica crónica",
+    "relacion": "reportada por",
+    "valor": "42,19% de los casos"
+  },
+  {
+    "entidad": "comorbilidad psiquiátrica",
+    "relacion": "reportada por",
+    "valor": "55,47% de los casos"
+  },
+  {
+    "entidad": "depresión",
+    "relacion": "es",
+    "valor": "la segunda causa de años vividos con discapacidad (AVISA)"
+  },
+  {
+    "entidad": "atención primaria de salud (APS)",
+    "relacion": "debe jugar",
+    "valor": "un rol importante en el tratamiento de la depresión"
+  },
+  {
+    "entidad": "peritonitis esclerosante",
+    "relacion": "es una",
+    "valor": "complicación de la diálisis peritoneal"
+  },
+  {
+    "entidad": "diálisis peritoneal",
+    "relacion": "tiene",
+    "valor": "baja prevalencia pero alta mortalidad"
+  },
+  {
+    "entidad": "peritonitis esclerosante",
+    "relacion": "se caracteriza por",
+    "valor": "inflamación y fibrosis peritoneal"
+  },
+  {
+    "entidad": "peritonitis esclerosante",
+    "relacion": "está asociada con",
+    "valor": "largo tiempo en diálisis peritoneal"
+  },
+  {
+    "entidad": "peritonitis esclerosante",
+    "relacion": "está asociada con",
+    "valor": "frecuentes episodios de peritonitis"
+  },
+  {
+    "entidad": "peritonitis esclerosante",
+    "relacion": "está asociada con",
+    "valor": "uso de soluciones de glucosa alta"
+  },
+  {
+    "entidad": "peritonitis esclerosante",
+    "relacion": "está asociada con",
+    "valor": "alto estado de transporte peritoneal"
+  },
+  {
+    "entidad": "Hospital Clínico Universidad de Chile",
+    "relacion": "realizó",
+    "valor": "diagnóstico de peritonitis esclerosante"
+  },
+  {
+    "entidad": "Rubén Torres Díaz",
+    "relacion": "es el autor de",
+    "valor": "el estudio sobre peritonitis esclerosante"
+  },
+  {
+    "entidad": "tamoxifeno",
+    "relacion": "se utiliza como",
+    "valor": "tratamiento para peritonitis esclerosante"
+  },
+  {
+    "entidad": "corticoides",
+    "relacion": "se utilizan como",
+    "valor": "tratamiento para peritonitis esclerosante"
+  },
+  {
+    "entidad": "peritonitis esclerosante",
+    "relacion": "puede causar",
+    "valor": "síntomas de obstrucción intestinal"
+  },
+  {
+    "entidad": "peritonitis esclerosante",
+    "relacion": "puede llevar a",
+    "valor": "muerte del paciente"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "son más propensas a",
+    "valor": "desarrollar peritonitis esclerosante"
+  },
+  {
+    "entidad": "duración de la diálisis peritoneal",
+    "relacion": "es un factor de riesgo para",
+    "valor": "peritonitis esclerosante"
+  },
+  {
+    "entidad": "peritonitis",
+    "relacion": "se asocia con",
+    "valor": "desarrollo de peritonitis esclerosante"
+  },
+  {
+    "entidad": "nutrición parenteral total",
+    "relacion": "se recomienda para",
+    "valor": "evitar malnutrición en pacientes con peritonitis esclerosante"
+  },
+  {
+    "entidad": "catéter peritoneal",
+    "relacion": "debe ser retirado para",
+    "valor": "evitar inflamación persistente"
+  },
+  {
+    "entidad": "soluciones de pH neutro",
+    "relacion": "disminuyen",
+    "valor": "casos de peritonitis esclerosante"
+  },
+  {
+    "entidad": "peritonitis esclerosante",
+    "relacion": "requiere",
+    "valor": "diagnóstico temprano para mejor pronóstico"
+  },
+  {
+    "entidad": "sulfato de cobre",
+    "relacion": "afecta a",
+    "valor": "daño pulmonar"
+  },
+  {
+    "entidad": "ozono",
+    "relacion": "induce",
+    "valor": "daño pulmonar"
+  },
+  {
+    "entidad": "exposición crónica intermitente a ozono",
+    "relacion": "causa",
+    "valor": "inflamación pulmonar neutrofílica"
+  },
+  {
+    "entidad": "CuSO4",
+    "relacion": "se administra por",
+    "valor": "instilación intratraqueal"
+  },
+  {
+    "entidad": "ratas macho Sprague-Dawley",
+    "relacion": "son utilizadas en",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "lavado broncoalveolar (LBA)",
+    "relacion": "se evalúa para determinar",
+    "valor": "células y proteínas"
+  },
+  {
+    "entidad": "F2 isoprostano",
+    "relacion": "aumenta en",
+    "valor": "plasma tras instilación de CuSO4"
+  },
+  {
+    "entidad": "macrófagos",
+    "relacion": "presentan",
+    "valor": "vacuolización y pigmentación"
+  },
+  {
+    "entidad": "daño por ozono",
+    "relacion": "aumenta",
+    "valor": "permeabilidad alvéolo-capilar"
+  },
+  {
+    "entidad": "inflamación neutrofílica",
+    "relacion": "es inducida por",
+    "valor": "exposición a ozono y CuSO4"
+  },
+  {
+    "entidad": "proteínas totales",
+    "relacion": "aumentan en",
+    "valor": "lavado broncoalveolar"
+  },
+  {
+    "entidad": "g glutamil-transpeptidasa (GGT)",
+    "relacion": "aumenta en",
+    "valor": "lavado broncoalveolar tras CuSO4"
+  },
+  {
+    "entidad": "fosfatasa alcalina",
+    "relacion": "aumenta en",
+    "valor": "lavado broncoalveolar tras ozono y CuSO4"
+  },
+  {
+    "entidad": "Comité de Bioética de Investigación en Animales",
+    "relacion": "aprueba",
+    "valor": "protocolo de estudio"
+  },
+  {
+    "entidad": "Instituto de Ciencias Biomédicas",
+    "relacion": "pertenece a",
+    "valor": "Universidad de Chile"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "FONDECYT",
+    "relacion": "financia",
+    "valor": "proyecto de investigación"
+  },
+  {
+    "entidad": "Hospital de Nueva Imperial",
+    "relacion": "pertenece a",
+    "valor": "Servicio de Salud Araucanía Sur"
+  },
+  {
+    "entidad": "Servicio de Salud Araucanía Sur",
+    "relacion": "recibe",
+    "valor": "pacientes de Nueva Imperial, Carahue y Puerto Saavedra"
+  },
+  {
+    "entidad": "errores en recetas médicas",
+    "relacion": "causa",
+    "valor": "morbilidad y hospitalizaciones"
+  },
+  {
+    "entidad": "errores en preparación de medicamentos",
+    "relacion": "influye en",
+    "valor": "efectos adversos de medicamentos"
+  },
+  {
+    "entidad": "frecuencia de errores en recetas",
+    "relacion": "es",
+    "valor": "72%"
+  },
+  {
+    "entidad": "errores en recetas",
+    "relacion": "aumenta con",
+    "valor": "número de fármacos prescritos"
+  },
+  {
+    "entidad": "errores en preparación de recetas",
+    "relacion": "es",
+    "valor": "23,9%"
+  },
+  {
+    "entidad": "rotulación de medicamentos",
+    "relacion": "es un tipo de error",
+    "valor": "indicaciones médicas incompletas"
+  },
+  {
+    "entidad": "número de técnicos paramédicos",
+    "relacion": "no influye en",
+    "valor": "número de errores"
+  },
+  {
+    "entidad": "sistemas de prescripción electrónica",
+    "relacion": "mejoran",
+    "valor": "calidad de procesos de medicación"
+  },
+  {
+    "entidad": "errores de medicación",
+    "relacion": "son",
+    "valor": "acontecimientos prevenibles"
+  },
+  {
+    "entidad": "preparación de recetas",
+    "relacion": "aumenta el riesgo de error con",
+    "valor": "más de tres fármacos"
+  },
+  {
+    "entidad": "MELD",
+    "relacion": "es una",
+    "valor": "escala pronóstica"
+  },
+  {
+    "entidad": "Child-Pugh",
+    "relacion": "es una",
+    "valor": "escala pronóstica"
+  },
+  {
+    "entidad": "cirrosis hepática",
+    "relacion": "es una",
+    "valor": "enfermedad crónica"
+  },
+  {
+    "entidad": "trasplante de hígado",
+    "relacion": "es el",
+    "valor": "único tratamiento curativo"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "es un",
+    "valor": "país donde se realiza el estudio"
+  },
+  {
+    "entidad": "Clínica Alemana de Santiago",
+    "relacion": "es un",
+    "valor": "centro de salud"
+  },
+  {
+    "entidad": "Hospital Padre Hurtado",
+    "relacion": "es un",
+    "valor": "centro de salud"
+  },
+  {
+    "entidad": "Hospital del Salvador",
+    "relacion": "es un",
+    "valor": "centro de salud"
+  },
+  {
+    "entidad": "escala Child-Pugh",
+    "relacion": "considera",
+    "valor": "cinco variables"
+  },
+  {
+    "entidad": "escala MELD",
+    "relacion": "considera",
+    "valor": "tres variables"
+  },
+  {
+    "entidad": "MELD",
+    "relacion": "se utiliza para",
+    "valor": "asignación de órganos en trasplante"
+  },
+  {
+    "entidad": "MELD",
+    "relacion": "es de elección en",
+    "valor": "varios centros y países"
+  },
+  {
+    "entidad": "MELD",
+    "relacion": "se estableció como",
+    "valor": "método nacional para asignación de órganos"
+  },
+  {
+    "entidad": "cirrosis hepática",
+    "relacion": "tiene una etiología",
+    "valor": "variable"
+  },
+  {
+    "entidad": "alcohol",
+    "relacion": "es la",
+    "valor": "etiología más común de cirrosis"
+  },
+  {
+    "entidad": "hepatitis C",
+    "relacion": "es una",
+    "valor": "etiología de cirrosis"
+  },
+  {
+    "entidad": "esteatohepatitis no alcohólica",
+    "relacion": "es una",
+    "valor": "etiología de cirrosis"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "es mayor con",
+    "valor": "alta puntuación en escalas"
+  },
+  {
+    "entidad": "MELD",
+    "relacion": "utiliza",
+    "valor": "exámenes de laboratorio simples y objetivos"
+  },
+  {
+    "entidad": "escala Child-Pugh",
+    "relacion": "utiliza",
+    "valor": "variables subjetivas"
+  },
+  {
+    "entidad": "MELD",
+    "relacion": "es más",
+    "valor": "práctica y menos variable que Child-Pugh"
+  },
+  {
+    "entidad": "MELD",
+    "relacion": "es comparado con",
+    "valor": "escala Child-Pugh"
+  },
+  {
+    "entidad": "escala Child-Pugh",
+    "relacion": "se divide en",
+    "valor": "categorías A, B y C"
+  },
+  {
+    "entidad": "escala MELD",
+    "relacion": "se divide en",
+    "valor": "grupos I, II y III"
+  },
+  {
+    "entidad": "MELD",
+    "relacion": "es validada como",
+    "valor": "sistema pronóstico en Chile"
+  },
+  {
+    "entidad": "Ocular Trauma",
+    "relacion": "es un",
+    "valor": "estado de salud"
+  },
+  {
+    "entidad": "instrumento de satisfacción",
+    "relacion": "evalúa",
+    "valor": "satisfacción de usuarios en urgencias oftalmológicas"
+  },
+  {
+    "entidad": "Hospital del Salvador",
+    "relacion": "es un",
+    "valor": "centro de referencia nacional de urgencia oftalmológica"
+  },
+  {
+    "entidad": "satisfacción usuaria",
+    "relacion": "afecta",
+    "valor": "adhesión al tratamiento"
+  },
+  {
+    "entidad": "calidad de atención sanitaria",
+    "relacion": "es medida por",
+    "valor": "satisfacción del usuario"
+  },
+  {
+    "entidad": "encuesta de satisfacción",
+    "relacion": "se aplica en",
+    "valor": "pacientes de urgencia oftalmológica"
+  },
+  {
+    "entidad": "consistencia interna",
+    "relacion": "es evaluada por",
+    "valor": "coeficiente alfa de Cronbach"
+  },
+  {
+    "entidad": "validez de constructo",
+    "relacion": "es evaluada por",
+    "valor": "análisis factorial"
+  },
+  {
+    "entidad": "dimensiones de satisfacción",
+    "relacion": "incluyen",
+    "valor": "calidad de información clínica, trato del personal, condiciones ambientales, tiempo de espera"
+  },
+  {
+    "entidad": "Universidad de Chile",
+    "relacion": "es un",
+    "valor": "institución educativa"
+  },
+  {
+    "entidad": "método Delphi",
+    "relacion": "se utiliza para",
+    "valor": "construir contenidos del instrumento"
+  },
+  {
+    "entidad": "Comité de Ética del Hospital del Salvador",
+    "relacion": "aprueba",
+    "valor": "procedimientos del estudio"
+  },
+  {
+    "entidad": "Estrategia Nacional de Salud 2011-2020",
+    "relacion": "es un",
+    "valor": "plan de salud en Chile"
+  },
+  {
+    "entidad": "satisfacción usuaria",
+    "relacion": "es un indicador de",
+    "valor": "calidad percibida en salud"
+  },
+  {
+    "entidad": "cuestionario de satisfacción",
+    "relacion": "es considerado",
+    "valor": "útil y confiable"
+  },
+  {
+    "entidad": "pacientes atendidos",
+    "relacion": "son de",
+    "valor": "la Unidad de Trauma Ocular"
+  },
+  {
+    "entidad": "análisis factorial",
+    "relacion": "permite agrupar",
+    "valor": "preguntas del cuestionario"
+  },
+  {
+    "entidad": "tiempo de espera",
+    "relacion": "es relevante para",
+    "valor": "satisfacción usuaria"
+  },
+  {
+    "entidad": "calidad de información clínica",
+    "relacion": "es un factor de",
+    "valor": "satisfacción usuaria"
+  },
+  {
+    "entidad": "trato del personal sanitario",
+    "relacion": "es un factor de",
+    "valor": "satisfacción usuaria"
+  },
+  {
+    "entidad": "condiciones de iluminación, ambiente y ruido",
+    "relacion": "son factores de",
+    "valor": "satisfacción usuaria"
+  },
+  {
+    "entidad": "Trombolisis mecánica",
+    "relacion": "es un",
+    "valor": "tratamiento para trombosis venosa profunda"
+  },
+  {
+    "entidad": "Trombolisis farmacomecánica",
+    "relacion": "es un",
+    "valor": "tratamiento para trombosis venosa profunda"
+  },
+  {
+    "entidad": "Trombosis venosa profunda",
+    "relacion": "es una",
+    "valor": "enfermedad"
+  },
+  {
+    "entidad": "Tratamiento médico convencional",
+    "relacion": "es un",
+    "valor": "enfoque inicial para trombosis venosa profunda"
+  },
+  {
+    "entidad": "Anticoagulación",
+    "relacion": "es un",
+    "valor": "método de tratamiento"
+  },
+  {
+    "entidad": "Reposo absoluto",
+    "relacion": "es un",
+    "valor": "método de tratamiento"
+  },
+  {
+    "entidad": "Elevación de la extremidad",
+    "relacion": "es un",
+    "valor": "método de tratamiento"
+  },
+  {
+    "entidad": "Isquemia",
+    "relacion": "puede ser causada por",
+    "valor": "trombosis venosa profunda"
+  },
+  {
+    "entidad": "Trombosis venosa profunda proximal",
+    "relacion": "tiene riesgo de",
+    "valor": "complicaciones agudas"
+  },
+  {
+    "entidad": "Trombosis venosa profunda proximal",
+    "relacion": "tiene riesgo de",
+    "valor": "síndrome post-trombótico"
+  },
+  {
+    "entidad": "Trombosis venosa profunda proximal",
+    "relacion": "tiene riesgo de",
+    "valor": "recurrencia de trombosis venosa profunda"
+  },
+  {
+    "entidad": "Trombolisis farmacomecánica",
+    "relacion": "ha surgido como",
+    "valor": "una alternativa efectiva"
+  },
+  {
+    "entidad": "Trombolisis mecánica",
+    "relacion": "es segura y efectiva en",
+    "valor": "pacientes con trombosis venosa profunda"
+  },
+  {
+    "entidad": "AngioJet®",
+    "relacion": "es un",
+    "valor": "sistema utilizado en trombolisis"
+  },
+  {
+    "entidad": "Flebotomía",
+    "relacion": "es un",
+    "valor": "método de intervención"
+  },
+  {
+    "entidad": "Filtro de vena cava inferior",
+    "relacion": "se utiliza para",
+    "valor": "profilaxis de tromboembolismo pulmonar"
+  },
+  {
+    "entidad": "Trombolisis",
+    "relacion": "se realiza mediante",
+    "valor": "administración de activador recombinante del plasminógeno tisular"
+  },
+  {
+    "entidad": "Trombolisis farmacológica",
+    "relacion": "se realiza con",
+    "valor": "dosis de rTPA"
+  },
+  {
+    "entidad": "Angioplastía",
+    "relacion": "se realiza para",
+    "valor": "tratar estenosis residual"
+  },
+  {
+    "entidad": "Anticoagulación",
+    "relacion": "se realiza",
+    "valor": "post-intervención"
+  },
+  {
+    "entidad": "Trombosis venosa profunda",
+    "relacion": "requiere",
+    "valor": "manejo activo en casos de evolución desfavorable"
+  },
+  {
+    "entidad": "Síndrome de May-Thurner",
+    "relacion": "es una",
+    "valor": "condición asociada a trombosis venosa profunda"
+  },
+  {
+    "entidad": "Complicaciones por trombolisis",
+    "relacion": "son",
+    "valor": "infrecuentes"
+  },
+  {
+    "entidad": "Reoclusión",
+    "relacion": "es una",
+    "valor": "complicación alejada"
+  },
+  {
+    "entidad": "Tratamiento anticoagulante",
+    "relacion": "debe ser",
+    "valor": "prolongado o de por vida"
+  },
+  {
+    "entidad": "Trombosis venosa profunda proximal",
+    "relacion": "debe ser tratada",
+    "valor": "de forma agresiva"
+  },
+  {
+    "entidad": "Trombolisis mecánica y farmacomecánica",
+    "relacion": "son",
+    "valor": "alternativas terapéuticas en trombosis venosa profunda"
+  }
+]

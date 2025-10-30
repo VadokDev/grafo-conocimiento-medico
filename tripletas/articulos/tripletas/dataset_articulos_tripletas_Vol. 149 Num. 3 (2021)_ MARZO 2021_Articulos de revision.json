@@ -1,0 +1,282 @@
+[
+  {
+    "entidad": "SARS-CoV-2",
+    "relacion": "causa",
+    "valor": "COVID-19"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "se convierte en",
+    "valor": "pandemia"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud (OMS)",
+    "relacion": "reporta",
+    "valor": "neumonía de etiología desconocida"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "emite",
+    "valor": "iniciativas de salud pública"
+  },
+  {
+    "entidad": "modelos matemáticos",
+    "relacion": "permiten entender",
+    "valor": "epidemias"
+  },
+  {
+    "entidad": "curva de Gompertz",
+    "relacion": "describe",
+    "valor": "la propagación epidémica"
+  },
+  {
+    "entidad": "curva gamma",
+    "relacion": "describe",
+    "valor": "período de contagiosidad"
+  },
+  {
+    "entidad": "R0",
+    "relacion": "define",
+    "valor": "número promedio de casos nuevos por caso infectado"
+  },
+  {
+    "entidad": "inmunidad de rebaño (IR)",
+    "relacion": "detiene",
+    "valor": "infección"
+  },
+  {
+    "entidad": "vacunas",
+    "relacion": "confieren",
+    "valor": "inmunidad"
+  },
+  {
+    "entidad": "estrategias de mitigación",
+    "relacion": "reducen",
+    "valor": "propagación de epidemias"
+  },
+  {
+    "entidad": "fármacos",
+    "relacion": "reducen",
+    "valor": "capacidad infectante del virus"
+  },
+  {
+    "entidad": "distanciamiento físico",
+    "relacion": "evita",
+    "valor": "contagios"
+  },
+  {
+    "entidad": "epidemia de gripe española",
+    "relacion": "ejemplo de",
+    "valor": "errores de apreciación en medidas mitigatorias"
+  },
+  {
+    "entidad": "Fernando González Fuenzalida",
+    "relacion": "es autor de",
+    "valor": "artículo sobre epidemias"
+  },
+  {
+    "entidad": "Francisca González Cohens",
+    "relacion": "es coautora de",
+    "valor": "artículo sobre epidemias"
+  },
+  {
+    "entidad": "función renal",
+    "relacion": "se evalúa con",
+    "valor": "clearance de creatinina o estimación de la tasa de filtración glomerular"
+  },
+  {
+    "entidad": "fórmulas",
+    "relacion": "incluyen",
+    "valor": "Cockcroft-Gault, MDRD, CKD-EPI"
+  },
+  {
+    "entidad": "Cockcroft-Gault",
+    "relacion": "subestima",
+    "valor": "tasa de filtración glomerular en mayores de 70 años"
+  },
+  {
+    "entidad": "MDRD",
+    "relacion": "sobreestima",
+    "valor": "tasa de filtración glomerular"
+  },
+  {
+    "entidad": "CKD-EPI",
+    "relacion": "tiene un comportamiento",
+    "valor": "más impredecible"
+  },
+  {
+    "entidad": "enfermedad renal crónica",
+    "relacion": "es un marcador de",
+    "valor": "mayor riesgo de muerte"
+  },
+  {
+    "entidad": "hipertensión arterial",
+    "relacion": "es un factor de riesgo para",
+    "valor": "enfermedad renal crónica"
+  },
+  {
+    "entidad": "diabetes mellitus",
+    "relacion": "es un factor de riesgo para",
+    "valor": "enfermedad renal crónica"
+  },
+  {
+    "entidad": "creatinina sérica",
+    "relacion": "se utiliza para",
+    "valor": "estimar la función renal"
+  },
+  {
+    "entidad": "clearance de creatinina",
+    "relacion": "es la prueba más utilizada para",
+    "valor": "estimar la tasa de filtración glomerular"
+  },
+  {
+    "entidad": "fórmulas de estimación",
+    "relacion": "no han sido validadas para",
+    "valor": "uso en adultos mayores"
+  },
+  {
+    "entidad": "fórmulas CKD-EPI y MDRD",
+    "relacion": "se comparan en",
+    "valor": "estudios de población"
+  },
+  {
+    "entidad": "BIS-1",
+    "relacion": "es más exacta que",
+    "valor": "CKD-EPI en adultos mayores"
+  },
+  {
+    "entidad": "FAS",
+    "relacion": "es una fórmula para",
+    "valor": "estimar la tasa de filtración glomerular"
+  },
+  {
+    "entidad": "métodos de referencia",
+    "relacion": "se utilizan para medir",
+    "valor": "tasa de filtración glomerular"
+  },
+  {
+    "entidad": "CysC",
+    "relacion": "es un biomarcador para",
+    "valor": "estimación de la tasa de filtración glomerular"
+  },
+  {
+    "entidad": "fórmulas nuevas",
+    "relacion": "se proponen para",
+    "valor": "mejorar la estimación de la función renal en adultos mayores"
+  },
+  {
+    "entidad": "métodos de laboratorio",
+    "relacion": "son laboriosos y costosos para",
+    "valor": "medir la tasa de filtración glomerular"
+  },
+  {
+    "entidad": "carcinoma paratiroideo",
+    "relacion": "es un",
+    "valor": "tumor endocrino infrecuente"
+  },
+  {
+    "entidad": "carcinoma paratiroideo",
+    "relacion": "se presenta como",
+    "valor": "hiperparatiroidismo primario esporádico"
+  },
+  {
+    "entidad": "carcinoma paratiroideo",
+    "relacion": "ocurre en",
+    "valor": "cualquier edad"
+  },
+  {
+    "entidad": "carcinoma paratiroideo",
+    "relacion": "es más frecuente en",
+    "valor": "la quinta década de la vida"
+  },
+  {
+    "entidad": "carcinoma paratiroideo",
+    "relacion": "se asocia con",
+    "valor": "hiperparatiroidismo primario"
+  },
+  {
+    "entidad": "hiperparatiroidismo primario",
+    "relacion": "es causado por",
+    "valor": "adenoma paratiroideo"
+  },
+  {
+    "entidad": "carcinoma paratiroideo",
+    "relacion": "se diagnostica tras",
+    "valor": "paratiroidectomía"
+  },
+  {
+    "entidad": "tratamiento curativo",
+    "relacion": "es",
+    "valor": "resección quirúrgica completa"
+  },
+  {
+    "entidad": "quimioterapia",
+    "relacion": "no modifica",
+    "valor": "supervivencia global o libre de enfermedad"
+  },
+  {
+    "entidad": "recurrencias",
+    "relacion": "son comunes en",
+    "valor": "carcinoma paratiroideo"
+  },
+  {
+    "entidad": "hipercalcemia",
+    "relacion": "se asocia con",
+    "valor": "morbimortalidad"
+  },
+  {
+    "entidad": "mutaciones del gen CDC73",
+    "relacion": "se asocian a",
+    "valor": "carcinoma paratiroideo"
+  },
+  {
+    "entidad": "HPT-JT",
+    "relacion": "es una enfermedad",
+    "valor": "hereditaria autosómica dominante"
+  },
+  {
+    "entidad": "HPT-JT",
+    "relacion": "se caracteriza por",
+    "valor": "hiperparatiroidismo hereditario"
+  },
+  {
+    "entidad": "ecografía",
+    "relacion": "es la técnica inicial para",
+    "valor": "diagnóstico de carcinoma paratiroideo"
+  },
+  {
+    "entidad": "cintigrafía con SestaMIBI",
+    "relacion": "es utilizada para",
+    "valor": "evaluar glándulas paratiroideas ectópicas"
+  },
+  {
+    "entidad": "radioterapia",
+    "relacion": "no aumenta",
+    "valor": "supervivencia en carcinoma paratiroideo"
+  },
+  {
+    "entidad": "denosumab",
+    "relacion": "se utiliza para",
+    "valor": "tratamiento de hipercalcemia tumoral"
+  },
+  {
+    "entidad": "carcinoma paratiroideo",
+    "relacion": "tiene una tasa de",
+    "valor": "sobrevida a 5 años entre 50 y 85%"
+  },
+  {
+    "entidad": "seguimiento",
+    "relacion": "es importante para",
+    "valor": "detección precoz de recurrencias"
+  },
+  {
+    "entidad": "recurrencias locorregionales",
+    "relacion": "ocurren en",
+    "valor": "hasta 50% de los pacientes"
+  },
+  {
+    "entidad": "metástasis",
+    "relacion": "son más frecuentes en",
+    "valor": "pulmones, huesos e hígado"
+  }
+]

@@ -1,0 +1,877 @@
+[
+  {
+    "entidad": "Linfoma Difuso de Células B Grandes (DLBCL)",
+    "relacion": "es un",
+    "valor": "trastorno linfoproliferativo agresivo"
+  },
+  {
+    "entidad": "recuento absoluto de monocitos",
+    "relacion": "es un",
+    "valor": "parámetro pronóstico"
+  },
+  {
+    "entidad": "recuento absoluto de monocitos",
+    "relacion": "predice",
+    "valor": "supervivencia libre de recaída"
+  },
+  {
+    "entidad": "recuento absoluto de monocitos",
+    "relacion": "predice",
+    "valor": "supervivencia global"
+  },
+  {
+    "entidad": "R-IPI",
+    "relacion": "es un",
+    "valor": "índice pronóstico"
+  },
+  {
+    "entidad": "R-IPI",
+    "relacion": "incorpora",
+    "valor": "características del paciente y del tumor"
+  },
+  {
+    "entidad": "monocitos",
+    "relacion": "son",
+    "valor": "células del sistema inmunológico"
+  },
+  {
+    "entidad": "monocitos",
+    "relacion": "promueven",
+    "valor": "crecimiento y supervivencia de células B malignas"
+  },
+  {
+    "entidad": "Hospital de Clínicas",
+    "relacion": "es un",
+    "valor": "centro de referencia público"
+  },
+  {
+    "entidad": "Hospital Maciel",
+    "relacion": "es un",
+    "valor": "centro de referencia público"
+  },
+  {
+    "entidad": "inmuno-quimioterapia basada en rituximab",
+    "relacion": "es un",
+    "valor": "tratamiento"
+  },
+  {
+    "entidad": "pacientes con DLBCL",
+    "relacion": "son tratados con",
+    "valor": "inmuno-quimioterapia"
+  },
+  {
+    "entidad": "alta cuenta de monocitos",
+    "relacion": "se asocia con",
+    "valor": "peores resultados"
+  },
+  {
+    "entidad": "bajo riesgo según R-IPI",
+    "relacion": "puede incluir",
+    "valor": "pacientes con alta cuenta de monocitos"
+  },
+  {
+    "entidad": "monocitos",
+    "relacion": "son propuestos como",
+    "valor": "marcadores pronósticos"
+  },
+  {
+    "entidad": "estudio retrospectivo",
+    "relacion": "analiza",
+    "valor": "valor pronóstico del recuento absoluto de monocitos"
+  },
+  {
+    "entidad": "sobrevida global (OS)",
+    "relacion": "se calcula desde",
+    "valor": "la fecha de diagnóstico hasta la muerte"
+  },
+  {
+    "entidad": "sobrevida libre de recaída (RFS)",
+    "relacion": "se calcula desde",
+    "valor": "la fecha de diagnóstico hasta la recaída"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "fue aprobado por",
+    "valor": "el Comité de Ética del Hospital de Clínicas"
+  },
+  {
+    "entidad": "monocitos",
+    "relacion": "se consideran",
+    "valor": "marcadores de inmunidad adaptativa"
+  },
+  {
+    "entidad": "Lupus eritematoso sistémico",
+    "relacion": "es una",
+    "valor": "enfermedad autoinmune"
+  },
+  {
+    "entidad": "Nefritis lúpica",
+    "relacion": "es una",
+    "valor": "manifestación del lupus eritematoso sistémico"
+  },
+  {
+    "entidad": "Nefritis lúpica",
+    "relacion": "requiere",
+    "valor": "biopsia renal"
+  },
+  {
+    "entidad": "Clases III, IV-S, IV-G de nefritis lúpica",
+    "relacion": "tienen",
+    "valor": "características clínicas y patológicas especiales"
+  },
+  {
+    "entidad": "Biopsia renal",
+    "relacion": "orienta",
+    "valor": "tratamiento y pronóstico"
+  },
+  {
+    "entidad": "Nefritis lúpica",
+    "relacion": "puede causar",
+    "valor": "insuficiencia renal terminal y muerte"
+  },
+  {
+    "entidad": "Clasificación de nefritis lúpica",
+    "relacion": "se basa en",
+    "valor": "patrones histopatológicos de lesión glomerular"
+  },
+  {
+    "entidad": "Índice de actividad",
+    "relacion": "diferencia",
+    "valor": "subclases de nefritis lúpica"
+  },
+  {
+    "entidad": "Índice de cronicidad",
+    "relacion": "diferencia",
+    "valor": "clase III y clase IV-G de nefritis lúpica"
+  },
+  {
+    "entidad": "Esclerosis vascular",
+    "relacion": "diferencia",
+    "valor": "clases III y IV de nefritis lúpica"
+  },
+  {
+    "entidad": "Departamento de Anatomía Patológica",
+    "relacion": "pertenece a",
+    "valor": "Pontificia Universidad Católica de Chile"
+  },
+  {
+    "entidad": "Comité de Ética en Investigación",
+    "relacion": "aprueba",
+    "valor": "estudios en la Pontificia Universidad Católica"
+  },
+  {
+    "entidad": "Creatinina sérica",
+    "relacion": "es un",
+    "valor": "indicador de insuficiencia renal"
+  },
+  {
+    "entidad": "Proteinuria",
+    "relacion": "es un",
+    "valor": "indicador de daño renal"
+  },
+  {
+    "entidad": "Nefritis lúpica",
+    "relacion": "se clasifica en",
+    "valor": "seis clases según ISN/RPS"
+  },
+  {
+    "entidad": "Nefritis lúpica clase III",
+    "relacion": "es",
+    "valor": "proliferativa focal"
+  },
+  {
+    "entidad": "Nefritis lúpica clase IV",
+    "relacion": "es",
+    "valor": "proliferativa difusa"
+  },
+  {
+    "entidad": "Nefritis lúpica clase IV-S",
+    "relacion": "es",
+    "valor": "segmentaria"
+  },
+  {
+    "entidad": "Nefritis lúpica clase IV-G",
+    "relacion": "es",
+    "valor": "global"
+  },
+  {
+    "entidad": "CYP2C9",
+    "relacion": "afecta a",
+    "valor": "metabolismo de losartán"
+  },
+  {
+    "entidad": "losartán",
+    "relacion": "es utilizado para",
+    "valor": "tratamiento de la hipertensión"
+  },
+  {
+    "entidad": "CYP2C9*2",
+    "relacion": "es una variante de",
+    "valor": "CYP2C9"
+  },
+  {
+    "entidad": "CYP2C9*3",
+    "relacion": "es una variante de",
+    "valor": "CYP2C9"
+  },
+  {
+    "entidad": "CYP2C9*3",
+    "relacion": "se asocia con",
+    "valor": "necesidad de mayor dosis de losartán"
+  },
+  {
+    "entidad": "CYP2C9",
+    "relacion": "metaboliza",
+    "valor": "losartán a E-3174"
+  },
+  {
+    "entidad": "E-3174",
+    "relacion": "es responsable de",
+    "valor": "efecto antihipertensivo"
+  },
+  {
+    "entidad": "pacientes hipertensos chilenos",
+    "relacion": "son estudiados para",
+    "valor": "frecuencia de variantes de CYP2C9"
+  },
+  {
+    "entidad": "CYP2C9*3",
+    "relacion": "indica",
+    "valor": "menor actividad enzimática"
+  },
+  {
+    "entidad": "losartán",
+    "relacion": "se usa para",
+    "valor": "controlar la presión arterial"
+  },
+  {
+    "entidad": "polimorfismos de CYP2C9",
+    "relacion": "pueden influir en",
+    "valor": "dosis y posología de losartán"
+  },
+  {
+    "entidad": "CYP2C9",
+    "relacion": "es un gen",
+    "valor": "altamente polimórfico"
+  },
+  {
+    "entidad": "CYP2C9*1",
+    "relacion": "es considerado",
+    "valor": "alelo normal o wild-type"
+  },
+  {
+    "entidad": "CYP2C9*2",
+    "relacion": "se asocia con",
+    "valor": "disminución en la transformación de losartán a E-3174"
+  },
+  {
+    "entidad": "CYP2C9*3",
+    "relacion": "se asocia con",
+    "valor": "menor respuesta antihipertensiva"
+  },
+  {
+    "entidad": "CYP2C9",
+    "relacion": "participa en",
+    "valor": "homeostasis del endotelio"
+  },
+  {
+    "entidad": "losartán",
+    "relacion": "fue descrito para",
+    "valor": "uso humano en 1990"
+  },
+  {
+    "entidad": "CYP2C9",
+    "relacion": "es responsable de",
+    "valor": "catalizar reacciones metabólicas de diversas drogas"
+  },
+  {
+    "entidad": "CYP2C9",
+    "relacion": "se encuentra en",
+    "valor": "tejidos cardiovasculares"
+  },
+  {
+    "entidad": "CYP2C9*3",
+    "relacion": "es más frecuente en",
+    "valor": "población hipertensa"
+  },
+  {
+    "entidad": "losartán",
+    "relacion": "se usa ampliamente en",
+    "valor": "Chile"
+  },
+  {
+    "entidad": "CYP2C9",
+    "relacion": "tiene un rol en",
+    "valor": "producción de eicosanoides vasoactivos"
+  },
+  {
+    "entidad": "Grupos Relacionados por Diagnóstico (GRD)",
+    "relacion": "es un",
+    "valor": "sistema de clasificación de pacientes"
+  },
+  {
+    "entidad": "Hospital Clínico Universidad de Chile (HCUCH)",
+    "relacion": "implementa",
+    "valor": "metodología de GRD"
+  },
+  {
+    "entidad": "metodología de GRD",
+    "relacion": "permite",
+    "valor": "monitorear utilización de recursos"
+  },
+  {
+    "entidad": "Conjunto Mínimo Básico de Datos (CMBD)",
+    "relacion": "es un",
+    "valor": "mínimo de variables clínicas y demográficas"
+  },
+  {
+    "entidad": "Clasificación Internacional de Enfermedades (CIE)",
+    "relacion": "es utilizada para",
+    "valor": "codificar diagnósticos"
+  },
+  {
+    "entidad": "Banco Interamericano de Desarrollo (BID)",
+    "relacion": "firma convenio con",
+    "valor": "Universidad de Chile"
+  },
+  {
+    "entidad": "HCUCH",
+    "relacion": "depende de",
+    "valor": "Dirección Médica"
+  },
+  {
+    "entidad": "HCUCH",
+    "relacion": "realiza",
+    "valor": "análisis de egresos con metodología GRD"
+  },
+  {
+    "entidad": "sistema GRD-IR",
+    "relacion": "es utilizado en",
+    "valor": "HCUCH"
+  },
+  {
+    "entidad": "personal de codificación",
+    "relacion": "es seleccionado por",
+    "valor": "perfiles definidos"
+  },
+  {
+    "entidad": "médico con experiencia en Informática Médica",
+    "relacion": "asume",
+    "valor": "Jefatura y Coordinación de GRD"
+  },
+  {
+    "entidad": "sistema GRD",
+    "relacion": "es usado como",
+    "valor": "herramienta de gestión"
+  },
+  {
+    "entidad": "mortalidad intrahospitalaria",
+    "relacion": "muestra",
+    "valor": "tendencia a disminuir"
+  },
+  {
+    "entidad": "pacientes con severidad 1",
+    "relacion": "representan",
+    "valor": "72% de egresos"
+  },
+  {
+    "entidad": "pacientes con severidad 3",
+    "relacion": "representan",
+    "valor": "9% de egresos"
+  },
+  {
+    "entidad": "sistema GRD",
+    "relacion": "provee",
+    "valor": "índices de gestión"
+  },
+  {
+    "entidad": "HCUCH",
+    "relacion": "entrega",
+    "valor": "informe de productividad hospitalaria"
+  },
+  {
+    "entidad": "HCUCH",
+    "relacion": "utiliza",
+    "valor": "aplicación Business Intelligence (BI) llamada Alcor"
+  },
+  {
+    "entidad": "ficha clínica",
+    "relacion": "es un",
+    "valor": "documento vital para registro médico"
+  },
+  {
+    "entidad": "sistema GRD",
+    "relacion": "es validado",
+    "valor": "internacionalmente"
+  },
+  {
+    "entidad": "gestión clínica",
+    "relacion": "se basa en",
+    "valor": "práctica clínica apropiada"
+  },
+  {
+    "entidad": "HCUCH",
+    "relacion": "muestra",
+    "valor": "mejor gestión clínica"
+  },
+  {
+    "entidad": "HCUCH",
+    "relacion": "aporta",
+    "valor": "conocimiento en gestión de GRD"
+  },
+  {
+    "entidad": "Mieloma múltiple",
+    "relacion": "es",
+    "valor": "una enfermedad"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "tiene",
+    "valor": "pacientes con mieloma múltiple"
+  },
+  {
+    "entidad": "CTD",
+    "relacion": "es",
+    "valor": "un tratamiento para mieloma múltiple"
+  },
+  {
+    "entidad": "CyBorD",
+    "relacion": "es",
+    "valor": "un tratamiento alternativo para mieloma múltiple"
+  },
+  {
+    "entidad": "TAPH",
+    "relacion": "es",
+    "valor": "trasplante autólogo de progenitores hematopoyéticos"
+  },
+  {
+    "entidad": "PANDA",
+    "relacion": "es",
+    "valor": "programa nacional de drogas antineoplásicas"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "constituyen",
+    "valor": "54% de los pacientes"
+  },
+  {
+    "entidad": "ISS",
+    "relacion": "es",
+    "valor": "un sistema de estadificación"
+  },
+  {
+    "entidad": "sobrevida global",
+    "relacion": "es",
+    "valor": "un indicador de eficacia del tratamiento"
+  },
+  {
+    "entidad": "bortezomib",
+    "relacion": "es",
+    "valor": "un fármaco utilizado en el tratamiento del mieloma múltiple"
+  },
+  {
+    "entidad": "respuesta óptima",
+    "relacion": "es",
+    "valor": "definida como remisión completa o muy buena respuesta parcial"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "afecta",
+    "valor": "la probabilidad de trasplante"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "es",
+    "valor": "alta en pacientes con mieloma múltiple en Chile"
+  },
+  {
+    "entidad": "nuevas drogas",
+    "relacion": "se espera que mejoren",
+    "valor": "las tasas de respuesta en mieloma múltiple"
+  },
+  {
+    "entidad": "respuesta global",
+    "relacion": "se define como",
+    "valor": "la suma de respuestas óptimas y parciales"
+  },
+  {
+    "entidad": "mieloma múltiple",
+    "relacion": "requiere",
+    "valor": "tratamiento intensivo"
+  },
+  {
+    "entidad": "sistema público de salud",
+    "relacion": "financia",
+    "valor": "tratamientos para mieloma múltiple"
+  },
+  {
+    "entidad": "mieloma múltiple",
+    "relacion": "se diagnostica en",
+    "valor": "etapas avanzadas en Latinoamérica"
+  },
+  {
+    "entidad": "síndrome de apneas obstructivas del sueño (SAHOS)",
+    "relacion": "es un",
+    "valor": "trastorno respiratorio del sueño"
+  },
+  {
+    "entidad": "cuestionarios de sueño",
+    "relacion": "se utilizan para",
+    "valor": "diagnosticar SAHOS"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud 2016/17",
+    "relacion": "es un",
+    "valor": "estudio poblacional"
+  },
+  {
+    "entidad": "STOP",
+    "relacion": "es un",
+    "valor": "cuestionario de sueño"
+  },
+  {
+    "entidad": "STOP-Bang",
+    "relacion": "es un",
+    "valor": "cuestionario de sueño"
+  },
+  {
+    "entidad": "Escala de Somnolencia de Epworth",
+    "relacion": "es un",
+    "valor": "cuestionario de sueño"
+  },
+  {
+    "entidad": "poligrafía respiratoria",
+    "relacion": "se utiliza para",
+    "valor": "diagnosticar SAHOS"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "afecta a",
+    "valor": "el riesgo de SAHOS"
+  },
+  {
+    "entidad": "sexo masculino",
+    "relacion": "afecta a",
+    "valor": "el riesgo de SAHOS"
+  },
+  {
+    "entidad": "hipertensión arterial",
+    "relacion": "afecta a",
+    "valor": "el riesgo de SAHOS"
+  },
+  {
+    "entidad": "dislipidemia",
+    "relacion": "afecta a",
+    "valor": "el riesgo de SAHOS"
+  },
+  {
+    "entidad": "índice de masa corporal (IMC)",
+    "relacion": "afecta a",
+    "valor": "el riesgo de SAHOS"
+  },
+  {
+    "entidad": "circunferencia cervical",
+    "relacion": "afecta a",
+    "valor": "el riesgo de SAHOS"
+  },
+  {
+    "entidad": "circunferencia de cintura",
+    "relacion": "afecta a",
+    "valor": "el riesgo de SAHOS"
+  },
+  {
+    "entidad": "ronquido habitual",
+    "relacion": "afecta a",
+    "valor": "el riesgo de SAHOS"
+  },
+  {
+    "entidad": "apneas presenciadas por testigos",
+    "relacion": "afecta a",
+    "valor": "el riesgo de SAHOS"
+  },
+  {
+    "entidad": "somnolencia diurna",
+    "relacion": "no se asocia a",
+    "valor": "el riesgo de SAHOS"
+  },
+  {
+    "entidad": "insomnio",
+    "relacion": "no se asocia a",
+    "valor": "el riesgo de SAHOS"
+  },
+  {
+    "entidad": "sueño poco reparador",
+    "relacion": "no se asocia a",
+    "valor": "el riesgo de SAHOS"
+  },
+  {
+    "entidad": "cuestionarios STOP y STOP-Bang",
+    "relacion": "tienen",
+    "valor": "alta sensibilidad para predecir SAHOS"
+  },
+  {
+    "entidad": "Escala de Somnolencia de Epworth",
+    "relacion": "tiene",
+    "valor": "alta especificidad para predecir SAHOS"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "realiza",
+    "valor": "investigación en salud"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "se asocia a",
+    "valor": "SAHOS"
+  },
+  {
+    "entidad": "morbilidad",
+    "relacion": "se asocia a",
+    "valor": "SAHOS"
+  },
+  {
+    "entidad": "trastornos respiratorios del sueño",
+    "relacion": "se asocian a",
+    "valor": "complicaciones cardiovasculares"
+  },
+  {
+    "entidad": "cuestionarios de sueño",
+    "relacion": "permiten",
+    "valor": "identificar sujetos en riesgo de SAHOS"
+  },
+  {
+    "entidad": "endocarditis infecciosa",
+    "relacion": "es un",
+    "valor": "enfermedad"
+  },
+  {
+    "entidad": "Servicio de Cirugía Cardiovascular",
+    "relacion": "pertenece a",
+    "valor": "Hospital Dr. Gustavo Fricke"
+  },
+  {
+    "entidad": "Hospital Dr. Gustavo Fricke",
+    "relacion": "se encuentra en",
+    "valor": "Valparaíso, Chile"
+  },
+  {
+    "entidad": "Universidad de Valparaíso",
+    "relacion": "es un",
+    "valor": "institución educativa"
+  },
+  {
+    "entidad": "terapia antibiótica",
+    "relacion": "es un",
+    "valor": "tratamiento para endocarditis infecciosa"
+  },
+  {
+    "entidad": "cirugía",
+    "relacion": "es un",
+    "valor": "tratamiento para endocarditis infecciosa"
+  },
+  {
+    "entidad": "insuficiencia cardiaca aguda",
+    "relacion": "es una",
+    "valor": "indicación para cirugía"
+  },
+  {
+    "entidad": "infección no controlada",
+    "relacion": "es una",
+    "valor": "indicación para cirugía"
+  },
+  {
+    "entidad": "alto riesgo de embolismo",
+    "relacion": "es una",
+    "valor": "indicación para cirugía"
+  },
+  {
+    "entidad": "daño intracardiaco",
+    "relacion": "es una",
+    "valor": "indicación para cirugía"
+  },
+  {
+    "entidad": "vegetaciones de gran tamaño",
+    "relacion": "es una",
+    "valor": "indicación para cirugía"
+  },
+  {
+    "entidad": "S. aureus",
+    "relacion": "es un",
+    "valor": "microorganismo causante"
+  },
+  {
+    "entidad": "coagulase-negative Staphylococcus",
+    "relacion": "es un",
+    "valor": "microorganismo causante"
+  },
+  {
+    "entidad": "S. viridans",
+    "relacion": "es un",
+    "valor": "microorganismo causante"
+  },
+  {
+    "entidad": "Enterococcus",
+    "relacion": "es un",
+    "valor": "microorganismo causante"
+  },
+  {
+    "entidad": "mortalidad intrahospitalaria",
+    "relacion": "es un",
+    "valor": "resultado asociado a endocarditis infecciosa"
+  },
+  {
+    "entidad": "sobrevida a 10 años",
+    "relacion": "es un",
+    "valor": "resultado asociado a cirugía por endocarditis infecciosa"
+  },
+  {
+    "entidad": "pacientes con endocarditis infecciosa",
+    "relacion": "requieren",
+    "valor": "cirugía en un alto porcentaje"
+  },
+  {
+    "entidad": "mortalidad a largo plazo",
+    "relacion": "es un",
+    "valor": "resultado asociado a endocarditis infecciosa"
+  },
+  {
+    "entidad": "comorbilidades",
+    "relacion": "son",
+    "valor": "factores que afectan el pronóstico"
+  },
+  {
+    "entidad": "insuficiencia cardiaca",
+    "relacion": "es una",
+    "valor": "causa de muerte"
+  },
+  {
+    "entidad": "accidente cerebrovascular",
+    "relacion": "es una",
+    "valor": "causa de muerte"
+  },
+  {
+    "entidad": "disfunción valvular",
+    "relacion": "es una",
+    "valor": "causa de muerte"
+  },
+  {
+    "entidad": "endocarditis infecciosa",
+    "relacion": "conlleva",
+    "valor": "alta morbimortalidad"
+  },
+  {
+    "entidad": "pacientes operados",
+    "relacion": "son",
+    "valor": "grupo estudiado en el artículo"
+  },
+  {
+    "entidad": "Vesículas extracelulares",
+    "relacion": "son",
+    "valor": "biomarcadores de diabetes gestacional"
+  },
+  {
+    "entidad": "Diabetes gestacional",
+    "relacion": "se define como",
+    "valor": "intolerancia a la glucosa durante el embarazo"
+  },
+  {
+    "entidad": "Universidad de los Andes",
+    "relacion": "es un",
+    "valor": "centro de investigación"
+  },
+  {
+    "entidad": "ExoQuick™",
+    "relacion": "es un",
+    "valor": "kit para aislamiento de vesículas extracelulares"
+  },
+  {
+    "entidad": "Concentración de vesículas extracelulares",
+    "relacion": "aumenta con",
+    "valor": "la edad gestacional"
+  },
+  {
+    "entidad": "Vesículas extracelulares",
+    "relacion": "se aíslan de",
+    "valor": "plasma materno"
+  },
+  {
+    "entidad": "Diabetes gestacional",
+    "relacion": "afecta a",
+    "valor": "13% de las mujeres embarazadas a nivel mundial"
+  },
+  {
+    "entidad": "Obesidad",
+    "relacion": "está asociada con",
+    "valor": "un aumento en la prevalencia de diabetes gestacional"
+  },
+  {
+    "entidad": "Test de tolerancia a la glucosa",
+    "relacion": "se recomienda realizar entre",
+    "valor": "24-28 semanas de gestación"
+  },
+  {
+    "entidad": "Vesículas extracelulares",
+    "relacion": "pueden predecir",
+    "valor": "diabetes gestacional"
+  },
+  {
+    "entidad": "Concentración de vesículas extracelulares en el primer trimestre",
+    "relacion": "es mayor en",
+    "valor": "pacientes que desarrollan diabetes gestacional"
+  },
+  {
+    "entidad": "Método de ultracentrifugación",
+    "relacion": "es el",
+    "valor": "gold-standard para la extracción de exosomas"
+  },
+  {
+    "entidad": "Vesículas extracelulares",
+    "relacion": "se pueden clasificar en",
+    "valor": "exosomas y microvesículas"
+  },
+  {
+    "entidad": "Vesículas extracelulares",
+    "relacion": "ofrecen ventajas sobre",
+    "valor": "biomarcadores tradicionales"
+  },
+  {
+    "entidad": "Comité de Ética de la Universidad de los Andes",
+    "relacion": "aprobó",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "Cohorte de 50 mujeres embarazadas",
+    "relacion": "fue utilizada en",
+    "valor": "el estudio de casos y controles"
+  },
+  {
+    "entidad": "Concentración de vesículas extracelulares",
+    "relacion": "se cuantifica en",
+    "valor": "tres trimestres del embarazo"
+  },
+  {
+    "entidad": "Vesículas extracelulares",
+    "relacion": "se extraen mediante",
+    "valor": "precipitación con ExoQuick™"
+  },
+  {
+    "entidad": "Diabetes gestacional",
+    "relacion": "puede ser predecida por",
+    "valor": "biomarcadores en el primer trimestre"
+  },
+  {
+    "entidad": "Vesículas extracelulares",
+    "relacion": "se encuentran en",
+    "valor": "plasma materno"
+  },
+  {
+    "entidad": "Concentración de vesículas extracelulares",
+    "relacion": "es un predictor de",
+    "valor": "diabetes gestacional"
+  },
+  {
+    "entidad": "Diabetes gestacional",
+    "relacion": "puede resultar en",
+    "valor": "obesidad y diabetes tipo 2 en la vida adulta"
+  }
+]

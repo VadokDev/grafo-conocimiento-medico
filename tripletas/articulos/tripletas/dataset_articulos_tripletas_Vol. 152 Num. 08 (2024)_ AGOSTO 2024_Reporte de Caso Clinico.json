@@ -1,0 +1,102 @@
+[
+  {
+    "entidad": "Encefalitis por virus de Epstein-Barr",
+    "relacion": "es un",
+    "valor": "trastorno raro"
+  },
+  {
+    "entidad": "virus de Epstein-Barr",
+    "relacion": "afecta a",
+    "valor": "pacientes inmunosuprimidos"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "tiene",
+    "valor": "historia de trasplante renal"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "deterioro mental subagudo"
+  },
+  {
+    "entidad": "análisis de líquido cefalorraquídeo",
+    "relacion": "muestra",
+    "valor": "aumento leve de proteínas"
+  },
+  {
+    "entidad": "resonancia magnética cerebral",
+    "relacion": "revela",
+    "valor": "múltiples hiperintensidades supratentoriales"
+  },
+  {
+    "entidad": "EBV",
+    "relacion": "fue identificado por",
+    "valor": "RT-PCR en el LCR"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "recibió",
+    "valor": "aciclovir"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "logró recuperación tras",
+    "valor": "cambio a ganciclovir"
+  },
+  {
+    "entidad": "ganciclovir",
+    "relacion": "es",
+    "valor": "un antiviral efectivo"
+  },
+  {
+    "entidad": "pacientes con encefalitis por EBV",
+    "relacion": "tienen",
+    "valor": "un curso benigno"
+  },
+  {
+    "entidad": "prednisona",
+    "relacion": "es un",
+    "valor": "medicamento inmunosupresor"
+  },
+  {
+    "entidad": "mycophenolate mofetil",
+    "relacion": "es un",
+    "valor": "medicamento inmunosupresor"
+  },
+  {
+    "entidad": "everolimus",
+    "relacion": "es un",
+    "valor": "medicamento inmunosupresor"
+  },
+  {
+    "entidad": "diltiazem",
+    "relacion": "es un",
+    "valor": "medicamento"
+  },
+  {
+    "entidad": "ácido fólico",
+    "relacion": "es un",
+    "valor": "suplemento"
+  },
+  {
+    "entidad": "atorvastatina",
+    "relacion": "es un",
+    "valor": "medicamento"
+  },
+  {
+    "entidad": "omeprazol",
+    "relacion": "es un",
+    "valor": "medicamento"
+  },
+  {
+    "entidad": "insulina NPH",
+    "relacion": "es un",
+    "valor": "medicamento para diabetes post-trasplante"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "fue dada de alta tras",
+    "valor": "recuperación completa"
+  }
+]

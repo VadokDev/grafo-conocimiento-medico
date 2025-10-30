@@ -1,0 +1,252 @@
+[
+  {
+    "entidad": "Síndrome de Alport",
+    "relacion": "es un",
+    "valor": "enfermedad hereditaria"
+  },
+  {
+    "entidad": "Síndrome de Alport",
+    "relacion": "caracterizado por",
+    "valor": "hematuria, falla renal progresiva, pérdida de audición y anormalidades oculares"
+  },
+  {
+    "entidad": "colágeno tipo IV",
+    "relacion": "es un",
+    "valor": "elemento estructural de la membrana basal"
+  },
+  {
+    "entidad": "Alport síndrome",
+    "relacion": "asociado con",
+    "valor": "pérdida de audición y anormalidades oculares"
+  },
+  {
+    "entidad": "anterior lenticonus",
+    "relacion": "se presenta en",
+    "valor": "hasta 50% de los hombres con Síndrome de Alport"
+  },
+  {
+    "entidad": "dot or fleck retinopathy",
+    "relacion": "se presenta en",
+    "valor": "hasta 70% de los hombres con Síndrome de Alport"
+  },
+  {
+    "entidad": "enfermedad renal terminal",
+    "relacion": "se encuentra en",
+    "valor": "alrededor del 3% de los niños con enfermedad renal terminal"
+  },
+  {
+    "entidad": "mutación del gen COL4A5",
+    "relacion": "causa",
+    "valor": "la forma más frecuente de Síndrome de Alport"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "son",
+    "valor": "mayoritariamente portadoras de Síndrome de Alport"
+  },
+  {
+    "entidad": "retinopatía punto-mancha",
+    "relacion": "es la",
+    "valor": "lesión retinal más frecuente en Síndrome de Alport"
+  },
+  {
+    "entidad": "lenticono anterior",
+    "relacion": "se asocia a",
+    "valor": "compromiso renal temprano"
+  },
+  {
+    "entidad": "tacrolimus",
+    "relacion": "se ha asociado a",
+    "valor": "disminución en la agudeza visual"
+  },
+  {
+    "entidad": "examen oftalmológico completo",
+    "relacion": "es importante en",
+    "valor": "pacientes jóvenes con función renal alterada e hipoacusia neurosensorial"
+  },
+  {
+    "entidad": "estudio genético",
+    "relacion": "es recomendado para",
+    "valor": "el diagnóstico de Síndrome de Alport"
+  },
+  {
+    "entidad": "Fundación Oftalmológica de Los Andes",
+    "relacion": "es un",
+    "valor": "centro de atención médica"
+  },
+  {
+    "entidad": "Hospital Dr. Sótero del Río",
+    "relacion": "es un",
+    "valor": "centro de atención médica"
+  },
+  {
+    "entidad": "Universidad de Los Andes",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "Síndrome de Klinefelter",
+    "relacion": "es un",
+    "valor": "trastorno cromosómico"
+  },
+  {
+    "entidad": "Síndrome de Klinefelter",
+    "relacion": "se asocia a",
+    "valor": "múltiples comorbilidades"
+  },
+  {
+    "entidad": "Klinefelter",
+    "relacion": "aumenta el riesgo de",
+    "valor": "cáncer"
+  },
+  {
+    "entidad": "Klinefelter",
+    "relacion": "aumenta el riesgo de",
+    "valor": "tumores de células germinales mediastínicos"
+  },
+  {
+    "entidad": "masas mediastínicas",
+    "relacion": "pueden estar asociadas a",
+    "valor": "síndrome de Klinefelter"
+  },
+  {
+    "entidad": "varón de 42 años",
+    "relacion": "fue diagnosticado con",
+    "valor": "síndrome de Klinefelter"
+  },
+  {
+    "entidad": "infecciones respiratorias recurrentes",
+    "relacion": "fueron el motivo de",
+    "valor": "estudio diagnóstico"
+  },
+  {
+    "entidad": "masa mediastínica",
+    "relacion": "fue encontrada durante",
+    "valor": "estudio de infecciones respiratorias"
+  },
+  {
+    "entidad": "cariotipo",
+    "relacion": "confirmó el diagnóstico de",
+    "valor": "síndrome de Klinefelter"
+  },
+  {
+    "entidad": "timoma tipo B",
+    "relacion": "fue el resultado de",
+    "valor": "estudio patológico"
+  },
+  {
+    "entidad": "varón de 42 años",
+    "relacion": "presenta",
+    "valor": "infertilidad"
+  },
+  {
+    "entidad": "hormonas gonadotropas",
+    "relacion": "están elevadas en",
+    "valor": "paciente con Klinefelter"
+  },
+  {
+    "entidad": "testosterona",
+    "relacion": "está disminuida en",
+    "valor": "paciente con Klinefelter"
+  },
+  {
+    "entidad": "síndrome de Klinefelter",
+    "relacion": "es el trastorno más frecuente en",
+    "valor": "varones"
+  },
+  {
+    "entidad": "Klinefelter",
+    "relacion": "es subdiagnosticado en",
+    "valor": "varones"
+  },
+  {
+    "entidad": "tumores de células germinales",
+    "relacion": "son más frecuentes en",
+    "valor": "pacientes con Klinefelter"
+  },
+  {
+    "entidad": "Klinefelter",
+    "relacion": "requiere estudio",
+    "valor": "citogenético en casos de tumores mediastínicos"
+  },
+  {
+    "entidad": "sildenafil",
+    "relacion": "asociado a",
+    "valor": "amnesia global transitoria"
+  },
+  {
+    "entidad": "amnesia global transitoria",
+    "relacion": "diagnosticado en",
+    "valor": "paciente masculino de 69 años"
+  },
+  {
+    "entidad": "paciente masculino de 69 años",
+    "relacion": "presenta",
+    "valor": "disfunción eréctil"
+  },
+  {
+    "entidad": "disfunción eréctil",
+    "relacion": "durante",
+    "valor": "2 años"
+  },
+  {
+    "entidad": "sildenafil",
+    "relacion": "utilizado para",
+    "valor": "facilitar relaciones sexuales"
+  },
+  {
+    "entidad": "alteración de memoria anterógrada",
+    "relacion": "interpretado como",
+    "valor": "estado confusional"
+  },
+  {
+    "entidad": "examen neurológico",
+    "relacion": "sugiere",
+    "valor": "amnesia global transitoria"
+  },
+  {
+    "entidad": "EEG y resonancia magnética cerebral",
+    "relacion": "no muestran",
+    "valor": "hallazgos significativos"
+  },
+  {
+    "entidad": "déficit de memoria",
+    "relacion": "resuelve dentro de",
+    "valor": "24 horas"
+  },
+  {
+    "entidad": "sildenafil",
+    "relacion": "considerado responsable de",
+    "valor": "amnesia global transitoria"
+  },
+  {
+    "entidad": "TGA",
+    "relacion": "definido como",
+    "valor": "episodio súbito de pérdida de memoria"
+  },
+  {
+    "entidad": "sildenafil",
+    "relacion": "puede causar",
+    "valor": "isquemia en el hipocampo"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "desarrolla",
+    "valor": "TGA tras la ingesta de sildenafil"
+  },
+  {
+    "entidad": "sildenafil",
+    "relacion": "debe ser usado con",
+    "valor": "cuidado"
+  },
+  {
+    "entidad": "pacientes aparentemente sanos",
+    "relacion": "pueden experimentar",
+    "valor": "TGA tras uso de sildenafil"
+  }
+]

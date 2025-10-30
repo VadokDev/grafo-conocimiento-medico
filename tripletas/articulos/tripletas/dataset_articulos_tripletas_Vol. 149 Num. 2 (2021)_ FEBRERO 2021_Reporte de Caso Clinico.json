@@ -1,0 +1,367 @@
+[
+  {
+    "entidad": "Enoxaparina",
+    "relacion": "induce",
+    "valor": "hiponatremia"
+  },
+  {
+    "entidad": "Enoxaparina",
+    "relacion": "induce",
+    "valor": "hiperpotasemia"
+  },
+  {
+    "entidad": "hidrocortisona",
+    "relacion": "revierte",
+    "valor": "hiponatremia"
+  },
+  {
+    "entidad": "hidrocortisona",
+    "relacion": "revierte",
+    "valor": "hiperpotasemia"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "tiene",
+    "valor": "metástasis lumbares"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "dolor lumbar"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "paresias en extremidades"
+  },
+  {
+    "entidad": "dexametasona",
+    "relacion": "es sustituida por",
+    "valor": "hidrocortisona"
+  },
+  {
+    "entidad": "hidrocortisona",
+    "relacion": "normaliza",
+    "valor": "parámetros electrolíticos"
+  },
+  {
+    "entidad": "heparinas de bajo peso molecular",
+    "relacion": "causa",
+    "valor": "hiperpotasemia"
+  },
+  {
+    "entidad": "síndrome de secreción inadecuada de hormona antidiurética (SIADH)",
+    "relacion": "es considerado en",
+    "valor": "diagnóstico"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "es evaluada por",
+    "valor": "Oncología Médica"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "es evaluada por",
+    "valor": "Cirugía de Columna"
+  },
+  {
+    "entidad": "hidrocortisona",
+    "relacion": "tiene",
+    "valor": "potencia mineralocorticoide"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "recibe",
+    "valor": "tratamiento con metformina"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "recibe",
+    "valor": "tratamiento con losartan"
+  },
+  {
+    "entidad": "resonancia magnética",
+    "relacion": "muestra",
+    "valor": "fractura patológica de L5"
+  },
+  {
+    "entidad": "tomografía computada",
+    "relacion": "objetiva",
+    "valor": "masa en lóbulo inferior izquierdo"
+  },
+  {
+    "entidad": "hidrocortisona",
+    "relacion": "es administrada en",
+    "valor": "dosis medianas a altas"
+  },
+  {
+    "entidad": "válvula aórtica percutánea",
+    "relacion": "es un",
+    "valor": "tratamiento"
+  },
+  {
+    "entidad": "prótesis mitral",
+    "relacion": "afecta a",
+    "valor": "implante de válvula aórtica percutánea"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "prótesis mitral previa"
+  },
+  {
+    "entidad": "Evolut Pro #29",
+    "relacion": "es un",
+    "valor": "tipo de válvula"
+  },
+  {
+    "entidad": "tAVI",
+    "relacion": "es un",
+    "valor": "alternativa terapéutica"
+  },
+  {
+    "entidad": "tAVI",
+    "relacion": "requiere",
+    "valor": "consideraciones técnicas"
+  },
+  {
+    "entidad": "riesgo de mortalidad",
+    "relacion": "es mayor en",
+    "valor": "pacientes con prótesis mitral"
+  },
+  {
+    "entidad": "angiotomografía computada",
+    "relacion": "se utiliza para",
+    "valor": "evaluar riesgos en implantes"
+  },
+  {
+    "entidad": "marcapaso ventricular rápido",
+    "relacion": "se recomienda para",
+    "valor": "posicionamiento preciso durante liberación"
+  },
+  {
+    "entidad": "complicaciones hemorrágicas",
+    "relacion": "aumentan el",
+    "valor": "riesgo de mortalidad"
+  },
+  {
+    "entidad": "Heart team",
+    "relacion": "discute",
+    "valor": "casos de implante"
+  },
+  {
+    "entidad": "prótesis mitral con jaula",
+    "relacion": "presenta",
+    "valor": "dificultades en el implante"
+  },
+  {
+    "entidad": "fibrilación auricular",
+    "relacion": "es un",
+    "valor": "factor de riesgo"
+  },
+  {
+    "entidad": "reemplazo valvular aórtico",
+    "relacion": "es afectado por",
+    "valor": "presencia de prótesis mitral"
+  },
+  {
+    "entidad": "tAVI",
+    "relacion": "se realiza en",
+    "valor": "pacientes inoperables"
+  },
+  {
+    "entidad": "procedimiento",
+    "relacion": "se lleva a cabo sin",
+    "valor": "incidentes"
+  },
+  {
+    "entidad": "tAVI",
+    "relacion": "requiere",
+    "valor": "planificación rigurosa"
+  },
+  {
+    "entidad": "tAVI",
+    "relacion": "se asocia con",
+    "valor": "riesgo de embolización"
+  },
+  {
+    "entidad": "prótesis mitral",
+    "relacion": "no presenta",
+    "valor": "alteraciones funcionales post-implante"
+  },
+  {
+    "entidad": "Pericarditis tuberculosa",
+    "relacion": "es una",
+    "valor": "manifestación extrapulmonar de TBC"
+  },
+  {
+    "entidad": "Tuberculosis (TBC)",
+    "relacion": "contribuye a",
+    "valor": "15% de los casos totales"
+  },
+  {
+    "entidad": "Pericarditis tuberculosa",
+    "relacion": "presenta en",
+    "valor": "1 a 2% de los pacientes con TBC"
+  },
+  {
+    "entidad": "67 años",
+    "relacion": "es la edad del",
+    "valor": "paciente en el caso clínico"
+  },
+  {
+    "entidad": "Fiebre y disnea progresiva",
+    "relacion": "son síntomas de",
+    "valor": "pericarditis tuberculosa"
+  },
+  {
+    "entidad": "Tomografía de tórax",
+    "relacion": "muestra",
+    "valor": "derrame pleural y pericárdico extenso"
+  },
+  {
+    "entidad": "Echocardiograma",
+    "relacion": "muestra",
+    "valor": "signos de taponamiento"
+  },
+  {
+    "entidad": "Pericardiectomía",
+    "relacion": "es un",
+    "valor": "tratamiento de emergencia"
+  },
+  {
+    "entidad": "Tejido pericárdico",
+    "relacion": "muestra",
+    "valor": "necrosis caseosa"
+  },
+  {
+    "entidad": "Mycobacterium tuberculosis",
+    "relacion": "es el agente causante de",
+    "valor": "tuberculosis"
+  },
+  {
+    "entidad": "Tratamiento antituberculoso",
+    "relacion": "incluye",
+    "valor": "rifampicina, isoniazida, pirazinamida y etambutol"
+  },
+  {
+    "entidad": "Aspirina",
+    "relacion": "se utiliza en",
+    "valor": "dosis antiinflamatorias"
+  },
+  {
+    "entidad": "Colchicina",
+    "relacion": "se utiliza en",
+    "valor": "el manejo de la pericarditis tuberculosa"
+  },
+  {
+    "entidad": "Corticoides",
+    "relacion": "su uso es",
+    "valor": "controversial en pericarditis tuberculosa"
+  },
+  {
+    "entidad": "Población migrante",
+    "relacion": "aumenta",
+    "valor": "la prevalencia de tuberculosis"
+  },
+  {
+    "entidad": "Cultivo de Koch",
+    "relacion": "es el",
+    "valor": "gold-standard para el diagnóstico de TBC"
+  },
+  {
+    "entidad": "Inicio precoz del tratamiento",
+    "relacion": "reduce",
+    "valor": "la incidencia de pericarditis constrictiva"
+  },
+  {
+    "entidad": "Meningitis reumatoide",
+    "relacion": "es una",
+    "valor": "complicación rara de la artritis reumatoide"
+  },
+  {
+    "entidad": "Artritis reumatoide",
+    "relacion": "causa",
+    "valor": "meningitis reumatoide"
+  },
+  {
+    "entidad": "Meningitis reumatoide",
+    "relacion": "simula",
+    "valor": "subdural empyema"
+  },
+  {
+    "entidad": "Meningitis reumatoide",
+    "relacion": "simula",
+    "valor": "trastornos neuropsiquiátricos"
+  },
+  {
+    "entidad": "Meningitis reumatoide",
+    "relacion": "simula",
+    "valor": "accidente cerebrovascular"
+  },
+  {
+    "entidad": "Meningitis reumatoide",
+    "relacion": "simula",
+    "valor": "cefalea"
+  },
+  {
+    "entidad": "Meningitis reumatoide",
+    "relacion": "simula",
+    "valor": "convulsiones"
+  },
+  {
+    "entidad": "Meningitis reumatoide",
+    "relacion": "es considerada",
+    "valor": "de mal pronóstico"
+  },
+  {
+    "entidad": "Meningitis reumatoide",
+    "relacion": "muestra",
+    "valor": "buen pronóstico en casos recientes"
+  },
+  {
+    "entidad": "Paciente masculino de 48 años",
+    "relacion": "presenta",
+    "valor": "cefalea y trastornos sensoriales"
+  },
+  {
+    "entidad": "Resonancia magnética",
+    "relacion": "muestra",
+    "valor": "lesión laminar subdural parietal izquierda"
+  },
+  {
+    "entidad": "Paciente femenino de 44 años",
+    "relacion": "presenta",
+    "valor": "cefalea severa y confusión"
+  },
+  {
+    "entidad": "Meningitis reumatoide",
+    "relacion": "requiere",
+    "valor": "tratamiento inmediato"
+  },
+  {
+    "entidad": "Dexametasona",
+    "relacion": "es un",
+    "valor": "tratamiento inicial para meningoencefalitis"
+  },
+  {
+    "entidad": "Ciclofosfamida",
+    "relacion": "es un",
+    "valor": "tratamiento para meningitis reumatoide"
+  },
+  {
+    "entidad": "Universidad de Chile",
+    "relacion": "es un",
+    "valor": "hospital donde se realizó el estudio"
+  },
+  {
+    "entidad": "Carlos Guevara",
+    "relacion": "es el",
+    "valor": "autor correspondiente del artículo"
+  },
+  {
+    "entidad": "Meningitis reumatoide",
+    "relacion": "debe ser considerada",
+    "valor": "en el diagnóstico diferencial de manifestaciones neurológicas"
+  }
+]

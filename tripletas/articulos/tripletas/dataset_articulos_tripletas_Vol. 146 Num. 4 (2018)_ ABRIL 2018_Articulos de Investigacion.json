@@ -1,0 +1,902 @@
+[
+  {
+    "entidad": "Síndrome de Apnea e Hipopnea Obstructiva del Sueño",
+    "relacion": "es un",
+    "valor": "trastorno respiratorio relacionado con el sueño"
+  },
+  {
+    "entidad": "SAHOS",
+    "relacion": "se asocia con",
+    "valor": "consecuencias cardiovasculares, metabólicas y neuroconductuales"
+  },
+  {
+    "entidad": "ronquidos",
+    "relacion": "es un",
+    "valor": "síntoma de SAHOS"
+  },
+  {
+    "entidad": "pausas respiratorias",
+    "relacion": "es un",
+    "valor": "síntoma de SAHOS"
+  },
+  {
+    "entidad": "Índice de Masa Corporal",
+    "relacion": "se relaciona con",
+    "valor": "diagnóstico de SAHOS"
+  },
+  {
+    "entidad": "Escala de Somnolencia de Epworth",
+    "relacion": "se utiliza para",
+    "valor": "evaluar somnolencia diurna"
+  },
+  {
+    "entidad": "polisomnografía",
+    "relacion": "es el",
+    "valor": "gold standard para diagnóstico de SAHOS"
+  },
+  {
+    "entidad": "Hospital Naval 'Almirante Nef'",
+    "relacion": "realiza",
+    "valor": "polisomnografías"
+  },
+  {
+    "entidad": "pacientes con SAHOS",
+    "relacion": "tienen un riesgo elevado de",
+    "valor": "trastornos de atención y fatiga"
+  },
+  {
+    "entidad": "SAHOS severo no tratado",
+    "relacion": "aumenta el riesgo de",
+    "valor": "muerte por cualquier causa"
+  },
+  {
+    "entidad": "encuestas sobre síntomas de sueño",
+    "relacion": "ayudan a",
+    "valor": "tamizar pacientes para polisomnografía"
+  },
+  {
+    "entidad": "síntomas de SAHOS",
+    "relacion": "incluyen",
+    "valor": "somnolencia diurna excesiva, sueño no reparador, cefalea matinal"
+  },
+  {
+    "entidad": "ronquidos y apneas",
+    "relacion": "permiten sospechar",
+    "valor": "diagnóstico de SAHOS"
+  },
+  {
+    "entidad": "síntomas de sueño",
+    "relacion": "se evalúan mediante",
+    "valor": "cuestionarios"
+  },
+  {
+    "entidad": "síndrome metabólico",
+    "relacion": "se asocia con",
+    "valor": "SAHOS"
+  },
+  {
+    "entidad": "fatiga",
+    "relacion": "es un",
+    "valor": "síntoma reportado por pacientes con SAHOS"
+  },
+  {
+    "entidad": "Grupo IRyS",
+    "relacion": "pertenece a",
+    "valor": "Escuela de Educación Física, Pontificia Universidad Católica de Valparaíso, Chile"
+  },
+  {
+    "entidad": "Facultad de Ciencias del Deporte",
+    "relacion": "pertenece a",
+    "valor": "Universidad de Granada, España"
+  },
+  {
+    "entidad": "Fernando Rodríguez",
+    "relacion": "es",
+    "valor": "Profesor de Educación Física, PhD"
+  },
+  {
+    "entidad": "Carlos Cristi-Montero",
+    "relacion": "es",
+    "valor": "Profesor de Educación Física, PhD"
+  },
+  {
+    "entidad": "Emilio Villa-González",
+    "relacion": "es",
+    "valor": "Profesor de Educación Física, MSc"
+  },
+  {
+    "entidad": "Patricio Solís-Urra",
+    "relacion": "es",
+    "valor": "Profesor de Educación Física, MSc"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Valparaíso",
+    "relacion": "realiza",
+    "valor": "estudio sobre actividad física"
+  },
+  {
+    "entidad": "estudiantes universitarios chilenos",
+    "relacion": "son",
+    "valor": "grupo etario vulnerable a nutrición inadecuada y bajo nivel de actividad física"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud 2009-2010 de Chile",
+    "relacion": "revela",
+    "valor": "mayor actividad física en universitarios que en no universitarios"
+  },
+  {
+    "entidad": "acelerometría",
+    "relacion": "es",
+    "valor": "método fiable para registrar actividad física"
+  },
+  {
+    "entidad": "vida universitaria",
+    "relacion": "contempla",
+    "valor": "tareas que implican tiempo sedentario"
+  },
+  {
+    "entidad": "estudiantes universitarios físicamente inactivos",
+    "relacion": "reportan",
+    "valor": "falta de tiempo como razón principal para no hacer ejercicio"
+  },
+  {
+    "entidad": "calorimetría indirecta",
+    "relacion": "es",
+    "valor": "método indirecto para evaluar NAF"
+  },
+  {
+    "entidad": "frecuencia cardiaca",
+    "relacion": "es",
+    "valor": "método indirecto para evaluar NAF"
+  },
+  {
+    "entidad": "agua doblemente marcada",
+    "relacion": "es",
+    "valor": "método indirecto para evaluar NAF"
+  },
+  {
+    "entidad": "sedentarismo",
+    "relacion": "es",
+    "valor": "factor asociado a la salud"
+  },
+  {
+    "entidad": "actividad física moderada-vigorosa",
+    "relacion": "no muestra",
+    "valor": "diferencias significativas a lo largo de los años universitarios"
+  },
+  {
+    "entidad": "gasto energético",
+    "relacion": "se relaciona",
+    "valor": "con el tiempo sedentario"
+  },
+  {
+    "entidad": "tiempo sedentario",
+    "relacion": "aumenta",
+    "valor": "el riesgo de muerte por enfermedad cardiovascular"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud",
+    "relacion": "recomienda",
+    "valor": "realizar actividad física vigorosa por más de 75 min semanales"
+  },
+  {
+    "entidad": "estudiantes de 3-5 años de experiencia universitaria",
+    "relacion": "tienen",
+    "valor": "mayor número de pasos diarios que estudiantes de 1-2 años"
+  },
+  {
+    "entidad": "sedentarismo",
+    "relacion": "es",
+    "valor": "componente independiente de NAF"
+  },
+  {
+    "entidad": "estudiantes universitarios",
+    "relacion": "deben",
+    "valor": "incrementar el nivel de transporte activo"
+  },
+  {
+    "entidad": "políticas sanitarias preventivas",
+    "relacion": "son necesarias para",
+    "valor": "intervenir en el grupo etario universitario"
+  },
+  {
+    "entidad": "CicloRecreoVía",
+    "relacion": "promueve",
+    "valor": "actividad física"
+  },
+  {
+    "entidad": "CicloRecreoVía",
+    "relacion": "cierra",
+    "valor": "calles al tráfico vehicular"
+  },
+  {
+    "entidad": "CicloRecreoVía",
+    "relacion": "fomenta",
+    "valor": "uso de bicicleta y caminata"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "inicia",
+    "valor": "iniciativas de salud preventiva"
+  },
+  {
+    "entidad": "Estrategia Global contra la Obesidad",
+    "relacion": "busca",
+    "valor": "modificar hábitos alimenticios"
+  },
+  {
+    "entidad": "Estrategia Nacional de Salud",
+    "relacion": "fija",
+    "valor": "metas de reducción de obesidad"
+  },
+  {
+    "entidad": "CicloRecreoVía",
+    "relacion": "atrae",
+    "valor": "diversos tipos de participantes"
+  },
+  {
+    "entidad": "CicloRecreoVía",
+    "relacion": "permite",
+    "valor": "participación de 30,000 personas semanalmente"
+  },
+  {
+    "entidad": "CicloRecreoVía",
+    "relacion": "se inició en",
+    "valor": "2007 en San Bernardo"
+  },
+  {
+    "entidad": "CicloRecreoVía",
+    "relacion": "opera en",
+    "valor": "siete comunas capitalinas"
+  },
+  {
+    "entidad": "CicloRecreoVía",
+    "relacion": "es parte de",
+    "valor": "políticas de salud pública"
+  },
+  {
+    "entidad": "CicloRecreoVía",
+    "relacion": "contribuye a",
+    "valor": "cohesión social"
+  },
+  {
+    "entidad": "CicloRecreoVía",
+    "relacion": "ayuda a",
+    "valor": "mejorar la percepción de salud"
+  },
+  {
+    "entidad": "CicloRecreoVía",
+    "relacion": "se asocia con",
+    "valor": "adopción de modos de vida activos"
+  },
+  {
+    "entidad": "CicloRecreoVía",
+    "relacion": "es beneficioso",
+    "valor": "económicamente"
+  },
+  {
+    "entidad": "CicloRecreoVía",
+    "relacion": "se basa en",
+    "valor": "iniciativas colombianas"
+  },
+  {
+    "entidad": "CicloRecreoVía",
+    "relacion": "se realiza en",
+    "valor": "espacios públicos"
+  },
+  {
+    "entidad": "CicloRecreoVía",
+    "relacion": "se relaciona con",
+    "valor": "educación física"
+  },
+  {
+    "entidad": "CicloRecreoVía",
+    "relacion": "promueve",
+    "valor": "uso de espacios públicos"
+  },
+  {
+    "entidad": "CicloRecreoVía",
+    "relacion": "se basa en",
+    "valor": "cierre temporal de calles"
+  },
+  {
+    "entidad": "CicloRecreoVía",
+    "relacion": "se asocia con",
+    "valor": "mejora en la calidad de vida"
+  },
+  {
+    "entidad": "Miastenia gravis",
+    "relacion": "es un",
+    "valor": "enfermedad autoinmune"
+  },
+  {
+    "entidad": "Miastenia gravis",
+    "relacion": "afecta a",
+    "valor": "la unión neuromuscular"
+  },
+  {
+    "entidad": "Timectomía transesternal extendida",
+    "relacion": "mejora",
+    "valor": "resultados clínicos en pacientes con miastenia gravis"
+  },
+  {
+    "entidad": "Timectomía transesternal extendida",
+    "relacion": "disminuye",
+    "valor": "necesidad de tratamiento médico en pacientes con miastenia gravis"
+  },
+  {
+    "entidad": "Hospital Clínico Regional de Concepción",
+    "relacion": "realiza",
+    "valor": "timectomía transesternal extendida"
+  },
+  {
+    "entidad": "Universidad de Concepción",
+    "relacion": "pertenece a",
+    "valor": "facultad de medicina"
+  },
+  {
+    "entidad": "Anticuerpos",
+    "relacion": "disminuyen",
+    "valor": "receptores de acetilcolina en la unión neuromuscular"
+  },
+  {
+    "entidad": "Timoma",
+    "relacion": "se encuentra en",
+    "valor": "10% a 20% de los pacientes con miastenia gravis"
+  },
+  {
+    "entidad": "Timectomía",
+    "relacion": "es un",
+    "valor": "tratamiento para miastenia gravis"
+  },
+  {
+    "entidad": "Masaoka",
+    "relacion": "es una",
+    "valor": "clasificación utilizada para evaluar resultados postquirúrgicos"
+  },
+  {
+    "entidad": "Zielinski",
+    "relacion": "es una",
+    "valor": "clasificación utilizada para evaluar resultados postquirúrgicos"
+  },
+  {
+    "entidad": "DeFilippi",
+    "relacion": "es una",
+    "valor": "clasificación utilizada para evaluar resultados postquirúrgicos"
+  },
+  {
+    "entidad": "Myasthenia Gravis Foundation of America Post Intervention Status",
+    "relacion": "es una",
+    "valor": "clasificación utilizada para evaluar resultados postquirúrgicos"
+  },
+  {
+    "entidad": "Anticolinesterásicos",
+    "relacion": "se utilizan en",
+    "valor": "el tratamiento preoperatorio de miastenia gravis"
+  },
+  {
+    "entidad": "Crisis miasténica",
+    "relacion": "puede ocurrir en",
+    "valor": "pacientes con miastenia gravis"
+  },
+  {
+    "entidad": "Técnicas quirúrgicas",
+    "relacion": "se desarrollan para",
+    "valor": "remover el timo"
+  },
+  {
+    "entidad": "Timectomía transesternal extendida",
+    "relacion": "tiene",
+    "valor": "buenos resultados en miastenia gravis"
+  },
+  {
+    "entidad": "Resultados clínicos",
+    "relacion": "se mantienen",
+    "valor": "a largo plazo tras timectomía"
+  },
+  {
+    "entidad": "Mortalidad",
+    "relacion": "no se registra en",
+    "valor": "resultados inmediatos postquirúrgicos"
+  },
+  {
+    "entidad": "Seguimiento de pacientes",
+    "relacion": "se realiza hasta",
+    "valor": "10 años post timectomía"
+  },
+  {
+    "entidad": "cáncer oral",
+    "relacion": "es",
+    "valor": "la 15ª causa más común de muerte por cáncer en el mundo"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "tiene",
+    "valor": "1% de todas las muertes por cáncer relacionadas con cáncer oral y faríngeo"
+  },
+  {
+    "entidad": "mortalidad por cáncer oral",
+    "relacion": "se determina",
+    "valor": "entre 2002 y 2012"
+  },
+  {
+    "entidad": "Instituto Nacional de Estadísticas (INE)",
+    "relacion": "proporciona",
+    "valor": "datos sobre muertes y sus causas"
+  },
+  {
+    "entidad": "tasa de mortalidad ajustada",
+    "relacion": "es",
+    "valor": "0,85 muertes por 100.000 habitantes en Chile"
+  },
+  {
+    "entidad": "Región de Antofagasta",
+    "relacion": "tiene",
+    "valor": "la mayor tasa de mortalidad ajustada por cáncer oral"
+  },
+  {
+    "entidad": "Región de Aysén",
+    "relacion": "tiene",
+    "valor": "una alta tasa de mortalidad por falta de centros de diagnóstico"
+  },
+  {
+    "entidad": "cáncer oral",
+    "relacion": "es causado por",
+    "valor": "factores como consumo de tabaco y alcohol"
+  },
+  {
+    "entidad": "carcinoma oral de células escamosas (COCE)",
+    "relacion": "es",
+    "valor": "la neoplasia maligna más frecuente en la cavidad oral"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "tienen",
+    "valor": "una mayor tasa de mortalidad por cáncer oral que las mujeres"
+  },
+  {
+    "entidad": "edad media de los fallecidos",
+    "relacion": "es",
+    "valor": "67,58 años"
+  },
+  {
+    "entidad": "mortalidad por cáncer oral",
+    "relacion": "es influenciada por",
+    "valor": "exposición a arsénico en la Región de Antofagasta"
+  },
+  {
+    "entidad": "Programa Nacional del Cáncer",
+    "relacion": "no tiene",
+    "valor": "un programa específico para cáncer oral"
+  },
+  {
+    "entidad": "Ministerio de Salud (MINSAL)",
+    "relacion": "no incluye",
+    "valor": "cáncer oral en las garantías explícitas en salud"
+  },
+  {
+    "entidad": "mortalidad por cáncer oral",
+    "relacion": "es menor que",
+    "valor": "la mortalidad por otros tipos de cáncer en Chile"
+  },
+  {
+    "entidad": "cáncer oral en mujeres",
+    "relacion": "está aumentando",
+    "valor": "debido a hábitos de tabaco y alcohol similares a los hombres"
+  },
+  {
+    "entidad": "mortalidad por cáncer oral",
+    "relacion": "se asocia con",
+    "valor": "acumulación de factores carcinogénicos y envejecimiento celular"
+  },
+  {
+    "entidad": "Diabetes mellitus tipo 2",
+    "relacion": "es",
+    "valor": "una enfermedad metabólica progresiva"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "es",
+    "valor": "un factor de riesgo para diabetes tipo 2"
+  },
+  {
+    "entidad": "comportamiento sedentario",
+    "relacion": "es",
+    "valor": "un factor de riesgo para diabetes tipo 2"
+  },
+  {
+    "entidad": "tiempo destinado a estar sentado",
+    "relacion": "afecta a",
+    "valor": "el desarrollo de diabetes tipo 2"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud 2009-2010",
+    "relacion": "es",
+    "valor": "una fuente de datos para el estudio"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "es",
+    "valor": "el país donde se realizó el estudio"
+  },
+  {
+    "entidad": "Fanny Petermann",
+    "relacion": "es",
+    "valor": "autora del estudio"
+  },
+  {
+    "entidad": "Carlos Celis-Morales",
+    "relacion": "es",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "es",
+    "valor": "recomendada para prevenir diabetes tipo 2"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud",
+    "relacion": "reporta",
+    "valor": "prevalencia de diabetes tipo 2"
+  },
+  {
+    "entidad": "Federación Internacional de Diabetes",
+    "relacion": "reporta",
+    "valor": "prevalencia de diabetes tipo 2"
+  },
+  {
+    "entidad": "sedentarismo",
+    "relacion": "es",
+    "valor": "diferente a inactividad física"
+  },
+  {
+    "entidad": "sedentarismo",
+    "relacion": "incrementa",
+    "valor": "el riesgo de desarrollar diabetes tipo 2"
+  },
+  {
+    "entidad": "glicemia en ayuno",
+    "relacion": "se utiliza para determinar",
+    "valor": "diabetes tipo 2"
+  },
+  {
+    "entidad": "IMC",
+    "relacion": "se utiliza para clasificar",
+    "valor": "estado nutricional"
+  },
+  {
+    "entidad": "perímetro de cintura",
+    "relacion": "se utiliza para definir",
+    "valor": "obesidad central"
+  },
+  {
+    "entidad": "sedentarismo alto",
+    "relacion": "se asocia con",
+    "valor": "mayor riesgo de diabetes tipo 2"
+  },
+  {
+    "entidad": "sedentarismo bajo",
+    "relacion": "se asocia con",
+    "valor": "menor riesgo de diabetes tipo 2"
+  },
+  {
+    "entidad": "estrategias de salud pública",
+    "relacion": "deben incluir",
+    "valor": "reducción del tiempo sedentario"
+  },
+  {
+    "entidad": "tiempo sedentario",
+    "relacion": "debe ser reducido para",
+    "valor": "prevenir diabetes tipo 2"
+  },
+  {
+    "entidad": "cáncer de páncreas",
+    "relacion": "es",
+    "valor": "la décima neoplasia maligna en prevalencia"
+  },
+  {
+    "entidad": "cáncer de páncreas",
+    "relacion": "representa",
+    "valor": "la cuarta causa de mortalidad por cáncer"
+  },
+  {
+    "entidad": "PET/CT",
+    "relacion": "evalúa",
+    "valor": "el valor pronóstico en cáncer de páncreas"
+  },
+  {
+    "entidad": "18F-fluorodeoxyglucose (FDG)",
+    "relacion": "se utiliza en",
+    "valor": "PET/CT"
+  },
+  {
+    "entidad": "histología",
+    "relacion": "determina",
+    "valor": "la diferenciación del tumor"
+  },
+  {
+    "entidad": "metástasis a distancia",
+    "relacion": "afecta a",
+    "valor": "la sobrevida en cáncer de páncreas"
+  },
+  {
+    "entidad": "SUVmax",
+    "relacion": "es un",
+    "valor": "índice de captación de FDG"
+  },
+  {
+    "entidad": "histopatología",
+    "relacion": "influye en",
+    "valor": "la sobrevida específica"
+  },
+  {
+    "entidad": "cirugía curativa",
+    "relacion": "asocia con",
+    "valor": "mejor sobrevida"
+  },
+  {
+    "entidad": "cáncer de páncreas",
+    "relacion": "tiene",
+    "valor": "una sobrevida a 5 años de 5%"
+  },
+  {
+    "entidad": "PET/CT",
+    "relacion": "proporciona",
+    "valor": "información pronóstica en cáncer de páncreas"
+  },
+  {
+    "entidad": "grado de diferenciación histológica",
+    "relacion": "es un",
+    "valor": "factor pronóstico importante"
+  },
+  {
+    "entidad": "metástasis visibles",
+    "relacion": "se relacionan con",
+    "valor": "mejor sobrevida"
+  },
+  {
+    "entidad": "cáncer de páncreas",
+    "relacion": "se diagnostica en",
+    "valor": "etapas 0, I, II, III y IV"
+  },
+  {
+    "entidad": "Clínica Las Condes",
+    "relacion": "realiza",
+    "valor": "PET/CT en pacientes"
+  },
+  {
+    "entidad": "American Joint Committee on Cancer (AJCC)",
+    "relacion": "clasifica",
+    "valor": "etapas del cáncer"
+  },
+  {
+    "entidad": "cáncer de páncreas",
+    "relacion": "requiere",
+    "valor": "evaluación de tratamiento y seguimiento"
+  },
+  {
+    "entidad": "Patient Health Questionnaire-9 (PHQ-9)",
+    "relacion": "es un",
+    "valor": "instrumento de tamizaje para episodios depresivos"
+  },
+  {
+    "entidad": "adolescentes",
+    "relacion": "es un",
+    "valor": "grupo etario en riesgo de episodios depresivos"
+  },
+  {
+    "entidad": "episodio depresivo (ED)",
+    "relacion": "afecta a",
+    "valor": "la salud mental de adolescentes"
+  },
+  {
+    "entidad": "PHQ-9",
+    "relacion": "evalúa",
+    "valor": "sintomatología depresiva"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "propone",
+    "valor": "reducir la tasa de mortalidad por suicidio en adolescentes"
+  },
+  {
+    "entidad": "PHQ-9",
+    "relacion": "ha sido validado en",
+    "valor": "población adulta en Chile"
+  },
+  {
+    "entidad": "Kiddie-Schedule for Affective Disorders and Schizophrenia-Present and Lifetime Version (K-SADS-PL)",
+    "relacion": "es un",
+    "valor": "instrumento de evaluación semiestructurada"
+  },
+  {
+    "entidad": "Beck Depression Inventory (BDI)",
+    "relacion": "evalúa",
+    "valor": "sintomatología depresiva"
+  },
+  {
+    "entidad": "PHQ-9",
+    "relacion": "tiene",
+    "valor": "sensibilidad y especificidad adecuadas para el tamizaje de ED"
+  },
+  {
+    "entidad": "PHQ-9",
+    "relacion": "es utilizado en",
+    "valor": "atención primaria de salud (APS)"
+  },
+  {
+    "entidad": "PHQ-9",
+    "relacion": "es recomendado por",
+    "valor": "US Preventive Services Task Force"
+  },
+  {
+    "entidad": "PHQ-9",
+    "relacion": "presenta",
+    "valor": "alta correlación con el BDI"
+  },
+  {
+    "entidad": "PHQ-9",
+    "relacion": "es una herramienta",
+    "valor": "útil para la detección temprana de ED"
+  },
+  {
+    "entidad": "episodio depresivo (ED)",
+    "relacion": "puede causar",
+    "valor": "dificultades en el funcionamiento psicosocial"
+  },
+  {
+    "entidad": "PHQ-9",
+    "relacion": "fue adaptado",
+    "valor": "transculturalmente para Chile"
+  },
+  {
+    "entidad": "PHQ-9",
+    "relacion": "incluye",
+    "valor": "módulos para evaluar trastornos del ánimo y ansiedad"
+  },
+  {
+    "entidad": "PHQ-9",
+    "relacion": "es autoaplicado",
+    "valor": "lo que optimiza tiempos de evaluación"
+  },
+  {
+    "entidad": "PHQ-9",
+    "relacion": "tiene",
+    "valor": "un puntaje de corte propuesto de 11 puntos"
+  },
+  {
+    "entidad": "PHQ-9",
+    "relacion": "demuestra",
+    "valor": "consistencia interna adecuada"
+  },
+  {
+    "entidad": "PHQ-9",
+    "relacion": "es utilizado para",
+    "valor": "mejorar la atención de salud mental en adolescentes"
+  },
+  {
+    "entidad": "enfermedad pulmonar obstructiva crónica (EPOC)",
+    "relacion": "es",
+    "valor": "una enfermedad común, prevenible y tratable"
+  },
+  {
+    "entidad": "EPOC",
+    "relacion": "caracterizada por",
+    "valor": "síntomas respiratorios persistentes y limitación crónica del flujo aéreo"
+  },
+  {
+    "entidad": "EPOC",
+    "relacion": "asociada a",
+    "valor": "una respuesta inflamatoria anormal"
+  },
+  {
+    "entidad": "EPOC",
+    "relacion": "es una de las principales causas de",
+    "valor": "morbilidad y mortalidad en el mundo"
+  },
+  {
+    "entidad": "EPOC",
+    "relacion": "afecta a",
+    "valor": "6% de la población adulta en Estados Unidos"
+  },
+  {
+    "entidad": "EPOC",
+    "relacion": "afecta a",
+    "valor": "14,5% de los adultos mayores de 40 años en Chile"
+  },
+  {
+    "entidad": "exacerbación de la EPOC",
+    "relacion": "caracterizada por",
+    "valor": "un empeoramiento agudo de los síntomas respiratorios"
+  },
+  {
+    "entidad": "obstrucción progresiva del flujo aéreo",
+    "relacion": "está relacionada con",
+    "valor": "morbilidad y mortalidad"
+  },
+  {
+    "entidad": "grado de obstrucción al flujo aéreo",
+    "relacion": "se considera",
+    "valor": "el factor clave para evaluar la gravedad de la EPOC"
+  },
+  {
+    "entidad": "intervenciones farmacológicas",
+    "relacion": "no han logrado",
+    "valor": "modificar la progresión de la obstrucción del flujo aéreo"
+  },
+  {
+    "entidad": "magnitud de la disnea",
+    "relacion": "debe ser considerada en",
+    "valor": "el manejo de la enfermedad"
+  },
+  {
+    "entidad": "pacientes con EPOC",
+    "relacion": "fallecen por",
+    "valor": "otras condiciones distintas a la enfermedad de base"
+  },
+  {
+    "entidad": "estudio clínico descriptivo prospectivo",
+    "relacion": "examinó",
+    "valor": "variables clínicas y funcionales asociadas al riesgo de muerte"
+  },
+  {
+    "entidad": "pacientes con EPOC",
+    "relacion": "fueron evaluados en",
+    "valor": "condiciones estables de su enfermedad"
+  },
+  {
+    "entidad": "variables clínicas asociadas al riesgo de muerte",
+    "relacion": "incluyen",
+    "valor": "edad, sexo masculino, magnitud de la disnea"
+  },
+  {
+    "entidad": "análisis univariado",
+    "relacion": "identificó",
+    "valor": "principales variables clínicas asociadas al riesgo de muerte"
+  },
+  {
+    "entidad": "análisis multivariado",
+    "relacion": "identificó",
+    "valor": "predictores clínicos de mortalidad independientes"
+  },
+  {
+    "entidad": "índice pronóstico BodE",
+    "relacion": "permite",
+    "valor": "predecir el riesgo de muerte a largo plazo"
+  },
+  {
+    "entidad": "evaluación clínica y funcional sistemática",
+    "relacion": "permite",
+    "valor": "identificar grupos de mayor riesgo de morbilidad y mortalidad"
+  },
+  {
+    "entidad": "fármacos broncodilatadores",
+    "relacion": "alivian",
+    "valor": "la disnea"
+  },
+  {
+    "entidad": "oxigenoterapia domiciliaria",
+    "relacion": "corrige",
+    "valor": "la hipoxemia crónica"
+  },
+  {
+    "entidad": "edad avanzada",
+    "relacion": "es un",
+    "valor": "factor de riesgo de muerte a largo plazo"
+  },
+  {
+    "entidad": "magnitud de la disnea",
+    "relacion": "es un",
+    "valor": "factor de riesgo de muerte a largo plazo"
+  },
+  {
+    "entidad": "insuficiencia respiratoria crónica",
+    "relacion": "es un",
+    "valor": "factor de riesgo de muerte a largo plazo"
+  },
+  {
+    "entidad": "distancia recorrida en seis minutos",
+    "relacion": "es un",
+    "valor": "factor de riesgo de muerte a largo plazo"
+  }
+]

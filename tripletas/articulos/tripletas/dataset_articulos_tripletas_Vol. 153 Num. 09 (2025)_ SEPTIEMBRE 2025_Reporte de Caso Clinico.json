@@ -1,0 +1,187 @@
+[
+  {
+    "entidad": "Sangrado intracraneal severo",
+    "relacion": "es causado por",
+    "valor": "diátesis hemorrágica"
+  },
+  {
+    "entidad": "diátesis hemorrágica",
+    "relacion": "es secundaria a",
+    "valor": "uso de tableta compuesta por Schisandra chinensis"
+  },
+  {
+    "entidad": "Schisandra chinensis",
+    "relacion": "es un",
+    "valor": "suplemento herbal"
+  },
+  {
+    "entidad": "CYP3A",
+    "relacion": "metaboliza",
+    "valor": "xenobióticos y compuestos endógenos"
+  },
+  {
+    "entidad": "CYP3A",
+    "relacion": "afecta",
+    "valor": "sistema de coagulación"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "desarrolla",
+    "valor": "hemorragia subdural y subaracnoidea espontáneas"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "trombocitopenia inmune de novo"
+  },
+  {
+    "entidad": "trombocitopenia inmune de novo",
+    "relacion": "es un",
+    "valor": "trastorno de coagulación"
+  },
+  {
+    "entidad": "tratamiento de medicina alternativa",
+    "relacion": "puede causar",
+    "valor": "efectos adversos severos"
+  },
+  {
+    "entidad": "glucocorticoides",
+    "relacion": "son el tratamiento de",
+    "valor": "primera línea para PTI"
+  },
+  {
+    "entidad": "PTI",
+    "relacion": "puede causar",
+    "valor": "hemorragia intracraneal no traumática"
+  },
+  {
+    "entidad": "Schisandra chinensis",
+    "relacion": "interactúa con",
+    "valor": "enzimas CYP3A4 y CYP3A5"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "recibe",
+    "valor": "dexametasona y IVIG"
+  },
+  {
+    "entidad": "dexametasona",
+    "relacion": "es un",
+    "valor": "glucocorticoide"
+  },
+  {
+    "entidad": "IVIG",
+    "relacion": "es un",
+    "valor": "tratamiento para PTI"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "continúa en",
+    "valor": "controles ambulatorios con Hematología"
+  },
+  {
+    "entidad": "hemorragia intracraneal no traumática",
+    "relacion": "representa",
+    "valor": "10-20% de eventos cerebrovasculares"
+  },
+  {
+    "entidad": "hemorragias subaracnoideas",
+    "relacion": "son",
+    "valor": "un tipo de hemorragia intracraneal"
+  },
+  {
+    "entidad": "hemorragias subaracnoideas no traumáticas",
+    "relacion": "han incrementado en",
+    "valor": "población chilena desde 2022"
+  },
+  {
+    "entidad": "suplementos herbales",
+    "relacion": "interaccionan con",
+    "valor": "sistema de coagulación"
+  },
+  {
+    "entidad": "obstrucción intestinal",
+    "relacion": "es un",
+    "valor": "complicación rara y grave durante el embarazo"
+  },
+  {
+    "entidad": "vólvulo sigmoideo",
+    "relacion": "es la",
+    "valor": "causa más común de obstrucción intestinal en el embarazo"
+  },
+  {
+    "entidad": "tomografía computarizada",
+    "relacion": "se utiliza para",
+    "valor": "diagnosticar obstrucción intestinal"
+  },
+  {
+    "entidad": "cesárea",
+    "relacion": "es un",
+    "valor": "procedimiento quirúrgico realizado en el caso"
+  },
+  {
+    "entidad": "sigmoidectomía",
+    "relacion": "es un",
+    "valor": "procedimiento realizado tras la cesárea"
+  },
+  {
+    "entidad": "anastomosis rectosigmoidea",
+    "relacion": "es un",
+    "valor": "procedimiento realizado tras la sigmoidectomía"
+  },
+  {
+    "entidad": "madre",
+    "relacion": "tuvo",
+    "valor": "resultado favorable tras la cirugía"
+  },
+  {
+    "entidad": "recién nacido",
+    "relacion": "tuvo",
+    "valor": "resultado favorable tras la cirugía"
+  },
+  {
+    "entidad": "diagnóstico de vólvulo sigmoideo",
+    "relacion": "es",
+    "valor": "difícil durante el embarazo"
+  },
+  {
+    "entidad": "exposición a radiación",
+    "relacion": "debe ser",
+    "valor": "considerada cuidadosamente en embarazadas"
+  },
+  {
+    "entidad": "mortalidad materna",
+    "relacion": "puede alcanzar",
+    "valor": "50% en casos complicados por perforación"
+  },
+  {
+    "entidad": "mortalidad fetal",
+    "relacion": "es aproximadamente",
+    "valor": "30% en casos de vólvulo sigmoideo"
+  },
+  {
+    "entidad": "vólvulo sigmoideo",
+    "relacion": "ha sido asociado con",
+    "valor": "megacolon"
+  },
+  {
+    "entidad": "gestación",
+    "relacion": "es un",
+    "valor": "factor de riesgo para el vólvulo sigmoideo"
+  },
+  {
+    "entidad": "manejo rápido",
+    "relacion": "es esencial para",
+    "valor": "reducir mortalidad materna y fetal"
+  },
+  {
+    "entidad": "Hartmann procedure",
+    "relacion": "es un",
+    "valor": "procedimiento realizado en caso de dehiscencia"
+  },
+  {
+    "entidad": "anastomosis",
+    "relacion": "fue confirmada como",
+    "valor": "dehiscente en el seguimiento postoperatorio"
+  }
+]

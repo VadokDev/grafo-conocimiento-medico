@@ -1,0 +1,267 @@
+[
+  {
+    "entidad": "Fascitis necrotizante",
+    "relacion": "es un",
+    "valor": "tipo de infección"
+  },
+  {
+    "entidad": "Hernia de Garengeot",
+    "relacion": "corresponde a",
+    "valor": "presencia del apéndice en una hernia femoral"
+  },
+  {
+    "entidad": "apéndice cecal",
+    "relacion": "se encuentra en",
+    "valor": "hernia femoral"
+  },
+  {
+    "entidad": "apendicitis aguda",
+    "relacion": "puede estar asociada a",
+    "valor": "hernia de Garengeot"
+  },
+  {
+    "entidad": "mujer de 54 años",
+    "relacion": "presenta",
+    "valor": "fascitis necrotizante"
+  },
+  {
+    "entidad": "mujer de 54 años",
+    "relacion": "tiene antecedentes de",
+    "valor": "hipertensión y artritis reumatoidea"
+  },
+  {
+    "entidad": "metotrexato",
+    "relacion": "es un",
+    "valor": "tratamiento para artritis reumatoidea"
+  },
+  {
+    "entidad": "prednisona",
+    "relacion": "es un",
+    "valor": "tratamiento para artritis reumatoidea"
+  },
+  {
+    "entidad": "leucocitosis",
+    "relacion": "fue revelada por",
+    "valor": "laboratorio"
+  },
+  {
+    "entidad": "C-reactive Protein",
+    "relacion": "fue revelada por",
+    "valor": "laboratorio"
+  },
+  {
+    "entidad": "resonancia nuclear magnética",
+    "relacion": "mostró",
+    "valor": "apendicitis perforada"
+  },
+  {
+    "entidad": "cirugía",
+    "relacion": "se realizó para",
+    "valor": "debridamiento y apendicectomía"
+  },
+  {
+    "entidad": "sistema VAC",
+    "relacion": "fue instalado para",
+    "valor": "cobertura del defecto"
+  },
+  {
+    "entidad": "cultivos",
+    "relacion": "fueron positivos para",
+    "valor": "Streptococcus constellatus"
+  },
+  {
+    "entidad": "terapia VAC",
+    "relacion": "es útil para",
+    "valor": "tratamiento de defectos de cobertura"
+  },
+  {
+    "entidad": "fascitis necrotizante",
+    "relacion": "requiere",
+    "valor": "diagnóstico precoz"
+  },
+  {
+    "entidad": "debridamiento extenso",
+    "relacion": "es el tratamiento para",
+    "valor": "fascitis necrotizante"
+  },
+  {
+    "entidad": "hernias femorales",
+    "relacion": "son más frecuentes en",
+    "valor": "mujeres que hombres"
+  },
+  {
+    "entidad": "apendicectomía",
+    "relacion": "se realiza durante",
+    "valor": "cirugía de hernia de Garengeot"
+  },
+  {
+    "entidad": "diagnóstico diferencial",
+    "relacion": "debe considerar",
+    "valor": "celulitis y fascitis necrotizante"
+  },
+  {
+    "entidad": "Mieloma múltiple",
+    "relacion": "es una",
+    "valor": "neoplasia"
+  },
+  {
+    "entidad": "Lupus eritematoso sistémico",
+    "relacion": "es una",
+    "valor": "enfermedad autoinmune"
+  },
+  {
+    "entidad": "Mieloma múltiple",
+    "relacion": "se asocia con",
+    "valor": "Lupus eritematoso sistémico"
+  },
+  {
+    "entidad": "Lupus eritematoso sistémico",
+    "relacion": "aumenta el riesgo de",
+    "valor": "neoplasias hematológicas"
+  },
+  {
+    "entidad": "Linfoma no Hodgkin",
+    "relacion": "es un tipo de",
+    "valor": "neoplasia hematológica"
+  },
+  {
+    "entidad": "Mieloma múltiple",
+    "relacion": "es raro en",
+    "valor": "pacientes con lupus eritematoso sistémico"
+  },
+  {
+    "entidad": "Células plasmáticas",
+    "relacion": "son",
+    "valor": "células malignas en mieloma múltiple"
+  },
+  {
+    "entidad": "Ciclofosfamida",
+    "relacion": "se utiliza como",
+    "valor": "tratamiento para mieloma múltiple"
+  },
+  {
+    "entidad": "Dexametasona",
+    "relacion": "se utiliza como",
+    "valor": "tratamiento para mieloma múltiple"
+  },
+  {
+    "entidad": "Talidomida",
+    "relacion": "se utiliza como",
+    "valor": "tratamiento para mieloma múltiple"
+  },
+  {
+    "entidad": "Pamidronato",
+    "relacion": "se utiliza como",
+    "valor": "tratamiento para mieloma múltiple"
+  },
+  {
+    "entidad": "Trasplante autólogo de médula ósea",
+    "relacion": "es un",
+    "valor": "tratamiento para mieloma múltiple"
+  },
+  {
+    "entidad": "Actividad lúpica",
+    "relacion": "puede mediar",
+    "valor": "riesgo de malignidad hematológica"
+  },
+  {
+    "entidad": "Inmunosupresores",
+    "relacion": "se utilizan para",
+    "valor": "controlar la actividad del lupus"
+  },
+  {
+    "entidad": "Mieloma múltiple",
+    "relacion": "se diagnostica a",
+    "valor": "través de criterios del International Myeloma Working Group"
+  },
+  {
+    "entidad": "Edad media al diagnóstico de mieloma múltiple",
+    "relacion": "es",
+    "valor": "66 años"
+  },
+  {
+    "entidad": "Fractura vertebral",
+    "relacion": "puede ocurrir en",
+    "valor": "pacientes con mieloma múltiple"
+  },
+  {
+    "entidad": "bupropión",
+    "relacion": "es un",
+    "valor": "antidepresivo"
+  },
+  {
+    "entidad": "bupropión",
+    "relacion": "actúa inhibiendo",
+    "valor": "recaptación de dopamina, norepinefrina y serotonina"
+  },
+  {
+    "entidad": "supraversión de la mirada",
+    "relacion": "es una",
+    "valor": "alteración de ocular motilidad"
+  },
+  {
+    "entidad": "supraversión de la mirada",
+    "relacion": "se asocia a",
+    "valor": "persistente apertura ocular y escaso pestañeo"
+  },
+  {
+    "entidad": "supraversión de la mirada",
+    "relacion": "se ha comunicado en relación a",
+    "valor": "encefalopatías hipóxicas"
+  },
+  {
+    "entidad": "intoxicación aguda por bupropión",
+    "relacion": "puede llevar a",
+    "valor": "coma"
+  },
+  {
+    "entidad": "intoxicación por sobredosis de bupropión",
+    "relacion": "acentúa",
+    "valor": "síntomas adversos"
+  },
+  {
+    "entidad": "taquicardia",
+    "relacion": "es un",
+    "valor": "efecto cardiotóxico del bupropión"
+  },
+  {
+    "entidad": "paro cardíaco",
+    "relacion": "puede ser causado por",
+    "valor": "taquicardia y alargamiento de Q-t"
+  },
+  {
+    "entidad": "mujer de 62 años",
+    "relacion": "desarrolló",
+    "valor": "supraversión de la mirada"
+  },
+  {
+    "entidad": "supraversión de la mirada",
+    "relacion": "fue observada en",
+    "valor": "coma neurológico"
+  },
+  {
+    "entidad": "resonancia magnética",
+    "relacion": "mostró",
+    "valor": "atrofia cerebral y hiperintensidades en núcleos de la base"
+  },
+  {
+    "entidad": "supraversión de la mirada",
+    "relacion": "es un signo de",
+    "valor": "grave disfunción cortical"
+  },
+  {
+    "entidad": "sustancia blanca",
+    "relacion": "mostró",
+    "valor": "hiperintensidad en imágenes de resonancia magnética"
+  },
+  {
+    "entidad": "intoxicación con bupropión",
+    "relacion": "requiere",
+    "valor": "factores adicionales para daño cerebral"
+  },
+  {
+    "entidad": "corteza cerebral",
+    "relacion": "es asiento de",
+    "valor": "esquemas motores esenciales"
+  }
+]

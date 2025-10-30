@@ -1,0 +1,192 @@
+[
+  {
+    "entidad": "mastocitosis sistémica",
+    "relacion": "se caracteriza por",
+    "valor": "expansión y activación patológica de mastocitos"
+  },
+  {
+    "entidad": "mastocitosis sistémica",
+    "relacion": "incluye manifestaciones clínicas como",
+    "valor": "compromiso cutáneo, síntomas gastrointestinales y anafilaxis"
+  },
+  {
+    "entidad": "pacientes con mastocitosis sistémica",
+    "relacion": "tienen",
+    "valor": "30% de baja masa ósea"
+  },
+  {
+    "entidad": "pacientes con mastocitosis sistémica",
+    "relacion": "tienen",
+    "valor": "20% de fracturas"
+  },
+  {
+    "entidad": "mastocitosis sistémica",
+    "relacion": "afecta a",
+    "valor": "10% de hombres con osteoporosis idiopática"
+  },
+  {
+    "entidad": "triptasa sérica",
+    "relacion": "es esencial para",
+    "valor": "el tamizaje de mastocitosis sistémica"
+  },
+  {
+    "entidad": "osteoporosis",
+    "relacion": "puede ser causada por",
+    "valor": "mastocitosis sistémica"
+  },
+  {
+    "entidad": "osteoporosis",
+    "relacion": "se manifiesta en",
+    "valor": "18-31% de los pacientes con mastocitosis sistémica"
+  },
+  {
+    "entidad": "fracturas vertebrales",
+    "relacion": "se presentan en",
+    "valor": "1 de cada 5 pacientes con mastocitosis sistémica"
+  },
+  {
+    "entidad": "tratamiento",
+    "relacion": "incluye",
+    "valor": "calcio, vitamina D y bisfosfonatos"
+  },
+  {
+    "entidad": "paciente masculino de 47 años",
+    "relacion": "fue diagnosticado con",
+    "valor": "osteoporosis secundaria a mastocitosis sistémica"
+  },
+  {
+    "entidad": "triptasa sérica",
+    "relacion": "es el examen de",
+    "valor": "tamizaje más adecuado para mastocitosis sistémica"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud",
+    "relacion": "propone clasificar",
+    "valor": "mastocitosis sistémica según agresividad"
+  },
+  {
+    "entidad": "mastocitos",
+    "relacion": "son responsables de",
+    "valor": "síntomas asociados a reacciones alérgicas"
+  },
+  {
+    "entidad": "mutación de cKIT",
+    "relacion": "es detectable en",
+    "valor": "90% de los adultos con mastocitosis sistémica"
+  },
+  {
+    "entidad": "tratamiento de osteoporosis",
+    "relacion": "debe ser",
+    "valor": "individualizado caso a caso"
+  },
+  {
+    "entidad": "Erdheim-Chester disease",
+    "relacion": "es un",
+    "valor": "trastorno histiocítico no-Langerhans"
+  },
+  {
+    "entidad": "sirolimus",
+    "relacion": "se utiliza para",
+    "valor": "el tratamiento de la enfermedad de Erdheim-Chester"
+  },
+  {
+    "entidad": "prednisona",
+    "relacion": "se utiliza para",
+    "valor": "el tratamiento de la enfermedad de Erdheim-Chester"
+  },
+  {
+    "entidad": "cardiac tamponade",
+    "relacion": "es una complicación de",
+    "valor": "la enfermedad de Erdheim-Chester"
+  },
+  {
+    "entidad": "cardiac function",
+    "relacion": "se estabiliza con",
+    "valor": "sirolimus"
+  },
+  {
+    "entidad": "sirolimus",
+    "relacion": "se asocia con",
+    "valor": "prednisona"
+  },
+  {
+    "entidad": "histiocitos",
+    "relacion": "se infiltran en",
+    "valor": "el miocardio"
+  },
+  {
+    "entidad": "interferón-alfa (IFN-α)",
+    "relacion": "ha sido utilizado como",
+    "valor": "terapia de primera línea"
+  },
+  {
+    "entidad": "metotrexato",
+    "relacion": "fue cambiado por",
+    "valor": "sirolimus debido a progresión de la enfermedad"
+  },
+  {
+    "entidad": "hombre de 76 años",
+    "relacion": "presentó",
+    "valor": "insuficiencia cardiaca y taponamiento"
+  },
+  {
+    "entidad": "sirolimus",
+    "relacion": "se prescribe a",
+    "valor": "pacientes con compromiso cardiaco"
+  },
+  {
+    "entidad": "anagrelide",
+    "relacion": "se utiliza para tratar",
+    "valor": "trombocitemia esencial"
+  },
+  {
+    "entidad": "ecocardiograma",
+    "relacion": "muestra",
+    "valor": "ausencia de derrame pericárdico"
+  },
+  {
+    "entidad": "hormonas",
+    "relacion": "se prescriben para tratar",
+    "valor": "hipogonadismo hipogonadotrófico e hipotiroidismo"
+  },
+  {
+    "entidad": "sirolimus",
+    "relacion": "produce",
+    "valor": "estabilización de la enfermedad"
+  },
+  {
+    "entidad": "carcinoma espinocelular",
+    "relacion": "diagnosticado en",
+    "valor": "el paciente"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "falleció por",
+    "valor": "shock cardiogénico"
+  },
+  {
+    "entidad": "BRAF V600E",
+    "relacion": "es una mutación asociada a",
+    "valor": "la enfermedad de Erdheim-Chester"
+  },
+  {
+    "entidad": "anakinra",
+    "relacion": "se ha utilizado en",
+    "valor": "pacientes con compromiso cardiaco"
+  },
+  {
+    "entidad": "infliximab",
+    "relacion": "ha sido utilizado en",
+    "valor": "pacientes con compromiso cardiaco"
+  },
+  {
+    "entidad": "vemurafenib",
+    "relacion": "ha demostrado eficacia en",
+    "valor": "melanomas y leucemia de células vellosas"
+  },
+  {
+    "entidad": "sirolimus",
+    "relacion": "se ha utilizado en",
+    "valor": "pacientes con EEC refractaria a IFN-α"
+  }
+]

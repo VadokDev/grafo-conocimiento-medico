@@ -1,0 +1,687 @@
+[
+  {
+    "entidad": "actividad física",
+    "relacion": "promueve",
+    "valor": "estilos de vida saludables"
+  },
+  {
+    "entidad": "adultos mayores chilenos",
+    "relacion": "presenta",
+    "valor": "baja actividad física"
+  },
+  {
+    "entidad": "sedentarismo",
+    "relacion": "asocia",
+    "valor": "efectos negativos sobre la salud"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "reduce",
+    "valor": "riesgo de mortalidad"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "asocia",
+    "valor": "mejores indicadores de salud"
+  },
+  {
+    "entidad": "baja actividad física",
+    "relacion": "asocia negativamente con",
+    "valor": "estilos de vida promotores de la salud"
+  },
+  {
+    "entidad": "sedentarismo",
+    "relacion": "aumenta con",
+    "valor": "la edad"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "mejora",
+    "valor": "calidad de vida"
+  },
+  {
+    "entidad": "sedentarismo",
+    "relacion": "se caracteriza por",
+    "valor": "bajo gasto energético"
+  },
+  {
+    "entidad": "encuesta de Estilo de Vida y Promotor de Salud",
+    "relacion": "evalúa",
+    "valor": "dimensiones de salud"
+  },
+  {
+    "entidad": "Universidad San Sebastián",
+    "relacion": "realiza",
+    "valor": "evaluación ética"
+  },
+  {
+    "entidad": "baja actividad física",
+    "relacion": "asocia con",
+    "valor": "baja autorrealización"
+  },
+  {
+    "entidad": "baja actividad física",
+    "relacion": "asocia con",
+    "valor": "baja responsabilidad en salud"
+  },
+  {
+    "entidad": "baja actividad física",
+    "relacion": "asocia con",
+    "valor": "baja preocupación por nutrición"
+  },
+  {
+    "entidad": "baja actividad física",
+    "relacion": "asocia con",
+    "valor": "bajo manejo del estrés"
+  },
+  {
+    "entidad": "baja actividad física",
+    "relacion": "asocia con",
+    "valor": "bajo apoyo interpersonal"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "son derivados a",
+    "valor": "servicios de rehabilitación"
+  },
+  {
+    "entidad": "hospital general",
+    "relacion": "ofrece",
+    "valor": "atención de rehabilitación"
+  },
+  {
+    "entidad": "fisiatría",
+    "relacion": "evalúa",
+    "valor": "pacientes con condiciones discapacitantes"
+  },
+  {
+    "entidad": "pacientes con condiciones discapacitantes",
+    "relacion": "reciben",
+    "valor": "intervenciones de rehabilitación"
+  },
+  {
+    "entidad": "Hospital Clínico de la Universidad de Chile",
+    "relacion": "es",
+    "valor": "un hospital de alta complejidad"
+  },
+  {
+    "entidad": "accidente cerebrovascular",
+    "relacion": "es una",
+    "valor": "causa de discapacidad"
+  },
+  {
+    "entidad": "amputaciones",
+    "relacion": "son",
+    "valor": "patologías discapacitantes"
+  },
+  {
+    "entidad": "lesión medular",
+    "relacion": "es una",
+    "valor": "patología discapacitante"
+  },
+  {
+    "entidad": "intervenciones de rehabilitación",
+    "relacion": "benefician",
+    "valor": "recuperación de pacientes"
+  },
+  {
+    "entidad": "evaluación por fisiatra",
+    "relacion": "es más frecuente en",
+    "valor": "pacientes con diagnóstico RIC"
+  },
+  {
+    "entidad": "pacientes RIC",
+    "relacion": "reciben",
+    "valor": "atención multidisciplinaria"
+  },
+  {
+    "entidad": "pacientes no RIC",
+    "relacion": "reciben",
+    "valor": "menos atención de rehabilitación"
+  },
+  {
+    "entidad": "sexo masculino",
+    "relacion": "asocia con",
+    "valor": "mayor probabilidad de evaluación por fisiatra"
+  },
+  {
+    "entidad": "previsión Isapre",
+    "relacion": "asocia con",
+    "valor": "mayor probabilidad de evaluación por fisiatra"
+  },
+  {
+    "entidad": "días de estadía hospitalaria",
+    "relacion": "se relacionan con",
+    "valor": "evaluación por fisiatra"
+  },
+  {
+    "entidad": "kinesiología",
+    "relacion": "es una",
+    "valor": "intervención de rehabilitación común"
+  },
+  {
+    "entidad": "terapia ocupacional",
+    "relacion": "es una",
+    "valor": "intervención de rehabilitación común"
+  },
+  {
+    "entidad": "fonoaudiología",
+    "relacion": "es una",
+    "valor": "intervención de rehabilitación común"
+  },
+  {
+    "entidad": "pacientes evaluados por fisiatra",
+    "relacion": "tienen",
+    "valor": "mayor edad"
+  },
+  {
+    "entidad": "pacientes evaluados por fisiatra",
+    "relacion": "tienen",
+    "valor": "mayor proporción de hombres"
+  },
+  {
+    "entidad": "pacientes evaluados por fisiatra",
+    "relacion": "tienen",
+    "valor": "estadías hospitalarias más prolongadas"
+  },
+  {
+    "entidad": "sistema de clasificación RIC",
+    "relacion": "no se utiliza en",
+    "valor": "Chile"
+  },
+  {
+    "entidad": "intervenciones de rehabilitación",
+    "relacion": "disminuyen",
+    "valor": "complicaciones y rehospitalizaciones"
+  },
+  {
+    "entidad": "Campylobacter jejuni",
+    "relacion": "es un",
+    "valor": "agente causal de enfermedades transmitidas por alimentos"
+  },
+  {
+    "entidad": "infecciones por Campylobacter jejuni",
+    "relacion": "son causadas por",
+    "valor": "consumo de carne de pollo"
+  },
+  {
+    "entidad": "cepas de Campylobacter jejuni",
+    "relacion": "se obtienen de",
+    "valor": "carne de pollo y heces de aves de corral"
+  },
+  {
+    "entidad": "zona central de Chile",
+    "relacion": "es el lugar de",
+    "valor": "obtención de muestras"
+  },
+  {
+    "entidad": "resistencia a antibióticos",
+    "relacion": "se caracteriza en",
+    "valor": "cepas de Campylobacter jejuni"
+  },
+  {
+    "entidad": "genes de virulencia",
+    "relacion": "se evalúan en",
+    "valor": "cepas de Campylobacter jejuni"
+  },
+  {
+    "entidad": "C. jejuni",
+    "relacion": "muestra alta diversidad",
+    "valor": "genética y fenotípica"
+  },
+  {
+    "entidad": "cepas resistentes",
+    "relacion": "se encuentran en",
+    "valor": "muestras de carne de pollo"
+  },
+  {
+    "entidad": "gastroenteritis",
+    "relacion": "es causada por",
+    "valor": "Campylobacter jejuni"
+  },
+  {
+    "entidad": "fluoroquinolonas y macrólidos",
+    "relacion": "son tratamientos comunes para",
+    "valor": "infecciones por Campylobacter jejuni"
+  },
+  {
+    "entidad": "cepas de heces",
+    "relacion": "no son resistentes a",
+    "valor": "cloranfenicol"
+  },
+  {
+    "entidad": "gen ceuE",
+    "relacion": "es el más frecuente en",
+    "valor": "cepas de Campylobacter jejuni"
+  },
+  {
+    "entidad": "cepas de heces",
+    "relacion": "presentan mayor número de",
+    "valor": "genes de virulencia"
+  },
+  {
+    "entidad": "cepas de carne",
+    "relacion": "muestran mayor resistencia a",
+    "valor": "eritromicina"
+  },
+  {
+    "entidad": "contaminación cruzada",
+    "relacion": "puede ocurrir en",
+    "valor": "vitrinas de venta de pollo a granel"
+  },
+  {
+    "entidad": "Fondecyt 11130148",
+    "relacion": "es un",
+    "valor": "proyecto financiado"
+  },
+  {
+    "entidad": "Proyecto de inserción a la academia 791220024",
+    "relacion": "es un",
+    "valor": "proyecto financiado"
+  },
+  {
+    "entidad": "Staphylococcus aureus",
+    "relacion": "produce",
+    "valor": "enterotoxinas"
+  },
+  {
+    "entidad": "Staphylococcus aureus",
+    "relacion": "causa",
+    "valor": "intoxicaciones alimentarias"
+  },
+  {
+    "entidad": "manipuladores de alimentos",
+    "relacion": "portan",
+    "valor": "Staphylococcus aureus"
+  },
+  {
+    "entidad": "Chillán, Chile",
+    "relacion": "es el",
+    "valor": "lugar del estudio"
+  },
+  {
+    "entidad": "enterotoxina tipo A",
+    "relacion": "es un tipo de",
+    "valor": "toxina producida por Staphylococcus aureus"
+  },
+  {
+    "entidad": "frotis nasofaríngeos",
+    "relacion": "se utilizan para",
+    "valor": "detectar Staphylococcus aureus"
+  },
+  {
+    "entidad": "Universidad del Bío-Bío",
+    "relacion": "realiza",
+    "valor": "investigaciones en salud pública"
+  },
+  {
+    "entidad": "enfermedades transmitidas por alimentos",
+    "relacion": "son causadas por",
+    "valor": "alimentos contaminados"
+  },
+  {
+    "entidad": "Staphylococcus aureus",
+    "relacion": "es un",
+    "valor": "coco Gram positivo"
+  },
+  {
+    "entidad": "enterotoxinas estafilocócicas",
+    "relacion": "son",
+    "valor": "proteínas no glicosiladas"
+  },
+  {
+    "entidad": "manipuladores de alimentos",
+    "relacion": "son",
+    "valor": "puente entre productos alimentarios y microorganismos"
+  },
+  {
+    "entidad": "normativa chilena vigente",
+    "relacion": "indica que",
+    "valor": "los manipuladores de alimentos deben estar sanos"
+  },
+  {
+    "entidad": "enterotoxina tipo A",
+    "relacion": "es la más frecuente",
+    "valor": "entre las enterotoxinas de S. aureus"
+  },
+  {
+    "entidad": "S. aureus",
+    "relacion": "coloniza",
+    "valor": "mucosa y piel de seres humanos"
+  },
+  {
+    "entidad": "intoxicación alimentaria estafilocócica",
+    "relacion": "es conocida como",
+    "valor": "estafiloenterotoxicosis"
+  },
+  {
+    "entidad": "estafiloenterotoxicosis",
+    "relacion": "se caracteriza por",
+    "valor": "síntomas como vómitos y diarrea"
+  },
+  {
+    "entidad": "enterotoxina tipo A",
+    "relacion": "duplica",
+    "valor": "la cantidad de enterotoxina tipo B"
+  },
+  {
+    "entidad": "S. aureus",
+    "relacion": "puede existir como",
+    "valor": "parte de la microflora normal"
+  },
+  {
+    "entidad": "manipuladores de alimentos",
+    "relacion": "deben realizar",
+    "valor": "exámenes de salud"
+  },
+  {
+    "entidad": "enterotoxina tipo A",
+    "relacion": "es producida por",
+    "valor": "algunas cepas de S. aureus"
+  },
+  {
+    "entidad": "S. aureus",
+    "relacion": "se asocia a",
+    "valor": "inadecuada manipulación de alimentos"
+  },
+  {
+    "entidad": "trastorno depresivo mayor",
+    "relacion": "es un",
+    "valor": "trastorno psiquiátrico"
+  },
+  {
+    "entidad": "remisión",
+    "relacion": "es un",
+    "valor": "resultado del tratamiento"
+  },
+  {
+    "entidad": "nivel secundario de atención",
+    "relacion": "es un",
+    "valor": "nivel de tratamiento"
+  },
+  {
+    "entidad": "factores demográficos",
+    "relacion": "incluyen",
+    "valor": "sexo y edad"
+  },
+  {
+    "entidad": "eventos estresantes",
+    "relacion": "afectan",
+    "valor": "remisión del trastorno depresivo mayor"
+  },
+  {
+    "entidad": "apoyo social percibido",
+    "relacion": "afecta",
+    "valor": "remisión del trastorno depresivo mayor"
+  },
+  {
+    "entidad": "características melancólicas",
+    "relacion": "son",
+    "valor": "predictores de remisión"
+  },
+  {
+    "entidad": "tiempo previo al tratamiento",
+    "relacion": "afecta",
+    "valor": "remisión del trastorno depresivo mayor"
+  },
+  {
+    "entidad": "intervenciones psicoterapéuticas",
+    "relacion": "son",
+    "valor": "tratamientos aplicados"
+  },
+  {
+    "entidad": "comorbilidad psiquiátrica",
+    "relacion": "afecta",
+    "valor": "remisión del trastorno depresivo mayor"
+  },
+  {
+    "entidad": "comorbilidad médica",
+    "relacion": "afecta",
+    "valor": "remisión del trastorno depresivo mayor"
+  },
+  {
+    "entidad": "modelo predictivo",
+    "relacion": "permite",
+    "valor": "predecir remisión"
+  },
+  {
+    "entidad": "escala de depresión de Hamilton",
+    "relacion": "es un",
+    "valor": "instrumento de evaluación"
+  },
+  {
+    "entidad": "Universidad de Concepción",
+    "relacion": "es un",
+    "valor": "institución educativa"
+  },
+  {
+    "entidad": "Hospital Clínico Herminda Martín",
+    "relacion": "es un",
+    "valor": "centro de atención"
+  },
+  {
+    "entidad": "cosaM Chillán",
+    "relacion": "es un",
+    "valor": "centro de atención"
+  },
+  {
+    "entidad": "cosaM San Carlos",
+    "relacion": "es un",
+    "valor": "centro de atención"
+  },
+  {
+    "entidad": "Programa de Doctorado en Salud Mental",
+    "relacion": "es un",
+    "valor": "programa académico"
+  },
+  {
+    "entidad": "Facultad de Medicina",
+    "relacion": "pertenece a",
+    "valor": "Universidad Católica de la Santísima Concepción"
+  },
+  {
+    "entidad": "Servicio de Salud de Ñuble",
+    "relacion": "es un",
+    "valor": "organización de salud"
+  },
+  {
+    "entidad": "cáncer de mama",
+    "relacion": "es",
+    "valor": "el tumor maligno más común en mujeres"
+  },
+  {
+    "entidad": "Programa Nacional de Cáncer del Adulto",
+    "relacion": "pertenece a",
+    "valor": "Ministerio de Salud de Chile"
+  },
+  {
+    "entidad": "cáncer de mama",
+    "relacion": "se incorpora a",
+    "valor": "el sistema de Garantías Explícitas en Salud (GES) en 2005"
+  },
+  {
+    "entidad": "GES",
+    "relacion": "garantiza",
+    "valor": "acceso, oportunidad, cobertura financiera y calidad de atención"
+  },
+  {
+    "entidad": "pacientes con cáncer de mama",
+    "relacion": "son tratados en",
+    "valor": "seis hospitales públicos"
+  },
+  {
+    "entidad": "sobrevida global (SG)",
+    "relacion": "se mide desde",
+    "valor": "la fecha de biopsia diagnóstica hasta la fecha de último control o muerte"
+  },
+  {
+    "entidad": "cáncer de mama",
+    "relacion": "causa",
+    "valor": "la primera causa de muerte en mujeres en Chile"
+  },
+  {
+    "entidad": "tasa de mortalidad por cáncer de mama",
+    "relacion": "ha descendido en",
+    "valor": "muchos países europeos"
+  },
+  {
+    "entidad": "cáncer de mama",
+    "relacion": "se diagnostica en",
+    "valor": "etapas más precoces desde la incorporación al GES"
+  },
+  {
+    "entidad": "cáncer de mama",
+    "relacion": "se presenta en",
+    "valor": "estadios I y II en un 65.7% de los casos"
+  },
+  {
+    "entidad": "triple negativo",
+    "relacion": "presenta",
+    "valor": "una sobrevida significativamente inferior"
+  },
+  {
+    "entidad": "cáncer de mama",
+    "relacion": "se evalúa mediante",
+    "valor": "biopsia"
+  },
+  {
+    "entidad": "sobrevida a 5 años",
+    "relacion": "es",
+    "valor": "75.1%"
+  },
+  {
+    "entidad": "cáncer de mama",
+    "relacion": "se asocia con",
+    "valor": "mejor tamizaje y mejores tratamientos"
+  },
+  {
+    "entidad": "cáncer de mama",
+    "relacion": "se diagnostica en",
+    "valor": "etapas más tempranas gracias a la detección precoz"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "implementa",
+    "valor": "programas de detección y tratamiento"
+  },
+  {
+    "entidad": "cáncer de mama",
+    "relacion": "se trata con",
+    "valor": "cirugía, quimioterapia, radioterapia y hormonoterapia"
+  },
+  {
+    "entidad": "cáncer de mama",
+    "relacion": "se clasifica en",
+    "valor": "subtipos histológicos como carcinoma ductal y lobulillar infiltrante"
+  },
+  {
+    "entidad": "cáncer de mama",
+    "relacion": "se asocia con",
+    "valor": "marcadores hormonales como receptores de estrógeno y progesterona"
+  },
+  {
+    "entidad": "sustancias psicoactivas",
+    "relacion": "afecta a",
+    "valor": "adolescentes escolarizados"
+  },
+  {
+    "entidad": "uso de sustancias psicoactivas",
+    "relacion": "es un",
+    "valor": "comportamiento de alto riesgo"
+  },
+  {
+    "entidad": "calidad de vida relacionada con la salud (CVRS)",
+    "relacion": "es un",
+    "valor": "constructo que abarca aspectos de calidad de vida"
+  },
+  {
+    "entidad": "alcohol",
+    "relacion": "es la sustancia de mayor uso",
+    "valor": "entre adolescentes en América del Sur"
+  },
+  {
+    "entidad": "tabaco",
+    "relacion": "es la segunda sustancia de mayor uso",
+    "valor": "entre adolescentes en América del Sur"
+  },
+  {
+    "entidad": "marihuana",
+    "relacion": "es la tercera sustancia de mayor uso",
+    "valor": "entre adolescentes en América del Sur"
+  },
+  {
+    "entidad": "consumo de alcohol",
+    "relacion": "se asocia con",
+    "valor": "menor percepción de bienestar psicológico"
+  },
+  {
+    "entidad": "consumo de alcohol",
+    "relacion": "se asocia con",
+    "valor": "menor autopercepción"
+  },
+  {
+    "entidad": "consumo de alcohol",
+    "relacion": "se asocia con",
+    "valor": "peor entorno escolar"
+  },
+  {
+    "entidad": "policonsumo de tres sustancias",
+    "relacion": "se asocia con",
+    "valor": "menor percepción de bienestar físico"
+  },
+  {
+    "entidad": "policonsumo de tres sustancias",
+    "relacion": "se asocia con",
+    "valor": "menor percepción de bienestar psicológico"
+  },
+  {
+    "entidad": "policonsumo de tres sustancias",
+    "relacion": "se asocia con",
+    "valor": "menor autopercepción"
+  },
+  {
+    "entidad": "policonsumo de tres sustancias",
+    "relacion": "se asocia con",
+    "valor": "peor relación con los padres y vida familiar"
+  },
+  {
+    "entidad": "policonsumo de tres sustancias",
+    "relacion": "se asocia con",
+    "valor": "peor entorno escolar"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "se asocia con",
+    "valor": "menor percepción de bienestar físico"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "se asocia con",
+    "valor": "peor entorno escolar"
+  },
+  {
+    "entidad": "sexo femenino",
+    "relacion": "se asocia con",
+    "valor": "menor percepción de bienestar físico"
+  },
+  {
+    "entidad": "sexo femenino",
+    "relacion": "se asocia con",
+    "valor": "menor percepción de bienestar psicológico"
+  },
+  {
+    "entidad": "sexo femenino",
+    "relacion": "se asocia con",
+    "valor": "menor estado de ánimo y emociones"
+  },
+  {
+    "entidad": "sexo femenino",
+    "relacion": "se asocia con",
+    "valor": "menor autopercepción"
+  },
+  {
+    "entidad": "sexo femenino",
+    "relacion": "se asocia con",
+    "valor": "menor autonomía"
+  }
+]

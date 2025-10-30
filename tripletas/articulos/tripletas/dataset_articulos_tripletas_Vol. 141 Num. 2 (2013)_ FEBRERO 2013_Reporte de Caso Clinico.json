@@ -1,0 +1,267 @@
+[
+  {
+    "entidad": "Aspirina",
+    "relacion": "causa",
+    "valor": "hipersensibilidad"
+  },
+  {
+    "entidad": "Hipersensibilidad a aspirina",
+    "relacion": "afecta a",
+    "valor": "pacientes con antecedentes de alergia"
+  },
+  {
+    "entidad": "Angioplastía coronaria",
+    "relacion": "requiere",
+    "valor": "uso de aspirina"
+  },
+  {
+    "entidad": "Protocolo de desensibilización rápida",
+    "relacion": "utiliza",
+    "valor": "dosis progresivas de aspirina"
+  },
+  {
+    "entidad": "Dosis de aspirina",
+    "relacion": "administrada en",
+    "valor": "5.5 horas"
+  },
+  {
+    "entidad": "Departamento de enfermedades cardiovasculares",
+    "relacion": "pertenece a",
+    "valor": "Pontificia Universidad Católica de Chile"
+  },
+  {
+    "entidad": "Hipersensibilidad a aspirina",
+    "relacion": "puede manifestarse como",
+    "valor": "asma o anafilaxia"
+  },
+  {
+    "entidad": "Protocolo de desensibilización",
+    "relacion": "se aplica a",
+    "valor": "pacientes con HAAS"
+  },
+  {
+    "entidad": "Reacciones adversas",
+    "relacion": "son",
+    "valor": "poco probables y leves"
+  },
+  {
+    "entidad": "Desensibilización a aspirina",
+    "relacion": "implica",
+    "valor": "exposición a dosis progresivamente mayores"
+  },
+  {
+    "entidad": "Mecanismo de hipersensibilidad",
+    "relacion": "mediado por",
+    "valor": "inmunoglobulinas tipo IgE"
+  },
+  {
+    "entidad": "COX-1",
+    "relacion": "es necesaria para",
+    "valor": "síntesis de prostaglandina E2"
+  },
+  {
+    "entidad": "Protocolo de Rossini",
+    "relacion": "es un",
+    "valor": "método de desensibilización"
+  },
+  {
+    "entidad": "Terapia antiplaquetaria dual",
+    "relacion": "es administrada a",
+    "valor": "pacientes tras angioplastía"
+  },
+  {
+    "entidad": "Efecto de tolerancia",
+    "relacion": "es",
+    "valor": "temporal"
+  },
+  {
+    "entidad": "Re-sensibilización",
+    "relacion": "puede ocurrir tras",
+    "valor": "suspensión de aspirina"
+  },
+  {
+    "entidad": "Pacientes con HAAS",
+    "relacion": "requieren",
+    "valor": "nuevo ciclo de desensibilización si suspenden aspirina"
+  },
+  {
+    "entidad": "Hemangioendotelioma epitelioide",
+    "relacion": "es un",
+    "valor": "tumor vascular"
+  },
+  {
+    "entidad": "Hemangioendotelioma fusiforme",
+    "relacion": "es un",
+    "valor": "variante del hemangioendotelioma epitelioide"
+  },
+  {
+    "entidad": "ganglios linfáticos",
+    "relacion": "pueden experimentar",
+    "valor": "proliferación vascular"
+  },
+  {
+    "entidad": "diabetes mellitus tipo 2",
+    "relacion": "es una",
+    "valor": "condición médica"
+  },
+  {
+    "entidad": "leucemia linfocítica crónica",
+    "relacion": "es un",
+    "valor": "tipo de cáncer"
+  },
+  {
+    "entidad": "Instituto Nacional de Cancerología",
+    "relacion": "es un",
+    "valor": "centro de evaluación y manejo"
+  },
+  {
+    "entidad": "CD31",
+    "relacion": "es un marcador",
+    "valor": "positivo en células tumorales"
+  },
+  {
+    "entidad": "CD34",
+    "relacion": "es un marcador",
+    "valor": "positivo en células tumorales"
+  },
+  {
+    "entidad": "clorambucil",
+    "relacion": "es un",
+    "valor": "tratamiento para la leucemia linfocítica crónica"
+  },
+  {
+    "entidad": "prednisona",
+    "relacion": "es un",
+    "valor": "tratamiento para la leucemia linfocítica crónica"
+  },
+  {
+    "entidad": "hemangioma",
+    "relacion": "es un",
+    "valor": "tipo de tumor vascular"
+  },
+  {
+    "entidad": "sarcoma de Kaposi",
+    "relacion": "es un",
+    "valor": "tumor vascular asociado a SIDA"
+  },
+  {
+    "entidad": "inmunohistoquímica",
+    "relacion": "es un",
+    "valor": "método de diagnóstico"
+  },
+  {
+    "entidad": "microscopía electrónica",
+    "relacion": "es un",
+    "valor": "método de diagnóstico"
+  },
+  {
+    "entidad": "tumores vasculares primarios",
+    "relacion": "son",
+    "valor": "extremadamente raros en ganglios linfáticos"
+  },
+  {
+    "entidad": "células neoplásicas",
+    "relacion": "muestran",
+    "valor": "atipia citológica moderada"
+  },
+  {
+    "entidad": "vacuolas citoplasmáticas",
+    "relacion": "pueden contener",
+    "valor": "eritrocitos"
+  },
+  {
+    "entidad": "estroma mixoide-hialino",
+    "relacion": "es una",
+    "valor": "matriz en la que se encuentran las células tumorales"
+  },
+  {
+    "entidad": "fístula aorto-esofágica",
+    "relacion": "es una",
+    "valor": "complicación del cáncer de esófago"
+  },
+  {
+    "entidad": "cáncer de esófago",
+    "relacion": "puede causar",
+    "valor": "fístula aorto-esofágica"
+  },
+  {
+    "entidad": "quimiorradioterapia",
+    "relacion": "es el tratamiento preferido para",
+    "valor": "cáncer de esófago no operable"
+  },
+  {
+    "entidad": "endoprótesis aórtica",
+    "relacion": "se utiliza para",
+    "valor": "tratar fístula aorto-esofágica"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "disfagia y baja de peso"
+  },
+  {
+    "entidad": "endoscopia digestiva alta",
+    "relacion": "demuestra",
+    "valor": "tumor estenosante del esófago"
+  },
+  {
+    "entidad": "biopsia",
+    "relacion": "confirma",
+    "valor": "carcinoma escamoso moderadamente diferenciado"
+  },
+  {
+    "entidad": "tomografía axial computada",
+    "relacion": "muestra",
+    "valor": "lesión infiltrante en el esófago"
+  },
+  {
+    "entidad": "tratamiento paliativo",
+    "relacion": "se utiliza para",
+    "valor": "aliviar disfagia"
+  },
+  {
+    "entidad": "endoprótesis Valiant",
+    "relacion": "se implanta en",
+    "valor": "aorta torácica descendente"
+  },
+  {
+    "entidad": "cobertura antibiótica",
+    "relacion": "se inicia con",
+    "valor": "ceftriaxona y clindamicina"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "evoluciona sin",
+    "valor": "disfagia ni fiebre"
+  },
+  {
+    "entidad": "angioTAC",
+    "relacion": "muestra",
+    "valor": "adecuada posición de la endoprótesis"
+  },
+  {
+    "entidad": "fístula aorto-esofágica",
+    "relacion": "es una",
+    "valor": "emergencia médica"
+  },
+  {
+    "entidad": "reparación endovascular",
+    "relacion": "es una alternativa a",
+    "valor": "tratamiento convencional"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "asociada a",
+    "valor": "fístula aorto-esofágica"
+  },
+  {
+    "entidad": "cáncer escamoso",
+    "relacion": "es la segunda causa de",
+    "valor": "neoplasia de esófago"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "fallece a",
+    "valor": "los 13 meses post cirugía"
+  }
+]

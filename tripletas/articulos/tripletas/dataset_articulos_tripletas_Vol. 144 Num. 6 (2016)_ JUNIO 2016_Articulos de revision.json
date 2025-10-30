@@ -1,0 +1,322 @@
+[
+  {
+    "entidad": "Facultad de Medicina",
+    "relacion": "pertenece a",
+    "valor": "Universidad de los Andes"
+  },
+  {
+    "entidad": "Clínica Universidad de los Andes",
+    "relacion": "pertenece a",
+    "valor": "Universidad de los Andes"
+  },
+  {
+    "entidad": "Calidad en cirugía",
+    "relacion": "se relaciona con",
+    "valor": "efectividad"
+  },
+  {
+    "entidad": "complicaciones quirúrgicas",
+    "relacion": "se clasifican como",
+    "valor": "medida de calidad"
+  },
+  {
+    "entidad": "definiciones y evaluaciones de riesgo",
+    "relacion": "afectan",
+    "valor": "comparaciones entre centros quirúrgicos"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "es un indicador de",
+    "valor": "calidad en cirugía"
+  },
+  {
+    "entidad": "morbilidad",
+    "relacion": "es un indicador de",
+    "valor": "calidad en cirugía"
+  },
+  {
+    "entidad": "días de hospitalización",
+    "relacion": "es un indicador de",
+    "valor": "calidad en cirugía"
+  },
+  {
+    "entidad": "calidad de vida postoperatoria",
+    "relacion": "es un indicador de",
+    "valor": "calidad en cirugía"
+  },
+  {
+    "entidad": "costos",
+    "relacion": "es un indicador de",
+    "valor": "calidad en cirugía"
+  },
+  {
+    "entidad": "Donabedian",
+    "relacion": "analizó",
+    "valor": "calidad en cirugía"
+  },
+  {
+    "entidad": "calidad en medicina",
+    "relacion": "comprende",
+    "valor": "seguridad, oportunidad, eficiencia, efectividad, equidad y centrado en el paciente"
+  },
+  {
+    "entidad": "morbilidad quirúrgica",
+    "relacion": "es analizada para",
+    "valor": "entender elementos relacionados a la intervención quirúrgica"
+  },
+  {
+    "entidad": "complicaciones",
+    "relacion": "comportan",
+    "valor": "dolor y costos"
+  },
+  {
+    "entidad": "sistemas de clasificación de complicaciones",
+    "relacion": "se basan en",
+    "valor": "tratamiento requerido"
+  },
+  {
+    "entidad": "Clavien-Dindo",
+    "relacion": "es una clasificación de",
+    "valor": "gravedad de complicaciones"
+  },
+  {
+    "entidad": "POSSUM",
+    "relacion": "es un modelo predictivo de",
+    "valor": "morbimortalidad"
+  },
+  {
+    "entidad": "E-PASS",
+    "relacion": "es un sistema para",
+    "valor": "estimar riesgo de complicaciones y mortalidad"
+  },
+  {
+    "entidad": "American College of Surgeons",
+    "relacion": "expande",
+    "valor": "Programa de Mejoramiento de la Calidad en Cirugía"
+  },
+  {
+    "entidad": "volumen hospitalario",
+    "relacion": "afecta",
+    "valor": "resultados quirúrgicos"
+  },
+  {
+    "entidad": "volumen del cirujano",
+    "relacion": "afecta",
+    "valor": "resultados quirúrgicos"
+  },
+  {
+    "entidad": "hospitales de alto volumen",
+    "relacion": "se asocian con",
+    "valor": "menor morbimortalidad"
+  },
+  {
+    "entidad": "hospitales de bajo volumen",
+    "relacion": "se asocian con",
+    "valor": "mayor morbimortalidad"
+  },
+  {
+    "entidad": "recursos hospitalarios",
+    "relacion": "influyen en",
+    "valor": "resultados quirúrgicos"
+  },
+  {
+    "entidad": "capacidad de rescate de complicaciones",
+    "relacion": "distingue",
+    "valor": "mejores y peores hospitales"
+  },
+  {
+    "entidad": "Cáncer oral",
+    "relacion": "es un",
+    "valor": "problema de salud pública"
+  },
+  {
+    "entidad": "Cáncer oral",
+    "relacion": "corresponde a",
+    "valor": "90% carcinoma escamoso"
+  },
+  {
+    "entidad": "Cáncer oral",
+    "relacion": "tiene una incidencia mundial en 2012 de",
+    "valor": "4,0 casos nuevos por 100,000 habitantes"
+  },
+  {
+    "entidad": "Cáncer oral",
+    "relacion": "tiene una mortalidad de",
+    "valor": "1% del total de cánceres en Chile"
+  },
+  {
+    "entidad": "Cáncer oral",
+    "relacion": "tiene una morbilidad de",
+    "valor": "1.6% del total de cánceres en Chile"
+  },
+  {
+    "entidad": "Factores de riesgo",
+    "relacion": "incluyen",
+    "valor": "tabaquismo y consumo de alcohol"
+  },
+  {
+    "entidad": "Cáncer oral",
+    "relacion": "se presenta con mayor frecuencia en",
+    "valor": "hombres"
+  },
+  {
+    "entidad": "Cáncer oral",
+    "relacion": "tiene una tasa de mortalidad en hombres de",
+    "valor": "2.7 por 100,000"
+  },
+  {
+    "entidad": "Cáncer oral",
+    "relacion": "tiene una tasa de mortalidad en mujeres de",
+    "valor": "1.2 por 100,000"
+  },
+  {
+    "entidad": "Cáncer oral",
+    "relacion": "tiene una sobrevida a 5 años de",
+    "valor": "56.9%"
+  },
+  {
+    "entidad": "Cáncer oral",
+    "relacion": "tiene una sobrevida a 10 años de",
+    "valor": "46.3%"
+  },
+  {
+    "entidad": "Cáncer oral",
+    "relacion": "es más frecuente en el grupo etario de",
+    "valor": "55-64 años en hombres"
+  },
+  {
+    "entidad": "Cáncer oral",
+    "relacion": "es más frecuente en el grupo etario de",
+    "valor": "65-74 años en mujeres"
+  },
+  {
+    "entidad": "Cáncer oral",
+    "relacion": "se diagnostica en estadios tardíos en alrededor del",
+    "valor": "60% de los casos"
+  },
+  {
+    "entidad": "Cáncer oral",
+    "relacion": "es el quinto cáncer más frecuente en",
+    "valor": "hombres en Brasil"
+  },
+  {
+    "entidad": "Cáncer oral",
+    "relacion": "tiene una incidencia en Chile de",
+    "valor": "3.2 casos nuevos por 100,000 hombres"
+  },
+  {
+    "entidad": "Cáncer oral",
+    "relacion": "tiene una incidencia en Chile de",
+    "valor": "1.2 casos nuevos por 100,000 mujeres"
+  },
+  {
+    "entidad": "Programa Nacional del Cáncer",
+    "relacion": "no cuenta con",
+    "valor": "un programa específico para el cáncer oral"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud 2009-2010",
+    "relacion": "muestra que",
+    "valor": "40.5% de la población chilena es fumadora"
+  },
+  {
+    "entidad": "Cáncer oral",
+    "relacion": "se asocia con",
+    "valor": "aumento en la tasa de mortalidad por tabaquismo y alcohol"
+  },
+  {
+    "entidad": "Cáncer oral",
+    "relacion": "requiere",
+    "valor": "medidas de políticas públicas para prevención y tratamiento"
+  },
+  {
+    "entidad": "Instituto de Ciencias Biomédicas",
+    "relacion": "pertenece a",
+    "valor": "Facultad de Medicina, Universidad de Chile"
+  },
+  {
+    "entidad": "Instituto Nacional del Tórax",
+    "relacion": "localizado en",
+    "valor": "Santiago, Chile"
+  },
+  {
+    "entidad": "Contractilidad ventricular",
+    "relacion": "es el resultado de",
+    "valor": "contractilidad miocárdica"
+  },
+  {
+    "entidad": "Contractilidad ventricular",
+    "relacion": "determina",
+    "valor": "volumen de eyección ventricular"
+  },
+  {
+    "entidad": "Volumen de eyección",
+    "relacion": "es modulado por",
+    "valor": "precarga y postcarga"
+  },
+  {
+    "entidad": "Disminución de contractilidad",
+    "relacion": "puede ser enmascarada por",
+    "valor": "cambios en precarga o postcarga"
+  },
+  {
+    "entidad": "Método no invasivo",
+    "relacion": "desarrollar para",
+    "valor": "medir contractilidad en práctica clínica"
+  },
+  {
+    "entidad": "Bucle de presión-volumen ventricular",
+    "relacion": "mide",
+    "valor": "variables hemodinámicas del ciclo cardíaco"
+  },
+  {
+    "entidad": "Contractilidad",
+    "relacion": "es regulada por",
+    "valor": "actividad b adrenérgica y sustancias inotrópicas"
+  },
+  {
+    "entidad": "Precarga ventricular",
+    "relacion": "es evaluada por",
+    "valor": "volumen ventricular de fin de diástole"
+  },
+  {
+    "entidad": "Postcarga ventricular",
+    "relacion": "aumenta en casos de",
+    "valor": "estenosis aórtica y hipertensión arterial"
+  },
+  {
+    "entidad": "Emax",
+    "relacion": "representa",
+    "valor": "contractilidad por construcción"
+  },
+  {
+    "entidad": "Isoproterenol",
+    "relacion": "aumenta",
+    "valor": "Emax"
+  },
+  {
+    "entidad": "Carvedilol",
+    "relacion": "mejora",
+    "valor": "contractilidad en insuficiencia cardiaca"
+  },
+  {
+    "entidad": "Mitra Clip",
+    "relacion": "corrige",
+    "valor": "insuficiencia mitral"
+  },
+  {
+    "entidad": "Bucle P-V ventricular",
+    "relacion": "es el método más eficiente para",
+    "valor": "estimar contractilidad en animales"
+  },
+  {
+    "entidad": "Elastancia arterial efectiva",
+    "relacion": "es un índice de",
+    "valor": "postcarga"
+  },
+  {
+    "entidad": "Ea/Efs",
+    "relacion": "indica",
+    "valor": "acoplamiento ventrículo-arterial"
+  }
+]

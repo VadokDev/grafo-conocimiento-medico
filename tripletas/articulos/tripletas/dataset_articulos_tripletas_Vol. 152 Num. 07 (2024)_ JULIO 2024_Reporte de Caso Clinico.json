@@ -1,0 +1,172 @@
+[
+  {
+    "entidad": "Ectima gangrenosa",
+    "relacion": "causado por",
+    "valor": "Klebsiella pneumoniae"
+  },
+  {
+    "entidad": "Klebsiella pneumoniae",
+    "relacion": "confirmado por",
+    "valor": "hemocultivos y cultivo de tejidos"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "tiene",
+    "valor": "64 años"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "múltiples comorbilidades"
+  },
+  {
+    "entidad": "comorbilidades",
+    "relacion": "incluyen",
+    "valor": "diabetes mellitus tipo 2, hipertensión arterial crónica, enfermedad renal crónica en hemodiálisis"
+  },
+  {
+    "entidad": "Klebsiella pneumoniae",
+    "relacion": "asociado a",
+    "valor": "consecuencias devastadoras"
+  },
+  {
+    "entidad": "amputación",
+    "relacion": "resultado de",
+    "valor": "ectima gangrenosa"
+  },
+  {
+    "entidad": "Ectima gangrenosa",
+    "relacion": "afecta a",
+    "valor": "individuos inmunocomprometidos"
+  },
+  {
+    "entidad": "Klebsiella pneumoniae",
+    "relacion": "es un",
+    "valor": "agente poco común para ectima gangrenosa"
+  },
+  {
+    "entidad": "diagnóstico",
+    "relacion": "requiere",
+    "valor": "reconocimiento temprano y manejo adecuado"
+  },
+  {
+    "entidad": "tratamiento",
+    "relacion": "incluye",
+    "valor": "antibióticos y manejo quirúrgico"
+  },
+  {
+    "entidad": "Ectima gangrenosa",
+    "relacion": "puede desarrollarse a través de",
+    "valor": "siembra hematógena o inoculación directa"
+  },
+  {
+    "entidad": "lesiones",
+    "relacion": "aparecen como",
+    "valor": "pápula eritematosa o ampolla hemorrágica"
+  },
+  {
+    "entidad": "biopsia excisional o biopsia por punción",
+    "relacion": "se utiliza para",
+    "valor": "confirmar diagnóstico"
+  },
+  {
+    "entidad": "Klebsiella pneumoniae",
+    "relacion": "es sensible a",
+    "valor": "Amikacina, Imipenem, Meropenem y Ertapenem"
+  },
+  {
+    "entidad": "manejo de ectima gangrenosa",
+    "relacion": "requiere",
+    "valor": "enfoque de equipo interdisciplinario"
+  },
+  {
+    "entidad": "Infarto agudo al miocardio",
+    "relacion": "es una presentación de",
+    "valor": "arteritis de Takayasu"
+  },
+  {
+    "entidad": "arteritis de Takayasu",
+    "relacion": "asocia con",
+    "valor": "colitis ulcerosa"
+  },
+  {
+    "entidad": "mujer de 36 años",
+    "relacion": "presenta",
+    "valor": "dolor precordial progresivo"
+  },
+  {
+    "entidad": "electrocardiograma",
+    "relacion": "muestra",
+    "valor": "supradesnivel del segmento ST"
+  },
+  {
+    "entidad": "coronariografía",
+    "relacion": "revela",
+    "valor": "enfermedad severa de dos vasos coronarios"
+  },
+  {
+    "entidad": "angioplastia primaria",
+    "relacion": "realizada en",
+    "valor": "vaso culpable"
+  },
+  {
+    "entidad": "aortitis",
+    "relacion": "sospechada en",
+    "valor": "estudios adicionales"
+  },
+  {
+    "entidad": "angiotomografía computada",
+    "relacion": "muestra",
+    "valor": "engrosamiento fibrótico periaórtico"
+  },
+  {
+    "entidad": "vasculitis de Takayasu",
+    "relacion": "sugerida por",
+    "valor": "hallazgos de imagen"
+  },
+  {
+    "entidad": "prednisona",
+    "relacion": "usada como tratamiento para",
+    "valor": "arteritis de Takayasu"
+  },
+  {
+    "entidad": "metotrexato",
+    "relacion": "usado como tratamiento para",
+    "valor": "arteritis de Takayasu"
+  },
+  {
+    "entidad": "cirugía de revascularización miocárdica",
+    "relacion": "realizada con",
+    "valor": "buenos resultados"
+  },
+  {
+    "entidad": "colitis ulcerosa",
+    "relacion": "es tratada con",
+    "valor": "Sulfazalasina, Fumarato ferroso y Prednisona"
+  },
+  {
+    "entidad": "Takayasu arteritis",
+    "relacion": "es una",
+    "valor": "vasculitis de vaso grande"
+  },
+  {
+    "entidad": "mujeres jóvenes",
+    "relacion": "son más comúnmente diagnosticadas con",
+    "valor": "arteritis de Takayasu"
+  },
+  {
+    "entidad": "complicaciones del daño vascular",
+    "relacion": "pueden causar",
+    "valor": "morbilidad significativa"
+  },
+  {
+    "entidad": "corticoides",
+    "relacion": "recomendados para",
+    "valor": "tratamiento inicial de Takayasu"
+  },
+  {
+    "entidad": "Tocilizumab",
+    "relacion": "es usado en",
+    "valor": "pacientes con enfermedad refractaria"
+  }
+]

@@ -1,0 +1,852 @@
+[
+  {
+    "entidad": "fitness cardiorrespiratorio",
+    "relacion": "asocia",
+    "valor": "marcadores de adiposidad corporal"
+  },
+  {
+    "entidad": "fitness cardiorrespiratorio",
+    "relacion": "afecta",
+    "valor": "riesgo de enfermedades cardiometabólicas"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud Chile 2016-2017",
+    "relacion": "proporciona",
+    "valor": "datos sobre salud de la población"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "incrementa",
+    "valor": "fitness cardiorrespiratorio"
+  },
+  {
+    "entidad": "fitness cardiorrespiratorio",
+    "relacion": "predice",
+    "valor": "salud cardiometabólica"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen",
+    "valor": "menor probabilidad de obesidad con mayor fitness cardiorrespiratorio"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "tienen",
+    "valor": "menor probabilidad de obesidad con mayor fitness cardiorrespiratorio"
+  },
+  {
+    "entidad": "fitness cardiorrespiratorio",
+    "relacion": "se mide mediante",
+    "valor": "ecuaciones basadas en características sociodemográficas"
+  },
+  {
+    "entidad": "Comité de Ética de la Escuela de Medicina de la Pontificia Universidad Católica de Chile",
+    "relacion": "aprueba",
+    "valor": "protocolo de investigación"
+  },
+  {
+    "entidad": "Universidad Católica del Maule",
+    "relacion": "es un",
+    "valor": "centro de investigación"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "participa en",
+    "valor": "Encuesta Nacional de Salud"
+  },
+  {
+    "entidad": "fitness cardiorrespiratorio",
+    "relacion": "se estima a través de",
+    "valor": "ecuaciones que incluyen datos sociodemográficos y de salud"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "se define como",
+    "valor": "índice de masa corporal ≥ 30 kg/m2"
+  },
+  {
+    "entidad": "obesidad central",
+    "relacion": "se define como",
+    "valor": "perímetro de cintura ≥ 88 cm en mujeres y ≥ 102 cm en hombres"
+  },
+  {
+    "entidad": "fumar",
+    "relacion": "afecta",
+    "valor": "niveles de fitness cardiorrespiratorio"
+  },
+  {
+    "entidad": "sedentarismo",
+    "relacion": "afecta",
+    "valor": "niveles de fitness cardiorrespiratorio"
+  },
+  {
+    "entidad": "políticas de salud pública",
+    "relacion": "deben promover",
+    "valor": "aumento de la actividad física"
+  },
+  {
+    "entidad": "fitness cardiorrespiratorio",
+    "relacion": "se relaciona inversamente con",
+    "valor": "perímetro de cadera"
+  },
+  {
+    "entidad": "fitness cardiorrespiratorio",
+    "relacion": "se relaciona inversamente con",
+    "valor": "índice de adiposidad"
+  },
+  {
+    "entidad": "Cáncer de vesícula biliar",
+    "relacion": "varía",
+    "valor": "según factores geográficos y étnicos"
+  },
+  {
+    "entidad": "Etnia Mapuche",
+    "relacion": "destaca",
+    "valor": "alta prevalencia de cáncer de vesícula biliar"
+  },
+  {
+    "entidad": "Región de Tarapacá",
+    "relacion": "es",
+    "valor": "lugar de estudio del cáncer de vesícula biliar"
+  },
+  {
+    "entidad": "Hospital Dr. Ernesto Torres Galdames",
+    "relacion": "realiza",
+    "valor": "colecistectomías"
+  },
+  {
+    "entidad": "Corporación Nacional de Desarrollo Indígena (CONADI)",
+    "relacion": "acredita",
+    "valor": "pertenencia étnica"
+  },
+  {
+    "entidad": "Población Aymara",
+    "relacion": "presenta",
+    "valor": "alta prevalencia de colecistolitiasis"
+  },
+  {
+    "entidad": "Población Mapuche",
+    "relacion": "no presenta",
+    "valor": "casos de cáncer de vesícula biliar"
+  },
+  {
+    "entidad": "Cáncer de vesícula biliar",
+    "relacion": "se asocia",
+    "valor": "a inflamación crónica"
+  },
+  {
+    "entidad": "Arsénico",
+    "relacion": "se clasifica como",
+    "valor": "carcinógeno humano"
+  },
+  {
+    "entidad": "Cáncer de vesícula biliar",
+    "relacion": "se desarrolla",
+    "valor": "en el contexto de inflamación crónica"
+  },
+  {
+    "entidad": "Poblaciones amerindias",
+    "relacion": "presentan",
+    "valor": "prevalencias similares de colecistolitiasis"
+  },
+  {
+    "entidad": "Cáncer de vesícula biliar",
+    "relacion": "tiene",
+    "valor": "baja tasa de prevalencia en la población del norte de Chile"
+  },
+  {
+    "entidad": "Factores ambientales",
+    "relacion": "deben explicar",
+    "valor": "diferencias en prevalencia de cáncer de vesícula biliar"
+  },
+  {
+    "entidad": "Estudio epidemiológico",
+    "relacion": "compara",
+    "valor": "tasas de mortalidad de cáncer gástrico en diferentes poblaciones"
+  },
+  {
+    "entidad": "Cáncer de vesícula biliar",
+    "relacion": "se asocia",
+    "valor": "a la presencia de cálculos de colesterol"
+  },
+  {
+    "entidad": "SARS-CoV-2",
+    "relacion": "afecta a",
+    "valor": "todas las edades"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "es mayor en",
+    "valor": "personas mayores"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "es mayor en",
+    "valor": "hombres"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "es mayor en",
+    "valor": "personas con comorbilidades"
+  },
+  {
+    "entidad": "comorbilidades",
+    "relacion": "incluyen",
+    "valor": "hipertensión arterial"
+  },
+  {
+    "entidad": "comorbilidades",
+    "relacion": "incluyen",
+    "valor": "diabetes mellitus"
+  },
+  {
+    "entidad": "comorbilidades",
+    "relacion": "incluyen",
+    "valor": "obesidad"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "describe",
+    "valor": "características clínicas y factores pronósticos"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "son hospitalizados por",
+    "valor": "COVID-19"
+  },
+  {
+    "entidad": "Unidad Geriátrica de Agudos",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "análisis retrospectivo",
+    "relacion": "se realiza en",
+    "valor": "pacientes mayores de 60 años"
+  },
+  {
+    "entidad": "diagnóstico de COVID-19",
+    "relacion": "se realiza mediante",
+    "valor": "PCR o tomografía computada"
+  },
+  {
+    "entidad": "mortalidad intrahospitalaria",
+    "relacion": "es",
+    "valor": "26,6%"
+  },
+  {
+    "entidad": "hipertensión arterial",
+    "relacion": "predice",
+    "valor": "mortalidad"
+  },
+  {
+    "entidad": "institucionalización previa",
+    "relacion": "predice",
+    "valor": "mortalidad"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "deja de ser",
+    "valor": "un predictor significativo al incluir otras variables"
+  },
+  {
+    "entidad": "delirium",
+    "relacion": "se presenta en",
+    "valor": "46,1% de los pacientes"
+  },
+  {
+    "entidad": "kinesiterapia",
+    "relacion": "es requerida por",
+    "valor": "100% de los pacientes"
+  },
+  {
+    "entidad": "funcionalidad",
+    "relacion": "es evaluada en",
+    "valor": "actividades básicas e instrumentales de la vida diaria"
+  },
+  {
+    "entidad": "nutrición",
+    "relacion": "se evalúa mediante",
+    "valor": "índice de masa corporal"
+  },
+  {
+    "entidad": "escala Confusion Assessment Method (CAM)",
+    "relacion": "se utiliza para evaluar",
+    "valor": "delirium"
+  },
+  {
+    "entidad": "Comité de Ética de Ciencias de la Salud UC",
+    "relacion": "aprueba",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "Cecilia Carvacho",
+    "relacion": "es",
+    "valor": "autora del estudio"
+  },
+  {
+    "entidad": "René Medina",
+    "relacion": "es",
+    "valor": "coautor del estudio"
+  },
+  {
+    "entidad": "Clínica San Carlos",
+    "relacion": "es un",
+    "valor": "centro de salud"
+  },
+  {
+    "entidad": "Red de Salud UC-Christus",
+    "relacion": "es parte de",
+    "valor": "la atención de salud en Chile"
+  },
+  {
+    "entidad": "Enfermedad coronaria",
+    "relacion": "es tratada por",
+    "valor": "cirugía coronaria"
+  },
+  {
+    "entidad": "cirugía coronaria",
+    "relacion": "es el tratamiento de elección para",
+    "valor": "pacientes con enfermedad coronaria"
+  },
+  {
+    "entidad": "Roberto González L.",
+    "relacion": "es autor de",
+    "valor": "artículo sobre cirugía coronaria"
+  },
+  {
+    "entidad": "Hospital Clínico Regional de Concepción",
+    "relacion": "realiza",
+    "valor": "cirugía coronaria"
+  },
+  {
+    "entidad": "Universidad de Concepción",
+    "relacion": "tiene un departamento de",
+    "valor": "cirugía"
+  },
+  {
+    "entidad": "chronic kidney disease in hemodialysis",
+    "relacion": "asocia con",
+    "valor": "menor supervivencia a 10 años"
+  },
+  {
+    "entidad": "chronic obstructive pulmonary disease",
+    "relacion": "asocia con",
+    "valor": "menor supervivencia a 10 años"
+  },
+  {
+    "entidad": "chronic arterial occlusive disease",
+    "relacion": "asocia con",
+    "valor": "menor supervivencia a 10 años"
+  },
+  {
+    "entidad": "diabetes mellitus",
+    "relacion": "asocia con",
+    "valor": "menor supervivencia a 10 años"
+  },
+  {
+    "entidad": "EuroSCORE",
+    "relacion": "predice",
+    "valor": "supervivencia a 10 años"
+  },
+  {
+    "entidad": "supervivencia a 10 años",
+    "relacion": "es comparable a",
+    "valor": "series internacionales"
+  },
+  {
+    "entidad": "disfunción ventricular",
+    "relacion": "es un factor independiente de",
+    "valor": "mortalidad postoperatoria"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "aumenta",
+    "valor": "riesgo cardiovascular"
+  },
+  {
+    "entidad": "hipertensión arterial",
+    "relacion": "no demuestra ser",
+    "valor": "factor independiente de mortalidad"
+  },
+  {
+    "entidad": "dislipidemia",
+    "relacion": "no demuestra ser",
+    "valor": "factor independiente de mortalidad"
+  },
+  {
+    "entidad": "supervivencia global",
+    "relacion": "observada a",
+    "valor": "10 años"
+  },
+  {
+    "entidad": "mortalidad cardiovascular",
+    "relacion": "se define como",
+    "valor": "muerte no cardiovascular"
+  },
+  {
+    "entidad": "factores preoperatorios",
+    "relacion": "asociados a",
+    "valor": "mortalidad y morbilidad"
+  },
+  {
+    "entidad": "análisis de supervivencia",
+    "relacion": "se realiza con",
+    "valor": "método Kaplan-Meier"
+  },
+  {
+    "entidad": "comorbilidades",
+    "relacion": "son factores asociados a",
+    "valor": "supervivencia alejada"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen",
+    "valor": "menor representación en publicaciones científicas"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "tienen",
+    "valor": "mayor proporción como autores en publicaciones científicas"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "es",
+    "valor": "uno de los países con alta brecha de género"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "es",
+    "valor": "una institución académica"
+  },
+  {
+    "entidad": "OCDE",
+    "relacion": "reporta",
+    "valor": "mayor proporción de hombres en ciencias e ingenierías"
+  },
+  {
+    "entidad": "artículos científicos",
+    "relacion": "fueron analizados",
+    "valor": "1,643 entre 2015 y 2020"
+  },
+  {
+    "entidad": "revistas médicas de Chile",
+    "relacion": "son",
+    "valor": "fuente de publicaciones científicas"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "son",
+    "valor": "subrepresentadas en puestos de liderazgo académico"
+  },
+  {
+    "entidad": "primer autor",
+    "relacion": "es",
+    "valor": "quien hace la mayor contribución a un artículo"
+  },
+  {
+    "entidad": "último autor",
+    "relacion": "cumple",
+    "valor": "la función de mentor en un artículo"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "representan",
+    "valor": "43% en programas de doctorado"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "ocupan",
+    "valor": "31% de puestos de trabajo con grado doctoral en universidades"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "son",
+    "valor": "18% de presidentas de facultades de medicina en EEUU"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen",
+    "valor": "menor proporción en artículos de alto impacto"
+  },
+  {
+    "entidad": "revista Médica de Chile",
+    "relacion": "tiene",
+    "valor": "mayor proporción de hombres como primer autor"
+  },
+  {
+    "entidad": "revista de Infectología",
+    "relacion": "tiene",
+    "valor": "mayor proporción de mujeres como primer autor"
+  },
+  {
+    "entidad": "ASOCIMED",
+    "relacion": "tiene",
+    "valor": "10 de 29 sociedades científicas médicas presididas por mujeres"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "han ganado",
+    "valor": "más espacios en ámbitos académicos"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "son",
+    "valor": "subrepresentadas en publicaciones científicas"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "deben lograr",
+    "valor": "equidad en publicaciones científicas"
+  },
+  {
+    "entidad": "Hospital Barros Luco Trudeau",
+    "relacion": "es un",
+    "valor": "hospital público en Chile"
+  },
+  {
+    "entidad": "trombectomía mecánica",
+    "relacion": "es un",
+    "valor": "tratamiento para infarto cerebral"
+  },
+  {
+    "entidad": "infarto cerebral",
+    "relacion": "es un",
+    "valor": "tipo de accidente cerebrovascular"
+  },
+  {
+    "entidad": "Servicio de Salud Metropolitano Sur",
+    "relacion": "es un",
+    "valor": "centro de referencia"
+  },
+  {
+    "entidad": "trombectomía mecánica",
+    "relacion": "se implementó en",
+    "valor": "2012"
+  },
+  {
+    "entidad": "trombectomía mecánica",
+    "relacion": "se utiliza para",
+    "valor": "pacientes con oclusión de vaso mayor"
+  },
+  {
+    "entidad": "trombectomía mecánica",
+    "relacion": "ha mostrado",
+    "valor": "resultados clínicos favorables"
+  },
+  {
+    "entidad": "trombectomía mecánica",
+    "relacion": "se realizó en",
+    "valor": "149 pacientes"
+  },
+  {
+    "entidad": "Hospital Barros Luco Trudeau",
+    "relacion": "desarrolló",
+    "valor": "trombólisis endovenosa en 2010"
+  },
+  {
+    "entidad": "trombólisis endovenosa",
+    "relacion": "es un",
+    "valor": "tratamiento para infarto cerebral"
+  },
+  {
+    "entidad": "ACVi",
+    "relacion": "es un",
+    "valor": "acronimo para accidente cerebrovascular isquémico"
+  },
+  {
+    "entidad": "NIHSS",
+    "relacion": "es un",
+    "valor": "escala para medir la severidad del accidente cerebrovascular"
+  },
+  {
+    "entidad": "trombectomía mecánica",
+    "relacion": "se considera",
+    "valor": "terapia estándar en el manejo de ACVi"
+  },
+  {
+    "entidad": "trombectomía mecánica",
+    "relacion": "se realizó en",
+    "valor": "pacientes con mal pronóstico"
+  },
+  {
+    "entidad": "trombectomía mecánica",
+    "relacion": "se realizó en",
+    "valor": "pacientes con alta puntuación en NIHSS"
+  },
+  {
+    "entidad": "trombectomía mecánica",
+    "relacion": "se asocia con",
+    "valor": "recuperación funcional exitosa"
+  },
+  {
+    "entidad": "trombectomía mecánica",
+    "relacion": "se realizó en",
+    "valor": "pacientes con LVO"
+  },
+  {
+    "entidad": "trombectomía mecánica",
+    "relacion": "se realizó entre",
+    "valor": "2012 y 2019"
+  },
+  {
+    "entidad": "trombectomía mecánica",
+    "relacion": "se realizó en",
+    "valor": "hospital público"
+  },
+  {
+    "entidad": "trombectomía mecánica",
+    "relacion": "se considera",
+    "valor": "alternativa excepcional"
+  },
+  {
+    "entidad": "trombectomía mecánica",
+    "relacion": "se realizó en",
+    "valor": "pacientes con oclusión de vaso mayor"
+  },
+  {
+    "entidad": "trombectomía mecánica",
+    "relacion": "se realizó en",
+    "valor": "pacientes con síntomas de menos de 6 horas"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "es",
+    "valor": "enfermedad"
+  },
+  {
+    "entidad": "SARS-CoV-2",
+    "relacion": "causa",
+    "valor": "COVID-19"
+  },
+  {
+    "entidad": "lavado de manos",
+    "relacion": "es una",
+    "valor": "conducta preventiva"
+  },
+  {
+    "entidad": "aislamiento físico",
+    "relacion": "es una",
+    "valor": "conducta preventiva"
+  },
+  {
+    "entidad": "percepción de riesgo",
+    "relacion": "influye en",
+    "valor": "conductas preventivas"
+  },
+  {
+    "entidad": "eficacia preventiva",
+    "relacion": "influye en",
+    "valor": "conductas preventivas"
+  },
+  {
+    "entidad": "factores sociodemográficos",
+    "relacion": "influye en",
+    "valor": "conductas preventivas"
+  },
+  {
+    "entidad": "adultos chilenos",
+    "relacion": "son",
+    "valor": "población objetivo del estudio"
+  },
+  {
+    "entidad": "Universidad de La Serena",
+    "relacion": "es",
+    "valor": "institución de investigación"
+  },
+  {
+    "entidad": "Susan Galdames",
+    "relacion": "es",
+    "valor": "autora del estudio"
+  },
+  {
+    "entidad": "Thania Santos Pizarro",
+    "relacion": "es",
+    "valor": "autora del estudio"
+  },
+  {
+    "entidad": "Pedro Prado Trigo",
+    "relacion": "es",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "Allison Castillo Bruna",
+    "relacion": "es",
+    "valor": "autora del estudio"
+  },
+  {
+    "entidad": "Valentina Rodríguez Aliaga",
+    "relacion": "es",
+    "valor": "autora del estudio"
+  },
+  {
+    "entidad": "Victoria Galleguillos Araya",
+    "relacion": "es",
+    "valor": "autora del estudio"
+  },
+  {
+    "entidad": "WHO",
+    "relacion": "sugiere",
+    "valor": "factores psicosociales que influyen en la respuesta a la pandemia"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "es un",
+    "valor": "factor predictivo de adherencia a conductas preventivas"
+  },
+  {
+    "entidad": "sexo",
+    "relacion": "es un",
+    "valor": "factor predictivo de adherencia a conductas preventivas"
+  },
+  {
+    "entidad": "percepción de riesgo (componente afectivo)",
+    "relacion": "es un",
+    "valor": "factor predictivo de adherencia a conductas preventivas"
+  },
+  {
+    "entidad": "percepción de eficacia preventiva",
+    "relacion": "es un",
+    "valor": "factor predictivo de adherencia a conductas preventivas"
+  },
+  {
+    "entidad": "enfermedad crónica",
+    "relacion": "aumenta",
+    "valor": "adherencia al lavado de manos"
+  },
+  {
+    "entidad": "comuna en cuarentena",
+    "relacion": "asocia a",
+    "valor": "mayor adherencia a conductas preventivas"
+  },
+  {
+    "entidad": "adultez emergente",
+    "relacion": "describe",
+    "valor": "periodo evolutivo entre 18 y 29 años"
+  },
+  {
+    "entidad": "percepción de riesgo de contagio",
+    "relacion": "varía según",
+    "valor": "conocimiento y experiencias personales"
+  },
+  {
+    "entidad": "conductas preventivas",
+    "relacion": "son",
+    "valor": "asociadas a factores psicosociales"
+  },
+  {
+    "entidad": "cuidadores formales",
+    "relacion": "experimentan",
+    "valor": "estrés durante la pandemia por COVID-19"
+  },
+  {
+    "entidad": "cuidadores formales",
+    "relacion": "presentan",
+    "valor": "ansiedad durante la pandemia por COVID-19"
+  },
+  {
+    "entidad": "resiliencia",
+    "relacion": "se asocia con",
+    "valor": "menor ansiedad"
+  },
+  {
+    "entidad": "resiliencia",
+    "relacion": "se asocia con",
+    "valor": "menor estrés"
+  },
+  {
+    "entidad": "cuidadores formales",
+    "relacion": "muestran",
+    "valor": "menor adaptabilidad a cambios"
+  },
+  {
+    "entidad": "cuidadores formales",
+    "relacion": "son",
+    "valor": "mayormente mujeres"
+  },
+  {
+    "entidad": "estrés",
+    "relacion": "es influenciado por",
+    "valor": "características personales y apoyo social"
+  },
+  {
+    "entidad": "estrés",
+    "relacion": "puede desencadenar",
+    "valor": "ansiedad y depresión"
+  },
+  {
+    "entidad": "cuidadores formales",
+    "relacion": "utilizan",
+    "valor": "estrategias de afrontamiento"
+  },
+  {
+    "entidad": "estrategias de afrontamiento",
+    "relacion": "incluyen",
+    "valor": "capacitación y apoyo entre pares"
+  },
+  {
+    "entidad": "resiliencia",
+    "relacion": "se mide a través de",
+    "valor": "escala SV-RES"
+  },
+  {
+    "entidad": "DASS-21",
+    "relacion": "evalúa",
+    "valor": "ansiedad y depresión"
+  },
+  {
+    "entidad": "cuidadores formales",
+    "relacion": "trabajan en",
+    "valor": "establecimientos de larga estadía"
+  },
+  {
+    "entidad": "pandemia por COVID-19",
+    "relacion": "afecta a",
+    "valor": "personas mayores en ELEAM"
+  },
+  {
+    "entidad": "cuidadores formales",
+    "relacion": "tienen",
+    "valor": "responsabilidades laborales y no remuneradas"
+  },
+  {
+    "entidad": "cuidadores formales",
+    "relacion": "presentan",
+    "valor": "mayor riesgo de depresión"
+  },
+  {
+    "entidad": "cuidadores formales",
+    "relacion": "deben asumir",
+    "valor": "roles frente a residentes demandantes"
+  },
+  {
+    "entidad": "resiliencia",
+    "relacion": "se relaciona con",
+    "valor": "mayor edad y menor número de horas de trabajo semanal"
+  },
+  {
+    "entidad": "cuidadores formales",
+    "relacion": "reportan",
+    "valor": "satisfacción con su autopercepción del sueño"
+  },
+  {
+    "entidad": "cuidadores formales",
+    "relacion": "presentan",
+    "valor": "diferencias significativas en la escala de resiliencia"
+  },
+  {
+    "entidad": "cuidadores formales",
+    "relacion": "son",
+    "valor": "parte del personal de salud"
+  },
+  {
+    "entidad": "cuidadores formales",
+    "relacion": "se ven afectados por",
+    "valor": "la incertidumbre laboral y económica"
+  },
+  {
+    "entidad": "cuidadores formales",
+    "relacion": "deben enfrentar",
+    "valor": "miedo a contagiarse"
+  }
+]

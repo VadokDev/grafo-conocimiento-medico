@@ -1,0 +1,812 @@
+[
+  {
+    "entidad": "hemodiálisis",
+    "relacion": "es un",
+    "valor": "tratamiento para enfermedad renal crónica terminal"
+  },
+  {
+    "entidad": "enfermedad renal crónica (ERC)",
+    "relacion": "causa",
+    "valor": "mortalidad elevada"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "inician",
+    "valor": "hemodiálisis en Chile"
+  },
+  {
+    "entidad": "FONASA",
+    "relacion": "es un",
+    "valor": "sistema de salud pública en Chile"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "suministra",
+    "valor": "información sobre pacientes"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "afecta",
+    "valor": "sobrevida en pacientes en hemodiálisis"
+  },
+  {
+    "entidad": "diabetes mellitus (DM)",
+    "relacion": "asocia",
+    "valor": "menor sobrevida en pacientes en hemodiálisis"
+  },
+  {
+    "entidad": "hipertensión arterial (HTA)",
+    "relacion": "es un",
+    "valor": "factor protector para mortalidad a 3 meses"
+  },
+  {
+    "entidad": "sobrevida",
+    "relacion": "depende de",
+    "valor": "edad y comorbilidades"
+  },
+  {
+    "entidad": "análisis multivariado",
+    "relacion": "evalúa",
+    "valor": "factores asociados a mortalidad"
+  },
+  {
+    "entidad": "pacientes mayores de 65 años",
+    "relacion": "tienen",
+    "valor": "menor sobrevida"
+  },
+  {
+    "entidad": "cobertura GES",
+    "relacion": "aplica a",
+    "valor": "pacientes en hemodiálisis"
+  },
+  {
+    "entidad": "análisis de sobrevida",
+    "relacion": "realiza en",
+    "valor": "pacientes incidentes de hemodiálisis"
+  },
+  {
+    "entidad": "región de residencia",
+    "relacion": "afecta",
+    "valor": "mortalidad en pacientes en hemodiálisis"
+  },
+  {
+    "entidad": "sobrevida a 5 años",
+    "relacion": "es",
+    "valor": "similar a la de países de altos ingresos"
+  },
+  {
+    "entidad": "comité ético-científico",
+    "relacion": "aprueba",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "análisis de mortalidad",
+    "relacion": "se centra en",
+    "valor": "primeros meses de hemodiálisis"
+  },
+  {
+    "entidad": "pacientes diabéticos",
+    "relacion": "tienen",
+    "valor": "menor mediana de sobrevida"
+  },
+  {
+    "entidad": "cobertura de salud",
+    "relacion": "debe incluir",
+    "valor": "evaluación integral del paciente"
+  },
+  {
+    "entidad": "envejecimiento",
+    "relacion": "causa",
+    "valor": "involución de índices antropométricos y de salud"
+  },
+  {
+    "entidad": "índices antropométricos",
+    "relacion": "afectan",
+    "valor": "condición física de mujeres mayores"
+  },
+  {
+    "entidad": "mujeres mayores",
+    "relacion": "tienen",
+    "valor": "incidencia alta de dislipidemia y diabetes tipo II"
+  },
+  {
+    "entidad": "dislipidemia",
+    "relacion": "es un",
+    "valor": "factor de riesgo para enfermedades metabólicas"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "influye en",
+    "valor": "capacidad aeróbica"
+  },
+  {
+    "entidad": "índice de masa corporal (IMC)",
+    "relacion": "es un",
+    "valor": "índice antropométrico"
+  },
+  {
+    "entidad": "lípidos séricos",
+    "relacion": "son predictores de",
+    "valor": "pruebas de capacidad física"
+  },
+  {
+    "entidad": "glucosa en ayunas",
+    "relacion": "es un",
+    "valor": "parámetro de salud"
+  },
+  {
+    "entidad": "Senior Fitness Test",
+    "relacion": "evalúa",
+    "valor": "condición física"
+  },
+  {
+    "entidad": "cholesterol HDL",
+    "relacion": "es un",
+    "valor": "predictor de rendimiento físico"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "afecta",
+    "valor": "flexibilidad y equilibrio"
+  },
+  {
+    "entidad": "sarcopenia",
+    "relacion": "es un",
+    "valor": "fenómeno asociado al envejecimiento"
+  },
+  {
+    "entidad": "adiposidad abdominal",
+    "relacion": "aumenta",
+    "valor": "riesgo de enfermedades metabólicas"
+  },
+  {
+    "entidad": "mujeres mayores",
+    "relacion": "presentan",
+    "valor": "pérdida de fuerza muscular"
+  },
+  {
+    "entidad": "nivel de actividad física",
+    "relacion": "se mide con",
+    "valor": "International Physical Activity Questionnaire"
+  },
+  {
+    "entidad": "índices de salud",
+    "relacion": "modifican",
+    "valor": "condición física de ancianos"
+  },
+  {
+    "entidad": "composición corporal",
+    "relacion": "se cuantifica mediante",
+    "valor": "índices antropométricos"
+  },
+  {
+    "entidad": "mujeres mayores",
+    "relacion": "son evaluadas en",
+    "valor": "centros comunitarios"
+  },
+  {
+    "entidad": "comportamientos saludables",
+    "relacion": "se asocian con",
+    "valor": "menor riesgo cardiovascular"
+  },
+  {
+    "entidad": "sobrevivientes de tortura",
+    "relacion": "presentan",
+    "valor": "mayores tasas de morbilidad y mortalidad"
+  },
+  {
+    "entidad": "dictadura cívico-militar chilena",
+    "relacion": "ocurrió entre",
+    "valor": "1973 y 1990"
+  },
+  {
+    "entidad": "Comisión Nacional sobre Prisión Política y Tortura (CNPPT)",
+    "relacion": "reconoció",
+    "valor": "38,254 víctimas"
+  },
+  {
+    "entidad": "CNPPT",
+    "relacion": "describió",
+    "valor": "métodos de tortura"
+  },
+  {
+    "entidad": "métodos de tortura",
+    "relacion": "incluyen",
+    "valor": "dislocación de articulaciones, aplicación de electricidad, violencia sexual"
+  },
+  {
+    "entidad": "Estado de Chile",
+    "relacion": "reconoció",
+    "valor": "38,254 personas como víctimas"
+  },
+  {
+    "entidad": "causas de muerte",
+    "relacion": "fueron",
+    "valor": "tumores malignos, enfermedades cardiovasculares, enfermedades respiratorias, enfermedades digestivas, causas externas"
+  },
+  {
+    "entidad": "tumores malignos",
+    "relacion": "son",
+    "valor": "la principal causa de muerte"
+  },
+  {
+    "entidad": "enfermedades cardiovasculares",
+    "relacion": "son",
+    "valor": "la segunda causa de muerte"
+  },
+  {
+    "entidad": "enfermedades respiratorias",
+    "relacion": "son",
+    "valor": "la tercera causa de muerte"
+  },
+  {
+    "entidad": "enfermedades digestivas",
+    "relacion": "son",
+    "valor": "la cuarta causa de muerte"
+  },
+  {
+    "entidad": "causas externas",
+    "relacion": "son",
+    "valor": "la quinta causa de muerte"
+  },
+  {
+    "entidad": "Programa de Reparación en Atención Integral en Salud (PRAIS)",
+    "relacion": "debe",
+    "valor": "brindar atención en salud especializada"
+  },
+  {
+    "entidad": "estrés crónico por traumatización extrema",
+    "relacion": "afecta",
+    "valor": "el sistema inmuno-defensivo"
+  },
+  {
+    "entidad": "oportunidad de reparación",
+    "relacion": "diferencia entre",
+    "valor": "fallecidos antes y después de la Ley de Reparación"
+  },
+  {
+    "entidad": "mujeres víctimas de tortura",
+    "relacion": "experimentan",
+    "valor": "alta sensibilidad como acontecimiento traumático"
+  },
+  {
+    "entidad": "violencia sexual",
+    "relacion": "ha sido utilizada",
+    "valor": "de manera intencional contra mujeres en contextos de guerra"
+  },
+  {
+    "entidad": "CNPPT",
+    "relacion": "no incluyó",
+    "valor": "violencia sexual en testimonios"
+  },
+  {
+    "entidad": "testimonios de mujeres",
+    "relacion": "reflejan",
+    "valor": "resistencia al estigma social"
+  },
+  {
+    "entidad": "Estado de Chile",
+    "relacion": "debe",
+    "valor": "fortalecer la perspectiva intersectorial en procesos de reparación"
+  },
+  {
+    "entidad": "CNPPT",
+    "relacion": "reclama",
+    "valor": "acceso tardío a la reparación en salud"
+  },
+  {
+    "entidad": "OMS",
+    "relacion": "define",
+    "valor": "inequidades en salud"
+  },
+  {
+    "entidad": "experiencias de traumatización extrema",
+    "relacion": "provocan",
+    "valor": "secuela biopsicosocial"
+  },
+  {
+    "entidad": "PRAIS",
+    "relacion": "debe desarrollar",
+    "valor": "estrategias de prevención, diagnóstico y tratamiento"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "causa",
+    "valor": "baja calidad de vida en adultos chilenos"
+  },
+  {
+    "entidad": "cuarentena",
+    "relacion": "afecta a",
+    "valor": "calidad de vida"
+  },
+  {
+    "entidad": "género femenino",
+    "relacion": "asocia a",
+    "valor": "menor calidad de vida"
+  },
+  {
+    "entidad": "inactividad física",
+    "relacion": "aumenta",
+    "valor": "probabilidad de baja calidad de vida"
+  },
+  {
+    "entidad": "horas de sueño no saludables",
+    "relacion": "incrementa",
+    "valor": "riesgo de baja calidad de vida"
+  },
+  {
+    "entidad": "consumo de tabaco",
+    "relacion": "asocia a",
+    "valor": "menor calidad de vida"
+  },
+  {
+    "entidad": "consumo de comida chatarra",
+    "relacion": "aumenta",
+    "valor": "probabilidad de baja calidad de vida"
+  },
+  {
+    "entidad": "sedentarismo",
+    "relacion": "afecta a",
+    "valor": "calidad de vida"
+  },
+  {
+    "entidad": "SF-36",
+    "relacion": "utiliza",
+    "valor": "para evaluar calidad de vida"
+  },
+  {
+    "entidad": "Universidad Santo Tomás",
+    "relacion": "realiza",
+    "valor": "estudio sobre calidad de vida"
+  },
+  {
+    "entidad": "población chilena",
+    "relacion": "es objeto de",
+    "valor": "estudio sobre calidad de vida"
+  },
+  {
+    "entidad": "trastornos psicológicos",
+    "relacion": "son causados por",
+    "valor": "cuarentena"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "mejora",
+    "valor": "calidad de vida"
+  },
+  {
+    "entidad": "estrés y ansiedad",
+    "relacion": "aumentan por",
+    "valor": "horas de sueño no saludables"
+  },
+  {
+    "entidad": "pandemia",
+    "relacion": "impacta en",
+    "valor": "salud mental"
+  },
+  {
+    "entidad": "estilos de vida",
+    "relacion": "influyen en",
+    "valor": "calidad de vida"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen mayor riesgo de",
+    "valor": "baja calidad de vida"
+  },
+  {
+    "entidad": "comportamientos no saludables",
+    "relacion": "exacerban",
+    "valor": "percepción de calidad de vida"
+  },
+  {
+    "entidad": "Fitness cardiorrespiratorio",
+    "relacion": "es un",
+    "valor": "predictor de mortalidad y enfermedades crónicas"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud 2016-2017",
+    "relacion": "es un",
+    "valor": "estudio de prevalencia en Chile"
+  },
+  {
+    "entidad": "población chilena",
+    "relacion": "es caracterizada por",
+    "valor": "factores sociodemográficos"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "tienen niveles de",
+    "valor": "fitness cardiorrespiratorio más altos que mujeres"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "afecta",
+    "valor": "los niveles de fitness cardiorrespiratorio"
+  },
+  {
+    "entidad": "urbanos",
+    "relacion": "tienen mayores niveles de",
+    "valor": "fitness cardiorrespiratorio que rurales"
+  },
+  {
+    "entidad": "nivel educacional",
+    "relacion": "se asocia con",
+    "valor": "mayores niveles de fitness cardiorrespiratorio"
+  },
+  {
+    "entidad": "ingreso económico",
+    "relacion": "se asocia con",
+    "valor": "mayores niveles de fitness cardiorrespiratorio"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "afecta",
+    "valor": "los niveles de fitness cardiorrespiratorio"
+  },
+  {
+    "entidad": "hábito tabáquico",
+    "relacion": "se considera",
+    "valor": "en la estimación del fitness cardiorrespiratorio"
+  },
+  {
+    "entidad": "ecuaciones de predicción",
+    "relacion": "se utilizan para",
+    "valor": "estimar el fitness cardiorrespiratorio"
+  },
+  {
+    "entidad": "método directo",
+    "relacion": "se usa para",
+    "valor": "medir el consumo máximo de oxígeno"
+  },
+  {
+    "entidad": "Comité de Ética de la Escuela de Medicina de la Pontificia Universidad Católica de Chile",
+    "relacion": "aprueba",
+    "valor": "protocolos de investigación"
+  },
+  {
+    "entidad": "fitness cardiorrespiratorio",
+    "relacion": "disminuye con",
+    "valor": "el aumento de la edad"
+  },
+  {
+    "entidad": "población chilena",
+    "relacion": "se beneficia de",
+    "valor": "estimaciones de fitness de bajo costo"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "se asocia con",
+    "valor": "beneficios para la salud"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "disminuye con",
+    "valor": "aumento en los niveles de fitness cardiorrespiratorio"
+  },
+  {
+    "entidad": "isquemia crítica distal",
+    "relacion": "es un",
+    "valor": "fenómeno médico"
+  },
+  {
+    "entidad": "cirugía endovascular",
+    "relacion": "es un",
+    "valor": "tratamiento para isquemia crítica"
+  },
+  {
+    "entidad": "cirugía abierta",
+    "relacion": "es el",
+    "valor": "estándar de oro para tratamiento"
+  },
+  {
+    "entidad": "endovascular surgery",
+    "relacion": "debería tener",
+    "valor": "menos complicaciones"
+  },
+  {
+    "entidad": "pacientes con enfermedad arterial oclusiva",
+    "relacion": "padecen",
+    "valor": "isquemia crítica"
+  },
+  {
+    "entidad": "angioplastía",
+    "relacion": "es un",
+    "valor": "método de intervención"
+  },
+  {
+    "entidad": "heparina endovenosa",
+    "relacion": "se administra",
+    "valor": "en todos los casos"
+  },
+  {
+    "entidad": "angioplastía con balones de Paclitaxel",
+    "relacion": "es un",
+    "valor": "tipo de angioplastía"
+  },
+  {
+    "entidad": "angioplastía con balones simples",
+    "relacion": "es un",
+    "valor": "tipo de angioplastía"
+  },
+  {
+    "entidad": "clasificación WIfI",
+    "relacion": "evalúa",
+    "valor": "presencia de úlceras"
+  },
+  {
+    "entidad": "mortalidad perioperatoria",
+    "relacion": "es",
+    "valor": "2%"
+  },
+  {
+    "entidad": "tasa de salvataje de extremidades",
+    "relacion": "es",
+    "valor": "92%"
+  },
+  {
+    "entidad": "tasa de cierre de heridas",
+    "relacion": "es",
+    "valor": "85%"
+  },
+  {
+    "entidad": "tasa de complicaciones perioperatorias menores",
+    "relacion": "es",
+    "valor": "10%"
+  },
+  {
+    "entidad": "tasa de complicaciones perioperatorias mayores",
+    "relacion": "es",
+    "valor": "17%"
+  },
+  {
+    "entidad": "sobrevida global",
+    "relacion": "es",
+    "valor": "76% a 12 meses"
+  },
+  {
+    "entidad": "sobrevida libre de amputación",
+    "relacion": "es",
+    "valor": "69% a 2 años"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "es",
+    "valor": "institución donde se realizó el estudio"
+  },
+  {
+    "entidad": "angiografía",
+    "relacion": "se realiza",
+    "valor": "en sala de angiografía o híbrida"
+  },
+  {
+    "entidad": "revascularización",
+    "relacion": "es",
+    "valor": "conducta para disminuir riesgo de pérdida de extremidades"
+  },
+  {
+    "entidad": "experiencia del equipo quirúrgico",
+    "relacion": "afecta",
+    "valor": "resultados de revascularización"
+  },
+  {
+    "entidad": "pacientes con múltiples comorbilidades",
+    "relacion": "presentan",
+    "valor": "mayor riesgo de complicaciones"
+  },
+  {
+    "entidad": "tasa de permeabilidad",
+    "relacion": "disminuye",
+    "valor": "con conductos alternativos"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "es causada por",
+    "valor": "SARS-CoV2"
+  },
+  {
+    "entidad": "SARS-CoV2",
+    "relacion": "es un tipo de",
+    "valor": "beta-coronavirus"
+  },
+  {
+    "entidad": "Unidad de Cuidados Intensivos",
+    "relacion": "pertenece a",
+    "valor": "Complejo Asistencial Dr. Sótero del Río"
+  },
+  {
+    "entidad": "Complejo Asistencial Dr. Sótero del Río",
+    "relacion": "se encuentra en",
+    "valor": "Santiago, Chile"
+  },
+  {
+    "entidad": "Escuela de Medicina, Pontificia Universidad Católica de Chile",
+    "relacion": "es un",
+    "valor": "departamento de medicina intensiva"
+  },
+  {
+    "entidad": "Escuela de Medicina, Pontificia Universidad Católica de Chile",
+    "relacion": "es un",
+    "valor": "departamento de medicina interna"
+  },
+  {
+    "entidad": "pacientes con COVID-19",
+    "relacion": "requieren",
+    "valor": "hospitalización en UCI"
+  },
+  {
+    "entidad": "pacientes con COVID-19",
+    "relacion": "necesitan",
+    "valor": "ventilación mecánica invasiva"
+  },
+  {
+    "entidad": "estudio observacional",
+    "relacion": "fue realizado en",
+    "valor": "UCI del CASR"
+  },
+  {
+    "entidad": "protocolo del hospital",
+    "relacion": "recomienda",
+    "valor": "hidroxicloroquina, lopinavir/ritonavir y antibióticos"
+  },
+  {
+    "entidad": "corticoides",
+    "relacion": "se administran ante",
+    "valor": "elevación de PCR o LDH"
+  },
+  {
+    "entidad": "Tocilizumab",
+    "relacion": "se utiliza en",
+    "valor": "falla multiorgánica"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "presentan",
+    "valor": "elevación de lactato"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "tienen",
+    "valor": "coinfecciones bacterianas"
+  },
+  {
+    "entidad": "letalidad",
+    "relacion": "fue",
+    "valor": "16%"
+  },
+  {
+    "entidad": "días de UCI",
+    "relacion": "fueron",
+    "valor": "mayores que los reportados previamente"
+  },
+  {
+    "entidad": "ventilación mecánica invasiva",
+    "relacion": "se utilizó",
+    "valor": "ventilación protectora"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "presentan",
+    "valor": "linfopenia y elevación de DD"
+  },
+  {
+    "entidad": "hospital público de alta complejidad",
+    "relacion": "es",
+    "valor": "CASR"
+  },
+  {
+    "entidad": "Comité de Ética institucional",
+    "relacion": "aprobó",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "ingresan por",
+    "valor": "falla respiratoria aguda por COVID-19"
+  },
+  {
+    "entidad": "sistema informático del CASR",
+    "relacion": "se utilizó para",
+    "valor": "recolección de datos"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "fallecen por",
+    "valor": "complicaciones secundarias a COVID-19"
+  },
+  {
+    "entidad": "médico",
+    "relacion": "posee",
+    "valor": "virtudes"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "atribuyen",
+    "valor": "importancia a las virtudes del médico"
+  },
+  {
+    "entidad": "virtudes del médico",
+    "relacion": "incluyen",
+    "valor": "honestidad intelectual"
+  },
+  {
+    "entidad": "virtudes del médico",
+    "relacion": "incluyen",
+    "valor": "fidelidad a la confianza"
+  },
+  {
+    "entidad": "virtudes del médico",
+    "relacion": "incluyen",
+    "valor": "benevolencia"
+  },
+  {
+    "entidad": "virtudes del médico",
+    "relacion": "incluyen",
+    "valor": "compasión"
+  },
+  {
+    "entidad": "virtudes del médico",
+    "relacion": "incluyen",
+    "valor": "justicia"
+  },
+  {
+    "entidad": "virtudes del médico",
+    "relacion": "incluyen",
+    "valor": "prudencia"
+  },
+  {
+    "entidad": "virtudes del médico",
+    "relacion": "incluyen",
+    "valor": "postergación del interés personal"
+  },
+  {
+    "entidad": "virtudes del médico",
+    "relacion": "son consideradas",
+    "valor": "importantes por los pacientes"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "esperan",
+    "valor": "buena comunicación del médico"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "esperan",
+    "valor": "buena relación con el médico"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "esperan",
+    "valor": "preocupación del médico por ellos"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "esperan",
+    "valor": "competencia técnica del médico"
+  },
+  {
+    "entidad": "ética de la virtud",
+    "relacion": "es",
+    "valor": "fundamental para la práctica médica"
+  },
+  {
+    "entidad": "formación de médicos",
+    "relacion": "debe incluir",
+    "valor": "adquisición de virtudes"
+  },
+  {
+    "entidad": "Pellegrino",
+    "relacion": "define",
+    "valor": "virtud como rasgo del carácter"
+  },
+  {
+    "entidad": "médico",
+    "relacion": "debe tener",
+    "valor": "excelencia en su actividad"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "consideran",
+    "valor": "importante la dimensión humana del médico"
+  }
+]

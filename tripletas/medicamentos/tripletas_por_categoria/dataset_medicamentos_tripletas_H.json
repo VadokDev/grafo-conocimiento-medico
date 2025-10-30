@@ -1,0 +1,2687 @@
+[
+  {
+    "entidad": "Halcinonida tópica",
+    "relacion": "trata",
+    "valor": "picazón, enrojecimiento, resequedad, costras, descamación, inflamación, psoriasis, eccema"
+  },
+  {
+    "entidad": "Halcinonida tópica",
+    "relacion": "uso",
+    "valor": "aplicar dos a tres veces al día en la piel"
+  },
+  {
+    "entidad": "Halcinonida tópica",
+    "relacion": "se_administra_via",
+    "valor": "tópica"
+  },
+  {
+    "entidad": "Halcinonida tópica",
+    "relacion": "precaucion",
+    "valor": "informar a su médico si es alérgico, si tiene infecciones, diabetes o síndrome de Cushing, si está embarazada o amamantando"
+  },
+  {
+    "entidad": "Halcinonida tópica",
+    "relacion": "olvido",
+    "valor": "aplicar la dosis omitida tan pronto como lo recuerde, omitir si es casi hora de la próxima dosis"
+  },
+  {
+    "entidad": "Halcinonida tópica",
+    "relacion": "efecto_secundario",
+    "valor": "retraso en el crecimiento, ardor, picazón, irritación, enrojecimiento, resequedad, acné, cambios en el color de la piel, urticaria intensa"
+  },
+  {
+    "entidad": "Halcinonida tópica",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original, cerrado herméticamente, a temperatura ambiente, lejos del calor y humedad"
+  },
+  {
+    "entidad": "Halcinonida tópica",
+    "relacion": "sobredosis",
+    "valor": "llamar al centro local de control de envenenamiento o a los servicios de emergencia"
+  },
+  {
+    "entidad": "Halcinonida tópica",
+    "relacion": "marca_comercial",
+    "valor": "Halog ®"
+  },
+  {
+    "entidad": "Halcinonida tópica",
+    "relacion": "marca_comercial",
+    "valor": "Halog ® -E"
+  },
+  {
+    "entidad": "Haloperidol",
+    "relacion": "contraindicado_en",
+    "valor": "adultos mayores con demencia"
+  },
+  {
+    "entidad": "Haloperidol",
+    "relacion": "trata",
+    "valor": "trastornos psicóticos"
+  },
+  {
+    "entidad": "Haloperidol",
+    "relacion": "trata",
+    "valor": "tics motrices y verbales en síndrome de Tourette"
+  },
+  {
+    "entidad": "Haloperidol",
+    "relacion": "trata",
+    "valor": "problemas conductuales severos en niños"
+  },
+  {
+    "entidad": "Haloperidol",
+    "relacion": "uso",
+    "valor": "tableta y concentrado (líquido) por vía oral, dos o tres veces al día"
+  },
+  {
+    "entidad": "Haloperidol",
+    "relacion": "otro_uso",
+    "valor": "confusión y dificultad para pensar en enfermedades graves"
+  },
+  {
+    "entidad": "Haloperidol",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos concurrentes"
+  },
+  {
+    "entidad": "Haloperidol",
+    "relacion": "precaucion",
+    "valor": "no usar si se padece enfermedad de Parkinson"
+  },
+  {
+    "entidad": "Haloperidol",
+    "relacion": "precaucion",
+    "valor": "informar sobre síndrome de QT prolongado"
+  },
+  {
+    "entidad": "Haloperidol",
+    "relacion": "precaucion",
+    "valor": "consultar sobre el consumo de alcohol"
+  },
+  {
+    "entidad": "Haloperidol",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Haloperidol",
+    "relacion": "olvido",
+    "valor": "tomar la dosis omitida tan pronto como se recuerde"
+  },
+  {
+    "entidad": "Haloperidol",
+    "relacion": "efecto_secundario",
+    "valor": "boca seca"
+  },
+  {
+    "entidad": "Haloperidol",
+    "relacion": "efecto_secundario",
+    "valor": "aumento de la salivación"
+  },
+  {
+    "entidad": "Haloperidol",
+    "relacion": "efecto_secundario",
+    "valor": "visión borrosa"
+  },
+  {
+    "entidad": "Haloperidol",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de apetito"
+  },
+  {
+    "entidad": "Haloperidol",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Haloperidol",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Haloperidol",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Haloperidol",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Haloperidol",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para dormir"
+  },
+  {
+    "entidad": "Haloperidol",
+    "relacion": "efecto_secundario",
+    "valor": "agitación"
+  },
+  {
+    "entidad": "Haloperidol",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Haloperidol",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, a temperatura ambiente"
+  },
+  {
+    "entidad": "Haloperidol",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Haloperidol",
+    "relacion": "marca_comercial",
+    "valor": "Haldol ®"
+  },
+  {
+    "entidad": "Hidrocodona",
+    "relacion": "contraindicado_en",
+    "valor": "adictiva, especialmente con uso prolongado"
+  },
+  {
+    "entidad": "Hidrocodona",
+    "relacion": "trata",
+    "valor": "dolor intenso y persistente"
+  },
+  {
+    "entidad": "Hidrocodona",
+    "relacion": "uso",
+    "valor": "tomar según indicaciones médicas, no masticar ni disolver"
+  },
+  {
+    "entidad": "Hidrocodona",
+    "relacion": "se_administra_via",
+    "valor": "oral"
+  },
+  {
+    "entidad": "Hidrocodona",
+    "relacion": "otro_uso",
+    "valor": "otros usos bajo indicación médica"
+  },
+  {
+    "entidad": "Hidrocodona",
+    "relacion": "precaucion",
+    "valor": "no amamantar durante el tratamiento"
+  },
+  {
+    "entidad": "Hidrocodona",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta a menos que el médico lo indique"
+  },
+  {
+    "entidad": "Hidrocodona",
+    "relacion": "olvido",
+    "valor": "omitir la dosis y continuar con el programa habitual"
+  },
+  {
+    "entidad": "Hidrocodona",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago"
+  },
+  {
+    "entidad": "Hidrocodona",
+    "relacion": "efecto_secundario",
+    "valor": "boca seca"
+  },
+  {
+    "entidad": "Hidrocodona",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio"
+  },
+  {
+    "entidad": "Hidrocodona",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Hidrocodona",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de espalda"
+  },
+  {
+    "entidad": "Hidrocodona",
+    "relacion": "efecto_secundario",
+    "valor": "tensión en los músculos"
+  },
+  {
+    "entidad": "Hidrocodona",
+    "relacion": "efecto_secundario",
+    "valor": "zumbido en los oídos"
+  },
+  {
+    "entidad": "Hidrocodona",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para conciliar el sueño"
+  },
+  {
+    "entidad": "Hidrocodona",
+    "relacion": "efecto_secundario",
+    "valor": "inflamación de pies, piernas o tobillos"
+  },
+  {
+    "entidad": "Hidrocodona",
+    "relacion": "efecto_secundario",
+    "valor": "temblor incontrolable"
+  },
+  {
+    "entidad": "Hidrocodona",
+    "relacion": "efecto_secundario",
+    "valor": "mayor sudoración"
+  },
+  {
+    "entidad": "Hidrocodona",
+    "relacion": "efecto_secundario",
+    "valor": "dolor en el pecho"
+  },
+  {
+    "entidad": "Hidrocodona",
+    "relacion": "efecto_secundario",
+    "valor": "agitación, alucinaciones"
+  },
+  {
+    "entidad": "Hidrocodona",
+    "relacion": "efecto_secundario",
+    "valor": "náusea"
+  },
+  {
+    "entidad": "Hidrocodona",
+    "relacion": "almacenamiento",
+    "valor": "mantener en envase original, fuera del alcance de niños"
+  },
+  {
+    "entidad": "Hidrocodona",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Hidroxicloroquina",
+    "relacion": "trata",
+    "valor": "malaria, lupus eritematoso discoide, lupus eritematoso sistémico, artritis reumatoide"
+  },
+  {
+    "entidad": "Hidroxicloroquina",
+    "relacion": "uso",
+    "valor": "tableta para tomar por vía oral con alimentos o leche"
+  },
+  {
+    "entidad": "Hidroxicloroquina",
+    "relacion": "se_administra_via",
+    "valor": "oral"
+  },
+  {
+    "entidad": "Hidroxicloroquina",
+    "relacion": "otro_uso",
+    "valor": "porfiria cutánea tarda"
+  },
+  {
+    "entidad": "Hidroxicloroquina",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos actuales"
+  },
+  {
+    "entidad": "Hidroxicloroquina",
+    "relacion": "olvido",
+    "valor": "tomar la dosis olvidada tan pronto como lo recuerde, omitir si es casi hora de la siguiente dosis"
+  },
+  {
+    "entidad": "Hidroxicloroquina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Hidroxicloroquina",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de apetito"
+  },
+  {
+    "entidad": "Hidroxicloroquina",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Hidroxicloroquina",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Hidroxicloroquina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago"
+  },
+  {
+    "entidad": "Hidroxicloroquina",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Hidroxicloroquina",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para escuchar"
+  },
+  {
+    "entidad": "Hidroxicloroquina",
+    "relacion": "efecto_secundario",
+    "valor": "pitido en los oídos"
+  },
+  {
+    "entidad": "Hidroxicloroquina",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida del cabello"
+  },
+  {
+    "entidad": "Hidroxicloroquina",
+    "relacion": "efecto_secundario",
+    "valor": "urticaria"
+  },
+  {
+    "entidad": "Hidroxicloroquina",
+    "relacion": "efecto_secundario",
+    "valor": "debilidad muscular"
+  },
+  {
+    "entidad": "Hidroxicloroquina",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio excesivo"
+  },
+  {
+    "entidad": "Hidroxicloroquina",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original, cerrado herméticamente y a temperatura ambiente"
+  },
+  {
+    "entidad": "Hidroxicloroquina",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento o a servicios de emergencia"
+  },
+  {
+    "entidad": "Inyección de doxercalciferol",
+    "relacion": "trata",
+    "valor": "hiperparatiroidismo secundario"
+  },
+  {
+    "entidad": "Inyección de doxercalciferol",
+    "relacion": "uso",
+    "valor": "solución para inyectarla por vía intravenosa 3 veces a la semana al final de cada sesión de diálisis"
+  },
+  {
+    "entidad": "Inyección de doxercalciferol",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Inyección de doxercalciferol",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos que se están tomando"
+  },
+  {
+    "entidad": "Inyección de doxercalciferol",
+    "relacion": "dieta",
+    "valor": "obtener la cantidad adecuada de calcio de los alimentos"
+  },
+  {
+    "entidad": "Inyección de doxercalciferol",
+    "relacion": "olvido",
+    "valor": "llamar al médico tan pronto como sea posible"
+  },
+  {
+    "entidad": "Inyección de doxercalciferol",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Inyección de doxercalciferol",
+    "relacion": "efecto_secundario",
+    "valor": "acidez estomacal"
+  },
+  {
+    "entidad": "Inyección de doxercalciferol",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Inyección de doxercalciferol",
+    "relacion": "efecto_secundario",
+    "valor": "problemas para dormir"
+  },
+  {
+    "entidad": "Inyección de doxercalciferol",
+    "relacion": "efecto_secundario",
+    "valor": "retención de líquidos"
+  },
+  {
+    "entidad": "Inyección de doxercalciferol",
+    "relacion": "efecto_secundario",
+    "valor": "aumento de peso"
+  },
+  {
+    "entidad": "Inyección de doxercalciferol",
+    "relacion": "efecto_secundario",
+    "valor": "inflamación del rostro, los labios, la lengua y las vías respiratorias"
+  },
+  {
+    "entidad": "Inyección de doxercalciferol",
+    "relacion": "efecto_secundario",
+    "valor": "falta de interés"
+  },
+  {
+    "entidad": "Inyección de doxercalciferol",
+    "relacion": "efecto_secundario",
+    "valor": "molestia en el pecho"
+  },
+  {
+    "entidad": "Inyección de doxercalciferol",
+    "relacion": "efecto_secundario",
+    "valor": "falta de aire"
+  },
+  {
+    "entidad": "Inyección de doxercalciferol",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio"
+  },
+  {
+    "entidad": "Inyección de doxercalciferol",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para pensar con claridad"
+  },
+  {
+    "entidad": "Inyección de doxercalciferol",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de apetito"
+  },
+  {
+    "entidad": "Inyección de doxercalciferol",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Inyección de doxercalciferol",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Inyección de doxercalciferol",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Inyección de doxercalciferol",
+    "relacion": "efecto_secundario",
+    "valor": "más sed"
+  },
+  {
+    "entidad": "Inyección de doxercalciferol",
+    "relacion": "efecto_secundario",
+    "valor": "orinar con más frecuencia"
+  },
+  {
+    "entidad": "Inyección de doxercalciferol",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de peso"
+  },
+  {
+    "entidad": "Inyección de doxercalciferol",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Inyección de doxercalciferol",
+    "relacion": "marca_comercial",
+    "valor": "Hectorol ®"
+  },
+  {
+    "entidad": "Inyección de emicizumab-kxwh",
+    "relacion": "trata",
+    "valor": "prevención o reducción de la frecuencia de las hemorragias en hemofilia A"
+  },
+  {
+    "entidad": "Inyección de emicizumab-kxwh",
+    "relacion": "uso",
+    "valor": "solución para inyectar subcutáneamente una vez a la semana durante 4 semanas, luego puede ser una vez a la semana, cada 2 semanas o cada 4 semanas"
+  },
+  {
+    "entidad": "Inyección de emicizumab-kxwh",
+    "relacion": "se_administra_via",
+    "valor": "subcutánea"
+  },
+  {
+    "entidad": "Inyección de emicizumab-kxwh",
+    "relacion": "precaucion",
+    "valor": "informar al médico si es alérgico, si está embarazada o amamantando, y sobre otros medicamentos que toma"
+  },
+  {
+    "entidad": "Inyección de emicizumab-kxwh",
+    "relacion": "dieta",
+    "valor": "continuar con la dieta normal a menos que se indique lo contrario"
+  },
+  {
+    "entidad": "Inyección de emicizumab-kxwh",
+    "relacion": "olvido",
+    "valor": "inyectar la dosis olvidada tan pronto como lo recuerde, omitir si se acerca la próxima dosis"
+  },
+  {
+    "entidad": "Inyección de emicizumab-kxwh",
+    "relacion": "efecto_secundario",
+    "valor": "enrojecimiento, sensibilidad, calor o picazón en el lugar de la inyección, dolor de cabeza, dolor en las articulaciones, aumento de las hemorragias"
+  },
+  {
+    "entidad": "Inyección de emicizumab-kxwh",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original, cerrado herméticamente, a temperatura ambiente, lejos de la luz y la humedad"
+  },
+  {
+    "entidad": "Inyección de emicizumab-kxwh",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento o a los servicios de emergencia"
+  },
+  {
+    "entidad": "Inyección de emicizumab-kxwh",
+    "relacion": "marca_comercial",
+    "valor": "Hemlibra ®"
+  },
+  {
+    "entidad": "Inyección de eribulina",
+    "relacion": "trata",
+    "valor": "cáncer de seno que se ha propagado a otras partes del cuerpo"
+  },
+  {
+    "entidad": "Inyección de eribulina",
+    "relacion": "uso",
+    "valor": "administrar por vía intravenosa durante 2 a 5 minutos"
+  },
+  {
+    "entidad": "Inyección de eribulina",
+    "relacion": "otro_uso",
+    "valor": "otros usos según lo indique el médico"
+  },
+  {
+    "entidad": "Inyección de eribulina",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos"
+  },
+  {
+    "entidad": "Inyección de eribulina",
+    "relacion": "precaucion",
+    "valor": "informar si padece síndrome de QT largo o enfermedades cardíacas"
+  },
+  {
+    "entidad": "Inyección de eribulina",
+    "relacion": "precaucion",
+    "valor": "usar anticonceptivos durante el tratamiento"
+  },
+  {
+    "entidad": "Inyección de eribulina",
+    "relacion": "dieta",
+    "valor": "continuar con la dieta normal a menos que se indique lo contrario"
+  },
+  {
+    "entidad": "Inyección de eribulina",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Inyección de eribulina",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Inyección de eribulina",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de apetito"
+  },
+  {
+    "entidad": "Inyección de eribulina",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de peso"
+  },
+  {
+    "entidad": "Inyección de eribulina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Inyección de eribulina",
+    "relacion": "efecto_secundario",
+    "valor": "debilidad"
+  },
+  {
+    "entidad": "Inyección de eribulina",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio"
+  },
+  {
+    "entidad": "Inyección de eribulina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de huesos, de espalda o articular"
+  },
+  {
+    "entidad": "Inyección de eribulina",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida del cabello"
+  },
+  {
+    "entidad": "Inyección de eribulina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de garganta, tos, fiebre"
+  },
+  {
+    "entidad": "Inyección de eribulina",
+    "relacion": "efecto_secundario",
+    "valor": "entumecimiento, ardor u hormigueo"
+  },
+  {
+    "entidad": "Inyección de eribulina",
+    "relacion": "efecto_secundario",
+    "valor": "piel pálida"
+  },
+  {
+    "entidad": "Inyección de eribulina",
+    "relacion": "efecto_secundario",
+    "valor": "falta de aliento"
+  },
+  {
+    "entidad": "Inyección de eribulina",
+    "relacion": "efecto_secundario",
+    "valor": "ritmo cardíaco irregular"
+  },
+  {
+    "entidad": "Inyección de eribulina",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Inyección de eribulina",
+    "relacion": "marca_comercial",
+    "valor": "Halaven ®"
+  },
+  {
+    "entidad": "Inyección de etranacogene dezaparvovec-drlb",
+    "relacion": "trata",
+    "valor": "hemofilia B"
+  },
+  {
+    "entidad": "Inyección de etranacogene dezaparvovec-drlb",
+    "relacion": "uso",
+    "valor": "suspensión para inyección intravenosa en un entorno médico"
+  },
+  {
+    "entidad": "Inyección de etranacogene dezaparvovec-drlb",
+    "relacion": "se_administra_via",
+    "valor": "intravenosa"
+  },
+  {
+    "entidad": "Inyección de etranacogene dezaparvovec-drlb",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos"
+  },
+  {
+    "entidad": "Inyección de etranacogene dezaparvovec-drlb",
+    "relacion": "precaucion",
+    "valor": "no destinado para uso en mujeres"
+  },
+  {
+    "entidad": "Inyección de etranacogene dezaparvovec-drlb",
+    "relacion": "dieta",
+    "valor": "continuar con dieta normal a menos que se indique lo contrario"
+  },
+  {
+    "entidad": "Inyección de etranacogene dezaparvovec-drlb",
+    "relacion": "efecto_secundario",
+    "valor": "aumento del riesgo de cáncer hepatocelular"
+  },
+  {
+    "entidad": "Inyección de etranacogene dezaparvovec-drlb",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Inyección de etranacogene dezaparvovec-drlb",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Inyección de etranacogene dezaparvovec-drlb",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio"
+  },
+  {
+    "entidad": "Inyección de etranacogene dezaparvovec-drlb",
+    "relacion": "efecto_secundario",
+    "valor": "malestar"
+  },
+  {
+    "entidad": "Inyección de etranacogene dezaparvovec-drlb",
+    "relacion": "efecto_secundario",
+    "valor": "sangrado o moretones inusuales"
+  },
+  {
+    "entidad": "Inyección de etranacogene dezaparvovec-drlb",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Inyección de etranacogene dezaparvovec-drlb",
+    "relacion": "marca_comercial",
+    "valor": "Hemgenix"
+  },
+  {
+    "entidad": "Inyección de haloperidol",
+    "relacion": "contraindicado_en",
+    "valor": "adultos mayores con demencia"
+  },
+  {
+    "entidad": "Inyección de haloperidol",
+    "relacion": "trata",
+    "valor": "esquizofrenia"
+  },
+  {
+    "entidad": "Inyección de haloperidol",
+    "relacion": "trata",
+    "valor": "tics motores y verbales en el trastorno de Tourette"
+  },
+  {
+    "entidad": "Inyección de haloperidol",
+    "relacion": "uso",
+    "valor": "solución inyectable administrada por un proveedor de salud"
+  },
+  {
+    "entidad": "Inyección de haloperidol",
+    "relacion": "se_administra_via",
+    "valor": "músculo"
+  },
+  {
+    "entidad": "Inyección de haloperidol",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Inyección de haloperidol",
+    "relacion": "precaucion",
+    "valor": "informar alergias y medicamentos actuales"
+  },
+  {
+    "entidad": "Inyección de haloperidol",
+    "relacion": "precaucion",
+    "valor": "no usar en enfermedad de Parkinson"
+  },
+  {
+    "entidad": "Inyección de haloperidol",
+    "relacion": "precaucion",
+    "valor": "informar sobre embarazo o lactancia"
+  },
+  {
+    "entidad": "Inyección de haloperidol",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Inyección de haloperidol",
+    "relacion": "olvido",
+    "valor": "llamar al médico para reprogramar la cita"
+  },
+  {
+    "entidad": "Inyección de haloperidol",
+    "relacion": "efecto_secundario",
+    "valor": "cambios de humor"
+  },
+  {
+    "entidad": "Inyección de haloperidol",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para conciliar el sueño"
+  },
+  {
+    "entidad": "Inyección de haloperidol",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Inyección de haloperidol",
+    "relacion": "efecto_secundario",
+    "valor": "confusión"
+  },
+  {
+    "entidad": "Inyección de haloperidol",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Inyección de haloperidol",
+    "relacion": "marca_comercial",
+    "valor": "Haldol ®"
+  },
+  {
+    "entidad": "Inyección de haloperidol",
+    "relacion": "marca_comercial",
+    "valor": "Haldol ® Decanoato"
+  },
+  {
+    "entidad": "Inyección de hialuronidasa-oysk y trastuzumab",
+    "relacion": "contraindicado_en",
+    "valor": "enfermedades cardíacas"
+  },
+  {
+    "entidad": "Inyección de hialuronidasa-oysk y trastuzumab",
+    "relacion": "trata",
+    "valor": "cáncer de seno que se ha esparcido a otras partes del cuerpo"
+  },
+  {
+    "entidad": "Inyección de hialuronidasa-oysk y trastuzumab",
+    "relacion": "uso",
+    "valor": "inyectar debajo de la piel en la cadera en un período de 2 a 5 minutos"
+  },
+  {
+    "entidad": "Inyección de hialuronidasa-oysk y trastuzumab",
+    "relacion": "se_administra_via",
+    "valor": "inyectable"
+  },
+  {
+    "entidad": "Inyección de hialuronidasa-oysk y trastuzumab",
+    "relacion": "otro_uso",
+    "valor": "disminuir la probabilidad de que regrese cierto tipo de cáncer de seno"
+  },
+  {
+    "entidad": "Inyección de hialuronidasa-oysk y trastuzumab",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos"
+  },
+  {
+    "entidad": "Inyección de hialuronidasa-oysk y trastuzumab",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Inyección de hialuronidasa-oysk y trastuzumab",
+    "relacion": "olvido",
+    "valor": "llamar al médico si no puede asistir a una cita"
+  },
+  {
+    "entidad": "Inyección de hialuronidasa-oysk y trastuzumab",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Inyección de hialuronidasa-oysk y trastuzumab",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Inyección de hialuronidasa-oysk y trastuzumab",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago"
+  },
+  {
+    "entidad": "Inyección de hialuronidasa-oysk y trastuzumab",
+    "relacion": "efecto_secundario",
+    "valor": "acidez estomacal"
+  },
+  {
+    "entidad": "Inyección de hialuronidasa-oysk y trastuzumab",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de apetito"
+  },
+  {
+    "entidad": "Inyección de hialuronidasa-oysk y trastuzumab",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio excesivo"
+  },
+  {
+    "entidad": "Inyección de hialuronidasa-oysk y trastuzumab",
+    "relacion": "almacenamiento",
+    "valor": "mantener en condiciones adecuadas según indicaciones"
+  },
+  {
+    "entidad": "Inyección de hialuronidasa-oysk y trastuzumab",
+    "relacion": "marca_comercial",
+    "valor": "Herceptin Hylecta"
+  },
+  {
+    "entidad": "Inyección de insulina humana",
+    "relacion": "trata",
+    "valor": "diabetes tipo 1"
+  },
+  {
+    "entidad": "Inyección de insulina humana",
+    "relacion": "trata",
+    "valor": "diabetes tipo 2"
+  },
+  {
+    "entidad": "Inyección de insulina humana",
+    "relacion": "uso",
+    "valor": "inyectar subcutáneamente varias veces al día"
+  },
+  {
+    "entidad": "Inyección de insulina humana",
+    "relacion": "se_administra_via",
+    "valor": "subcutánea"
+  },
+  {
+    "entidad": "Inyección de insulina humana",
+    "relacion": "se_administra_via",
+    "valor": "intravenosa"
+  },
+  {
+    "entidad": "Inyección de insulina humana",
+    "relacion": "otro_uso",
+    "valor": "otros usos bajo consulta médica"
+  },
+  {
+    "entidad": "Inyección de insulina humana",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias a insulina o medicamentos"
+  },
+  {
+    "entidad": "Inyección de insulina humana",
+    "relacion": "precaucion",
+    "valor": "informar sobre otros medicamentos que se están tomando"
+  },
+  {
+    "entidad": "Inyección de insulina humana",
+    "relacion": "precaucion",
+    "valor": "consultar sobre el consumo de alcohol"
+  },
+  {
+    "entidad": "Inyección de insulina humana",
+    "relacion": "dieta",
+    "valor": "seguir una dieta saludable y regularidad en las comidas"
+  },
+  {
+    "entidad": "Inyección de insulina humana",
+    "relacion": "olvido",
+    "valor": "consultar con el médico sobre qué hacer si se olvida una dosis"
+  },
+  {
+    "entidad": "Inyección de insulina humana",
+    "relacion": "efecto_secundario",
+    "valor": "enrojecimiento en el lugar de la inyección"
+  },
+  {
+    "entidad": "Inyección de insulina humana",
+    "relacion": "efecto_secundario",
+    "valor": "aumento de peso"
+  },
+  {
+    "entidad": "Inyección de insulina humana",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Inyección de insulina humana",
+    "relacion": "almacenamiento",
+    "valor": "almacenar en refrigerador los viales sin abrir"
+  },
+  {
+    "entidad": "Inyección de insulina humana",
+    "relacion": "almacenamiento",
+    "valor": "no congelar"
+  },
+  {
+    "entidad": "Inyección de insulina humana",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Inyección de insulina humana",
+    "relacion": "marca_comercial",
+    "valor": "Humulin R"
+  },
+  {
+    "entidad": "Inyección de insulina humana",
+    "relacion": "marca_comercial",
+    "valor": "Humulin N"
+  },
+  {
+    "entidad": "Inyección de insulina humana",
+    "relacion": "marca_comercial",
+    "valor": "Humulin 70/30"
+  },
+  {
+    "entidad": "Inyección de insulina humana",
+    "relacion": "marca_comercial",
+    "valor": "Humulin 50/50"
+  },
+  {
+    "entidad": "Inyección de insulina humana",
+    "relacion": "marca_comercial",
+    "valor": "Humulin R U-500"
+  },
+  {
+    "entidad": "Inyección de insulina humana",
+    "relacion": "marca_comercial",
+    "valor": "Myxredlin"
+  },
+  {
+    "entidad": "Inyección de insulina humana",
+    "relacion": "marca_comercial",
+    "valor": "Novolin R"
+  },
+  {
+    "entidad": "Inyección de insulina humana",
+    "relacion": "marca_comercial",
+    "valor": "Novolin N"
+  },
+  {
+    "entidad": "Inyección de insulina humana",
+    "relacion": "marca_comercial",
+    "valor": "Novolin 70/30"
+  },
+  {
+    "entidad": "Inyección de marstacimab-hncq",
+    "relacion": "trata",
+    "valor": "prevenir o reducir la frecuencia de las hemorragias en adultos y niños con hemofilia A o B"
+  },
+  {
+    "entidad": "Inyección de marstacimab-hncq",
+    "relacion": "uso",
+    "valor": "solución para inyectar de forma subcutánea"
+  },
+  {
+    "entidad": "Inyección de marstacimab-hncq",
+    "relacion": "se_administra_via",
+    "valor": "subcutánea"
+  },
+  {
+    "entidad": "Inyección de marstacimab-hncq",
+    "relacion": "olvido",
+    "valor": "inyecte la dosis que olvidó tan pronto como lo recuerde, omita la que olvidó si es casi hora de la siguiente dosis"
+  },
+  {
+    "entidad": "Inyección de marstacimab-hncq",
+    "relacion": "efecto_secundario",
+    "valor": "dolor, enrojecimiento, hinchazón, calor, ardor, hematomas, dureza o picazón en el lugar de la inyección"
+  },
+  {
+    "entidad": "Inyección de marstacimab-hncq",
+    "relacion": "efecto_secundario",
+    "valor": "falta de aire"
+  },
+  {
+    "entidad": "Inyección de marstacimab-hncq",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza repentino, dolor o hinchazón ocular o problemas de visión"
+  },
+  {
+    "entidad": "Inyección de marstacimab-hncq",
+    "relacion": "efecto_secundario",
+    "valor": "adormecimiento de la cara"
+  },
+  {
+    "entidad": "Inyección de marstacimab-hncq",
+    "relacion": "efecto_secundario",
+    "valor": "dolor en el pecho o en la espalda"
+  },
+  {
+    "entidad": "Inyección de marstacimab-hncq",
+    "relacion": "efecto_secundario",
+    "valor": "urticaria, erupción cutánea, picazón"
+  },
+  {
+    "entidad": "Inyección de marstacimab-hncq",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original, cerrado herméticamente y en refrigeración, no congelar"
+  },
+  {
+    "entidad": "Inyección de marstacimab-hncq",
+    "relacion": "sobredosis",
+    "valor": "llame a la línea de ayuda de control de envenenamiento o a los servicios de emergencia"
+  },
+  {
+    "entidad": "Inyección de marstacimab-hncq",
+    "relacion": "marca_comercial",
+    "valor": "Hympavzi"
+  },
+  {
+    "entidad": "Inyección de topotecan",
+    "relacion": "contraindicado_en",
+    "valor": "debe administrarse solo en un hospital o clínica bajo supervisión de un médico con experiencia en quimioterapia"
+  },
+  {
+    "entidad": "Inyección de topotecan",
+    "relacion": "trata",
+    "valor": "cáncer de ovarios"
+  },
+  {
+    "entidad": "Inyección de topotecan",
+    "relacion": "trata",
+    "valor": "cáncer de pulmón de células pequeñas"
+  },
+  {
+    "entidad": "Inyección de topotecan",
+    "relacion": "trata",
+    "valor": "cáncer cervical"
+  },
+  {
+    "entidad": "Inyección de topotecan",
+    "relacion": "uso",
+    "valor": "administrar por vía intravenosa durante 30 minutos"
+  },
+  {
+    "entidad": "Inyección de topotecan",
+    "relacion": "uso",
+    "valor": "una vez al día durante 5 días seguidos cada 21 días para cáncer de ovarios o pulmón"
+  },
+  {
+    "entidad": "Inyección de topotecan",
+    "relacion": "uso",
+    "valor": "una vez al día durante 3 días seguidos cada 21 días para cáncer cervical"
+  },
+  {
+    "entidad": "Inyección de topotecan",
+    "relacion": "otro_uso",
+    "valor": "puede ser recetado para otros usos"
+  },
+  {
+    "entidad": "Inyección de topotecan",
+    "relacion": "precaucion",
+    "valor": "informar si es alérgico a la inyección de topotecan"
+  },
+  {
+    "entidad": "Inyección de topotecan",
+    "relacion": "precaucion",
+    "valor": "informar sobre otros medicamentos que toma"
+  },
+  {
+    "entidad": "Inyección de topotecan",
+    "relacion": "precaucion",
+    "valor": "informar si tiene enfermedad renal"
+  },
+  {
+    "entidad": "Inyección de topotecan",
+    "relacion": "precaucion",
+    "valor": "no debe quedar embarazada durante el tratamiento"
+  },
+  {
+    "entidad": "Inyección de topotecan",
+    "relacion": "precaucion",
+    "valor": "no debe amamantar durante el tratamiento"
+  },
+  {
+    "entidad": "Inyección de topotecan",
+    "relacion": "precaucion",
+    "valor": "informar si se someterá a cirugía"
+  },
+  {
+    "entidad": "Inyección de topotecan",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta a menos que el médico lo indique"
+  },
+  {
+    "entidad": "Inyección de topotecan",
+    "relacion": "olvido",
+    "valor": "llame a su médico si no puede asistir a una cita para recibir la dosis"
+  },
+  {
+    "entidad": "Inyección de topotecan",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Inyección de topotecan",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Inyección de topotecan",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Inyección de topotecan",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Inyección de topotecan",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de apetito"
+  },
+  {
+    "entidad": "Inyección de topotecan",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago o de espalda"
+  },
+  {
+    "entidad": "Inyección de topotecan",
+    "relacion": "efecto_secundario",
+    "valor": "aftas en la boca"
+  },
+  {
+    "entidad": "Inyección de topotecan",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Inyección de topotecan",
+    "relacion": "efecto_secundario",
+    "valor": "adelgazamiento o pérdida del cabello"
+  },
+  {
+    "entidad": "Inyección de topotecan",
+    "relacion": "efecto_secundario",
+    "valor": "enrojecimiento o moretones en el sitio de inyección"
+  },
+  {
+    "entidad": "Inyección de topotecan",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio extremo"
+  },
+  {
+    "entidad": "Inyección de topotecan",
+    "relacion": "efecto_secundario",
+    "valor": "debilidad"
+  },
+  {
+    "entidad": "Inyección de topotecan",
+    "relacion": "efecto_secundario",
+    "valor": "piel pálida"
+  },
+  {
+    "entidad": "Inyección de topotecan",
+    "relacion": "efecto_secundario",
+    "valor": "falta de aliento"
+  },
+  {
+    "entidad": "Inyección de topotecan",
+    "relacion": "efecto_secundario",
+    "valor": "dolor en el pecho"
+  },
+  {
+    "entidad": "Inyección de topotecan",
+    "relacion": "efecto_secundario",
+    "valor": "ritmo cardíaco irregular o acelerado"
+  },
+  {
+    "entidad": "Inyección de topotecan",
+    "relacion": "efecto_secundario",
+    "valor": "entumecimiento, hormigueo o ardor en manos o pies"
+  },
+  {
+    "entidad": "Inyección de topotecan",
+    "relacion": "efecto_secundario",
+    "valor": "urticaria"
+  },
+  {
+    "entidad": "Inyección de topotecan",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Inyección de topotecan",
+    "relacion": "efecto_secundario",
+    "valor": "picazón"
+  },
+  {
+    "entidad": "Inyección de topotecan",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para respirar o tragar"
+  },
+  {
+    "entidad": "Inyección de topotecan",
+    "relacion": "efecto_secundario",
+    "valor": "inflamación del rostro, garganta, lengua, labios, ojos, manos, pies, tobillos o pantorrillas"
+  },
+  {
+    "entidad": "Inyección de topotecan",
+    "relacion": "sobredosis",
+    "valor": "llame a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Inyección de topotecan",
+    "relacion": "sobredosis",
+    "valor": "llame a los servicios de emergencia si la víctima se ha derrumbado o tiene dificultad para respirar"
+  },
+  {
+    "entidad": "Inyección de topotecan",
+    "relacion": "marca_comercial",
+    "valor": "Hycamtin ®"
+  },
+  {
+    "entidad": "Inyección de trastuzumab",
+    "relacion": "contraindicado_en",
+    "valor": "problemas cardíacos graves"
+  },
+  {
+    "entidad": "Inyección de trastuzumab",
+    "relacion": "trata",
+    "valor": "ciertos tipos de cáncer de mama y de estómago"
+  },
+  {
+    "entidad": "Inyección de trastuzumab",
+    "relacion": "uso",
+    "valor": "mezclar en polvo con un líquido e inyectar lentamente en una vena durante 30 a 90 minutos"
+  },
+  {
+    "entidad": "Inyección de trastuzumab",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Inyección de trastuzumab",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos que toma"
+  },
+  {
+    "entidad": "Inyección de trastuzumab",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Inyección de trastuzumab",
+    "relacion": "olvido",
+    "valor": "llamar al médico si no puede ir a la cita"
+  },
+  {
+    "entidad": "Inyección de trastuzumab",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Inyección de trastuzumab",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Inyección de trastuzumab",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago"
+  },
+  {
+    "entidad": "Inyección de trastuzumab",
+    "relacion": "efecto_secundario",
+    "valor": "acidez estomacal"
+  },
+  {
+    "entidad": "Inyección de trastuzumab",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de apetito"
+  },
+  {
+    "entidad": "Inyección de trastuzumab",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de espalda, huesos, articulaciones o músculos"
+  },
+  {
+    "entidad": "Inyección de trastuzumab",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para conciliar el sueño"
+  },
+  {
+    "entidad": "Inyección de trastuzumab",
+    "relacion": "efecto_secundario",
+    "valor": "sofocos"
+  },
+  {
+    "entidad": "Inyección de trastuzumab",
+    "relacion": "efecto_secundario",
+    "valor": "entumecimiento, ardor u hormigueo en brazos, manos, pies o piernas"
+  },
+  {
+    "entidad": "Inyección de trastuzumab",
+    "relacion": "efecto_secundario",
+    "valor": "cambios en el aspecto de las uñas"
+  },
+  {
+    "entidad": "Inyección de trastuzumab",
+    "relacion": "efecto_secundario",
+    "valor": "acné"
+  },
+  {
+    "entidad": "Inyección de trastuzumab",
+    "relacion": "efecto_secundario",
+    "valor": "depresión"
+  },
+  {
+    "entidad": "Inyección de trastuzumab",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de garganta, fiebre, escalofríos"
+  },
+  {
+    "entidad": "Inyección de trastuzumab",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para orinar"
+  },
+  {
+    "entidad": "Inyección de trastuzumab",
+    "relacion": "efecto_secundario",
+    "valor": "hemorragia nasal y moretones inusuales"
+  },
+  {
+    "entidad": "Inyección de trastuzumab",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio excesivo"
+  },
+  {
+    "entidad": "Inyección de trastuzumab",
+    "relacion": "efecto_secundario",
+    "valor": "piel pálida"
+  },
+  {
+    "entidad": "Inyección de trastuzumab",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas y vómitos"
+  },
+  {
+    "entidad": "Inyección de trastuzumab",
+    "relacion": "marca_comercial",
+    "valor": "Herceptin"
+  },
+  {
+    "entidad": "Inyección de trastuzumab",
+    "relacion": "marca_comercial",
+    "valor": "Hercessi"
+  },
+  {
+    "entidad": "Inyección de trastuzumab",
+    "relacion": "marca_comercial",
+    "valor": "Herzuma"
+  },
+  {
+    "entidad": "Inyección de trastuzumab",
+    "relacion": "marca_comercial",
+    "valor": "Kanjinti"
+  },
+  {
+    "entidad": "Inyección de trastuzumab",
+    "relacion": "marca_comercial",
+    "valor": "Ogivri"
+  },
+  {
+    "entidad": "Inyección de trastuzumab",
+    "relacion": "marca_comercial",
+    "valor": "Onturzant"
+  },
+  {
+    "entidad": "Inyección de trastuzumab",
+    "relacion": "marca_comercial",
+    "valor": "Trazimera"
+  },
+  {
+    "entidad": "Isoniazida",
+    "relacion": "contraindicado_en",
+    "valor": "daño hepático severo"
+  },
+  {
+    "entidad": "Isoniazida",
+    "relacion": "trata",
+    "valor": "tuberculosis (TB)"
+  },
+  {
+    "entidad": "Isoniazida",
+    "relacion": "uso",
+    "valor": "tomar por vía oral, a la misma hora todos los días"
+  },
+  {
+    "entidad": "Isoniazida",
+    "relacion": "otro_uso",
+    "valor": "prevención de la TB en personas con riesgo"
+  },
+  {
+    "entidad": "Isoniazida",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos"
+  },
+  {
+    "entidad": "Isoniazida",
+    "relacion": "dieta",
+    "valor": "evitar alimentos y bebidas con tiramina o histamina"
+  },
+  {
+    "entidad": "Isoniazida",
+    "relacion": "olvido",
+    "valor": "tomar la dosis omitida tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Isoniazida",
+    "relacion": "efecto_secundario",
+    "valor": "molestias estomacales"
+  },
+  {
+    "entidad": "Isoniazida",
+    "relacion": "efecto_secundario",
+    "valor": "erupción cutánea"
+  },
+  {
+    "entidad": "Isoniazida",
+    "relacion": "efecto_secundario",
+    "valor": "problemas para caminar"
+  },
+  {
+    "entidad": "Isoniazida",
+    "relacion": "efecto_secundario",
+    "valor": "dolor ocular"
+  },
+  {
+    "entidad": "Isoniazida",
+    "relacion": "efecto_secundario",
+    "valor": "entumecimiento en manos y pies"
+  },
+  {
+    "entidad": "Isoniazida",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original, cerrado herméticamente"
+  },
+  {
+    "entidad": "Isoniazida",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Isoniazida",
+    "relacion": "marca_comercial",
+    "valor": "Hyzyd"
+  },
+  {
+    "entidad": "Isoniazida",
+    "relacion": "marca_comercial",
+    "valor": "INH"
+  },
+  {
+    "entidad": "Isoniazida",
+    "relacion": "marca_comercial",
+    "valor": "Laniazid"
+  },
+  {
+    "entidad": "Isoniazida",
+    "relacion": "marca_comercial",
+    "valor": "Nydrazid"
+  },
+  {
+    "entidad": "Isoniazida",
+    "relacion": "marca_comercial",
+    "valor": "Rimifon"
+  },
+  {
+    "entidad": "Isoniazida",
+    "relacion": "marca_comercial",
+    "valor": "Stanozide"
+  },
+  {
+    "entidad": "Isoniazida",
+    "relacion": "marca_comercial",
+    "valor": "Tubizid"
+  },
+  {
+    "entidad": "Isoniazida",
+    "relacion": "marca_comercial",
+    "valor": "Rifamate"
+  },
+  {
+    "entidad": "Isoniazida",
+    "relacion": "marca_comercial",
+    "valor": "Rifater"
+  },
+  {
+    "entidad": "Ledipasvir y sofosbuvir",
+    "relacion": "contraindicado_en",
+    "valor": "infección por hepatitis B"
+  },
+  {
+    "entidad": "Ledipasvir y sofosbuvir",
+    "relacion": "trata",
+    "valor": "hepatitis C crónica"
+  },
+  {
+    "entidad": "Ledipasvir y sofosbuvir",
+    "relacion": "uso",
+    "valor": "tabletas y gránulos por vía oral, una vez al día"
+  },
+  {
+    "entidad": "Ledipasvir y sofosbuvir",
+    "relacion": "se_administra_via",
+    "valor": "oral"
+  },
+  {
+    "entidad": "Ledipasvir y sofosbuvir",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Ledipasvir y sofosbuvir",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos"
+  },
+  {
+    "entidad": "Ledipasvir y sofosbuvir",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Ledipasvir y sofosbuvir",
+    "relacion": "olvido",
+    "valor": "tome la dosis olvidada tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Ledipasvir y sofosbuvir",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio"
+  },
+  {
+    "entidad": "Ledipasvir y sofosbuvir",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Ledipasvir y sofosbuvir",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para conciliar el sueño"
+  },
+  {
+    "entidad": "Ledipasvir y sofosbuvir",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Ledipasvir y sofosbuvir",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Ledipasvir y sofosbuvir",
+    "relacion": "efecto_secundario",
+    "valor": "tos"
+  },
+  {
+    "entidad": "Ledipasvir y sofosbuvir",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Ledipasvir y sofosbuvir",
+    "relacion": "efecto_secundario",
+    "valor": "dolor muscular"
+  },
+  {
+    "entidad": "Ledipasvir y sofosbuvir",
+    "relacion": "efecto_secundario",
+    "valor": "irritabilidad"
+  },
+  {
+    "entidad": "Ledipasvir y sofosbuvir",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Ledipasvir y sofosbuvir",
+    "relacion": "efecto_secundario",
+    "valor": "ampollas"
+  },
+  {
+    "entidad": "Ledipasvir y sofosbuvir",
+    "relacion": "efecto_secundario",
+    "valor": "inflamación del rostro"
+  },
+  {
+    "entidad": "Ledipasvir y sofosbuvir",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para respirar"
+  },
+  {
+    "entidad": "Ledipasvir y sofosbuvir",
+    "relacion": "efecto_secundario",
+    "valor": "ronquera"
+  },
+  {
+    "entidad": "Ledipasvir y sofosbuvir",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para tragar"
+  },
+  {
+    "entidad": "Ledipasvir y sofosbuvir",
+    "relacion": "almacenamiento",
+    "valor": "mantener en empaque original, a temperatura ambiente"
+  },
+  {
+    "entidad": "Ledipasvir y sofosbuvir",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Ledipasvir y sofosbuvir",
+    "relacion": "marca_comercial",
+    "valor": "Harvoni"
+  },
+  {
+    "entidad": "Metenamina",
+    "relacion": "trata",
+    "valor": "infecciones en las vías urinarias"
+  },
+  {
+    "entidad": "Metenamina",
+    "relacion": "uso",
+    "valor": "tomar 2 veces al día o 4 veces al día"
+  },
+  {
+    "entidad": "Metenamina",
+    "relacion": "se_administra_via",
+    "valor": "vía oral"
+  },
+  {
+    "entidad": "Metenamina",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos"
+  },
+  {
+    "entidad": "Metenamina",
+    "relacion": "dieta",
+    "valor": "tomar con alimentos o leche"
+  },
+  {
+    "entidad": "Metenamina",
+    "relacion": "olvido",
+    "valor": "tomar la dosis omitida tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Metenamina",
+    "relacion": "efecto_secundario",
+    "valor": "molestias estomacales"
+  },
+  {
+    "entidad": "Metenamina",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Metenamina",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Metenamina",
+    "relacion": "efecto_secundario",
+    "valor": "calambres estomacales"
+  },
+  {
+    "entidad": "Metenamina",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de apetito"
+  },
+  {
+    "entidad": "Metenamina",
+    "relacion": "efecto_secundario",
+    "valor": "erupción cutánea"
+  },
+  {
+    "entidad": "Metenamina",
+    "relacion": "efecto_secundario",
+    "valor": "urticaria"
+  },
+  {
+    "entidad": "Metenamina",
+    "relacion": "efecto_secundario",
+    "valor": "picazón"
+  },
+  {
+    "entidad": "Metenamina",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original y a temperatura ambiente"
+  },
+  {
+    "entidad": "Metenamina",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Metenamina",
+    "relacion": "marca_comercial",
+    "valor": "Hiprex"
+  },
+  {
+    "entidad": "Metenamina",
+    "relacion": "marca_comercial",
+    "valor": "Urex"
+  },
+  {
+    "entidad": "Piridoxina",
+    "relacion": "trata",
+    "valor": "carencia secundaria de vitamina B 6"
+  },
+  {
+    "entidad": "Piridoxina",
+    "relacion": "uso",
+    "valor": "tomar una vez al día, seguir instrucciones del médico"
+  },
+  {
+    "entidad": "Piridoxina",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos"
+  },
+  {
+    "entidad": "Piridoxina",
+    "relacion": "dieta",
+    "valor": "consumir más alimentos que contengan vitamina B 6"
+  },
+  {
+    "entidad": "Piridoxina",
+    "relacion": "olvido",
+    "valor": "tomar la dosis olvidada tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Piridoxina",
+    "relacion": "efecto_secundario",
+    "valor": "molestias estomacales"
+  },
+  {
+    "entidad": "Piridoxina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Piridoxina",
+    "relacion": "efecto_secundario",
+    "valor": "somnolencia"
+  },
+  {
+    "entidad": "Piridoxina",
+    "relacion": "efecto_secundario",
+    "valor": "hormigueo, pinchazos, quemazón o sensación de tirantez en manos y pies"
+  },
+  {
+    "entidad": "Piridoxina",
+    "relacion": "almacenamiento",
+    "valor": "mantener en empaque original, a temperatura ambiente, lejos del calor y humedad"
+  },
+  {
+    "entidad": "Piridoxina",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Propranolol",
+    "relacion": "trata",
+    "valor": "hemangioma infantil proliferante"
+  },
+  {
+    "entidad": "Propranolol",
+    "relacion": "uso",
+    "valor": "suspensión oral, dos veces al día durante o después de una comida"
+  },
+  {
+    "entidad": "Propranolol",
+    "relacion": "otro_uso",
+    "valor": "puede ser recetado para otros usos"
+  },
+  {
+    "entidad": "Propranolol",
+    "relacion": "precaucion",
+    "valor": "informar al médico si es alérgico al propranolol o a otros medicamentos"
+  },
+  {
+    "entidad": "Propranolol",
+    "relacion": "precaucion",
+    "valor": "informar al médico si tiene problemas respiratorios o insuficiencia cardíaca"
+  },
+  {
+    "entidad": "Propranolol",
+    "relacion": "dieta",
+    "valor": "dieta normal a menos que el médico indique lo contrario"
+  },
+  {
+    "entidad": "Propranolol",
+    "relacion": "olvido",
+    "valor": "omitir la dosis y continuar con la dosificación habitual"
+  },
+  {
+    "entidad": "Propranolol",
+    "relacion": "efecto_secundario",
+    "valor": "problemas para dormir"
+  },
+  {
+    "entidad": "Propranolol",
+    "relacion": "efecto_secundario",
+    "valor": "pesadillas"
+  },
+  {
+    "entidad": "Propranolol",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Propranolol",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Propranolol",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago"
+  },
+  {
+    "entidad": "Propranolol",
+    "relacion": "efecto_secundario",
+    "valor": "agitación"
+  },
+  {
+    "entidad": "Propranolol",
+    "relacion": "efecto_secundario",
+    "valor": "irritabilidad"
+  },
+  {
+    "entidad": "Propranolol",
+    "relacion": "efecto_secundario",
+    "valor": "disminución del apetito"
+  },
+  {
+    "entidad": "Propranolol",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para respirar o tragar"
+  },
+  {
+    "entidad": "Propranolol",
+    "relacion": "efecto_secundario",
+    "valor": "sibilancias"
+  },
+  {
+    "entidad": "Propranolol",
+    "relacion": "efecto_secundario",
+    "valor": "falta de aliento"
+  },
+  {
+    "entidad": "Propranolol",
+    "relacion": "efecto_secundario",
+    "valor": "ritmo cardíaco lento, irregular"
+  },
+  {
+    "entidad": "Propranolol",
+    "relacion": "efecto_secundario",
+    "valor": "debilidad repentina de un brazo o una pierna"
+  },
+  {
+    "entidad": "Propranolol",
+    "relacion": "efecto_secundario",
+    "valor": "manos o pies fríos"
+  },
+  {
+    "entidad": "Propranolol",
+    "relacion": "efecto_secundario",
+    "valor": "piel pálida"
+  },
+  {
+    "entidad": "Propranolol",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio o fatiga inusual"
+  },
+  {
+    "entidad": "Propranolol",
+    "relacion": "efecto_secundario",
+    "valor": "desmayo"
+  },
+  {
+    "entidad": "Propranolol",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, a temperatura ambiente y lejos de la luz"
+  },
+  {
+    "entidad": "Propranolol",
+    "relacion": "almacenamiento",
+    "valor": "desechar cualquier resto 2 meses después de abrir el frasco"
+  },
+  {
+    "entidad": "Propranolol",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Propranolol",
+    "relacion": "marca_comercial",
+    "valor": "Hemangeol ®"
+  },
+  {
+    "entidad": "Reserpina",
+    "relacion": "trata",
+    "valor": "presión arterial alta"
+  },
+  {
+    "entidad": "Reserpina",
+    "relacion": "trata",
+    "valor": "agitación grave en pacientes con trastornos mentales"
+  },
+  {
+    "entidad": "Reserpina",
+    "relacion": "uso",
+    "valor": "tomar una vez al día por vía oral"
+  },
+  {
+    "entidad": "Reserpina",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias a reserpina y otros medicamentos"
+  },
+  {
+    "entidad": "Reserpina",
+    "relacion": "precaucion",
+    "valor": "informar sobre medicamentos que se están tomando"
+  },
+  {
+    "entidad": "Reserpina",
+    "relacion": "precaucion",
+    "valor": "informar sobre enfermedades renales, cálculos biliares, úlceras, colitis ulcerosa"
+  },
+  {
+    "entidad": "Reserpina",
+    "relacion": "precaucion",
+    "valor": "informar si está embarazada o amamantando"
+  },
+  {
+    "entidad": "Reserpina",
+    "relacion": "precaucion",
+    "valor": "consultar sobre riesgos en adultos mayores"
+  },
+  {
+    "entidad": "Reserpina",
+    "relacion": "precaucion",
+    "valor": "informar antes de cualquier cirugía"
+  },
+  {
+    "entidad": "Reserpina",
+    "relacion": "precaucion",
+    "valor": "no conducir ni operar maquinaria si causa somnolencia"
+  },
+  {
+    "entidad": "Reserpina",
+    "relacion": "dieta",
+    "valor": "seguir una dieta baja en sal o sodio"
+  },
+  {
+    "entidad": "Reserpina",
+    "relacion": "olvido",
+    "valor": "tomar la dosis olvidada tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Reserpina",
+    "relacion": "olvido",
+    "valor": "no tomar dosis doble"
+  },
+  {
+    "entidad": "Reserpina",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Reserpina",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de apetito"
+  },
+  {
+    "entidad": "Reserpina",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Reserpina",
+    "relacion": "efecto_secundario",
+    "valor": "molestias estomacales"
+  },
+  {
+    "entidad": "Reserpina",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Reserpina",
+    "relacion": "efecto_secundario",
+    "valor": "nariz congestionada"
+  },
+  {
+    "entidad": "Reserpina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Reserpina",
+    "relacion": "efecto_secundario",
+    "valor": "boca seca"
+  },
+  {
+    "entidad": "Reserpina",
+    "relacion": "efecto_secundario",
+    "valor": "menor capacidad sexual"
+  },
+  {
+    "entidad": "Reserpina",
+    "relacion": "efecto_secundario",
+    "valor": "depresión"
+  },
+  {
+    "entidad": "Reserpina",
+    "relacion": "efecto_secundario",
+    "valor": "pesadillas"
+  },
+  {
+    "entidad": "Reserpina",
+    "relacion": "efecto_secundario",
+    "valor": "desmayos"
+  },
+  {
+    "entidad": "Reserpina",
+    "relacion": "efecto_secundario",
+    "valor": "ritmo cardíaco lento"
+  },
+  {
+    "entidad": "Reserpina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor en el pecho"
+  },
+  {
+    "entidad": "Reserpina",
+    "relacion": "efecto_secundario",
+    "valor": "tobillos o pies hinchados"
+  },
+  {
+    "entidad": "Reserpina",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, bien cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Reserpina",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente, lejos del calor y la humedad"
+  },
+  {
+    "entidad": "Reserpina",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Reserpina",
+    "relacion": "marca_comercial",
+    "valor": "Serpalan"
+  },
+  {
+    "entidad": "Reserpina",
+    "relacion": "marca_comercial",
+    "valor": "Serpasil"
+  },
+  {
+    "entidad": "Reserpina",
+    "relacion": "marca_comercial",
+    "valor": "Hydrap-ES"
+  },
+  {
+    "entidad": "Reserpina",
+    "relacion": "marca_comercial",
+    "valor": "Hydro-Reserp"
+  },
+  {
+    "entidad": "Reserpina",
+    "relacion": "marca_comercial",
+    "valor": "Hydropres"
+  },
+  {
+    "entidad": "Reserpina",
+    "relacion": "marca_comercial",
+    "valor": "Hydroserp"
+  },
+  {
+    "entidad": "Reserpina",
+    "relacion": "marca_comercial",
+    "valor": "Hydroserpine"
+  },
+  {
+    "entidad": "Reserpina",
+    "relacion": "marca_comercial",
+    "valor": "Mallopress"
+  },
+  {
+    "entidad": "Reserpina",
+    "relacion": "marca_comercial",
+    "valor": "Marpres"
+  },
+  {
+    "entidad": "Reserpina",
+    "relacion": "marca_comercial",
+    "valor": "Ser-Ap-Es"
+  },
+  {
+    "entidad": "Reserpina",
+    "relacion": "marca_comercial",
+    "valor": "Serathide"
+  },
+  {
+    "entidad": "Reserpina",
+    "relacion": "marca_comercial",
+    "valor": "Serpazide"
+  },
+  {
+    "entidad": "Reserpina",
+    "relacion": "marca_comercial",
+    "valor": "Serpex"
+  },
+  {
+    "entidad": "Reserpina",
+    "relacion": "marca_comercial",
+    "valor": "Tri-Hydroserpine"
+  },
+  {
+    "entidad": "Reserpina",
+    "relacion": "marca_comercial",
+    "valor": "Uni Serp"
+  },
+  {
+    "entidad": "Reserpina",
+    "relacion": "marca_comercial",
+    "valor": "Unipres"
+  },
+  {
+    "entidad": "Tasimelteon",
+    "relacion": "trata",
+    "valor": "trastorno de sueño-vigilia no ajustado a las 24 horas"
+  },
+  {
+    "entidad": "Tasimelteon",
+    "relacion": "trata",
+    "valor": "síndrome de Smith-Magenis"
+  },
+  {
+    "entidad": "Tasimelteon",
+    "relacion": "uso",
+    "valor": "tomar una cápsula o suspensión por vía oral una vez al día, 1 hora antes de acostarse"
+  },
+  {
+    "entidad": "Tasimelteon",
+    "relacion": "se_administra_via",
+    "valor": "vía oral"
+  },
+  {
+    "entidad": "Tasimelteon",
+    "relacion": "olvido",
+    "valor": "omita la dosis que le faltó y continúe con su programa de dosificación habitual"
+  },
+  {
+    "entidad": "Tasimelteon",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Tasimelteon",
+    "relacion": "efecto_secundario",
+    "valor": "pesadillas o sueños inusuales"
+  },
+  {
+    "entidad": "Tasimelteon",
+    "relacion": "efecto_secundario",
+    "valor": "fiebre o dolor, dificultad o micción frecuente"
+  },
+  {
+    "entidad": "Tasimelteon",
+    "relacion": "efecto_secundario",
+    "valor": "fiebre, tos, falta de aliento u otras señales de infección"
+  },
+  {
+    "entidad": "Tasimelteon",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, bien cerrado, a temperatura ambiente y lejos de la luz, el exceso de calor y de la humedad"
+  },
+  {
+    "entidad": "Tasimelteon",
+    "relacion": "almacenamiento",
+    "valor": "refrigerar la suspensión"
+  },
+  {
+    "entidad": "Tasimelteon",
+    "relacion": "sobredosis",
+    "valor": "llame a la línea de ayuda de control de envenenamiento al 1-800-222-1222"
+  },
+  {
+    "entidad": "Tasimelteon",
+    "relacion": "marca_comercial",
+    "valor": "Hetlioz"
+  },
+  {
+    "entidad": "Terazosina",
+    "relacion": "trata",
+    "valor": "síntomas del agrandamiento de la próstata (hipertrofia benigna de próstata o HBP)"
+  },
+  {
+    "entidad": "Terazosina",
+    "relacion": "trata",
+    "valor": "hipertensión arterial"
+  },
+  {
+    "entidad": "Terazosina",
+    "relacion": "uso",
+    "valor": "tomar por vía oral, una vez al día al acostarse, o dos veces al día"
+  },
+  {
+    "entidad": "Terazosina",
+    "relacion": "precaucion",
+    "valor": "informe a su médico si es alérgico a la terazosina o otros medicamentos similares"
+  },
+  {
+    "entidad": "Terazosina",
+    "relacion": "precaucion",
+    "valor": "informe a su médico si padece o ha tenido cáncer de próstata"
+  },
+  {
+    "entidad": "Terazosina",
+    "relacion": "precaucion",
+    "valor": "informe a su médico si está embarazada o en período de lactancia"
+  },
+  {
+    "entidad": "Terazosina",
+    "relacion": "precaucion",
+    "valor": "no conduzca ni maneje maquinaria durante 12 horas después de la primera dosis o aumento de dosis"
+  },
+  {
+    "entidad": "Terazosina",
+    "relacion": "dieta",
+    "valor": "seguir una dieta baja en sal (sodio)"
+  },
+  {
+    "entidad": "Terazosina",
+    "relacion": "olvido",
+    "valor": "tome la dosis que omitió tan pronto como lo recuerde, omita la que olvidó si es casi hora de la siguiente dosis"
+  },
+  {
+    "entidad": "Terazosina",
+    "relacion": "efecto_secundario",
+    "valor": "debilidad"
+  },
+  {
+    "entidad": "Terazosina",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio"
+  },
+  {
+    "entidad": "Terazosina",
+    "relacion": "efecto_secundario",
+    "valor": "congestión o secreción nasal"
+  },
+  {
+    "entidad": "Terazosina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de espalda"
+  },
+  {
+    "entidad": "Terazosina",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Terazosina",
+    "relacion": "efecto_secundario",
+    "valor": "aumento de peso"
+  },
+  {
+    "entidad": "Terazosina",
+    "relacion": "efecto_secundario",
+    "valor": "menor capacidad sexual"
+  },
+  {
+    "entidad": "Terazosina",
+    "relacion": "efecto_secundario",
+    "valor": "visión borrosa"
+  },
+  {
+    "entidad": "Terazosina",
+    "relacion": "efecto_secundario",
+    "valor": "hinchazón de manos, pies, tobillos o pantorrillas"
+  },
+  {
+    "entidad": "Terazosina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor, ardor, entumecimiento u hormigueo en manos o pies"
+  },
+  {
+    "entidad": "Terazosina",
+    "relacion": "efecto_secundario",
+    "valor": "urticaria"
+  },
+  {
+    "entidad": "Terazosina",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Terazosina",
+    "relacion": "efecto_secundario",
+    "valor": "picazón"
+  },
+  {
+    "entidad": "Terazosina",
+    "relacion": "efecto_secundario",
+    "valor": "falta de aliento"
+  },
+  {
+    "entidad": "Terazosina",
+    "relacion": "efecto_secundario",
+    "valor": "ritmo cardíaco acelerado, con palpitaciones o irregular"
+  },
+  {
+    "entidad": "Terazosina",
+    "relacion": "efecto_secundario",
+    "valor": "erección dolorosa del pene que dura varias horas"
+  },
+  {
+    "entidad": "Terazosina",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original, cerrado herméticamente y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Terazosina",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente y lejos de la luz, calor y humedad"
+  },
+  {
+    "entidad": "Terazosina",
+    "relacion": "sobredosis",
+    "valor": "llame a la línea de ayuda de control de envenenamiento o a los servicios de emergencia"
+  },
+  {
+    "entidad": "Terazosina",
+    "relacion": "marca_comercial",
+    "valor": "Hytrin ®"
+  },
+  {
+    "entidad": "Topotecán",
+    "relacion": "contraindicado_en",
+    "valor": "cantidad baja de células sanguíneas"
+  },
+  {
+    "entidad": "Topotecán",
+    "relacion": "trata",
+    "valor": "cáncer de pulmón de células pequeñas"
+  },
+  {
+    "entidad": "Topotecán",
+    "relacion": "uso",
+    "valor": "cápsulas por vía oral una vez al día durante 5 días cada 21 días"
+  },
+  {
+    "entidad": "Topotecán",
+    "relacion": "se_administra_via",
+    "valor": "oral"
+  },
+  {
+    "entidad": "Topotecán",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos actuales"
+  },
+  {
+    "entidad": "Topotecán",
+    "relacion": "dieta",
+    "valor": "dieta normal a menos que se indique lo contrario"
+  },
+  {
+    "entidad": "Topotecán",
+    "relacion": "olvido",
+    "valor": "omitir la dosis y continuar con el programa habitual"
+  },
+  {
+    "entidad": "Topotecán",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Topotecán",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Topotecán",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Topotecán",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de apetito"
+  },
+  {
+    "entidad": "Topotecán",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida del cabello"
+  },
+  {
+    "entidad": "Topotecán",
+    "relacion": "efecto_secundario",
+    "valor": "urticaria"
+  },
+  {
+    "entidad": "Topotecán",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Topotecán",
+    "relacion": "efecto_secundario",
+    "valor": "picazón"
+  },
+  {
+    "entidad": "Topotecán",
+    "relacion": "efecto_secundario",
+    "valor": "ronquera"
+  },
+  {
+    "entidad": "Topotecán",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para respirar o tragar"
+  },
+  {
+    "entidad": "Topotecán",
+    "relacion": "almacenamiento",
+    "valor": "en su empaque original, bien cerrado y en refrigeración"
+  },
+  {
+    "entidad": "Topotecán",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Topotecán",
+    "relacion": "marca_comercial",
+    "valor": "Hycamtin ®"
+  },
+  {
+    "entidad": "Triazolam",
+    "relacion": "contraindicado_en",
+    "valor": "aumento del riesgo de problemas graves de respiración, sedación o coma si se usa con ciertos medicamentos opioides"
+  },
+  {
+    "entidad": "Triazolam",
+    "relacion": "trata",
+    "valor": "insomnio"
+  },
+  {
+    "entidad": "Triazolam",
+    "relacion": "uso",
+    "valor": "tomar según sea necesario a la hora de acostarse, no con alimentos"
+  },
+  {
+    "entidad": "Triazolam",
+    "relacion": "se_administra_via",
+    "valor": "vía oral"
+  },
+  {
+    "entidad": "Triazolam",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos actuales"
+  },
+  {
+    "entidad": "Triazolam",
+    "relacion": "dieta",
+    "valor": "no comer pomelo ni tomar jugo de pomelo"
+  },
+  {
+    "entidad": "Triazolam",
+    "relacion": "olvido",
+    "valor": "tomar si puede quedarse en cama durante 7 a 8 horas"
+  },
+  {
+    "entidad": "Triazolam",
+    "relacion": "efecto_secundario",
+    "valor": "somnolencia"
+  },
+  {
+    "entidad": "Triazolam",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Triazolam",
+    "relacion": "efecto_secundario",
+    "valor": "aturdimiento"
+  },
+  {
+    "entidad": "Triazolam",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Triazolam",
+    "relacion": "efecto_secundario",
+    "valor": "problemas con la coordinación"
+  },
+  {
+    "entidad": "Triazolam",
+    "relacion": "efecto_secundario",
+    "valor": "nerviosismo"
+  },
+  {
+    "entidad": "Triazolam",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Triazolam",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Triazolam",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Triazolam",
+    "relacion": "efecto_secundario",
+    "valor": "urticaria"
+  },
+  {
+    "entidad": "Triazolam",
+    "relacion": "efecto_secundario",
+    "valor": "picazón"
+  },
+  {
+    "entidad": "Triazolam",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para respirar"
+  },
+  {
+    "entidad": "Triazolam",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, bien cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Triazolam",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento o a los servicios de emergencia"
+  },
+  {
+    "entidad": "Triazolam",
+    "relacion": "marca_comercial",
+    "valor": "Halcion"
+  }
+]

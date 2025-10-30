@@ -1,0 +1,167 @@
+[
+  {
+    "entidad": "MicroRNAs",
+    "relacion": "son",
+    "valor": "biomarcadores circulantes en diabetes mellitus tipo 2"
+  },
+  {
+    "entidad": "Diabetes Mellitus tipo 2",
+    "relacion": "es",
+    "valor": "una enfermedad metabólica de alta prevalencia"
+  },
+  {
+    "entidad": "ejercicio físico",
+    "relacion": "modifica",
+    "valor": "perfiles séricos de microRNAs"
+  },
+  {
+    "entidad": "microRNA-126",
+    "relacion": "es",
+    "valor": "un regulador de procesos angiogénicos"
+  },
+  {
+    "entidad": "ejercicio físico",
+    "relacion": "se considera",
+    "valor": "una de las primeras líneas de tratamiento para enfermedades metabólicas"
+  },
+  {
+    "entidad": "microRNAs",
+    "relacion": "pueden ser",
+    "valor": "biomarcadores tempranos de diabetes mellitus tipo 2"
+  },
+  {
+    "entidad": "miR-15a",
+    "relacion": "presenta",
+    "valor": "validez estadística como biomarcador en DM2"
+  },
+  {
+    "entidad": "miR-126",
+    "relacion": "se encuentra",
+    "valor": "disminuido en pacientes pre-diabéticos y diabéticos"
+  },
+  {
+    "entidad": "ejercicio físico",
+    "relacion": "induce",
+    "valor": "cambios en la concentración de microRNAs"
+  },
+  {
+    "entidad": "miR-192",
+    "relacion": "se asocia",
+    "valor": "con la esteatosis hepática"
+  },
+  {
+    "entidad": "miR-193b",
+    "relacion": "es",
+    "valor": "importante en la diferenciación del tejido adiposo"
+  },
+  {
+    "entidad": "ejercicio físico aeróbico",
+    "relacion": "induce",
+    "valor": "cambios en miRNAs de inflamación y angiogénesis"
+  },
+  {
+    "entidad": "miR-222",
+    "relacion": "se encuentra",
+    "valor": "aumentado en sujetos con baja capacidad aeróbica"
+  },
+  {
+    "entidad": "miR-21",
+    "relacion": "se asocia",
+    "valor": "con inflamación"
+  },
+  {
+    "entidad": "miR-210",
+    "relacion": "se encuentra",
+    "valor": "aumentado en sujetos con VO2max baja"
+  },
+  {
+    "entidad": "miR-24",
+    "relacion": "se asocia",
+    "valor": "con diabetes mellitus tipo 2 en población sueca"
+  },
+  {
+    "entidad": "miR-29b",
+    "relacion": "se asocia",
+    "valor": "con diabetes mellitus tipo 2 en población iraquí"
+  },
+  {
+    "entidad": "microRNAs",
+    "relacion": "pueden ser",
+    "valor": "marcadores en tiempo real de ejercicio físico"
+  },
+  {
+    "entidad": "Puntuaciones de Propensión",
+    "relacion": "definido como",
+    "valor": "probabilidad de recibir un tratamiento condicionado a un conjunto de covariables"
+  },
+  {
+    "entidad": "Estudios Observacionales",
+    "relacion": "implican",
+    "valor": "sesgo"
+  },
+  {
+    "entidad": "Modelo Contrafáctico",
+    "relacion": "se utiliza en",
+    "valor": "evaluar efectos causales"
+  },
+  {
+    "entidad": "Analgésico",
+    "relacion": "es efectivo en",
+    "valor": "alivio de cefalea"
+  },
+  {
+    "entidad": "Tercera Variable",
+    "relacion": "confunde",
+    "valor": "relación entre analgésico y alivio del dolor"
+  },
+  {
+    "entidad": "Estudios Observacionales",
+    "relacion": "se alejan de",
+    "valor": "principio contrafáctico"
+  },
+  {
+    "entidad": "Puntuaciones de Propensión",
+    "relacion": "reducen",
+    "valor": "variables de confusión a una sola"
+  },
+  {
+    "entidad": "Puntuaciones de Propensión",
+    "relacion": "requieren",
+    "valor": "muestras grandes"
+  },
+  {
+    "entidad": "Puntuaciones de Propensión",
+    "relacion": "se implementan en",
+    "valor": "paquetes estadísticos como STATA, R, SPSS, SAS"
+  },
+  {
+    "entidad": "Dexametasona",
+    "relacion": "disminuye",
+    "valor": "náuseas y vómitos postoperatorios"
+  },
+  {
+    "entidad": "Estudios Observacionales",
+    "relacion": "no permiten",
+    "valor": "equilibrar características no registradas"
+  },
+  {
+    "entidad": "Puntuaciones de Propensión",
+    "relacion": "aproximan",
+    "valor": "estudios observacionales al modelo contrafáctico"
+  },
+  {
+    "entidad": "Puntuaciones de Propensión",
+    "relacion": "ofrecen ventaja sobre",
+    "valor": "apareamiento al reducir dimensionalidad"
+  },
+  {
+    "entidad": "Dexametasona",
+    "relacion": "causa",
+    "valor": "disminución significativa en consumo de ondansetrón"
+  },
+  {
+    "entidad": "Puntuaciones de Propensión",
+    "relacion": "se utilizan para",
+    "valor": "compensar diferencias en grupos de estudio"
+  }
+]

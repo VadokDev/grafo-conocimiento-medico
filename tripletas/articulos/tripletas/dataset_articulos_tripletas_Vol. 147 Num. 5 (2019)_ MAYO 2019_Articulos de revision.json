@@ -1,0 +1,187 @@
+[
+  {
+    "entidad": "suplementos de creatina",
+    "relacion": "pueden elevar",
+    "valor": "niveles de creatinina sérica"
+  },
+  {
+    "entidad": "suplementos de creatina",
+    "relacion": "simulan",
+    "valor": "enfermedad renal"
+  },
+  {
+    "entidad": "suplementos de creatina",
+    "relacion": "no causan",
+    "valor": "enfermedad renal"
+  },
+  {
+    "entidad": "suplementos de creatina",
+    "relacion": "no deben ser usados por",
+    "valor": "personas con enfermedad renal crónica"
+  },
+  {
+    "entidad": "suplementos de creatina",
+    "relacion": "no deben ser usados por",
+    "valor": "personas que usan medicamentos nefrotóxicos"
+  },
+  {
+    "entidad": "suplementación de creatina",
+    "relacion": "aumenta",
+    "valor": "masa muscular"
+  },
+  {
+    "entidad": "suplementación de creatina",
+    "relacion": "mejora",
+    "valor": "potencia y fuerza durante el ejercicio"
+  },
+  {
+    "entidad": "suplementación de creatina",
+    "relacion": "reduce",
+    "valor": "fatiga durante entrenamientos"
+  },
+  {
+    "entidad": "creatina",
+    "relacion": "proviene de",
+    "valor": "síntesis hepática y dieta"
+  },
+  {
+    "entidad": "creatina",
+    "relacion": "se transforma en",
+    "valor": "creatinina"
+  },
+  {
+    "entidad": "creatinina",
+    "relacion": "es filtrada por",
+    "valor": "glomérulos"
+  },
+  {
+    "entidad": "creatinina",
+    "relacion": "es excretada en",
+    "valor": "orina"
+  },
+  {
+    "entidad": "suplementos de creatina",
+    "relacion": "pueden causar",
+    "valor": "sobrediagnóstico de insuficiencia renal"
+  },
+  {
+    "entidad": "suplementos de creatina",
+    "relacion": "no afectan",
+    "valor": "función renal en sujetos sanos"
+  },
+  {
+    "entidad": "suplementos de creatina",
+    "relacion": "se recomienda no usar en",
+    "valor": "pacientes con enfermedad renal"
+  },
+  {
+    "entidad": "suplementos de creatina",
+    "relacion": "pueden causar",
+    "valor": "disfunción renal en algunos casos"
+  },
+  {
+    "entidad": "creatinina",
+    "relacion": "se mide para evaluar",
+    "valor": "función renal"
+  },
+  {
+    "entidad": "evaluación de función renal",
+    "relacion": "debe realizarse con",
+    "valor": "métodos de referencia"
+  },
+  {
+    "entidad": "personas con discapacidad auditiva y visual",
+    "relacion": "representan",
+    "valor": "20% de personas con discapacidad"
+  },
+  {
+    "entidad": "personas con discapacidad auditiva y visual",
+    "relacion": "reportan",
+    "valor": "menor calidad de vida"
+  },
+  {
+    "entidad": "personas con discapacidad auditiva y visual",
+    "relacion": "tienen",
+    "valor": "mayor frecuencia de enfermedades físicas y psicológicas"
+  },
+  {
+    "entidad": "personas con discapacidad auditiva y visual",
+    "relacion": "enfrentan",
+    "valor": "dificultades para obtener atención sanitaria adecuada"
+  },
+  {
+    "entidad": "personas con discapacidad auditiva y visual",
+    "relacion": "reportan",
+    "valor": "poca disponibilidad de profesionales capacitados"
+  },
+  {
+    "entidad": "discapacidad auditiva",
+    "relacion": "afecta",
+    "valor": "mayores tasas de obesidad y hipertensión"
+  },
+  {
+    "entidad": "discapacidad auditiva",
+    "relacion": "asociada a",
+    "valor": "artritis, cáncer, enfermedades cardiovasculares"
+  },
+  {
+    "entidad": "discapacidad visual",
+    "relacion": "asociada a",
+    "valor": "mayor riesgo de ansiedad, depresión y demencia"
+  },
+  {
+    "entidad": "discapacidad visual",
+    "relacion": "incide negativamente en",
+    "valor": "calidad de vida de personas ancianas"
+  },
+  {
+    "entidad": "alfabetismo en salud",
+    "relacion": "reporta",
+    "valor": "48% de las personas con discapacidad auditiva un bajo alfabetismo"
+  },
+  {
+    "entidad": "personas con discapacidad auditiva",
+    "relacion": "enfrentan",
+    "valor": "barreras en comunicación con el personal de salud"
+  },
+  {
+    "entidad": "personas con discapacidad visual",
+    "relacion": "reportan",
+    "valor": "dificultades en la comunicación con médicos"
+  },
+  {
+    "entidad": "Ley sobre Discapacidad en Chile",
+    "relacion": "indica",
+    "valor": "diseño de espacios transitables y uso del sistema Braille"
+  },
+  {
+    "entidad": "programas de capacitación",
+    "relacion": "han demostrado",
+    "valor": "mejoras en la atención a personas con discapacidad"
+  },
+  {
+    "entidad": "Sensory Support Centre WISC",
+    "relacion": "presenta",
+    "valor": "alto nivel de satisfacción en el servicio"
+  },
+  {
+    "entidad": "Health Center for the Deaf",
+    "relacion": "ofrece",
+    "valor": "acceso real a la salud"
+  },
+  {
+    "entidad": "software para teléfonos móviles",
+    "relacion": "desarrollado por",
+    "valor": "Servicio Nacional de la Discapacidad"
+  },
+  {
+    "entidad": "personas con discapacidad auditiva",
+    "relacion": "reportan",
+    "valor": "menor conocimiento sobre enfermedad cardiovascular"
+  },
+  {
+    "entidad": "personas con discapacidad visual",
+    "relacion": "reportan",
+    "valor": "dificultades para leer etiquetas de medicamentos"
+  }
+]

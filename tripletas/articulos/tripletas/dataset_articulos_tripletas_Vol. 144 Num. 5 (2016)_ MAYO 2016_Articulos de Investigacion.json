@@ -1,0 +1,832 @@
+[
+  {
+    "entidad": "Instituto Nacional del Cáncer",
+    "relacion": "realiza",
+    "valor": "investigación sobre neoplasias y tromboembolismo"
+  },
+  {
+    "entidad": "Khorana score",
+    "relacion": "es utilizado para",
+    "valor": "estratificar el riesgo de tromboembolismo"
+  },
+  {
+    "entidad": "neoplasia activa",
+    "relacion": "afecta a",
+    "valor": "pacientes hospitalizados"
+  },
+  {
+    "entidad": "enfermedad tromboembólica venosa",
+    "relacion": "es una",
+    "valor": "condición grave"
+  },
+  {
+    "entidad": "cáncer",
+    "relacion": "multiplica el riesgo de",
+    "valor": "enfermedad tromboembólica venosa"
+  },
+  {
+    "entidad": "pacientes con cáncer",
+    "relacion": "tienen un riesgo mayor de",
+    "valor": "desarrollar enfermedad tromboembólica venosa"
+  },
+  {
+    "entidad": "profilaxis para ETE",
+    "relacion": "puede reducir",
+    "valor": "trombosis venosa y embolismo pulmonar"
+  },
+  {
+    "entidad": "Academia Americana de Oncología Clínica (ASCO)",
+    "relacion": "recomienda",
+    "valor": "tromboprofilaxis en pacientes con cáncer"
+  },
+  {
+    "entidad": "National Comprehensive Cancer Network (NCCN)",
+    "relacion": "recomienda",
+    "valor": "tromboprofilaxis en pacientes con cáncer"
+  },
+  {
+    "entidad": "Khorana score",
+    "relacion": "es una",
+    "valor": "escala predictiva"
+  },
+  {
+    "entidad": "dímero D",
+    "relacion": "es un",
+    "valor": "biomarcador para predecir ETE"
+  },
+  {
+    "entidad": "P-selectina",
+    "relacion": "es un",
+    "valor": "biomarcador para predecir ETE"
+  },
+  {
+    "entidad": "Khorana score",
+    "relacion": "ha sido validado en",
+    "valor": "diversos estudios internacionales"
+  },
+  {
+    "entidad": "pacientes oncológicos",
+    "relacion": "son",
+    "valor": "población de alto riesgo para ETE"
+  },
+  {
+    "entidad": "Khorana score",
+    "relacion": "permite",
+    "valor": "enfocar medidas de tromboprofilaxis"
+  },
+  {
+    "entidad": "enfermedad metastásica",
+    "relacion": "es un",
+    "valor": "factor de riesgo para ETE"
+  },
+  {
+    "entidad": "quimioterapia",
+    "relacion": "es un",
+    "valor": "tratamiento asociado a mayor riesgo de ETE"
+  },
+  {
+    "entidad": "pacientes hospitalizados",
+    "relacion": "pueden desarrollar",
+    "valor": "enfermedad tromboembólica venosa"
+  },
+  {
+    "entidad": "heparina",
+    "relacion": "es utilizada para",
+    "valor": "tratamiento de ETE"
+  },
+  {
+    "entidad": "marco legal chileno",
+    "relacion": "regula",
+    "valor": "derechos sexuales y reproductivos de adolescentes"
+  },
+  {
+    "entidad": "Ley 19.927",
+    "relacion": "tipifica",
+    "valor": "delito de violación en menores de 14 años"
+  },
+  {
+    "entidad": "Ley 20.418",
+    "relacion": "fija",
+    "valor": "normas sobre regulación de la fertilidad"
+  },
+  {
+    "entidad": "proveedores de salud",
+    "relacion": "exploran",
+    "valor": "conocimientos y práctica clínica"
+  },
+  {
+    "entidad": "embarazo adolescente",
+    "relacion": "es un",
+    "valor": "tema no resuelto"
+  },
+  {
+    "entidad": "atención clínica",
+    "relacion": "diferenciada para",
+    "valor": "adolescentes mayores de 14 años"
+  },
+  {
+    "entidad": "confidencialidad",
+    "relacion": "es un",
+    "valor": "derecho garantizado para mayores de 14 años"
+  },
+  {
+    "entidad": "menores de 14 años",
+    "relacion": "requieren",
+    "valor": "presencia de un adulto para atención"
+  },
+  {
+    "entidad": "denuncia",
+    "relacion": "es obligatoria para",
+    "valor": "actividad sexual en menores de 14 años"
+  },
+  {
+    "entidad": "anticoncepción de emergencia",
+    "relacion": "debe ser informada a",
+    "valor": "un adulto en menores de 14 años"
+  },
+  {
+    "entidad": "proveedores de salud",
+    "relacion": "sienten",
+    "valor": "inseguridad en la atención"
+  },
+  {
+    "entidad": "Ley 20.418",
+    "relacion": "garantiza",
+    "valor": "acceso a anticoncepción"
+  },
+  {
+    "entidad": "atención clínica",
+    "relacion": "es afectada por",
+    "valor": "interpretación del marco legal"
+  },
+  {
+    "entidad": "adolescentes",
+    "relacion": "son considerados",
+    "valor": "sujetos de derechos"
+  },
+  {
+    "entidad": "servicios de salud",
+    "relacion": "no se adecuan a",
+    "valor": "necesidades de adolescentes"
+  },
+  {
+    "entidad": "confidencialidad",
+    "relacion": "es un factor importante en",
+    "valor": "relación profesional-usuario"
+  },
+  {
+    "entidad": "embargo adolescente",
+    "relacion": "replica",
+    "valor": "inequidades sociales"
+  },
+  {
+    "entidad": "Ley de Responsabilidad Penal Juvenil",
+    "relacion": "indica",
+    "valor": "diferencia de 2 años para delitos"
+  },
+  {
+    "entidad": "atención clínica",
+    "relacion": "es condicionada por",
+    "valor": "criterio del profesional"
+  },
+  {
+    "entidad": "anticoncepción",
+    "relacion": "es indicada",
+    "valor": "según edad del adolescente"
+  },
+  {
+    "entidad": "actividad sexual consentida",
+    "relacion": "es confundida con",
+    "valor": "abuso sexual en menores de 14 años"
+  },
+  {
+    "entidad": "Enfermedad Cerebrovascular",
+    "relacion": "es",
+    "valor": "un problema de salud pública"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "tiene",
+    "valor": "la mayor causa de muerte desde 2008"
+  },
+  {
+    "entidad": "Servicio de Salud Araucanía Sur",
+    "relacion": "realiza",
+    "valor": "análisis de egresos hospitalarios"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "proporciona",
+    "valor": "bases de datos de egresos hospitalarios"
+  },
+  {
+    "entidad": "ECV",
+    "relacion": "representa",
+    "valor": "6% de todas las hospitalizaciones en adultos"
+  },
+  {
+    "entidad": "población mapuche",
+    "relacion": "constituye",
+    "valor": "31,3% de la población regional"
+  },
+  {
+    "entidad": "hipertensión arterial",
+    "relacion": "aumenta",
+    "valor": "el riesgo de ECV"
+  },
+  {
+    "entidad": "expectativa de vida",
+    "relacion": "fue",
+    "valor": "80,51 años para mujeres y 74,48 años para hombres en 2013"
+  },
+  {
+    "entidad": "ECV",
+    "relacion": "causa",
+    "valor": "18,2% de mortalidad al egreso"
+  },
+  {
+    "entidad": "isquemia cerebral transitoria",
+    "relacion": "tiene",
+    "valor": "99,9% de mejor pronóstico"
+  },
+  {
+    "entidad": "oclusión y estenosis de arterias precerebrales",
+    "relacion": "tiene",
+    "valor": "95,2% de mejor pronóstico"
+  },
+  {
+    "entidad": "mortalidad por ECV",
+    "relacion": "ha aumentado",
+    "valor": "en la mortalidad general"
+  },
+  {
+    "entidad": "nuevas intervenciones",
+    "relacion": "han disminuido",
+    "valor": "la mortalidad por ECV"
+  },
+  {
+    "entidad": "Comité de Ética del SSAS",
+    "relacion": "aprueba",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "TAC",
+    "relacion": "es recomendado",
+    "valor": "para la confirmación diagnóstica de ECV"
+  },
+  {
+    "entidad": "Malmgren et al.",
+    "relacion": "proponen",
+    "valor": "criterios para comparar información de ECV"
+  },
+  {
+    "entidad": "análisis de datos",
+    "relacion": "se realiza",
+    "valor": "con software SPSS"
+  },
+  {
+    "entidad": "días de hospitalización",
+    "relacion": "fluctúan",
+    "valor": "entre 1 y 10 días en 76,6% de los pacientes"
+  },
+  {
+    "entidad": "Fuerza de prensión manual",
+    "relacion": "es un",
+    "valor": "indicador de fuerza global"
+  },
+  {
+    "entidad": "Fuerza de prensión manual",
+    "relacion": "se utiliza como",
+    "valor": "predictor de cambios en la funcionalidad"
+  },
+  {
+    "entidad": "envejecimiento",
+    "relacion": "causa",
+    "valor": "pérdida de capacidades físicas, cognitivas y funcionales"
+  },
+  {
+    "entidad": "población adulta mayor",
+    "relacion": "está aumentando en",
+    "valor": "Chile"
+  },
+  {
+    "entidad": "sarcopenia",
+    "relacion": "es un",
+    "valor": "síndrome asociado a la pérdida de fuerza muscular"
+  },
+  {
+    "entidad": "EFAM",
+    "relacion": "es un",
+    "valor": "instrumento de evaluación funcional"
+  },
+  {
+    "entidad": "EFAM",
+    "relacion": "clasifica a",
+    "valor": "adultos mayores en tres categorías"
+  },
+  {
+    "entidad": "adultos mayores",
+    "relacion": "muestran riesgo de",
+    "valor": "patologías crónicas"
+  },
+  {
+    "entidad": "fuerza de prensión manual",
+    "relacion": "se relaciona con",
+    "valor": "rendimiento funcional"
+  },
+  {
+    "entidad": "Universidad Católica del Maule",
+    "relacion": "desarrolla",
+    "valor": "proyecto de investigación"
+  },
+  {
+    "entidad": "Comité de Bioética de la Universidad Católica del Maule",
+    "relacion": "aprueba",
+    "valor": "proyecto de investigación"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen menor",
+    "valor": "fuerza de prensión manual que hombres"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "mantienen mayor",
+    "valor": "rendimiento de fuerza prensil con la edad"
+  },
+  {
+    "entidad": "fuerza de prensión manual",
+    "relacion": "declina con",
+    "valor": "la edad"
+  },
+  {
+    "entidad": "fuerza de prensión manual",
+    "relacion": "se mide con",
+    "valor": "dinamómetro hidráulico"
+  },
+  {
+    "entidad": "proyecto SENAMA-UCM",
+    "relacion": "se ejecuta entre",
+    "valor": "2010 y 2011"
+  },
+  {
+    "entidad": "fuerza de prensión manual",
+    "relacion": "se relaciona con",
+    "valor": "nivel funcional según EFAM"
+  },
+  {
+    "entidad": "Hashimoto's Thyroiditis",
+    "relacion": "es un",
+    "valor": "enfermedad autoinmune"
+  },
+  {
+    "entidad": "deficiencia de vitamina D",
+    "relacion": "afecta a",
+    "valor": "niños con Hashimoto's Thyroiditis"
+  },
+  {
+    "entidad": "vitamina D",
+    "relacion": "regula",
+    "valor": "metabolismo de calcio y fósforo"
+  },
+  {
+    "entidad": "vitamina D",
+    "relacion": "tiene un rol en",
+    "valor": "patogénesis de enfermedades autoinmunes"
+  },
+  {
+    "entidad": "Gaziosmanpasa University",
+    "relacion": "realiza",
+    "valor": "investigación sobre Hashimoto's Thyroiditis"
+  },
+  {
+    "entidad": "anti-TPO",
+    "relacion": "se mide en",
+    "valor": "diagnóstico de Hashimoto's Thyroiditis"
+  },
+  {
+    "entidad": "niños con Hashimoto's Thyroiditis",
+    "relacion": "tienen",
+    "valor": "niveles más bajos de vitamina D que controles sanos"
+  },
+  {
+    "entidad": "vitamina D",
+    "relacion": "se asocia con",
+    "valor": "función inmune"
+  },
+  {
+    "entidad": "deficiencia de vitamina D",
+    "relacion": "se relaciona con",
+    "valor": "aumento de enfermedades autoinmunes"
+  },
+  {
+    "entidad": "niveles de vitamina D",
+    "relacion": "se consideran",
+    "valor": "indicadores del estado de vitamina D en el cuerpo"
+  },
+  {
+    "entidad": "Hashimoto's Thyroiditis",
+    "relacion": "es la causa más común de",
+    "valor": "hipotiroidismo adquirido en niños"
+  },
+  {
+    "entidad": "vitamina D",
+    "relacion": "puede prevenir",
+    "valor": "el desarrollo de enfermedades autoinmunes"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "evaluó",
+    "valor": "niveles de vitamina D en niños con Hashimoto's Thyroiditis"
+  },
+  {
+    "entidad": "deficiencia de vitamina D",
+    "relacion": "es más común en",
+    "valor": "niños con Hashimoto's Thyroiditis que en controles sanos"
+  },
+  {
+    "entidad": "Inventario Concepción",
+    "relacion": "es un",
+    "valor": "instrumento de tamizaje de depresión"
+  },
+  {
+    "entidad": "Departamento de Psiquiatría y Salud Mental",
+    "relacion": "pertenece a",
+    "valor": "Universidad de Concepción"
+  },
+  {
+    "entidad": "Universidad de Concepción",
+    "relacion": "se encuentra en",
+    "valor": "Concepción, Chile"
+  },
+  {
+    "entidad": "Proyecto FONDEF N° DO2I-1140",
+    "relacion": "financia",
+    "valor": "estudio"
+  },
+  {
+    "entidad": "Proyecto FONDECYT Nº 1110687",
+    "relacion": "financia",
+    "valor": "estudio"
+  },
+  {
+    "entidad": "Composite International Diagnostic Interview",
+    "relacion": "es un",
+    "valor": "entrevista estructurada para diagnóstico psiquiátrico"
+  },
+  {
+    "entidad": "CIE-10",
+    "relacion": "es utilizado por",
+    "valor": "Composite International Diagnostic Interview"
+  },
+  {
+    "entidad": "DSM-IV",
+    "relacion": "es utilizado por",
+    "valor": "Composite International Diagnostic Interview"
+  },
+  {
+    "entidad": "depresión",
+    "relacion": "es responsable de",
+    "valor": "años de vida saludable perdidos ajustados por discapacidad"
+  },
+  {
+    "entidad": "médicos no psiquiatras",
+    "relacion": "detectan",
+    "valor": "depresión en 36,4% de los casos"
+  },
+  {
+    "entidad": "instrumentos de tamizaje",
+    "relacion": "son",
+    "valor": "alternativa efectiva y de bajo costo"
+  },
+  {
+    "entidad": "Patient Health Questionnaire (PHQ-9)",
+    "relacion": "tiene",
+    "valor": "sensibilidad de 0,8 y especificidad de 0,92"
+  },
+  {
+    "entidad": "PHQ-2",
+    "relacion": "tiene",
+    "valor": "sensibilidad de 0,81 y especificidad de 0,76"
+  },
+  {
+    "entidad": "Cuestionario General de Salud de Goldberg",
+    "relacion": "tiene",
+    "valor": "sensibilidad de 76% y especificidad de 73%"
+  },
+  {
+    "entidad": "Self Report Questionnaire (SRQ-20)",
+    "relacion": "tiene",
+    "valor": "sensibilidad de 74% y especificidad de 77%"
+  },
+  {
+    "entidad": "gobiernos",
+    "relacion": "deciden",
+    "valor": "implementación de instrumentos de tamizaje en atención primaria"
+  },
+  {
+    "entidad": "Comité de Ética de la Facultad de Medicina",
+    "relacion": "aprueba",
+    "valor": "proyectos FONDEF y FONDECYT"
+  },
+  {
+    "entidad": "muestra de 3.000 sujetos",
+    "relacion": "es representativa de",
+    "valor": "población consultante"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "son seleccionados de",
+    "valor": "centros de atención primaria en salud"
+  },
+  {
+    "entidad": "entrevistas",
+    "relacion": "son realizadas por",
+    "valor": "entrevistadores capacitados"
+  },
+  {
+    "entidad": "modelo de regresión logística",
+    "relacion": "es utilizado para",
+    "valor": "identificar presencia de depresión"
+  },
+  {
+    "entidad": "c-index",
+    "relacion": "estima",
+    "valor": "poder discriminativo del modelo"
+  },
+  {
+    "entidad": "instrumento de tamizaje",
+    "relacion": "tiene",
+    "valor": "adecuadas propiedades psicométricas"
+  },
+  {
+    "entidad": "depresión",
+    "relacion": "afecta a",
+    "valor": "calidad de vida de las personas"
+  },
+  {
+    "entidad": "depresión",
+    "relacion": "incrementa",
+    "valor": "riesgo de enfermar por otras causas"
+  },
+  {
+    "entidad": "depresión",
+    "relacion": "incrementa",
+    "valor": "riesgo de muerte"
+  },
+  {
+    "entidad": "Modelo Integral de Salud Familiar y Comunitario",
+    "relacion": "se basa en",
+    "valor": "tres principios esenciales"
+  },
+  {
+    "entidad": "Modelo Integral de Salud Familiar y Comunitario",
+    "relacion": "incluye",
+    "valor": "atención centrada en el paciente"
+  },
+  {
+    "entidad": "Modelo Integral de Salud Familiar y Comunitario",
+    "relacion": "incluye",
+    "valor": "atención integral"
+  },
+  {
+    "entidad": "Modelo Integral de Salud Familiar y Comunitario",
+    "relacion": "incluye",
+    "valor": "continuidad del cuidado"
+  },
+  {
+    "entidad": "usuarios de clínicas de atención primaria",
+    "relacion": "tienen percepción sobre",
+    "valor": "elementos de atención centrada en el paciente"
+  },
+  {
+    "entidad": "relación profesional-paciente",
+    "relacion": "es un aspecto de",
+    "valor": "experiencias de pacientes"
+  },
+  {
+    "entidad": "fragmentación de la atención",
+    "relacion": "es un problema en",
+    "valor": "atención de salud"
+  },
+  {
+    "entidad": "continuidad de atención",
+    "relacion": "es valorada por",
+    "valor": "usuarios que desean atención con los mismos profesionales"
+  },
+  {
+    "entidad": "promoción y prevención",
+    "relacion": "son necesidades expresadas por",
+    "valor": "usuarios en centros de salud"
+  },
+  {
+    "entidad": "disponibilidad de servicios",
+    "relacion": "es considerada esencial por",
+    "valor": "usuarios para atención de salud"
+  },
+  {
+    "entidad": "registros de pacientes",
+    "relacion": "son necesarios para",
+    "valor": "asegurar calidad de atención"
+  },
+  {
+    "entidad": "Fondo Nacional de Investigación en Salud (FONIS)",
+    "relacion": "financia",
+    "valor": "proyecto de investigación"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "es la institución de",
+    "valor": "los autores del estudio"
+  },
+  {
+    "entidad": "atención centrada en el usuario",
+    "relacion": "es un principio de",
+    "valor": "Atención Primaria de Salud (APS)"
+  },
+  {
+    "entidad": "atención integral",
+    "relacion": "exige",
+    "valor": "complementariedad de servicios"
+  },
+  {
+    "entidad": "continuidad de atención",
+    "relacion": "se refiere a",
+    "valor": "coherencia en atención a lo largo de la vida"
+  },
+  {
+    "entidad": "sistema de salud chileno",
+    "relacion": "presenta dificultades para",
+    "valor": "acceso a atención de salud"
+  },
+  {
+    "entidad": "usuarios",
+    "relacion": "desean",
+    "valor": "sistemas en línea para seguimiento de atención"
+  },
+  {
+    "entidad": "inmigrantes sudamericanos",
+    "relacion": "residen",
+    "valor": "norte de Chile"
+  },
+  {
+    "entidad": "estrés por aculturación",
+    "relacion": "afecta a",
+    "valor": "salud mental"
+  },
+  {
+    "entidad": "salud mental",
+    "relacion": "se manifiesta en",
+    "valor": "trastornos ansiosos y depresivos"
+  },
+  {
+    "entidad": "distancia con el origen",
+    "relacion": "es una fuente de",
+    "valor": "estrés por aculturación"
+  },
+  {
+    "entidad": "dificultades en relaciones sociales",
+    "relacion": "contribuye a",
+    "valor": "estrés por aculturación"
+  },
+  {
+    "entidad": "percepción de discriminación",
+    "relacion": "es un factor de",
+    "valor": "estrés por aculturación"
+  },
+  {
+    "entidad": "aculturación",
+    "relacion": "involucra",
+    "valor": "cambios psicológicos"
+  },
+  {
+    "entidad": "mujeres inmigrantes",
+    "relacion": "reportan",
+    "valor": "mayores puntajes en salud mental"
+  },
+  {
+    "entidad": "población colombiana",
+    "relacion": "presenta",
+    "valor": "mayor estrés por aculturación que la población peruana"
+  },
+  {
+    "entidad": "red de apoyo social",
+    "relacion": "se ve afectada por",
+    "valor": "migración"
+  },
+  {
+    "entidad": "estrés por aculturación",
+    "relacion": "correlaciona con",
+    "valor": "síntomas de salud mental"
+  },
+  {
+    "entidad": "Instituto Católico Chileno de Migración (INCAMI)",
+    "relacion": "es una institución que",
+    "valor": "apoya a inmigrantes"
+  },
+  {
+    "entidad": "escuela de Psicología, Universidad Católica del Norte",
+    "relacion": "realiza",
+    "valor": "investigación en salud mental"
+  },
+  {
+    "entidad": "escala OQ",
+    "relacion": "evalúa",
+    "valor": "salud mental"
+  },
+  {
+    "entidad": "escala de estrés por aculturación",
+    "relacion": "evalúa",
+    "valor": "niveles de estrés en inmigrantes"
+  },
+  {
+    "entidad": "Comités de Ética Científica",
+    "relacion": "aprueban",
+    "valor": "proyectos de investigación"
+  },
+  {
+    "entidad": "CONICYT",
+    "relacion": "financia",
+    "valor": "proyectos de investigación"
+  },
+  {
+    "entidad": "Short Assessment of Health Literacy for Spanish-speaking Adults (SAHLSA-50)",
+    "relacion": "es un",
+    "valor": "instrumento para evaluar alfabetización en salud"
+  },
+  {
+    "entidad": "alfabetización en salud",
+    "relacion": "se define como",
+    "valor": "el grado en que los individuos obtienen, procesan y comprenden información básica de salud"
+  },
+  {
+    "entidad": "alfabetización en salud",
+    "relacion": "es crítica para",
+    "valor": "el pronóstico de enfermedades crónicas"
+  },
+  {
+    "entidad": "Universidad San Sebastián",
+    "relacion": "realiza",
+    "valor": "proyecto de investigación sobre alfabetización en salud"
+  },
+  {
+    "entidad": "Comité de ética",
+    "relacion": "autoriza",
+    "valor": "el estudio de validación del SAHLSA-50"
+  },
+  {
+    "entidad": "análisis factorial exploratorio",
+    "relacion": "se utiliza para",
+    "valor": "simplificar la estructura de los datos"
+  },
+  {
+    "entidad": "análisis factorial confirmatorio",
+    "relacion": "se utiliza para",
+    "valor": "confirmar la estructura de los datos"
+  },
+  {
+    "entidad": "Teoría de Respuesta al Ítem (IRT)",
+    "relacion": "se utiliza para",
+    "valor": "relacionar rasgos latentes con la probabilidad de respuesta correcta"
+  },
+  {
+    "entidad": "ítems del SAHLSA-50",
+    "relacion": "son indicadores de",
+    "valor": "un único factor latente que corresponde a la alfabetización en salud"
+  },
+  {
+    "entidad": "María José Monsalves",
+    "relacion": "es un",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "JaiMe Mañalich",
+    "relacion": "es un",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "Eduardo Fuentes",
+    "relacion": "es un",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "carga factorial",
+    "relacion": "indica",
+    "valor": "la relación entre los ítems y el factor latente"
+  },
+  {
+    "entidad": "ítems con bajo R2",
+    "relacion": "deben ser considerados para",
+    "valor": "eliminación en estudios futuros"
+  },
+  {
+    "entidad": "SAHLSA-50",
+    "relacion": "se propone como",
+    "valor": "herramienta útil para evaluar alfabetización en salud en Chile"
+  },
+  {
+    "entidad": "educación y promoción de la salud",
+    "relacion": "se benefician de",
+    "valor": "la incorporación del SAHLSA-50 en la investigación local"
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "entidad": "Angiomiolipoma hepático epitelioide",
+    "relacion": "es un",
+    "valor": "tumor mesenquimal"
+  },
+  {
+    "entidad": "Angiomiolipoma hepático epitelioide",
+    "relacion": "pertenece a",
+    "valor": "grupo de tumores de células epitelioides perivasculares"
+  },
+  {
+    "entidad": "Angiomiolipoma hepático epitelioide",
+    "relacion": "puede mostrar",
+    "valor": "comportamiento maligno"
+  },
+  {
+    "entidad": "Mujer de 34 años",
+    "relacion": "presenta",
+    "valor": "lesión focal hepática"
+  },
+  {
+    "entidad": "lesión focal hepática",
+    "relacion": "fue descubierta por",
+    "valor": "ultrasonido"
+  },
+  {
+    "entidad": "biopsia",
+    "relacion": "confirma",
+    "valor": "diagnóstico de Angiomiolipoma hepático epitelioide"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "rechaza",
+    "valor": "surgical excision"
+  },
+  {
+    "entidad": "Angiomiolipoma hepático",
+    "relacion": "es un",
+    "valor": "diagnóstico diferencial del adenoma hepático"
+  },
+  {
+    "entidad": "esclerosis tuberosa",
+    "relacion": "se asocia a",
+    "valor": "presencia de Angiomiolipoma"
+  },
+  {
+    "entidad": "Angiomiolipoma hepático",
+    "relacion": "puede requerir",
+    "valor": "tratamiento quirúrgico"
+  },
+  {
+    "entidad": "tratamiento",
+    "relacion": "es variable",
+    "valor": "dependiendo de las características del tumor"
+  },
+  {
+    "entidad": "biopsia hepática",
+    "relacion": "aporta",
+    "valor": "valor en el diagnóstico de lesiones"
+  },
+  {
+    "entidad": "Angiomiolipoma hepático",
+    "relacion": "puede ser",
+    "valor": "manejados de forma expectante o quirúrgica"
+  },
+  {
+    "entidad": "Angiomiolipoma hepático",
+    "relacion": "presenta",
+    "valor": "comportamiento benigno en la mayoría de los casos"
+  },
+  {
+    "entidad": "Polineuropatía por amiloidosis por transtiretina",
+    "relacion": "es un",
+    "valor": "trastorno genético"
+  },
+  {
+    "entidad": "amiloidosis hereditaria por transtiretina",
+    "relacion": "es un",
+    "valor": "enfermedad genética"
+  },
+  {
+    "entidad": "TTR",
+    "relacion": "es un",
+    "valor": "gen asociado a amiloidosis"
+  },
+  {
+    "entidad": "mutación Val50Met",
+    "relacion": "es un",
+    "valor": "mutación frecuente en amiloidosis"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "presentan",
+    "valor": "diferencias en la presentación clínica"
+  },
+  {
+    "entidad": "diagnóstico",
+    "relacion": "es",
+    "valor": "complejo"
+  },
+  {
+    "entidad": "sospecha temprana",
+    "relacion": "mejora",
+    "valor": "supervivencia"
+  },
+  {
+    "entidad": "mujer de 69 años",
+    "relacion": "presenta",
+    "valor": "polineuropatía sensitivo-motora"
+  },
+  {
+    "entidad": "biopsia vítrea",
+    "relacion": "identifica",
+    "valor": "depósitos de sustancia amiloide"
+  },
+  {
+    "entidad": "Kappa/Lambda index",
+    "relacion": "es un",
+    "valor": "indicador en amiloidosis"
+  },
+  {
+    "entidad": "quimioterapia",
+    "relacion": "es un",
+    "valor": "tratamiento indicado"
+  },
+  {
+    "entidad": "grupo multidisciplinario de estudio de Amiloidosis",
+    "relacion": "evalúa",
+    "valor": "casos de amiloidosis"
+  },
+  {
+    "entidad": "secuenciación del gen TTR",
+    "relacion": "confirma",
+    "valor": "mutación patogénica"
+  },
+  {
+    "entidad": "trasplante hepático",
+    "relacion": "es un",
+    "valor": "terapia propuesta"
+  },
+  {
+    "entidad": "tafamidis",
+    "relacion": "es un",
+    "valor": "estabilizador de TTR"
+  },
+  {
+    "entidad": "patisirán",
+    "relacion": "es un",
+    "valor": "terapia génica"
+  },
+  {
+    "entidad": "inotersen",
+    "relacion": "es un",
+    "valor": "terapia génica"
+  },
+  {
+    "entidad": "amiloidosis",
+    "relacion": "es un",
+    "valor": "grupo de enfermedades raras"
+  },
+  {
+    "entidad": "sistema nervioso periférico",
+    "relacion": "es afectado por",
+    "valor": "amiloidosis hereditaria por transtiretina"
+  },
+  {
+    "entidad": "diagnóstico",
+    "relacion": "depende de",
+    "valor": "área geográfica"
+  },
+  {
+    "entidad": "signos de alarma",
+    "relacion": "son necesarios para",
+    "valor": "sospecha diagnóstica"
+  }
+]

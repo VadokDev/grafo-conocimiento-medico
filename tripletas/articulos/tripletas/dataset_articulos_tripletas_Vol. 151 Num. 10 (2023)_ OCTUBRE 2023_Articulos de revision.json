@@ -1,0 +1,407 @@
+[
+  {
+    "entidad": "tecnología",
+    "relacion": "aplica",
+    "valor": "integración de la atención prehospitalaria"
+  },
+  {
+    "entidad": "atención prehospitalaria",
+    "relacion": "es parte de",
+    "valor": "red de salud"
+  },
+  {
+    "entidad": "PRISMA",
+    "relacion": "es un",
+    "valor": "marco metodológico"
+  },
+  {
+    "entidad": "Infoway Benefits Evaluation Framework",
+    "relacion": "utiliza",
+    "valor": "análisis de beneficios"
+  },
+  {
+    "entidad": "acceso en tiempo real a la ficha del paciente",
+    "relacion": "mejora",
+    "valor": "calidad de atención"
+  },
+  {
+    "entidad": "minimización de tiempos de espera",
+    "relacion": "aumenta",
+    "valor": "productividad del sistema"
+  },
+  {
+    "entidad": "problemas con acceso a internet",
+    "relacion": "limita",
+    "valor": "efectividad de la tecnología"
+  },
+  {
+    "entidad": "proveedores de tecnología",
+    "relacion": "deben ser",
+    "valor": "confiables"
+  },
+  {
+    "entidad": "satisfacción usuaria",
+    "relacion": "es clave para",
+    "valor": "éxito en la implementación"
+  },
+  {
+    "entidad": "Ministerio de Salud (MINSAL)",
+    "relacion": "implementa",
+    "valor": "Redes Integradas de Servicios de Salud (RISS)"
+  },
+  {
+    "entidad": "telemedicina",
+    "relacion": "facilita",
+    "valor": "coordinación de atención"
+  },
+  {
+    "entidad": "internet de las cosas (IoT)",
+    "relacion": "facilita",
+    "valor": "integración entre usuarios y equipos de rescate"
+  },
+  {
+    "entidad": "WhatsApp",
+    "relacion": "se utiliza para",
+    "valor": "diagnóstico y tratamiento"
+  },
+  {
+    "entidad": "calidad del sistema",
+    "relacion": "afecta",
+    "valor": "satisfacción usuaria"
+  },
+  {
+    "entidad": "ancho de banda limitado",
+    "relacion": "afecta",
+    "valor": "transmisión de datos"
+  },
+  {
+    "entidad": "sensores corporales",
+    "relacion": "son",
+    "valor": "frágiles"
+  },
+  {
+    "entidad": "gestión de la información",
+    "relacion": "es clave para",
+    "valor": "lograr objetivos de calidad"
+  },
+  {
+    "entidad": "Next Generation 911 (NG911)",
+    "relacion": "es un",
+    "valor": "sistema digital"
+  },
+  {
+    "entidad": "costos elevados de instalación",
+    "relacion": "son un",
+    "valor": "obstáculo para implementación"
+  },
+  {
+    "entidad": "calidad de la atención",
+    "relacion": "mejora",
+    "valor": "con tecnología adecuada"
+  },
+  {
+    "entidad": "desfibriladores automáticos implantables (DAI)",
+    "relacion": "es un",
+    "valor": "dispositivo médico"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "utilizan",
+    "valor": "desfibriladores automáticos implantables (DAI)"
+  },
+  {
+    "entidad": "fin de vida",
+    "relacion": "afecta a",
+    "valor": "pacientes con DAI"
+  },
+  {
+    "entidad": "desactivación de DAI",
+    "relacion": "busca",
+    "valor": "confort del paciente"
+  },
+  {
+    "entidad": "desactivación de DAI",
+    "relacion": "evita",
+    "valor": "descargas durante el fin de vida"
+  },
+  {
+    "entidad": "barreras comunicacionales y operacionales",
+    "relacion": "existen en",
+    "valor": "la discusión sobre la desactivación de DAI"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "no discuten",
+    "valor": "la desactivación de DAI con sus médicos"
+  },
+  {
+    "entidad": "conocimiento",
+    "relacion": "es bajo entre",
+    "valor": "pacientes, familiares y médicos sobre DAI"
+  },
+  {
+    "entidad": "desactivación de DAI",
+    "relacion": "es considerada como",
+    "valor": "eutanasia o suicidio asistido por algunos pacientes"
+  },
+  {
+    "entidad": "manejo de pacientes en hospicios",
+    "relacion": "es",
+    "valor": "poco estandarizado"
+  },
+  {
+    "entidad": "descargas de DAI",
+    "relacion": "causan",
+    "valor": "angustia a pacientes y familiares"
+  },
+  {
+    "entidad": "decisiones compartidas",
+    "relacion": "son necesarias para",
+    "valor": "el bienestar del paciente"
+  },
+  {
+    "entidad": "guías internacionales",
+    "relacion": "recomiendan",
+    "valor": "discutir la desactivación de DAI antes de la instalación"
+  },
+  {
+    "entidad": "pacientes con síntomas refractarios",
+    "relacion": "deben discutir",
+    "valor": "la desactivación de DAI"
+  },
+  {
+    "entidad": "Ley Nº 20.584",
+    "relacion": "consagra",
+    "valor": "derecho a otorgar o denegar tratamientos"
+  },
+  {
+    "entidad": "Ley N° 21.375",
+    "relacion": "consagra",
+    "valor": "Cuidados Paliativos y derechos de pacientes terminales"
+  },
+  {
+    "entidad": "voluntades anticipadas",
+    "relacion": "deben ser",
+    "valor": "respetadas por el equipo interdisciplinario"
+  },
+  {
+    "entidad": "desactivación unilateral por parte del médico",
+    "relacion": "no es considerada ética por",
+    "valor": "78% de los pacientes usuarios de DAI"
+  },
+  {
+    "entidad": "educación a pacientes",
+    "relacion": "debe ser",
+    "valor": "enfática antes, durante y después de la instalación del DAI"
+  },
+  {
+    "entidad": "desactivación de DAI",
+    "relacion": "debe ser discutida",
+    "valor": "en pacientes con alto riesgo de fallecer"
+  },
+  {
+    "entidad": "decisiones compartidas",
+    "relacion": "deben incluir",
+    "valor": "aspectos biomédicos y prioridades del paciente"
+  },
+  {
+    "entidad": "Premio Nobel",
+    "relacion": "se originó en",
+    "valor": "1895"
+  },
+  {
+    "entidad": "Alfred Nobel",
+    "relacion": "firmó",
+    "valor": "su testamento"
+  },
+  {
+    "entidad": "Fundación Nobel",
+    "relacion": "fue creada por",
+    "valor": "Alfred Nobel"
+  },
+  {
+    "entidad": "Premio Nobel",
+    "relacion": "se otorga en",
+    "valor": "física, fisiología o medicina, química, literatura, paz y economía"
+  },
+  {
+    "entidad": "Premio Nobel",
+    "relacion": "ha sido otorgado a",
+    "valor": "943 personas y 25 organizaciones"
+  },
+  {
+    "entidad": "Premio Nobel",
+    "relacion": "ha permitido",
+    "valor": "desarrollo en la comprensión, diagnóstico y tratamiento del cáncer"
+  },
+  {
+    "entidad": "GLOBOCAN",
+    "relacion": "estima que",
+    "valor": "19 millones de nuevos casos de cáncer y casi 10 millones de muertes en 2020"
+  },
+  {
+    "entidad": "cáncer",
+    "relacion": "es tratado con",
+    "valor": "cirugía, radioterapia, quimioterapia, inmunoterapia"
+  },
+  {
+    "entidad": "Premio Nobel",
+    "relacion": "ha inspirado",
+    "valor": "miles de científicos en oncología"
+  },
+  {
+    "entidad": "Premio Nobel",
+    "relacion": "contribuyó a",
+    "valor": "conocimiento, diagnóstico y tratamiento oncológico desde 1901 a 2021"
+  },
+  {
+    "entidad": "Charles Richet",
+    "relacion": "recibió el premio Nobel por",
+    "valor": "su trabajo sobre la anafilaxia"
+  },
+  {
+    "entidad": "Johannes Fibiger",
+    "relacion": "recibió el premio Nobel por",
+    "valor": "descubrir el Spiroptera carcinoma"
+  },
+  {
+    "entidad": "Peyton Rous",
+    "relacion": "recibió el premio Nobel por",
+    "valor": "descubrir los virus inductores de tumores"
+  },
+  {
+    "entidad": "Charles Brenton Huggins",
+    "relacion": "recibió el premio Nobel por",
+    "valor": "descubrir el tratamiento hormonal del cáncer de próstata"
+  },
+  {
+    "entidad": "J. Michael Bishop",
+    "relacion": "recibió el premio Nobel por",
+    "valor": "descubrir el origen celular de los oncogenes retrovirales"
+  },
+  {
+    "entidad": "Sydney Brenner",
+    "relacion": "recibió el premio Nobel por",
+    "valor": "sus descubrimientos sobre la regulación genética del desarrollo de órganos"
+  },
+  {
+    "entidad": "Harald zur Hausen",
+    "relacion": "recibió el premio Nobel por",
+    "valor": "descubrir los virus del papiloma humano que causa cáncer de cuello uterino"
+  },
+  {
+    "entidad": "Tomas Lindahl",
+    "relacion": "recibió el premio Nobel por",
+    "valor": "el estudio del mecanismo de reparación del ADN"
+  },
+  {
+    "entidad": "James Allison",
+    "relacion": "recibió el premio Nobel por",
+    "valor": "sus descubrimientos de la terapia contra el cáncer mediante la inhibición de la regulación inmune negativa"
+  },
+  {
+    "entidad": "Emmanuelle Charpentier",
+    "relacion": "recibió el premio Nobel por",
+    "valor": "el desarrollo de un método para la edición del genoma"
+  },
+  {
+    "entidad": "Siponimod",
+    "relacion": "es un",
+    "valor": "medicamento inmunosupresor selectivo"
+  },
+  {
+    "entidad": "Siponimod",
+    "relacion": "es utilizado para",
+    "valor": "el tratamiento de la esclerosis múltiple secundaria progresiva activa"
+  },
+  {
+    "entidad": "S1P",
+    "relacion": "es un",
+    "valor": "receptor modulado por siponimod"
+  },
+  {
+    "entidad": "CYP2C9",
+    "relacion": "metaboliza",
+    "valor": "siponimod"
+  },
+  {
+    "entidad": "FDA",
+    "relacion": "recomienda",
+    "valor": "realizar un estudio de genotipificación de CYP2C9"
+  },
+  {
+    "entidad": "CYP2C9*3",
+    "relacion": "es un",
+    "valor": "genotipo contraindicado para siponimod"
+  },
+  {
+    "entidad": "siponimod",
+    "relacion": "requiere",
+    "valor": "titulación de dosis"
+  },
+  {
+    "entidad": "siponimod",
+    "relacion": "previene",
+    "valor": "la salida de linfocitos desde los ganglios linfáticos"
+  },
+  {
+    "entidad": "esclerosis múltiple",
+    "relacion": "es una",
+    "valor": "enfermedad neurodegenerativa"
+  },
+  {
+    "entidad": "CYP2C9*2",
+    "relacion": "es un",
+    "valor": "polimorfismo genético que afecta el metabolismo de siponimod"
+  },
+  {
+    "entidad": "siponimod",
+    "relacion": "tiene efectos",
+    "valor": "dependientes de la dosis"
+  },
+  {
+    "entidad": "siponimod",
+    "relacion": "es administrado por",
+    "valor": "vía oral"
+  },
+  {
+    "entidad": "RELIVAF",
+    "relacion": "es una",
+    "valor": "red de implementación y validación de guías clínicas farmacogenómicas"
+  },
+  {
+    "entidad": "siponimod",
+    "relacion": "puede causar",
+    "valor": "eventos adversos como infecciones"
+  },
+  {
+    "entidad": "siponimod",
+    "relacion": "debe ser evaluado con",
+    "valor": "un hemograma completo antes de su administración"
+  },
+  {
+    "entidad": "siponimod",
+    "relacion": "se recomienda en",
+    "valor": "pacientes con características típicas de un proceso inflamatorio"
+  },
+  {
+    "entidad": "CYP2C9",
+    "relacion": "afecta",
+    "valor": "la respuesta a siponimod"
+  },
+  {
+    "entidad": "siponimod",
+    "relacion": "promueve",
+    "valor": "la remielinización"
+  },
+  {
+    "entidad": "CYP2C9",
+    "relacion": "tiene variantes",
+    "valor": "que clasifican a los pacientes como metabolizadores pobres, intermedios o extensivos"
+  },
+  {
+    "entidad": "siponimod",
+    "relacion": "es contraindicado en",
+    "valor": "pacientes homocigotos para CYP2C9*3"
+  }
+]

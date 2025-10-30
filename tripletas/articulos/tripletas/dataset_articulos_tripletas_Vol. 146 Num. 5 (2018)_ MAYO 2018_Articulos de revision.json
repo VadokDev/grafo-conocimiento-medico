@@ -1,0 +1,192 @@
+[
+  {
+    "entidad": "fluoroquinolonas",
+    "relacion": "causa",
+    "valor": "disglucemia"
+  },
+  {
+    "entidad": "disglucemia",
+    "relacion": "asociada a",
+    "valor": "fluoroquinolonas"
+  },
+  {
+    "entidad": "hipoglucemia",
+    "relacion": "es un tipo de",
+    "valor": "disglucemia"
+  },
+  {
+    "entidad": "hiperglucemia",
+    "relacion": "es un tipo de",
+    "valor": "disglucemia"
+  },
+  {
+    "entidad": "Ciprofloxacina",
+    "relacion": "puede causar",
+    "valor": "hipoglucemia"
+  },
+  {
+    "entidad": "Levofloxacina",
+    "relacion": "puede causar",
+    "valor": "hipoglucemia"
+  },
+  {
+    "entidad": "Moxifloxacina",
+    "relacion": "puede causar",
+    "valor": "hipoglucemia"
+  },
+  {
+    "entidad": "pacientes diabéticos",
+    "relacion": "tienen mayor riesgo de",
+    "valor": "hipoglucemia severa"
+  },
+  {
+    "entidad": "edad avanzada",
+    "relacion": "es un factor de riesgo para",
+    "valor": "hipoglucemia"
+  },
+  {
+    "entidad": "falla renal",
+    "relacion": "es un factor de riesgo para",
+    "valor": "hipoglucemia"
+  },
+  {
+    "entidad": "sulfonilureas",
+    "relacion": "aumentan el riesgo de",
+    "valor": "hipoglucemia"
+  },
+  {
+    "entidad": "Grupo de investigación Promoción y Prevención Farmacéutica",
+    "relacion": "recibió",
+    "valor": "financiación de la universidad de antioquia"
+  },
+  {
+    "entidad": "Grupo investigación clínica HPtu",
+    "relacion": "es un",
+    "valor": "hospital"
+  },
+  {
+    "entidad": "Universidad de Antioquia",
+    "relacion": "es un",
+    "valor": "institución educativa"
+  },
+  {
+    "entidad": "interacciones medicamentosas",
+    "relacion": "pueden causar",
+    "valor": "cambios en la glucemia"
+  },
+  {
+    "entidad": "mecanismo farmacodinámico",
+    "relacion": "es relevante para",
+    "valor": "interacciones medicamentosas"
+  },
+  {
+    "entidad": "fluoroquinolonas",
+    "relacion": "inhiben",
+    "valor": "ADN girasa"
+  },
+  {
+    "entidad": "ADN girasa",
+    "relacion": "es inhibido por",
+    "valor": "fluoroquinolonas"
+  },
+  {
+    "entidad": "insulina",
+    "relacion": "es liberada por",
+    "valor": "fluoroquinolonas"
+  },
+  {
+    "entidad": "pacientes con diabetes",
+    "relacion": "deben considerar",
+    "valor": "riesgo de hipoglucemia"
+  },
+  {
+    "entidad": "revisión estructurada",
+    "relacion": "se realizó en",
+    "valor": "PubMed/Medline"
+  },
+  {
+    "entidad": "interacciones medicamentosas",
+    "relacion": "se clasifican en",
+    "valor": "gravedad y probabilidad"
+  },
+  {
+    "entidad": "Hipertensión arterial pulmonar",
+    "relacion": "es un",
+    "valor": "entidad crónica y progresiva"
+  },
+  {
+    "entidad": "entrenamiento físico",
+    "relacion": "es un",
+    "valor": "complemento de la terapia farmacológica"
+  },
+  {
+    "entidad": "rehabilitación cardiopulmonar",
+    "relacion": "es",
+    "valor": "una terapia prometedora para la hipertensión arterial pulmonar"
+  },
+  {
+    "entidad": "sobrevida en hipertensión arterial pulmonar",
+    "relacion": "no supera",
+    "valor": "65% a cinco años"
+  },
+  {
+    "entidad": "ejercicios aplicados",
+    "relacion": "incluyen",
+    "valor": "aeróbicos, de resistencia y de entrenamiento de músculos respiratorios"
+  },
+  {
+    "entidad": "rehabilitación",
+    "relacion": "mejora",
+    "valor": "calidad de vida y capacidad funcional"
+  },
+  {
+    "entidad": "terapia farmacológica",
+    "relacion": "debe ser complementada con",
+    "valor": "estrategias efectivas para mejorar la calidad de vida"
+  },
+  {
+    "entidad": "pacientes con hipertensión arterial pulmonar",
+    "relacion": "deben ser",
+    "valor": "supervisados durante la rehabilitación"
+  },
+  {
+    "entidad": "entrenamiento físico",
+    "relacion": "debe ser",
+    "valor": "supervisado por personal especializado"
+  },
+  {
+    "entidad": "entrenamiento en intervalos de alta intensidad (HIIT)",
+    "relacion": "ha mostrado",
+    "valor": "beneficios en patologías cardiorespiratorias"
+  },
+  {
+    "entidad": "ejercicio terapéutico",
+    "relacion": "es considerado",
+    "valor": "un pilar adicional en el tratamiento de la hipertensión arterial pulmonar"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud (OMS)",
+    "relacion": "clasifica",
+    "valor": "la hipertensión arterial pulmonar como grupo I"
+  },
+  {
+    "entidad": "riociguat",
+    "relacion": "es",
+    "valor": "la última droga aprobada para uso en hipertensión arterial pulmonar"
+  },
+  {
+    "entidad": "rehabilitación cardiopulmonar",
+    "relacion": "ha demostrado ser",
+    "valor": "beneficiosa en múltiples patologías cardiorrespiratorias"
+  },
+  {
+    "entidad": "pacientes con HAP",
+    "relacion": "deben ser",
+    "valor": "evaluados individualmente para rehabilitación"
+  },
+  {
+    "entidad": "rehabilitación",
+    "relacion": "debe ser",
+    "valor": "realizada en centros especializados"
+  }
+]

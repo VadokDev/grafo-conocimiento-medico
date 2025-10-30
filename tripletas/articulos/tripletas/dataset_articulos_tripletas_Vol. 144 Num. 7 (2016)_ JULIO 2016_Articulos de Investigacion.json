@@ -1,0 +1,877 @@
+[
+  {
+    "entidad": "parasitosis intestinal",
+    "relacion": "refleja",
+    "valor": "desigualdades sociales"
+  },
+  {
+    "entidad": "escolares",
+    "relacion": "presentan",
+    "valor": "infecciones parasitarias"
+  },
+  {
+    "entidad": "Puerto Montt",
+    "relacion": "es un",
+    "valor": "territorio de estudio"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "evalúa",
+    "valor": "desigualdades en prevalencia de infecciones"
+  },
+  {
+    "entidad": "infecciones por protozoos y helmintos intestinales",
+    "relacion": "son",
+    "valor": "indicadores de desigualdad social en salud"
+  },
+  {
+    "entidad": "ingreso familiar",
+    "relacion": "afecta",
+    "valor": "prevalencia de infecciones parasitarias"
+  },
+  {
+    "entidad": "condiciones sanitarias",
+    "relacion": "modulan",
+    "valor": "riesgo de infección intestinal"
+  },
+  {
+    "entidad": "estudiantes urbanos",
+    "relacion": "tienen",
+    "valor": "mayor probabilidad de parasitosis con menor ingreso familiar"
+  },
+  {
+    "entidad": "estudiantes rurales",
+    "relacion": "tienen",
+    "valor": "menor prevalencia de parasitosis"
+  },
+  {
+    "entidad": "agua potable",
+    "relacion": "no tiene",
+    "valor": "relevancia significativa en prevalencia de infecciones"
+  },
+  {
+    "entidad": "disposición de excretas",
+    "relacion": "se asocia",
+    "valor": "mayor riesgo de infección"
+  },
+  {
+    "entidad": "sistemas de eliminación de excretas",
+    "relacion": "son",
+    "valor": "determinantes de riesgo de infección"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "sugiere",
+    "valor": "nuevas investigaciones sobre parasitosis intestinal"
+  },
+  {
+    "entidad": "desigualdad en salud",
+    "relacion": "es un",
+    "valor": "problema global"
+  },
+  {
+    "entidad": "Comité de Ética Científica de la Universidad de La Frontera",
+    "relacion": "aprueba",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "Marco Barra",
+    "relacion": "es",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "Luis Bustos",
+    "relacion": "es",
+    "valor": "coautor del estudio"
+  },
+  {
+    "entidad": "XiMena Ossa",
+    "relacion": "es",
+    "valor": "coautora del estudio"
+  },
+  {
+    "entidad": "programa de ejercicio de fuerza-resistencia muscular",
+    "relacion": "afecta a",
+    "valor": "capacidad funcional"
+  },
+  {
+    "entidad": "programa de ejercicio de fuerza-resistencia muscular",
+    "relacion": "afecta a",
+    "valor": "fuerza muscular"
+  },
+  {
+    "entidad": "programa de ejercicio de fuerza-resistencia muscular",
+    "relacion": "afecta a",
+    "valor": "calidad de vida relacionada con la salud"
+  },
+  {
+    "entidad": "pacientes con enfermedad renal crónica",
+    "relacion": "participan en",
+    "valor": "programa de ejercicio de fuerza-resistencia muscular"
+  },
+  {
+    "entidad": "ejercicio",
+    "relacion": "es un",
+    "valor": "herramienta terapéutica"
+  },
+  {
+    "entidad": "ejercicio",
+    "relacion": "mejora",
+    "valor": "capacidad funcional"
+  },
+  {
+    "entidad": "ejercicio",
+    "relacion": "mejora",
+    "valor": "fuerza muscular"
+  },
+  {
+    "entidad": "ejercicio",
+    "relacion": "mejora",
+    "valor": "calidad de vida relacionada con la salud"
+  },
+  {
+    "entidad": "enfermedad renal crónica",
+    "relacion": "se caracteriza por",
+    "valor": "alta prevalencia de enfermedades cardiovasculares"
+  },
+  {
+    "entidad": "inactividad física",
+    "relacion": "es un",
+    "valor": "factor de riesgo para muerte"
+  },
+  {
+    "entidad": "hemodiálisis",
+    "relacion": "representa",
+    "valor": "un período de inactividad forzada"
+  },
+  {
+    "entidad": "capacidad funcional",
+    "relacion": "se deteriora por",
+    "valor": "inactividad física"
+  },
+  {
+    "entidad": "calidad de vida relacionada con la salud",
+    "relacion": "se deteriora por",
+    "valor": "disminución de la capacidad funcional"
+  },
+  {
+    "entidad": "programas de ejercicio físico",
+    "relacion": "han sido investigados en",
+    "valor": "pacientes con enfermedad renal crónica"
+  },
+  {
+    "entidad": "dinamometría",
+    "relacion": "se utiliza para medir",
+    "valor": "fuerza muscular"
+  },
+  {
+    "entidad": "Kidney Disease Quality of Life-36",
+    "relacion": "se utiliza para medir",
+    "valor": "calidad de vida relacionada con la salud"
+  },
+  {
+    "entidad": "Comité de Ética de la UST",
+    "relacion": "aprueba",
+    "valor": "evaluaciones y programa de ejercicio"
+  },
+  {
+    "entidad": "programa de ejercicio de fuerza-resistencia",
+    "relacion": "mejora",
+    "valor": "fuerza muscular en pacientes con ERC"
+  },
+  {
+    "entidad": "programa de ejercicio de fuerza-resistencia",
+    "relacion": "mejora",
+    "valor": "capacidad funcional en pacientes con ERC"
+  },
+  {
+    "entidad": "programa de ejercicio de fuerza-resistencia",
+    "relacion": "mejora",
+    "valor": "calidad de vida relacionada con la salud en pacientes con ERC"
+  },
+  {
+    "entidad": "Escuela de Medicina, Pontificia Universidad Católica de Chile",
+    "relacion": "pertenece a",
+    "valor": "Santiago, Chile"
+  },
+  {
+    "entidad": "Departamento de Gastroenterología y Nutrición Pediátrica",
+    "relacion": "pertenece a",
+    "valor": "División de Pediatría, Escuela de Medicina, Pontificia Universidad Católica de Chile"
+  },
+  {
+    "entidad": "várices esofágicas",
+    "relacion": "afecta a",
+    "valor": "pacientes pediátricos"
+  },
+  {
+    "entidad": "hipertensión portal",
+    "relacion": "causa",
+    "valor": "várices esofágicas"
+  },
+  {
+    "entidad": "gastroenterólogos pediátricos",
+    "relacion": "realizan",
+    "valor": "screening de esofágicas en pacientes con hipertensión portal"
+  },
+  {
+    "entidad": "beta bloqueadores",
+    "relacion": "se utiliza como",
+    "valor": "profilaxis primaria"
+  },
+  {
+    "entidad": "octreótido",
+    "relacion": "se utiliza como",
+    "valor": "tratamiento inicial en hemorragia variceal"
+  },
+  {
+    "entidad": "endoscopia",
+    "relacion": "se utiliza como",
+    "valor": "método de screening para várices esofágicas"
+  },
+  {
+    "entidad": "ligadura endoscópica",
+    "relacion": "se utiliza como",
+    "valor": "profilaxis secundaria"
+  },
+  {
+    "entidad": "TIPS",
+    "relacion": "se utiliza como",
+    "valor": "opción de tratamiento en hemorragia variceal recurrente"
+  },
+  {
+    "entidad": "trasplante hepático",
+    "relacion": "se utiliza como",
+    "valor": "opción de tratamiento en hemorragia variceal recurrente"
+  },
+  {
+    "entidad": "gastroenterólogos pediátricos",
+    "relacion": "reportan",
+    "valor": "variabilidad en el tratamiento de hemorragia variceal"
+  },
+  {
+    "entidad": "hemorragia gastrointestinal",
+    "relacion": "es una",
+    "valor": "complicación grave de várices esofágicas"
+  },
+  {
+    "entidad": "profilaxis secundaria",
+    "relacion": "se refiere a",
+    "valor": "tratamiento preventivo luego del primer episodio de hemorragia variceal"
+  },
+  {
+    "entidad": "profilaxis primaria",
+    "relacion": "se refiere a",
+    "valor": "tratamiento preventivo de la hemorragia variceal"
+  },
+  {
+    "entidad": "gastroenterólogos pediátricos",
+    "relacion": "evalúan",
+    "valor": "enfoques para el manejo de pacientes con hipertensión portal"
+  },
+  {
+    "entidad": "encuesta",
+    "relacion": "evalúa",
+    "valor": "prácticas clínicas de gastroenterólogos pediátricos en Chile"
+  },
+  {
+    "entidad": "guías de práctica clínica (GPC)",
+    "relacion": "son",
+    "valor": "declaraciones con recomendaciones para optimizar el cuidado del paciente"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile (MINSAL)",
+    "relacion": "elabora",
+    "valor": "protocolos de atención en salud"
+  },
+  {
+    "entidad": "Ley 19.966",
+    "relacion": "inicia",
+    "valor": "el proceso de elaboración de GPC para problemas de salud garantizados"
+  },
+  {
+    "entidad": "AGREE II",
+    "relacion": "evalúa",
+    "valor": "la calidad metodológica de las GPC"
+  },
+  {
+    "entidad": "GPC del AUGE",
+    "relacion": "tienen",
+    "valor": "alta calidad en los dominios de Alcance y Objetivos, Claridad de Presentación e Independencia Editorial"
+  },
+  {
+    "entidad": "GPC del AUGE",
+    "relacion": "necesitan",
+    "valor": "mejorar en los dominios de Participación de los Implicados, Rigor en la Elaboración y Aplicabilidad"
+  },
+  {
+    "entidad": "evaluadores",
+    "relacion": "utilizan",
+    "valor": "el coeficiente de correlación intraclase (CCI) para evaluar concordancia"
+  },
+  {
+    "entidad": "GPC",
+    "relacion": "son",
+    "valor": "herramientas fundamentales para el cuidado de la salud"
+  },
+  {
+    "entidad": "evaluación de calidad",
+    "relacion": "se realiza con",
+    "valor": "el instrumento AGREE II"
+  },
+  {
+    "entidad": "MINSAL",
+    "relacion": "debe priorizar",
+    "valor": "el trabajo coordinado con el Departamento de Economía de la Salud"
+  },
+  {
+    "entidad": "GPC",
+    "relacion": "se elaboran bajo",
+    "valor": "estrictos estándares de calidad"
+  },
+  {
+    "entidad": "evaluación de calidad de GPC",
+    "relacion": "es",
+    "valor": "el único estudio que ha evaluado guías con el instrumento AGREE II en Latinoamérica"
+  },
+  {
+    "entidad": "GPC",
+    "relacion": "se actualizan",
+    "valor": "con nuevos problemas de salud"
+  },
+  {
+    "entidad": "GPC",
+    "relacion": "se utilizan para",
+    "valor": "definir intervenciones efectivas para diagnóstico, tratamiento y seguimiento"
+  },
+  {
+    "entidad": "evaluación de calidad",
+    "relacion": "muestra",
+    "valor": "resultados favorables en algunos dominios"
+  },
+  {
+    "entidad": "MINSAL",
+    "relacion": "debe destinar",
+    "valor": "presupuesto para mejorar la calidad de las GPC"
+  },
+  {
+    "entidad": "Muerte con riñón funcionante",
+    "relacion": "es",
+    "valor": "causa principal de pérdida de injertos"
+  },
+  {
+    "entidad": "Función renal",
+    "relacion": "se evalúa en",
+    "valor": "último control ambulatorio"
+  },
+  {
+    "entidad": "Causas de muerte",
+    "relacion": "incluyen",
+    "valor": "infecciones, enfermedades cardiovasculares, enfermedades gastrointestinales, cáncer"
+  },
+  {
+    "entidad": "Infecciones",
+    "relacion": "causan",
+    "valor": "35.3% de muertes"
+  },
+  {
+    "entidad": "Enfermedades cardiovasculares",
+    "relacion": "causan",
+    "valor": "28.2% de muertes"
+  },
+  {
+    "entidad": "Enfermedades gastrointestinales",
+    "relacion": "causan",
+    "valor": "20% de muertes"
+  },
+  {
+    "entidad": "Cáncer",
+    "relacion": "causa",
+    "valor": "15.3% de muertes"
+  },
+  {
+    "entidad": "Velocidad de filtración glomerular (eGFR)",
+    "relacion": "se estima con",
+    "valor": "fórmula MDRD"
+  },
+  {
+    "entidad": "Función renal declinante",
+    "relacion": "definida como",
+    "valor": "caída > 20% en eGFR"
+  },
+  {
+    "entidad": "Pacientes trasplantados renales",
+    "relacion": "tienen",
+    "valor": "mejor función renal antes de muerte por cáncer"
+  },
+  {
+    "entidad": "Función renal declinante",
+    "relacion": "es similar en",
+    "valor": "cuatro grupos de causas de muerte"
+  },
+  {
+    "entidad": "Hospital Naval Almirante Nef",
+    "relacion": "es un",
+    "valor": "centro de trasplante renal"
+  },
+  {
+    "entidad": "Hospital Dr. Gustavo Fricke",
+    "relacion": "es un",
+    "valor": "centro de trasplante renal"
+  },
+  {
+    "entidad": "Universidad de Valparaíso",
+    "relacion": "es",
+    "valor": "institución educativa"
+  },
+  {
+    "entidad": "Dr. Jorge Vega Stieb",
+    "relacion": "es",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "Juan Pablo Huidobro E.",
+    "relacion": "es",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "Enfermedad renal crónica",
+    "relacion": "es",
+    "valor": "patología de prevalencia creciente"
+  },
+  {
+    "entidad": "Inmunosupresión",
+    "relacion": "mejora",
+    "valor": "duración de órganos trasplantados"
+  },
+  {
+    "entidad": "Terapia dialítica",
+    "relacion": "es",
+    "valor": "opción menos favorable comparada con trasplante"
+  },
+  {
+    "entidad": "Mortalidad cardiovascular",
+    "relacion": "es",
+    "valor": "riesgo elevado en trasplantados renales"
+  },
+  {
+    "entidad": "Neoplasias",
+    "relacion": "son",
+    "valor": "causa de muerte en trasplantados"
+  },
+  {
+    "entidad": "Infecciones",
+    "relacion": "son",
+    "valor": "causa de muerte en trasplantados"
+  },
+  {
+    "entidad": "Función renal",
+    "relacion": "se asocia con",
+    "valor": "mortalidad cardiovascular"
+  },
+  {
+    "entidad": "conductas promotoras de salud de los padres",
+    "relacion": "influye en",
+    "valor": "conductas saludables de los hijos adolescentes"
+  },
+  {
+    "entidad": "estilos de vida saludable",
+    "relacion": "se asocia con",
+    "valor": "conductas saludables de los padres"
+  },
+  {
+    "entidad": "síntomas emocionales",
+    "relacion": "reduce",
+    "valor": "probabilidad de conductas saludables"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "reduce",
+    "valor": "riesgo de estar triste"
+  },
+  {
+    "entidad": "percepción de salud general",
+    "relacion": "predice",
+    "valor": "morbi-mortalidad y uso de servicios"
+  },
+  {
+    "entidad": "disconformidad corporal",
+    "relacion": "disminuye",
+    "valor": "motivación para hacer ejercicios"
+  },
+  {
+    "entidad": "tiempo viendo televisión",
+    "relacion": "refleja",
+    "valor": "sedentarismo en adolescentes"
+  },
+  {
+    "entidad": "modelos conductuales familiares",
+    "relacion": "determinan",
+    "valor": "conducta de los niños y adolescentes"
+  },
+  {
+    "entidad": "comunicación con los padres",
+    "relacion": "influye en",
+    "valor": "desarrollo adolescente y conductas de salud"
+  },
+  {
+    "entidad": "conductas saludables de los padres",
+    "relacion": "asocian con",
+    "valor": "conductas saludables de los adolescentes"
+  },
+  {
+    "entidad": "comer vegetales",
+    "relacion": "asocia con",
+    "valor": "mayor consumo de fibras entre adolescentes"
+  },
+  {
+    "entidad": "tomar desayuno",
+    "relacion": "asocia con",
+    "valor": "conductas saludables en adolescentes"
+  },
+  {
+    "entidad": "realizar ejercicios de estiramiento",
+    "relacion": "asocia con",
+    "valor": "conductas saludables en adolescentes"
+  },
+  {
+    "entidad": "destinar tiempo para relajarse",
+    "relacion": "asocia con",
+    "valor": "conductas saludables en adolescentes"
+  },
+  {
+    "entidad": "estado de salud mental general de los padres",
+    "relacion": "tiene efecto en",
+    "valor": "conductas promotoras de salud"
+  },
+  {
+    "entidad": "nivel educacional de los padres",
+    "relacion": "tiene efecto en",
+    "valor": "conductas promotoras de salud"
+  },
+  {
+    "entidad": "funcionamiento familiar",
+    "relacion": "tiene efecto en",
+    "valor": "conductas promotoras de salud"
+  },
+  {
+    "entidad": "Fatiga",
+    "relacion": "es un",
+    "valor": "síntoma común en pacientes con cáncer"
+  },
+  {
+    "entidad": "Inventario Breve de Fatiga",
+    "relacion": "es un",
+    "valor": "instrumento para evaluar fatiga"
+  },
+  {
+    "entidad": "neoplasias hematológicas",
+    "relacion": "afecta a",
+    "valor": "pacientes tratados"
+  },
+  {
+    "entidad": "Unidad de Hematología Intensiva",
+    "relacion": "pertenece a",
+    "valor": "Hospital del Salvador"
+  },
+  {
+    "entidad": "Hospital del Salvador",
+    "relacion": "está ubicado en",
+    "valor": "Santiago de Chile"
+  },
+  {
+    "entidad": "Ministerio de Salud",
+    "relacion": "gestiona",
+    "valor": "Programa Nacional de Trasplante de progenitores hematopoyéticos"
+  },
+  {
+    "entidad": "quimioterapia",
+    "relacion": "causa",
+    "valor": "fatiga en pacientes con cáncer"
+  },
+  {
+    "entidad": "trasplante de progenitores hematopoyéticos",
+    "relacion": "causa",
+    "valor": "fatiga en pacientes con cáncer"
+  },
+  {
+    "entidad": "fatiga",
+    "relacion": "interfiere en",
+    "valor": "calidad de vida de los pacientes"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "reportan",
+    "valor": "mayor fatiga que hombres"
+  },
+  {
+    "entidad": "Inventario Breve de Fatiga",
+    "relacion": "demuestra",
+    "valor": "buena consistencia interna"
+  },
+  {
+    "entidad": "fatiga",
+    "relacion": "se presenta en",
+    "valor": "99.2% de los pacientes"
+  },
+  {
+    "entidad": "pacientes tratados por neoplasias hematológicas",
+    "relacion": "tienen",
+    "valor": "alta prevalencia de fatiga"
+  },
+  {
+    "entidad": "Luz Alejandra Lorca",
+    "relacion": "es un",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "Escuela de Kinesiología",
+    "relacion": "pertenece a",
+    "valor": "Universidad Andrés Bello"
+  },
+  {
+    "entidad": "Comité de Ética Científico",
+    "relacion": "aprueba",
+    "valor": "estudio"
+  },
+  {
+    "entidad": "fatiga",
+    "relacion": "puede ser causada por",
+    "valor": "trastornos psicológicos"
+  },
+  {
+    "entidad": "fatiga",
+    "relacion": "puede ser causada por",
+    "valor": "tratamientos como quimioterapia y radioterapia"
+  },
+  {
+    "entidad": "IBF",
+    "relacion": "es",
+    "valor": "un instrumento validado en español"
+  },
+  {
+    "entidad": "IBF",
+    "relacion": "permite",
+    "valor": "evaluación rápida del nivel de fatiga"
+  },
+  {
+    "entidad": "ejercicio físico",
+    "relacion": "reduce",
+    "valor": "fatiga durante tratamientos"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen",
+    "valor": "mayor limitación para disfrutar de la vida debido a fatiga"
+  },
+  {
+    "entidad": "Hipertensión arterial pulmonar",
+    "relacion": "es un",
+    "valor": "condición grave y progresiva"
+  },
+  {
+    "entidad": "Hipertensión arterial pulmonar",
+    "relacion": "caracterizada por",
+    "valor": "cambios proliferativos de los pequeños vasos arteriales pulmonares"
+  },
+  {
+    "entidad": "Hipertensión arterial pulmonar",
+    "relacion": "produce",
+    "valor": "incremento de la resistencia vascular pulmonar"
+  },
+  {
+    "entidad": "Hipertensión arterial pulmonar",
+    "relacion": "causa",
+    "valor": "disfunción ventricular y auricular derecha"
+  },
+  {
+    "entidad": "Hipertensión arterial pulmonar",
+    "relacion": "causa",
+    "valor": "muerte prematura"
+  },
+  {
+    "entidad": "Presión de la arteria pulmonar",
+    "relacion": "se define como",
+    "valor": "aumento mayor a 25 mmHg"
+  },
+  {
+    "entidad": "Presión de llenado del ventrículo izquierdo",
+    "relacion": "se define como",
+    "valor": "menor o igual a 15 mmHg"
+  },
+  {
+    "entidad": "Registro del US National Institutes of Health",
+    "relacion": "reporta",
+    "valor": "sobrevida general de 35% a 5 años"
+  },
+  {
+    "entidad": "Terapias específicas",
+    "relacion": "incluyen",
+    "valor": "vía del óxido nítrico"
+  },
+  {
+    "entidad": "Terapias específicas",
+    "relacion": "incluyen",
+    "valor": "vía de la endotelina"
+  },
+  {
+    "entidad": "Terapias específicas",
+    "relacion": "incluyen",
+    "valor": "vía de las prostaglandinas"
+  },
+  {
+    "entidad": "Registro REVEAL",
+    "relacion": "es un",
+    "valor": "registro norteamericano destacado"
+  },
+  {
+    "entidad": "Registro francés",
+    "relacion": "es un",
+    "valor": "registro destacado"
+  },
+  {
+    "entidad": "Registro PHC",
+    "relacion": "es un",
+    "valor": "registro destacado"
+  },
+  {
+    "entidad": "Clínica Mayo",
+    "relacion": "es un",
+    "valor": "registro destacado"
+  },
+  {
+    "entidad": "Sildenafil",
+    "relacion": "es un",
+    "valor": "fármaco específico más usado"
+  },
+  {
+    "entidad": "Anticoagulantes",
+    "relacion": "son",
+    "valor": "parte del tratamiento"
+  },
+  {
+    "entidad": "Diuréticos",
+    "relacion": "son",
+    "valor": "parte del tratamiento"
+  },
+  {
+    "entidad": "Sobrevida observada",
+    "relacion": "es mejor que",
+    "valor": "la estimada por ecuación de riesgo"
+  },
+  {
+    "entidad": "Estado de Chile",
+    "relacion": "asume",
+    "valor": "tratamiento y seguimiento de pacientes con HAP"
+  },
+  {
+    "entidad": "Hipertensión arterial pulmonar",
+    "relacion": "sigue generando",
+    "valor": "deterioro de la capacidad funcional"
+  },
+  {
+    "entidad": "Hipertensión arterial pulmonar",
+    "relacion": "sigue generando",
+    "valor": "altas tasas de mortalidad"
+  },
+  {
+    "entidad": "gorro de pabellón de tungsteno-bismuto",
+    "relacion": "proporciona",
+    "valor": "protección anti-radiación"
+  },
+  {
+    "entidad": "cardiología intervencionista",
+    "relacion": "utiliza",
+    "valor": "gorro de pabellón de tungsteno-bismuto"
+  },
+  {
+    "entidad": "profesionales ocupacionalmente expuestos",
+    "relacion": "reciben",
+    "valor": "radiación"
+  },
+  {
+    "entidad": "radiación ionizante",
+    "relacion": "afecta a",
+    "valor": "cerebro"
+  },
+  {
+    "entidad": "gorro de tungsteno-bismuto",
+    "relacion": "reduce",
+    "valor": "radiación recibida"
+  },
+  {
+    "entidad": "exposición acumulada",
+    "relacion": "es significativa en",
+    "valor": "cardiólogos intervencionistas"
+  },
+  {
+    "entidad": "delantal plomado",
+    "relacion": "atenúa",
+    "valor": "radiación entre 90 y 97%"
+  },
+  {
+    "entidad": "gorro plomado",
+    "relacion": "disminuye",
+    "valor": "dosis de radiación en la cabeza"
+  },
+  {
+    "entidad": "técnico paramédico",
+    "relacion": "trabaja junto a",
+    "valor": "médico intervencionista"
+  },
+  {
+    "entidad": "Comité de Ética de la Universidad Viña del Mar",
+    "relacion": "aprueba",
+    "valor": "estudio"
+  },
+  {
+    "entidad": "carga eléctrica bruta",
+    "relacion": "se mide en",
+    "valor": "nanocoulombs (nC)"
+  },
+  {
+    "entidad": "cristales termoluminiscentes",
+    "relacion": "son utilizados para",
+    "valor": "medir radiación"
+  },
+  {
+    "entidad": "angiógrafo",
+    "relacion": "es utilizado en",
+    "valor": "procedimientos cardiológicos"
+  },
+  {
+    "entidad": "radiación secundaria",
+    "relacion": "es generada por",
+    "valor": "pacientes durante procedimientos"
+  },
+  {
+    "entidad": "gorro de tungsteno-bismuto",
+    "relacion": "presenta",
+    "valor": "atenuación heterogénea"
+  },
+  {
+    "entidad": "exposición a radiación",
+    "relacion": "causa",
+    "valor": "daños citogenéticos"
+  },
+  {
+    "entidad": "tumores cerebrales",
+    "relacion": "se han reportado en",
+    "valor": "cardiólogos intervencionistas"
+  },
+  {
+    "entidad": "Universidad Viña del Mar",
+    "relacion": "es",
+    "valor": "institución de investigación"
+  },
+  {
+    "entidad": "Empresa Cardiotec",
+    "relacion": "financia",
+    "valor": "investigación"
+  },
+  {
+    "entidad": "laboratorio X-Ray",
+    "relacion": "contribuye con",
+    "valor": "cristales TLDs"
+  }
+]

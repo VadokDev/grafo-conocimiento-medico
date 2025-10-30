@@ -1,0 +1,852 @@
+[
+  {
+    "entidad": "Hidroxicloroquina",
+    "relacion": "afecta a",
+    "valor": "sensibilidad a la insulina"
+  },
+  {
+    "entidad": "Hidroxicloroquina",
+    "relacion": "afecta a",
+    "valor": "perfil de lípidos"
+  },
+  {
+    "entidad": "Artritis reumatoide",
+    "relacion": "asociada con",
+    "valor": "disminución de la sensibilidad a la insulina"
+  },
+  {
+    "entidad": "Sensibilidad a la insulina",
+    "relacion": "es un",
+    "valor": "factor de riesgo para aterosclerosis"
+  },
+  {
+    "entidad": "Hidroxicloroquina",
+    "relacion": "mejora",
+    "valor": "glucosa homeostasis"
+  },
+  {
+    "entidad": "Hidroxicloroquina",
+    "relacion": "mejora",
+    "valor": "perfil lipídico"
+  },
+  {
+    "entidad": "Pacientes con artritis reumatoide",
+    "relacion": "reciben",
+    "valor": "400 mg/día de Hidroxicloroquina"
+  },
+  {
+    "entidad": "Hidroxicloroquina",
+    "relacion": "se utiliza en",
+    "valor": "tratamiento de artritis reumatoide"
+  },
+  {
+    "entidad": "Artritis reumatoide",
+    "relacion": "causa",
+    "valor": "discapacidad física importante"
+  },
+  {
+    "entidad": "Eventos cardiovasculares",
+    "relacion": "son una causa de",
+    "valor": "mortalidad temprana en pacientes con artritis reumatoide"
+  },
+  {
+    "entidad": "Hidroxicloroquina",
+    "relacion": "tiene efectos",
+    "valor": "antiinflamatorios e inmunorreguladores"
+  },
+  {
+    "entidad": "Hidroxicloroquina",
+    "relacion": "disminuye",
+    "valor": "colesterol total"
+  },
+  {
+    "entidad": "Hidroxicloroquina",
+    "relacion": "disminuye",
+    "valor": "triglicéridos"
+  },
+  {
+    "entidad": "Hidroxicloroquina",
+    "relacion": "incrementa",
+    "valor": "HDL-colesterol"
+  },
+  {
+    "entidad": "Sensibilidad a la insulina",
+    "relacion": "se estima como",
+    "valor": "tasa de depuración de glucosa"
+  },
+  {
+    "entidad": "Hidroxicloroquina",
+    "relacion": "es bien tolerada",
+    "valor": "en pacientes con artritis reumatoide"
+  },
+  {
+    "entidad": "Hidroxicloroquina",
+    "relacion": "no causa",
+    "valor": "eventos adversos serios"
+  },
+  {
+    "entidad": "Hidroxicloroquina",
+    "relacion": "se utiliza en",
+    "valor": "dosis de 200 a 400 mg diarios"
+  },
+  {
+    "entidad": "Embarazos exitosos",
+    "relacion": "ocurren en",
+    "valor": "pacientes en hemodiálisis crónica"
+  },
+  {
+    "entidad": "hemodiálisis crónica",
+    "relacion": "requiere",
+    "valor": "cambios en el horario de diálisis"
+  },
+  {
+    "entidad": "pacientes con enfermedad renal terminal",
+    "relacion": "se embarazan",
+    "valor": "durante hemodiálisis"
+  },
+  {
+    "entidad": "experiencia de un único centro",
+    "relacion": "reporta",
+    "valor": "resultados de embarazos en hemodiálisis"
+  },
+  {
+    "entidad": "multidisciplinario enfoque",
+    "relacion": "permite",
+    "valor": "altas tasas de embarazos exitosos"
+  },
+  {
+    "entidad": "anemia",
+    "relacion": "requiere",
+    "valor": "tratamiento intensivo durante el embarazo"
+  },
+  {
+    "entidad": "hipertensión arterial",
+    "relacion": "suele agravarse",
+    "valor": "durante el embarazo en hemodiálisis"
+  },
+  {
+    "entidad": "peso seco",
+    "relacion": "incrementa",
+    "valor": "durante el embarazo"
+  },
+  {
+    "entidad": "nitrógeno ureico sanguíneo",
+    "relacion": "promedio durante el embarazo",
+    "valor": "33,9 mg/dL"
+  },
+  {
+    "entidad": "partos",
+    "relacion": "son",
+    "valor": "prematuros en pacientes en hemodiálisis"
+  },
+  {
+    "entidad": "colestasia intrahepática del embarazo",
+    "relacion": "es la causa más frecuente",
+    "valor": "de interrupción del embarazo"
+  },
+  {
+    "entidad": "nutrición",
+    "relacion": "es importante",
+    "valor": "para el éxito del embarazo en hemodiálisis"
+  },
+  {
+    "entidad": "dosis de diálisis",
+    "relacion": "se relaciona con",
+    "valor": "el éxito del embarazo"
+  },
+  {
+    "entidad": "preeclampsia",
+    "relacion": "es el factor más asociado",
+    "valor": "a peor pronóstico en el embarazo en hemodiálisis"
+  },
+  {
+    "entidad": "equipo multidisciplinario",
+    "relacion": "es fundamental",
+    "valor": "para el éxito de los embarazos"
+  },
+  {
+    "entidad": "pacientes en diálisis",
+    "relacion": "tienen",
+    "valor": "alta incidencia de partos prematuros"
+  },
+  {
+    "entidad": "cepa W135",
+    "relacion": "causa",
+    "valor": "enfermedad meningocócica invasora"
+  },
+  {
+    "entidad": "enfermedad meningocócica invasora",
+    "relacion": "es causada por",
+    "valor": "Neisseria meningitidis"
+  },
+  {
+    "entidad": "Neisseria meningitidis",
+    "relacion": "es un",
+    "valor": "diplococo Gram (-)"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "decreta",
+    "valor": "sanitaria alerta"
+  },
+  {
+    "entidad": "Plan de acción W-135",
+    "relacion": "es un",
+    "valor": "estrategia para controlar EMI W-135"
+  },
+  {
+    "entidad": "Instituto de Salud Pública de Chile",
+    "relacion": "realiza",
+    "valor": "vigilancia epidemiológica"
+  },
+  {
+    "entidad": "Laboratorio Nacional de Referencia",
+    "relacion": "confirma",
+    "valor": "presencia de Neisseria meningitidis"
+  },
+  {
+    "entidad": "serogrupo W135",
+    "relacion": "representa",
+    "valor": "58% de los casos confirmados"
+  },
+  {
+    "entidad": "Metropolitan Region",
+    "relacion": "concentra",
+    "valor": "80% de los casos"
+  },
+  {
+    "entidad": "casos de EMI",
+    "relacion": "afectan a",
+    "valor": "niños menores de 5 años"
+  },
+  {
+    "entidad": "sepsis",
+    "relacion": "es la presentación clínica predominante",
+    "valor": "en 67% de los casos W135"
+  },
+  {
+    "entidad": "letalidad de los casos W135",
+    "relacion": "es",
+    "valor": "26,7%"
+  },
+  {
+    "entidad": "vigilancia epidemiológica",
+    "relacion": "es responsabilidad de",
+    "valor": "Estado"
+  },
+  {
+    "entidad": "sistema de salud en Chile",
+    "relacion": "es",
+    "valor": "mixto"
+  },
+  {
+    "entidad": "serogrupo B",
+    "relacion": "fue superado por",
+    "valor": "serogrupo W135"
+  },
+  {
+    "entidad": "comportamiento epidemiológico",
+    "relacion": "es analizado por",
+    "valor": "el artículo"
+  },
+  {
+    "entidad": "sistema de vigilancia",
+    "relacion": "está establecido en",
+    "valor": "Decreto Supremo 158"
+  },
+  {
+    "entidad": "comité nacional W-135",
+    "relacion": "es parte de",
+    "valor": "la estrategia de control"
+  },
+  {
+    "entidad": "Organización Panamericana de la Salud (OPS)",
+    "relacion": "apoya",
+    "valor": "estrategia de control"
+  },
+  {
+    "entidad": "Centers for Disease Control and Prevention (CDC)",
+    "relacion": "apoya",
+    "valor": "estrategia de control"
+  },
+  {
+    "entidad": "deterioro de la función renal",
+    "relacion": "es un",
+    "valor": "factor de riesgo para mortalidad"
+  },
+  {
+    "entidad": "insuficiencia cardiaca",
+    "relacion": "afecta a",
+    "valor": "función renal"
+  },
+  {
+    "entidad": "pacientes hospitalizados",
+    "relacion": "tienen",
+    "valor": "deterioro de la función renal"
+  },
+  {
+    "entidad": "Registro Nacional de IC (grupo ICARO)",
+    "relacion": "incluye",
+    "valor": "pacientes hospitalizados por IC"
+  },
+  {
+    "entidad": "deterioro de la función renal",
+    "relacion": "se asocia a",
+    "valor": "mayor mortalidad intrahospitalaria"
+  },
+  {
+    "entidad": "deterioro de la función renal",
+    "relacion": "se asocia a",
+    "valor": "mayor mortalidad a largo plazo"
+  },
+  {
+    "entidad": "creatinina plasmática",
+    "relacion": "se utiliza para definir",
+    "valor": "deterioro de la función renal"
+  },
+  {
+    "entidad": "ventilación mecánica",
+    "relacion": "es requerida por",
+    "valor": "pacientes con deterioro de la función renal"
+  },
+  {
+    "entidad": "diálisis",
+    "relacion": "es requerida por",
+    "valor": "pacientes con deterioro de la función renal"
+  },
+  {
+    "entidad": "edad avanzada",
+    "relacion": "identifica",
+    "valor": "grupo de alto riesgo de mortalidad"
+  },
+  {
+    "entidad": "hipertensión arterial",
+    "relacion": "es una",
+    "valor": "comorbilidad frecuente en pacientes con IC"
+  },
+  {
+    "entidad": "diabetes mellitus",
+    "relacion": "es una",
+    "valor": "comorbilidad frecuente en pacientes con IC"
+  },
+  {
+    "entidad": "deterioro de la función renal",
+    "relacion": "se define como",
+    "valor": "incremento en la creatinina plasmática mayor a 0,5 mg/dl"
+  },
+  {
+    "entidad": "mortalidad intrahospitalaria",
+    "relacion": "es mayor en",
+    "valor": "pacientes con deterioro de la función renal"
+  },
+  {
+    "entidad": "mortalidad a largo plazo",
+    "relacion": "es mayor en",
+    "valor": "pacientes con deterioro de la función renal"
+  },
+  {
+    "entidad": "terapia farmacológica",
+    "relacion": "difiere en",
+    "valor": "pacientes con y sin deterioro de la función renal"
+  },
+  {
+    "entidad": "creatinina basal",
+    "relacion": "afecta",
+    "valor": "riesgo de mortalidad"
+  },
+  {
+    "entidad": "hospital clínico universidad católica de chile",
+    "relacion": "es un",
+    "valor": "centro de estudio"
+  },
+  {
+    "entidad": "hospital del salvador",
+    "relacion": "es un",
+    "valor": "centro de estudio"
+  },
+  {
+    "entidad": "hospital clínico de la pontificia universidad de chile",
+    "relacion": "es un",
+    "valor": "centro de estudio"
+  },
+  {
+    "entidad": "universidad de la frontera",
+    "relacion": "es un",
+    "valor": "centro de estudio"
+  },
+  {
+    "entidad": "Calidad de Vida",
+    "relacion": "es definida por",
+    "valor": "la percepción individual de la posición en la vida"
+  },
+  {
+    "entidad": "Calidad de Vida relacionada con la Salud (CVRS)",
+    "relacion": "es definida como",
+    "valor": "el nivel de bienestar derivado de la evaluación de diversos dominios"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud",
+    "relacion": "desarrolla",
+    "valor": "el cuestionario WHOQOL-BREF"
+  },
+  {
+    "entidad": "WHOQOL-BREF",
+    "relacion": "explora",
+    "valor": "dominios de salud física, salud psicológica, relaciones sociales y ambiente"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "es financiado por",
+    "valor": "la Comisión Nacional de Investigación Científica y Tecnológica del Gobierno de Chile"
+  },
+  {
+    "entidad": "muestra",
+    "relacion": "incluye",
+    "valor": "1.229 participantes"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "evaluan mejor",
+    "valor": "el dominio social"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "evaluan mejor",
+    "valor": "el dominio físico"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "influye en",
+    "valor": "la evaluación de la Calidad de Vida"
+  },
+  {
+    "entidad": "enfermedad crónica",
+    "relacion": "afecta",
+    "valor": "la evaluación de la Calidad de Vida"
+  },
+  {
+    "entidad": "dominio ambiental",
+    "relacion": "es el más significativo",
+    "valor": "en la evaluación de la Calidad de Vida"
+  },
+  {
+    "entidad": "dominio psicológico",
+    "relacion": "es importante para",
+    "valor": "el bienestar emocional"
+  },
+  {
+    "entidad": "Calidad de Vida",
+    "relacion": "varía según",
+    "valor": "la presencia de enfermedad crónica"
+  },
+  {
+    "entidad": "rango de edad 19 a 24 años",
+    "relacion": "mejor evalua",
+    "valor": "el dominio social"
+  },
+  {
+    "entidad": "rango de edad 25 a 39 años",
+    "relacion": "mejor evalua",
+    "valor": "el dominio físico"
+  },
+  {
+    "entidad": "rango de edad 40 a 60 años",
+    "relacion": "tiene menores medias en",
+    "valor": "los diferentes dominios"
+  },
+  {
+    "entidad": "Calidad de Vida",
+    "relacion": "es influenciada por",
+    "valor": "factores históricos, culturales y de clase social"
+  },
+  {
+    "entidad": "investigación",
+    "relacion": "sugiere",
+    "valor": "ampliar la muestra para estratificar variables"
+  },
+  {
+    "entidad": "Obesidad",
+    "relacion": "es un",
+    "valor": "factor de riesgo para cáncer"
+  },
+  {
+    "entidad": "Cáncer",
+    "relacion": "es causado por",
+    "valor": "obesidad"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "tiene",
+    "valor": "altas prevalencias de obesidad"
+  },
+  {
+    "entidad": "Instituto de Nutrición y Tecnología de los Alimentos (INTA)",
+    "relacion": "pertenece a",
+    "valor": "Universidad de Chile"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "financia",
+    "valor": "estudio sobre obesidad y cáncer"
+  },
+  {
+    "entidad": "Fracción Atribuible Poblacional (FAP%)",
+    "relacion": "permite estimar",
+    "valor": "casos prevenibles de cáncer"
+  },
+  {
+    "entidad": "Cáncer colorrectal",
+    "relacion": "es un",
+    "valor": "cáncer asociado a obesidad"
+  },
+  {
+    "entidad": "Cáncer de endometrio",
+    "relacion": "es un",
+    "valor": "cáncer asociado a obesidad"
+  },
+  {
+    "entidad": "Cáncer de esófago",
+    "relacion": "es un",
+    "valor": "cáncer asociado a obesidad"
+  },
+  {
+    "entidad": "Cáncer de mama",
+    "relacion": "es un",
+    "valor": "cáncer asociado a obesidad"
+  },
+  {
+    "entidad": "Cáncer de páncreas",
+    "relacion": "es un",
+    "valor": "cáncer asociado a obesidad"
+  },
+  {
+    "entidad": "Cáncer de riñón",
+    "relacion": "es un",
+    "valor": "cáncer asociado a obesidad"
+  },
+  {
+    "entidad": "Cáncer de vesícula biliar",
+    "relacion": "es un",
+    "valor": "cáncer asociado a obesidad"
+  },
+  {
+    "entidad": "Estrategias de prevención",
+    "relacion": "pueden reducir",
+    "valor": "incidencia de cáncer"
+  },
+  {
+    "entidad": "Obesidad",
+    "relacion": "se asocia con",
+    "valor": "enfermedades crónicas"
+  },
+  {
+    "entidad": "Cáncer",
+    "relacion": "es la",
+    "valor": "segunda causa de muerte a nivel mundial"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "presenta",
+    "valor": "altas tasas de mortalidad por cáncer"
+  },
+  {
+    "entidad": "Agencia Internacional para la Investigación del Cáncer (IARC)",
+    "relacion": "estima",
+    "valor": "tasas de incidencia de cáncer en Chile"
+  },
+  {
+    "entidad": "Obesidad",
+    "relacion": "se mide a través del",
+    "valor": "índice de masa corporal (IMC)"
+  },
+  {
+    "entidad": "Cáncer",
+    "relacion": "se considera",
+    "valor": "una enfermedad potencialmente evitable"
+  },
+  {
+    "entidad": "Políticas nutricionales",
+    "relacion": "se han implementado en",
+    "valor": "Chile para controlar la obesidad"
+  },
+  {
+    "entidad": "Infarto Agudo de Miocardio (IAM)",
+    "relacion": "es incluido en",
+    "valor": "Régimen de Garantías Explícitas en Salud (GES)"
+  },
+  {
+    "entidad": "Régimen de Garantías Explícitas en Salud (GES)",
+    "relacion": "tiene como objetivo",
+    "valor": "mejorar la atención de salud y corregir inequidades"
+  },
+  {
+    "entidad": "Régimen de Garantías Explícitas en Salud (GES)",
+    "relacion": "incluye",
+    "valor": "guía clínica para diagnóstico y prevención secundaria"
+  },
+  {
+    "entidad": "Infarto Agudo de Miocardio (IAM)",
+    "relacion": "es un problema de",
+    "valor": "salud pública en Chile"
+  },
+  {
+    "entidad": "Factores de riesgo cardiovasculares",
+    "relacion": "afectan",
+    "valor": "la patogénesis y progresión de la enfermedad"
+  },
+  {
+    "entidad": "Intervenciones en estilos de vida",
+    "relacion": "mejoran",
+    "valor": "la sobrevida y calidad de vida en pacientes coronarios"
+  },
+  {
+    "entidad": "Programa de prevención secundaria",
+    "relacion": "justifica",
+    "valor": "la necesidad de controlar factores de riesgo"
+  },
+  {
+    "entidad": "Hospitales públicos",
+    "relacion": "realizan",
+    "valor": "evaluación de pacientes post-IAM"
+  },
+  {
+    "entidad": "Registro GEMI",
+    "relacion": "es un",
+    "valor": "registro hospitalario de pacientes con IAM"
+  },
+  {
+    "entidad": "Pacientes con IAM",
+    "relacion": "son evaluados por",
+    "valor": "cardiólogos y otros profesionales de salud"
+  },
+  {
+    "entidad": "Control de factores de riesgo",
+    "relacion": "es evaluado en",
+    "valor": "pacientes post-IAM"
+  },
+  {
+    "entidad": "Tratamiento farmacológico",
+    "relacion": "es utilizado por",
+    "valor": "pacientes post-IAM"
+  },
+  {
+    "entidad": "Tabaquismo",
+    "relacion": "es un factor de riesgo",
+    "valor": "para enfermedad cardiovascular"
+  },
+  {
+    "entidad": "Obesidad",
+    "relacion": "se asocia con",
+    "valor": "otros factores de riesgo cardiovascular"
+  },
+  {
+    "entidad": "Ejercicio físico",
+    "relacion": "ayuda a",
+    "valor": "mantener la baja de peso y mejorar la salud cardiovascular"
+  },
+  {
+    "entidad": "Infarto Agudo de Miocardio (IAM)",
+    "relacion": "es tratado con",
+    "valor": "medicamentos como aspirina y betabloqueadores"
+  },
+  {
+    "entidad": "Pacientes diabéticos",
+    "relacion": "deben alcanzar",
+    "valor": "cifras de HbA1c < 7%"
+  },
+  {
+    "entidad": "Acceso a fármacos",
+    "relacion": "muestra",
+    "valor": "adherencia a guías clínicas"
+  },
+  {
+    "entidad": "Factores de riesgo conductuales",
+    "relacion": "tienen un control",
+    "valor": "insuficiente en pacientes post-IAM"
+  },
+  {
+    "entidad": "Terapia de Resincronización Cardiaca (TRC)",
+    "relacion": "se asocia a",
+    "valor": "mejoría sintomática y reducción de hospitalizaciones"
+  },
+  {
+    "entidad": "Insuficiencia Cardiaca (IC)",
+    "relacion": "afecta a",
+    "valor": "calidad de vida y costos de salud"
+  },
+  {
+    "entidad": "Hospital Clínico de la Pontificia Universidad Católica de Chile",
+    "relacion": "realiza",
+    "valor": "implantes de marcapasos resincronizadores desde el año 2000"
+  },
+  {
+    "entidad": "marcapasos biventriculares",
+    "relacion": "se utiliza como",
+    "valor": "tratamiento en pacientes con IC refractaria"
+  },
+  {
+    "entidad": "estudios clínicos aleatorizados",
+    "relacion": "demuestran",
+    "valor": "eficacia de la TRC"
+  },
+  {
+    "entidad": "pacientes con IC",
+    "relacion": "presentan",
+    "valor": "trastornos de conducción intraventricular"
+  },
+  {
+    "entidad": "bloqueo completo de rama izquierda (BCRI)",
+    "relacion": "se traduce en",
+    "valor": "patrón anormal de activación del ventrículo izquierdo"
+  },
+  {
+    "entidad": "mortalidad anual en IC avanzada",
+    "relacion": "es mayor a",
+    "valor": "10%"
+  },
+  {
+    "entidad": "pacientes en clase funcional NYHA III-IV",
+    "relacion": "mejoran",
+    "valor": "al menos una categoría tras TRC"
+  },
+  {
+    "entidad": "etiología isquémica",
+    "relacion": "es un predictor de",
+    "valor": "peor supervivencia"
+  },
+  {
+    "entidad": "funcionalidad del ventrículo izquierdo",
+    "relacion": "se mejora tras",
+    "valor": "implante de TRC"
+  },
+  {
+    "entidad": "fibrilación auricular (FA)",
+    "relacion": "se asocia a",
+    "valor": "menor tasa de respuesta clínica"
+  },
+  {
+    "entidad": "sobrevida global",
+    "relacion": "es del",
+    "valor": "86% a 1 año"
+  },
+  {
+    "entidad": "causas de muerte",
+    "relacion": "incluyen",
+    "valor": "progresión de la IC y muerte súbita"
+  },
+  {
+    "entidad": "pacientes con CDI",
+    "relacion": "tienen",
+    "valor": "descargas apropiadas"
+  },
+  {
+    "entidad": "Terapia de Resincronización Cardiaca (TRC)",
+    "relacion": "se utiliza en",
+    "valor": "pacientes con IC leve"
+  },
+  {
+    "entidad": "marcapasos resincronizador",
+    "relacion": "se implanta en",
+    "valor": "pacientes con IC"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "no difiere entre",
+    "valor": "pacientes con y sin CDI"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "tiene",
+    "valor": "división de enfermedades cardiovasculares"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "tiene",
+    "valor": "división de salud pública"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "tiene",
+    "valor": "departamento de nefrología"
+  },
+  {
+    "entidad": "Universidad de La Serena",
+    "relacion": "tiene",
+    "valor": "departamento de matemáticas"
+  },
+  {
+    "entidad": "Mónica Acevedo",
+    "relacion": "es",
+    "valor": "autora del estudio"
+  },
+  {
+    "entidad": "carotid intima media thickness (CIMT)",
+    "relacion": "es un",
+    "valor": "biomarcador de aterosclerosis subclínica"
+  },
+  {
+    "entidad": "C-reactive protein (usCRP)",
+    "relacion": "es un",
+    "valor": "biomarcador de riesgo de eventos ateroescleróticos"
+  },
+  {
+    "entidad": "exceso de peso",
+    "relacion": "afecta a",
+    "valor": "riesgo cardiovascular"
+  },
+  {
+    "entidad": "adultos jóvenes",
+    "relacion": "tienen",
+    "valor": "riesgo cardiovascular heterogéneo"
+  },
+  {
+    "entidad": "sobrepeso metabólicamente sanos",
+    "relacion": "tienen",
+    "valor": "mayor riesgo cardiovascular que normopeso metabólicamente sanos"
+  },
+  {
+    "entidad": "Framingham risk score (FRAM)",
+    "relacion": "subestima",
+    "valor": "riesgo cardiovascular en sujetos con exceso de peso"
+  },
+  {
+    "entidad": "proteína C-reactiva ultrasensible (PCRus)",
+    "relacion": "se relaciona con",
+    "valor": "obesidad visceral"
+  },
+  {
+    "entidad": "grosor íntima-media carotídeo (IMT)",
+    "relacion": "predice",
+    "valor": "eventos ateroescleróticos"
+  },
+  {
+    "entidad": "sujetos obesos metabólicamente sanos",
+    "relacion": "tienen",
+    "valor": "mejor pronóstico cardiovascular que obesos metabólicamente enfermos"
+  },
+  {
+    "entidad": "sujetos con exceso de peso",
+    "relacion": "deben ser",
+    "valor": "intervenidos para reducir riesgo cardiovascular"
+  },
+  {
+    "entidad": "estudio Diabetes Prevention Program",
+    "relacion": "demostró",
+    "valor": "que la modificación del estilo de vida reduce el riesgo de diabetes"
+  },
+  {
+    "entidad": "AHA/ACC",
+    "relacion": "recomienda",
+    "valor": "uso del IMT y detección de placa carotídea en sujetos asintomáticos"
+  },
+  {
+    "entidad": "exceso de peso metabólicamente sanos",
+    "relacion": "presentan",
+    "valor": "mayor riesgo de aterosclerosis subclínica"
+  },
+  {
+    "entidad": "sujetos con exceso de peso",
+    "relacion": "presentan",
+    "valor": "mayor inflamación"
+  }
+]

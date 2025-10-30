@@ -1,0 +1,207 @@
+[
+  {
+    "entidad": "obesidad",
+    "relacion": "es",
+    "valor": "una pandemia"
+  },
+  {
+    "entidad": "cirugía bariátrica",
+    "relacion": "ha experimentado",
+    "valor": "crecimiento importante"
+  },
+  {
+    "entidad": "cirugía bariátrica",
+    "relacion": "logra",
+    "valor": "pérdida de peso"
+  },
+  {
+    "entidad": "cirugía bariátrica",
+    "relacion": "resuelve",
+    "valor": "comorbilidades asociadas con la obesidad"
+  },
+  {
+    "entidad": "cambios en la dieta",
+    "relacion": "pueden causar",
+    "valor": "complicaciones nutricionales"
+  },
+  {
+    "entidad": "malnutrición calórica-proteica",
+    "relacion": "es una",
+    "valor": "complicación de la cirugía bariátrica"
+  },
+  {
+    "entidad": "déficits de micronutrientes",
+    "relacion": "son",
+    "valor": "complicaciones asociadas a la cirugía bariátrica"
+  },
+  {
+    "entidad": "médico no especialista",
+    "relacion": "debe estar informado sobre",
+    "valor": "déficits nutricionales"
+  },
+  {
+    "entidad": "tiamina",
+    "relacion": "es un",
+    "valor": "nutriente afectado tras cirugía bariátrica"
+  },
+  {
+    "entidad": "vitamina B12",
+    "relacion": "es un",
+    "valor": "nutriente afectado tras cirugía bariátrica"
+  },
+  {
+    "entidad": "ácido fólico",
+    "relacion": "es un",
+    "valor": "nutriente afectado tras cirugía bariátrica"
+  },
+  {
+    "entidad": "hierro",
+    "relacion": "es un",
+    "valor": "nutriente afectado tras cirugía bariátrica"
+  },
+  {
+    "entidad": "calcio",
+    "relacion": "es un",
+    "valor": "nutriente afectado tras cirugía bariátrica"
+  },
+  {
+    "entidad": "vitamina D",
+    "relacion": "es un",
+    "valor": "nutriente afectado tras cirugía bariátrica"
+  },
+  {
+    "entidad": "anemia",
+    "relacion": "puede presentarse en",
+    "valor": "pacientes sometidos a cirugía bariátrica"
+  },
+  {
+    "entidad": "pérdida de cabello",
+    "relacion": "es un problema frecuente en",
+    "valor": "pacientes pos operados de cirugía bariátrica"
+  },
+  {
+    "entidad": "suplementación con multivitamínicos",
+    "relacion": "es crucial para",
+    "valor": "prevención de carencias de micronutrientes"
+  },
+  {
+    "entidad": "control periódico de exámenes",
+    "relacion": "se recomienda cada",
+    "valor": "3 a 6 meses en el primer año postoperatorio"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "es",
+    "valor": "una institución de referencia en cirugía bariátrica"
+  },
+  {
+    "entidad": "Alan Cribier",
+    "relacion": "revolucionó",
+    "valor": "cardiología intervencional"
+  },
+  {
+    "entidad": "válvula aórtica transcatéter (TAVI)",
+    "relacion": "es un",
+    "valor": "procedimiento mínimamente invasivo"
+  },
+  {
+    "entidad": "estenosis aórtica severa (EAo)",
+    "relacion": "es una",
+    "valor": "enfermedad"
+  },
+  {
+    "entidad": "TAVI",
+    "relacion": "es una",
+    "valor": "alternativa segura y eficaz frente a la sustitución valvular quirúrgica"
+  },
+  {
+    "entidad": "ecocardiograma",
+    "relacion": "se utiliza para",
+    "valor": "diagnosticar EAo"
+  },
+  {
+    "entidad": "valvuloplastia aórtica con balón (VAB)",
+    "relacion": "es un",
+    "valor": "tratamiento alternativo para EAo"
+  },
+  {
+    "entidad": "TAVI",
+    "relacion": "se recomienda en",
+    "valor": "pacientes mayores o de alto riesgo"
+  },
+  {
+    "entidad": "Heart Team (HT)",
+    "relacion": "evalúa",
+    "valor": "factores clínicos y anatómicos para intervención"
+  },
+  {
+    "entidad": "TAVI",
+    "relacion": "ha demostrado ser",
+    "valor": "eficaz y segura en escenarios seleccionados"
+  },
+  {
+    "entidad": "fragilidad",
+    "relacion": "es un",
+    "valor": "factor de riesgo para malos resultados después de TAVI"
+  },
+  {
+    "entidad": "Instituto Nacional del Tórax",
+    "relacion": "realiza",
+    "valor": "implantes de TAVI"
+  },
+  {
+    "entidad": "TAVI",
+    "relacion": "requiere",
+    "valor": "un equipo entrenado para garantizar calidad y seguridad"
+  },
+  {
+    "entidad": "escáner cardíaco",
+    "relacion": "se utiliza para",
+    "valor": "evaluar la gravedad de la EAo"
+  },
+  {
+    "entidad": "cardiorresonancia magnética (CRM)",
+    "relacion": "se utiliza para",
+    "valor": "evaluar la válvula aórtica"
+  },
+  {
+    "entidad": "TAVI",
+    "relacion": "se ha expandido a",
+    "valor": "pacientes de bajo riesgo"
+  },
+  {
+    "entidad": "TAVI",
+    "relacion": "se ha consolidado como",
+    "valor": "una opción de tratamiento en EAo"
+  },
+  {
+    "entidad": "reemplazo valvular quirúrgico (RVAo)",
+    "relacion": "es un",
+    "valor": "tratamiento definitivo para EAo"
+  },
+  {
+    "entidad": "TAVI",
+    "relacion": "requiere",
+    "valor": "una planificación adecuada antes del procedimiento"
+  },
+  {
+    "entidad": "complicaciones de TAVI",
+    "relacion": "incluyen",
+    "valor": "regurgitación paravalvular, lesión vascular, accidente cerebrovascular isquémico"
+  },
+  {
+    "entidad": "TAVI",
+    "relacion": "se recomienda para",
+    "valor": "pacientes sintomáticos con EAo grave"
+  },
+  {
+    "entidad": "TAVI",
+    "relacion": "se considera",
+    "valor": "un procedimiento de alta complejidad"
+  },
+  {
+    "entidad": "TAVI",
+    "relacion": "ha aumentado en",
+    "valor": "centros públicos y privados en Chile"
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "entidad": "fragilidad",
+    "relacion": "es un",
+    "valor": "concepto importante en la investigación sobre el envejecimiento"
+  },
+  {
+    "entidad": "trabajadores de la salud",
+    "relacion": "pueden identificar",
+    "valor": "adultos mayores en riesgo"
+  },
+  {
+    "entidad": "intervenciones",
+    "relacion": "diseñadas para",
+    "valor": "prevenir el declive funcional"
+  },
+  {
+    "entidad": "fragilidad",
+    "relacion": "afecta a",
+    "valor": "individuos con pérdidas en dominios del funcionamiento humano"
+  },
+  {
+    "entidad": "fragilidad",
+    "relacion": "aumenta el riesgo de",
+    "valor": "resultados adversos en salud"
+  },
+  {
+    "entidad": "predictores de fragilidad",
+    "relacion": "consideran",
+    "valor": "dominios físicos, psicológicos y sociales"
+  },
+  {
+    "entidad": "Gobbens et al.",
+    "relacion": "definen",
+    "valor": "fragilidad como un estado dinámico"
+  },
+  {
+    "entidad": "fragilidad",
+    "relacion": "no incluye",
+    "valor": "enfermedad, comorbilidad o discapacidad"
+  },
+  {
+    "entidad": "fragilidad",
+    "relacion": "es medible en",
+    "valor": "la práctica clínica"
+  },
+  {
+    "entidad": "bajo nivel educativo",
+    "relacion": "se asocia con",
+    "valor": "mayor posibilidad de fragilidad"
+  },
+  {
+    "entidad": "estado civil",
+    "relacion": "predice",
+    "valor": "fragilidad social"
+  },
+  {
+    "entidad": "estilo de vida poco saludable",
+    "relacion": "influye en",
+    "valor": "la fragilidad"
+  },
+  {
+    "entidad": "comorbilidad",
+    "relacion": "se relaciona con",
+    "valor": "fragilidad"
+  },
+  {
+    "entidad": "auto-percepción de salud negativa",
+    "relacion": "es predictor de",
+    "valor": "fragilidad"
+  },
+  {
+    "entidad": "fragilidad física",
+    "relacion": "se asocia con",
+    "valor": "pérdida de peso involuntario y fuerza muscular"
+  },
+  {
+    "entidad": "fragilidad psicológica",
+    "relacion": "se asocia con",
+    "valor": "deterioro cognitivo y síntomas depresivos"
+  },
+  {
+    "entidad": "fragilidad social",
+    "relacion": "se asocia con",
+    "valor": "declinación en relaciones sociales y apoyo social"
+  },
+  {
+    "entidad": "SHARE",
+    "relacion": "es un",
+    "valor": "instrumento para predecir fragilidad"
+  },
+  {
+    "entidad": "Morley",
+    "relacion": "desarrolló",
+    "valor": "una escala para identificar personas frágiles"
+  },
+  {
+    "entidad": "fragilidad",
+    "relacion": "tiene una interrelación compleja con",
+    "valor": "resultados de salud"
+  },
+  {
+    "entidad": "melanoma cutáneo",
+    "relacion": "es un",
+    "valor": "tumor agresivo"
+  },
+  {
+    "entidad": "melanoma cutáneo",
+    "relacion": "desarrolla a partir de",
+    "valor": "melanocitos"
+  },
+  {
+    "entidad": "melanoma metastásico",
+    "relacion": "tiene un pronóstico",
+    "valor": "desalentador"
+  },
+  {
+    "entidad": "inhibidores de MAPK/ERK",
+    "relacion": "son",
+    "valor": "nuevas terapias aprobadas"
+  },
+  {
+    "entidad": "inmunoterapia",
+    "relacion": "incluye",
+    "valor": "bloqueo de puntos de control inmune"
+  },
+  {
+    "entidad": "CTLA-4",
+    "relacion": "es un",
+    "valor": "antígeno del linfocito T citotóxico"
+  },
+  {
+    "entidad": "ipilimumab",
+    "relacion": "es un",
+    "valor": "anticuerpo monoclonal anti-CTLA-4"
+  },
+  {
+    "entidad": "PD-1",
+    "relacion": "es un",
+    "valor": "receptor de muerte celular programada"
+  },
+  {
+    "entidad": "pembrolizumab",
+    "relacion": "es un",
+    "valor": "anticuerpo monoclonal anti-PD-1"
+  },
+  {
+    "entidad": "melanoma metastásico",
+    "relacion": "requiere",
+    "valor": "tratamientos sistémicos"
+  },
+  {
+    "entidad": "BRAFi",
+    "relacion": "son",
+    "valor": "inhibidores de BRAF"
+  },
+  {
+    "entidad": "MEKi",
+    "relacion": "son",
+    "valor": "inhibidores de MEK"
+  },
+  {
+    "entidad": "terapia combinada",
+    "relacion": "aumenta",
+    "valor": "sobrevida libre de progresión"
+  },
+  {
+    "entidad": "TAPCells",
+    "relacion": "es un",
+    "valor": "desarrollo de vacuna en Chile"
+  },
+  {
+    "entidad": "melanoma",
+    "relacion": "tiene",
+    "valor": "alta capacidad inmunogénica"
+  },
+  {
+    "entidad": "metastatización",
+    "relacion": "puede llevar a",
+    "valor": "enfermedad irresecable"
+  },
+  {
+    "entidad": "metastatización",
+    "relacion": "se asocia con",
+    "valor": "menor sobrevida"
+  },
+  {
+    "entidad": "inmunoterapia",
+    "relacion": "potencia",
+    "valor": "mecanismos antitumorales"
+  },
+  {
+    "entidad": "efectos adversos",
+    "relacion": "son comunes en",
+    "valor": "tratamientos de melanoma"
+  },
+  {
+    "entidad": "respuesta inmune",
+    "relacion": "es influenciada por",
+    "valor": "antígenos asociados al tumor"
+  },
+  {
+    "entidad": "mutaciones BRAF",
+    "relacion": "son",
+    "valor": "marcadores en melanoma"
+  },
+  {
+    "entidad": "metastatización",
+    "relacion": "puede ser",
+    "valor": "resecable o irresecable"
+  }
+]

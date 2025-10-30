@@ -1,0 +1,787 @@
+[
+  {
+    "entidad": "KIDSCREEN-52",
+    "relacion": "mide",
+    "valor": "calidad de vida relacionada con la salud en niños y adolescentes"
+  },
+  {
+    "entidad": "KIDSCREEN-52",
+    "relacion": "fue desarrollado por",
+    "valor": "Universitätsklinikum Hamburg-Eppendorf y colaboradores de Europa"
+  },
+  {
+    "entidad": "KIDSCREEN-52",
+    "relacion": "fue adaptado y validado en",
+    "valor": "Chile"
+  },
+  {
+    "entidad": "KIDSCREEN-52",
+    "relacion": "tiene",
+    "valor": "10 dimensiones y 52 ítems"
+  },
+  {
+    "entidad": "KIDSCREEN-52",
+    "relacion": "se utiliza para",
+    "valor": "evaluar la calidad de vida relacionada con la salud"
+  },
+  {
+    "entidad": "adolescentes chilenos",
+    "relacion": "son evaluados por",
+    "valor": "KIDSCREEN-52"
+  },
+  {
+    "entidad": "KIDSCREEN-52",
+    "relacion": "presenta",
+    "valor": "alta equivalencia semántica en sus versiones en inglés y español"
+  },
+  {
+    "entidad": "Universidad de Chile",
+    "relacion": "financia",
+    "valor": "proyecto Domeyko"
+  },
+  {
+    "entidad": "KIDSCREEN-52",
+    "relacion": "se adapta culturalmente a",
+    "valor": "la población adolescente chilena"
+  },
+  {
+    "entidad": "KIDSCREEN-52",
+    "relacion": "se valida a través de",
+    "valor": "análisis factorial confirmatorio"
+  },
+  {
+    "entidad": "KIDSCREEN-52",
+    "relacion": "tiene un alfa de Cronbach de",
+    "valor": "0.936"
+  },
+  {
+    "entidad": "Comité de Ética de Investigaciones en seres humanos",
+    "relacion": "aprueba",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "adolescentes",
+    "relacion": "participan en",
+    "valor": "entrevistas cognitivas"
+  },
+  {
+    "entidad": "entrevistas cognitivas",
+    "relacion": "son realizadas por",
+    "valor": "lingüistas y antropólogos"
+  },
+  {
+    "entidad": "KIDSCREEN-52",
+    "relacion": "permite",
+    "valor": "estudios de seguimiento y evaluación de la CVRS"
+  },
+  {
+    "entidad": "KIDSCREEN-52",
+    "relacion": "es un instrumento para",
+    "valor": "planificación e intervenciones en calidad de vida relacionada con la salud"
+  },
+  {
+    "entidad": "conducta suicida",
+    "relacion": "abarca",
+    "valor": "ideación hasta el suicidio consumado"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "tiene",
+    "valor": "aumento en tasas de suicidio"
+  },
+  {
+    "entidad": "Composite International Diagnostic Interview (CIDI)",
+    "relacion": "es utilizado para",
+    "valor": "evaluar trastornos psiquiátricos"
+  },
+  {
+    "entidad": "trastornos psiquiátricos",
+    "relacion": "se asocian con",
+    "valor": "conducta suicida"
+  },
+  {
+    "entidad": "Universidad de Concepción",
+    "relacion": "conduce",
+    "valor": "estudio sobre conducta suicida"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen mayor riesgo de",
+    "valor": "conducta suicida"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "afecta",
+    "valor": "conducta suicida"
+  },
+  {
+    "entidad": "nivel educacional",
+    "relacion": "se relaciona con",
+    "valor": "conducta suicida"
+  },
+  {
+    "entidad": "hábito tabáquico",
+    "relacion": "se asocia con",
+    "valor": "conducta suicida"
+  },
+  {
+    "entidad": "trastornos depresivos",
+    "relacion": "aumentan el riesgo de",
+    "valor": "conducta suicida"
+  },
+  {
+    "entidad": "dependencia de alcohol",
+    "relacion": "se asocia con",
+    "valor": "intento de suicidio"
+  },
+  {
+    "entidad": "dependencia de drogas",
+    "relacion": "se asocia con",
+    "valor": "intento de suicidio"
+  },
+  {
+    "entidad": "comorbilidad psiquiátrica",
+    "relacion": "aumenta el riesgo de",
+    "valor": "conducta suicida"
+  },
+  {
+    "entidad": "Ministerio de Salud",
+    "relacion": "reporta",
+    "valor": "tasas de suicidio en aumento"
+  },
+  {
+    "entidad": "estrategias específicas",
+    "relacion": "son necesarias para",
+    "valor": "población joven"
+  },
+  {
+    "entidad": "sistema sanitario",
+    "relacion": "debe mejorar",
+    "valor": "detección de conductas suicidas"
+  },
+  {
+    "entidad": "programa GES de depresión",
+    "relacion": "debe evaluar",
+    "valor": "impacto en conducta suicida"
+  },
+  {
+    "entidad": "Helicobacter pylori",
+    "relacion": "causa",
+    "valor": "lesiones gástricas"
+  },
+  {
+    "entidad": "RAGE",
+    "relacion": "asociado con",
+    "valor": "invasividad y metástasis en cáncer gástrico"
+  },
+  {
+    "entidad": "RAGE",
+    "relacion": "expresión",
+    "valor": "alta en biopsias con displasia o carcinoma in situ"
+  },
+  {
+    "entidad": "RAGE",
+    "relacion": "interactúa con",
+    "valor": "ligandos endógenos y exógenos"
+  },
+  {
+    "entidad": "infección por Helicobacter pylori",
+    "relacion": "asociada a",
+    "valor": "inflamación crónica de la mucosa gástrica"
+  },
+  {
+    "entidad": "RAGE",
+    "relacion": "mediador de",
+    "valor": "activación de procesos carcinogénicos"
+  },
+  {
+    "entidad": "MUC-1",
+    "relacion": "asociado con",
+    "valor": "peor pronóstico en cáncer gástrico"
+  },
+  {
+    "entidad": "β-catenina",
+    "relacion": "vinculado a",
+    "valor": "cáncer e inflamación"
+  },
+  {
+    "entidad": "ciclina-D1",
+    "relacion": "regulador de",
+    "valor": "ciclo celular"
+  },
+  {
+    "entidad": "sRAGE",
+    "relacion": "potencial biomarcador de",
+    "valor": "progresión de enfermedad en cáncer"
+  },
+  {
+    "entidad": "silenciamiento de RAGE",
+    "relacion": "estrategia para",
+    "valor": "tratar cáncer de próstata"
+  },
+  {
+    "entidad": "Fondecyt",
+    "relacion": "financia",
+    "valor": "proyecto de investigación"
+  },
+  {
+    "entidad": "Leucemia promielocítica aguda",
+    "relacion": "es un tipo de",
+    "valor": "leucemia mieloide aguda"
+  },
+  {
+    "entidad": "Protocolo LPA2000",
+    "relacion": "es un",
+    "valor": "protocolo terapéutico"
+  },
+  {
+    "entidad": "Programa Nacional de Cáncer del Adulto (PANDA)",
+    "relacion": "pertenece a",
+    "valor": "Ministerio de Salud de Chile"
+  },
+  {
+    "entidad": "ácido all-trans retinoico (ATRA)",
+    "relacion": "se utiliza en",
+    "valor": "el tratamiento de LPA"
+  },
+  {
+    "entidad": "Daunorubicin",
+    "relacion": "se utiliza en",
+    "valor": "el tratamiento de LPA"
+  },
+  {
+    "entidad": "Mitoxantrona",
+    "relacion": "se utiliza en",
+    "valor": "el tratamiento de LPA"
+  },
+  {
+    "entidad": "Leucemia promielocítica aguda",
+    "relacion": "se caracteriza por",
+    "valor": "coagulopatía de consumo"
+  },
+  {
+    "entidad": "Leucemia promielocítica aguda",
+    "relacion": "tiene una mayor incidencia en",
+    "valor": "población latina"
+  },
+  {
+    "entidad": "Protocolo LPA2000",
+    "relacion": "mejora",
+    "valor": "la sobrevida de LPA en Chile"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "implementa",
+    "valor": "el Protocolo LPA2000"
+  },
+  {
+    "entidad": "LPA2000",
+    "relacion": "se basa en",
+    "valor": "la experiencia del grupo español PETHEMA"
+  },
+  {
+    "entidad": "Leucemia promielocítica aguda",
+    "relacion": "presenta",
+    "valor": "alta sensibilidad a las antraciclinas"
+  },
+  {
+    "entidad": "Protocolo LPA2000",
+    "relacion": "excluye",
+    "valor": "el uso de citarabina"
+  },
+  {
+    "entidad": "Protocolo LPA2000",
+    "relacion": "reemplaza",
+    "valor": "idarubicin por daunorubicin"
+  },
+  {
+    "entidad": "Protocolo LPA2000",
+    "relacion": "incluye",
+    "valor": "tratamiento de soporte durante la inducción"
+  },
+  {
+    "entidad": "Protocolo LPA2000",
+    "relacion": "define",
+    "valor": "criterios de evaluación para remisión completa"
+  },
+  {
+    "entidad": "Leucemia promielocítica aguda",
+    "relacion": "se diagnostica por",
+    "valor": "traslocación t(15;17)"
+  },
+  {
+    "entidad": "Protocolo LPA2000",
+    "relacion": "requiere",
+    "valor": "consentimiento del paciente"
+  },
+  {
+    "entidad": "Protocolo LPA2000",
+    "relacion": "ha sido fundamental en",
+    "valor": "los logros en el tratamiento de LPA"
+  },
+  {
+    "entidad": "Protocolo LPA2000",
+    "relacion": "se implementa en",
+    "valor": "hospitales acreditados"
+  },
+  {
+    "entidad": "Leucemia promielocítica aguda",
+    "relacion": "es tratada por",
+    "valor": "quimioterapia y ATRA"
+  },
+  {
+    "entidad": "Protocolo LPA2000",
+    "relacion": "se evalúa en",
+    "valor": "pacientes con LPA"
+  },
+  {
+    "entidad": "Leucemia promielocítica aguda",
+    "relacion": "tiene un pronóstico",
+    "valor": "mejorado en los últimos años"
+  },
+  {
+    "entidad": "malformaciones congénitas",
+    "relacion": "afecta a",
+    "valor": "hijos de madres adolescentes"
+  },
+  {
+    "entidad": "Hospital Clínico Universidad de Chile",
+    "relacion": "realiza",
+    "valor": "estudio sobre malformaciones congénitas"
+  },
+  {
+    "entidad": "madres adolescentes",
+    "relacion": "tienen",
+    "valor": "riesgo de malformaciones congénitas"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile (MINSAL)",
+    "relacion": "informa sobre",
+    "valor": "aumento de nacimientos de madres adolescentes"
+  },
+  {
+    "entidad": "ECLAMC",
+    "relacion": "proporciona",
+    "valor": "base de datos sobre malformaciones congénitas"
+  },
+  {
+    "entidad": "hijos de madres adolescentes",
+    "relacion": "presentan",
+    "valor": "tasa de malformaciones congénitas"
+  },
+  {
+    "entidad": "hijos de madres entre 20 y 34 años",
+    "relacion": "tienen",
+    "valor": "tasa de malformaciones congénitas"
+  },
+  {
+    "entidad": "consumo de alcohol",
+    "relacion": "asocia con",
+    "valor": "malformaciones congénitas"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "asocia con",
+    "valor": "malformaciones congénitas"
+  },
+  {
+    "entidad": "consumo de drogas",
+    "relacion": "asocia con",
+    "valor": "malformaciones congénitas"
+  },
+  {
+    "entidad": "edad materna",
+    "relacion": "es un",
+    "valor": "factor de riesgo para malformaciones congénitas"
+  },
+  {
+    "entidad": "tasa de malformaciones congénitas en hijos de madres adolescentes",
+    "relacion": "es menor que",
+    "valor": "tasa en hijos de madres de 20 a 34 años"
+  },
+  {
+    "entidad": "hijos de madres adolescentes",
+    "relacion": "tienen",
+    "valor": "menor prevalencia de malformaciones congénitas"
+  },
+  {
+    "entidad": "hijos de madres adolescentes",
+    "relacion": "presentan",
+    "valor": "diferencias en consumo de drogas y tabaquismo"
+  },
+  {
+    "entidad": "madres adolescentes",
+    "relacion": "tienen",
+    "valor": "nivel educativo variado"
+  },
+  {
+    "entidad": "malformaciones congénitas",
+    "relacion": "se distribuyen en",
+    "valor": "sistemas como piel, esquelético y cardiovascular"
+  },
+  {
+    "entidad": "Helicobacter pylori",
+    "relacion": "causa",
+    "valor": "úlcera gástrica"
+  },
+  {
+    "entidad": "Helicobacter pylori",
+    "relacion": "causa",
+    "valor": "duodenal"
+  },
+  {
+    "entidad": "Helicobacter pylori",
+    "relacion": "causa",
+    "valor": "gastritis"
+  },
+  {
+    "entidad": "Helicobacter pylori",
+    "relacion": "causa",
+    "valor": "cáncer gástrico"
+  },
+  {
+    "entidad": "cáncer gástrico",
+    "relacion": "asociación",
+    "valor": "alta prevalencia en Chile"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "es un",
+    "valor": "país con alta mortalidad por cáncer gástrico"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "evalúa",
+    "valor": "prevalencia de infección por H. pylori en niños"
+  },
+  {
+    "entidad": "niños",
+    "relacion": "tienen",
+    "valor": "infección por H. pylori"
+  },
+  {
+    "entidad": "test de antígeno en deposiciones",
+    "relacion": "es un",
+    "valor": "método diagnóstico"
+  },
+  {
+    "entidad": "colegio Nueva Era Siglo XXI",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "Comité de Ética de la Facultad de Medicina de la Pontificia Universidad Católica de Chile",
+    "relacion": "aprueba",
+    "valor": "proyecto"
+  },
+  {
+    "entidad": "nivel socioeconómico",
+    "relacion": "afecta",
+    "valor": "prevalencia de H. pylori"
+  },
+  {
+    "entidad": "H. pylori",
+    "relacion": "se evalúa mediante",
+    "valor": "determinación monoclonal de antígenos"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "representa",
+    "valor": "un lugar prioritario para el estudio de H. pylori"
+  },
+  {
+    "entidad": "vacunación",
+    "relacion": "es una",
+    "valor": "medida de salud pública"
+  },
+  {
+    "entidad": "erradicación",
+    "relacion": "es una",
+    "valor": "estrategia de salud pública"
+  },
+  {
+    "entidad": "niñez",
+    "relacion": "es importante para",
+    "valor": "estrategias de salud pública"
+  },
+  {
+    "entidad": "H. pylori",
+    "relacion": "se adquiere",
+    "valor": "en la segunda década de la vida"
+  },
+  {
+    "entidad": "síndrome de Gilbert",
+    "relacion": "se define como",
+    "valor": "elevación discreta de los niveles de bilirrubina sérica no conjugada"
+  },
+  {
+    "entidad": "síndrome de Gilbert",
+    "relacion": "es la principal causa de",
+    "valor": "hiperbilirrubinemia en población general"
+  },
+  {
+    "entidad": "UGT1A1",
+    "relacion": "es el gen responsable de",
+    "valor": "la glucuronización de bilirrubina"
+  },
+  {
+    "entidad": "variante UGT1A1*28",
+    "relacion": "explica",
+    "valor": "75% del fenotipo de síndrome de Gilbert en chilenos"
+  },
+  {
+    "entidad": "población chilena",
+    "relacion": "presenta",
+    "valor": "prevalencia de síndrome de Gilbert del 2.6%"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "tienen mayor prevalencia de",
+    "valor": "síndrome de Gilbert en comparación con mujeres"
+  },
+  {
+    "entidad": "genotipo TA7/7",
+    "relacion": "se asocia con",
+    "valor": "niveles elevados de bilirrubina sérica"
+  },
+  {
+    "entidad": "SLCO1B1",
+    "relacion": "es un gen que codifica para",
+    "valor": "el transportador de aniones OATP1B1"
+  },
+  {
+    "entidad": "variante rs4149056",
+    "relacion": "se asocia con",
+    "valor": "riesgo de miopatía por estatinas"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud (ENS) 2009-2010",
+    "relacion": "fue financiada por",
+    "valor": "Ministerio de Salud de Chile"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "realiza",
+    "valor": "investigaciones sobre síndrome de Gilbert"
+  },
+  {
+    "entidad": "bilirrubina",
+    "relacion": "es modulada por",
+    "valor": "factores como ayuno, estrés, infecciones y ciertos fármacos"
+  },
+  {
+    "entidad": "hormonas sexuales",
+    "relacion": "afectan",
+    "valor": "los niveles de bilirrubina en mujeres"
+  },
+  {
+    "entidad": "síndrome de Gilbert",
+    "relacion": "puede ser un predictor de",
+    "valor": "toxicidad a ciertos fármacos"
+  },
+  {
+    "entidad": "genotipo UGT1A1*28",
+    "relacion": "se hereda de forma",
+    "valor": "autosómica recesiva con penetrancia incompleta"
+  },
+  {
+    "entidad": "estudios de screening genómico total (GWAS)",
+    "relacion": "confirman que",
+    "valor": "la variabilidad de los niveles de bilirrubina es explicada por variantes genéticas"
+  },
+  {
+    "entidad": "síndrome de Gilbert",
+    "relacion": "es considerado",
+    "valor": "una condición benigna sin relevancia clínica"
+  },
+  {
+    "entidad": "variante genética",
+    "relacion": "asociada a",
+    "valor": "menores niveles transcripcionales de la enzima UGT1A1"
+  },
+  {
+    "entidad": "ejercicio físico de alta intensidad",
+    "relacion": "induce",
+    "valor": "respuestas metabólicas"
+  },
+  {
+    "entidad": "mujeres sedentarias",
+    "relacion": "tienen",
+    "valor": "hiperglicemia"
+  },
+  {
+    "entidad": "mujeres sedentarias",
+    "relacion": "tienen",
+    "valor": "hipercolesterolemia"
+  },
+  {
+    "entidad": "ejercicio físico",
+    "relacion": "mejora",
+    "valor": "marcadores metabólicos"
+  },
+  {
+    "entidad": "mujeres sedentarias",
+    "relacion": "participan en",
+    "valor": "programa de ejercicio físico de alta intensidad"
+  },
+  {
+    "entidad": "programa de ejercicio físico de alta intensidad",
+    "relacion": "dura",
+    "valor": "12 semanas"
+  },
+  {
+    "entidad": "ejercicio físico de alta intensidad",
+    "relacion": "reduce",
+    "valor": "glicemia"
+  },
+  {
+    "entidad": "ejercicio físico de alta intensidad",
+    "relacion": "mejora",
+    "valor": "perfil lipídico"
+  },
+  {
+    "entidad": "mujeres con hipercolesterolemia",
+    "relacion": "muestran",
+    "valor": "mejoras significativas en perfil lipídico"
+  },
+  {
+    "entidad": "glicemia",
+    "relacion": "disminuye",
+    "valor": "significativamente en grupos con hiperglicemia"
+  },
+  {
+    "entidad": "ejercicio físico",
+    "relacion": "es un",
+    "valor": "tratamiento alternativo"
+  },
+  {
+    "entidad": "sedentarismo",
+    "relacion": "es un",
+    "valor": "factor de riesgo"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "es un",
+    "valor": "factor de riesgo"
+  },
+  {
+    "entidad": "mujeres chilenas",
+    "relacion": "tienen",
+    "valor": "alta prevalencia de diabetes"
+  },
+  {
+    "entidad": "mujeres chilenas",
+    "relacion": "tienen",
+    "valor": "alta prevalencia de hipercolesterolemia"
+  },
+  {
+    "entidad": "ejercicio físico de alta intensidad",
+    "relacion": "es efectivo para",
+    "valor": "reducción de riesgo cardiovascular"
+  },
+  {
+    "entidad": "programa de ejercicio físico de alta intensidad",
+    "relacion": "es",
+    "valor": "costo-eficiente"
+  },
+  {
+    "entidad": "ejercicio físico",
+    "relacion": "puede mejorar",
+    "valor": "condiciones de salud"
+  },
+  {
+    "entidad": "Latino paradox",
+    "relacion": "describe",
+    "valor": "mejor estado de salud de inmigrantes en comparación con la población local"
+  },
+  {
+    "entidad": "inmigrantes",
+    "relacion": "pertenece a",
+    "valor": "población de Chile"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "es un",
+    "valor": "país de destino para inmigrantes"
+  },
+  {
+    "entidad": "CASEN survey 2006",
+    "relacion": "utiliza",
+    "valor": "análisis de datos secundarios"
+  },
+  {
+    "entidad": "efecto del 'migrante sano'",
+    "relacion": "observa",
+    "valor": "en la población inmigrante"
+  },
+  {
+    "entidad": "inmigrantes",
+    "relacion": "tiene",
+    "valor": "prevalencia de salud más baja que la población chilena"
+  },
+  {
+    "entidad": "población chilena",
+    "relacion": "se compara con",
+    "valor": "inmigrantes"
+  },
+  {
+    "entidad": "bajo estatus socioeconómico",
+    "relacion": "afecta a",
+    "valor": "salud de inmigrantes"
+  },
+  {
+    "entidad": "inmigrantes con más tiempo de residencia",
+    "relacion": "muestra",
+    "valor": "tasas de salud similares a la población chilena"
+  },
+  {
+    "entidad": "políticas de salud",
+    "relacion": "requiere",
+    "valor": "protección de inmigrantes de bajo SES"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "ha experimentado",
+    "valor": "mejora progresiva en el estado de salud de la población"
+  },
+  {
+    "entidad": "inmigrantes",
+    "relacion": "representa",
+    "valor": "1% de la población total de Chile"
+  },
+  {
+    "entidad": "inmigrantes",
+    "relacion": "provienen de",
+    "valor": "países de América Latina"
+  },
+  {
+    "entidad": "inmigrantes",
+    "relacion": "muestran",
+    "valor": "variabilidad en su estatus socioeconómico"
+  },
+  {
+    "entidad": "inmigrantes de baja SES",
+    "relacion": "no muestran",
+    "valor": "diferencias en salud con la población chilena"
+  },
+  {
+    "entidad": "paradoja latina",
+    "relacion": "no se observa",
+    "valor": "en Chile"
+  },
+  {
+    "entidad": "análisis cuantitativo",
+    "relacion": "describe",
+    "valor": "salud de inmigrantes en Chile"
+  },
+  {
+    "entidad": "inmigrantes",
+    "relacion": "pueden tener",
+    "valor": "necesidades de salud urgentes"
+  },
+  {
+    "entidad": "inmigrantes",
+    "relacion": "se asocia con",
+    "valor": "mayor riesgo de problemas de salud con el tiempo"
+  }
+]

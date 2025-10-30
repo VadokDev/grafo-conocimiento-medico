@@ -1,0 +1,127 @@
+[
+  {
+    "entidad": "Gammagrafía V/Q",
+    "relacion": "detecta",
+    "valor": "embolia pulmonar"
+  },
+  {
+    "entidad": "Gammagrafía V/Q",
+    "relacion": "diagnostica",
+    "valor": "problemas pulmonares"
+  },
+  {
+    "entidad": "Gammagrafía V/Q",
+    "relacion": "indicado_si_tiene",
+    "valor": "síntomas de embolia pulmonar"
+  },
+  {
+    "entidad": "Gammagrafía V/Q",
+    "relacion": "requiere_muestra_de",
+    "valor": "sustancia radiactiva"
+  },
+  {
+    "entidad": "Gammagrafía V/Q",
+    "relacion": "tiene_duracion",
+    "valor": "30 a 60 minutos"
+  },
+  {
+    "entidad": "Gammagrafía V/Q",
+    "relacion": "pertenece_a_categoria",
+    "valor": "pruebas de diagnóstico por imagen"
+  },
+  {
+    "entidad": "Gammagrafía de ventilación",
+    "relacion": "mide",
+    "valor": "cómo entra y sale el aire de los pulmones"
+  },
+  {
+    "entidad": "Gammagrafía de perfusión",
+    "relacion": "mide",
+    "valor": "circulación en los pulmones"
+  },
+  {
+    "entidad": "Gammagrafía V/Q",
+    "relacion": "realizado_por",
+    "valor": "profesional de la salud"
+  },
+  {
+    "entidad": "Gammagrafía V/Q",
+    "relacion": "tiene_riesgo",
+    "valor": "exposición a la radiación"
+  },
+  {
+    "entidad": "Gammagrafía V/Q",
+    "relacion": "causa_efecto_secundario",
+    "valor": "reacciones alérgicas al marcador"
+  },
+  {
+    "entidad": "Gammagrafía V/Q",
+    "relacion": "utiliza_equipo",
+    "valor": "escáner"
+  },
+  {
+    "entidad": "Gammagrafía V/Q",
+    "relacion": "se_realiza_en",
+    "valor": "clínica de radiología o hospital"
+  },
+  {
+    "entidad": "Glóbulos blancos en las heces",
+    "relacion": "analiza",
+    "valor": "glóbulos blancos"
+  },
+  {
+    "entidad": "Glóbulos blancos en las heces",
+    "relacion": "alivia",
+    "valor": "diarrea por inflamación"
+  },
+  {
+    "entidad": "Glóbulos blancos en las heces",
+    "relacion": "requiere_muestra_de",
+    "valor": "muestra de heces"
+  },
+  {
+    "entidad": "Glóbulos blancos en las heces",
+    "relacion": "indicado_si_tiene",
+    "valor": "diarrea que sugiere inflamación"
+  },
+  {
+    "entidad": "Glóbulos blancos en las heces",
+    "relacion": "diagnostica",
+    "valor": "infecciones en el sistema digestivo"
+  },
+  {
+    "entidad": "Glóbulos blancos en las heces",
+    "relacion": "tiene_duracion",
+    "valor": "no especificada"
+  },
+  {
+    "entidad": "Glóbulos blancos en las heces",
+    "relacion": "tiene_riesgo",
+    "valor": "ninguno conocido"
+  },
+  {
+    "entidad": "Glóbulos blancos en las heces",
+    "relacion": "util_para",
+    "valor": "determinar si la diarrea es causada por inflamación"
+  },
+  {
+    "entidad": "Glóbulos blancos en las heces",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "diarrea acuosa, calambres abdominales, sangre en heces, fiebre, fatiga, pérdida de peso"
+  },
+  {
+    "entidad": "Glóbulos blancos en las heces",
+    "relacion": "es_tipo_de",
+    "valor": "prueba de laboratorio"
+  },
+  {
+    "entidad": "Glóbulos blancos en las heces",
+    "relacion": "ayuda_diagnosticar",
+    "valor": "infecciones bacterianas, enfermedad inflamatoria intestinal, parásitos"
+  },
+  {
+    "entidad": "Glóbulos blancos en las heces",
+    "relacion": "realizado_por",
+    "valor": "profesional de la salud"
+  }
+]

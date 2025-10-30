@@ -1,0 +1,332 @@
+[
+  {
+    "entidad": "Carcinoma epidermoide primario del estómago",
+    "relacion": "es un tipo de",
+    "valor": "cáncer raro"
+  },
+  {
+    "entidad": "Instituto Nacional de Cancerología",
+    "relacion": "realiza",
+    "valor": "diagnóstico y tratamiento del cáncer"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "presentan",
+    "valor": "síntomas ulcerosos"
+  },
+  {
+    "entidad": "quimioterapia",
+    "relacion": "es un tratamiento para",
+    "valor": "carcinoma epidermoide"
+  },
+  {
+    "entidad": "radioterapia",
+    "relacion": "es un tratamiento para",
+    "valor": "carcinoma epidermoide"
+  },
+  {
+    "entidad": "carcinoma epidermoide del estómago",
+    "relacion": "puede causar",
+    "valor": "pérdida de peso"
+  },
+  {
+    "entidad": "carcinoma epidermoide del estómago",
+    "relacion": "puede causar",
+    "valor": "astenia"
+  },
+  {
+    "entidad": "carcinoma epidermoide del estómago",
+    "relacion": "puede causar",
+    "valor": "melena"
+  },
+  {
+    "entidad": "carcinoma epidermoide del estómago",
+    "relacion": "es tratado con",
+    "valor": "resección quirúrgica"
+  },
+  {
+    "entidad": "carcinoma epidermoide del estómago",
+    "relacion": "es tratado con",
+    "valor": "quimioterapia"
+  },
+  {
+    "entidad": "carcinoma epidermoide del estómago",
+    "relacion": "es tratado con",
+    "valor": "radioterapia"
+  },
+  {
+    "entidad": "cisplatino",
+    "relacion": "es un tipo de",
+    "valor": "quimioterapia"
+  },
+  {
+    "entidad": "5-fluorouracilo",
+    "relacion": "es un tipo de",
+    "valor": "quimioterapia"
+  },
+  {
+    "entidad": "pacientes mayores de 60 años",
+    "relacion": "son más propensos a",
+    "valor": "carcinoma epidermoide del estómago"
+  },
+  {
+    "entidad": "antecedentes familiares de cáncer gástrico",
+    "relacion": "pueden influir en",
+    "valor": "desarrollo de carcinoma epidermoide"
+  },
+  {
+    "entidad": "patogénesis del carcinoma epidermoide",
+    "relacion": "es",
+    "valor": "incierta"
+  },
+  {
+    "entidad": "tratamiento oncológico del carcinoma epidermoide",
+    "relacion": "debe seguir",
+    "valor": "pautas del adenocarcinoma gástrico"
+  },
+  {
+    "entidad": "supervivencia global a 5 años",
+    "relacion": "es menor del",
+    "valor": "10%"
+  },
+  {
+    "entidad": "carcinoma epidermoide del estómago",
+    "relacion": "es más frecuente en",
+    "valor": "hombres"
+  },
+  {
+    "entidad": "trasplante hepático",
+    "relacion": "es",
+    "valor": "terapia de elección para la insuficiencia hepática"
+  },
+  {
+    "entidad": "Virus de la Inmunodeficiencia Humana (VIH)",
+    "relacion": "es",
+    "valor": "una contraindicación para el trasplante hepático antes de TARV"
+  },
+  {
+    "entidad": "Terapia Antirretroviral Efectiva (TARV)",
+    "relacion": "aumenta",
+    "valor": "la expectativa de vida en pacientes con VIH"
+  },
+  {
+    "entidad": "paciente masculino de 26 años",
+    "relacion": "es portador de",
+    "valor": "VIH"
+  },
+  {
+    "entidad": "paciente masculino de 26 años",
+    "relacion": "desarrolló",
+    "valor": "falla hepática aguda"
+  },
+  {
+    "entidad": "falla hepática aguda",
+    "relacion": "posiblemente causada por",
+    "valor": "lesión hepática inducida por fármacos"
+  },
+  {
+    "entidad": "trasplante hepático",
+    "relacion": "fue realizado en",
+    "valor": "un paciente con VIH"
+  },
+  {
+    "entidad": "inmunosupresión estándar",
+    "relacion": "incluye",
+    "valor": "tacrolimus, micofenolato y esteroides"
+  },
+  {
+    "entidad": "recuento de linfocitos CD4+",
+    "relacion": "debe ser",
+    "valor": "mayor a 100 células/µL para trasplante"
+  },
+  {
+    "entidad": "hepatotoxicidad",
+    "relacion": "puede ser causada por",
+    "valor": "abacavir, lamivudina y metformina"
+  },
+  {
+    "entidad": "DILI",
+    "relacion": "es",
+    "valor": "lesión hepática inducida por fármacos"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "evolucionó",
+    "valor": "favorablemente tras el trasplante"
+  },
+  {
+    "entidad": "TARV",
+    "relacion": "contribuye a",
+    "valor": "mejorar la supervivencia en pacientes con VIH"
+  },
+  {
+    "entidad": "equipo multidisciplinario",
+    "relacion": "debe manejar",
+    "valor": "pacientes con VIH y falla hepática aguda"
+  },
+  {
+    "entidad": "trasplante hepático",
+    "relacion": "puede ser",
+    "valor": "procedimiento factible y exitoso en pacientes con VIH"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "tiene",
+    "valor": "cáncer diferenciado de tiroides (CDT)"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "requiere",
+    "valor": "tracheostomía"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "requiere",
+    "valor": "gastrostomía"
+  },
+  {
+    "entidad": "radioyodo (131I)",
+    "relacion": "es administrado",
+    "valor": "endovenoso"
+  },
+  {
+    "entidad": "TSH recombinante humana (rhTSH)",
+    "relacion": "es utilizado junto a",
+    "valor": "radioyodo (131I)"
+  },
+  {
+    "entidad": "administración de 131I",
+    "relacion": "es indicada en",
+    "valor": "pacientes seleccionados con CDT"
+  },
+  {
+    "entidad": "TSHrh",
+    "relacion": "previene",
+    "valor": "descompensación del cuadro general del paciente"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "no presenta",
+    "valor": "síntomas gastrointestinales adversos"
+  },
+  {
+    "entidad": "solución glucosalina",
+    "relacion": "es administrada para",
+    "valor": "facilitar eliminación de 131I residual"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "se mantiene en",
+    "valor": "buenas condiciones clínicas a 2 años del tratamiento"
+  },
+  {
+    "entidad": "vía endovenosa",
+    "relacion": "es considerada",
+    "valor": "una excelente alternativa en casos complejos"
+  },
+  {
+    "entidad": "costo del 131I endovenoso",
+    "relacion": "es",
+    "valor": "más alto que la formulación oral"
+  },
+  {
+    "entidad": "TSHrh",
+    "relacion": "tiene efectividad similar a",
+    "valor": "suspensión de hormona tiroidea"
+  },
+  {
+    "entidad": "131I endovenoso",
+    "relacion": "es reportado junto a",
+    "valor": "TSHrh por primera vez"
+  },
+  {
+    "entidad": "Foramen oval permeable (FOP)",
+    "relacion": "es un",
+    "valor": "defecto congénito"
+  },
+  {
+    "entidad": "FOP",
+    "relacion": "tiene una prevalencia",
+    "valor": "25-30% en adultos de mediana edad"
+  },
+  {
+    "entidad": "embolia paradójica",
+    "relacion": "es causada por",
+    "valor": "FOP"
+  },
+  {
+    "entidad": "ictus isquémico",
+    "relacion": "puede ser causado por",
+    "valor": "embolia paradójica"
+  },
+  {
+    "entidad": "ecocardiografía",
+    "relacion": "se utiliza para detectar",
+    "valor": "FOP"
+  },
+  {
+    "entidad": "anticoagulante",
+    "relacion": "se inicia tras",
+    "valor": "la detección de trombo"
+  },
+  {
+    "entidad": "trombectomía",
+    "relacion": "se realiza en",
+    "valor": "pacientes con oclusión arterial"
+  },
+  {
+    "entidad": "heparina",
+    "relacion": "se utiliza como",
+    "valor": "terapia médica"
+  },
+  {
+    "entidad": "cierre percutáneo del FOP",
+    "relacion": "es indicado en",
+    "valor": "pacientes con alto riesgo"
+  },
+  {
+    "entidad": "aneurisma del septum interauricular",
+    "relacion": "es un factor de",
+    "valor": "alto riesgo"
+  },
+  {
+    "entidad": "shunt derecha a izquierda",
+    "relacion": "es un factor de",
+    "valor": "alto riesgo"
+  },
+  {
+    "entidad": "trombo",
+    "relacion": "puede causar",
+    "valor": "tromboembolismo pulmonar"
+  },
+  {
+    "entidad": "ACE criptogénico",
+    "relacion": "puede recurrir en",
+    "valor": "5% de los casos"
+  },
+  {
+    "entidad": "ecocardiograma transesofágico",
+    "relacion": "es el",
+    "valor": "estándar de oro para detectar FOP"
+  },
+  {
+    "entidad": "pacientes jóvenes",
+    "relacion": "se benefician de",
+    "valor": "cierre percutáneo en casos de recurrencia"
+  },
+  {
+    "entidad": "tasa de complicaciones del cierre percutáneo",
+    "relacion": "es menor a",
+    "valor": "1%"
+  },
+  {
+    "entidad": "estudios randomizados",
+    "relacion": "han abordado",
+    "valor": "cierre percutáneo del FOP"
+  },
+  {
+    "entidad": "trombo atrapado en FOP",
+    "relacion": "se asocia con",
+    "valor": "alto riesgo de TEP"
+  }
+]

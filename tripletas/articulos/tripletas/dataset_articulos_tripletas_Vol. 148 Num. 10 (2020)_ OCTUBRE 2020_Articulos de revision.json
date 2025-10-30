@@ -1,0 +1,217 @@
+[
+  {
+    "entidad": "enfermedad de von Willebrand",
+    "relacion": "asocia a",
+    "valor": "angiodisplasia"
+  },
+  {
+    "entidad": "factor de von Willebrand (vWf)",
+    "relacion": "mediador de",
+    "valor": "adhesión plaquetaria"
+  },
+  {
+    "entidad": "factor de von Willebrand (vWf)",
+    "relacion": "estabiliza",
+    "valor": "factor VIII"
+  },
+  {
+    "entidad": "deficiencia de vWf",
+    "relacion": "favorece",
+    "valor": "sangrado"
+  },
+  {
+    "entidad": "deficiencia de vWf",
+    "relacion": "contribuye a",
+    "valor": "aumento de angiogénesis"
+  },
+  {
+    "entidad": "vWf replacement therapy",
+    "relacion": "utilizado para",
+    "valor": "control de episodios de sangrado gastrointestinal"
+  },
+  {
+    "entidad": "angiogénesis inhibitor medications",
+    "relacion": "utilizados en",
+    "valor": "tratamiento de vWD y angiodisplasia"
+  },
+  {
+    "entidad": "angiopoyetina -1",
+    "relacion": "causa",
+    "valor": "maduración de células endoteliales"
+  },
+  {
+    "entidad": "angiopoyetina -2",
+    "relacion": "inhibe",
+    "valor": "maduración vascular"
+  },
+  {
+    "entidad": "vWf",
+    "relacion": "interactúa con",
+    "valor": "receptor integrina avB3"
+  },
+  {
+    "entidad": "VEGF",
+    "relacion": "se une a",
+    "valor": "receptor VEGFR-2"
+  },
+  {
+    "entidad": "sangrado gastrointestinal",
+    "relacion": "asociado a",
+    "valor": "angiodisplasia"
+  },
+  {
+    "entidad": "síndrome de Heyde",
+    "relacion": "describe",
+    "valor": "triada de estenosis aórtica, angiodisplasia y sangrado gastrointestinal"
+  },
+  {
+    "entidad": "talidomida",
+    "relacion": "utilizada como",
+    "valor": "modificador del control inmunológico"
+  },
+  {
+    "entidad": "atorvastatina",
+    "relacion": "descrita como",
+    "valor": "posible terapia"
+  },
+  {
+    "entidad": "tamoxifeno",
+    "relacion": "propuesto por",
+    "valor": "su rol en el tratamiento de la telangectasia hereditaria hemorrágica"
+  },
+  {
+    "entidad": "danazol",
+    "relacion": "reportado en",
+    "valor": "pacientes con beneficios similares a otros medicamentos"
+  },
+  {
+    "entidad": "vWD",
+    "relacion": "requiere",
+    "valor": "tratamiento profiláctico con liofilizado de vWf"
+  },
+  {
+    "entidad": "inhibidores de la angiogénesis",
+    "relacion": "pueden disminuir",
+    "valor": "tasa de sangrado recurrente"
+  },
+  {
+    "entidad": "vWf",
+    "relacion": "no se une a",
+    "valor": "integrina avB3 en deficiencia"
+  },
+  {
+    "entidad": "angiopoyetina -2",
+    "relacion": "liberada sin",
+    "valor": "control de WBPs"
+  },
+  {
+    "entidad": "SARS-CoV-2",
+    "relacion": "causa",
+    "valor": "Covid-19"
+  },
+  {
+    "entidad": "Covid-19",
+    "relacion": "es un",
+    "valor": "enfermedad endotelial trombo-inflamatoria"
+  },
+  {
+    "entidad": "Covid-19",
+    "relacion": "caracterizada por",
+    "valor": "respuesta inflamatoria intensa y alta incidencia de eventos trombóticos"
+  },
+  {
+    "entidad": "daño endotelial",
+    "relacion": "es un factor clave en",
+    "valor": "la fisiopatología de Covid-19"
+  },
+  {
+    "entidad": "heparina",
+    "relacion": "es un",
+    "valor": "fármaco ideal para tratar Covid-19"
+  },
+  {
+    "entidad": "heparina",
+    "relacion": "tiene efectos",
+    "valor": "anticoagulantes, antiinflamatorios, antivirales y de protección endotelial"
+  },
+  {
+    "entidad": "coagulopatía inducida por Covid-19",
+    "relacion": "determina",
+    "valor": "elevado riesgo de tromboembolismo venoso"
+  },
+  {
+    "entidad": "tromboprofilaxis",
+    "relacion": "se recomienda en",
+    "valor": "pacientes hospitalizados por Covid-19"
+  },
+  {
+    "entidad": "endotelio vascular",
+    "relacion": "es afectado por",
+    "valor": "SARS-CoV-2"
+  },
+  {
+    "entidad": "respuesta trombo-inflamatoria",
+    "relacion": "es clave en",
+    "valor": "la fisiopatología de la infección por SARS-CoV-2"
+  },
+  {
+    "entidad": "factores de riesgo",
+    "relacion": "asociados a",
+    "valor": "disfunción endotelial en Covid-19"
+  },
+  {
+    "entidad": "heparina de bajo peso molecular",
+    "relacion": "se recomienda para",
+    "valor": "tromboprofilaxis en pacientes hospitalizados"
+  },
+  {
+    "entidad": "trombosis",
+    "relacion": "es un fenómeno común en",
+    "valor": "pacientes hospitalizados por Covid-19"
+  },
+  {
+    "entidad": "síndrome microvascular obstructivo pulmonar",
+    "relacion": "es parte de",
+    "valor": "la fisiopatología de Covid-19"
+  },
+  {
+    "entidad": "angiogénesis",
+    "relacion": "es un proceso observado en",
+    "valor": "pacientes con Covid-19"
+  },
+  {
+    "entidad": "ACE2",
+    "relacion": "es el receptor utilizado por",
+    "valor": "SARS-CoV-2 para infectar células"
+  },
+  {
+    "entidad": "DPP4",
+    "relacion": "participa en",
+    "valor": "el ingreso de SARS-CoV-2 a la célula"
+  },
+  {
+    "entidad": "trombosis de la microcirculación pulmonar",
+    "relacion": "explica",
+    "valor": "la hipoxemia severa en pacientes con Covid-19"
+  },
+  {
+    "entidad": "fibrinógeno",
+    "relacion": "aumenta debido a",
+    "valor": "respuesta inflamatoria y disfunción endotelial"
+  },
+  {
+    "entidad": "coagulación intravascular diseminada",
+    "relacion": "es diferente de",
+    "valor": "coagulopatía inducida por Covid-19"
+  },
+  {
+    "entidad": "tromboprofilaxis extendida",
+    "relacion": "se recomienda en",
+    "valor": "pacientes con movilidad reducida post alta"
+  },
+  {
+    "entidad": "heparina",
+    "relacion": "es parte fundamental del",
+    "valor": "tratamiento de pacientes hospitalizados con Covid-19"
+  }
+]

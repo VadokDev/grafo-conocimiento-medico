@@ -1,0 +1,227 @@
+[
+  {
+    "entidad": "Ejercicio físico intervalado de alta intensidad (HIIT)",
+    "relacion": "mejora",
+    "valor": "fitness cardiovascular"
+  },
+  {
+    "entidad": "Ejercicio físico intervalado de alta intensidad (HIIT)",
+    "relacion": "mejora",
+    "valor": "fitness muscular"
+  },
+  {
+    "entidad": "Ejercicio físico intervalado de alta intensidad (HIIT)",
+    "relacion": "mejora",
+    "valor": "composición corporal"
+  },
+  {
+    "entidad": "Adolescentes",
+    "relacion": "son sujetos de estudio en",
+    "valor": "ejercicio físico intervalado de alta intensidad (HIIT)"
+  },
+  {
+    "entidad": "HIIT",
+    "relacion": "se caracteriza por",
+    "valor": "estímulos de corta duración y alta intensidad"
+  },
+  {
+    "entidad": "HIIT",
+    "relacion": "es más motivante que",
+    "valor": "ejercicios aeróbicos de intensidad moderada"
+  },
+  {
+    "entidad": "HIIT",
+    "relacion": "requiere",
+    "valor": "planificación adecuada en educación física"
+  },
+  {
+    "entidad": "Fitness cardiovascular",
+    "relacion": "mejora con",
+    "valor": "protocolos de HIIT"
+  },
+  {
+    "entidad": "Fitness muscular",
+    "relacion": "mejora con",
+    "valor": "protocolos de HIIT"
+  },
+  {
+    "entidad": "Composición corporal",
+    "relacion": "mejora con",
+    "valor": "protocolos de HIIT de al menos 10 semanas"
+  },
+  {
+    "entidad": "Beca Doctorado Nacional CONICYT",
+    "relacion": "apoya",
+    "valor": "investigaciones en salud"
+  },
+  {
+    "entidad": "Universidad de las Américas (UDLA)",
+    "relacion": "es un",
+    "valor": "centro de investigación en rehabilitación y salud"
+  },
+  {
+    "entidad": "Centro de Investigación en Rehabilitación y Salud (CIRES)",
+    "relacion": "pertenece a",
+    "valor": "Universidad de las Américas (UDLA)"
+  },
+  {
+    "entidad": "Universidad de Santiago de Chile",
+    "relacion": "es un",
+    "valor": "centro de educación en ciencias de la actividad física"
+  },
+  {
+    "entidad": "Universidad de Chile",
+    "relacion": "es un",
+    "valor": "centro de educación en medicina"
+  },
+  {
+    "entidad": "Ejercicio físico",
+    "relacion": "ha demostrado ser efectivo para",
+    "valor": "mejorar parámetros de fuerza y potencia aeróbica"
+  },
+  {
+    "entidad": "Fuerza muscular",
+    "relacion": "se asocia a",
+    "valor": "menor mortalidad"
+  },
+  {
+    "entidad": "Bajo rendimiento aeróbico",
+    "relacion": "se asocia a",
+    "valor": "menor sobrevida"
+  },
+  {
+    "entidad": "Fitness físico deficitario",
+    "relacion": "se asocia a",
+    "valor": "desarrollo de patologías metabólicas"
+  },
+  {
+    "entidad": "HIIT",
+    "relacion": "puede generar",
+    "valor": "mayor adherencia en clases de educación física"
+  },
+  {
+    "entidad": "Protocolos de HIIT",
+    "relacion": "deben incluir",
+    "valor": "ejercicios de fuerza para mejorar masa muscular"
+  },
+  {
+    "entidad": "HIIT",
+    "relacion": "mejora",
+    "valor": "VO2máx"
+  },
+  {
+    "entidad": "HIIT",
+    "relacion": "reduce",
+    "valor": "presión arterial sistólica"
+  },
+  {
+    "entidad": "HIIT",
+    "relacion": "reduce",
+    "valor": "colesterol LDL"
+  },
+  {
+    "entidad": "Protocolos de HIIT",
+    "relacion": "deben ser",
+    "valor": "de al menos 12 semanas para mejoras significativas"
+  },
+  {
+    "entidad": "Ejercicio F+HIIT",
+    "relacion": "aumenta",
+    "valor": "masa libre de grasa en adolescentes obesas"
+  },
+  {
+    "entidad": "Enfermedad Inflamatoria Intestinal",
+    "relacion": "incluye",
+    "valor": "colitis ulcerosa y enfermedad de Crohn"
+  },
+  {
+    "entidad": "Enfermedad Inflamatoria Intestinal",
+    "relacion": "desarrolla en",
+    "valor": "personas genéticamente predispuestas"
+  },
+  {
+    "entidad": "factores ambientales",
+    "relacion": "interactúan con",
+    "valor": "microbiota y sistema inmune"
+  },
+  {
+    "entidad": "lactancia materna",
+    "relacion": "es un",
+    "valor": "factor protector contra EII"
+  },
+  {
+    "entidad": "Helicobacter pylori",
+    "relacion": "está inversamente relacionada con",
+    "valor": "incidencia de EII"
+  },
+  {
+    "entidad": "probióticos",
+    "relacion": "modulan",
+    "valor": "composición de la microbiota"
+  },
+  {
+    "entidad": "ejercicio físico",
+    "relacion": "es protector para",
+    "valor": "Enfermedad Inflamatoria Intestinal"
+  },
+  {
+    "entidad": "vitamina D",
+    "relacion": "modifica",
+    "valor": "respuesta inmune innata"
+  },
+  {
+    "entidad": "calidad del sueño",
+    "relacion": "afecta",
+    "valor": "permeabilidad intestinal"
+  },
+  {
+    "entidad": "condiciones sanitarias",
+    "relacion": "aumentan",
+    "valor": "riesgo de EII"
+  },
+  {
+    "entidad": "polución/urbanización",
+    "relacion": "aumenta",
+    "valor": "permeabilidad intestinal"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "se asocia con",
+    "valor": "desarrollo de EII"
+  },
+  {
+    "entidad": "AINE",
+    "relacion": "alteran",
+    "valor": "composición del moco"
+  },
+  {
+    "entidad": "antibióticos",
+    "relacion": "disminuyen",
+    "valor": "diversidad de la microbiota"
+  },
+  {
+    "entidad": "anticonceptivos orales",
+    "relacion": "se han asociado con",
+    "valor": "mayor riesgo de EII"
+  },
+  {
+    "entidad": "estrés",
+    "relacion": "empeora",
+    "valor": "curso de la EII"
+  },
+  {
+    "entidad": "dieta",
+    "relacion": "modifica",
+    "valor": "composición de la microbiota intestinal"
+  },
+  {
+    "entidad": "apendicectomía",
+    "relacion": "puede estar asociada con",
+    "valor": "mayor riesgo de EC"
+  },
+  {
+    "entidad": "tabaco",
+    "relacion": "es protector para",
+    "valor": "CU y perjudicial para EC"
+  }
+]

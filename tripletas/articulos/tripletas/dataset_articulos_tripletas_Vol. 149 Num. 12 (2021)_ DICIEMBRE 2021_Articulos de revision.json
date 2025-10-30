@@ -1,0 +1,347 @@
+[
+  {
+    "entidad": "Infarto Agudo del Miocardio",
+    "relacion": "es un",
+    "valor": "trastorno cardiovascular"
+  },
+  {
+    "entidad": "Hipertensión Arterial Primaria",
+    "relacion": "afecta a",
+    "valor": "personas de 15 años y más"
+  },
+  {
+    "entidad": "Estrabismo",
+    "relacion": "afecta a",
+    "valor": "menores de 9 años"
+  },
+  {
+    "entidad": "Ayudas técnicas",
+    "relacion": "son para",
+    "valor": "personas de 65 años y más"
+  },
+  {
+    "entidad": "Ataque Cerebrovascular Isquémico",
+    "relacion": "afecta a",
+    "valor": "adultos de 15 años y más"
+  },
+  {
+    "entidad": "Leucemia aguda",
+    "relacion": "afecta a",
+    "valor": "personas de 15 años y más"
+  },
+  {
+    "entidad": "Leucemia crónica",
+    "relacion": "afecta a",
+    "valor": "personas de 15 años y más"
+  },
+  {
+    "entidad": "Salud Oral Integral",
+    "relacion": "es un",
+    "valor": "servicio para adultos de 60 años"
+  },
+  {
+    "entidad": "Consumo Perjudicial y Dependencia de Alcohol y Drogas",
+    "relacion": "afecta a",
+    "valor": "menores de 20 años"
+  },
+  {
+    "entidad": "Retinopatía del Prematuro",
+    "relacion": "es un",
+    "valor": "trastorno ocular"
+  },
+  {
+    "entidad": "Prevención de la Progresión de la Enfermedad Renal Crónica",
+    "relacion": "es un",
+    "valor": "proceso de atención médica"
+  },
+  {
+    "entidad": "Cáncer Colorrectal",
+    "relacion": "afecta a",
+    "valor": "personas de 15 años y más"
+  },
+  {
+    "entidad": "Transtorno Bipolar",
+    "relacion": "requiere",
+    "valor": "tratamiento en personas de 15 años y más"
+  },
+  {
+    "entidad": "Cardiopatías Congénitas Operables",
+    "relacion": "afecta a",
+    "valor": "menores de 15 años"
+  },
+  {
+    "entidad": "Alivio del Dolor por Cáncer Avanzado",
+    "relacion": "es un",
+    "valor": "proceso de atención médica"
+  },
+  {
+    "entidad": "Diabetes Mellitus tipo 2",
+    "relacion": "requiere",
+    "valor": "tratamiento farmacológico"
+  },
+  {
+    "entidad": "Disrafias Espinales",
+    "relacion": "son",
+    "valor": "trastornos congénitos"
+  },
+  {
+    "entidad": "Cáncer de Testículo",
+    "relacion": "afecta a",
+    "valor": "personas de 15 años y más"
+  },
+  {
+    "entidad": "Síndrome de la inmunodeficiencia adquirida VIH/SIDA",
+    "relacion": "es un",
+    "valor": "trastorno infeccioso"
+  },
+  {
+    "entidad": "Neumonía Adquirida en la Comunidad",
+    "relacion": "afecta a",
+    "valor": "personas de 65 años y más"
+  },
+  {
+    "entidad": "Retinopatía Diabética",
+    "relacion": "es un",
+    "valor": "trastorno ocular"
+  },
+  {
+    "entidad": "Desprendimiento de Retina Regmatógeno",
+    "relacion": "es un",
+    "valor": "trastorno ocular"
+  },
+  {
+    "entidad": "Asma",
+    "relacion": "requiere",
+    "valor": "diagnóstico y tratamiento en menores de 15 años"
+  },
+  {
+    "entidad": "Síndrome de Dificultad Respiratoria",
+    "relacion": "afecta a",
+    "valor": "recién nacidos"
+  },
+  {
+    "entidad": "Tumores Primarios del Sistema Nervioso Central",
+    "relacion": "afecta a",
+    "valor": "personas de 15 años o más"
+  },
+  {
+    "entidad": "Trauma ocular",
+    "relacion": "es un",
+    "valor": "tipo de lesión"
+  },
+  {
+    "entidad": "Fibrosis Quística",
+    "relacion": "es un",
+    "valor": "trastorno genético"
+  },
+  {
+    "entidad": "Enfermedad de Parkinson",
+    "relacion": "requiere",
+    "valor": "tratamiento farmacológico y quirúrgico"
+  },
+  {
+    "entidad": "Cáncer Vesical",
+    "relacion": "afecta a",
+    "valor": "personas de 15 años y más"
+  },
+  {
+    "entidad": "Osteosarcoma",
+    "relacion": "afecta a",
+    "valor": "personas de 15 años y más"
+  },
+  {
+    "entidad": "Hipotiroidismo",
+    "relacion": "afecta a",
+    "valor": "personas de 15 años y más"
+  },
+  {
+    "entidad": "Lupus Eritematoso Sistémico",
+    "relacion": "es un",
+    "valor": "trastorno autoinmunitario"
+  },
+  {
+    "entidad": "Diálisis peritoneal",
+    "relacion": "es un",
+    "valor": "método de tratamiento"
+  },
+  {
+    "entidad": "Esclerosis múltiple",
+    "relacion": "es un",
+    "valor": "trastorno neurológico"
+  },
+  {
+    "entidad": "Artritis Reumatoide Juvenil",
+    "relacion": "es un",
+    "valor": "trastorno autoinmunitario"
+  },
+  {
+    "entidad": "Insuficiencia renal crónica",
+    "relacion": "es un",
+    "valor": "trastorno renal"
+  },
+  {
+    "entidad": "Fasciculaciones",
+    "relacion": "origina en",
+    "valor": "unidad motora"
+  },
+  {
+    "entidad": "Calambres",
+    "relacion": "origina en",
+    "valor": "unidad motora"
+  },
+  {
+    "entidad": "Unidad motora",
+    "relacion": "incluye",
+    "valor": "motoneurona inferior"
+  },
+  {
+    "entidad": "Unidad motora",
+    "relacion": "incluye",
+    "valor": "fibras musculares inervadas"
+  },
+  {
+    "entidad": "Fasciculaciones",
+    "relacion": "son",
+    "valor": "contracciones involuntarias"
+  },
+  {
+    "entidad": "Calambres",
+    "relacion": "son",
+    "valor": "contracciones involuntarias súbitas"
+  },
+  {
+    "entidad": "Fasciculaciones",
+    "relacion": "pueden ser",
+    "valor": "secundarias a patologías neurológicas"
+  },
+  {
+    "entidad": "Calambres",
+    "relacion": "pueden ser",
+    "valor": "secundarios a patologías neurológicas"
+  },
+  {
+    "entidad": "Esclerosis Lateral Amiotrófica (ELA)",
+    "relacion": "se asocia con",
+    "valor": "fasciculaciones"
+  },
+  {
+    "entidad": "Fasciculaciones",
+    "relacion": "tienen alta incidencia en",
+    "valor": "población general"
+  },
+  {
+    "entidad": "Calambres",
+    "relacion": "tienen alta prevalencia en",
+    "valor": "adultos mayores"
+  },
+  {
+    "entidad": "Calambres",
+    "relacion": "son infrecuentes en",
+    "valor": "población pediátrica"
+  },
+  {
+    "entidad": "Síndrome de Fasciculaciones Benignas",
+    "relacion": "tiene una prevalencia de",
+    "valor": "1%"
+  },
+  {
+    "entidad": "Calambres",
+    "relacion": "son más frecuentes en",
+    "valor": "deportistas de alto rendimiento"
+  },
+  {
+    "entidad": "Calambres",
+    "relacion": "son más frecuentes en",
+    "valor": "embarazadas"
+  },
+  {
+    "entidad": "Calambres",
+    "relacion": "se asocian con",
+    "valor": "polineuropatías"
+  },
+  {
+    "entidad": "Calambres",
+    "relacion": "se asocian con",
+    "valor": "enfermedades neuromusculares"
+  },
+  {
+    "entidad": "Fasciculaciones",
+    "relacion": "pueden aumentar con",
+    "valor": "ejercicio"
+  },
+  {
+    "entidad": "Fasciculaciones",
+    "relacion": "pueden ser observadas por",
+    "valor": "paciente y clínico"
+  },
+  {
+    "entidad": "Diagnóstico diferencial",
+    "relacion": "incluye",
+    "valor": "etiologías benignas y enfermedades neurodegenerativas"
+  },
+  {
+    "entidad": "Fasciculaciones",
+    "relacion": "se caracterizan por",
+    "valor": "descargas espontáneas ectópicas"
+  },
+  {
+    "entidad": "Calambres",
+    "relacion": "se caracterizan por",
+    "valor": "descargas de alta frecuencia"
+  },
+  {
+    "entidad": "Tratamiento",
+    "relacion": "depende de",
+    "valor": "etiología subyacente"
+  },
+  {
+    "entidad": "Fármacos",
+    "relacion": "se asocian con",
+    "valor": "calambres y fasciculaciones"
+  },
+  {
+    "entidad": "Ecografía muscular",
+    "relacion": "es más sensible que",
+    "valor": "EMG para detectar fasciculaciones"
+  },
+  {
+    "entidad": "Fasciculaciones",
+    "relacion": "pueden ser visualizadas por",
+    "valor": "ecografía"
+  },
+  {
+    "entidad": "Calambres",
+    "relacion": "pueden ser tratados con",
+    "valor": "estiramiento muscular pasivo"
+  },
+  {
+    "entidad": "Calambres",
+    "relacion": "pueden ser tratados con",
+    "valor": "calor local"
+  },
+  {
+    "entidad": "Fasciculaciones",
+    "relacion": "pueden ser tratadas con",
+    "valor": "fármacos"
+  },
+  {
+    "entidad": "Síndrome de Isaac",
+    "relacion": "se caracteriza por",
+    "valor": "descaragas continuas y calambres"
+  },
+  {
+    "entidad": "Síndrome de Morvan",
+    "relacion": "se asocia con",
+    "valor": "trastornos del sueño y calambres"
+  },
+  {
+    "entidad": "Fasciculaciones",
+    "relacion": "pueden ser desencadenadas por",
+    "valor": "ansiedad"
+  },
+  {
+    "entidad": "Calambres",
+    "relacion": "pueden ser provocados por",
+    "valor": "ejercicio extenuante"
+  }
+]

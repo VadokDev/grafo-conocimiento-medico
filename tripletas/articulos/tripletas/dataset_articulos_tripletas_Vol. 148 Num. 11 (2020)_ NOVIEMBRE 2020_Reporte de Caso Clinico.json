@@ -1,0 +1,397 @@
+[
+  {
+    "entidad": "Lupus eritematoso",
+    "relacion": "asociado a",
+    "valor": "eritema multiforme"
+  },
+  {
+    "entidad": "Síndrome de Rowell",
+    "relacion": "caracterizado por",
+    "valor": "asociación de lupus eritematoso y eritema multiforme"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "es",
+    "valor": "una mujer de 16 años"
+  },
+  {
+    "entidad": "lesiones cutáneas",
+    "relacion": "presenta",
+    "valor": "eritema malar y dorso nasal"
+  },
+  {
+    "entidad": "laboratorio",
+    "relacion": "destaca",
+    "valor": "ANA positivo"
+  },
+  {
+    "entidad": "histología",
+    "relacion": "muestra",
+    "valor": "banda eosinófila de queratinocitos necróticos"
+  },
+  {
+    "entidad": "tratamiento",
+    "relacion": "es",
+    "valor": "similar al lupus"
+  },
+  {
+    "entidad": "corticoides endovenosos",
+    "relacion": "utilizados en",
+    "valor": "pacientes con desprendimiento epidérmico"
+  },
+  {
+    "entidad": "gammaglobulina",
+    "relacion": "administrada en",
+    "valor": "dosis de 1 g por kilo al día"
+  },
+  {
+    "entidad": "respuesta terapéutica",
+    "relacion": "es",
+    "valor": "variable y con recurrencias frecuentes"
+  },
+  {
+    "entidad": "criterios diagnósticos",
+    "relacion": "requieren",
+    "valor": "presencia de 4 criterios mayores y al menos uno menor"
+  },
+  {
+    "entidad": "epidemiología del síndrome de Rowell",
+    "relacion": "es similar a",
+    "valor": "lupus eritematoso"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen mayor incidencia que",
+    "valor": "hombres en relación 8:1"
+  },
+  {
+    "entidad": "lesiones targetoides",
+    "relacion": "son compatibles con",
+    "valor": "eritema multiforme"
+  },
+  {
+    "entidad": "biopsia",
+    "relacion": "realizada en",
+    "valor": "lesiones targetoides"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "cumple con",
+    "valor": "todos los criterios diagnósticos"
+  },
+  {
+    "entidad": "cianoacrilato",
+    "relacion": "es un",
+    "valor": "agente escleroso"
+  },
+  {
+    "entidad": "várices gástricas",
+    "relacion": "son tratadas con",
+    "valor": "esclerosis endoscópica"
+  },
+  {
+    "entidad": "hombre de 69 años",
+    "relacion": "presenta",
+    "valor": "síndrome febril prolongado"
+  },
+  {
+    "entidad": "cianoacrilato",
+    "relacion": "puede causar",
+    "valor": "infección del tapón variceal"
+  },
+  {
+    "entidad": "resección quirúrgica",
+    "relacion": "es un tratamiento para",
+    "valor": "tapón de cianoacrilato infectado"
+  },
+  {
+    "entidad": "bacteriemia recurrente",
+    "relacion": "es una complicación de",
+    "valor": "tratamiento con cianoacrilato"
+  },
+  {
+    "entidad": "PET-CT con FDG",
+    "relacion": "es útil para",
+    "valor": "diagnosticar tapón de cianoacrilato infectado"
+  },
+  {
+    "entidad": "cirrosis",
+    "relacion": "aumenta el riesgo de",
+    "valor": "infecciones"
+  },
+  {
+    "entidad": "antibióticos de amplio espectro",
+    "relacion": "son utilizados para",
+    "valor": "tratar infecciones en pacientes cirróticos"
+  },
+  {
+    "entidad": "hígado",
+    "relacion": "participa en",
+    "valor": "modulación del sistema inmune"
+  },
+  {
+    "entidad": "hemorragia digestiva",
+    "relacion": "es una complicación de",
+    "valor": "hipertensión portal"
+  },
+  {
+    "entidad": "esclerosis endoscópica",
+    "relacion": "es un tratamiento para",
+    "valor": "várices esofágicas"
+  },
+  {
+    "entidad": "cirugía digestiva",
+    "relacion": "es un campo de",
+    "valor": "intervención médica"
+  },
+  {
+    "entidad": "Klebsiella productora de carbapenemasas",
+    "relacion": "es un tipo de",
+    "valor": "bacteria"
+  },
+  {
+    "entidad": "hospitals",
+    "relacion": "realizan",
+    "valor": "tratamientos médicos"
+  },
+  {
+    "entidad": "hombre de 69 años",
+    "relacion": "presenta antecedentes de",
+    "valor": "diabetes mellitus tipo II"
+  },
+  {
+    "entidad": "trametinib",
+    "relacion": "es un",
+    "valor": "inhibidor de MEK"
+  },
+  {
+    "entidad": "dabrafenib",
+    "relacion": "es un",
+    "valor": "inhibidor de BRAF"
+  },
+  {
+    "entidad": "BRAF-mutated melanoma",
+    "relacion": "es tratado por",
+    "valor": "trametinib y dabrafenib"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "tiene",
+    "valor": "melanoma metastásico con mutación BRAF"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "experimentó",
+    "valor": "incapacidad de abducir el ojo izquierdo"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "experimentó",
+    "valor": "pérdida de apetito"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "experimentó",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "experimentó",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "experimentó",
+    "valor": "vértigo"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "experimentó",
+    "valor": "fiebre de 40°C"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "experimentó",
+    "valor": "pérdida de visión"
+  },
+  {
+    "entidad": "trametinib y dabrafenib",
+    "relacion": "inducen",
+    "valor": "rabdomiolisis"
+  },
+  {
+    "entidad": "trametinib y dabrafenib",
+    "relacion": "inducen",
+    "valor": "falla renal"
+  },
+  {
+    "entidad": "trametinib y dabrafenib",
+    "relacion": "inducen",
+    "valor": "pérdida de visión"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "sospechó",
+    "valor": "efectos secundarios de trametinib y dabrafenib"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "discontinuó",
+    "valor": "trametinib y dabrafenib"
+  },
+  {
+    "entidad": "síntomas",
+    "relacion": "resolvieron",
+    "valor": "tras discontinuación de trametinib y dabrafenib"
+  },
+  {
+    "entidad": "debilidad muscular ocular",
+    "relacion": "persistió en",
+    "valor": "paciente"
+  },
+  {
+    "entidad": "visual impairment",
+    "relacion": "persistió en",
+    "valor": "paciente"
+  },
+  {
+    "entidad": "Síndrome de Cushing",
+    "relacion": "provocado por",
+    "valor": "carcinoma suprarrenal gigante"
+  },
+  {
+    "entidad": "carcinoma suprarrenal gigante",
+    "relacion": "causa",
+    "valor": "hipercortisolismo severo"
+  },
+  {
+    "entidad": "mujer de 34 años",
+    "relacion": "presenta",
+    "valor": "historia de hipertensión arterial"
+  },
+  {
+    "entidad": "mujer de 34 años",
+    "relacion": "presenta",
+    "valor": "amenorrea"
+  },
+  {
+    "entidad": "mujer de 34 años",
+    "relacion": "presenta",
+    "valor": "aumento de peso"
+  },
+  {
+    "entidad": "mujer de 34 años",
+    "relacion": "presenta",
+    "valor": "edema facial"
+  },
+  {
+    "entidad": "mujer de 34 años",
+    "relacion": "presenta",
+    "valor": "acné"
+  },
+  {
+    "entidad": "mujer de 34 años",
+    "relacion": "presenta",
+    "valor": "hirsutismo"
+  },
+  {
+    "entidad": "mujer de 34 años",
+    "relacion": "presenta",
+    "valor": "dolor lumbar"
+  },
+  {
+    "entidad": "TAC",
+    "relacion": "muestra",
+    "valor": "masa adrenal derecha"
+  },
+  {
+    "entidad": "masa adrenal derecha",
+    "relacion": "mide",
+    "valor": "18 x 13 x 12.5 cm"
+  },
+  {
+    "entidad": "estudio hormonal",
+    "relacion": "confirma",
+    "valor": "Síndrome de Cushing"
+  },
+  {
+    "entidad": "ketoconazol",
+    "relacion": "es un",
+    "valor": "tratamiento"
+  },
+  {
+    "entidad": "espironolactona",
+    "relacion": "es un",
+    "valor": "tratamiento"
+  },
+  {
+    "entidad": "cotrimoxazol",
+    "relacion": "es un",
+    "valor": "tratamiento"
+  },
+  {
+    "entidad": "calcio/vitamina D",
+    "relacion": "es un",
+    "valor": "tratamiento"
+  },
+  {
+    "entidad": "adrenalectomía",
+    "relacion": "realizada con",
+    "valor": "nefrectomía"
+  },
+  {
+    "entidad": "tumor excisado",
+    "relacion": "mide",
+    "valor": "16 cm"
+  },
+  {
+    "entidad": "tumor excisado",
+    "relacion": "pesa",
+    "valor": "1.55 kg"
+  },
+  {
+    "entidad": "quimioterapia",
+    "relacion": "iniciada con",
+    "valor": "etopósido y cisplatino"
+  },
+  {
+    "entidad": "RM de columna",
+    "relacion": "muestra",
+    "valor": "fracturas por aplastamiento"
+  },
+  {
+    "entidad": "TAC postoperatorio",
+    "relacion": "muestra",
+    "valor": "sin signos de recidiva tumoral"
+  },
+  {
+    "entidad": "carcinoma suprarrenal",
+    "relacion": "es una",
+    "valor": "enfermedad rara"
+  },
+  {
+    "entidad": "suprarrenalectomía",
+    "relacion": "es el",
+    "valor": "tratamiento de elección"
+  },
+  {
+    "entidad": "mitotano",
+    "relacion": "es un",
+    "valor": "tratamiento adyuvante"
+  },
+  {
+    "entidad": "hipercortisolismo",
+    "relacion": "causa",
+    "valor": "daño óseo y osteoporosis"
+  },
+  {
+    "entidad": "densitometría ósea",
+    "relacion": "muestra",
+    "valor": "variación de densidades"
+  },
+  {
+    "entidad": "fracturas vertebrales",
+    "relacion": "son consecuencia de",
+    "valor": "hipercortisolismo severo"
+  }
+]

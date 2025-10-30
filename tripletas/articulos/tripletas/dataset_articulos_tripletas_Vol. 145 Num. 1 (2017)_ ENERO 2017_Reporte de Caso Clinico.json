@@ -1,0 +1,382 @@
+[
+  {
+    "entidad": "Catatonia ictal",
+    "relacion": "es una forma de",
+    "valor": "estado epiléptico no convulsivo"
+  },
+  {
+    "entidad": "Servicio de Urgencia",
+    "relacion": "evalúa",
+    "valor": "pacientes con estado epiléptico no convulsivo"
+  },
+  {
+    "entidad": "Germán Gaete",
+    "relacion": "es autor de",
+    "valor": "el artículo"
+  },
+  {
+    "entidad": "Álvaro Velásquez",
+    "relacion": "es autor de",
+    "valor": "el artículo"
+  },
+  {
+    "entidad": "Hospital de Carabineros de Chile",
+    "relacion": "es una",
+    "valor": "institución médica"
+  },
+  {
+    "entidad": "Liga Chilena Contra la Epilepsia",
+    "relacion": "es una",
+    "valor": "organización médica"
+  },
+  {
+    "entidad": "Clínica Alemana de Santiago",
+    "relacion": "es una",
+    "valor": "institución médica"
+  },
+  {
+    "entidad": "valproato",
+    "relacion": "es un",
+    "valor": "tratamiento para el estado epiléptico no convulsivo"
+  },
+  {
+    "entidad": "EEG",
+    "relacion": "es utilizado para",
+    "valor": "diagnóstico diferencial del estado epiléptico no convulsivo"
+  },
+  {
+    "entidad": "neumonía aspirativa",
+    "relacion": "es una complicación de",
+    "valor": "compromiso de conciencia"
+  },
+  {
+    "entidad": "fármacos antidepresivos",
+    "relacion": "pueden causar",
+    "valor": "estado epiléptico no convulsivo"
+  },
+  {
+    "entidad": "neurolepticos",
+    "relacion": "pueden causar",
+    "valor": "estado epiléptico no convulsivo"
+  },
+  {
+    "entidad": "paciente de 68 años",
+    "relacion": "presenta",
+    "valor": "confusión y rigidez generalizada"
+  },
+  {
+    "entidad": "tomografía computarizada cerebral",
+    "relacion": "no muestra",
+    "valor": "lesiones agudas"
+  },
+  {
+    "entidad": "electroencefalograma",
+    "relacion": "muestra",
+    "valor": "anomalías epileptiformes"
+  },
+  {
+    "entidad": "acido valproico",
+    "relacion": "resulta en",
+    "valor": "desaparición de anomalías epileptiformes"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "permanece",
+    "valor": "parcialmente orientado en tiempo y espacio"
+  },
+  {
+    "entidad": "estado epiléptico no convulsivo",
+    "relacion": "es subdiagnosticado en",
+    "valor": "el Servicio de Urgencia"
+  },
+  {
+    "entidad": "EEG",
+    "relacion": "es fundamental en",
+    "valor": "diagnóstico diferencial de crisis no epilépticas"
+  },
+  {
+    "entidad": "catatonia",
+    "relacion": "puede confundirse con",
+    "valor": "otras patologías psiquiátricas"
+  },
+  {
+    "entidad": "fármacos antiepilépticos",
+    "relacion": "son utilizados para",
+    "valor": "tratar el estado epiléptico no convulsivo"
+  },
+  {
+    "entidad": "Hemoptisis recurrente",
+    "relacion": "asociada a",
+    "valor": "falla renal"
+  },
+  {
+    "entidad": "Hemoptisis recurrente",
+    "relacion": "asociada a",
+    "valor": "hematuria"
+  },
+  {
+    "entidad": "enfermedad relacionada a IgG4",
+    "relacion": "es un",
+    "valor": "estado fibroinflamatorio sistémico"
+  },
+  {
+    "entidad": "IgG4",
+    "relacion": "causa",
+    "valor": "nefritis intersticial"
+  },
+  {
+    "entidad": "nefritis intersticial",
+    "relacion": "afecta a",
+    "valor": "riñones"
+  },
+  {
+    "entidad": "nefritis intersticial",
+    "relacion": "afecta a",
+    "valor": "pulmones"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "tiene",
+    "valor": "58 años"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "hematuria"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "proteinuria"
+  },
+  {
+    "entidad": "tratamiento esteroidal",
+    "relacion": "es",
+    "valor": "terapia efectiva"
+  },
+  {
+    "entidad": "biopsia renal",
+    "relacion": "establece",
+    "valor": "diagnóstico de nefritis intersticial"
+  },
+  {
+    "entidad": "IgG4",
+    "relacion": "se encuentra en",
+    "valor": "plasmocitos del infiltrado"
+  },
+  {
+    "entidad": "prednisona",
+    "relacion": "es",
+    "valor": "tratamiento de primera línea"
+  },
+  {
+    "entidad": "enfermedad renal relacionada con IgG4",
+    "relacion": "presenta",
+    "valor": "distintas manifestaciones"
+  },
+  {
+    "entidad": "NTI-IgG4",
+    "relacion": "es",
+    "valor": "afección más reconocida"
+  },
+  {
+    "entidad": "glucocorticoides",
+    "relacion": "reducen",
+    "valor": "megalias"
+  },
+  {
+    "entidad": "respuesta a terapia esteroidal",
+    "relacion": "es",
+    "valor": "rápida"
+  },
+  {
+    "entidad": "recaídas",
+    "relacion": "son",
+    "valor": "frecuentes"
+  },
+  {
+    "entidad": "compromiso pulmonar de la ER-IgG4",
+    "relacion": "se estima que",
+    "valor": "afecta un 10%"
+  },
+  {
+    "entidad": "compromiso pulmonar",
+    "relacion": "puede presentar",
+    "valor": "tos, hemoptisis, disnea y dolor torácico"
+  },
+  {
+    "entidad": "histopatología",
+    "relacion": "es",
+    "valor": "elemento diagnóstico clave"
+  },
+  {
+    "entidad": "Neoplasia de células dendríticas plasmocitoides blásticas",
+    "relacion": "es un",
+    "valor": "neoplasia hematológica"
+  },
+  {
+    "entidad": "Neoplasia de células dendríticas plasmocitoides blásticas",
+    "relacion": "es caracterizada por",
+    "valor": "respuesta inicial a quimioterapia"
+  },
+  {
+    "entidad": "Neoplasia de células dendríticas plasmocitoides blásticas",
+    "relacion": "presenta",
+    "valor": "recaída en sistema nervioso central"
+  },
+  {
+    "entidad": "Hospital Dr. Guillermo Grant Benavente",
+    "relacion": "es un",
+    "valor": "hospital en Concepción, Chile"
+  },
+  {
+    "entidad": "Facultad de Medicina, Universidad de Concepción",
+    "relacion": "es un",
+    "valor": "institución educativa en Concepción, Chile"
+  },
+  {
+    "entidad": "Dr. Mauricio Chandía Cabas",
+    "relacion": "dirige",
+    "valor": "laboratorio de Citometría de Flujo"
+  },
+  {
+    "entidad": "Quimioterapia",
+    "relacion": "es un",
+    "valor": "tratamiento para neoplasias"
+  },
+  {
+    "entidad": "Células dendríticas plasmocitoides",
+    "relacion": "son",
+    "valor": "presentadoras de antígeno"
+  },
+  {
+    "entidad": "Inmunofenotipo",
+    "relacion": "es utilizado en",
+    "valor": "diagnóstico de neoplasias"
+  },
+  {
+    "entidad": "CD56",
+    "relacion": "es un",
+    "valor": "marcador de células neoplásicas"
+  },
+  {
+    "entidad": "CD4",
+    "relacion": "es un",
+    "valor": "marcador de células neoplásicas"
+  },
+  {
+    "entidad": "Metotrexato intratecal",
+    "relacion": "es un",
+    "valor": "terapia de rescate"
+  },
+  {
+    "entidad": "Células tumorales",
+    "relacion": "son identificadas por",
+    "valor": "inmunofenotipo"
+  },
+  {
+    "entidad": "Líquido cefalorraquídeo",
+    "relacion": "es analizado para",
+    "valor": "detectar infiltración por NCDPB"
+  },
+  {
+    "entidad": "Trasplante alogénico",
+    "relacion": "es utilizado como",
+    "valor": "terapia de consolidación"
+  },
+  {
+    "entidad": "Bortezomib",
+    "relacion": "es explorado como",
+    "valor": "opción terapéutica"
+  },
+  {
+    "entidad": "5-azacitidina",
+    "relacion": "es explorado como",
+    "valor": "opción terapéutica"
+  },
+  {
+    "entidad": "Lenalidomida",
+    "relacion": "es explorado como",
+    "valor": "opción terapéutica"
+  },
+  {
+    "entidad": "Síndrome de ALCAPA",
+    "relacion": "es un",
+    "valor": "síndrome congénito"
+  },
+  {
+    "entidad": "arteria coronaria izquierda",
+    "relacion": "nace de",
+    "valor": "arteria pulmonar"
+  },
+  {
+    "entidad": "angina",
+    "relacion": "es causada por",
+    "valor": "origen anómalo de la arteria coronaria izquierda"
+  },
+  {
+    "entidad": "mujer de 49 años",
+    "relacion": "presenta",
+    "valor": "angina de esfuerzo"
+  },
+  {
+    "entidad": "coronariografía",
+    "relacion": "es el",
+    "valor": "patrón de oro para el diagnóstico de ALCAPA"
+  },
+  {
+    "entidad": "cirugía",
+    "relacion": "es el",
+    "valor": "tratamiento definitivo para ALCAPA"
+  },
+  {
+    "entidad": "bypass coronario arterial",
+    "relacion": "es un",
+    "valor": "procedimiento quirúrgico para ALCAPA"
+  },
+  {
+    "entidad": "insuficiencia mitral",
+    "relacion": "puede ser",
+    "valor": "significativa en pacientes con ALCAPA"
+  },
+  {
+    "entidad": "ventrículo izquierdo",
+    "relacion": "presenta",
+    "valor": "hipertrofia en ALCAPA"
+  },
+  {
+    "entidad": "sistema de circulación colateral",
+    "relacion": "nutre",
+    "valor": "arteria coronaria izquierda"
+  },
+  {
+    "entidad": "Héctor Ugalde Prieto",
+    "relacion": "es el",
+    "valor": "autor del caso clínico"
+  },
+  {
+    "entidad": "Hospital Clínico Universidad de Chile",
+    "relacion": "es un",
+    "valor": "centro de atención médica"
+  },
+  {
+    "entidad": "ecocardiograma transtorácico",
+    "relacion": "muestra",
+    "valor": "función global conservada del ventrículo izquierdo"
+  },
+  {
+    "entidad": "test de esfuerzo",
+    "relacion": "detecta",
+    "valor": "isquemia en pacientes con ALCAPA"
+  },
+  {
+    "entidad": "resonancia magnética cardiaca",
+    "relacion": "evalúa",
+    "valor": "función mitral y defectos congénitos"
+  },
+  {
+    "entidad": "trasplante cardiaco",
+    "relacion": "puede ser considerado para",
+    "valor": "pacientes con función cardiaca no mejorada"
+  }
+]

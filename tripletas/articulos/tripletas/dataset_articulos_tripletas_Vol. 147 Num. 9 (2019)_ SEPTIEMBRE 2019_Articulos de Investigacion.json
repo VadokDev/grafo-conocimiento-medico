@@ -1,0 +1,752 @@
+[
+  {
+    "entidad": "dueñas de casa chilenas",
+    "relacion": "representan",
+    "valor": "una proporción importante de la población chilena"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud 2009-2010",
+    "relacion": "analiza",
+    "valor": "estilos de vida de dueñas de casa"
+  },
+  {
+    "entidad": "estilos de vida",
+    "relacion": "se caracterizan por",
+    "valor": "niveles de actividad física, comportamiento sedentario, dieta, horas de sueño y tabaquismo"
+  },
+  {
+    "entidad": "dueñas de casa mayores de 55 años",
+    "relacion": "tienen",
+    "valor": "mayor índice de masa corporal (IMC) y perímetro de cintura"
+  },
+  {
+    "entidad": "dueñas de casa",
+    "relacion": "reportan",
+    "valor": "consumo moderado de alcohol"
+  },
+  {
+    "entidad": "dueñas de casa",
+    "relacion": "cumplen con",
+    "valor": "recomendaciones de estilos de vida saludable"
+  },
+  {
+    "entidad": "estilo de vida saludable",
+    "relacion": "se define como",
+    "valor": "cumplir al menos con cuatro conductas saludables"
+  },
+  {
+    "entidad": "dueñas de casa",
+    "relacion": "presentan",
+    "valor": "altos niveles de obesidad central y consumo de sal"
+  },
+  {
+    "entidad": "dueñas de casa",
+    "relacion": "tienen",
+    "valor": "bajos niveles de actividad física"
+  },
+  {
+    "entidad": "dueñas de casa",
+    "relacion": "se clasifican en",
+    "valor": "tres grupos de edad: < 40 años, 40-55 años, > 55 años"
+  },
+  {
+    "entidad": "Grupo de Investigación ELHOC",
+    "relacion": "realiza",
+    "valor": "investigaciones sobre estilos de vida"
+  },
+  {
+    "entidad": "Comité de Ética del Departamento de Medicina de la Pontificia Universidad Católica de Chile",
+    "relacion": "aprueba",
+    "valor": "el protocolo de la ENS 2009-2010"
+  },
+  {
+    "entidad": "dueñas de casa",
+    "relacion": "reportan",
+    "valor": "un alto porcentaje de inactividad física"
+  },
+  {
+    "entidad": "dueñas de casa",
+    "relacion": "declaran",
+    "valor": "sentirse bien respecto a su bienestar y salud"
+  },
+  {
+    "entidad": "estilo de vida no saludable",
+    "relacion": "se define como",
+    "valor": "cumplir menos de tres conductas saludables"
+  },
+  {
+    "entidad": "políticas públicas",
+    "relacion": "deben fomentar",
+    "valor": "hábitos de actividad física en dueñas de casa"
+  },
+  {
+    "entidad": "paciente cirrótico",
+    "relacion": "presenta",
+    "valor": "riesgo quirúrgico aumentado"
+  },
+  {
+    "entidad": "complicaciones intra y postoperatorias",
+    "relacion": "aumentan debido a",
+    "valor": "condiciones inherentes a la cirrosis"
+  },
+  {
+    "entidad": "cirrosis",
+    "relacion": "se relaciona con",
+    "valor": "hipertensión portal"
+  },
+  {
+    "entidad": "cirrosis",
+    "relacion": "se relaciona con",
+    "valor": "circulación hiperdinámica"
+  },
+  {
+    "entidad": "cirrosis",
+    "relacion": "se relaciona con",
+    "valor": "disfunción diastólica"
+  },
+  {
+    "entidad": "cirrosis",
+    "relacion": "se relaciona con",
+    "valor": "hipoperfusión hepática"
+  },
+  {
+    "entidad": "cirrosis",
+    "relacion": "se relaciona con",
+    "valor": "aumento de infecciones"
+  },
+  {
+    "entidad": "cirrosis",
+    "relacion": "se relaciona con",
+    "valor": "aumento de sangrado"
+  },
+  {
+    "entidad": "cirugía electiva",
+    "relacion": "es realizada en",
+    "valor": "71% de los casos"
+  },
+  {
+    "entidad": "cirugía abdominal",
+    "relacion": "predomina en",
+    "valor": "86% de los casos"
+  },
+  {
+    "entidad": "escala ASA",
+    "relacion": "indica",
+    "valor": "riesgo anestésico"
+  },
+  {
+    "entidad": "escala Child-Pugh",
+    "relacion": "evalúa",
+    "valor": "gravedad de la enfermedad hepática"
+  },
+  {
+    "entidad": "escala MELD",
+    "relacion": "evalúa",
+    "valor": "gravedad de la enfermedad hepática"
+  },
+  {
+    "entidad": "morbimortalidad global",
+    "relacion": "es alta en",
+    "valor": "61,8% de los pacientes"
+  },
+  {
+    "entidad": "mortalidad intrahospitalaria",
+    "relacion": "es baja en",
+    "valor": "5,9%"
+  },
+  {
+    "entidad": "complicaciones postquirúrgicas",
+    "relacion": "son comunes en",
+    "valor": "pacientes cirróticos"
+  },
+  {
+    "entidad": "hospital Clínico Universidad de Chile",
+    "relacion": "realiza",
+    "valor": "cirugías en pacientes cirróticos"
+  },
+  {
+    "entidad": "comorbilidades",
+    "relacion": "aumentan riesgo de",
+    "valor": "mortalidad en cirróticos"
+  },
+  {
+    "entidad": "diabetes mellitus",
+    "relacion": "es una comorbilidad común en",
+    "valor": "pacientes cirróticos"
+  },
+  {
+    "entidad": "hipertensión arterial",
+    "relacion": "es una comorbilidad común en",
+    "valor": "pacientes cirróticos"
+  },
+  {
+    "entidad": "cirugía de urgencia",
+    "relacion": "se asocia a",
+    "valor": "mayor mortalidad"
+  },
+  {
+    "entidad": "cirugía electiva",
+    "relacion": "se asocia a",
+    "valor": "menor mortalidad"
+  },
+  {
+    "entidad": "patología herniaria",
+    "relacion": "es común en",
+    "valor": "pacientes con daño hepático crónico"
+  },
+  {
+    "entidad": "colelitiasis",
+    "relacion": "es común en",
+    "valor": "pacientes con daño hepático crónico"
+  },
+  {
+    "entidad": "anestesia general",
+    "relacion": "es utilizada en",
+    "valor": "98% de los pacientes"
+  },
+  {
+    "entidad": "muerte intrahospitalaria",
+    "relacion": "ocurre en",
+    "valor": "seis pacientes"
+  },
+  {
+    "entidad": "cirugía laparoscópica",
+    "relacion": "tiene menor mortalidad que",
+    "valor": "otros tipos de cirugía"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "experimenta",
+    "valor": "aumento de obesidad"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "aumenta",
+    "valor": "frecuencia en la población"
+  },
+  {
+    "entidad": "Ministerio de Educación",
+    "relacion": "realiza",
+    "valor": "censo de antropometría"
+  },
+  {
+    "entidad": "Ministerio de Salud",
+    "relacion": "realiza",
+    "valor": "Encuestas Nacionales de Salud"
+  },
+  {
+    "entidad": "obesidad infantil",
+    "relacion": "aumenta",
+    "valor": "en niños de 6 años"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "coexiste con",
+    "valor": "desnutrición"
+  },
+  {
+    "entidad": "dieta occidental",
+    "relacion": "contribuye a",
+    "valor": "aumento de obesidad"
+  },
+  {
+    "entidad": "sedentarismo",
+    "relacion": "aumenta por",
+    "valor": "uso de televisores y vehículos"
+  },
+  {
+    "entidad": "programas de control de obesidad",
+    "relacion": "implementados por",
+    "valor": "gobierno chileno"
+  },
+  {
+    "entidad": "obesidad severa",
+    "relacion": "afecta a",
+    "valor": "niños con alta posibilidad de hipertensión y diabetes"
+  },
+  {
+    "entidad": "diabetes tipo 2",
+    "relacion": "aumenta",
+    "valor": "con el incremento de obesidad"
+  },
+  {
+    "entidad": "hipertensión arterial",
+    "relacion": "se mantiene estable",
+    "valor": "cercana al 27%"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "incrementa con",
+    "valor": "la edad"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud (OMS)",
+    "relacion": "recomienda",
+    "valor": "medidas para enfrentar la obesidad"
+  },
+  {
+    "entidad": "intervenciones educativas",
+    "relacion": "mejoran",
+    "valor": "hábitos alimenticios"
+  },
+  {
+    "entidad": "Ley 20.606",
+    "relacion": "regula",
+    "valor": "composición nutricional de alimentos"
+  },
+  {
+    "entidad": "consumo de alimentos procesados",
+    "relacion": "aumenta por",
+    "valor": "publicidad atractiva"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "causa",
+    "valor": "enfermedades cardiovasculares y diabetes"
+  },
+  {
+    "entidad": "programas de subsidios",
+    "relacion": "promueven",
+    "valor": "consumo de alimentos saludables"
+  },
+  {
+    "entidad": "disección espontánea de arterias viscerales",
+    "relacion": "es un",
+    "valor": "entidad rara"
+  },
+  {
+    "entidad": "disección espontánea de arterias viscerales",
+    "relacion": "es secundaria a",
+    "valor": "otra enfermedad"
+  },
+  {
+    "entidad": "mediolisis arterial segmentaria",
+    "relacion": "causa",
+    "valor": "disección espontánea de arterias viscerales"
+  },
+  {
+    "entidad": "displasia fibromuscular",
+    "relacion": "causa",
+    "valor": "disección espontánea de arterias viscerales"
+  },
+  {
+    "entidad": "necrosis quística de la media",
+    "relacion": "causa",
+    "valor": "disección espontánea de arterias viscerales"
+  },
+  {
+    "entidad": "cuerpo médico",
+    "relacion": "realiza",
+    "valor": "seguimiento clínico e imagenológico"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "presentan",
+    "valor": "síntomas como dolor abdominal"
+  },
+  {
+    "entidad": "disección espontánea de arterias viscerales",
+    "relacion": "requiere",
+    "valor": "manejo conservador"
+  },
+  {
+    "entidad": "manejo conservador",
+    "relacion": "incluye",
+    "valor": "anticoagulantes y antiagregantes plaquetarios"
+  },
+  {
+    "entidad": "seguimiento imagenológico",
+    "relacion": "muestra",
+    "valor": "estabilidad o resolución de hallazgos"
+  },
+  {
+    "entidad": "infarto esplénico",
+    "relacion": "es una",
+    "valor": "complicación observada"
+  },
+  {
+    "entidad": "infarto renal",
+    "relacion": "es una",
+    "valor": "complicación observada"
+  },
+  {
+    "entidad": "disección espontánea de arterias viscerales",
+    "relacion": "tiene",
+    "valor": "un curso benigno"
+  },
+  {
+    "entidad": "disección espontánea de arterias viscerales",
+    "relacion": "es subdiagnosticada por",
+    "valor": "bajo índice de sospecha clínica"
+  },
+  {
+    "entidad": "entrenamiento con ejercicios de autocarga a alta velocidad",
+    "relacion": "mejora",
+    "valor": "equilibrio dinámico en mujeres adultas mayores"
+  },
+  {
+    "entidad": "entrenamiento con ejercicios de autocarga a velocidad normal",
+    "relacion": "no mejora",
+    "valor": "equilibrio dinámico en mujeres adultas mayores"
+  },
+  {
+    "entidad": "mujeres adultas mayores",
+    "relacion": "participan en",
+    "valor": "programa de ejercicios de autocarga"
+  },
+  {
+    "entidad": "programa de ejercicios de autocarga",
+    "relacion": "realizado en",
+    "valor": "3 sesiones por semana durante 12 semanas"
+  },
+  {
+    "entidad": "equilibrio estático",
+    "relacion": "no cambia",
+    "valor": "después del entrenamiento con ejercicios de autocarga a alta velocidad"
+  },
+  {
+    "entidad": "potencia muscular",
+    "relacion": "asociada con",
+    "valor": "desempeño en actividades físicas diarias"
+  },
+  {
+    "entidad": "fragilidad",
+    "relacion": "asociada con",
+    "valor": "alteraciones del equilibrio"
+  },
+  {
+    "entidad": "entrenamiento físico",
+    "relacion": "estrategia más efectiva para",
+    "valor": "mejorar el equilibrio"
+  },
+  {
+    "entidad": "test Timed Up and Go (TUG)",
+    "relacion": "mide",
+    "valor": "equilibrio dinámico"
+  },
+  {
+    "entidad": "test de Estación Unipodal (EU)",
+    "relacion": "mide",
+    "valor": "equilibrio estático"
+  },
+  {
+    "entidad": "Comité de Ética científico del Servicio de Salud Metropolitano Sur",
+    "relacion": "aprueba",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "autocarga",
+    "relacion": "tipo de ejercicio que utiliza",
+    "valor": "el propio peso corporal"
+  },
+  {
+    "entidad": "mujeres adultas mayores",
+    "relacion": "muestran",
+    "valor": "menores niveles de potencia que hombres de la misma edad"
+  },
+  {
+    "entidad": "entrenamiento con ejercicios de autocarga",
+    "relacion": "mejora",
+    "valor": "fuerza muscular y equilibrio en adultos mayores"
+  },
+  {
+    "entidad": "ejercicios de autocarga a alta velocidad",
+    "relacion": "más efectivo que",
+    "valor": "ejercicios a velocidad normal para aumentar capacidad funcional"
+  },
+  {
+    "entidad": "mujeres adultas mayores",
+    "relacion": "representan",
+    "valor": "13% de la población mundial total"
+  },
+  {
+    "entidad": "entrenamiento físico",
+    "relacion": "demostrado ser",
+    "valor": "la estrategia más efectiva para mejorar el equilibrio"
+  },
+  {
+    "entidad": "inhibidores del cotransportador sodio-glucosa 2 (SGLT2i)",
+    "relacion": "son",
+    "valor": "una nueva alternativa farmacológica para el tratamiento de diabetes"
+  },
+  {
+    "entidad": "diabetes mellitus tipo 2",
+    "relacion": "es",
+    "valor": "una enfermedad crónica"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "es",
+    "valor": "una institución de investigación"
+  },
+  {
+    "entidad": "Hospital DIPRECA",
+    "relacion": "es",
+    "valor": "una institución de salud"
+  },
+  {
+    "entidad": "SGLT2i",
+    "relacion": "afecta a",
+    "valor": "el control glicémico en diabéticos tipo 2"
+  },
+  {
+    "entidad": "SGLT2i",
+    "relacion": "produce",
+    "valor": "disminución en la reabsorción tubular de glucosa"
+  },
+  {
+    "entidad": "SGLT2i",
+    "relacion": "aumenta",
+    "valor": "la excreción urinaria de glucosa"
+  },
+  {
+    "entidad": "diabetes mellitus tipo 2",
+    "relacion": "requiere",
+    "valor": "tratamientos farmacológicos para el control de la hiperglicemia"
+  },
+  {
+    "entidad": "efectos adversos",
+    "relacion": "son",
+    "valor": "comunes en el uso de SGLT2i"
+  },
+  {
+    "entidad": "infecciones micóticas genitales",
+    "relacion": "son",
+    "valor": "un efecto adverso común de SGLT2i"
+  },
+  {
+    "entidad": "hemoglobina glicosilada",
+    "relacion": "es un",
+    "valor": "parámetro de control glicémico"
+  },
+  {
+    "entidad": "SGLT2i",
+    "relacion": "mejora",
+    "valor": "los parámetros metabólicos en diabéticos tipo 2"
+  },
+  {
+    "entidad": "diabetes mellitus tipo 2",
+    "relacion": "tiene",
+    "valor": "alta frecuencia de complicaciones"
+  },
+  {
+    "entidad": "diabetes mellitus tipo 2",
+    "relacion": "impacta en",
+    "valor": "la calidad de vida y costos en salud"
+  },
+  {
+    "entidad": "SGLT2i",
+    "relacion": "se utiliza en",
+    "valor": "pacientes diabéticos tipo 2"
+  },
+  {
+    "entidad": "SGLT2i",
+    "relacion": "se asocia con",
+    "valor": "reducción de peso"
+  },
+  {
+    "entidad": "SGLT2i",
+    "relacion": "se asocia con",
+    "valor": "reducción de albuminuria"
+  },
+  {
+    "entidad": "SGLT2i",
+    "relacion": "se considera",
+    "valor": "efectivo en el tratamiento de diabetes tipo 2"
+  },
+  {
+    "entidad": "Universidad Católica de Chile",
+    "relacion": "realiza",
+    "valor": "estudios observacionales"
+  },
+  {
+    "entidad": "SGLT2i",
+    "relacion": "se evalúa en",
+    "valor": "pacientes ambulatorios"
+  },
+  {
+    "entidad": "SGLT2i",
+    "relacion": "se reporta en",
+    "valor": "la literatura internacional"
+  },
+  {
+    "entidad": "intoxicación por monóxido de carbono (CO)",
+    "relacion": "aumenta el riesgo de",
+    "valor": "infarto agudo de miocardio"
+  },
+  {
+    "entidad": "niveles de carboxihemoglobina",
+    "relacion": "son predictores de",
+    "valor": "aparición de infarto agudo de miocardio"
+  },
+  {
+    "entidad": "niveles de troponina",
+    "relacion": "son predictores de",
+    "valor": "aparición de infarto agudo de miocardio"
+  },
+  {
+    "entidad": "niveles de procalcitonina",
+    "relacion": "son predictores de",
+    "valor": "aparición de infarto agudo de miocardio"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "se asocia con",
+    "valor": "mayor riesgo de infarto"
+  },
+  {
+    "entidad": "duración de exposición a CO",
+    "relacion": "se asocia con",
+    "valor": "mayor riesgo de infarto"
+  },
+  {
+    "entidad": "pacientes con infarto",
+    "relacion": "tienen niveles más altos de",
+    "valor": "carboxihemoglobina, procalcitonina y troponina I"
+  },
+  {
+    "entidad": "procalcitonina",
+    "relacion": "tiene alta sensibilidad y especificidad para",
+    "valor": "predecir infarto agudo de miocardio"
+  },
+  {
+    "entidad": "troponina",
+    "relacion": "tiene alta sensibilidad y especificidad para",
+    "valor": "predecir infarto agudo de miocardio"
+  },
+  {
+    "entidad": "carboxihemoglobina",
+    "relacion": "tiene alta sensibilidad y especificidad para",
+    "valor": "predecir infarto agudo de miocardio"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "constituyen la mayoría de",
+    "valor": "pacientes con intoxicación por CO"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "se asocia con",
+    "valor": "niveles altos de COHb, cTn y PCT"
+  },
+  {
+    "entidad": "COHb",
+    "relacion": "es un predictor independiente de",
+    "valor": "infarto agudo de miocardio a largo plazo"
+  },
+  {
+    "entidad": "cTn",
+    "relacion": "se relaciona con",
+    "valor": "daño al músculo cardíaco"
+  },
+  {
+    "entidad": "PCT",
+    "relacion": "se relaciona con",
+    "valor": "influencia inflamatoria en enfermedad arterial coronaria"
+  },
+  {
+    "entidad": "Telestroke",
+    "relacion": "es un",
+    "valor": "programa de telemedicina"
+  },
+  {
+    "entidad": "Unidad de TeleACV",
+    "relacion": "pertenece a",
+    "valor": "Servicio de Salud Metropolitano Sur"
+  },
+  {
+    "entidad": "Servicio de Salud Metropolitano Sur",
+    "relacion": "está ubicado en",
+    "valor": "Chile"
+  },
+  {
+    "entidad": "Accidente cerebrovascular isquémico (ACVi)",
+    "relacion": "es",
+    "valor": "principal causa de muerte en Chile"
+  },
+  {
+    "entidad": "Trombolisis intravenosa (TIV)",
+    "relacion": "es un",
+    "valor": "tratamiento efectivo para ACVi"
+  },
+  {
+    "entidad": "Telemedicina",
+    "relacion": "puede superar",
+    "valor": "barreras geográficas y falta de especialistas"
+  },
+  {
+    "entidad": "TeleACV",
+    "relacion": "conecta con",
+    "valor": "siete hospitales en Chile"
+  },
+  {
+    "entidad": "Hospital El Pino",
+    "relacion": "fue el",
+    "valor": "primer hospital incluido en el programa de TeleACV"
+  },
+  {
+    "entidad": "Ministerio de Salud",
+    "relacion": "apoya",
+    "valor": "la implementación del sistema de telemedicina"
+  },
+  {
+    "entidad": "neuroimágenes",
+    "relacion": "son accesibles para",
+    "valor": "neurólogos en la UTA"
+  },
+  {
+    "entidad": "alteplase",
+    "relacion": "es utilizado como",
+    "valor": "tratamiento fibrinolítico"
+  },
+  {
+    "entidad": "Unidad de TeleACV",
+    "relacion": "logró",
+    "valor": "alta tasa de TIV"
+  },
+  {
+    "entidad": "Telestroke",
+    "relacion": "mejora",
+    "valor": "acceso y equidad en atención de salud"
+  },
+  {
+    "entidad": "Código ACV",
+    "relacion": "es activado por",
+    "valor": "síntomas sugerentes de ACVi"
+  },
+  {
+    "entidad": "Escala de Cincinnati",
+    "relacion": "se utiliza para",
+    "valor": "tamizaje de ACVi"
+  },
+  {
+    "entidad": "escala NIHSS",
+    "relacion": "evalúa",
+    "valor": "la gravedad del ACVi"
+  },
+  {
+    "entidad": "telemedicina",
+    "relacion": "permite",
+    "valor": "asistencia experta en lugares sin neurólogos"
+  },
+  {
+    "entidad": "trombectomía mecánica",
+    "relacion": "es el tratamiento de elección para",
+    "valor": "oclusiones de vasos intracerebrales"
+  },
+  {
+    "entidad": "pacientes trombolizados",
+    "relacion": "son reevaluados por",
+    "valor": "neurólogos de la UTA"
+  },
+  {
+    "entidad": "telemedicina",
+    "relacion": "se ha expandido en",
+    "valor": "diversos países"
+  },
+  {
+    "entidad": "Sistema de TeleACV",
+    "relacion": "contribuye a",
+    "valor": "reducir brechas geográficas"
+  }
+]

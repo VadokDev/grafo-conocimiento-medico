@@ -1,0 +1,642 @@
+[
+  {
+    "entidad": "agua",
+    "relacion": "es un",
+    "valor": "nutriente esencial para la homeostasis celular y la vida"
+  },
+  {
+    "entidad": "ingesta diaria adecuada de agua (RIAD)",
+    "relacion": "recomendada por",
+    "valor": "Ministerio de Salud (MINSAL) de Chile"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud 2016-2017",
+    "relacion": "analiza",
+    "valor": "consumo de agua en población chilena"
+  },
+  {
+    "entidad": "población chilena",
+    "relacion": "cumple con",
+    "valor": "27.8% de la RIAD"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen menor probabilidad de",
+    "valor": "cumplir con la RIAD"
+  },
+  {
+    "entidad": "personas mayores de 56 años",
+    "relacion": "tienen menor probabilidad de",
+    "valor": "cumplir con la RIAD"
+  },
+  {
+    "entidad": "dueñas de casa",
+    "relacion": "tienen menor probabilidad de",
+    "valor": "cumplir con la RIAD"
+  },
+  {
+    "entidad": "personas jubiladas",
+    "relacion": "tienen menor probabilidad de",
+    "valor": "cumplir con la RIAD"
+  },
+  {
+    "entidad": "personas que conviven",
+    "relacion": "tienen mayor probabilidad de",
+    "valor": "cumplir con la RIAD"
+  },
+  {
+    "entidad": "personas con nivel educacional medio o superior",
+    "relacion": "tienen mayor probabilidad de",
+    "valor": "cumplir con la RIAD"
+  },
+  {
+    "entidad": "personas que siguen un plan de alimentación",
+    "relacion": "tienen mayor probabilidad de",
+    "valor": "cumplir con la RIAD"
+  },
+  {
+    "entidad": "personas que reportan buen estado de salud",
+    "relacion": "tienen mayor probabilidad de",
+    "valor": "cumplir con la RIAD"
+  },
+  {
+    "entidad": "Ministerio de Salud (MINSAL)",
+    "relacion": "financia",
+    "valor": "Encuesta Nacional de Salud 2016-2017"
+  },
+  {
+    "entidad": "Encuesta Nacional de Consumo Alimentario chilena (ENCA 2010)",
+    "relacion": "reporta",
+    "valor": "8.8% de la población cumple con la RIAD"
+  },
+  {
+    "entidad": "hábito tabáquico",
+    "relacion": "afecta",
+    "valor": "cumplimiento de la RIAD"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "afecta",
+    "valor": "cumplimiento de la RIAD"
+  },
+  {
+    "entidad": "nivel socioeconómico",
+    "relacion": "afecta",
+    "valor": "cumplimiento de la RIAD"
+  },
+  {
+    "entidad": "estado civil",
+    "relacion": "afecta",
+    "valor": "cumplimiento de la RIAD"
+  },
+  {
+    "entidad": "percepción de salud",
+    "relacion": "afecta",
+    "valor": "cumplimiento de la RIAD"
+  },
+  {
+    "entidad": "horas de sueño",
+    "relacion": "afecta",
+    "valor": "cumplimiento de la RIAD"
+  },
+  {
+    "entidad": "Tasa de filtración glomerular (TFG)",
+    "relacion": "se estima usando",
+    "valor": "ecuaciones basadas en creatinina"
+  },
+  {
+    "entidad": "Tasa de filtración glomerular (TFG)",
+    "relacion": "se mide usando",
+    "valor": "método de imágenes con radionúclidos"
+  },
+  {
+    "entidad": "99mTc-DTPA",
+    "relacion": "es un",
+    "valor": "marcador radiofarmacéutico renal"
+  },
+  {
+    "entidad": "CKD-EPI",
+    "relacion": "es una",
+    "valor": "ecuación para estimar TFG"
+  },
+  {
+    "entidad": "MDRD-4",
+    "relacion": "es una",
+    "valor": "ecuación para estimar TFG"
+  },
+  {
+    "entidad": "Cockroft Gault",
+    "relacion": "es una",
+    "valor": "ecuación para estimar TFG"
+  },
+  {
+    "entidad": "mGFR",
+    "relacion": "se mide con",
+    "valor": "99mTc-DTPA"
+  },
+  {
+    "entidad": "mGFR",
+    "relacion": "tiene baja concordancia con",
+    "valor": "CBEs"
+  },
+  {
+    "entidad": "CBEs",
+    "relacion": "son validadas en",
+    "valor": "poblaciones japonesas, americanas, australianas, españolas y chinas"
+  },
+  {
+    "entidad": "CKD",
+    "relacion": "es un",
+    "valor": "problema de salud pública global"
+  },
+  {
+    "entidad": "CKD",
+    "relacion": "afecta a",
+    "valor": "aproximadamente 500 millones de personas en el mundo"
+  },
+  {
+    "entidad": "99mTc-DTPA",
+    "relacion": "se utiliza para",
+    "valor": "medir TFG"
+  },
+  {
+    "entidad": "Guías clínicas",
+    "relacion": "recomiendan",
+    "valor": "estimar TFG usando ecuaciones basadas en creatinina"
+  },
+  {
+    "entidad": "Concordancia",
+    "relacion": "se evalúa entre",
+    "valor": "TFG medida y estimada"
+  },
+  {
+    "entidad": "Coeficiente de concordancia de Lin",
+    "relacion": "se utiliza para",
+    "valor": "calcular la concordancia entre TFG medida y estimada"
+  },
+  {
+    "entidad": "Instituciones en Bogotá, Colombia",
+    "relacion": "realizan",
+    "valor": "estudios de TFG"
+  },
+  {
+    "entidad": "Cohen’s kappa",
+    "relacion": "se utiliza para",
+    "valor": "estimar la concordancia entre métodos de evaluación de TFG"
+  },
+  {
+    "entidad": "ejercicio físico",
+    "relacion": "mejora",
+    "valor": "función cognitiva"
+  },
+  {
+    "entidad": "ejercicio físico",
+    "relacion": "mejora",
+    "valor": "aptitud aeróbica"
+  },
+  {
+    "entidad": "mujeres mayores",
+    "relacion": "tienen",
+    "valor": "diabetes mellitus tipo 2"
+  },
+  {
+    "entidad": "programa de entrenamiento de marcha",
+    "relacion": "afecta a",
+    "valor": "capacidad aeróbica"
+  },
+  {
+    "entidad": "programa de entrenamiento de marcha",
+    "relacion": "afecta a",
+    "valor": "función cognitiva"
+  },
+  {
+    "entidad": "diabetes tipo 2",
+    "relacion": "asociada con",
+    "valor": "trastornos vasculares"
+  },
+  {
+    "entidad": "diabetes tipo 2",
+    "relacion": "considerada como",
+    "valor": "factor de riesgo independiente para deterioro cognitivo"
+  },
+  {
+    "entidad": "caminata",
+    "relacion": "promueve",
+    "valor": "salud"
+  },
+  {
+    "entidad": "caminata",
+    "relacion": "previene",
+    "valor": "deterioro cognitivo"
+  },
+  {
+    "entidad": "caminata",
+    "relacion": "contribuye a",
+    "valor": "independencia funcional"
+  },
+  {
+    "entidad": "caminata",
+    "relacion": "mejora",
+    "valor": "capacidad cardiovascular"
+  },
+  {
+    "entidad": "caminata",
+    "relacion": "previene",
+    "valor": "riesgo de caídas"
+  },
+  {
+    "entidad": "ejercicio físico regular",
+    "relacion": "asociado con",
+    "valor": "disminución en la mortalidad"
+  },
+  {
+    "entidad": "ejercicio físico",
+    "relacion": "mejora",
+    "valor": "salud cardiovascular"
+  },
+  {
+    "entidad": "ejercicio físico",
+    "relacion": "aumenta",
+    "valor": "aptitud aeróbica"
+  },
+  {
+    "entidad": "programas de actividad física",
+    "relacion": "deben incluir",
+    "valor": "caminata como medio de prevención"
+  },
+  {
+    "entidad": "caminata",
+    "relacion": "es un",
+    "valor": "medicamento de bajo coste"
+  },
+  {
+    "entidad": "nivel de significación estadística",
+    "relacion": "cambia de",
+    "valor": "0,05 a 0,005"
+  },
+  {
+    "entidad": "tamaño de muestra",
+    "relacion": "aumenta en",
+    "valor": "60% a 70%"
+  },
+  {
+    "entidad": "estudios transversales",
+    "relacion": "requieren",
+    "valor": "tamaño de muestra duplicado"
+  },
+  {
+    "entidad": "estudios comparativos",
+    "relacion": "incrementan",
+    "valor": "entre 60% y 70%"
+  },
+  {
+    "entidad": "costo de un ensayo clínico aleatorizado",
+    "relacion": "podría aumentar en",
+    "valor": "27% a 32%"
+  },
+  {
+    "entidad": "ciencia chilena",
+    "relacion": "se ve afectada por",
+    "valor": "cambio en el nivel de significación"
+  },
+  {
+    "entidad": "Agencia Nacional de Investigación (ANID)",
+    "relacion": "podría impactar en",
+    "valor": "número de estudios financiados"
+  },
+  {
+    "entidad": "revistas científicas de mayor impacto",
+    "relacion": "exigen",
+    "valor": "ajustarse al nuevo estándar"
+  },
+  {
+    "entidad": "investigación científica chilena",
+    "relacion": "se encarece por",
+    "valor": "cambio en el nivel de significación"
+  },
+  {
+    "entidad": "tendencia internacional",
+    "relacion": "cuestiona",
+    "valor": "uso de a = 0,05"
+  },
+  {
+    "entidad": "cirugía bariátrica",
+    "relacion": "es un",
+    "valor": "tratamiento para la pérdida de peso"
+  },
+  {
+    "entidad": "recuperación de peso",
+    "relacion": "ocurre después de",
+    "valor": "cirugía bariátrica"
+  },
+  {
+    "entidad": "factores nutricionales",
+    "relacion": "están asociados con",
+    "valor": "recuperación de peso postoperatoria"
+  },
+  {
+    "entidad": "comportamientos alimentarios",
+    "relacion": "están asociados con",
+    "valor": "recuperación de peso postoperatoria"
+  },
+  {
+    "entidad": "estado nutricional",
+    "relacion": "está asociado con",
+    "valor": "recuperación de peso postoperatoria"
+  },
+  {
+    "entidad": "ingesta calórica",
+    "relacion": "afecta a",
+    "valor": "recuperación de peso postoperatoria"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "completaron",
+    "valor": "un recordatorio de ingesta de 24 horas"
+  },
+  {
+    "entidad": "sedentarismo",
+    "relacion": "es un factor",
+    "valor": "relacionado con mayor riesgo de recuperación de peso"
+  },
+  {
+    "entidad": "ser un 'comedor de dulces'",
+    "relacion": "es un factor",
+    "valor": "relacionado con mayor riesgo de recuperación de peso"
+  },
+  {
+    "entidad": "ser un 'picoteador'",
+    "relacion": "es un factor",
+    "valor": "relacionado con mayor riesgo de recuperación de peso"
+  },
+  {
+    "entidad": "ingesta de calorías diarias",
+    "relacion": "está asociada con",
+    "valor": "mayor riesgo de recuperación de peso"
+  },
+  {
+    "entidad": "Centro de Tratamiento de la Obesidad UC",
+    "relacion": "realizó",
+    "valor": "el estudio de casos y controles"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "aprobo",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "constituyen",
+    "valor": "la mayoría de los participantes"
+  },
+  {
+    "entidad": "Roux-en-Y gastric bypass",
+    "relacion": "es un tipo de",
+    "valor": "cirugía bariátrica"
+  },
+  {
+    "entidad": "sleeve gastrectomy",
+    "relacion": "es un tipo de",
+    "valor": "cirugía bariátrica"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "está relacionada con",
+    "valor": "diabetes tipo 2"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "está relacionada con",
+    "valor": "enfermedades cardiovasculares"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "está relacionada con",
+    "valor": "cáncer"
+  },
+  {
+    "entidad": "Hospital Clínico Universidad de Chile",
+    "relacion": "pertenece a",
+    "valor": "Centro Universitario"
+  },
+  {
+    "entidad": "Dra. Miriam Alvo",
+    "relacion": "correspondencia a",
+    "valor": "Sección de Nefrología"
+  },
+  {
+    "entidad": "anticuerpo anti receptor de fosfolipasa A2",
+    "relacion": "es útil para",
+    "valor": "diagnóstico de nefropatía membranosa"
+  },
+  {
+    "entidad": "nefropatía membranosa",
+    "relacion": "es una",
+    "valor": "causa de síndrome nefrótico no diabético"
+  },
+  {
+    "entidad": "anticuerpo anti-PLA2R",
+    "relacion": "se encuentra en",
+    "valor": "pacientes con nefropatía membranosa"
+  },
+  {
+    "entidad": "técnica de ELISA",
+    "relacion": "se utiliza para",
+    "valor": "detectar anticuerpos en suero"
+  },
+  {
+    "entidad": "anticuerpos anti-PLA2R",
+    "relacion": "se correlacionan con",
+    "valor": "biopsia renal"
+  },
+  {
+    "entidad": "IgG4",
+    "relacion": "es un subtipo de",
+    "valor": "inmunoglobulina asociado a nefropatía membranosa"
+  },
+  {
+    "entidad": "neoplasia",
+    "relacion": "se ha encontrado en",
+    "valor": "pacientes con anticuerpos anti-PLA2R positivos"
+  },
+  {
+    "entidad": "anticuerpo anti-PLA2R",
+    "relacion": "indica",
+    "valor": "necesidad de biopsia renal en casos negativos"
+  },
+  {
+    "entidad": "títulos de anticuerpos anti-PLA2R",
+    "relacion": "son clave para",
+    "valor": "diagnóstico y pronóstico"
+  },
+  {
+    "entidad": "epítopes de PLA2R",
+    "relacion": "son importantes para",
+    "valor": "análisis de respuesta inmune"
+  },
+  {
+    "entidad": "estudio observacional retrospectivo",
+    "relacion": "incluye",
+    "valor": "adultos con nefropatía membranosa diagnosticados"
+  },
+  {
+    "entidad": "comité de ética institucional",
+    "relacion": "aprueba",
+    "valor": "trabajos de investigación"
+  },
+  {
+    "entidad": "trasplante alogénico de precursores hematopoyéticos",
+    "relacion": "es un",
+    "valor": "tratamiento para leucemia mieloide aguda"
+  },
+  {
+    "entidad": "leucemia mieloide aguda",
+    "relacion": "es un",
+    "valor": "cáncer hematológico"
+  },
+  {
+    "entidad": "edad del paciente",
+    "relacion": "no incide en",
+    "valor": "resultado del trasplante"
+  },
+  {
+    "entidad": "Programa de trasplante hematopoyético del adulto",
+    "relacion": "pertenece a",
+    "valor": "Pontificia Universidad Católica de Chile"
+  },
+  {
+    "entidad": "trasplante alogénico",
+    "relacion": "se realiza en",
+    "valor": "pacientes con leucemia mieloide aguda"
+  },
+  {
+    "entidad": "donantes haploidénticos",
+    "relacion": "permiten",
+    "valor": "extender el trasplante a pacientes sin hermanos compatibles"
+  },
+  {
+    "entidad": "guía ministerial de 2016",
+    "relacion": "ofrece",
+    "valor": "trasplante alogénico a menores de 40 años"
+  },
+  {
+    "entidad": "esquemas de acondicionamiento",
+    "relacion": "se ajustan según",
+    "valor": "edad del paciente"
+  },
+  {
+    "entidad": "filgrastim",
+    "relacion": "se utiliza para",
+    "valor": "movilizar precursores hematopoyéticos"
+  },
+  {
+    "entidad": "profilaxis de enfermedad de injerto vs huésped",
+    "relacion": "se determina según",
+    "valor": "tipo de donante"
+  },
+  {
+    "entidad": "mortalidad no relacionada a recaída",
+    "relacion": "no muestra diferencias significativas según",
+    "valor": "edad"
+  },
+  {
+    "entidad": "sobrevida global",
+    "relacion": "es similar en",
+    "valor": "pacientes jóvenes y mayores"
+  },
+  {
+    "entidad": "acondicionamiento de intensidad reducida",
+    "relacion": "permite realizar",
+    "valor": "trasplante en pacientes mayores de 40 años"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "reporta",
+    "valor": "mediana de edad al debut de leucemia es de 48 años"
+  },
+  {
+    "entidad": "trasplante hematopoyético",
+    "relacion": "es un",
+    "valor": "tratamiento estándar de cuidado para leucemia mieloide aguda"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "tiene",
+    "valor": "un sistema de salud"
+  },
+  {
+    "entidad": "sistema de salud",
+    "relacion": "es exitoso cuando",
+    "valor": "mantiene a su población sana"
+  },
+  {
+    "entidad": "sistema de salud",
+    "relacion": "provee",
+    "valor": "servicios de salud efectivos, equitativos y seguros"
+  },
+  {
+    "entidad": "Proyecto del Fondo Nacional de Desarrollo Científico y Tecnológico (FONDECYT)",
+    "relacion": "financia",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "Comisión Nacional de Investigación Científica y Tecnológica",
+    "relacion": "financia",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "sistema de indicadores",
+    "relacion": "monitorea",
+    "valor": "el acceso a la salud en Chile"
+  },
+  {
+    "entidad": "dimensiones de acceso a la salud",
+    "relacion": "son",
+    "valor": "cinco"
+  },
+  {
+    "entidad": "análisis estadísticos",
+    "relacion": "identifican",
+    "valor": "inequidades entre grupos sociales"
+  },
+  {
+    "entidad": "residir en una comunidad rural",
+    "relacion": "influye en",
+    "valor": "la accesibilidad a los servicios de salud"
+  },
+  {
+    "entidad": "nivel de ingresos",
+    "relacion": "afecta",
+    "valor": "la probabilidad de recibir atención médica"
+  },
+  {
+    "entidad": "tener un seguro privado de salud",
+    "relacion": "permite",
+    "valor": "esperar menos tiempo para recibir atención médica"
+  },
+  {
+    "entidad": "indicadores",
+    "relacion": "proponen",
+    "valor": "metas de referencia internacionales"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "contribuye a",
+    "valor": "la literatura existente sobre acceso a la salud"
+  },
+  {
+    "entidad": "sistema de salud chileno",
+    "relacion": "requiere",
+    "valor": "una redefinición de cifras base y metas"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "se centra en",
+    "valor": "la propuesta de un sistema de indicadores"
+  },
+  {
+    "entidad": "barreras de acceso a la salud",
+    "relacion": "son identificadas por",
+    "valor": "las poblaciones de las regiones analizadas"
+  }
+]

@@ -1,0 +1,757 @@
+[
+  {
+    "entidad": "cáncer",
+    "relacion": "es una",
+    "valor": "patología"
+  },
+  {
+    "entidad": "fitness cardiorrespiratorio (FCR)",
+    "relacion": "es un",
+    "valor": "factor protector en el desarrollo de cáncer"
+  },
+  {
+    "entidad": "población chilena",
+    "relacion": "es objeto de",
+    "valor": "estudio sobre FCR y cáncer"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud 2016-2017",
+    "relacion": "proporciona",
+    "valor": "datos sobre salud en Chile"
+  },
+  {
+    "entidad": "personas con diagnóstico de cáncer",
+    "relacion": "presentan",
+    "valor": "menor nivel de FCR"
+  },
+  {
+    "entidad": "personas sin diagnóstico de cáncer",
+    "relacion": "presentan",
+    "valor": "mayor nivel de FCR"
+  },
+  {
+    "entidad": "cáncer colorrectal",
+    "relacion": "asocia con",
+    "valor": "menor nivel de FCR"
+  },
+  {
+    "entidad": "cáncer de mama",
+    "relacion": "asocia con",
+    "valor": "menor nivel de FCR"
+  },
+  {
+    "entidad": "cáncer de útero",
+    "relacion": "asocia con",
+    "valor": "menor nivel de FCR"
+  },
+  {
+    "entidad": "cáncer de tiroides",
+    "relacion": "no asocia con",
+    "valor": "menor nivel de FCR"
+  },
+  {
+    "entidad": "años desde el diagnóstico de cáncer",
+    "relacion": "se relacionan con",
+    "valor": "disminución del FCR"
+  },
+  {
+    "entidad": "programas de actividad física",
+    "relacion": "son necesarios para",
+    "valor": "incrementar el FCR en pacientes oncológicos"
+  },
+  {
+    "entidad": "FCR",
+    "relacion": "es un",
+    "valor": "predictor de morbilidad y mortalidad por cáncer"
+  },
+  {
+    "entidad": "estilos de vida",
+    "relacion": "influyen en",
+    "valor": "el desarrollo de cáncer"
+  },
+  {
+    "entidad": "mortalidad por cáncer",
+    "relacion": "se reduce en",
+    "valor": "personas con alto nivel de FCR"
+  },
+  {
+    "entidad": "Endocarditis Infecciosa",
+    "relacion": "es una",
+    "valor": "enfermedad grave del endocardio y las válvulas cardíacas"
+  },
+  {
+    "entidad": "Enrique Seguel S.",
+    "relacion": "es el autor de",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "Hospital Guillermo Grant Benavente",
+    "relacion": "es un",
+    "valor": "hospital público en Chile"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "es el lugar de",
+    "valor": "la investigación"
+  },
+  {
+    "entidad": "pacientes operados",
+    "relacion": "son diagnosticados con",
+    "valor": "Endocarditis Infecciosa"
+  },
+  {
+    "entidad": "valve surgery",
+    "relacion": "es un tratamiento para",
+    "valor": "Endocarditis Infecciosa"
+  },
+  {
+    "entidad": "comorbilidades",
+    "relacion": "aumentan con",
+    "valor": "la edad de los pacientes"
+  },
+  {
+    "entidad": "Staphylococcus aureus",
+    "relacion": "es un agente etiológico de",
+    "valor": "Endocarditis Infecciosa"
+  },
+  {
+    "entidad": "vegetaciones",
+    "relacion": "son indicaciones para",
+    "valor": "cirugía valvular"
+  },
+  {
+    "entidad": "supervivencia acumulada",
+    "relacion": "se calcula para",
+    "valor": "pacientes operados"
+  },
+  {
+    "entidad": "mortalidad intrahospitalaria",
+    "relacion": "se mantiene estable a pesar de",
+    "valor": "los avances en tratamiento"
+  },
+  {
+    "entidad": "diagnóstico temprano",
+    "relacion": "mejora",
+    "valor": "la supervivencia"
+  },
+  {
+    "entidad": "insuficiencia cardíaca",
+    "relacion": "es una indicación común para",
+    "valor": "cirugía en Endocarditis Infecciosa"
+  },
+  {
+    "entidad": "cuidado perioperatorio",
+    "relacion": "influye en",
+    "valor": "la mortalidad operatoria"
+  },
+  {
+    "entidad": "mortalidad a largo plazo",
+    "relacion": "se relaciona con",
+    "valor": "la presencia de comorbilidades"
+  },
+  {
+    "entidad": "Kruskal-Wallis",
+    "relacion": "es una prueba utilizada para",
+    "valor": "comparar variables"
+  },
+  {
+    "entidad": "Gehan-Breslow-Wilcoxon",
+    "relacion": "es una prueba utilizada para",
+    "valor": "comparar supervivencias"
+  },
+  {
+    "entidad": "estudio retrospectivo",
+    "relacion": "es el tipo de",
+    "valor": "estudio realizado"
+  },
+  {
+    "entidad": "mortalidad operatoria",
+    "relacion": "fue del",
+    "valor": "27,1%"
+  },
+  {
+    "entidad": "cambio en el perfil epidemiológico",
+    "relacion": "se observa en",
+    "valor": "Endocarditis Infecciosa en Chile"
+  },
+  {
+    "entidad": "métodos de cultivo",
+    "relacion": "mejoran",
+    "valor": "la identificación de microorganismos"
+  },
+  {
+    "entidad": "ecografía muscular",
+    "relacion": "es una",
+    "valor": "herramienta válida para monitorizar la pérdida de masa muscular"
+  },
+  {
+    "entidad": "nivel de experiencia",
+    "relacion": "afecta a",
+    "valor": "la precisión de las mediciones"
+  },
+  {
+    "entidad": "evaluadores experimentados",
+    "relacion": "tienen",
+    "valor": "más de 4 años de experiencia"
+  },
+  {
+    "entidad": "evaluadores novatos",
+    "relacion": "recibieron",
+    "valor": "entrenamiento de 16 horas"
+  },
+  {
+    "entidad": "grosor muscular",
+    "relacion": "se mide mediante",
+    "valor": "ecografía"
+  },
+  {
+    "entidad": "escala Heckmatt",
+    "relacion": "evalúa",
+    "valor": "la eco-intensidad muscular"
+  },
+  {
+    "entidad": "músculos de extremidades inferiores",
+    "relacion": "son más comúnmente medidos que",
+    "valor": "músculos de extremidades superiores"
+  },
+  {
+    "entidad": "coeficiente de correlación intraclase (ICC)",
+    "relacion": "mide",
+    "valor": "la confiabilidad interobservador"
+  },
+  {
+    "entidad": "kinesiólogos",
+    "relacion": "participaron en",
+    "valor": "el estudio de confiabilidad"
+  },
+  {
+    "entidad": "Universidad del Desarrollo",
+    "relacion": "es donde se realizó",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "ecógrafos portátiles",
+    "relacion": "fueron proporcionados por",
+    "valor": "Andover y TechMedizin"
+  },
+  {
+    "entidad": "músculos sanos",
+    "relacion": "tienen",
+    "valor": "excelente confiabilidad en mediciones"
+  },
+  {
+    "entidad": "evaluadores novatos",
+    "relacion": "obtuvieron",
+    "valor": "moderada a buena confiabilidad"
+  },
+  {
+    "entidad": "técnica de compresión mínima",
+    "relacion": "debe ser enfatizada en",
+    "valor": "el entrenamiento en ecografía muscular"
+  },
+  {
+    "entidad": "pérdida de masa muscular",
+    "relacion": "se asocia a",
+    "valor": "mayor mortalidad y prolongación de la ventilación mecánica"
+  },
+  {
+    "entidad": "músculos cuádriceps y tibial anterior",
+    "relacion": "fueron medidos por",
+    "valor": "evaluadores experimentados y novatos"
+  },
+  {
+    "entidad": "método de evaluación",
+    "relacion": "es",
+    "valor": "cualitativo para valorar el músculo"
+  },
+  {
+    "entidad": "coronavirus SARS-CoV-2",
+    "relacion": "causa",
+    "valor": "neumonía adquirida en la comunidad"
+  },
+  {
+    "entidad": "neumonía adquirida en la comunidad",
+    "relacion": "afecta a",
+    "valor": "pacientes adultos inmunocompetentes"
+  },
+  {
+    "entidad": "pacientes adultos inmunocompetentes",
+    "relacion": "hospitalizados en",
+    "valor": "Hospital Clínico de la Red de Salud UC Christus"
+  },
+  {
+    "entidad": "variables clínicas y de laboratorio",
+    "relacion": "asociadas a",
+    "valor": "eventos adversos clínicamente relevantes"
+  },
+  {
+    "entidad": "admisión al hospital",
+    "relacion": "evalúa",
+    "valor": "variables clínicas y de laboratorio"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "asociada a",
+    "valor": "mayor riesgo de COVID-19 grave"
+  },
+  {
+    "entidad": "sexo masculino",
+    "relacion": "asociado a",
+    "valor": "mayor riesgo de admisión a UTIM/UCI"
+  },
+  {
+    "entidad": "comorbilidades",
+    "relacion": "asociadas a",
+    "valor": "mayor riesgo de complicaciones"
+  },
+  {
+    "entidad": "taquipnea",
+    "relacion": "indica",
+    "valor": "mayor riesgo de admisión a unidad de paciente crítico"
+  },
+  {
+    "entidad": "hipoxemia",
+    "relacion": "indica",
+    "valor": "mayor riesgo de admisión a unidad de paciente crítico"
+  },
+  {
+    "entidad": "neumonía multilobar",
+    "relacion": "asociada a",
+    "valor": "mayor riesgo de complicaciones"
+  },
+  {
+    "entidad": "biomarcadores de inflamación sistémica",
+    "relacion": "asociados a",
+    "valor": "eventos adversos serios"
+  },
+  {
+    "entidad": "nitrógeno ureico sérico",
+    "relacion": "asociado a",
+    "valor": "mayor riesgo de muerte en el hospital"
+  },
+  {
+    "entidad": "proteína C reactiva",
+    "relacion": "asociada a",
+    "valor": "mayor riesgo de complicaciones"
+  },
+  {
+    "entidad": "hospitalización",
+    "relacion": "afecta a",
+    "valor": "pacientes con COVID-19"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "aumenta el riesgo de",
+    "valor": "mortalidad en el hospital"
+  },
+  {
+    "entidad": "comorbilidades cardiovasculares",
+    "relacion": "aumentan el riesgo de",
+    "valor": "mortalidad en el hospital"
+  },
+  {
+    "entidad": "disfunción renal",
+    "relacion": "asociada a",
+    "valor": "mayor riesgo de complicaciones"
+  },
+  {
+    "entidad": "taquicardia",
+    "relacion": "indica",
+    "valor": "mayor riesgo de complicaciones"
+  },
+  {
+    "entidad": "hospitalización prolongada",
+    "relacion": "asociada a",
+    "valor": "mayor riesgo de muerte"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "asociada a",
+    "valor": "edad y comorbilidades"
+  },
+  {
+    "entidad": "histopatología",
+    "relacion": "es un",
+    "valor": "método auxiliar para diagnóstico"
+  },
+  {
+    "entidad": "tuberculosis (TB)",
+    "relacion": "es una",
+    "valor": "enfermedad"
+  },
+  {
+    "entidad": "análisis histopatológico",
+    "relacion": "evalúa",
+    "valor": "hallazgos histológicos"
+  },
+  {
+    "entidad": "hospital de referencia en Chile",
+    "relacion": "realiza",
+    "valor": "análisis de biopsias"
+  },
+  {
+    "entidad": "biopsias",
+    "relacion": "son tomadas",
+    "valor": "antes o después del tratamiento"
+  },
+  {
+    "entidad": "granulomas",
+    "relacion": "tienen",
+    "valor": "alta sensibilidad diagnóstica"
+  },
+  {
+    "entidad": "necrosis caseosa",
+    "relacion": "es un hallazgo",
+    "valor": "en biopsias de TB"
+  },
+  {
+    "entidad": "bacilos ácido-alcohol resistentes (BAAR)",
+    "relacion": "contribuyen a",
+    "valor": "diagnóstico de TB"
+  },
+  {
+    "entidad": "técnicas moleculares",
+    "relacion": "han aumentado",
+    "valor": "en uso para diagnóstico"
+  },
+  {
+    "entidad": "histología",
+    "relacion": "complementa",
+    "valor": "diagnóstico de TB"
+  },
+  {
+    "entidad": "granulomas con necrosis caseosa",
+    "relacion": "sugieren",
+    "valor": "diagnóstico de TB"
+  },
+  {
+    "entidad": "células gigantes de Langhans",
+    "relacion": "son un hallazgo",
+    "valor": "en biopsias de TB"
+  },
+  {
+    "entidad": "muestras de biopsias",
+    "relacion": "son analizadas",
+    "valor": "para evaluar sensibilidad diagnóstica"
+  },
+  {
+    "entidad": "solicitudes de biopsias",
+    "relacion": "se mantienen",
+    "valor": "a lo largo del tiempo"
+  },
+  {
+    "entidad": "AFB",
+    "relacion": "tienen",
+    "valor": "alta especificidad en diagnóstico"
+  },
+  {
+    "entidad": "pacientes con VIH/SIDA",
+    "relacion": "presentan",
+    "valor": "patrones histológicos diferentes"
+  },
+  {
+    "entidad": "comité de ética científica",
+    "relacion": "aprueba",
+    "valor": "el trabajo"
+  },
+  {
+    "entidad": "Hospital Base de Valdivia",
+    "relacion": "es un",
+    "valor": "centro de referencia"
+  },
+  {
+    "entidad": "técnicas de cultivo",
+    "relacion": "son utilizadas para",
+    "valor": "confirmar TB"
+  },
+  {
+    "entidad": "histopatología",
+    "relacion": "sigue siendo",
+    "valor": "una estrategia diagnóstica significativa"
+  },
+  {
+    "entidad": "Infarto agudo de miocardio con supradesnivel del ST",
+    "relacion": "es un",
+    "valor": "problema sanitario"
+  },
+  {
+    "entidad": "Reperfusión coronaria",
+    "relacion": "es un",
+    "valor": "tratamiento principal"
+  },
+  {
+    "entidad": "Angioplastía coronaria primaria",
+    "relacion": "es un",
+    "valor": "método de reperfusión"
+  },
+  {
+    "entidad": "Trombólisis",
+    "relacion": "es un",
+    "valor": "método de reperfusión"
+  },
+  {
+    "entidad": "Resonancia magnética cardiaca",
+    "relacion": "permite",
+    "valor": "cuantificar el miocardio salvado"
+  },
+  {
+    "entidad": "Miocardio salvado",
+    "relacion": "representa",
+    "valor": "diferencia entre el área de miocardio en riesgo y el área de miocardio infartado"
+  },
+  {
+    "entidad": "Área de miocardio en riesgo",
+    "relacion": "corresponde a",
+    "valor": "territorio miocárdico abastecido por la arteria relacionada con el infarto"
+  },
+  {
+    "entidad": "Pacientes con infarto de miocardio",
+    "relacion": "reciben",
+    "valor": "tratamiento trombolítico"
+  },
+  {
+    "entidad": "Pacientes con infarto de miocardio",
+    "relacion": "reciben",
+    "valor": "angioplastía primaria"
+  },
+  {
+    "entidad": "Estudios de viabilidad miocárdica",
+    "relacion": "son necesarios para",
+    "valor": "evaluar la conveniencia de angioplastía e implantación de stents"
+  },
+  {
+    "entidad": "Obstrucción microvascular",
+    "relacion": "se define como",
+    "valor": "áreas con falta de captación de contraste"
+  },
+  {
+    "entidad": "Cardiología",
+    "relacion": "es un",
+    "valor": "campo de estudio del Dr. Rienzi Díaz Navarro"
+  },
+  {
+    "entidad": "Universidad de Valparaíso",
+    "relacion": "es un",
+    "valor": "centro de investigación"
+  },
+  {
+    "entidad": "Clínica Bupa Reñaca",
+    "relacion": "es un",
+    "valor": "unidad de cuidados intensivos"
+  },
+  {
+    "entidad": "Miocardio salvado",
+    "relacion": "es mayor en",
+    "valor": "pacientes con angioplastía primaria"
+  },
+  {
+    "entidad": "Tamaño del infarto",
+    "relacion": "es menor en",
+    "valor": "pacientes con angioplastía primaria"
+  },
+  {
+    "entidad": "Troponina",
+    "relacion": "es un",
+    "valor": "marcador de daño miocárdico"
+  },
+  {
+    "entidad": "Guía clínica del IAM con SDST",
+    "relacion": "recomienda",
+    "valor": "coronariografía en las primeras 48 horas"
+  },
+  {
+    "entidad": "Resonancia magnética cardiaca",
+    "relacion": "es considerada",
+    "valor": "una aplicación clínica emergente"
+  },
+  {
+    "entidad": "dislipemia",
+    "relacion": "afecta a",
+    "valor": "pacientes sin enfermedad cardiovascular aterosclerótica"
+  },
+  {
+    "entidad": "médicos de atención primaria",
+    "relacion": "describen",
+    "valor": "manejo terapéutico de dislipemia"
+  },
+  {
+    "entidad": "2019 ESC/EAS guidelines",
+    "relacion": "son",
+    "valor": "guías para el manejo de dislipemia"
+  },
+  {
+    "entidad": "médicos de atención primaria",
+    "relacion": "adoptan",
+    "valor": "2019 ESC/EAS guidelines"
+  },
+  {
+    "entidad": "barreras",
+    "relacion": "incluyen",
+    "valor": "subestimación del riesgo cardiovascular"
+  },
+  {
+    "entidad": "barreras",
+    "relacion": "incluyen",
+    "valor": "reticencia a aumentar dosis o usar terapia combinada"
+  },
+  {
+    "entidad": "estudio transversal",
+    "relacion": "explora",
+    "valor": "manejo terapéutico de dislipemia"
+  },
+  {
+    "entidad": "Viatris Pharmaceuticals S.L.",
+    "relacion": "financia",
+    "valor": "estudio"
+  },
+  {
+    "entidad": "SCORE scale",
+    "relacion": "utilizan",
+    "valor": "médicos para estimar riesgo cardiovascular"
+  },
+  {
+    "entidad": "atorvastatin",
+    "relacion": "es",
+    "valor": "tratamiento común para dislipemia"
+  },
+  {
+    "entidad": "rosuvastatin",
+    "relacion": "es",
+    "valor": "tratamiento común para dislipemia"
+  },
+  {
+    "entidad": "médicos de atención primaria",
+    "relacion": "consideran",
+    "valor": "que el 36.47% de pacientes no alcanzan objetivos terapéuticos de LDL-C"
+  },
+  {
+    "entidad": "acciones para mejorar adherencia",
+    "relacion": "incluyen",
+    "valor": "discusión de casos de pacientes en internet"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "no cumplen con",
+    "valor": "tratamiento farmacológico"
+  },
+  {
+    "entidad": "médicos de atención primaria",
+    "relacion": "reportan",
+    "valor": "adherencia baja a las guías ESC/EAS de 2019"
+  },
+  {
+    "entidad": "enfermedades cardiovasculares",
+    "relacion": "son",
+    "valor": "causas principales de muerte en Europa"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "realizado en",
+    "valor": "España"
+  },
+  {
+    "entidad": "médicos de atención primaria",
+    "relacion": "evalúan",
+    "valor": "conocimiento y adherencia a guías"
+  },
+  {
+    "entidad": "terapia combinada",
+    "relacion": "es",
+    "valor": "una opción de tratamiento para dislipemia"
+  },
+  {
+    "entidad": "guías de práctica clínica",
+    "relacion": "son",
+    "valor": "recomendaciones para el manejo de dislipemia"
+  },
+  {
+    "entidad": "sepsis urinaria",
+    "relacion": "asociada a",
+    "valor": "litiasis ureteral"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "realiza",
+    "valor": "estudio multicéntrico"
+  },
+  {
+    "entidad": "antibióticos",
+    "relacion": "proporciona",
+    "valor": "tratamiento empírico"
+  },
+  {
+    "entidad": "amikacina",
+    "relacion": "propuesto como",
+    "valor": "terapia empírica"
+  },
+  {
+    "entidad": "Escherichia coli",
+    "relacion": "es el",
+    "valor": "microorganismo más común"
+  },
+  {
+    "entidad": "Proteus mirabilis",
+    "relacion": "es el",
+    "valor": "segundo microorganismo más común"
+  },
+  {
+    "entidad": "Klebsiella pneumoniae",
+    "relacion": "es el",
+    "valor": "tercer microorganismo más común"
+  },
+  {
+    "entidad": "bacterias gram negativas",
+    "relacion": "son sensibles a",
+    "valor": "amikacina"
+  },
+  {
+    "entidad": "sepsis",
+    "relacion": "aumenta",
+    "valor": "morbimortalidad"
+  },
+  {
+    "entidad": "factores de riesgo",
+    "relacion": "incluyen",
+    "valor": "edad avanzada, diabetes mellitus, inmunosupresión"
+  },
+  {
+    "entidad": "enterococos",
+    "relacion": "pueden causar",
+    "valor": "infecciones del tracto urinario"
+  },
+  {
+    "entidad": "betalactámicos y glicopéptidos",
+    "relacion": "deben considerarse en",
+    "valor": "pacientes con riesgo de infecciones por enterococos"
+  },
+  {
+    "entidad": "comité ético científico",
+    "relacion": "aprueba",
+    "valor": "estudio"
+  },
+  {
+    "entidad": "hospitales",
+    "relacion": "incluidos en",
+    "valor": "estudio multicéntrico"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "constituyen",
+    "valor": "77% de la muestra"
+  },
+  {
+    "entidad": "edad promedio",
+    "relacion": "es",
+    "valor": "52 años"
+  },
+  {
+    "entidad": "cultivos",
+    "relacion": "se toman en",
+    "valor": "pacientes con sepsis"
+  },
+  {
+    "entidad": "nefrótoxicos",
+    "relacion": "deben considerarse en",
+    "valor": "tratamiento con amikacina"
+  }
+]

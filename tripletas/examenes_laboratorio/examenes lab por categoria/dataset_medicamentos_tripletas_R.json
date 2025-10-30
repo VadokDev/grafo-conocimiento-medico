@@ -1,0 +1,52 @@
+[
+  {
+    "entidad": "Recuento de linfocitos CD4",
+    "relacion": "mide",
+    "valor": "cantidad de linfocitos CD4 en la sangre"
+  },
+  {
+    "entidad": "Recuento de linfocitos CD4",
+    "relacion": "requiere_muestra_de",
+    "valor": "sangre de una vena del brazo"
+  },
+  {
+    "entidad": "Recuento de linfocitos CD4",
+    "relacion": "diagnostica",
+    "valor": "sida"
+  },
+  {
+    "entidad": "Recuento de linfocitos CD4",
+    "relacion": "diagnostica",
+    "valor": "infecciones oportunistas"
+  },
+  {
+    "entidad": "Recuento de linfocitos CD4",
+    "relacion": "diagnostica",
+    "valor": "linfoma"
+  },
+  {
+    "entidad": "Recuento de linfocitos CD4",
+    "relacion": "indicado_si_tiene",
+    "valor": "VIH"
+  },
+  {
+    "entidad": "Recuento de linfocitos CD4",
+    "relacion": "util_para",
+    "valor": "vigilar la salud del sistema inmunitario"
+  },
+  {
+    "entidad": "Recuento de linfocitos CD4",
+    "relacion": "tiene_duracion",
+    "valor": "menos de cinco minutos"
+  },
+  {
+    "entidad": "Recuento de linfocitos CD4",
+    "relacion": "tiene_riesgo",
+    "valor": "dolor leve o moretón en el lugar de la punción"
+  },
+  {
+    "entidad": "Recuento de linfocitos CD4",
+    "relacion": "realizado_por",
+    "valor": "médico o profesional de la salud"
+  }
+]

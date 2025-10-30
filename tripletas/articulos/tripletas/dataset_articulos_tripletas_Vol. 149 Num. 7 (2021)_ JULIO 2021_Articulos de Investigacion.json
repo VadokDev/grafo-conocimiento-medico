@@ -1,0 +1,737 @@
+[
+  {
+    "entidad": "Centro de Informática Médica y Telemedicina",
+    "relacion": "pertenece a",
+    "valor": "Facultad de Medicina, Universidad de Chile"
+  },
+  {
+    "entidad": "Centro de Modelamiento Matemático",
+    "relacion": "pertenece a",
+    "valor": "Facultad de Ciencias Físicas y Matemáticas, Universidad de Chile"
+  },
+  {
+    "entidad": "Escuela de Medicina",
+    "relacion": "pertenece a",
+    "valor": "Universidad de Chile"
+  },
+  {
+    "entidad": "Pablo Báez",
+    "relacion": "es",
+    "valor": "autor del artículo"
+  },
+  {
+    "entidad": "Fabián Villena",
+    "relacion": "es",
+    "valor": "autor del artículo"
+  },
+  {
+    "entidad": "Karen Zúñiga",
+    "relacion": "es",
+    "valor": "autor del artículo"
+  },
+  {
+    "entidad": "Natalia Jones",
+    "relacion": "es",
+    "valor": "autor del artículo"
+  },
+  {
+    "entidad": "Gustavo Fernández",
+    "relacion": "es",
+    "valor": "autor del artículo"
+  },
+  {
+    "entidad": "Manuel Durán",
+    "relacion": "es",
+    "valor": "autor del artículo"
+  },
+  {
+    "entidad": "Jocelyn Dunstan",
+    "relacion": "es",
+    "valor": "autor del artículo"
+  },
+  {
+    "entidad": "U-INICIA VID 2019 UI-004/19",
+    "relacion": "financia",
+    "valor": "PBB"
+  },
+  {
+    "entidad": "Proyecto ICM P09-015F",
+    "relacion": "financia",
+    "valor": "PBB"
+  },
+  {
+    "entidad": "CMM-ANID AFB 170001",
+    "relacion": "financia",
+    "valor": "JD, FV y MD"
+  },
+  {
+    "entidad": "CIMT-CORFO",
+    "relacion": "apoya",
+    "valor": "FV y JD"
+  },
+  {
+    "entidad": "Fondecyt 11201250",
+    "relacion": "agradece",
+    "valor": "JD"
+  },
+  {
+    "entidad": "texto libre",
+    "relacion": "representa",
+    "valor": "proporción importante de información en la ficha clínica"
+  },
+  {
+    "entidad": "análisis automatizado de texto clínico",
+    "relacion": "se realiza mediante",
+    "valor": "herramientas de Procesamiento del Lenguaje Natural"
+  },
+  {
+    "entidad": "reconocimiento de entidades médicas",
+    "relacion": "permite",
+    "valor": "identificar información en narrativas clínicas"
+  },
+  {
+    "entidad": "algoritmos de aprendizaje de máquinas",
+    "relacion": "mejoran",
+    "valor": "resultados en el reconocimiento de entidades médicas"
+  },
+  {
+    "entidad": "corpus clínico",
+    "relacion": "se construyó a partir de",
+    "valor": "datos de la lista de espera no cubierta por el Plan GES"
+  },
+  {
+    "entidad": "BRAT",
+    "relacion": "es",
+    "valor": "plataforma utilizada para anotación"
+  },
+  {
+    "entidad": "anotación manual",
+    "relacion": "requiere",
+    "valor": "experiencia suficiente en el tema"
+  },
+  {
+    "entidad": "Acuerdo entre Anotadores (IAA)",
+    "relacion": "se evalúa mediante",
+    "valor": "F1-Score"
+  },
+  {
+    "entidad": "anotadores",
+    "relacion": "anotan",
+    "valor": "interconsultas"
+  },
+  {
+    "entidad": "entidades médicas",
+    "relacion": "fueron seleccionadas",
+    "valor": "hallazgos clínicos, partes del cuerpo, medicamentos, abreviaciones, miembros de la familia"
+  },
+  {
+    "entidad": "Sistema de Gestión de Tiempos de Espera (SIGTE)",
+    "relacion": "almacena",
+    "valor": "datos de lista de espera"
+  },
+  {
+    "entidad": "Superintendencia de Salud",
+    "relacion": "vigila",
+    "valor": "identificación de pacientes con problemas de salud"
+  },
+  {
+    "entidad": "análisis automático basado en PLN",
+    "relacion": "puede ayudar",
+    "valor": "monitoreo continuo del contenido no estructurado"
+  },
+  {
+    "entidad": "pancreatitis aguda",
+    "relacion": "es una",
+    "valor": "patología frecuente"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "tiene",
+    "valor": "incidencia de pancreatitis aguda"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "proporciona",
+    "valor": "registros de egresos hospitalarios"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "evalúa",
+    "valor": "incidencia nacional de pancreatitis aguda entre 2013 y 2018"
+  },
+  {
+    "entidad": "pancreatitis aguda",
+    "relacion": "excluye",
+    "valor": "pancreatitis crónica y cáncer de páncreas"
+  },
+  {
+    "entidad": "hospitalización",
+    "relacion": "promedio",
+    "valor": "11 días"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "fueron",
+    "valor": "egresados con diagnóstico de pancreatitis aguda"
+  },
+  {
+    "entidad": "etología de la pancreatitis aguda",
+    "relacion": "incluye",
+    "valor": "biliar, alcohólica, idiopática, por drogas"
+  },
+  {
+    "entidad": "letalidad anual",
+    "relacion": "es",
+    "valor": "4.2%"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "es",
+    "valor": "1.6 por 100,000 habitantes"
+  },
+  {
+    "entidad": "diferencias geográficas",
+    "relacion": "existen entre",
+    "valor": "norte y sur de Chile"
+  },
+  {
+    "entidad": "Grupo 1",
+    "relacion": "tiene",
+    "valor": "tasa de incidencia promedio de 36.4 por 100,000 habitantes"
+  },
+  {
+    "entidad": "Grupo 2",
+    "relacion": "tiene",
+    "valor": "tasa de incidencia promedio de 52.1 por 100,000 habitantes"
+  },
+  {
+    "entidad": "población mapuche",
+    "relacion": "tiene alta",
+    "valor": "prevalencia de colecistolitiasis"
+  },
+  {
+    "entidad": "distribución etaria",
+    "relacion": "se mantiene",
+    "valor": "estable a través de los años"
+  },
+  {
+    "entidad": "pacientes mayores de 80 años",
+    "relacion": "tienen",
+    "valor": "mayor letalidad"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "es",
+    "valor": "multicéntrico retrospectivo"
+  },
+  {
+    "entidad": "incidencia global de pancreatitis aguda",
+    "relacion": "varía entre",
+    "valor": "4.9 y 74.4 por 100,000 habitantes"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "es",
+    "valor": "uno de los países con alta prevalencia de pancreatitis aguda"
+  },
+  {
+    "entidad": "letalidad promedio",
+    "relacion": "ha ido en",
+    "valor": "lento descenso"
+  },
+  {
+    "entidad": "costo hospitalario",
+    "relacion": "se estima en",
+    "valor": "88 millones de dólares anuales"
+  },
+  {
+    "entidad": "esquizofrenia",
+    "relacion": "tiene",
+    "valor": "prevalencia mundial de 0,46%"
+  },
+  {
+    "entidad": "pacientes con esquizofrenia",
+    "relacion": "reportan",
+    "valor": "dolor crónico"
+  },
+  {
+    "entidad": "dolor crónico",
+    "relacion": "se define como",
+    "valor": "dolor que dura más de seis meses"
+  },
+  {
+    "entidad": "McGill Pain Questionnaire (MPQ)",
+    "relacion": "evalúa",
+    "valor": "intensidad y cualidades del dolor"
+  },
+  {
+    "entidad": "hospital público en Chile",
+    "relacion": "atiende",
+    "valor": "pacientes con esquizofrenia"
+  },
+  {
+    "entidad": "dolor agudo",
+    "relacion": "fue reportado por",
+    "valor": "63% de los pacientes"
+  },
+  {
+    "entidad": "dimensiones del dolor",
+    "relacion": "muestran predominancia de",
+    "valor": "componentes sensorial y afectivo"
+  },
+  {
+    "entidad": "corteza prefrontal",
+    "relacion": "está implicada en",
+    "valor": "procesamiento del dolor"
+  },
+  {
+    "entidad": "síntomas psicóticos",
+    "relacion": "se relacionan con",
+    "valor": "disminución de la sensibilidad al dolor"
+  },
+  {
+    "entidad": "comorbilidades médicas",
+    "relacion": "son más frecuentes en",
+    "valor": "personas con esquizofrenia"
+  },
+  {
+    "entidad": "dolor crónico",
+    "relacion": "afecta a",
+    "valor": "un tercio de las personas con esquizofrenia"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "fue autorizado por",
+    "valor": "Comité de Evaluación Ética-Científica del Servicio de Salud Valparaíso-San Antonio"
+  },
+  {
+    "entidad": "pacientes con esquizofrenia",
+    "relacion": "tienen",
+    "valor": "alta probabilidad de experimentar dolor"
+  },
+  {
+    "entidad": "dolor",
+    "relacion": "es considerado",
+    "valor": "una queja poco atendida en esquizofrenia"
+  },
+  {
+    "entidad": "esquizofrenia",
+    "relacion": "puede causar",
+    "valor": "insensibilidad al dolor"
+  },
+  {
+    "entidad": "factores agravantes del dolor",
+    "relacion": "incluyen",
+    "valor": "posición, ruido y estrés"
+  },
+  {
+    "entidad": "factores que alivian el dolor",
+    "relacion": "incluyen",
+    "valor": "reposo, frío y calor"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "causa",
+    "valor": "cambios en hábitos alimentarios"
+  },
+  {
+    "entidad": "inseguridad alimentaria",
+    "relacion": "afecta a",
+    "valor": "hogares chilenos"
+  },
+  {
+    "entidad": "hogares chilenos",
+    "relacion": "experimentan",
+    "valor": "preocupación por falta de alimentos"
+  },
+  {
+    "entidad": "Ministerio de Salud (MINSAL)",
+    "relacion": "confirma",
+    "valor": "primer caso de COVID-19 en Chile"
+  },
+  {
+    "entidad": "Organización Panamericana de la Salud (OPS)",
+    "relacion": "reporta",
+    "valor": "casos de COVID-19 en las Américas"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "provoca",
+    "valor": "distanciamiento social"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "cambia",
+    "valor": "sistemas alimentarios"
+  },
+  {
+    "entidad": "hogares vulnerables",
+    "relacion": "tienen",
+    "valor": "mayor inseguridad alimentaria"
+  },
+  {
+    "entidad": "consumo de alimentos saludables",
+    "relacion": "aumenta en",
+    "valor": "hogares durante la pandemia"
+  },
+  {
+    "entidad": "consumo de alimentos no saludables",
+    "relacion": "disminuye en",
+    "valor": "hogares durante la pandemia"
+  },
+  {
+    "entidad": "hogares con niños menores de 18 años",
+    "relacion": "tienen",
+    "valor": "mayor percepción de inseguridad alimentaria"
+  },
+  {
+    "entidad": "hogares en zonas rurales",
+    "relacion": "reportan",
+    "valor": "mayor preocupación por alimentos"
+  },
+  {
+    "entidad": "macrozona Centro-Sur y Sur",
+    "relacion": "tienen",
+    "valor": "mayor percepción de inseguridad alimentaria"
+  },
+  {
+    "entidad": "Programa de Alimentación Escolar (PAE)",
+    "relacion": "refuerza",
+    "valor": "entrega de alimentos durante la pandemia"
+  },
+  {
+    "entidad": "gobierno de Chile",
+    "relacion": "inicia",
+    "valor": "entrega de cajas de alimentos a familias vulnerables"
+  },
+  {
+    "entidad": "sistema alimentario chileno",
+    "relacion": "requiere",
+    "valor": "reformas para mejorar acceso a alimentos saludables"
+  },
+  {
+    "entidad": "inseguridad alimentaria",
+    "relacion": "relacionada con",
+    "valor": "pobreza e inequidades sociales"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "exacerba",
+    "valor": "desigualdades existentes en seguridad alimentaria"
+  },
+  {
+    "entidad": "Clínica Alemana de Santiago",
+    "relacion": "ubicada en",
+    "valor": "Santiago, Chile"
+  },
+  {
+    "entidad": "Centro de Bioética",
+    "relacion": "pertenece a",
+    "valor": "Facultad de Medicina Clínica Alemana Universidad del Desarrollo"
+  },
+  {
+    "entidad": "médicos intensivistas de adultos",
+    "relacion": "evalúan",
+    "valor": "aporte de la consultoría ético-clínica"
+  },
+  {
+    "entidad": "consultoría ético-clínica",
+    "relacion": "contribuye a",
+    "valor": "mejorar calidad de atención de pacientes"
+  },
+  {
+    "entidad": "consultoría ético-clínica",
+    "relacion": "ayuda en",
+    "valor": "decisiones sobre limitación de tratamientos o soporte vital"
+  },
+  {
+    "entidad": "consultoría ético-clínica",
+    "relacion": "proporciona",
+    "valor": "apoyo positivo para pacientes y familiares"
+  },
+  {
+    "entidad": "consultoría ético-clínica",
+    "relacion": "aumenta",
+    "valor": "sensibilidad ética de médicos"
+  },
+  {
+    "entidad": "consultoría ético-clínica",
+    "relacion": "mejora",
+    "valor": "comprensión de temas bioéticos"
+  },
+  {
+    "entidad": "consultoría ético-clínica",
+    "relacion": "disminuye",
+    "valor": "estrés en decisiones complejas"
+  },
+  {
+    "entidad": "comités de ética asistencial",
+    "relacion": "realizan",
+    "valor": "consultoría y asesoría normativa"
+  },
+  {
+    "entidad": "consultoría ético-clínica individual",
+    "relacion": "se realiza en",
+    "valor": "análisis de decisiones complejas"
+  },
+  {
+    "entidad": "médicos de la UPC",
+    "relacion": "solicitan",
+    "valor": "consultoría ético-clínica"
+  },
+  {
+    "entidad": "consultores ético-clínicos",
+    "relacion": "realizan",
+    "valor": "visitas periódicas a servicios"
+  },
+  {
+    "entidad": "consultoría ético-clínica",
+    "relacion": "facilita",
+    "valor": "análisis de conflictos de valores"
+  },
+  {
+    "entidad": "médicos intensivistas",
+    "relacion": "consideran",
+    "valor": "consultoría como apoyo en decisiones difíciles"
+  },
+  {
+    "entidad": "consultoría ético-clínica",
+    "relacion": "permite",
+    "valor": "trabajar en un sistema más cercano y flexible"
+  },
+  {
+    "entidad": "consultoría ético-clínica",
+    "relacion": "ha sido",
+    "valor": "escasamente evaluada"
+  },
+  {
+    "entidad": "sistemas de consultoría",
+    "relacion": "varían según",
+    "valor": "culturas locales y recursos"
+  },
+  {
+    "entidad": "consultoría ético-clínica",
+    "relacion": "se ha desarrollado en",
+    "valor": "Clínica Alemana de Santiago"
+  },
+  {
+    "entidad": "médicos intensivistas",
+    "relacion": "opinan sobre",
+    "valor": "sistema de consultoría ético-clínica"
+  },
+  {
+    "entidad": "consultoría ético-clínica",
+    "relacion": "contribuye a",
+    "valor": "mejorar decisiones de tratamiento y cuidado"
+  },
+  {
+    "entidad": "Retinopatía Diabética",
+    "relacion": "afecta a",
+    "valor": "pacientes con diabetes mellitus"
+  },
+  {
+    "entidad": "Diabetes Mellitus",
+    "relacion": "es la",
+    "valor": "tercera causa de muerte en el mundo"
+  },
+  {
+    "entidad": "Diabetes Mellitus",
+    "relacion": "afecta a",
+    "valor": "463 millones de personas"
+  },
+  {
+    "entidad": "Diabetes Mellitus",
+    "relacion": "desarrolla",
+    "valor": "retinopatía diabética en el 30% de los casos"
+  },
+  {
+    "entidad": "fotocoagulación",
+    "relacion": "es un",
+    "valor": "tratamiento para retinopatía diabética"
+  },
+  {
+    "entidad": "inyecciones intravítreas",
+    "relacion": "son un",
+    "valor": "tratamiento para retinopatía diabética"
+  },
+  {
+    "entidad": "cirugía vitreoretinal",
+    "relacion": "es un",
+    "valor": "tratamiento para casos avanzados de retinopatía diabética"
+  },
+  {
+    "entidad": "Garantías Explícitas en Salud (GES)",
+    "relacion": "cubre",
+    "valor": "Diabetes Mellitus y Retinopatía Diabética"
+  },
+  {
+    "entidad": "Fondo Nacional de Salud",
+    "relacion": "financia",
+    "valor": "Garantías Explícitas en Salud"
+  },
+  {
+    "entidad": "Ministerio de Salud (MINSAL)",
+    "relacion": "desarrolla",
+    "valor": "guía clínica de retinopatía diabética"
+  },
+  {
+    "entidad": "Tecnólogo Médico",
+    "relacion": "realiza",
+    "valor": "evaluación de fondo de ojo"
+  },
+  {
+    "entidad": "cámara fotográfica retinal no midriática",
+    "relacion": "es utilizada por",
+    "valor": "Tecnólogo Médico especialista de Oftalmología"
+  },
+  {
+    "entidad": "estrategia nacional de salud del MINSAL",
+    "relacion": "tiene como objetivo",
+    "valor": "disminuir la mortalidad asociada a Diabetes Mellitus"
+  },
+  {
+    "entidad": "tasa de cobertura de fondo de ojo",
+    "relacion": "se fija como meta",
+    "valor": "80% para grupos de 15 a 24 años y mayores de 65"
+  },
+  {
+    "entidad": "tasa de cobertura de fondo de ojo",
+    "relacion": "se fija como meta",
+    "valor": "90% para población entre 25 y 64 años"
+  },
+  {
+    "entidad": "Servicios de Salud (SS)",
+    "relacion": "ejecutan",
+    "valor": "exámenes de fondo de ojo"
+  },
+  {
+    "entidad": "Unidades de Atención Primaria Oftalmológica (UAPO)",
+    "relacion": "realizan",
+    "valor": "exámenes de fondo de ojo"
+  },
+  {
+    "entidad": "tasa de cobertura de fondo de ojo",
+    "relacion": "se entiende como",
+    "valor": "porcentaje de pacientes diabéticos con fondo de ojo anual"
+  },
+  {
+    "entidad": "inteligencia artificial",
+    "relacion": "se ha introducido para",
+    "valor": "predicción de retinopatía diabética"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "presenta",
+    "valor": "baja tasa de cobertura de fondo de ojo"
+  },
+  {
+    "entidad": "comunas con baja población diabética",
+    "relacion": "tienden a tener",
+    "valor": "tasa de cobertura muy baja o alta"
+  },
+  {
+    "entidad": "Ministerio de Salud",
+    "relacion": "necesita mejorar",
+    "valor": "registros estadísticos"
+  },
+  {
+    "entidad": "centros láser",
+    "relacion": "deben ser implementados para",
+    "valor": "evitar la ceguera por diabetes"
+  },
+  {
+    "entidad": "metodología aula invertida",
+    "relacion": "es un",
+    "valor": "método activo"
+  },
+  {
+    "entidad": "Web 2.0",
+    "relacion": "permite",
+    "valor": "mayor interacción personal y remota"
+  },
+  {
+    "entidad": "Edpuzzle",
+    "relacion": "es una",
+    "valor": "plataforma de vídeos educativos"
+  },
+  {
+    "entidad": "Quizizz",
+    "relacion": "es una",
+    "valor": "herramienta para aprendizaje basado en casos"
+  },
+  {
+    "entidad": "estudiantes de medicina",
+    "relacion": "tienen",
+    "valor": "buena percepción del aula invertida"
+  },
+  {
+    "entidad": "aula invertida",
+    "relacion": "asociada a",
+    "valor": "mejores resultados académicos"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "requiere",
+    "valor": "modalidades de aprendizaje a distancia"
+  },
+  {
+    "entidad": "Universidad Mayor",
+    "relacion": "realiza",
+    "valor": "estudio sobre percepción del aula invertida"
+  },
+  {
+    "entidad": "Carlos Flores-Angulo",
+    "relacion": "recibe",
+    "valor": "beca de la Agencia Chilena de Cooperación Internacional"
+  },
+  {
+    "entidad": "estudiantes",
+    "relacion": "evalúan",
+    "valor": "satisfacción con la metodología"
+  },
+  {
+    "entidad": "metodología aula invertida",
+    "relacion": "fomenta",
+    "valor": "desarrollo de competencias genéricas"
+  },
+  {
+    "entidad": "plataformas educativas",
+    "relacion": "facilitan",
+    "valor": "ejecución del aula invertida a distancia"
+  },
+  {
+    "entidad": "aula invertida",
+    "relacion": "puede ser adaptada a",
+    "valor": "modalidad a distancia"
+  },
+  {
+    "entidad": "SARS-CoV-2",
+    "relacion": "provoca",
+    "valor": "aislamiento social"
+  },
+  {
+    "entidad": "estudiantes",
+    "relacion": "prefieren",
+    "valor": "método tradicional de enseñanza"
+  },
+  {
+    "entidad": "metodología aula invertida",
+    "relacion": "requiere",
+    "valor": "evaluación de percepción de estudiantes"
+  },
+  {
+    "entidad": "metodología aula invertida",
+    "relacion": "utiliza",
+    "valor": "herramientas de la Web 2.0"
+  },
+  {
+    "entidad": "estudiantes",
+    "relacion": "sugieren",
+    "valor": "mejoras en la presentación del contenido"
+  },
+  {
+    "entidad": "metodología aula invertida",
+    "relacion": "se caracteriza por",
+    "valor": "cambio en la estructura de curso"
+  }
+]

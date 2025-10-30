@@ -1,0 +1,862 @@
+[
+  {
+    "entidad": "política de promoción de salud chilena",
+    "relacion": "analiza",
+    "valor": "Elige Vivir Sano"
+  },
+  {
+    "entidad": "Ley 20,670",
+    "relacion": "crea",
+    "valor": "Sistema Elige Vivir Sano"
+  },
+  {
+    "entidad": "Sabatier’s Advocacy Coalition Framework (ACF)",
+    "relacion": "aplica",
+    "valor": "análisis de políticas"
+  },
+  {
+    "entidad": "coalición pro-libertad individual",
+    "relacion": "lanzó",
+    "valor": "programa Elige Vivir Sano"
+  },
+  {
+    "entidad": "coalición pro-determinantes sociales",
+    "relacion": "define",
+    "valor": "problema estructural"
+  },
+  {
+    "entidad": "programa Elige Vivir Sano",
+    "relacion": "institucionaliza",
+    "valor": "visión intersectorial"
+  },
+  {
+    "entidad": "falta de financiamiento permanente",
+    "relacion": "afecta",
+    "valor": "continuidad de la política"
+  },
+  {
+    "entidad": "Ley 20,670",
+    "relacion": "enmarca",
+    "valor": "ACF"
+  },
+  {
+    "entidad": "conflicto entre coaliciones",
+    "relacion": "ralentiza",
+    "valor": "aprendizaje de políticas"
+  },
+  {
+    "entidad": "Ministerio de Salud",
+    "relacion": "coordina",
+    "valor": "Sistema Elige Vivir Sano"
+  },
+  {
+    "entidad": "coalición A",
+    "relacion": "defiende",
+    "valor": "libertad individual"
+  },
+  {
+    "entidad": "coalición B",
+    "relacion": "prioriza",
+    "valor": "justicia social y equidad"
+  },
+  {
+    "entidad": "programa Elige Vivir Sano",
+    "relacion": "se inspira en",
+    "valor": "programa Let's Move"
+  },
+  {
+    "entidad": "gobierno de Michelle Bachelet",
+    "relacion": "lanzó",
+    "valor": "estrategia Global Contra la Obesidad"
+  },
+  {
+    "entidad": "coalición de centro-derecha",
+    "relacion": "asume",
+    "valor": "poder ejecutivo en 2010"
+  },
+  {
+    "entidad": "coalición de centro-izquierda",
+    "relacion": "define",
+    "valor": "determinantes sociales de la salud"
+  },
+  {
+    "entidad": "programa de promoción de salud",
+    "relacion": "requiere",
+    "valor": "continuidad y compromiso"
+  },
+  {
+    "entidad": "obesidad y NCDs",
+    "relacion": "no generan",
+    "valor": "descontento claro en la sociedad"
+  },
+  {
+    "entidad": "programa Elige Vivir Sano",
+    "relacion": "cumple",
+    "valor": "10 años como política pública"
+  },
+  {
+    "entidad": "enfermedades glomerulares",
+    "relacion": "causa",
+    "valor": "enfermedad renal crónica"
+  },
+  {
+    "entidad": "biopsia renal",
+    "relacion": "es un",
+    "valor": "elemento fundamental en diagnóstico"
+  },
+  {
+    "entidad": "frecuencia de glomerulopatías",
+    "relacion": "varía según",
+    "valor": "criterio de indicación de biopsia renal"
+  },
+  {
+    "entidad": "frecuencia de glomerulopatías",
+    "relacion": "varía según",
+    "valor": "características demográficas"
+  },
+  {
+    "entidad": "frecuencia de glomerulopatías",
+    "relacion": "varía según",
+    "valor": "área geográfica"
+  },
+  {
+    "entidad": "frecuencia de glomerulopatías",
+    "relacion": "varía según",
+    "valor": "condiciones socioeconómicas"
+  },
+  {
+    "entidad": "nefritis lúpica",
+    "relacion": "es",
+    "valor": "la más común entre glomerulopatías secundarias"
+  },
+  {
+    "entidad": "nefropatía membranosa",
+    "relacion": "es",
+    "valor": "la más común entre glomerulopatías primarias"
+  },
+  {
+    "entidad": "nefropatía por IgA",
+    "relacion": "es",
+    "valor": "la segunda más común entre glomerulopatías primarias"
+  },
+  {
+    "entidad": "glomeruloesclerosis focal y segmentaria",
+    "relacion": "es",
+    "valor": "la tercera más común entre glomerulopatías primarias"
+  },
+  {
+    "entidad": "glomérulo",
+    "relacion": "es parte de",
+    "valor": "riñón"
+  },
+  {
+    "entidad": "Hospital del Salvador",
+    "relacion": "realiza",
+    "valor": "biopsias renales"
+  },
+  {
+    "entidad": "Servicio de Nefrología",
+    "relacion": "pertenece a",
+    "valor": "Hospital del Salvador"
+  },
+  {
+    "entidad": "Comité de Ética",
+    "relacion": "aprueba",
+    "valor": "estudio"
+  },
+  {
+    "entidad": "análisis estadístico",
+    "relacion": "utiliza",
+    "valor": "programa SPSS versión 26"
+  },
+  {
+    "entidad": "síndrome nefrótico",
+    "relacion": "es",
+    "valor": "la presentación clínica más frecuente"
+  },
+  {
+    "entidad": "glomerulopatías primarias",
+    "relacion": "incluyen",
+    "valor": "enfermedad por cambios mínimos"
+  },
+  {
+    "entidad": "glomerulopatías primarias",
+    "relacion": "incluyen",
+    "valor": "glomerulonefritis membranoproliferativa"
+  },
+  {
+    "entidad": "glomerulopatías secundarias",
+    "relacion": "incluyen",
+    "valor": "glomerulonefritis relacionada a infección"
+  },
+  {
+    "entidad": "glomerulopatías secundarias",
+    "relacion": "incluyen",
+    "valor": "glomerulopatía por C3"
+  },
+  {
+    "entidad": "nefropatía diabética",
+    "relacion": "es",
+    "valor": "una de las glomerulopatías secundarias"
+  },
+  {
+    "entidad": "anemia",
+    "relacion": "es un hallazgo común en",
+    "valor": "glomerulonefritis pauciinmune"
+  },
+  {
+    "entidad": "exposición ambiental",
+    "relacion": "puede influir en",
+    "valor": "frecuencia de nefropatía membranosa"
+  },
+  {
+    "entidad": "factores genéticos",
+    "relacion": "pueden influir en",
+    "valor": "frecuencia de nefropatía membranosa"
+  },
+  {
+    "entidad": "biopsia renal",
+    "relacion": "se realiza en",
+    "valor": "pacientes con diabetes"
+  },
+  {
+    "entidad": "glomérulo",
+    "relacion": "es parte de",
+    "valor": "sistema renal"
+  },
+  {
+    "entidad": "Cirugía de revascularización miocárdica",
+    "relacion": "es",
+    "valor": "tratamiento para cardiopatía coronaria"
+  },
+  {
+    "entidad": "Cirugía coronaria",
+    "relacion": "es",
+    "valor": "estándar de oro para tratamiento de cardiopatía coronaria"
+  },
+  {
+    "entidad": "Circulación extracorpórea",
+    "relacion": "es",
+    "valor": "técnica utilizada en cirugía coronaria tradicional"
+  },
+  {
+    "entidad": "Cirugía sin circulación extracorpórea",
+    "relacion": "es",
+    "valor": "alternativa a la cirugía coronaria tradicional"
+  },
+  {
+    "entidad": "Propensity Score Matching",
+    "relacion": "es",
+    "valor": "método utilizado para comparar grupos en estudios"
+  },
+  {
+    "entidad": "Hospital Clínico Regional de Concepción",
+    "relacion": "es",
+    "valor": "lugar donde se realizó el estudio"
+  },
+  {
+    "entidad": "Roberto González L.",
+    "relacion": "es autor de",
+    "valor": "el artículo"
+  },
+  {
+    "entidad": "Diego Saldivia Z.",
+    "relacion": "es autor de",
+    "valor": "el artículo"
+  },
+  {
+    "entidad": "Rodrigo Reyes M.",
+    "relacion": "es autor de",
+    "valor": "el artículo"
+  },
+  {
+    "entidad": "Felipe Alarcón O.",
+    "relacion": "es autor de",
+    "valor": "el artículo"
+  },
+  {
+    "entidad": "Enrique Seguel S.",
+    "relacion": "es autor de",
+    "valor": "el artículo"
+  },
+  {
+    "entidad": "Aleck Stockins L.",
+    "relacion": "es autor de",
+    "valor": "el artículo"
+  },
+  {
+    "entidad": "Sebastián Barra M.",
+    "relacion": "es autor de",
+    "valor": "el artículo"
+  },
+  {
+    "entidad": "Andrés Schaub C.",
+    "relacion": "es autor de",
+    "valor": "el artículo"
+  },
+  {
+    "entidad": "Alejandra Riquelme U.",
+    "relacion": "es autor de",
+    "valor": "el artículo"
+  },
+  {
+    "entidad": "Patricio Madrid C.",
+    "relacion": "es autor de",
+    "valor": "el artículo"
+  },
+  {
+    "entidad": "Alejandro Pérez G.",
+    "relacion": "es autor de",
+    "valor": "el artículo"
+  },
+  {
+    "entidad": "Emilio Alarcón C.",
+    "relacion": "es autor de",
+    "valor": "el artículo"
+  },
+  {
+    "entidad": "Off-Pump Coronary Artery Bypass Grafting",
+    "relacion": "es",
+    "valor": "técnica alternativa a CABG con CPB"
+  },
+  {
+    "entidad": "Coronary Artery Bypass Grafting",
+    "relacion": "es",
+    "valor": "técnica tradicional con circulación extracorpórea"
+  },
+  {
+    "entidad": "Mortalidad cardiovascular",
+    "relacion": "es",
+    "valor": "resultado evaluado en el estudio"
+  },
+  {
+    "entidad": "Supervivencia a 10 años",
+    "relacion": "es",
+    "valor": "resultado principal del estudio"
+  },
+  {
+    "entidad": "Diabetes mellitus",
+    "relacion": "es",
+    "valor": "comorbilidad evaluada en el estudio"
+  },
+  {
+    "entidad": "Disfunción ventricular izquierda",
+    "relacion": "es",
+    "valor": "comorbilidad evaluada en el estudio"
+  },
+  {
+    "entidad": "Enfermedad renal crónica",
+    "relacion": "es",
+    "valor": "comorbilidad evaluada en el estudio"
+  },
+  {
+    "entidad": "Enfermedad arterial oclusiva crónica",
+    "relacion": "es",
+    "valor": "comorbilidad evaluada en el estudio"
+  },
+  {
+    "entidad": "Enfermedad pulmonar obstructiva crónica",
+    "relacion": "es",
+    "valor": "comorbilidad evaluada en el estudio"
+  },
+  {
+    "entidad": "EuroSCORE I",
+    "relacion": "es",
+    "valor": "sistema de puntuación para riesgo quirúrgico"
+  },
+  {
+    "entidad": "Comité Ético Científico del Servicio de Salud Concepción",
+    "relacion": "aprueba",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "Supervivencia global",
+    "relacion": "es",
+    "valor": "variable respuesta en el estudio"
+  },
+  {
+    "entidad": "Supervivencia libre de muerte cardiovascular",
+    "relacion": "es",
+    "valor": "variable respuesta en el estudio"
+  },
+  {
+    "entidad": "HScore",
+    "relacion": "asocia con",
+    "valor": "malos resultados clínicos en COVID-19"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "causa",
+    "valor": "síndrome hiperinflamatorio"
+  },
+  {
+    "entidad": "síndrome hiperinflamatorio",
+    "relacion": "se asemeja a",
+    "valor": "síndrome hemofagocítico secundario (sHLH)"
+  },
+  {
+    "entidad": "sHLH",
+    "relacion": "descrito en",
+    "valor": "enfermedades neoplásicas, reumatológicas y enfermedades infecciosas"
+  },
+  {
+    "entidad": "HScore",
+    "relacion": "evalúa",
+    "valor": "inmunosupresión, temperatura, organomegalia, citopenias, ferritina, triglicéridos, fibrinógeno y AST"
+  },
+  {
+    "entidad": "HScore",
+    "relacion": "propuesto para",
+    "valor": "evaluar hiperinflamación en COVID-19"
+  },
+  {
+    "entidad": "HScore ≥ 130",
+    "relacion": "asociado con",
+    "valor": "requerimiento de ventilación mecánica o mortalidad a 60 días"
+  },
+  {
+    "entidad": "sHLH",
+    "relacion": "no es frecuente en",
+    "valor": "pacientes con COVID-19"
+  },
+  {
+    "entidad": "HScore",
+    "relacion": "útil para",
+    "valor": "predecir riesgo de desenlaces clínicos desfavorables"
+  },
+  {
+    "entidad": "HScore",
+    "relacion": "desarrollado para",
+    "valor": "predecir presencia de sHLH"
+  },
+  {
+    "entidad": "HScore",
+    "relacion": "puede reflejar",
+    "valor": "inflamación severa en pacientes con COVID-19"
+  },
+  {
+    "entidad": "HScore",
+    "relacion": "fácil de calcular",
+    "valor": "en pacientes con COVID-19"
+  },
+  {
+    "entidad": "HScore ≥ 130",
+    "relacion": "asociado con",
+    "valor": "peores resultados clínicos"
+  },
+  {
+    "entidad": "HScore",
+    "relacion": "puede llevar a",
+    "valor": "terapias inmunosupresoras más agresivas"
+  },
+  {
+    "entidad": "retinopatía diabética",
+    "relacion": "es",
+    "valor": "una causa importante de disminución de la agudeza visual"
+  },
+  {
+    "entidad": "prevalencia de retinopatía diabética",
+    "relacion": "ha aumentado",
+    "valor": "entre 1990 y 2020"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "tiene una prevalencia de",
+    "valor": "24.8% de retinopatía diabética"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "evalúa",
+    "valor": "la prevalencia de retinopatía diabética en Puerto Montt"
+  },
+  {
+    "entidad": "pacientes diabéticos tipo 2",
+    "relacion": "son objeto de estudio en",
+    "valor": "la comuna de Puerto Montt"
+  },
+  {
+    "entidad": "insulina",
+    "relacion": "se asocia con",
+    "valor": "mayor prevalencia de retinopatía diabética"
+  },
+  {
+    "entidad": "neuropatía",
+    "relacion": "se asocia con",
+    "valor": "mayor prevalencia de retinopatía diabética"
+  },
+  {
+    "entidad": "microalbuminuria",
+    "relacion": "se asocia con",
+    "valor": "mayor prevalencia de retinopatía diabética"
+  },
+  {
+    "entidad": "hemoglobina glicosilada",
+    "relacion": "es un indicador de",
+    "valor": "control metabólico en diabéticos"
+  },
+  {
+    "entidad": "diabetes mellitus",
+    "relacion": "ha aumentado",
+    "valor": "110% en hombres y 58% en mujeres desde 1980"
+  },
+  {
+    "entidad": "enfermedades cardiovasculares",
+    "relacion": "se asocian con",
+    "valor": "mayor prevalencia de retinopatía diabética"
+  },
+  {
+    "entidad": "enfermedad renal crónica",
+    "relacion": "se asocia con",
+    "valor": "mayor prevalencia de retinopatía diabética"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "se considera un factor de riesgo para",
+    "valor": "retinopatía diabética"
+  },
+  {
+    "entidad": "hipertensión arterial",
+    "relacion": "se considera un factor de riesgo para",
+    "valor": "retinopatía diabética"
+  },
+  {
+    "entidad": "estudio de casos y controles",
+    "relacion": "se utiliza para",
+    "valor": "evaluar la prevalencia de retinopatía diabética"
+  },
+  {
+    "entidad": "Universidad San Sebastián",
+    "relacion": "es",
+    "valor": "la institución donde se realizó el estudio"
+  },
+  {
+    "entidad": "Hospital Base de Puerto Montt",
+    "relacion": "es",
+    "valor": "una de las instituciones involucradas en el estudio"
+  },
+  {
+    "entidad": "población diabética en control",
+    "relacion": "es de",
+    "valor": "20.386 pacientes en Puerto Montt"
+  },
+  {
+    "entidad": "pacientes con retinopatía diabética",
+    "relacion": "fueron considerados como",
+    "valor": "casos en el estudio"
+  },
+  {
+    "entidad": "pacientes sin retinopatía diabética",
+    "relacion": "fueron considerados como",
+    "valor": "controles en el estudio"
+  },
+  {
+    "entidad": "jornada virtual de telesalud",
+    "relacion": "implementa",
+    "valor": "capacitación masiva"
+  },
+  {
+    "entidad": "personas mayores chilenas",
+    "relacion": "participa en",
+    "valor": "jornada virtual de telesalud"
+  },
+  {
+    "entidad": "estudiantes de la salud",
+    "relacion": "participa en",
+    "valor": "jornada virtual de telesalud"
+  },
+  {
+    "entidad": "telemedicina",
+    "relacion": "permite",
+    "valor": "intercambio de información"
+  },
+  {
+    "entidad": "teleeducación",
+    "relacion": "es un",
+    "valor": "método de aprendizaje"
+  },
+  {
+    "entidad": "envejecimiento saludable",
+    "relacion": "es un",
+    "valor": "tema de enseñanza"
+  },
+  {
+    "entidad": "proyecto 'Activas en Pandemia'",
+    "relacion": "evalúa",
+    "valor": "impacto en la cobertura"
+  },
+  {
+    "entidad": "Universidad de Chile",
+    "relacion": "financia",
+    "valor": "proyecto 'Activas en Pandemia'"
+  },
+  {
+    "entidad": "Centro de Estudios del Movimiento Humano",
+    "relacion": "patrocina",
+    "valor": "proyecto 'Activas en Pandemia'"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "aumenta",
+    "valor": "vulnerabilidad a enfermedades"
+  },
+  {
+    "entidad": "cursos masivos en línea (MOOC)",
+    "relacion": "utiliza",
+    "valor": "telesalud"
+  },
+  {
+    "entidad": "acceso a información",
+    "relacion": "facilita",
+    "valor": "promoción de envejecimiento saludable"
+  },
+  {
+    "entidad": "brecha digital",
+    "relacion": "debe ser",
+    "valor": "mejorada para personas mayores"
+  },
+  {
+    "entidad": "satisfacción usuaria",
+    "relacion": "es",
+    "valor": "alta en participantes"
+  },
+  {
+    "entidad": "interés en autocuidado",
+    "relacion": "es mayor que",
+    "valor": "interés en cuidar a otra persona"
+  },
+  {
+    "entidad": "asistencia sincrónica",
+    "relacion": "es utilizada por",
+    "valor": "la mayoría de los participantes"
+  },
+  {
+    "entidad": "evaluación de contenidos",
+    "relacion": "se realiza a",
+    "valor": "114 personas"
+  },
+  {
+    "entidad": "percepción de la audiencia",
+    "relacion": "se describe como",
+    "valor": "favorable"
+  },
+  {
+    "entidad": "comunidad",
+    "relacion": "se beneficia de",
+    "valor": "telesalud y teleeducación"
+  },
+  {
+    "entidad": "estrategias remotas",
+    "relacion": "son necesarias para",
+    "valor": "prevenir efectos deletéreos de la pandemia"
+  },
+  {
+    "entidad": "SARS-CoV-2",
+    "relacion": "asociado a",
+    "valor": "morbidad, hospitalizaciones, ausentismo y mortalidad entre trabajadores de la salud"
+  },
+  {
+    "entidad": "trabajadores de la salud (HCW)",
+    "relacion": "expuestos a",
+    "valor": "SARS-CoV-2"
+  },
+  {
+    "entidad": "estudio longitudinal",
+    "relacion": "realizado en",
+    "valor": "Hospital Base de Valdivia"
+  },
+  {
+    "entidad": "análisis serológico",
+    "relacion": "realizado por",
+    "valor": "ELISA IgG"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "hospitalizaciones",
+    "valor": "136 pacientes"
+  },
+  {
+    "entidad": "incidencia regional de COVID-19",
+    "relacion": "osciló entre",
+    "valor": "2.7 a 24.4 por 100,000 habitantes"
+  },
+  {
+    "entidad": "equipos de protección personal",
+    "relacion": "utilizados por",
+    "valor": "trabajadores de la salud"
+  },
+  {
+    "entidad": "medidas de contención",
+    "relacion": "evaluadas para",
+    "valor": "restringir la propagación de SARS-CoV-2"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "no encontró",
+    "valor": "evidencia de seroconversión"
+  },
+  {
+    "entidad": "personal de salud",
+    "relacion": "protegido por",
+    "valor": "medidas de prevención"
+  },
+  {
+    "entidad": "hospital Base de Valdivia",
+    "relacion": "designado como",
+    "valor": "centro de referencia para pacientes graves de COVID-19"
+  },
+  {
+    "entidad": "HCW",
+    "relacion": "invitados a",
+    "valor": "consultar en caso de síntomas respiratorios"
+  },
+  {
+    "entidad": "encuestas en línea",
+    "relacion": "confirmaron",
+    "valor": "atención directa de pacientes con COVID-19"
+  },
+  {
+    "entidad": "seroconversión",
+    "relacion": "definida como",
+    "valor": "aparición de una muestra positiva durante el seguimiento"
+  },
+  {
+    "entidad": "tasa de seroconversión",
+    "relacion": "medida en",
+    "valor": "trabajadores de la salud expuestos a COVID-19"
+  },
+  {
+    "entidad": "HCW",
+    "relacion": "participaron en",
+    "valor": "un estudio de seroconversión"
+  },
+  {
+    "entidad": "sintomatología respiratoria",
+    "relacion": "evaluada en",
+    "valor": "trabajadores de la salud"
+  },
+  {
+    "entidad": "personal de salud",
+    "relacion": "expuesto a",
+    "valor": "interacciones sociales desprotegidas"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "afecta a",
+    "valor": "trabajadores de la salud"
+  },
+  {
+    "entidad": "seroconversión",
+    "relacion": "no detectada en",
+    "valor": "trabajadores de la salud durante el estudio"
+  },
+  {
+    "entidad": "comité de ética científico",
+    "relacion": "aprobó",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "SARS-CoV-2",
+    "relacion": "causa",
+    "valor": "COVID-19"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "afecta a",
+    "valor": "pacientes con enfermedad renal crónica"
+  },
+  {
+    "entidad": "enfermedad renal crónica (ERC)",
+    "relacion": "es un",
+    "valor": "factor de riesgo para COVID-19"
+  },
+  {
+    "entidad": "hemodiálisis (HD)",
+    "relacion": "es un",
+    "valor": "tratamiento para ERC"
+  },
+  {
+    "entidad": "Bogotá, Colombia",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "incidencia acumulada de infección",
+    "relacion": "es",
+    "valor": "30.2%"
+  },
+  {
+    "entidad": "seroprevalencia poblacional",
+    "relacion": "es",
+    "valor": "24.9%"
+  },
+  {
+    "entidad": "letalidad",
+    "relacion": "es",
+    "valor": "9.1%"
+  },
+  {
+    "entidad": "protocolos de bioseguridad",
+    "relacion": "son necesarios para",
+    "valor": "prevenir brotes de COVID-19"
+  },
+  {
+    "entidad": "pacientes en HD",
+    "relacion": "requieren",
+    "valor": "hospitalización en un 62.5%"
+  },
+  {
+    "entidad": "pacientes en HD",
+    "relacion": "requieren",
+    "valor": "admisión a la UCI en un 18.7%"
+  },
+  {
+    "entidad": "sintomatología",
+    "relacion": "incluye",
+    "valor": "fiebre, tos y mialgia"
+  },
+  {
+    "entidad": "comorbilidades",
+    "relacion": "más comunes son",
+    "valor": "hipertensión, diabetes tipo 2 y enfermedad coronaria"
+  },
+  {
+    "entidad": "personal de salud",
+    "relacion": "es",
+    "valor": "parte del estudio"
+  },
+  {
+    "entidad": "RT-PCR",
+    "relacion": "se utiliza para",
+    "valor": "diagnosticar COVID-19"
+  },
+  {
+    "entidad": "anticuerpos IgG e IgM",
+    "relacion": "se utilizan para",
+    "valor": "screening de COVID-19"
+  },
+  {
+    "entidad": "método de inmunoensayo",
+    "relacion": "se utiliza para",
+    "valor": "medir anticuerpos"
+  },
+  {
+    "entidad": "estrategias de intervención",
+    "relacion": "se implementan para",
+    "valor": "controlar la infección por COVID-19"
+  },
+  {
+    "entidad": "N95",
+    "relacion": "es un",
+    "valor": "tipo de mascarilla utilizada por profesionales de salud"
+  },
+  {
+    "entidad": "telemedicina",
+    "relacion": "es una",
+    "valor": "estrategia de prevención"
+  },
+  {
+    "entidad": "distanciamiento físico",
+    "relacion": "es necesario para",
+    "valor": "prevenir la transmisión del virus"
+  }
+]

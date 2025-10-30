@@ -1,0 +1,97 @@
+[
+  {
+    "entidad": "infarto renal",
+    "relacion": "es un",
+    "valor": "entidad rara y subdiagnosticada"
+  },
+  {
+    "entidad": "infarto renal",
+    "relacion": "resulta de",
+    "valor": "disrupción aguda del flujo en las arterias renales"
+  },
+  {
+    "entidad": "cardiac or aortic embolism",
+    "relacion": "es la causa principal de",
+    "valor": "infarto renal"
+  },
+  {
+    "entidad": "fibrilación auricular",
+    "relacion": "es un factor asociado a",
+    "valor": "infarto renal"
+  },
+  {
+    "entidad": "infarto renal",
+    "relacion": "puede ser causado por",
+    "valor": "injuria arterial"
+  },
+  {
+    "entidad": "infarto renal",
+    "relacion": "puede ser causado por",
+    "valor": "factores protrombóticos"
+  },
+  {
+    "entidad": "infarto renal",
+    "relacion": "puede ser causado por",
+    "valor": "causas idiopáticas"
+  },
+  {
+    "entidad": "tomografía computada con contraste",
+    "relacion": "es el método de elección para",
+    "valor": "diagnosticar infarto renal"
+  },
+  {
+    "entidad": "angiografía renal",
+    "relacion": "ha sido desplazada por",
+    "valor": "tomografía computada con contraste"
+  },
+  {
+    "entidad": "tratamiento del infarto renal",
+    "relacion": "incluye",
+    "valor": "tratamiento de la enfermedad de base"
+  },
+  {
+    "entidad": "fibrilación auricular",
+    "relacion": "indica",
+    "valor": "anticoagulación"
+  },
+  {
+    "entidad": "infarto renal",
+    "relacion": "debe ser evaluado por",
+    "valor": "un protocolo diagnóstico"
+  },
+  {
+    "entidad": "LDH aumentada",
+    "relacion": "es un elemento de sospecha para",
+    "valor": "infarto renal"
+  },
+  {
+    "entidad": "infarto renal",
+    "relacion": "puede ser diagnosticado por",
+    "valor": "resonancia nuclear magnética"
+  },
+  {
+    "entidad": "infarto renal",
+    "relacion": "puede ser diagnosticado por",
+    "valor": "centellograma de perfusión renal"
+  },
+  {
+    "entidad": "subdiagnóstico",
+    "relacion": "es un problema en",
+    "valor": "diagnóstico de infarto renal"
+  },
+  {
+    "entidad": "infarto renal",
+    "relacion": "puede ser causado por",
+    "valor": "trauma"
+  },
+  {
+    "entidad": "infarto renal",
+    "relacion": "puede ser causado por",
+    "valor": "causas autoinmunes"
+  },
+  {
+    "entidad": "infarto renal",
+    "relacion": "puede ser causado por",
+    "valor": "causas misceláneas"
+  }
+]

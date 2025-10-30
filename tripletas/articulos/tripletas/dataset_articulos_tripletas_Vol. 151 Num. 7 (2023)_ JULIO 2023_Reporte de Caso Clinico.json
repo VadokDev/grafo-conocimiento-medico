@@ -1,0 +1,177 @@
+[
+  {
+    "entidad": "Cáncer medular de tiroides (CMT)",
+    "relacion": "es un",
+    "valor": "tipo de cáncer raro"
+  },
+  {
+    "entidad": "Células C parafoliculares",
+    "relacion": "son el origen de",
+    "valor": "Cáncer medular de tiroides (CMT)"
+  },
+  {
+    "entidad": "Calcitonina",
+    "relacion": "se sugiere como",
+    "valor": "método de detección"
+  },
+  {
+    "entidad": "Niveles de calcitonina",
+    "relacion": "son proporcionales a",
+    "valor": "tamaño del tumor"
+  },
+  {
+    "entidad": "Niveles de calcitonina",
+    "relacion": "son predictivos de",
+    "valor": "enfermedad metastásica"
+  },
+  {
+    "entidad": "Paciente masculino",
+    "relacion": "tiene",
+    "valor": "49 años"
+  },
+  {
+    "entidad": "Ecografía tiroidea",
+    "relacion": "muestra",
+    "valor": "nódulo sospechoso"
+  },
+  {
+    "entidad": "Biopsia por aspiración con aguja fina (PAAF)",
+    "relacion": "sugiere",
+    "valor": "Cáncer medular de tiroides (CMT)"
+  },
+  {
+    "entidad": "Tiroidectomía total",
+    "relacion": "fue realizada en",
+    "valor": "el paciente"
+  },
+  {
+    "entidad": "Biopsia",
+    "relacion": "confirma",
+    "valor": "Cáncer medular de tiroides (CMT)"
+  },
+  {
+    "entidad": "Niveles de calcitonina (CTN)",
+    "relacion": "fueron indetectables durante",
+    "valor": "seis años"
+  },
+  {
+    "entidad": "TC",
+    "relacion": "muestra",
+    "valor": "lesiones hepáticas hipervasculares"
+  },
+  {
+    "entidad": "PET Ga68-DOTATATE",
+    "relacion": "muestra",
+    "valor": "lesiones con sobreexpresión de receptores de somatostatina"
+  },
+  {
+    "entidad": "Cirugía",
+    "relacion": "fue realizada para",
+    "valor": "extirpar lesiones"
+  },
+  {
+    "entidad": "Biopsia",
+    "relacion": "confirma",
+    "valor": "metástasis de Cáncer medular de tiroides (CMT)"
+  },
+  {
+    "entidad": "Guías clínicas",
+    "relacion": "pueden ayudar en",
+    "valor": "el manejo de casos"
+  },
+  {
+    "entidad": "Niveles de calcitonina y CEA",
+    "relacion": "son medidos para",
+    "valor": "seguimiento postoperatorio"
+  },
+  {
+    "entidad": "American Thyroid Association (ATA)",
+    "relacion": "recomienda",
+    "valor": "medición de niveles de calcitonina tres meses después de la operación"
+  },
+  {
+    "entidad": "Niveles de calcitonina",
+    "relacion": "pueden indicar",
+    "valor": "enfermedad residual"
+  },
+  {
+    "entidad": "Tiempo de duplicación de CTN",
+    "relacion": "es un",
+    "valor": "factor pronóstico"
+  },
+  {
+    "entidad": "Cáncer medular de tiroides (CMT)",
+    "relacion": "puede tener",
+    "valor": "niveles bajos o indetectables de calcitonina"
+  },
+  {
+    "entidad": "Lawsonella clevelandensis",
+    "relacion": "es un",
+    "valor": "bacilo gram positivo anaerobio"
+  },
+  {
+    "entidad": "Lawsonella clevelandensis",
+    "relacion": "pertenece a",
+    "valor": "orden Corynebacteriales"
+  },
+  {
+    "entidad": "Lawsonella clevelandensis",
+    "relacion": "es considerado",
+    "valor": "comensal de la piel y la cavidad bucal"
+  },
+  {
+    "entidad": "infección por Lawsonella clevelandensis",
+    "relacion": "ocurre en",
+    "valor": "pacientes inmunosuprimidos"
+  },
+  {
+    "entidad": "infección por Lawsonella clevelandensis",
+    "relacion": "presenta",
+    "valor": "generación de abscesos"
+  },
+  {
+    "entidad": "aislamiento de Lawsonella clevelandensis",
+    "relacion": "es difícil porque",
+    "valor": "no crece en cultivos tradicionales"
+  },
+  {
+    "entidad": "identificación de Lawsonella clevelandensis",
+    "relacion": "requiere",
+    "valor": "uso de biología molecular"
+  },
+  {
+    "entidad": "paciente de 29 años",
+    "relacion": "tiene",
+    "valor": "trasplante renal"
+  },
+  {
+    "entidad": "paciente de 29 años",
+    "relacion": "presenta",
+    "valor": "empeoramiento progresivo de la función renal"
+  },
+  {
+    "entidad": "paciente de 29 años",
+    "relacion": "fue diagnosticada con",
+    "valor": "vasculitis pauciinmune"
+  },
+  {
+    "entidad": "leucocituria asintomática",
+    "relacion": "fue identificada durante",
+    "valor": "la investigación"
+  },
+  {
+    "entidad": "terapia con amoxicilina-clavulanic acid",
+    "relacion": "fue indicada tras",
+    "valor": "la identificación de Lawsonella clevelandensis"
+  },
+  {
+    "entidad": "infección por Lawsonella clevelandensis",
+    "relacion": "es el",
+    "valor": "primer caso reportado en Latinoamérica"
+  },
+  {
+    "entidad": "técnicas moleculares y secuenciación de genes",
+    "relacion": "son necesarias para",
+    "valor": "diagnóstico de microorganismos fastidiosos"
+  }
+]

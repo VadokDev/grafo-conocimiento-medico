@@ -1,0 +1,432 @@
+[
+  {
+    "entidad": "Cáncer de mama",
+    "relacion": "es",
+    "valor": "una enfermedad poco común en hombres"
+  },
+  {
+    "entidad": "Cáncer de mama",
+    "relacion": "representa",
+    "valor": "alrededor del 1% de todos los cánceres en varones"
+  },
+  {
+    "entidad": "Universidad de Valparaíso",
+    "relacion": "realiza",
+    "valor": "estudio descriptivo sobre cáncer de mama en hombres"
+  },
+  {
+    "entidad": "Hospital San Camilo",
+    "relacion": "diagnostica",
+    "valor": "cáncer de mama en hombres"
+  },
+  {
+    "entidad": "Cáncer de mama en hombres",
+    "relacion": "se diagnostica",
+    "valor": "generalmente en etapas avanzadas"
+  },
+  {
+    "entidad": "Cáncer de mama en hombres",
+    "relacion": "tiene",
+    "valor": "baja conciencia en la población masculina"
+  },
+  {
+    "entidad": "Edad promedio de hombres sobrevivientes",
+    "relacion": "es mayor que",
+    "valor": "la de hombres fallecidos"
+  },
+  {
+    "entidad": "Factores clínicos e histopatológicos",
+    "relacion": "no están asociados con",
+    "valor": "la supervivencia de los pacientes"
+  },
+  {
+    "entidad": "Cáncer de mama masculino",
+    "relacion": "es",
+    "valor": "de baja incidencia"
+  },
+  {
+    "entidad": "Cáncer de mama masculino",
+    "relacion": "puede ser causado por",
+    "valor": "antecedentes familiares"
+  },
+  {
+    "entidad": "Mutaciones BRCA1",
+    "relacion": "se encuentran en",
+    "valor": "entre el 0 y el 4% de hombres con cáncer de mama"
+  },
+  {
+    "entidad": "Mutaciones BRCA2",
+    "relacion": "se encuentran en",
+    "valor": "entre el 4 y el 16% de hombres con cáncer de mama"
+  },
+  {
+    "entidad": "Cáncer de mama en hombres",
+    "relacion": "es tratado con",
+    "valor": "mastectomía con disección axilar"
+  },
+  {
+    "entidad": "Radioterapia adyuvante",
+    "relacion": "es más frecuente en",
+    "valor": "hombres con cáncer de mama"
+  },
+  {
+    "entidad": "Tamoxifeno",
+    "relacion": "es",
+    "valor": "la terapia estándar para cáncer de mama masculino"
+  },
+  {
+    "entidad": "Cáncer de mama masculino",
+    "relacion": "requiere",
+    "valor": "mayor concienciación y educación"
+  },
+  {
+    "entidad": "Estudios futuros",
+    "relacion": "son necesarios para",
+    "valor": "comprender mejor los factores de supervivencia en hombres"
+  },
+  {
+    "entidad": "Micobacterias no tuberculosas (MNT)",
+    "relacion": "son",
+    "valor": "infecciones oportunistas en pacientes con SIDA"
+  },
+  {
+    "entidad": "pacientes con SIDA",
+    "relacion": "presentan",
+    "valor": "infecciones diseminadas por MNT"
+  },
+  {
+    "entidad": "síntomas",
+    "relacion": "incluyen",
+    "valor": "fiebre, pérdida de peso, diarrea, tos"
+  },
+  {
+    "entidad": "diagnóstico",
+    "relacion": "se establece por",
+    "valor": "cultivo en médula ósea, esputo o lavado bronquioalveolar"
+  },
+  {
+    "entidad": "Mycobacterium avium",
+    "relacion": "fue identificado en",
+    "valor": "3 casos"
+  },
+  {
+    "entidad": "M. genavense",
+    "relacion": "fue identificado en",
+    "valor": "1 caso"
+  },
+  {
+    "entidad": "tratamiento",
+    "relacion": "incluye",
+    "valor": "combinaciones de etambutol, macrólidos, quinolonas, amikacina o rifampicina"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "requieren",
+    "valor": "ajustes en la terapia antirretroviral (TARV)"
+  },
+  {
+    "entidad": "complicaciones",
+    "relacion": "incluyen",
+    "valor": "desnutrición severa, falla renal, trastornos del metabolismo del calcio y fósforo"
+  },
+  {
+    "entidad": "infecciones por MNT",
+    "relacion": "generan",
+    "valor": "morbilidad prolongada"
+  },
+  {
+    "entidad": "diagnóstico de infecciones por MNT",
+    "relacion": "es complejo debido a",
+    "valor": "la ausencia de hemocultivos especiales"
+  },
+  {
+    "entidad": "histopatología",
+    "relacion": "apoya",
+    "valor": "el diagnóstico de infecciones por MNT"
+  },
+  {
+    "entidad": "proliferación de la epidemia de VIH",
+    "relacion": "es un",
+    "valor": "problema en Chile"
+  },
+  {
+    "entidad": "profilaxis para MNT",
+    "relacion": "se aplica a",
+    "valor": "pacientes con recuentos de CD4 bajos"
+  },
+  {
+    "entidad": "diabetes mellitus tipo 2",
+    "relacion": "es",
+    "valor": "una enfermedad crónica"
+  },
+  {
+    "entidad": "literacidad en salud",
+    "relacion": "afecta a",
+    "valor": "el automanejo de la diabetes"
+  },
+  {
+    "entidad": "intervención para aumentar literacidad en salud",
+    "relacion": "mejora",
+    "valor": "la compensación metabólica"
+  },
+  {
+    "entidad": "programa de intervención",
+    "relacion": "se implementa en",
+    "valor": "Centros de Salud Familiar (CESFAM)"
+  },
+  {
+    "entidad": "CESFAM",
+    "relacion": "se ubica en",
+    "valor": "Santiago, Chile"
+  },
+  {
+    "entidad": "grupo intervenido (GI)",
+    "relacion": "recibe",
+    "valor": "consejerías presenciales y telefónicas"
+  },
+  {
+    "entidad": "grupo control (GC)",
+    "relacion": "recibe",
+    "valor": "atención habitual"
+  },
+  {
+    "entidad": "HbA1c",
+    "relacion": "se mide en",
+    "valor": "la evaluación del control metabólico"
+  },
+  {
+    "entidad": "autoeficacia",
+    "relacion": "se evalúa en",
+    "valor": "personas con diabetes mellitus tipo 2"
+  },
+  {
+    "entidad": "intervención adaptada",
+    "relacion": "genera",
+    "valor": "diferencias en HbA1c"
+  },
+  {
+    "entidad": "asistencia a talleres",
+    "relacion": "se asocia con",
+    "valor": "mejoras en literacidad en salud"
+  },
+  {
+    "entidad": "bajo nivel de literacidad en salud",
+    "relacion": "dificulta",
+    "valor": "el acceso y uso de sistemas de salud"
+  },
+  {
+    "entidad": "autoeficacia",
+    "relacion": "permite",
+    "valor": "mejor manejo de la diabetes"
+  },
+  {
+    "entidad": "intervención de literacidad en salud",
+    "relacion": "es más efectiva que",
+    "valor": "la intervención habitual"
+  },
+  {
+    "entidad": "mujeres del grupo intervenido",
+    "relacion": "no presentan",
+    "valor": "cambios significativos en el tiempo"
+  },
+  {
+    "entidad": "hombres del grupo intervenido",
+    "relacion": "muestran",
+    "valor": "disminución en circunferencia de cintura"
+  },
+  {
+    "entidad": "intervención personalizada",
+    "relacion": "es más eficiente que",
+    "valor": "intervenciones individuales"
+  },
+  {
+    "entidad": "bajo nivel de literacidad en salud",
+    "relacion": "condiciona",
+    "valor": "la posibilidad de mejora en el automanejo"
+  },
+  {
+    "entidad": "trasplante alogénico (ALOTH)",
+    "relacion": "es",
+    "valor": "opción curativa para enfermedades hematológicas"
+  },
+  {
+    "entidad": "donantes familiares idénticos (DFI)",
+    "relacion": "son",
+    "valor": "fuente principal de precursores hematopoyéticos"
+  },
+  {
+    "entidad": "donantes haploidénticos (DFH)",
+    "relacion": "son",
+    "valor": "fuente de precursores hematopoyéticos"
+  },
+  {
+    "entidad": "donantes no relacionados (DNR)",
+    "relacion": "son",
+    "valor": "opción para obtener precursores hematopoyéticos"
+  },
+  {
+    "entidad": "familias pequeñas",
+    "relacion": "afectan",
+    "valor": "posibilidades de encontrar donantes familiares"
+  },
+  {
+    "entidad": "anticuerpos antiHLA específicos",
+    "relacion": "afectan",
+    "valor": "posibilidades de encontrar donantes familiares"
+  },
+  {
+    "entidad": "enfermedad de injerto vs huésped grave",
+    "relacion": "se observa en",
+    "valor": "grupo DFH"
+  },
+  {
+    "entidad": "ciclofosfamida post trasplante",
+    "relacion": "se utiliza para",
+    "valor": "prevención de enfermedad de injerto vs huésped"
+  },
+  {
+    "entidad": "programa de trasplante hematopoyético del Adulto",
+    "relacion": "pertenece a",
+    "valor": "Pontificia Universidad Católica de Chile"
+  },
+  {
+    "entidad": "Santiago, Chile",
+    "relacion": "es",
+    "valor": "ubicación del hospital universitario"
+  },
+  {
+    "entidad": "mortalidad del trasplante haploidéntico",
+    "relacion": "ha disminuido con",
+    "valor": "desarrollo de ciclofosfamida post trasplante"
+  },
+  {
+    "entidad": "edad del donante",
+    "relacion": "es",
+    "valor": "factor relevante en la elección del donante"
+  },
+  {
+    "entidad": "donante no relacionado",
+    "relacion": "debe ser",
+    "valor": "primera elección si está disponible"
+  },
+  {
+    "entidad": "estudio retrospectivo",
+    "relacion": "muestra",
+    "valor": "resultados de trasplante en Chile"
+  },
+  {
+    "entidad": "donantes familiares",
+    "relacion": "son",
+    "valor": "fuente de precursores de fácil acceso"
+  },
+  {
+    "entidad": "costo de procuramiento",
+    "relacion": "es",
+    "valor": "reducido para donantes familiares"
+  },
+  {
+    "entidad": "trasplantes de donantes no relacionados",
+    "relacion": "son",
+    "valor": "minoría en el programa"
+  },
+  {
+    "entidad": "enfermedades hematológicas benignas y malignas",
+    "relacion": "incluyen",
+    "valor": "leucemias agudas, mielodisplasias, anemia aplásica"
+  },
+  {
+    "entidad": "Leucemia mieloide aguda",
+    "relacion": "es",
+    "valor": "la leucemia más frecuente en adultos"
+  },
+  {
+    "entidad": "Leucemia mieloide aguda",
+    "relacion": "tiene",
+    "valor": "alta mortalidad"
+  },
+  {
+    "entidad": "pacientes mayores de 60 años",
+    "relacion": "reciben",
+    "valor": "terapias de alta intensidad con baja frecuencia"
+  },
+  {
+    "entidad": "Hospital Sótero del Río",
+    "relacion": "realiza",
+    "valor": "estudio retrospectivo de pacientes con LMA"
+  },
+  {
+    "entidad": "quimioterapia con intención curativa",
+    "relacion": "mejora",
+    "valor": "sobrevida en pacientes con LMA"
+  },
+  {
+    "entidad": "sobrevida global",
+    "relacion": "fue",
+    "valor": "19% a 3 años"
+  },
+  {
+    "entidad": "pacientes mayores de 60 años",
+    "relacion": "fueron",
+    "valor": "65 de 120 pacientes"
+  },
+  {
+    "entidad": "quimioterapia con intención curativa",
+    "relacion": "resulta en",
+    "valor": "35% de sobrevida a 3 años"
+  },
+  {
+    "entidad": "pacientes mayores de 60 años",
+    "relacion": "recibieron",
+    "valor": "quimioterapia con intención curativa"
+  },
+  {
+    "entidad": "quimioterapia con intención curativa",
+    "relacion": "resulta en",
+    "valor": "20% de sobrevida a 3 años"
+  },
+  {
+    "entidad": "grupo de soporte paliativo",
+    "relacion": "tiene",
+    "valor": "5.2% de sobrevida a 1 año"
+  },
+  {
+    "entidad": "leucemia mieloide aguda no promielocítica",
+    "relacion": "es",
+    "valor": "un tipo de leucemia"
+  },
+  {
+    "entidad": "pacientes mayores de 60 años",
+    "relacion": "no están",
+    "valor": "incorporados en el programa nacional de trasplante"
+  },
+  {
+    "entidad": "SEER",
+    "relacion": "reporta",
+    "valor": "diferencia significativa en sobrevida entre pacientes tratados y no tratados"
+  },
+  {
+    "entidad": "sobrevida libre de recaída",
+    "relacion": "fue",
+    "valor": "30% a 3 años"
+  },
+  {
+    "entidad": "remisión completa",
+    "relacion": "es",
+    "valor": "el principal factor pronóstico en LMA"
+  },
+  {
+    "entidad": "muerte durante la inducción",
+    "relacion": "fue",
+    "valor": "16.6%"
+  },
+  {
+    "entidad": "quimioterapia de alta intensidad",
+    "relacion": "tiene",
+    "valor": "mortalidad reportada alrededor del 20%"
+  },
+  {
+    "entidad": "pacientes mayores de 60 años",
+    "relacion": "tienen",
+    "valor": "alta carga de comorbilidades"
+  }
+]

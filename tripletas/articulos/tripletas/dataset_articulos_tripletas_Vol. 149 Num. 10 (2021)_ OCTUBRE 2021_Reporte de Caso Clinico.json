@@ -1,0 +1,157 @@
+[
+  {
+    "entidad": "pirfenidona",
+    "relacion": "causa",
+    "valor": "reacciones adversas"
+  },
+  {
+    "entidad": "reacciones adversas",
+    "relacion": "afectan a",
+    "valor": "hasta 85% de los pacientes"
+  },
+  {
+    "entidad": "fibrosis pulmonar idiopática",
+    "relacion": "es un",
+    "valor": "enfermedad crónica"
+  },
+  {
+    "entidad": "pirfenidona",
+    "relacion": "reduce",
+    "valor": "progresión de la enfermedad en 30%"
+  },
+  {
+    "entidad": "reacciones adversas a medicamentos",
+    "relacion": "se definen como",
+    "valor": "efecto perjudicial y no intencionado"
+  },
+  {
+    "entidad": "tipo A",
+    "relacion": "es",
+    "valor": "reacciones dosis dependientes"
+  },
+  {
+    "entidad": "tipo B",
+    "relacion": "es",
+    "valor": "reacciones no dependientes de la dosis"
+  },
+  {
+    "entidad": "desensibilización a fármacos",
+    "relacion": "tiene como objetivo",
+    "valor": "aumentar expectativa o calidad de vida"
+  },
+  {
+    "entidad": "Dra. Carla Bastías",
+    "relacion": "es un",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "Dra. Mariana Castells",
+    "relacion": "colabora con",
+    "valor": "el protocolo de desensibilización"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "reacción de hipersensibilidad inmediata a pirfenidona"
+  },
+  {
+    "entidad": "protocolo de desensibilización",
+    "relacion": "consiste en",
+    "valor": "aumento progresivo de dosis"
+  },
+  {
+    "entidad": "cetirizina",
+    "relacion": "se utiliza como",
+    "valor": "premedicación"
+  },
+  {
+    "entidad": "ranitidina",
+    "relacion": "se utiliza como",
+    "valor": "premedicación"
+  },
+  {
+    "entidad": "montelukast",
+    "relacion": "se utiliza como",
+    "valor": "premedicación"
+  },
+  {
+    "entidad": "evaluación inmunológica",
+    "relacion": "diagnostica",
+    "valor": "reacción de hipersensibilidad"
+  },
+  {
+    "entidad": "reacciones cutáneas adversas",
+    "relacion": "deben ser evaluadas por",
+    "valor": "profesionales médicos entrenados en inmunología"
+  },
+  {
+    "entidad": "test de provocación",
+    "relacion": "es el",
+    "valor": "gold estándar en diagnóstico de alergia a fármacos"
+  },
+  {
+    "entidad": "Nivolumab",
+    "relacion": "utiliza",
+    "valor": "tratamiento en recaída postrasplante alogénico de progenitores hematopoyéticos"
+  },
+  {
+    "entidad": "Enfermedad de Hodgkin",
+    "relacion": "es un",
+    "valor": "tipo de linfoma"
+  },
+  {
+    "entidad": "trasplante alogénico de progenitores hematopoyéticos",
+    "relacion": "ofrece",
+    "valor": "una oportunidad de cura en pacientes refractarios"
+  },
+  {
+    "entidad": "Nivolumab",
+    "relacion": "es un",
+    "valor": "inhibidor de punto de control"
+  },
+  {
+    "entidad": "pacientes con recaídas postrasplante",
+    "relacion": "tienen",
+    "valor": "un pronóstico muy ominoso"
+  },
+  {
+    "entidad": "Nivolumab",
+    "relacion": "puede mejorar",
+    "valor": "resultados terapéuticos en enfermedad de Hodgkin refractaria"
+  },
+  {
+    "entidad": "brentuximab vedotin",
+    "relacion": "es un",
+    "valor": "tratamiento alternativo para enfermedad de Hodgkin"
+  },
+  {
+    "entidad": "trasplante autólogo de progenitores hematopoyéticos",
+    "relacion": "es un",
+    "valor": "tratamiento estándar para recaídas"
+  },
+  {
+    "entidad": "efectos adversos",
+    "relacion": "son preocupantes en",
+    "valor": "inhibidores de punto de control"
+  },
+  {
+    "entidad": "pacientes refractarios",
+    "relacion": "pueden ser tratados con",
+    "valor": "inhibidores de punto de control"
+  },
+  {
+    "entidad": "Universidad Finis Terrae",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "Clínica Santa María",
+    "relacion": "es un",
+    "valor": "centro de tratamiento"
+  },
+  {
+    "entidad": "Cristián Carvallo",
+    "relacion": "es",
+    "valor": "el autor principal del estudio"
+  }
+]

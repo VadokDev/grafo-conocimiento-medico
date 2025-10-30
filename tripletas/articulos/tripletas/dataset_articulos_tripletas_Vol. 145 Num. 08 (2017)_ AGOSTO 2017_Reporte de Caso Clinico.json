@@ -1,0 +1,352 @@
+[
+  {
+    "entidad": "metformina",
+    "relacion": "causa",
+    "valor": "acidosis láctica"
+  },
+  {
+    "entidad": "acidosis láctica",
+    "relacion": "asociada a",
+    "valor": "metformina"
+  },
+  {
+    "entidad": "metformina",
+    "relacion": "es un",
+    "valor": "agente hipoglicemiante"
+  },
+  {
+    "entidad": "diabetes mellitus tipo 2",
+    "relacion": "es tratada con",
+    "valor": "metformina"
+  },
+  {
+    "entidad": "acidosis láctica",
+    "relacion": "tiene una alta mortalidad",
+    "valor": "50-80%"
+  },
+  {
+    "entidad": "bicarbonato",
+    "relacion": "es un tratamiento para",
+    "valor": "acidosis láctica"
+  },
+  {
+    "entidad": "hemofiltración continua de alto volumen",
+    "relacion": "es un tratamiento para",
+    "valor": "acidosis láctica"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "deterioro del nivel de conciencia"
+  },
+  {
+    "entidad": "E. coli enteropatógena",
+    "relacion": "es un patógeno asociado a",
+    "valor": "diarrea infecciosa"
+  },
+  {
+    "entidad": "insuficiencia renal",
+    "relacion": "aumenta el riesgo de",
+    "valor": "acidosis láctica por metformina"
+  },
+  {
+    "entidad": "acidosis láctica tipo B",
+    "relacion": "es un tipo de",
+    "valor": "acidosis láctica"
+  },
+  {
+    "entidad": "sintomas de acidosis láctica",
+    "relacion": "incluyen",
+    "valor": "anorexia, náuseas, vómitos, dolor abdominal, letargia, hiperventilación, hipotensión"
+  },
+  {
+    "entidad": "metformina",
+    "relacion": "se excreta principalmente por",
+    "valor": "riñones"
+  },
+  {
+    "entidad": "diálisis",
+    "relacion": "es un tratamiento para",
+    "valor": "remoción de metformina"
+  },
+  {
+    "entidad": "diabetes tipo 2",
+    "relacion": "tiene alta prevalencia en",
+    "valor": "Chile"
+  },
+  {
+    "entidad": "Saprochaete capitata",
+    "relacion": "causa",
+    "valor": "infección invasora"
+  },
+  {
+    "entidad": "Saprochaete capitata",
+    "relacion": "se observa en",
+    "valor": "pacientes con hematológicas malignancias"
+  },
+  {
+    "entidad": "leucemia mieloide aguda",
+    "relacion": "asociada a",
+    "valor": "infección por Saprochaete capitata"
+  },
+  {
+    "entidad": "neutropenia",
+    "relacion": "asociada a",
+    "valor": "infección por Saprochaete capitata"
+  },
+  {
+    "entidad": "infección diseminada por Saprochaete capitata",
+    "relacion": "constituye",
+    "valor": "cuadro de elevada morbimortalidad"
+  },
+  {
+    "entidad": "videotoracoscopia",
+    "relacion": "utilizada en",
+    "valor": "limpieza de la pleura"
+  },
+  {
+    "entidad": "esplenectomía",
+    "relacion": "realizada para",
+    "valor": "limpieza del foco infeccioso"
+  },
+  {
+    "entidad": "anfotericina B liposomal",
+    "relacion": "utilizada en",
+    "valor": "tratamiento de la infección"
+  },
+  {
+    "entidad": "voriconazol",
+    "relacion": "utilizado en",
+    "valor": "tratamiento de la infección"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "fiebre refractaria a tratamiento antibiótico"
+  },
+  {
+    "entidad": "Saprochaete capitata",
+    "relacion": "identificada por",
+    "valor": "MALDI TOF MS"
+  },
+  {
+    "entidad": "infección por Saprochaete capitata",
+    "relacion": "requiere",
+    "valor": "manejo multidisciplinario"
+  },
+  {
+    "entidad": "Saprochaete capitata",
+    "relacion": "puede causar",
+    "valor": "infecciones sistémicas graves"
+  },
+  {
+    "entidad": "infección diseminada por Saprochaete capitata",
+    "relacion": "presenta",
+    "valor": "compromiso pulmonar"
+  },
+  {
+    "entidad": "Saprochaete capitata",
+    "relacion": "reportada desde",
+    "valor": "década de 1960"
+  },
+  {
+    "entidad": "infección por Saprochaete capitata",
+    "relacion": "puede ser tratada con",
+    "valor": "anfotericina B y voriconazol"
+  },
+  {
+    "entidad": "Colitis Ulcerosa grave",
+    "relacion": "es un",
+    "valor": "emergencia médica"
+  },
+  {
+    "entidad": "corticosteroides",
+    "relacion": "son",
+    "valor": "principal estrategia de tratamiento"
+  },
+  {
+    "entidad": "Infliximab",
+    "relacion": "se utiliza como",
+    "valor": "terapia de rescate"
+  },
+  {
+    "entidad": "Infliximab",
+    "relacion": "se recomienda en",
+    "valor": "casos de colitis ulcerosa severa refractaria a corticosteroides"
+  },
+  {
+    "entidad": "terapia de inducción acelerada",
+    "relacion": "aumenta",
+    "valor": "niveles de concentración sérica de infliximab"
+  },
+  {
+    "entidad": "terapia de inducción acelerada",
+    "relacion": "disminuye",
+    "valor": "tasas de colectomía temprana"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "colitis ulcerosa severa"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "fue tratada inicialmente con",
+    "valor": "hidrocortisona y mesalazina"
+  },
+  {
+    "entidad": "infliximab",
+    "relacion": "se administró en",
+    "valor": "dosis de 10 mg/kg"
+  },
+  {
+    "entidad": "respuesta clínica",
+    "relacion": "fue",
+    "valor": "favorable tras la segunda dosis de infliximab"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "se mantiene en",
+    "valor": "remisión clínica tras un año"
+  },
+  {
+    "entidad": "factor de necrosis tumoral (TNF-α)",
+    "relacion": "se asocia con",
+    "valor": "mayor actividad inflamatoria"
+  },
+  {
+    "entidad": "niveles de infliximab",
+    "relacion": "se miden para",
+    "valor": "optimizar la terapia"
+  },
+  {
+    "entidad": "calprotectina fecal",
+    "relacion": "predice",
+    "valor": "el curso clínico de la colitis ulcerosa"
+  },
+  {
+    "entidad": "esquema de inducción acelerada",
+    "relacion": "podría disminuir",
+    "valor": "riesgo de colectomía precoz"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "logró evitar",
+    "valor": "colectomía precoz"
+  },
+  {
+    "entidad": "remisión endoscópica",
+    "relacion": "se observa en",
+    "valor": "colonoscopía tras tratamiento"
+  },
+  {
+    "entidad": "niveles de PCR",
+    "relacion": "se normalizan en",
+    "valor": "paciente tras tratamiento"
+  },
+  {
+    "entidad": "esquema de inducción acelerada",
+    "relacion": "es considerado en",
+    "valor": "pacientes con colitis ulcerosa grave refractaria"
+  },
+  {
+    "entidad": "Tumor Phyllodes",
+    "relacion": "representa",
+    "valor": "menos del 1% de los tumores mamarios"
+  },
+  {
+    "entidad": "Tumor Phyllodes",
+    "relacion": "se clasifica como",
+    "valor": "benigno, borderline y maligno"
+  },
+  {
+    "entidad": "Tumor Phyllodes maligno",
+    "relacion": "puede diferenciarse a",
+    "valor": "liposarcomas, fibrosarcomas, rabdomiosarcomas, condrosarcomas u osteosarcomas"
+  },
+  {
+    "entidad": "diferenciación a osteosarcoma",
+    "relacion": "es",
+    "valor": "extremadamente rara"
+  },
+  {
+    "entidad": "diferenciación a osteosarcoma",
+    "relacion": "constituye",
+    "valor": "1.3% de los casos"
+  },
+  {
+    "entidad": "Tumor Phyllodes maligno",
+    "relacion": "es",
+    "valor": "altamente agresivo"
+  },
+  {
+    "entidad": "Tratamiento estándar",
+    "relacion": "es",
+    "valor": "quirúrgico"
+  },
+  {
+    "entidad": "radioterapia y quimioterapia",
+    "relacion": "no está claro su papel en",
+    "valor": "el tratamiento de Tumor Phyllodes"
+  },
+  {
+    "entidad": "pacientes con márgenes quirúrgicos no amplios",
+    "relacion": "pueden recibir",
+    "valor": "radioterapia adyuvante"
+  },
+  {
+    "entidad": "paciente de 63 años",
+    "relacion": "presenta",
+    "valor": "osteosarcoma de mama derecha con componente osteoclástico"
+  },
+  {
+    "entidad": "osteosarcoma",
+    "relacion": "se origina en",
+    "valor": "tumor Phyllodes"
+  },
+  {
+    "entidad": "escisión local amplia",
+    "relacion": "resulta en",
+    "valor": "osteosarcoma de células gigantes con componente osteoclástico"
+  },
+  {
+    "entidad": "Tumor Phyllodes con transformación osteosarcomatosa",
+    "relacion": "es",
+    "valor": "extremadamente raro"
+  },
+  {
+    "entidad": "tamaño tumoral y componente osteosarcomatoso",
+    "relacion": "son",
+    "valor": "factores pronósticos importantes"
+  },
+  {
+    "entidad": "quimioterapia adyuvante",
+    "relacion": "se ha utilizado en",
+    "valor": "recurrencias"
+  },
+  {
+    "entidad": "metástasis",
+    "relacion": "pueden ocurrir en",
+    "valor": "pulmón, hígado y hueso"
+  },
+  {
+    "entidad": "Tumor Phyllodes",
+    "relacion": "puede dar",
+    "valor": "metástasis a distancia"
+  },
+  {
+    "entidad": "Tumor Phyllodes",
+    "relacion": "tiene",
+    "valor": "alto riesgo de recurrencia"
+  },
+  {
+    "entidad": "quimioterapia",
+    "relacion": "se utiliza en",
+    "valor": "pacientes con metástasis o recurrencia"
+  },
+  {
+    "entidad": "esquemas de quimioterapia",
+    "relacion": "incluyen",
+    "valor": "ifosfamida más antraciclinas o platino más antraciclinas"
+  }
+]

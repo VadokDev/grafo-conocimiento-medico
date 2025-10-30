@@ -1,0 +1,677 @@
+[
+  {
+    "entidad": "Salmonella enterica subsp. enterica serovar Heidelberg",
+    "relacion": "causa",
+    "valor": "gastroenteritis"
+  },
+  {
+    "entidad": "Salmonella enterica subsp. enterica serovar Heidelberg",
+    "relacion": "asociado con",
+    "valor": "bacteremia y endocarditis"
+  },
+  {
+    "entidad": "Salmonella Heidelberg",
+    "relacion": "muestra",
+    "valor": "multidrug resistance"
+  },
+  {
+    "entidad": "blaCMY-2",
+    "relacion": "asociado con",
+    "valor": "AmpC β-lactamases"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "ocurrió un brote de",
+    "valor": "Salmonella Heidelberg en 2011"
+  },
+  {
+    "entidad": "cepas clínicas y ambientales de Salmonella Heidelberg",
+    "relacion": "aisladas en",
+    "valor": "Chile durante 2006-2011"
+  },
+  {
+    "entidad": "Instituto de Salud Pública de Chile",
+    "relacion": "colectó",
+    "valor": "cepas de Salmonella Heidelberg"
+  },
+  {
+    "entidad": "cepas de Salmonella Heidelberg",
+    "relacion": "mostraron",
+    "valor": "alta susceptibilidad a sulfametoxazol-trimetoprim"
+  },
+  {
+    "entidad": "cepas de Salmonella Heidelberg",
+    "relacion": "mostraron",
+    "valor": "resistencia a tetraciclina"
+  },
+  {
+    "entidad": "cepas de Salmonella Heidelberg",
+    "relacion": "detectadas con",
+    "valor": "ESBLs"
+  },
+  {
+    "entidad": "cepa SH06",
+    "relacion": "fue positiva para",
+    "valor": "AmpC y blaCMY-2"
+  },
+  {
+    "entidad": "plásmidos en cepas de Salmonella Heidelberg",
+    "relacion": "varían en",
+    "valor": "tamaño y número"
+  },
+  {
+    "entidad": "genes de virulencia",
+    "relacion": "detectados en",
+    "valor": "cepas de Salmonella Heidelberg"
+  },
+  {
+    "entidad": "pefA",
+    "relacion": "no fue detectado en",
+    "valor": "ningún aislamiento"
+  },
+  {
+    "entidad": "cepas de Salmonella Heidelberg",
+    "relacion": "son homogéneas en",
+    "valor": "genes de virulencia"
+  },
+  {
+    "entidad": "cepas de Salmonella Heidelberg",
+    "relacion": "son heterogéneas en",
+    "valor": "plásmidos"
+  },
+  {
+    "entidad": "resistencia bacteriana",
+    "relacion": "se atribuye a",
+    "valor": "uso y abuso de antimicrobianos"
+  },
+  {
+    "entidad": "S. Heidelberg",
+    "relacion": "presenta",
+    "valor": "alta susceptibilidad a antimicrobianos de primera línea"
+  },
+  {
+    "entidad": "clones de S. Heidelberg",
+    "relacion": "circulan en",
+    "valor": "el ambiente"
+  },
+  {
+    "entidad": "plásmidos de Salmonella Heidelberg",
+    "relacion": "pueden utilizarse junto a",
+    "valor": "otras herramientas de subtipificación bacteriana"
+  },
+  {
+    "entidad": "insuficiencia venosa pelviana",
+    "relacion": "causa",
+    "valor": "síndrome de congestión pélvica"
+  },
+  {
+    "entidad": "síndrome de congestión pélvica",
+    "relacion": "se caracteriza por",
+    "valor": "dolor pélvico crónico"
+  },
+  {
+    "entidad": "dolor pélvico crónico",
+    "relacion": "exacerbado por",
+    "valor": "prolongada de pie"
+  },
+  {
+    "entidad": "dolor pélvico crónico",
+    "relacion": "exacerbado por",
+    "valor": "actividad sexual"
+  },
+  {
+    "entidad": "dolor pélvico crónico",
+    "relacion": "exacerbado por",
+    "valor": "ciclo menstrual"
+  },
+  {
+    "entidad": "tratamiento endovascular",
+    "relacion": "consiste en",
+    "valor": "embolar venas pelvicas insuficientes"
+  },
+  {
+    "entidad": "embolia de venas insuficientes",
+    "relacion": "es un",
+    "valor": "tratamiento para el síndrome de congestión pélvica"
+  },
+  {
+    "entidad": "insuficiencia venosa pelviana",
+    "relacion": "puede causar",
+    "valor": "várices genitales"
+  },
+  {
+    "entidad": "várices genitales",
+    "relacion": "pueden manifestarse como",
+    "valor": "dolor pélvico crónico"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "realiza",
+    "valor": "tratamiento de insuficiencia venosa pelviana"
+  },
+  {
+    "entidad": "flebografía",
+    "relacion": "es el",
+    "valor": "gold standard para el diagnóstico"
+  },
+  {
+    "entidad": "embolia selectiva",
+    "relacion": "se realiza a través de",
+    "valor": "vena yugular interna"
+  },
+  {
+    "entidad": "embolia selectiva",
+    "relacion": "se realiza a través de",
+    "valor": "vena basílica"
+  },
+  {
+    "entidad": "embolia selectiva",
+    "relacion": "se realiza a través de",
+    "valor": "vena cefálica"
+  },
+  {
+    "entidad": "técnica de embolización",
+    "relacion": "tuvo éxito",
+    "valor": "100%"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "no presentaron",
+    "valor": "complicaciones postoperatorias"
+  },
+  {
+    "entidad": "síndrome de congestión pélvica",
+    "relacion": "es un diagnóstico",
+    "valor": "que debe diferenciarse de insuficiencia venosa superficial"
+  },
+  {
+    "entidad": "insuficiencia venosa pelviana",
+    "relacion": "es un",
+    "valor": "entidad diagnóstica"
+  },
+  {
+    "entidad": "embolia de venas ováricas",
+    "relacion": "es un procedimiento",
+    "valor": "mínimamente invasivo"
+  },
+  {
+    "entidad": "resección de várices vulvares",
+    "relacion": "se combina con",
+    "valor": "embolia de venas insuficientes"
+  },
+  {
+    "entidad": "Leucemia de células plasmáticas primaria",
+    "relacion": "es un",
+    "valor": "neoplasia infrecuente y agresiva"
+  },
+  {
+    "entidad": "Leucemia de células plasmáticas primaria",
+    "relacion": "difiere de",
+    "valor": "mieloma múltiple"
+  },
+  {
+    "entidad": "Hospital del Salvador",
+    "relacion": "realiza",
+    "valor": "diagnóstico y tratamiento de LCPp"
+  },
+  {
+    "entidad": "International Myeloma Working Group",
+    "relacion": "define",
+    "valor": "LCP como presencia de plasmocitos en sangre periférica"
+  },
+  {
+    "entidad": "LCP primaria",
+    "relacion": "representa",
+    "valor": "60-70% de los casos de LCP"
+  },
+  {
+    "entidad": "LCP primaria",
+    "relacion": "se presenta",
+    "valor": "de novo en fase leucémica"
+  },
+  {
+    "entidad": "LCP primaria",
+    "relacion": "tiene",
+    "valor": "evolución fulminante"
+  },
+  {
+    "entidad": "Hospital del Salvador",
+    "relacion": "extrae datos de",
+    "valor": "Sección de Hematología y Laboratorio de Hematología Especializada"
+  },
+  {
+    "entidad": "VTD PACE",
+    "relacion": "es un",
+    "valor": "esquema de tratamiento utilizado"
+  },
+  {
+    "entidad": "CD56",
+    "relacion": "es negativo en",
+    "valor": "todos los pacientes"
+  },
+  {
+    "entidad": "CD20",
+    "relacion": "es positivo en",
+    "valor": "uno de los pacientes"
+  },
+  {
+    "entidad": "TP53",
+    "relacion": "es positivo en",
+    "valor": "uno de los casos estudiados"
+  },
+  {
+    "entidad": "t(11;14)",
+    "relacion": "es positivo en",
+    "valor": "uno de los casos estudiados"
+  },
+  {
+    "entidad": "bortezomib",
+    "relacion": "es la droga mayormente usada para",
+    "valor": "LCPp"
+  },
+  {
+    "entidad": "trasplante de progenitores hematopoyéticos",
+    "relacion": "no se realiza en",
+    "valor": "pacientes con LCPp"
+  },
+  {
+    "entidad": "sobrevida media",
+    "relacion": "es",
+    "valor": "14 meses"
+  },
+  {
+    "entidad": "LCPp",
+    "relacion": "presenta",
+    "valor": "alta incidencia de falla renal e hipercalcemia"
+  },
+  {
+    "entidad": "LCPp",
+    "relacion": "se asocia a",
+    "valor": "recaídas tempranas"
+  },
+  {
+    "entidad": "esquema VTD PACE",
+    "relacion": "es usado en",
+    "valor": "mieloma múltiple de alto riesgo"
+  },
+  {
+    "entidad": "LCPp",
+    "relacion": "es una patología",
+    "valor": "con características biológicas particulares"
+  },
+  {
+    "entidad": "PHQ-9",
+    "relacion": "evalúa",
+    "valor": "síntomas depresivos"
+  },
+  {
+    "entidad": "PHQ-9",
+    "relacion": "tiene propiedades",
+    "valor": "psicométricas adecuadas"
+  },
+  {
+    "entidad": "trastorno depresivo mayor (TDM)",
+    "relacion": "representa",
+    "valor": "segunda causa de discapacidad"
+  },
+  {
+    "entidad": "atención primaria de salud (APS)",
+    "relacion": "tiene un rol",
+    "valor": "fundamental en la detección de trastornos depresivos"
+  },
+  {
+    "entidad": "CIDI",
+    "relacion": "se utiliza para",
+    "valor": "diagnosticar trastornos mentales"
+  },
+  {
+    "entidad": "CIDI",
+    "relacion": "es desarrollada por",
+    "valor": "la Organización Mundial de la Salud (OMS)"
+  },
+  {
+    "entidad": "PHQ-9",
+    "relacion": "se utiliza en",
+    "valor": "centros de atención primaria en Chile"
+  },
+  {
+    "entidad": "PHQ-9",
+    "relacion": "muestra",
+    "valor": "alta consistencia interna"
+  },
+  {
+    "entidad": "PHQ-9",
+    "relacion": "es un",
+    "valor": "instrumento de tamizaje"
+  },
+  {
+    "entidad": "puntaje de corte de 7",
+    "relacion": "maximiza",
+    "valor": "sensibilidad y especificidad del PHQ-9"
+  },
+  {
+    "entidad": "entrevistas clínicas",
+    "relacion": "son indispensables para",
+    "valor": "diagnóstico y valoración de síntomas"
+  },
+  {
+    "entidad": "PHQ-9",
+    "relacion": "se desarrolló como",
+    "valor": "herramienta de tamizaje"
+  },
+  {
+    "entidad": "PHQ-9",
+    "relacion": "ha sido estudiado en",
+    "valor": "contextos de atención primaria"
+  },
+  {
+    "entidad": "PHQ-9",
+    "relacion": "mide",
+    "valor": "la gravedad de los síntomas en personas con TD"
+  },
+  {
+    "entidad": "CIDI",
+    "relacion": "entrega diagnósticos",
+    "valor": "siguiendo criterios DSM-IV y CIE-10"
+  },
+  {
+    "entidad": "PHQ-9",
+    "relacion": "requiere",
+    "valor": "evidencias de confiabilidad y validez"
+  },
+  {
+    "entidad": "PHQ-9",
+    "relacion": "puede contribuir a",
+    "valor": "aumentar tasas de detección de trastornos depresivos"
+  },
+  {
+    "entidad": "PHQ-9",
+    "relacion": "ha mostrado",
+    "valor": "sensibilidad y especificidad comparables a otros estudios"
+  },
+  {
+    "entidad": "PHQ-9",
+    "relacion": "es útil para",
+    "valor": "el tamizaje de trastornos depresivos"
+  },
+  {
+    "entidad": "Paro cardiorrespiratorio perioperatorio",
+    "relacion": "es un",
+    "valor": "evento raro pero importante en el quirófano"
+  },
+  {
+    "entidad": "Hospital Clínico Universidad de Chile",
+    "relacion": "realiza",
+    "valor": "registro de PCRP"
+  },
+  {
+    "entidad": "PCRP",
+    "relacion": "ocurre en",
+    "valor": "procedimientos quirúrgicos"
+  },
+  {
+    "entidad": "complicaciones preoperatorias",
+    "relacion": "causa",
+    "valor": "PCRP"
+  },
+  {
+    "entidad": "anestesia",
+    "relacion": "contribuye a",
+    "valor": "PCRP"
+  },
+  {
+    "entidad": "mortalidad del PCRP",
+    "relacion": "es",
+    "valor": "hasta 70%"
+  },
+  {
+    "entidad": "incidencia de PCRP",
+    "relacion": "ha disminuido",
+    "valor": "en concordancia con la mortalidad perioperatoria"
+  },
+  {
+    "entidad": "estándares de monitorización intraoperatoria",
+    "relacion": "se aplican desde",
+    "valor": "1985"
+  },
+  {
+    "entidad": "mortalidad atribuible a la anestesia",
+    "relacion": "ha disminuido",
+    "valor": "desde 357 por millón a 34 por millón"
+  },
+  {
+    "entidad": "registro estandarizado de PCRP",
+    "relacion": "iniciado en",
+    "valor": "2006"
+  },
+  {
+    "entidad": "Cerebral Performance Category (CPC)",
+    "relacion": "refleja",
+    "valor": "estado neurológico funcional del paciente"
+  },
+  {
+    "entidad": "complicaciones preoperatorias",
+    "relacion": "son la principal causa de",
+    "valor": "PCRP"
+  },
+  {
+    "entidad": "anestesia general",
+    "relacion": "es utilizada en",
+    "valor": "81% de los pacientes"
+  },
+  {
+    "entidad": "hipotensión/hipoperfusión",
+    "relacion": "es la condición preexistente más frecuente",
+    "valor": "en pacientes con PCRP"
+  },
+  {
+    "entidad": "mortalidad total al alta",
+    "relacion": "es",
+    "valor": "52,5%"
+  },
+  {
+    "entidad": "PCRP atribuible a la anestesia",
+    "relacion": "tiene una incidencia de",
+    "valor": "1,11 por 10.000 anestesias"
+  },
+  {
+    "entidad": "errores de medicación",
+    "relacion": "son una causa de",
+    "valor": "PCRP"
+  },
+  {
+    "entidad": "hipoxemia",
+    "relacion": "es una causa de",
+    "valor": "PCRP"
+  },
+  {
+    "entidad": "PCRP",
+    "relacion": "se asocia a",
+    "valor": "anestesia general en 80% de los casos"
+  },
+  {
+    "entidad": "registro de PCRP",
+    "relacion": "se considera",
+    "valor": "necesario para mejorar resultados"
+  },
+  {
+    "entidad": "HCUCH",
+    "relacion": "implementa",
+    "valor": "sistema de registro de PCRP desde 2006"
+  },
+  {
+    "entidad": "Linfoma del manto (LM)",
+    "relacion": "es un",
+    "valor": "tipo de linfoma no Hodgkin"
+  },
+  {
+    "entidad": "Citarabina (AraC)",
+    "relacion": "es un",
+    "valor": "tratamiento para linfoma del manto"
+  },
+  {
+    "entidad": "Trasplante hematopoyético (TPH)",
+    "relacion": "es un",
+    "valor": "tratamiento para linfoma del manto"
+  },
+  {
+    "entidad": "Rituximab",
+    "relacion": "es un",
+    "valor": "medicación utilizada en el tratamiento del linfoma del manto"
+  },
+  {
+    "entidad": "Red de Salud UC-Christus",
+    "relacion": "es un",
+    "valor": "institución médica en Chile"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "es un",
+    "valor": "institución académica"
+  },
+  {
+    "entidad": "Mantle Cell Lymphoma International Prognostic Index (MIPI)",
+    "relacion": "predice",
+    "valor": "sobrevida y progresión en pacientes con linfoma del manto"
+  },
+  {
+    "entidad": "Esquemas de tratamiento intensificado",
+    "relacion": "mejoran",
+    "valor": "sobrevida en pacientes con linfoma del manto"
+  },
+  {
+    "entidad": "Sobrevida global (SG)",
+    "relacion": "es un",
+    "valor": "métrica de resultados en pacientes con linfoma del manto"
+  },
+  {
+    "entidad": "Sobrevida libre de progresión (SLP)",
+    "relacion": "es un",
+    "valor": "métrica de resultados en pacientes con linfoma del manto"
+  },
+  {
+    "entidad": "Estudio observacional, analítico y retrospectivo",
+    "relacion": "es un",
+    "valor": "diseño de investigación utilizado en el estudio"
+  },
+  {
+    "entidad": "Pacientes con linfoma del manto",
+    "relacion": "fueron tratados en",
+    "valor": "Centro de Cáncer y Hospital Clínico UC-Christus"
+  },
+  {
+    "entidad": "Terapia de mantención con rituximab",
+    "relacion": "asocia con",
+    "valor": "mejor sobrevida en pacientes con linfoma del manto"
+  },
+  {
+    "entidad": "Citarabina y TPH",
+    "relacion": "aumentan",
+    "valor": "sobrevida en pacientes con enfermedad refractaria o recaída"
+  },
+  {
+    "entidad": "Guías internacionales",
+    "relacion": "recomiendan",
+    "valor": "incluir tratamientos con AraC, TPH y rituximab"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "no tiene",
+    "valor": "datos publicados sobre resultados de pacientes con linfoma del manto"
+  },
+  {
+    "entidad": "Estudio",
+    "relacion": "apoya",
+    "valor": "recomendaciones de la Sociedad Chilena de Hematología (SOCHIHEM)"
+  },
+  {
+    "entidad": "Trastornos de la conducta alimentaria",
+    "relacion": "causa",
+    "valor": "alteraciones cardiovasculares"
+  },
+  {
+    "entidad": "Trastornos de la conducta alimentaria",
+    "relacion": "afecta a",
+    "valor": "adolescentes"
+  },
+  {
+    "entidad": "adolescentes",
+    "relacion": "presentan",
+    "valor": "complicaciones cardiovasculares"
+  },
+  {
+    "entidad": "bradicardia",
+    "relacion": "es un tipo de",
+    "valor": "alteración cardiovascular"
+  },
+  {
+    "entidad": "bradicardia",
+    "relacion": "asociada a",
+    "valor": "malnutrición"
+  },
+  {
+    "entidad": "bradicardia",
+    "relacion": "asociada a",
+    "valor": "pérdida de peso"
+  },
+  {
+    "entidad": "bradicardia",
+    "relacion": "asociada a",
+    "valor": "bajos niveles de triiodotironina libre"
+  },
+  {
+    "entidad": "anorexia nerviosa",
+    "relacion": "tiene",
+    "valor": "la mortalidad más alta entre enfermedades psiquiátricas"
+  },
+  {
+    "entidad": "complicaciones cardiovasculares",
+    "relacion": "pueden ocurrir en",
+    "valor": "hasta el 80% de pacientes con trastornos alimentarios"
+  },
+  {
+    "entidad": "complicaciones cardiovasculares",
+    "relacion": "explican",
+    "valor": "30% de la mortalidad en trastornos alimentarios"
+  },
+  {
+    "entidad": "ecocardiograma",
+    "relacion": "se utiliza para evaluar",
+    "valor": "anomalías cardíacas"
+  },
+  {
+    "entidad": "programa de tratamiento interdisciplinario",
+    "relacion": "se encuentra en",
+    "valor": "Clínica Alemana de Santiago"
+  },
+  {
+    "entidad": "Clínica Alemana de Santiago",
+    "relacion": "pertenece a",
+    "valor": "Universidad del Desarrollo"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "son evaluadas en",
+    "valor": "estudio de trastornos alimentarios"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "es causada por",
+    "valor": "trastornos alimentarios"
+  },
+  {
+    "entidad": "trastornos alimentarios",
+    "relacion": "son problemas de salud",
+    "valor": "complejos y prevalentes"
+  },
+  {
+    "entidad": "mujeres adolescentes",
+    "relacion": "presentan",
+    "valor": "anomalías cardíacas"
+  },
+  {
+    "entidad": "evaluación cardiovascular",
+    "relacion": "es importante en",
+    "valor": "trastornos alimentarios"
+  }
+]

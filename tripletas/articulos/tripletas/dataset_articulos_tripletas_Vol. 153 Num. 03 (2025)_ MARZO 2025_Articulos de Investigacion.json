@@ -1,0 +1,497 @@
+[
+  {
+    "entidad": "SOC-13",
+    "relacion": "es una",
+    "valor": "escala de sentido de coherencia"
+  },
+  {
+    "entidad": "Universidad de Concepción",
+    "relacion": "realiza",
+    "valor": "adaptación transcultural de la escala SOC-13"
+  },
+  {
+    "entidad": "estudiantes universitarios",
+    "relacion": "son",
+    "valor": "población objetivo del estudio"
+  },
+  {
+    "entidad": "sentido de coherencia",
+    "relacion": "mejora",
+    "valor": "calidad de vida"
+  },
+  {
+    "entidad": "teoría salutogénica",
+    "relacion": "fue desarrollada por",
+    "valor": "Aaron Antonovsky"
+  },
+  {
+    "entidad": "adaptación transcultural",
+    "relacion": "mantiene",
+    "valor": "equivalencia semántica y conceptual"
+  },
+  {
+    "entidad": "validez de contenido",
+    "relacion": "se mide con",
+    "valor": "coeficiente V de Aiken"
+  },
+  {
+    "entidad": "coeficiente V de Aiken",
+    "relacion": "fue",
+    "valor": "0,83"
+  },
+  {
+    "entidad": "consistencia interna",
+    "relacion": "se evalúa con",
+    "valor": "Alpha de Cronbach"
+  },
+  {
+    "entidad": "Alpha de Cronbach",
+    "relacion": "fue",
+    "valor": "0,74"
+  },
+  {
+    "entidad": "validez convergente",
+    "relacion": "se evalúa respecto a",
+    "valor": "autoeficacia general"
+  },
+  {
+    "entidad": "autoeficacia general",
+    "relacion": "correlaciona con",
+    "valor": "SOC-13"
+  },
+  {
+    "entidad": "análisis factorial exploratorio",
+    "relacion": "identifica",
+    "valor": "estructura factorial de la escala"
+  },
+  {
+    "entidad": "modelo de tres factores",
+    "relacion": "explica",
+    "valor": "51,9% de la varianza"
+  },
+  {
+    "entidad": "escala SOC-13",
+    "relacion": "es",
+    "valor": "confiable y válida en población universitaria"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "obligó a",
+    "valor": "impartir clases de forma remota"
+  },
+  {
+    "entidad": "método de muestreo",
+    "relacion": "fue",
+    "valor": "multietápico"
+  },
+  {
+    "entidad": "muestra",
+    "relacion": "fue",
+    "valor": "238 estudiantes universitarios"
+  },
+  {
+    "entidad": "dimensiones del SOC",
+    "relacion": "son",
+    "valor": "comprensibilidad, manejabilidad y significatividad"
+  },
+  {
+    "entidad": "ítem 6",
+    "relacion": "carga de forma",
+    "valor": "negativa"
+  },
+  {
+    "entidad": "escala AEG",
+    "relacion": "evalúa",
+    "valor": "percepción de competencia personal"
+  },
+  {
+    "entidad": "escala AEG",
+    "relacion": "fue validada en",
+    "valor": "Chile"
+  },
+  {
+    "entidad": "protocolo",
+    "relacion": "fue aprobado por",
+    "valor": "Comité de Ética de la Universidad de Concepción"
+  },
+  {
+    "entidad": "dotación de enfermeras",
+    "relacion": "se mide en",
+    "valor": "unidades críticas y médico-quirúrgicas"
+  },
+  {
+    "entidad": "MINSAL",
+    "relacion": "emite",
+    "valor": "recomendaciones de dotación de personal"
+  },
+  {
+    "entidad": "complejidad de pacientes",
+    "relacion": "se evalúa mediante",
+    "valor": "instrumento CUDYR"
+  },
+  {
+    "entidad": "CUDYR",
+    "relacion": "mide",
+    "valor": "dependencia y riesgo de pacientes"
+  },
+  {
+    "entidad": "hospitales públicos de alta complejidad",
+    "relacion": "tienen más de",
+    "valor": "150 camas"
+  },
+  {
+    "entidad": "dotaciones de enfermeras",
+    "relacion": "presentan variabilidad",
+    "valor": "entre hospitales"
+  },
+  {
+    "entidad": "complejidad de camas",
+    "relacion": "se clasifica en",
+    "valor": "camas críticas, médico-quirúrgicas y de cuidados básicos"
+  },
+  {
+    "entidad": "camas críticas",
+    "relacion": "deben recibir",
+    "valor": "pacientes CUDYR A1, A2, A3, B1 y B2"
+  },
+  {
+    "entidad": "camas de cuidados medios",
+    "relacion": "deben recibir",
+    "valor": "pacientes B3, C1 y C2"
+  },
+  {
+    "entidad": "camas de cuidados básicos",
+    "relacion": "deben recibir",
+    "valor": "pacientes C3, D1, D2 y D3"
+  },
+  {
+    "entidad": "dotación de enfermeras",
+    "relacion": "se aleja de",
+    "valor": "estándares internacionales en camas de menor complejidad"
+  },
+  {
+    "entidad": "estándares MINSAL",
+    "relacion": "son",
+    "valor": "bajos en dotaciones diurnas"
+  },
+  {
+    "entidad": "complejidad de pacientes",
+    "relacion": "ha aumentado",
+    "valor": "desde la publicación del ordinario N°2110"
+  },
+  {
+    "entidad": "enfermeras",
+    "relacion": "evalúan",
+    "valor": "diariamente a sus pacientes"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "define",
+    "valor": "norma técnica N°0150"
+  },
+  {
+    "entidad": "norma técnica N°0150",
+    "relacion": "describe",
+    "valor": "complejidad de establecimientos de atención cerrada"
+  },
+  {
+    "entidad": "complejidad de camas",
+    "relacion": "debe concordar con",
+    "valor": "complejidad de pacientes"
+  },
+  {
+    "entidad": "hospitalización domiciliaria",
+    "relacion": "es una estrategia para",
+    "valor": "pacientes menos complejos"
+  },
+  {
+    "entidad": "dotación de enfermeras",
+    "relacion": "afecta",
+    "valor": "resultados de salud de los pacientes"
+  },
+  {
+    "entidad": "mayor asignación de pacientes por enfermera",
+    "relacion": "se asocia con",
+    "valor": "mayor mortalidad y reingresos"
+  },
+  {
+    "entidad": "estándares de dotación",
+    "relacion": "deben ser actualizados",
+    "valor": "para responder a la complejidad real de los pacientes"
+  },
+  {
+    "entidad": "recursos humanos en salud",
+    "relacion": "son necesarios para",
+    "valor": "mejorar la calidad de atención"
+  },
+  {
+    "entidad": "Técnicos de Enfermería de Nivel Superior (TENS)",
+    "relacion": "trabajan en",
+    "valor": "Postas de Salud Rural (PSR)"
+  },
+  {
+    "entidad": "Atención Primaria de Salud (APS)",
+    "relacion": "requiere",
+    "valor": "personal capacitado"
+  },
+  {
+    "entidad": "Instituto de Nutrición y Tecnología de los Alimentos (INTA)",
+    "relacion": "pertenece a",
+    "valor": "Universidad de Chile"
+  },
+  {
+    "entidad": "Programa de Capacitación en Promoción de Salud y Desarrollo Local",
+    "relacion": "se realiza con",
+    "valor": "TENS de PSR"
+  },
+  {
+    "entidad": "Moodle",
+    "relacion": "es una",
+    "valor": "plataforma de educación a distancia"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "afecta",
+    "valor": "modalidad de capacitación"
+  },
+  {
+    "entidad": "Ministerio de Salud (MINSAL)",
+    "relacion": "financia",
+    "valor": "programas de capacitación"
+  },
+  {
+    "entidad": "TENS",
+    "relacion": "contribuyen a",
+    "valor": "promoción, prevención, diagnóstico, tratamiento y rehabilitación"
+  },
+  {
+    "entidad": "modelo educativo",
+    "relacion": "privilegia",
+    "valor": "intercambio y análisis grupal"
+  },
+  {
+    "entidad": "evaluación continua",
+    "relacion": "se implementa en",
+    "valor": "programa de capacitación"
+  },
+  {
+    "entidad": "trabajo final",
+    "relacion": "es un",
+    "valor": "proyecto local de PSR"
+  },
+  {
+    "entidad": "encuesta de seguimiento",
+    "relacion": "muestra que",
+    "valor": "73% de los TENS experimentó cambios laborales"
+  },
+  {
+    "entidad": "satisfacción del curso",
+    "relacion": "alcanzó",
+    "valor": "99%"
+  },
+  {
+    "entidad": "TENS",
+    "relacion": "realizan",
+    "valor": "primer contacto con usuarios y comunidad"
+  },
+  {
+    "entidad": "cambios laborales",
+    "relacion": "incluyen",
+    "valor": "asumir más responsabilidades y mejorar sueldo"
+  },
+  {
+    "entidad": "educación continua",
+    "relacion": "es necesaria para",
+    "valor": "fortalecer la atención en salud rural"
+  },
+  {
+    "entidad": "TENS",
+    "relacion": "son considerados",
+    "valor": "líderes comunitarios"
+  },
+  {
+    "entidad": "programas de capacitación",
+    "relacion": "deben ser",
+    "valor": "aumentados en PSR"
+  },
+  {
+    "entidad": "Insuficiencia suprarrenal",
+    "relacion": "requiere",
+    "valor": "diagnóstico oportuno"
+  },
+  {
+    "entidad": "Insuficiencia suprarrenal",
+    "relacion": "puede ser",
+    "valor": "primaria o secundaria"
+  },
+  {
+    "entidad": "Enfermedad de Addison",
+    "relacion": "es una",
+    "valor": "causa de insuficiencia suprarrenal primaria"
+  },
+  {
+    "entidad": "Macroadenomas",
+    "relacion": "son una",
+    "valor": "causa de insuficiencia suprarrenal secundaria"
+  },
+  {
+    "entidad": "VIH",
+    "relacion": "se asocia con",
+    "valor": "insuficiencia suprarrenal"
+  },
+  {
+    "entidad": "Pembrolizumab",
+    "relacion": "causa",
+    "valor": "hipofisitis"
+  },
+  {
+    "entidad": "Astenia",
+    "relacion": "es un síntoma de",
+    "valor": "insuficiencia suprarrenal"
+  },
+  {
+    "entidad": "Hiponatremia",
+    "relacion": "es un hallazgo en",
+    "valor": "insuficiencia suprarrenal"
+  },
+  {
+    "entidad": "Hiperkalemia",
+    "relacion": "es un hallazgo en",
+    "valor": "insuficiencia suprarrenal primaria"
+  },
+  {
+    "entidad": "ACTH",
+    "relacion": "es útil para",
+    "valor": "diferenciar entre insuficiencia suprarrenal primaria y secundaria"
+  },
+  {
+    "entidad": "Hidrocortisona",
+    "relacion": "es el tratamiento de",
+    "valor": "insuficiencia suprarrenal"
+  },
+  {
+    "entidad": "Crisis suprarrenal",
+    "relacion": "puede ocurrir en",
+    "valor": "insuficiencia suprarrenal"
+  },
+  {
+    "entidad": "Insuficiencia suprarrenal secundaria",
+    "relacion": "es más frecuente que",
+    "valor": "insuficiencia suprarrenal primaria"
+  },
+  {
+    "entidad": "Endocrinopatías",
+    "relacion": "pueden estar asociadas a",
+    "valor": "insuficiencia suprarrenal"
+  },
+  {
+    "entidad": "Terapia de reemplazo",
+    "relacion": "es necesaria para",
+    "valor": "insuficiencia suprarrenal"
+  },
+  {
+    "entidad": "Mortalidad",
+    "relacion": "es mayor en",
+    "valor": "pacientes con insuficiencia suprarrenal"
+  },
+  {
+    "entidad": "cáncer colorrectal",
+    "relacion": "es un",
+    "valor": "problema de salud global"
+  },
+  {
+    "entidad": "política pública de salud",
+    "relacion": "conocida como",
+    "valor": "Garantías Explícitas en Salud (GES)"
+  },
+  {
+    "entidad": "GES",
+    "relacion": "permite",
+    "valor": "derivación de pacientes con sospecha de cáncer colorrectal"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "son referidos a",
+    "valor": "centro terciario para colonoscopia"
+  },
+  {
+    "entidad": "colonoscopy",
+    "relacion": "es un",
+    "valor": "método diagnóstico"
+  },
+  {
+    "entidad": "modelo predictivo",
+    "relacion": "se desarrolla para",
+    "valor": "diagnóstico de cáncer colorrectal"
+  },
+  {
+    "entidad": "variables",
+    "relacion": "son analizadas para",
+    "valor": "diagnóstico de cáncer colorrectal"
+  },
+  {
+    "entidad": "anemia",
+    "relacion": "es un",
+    "valor": "síntoma significativo en el modelo predictivo"
+  },
+  {
+    "entidad": "diarrea",
+    "relacion": "es un",
+    "valor": "síntoma significativo en el modelo predictivo"
+  },
+  {
+    "entidad": "sangrado gastrointestinal bajo",
+    "relacion": "es un",
+    "valor": "síntoma significativo en el modelo predictivo"
+  },
+  {
+    "entidad": "masas rectales palpables",
+    "relacion": "son un",
+    "valor": "síntoma significativo en el modelo predictivo"
+  },
+  {
+    "entidad": "ultrasonido sugestivo",
+    "relacion": "es un",
+    "valor": "método de diagnóstico"
+  },
+  {
+    "entidad": "tomografía computarizada",
+    "relacion": "es un",
+    "valor": "método de diagnóstico"
+  },
+  {
+    "entidad": "tasa de detección de cáncer colorrectal",
+    "relacion": "es",
+    "valor": "13% en la cohorte"
+  },
+  {
+    "entidad": "modelo predictivo",
+    "relacion": "requiere",
+    "valor": "validación en una cohorte independiente"
+  },
+  {
+    "entidad": "política GES",
+    "relacion": "optimiza",
+    "valor": "recursos para diagnóstico"
+  },
+  {
+    "entidad": "pacientes con síntomas",
+    "relacion": "son priorizados para",
+    "valor": "diagnóstico de cáncer colorrectal"
+  },
+  {
+    "entidad": "hospital Regional de Concepción",
+    "relacion": "es un",
+    "valor": "centro de estudio"
+  },
+  {
+    "entidad": "Claudio Benavides",
+    "relacion": "es un",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "Juan Alvarado",
+    "relacion": "es un",
+    "valor": "autor del estudio"
+  }
+]

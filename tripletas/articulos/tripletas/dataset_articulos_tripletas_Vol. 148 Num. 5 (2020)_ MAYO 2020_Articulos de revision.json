@@ -1,0 +1,202 @@
+[
+  {
+    "entidad": "Artritis psoriásica",
+    "relacion": "es una",
+    "valor": "enfermedad heterogénea"
+  },
+  {
+    "entidad": "Ley Ricarte Soto",
+    "relacion": "proporciona",
+    "valor": "cobertura financiera para tratamientos biológicos"
+  },
+  {
+    "entidad": "fármacos modificadores de la enfermedad (FARME)",
+    "relacion": "tienen",
+    "valor": "efecto limitado en el control de la enfermedad"
+  },
+  {
+    "entidad": "terapias biológicas",
+    "relacion": "han demostrado",
+    "valor": "ser altamente efectivas"
+  },
+  {
+    "entidad": "golimumab",
+    "relacion": "es un",
+    "valor": "inhibidor del TNF"
+  },
+  {
+    "entidad": "etanercept",
+    "relacion": "es un",
+    "valor": "inhibidor del TNF"
+  },
+  {
+    "entidad": "adalimumab",
+    "relacion": "es un",
+    "valor": "inhibidor del TNF"
+  },
+  {
+    "entidad": "secukinumab",
+    "relacion": "es un",
+    "valor": "inhibidor de la interleuquina 17"
+  },
+  {
+    "entidad": "pacientes con artritis psoriásica",
+    "relacion": "son tratados con",
+    "valor": "biológicos durante el curso de su enfermedad"
+  },
+  {
+    "entidad": "Ley Ricarte Soto",
+    "relacion": "permite",
+    "valor": "elegir entre tratamientos biológicos"
+  },
+  {
+    "entidad": "compromiso axial",
+    "relacion": "se asocia con",
+    "valor": "mayor área de psoriasis"
+  },
+  {
+    "entidad": "compromiso periférico",
+    "relacion": "debe cumplir",
+    "valor": "criterios establecidos por la ley"
+  },
+  {
+    "entidad": "secukinumab",
+    "relacion": "tiene",
+    "valor": "evidencia robusta en compromiso de piel"
+  },
+  {
+    "entidad": "adalimumab",
+    "relacion": "tiene",
+    "valor": "aprobación internacional para enfermedad de Crohn"
+  },
+  {
+    "entidad": "golimumab",
+    "relacion": "tiene",
+    "valor": "aprobación para colitis ulcerosa"
+  },
+  {
+    "entidad": "etanercept",
+    "relacion": "no tiene",
+    "valor": "eficacia demostrada en enfermedad inflamatoria intestinal"
+  },
+  {
+    "entidad": "bloqueadores de TNF-α",
+    "relacion": "disminuyen",
+    "valor": "incidencia de eventos cardiovasculares"
+  },
+  {
+    "entidad": "secukinumab",
+    "relacion": "no aumenta",
+    "valor": "riesgo de reactivación de tuberculosis"
+  },
+  {
+    "entidad": "preferencias del paciente",
+    "relacion": "incluyen",
+    "valor": "vía y frecuencia de administración"
+  },
+  {
+    "entidad": "costos de tratamiento",
+    "relacion": "son una preocupación para",
+    "valor": "el sistema de salud"
+  },
+  {
+    "entidad": "fármacos biológicos",
+    "relacion": "requieren",
+    "valor": "manejo especializado y controles clínicos"
+  },
+  {
+    "entidad": "pacientes con APs",
+    "relacion": "tienen",
+    "valor": "mayor riesgo de comorbilidades"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "tiene",
+    "valor": "cuatro proyectos de ley sobre eutanasia"
+  },
+  {
+    "entidad": "eutanasia",
+    "relacion": "es apoyada por",
+    "valor": "la mayoría de la población"
+  },
+  {
+    "entidad": "debate",
+    "relacion": "ocurre a nivel",
+    "valor": "legislativo, médico y social"
+  },
+  {
+    "entidad": "cuidados paliativos",
+    "relacion": "están",
+    "valor": "actualmente subóptimos en Chile"
+  },
+  {
+    "entidad": "muerte médicamente asistida",
+    "relacion": "puede afectar",
+    "valor": "el desarrollo de cuidados paliativos"
+  },
+  {
+    "entidad": "cuidados paliativos",
+    "relacion": "deben incluir",
+    "valor": "un compromiso mínimo en la legalización de MMA"
+  },
+  {
+    "entidad": "Ley 20.584",
+    "relacion": "regula",
+    "valor": "los derechos y deberes en atención en salud"
+  },
+  {
+    "entidad": "Programa Nacional para el Alivio del Dolor y Cuidados Paliativos",
+    "relacion": "fue creado en",
+    "valor": "1995"
+  },
+  {
+    "entidad": "Ley 20.584",
+    "relacion": "no aporta",
+    "valor": "una definición precisa de prácticas eutanásicas"
+  },
+  {
+    "entidad": "cuidados paliativos",
+    "relacion": "son garantizados solo para",
+    "valor": "pacientes con enfermedades oncológicas"
+  },
+  {
+    "entidad": "sistema de salud en Chile",
+    "relacion": "es",
+    "valor": "segmentado público/privado"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud",
+    "relacion": "clasifica a Chile como",
+    "valor": "país con servicios de CP con integración avanzada"
+  },
+  {
+    "entidad": "cuidados paliativos",
+    "relacion": "mejoran",
+    "valor": "la calidad de vida de pacientes con enfermedades crónicas avanzadas"
+  },
+  {
+    "entidad": "muerte médicamente asistida",
+    "relacion": "representa",
+    "valor": "un porcentaje de muertes anuales en países como Holanda y Bélgica"
+  },
+  {
+    "entidad": "cuidados paliativos",
+    "relacion": "no deben ser la razón para",
+    "valor": "solicitar muerte médicamente asistida"
+  },
+  {
+    "entidad": "evidencia disponible",
+    "relacion": "no respalda",
+    "valor": "preocupaciones sobre el impacto negativo de MMA en CP"
+  },
+  {
+    "entidad": "Colombia",
+    "relacion": "legalizó",
+    "valor": "la muerte asistida en 1997"
+  },
+  {
+    "entidad": "cuidados paliativos",
+    "relacion": "deben ser accesibles",
+    "valor": "universalmente para aquellos con problemas de salud graves"
+  }
+]

@@ -1,0 +1,867 @@
+[
+  {
+    "entidad": "capital social",
+    "relacion": "es un",
+    "valor": "activo importante en salud"
+  },
+  {
+    "entidad": "mujeres mayores",
+    "relacion": "asisten a",
+    "valor": "red pública de Atención Primaria de Salud"
+  },
+  {
+    "entidad": "capital social",
+    "relacion": "afecta a",
+    "valor": "calidad de vida"
+  },
+  {
+    "entidad": "envejecimiento positivo",
+    "relacion": "promueve",
+    "valor": "calidad de vida aceptable"
+  },
+  {
+    "entidad": "aislamiento social",
+    "relacion": "puede ser",
+    "valor": "disminuido"
+  },
+  {
+    "entidad": "control del dolor",
+    "relacion": "es un",
+    "valor": "método para prevenir fragilidad"
+  },
+  {
+    "entidad": "tratamiento de la depresión",
+    "relacion": "es un",
+    "valor": "método para prevenir fragilidad"
+  },
+  {
+    "entidad": "ejercicios",
+    "relacion": "mejoran",
+    "valor": "equilibrio y flexibilidad física"
+  },
+  {
+    "entidad": "capital social",
+    "relacion": "se relaciona con",
+    "valor": "autonomía personal"
+  },
+  {
+    "entidad": "capital social",
+    "relacion": "influye en",
+    "valor": "comportamiento de salud"
+  },
+  {
+    "entidad": "mujeres evangélicas",
+    "relacion": "tienen",
+    "valor": "mayor capital social"
+  },
+  {
+    "entidad": "nivel educativo",
+    "relacion": "se correlaciona con",
+    "valor": "capital social total"
+  },
+  {
+    "entidad": "número de hijos vivos",
+    "relacion": "se correlaciona con",
+    "valor": "capital social"
+  },
+  {
+    "entidad": "arraigo territorial",
+    "relacion": "se correlaciona con",
+    "valor": "capital social total"
+  },
+  {
+    "entidad": "redes sociales",
+    "relacion": "son un",
+    "valor": "soporte para la supervivencia"
+  },
+  {
+    "entidad": "Fondo Nacional de Salud",
+    "relacion": "financia",
+    "valor": "acceso a salud pública"
+  },
+  {
+    "entidad": "seguro público de salud",
+    "relacion": "presenta",
+    "valor": "mayor prevalencia de limitación funcional"
+  },
+  {
+    "entidad": "capital social de unión",
+    "relacion": "predomina sobre",
+    "valor": "capital social de puente"
+  },
+  {
+    "entidad": "mujeres mayores",
+    "relacion": "reportan",
+    "valor": "sensación de soledad"
+  },
+  {
+    "entidad": "capital social",
+    "relacion": "disminuye con",
+    "valor": "mayor edad"
+  },
+  {
+    "entidad": "capital social",
+    "relacion": "se mide mediante",
+    "valor": "escala de Capital Social Personal de Chen"
+  },
+  {
+    "entidad": "Vareniclina",
+    "relacion": "es",
+    "valor": "medicación para la cesación del tabaquismo"
+  },
+  {
+    "entidad": "Programa de Control del Tabaquismo",
+    "relacion": "utiliza",
+    "valor": "terapia psicológica y farmacológica"
+  },
+  {
+    "entidad": "Tabaquismo",
+    "relacion": "es",
+    "valor": "un problema de salud pública en Chile"
+  },
+  {
+    "entidad": "Clínica Santa María",
+    "relacion": "realiza",
+    "valor": "programa multidisciplinario de cesación del tabaquismo"
+  },
+  {
+    "entidad": "Fagerström",
+    "relacion": "evalúa",
+    "valor": "nivel de dependencia al tabaco"
+  },
+  {
+    "entidad": "Dependencia alta",
+    "relacion": "asocia",
+    "valor": "mayor tasa de fracaso en la terapia"
+  },
+  {
+    "entidad": "Educación superior",
+    "relacion": "asocia",
+    "valor": "menor tasa de fracaso en la terapia"
+  },
+  {
+    "entidad": "Efectos adversos",
+    "relacion": "incluyen",
+    "valor": "náuseas, trastornos del sueño y cefalea"
+  },
+  {
+    "entidad": "Terapia cognitivo-conductual (TCC)",
+    "relacion": "es",
+    "valor": "una estrategia utilizada en el programa"
+  },
+  {
+    "entidad": "Comorbilidades vasculares",
+    "relacion": "pueden afectar",
+    "valor": "el éxito de la terapia"
+  },
+  {
+    "entidad": "Comorbilidades bronquiales",
+    "relacion": "pueden afectar",
+    "valor": "el éxito de la terapia"
+  },
+  {
+    "entidad": "Tabaquismo",
+    "relacion": "causa",
+    "valor": "numerosas patologías"
+  },
+  {
+    "entidad": "Tabaquismo",
+    "relacion": "es responsable de",
+    "valor": "15.000 muertes anuales en Chile"
+  },
+  {
+    "entidad": "Programa multidisciplinario",
+    "relacion": "se enfoca en",
+    "valor": "el abandono del hábito tabáquico"
+  },
+  {
+    "entidad": "Seguimiento telefónico",
+    "relacion": "es",
+    "valor": "una técnica utilizada para monitorear a los pacientes"
+  },
+  {
+    "entidad": "Incremento de peso",
+    "relacion": "no se asocia",
+    "valor": "significativamente con el desenlace final"
+  },
+  {
+    "entidad": "Factores de riesgo",
+    "relacion": "incluyen",
+    "valor": "nivel de dependencia y años de educación"
+  },
+  {
+    "entidad": "fisuras labio-palatinas",
+    "relacion": "afecta a",
+    "valor": "niños menores de 1 año"
+  },
+  {
+    "entidad": "ácido fólico",
+    "relacion": "previene",
+    "valor": "defectos congénitos"
+  },
+  {
+    "entidad": "fortificación de la harina",
+    "relacion": "implementada en",
+    "valor": "Chile desde el año 2000"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "publica",
+    "valor": "bases de datos de egresos hospitalarios"
+  },
+  {
+    "entidad": "tasa de egresos hospitalarios",
+    "relacion": "disminuyó",
+    "valor": "9% tras fortificación con ácido fólico"
+  },
+  {
+    "entidad": "defectos del tubo neural",
+    "relacion": "disminuyó",
+    "valor": "55% tras fortificación con ácido fólico"
+  },
+  {
+    "entidad": "mujeres en edad fértil",
+    "relacion": "beneficiadas por",
+    "valor": "fortificación de alimentos con ácido fólico"
+  },
+  {
+    "entidad": "ECLAMC",
+    "relacion": "estudio",
+    "valor": "malformaciones congénitas en maternidades de Chile"
+  },
+  {
+    "entidad": "fortificación de la harina",
+    "relacion": "asociada con",
+    "valor": "disminución de fisuras labio-palatinas"
+  },
+  {
+    "entidad": "Canadá",
+    "relacion": "no observó",
+    "valor": "disminución de fisuras oro-faciales tras fortificación"
+  },
+  {
+    "entidad": "Estados Unidos",
+    "relacion": "reportó",
+    "valor": "disminución del 6% en fisuras oro-faciales tras fortificación"
+  },
+  {
+    "entidad": "Paraná, Brasil",
+    "relacion": "reportó",
+    "valor": "disminución del 18,52% en fisuras labio-palatinas no sindromáticas"
+  },
+  {
+    "entidad": "fortificación con ácido fólico",
+    "relacion": "explora",
+    "valor": "tendencia de egresos hospitalarios por fisuras labio-palatinas"
+  },
+  {
+    "entidad": "modelo Prais-Winsten",
+    "relacion": "ajusta",
+    "valor": "variables relacionadas con fisuras labio-palatinas"
+  },
+  {
+    "entidad": "tasa de incidencia de rubéola",
+    "relacion": "considerada en",
+    "valor": "modelo de análisis"
+  },
+  {
+    "entidad": "porcentaje de obesidad en embarazadas",
+    "relacion": "considerado en",
+    "valor": "modelo de análisis"
+  },
+  {
+    "entidad": "consumo de alcohol y tabaco en mujeres",
+    "relacion": "considerado en",
+    "valor": "modelo de análisis"
+  },
+  {
+    "entidad": "fortificación de alimentos",
+    "relacion": "controversial en",
+    "valor": "efectos sobre fisuras labio-palatinas"
+  },
+  {
+    "entidad": "fortificación de la harina",
+    "relacion": "colabora en",
+    "valor": "disminución de disparidades en salud"
+  },
+  {
+    "entidad": "ácido fólico",
+    "relacion": "excretado por",
+    "valor": "orina cuando se sobrepasa la ingesta máxima tolerable"
+  },
+  {
+    "entidad": "efectos no intencionados del ácido fólico",
+    "relacion": "temores sobre",
+    "valor": "aumento de incidencia de cáncer"
+  },
+  {
+    "entidad": "Fitness cardiorrespiratorio",
+    "relacion": "se asocia a",
+    "valor": "mejora en marcadores metabólicos"
+  },
+  {
+    "entidad": "Fitness cardiorrespiratorio",
+    "relacion": "es un",
+    "valor": "indicador fisiológico"
+  },
+  {
+    "entidad": "Fitness cardiorrespiratorio",
+    "relacion": "relacionado con",
+    "valor": "capacidad máxima de consumo de oxígeno (VO2max)"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "presenta",
+    "valor": "altos niveles de inactividad física y sedentarismo"
+  },
+  {
+    "entidad": "inactividad física",
+    "relacion": "actúa negativamente sobre",
+    "valor": "Fitness cardiorrespiratorio"
+  },
+  {
+    "entidad": "Fitness cardiorrespiratorio",
+    "relacion": "asocia con",
+    "valor": "prevención de enfermedades crónicas no transmisibles"
+  },
+  {
+    "entidad": "aumento del Fitness cardiorrespiratorio",
+    "relacion": "se centra en",
+    "valor": "mayor eficiencia metabólica"
+  },
+  {
+    "entidad": "Fitness cardiorrespiratorio",
+    "relacion": "reduce",
+    "valor": "riesgo de enfermedades cardiovasculares"
+  },
+  {
+    "entidad": "Fitness cardiorrespiratorio",
+    "relacion": "reduce",
+    "valor": "comorbilidad y mortalidad"
+  },
+  {
+    "entidad": "1-MET",
+    "relacion": "incremento en",
+    "valor": "asociado a reducción de marcadores metabólicos"
+  },
+  {
+    "entidad": "marcadores metabólicos",
+    "relacion": "incluyen",
+    "valor": "glicemia, insulina, HOMA-IR, perímetro de cintura"
+  },
+  {
+    "entidad": "Fitness cardiorrespiratorio",
+    "relacion": "se mide con",
+    "valor": "Chester Step Test"
+  },
+  {
+    "entidad": "Chester Step Test",
+    "relacion": "es un",
+    "valor": "test submaximal"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "se mide con",
+    "valor": "acelerómetros"
+  },
+  {
+    "entidad": "Universidad de Chile",
+    "relacion": "aprobó",
+    "valor": "comité de ética del estudio GENADIO"
+  },
+  {
+    "entidad": "Universidad de Glasgow",
+    "relacion": "aprobó",
+    "valor": "comité de ética del estudio GENADIO"
+  },
+  {
+    "entidad": "Fitness cardiorrespiratorio",
+    "relacion": "se relaciona con",
+    "valor": "salud pública"
+  },
+  {
+    "entidad": "Fitness cardiorrespiratorio",
+    "relacion": "es un",
+    "valor": "predictor de salud cardiovascular"
+  },
+  {
+    "entidad": "sedentarismo",
+    "relacion": "incrementa",
+    "valor": "riesgo de enfermedades cardiometabólicas"
+  },
+  {
+    "entidad": "Hiperinsulinemia",
+    "relacion": "afecta a",
+    "valor": "niños"
+  },
+  {
+    "entidad": "Resistencia insulínica",
+    "relacion": "afecta a",
+    "valor": "niños"
+  },
+  {
+    "entidad": "Obesidad infantil",
+    "relacion": "es un",
+    "valor": "factor de riesgo para enfermedades crónicas no transmisibles"
+  },
+  {
+    "entidad": "Diabetes tipo 2",
+    "relacion": "asociada a",
+    "valor": "obesidad infantil"
+  },
+  {
+    "entidad": "Dislipidemias",
+    "relacion": "asociada a",
+    "valor": "obesidad infantil"
+  },
+  {
+    "entidad": "Hipertensión arterial",
+    "relacion": "asociada a",
+    "valor": "obesidad infantil"
+  },
+  {
+    "entidad": "Síndrome metabólico",
+    "relacion": "incluye",
+    "valor": "resistencia a la insulina"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud (OMS)",
+    "relacion": "define",
+    "valor": "obesidad como un componente del síndrome metabólico"
+  },
+  {
+    "entidad": "Federación Internacional de Diabetes (FID)",
+    "relacion": "define",
+    "valor": "obesidad abdominal como un componente del síndrome metabólico"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud y Nutrición 2012 (ENSANUT)",
+    "relacion": "reporta",
+    "valor": "prevalencia de sobrepeso y obesidad en niños"
+  },
+  {
+    "entidad": "Hiperinsulinemia",
+    "relacion": "causada por",
+    "valor": "señalización anormal de insulina"
+  },
+  {
+    "entidad": "Resistencia insulínica",
+    "relacion": "ha sido documentada desde",
+    "valor": "la etapa intrauterina"
+  },
+  {
+    "entidad": "Peso bajo al nacimiento",
+    "relacion": "asociado a",
+    "valor": "resistencia insulínica"
+  },
+  {
+    "entidad": "Acantosis nigricans",
+    "relacion": "es un marcador de",
+    "valor": "resistencia insulínica"
+  },
+  {
+    "entidad": "Índice de masa corporal (IMC)",
+    "relacion": "correlaciona mejor que",
+    "valor": "circunferencia de cintura con niveles de insulina"
+  },
+  {
+    "entidad": "Insulina",
+    "relacion": "correlaciona con",
+    "valor": "índice HOMA"
+  },
+  {
+    "entidad": "Índice HOMA",
+    "relacion": "se considera",
+    "valor": "indicador de resistencia insulínica"
+  },
+  {
+    "entidad": "Índice QUICKI",
+    "relacion": "se considera",
+    "valor": "indicador de sensibilidad a la insulina"
+  },
+  {
+    "entidad": "Dr. Eduardo Pérez Ortega",
+    "relacion": "brinda apoyo a",
+    "valor": "realización de pruebas bioquímicas"
+  },
+  {
+    "entidad": "Universidad Autónoma Benito Juárez de Oaxaca (UABJO)",
+    "relacion": "es un",
+    "valor": "centro de investigación médica y biológica"
+  },
+  {
+    "entidad": "Servicio de Endocrinología Pediátrica",
+    "relacion": "pertenece a",
+    "valor": "Hospital del Niño Poblano"
+  },
+  {
+    "entidad": "Centro de Investigación Interdisciplinaria UNAM-UABJO",
+    "relacion": "es un",
+    "valor": "centro de investigación"
+  },
+  {
+    "entidad": "Método CORM",
+    "relacion": "es un",
+    "valor": "sistema de clasificación de mortinatos"
+  },
+  {
+    "entidad": "muerte fetal",
+    "relacion": "es",
+    "valor": "el mayor contribuyente a la mortalidad perinatal"
+  },
+  {
+    "entidad": "Hospital San Borja Arriarán",
+    "relacion": "es un",
+    "valor": "hospital público en Chile"
+  },
+  {
+    "entidad": "Universidad de Chile",
+    "relacion": "pertenece a",
+    "valor": "Facultad de Medicina"
+  },
+  {
+    "entidad": "Instituto de Investigaciones Materno Infantil (IDI-MI)",
+    "relacion": "pertenece a",
+    "valor": "Facultad de Medicina de la Universidad de Chile"
+  },
+  {
+    "entidad": "auditoría de muerte fetal",
+    "relacion": "proporciona",
+    "valor": "datos para el estudio"
+  },
+  {
+    "entidad": "condición obstétrica relevante de la muerte",
+    "relacion": "se aplica en",
+    "valor": "la clasificación de muertes fetales"
+  },
+  {
+    "entidad": "análisis histopatológico de la placenta",
+    "relacion": "permite",
+    "valor": "conocer el daño sufrido por la placenta"
+  },
+  {
+    "entidad": "estrategias de prevención",
+    "relacion": "se elaboran a partir de",
+    "valor": "la condición obstétrica que origina la muerte fetal"
+  },
+  {
+    "entidad": "RCIU",
+    "relacion": "es",
+    "valor": "restricción del crecimiento fetal intrauterino"
+  },
+  {
+    "entidad": "asfixia durante el parto",
+    "relacion": "es",
+    "valor": "una causa de muerte fetal"
+  },
+  {
+    "entidad": "método PSANZ-PDC",
+    "relacion": "es",
+    "valor": "un sistema de clasificación de muertes perinatales"
+  },
+  {
+    "entidad": "método ReCoDe",
+    "relacion": "reduce",
+    "valor": "la proporción de mortinatos inexplicables"
+  },
+  {
+    "entidad": "muerte fetal",
+    "relacion": "se presenta en",
+    "valor": "82,6% durante el embarazo"
+  },
+  {
+    "entidad": "muerte fetal",
+    "relacion": "se presenta en",
+    "valor": "17,4% durante el parto"
+  },
+  {
+    "entidad": "método CORM",
+    "relacion": "identifica",
+    "valor": "91,5% de las condiciones asociadas con la muerte fetal"
+  },
+  {
+    "entidad": "método CORM",
+    "relacion": "reduce",
+    "valor": "la alta frecuencia de mortinatos inexplicables"
+  },
+  {
+    "entidad": "método CORM",
+    "relacion": "es",
+    "valor": "reproducible y útil"
+  },
+  {
+    "entidad": "muerte fetal",
+    "relacion": "tiene tendencia a repetirse por",
+    "valor": "la misma causa"
+  },
+  {
+    "entidad": "Síndrome de Down",
+    "relacion": "presenta",
+    "valor": "un conjunto de características particulares debido a la presencia de un cromosoma 21 adicional"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "tiene",
+    "valor": "la mayor tasa de nacimiento de niños con Síndrome de Down en la región"
+  },
+  {
+    "entidad": "Academia Americana de Pediatría (AAP)",
+    "relacion": "sugiere",
+    "valor": "un control anual de supervisión de salud para adolescentes con Síndrome de Down"
+  },
+  {
+    "entidad": "adolescentes con Síndrome de Down",
+    "relacion": "requieren",
+    "valor": "supervisión de salud que difiere de la población general"
+  },
+  {
+    "entidad": "Programa de Seguimiento en Salud para Personas con Síndrome de Down (PSSPSD UC)",
+    "relacion": "realiza",
+    "valor": "seguimiento de pacientes con Síndrome de Down"
+  },
+  {
+    "entidad": "morbimortalidad",
+    "relacion": "es escasa",
+    "valor": "en la literatura para adolescentes con Síndrome de Down"
+  },
+  {
+    "entidad": "morbimortalidad",
+    "relacion": "se describe",
+    "valor": "una alta frecuencia en adolescentes con Síndrome de Down"
+  },
+  {
+    "entidad": "hipotiroidismo",
+    "relacion": "se presenta",
+    "valor": "en el 44,8% de los adolescentes con Síndrome de Down"
+  },
+  {
+    "entidad": "cardiopatía congénita",
+    "relacion": "afecta",
+    "valor": "el 58,2% de los adolescentes con Síndrome de Down"
+  },
+  {
+    "entidad": "trastorno del espectro autista (TEA)",
+    "relacion": "se presenta",
+    "valor": "en el 11,9% de los adolescentes con Síndrome de Down"
+  },
+  {
+    "entidad": "mujeres con Síndrome de Down",
+    "relacion": "tienen",
+    "valor": "menarquia a los 12,2 años en promedio"
+  },
+  {
+    "entidad": "adolescentes con Síndrome de Down",
+    "relacion": "tienen",
+    "valor": "baja adherencia a controles en atención primaria"
+  },
+  {
+    "entidad": "PSSPSD UC",
+    "relacion": "es un",
+    "valor": "centro de referencia para el seguimiento de adolescentes con Síndrome de Down"
+  },
+  {
+    "entidad": "dislipidemia",
+    "relacion": "se presenta",
+    "valor": "en el 50% de los adolescentes con Síndrome de Down"
+  },
+  {
+    "entidad": "adolescentes con Síndrome de Down",
+    "relacion": "requieren",
+    "valor": "equipos multidisciplinarios capacitados para su seguimiento"
+  },
+  {
+    "entidad": "morbimortalidad",
+    "relacion": "es",
+    "valor": "una realidad poco estudiada en Chile"
+  },
+  {
+    "entidad": "calcio-fósforo",
+    "relacion": "es un",
+    "valor": "desorden metabólico"
+  },
+  {
+    "entidad": "España",
+    "relacion": "es un",
+    "valor": "país donde se estudia la variabilidad en pruebas de laboratorio"
+  },
+  {
+    "entidad": "médicos de atención primaria",
+    "relacion": "solicitan",
+    "valor": "pruebas de laboratorio"
+  },
+  {
+    "entidad": "pruebas de laboratorio",
+    "relacion": "se utilizan para",
+    "valor": "diagnóstico y manejo de desórdenes de metabolismo de calcio-fósforo"
+  },
+  {
+    "entidad": "variabilidad en la solicitud",
+    "relacion": "afecta a",
+    "valor": "eficiencia del sistema de salud"
+  },
+  {
+    "entidad": "hormona paratiroidea",
+    "relacion": "es un",
+    "valor": "marcador importante en el metabolismo de calcio"
+  },
+  {
+    "entidad": "25-hidroxivitamina D",
+    "relacion": "es un",
+    "valor": "marcador importante en el metabolismo de calcio"
+  },
+  {
+    "entidad": "hiperparatiroidismo primario",
+    "relacion": "es un",
+    "valor": "trastorno endocrino común"
+  },
+  {
+    "entidad": "laboratorios clínicos",
+    "relacion": "participan en",
+    "valor": "estudios observacionales"
+  },
+  {
+    "entidad": "Fundación Mapfre",
+    "relacion": "financia",
+    "valor": "investigación sobre desórdenes de metabolismo de calcio-fósforo"
+  },
+  {
+    "entidad": "calcio",
+    "relacion": "es solicitado para",
+    "valor": "detectar hiperparatiroidismo primario"
+  },
+  {
+    "entidad": "diferencias regionales",
+    "relacion": "afectan",
+    "valor": "patrones de solicitud de pruebas"
+  },
+  {
+    "entidad": "gestión privada",
+    "relacion": "aumenta",
+    "valor": "solicitudes de pruebas de PTH y 25(OH)D"
+  },
+  {
+    "entidad": "población española",
+    "relacion": "es",
+    "valor": "sujeta a variabilidad en pruebas de laboratorio"
+  },
+  {
+    "entidad": "calcio",
+    "relacion": "puede ser",
+    "valor": "subsolicitado en algunas áreas"
+  },
+  {
+    "entidad": "pruebas de laboratorio",
+    "relacion": "deben ser",
+    "valor": "homogéneas para diagnóstico adecuado"
+  },
+  {
+    "entidad": "hipocalcemia",
+    "relacion": "puede ser causada por",
+    "valor": "varios trastornos"
+  },
+  {
+    "entidad": "análisis de sangre",
+    "relacion": "es necesario para",
+    "valor": "evaluar el metabolismo de calcio"
+  },
+  {
+    "entidad": "calcio corregido por albúmina",
+    "relacion": "es reportado por",
+    "valor": "un porcentaje bajo de laboratorios"
+  },
+  {
+    "entidad": "International Consultation on Incontinence Questionnaire Short-Form (ICIQ-SF)",
+    "relacion": "evalúa",
+    "valor": "incontinencia urinaria femenina"
+  },
+  {
+    "entidad": "versión español-chileno del ICIQ-SF",
+    "relacion": "detecta",
+    "valor": "cambios en la severidad de incontinencia urinaria"
+  },
+  {
+    "entidad": "incontinencia urinaria (IU)",
+    "relacion": "es un",
+    "valor": "problema de salud importante en mujeres"
+  },
+  {
+    "entidad": "Hospital Parroquial San Bernardo",
+    "relacion": "realiza",
+    "valor": "tratamientos para incontinencia urinaria"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "son tratadas por",
+    "valor": "incontinencia urinaria"
+  },
+  {
+    "entidad": "tratamiento quirúrgico",
+    "relacion": "consiste en",
+    "valor": "colocación de mallas suburetrales"
+  },
+  {
+    "entidad": "tratamiento médico",
+    "relacion": "incluye",
+    "valor": "terapia hormonal y anticolinérgicos"
+  },
+  {
+    "entidad": "cuestionario ICIQ-SF",
+    "relacion": "es utilizado para",
+    "valor": "medir la percepción de síntomas de IU"
+  },
+  {
+    "entidad": "mujeres chilenas",
+    "relacion": "son beneficiarias de",
+    "valor": "Sistema Público de Salud"
+  },
+  {
+    "entidad": "sensibilidad al cambio",
+    "relacion": "es una propiedad de",
+    "valor": "instrumentos de evaluación"
+  },
+  {
+    "entidad": "Comité de Ética del Hospital Parroquial San Bernardo",
+    "relacion": "aprueba",
+    "valor": "uso del cuestionario ICIQ-SF"
+  },
+  {
+    "entidad": "mujeres con IU de esfuerzo",
+    "relacion": "son sometidas a",
+    "valor": "tratamiento quirúrgico efectivo"
+  },
+  {
+    "entidad": "cuestionario ICIQ-SF",
+    "relacion": "ha sido validado en",
+    "valor": "población chilena"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "es un desenlace relevante para",
+    "valor": "evaluar tratamientos de IU"
+  },
+  {
+    "entidad": "mujeres con IU",
+    "relacion": "reportan",
+    "valor": "cambios en la calidad de vida"
+  },
+  {
+    "entidad": "mujeres beneficiarias del FONASA",
+    "relacion": "son evaluadas por",
+    "valor": "cuestionario ICIQ-SF"
+  },
+  {
+    "entidad": "ICIQ-SF",
+    "relacion": "es un",
+    "valor": "cuestionario breve"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "son tratadas en",
+    "valor": "Servicio de Uroginecología"
+  },
+  {
+    "entidad": "mujeres con IU",
+    "relacion": "son evaluadas antes y después de",
+    "valor": "conducta terapéutica"
+  }
+]

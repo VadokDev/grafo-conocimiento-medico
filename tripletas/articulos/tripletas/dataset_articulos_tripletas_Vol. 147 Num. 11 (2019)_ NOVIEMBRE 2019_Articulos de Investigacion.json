@@ -1,0 +1,607 @@
+[
+  {
+    "entidad": "Estado de salud autorreportado",
+    "relacion": "depende de",
+    "valor": "factores externos como el estado socioeconómico"
+  },
+  {
+    "entidad": "Estado de salud autorreportado",
+    "relacion": "incluye",
+    "valor": "aspectos biológicos, psicológicos y sociales"
+  },
+  {
+    "entidad": "Estado de salud autorreportado",
+    "relacion": "es un",
+    "valor": "indicador de salud global"
+  },
+  {
+    "entidad": "Encuesta de Caracterización Socioeconómica Nacional (Casen)",
+    "relacion": "evalúa",
+    "valor": "estado de salud autorreportado"
+  },
+  {
+    "entidad": "Factores sociales",
+    "relacion": "influencian",
+    "valor": "estado de salud autorreportado"
+  },
+  {
+    "entidad": "No tener problemas de salud",
+    "relacion": "aumenta",
+    "valor": "autopercepción positiva de salud"
+  },
+  {
+    "entidad": "Consulta mental",
+    "relacion": "incrementa",
+    "valor": "estado de salud autorreportado"
+  },
+  {
+    "entidad": "Recibir ayuda de familiares",
+    "relacion": "incrementa",
+    "valor": "estado de salud autorreportado"
+  },
+  {
+    "entidad": "Sistema previsional Fonasa",
+    "relacion": "mejora",
+    "valor": "estado de salud autorreportado"
+  },
+  {
+    "entidad": "Educación formal",
+    "relacion": "aumenta",
+    "valor": "estado de salud autorreportado"
+  },
+  {
+    "entidad": "Trabajo",
+    "relacion": "incrementa",
+    "valor": "estado de salud autorreportado"
+  },
+  {
+    "entidad": "Patologías cardiovasculares",
+    "relacion": "disminuyen",
+    "valor": "estado de salud autorreportado"
+  },
+  {
+    "entidad": "Dificultad física",
+    "relacion": "disminuye",
+    "valor": "estado de salud autorreportado"
+  },
+  {
+    "entidad": "Quintiles de ingreso bajos",
+    "relacion": "disminuyen",
+    "valor": "estado de salud autorreportado"
+  },
+  {
+    "entidad": "Regiones de Aysén, Los Lagos, Biobío y Valparaíso",
+    "relacion": "incrementan",
+    "valor": "estado de salud autorreportado en hombres"
+  },
+  {
+    "entidad": "Regiones de Tarapacá, Antofagasta, Magallanes y Los Lagos",
+    "relacion": "incrementan",
+    "valor": "estado de salud autorreportado en mujeres"
+  },
+  {
+    "entidad": "Envejecimiento poblacional en Chile",
+    "relacion": "requiere",
+    "valor": "enfoque sistémico y holístico"
+  },
+  {
+    "entidad": "falla renal",
+    "relacion": "es una",
+    "valor": "complicación frecuente en pacientes con mieloma múltiple"
+  },
+  {
+    "entidad": "mieloma múltiple",
+    "relacion": "afecta a",
+    "valor": "pacientes con falla renal"
+  },
+  {
+    "entidad": "falla renal",
+    "relacion": "se define como",
+    "valor": "tasa de filtración glomerular estimada < 40 ml/min"
+  },
+  {
+    "entidad": "International Myeloma Working Group (IMWG)",
+    "relacion": "define",
+    "valor": "criterios para la respuesta renal"
+  },
+  {
+    "entidad": "thalidomida",
+    "relacion": "es un",
+    "valor": "régimen de inducción utilizado en todos los casos"
+  },
+  {
+    "entidad": "respuesta renal completa",
+    "relacion": "se logra en",
+    "valor": "51% de los pacientes"
+  },
+  {
+    "entidad": "sobrevida global a 3 años",
+    "relacion": "es mayor en",
+    "valor": "pacientes sin falla renal"
+  },
+  {
+    "entidad": "falla renal",
+    "relacion": "es un predictor",
+    "valor": "independiente de peor pronóstico"
+  },
+  {
+    "entidad": "remisión renal completa",
+    "relacion": "se asocia con",
+    "valor": "mejor sobrevida"
+  },
+  {
+    "entidad": "bortezomib",
+    "relacion": "es un",
+    "valor": "fármaco que mejora la supervivencia en pacientes con mieloma múltiple y falla renal"
+  },
+  {
+    "entidad": "estudio retrospectivo",
+    "relacion": "evalúa",
+    "valor": "características demográficas y clínicas de pacientes con mieloma múltiple"
+  },
+  {
+    "entidad": "mieloma múltiple",
+    "relacion": "requiere",
+    "valor": "terapia de reemplazo renal en un 10% de los casos"
+  },
+  {
+    "entidad": "análisis multivariado",
+    "relacion": "muestra que",
+    "valor": "falla renal y hipercalcemia son factores pronósticos independientes"
+  },
+  {
+    "entidad": "criterios IMWG",
+    "relacion": "deben ser",
+    "valor": "aplicados en la práctica clínica diaria"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "necesita",
+    "valor": "investigaciones más grandes y prospectivas para corroborar los datos"
+  },
+  {
+    "entidad": "colesterol no-HDL",
+    "relacion": "es un",
+    "valor": "tipo de colesterol"
+  },
+  {
+    "entidad": "población chilena",
+    "relacion": "presenta",
+    "valor": "niveles de colesterol no-HDL"
+  },
+  {
+    "entidad": "enfermedad cardiovascular",
+    "relacion": "asocia con",
+    "valor": "niveles de colesterol no-HDL"
+  },
+  {
+    "entidad": "diabetes mellitus",
+    "relacion": "asocia con",
+    "valor": "niveles de colesterol no-HDL"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud 2009-2010",
+    "relacion": "es un",
+    "valor": "estudio de corte transversal"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "realiza",
+    "valor": "la Encuesta Nacional de Salud"
+  },
+  {
+    "entidad": "triglicéridos",
+    "relacion": "afectan",
+    "valor": "la precisión de la estimación de colesterol LDL"
+  },
+  {
+    "entidad": "pacientes diabéticos",
+    "relacion": "presentan",
+    "valor": "dislipidemia aterogénica"
+  },
+  {
+    "entidad": "colesterol no-HDL",
+    "relacion": "predice",
+    "valor": "riesgo cardiovascular"
+  },
+  {
+    "entidad": "niveles de colesterol no-HDL",
+    "relacion": "se consideran",
+    "valor": "objetivo terapéutico"
+  },
+  {
+    "entidad": "sindrome metabólico",
+    "relacion": "se asocia con",
+    "valor": "niveles elevados de colesterol no-HDL"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "tienen",
+    "valor": "niveles de colesterol no-HDL más altos que mujeres"
+  },
+  {
+    "entidad": "pacientes con obesidad",
+    "relacion": "exhiben",
+    "valor": "mayores niveles de colesterol no-HDL"
+  },
+  {
+    "entidad": "pacientes con diabetes",
+    "relacion": "presentan",
+    "valor": "niveles elevados de colesterol no-HDL"
+  },
+  {
+    "entidad": "pacientes con enfermedad cardiovascular",
+    "relacion": "presentan",
+    "valor": "niveles elevados de colesterol no-HDL"
+  },
+  {
+    "entidad": "guía MINSAL 2014",
+    "relacion": "define",
+    "valor": "metas terapéuticas para colesterol no-HDL"
+  },
+  {
+    "entidad": "cálculo de colesterol no-HDL",
+    "relacion": "es útil para",
+    "valor": "manejo del riesgo cardiovascular residual"
+  },
+  {
+    "entidad": "colesterol LDL",
+    "relacion": "es un",
+    "valor": "objetivo terapéutico primario"
+  },
+  {
+    "entidad": "colesterol no-HDL",
+    "relacion": "es un",
+    "valor": "mejor predictor de riesgo cardiovascular"
+  },
+  {
+    "entidad": "diabetes mellitus tipo 2",
+    "relacion": "se asocia con",
+    "valor": "niveles elevados de colesterol no-HDL"
+  },
+  {
+    "entidad": "enfermedad cardiovascular",
+    "relacion": "se asocia con",
+    "valor": "niveles elevados de colesterol no-HDL"
+  },
+  {
+    "entidad": "vitamina D",
+    "relacion": "participa en",
+    "valor": "homeostasis del calcio"
+  },
+  {
+    "entidad": "déficit de vitamina D",
+    "relacion": "asociado a",
+    "valor": "trastornos del aparato osteomuscular"
+  },
+  {
+    "entidad": "déficit de vitamina D",
+    "relacion": "asociado a",
+    "valor": "demencia"
+  },
+  {
+    "entidad": "déficit de vitamina D",
+    "relacion": "asociado a",
+    "valor": "enfermedad de Alzheimer"
+  },
+  {
+    "entidad": "déficit de vitamina D",
+    "relacion": "asociado a",
+    "valor": "cáncer de próstata"
+  },
+  {
+    "entidad": "anestesiólogos",
+    "relacion": "identificados como",
+    "valor": "grupo de riesgo para déficit de vitamina D"
+  },
+  {
+    "entidad": "médicos",
+    "relacion": "tienen",
+    "valor": "baja exposición al sol"
+  },
+  {
+    "entidad": "suplemento de vitamina D",
+    "relacion": "es un",
+    "valor": "factor protector contra déficit de vitamina D"
+  },
+  {
+    "entidad": "índice de masa corporal",
+    "relacion": "es un",
+    "valor": "factor de riesgo para déficit de vitamina D"
+  },
+  {
+    "entidad": "anestesiólogos",
+    "relacion": "tienen",
+    "valor": "niveles de vitamina D bajos"
+  },
+  {
+    "entidad": "médicos",
+    "relacion": "presentan",
+    "valor": "déficit de vitamina D"
+  },
+  {
+    "entidad": "exposición al sol",
+    "relacion": "afecta a",
+    "valor": "niveles de vitamina D"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "agrava",
+    "valor": "déficit de vitamina D"
+  },
+  {
+    "entidad": "muestra de sangre",
+    "relacion": "se utiliza para medir",
+    "valor": "niveles de vitamina D y PTH"
+  },
+  {
+    "entidad": "PTH",
+    "relacion": "tiene",
+    "valor": "correlación inversa con vitamina D"
+  },
+  {
+    "entidad": "Clínica Dávila",
+    "relacion": "realiza",
+    "valor": "estudio sobre vitamina D en médicos"
+  },
+  {
+    "entidad": "médicos",
+    "relacion": "son evaluados por",
+    "valor": "encuesta sobre dieta y exposición al sol"
+  },
+  {
+    "entidad": "cirugía bariátrica",
+    "relacion": "es un",
+    "valor": "tratamiento para la obesidad"
+  },
+  {
+    "entidad": "pacientes bariátricos",
+    "relacion": "recuperan",
+    "valor": "peso perdido"
+  },
+  {
+    "entidad": "autoeficacia",
+    "relacion": "influye en",
+    "valor": "mantención de peso"
+  },
+  {
+    "entidad": "locus de control",
+    "relacion": "influye en",
+    "valor": "mantención de peso"
+  },
+  {
+    "entidad": "apoyo familiar",
+    "relacion": "es un",
+    "valor": "factor de riesgo o protección"
+  },
+  {
+    "entidad": "recuperación de peso",
+    "relacion": "es un",
+    "valor": "fenómeno multifactorial"
+  },
+  {
+    "entidad": "autoeficacia",
+    "relacion": "se asocia con",
+    "valor": "pérdida de peso"
+  },
+  {
+    "entidad": "locus de control interno",
+    "relacion": "se asocia con",
+    "valor": "éxito en programas de pérdida de peso"
+  },
+  {
+    "entidad": "identidad familiar",
+    "relacion": "diferencia entre",
+    "valor": "pacientes que mantienen y recuperan peso"
+  },
+  {
+    "entidad": "recuperación del %PTP",
+    "relacion": "se asocia con",
+    "valor": "menores niveles de autoeficacia"
+  },
+  {
+    "entidad": "recuperación del %PTP",
+    "relacion": "se asocia con",
+    "valor": "locus de control más externo"
+  },
+  {
+    "entidad": "recuperación del %PTP",
+    "relacion": "se asocia con",
+    "valor": "menores niveles de compromiso familiar"
+  },
+  {
+    "entidad": "tiempo postoperatorio",
+    "relacion": "afecta a",
+    "valor": "relaciones entre variables psicológicas"
+  },
+  {
+    "entidad": "Universidad de Concepción",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "Instituto de Ciencias Humanas Aplicadas (ICHA)",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "Proyecto CONICYT/FONDECYT",
+    "relacion": "financia",
+    "valor": "investigación"
+  },
+  {
+    "entidad": "Dr. Benjamín Vicente",
+    "relacion": "es el",
+    "valor": "autor principal del estudio"
+  },
+  {
+    "entidad": "tiempo destinado a dormir",
+    "relacion": "asocia",
+    "valor": "deterioro cognitivo en adultos mayores chilenos"
+  },
+  {
+    "entidad": "deterioro cognitivo",
+    "relacion": "incrementa",
+    "valor": "con el aumento de la edad"
+  },
+  {
+    "entidad": "demencia",
+    "relacion": "asociada con",
+    "valor": "deterioro cognitivo"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud 2009-2010",
+    "relacion": "proporciona",
+    "valor": "información sobre la salud de adultos mayores en Chile"
+  },
+  {
+    "entidad": "Mini Mental State Examination (MMSE)",
+    "relacion": "utilizado para",
+    "valor": "evaluar el funcionamiento cognitivo"
+  },
+  {
+    "entidad": "horas de sueño",
+    "relacion": "afectan",
+    "valor": "el funcionamiento cognitivo"
+  },
+  {
+    "entidad": "horas de sueño < 5",
+    "relacion": "aumentan",
+    "valor": "la probabilidad de deterioro cognitivo"
+  },
+  {
+    "entidad": "horas de sueño > 8",
+    "relacion": "aumentan",
+    "valor": "la probabilidad de deterioro cognitivo"
+  },
+  {
+    "entidad": "población chilena",
+    "relacion": "duerme",
+    "valor": "promedio de 6,8 horas"
+  },
+  {
+    "entidad": "deterioro cognitivo",
+    "relacion": "afecta",
+    "valor": "cerca de 200.000 personas en Chile"
+  },
+  {
+    "entidad": "factores modificables",
+    "relacion": "incluyen",
+    "valor": "baja escolaridad, aislamiento social, hipoacusia, obesidad, inactividad física, diabetes mellitus tipo 2, hipertensión arterial, depresión"
+  },
+  {
+    "entidad": "horas de sueño",
+    "relacion": "se relacionan con",
+    "valor": "funcionamiento cognitivo disminuido"
+  },
+  {
+    "entidad": "horas de sueño",
+    "relacion": "se asocian con",
+    "valor": "sintomatología ansiosa-depresiva"
+  },
+  {
+    "entidad": "horas de sueño",
+    "relacion": "son un factor de riesgo",
+    "valor": "modificable para evitar deterioro cognitivo"
+  },
+  {
+    "entidad": "programas preventivos",
+    "relacion": "deben considerar",
+    "valor": "hábitos de sueño adecuados"
+  },
+  {
+    "entidad": "Diabetes Mellitus tipo 2",
+    "relacion": "es",
+    "valor": "una enfermedad crónica"
+  },
+  {
+    "entidad": "intervenciones psicológicas",
+    "relacion": "mejoran",
+    "valor": "el control de la Diabetes Mellitus tipo 2"
+  },
+  {
+    "entidad": "hemoglobina glicada",
+    "relacion": "es un",
+    "valor": "parámetro de compensación de la diabetes"
+  },
+  {
+    "entidad": "cognitivo conductual",
+    "relacion": "es un tipo de",
+    "valor": "intervención psicológica"
+  },
+  {
+    "entidad": "consejería",
+    "relacion": "es un tipo de",
+    "valor": "intervención psicológica"
+  },
+  {
+    "entidad": "psicología transpersonal",
+    "relacion": "es un tipo de",
+    "valor": "intervención psicológica"
+  },
+  {
+    "entidad": "Universidad de Concepción",
+    "relacion": "realiza",
+    "valor": "investigaciones sobre diabetes"
+  },
+  {
+    "entidad": "Vicerrectoría de Investigación y Desarrollo de la Universidad de Concepción",
+    "relacion": "financia",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "metaanálisis",
+    "relacion": "evalúa",
+    "valor": "la efectividad de intervenciones psicológicas"
+  },
+  {
+    "entidad": "autogestión",
+    "relacion": "es un objetivo de",
+    "valor": "las intervenciones psicológicas"
+  },
+  {
+    "entidad": "adherencia",
+    "relacion": "se mejora con",
+    "valor": "intervenciones psicológicas"
+  },
+  {
+    "entidad": "conciencia de la enfermedad",
+    "relacion": "se potencia con",
+    "valor": "intervenciones psicológicas"
+  },
+  {
+    "entidad": "pacientes con Diabetes Mellitus tipo 2",
+    "relacion": "reciben",
+    "valor": "intervenciones psicológicas"
+  },
+  {
+    "entidad": "intervenciones complementarias",
+    "relacion": "apoyan",
+    "valor": "el tratamiento médico estándar"
+  },
+  {
+    "entidad": "estudios",
+    "relacion": "reportan",
+    "valor": "reducción de hemoglobina glicada"
+  },
+  {
+    "entidad": "estrategias de intervención",
+    "relacion": "se clasifican en",
+    "valor": "consejería, cognitivo conductual y transpersonal"
+  },
+  {
+    "entidad": "calidad metodológica",
+    "relacion": "se evalúa con",
+    "valor": "la escala de Jadad"
+  },
+  {
+    "entidad": "sesgo de publicación",
+    "relacion": "se evalúa con",
+    "valor": "funnel plot"
+  },
+  {
+    "entidad": "intervenciones psicológicas",
+    "relacion": "son",
+    "valor": "un complemento efectivo para el tratamiento de diabetes"
+  }
+]

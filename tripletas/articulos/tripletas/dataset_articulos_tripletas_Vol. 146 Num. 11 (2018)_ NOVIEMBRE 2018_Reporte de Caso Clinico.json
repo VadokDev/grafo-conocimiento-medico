@@ -1,0 +1,357 @@
+[
+  {
+    "entidad": "Arteritis de células gigantes",
+    "relacion": "es un",
+    "valor": "vasculopatía granulomatosa"
+  },
+  {
+    "entidad": "Arteritis de células gigantes",
+    "relacion": "afecta a",
+    "valor": "arterias de calibre mediano"
+  },
+  {
+    "entidad": "Arteritis de células gigantes",
+    "relacion": "se manifiesta como",
+    "valor": "cefalea frontal-occipital"
+  },
+  {
+    "entidad": "Arteritis de células gigantes",
+    "relacion": "puede causar",
+    "valor": "pérdida de visión"
+  },
+  {
+    "entidad": "Arteritis de células gigantes",
+    "relacion": "puede causar",
+    "valor": "parálisis del III par"
+  },
+  {
+    "entidad": "Mujer de 89 años",
+    "relacion": "presenta",
+    "valor": "pérdida de peso"
+  },
+  {
+    "entidad": "Mujer de 89 años",
+    "relacion": "presenta",
+    "valor": "cefalea frontal-temporal"
+  },
+  {
+    "entidad": "Mujer de 89 años",
+    "relacion": "presenta",
+    "valor": "visión borrosa"
+  },
+  {
+    "entidad": "Mujer de 89 años",
+    "relacion": "presenta",
+    "valor": "dolor ocular"
+  },
+  {
+    "entidad": "Mujer de 89 años",
+    "relacion": "fue evaluada en",
+    "valor": "neuro-oftalmología"
+  },
+  {
+    "entidad": "Resonancia Magnética",
+    "relacion": "muestra",
+    "valor": "incremento de señal en arterias temporales"
+  },
+  {
+    "entidad": "Doppler ultrasound",
+    "relacion": "es compatible con",
+    "valor": "Arteritis de células gigantes"
+  },
+  {
+    "entidad": "Tratamiento con esteroides",
+    "relacion": "se inicia con",
+    "valor": "prednisona oral"
+  },
+  {
+    "entidad": "Complicaciones isquémicas",
+    "relacion": "se observan en",
+    "valor": "pacientes con ACG"
+  },
+  {
+    "entidad": "Compromiso del III par",
+    "relacion": "es",
+    "valor": "una manifestación rara de ACG"
+  },
+  {
+    "entidad": "Arteritis de células gigantes",
+    "relacion": "puede manifestarse como",
+    "valor": "compromiso isquémico cerebral"
+  },
+  {
+    "entidad": "Compromiso isquémico cerebral",
+    "relacion": "es",
+    "valor": "infrecuente en ACG"
+  },
+  {
+    "entidad": "Mujer de 89 años",
+    "relacion": "desarrolló",
+    "valor": "ACG de expresión atípica"
+  },
+  {
+    "entidad": "edema pulmonar agudo grave",
+    "relacion": "es una complicación de",
+    "valor": "tratamiento de neumotórax espontáneo primario"
+  },
+  {
+    "entidad": "neumotórax espontáneo primario",
+    "relacion": "causa",
+    "valor": "edema pulmonar agudo grave"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "es un",
+    "valor": "hombre de 20 años"
+  },
+  {
+    "entidad": "pleurostomía",
+    "relacion": "se realiza con",
+    "valor": "tubo 24Fr"
+  },
+  {
+    "entidad": "expansión pulmonar",
+    "relacion": "lograda por",
+    "valor": "pleurostomía"
+  },
+  {
+    "entidad": "hipotensión",
+    "relacion": "presenta",
+    "valor": "el paciente"
+  },
+  {
+    "entidad": "saturación de oxígeno",
+    "relacion": "se reduce a",
+    "valor": "78%"
+  },
+  {
+    "entidad": "ventilación no invasiva",
+    "relacion": "se inicia para",
+    "valor": "mejorar oxigenación"
+  },
+  {
+    "entidad": "radiografía de tórax",
+    "relacion": "muestra",
+    "valor": "edema pulmonar extenso"
+  },
+  {
+    "entidad": "noradrenalina",
+    "relacion": "se utiliza para",
+    "valor": "mejorar perfusión"
+  },
+  {
+    "entidad": "albúmina",
+    "relacion": "se infunde para",
+    "valor": "mejorar respuesta"
+  },
+  {
+    "entidad": "cirugía",
+    "relacion": "se requiere para",
+    "valor": "excisión de bulas apicales"
+  },
+  {
+    "entidad": "edema pulmonar",
+    "relacion": "se resuelve en",
+    "valor": "3 días"
+  },
+  {
+    "entidad": "edema pulmonar por expansión",
+    "relacion": "fue descrito por",
+    "valor": "Pinault en 1853"
+  },
+  {
+    "entidad": "tiempo de espera",
+    "relacion": "es un factor de riesgo para",
+    "valor": "edema pulmonar por expansión"
+  },
+  {
+    "entidad": "diabetes mellitus",
+    "relacion": "se asocia a",
+    "valor": "daño microangiopático"
+  },
+  {
+    "entidad": "manejo del edema pulmonar",
+    "relacion": "es esencialmente",
+    "valor": "de soporte"
+  },
+  {
+    "entidad": "ventilación con CPAP",
+    "relacion": "se recomienda en caso de",
+    "valor": "saturación inadecuada"
+  },
+  {
+    "entidad": "prevención de complicaciones",
+    "relacion": "es importante en",
+    "valor": "manejo de neumotórax"
+  },
+  {
+    "entidad": "sospecha de edema",
+    "relacion": "se basa en",
+    "valor": "tos persistente y compromiso hemodinámico"
+  },
+  {
+    "entidad": "diagnóstico",
+    "relacion": "se realiza por",
+    "valor": "imagen"
+  },
+  {
+    "entidad": "hospitalización",
+    "relacion": "se requiere en",
+    "valor": "unidad monitorizada"
+  },
+  {
+    "entidad": "mieloma múltiple",
+    "relacion": "es un",
+    "valor": "desorden mieloproliferativo de células plasmáticas"
+  },
+  {
+    "entidad": "amiloidosis primaria",
+    "relacion": "asociada a",
+    "valor": "mieloma múltiple"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "pérdida de peso y astenia"
+  },
+  {
+    "entidad": "médico de atención primaria",
+    "relacion": "realiza",
+    "valor": "diagnóstico precoz"
+  },
+  {
+    "entidad": "médico de atención primaria",
+    "relacion": "deriva",
+    "valor": "paciente a hematología"
+  },
+  {
+    "entidad": "laboratorio",
+    "relacion": "realiza",
+    "valor": "pruebas diagnósticas"
+  },
+  {
+    "entidad": "biopsia de médula ósea",
+    "relacion": "confirma",
+    "valor": "infiltración de células plasmáticas"
+  },
+  {
+    "entidad": "Congo-red",
+    "relacion": "utilizada en",
+    "valor": "biopsia rectal"
+  },
+  {
+    "entidad": "tratamiento",
+    "relacion": "incluye",
+    "valor": "thalidomide, bortezomid y dexametasona"
+  },
+  {
+    "entidad": "amiloidosis",
+    "relacion": "caracterizada por",
+    "valor": "depósito de sustancia amiloidea en órganos"
+  },
+  {
+    "entidad": "mieloma múltiple",
+    "relacion": "puede presentar",
+    "valor": "síntomas como anemia y lesiones osteolíticas"
+  },
+  {
+    "entidad": "mieloma múltiple",
+    "relacion": "causa",
+    "valor": "20% de mortalidad en neoplasias hematológicas"
+  },
+  {
+    "entidad": "amiloidosis primaria",
+    "relacion": "se presenta en",
+    "valor": "75% de los pacientes con amiloidosis"
+  },
+  {
+    "entidad": "médico de atención primaria",
+    "relacion": "comunica",
+    "valor": "resultados analíticos al paciente"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "recibe",
+    "valor": "tratamiento oportuno y efectivo"
+  },
+  {
+    "entidad": "Reacción hemolítica transfusional tardía",
+    "relacion": "es un tipo de",
+    "valor": "complicación aguda"
+  },
+  {
+    "entidad": "Anemia de células falciformes",
+    "relacion": "es una",
+    "valor": "hemoglobinopatía hereditaria"
+  },
+  {
+    "entidad": "Anemia de células falciformes",
+    "relacion": "se manifiesta como",
+    "valor": "anemia hemolítica crónica"
+  },
+  {
+    "entidad": "Anemia de células falciformes",
+    "relacion": "afecta a",
+    "valor": "poblaciones en regiones cálidas"
+  },
+  {
+    "entidad": "Transfusiones",
+    "relacion": "son requeridas por",
+    "valor": "90% de los pacientes con anemia de células falciformes"
+  },
+  {
+    "entidad": "Aloinmunización",
+    "relacion": "es un efecto adverso de",
+    "valor": "transfusiones"
+  },
+  {
+    "entidad": "Reacción hemolítica transfusional tardía",
+    "relacion": "es un ejemplo de",
+    "valor": "aloinmunización"
+  },
+  {
+    "entidad": "Paciente haitiana",
+    "relacion": "presenta",
+    "valor": "reacción hemolítica transfusional tardía"
+  },
+  {
+    "entidad": "Coombs directo positivo",
+    "relacion": "indica",
+    "valor": "aloinmunización"
+  },
+  {
+    "entidad": "Hidratación abundante con suero hipotónico",
+    "relacion": "se utiliza para",
+    "valor": "optimizar la hidratación del glóbulo rojo"
+  },
+  {
+    "entidad": "Corticoesteroides",
+    "relacion": "se administran para",
+    "valor": "tratar la reacción hemolítica transfusional tardía"
+  },
+  {
+    "entidad": "Anticuerpos Anti-Fy3",
+    "relacion": "son detectados en",
+    "valor": "fenotipificación de eritrocitos"
+  },
+  {
+    "entidad": "Sistema Duffy",
+    "relacion": "es reconocido por",
+    "valor": "anticuerpos Anti-Fy3"
+  },
+  {
+    "entidad": "Plasmodium vivax",
+    "relacion": "utiliza",
+    "valor": "glicoproteína Duffy para unirse a los glóbulos rojos"
+  },
+  {
+    "entidad": "Sistema de salud",
+    "relacion": "debe adaptarse a",
+    "valor": "cambios poblacionales"
+  },
+  {
+    "entidad": "Bancos de sangre",
+    "relacion": "deben adaptarse a",
+    "valor": "nuevas demandas transfusionales"
+  }
+]

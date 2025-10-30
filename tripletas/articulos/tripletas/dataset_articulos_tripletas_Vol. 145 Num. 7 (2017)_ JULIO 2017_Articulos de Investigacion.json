@@ -1,0 +1,657 @@
+[
+  {
+    "entidad": "Cuestionario Evaluación de la Atención de Enfermedades Crónicas",
+    "relacion": "es un",
+    "valor": "instrumento para evaluar la atención de enfermedades crónicas"
+  },
+  {
+    "entidad": "PACIC",
+    "relacion": "es un",
+    "valor": "cuestionario utilizado para evaluar la atención de enfermedades crónicas desde la perspectiva del paciente"
+  },
+  {
+    "entidad": "Universidad de Concepción",
+    "relacion": "es un",
+    "valor": "institución que realizó la adaptación y validación del cuestionario"
+  },
+  {
+    "entidad": "María Elena Lagos",
+    "relacion": "es un",
+    "valor": "autora del estudio"
+  },
+  {
+    "entidad": "Alide Salazar",
+    "relacion": "es un",
+    "valor": "autora del estudio"
+  },
+  {
+    "entidad": "Patricio Salas",
+    "relacion": "es un",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "Modelo de Cuidados Crónicos de Wagner",
+    "relacion": "ha demostrado ser",
+    "valor": "un sistema efectivo de entrega de cuidado"
+  },
+  {
+    "entidad": "PACIC",
+    "relacion": "fue adaptado a",
+    "valor": "español chileno"
+  },
+  {
+    "entidad": "PACIC",
+    "relacion": "se aplicó a",
+    "valor": "200 usuarios del Programa de Salud Cardiovascular"
+  },
+  {
+    "entidad": "análisis factorial confirmatorio",
+    "relacion": "se utilizó para",
+    "valor": "evaluar la estructura del cuestionario"
+  },
+  {
+    "entidad": "análisis factorial exploratorio",
+    "relacion": "reveló",
+    "valor": "cinco factores explicando la variabilidad de los datos"
+  },
+  {
+    "entidad": "confiabilidad del cuestionario",
+    "relacion": "se obtuvo",
+    "valor": "buena confiabilidad global (α de Cronbach 0,886)"
+  },
+  {
+    "entidad": "cuestionario PACIC",
+    "relacion": "no replica",
+    "valor": "la estructura propuesta en el cuestionario original"
+  },
+  {
+    "entidad": "investigación futura",
+    "relacion": "se recomienda",
+    "valor": "incorporar un mayor número y diversidad de participantes"
+  },
+  {
+    "entidad": "Modelo de Atención Integral de Salud Familiar y Comunitaria",
+    "relacion": "se basa en",
+    "valor": "atención centrada en los usuarios, integralidad de la atención y continuidad del cuidado"
+  },
+  {
+    "entidad": "atención centrada en los usuarios",
+    "relacion": "integra",
+    "valor": "aspectos biológicos, emocionales, contextuales y expectativas de los usuarios"
+  },
+  {
+    "entidad": "atención centrada en los usuarios",
+    "relacion": "considera",
+    "valor": "corresponsabilidad del cuidado de la salud entre el equipo profesional y las personas"
+  },
+  {
+    "entidad": "atención centrada en los usuarios",
+    "relacion": "otorga",
+    "valor": "información necesaria para que las personas participen en decisiones sobre su cuidado"
+  },
+  {
+    "entidad": "integralidad de la atención",
+    "relacion": "considera",
+    "valor": "suministro continuo, articulado y de calidad de prestaciones a lo largo del ciclo vital"
+  },
+  {
+    "entidad": "integralidad de la atención",
+    "relacion": "incorpora",
+    "valor": "sistema de creencias asociados a problemas de salud y su tratamiento"
+  },
+  {
+    "entidad": "continuidad de la atención",
+    "relacion": "se relaciona con",
+    "valor": "coherencia y conexión de eventos de cuidado de la salud a lo largo del tiempo"
+  },
+  {
+    "entidad": "continuidad de la atención",
+    "relacion": "implica",
+    "valor": "asumir responsabilidad del cuidado en distintos escenarios a lo largo de la vida"
+  },
+  {
+    "entidad": "expertos en APS",
+    "relacion": "concuerdan en",
+    "valor": "la necesidad de un enfoque biopsicosocial en la atención"
+  },
+  {
+    "entidad": "expertos en APS",
+    "relacion": "proponen",
+    "valor": "ampliar la oferta a Guías Anticipatorias"
+  },
+  {
+    "entidad": "expertos en APS",
+    "relacion": "consideran necesario",
+    "valor": "aumentar el tiempo destinado al control de salud para personas con problemas crónicos"
+  },
+  {
+    "entidad": "expertos en APS",
+    "relacion": "plantean",
+    "valor": "extender la participación familiar en controles y acciones de monitoreo"
+  },
+  {
+    "entidad": "CESFAM",
+    "relacion": "deben ofrecer",
+    "valor": "atenciones de salud en horarios amplios"
+  },
+  {
+    "entidad": "sistema de información",
+    "relacion": "permite",
+    "valor": "la comunicación entre distintos niveles de atención"
+  },
+  {
+    "entidad": "ficha clínica del usuario",
+    "relacion": "debe estar",
+    "valor": "completa y disponible para todos los profesionales de salud"
+  },
+  {
+    "entidad": "atención primaria en salud (APS)",
+    "relacion": "impacta en",
+    "valor": "disminución del gasto en salud y mejora de la atención preventiva"
+  },
+  {
+    "entidad": "Escuela de Enfermería Pontificia Universidad Católica de Chile",
+    "relacion": "financia",
+    "valor": "proyecto de investigación"
+  },
+  {
+    "entidad": "Sociedad Chilena de Enfermería en Diálisis y Trasplante",
+    "relacion": "financia",
+    "valor": "proyecto de investigación"
+  },
+  {
+    "entidad": "carga laboral de las enfermeras",
+    "relacion": "se determina según",
+    "valor": "dependencia y riesgo de los pacientes"
+  },
+  {
+    "entidad": "pacientes en hemodiálisis crónica",
+    "relacion": "requieren",
+    "valor": "cuidado de un equipo multidisciplinario"
+  },
+  {
+    "entidad": "enfermera",
+    "relacion": "debe tener",
+    "valor": "habilidades interpersonales y competencias técnicas"
+  },
+  {
+    "entidad": "personal de enfermería",
+    "relacion": "representa",
+    "valor": "45% de la fuerza de trabajo en una Unidad de Hemodiálisis"
+  },
+  {
+    "entidad": "Reglamento sobre Centros de Diálisis",
+    "relacion": "establece",
+    "valor": "máximo de seis pacientes por enfermera"
+  },
+  {
+    "entidad": "alta proporción de pacientes por enfermera",
+    "relacion": "se asocia a",
+    "valor": "aumento de tareas no realizadas"
+  },
+  {
+    "entidad": "enfermera",
+    "relacion": "realiza",
+    "valor": "intervenciones para garantizar calidad de atención"
+  },
+  {
+    "entidad": "CUDYR-DIAL",
+    "relacion": "mide",
+    "valor": "dependencia y riesgo de pacientes en hemodiálisis"
+  },
+  {
+    "entidad": "carga laboral de enfermería",
+    "relacion": "considera",
+    "valor": "dependencia del paciente y actividades de enfermería"
+  },
+  {
+    "entidad": "cuidado directo",
+    "relacion": "requiere",
+    "valor": "contacto con el paciente"
+  },
+  {
+    "entidad": "cuidado indirecto",
+    "relacion": "no requiere",
+    "valor": "contacto con el paciente"
+  },
+  {
+    "entidad": "enfermeras de UHD",
+    "relacion": "aplican",
+    "valor": "instrumento CUDYR-DIAL"
+  },
+  {
+    "entidad": "carga laboral de la enfermera",
+    "relacion": "se distribuye en",
+    "valor": "60% cuidados directos y 40% cuidados indirectos"
+  },
+  {
+    "entidad": "cuidados directos",
+    "relacion": "requieren más tiempo en",
+    "valor": "conexión y desconexión al monitor"
+  },
+  {
+    "entidad": "cuidados indirectos",
+    "relacion": "incluyen",
+    "valor": "gestión transversal del cuidado"
+  },
+  {
+    "entidad": "pacientes en hemodiálisis",
+    "relacion": "se distribuyen en",
+    "valor": "categorías de riesgo y dependencia"
+  },
+  {
+    "entidad": "razón enfermera/paciente",
+    "relacion": "sugieren mantener en",
+    "valor": "1:69 en UHD chilenas"
+  },
+  {
+    "entidad": "Ejercicio intermitente",
+    "relacion": "mejora",
+    "valor": "control glicémico en pacientes con diabetes tipo 2"
+  },
+  {
+    "entidad": "Consejería nutricional",
+    "relacion": "mejora",
+    "valor": "calidad de vida en pacientes con diabetes tipo 2"
+  },
+  {
+    "entidad": "Pacientes con diabetes tipo 2",
+    "relacion": "participan en",
+    "valor": "programa de ejercicio HIIT y consejería nutricional"
+  },
+  {
+    "entidad": "HIIT",
+    "relacion": "afecta a",
+    "valor": "marcadores cardiometabólicos"
+  },
+  {
+    "entidad": "HIIT",
+    "relacion": "incrementa",
+    "valor": "sensibilidad a la insulina"
+  },
+  {
+    "entidad": "Calidad de vida",
+    "relacion": "es evaluada por",
+    "valor": "cuestionario SF-12"
+  },
+  {
+    "entidad": "Grupo experimental (GE)",
+    "relacion": "recibe",
+    "valor": "ejercicio HIIT y consejería nutricional"
+  },
+  {
+    "entidad": "Grupo control (GC)",
+    "relacion": "recibe",
+    "valor": "solo consejería nutricional"
+  },
+  {
+    "entidad": "Ejercicio HIIT",
+    "relacion": "reduce",
+    "valor": "glicemia y hemoglobina glicosilada"
+  },
+  {
+    "entidad": "Calidad de vida",
+    "relacion": "mejora en",
+    "valor": "función física y salud general"
+  },
+  {
+    "entidad": "Centro Comunitario de Rehabilitación",
+    "relacion": "es el lugar de",
+    "valor": "ejercicio HIIT"
+  },
+  {
+    "entidad": "Mujeres con diabetes tipo 2",
+    "relacion": "son",
+    "valor": "sujetas a intervención"
+  },
+  {
+    "entidad": "Programa de salud cardiovascular",
+    "relacion": "financia",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "Comité de Bioética del Servicio de Salud de la Red Araucanía Sur",
+    "relacion": "aprueba",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "Ejercicio HIIT",
+    "relacion": "es un tipo de",
+    "valor": "ejercicio tiempo-eficiente"
+  },
+  {
+    "entidad": "Consejería nutricional",
+    "relacion": "incluye",
+    "valor": "reducción de ingesta de grasa saturada y azúcar"
+  },
+  {
+    "entidad": "Grupo GE",
+    "relacion": "muestra cambios significativos en",
+    "valor": "parámetros de calidad de vida"
+  },
+  {
+    "entidad": "Grupo GC",
+    "relacion": "no muestra cambios significativos en",
+    "valor": "parámetros de calidad de vida"
+  },
+  {
+    "entidad": "Mini-Mental State Examination (MMSE-EFAM)",
+    "relacion": "evalúa",
+    "valor": "detección de demencia"
+  },
+  {
+    "entidad": "dementia",
+    "relacion": "afecta a",
+    "valor": "adultos mayores"
+  },
+  {
+    "entidad": "atención primaria",
+    "relacion": "juega un rol",
+    "valor": "sospecha y derivación de casos de demencia"
+  },
+  {
+    "entidad": "examen anual de medicina preventiva del adulto mayor (EMPAM)",
+    "relacion": "incluye",
+    "valor": "MMSE modificado"
+  },
+  {
+    "entidad": "MMSE-EFAM",
+    "relacion": "considera alterado",
+    "valor": "puntaje menor a 13"
+  },
+  {
+    "entidad": "deterioro cognitivo",
+    "relacion": "se asocia con",
+    "valor": "falla en la detección de demencia"
+  },
+  {
+    "entidad": "centros de atención primaria",
+    "relacion": "son",
+    "valor": "primer contacto con el sistema de salud"
+  },
+  {
+    "entidad": "estrategias de cribado poblacional",
+    "relacion": "son",
+    "valor": "controversiales en la detección de demencia"
+  },
+  {
+    "entidad": "MMSE de Folstein",
+    "relacion": "muestra mejor",
+    "valor": "sensibilidad en comparación con MMSE-EFAM"
+  },
+  {
+    "entidad": "Comité Ético Científico Metropolitano Oriente",
+    "relacion": "aprueba",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "diagnóstico clínico de demencia",
+    "relacion": "se establece mediante",
+    "valor": "criterios del DSM-IV-TR"
+  },
+  {
+    "entidad": "escuela",
+    "relacion": "influye en",
+    "valor": "rendimiento de test cognitivos"
+  },
+  {
+    "entidad": "Academia Americana de Alzheimer",
+    "relacion": "propone",
+    "valor": "algoritmo para identificar demencia"
+  },
+  {
+    "entidad": "pruebas de cribado cognitivo",
+    "relacion": "no satisfacen",
+    "valor": "criterios de la OMS para un buen programa de screening"
+  },
+  {
+    "entidad": "transporte activo",
+    "relacion": "asocia a",
+    "valor": "menor nivel de adiposidad"
+  },
+  {
+    "entidad": "transporte activo",
+    "relacion": "asocia a",
+    "valor": "menor riesgo de obesidad"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud 2009-2010",
+    "relacion": "utiliza",
+    "valor": "datos para el estudio"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "investiga",
+    "valor": "asociación entre transporte activo y riesgo de obesidad"
+  },
+  {
+    "entidad": "adiposidad",
+    "relacion": "se mide mediante",
+    "valor": "índice de masa corporal (IMC)"
+  },
+  {
+    "entidad": "adiposidad",
+    "relacion": "se mide mediante",
+    "valor": "perímetro de cintura (PC)"
+  },
+  {
+    "entidad": "inactividad física",
+    "relacion": "se asocia a",
+    "valor": "mayor riesgo de enfermedades crónicas"
+  },
+  {
+    "entidad": "transporte activo",
+    "relacion": "incrementa",
+    "valor": "niveles de actividad física"
+  },
+  {
+    "entidad": "políticas públicas",
+    "relacion": "promueven",
+    "valor": "incremento de la actividad física"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "reportan",
+    "valor": "mayor inactividad física que hombres"
+  },
+  {
+    "entidad": "transporte activo",
+    "relacion": "reduce",
+    "valor": "riesgo de obesidad central"
+  },
+  {
+    "entidad": "tiempo destinado a transporte activo",
+    "relacion": "disminuye",
+    "valor": "IMC y perímetro de cintura"
+  },
+  {
+    "entidad": "incremento en transporte activo",
+    "relacion": "disminuye",
+    "valor": "riesgo de obesidad general"
+  },
+  {
+    "entidad": "transporte activo",
+    "relacion": "es un medio",
+    "valor": "sencillo y económico para aumentar actividad física"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "realiza",
+    "valor": "análisis de regresión lineal y logística"
+  },
+  {
+    "entidad": "transporte activo",
+    "relacion": "se asocia con",
+    "valor": "menor prevalencia de inactividad física"
+  },
+  {
+    "entidad": "Microarreglos cromosómicos",
+    "relacion": "son utilizados para",
+    "valor": "diagnosticar trastornos del neurodesarrollo y anomalías congénitas"
+  },
+  {
+    "entidad": "Laboratorio de Citogenética Molecular",
+    "relacion": "pertenece a",
+    "valor": "Instituto de Nutrición y Tecnología de los Alimentos (INTA)"
+  },
+  {
+    "entidad": "INTA",
+    "relacion": "es parte de",
+    "valor": "Universidad de Chile"
+  },
+  {
+    "entidad": "Manchester Centre for Genomic Medicine",
+    "relacion": "colabora con",
+    "valor": "INTA"
+  },
+  {
+    "entidad": "trastornos del neurodesarrollo (TN)",
+    "relacion": "incluyen",
+    "valor": "retraso de desarrollo psicomotor, discapacidad intelectual y trastornos del espectro autista"
+  },
+  {
+    "entidad": "anomalías congénitas (AC)",
+    "relacion": "se definen como",
+    "valor": "alteraciones estructurales o funcionales ocurridas en el período intrauterino"
+  },
+  {
+    "entidad": "CMA",
+    "relacion": "detecta",
+    "valor": "desbalances genómicos"
+  },
+  {
+    "entidad": "CMA",
+    "relacion": "es un",
+    "valor": "examen de primera línea para RDSM, DI, TEA y AC"
+  },
+  {
+    "entidad": "CMA",
+    "relacion": "aumenta",
+    "valor": "la tasa de diagnóstico en trastornos del neurodesarrollo y anomalías congénitas"
+  },
+  {
+    "entidad": "sexo del paciente",
+    "relacion": "afecta",
+    "valor": "la detección de variantes patogénicas o probablemente patogénicas"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen",
+    "valor": "un factor protector en trastornos del neurodesarrollo"
+  },
+  {
+    "entidad": "diagnóstico etiológico",
+    "relacion": "permite",
+    "valor": "proveer pronóstico y determinar riesgos de recurrencia"
+  },
+  {
+    "entidad": "CMA",
+    "relacion": "es considerado",
+    "valor": "una herramienta diagnóstica válida en la población chilena"
+  },
+  {
+    "entidad": "FONASA",
+    "relacion": "debe incorporar",
+    "valor": "CMA en prestaciones codificadas"
+  },
+  {
+    "entidad": "CMA",
+    "relacion": "se realiza en",
+    "valor": "pacientes derivados desde hospitales públicos"
+  },
+  {
+    "entidad": "infarto agudo de miocardio",
+    "relacion": "afecta a",
+    "valor": "pacientes hospitalizados"
+  },
+  {
+    "entidad": "nivel socioeconómico",
+    "relacion": "influye en",
+    "valor": "sobrevida de pacientes"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "es el lugar de estudio de",
+    "valor": "la investigación"
+  },
+  {
+    "entidad": "Escuela de Salud Pública",
+    "relacion": "pertenece a",
+    "valor": "Facultad de Medicina, Universidad de Chile"
+  },
+  {
+    "entidad": "Fondo concursable para el apoyo a la investigación",
+    "relacion": "financia",
+    "valor": "la investigación"
+  },
+  {
+    "entidad": "Ministerio de Salud",
+    "relacion": "proporciona",
+    "valor": "bases de datos de egresos hospitalarios y mortalidad"
+  },
+  {
+    "entidad": "pacientes de bajo nivel socioeconómico",
+    "relacion": "tienen mayor riesgo de",
+    "valor": "mortalidad por infarto agudo de miocardio"
+  },
+  {
+    "entidad": "políticas públicas",
+    "relacion": "se implementan para",
+    "valor": "abordar inequidades en salud"
+  },
+  {
+    "entidad": "sistema de garantías universales (GES)",
+    "relacion": "asegura",
+    "valor": "acceso a atención médica"
+  },
+  {
+    "entidad": "seguro de salud",
+    "relacion": "refleja",
+    "valor": "nivel de ingresos y condiciones laborales"
+  },
+  {
+    "entidad": "sobrevida",
+    "relacion": "mejora en",
+    "valor": "pacientes de bajo nivel socioeconómico"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen mayor incremento en",
+    "valor": "sobrevida post infarto"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "tienen mayor riesgo de",
+    "valor": "muerte cardiovascular"
+  },
+  {
+    "entidad": "análisis multivariado",
+    "relacion": "muestra",
+    "valor": "diferencias en mortalidad por sexo y nivel socioeconómico"
+  },
+  {
+    "entidad": "enfermedad coronaria",
+    "relacion": "ha disminuido",
+    "valor": "mortalidad en las últimas décadas"
+  },
+  {
+    "entidad": "acceso a tratamientos",
+    "relacion": "es desigual en",
+    "valor": "pacientes de bajo nivel socioeconómico"
+  },
+  {
+    "entidad": "programas de prevención secundaria",
+    "relacion": "mejoran",
+    "valor": "pronóstico en pacientes"
+  },
+  {
+    "entidad": "falta de centros de rehabilitación cardiaca",
+    "relacion": "afecta",
+    "valor": "sobrevida a largo plazo"
+  },
+  {
+    "entidad": "estrategias terapéuticas",
+    "relacion": "impactan en",
+    "valor": "sobrevida a corto y largo plazo"
+  }
+]

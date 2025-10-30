@@ -1,0 +1,192 @@
+[
+  {
+    "entidad": "Consentimiento Informado",
+    "relacion": "es un",
+    "valor": "proceso ético-práctico en investigación"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "tiene",
+    "valor": "legislación sobre consentimiento informado"
+  },
+  {
+    "entidad": "Comités de Ética",
+    "relacion": "autorizan",
+    "valor": "investigación en línea con directrices éticas internacionales"
+  },
+  {
+    "entidad": "Declaración de Helsinki",
+    "relacion": "es un",
+    "valor": "referente internacional para la ética en investigación"
+  },
+  {
+    "entidad": "Ley 20.120",
+    "relacion": "regula",
+    "valor": "investigación científica en seres humanos"
+  },
+  {
+    "entidad": "Ley 20.584",
+    "relacion": "regula",
+    "valor": "derechos y deberes en atención en salud"
+  },
+  {
+    "entidad": "CMEIS",
+    "relacion": "emite",
+    "valor": "recomendaciones sobre ética en investigación"
+  },
+  {
+    "entidad": "Comité de Ética de Investigación en Seres Humanos",
+    "relacion": "evalúa",
+    "valor": "protocolos de investigación"
+  },
+  {
+    "entidad": "Investigación en emergencia",
+    "relacion": "puede requerir",
+    "valor": "exención de consentimiento informado"
+  },
+  {
+    "entidad": "Investigación retrospectiva",
+    "relacion": "puede ser dispensada de",
+    "valor": "consentimiento informado si los datos son anónimos"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "puede acceder a",
+    "valor": "fichas clínicas sin consentimiento en ciertos casos"
+  },
+  {
+    "entidad": "Código de Núremberg",
+    "relacion": "es un",
+    "valor": "documento ético en investigación"
+  },
+  {
+    "entidad": "CIOMS",
+    "relacion": "proporciona",
+    "valor": "pautas éticas internacionales para investigación"
+  },
+  {
+    "entidad": "Investigación",
+    "relacion": "debe contar con",
+    "valor": "consentimiento informado de los participantes"
+  },
+  {
+    "entidad": "Investigación",
+    "relacion": "puede ser autorizada sin consentimiento",
+    "valor": "si cumple con requisitos éticos"
+  },
+  {
+    "entidad": "Investigación en salud pública",
+    "relacion": "puede requerir",
+    "valor": "acceso a información sin consentimiento"
+  },
+  {
+    "entidad": "Investigación",
+    "relacion": "debe ser evaluada por",
+    "valor": "un Comité de Ética"
+  },
+  {
+    "entidad": "Investigación",
+    "relacion": "debe tener",
+    "valor": "valor social importante para justificar exenciones"
+  },
+  {
+    "entidad": "Hematología",
+    "relacion": "sección de",
+    "valor": "Hospital del Salvador"
+  },
+  {
+    "entidad": "Hospital del Salvador",
+    "relacion": "ubicado en",
+    "valor": "Santiago, Chile"
+  },
+  {
+    "entidad": "gammapatías monoclonales",
+    "relacion": "son",
+    "valor": "entidades poco comprendidas"
+  },
+  {
+    "entidad": "gammapatías monoclonales",
+    "relacion": "caracterizadas por",
+    "valor": "proliferación clonal de linfocitos B maduros o células plasmáticas"
+  },
+  {
+    "entidad": "célula plasmática",
+    "relacion": "es la fase terminal de",
+    "valor": "linfocito B"
+  },
+  {
+    "entidad": "neoplasias hematológicas",
+    "relacion": "son",
+    "valor": "neoplasias de células"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud",
+    "relacion": "clasifica",
+    "valor": "neoplasias hematológicas"
+  },
+  {
+    "entidad": "neoplasias de células plasmáticas",
+    "relacion": "no son sinónimo de",
+    "valor": "mieloma múltiple"
+  },
+  {
+    "entidad": "neoplasias de células plasmáticas",
+    "relacion": "comprenden",
+    "valor": "diversas patologías como mieloma múltiple y amiloidosis"
+  },
+  {
+    "entidad": "electroforesis de proteínas",
+    "relacion": "es un examen que",
+    "valor": "separa las proteínas del suero según carga eléctrica"
+  },
+  {
+    "entidad": "electroforesis de proteínas",
+    "relacion": "cuantifica",
+    "valor": "paraproteína"
+  },
+  {
+    "entidad": "inmunofijación",
+    "relacion": "caracteriza",
+    "valor": "paraproteína"
+  },
+  {
+    "entidad": "inmunoparesia",
+    "relacion": "se refiere a",
+    "valor": "disminución de las Ig no involucradas"
+  },
+  {
+    "entidad": "hipogammaglobulinemia",
+    "relacion": "puede representar",
+    "valor": "gammapatía monoclonal"
+  },
+  {
+    "entidad": "panel de tamizaje",
+    "relacion": "recomendado para",
+    "valor": "sospecha de gammapatía monoclonal"
+  },
+  {
+    "entidad": "cadenas livianas libres",
+    "relacion": "se estudian por",
+    "valor": "nefelometría"
+  },
+  {
+    "entidad": "mieloma múltiple",
+    "relacion": "puede manifestarse con",
+    "valor": "paraproteína"
+  },
+  {
+    "entidad": "hipergammaglobulinemia difusa",
+    "relacion": "es",
+    "valor": "policlonal"
+  },
+  {
+    "entidad": "linfocito B",
+    "relacion": "puede secretar",
+    "valor": "Ig desde su fase de linfocito B maduro"
+  },
+  {
+    "entidad": "neoplasias de linfocitos B maduros",
+    "relacion": "son capaces de",
+    "valor": "secretar proteína M"
+  }
+]

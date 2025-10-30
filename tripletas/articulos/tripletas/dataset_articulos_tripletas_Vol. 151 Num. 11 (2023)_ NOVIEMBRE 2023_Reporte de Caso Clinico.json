@@ -1,0 +1,292 @@
+[
+  {
+    "entidad": "desorden linfoproliferativo polimórfico",
+    "relacion": "es un",
+    "valor": "tipo de enfermedad"
+  },
+  {
+    "entidad": "granulomatosis linfomatoide",
+    "relacion": "es un",
+    "valor": "subtipo de desorden linfoproliferativo"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "tiene",
+    "valor": "inmunosupresión iatrogénica"
+  },
+  {
+    "entidad": "inmunosupresión iatrogénica",
+    "relacion": "asocia a",
+    "valor": "mayor incidencia de neoplasias"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "aumento de volumen de la glándula lagrimal"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "pérdida de peso"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "sudoración nocturna"
+  },
+  {
+    "entidad": "biopsia",
+    "relacion": "revela",
+    "valor": "necrosis extensa con infiltración linfoide"
+  },
+  {
+    "entidad": "EBV",
+    "relacion": "es un",
+    "valor": "virus asociado a la enfermedad"
+  },
+  {
+    "entidad": "diagnóstico",
+    "relacion": "es",
+    "valor": "desorden linfoproliferativo B polimórfico"
+  },
+  {
+    "entidad": "tratamiento",
+    "relacion": "es",
+    "valor": "quimioinmunoterapia"
+  },
+  {
+    "entidad": "R-CHOEP",
+    "relacion": "es un",
+    "valor": "esquema de tratamiento"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "se encuentra en",
+    "valor": "remisión completa"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud (OMS)",
+    "relacion": "publica",
+    "valor": "nuevas clasificaciones de neoplasias linfoides"
+  },
+  {
+    "entidad": "Comité asesor del Consenso de clasificación Internacional (ICC)",
+    "relacion": "publica",
+    "valor": "nuevas clasificaciones de neoplasias linfoides"
+  },
+  {
+    "entidad": "linfomas",
+    "relacion": "asocian a",
+    "valor": "deficiencia y desregulación inmune"
+  },
+  {
+    "entidad": "pacientes con inmunodeficiencia",
+    "relacion": "tienen",
+    "valor": "mayor incidencia de neoplasias"
+  },
+  {
+    "entidad": "histología",
+    "relacion": "muestra",
+    "valor": "infiltrado polimórfico angiocéntrico"
+  },
+  {
+    "entidad": "neoplasias linfoides maduras",
+    "relacion": "son",
+    "valor": "entidades con características clínicas específicas"
+  },
+  {
+    "entidad": "Síndrome de Gorham-Stout",
+    "relacion": "es un",
+    "valor": "trastorno óseo"
+  },
+  {
+    "entidad": "hombro",
+    "relacion": "afecta a",
+    "valor": "húmero derecho y acromion"
+  },
+  {
+    "entidad": "biopsia ósea",
+    "relacion": "revela",
+    "valor": "osteoclastos, vasos linfáticos y vasos sanguíneos"
+  },
+  {
+    "entidad": "Gorham y Stout",
+    "relacion": "estabelecieron",
+    "valor": "enfermedad específica en 1955"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "desaparición de hueso"
+  },
+  {
+    "entidad": "terapia con denosumab",
+    "relacion": "se utiliza para",
+    "valor": "inhibir actividad osteoclástica"
+  },
+  {
+    "entidad": "radioterapia",
+    "relacion": "se planea para",
+    "valor": "intentar remisión de enfermedad"
+  },
+  {
+    "entidad": "exámenes de laboratorio",
+    "relacion": "muestran",
+    "valor": "anemia, leucocitosis, insuficiencia renal"
+  },
+  {
+    "entidad": "quimioterapia",
+    "relacion": "se inicia con",
+    "valor": "bortezomib y dexametasona"
+  },
+  {
+    "entidad": "biopsia de médula ósea",
+    "relacion": "no muestra",
+    "valor": "signos de neoplasia"
+  },
+  {
+    "entidad": "hombro de Milwaukee",
+    "relacion": "es un",
+    "valor": "diagnóstico diferencial"
+  },
+  {
+    "entidad": "osteólisis",
+    "relacion": "puede ser causada por",
+    "valor": "tumores malignos"
+  },
+  {
+    "entidad": "cintigrafía ósea",
+    "relacion": "es útil para",
+    "valor": "mostrar aumento de captación en áreas de proliferación"
+  },
+  {
+    "entidad": "vitamina D",
+    "relacion": "se ha utilizado como",
+    "valor": "tratamiento farmacológico"
+  },
+  {
+    "entidad": "corticoides",
+    "relacion": "se han utilizado en",
+    "valor": "tratamientos para Gorham-Stout"
+  },
+  {
+    "entidad": "síntomas",
+    "relacion": "incluyen",
+    "valor": "dolor, aumento de volumen, deformación"
+  },
+  {
+    "entidad": "edad promedio",
+    "relacion": "es",
+    "valor": "25 años"
+  },
+  {
+    "entidad": "osteoclastos",
+    "relacion": "aumentan en",
+    "valor": "enfermedad de Gorham-Stout"
+  },
+  {
+    "entidad": "angiogénesis",
+    "relacion": "está relacionada con",
+    "valor": "producción de citoquinas"
+  },
+  {
+    "entidad": "diagnóstico",
+    "relacion": "se realiza mediante",
+    "valor": "radiografías, tomografías, resonancia magnética"
+  },
+  {
+    "entidad": "tratamientos farmacológicos",
+    "relacion": "se han utilizado para",
+    "valor": "enfermedad de Gorham-Stout"
+  },
+  {
+    "entidad": "Granuloma de pecera",
+    "relacion": "asociado a",
+    "valor": "Microbacterium paraoxydans"
+  },
+  {
+    "entidad": "Granuloma de pecera",
+    "relacion": "no asociado a",
+    "valor": "Mycobacterium marinum"
+  },
+  {
+    "entidad": "Microbacterium paraoxydans",
+    "relacion": "es un",
+    "valor": "patógeno bacteriano de peces"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "desarrolló",
+    "valor": "úlcera en el dedo de la mano"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "trabaja en",
+    "valor": "tienda de acuarios"
+  },
+  {
+    "entidad": "identificación",
+    "relacion": "realizada por",
+    "valor": "morfología de colonia y MALDI-TOF"
+  },
+  {
+    "entidad": "tratamiento",
+    "relacion": "incluye",
+    "valor": "beta-lactámicos y linezolid"
+  },
+  {
+    "entidad": "MALDI-TOF",
+    "relacion": "es un",
+    "valor": "método de identificación bacteriana"
+  },
+  {
+    "entidad": "Microbacterium paraoxydans",
+    "relacion": "observado en",
+    "valor": "infecciones humanas raras"
+  },
+  {
+    "entidad": "granuloma supurativo",
+    "relacion": "es causado por",
+    "valor": "Microbacterium paraoxydans"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "evolucionó",
+    "valor": "satisfactoriamente"
+  },
+  {
+    "entidad": "amoxicilina",
+    "relacion": "es un",
+    "valor": "antibiótico utilizado"
+  },
+  {
+    "entidad": "linezolid",
+    "relacion": "es un",
+    "valor": "antibiótico utilizado"
+  },
+  {
+    "entidad": "granuloma supurativo",
+    "relacion": "es un tipo de",
+    "valor": "infección"
+  },
+  {
+    "entidad": "histopatología",
+    "relacion": "es importante para",
+    "valor": "diagnóstico de granulomas"
+  },
+  {
+    "entidad": "Microbacterium spp.",
+    "relacion": "son susceptibles a",
+    "valor": "linezolid, meropenem, doxycycline y vancomicina"
+  },
+  {
+    "entidad": "M. paraoxydans",
+    "relacion": "es un",
+    "valor": "especie de Microbacterium"
+  },
+  {
+    "entidad": "granulomas",
+    "relacion": "pueden ser causados por",
+    "valor": "infecciones, patologías autoinmunes, toxinas, alérgenos, medicamentos o neoplasias"
+  }
+]

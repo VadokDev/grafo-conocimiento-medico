@@ -1,0 +1,182 @@
+[
+  {
+    "entidad": "Trastornos de la Conducta Alimentaria",
+    "relacion": "son",
+    "valor": "trastornos mentales incapacitantes y mortales"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "tiene",
+    "valor": "la prevalencia más alta de anorexia nerviosa y bulimia nerviosa en Latinoamérica"
+  },
+  {
+    "entidad": "pacientes con TCA",
+    "relacion": "experimentan",
+    "valor": "barreras de acceso a tratamiento"
+  },
+  {
+    "entidad": "barreras de acceso",
+    "relacion": "se clasifican en",
+    "valor": "nivel del paciente, entorno familiar y social, profesionales de salud, contexto sociocultural, y sistema de salud"
+  },
+  {
+    "entidad": "síntomas egosintónicos",
+    "relacion": "son",
+    "valor": "una barrera común en pacientes con TCA"
+  },
+  {
+    "entidad": "estigma social",
+    "relacion": "asociado a",
+    "valor": "los trastornos de la conducta alimentaria"
+  },
+  {
+    "entidad": "costo del tratamiento",
+    "relacion": "debería ser",
+    "valor": "más enfatizado en políticas públicas en Chile"
+  },
+  {
+    "entidad": "UTAL-UC",
+    "relacion": "proporciona",
+    "valor": "asesoramiento en la identificación de barreras"
+  },
+  {
+    "entidad": "mujeres y jóvenes",
+    "relacion": "son",
+    "valor": "los grupos más afectados por TCA"
+  },
+  {
+    "entidad": "búsqueda de tratamiento",
+    "relacion": "es influenciada por",
+    "valor": "creencias del paciente"
+  },
+  {
+    "entidad": "entorno familiar y social",
+    "relacion": "cumple un rol",
+    "valor": "crucial en el reconocimiento de TCA"
+  },
+  {
+    "entidad": "profesionales de salud",
+    "relacion": "pueden ser",
+    "valor": "una barrera si no reconocen el TCA"
+  },
+  {
+    "entidad": "actitud del profesional",
+    "relacion": "puede afectar",
+    "valor": "la experiencia del paciente en la búsqueda de ayuda"
+  },
+  {
+    "entidad": "estigmas socioculturales",
+    "relacion": "son",
+    "valor": "una barrera importante para acceder a tratamiento"
+  },
+  {
+    "entidad": "sistema de salud",
+    "relacion": "presenta",
+    "valor": "tiempos de espera prolongados y falta de recursos"
+  },
+  {
+    "entidad": "políticas públicas",
+    "relacion": "deben considerar",
+    "valor": "las barreras de acceso a tratamiento para TCA"
+  },
+  {
+    "entidad": "Litio",
+    "relacion": "es un",
+    "valor": "estabilizador del ánimo"
+  },
+  {
+    "entidad": "Litio",
+    "relacion": "es recomendado por",
+    "valor": "guías clínicas como el gold standard"
+  },
+  {
+    "entidad": "Trastorno Afectivo Bipolar",
+    "relacion": "es tratado con",
+    "valor": "Litio"
+  },
+  {
+    "entidad": "Litio",
+    "relacion": "causa",
+    "valor": "efectos adversos dermatológicos"
+  },
+  {
+    "entidad": "efectos adversos dermatológicos",
+    "relacion": "incluyen",
+    "valor": "psoriasis, alopecia, acné, inflamación folicular, erupciones maculopapulares"
+  },
+  {
+    "entidad": "psoriasis",
+    "relacion": "puede ser exacerbada por",
+    "valor": "Litio"
+  },
+  {
+    "entidad": "acné",
+    "relacion": "puede ser inducido por",
+    "valor": "Litio"
+  },
+  {
+    "entidad": "foliculitis",
+    "relacion": "puede ser inducida por",
+    "valor": "Litio"
+  },
+  {
+    "entidad": "Litio",
+    "relacion": "afecta",
+    "valor": "la adherencia al tratamiento"
+  },
+  {
+    "entidad": "efectos adversos dermatológicos",
+    "relacion": "son",
+    "valor": "reversibles tras la reducción de la dosis o interrupción del fármaco"
+  },
+  {
+    "entidad": "psoriasis",
+    "relacion": "es más resistente a",
+    "valor": "tratamientos convencionales cuando es inducida por Litio"
+  },
+  {
+    "entidad": "Litio",
+    "relacion": "aumenta",
+    "valor": "la producción de interleucina-2, TNF-α y interferón-gamma"
+  },
+  {
+    "entidad": "efectos cosméticos",
+    "relacion": "pueden afectar",
+    "valor": "la adherencia al tratamiento"
+  },
+  {
+    "entidad": "mecanismos sugeridos",
+    "relacion": "incluyen",
+    "valor": "regulación del sistema de segundos mensajeros"
+  },
+  {
+    "entidad": "Litio",
+    "relacion": "inhibe",
+    "valor": "adenilciclasa y inositol-monofosfatasa"
+  },
+  {
+    "entidad": "neutrofilia",
+    "relacion": "es provocada por",
+    "valor": "Litio"
+  },
+  {
+    "entidad": "Litio",
+    "relacion": "causa",
+    "valor": "proliferación de queratinocitos"
+  },
+  {
+    "entidad": "efectos adversos dermatológicos",
+    "relacion": "no suelen ser",
+    "valor": "graves"
+  },
+  {
+    "entidad": "foliculitis",
+    "relacion": "puede resolverse",
+    "valor": "espontáneamente"
+  },
+  {
+    "entidad": "efectos adversos dermatológicos",
+    "relacion": "deben ser",
+    "valor": "monitoreados por profesionales de la salud"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "entidad": "personas transgénero",
+    "relacion": "tienen",
+    "valor": "necesidades de salud"
+  },
+  {
+    "entidad": "médicos no especialistas",
+    "relacion": "deben conocer",
+    "valor": "aspectos generales sobre atención a personas transgénero"
+  },
+  {
+    "entidad": "disforia de género",
+    "relacion": "describe",
+    "valor": "distrés por discordancia entre identidad de género y sexo asignado"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud (OMS)",
+    "relacion": "define",
+    "valor": "salud como bienestar físico, psíquico y social"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile (MINSAL)",
+    "relacion": "redacta",
+    "valor": "documentos para orientar a profesionales de salud sobre atención a personas transgénero"
+  },
+  {
+    "entidad": "circular 34 (MINSAL, 2011)",
+    "relacion": "indica",
+    "valor": "trato por nombre social de personas transgénero"
+  },
+  {
+    "entidad": "circular 21 (MINSAL, 2012)",
+    "relacion": "refuerza",
+    "valor": "recomendaciones sobre identificación de personas transgénero"
+  },
+  {
+    "entidad": "tratamiento hormonal",
+    "relacion": "utiliza",
+    "valor": "estrógenos y espironolactona en personas transgénero femeninas"
+  },
+  {
+    "entidad": "tratamiento hormonal",
+    "relacion": "utiliza",
+    "valor": "testosterona en personas transgénero masculinas"
+  },
+  {
+    "entidad": "evaluación psicológica",
+    "relacion": "sugiere",
+    "valor": "previa al inicio del tratamiento de readecuación corporal"
+  },
+  {
+    "entidad": "personas transgénero",
+    "relacion": "son más propensas a",
+    "valor": "síntomas depresivos e intentos suicidas"
+  },
+  {
+    "entidad": "programas de adecuación sexual",
+    "relacion": "mejoran",
+    "valor": "calidad de vida de personas transgénero"
+  },
+  {
+    "entidad": "hormonación",
+    "relacion": "debe ser",
+    "valor": "de por vida en personas transgénero"
+  },
+  {
+    "entidad": "evaluaciones ginecológicas",
+    "relacion": "son necesarias",
+    "valor": "en personas transmasculinas"
+  },
+  {
+    "entidad": "evaluaciones de tamizaje de cáncer prostático",
+    "relacion": "son necesarias",
+    "valor": "en pacientes transfemeninos"
+  },
+  {
+    "entidad": "hormonación",
+    "relacion": "puede causar",
+    "valor": "efectos adversos como trombosis y cáncer de mama"
+  },
+  {
+    "entidad": "personas transgénero",
+    "relacion": "sufren",
+    "valor": "alto nivel de victimización y discriminación"
+  },
+  {
+    "entidad": "MINSAL",
+    "relacion": "desarrolla",
+    "valor": "protocolos de manejo médico para pacientes transgénero"
+  },
+  {
+    "entidad": "atención primaria",
+    "relacion": "es",
+    "valor": "la puerta de entrada al sistema de atención para personas transgénero"
+  },
+  {
+    "entidad": "anticoagulantes orales directos (DOACs)",
+    "relacion": "incluye",
+    "valor": "dabigatran, rivaroxaban, apixaban, edoxaban"
+  },
+  {
+    "entidad": "dabigatran",
+    "relacion": "es un",
+    "valor": "inhibidor directo de la trombina"
+  },
+  {
+    "entidad": "rivaroxaban",
+    "relacion": "es un",
+    "valor": "inhibidor del factor Xa"
+  },
+  {
+    "entidad": "apixaban",
+    "relacion": "es un",
+    "valor": "inhibidor del factor Xa"
+  },
+  {
+    "entidad": "edoxaban",
+    "relacion": "es un",
+    "valor": "inhibidor del factor Xa"
+  },
+  {
+    "entidad": "vitamina K antagonistas (AVK)",
+    "relacion": "es reemplazado por",
+    "valor": "DOACs"
+  },
+  {
+    "entidad": "DOACs",
+    "relacion": "tiene un",
+    "valor": "mejor perfil de seguridad"
+  },
+  {
+    "entidad": "idarucizumab",
+    "relacion": "es un",
+    "valor": "antídoto específico para dabigatran"
+  },
+  {
+    "entidad": "andexanet",
+    "relacion": "reversa",
+    "valor": "inhibidores del factor Xa"
+  },
+  {
+    "entidad": "ciraparantag",
+    "relacion": "es un",
+    "valor": "antídoto universal en investigación"
+  },
+  {
+    "entidad": "hemorragia",
+    "relacion": "es un",
+    "valor": "efecto adverso principal de anticoagulantes orales"
+  },
+  {
+    "entidad": "hemorragia intracraneana (HIC)",
+    "relacion": "es una",
+    "valor": "complicación temida"
+  },
+  {
+    "entidad": "CCP",
+    "relacion": "es el",
+    "valor": "agente hemostático más usado"
+  },
+  {
+    "entidad": "CCP-4",
+    "relacion": "es un",
+    "valor": "complejo de factores de coagulación"
+  },
+  {
+    "entidad": "rFVIIa",
+    "relacion": "actúa por",
+    "valor": "unión al factor tisular"
+  },
+  {
+    "entidad": "idarucizumab",
+    "relacion": "neutraliza",
+    "valor": "actividad de dabigatran"
+  },
+  {
+    "entidad": "andexanet",
+    "relacion": "se une a",
+    "valor": "inhibidores del factor Xa"
+  },
+  {
+    "entidad": "ciraparantag",
+    "relacion": "se une a",
+    "valor": "diversos anticoagulantes"
+  },
+  {
+    "entidad": "algoritmo de manejo",
+    "relacion": "resume",
+    "valor": "medidas para hemorragia asociada a DOACs"
+  },
+  {
+    "entidad": "carbón activado",
+    "relacion": "puede reducir",
+    "valor": "absorción de anticoagulantes"
+  },
+  {
+    "entidad": "hemodiálisis",
+    "relacion": "es una alternativa en",
+    "valor": "casos de sangrado mayor asociado a dabigatran"
+  }
+]

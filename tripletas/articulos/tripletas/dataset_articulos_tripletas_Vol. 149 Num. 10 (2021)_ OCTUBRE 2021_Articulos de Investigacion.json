@@ -1,0 +1,762 @@
+[
+  {
+    "entidad": "Cirugía coronaria sin circulación extracorpórea",
+    "relacion": "es un",
+    "valor": "método quirúrgico"
+  },
+  {
+    "entidad": "Hospital Regional Temuco",
+    "relacion": "es un",
+    "valor": "centro de cirugía cardíaca"
+  },
+  {
+    "entidad": "Universidad de La Frontera",
+    "relacion": "es un",
+    "valor": "institución educativa"
+  },
+  {
+    "entidad": "Dr. Juan Carlos Bahamondes S.",
+    "relacion": "es el autor de",
+    "valor": "estudio sobre cirugía coronaria"
+  },
+  {
+    "entidad": "OPCAB",
+    "relacion": "es un",
+    "valor": "tipo de cirugía coronaria"
+  },
+  {
+    "entidad": "mortalidad quirúrgica",
+    "relacion": "es",
+    "valor": "2%"
+  },
+  {
+    "entidad": "accidente cerebrovascular",
+    "relacion": "es",
+    "valor": "2.4%"
+  },
+  {
+    "entidad": "infarto miocárdico",
+    "relacion": "es",
+    "valor": "3.4%"
+  },
+  {
+    "entidad": "revascularización incompleta",
+    "relacion": "es",
+    "valor": "un problema mayor"
+  },
+  {
+    "entidad": "revascularización completa",
+    "relacion": "es",
+    "valor": "deseable en cirugía coronaria"
+  },
+  {
+    "entidad": "técnica sin CEC",
+    "relacion": "ofrece",
+    "valor": "ventajas en subgrupos de pacientes"
+  },
+  {
+    "entidad": "angioplastía",
+    "relacion": "es un",
+    "valor": "procedimiento previo a cirugía"
+  },
+  {
+    "entidad": "experiencia del cirujano",
+    "relacion": "afecta",
+    "valor": "resultados de la cirugía"
+  },
+  {
+    "entidad": "ultrasonido intraoperatorio",
+    "relacion": "es",
+    "valor": "método para determinar permeabilidad"
+  },
+  {
+    "entidad": "mortalidad a largo plazo",
+    "relacion": "es",
+    "valor": "mayor en cirugía sin CEC"
+  },
+  {
+    "entidad": "supervivencia actuarial",
+    "relacion": "es",
+    "valor": "similar a otros centros de alto volumen"
+  },
+  {
+    "entidad": "técnica clásica con CEC",
+    "relacion": "es comparada con",
+    "valor": "cirugía sin CEC"
+  },
+  {
+    "entidad": "respuesta inflamatoria sistémica",
+    "relacion": "es minimizada por",
+    "valor": "cirugía sin CEC"
+  },
+  {
+    "entidad": "mortalidad intra hospitalaria",
+    "relacion": "es",
+    "valor": "6.4% en conversión por inestabilidad hemodinámica"
+  },
+  {
+    "entidad": "Spondyloarthritis",
+    "relacion": "define",
+    "valor": "grupo de enfermedades"
+  },
+  {
+    "entidad": "spondyloarthropathy",
+    "relacion": "es un tipo de",
+    "valor": "Spondyloarthritis"
+  },
+  {
+    "entidad": "ankylosing spondylitis",
+    "relacion": "es un tipo de",
+    "valor": "Spondyloarthritis"
+  },
+  {
+    "entidad": "undifferentiated spondyloarthritis",
+    "relacion": "es un tipo de",
+    "valor": "Spondyloarthritis"
+  },
+  {
+    "entidad": "ciclado citrulinado péptido anticuerpo (anti-CCP)",
+    "relacion": "evalúa",
+    "valor": "frecuencia de positividad"
+  },
+  {
+    "entidad": "pacientes con AS",
+    "relacion": "presentan",
+    "valor": "dolor en articulaciones axiales"
+  },
+  {
+    "entidad": "pacientes con USpA",
+    "relacion": "presentan",
+    "valor": "dolor en articulaciones axiales"
+  },
+  {
+    "entidad": "HLA-B27",
+    "relacion": "es positivo en",
+    "valor": "55% de pacientes con AS"
+  },
+  {
+    "entidad": "HLA-B27",
+    "relacion": "es positivo en",
+    "valor": "25% de pacientes con USpA"
+  },
+  {
+    "entidad": "HLA-B27",
+    "relacion": "tiene relación con",
+    "valor": "antecedentes familiares de Spa"
+  },
+  {
+    "entidad": "anti-CCP",
+    "relacion": "es positivo en",
+    "valor": "56% de pacientes con artritis reumatoide"
+  },
+  {
+    "entidad": "anti-CCP",
+    "relacion": "es positivo en",
+    "valor": "9% de pacientes con AS"
+  },
+  {
+    "entidad": "anti-CCP",
+    "relacion": "es positivo en",
+    "valor": "6% de pacientes con USpA"
+  },
+  {
+    "entidad": "pacientes con AS",
+    "relacion": "tienen",
+    "valor": "mayor frecuencia de anti-CCP que controles sanos"
+  },
+  {
+    "entidad": "pacientes con USpA",
+    "relacion": "tienen",
+    "valor": "mayor frecuencia de anti-CCP que controles sanos"
+  },
+  {
+    "entidad": "ASDAS",
+    "relacion": "evalúa",
+    "valor": "actividad de la enfermedad"
+  },
+  {
+    "entidad": "BASDAI",
+    "relacion": "evalúa",
+    "valor": "actividad de la enfermedad"
+  },
+  {
+    "entidad": "familiares de pacientes con Spa",
+    "relacion": "tienen",
+    "valor": "mayor frecuencia de HLA-B27 positivo"
+  },
+  {
+    "entidad": "enfermedades reumatológicas",
+    "relacion": "se relacionan con",
+    "valor": "anti-CCP positivo"
+  },
+  {
+    "entidad": "enfermedades no reumatológicas",
+    "relacion": "pueden presentar",
+    "valor": "anti-CCP positivo"
+  },
+  {
+    "entidad": "Región Metropolitana de Chile",
+    "relacion": "está expuesta a",
+    "valor": "niveles de dióxido de nitrógeno superiores a las guías de calidad del aire de la OMS"
+  },
+  {
+    "entidad": "dióxido de nitrógeno",
+    "relacion": "afecta a",
+    "valor": "la salud pública"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud (OMS)",
+    "relacion": "estima",
+    "valor": "7 millones de muertes anuales por contaminación del aire"
+  },
+  {
+    "entidad": "contaminantes primarios",
+    "relacion": "son emitidos por",
+    "valor": "procesos de combustión y vehículos"
+  },
+  {
+    "entidad": "dióxido de nitrógeno (NO2)",
+    "relacion": "participa en",
+    "valor": "la formación de contaminantes secundarios"
+  },
+  {
+    "entidad": "dióxido de nitrógeno",
+    "relacion": "causa",
+    "valor": "efectos nocivos directos sobre el aparato respiratorio"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "tiene valores de",
+    "valor": "100 y 400 µg/m3 para la norma anual y horaria"
+  },
+  {
+    "entidad": "dióxido de nitrógeno",
+    "relacion": "asociado con",
+    "valor": "daño cardiovascular"
+  },
+  {
+    "entidad": "dióxido de nitrógeno",
+    "relacion": "asociado con",
+    "valor": "depresión"
+  },
+  {
+    "entidad": "dióxido de nitrógeno",
+    "relacion": "asociado con",
+    "valor": "partos prematuros y bajo peso de nacimiento"
+  },
+  {
+    "entidad": "dióxido de nitrógeno",
+    "relacion": "asociado con",
+    "valor": "Enfermedad de Parkinson"
+  },
+  {
+    "entidad": "dióxido de nitrógeno",
+    "relacion": "asociado con",
+    "valor": "Diabetes"
+  },
+  {
+    "entidad": "dióxido de nitrógeno",
+    "relacion": "asociado con",
+    "valor": "hospitalizaciones por Fibrosis Pulmonar Idiopática"
+  },
+  {
+    "entidad": "Ministerio de Medio Ambiente",
+    "relacion": "administra",
+    "valor": "el Sistema Nacional de Calidad del Aire"
+  },
+  {
+    "entidad": "Sistema Nacional de Calidad del Aire",
+    "relacion": "proporciona",
+    "valor": "información sobre concentraciones de NO2"
+  },
+  {
+    "entidad": "Riesgo Atribuible",
+    "relacion": "es",
+    "valor": "la proporción del impacto sobre la salud atribuible a la exposición"
+  },
+  {
+    "entidad": "Ministerio de Medio Ambiente",
+    "relacion": "debe revisar",
+    "valor": "la norma primaria de calidad del aire para NO2"
+  },
+  {
+    "entidad": "población expuesta",
+    "relacion": "debe ser educada sobre",
+    "valor": "el riesgo de exposición a NO2"
+  },
+  {
+    "entidad": "Índice Bogotano de Calidad de Aire (IBOCA)",
+    "relacion": "es un",
+    "valor": "indicador de calidad del aire en Bogotá"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "debe ajustar",
+    "valor": "sus niveles de regulación de calidad del aire"
+  },
+  {
+    "entidad": "resonancia magnética cardíaca",
+    "relacion": "es",
+    "valor": "método diagnóstico no invasivo"
+  },
+  {
+    "entidad": "miocarditis aguda",
+    "relacion": "es",
+    "valor": "enfermedad cardíaca aguda"
+  },
+  {
+    "entidad": "miocarditis aguda",
+    "relacion": "causa",
+    "valor": "inflamación del miocardio"
+  },
+  {
+    "entidad": "miocarditis aguda",
+    "relacion": "muestra",
+    "valor": "síntomas similares a infarto agudo de miocardio"
+  },
+  {
+    "entidad": "infarto agudo de miocardio",
+    "relacion": "es",
+    "valor": "diagnóstico diferencial con miocarditis aguda"
+  },
+  {
+    "entidad": "coronariografía",
+    "relacion": "excluye",
+    "valor": "lesiones coronarias ateroescleróticas significativas"
+  },
+  {
+    "entidad": "resonancia magnética cardíaca",
+    "relacion": "evalúa",
+    "valor": "función ventricular global y regional"
+  },
+  {
+    "entidad": "secuencias T2-STIR",
+    "relacion": "se utilizan para",
+    "valor": "evaluar edema miocárdico"
+  },
+  {
+    "entidad": "realce tardío de gadolinio",
+    "relacion": "se utiliza para",
+    "valor": "evaluar necrosis/fibrosis miocárdica"
+  },
+  {
+    "entidad": "criterios de Lake Louise",
+    "relacion": "son",
+    "valor": "marcadores para diagnóstico de miocarditis"
+  },
+  {
+    "entidad": "edema miocárdico",
+    "relacion": "es",
+    "valor": "hallazgo importante en diagnóstico de miocarditis"
+  },
+  {
+    "entidad": "realce tardío de gadolinio",
+    "relacion": "indica",
+    "valor": "necrosis/fibrosis del miocardio"
+  },
+  {
+    "entidad": "miocarditis aguda",
+    "relacion": "puede afectar",
+    "valor": "global o regionalmente el corazón"
+  },
+  {
+    "entidad": "edema miocárdico",
+    "relacion": "es",
+    "valor": "marcador de daño miocárdico reversible"
+  },
+  {
+    "entidad": "tratamiento trombolítico",
+    "relacion": "puede ser administrado en",
+    "valor": "pacientes con diagnóstico erróneo de IAM"
+  },
+  {
+    "entidad": "miocarditis aguda",
+    "relacion": "requiere",
+    "valor": "confirmación diagnóstica para tratamiento adecuado"
+  },
+  {
+    "entidad": "pacientes con diagnóstico de IAM",
+    "relacion": "deben ser estudiados con",
+    "valor": "resonancia magnética cardíaca"
+  },
+  {
+    "entidad": "depresión",
+    "relacion": "es",
+    "valor": "una enfermedad prevalente en adultos chilenos"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud 2016-2017",
+    "relacion": "proporciona",
+    "valor": "datos sobre la prevalencia de depresión en Chile"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen",
+    "valor": "mayor probabilidad de depresión que hombres"
+  },
+  {
+    "entidad": "frailty",
+    "relacion": "aumenta",
+    "valor": "la probabilidad de depresión"
+  },
+  {
+    "entidad": "dolor crónico",
+    "relacion": "aumenta",
+    "valor": "la probabilidad de depresión"
+  },
+  {
+    "entidad": "multimorbilidad",
+    "relacion": "aumenta",
+    "valor": "la probabilidad de depresión"
+  },
+  {
+    "entidad": "percepción de estrés permanente",
+    "relacion": "aumenta",
+    "valor": "la probabilidad de depresión"
+  },
+  {
+    "entidad": "bajo bienestar percibido",
+    "relacion": "aumenta",
+    "valor": "la probabilidad de depresión"
+  },
+  {
+    "entidad": "apoyo social",
+    "relacion": "es un",
+    "valor": "factor protector contra la depresión"
+  },
+  {
+    "entidad": "estrés financiero",
+    "relacion": "aumenta",
+    "valor": "la probabilidad de depresión"
+  },
+  {
+    "entidad": "mujeres divorciadas o separadas",
+    "relacion": "tienen",
+    "valor": "mayor riesgo de depresión que mujeres casadas"
+  },
+  {
+    "entidad": "hombres viudos",
+    "relacion": "tienen",
+    "valor": "mayor riesgo de depresión que hombres casados"
+  },
+  {
+    "entidad": "tiempo sedente",
+    "relacion": "aumenta",
+    "valor": "la probabilidad de depresión"
+  },
+  {
+    "entidad": "migraña",
+    "relacion": "aumenta",
+    "valor": "la probabilidad de depresión"
+  },
+  {
+    "entidad": "artritis reumatoide",
+    "relacion": "aumenta",
+    "valor": "la probabilidad de depresión"
+  },
+  {
+    "entidad": "bocio",
+    "relacion": "aumenta",
+    "valor": "la probabilidad de depresión en hombres"
+  },
+  {
+    "entidad": "estrés crónico",
+    "relacion": "puede precipitar",
+    "valor": "episodios depresivos"
+  },
+  {
+    "entidad": "comorbilidad",
+    "relacion": "aumenta",
+    "valor": "el riesgo de depresión"
+  },
+  {
+    "entidad": "sistemas sanitarios",
+    "relacion": "deben abordar",
+    "valor": "la depresión en grupos vulnerables"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "causa",
+    "valor": "mortalidad en pacientes hospitalizados"
+  },
+  {
+    "entidad": "Perú",
+    "relacion": "tiene",
+    "valor": "una alta tasa de mortalidad por COVID-19"
+  },
+  {
+    "entidad": "Hospital Santa Rosa",
+    "relacion": "es un",
+    "valor": "hospital en Piura, Perú"
+  },
+  {
+    "entidad": "Santa Rosa de Piura Hospital",
+    "relacion": "atiende",
+    "valor": "pacientes con COVID-19"
+  },
+  {
+    "entidad": "estudio prospectivo",
+    "relacion": "evalúa",
+    "valor": "factores asociados a mortalidad"
+  },
+  {
+    "entidad": "edad avanzada",
+    "relacion": "asociada a",
+    "valor": "mayor riesgo de mortalidad por COVID-19"
+  },
+  {
+    "entidad": "comorbilidades",
+    "relacion": "aumentan",
+    "valor": "el riesgo de mortalidad por COVID-19"
+  },
+  {
+    "entidad": "linfopenia",
+    "relacion": "es un",
+    "valor": "factor asociado a mortalidad"
+  },
+  {
+    "entidad": "neutrofilia",
+    "relacion": "es un",
+    "valor": "hallazgo común en pacientes hospitalizados"
+  },
+  {
+    "entidad": "PaO2/FiO2",
+    "relacion": "es un",
+    "valor": "indicador de severidad en COVID-19"
+  },
+  {
+    "entidad": "Universidad San Ignacio de Loyola",
+    "relacion": "es un",
+    "valor": "institución involucrada en el estudio"
+  },
+  {
+    "entidad": "Universidad Norbert Wiener",
+    "relacion": "es un",
+    "valor": "institución involucrada en el estudio"
+  },
+  {
+    "entidad": "Ministerio de Salud del Perú",
+    "relacion": "regula",
+    "valor": "los hospitales en Perú"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "es",
+    "valor": "un resultado importante del estudio"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "asociada a",
+    "valor": "edad, linfopenia, PCR elevada y comorbilidades"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "afecta a",
+    "valor": "millones de personas a nivel mundial"
+  },
+  {
+    "entidad": "Hospital Santa Rosa",
+    "relacion": "es",
+    "valor": "nivel II-2 según el Ministerio de Salud"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "contribuye a",
+    "valor": "el conocimiento sobre COVID-19 en Perú"
+  },
+  {
+    "entidad": "población adulta mundial",
+    "relacion": "es",
+    "valor": "27,5% físicamente inactiva"
+  },
+  {
+    "entidad": "inactividad física",
+    "relacion": "es",
+    "valor": "cuarto factor de riesgo asociado a mortalidad prematura"
+  },
+  {
+    "entidad": "diabetes mellitus tipo 2",
+    "relacion": "es atribuida a",
+    "valor": "7% de los casos a ser físicamente inactivo"
+  },
+  {
+    "entidad": "enfermedades cardiovasculares",
+    "relacion": "es atribuida a",
+    "valor": "6% de los casos a ser físicamente inactivo"
+  },
+  {
+    "entidad": "población chilena",
+    "relacion": "reporta",
+    "valor": "35,1% físicamente inactiva"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "reportan",
+    "valor": "42,5% de inactividad física"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "reportan",
+    "valor": "27,4% de inactividad física"
+  },
+  {
+    "entidad": "nivel educacional",
+    "relacion": "afecta",
+    "valor": "probabilidad de cumplir con recomendaciones de actividad física"
+  },
+  {
+    "entidad": "nivel de ingreso económico",
+    "relacion": "afecta",
+    "valor": "adherencia a estilos de vida saludable"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud 2016-2017",
+    "relacion": "es",
+    "valor": "fuente de datos para el estudio"
+  },
+  {
+    "entidad": "Global Physical Activity Questionnaire",
+    "relacion": "se utiliza para medir",
+    "valor": "niveles de actividad física"
+  },
+  {
+    "entidad": "tiempo sedente",
+    "relacion": "es mayor en",
+    "valor": "niveles de ingreso más altos"
+  },
+  {
+    "entidad": "personas en el quintil más bajo de ingreso",
+    "relacion": "reportan",
+    "valor": "mayor tiempo en actividad física de transporte"
+  },
+  {
+    "entidad": "personas en el quintil más bajo de ingreso",
+    "relacion": "tienen",
+    "valor": "mayor prevalencia de inactividad física"
+  },
+  {
+    "entidad": "personas en quintiles más altos de ingreso",
+    "relacion": "reportan",
+    "valor": "menor prevalencia de inactividad física"
+  },
+  {
+    "entidad": "tiempo sedente de riesgo",
+    "relacion": "aumenta en",
+    "valor": "personas con mayor nivel de ingreso"
+  },
+  {
+    "entidad": "Comité de Ética de la Escuela de Medicina de la Pontificia Universidad Católica de Chile",
+    "relacion": "aprueba",
+    "valor": "protocolo de la Encuesta Nacional de Salud"
+  },
+  {
+    "entidad": "Ministerio de Salud del Gobierno de Chile",
+    "relacion": "colabora con",
+    "valor": "la Encuesta Nacional de Salud"
+  },
+  {
+    "entidad": "mortalidad materna",
+    "relacion": "se define como",
+    "valor": "la muerte de una mujer durante el embarazo o dentro de los 42 días posteriores al parto"
+  },
+  {
+    "entidad": "Clasificación Internacional de Enfermedades (CIE)",
+    "relacion": "incluye",
+    "valor": "la categoría de muerte materna tardía"
+  },
+  {
+    "entidad": "Agencia Nacional de Investigación y Desarrollo",
+    "relacion": "financia",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "FONDECYT Regular 1190532",
+    "relacion": "es un",
+    "valor": "proyecto de financiamiento"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "proporciona",
+    "valor": "registros de defunciones"
+  },
+  {
+    "entidad": "Instituto Nacional de Estadísticas (INE)",
+    "relacion": "suministra",
+    "valor": "estadísticas vitales"
+  },
+  {
+    "entidad": "mortalidad materna",
+    "relacion": "ha mostrado",
+    "valor": "una tendencia a la estabilidad desde 2001"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "ha aumentado",
+    "valor": "en mujeres en Chile"
+  },
+  {
+    "entidad": "hipertensión arterial",
+    "relacion": "ha aumentado",
+    "valor": "en mujeres en Chile"
+  },
+  {
+    "entidad": "mujeres de 20 a 34 años",
+    "relacion": "muestran",
+    "valor": "un aumento en la mortalidad materna"
+  },
+  {
+    "entidad": "mortalidad materna",
+    "relacion": "es un indicador de",
+    "valor": "calidad de atención de salud"
+  },
+  {
+    "entidad": "cambio en factores de riesgo",
+    "relacion": "puede afectar",
+    "valor": "la tendencia de la mortalidad materna"
+  },
+  {
+    "entidad": "mortalidad materna tardía",
+    "relacion": "se refiere a",
+    "valor": "muertes por causa obstétrica que ocurren después de 42 días"
+  },
+  {
+    "entidad": "enfermedades cardiovasculares",
+    "relacion": "son un factor de riesgo",
+    "valor": "para la mortalidad materna"
+  },
+  {
+    "entidad": "mortalidad materna",
+    "relacion": "se estima que se podrían evitar",
+    "valor": "3 de cada 5 muertes con intervenciones eficaces"
+  },
+  {
+    "entidad": "tasa de mortalidad materna",
+    "relacion": "se espera que llegue a",
+    "valor": "28,8 para el año 2023"
+  },
+  {
+    "entidad": "cambio en la calidad de los registros",
+    "relacion": "puede explicar",
+    "valor": "el aumento en la mortalidad materna"
+  },
+  {
+    "entidad": "mujeres mayores de 34 años",
+    "relacion": "tienen",
+    "valor": "la tasa más alta de mortalidad materna"
+  },
+  {
+    "entidad": "mortalidad materna",
+    "relacion": "ha mostrado",
+    "valor": "una inflexión en la curva en 2003"
+  },
+  {
+    "entidad": "mortalidad materna",
+    "relacion": "se asocia con",
+    "valor": "morbilidad materna como enfermedad cardiovascular y sepsis"
+  },
+  {
+    "entidad": "cambio en la expectativa de vida",
+    "relacion": "puede influir en",
+    "valor": "la mortalidad materna"
+  }
+]

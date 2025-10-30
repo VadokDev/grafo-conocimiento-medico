@@ -1,0 +1,267 @@
+[
+  {
+    "entidad": "Angiopatía amiloidea",
+    "relacion": "es una forma de",
+    "valor": "amiloidosis esporádica y localizada"
+  },
+  {
+    "entidad": "Angiopatía amiloidea",
+    "relacion": "causa",
+    "valor": "hemorragia encefálica"
+  },
+  {
+    "entidad": "Hemorragia encefálica",
+    "relacion": "es la segunda causa más común de",
+    "valor": "hemorragia cerebral"
+  },
+  {
+    "entidad": "Angiopatía amiloidea",
+    "relacion": "se caracteriza por",
+    "valor": "deposición de amiloide en las paredes de los vasos cerebrales"
+  },
+  {
+    "entidad": "Proteína Ab4",
+    "relacion": "es el componente principal de",
+    "valor": "la angiopatía amiloidea"
+  },
+  {
+    "entidad": "Hemorragia encefálica por angiopatía amiloidea",
+    "relacion": "se localiza preferentemente en",
+    "valor": "la corteza cerebral y sustancia blanca subcortical"
+  },
+  {
+    "entidad": "Criterios de Boston",
+    "relacion": "se utilizan para",
+    "valor": "diagnosticar hemorragia encefálica por angiopatía amiloidea"
+  },
+  {
+    "entidad": "Edad",
+    "relacion": "es un factor de riesgo de",
+    "valor": "hemorragia encefálica por angiopatía amiloidea"
+  },
+  {
+    "entidad": "Hemosiderosis superficial",
+    "relacion": "aumenta el riesgo de",
+    "valor": "hemorragia encefálica por angiopatía amiloidea"
+  },
+  {
+    "entidad": "Microhemorragias",
+    "relacion": "son un factor de riesgo de",
+    "valor": "hemorragia encefálica por angiopatía amiloidea"
+  },
+  {
+    "entidad": "Hipertensión arterial",
+    "relacion": "es un factor de riesgo de",
+    "valor": "hemorragia encefálica por angiopatía amiloidea"
+  },
+  {
+    "entidad": "Antitrombóticos",
+    "relacion": "aumentan el riesgo de",
+    "valor": "hemorragia encefálica por angiopatía amiloidea"
+  },
+  {
+    "entidad": "Hemorragia encefálica por angiopatía amiloidea",
+    "relacion": "tiene una tasa de recurrencia de",
+    "valor": "aproximadamente 10% anual"
+  },
+  {
+    "entidad": "Angiopatía amiloidea",
+    "relacion": "se relaciona con",
+    "valor": "deterioro cognitivo"
+  },
+  {
+    "entidad": "Angiopatía amiloidea",
+    "relacion": "puede causar",
+    "valor": "episodios de alteración neurológica focal transitorios"
+  },
+  {
+    "entidad": "Resonancia magnética",
+    "relacion": "es útil para",
+    "valor": "diagnosticar microhemorragias por angiopatía amiloidea"
+  },
+  {
+    "entidad": "PET para amiloide",
+    "relacion": "se utiliza para",
+    "valor": "detectar depósitos de amiloide en el cerebro"
+  },
+  {
+    "entidad": "Hemorragia encefálica por angiopatía amiloidea",
+    "relacion": "tiene un mejor pronóstico que",
+    "valor": "hemorragia encefálica por hipertensión arterial en el periodo agudo"
+  },
+  {
+    "entidad": "Hemorragia encefálica por angiopatía amiloidea",
+    "relacion": "tiene un peor pronóstico a largo plazo debido a",
+    "valor": "alta tasa de recurrencia y deterioro cognitivo"
+  },
+  {
+    "entidad": "hipertensión arterial",
+    "relacion": "es un",
+    "valor": "problema de salud pública"
+  },
+  {
+    "entidad": "nuevos mecanismos patofisiológicos",
+    "relacion": "permiten",
+    "valor": "desarrollo de nuevas opciones terapéuticas"
+  },
+  {
+    "entidad": "fármacos antihipertensivos",
+    "relacion": "tienen",
+    "valor": "eficacia y tolerabilidad reconocidas"
+  },
+  {
+    "entidad": "pacientes hipertensos",
+    "relacion": "no cumplen con",
+    "valor": "tratamiento adecuado"
+  },
+  {
+    "entidad": "nuevas alternativas en terapia farmacológica",
+    "relacion": "se enfocan en",
+    "valor": "mejorar el manejo de la hipertensión"
+  },
+  {
+    "entidad": "enzima de conversión homóloga (ECA2)",
+    "relacion": "convierte",
+    "valor": "angiotensina 2 en angiotensina 1-7"
+  },
+  {
+    "entidad": "receptores Mas",
+    "relacion": "son activados por",
+    "valor": "angiotensina 1-7"
+  },
+  {
+    "entidad": "angiotensina 1-7",
+    "relacion": "ejerce",
+    "valor": "acciones vasodilatadoras"
+  },
+  {
+    "entidad": "agonistas de receptores Mas",
+    "relacion": "se han desarrollado",
+    "valor": "dos compuestos"
+  },
+  {
+    "entidad": "alamandina",
+    "relacion": "es un",
+    "valor": "agente con estructura similar a AG 1-7"
+  },
+  {
+    "entidad": "finerabast",
+    "relacion": "es el primer",
+    "valor": "inhibidor de APA utilizado en normotensos"
+  },
+  {
+    "entidad": "darusentan",
+    "relacion": "ha demostrado",
+    "valor": "ser efectivo en la reducción de presión arterial"
+  },
+  {
+    "entidad": "vacunas antihipertensivas",
+    "relacion": "se desarrollaron",
+    "valor": "para acción terapéutica prolongada"
+  },
+  {
+    "entidad": "disbiosis intestinal",
+    "relacion": "contribuye a",
+    "valor": "desarrollo de patología cardiovascular"
+  },
+  {
+    "entidad": "transplante de microbiota fecal",
+    "relacion": "causa",
+    "valor": "disfunción endotelial en ratas normotensas"
+  },
+  {
+    "entidad": "probioticos",
+    "relacion": "tienen efectos",
+    "valor": "antihipertensivos"
+  },
+  {
+    "entidad": "telemonitoreo",
+    "relacion": "ha demostrado ser",
+    "valor": "útil para el control de la hipertensión"
+  },
+  {
+    "entidad": "dispositivos digitales",
+    "relacion": "mejoran",
+    "valor": "la adherencia al tratamiento antihipertensivo"
+  },
+  {
+    "entidad": "Cistatina C",
+    "relacion": "es un",
+    "valor": "biomarcador"
+  },
+  {
+    "entidad": "Cistatina C",
+    "relacion": "se utiliza para",
+    "valor": "estimar la tasa de filtración glomerular"
+  },
+  {
+    "entidad": "Tasa de filtración glomerular (VFG)",
+    "relacion": "es",
+    "valor": "la mejor aproximación a la función renal global"
+  },
+  {
+    "entidad": "Cistatina C",
+    "relacion": "es producida por",
+    "valor": "todas las células nucleadas"
+  },
+  {
+    "entidad": "Cistatina C",
+    "relacion": "es filtrada por",
+    "valor": "los glomérulos"
+  },
+  {
+    "entidad": "Cistatina C",
+    "relacion": "es catabolizada por",
+    "valor": "células del túbulo proximal"
+  },
+  {
+    "entidad": "Concentración plasmática de cistatina C",
+    "relacion": "depende de",
+    "valor": "la tasa de filtración glomerular"
+  },
+  {
+    "entidad": "Cistatina C",
+    "relacion": "es menos afectada por",
+    "valor": "masa muscular, dieta, raza, género y edad que la creatinina"
+  },
+  {
+    "entidad": "Fórmulas que combinan creatinina y cistatina C",
+    "relacion": "son",
+    "valor": "más precisas"
+  },
+  {
+    "entidad": "Estimación de VFG basada en cistatina C",
+    "relacion": "es útil en",
+    "valor": "poblaciones con valores de creatinina sesgados"
+  },
+  {
+    "entidad": "Cistatina C",
+    "relacion": "tiene limitaciones en",
+    "valor": "trastornos tiroideos y uso de corticoides"
+  },
+  {
+    "entidad": "CKD-EPI",
+    "relacion": "es un",
+    "valor": "grupo colaborativo que desarrolla fórmulas de estimación de VFG"
+  },
+  {
+    "entidad": "FAS",
+    "relacion": "es un",
+    "valor": "grupo de fórmulas para estimar VFG"
+  },
+  {
+    "entidad": "Cistatina C",
+    "relacion": "puede ayudar a",
+    "valor": "evitar errores en la estimación de VFG en extremos de masa muscular"
+  },
+  {
+    "entidad": "Insuficiencia cardiaca",
+    "relacion": "puede causar",
+    "valor": "daño renal por hipoperfusión"
+  },
+  {
+    "entidad": "Cistatina C",
+    "relacion": "es un biomarcador que se correlaciona con",
+    "valor": "la VFG"
+  }
+]

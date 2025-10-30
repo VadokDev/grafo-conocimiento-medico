@@ -1,0 +1,292 @@
+[
+  {
+    "entidad": "cistitis enfisematosa",
+    "relacion": "es un",
+    "valor": "enfermedad"
+  },
+  {
+    "entidad": "hidronefrosis",
+    "relacion": "asociada a",
+    "valor": "cistitis enfisematosa"
+  },
+  {
+    "entidad": "diabetes mellitus tipo 2",
+    "relacion": "predispone a",
+    "valor": "cistitis enfisematosa"
+  },
+  {
+    "entidad": "sexo femenino",
+    "relacion": "predispone a",
+    "valor": "cistitis enfisematosa"
+  },
+  {
+    "entidad": "Escherichia coli",
+    "relacion": "es un",
+    "valor": "agente microbiológico asociado"
+  },
+  {
+    "entidad": "Klebsiella pneumoniae",
+    "relacion": "es un",
+    "valor": "agente microbiológico asociado"
+  },
+  {
+    "entidad": "ceftriaxona",
+    "relacion": "es un",
+    "valor": "tratamiento antibiótico"
+  },
+  {
+    "entidad": "sonda Foley",
+    "relacion": "se utiliza para",
+    "valor": "descompresión vesical"
+  },
+  {
+    "entidad": "cistitis enfisematosa",
+    "relacion": "tiene un",
+    "valor": "mortalidad del 7%"
+  },
+  {
+    "entidad": "cistitis enfisematosa",
+    "relacion": "puede ser diagnosticada por",
+    "valor": "imágenes"
+  },
+  {
+    "entidad": "tomografía axial computada",
+    "relacion": "es el",
+    "valor": "examen de elección"
+  },
+  {
+    "entidad": "cistitis enfisematosa",
+    "relacion": "puede asociarse a",
+    "valor": "pielonefritis enfisematosa"
+  },
+  {
+    "entidad": "cistitis enfisematosa",
+    "relacion": "puede requerir",
+    "valor": "tratamiento quirúrgico en complicaciones"
+  },
+  {
+    "entidad": "vejiga neurogénica",
+    "relacion": "asociada a",
+    "valor": "cistitis enfisematosa"
+  },
+  {
+    "entidad": "cistitis enfisematosa",
+    "relacion": "se caracteriza por",
+    "valor": "presencia de gas en la vejiga"
+  },
+  {
+    "entidad": "cistitis enfisematosa",
+    "relacion": "se presenta con",
+    "valor": "dolor abdominal severo"
+  },
+  {
+    "entidad": "cistitis enfisematosa",
+    "relacion": "se presenta con",
+    "valor": "retención urinaria"
+  },
+  {
+    "entidad": "cistitis enfisematosa",
+    "relacion": "se presenta con",
+    "valor": "fiebre"
+  },
+  {
+    "entidad": "cistitis enfisematosa",
+    "relacion": "se presenta con",
+    "valor": "hematuria"
+  },
+  {
+    "entidad": "cistitis enfisematosa",
+    "relacion": "se presenta con",
+    "valor": "disuria"
+  },
+  {
+    "entidad": "cistitis enfisematosa",
+    "relacion": "se presenta con",
+    "valor": "polaquiuria"
+  },
+  {
+    "entidad": "cistitis enfisematosa",
+    "relacion": "se presenta con",
+    "valor": "pneumaturia"
+  },
+  {
+    "entidad": "cistitis enfisematosa",
+    "relacion": "requiere",
+    "valor": "ajuste de terapia según cultivos"
+  },
+  {
+    "entidad": "Síndrome de Crigler-Najjar",
+    "relacion": "es un",
+    "valor": "trastorno genético"
+  },
+  {
+    "entidad": "bilirrubina indirecta",
+    "relacion": "se eleva por",
+    "valor": "deficiencia de UDP-GT"
+  },
+  {
+    "entidad": "UDP-GT",
+    "relacion": "es una",
+    "valor": "enzima"
+  },
+  {
+    "entidad": "kernicterus",
+    "relacion": "es una complicación de",
+    "valor": "Síndrome de Crigler-Najjar"
+  },
+  {
+    "entidad": "fototerapia",
+    "relacion": "es un tratamiento para",
+    "valor": "Síndrome de Crigler-Najjar"
+  },
+  {
+    "entidad": "trasplante hepático",
+    "relacion": "es el único tratamiento",
+    "valor": "curativo para Síndrome de Crigler-Najjar"
+  },
+  {
+    "entidad": "mutaciones en el gen UGT1A1",
+    "relacion": "causan",
+    "valor": "deficiencia de UDP-GT"
+  },
+  {
+    "entidad": "paciente mujer de 19 años",
+    "relacion": "tiene",
+    "valor": "Síndrome de Crigler-Najjar tipo I"
+  },
+  {
+    "entidad": "fototerapia nocturna",
+    "relacion": "se utiliza para",
+    "valor": "controlar niveles de bilirrubina"
+  },
+  {
+    "entidad": "fenobarbital",
+    "relacion": "se usa como",
+    "valor": "inductor de UDP-GT"
+  },
+  {
+    "entidad": "retraso mental leve",
+    "relacion": "es un síntoma de",
+    "valor": "kernicterus"
+  },
+  {
+    "entidad": "ictericia",
+    "relacion": "es un síntoma de",
+    "valor": "Síndrome de Crigler-Najjar"
+  },
+  {
+    "entidad": "escuela de Medicina, Pontificia Universidad Católica de Chile",
+    "relacion": "es una",
+    "valor": "institución educativa"
+  },
+  {
+    "entidad": "Santiago, Chile",
+    "relacion": "es la ubicación de",
+    "valor": "la institución educativa"
+  },
+  {
+    "entidad": "mujer de 19 años",
+    "relacion": "recibe",
+    "valor": "fototerapia artesanal nocturna"
+  },
+  {
+    "entidad": "convulsiones",
+    "relacion": "son un síntoma asociado a",
+    "valor": "suspensión de fototerapia"
+  },
+  {
+    "entidad": "bilirrubina total",
+    "relacion": "se controla con",
+    "valor": "fototerapia"
+  },
+  {
+    "entidad": "escuela de Medicina",
+    "relacion": "pertenece a",
+    "valor": "Pontificia Universidad Católica de Chile"
+  },
+  {
+    "entidad": "necrosis cutánea",
+    "relacion": "es un",
+    "valor": "síndrome"
+  },
+  {
+    "entidad": "necrosis cutánea",
+    "relacion": "es una manifestación de",
+    "valor": "diferentes enfermedades"
+  },
+  {
+    "entidad": "diagnóstico precoz",
+    "relacion": "es importante para",
+    "valor": "elegir tratamiento adecuado"
+  },
+  {
+    "entidad": "necrosis cutánea",
+    "relacion": "puede ser causada por",
+    "valor": "warfarina"
+  },
+  {
+    "entidad": "necrosis cutánea",
+    "relacion": "puede ser causada por",
+    "valor": "loxoscelismo"
+  },
+  {
+    "entidad": "necrosis cutánea",
+    "relacion": "puede ser causada por",
+    "valor": "microangiopatía diabética"
+  },
+  {
+    "entidad": "necrosis cutánea",
+    "relacion": "puede ser causada por",
+    "valor": "ectima gangrenoso"
+  },
+  {
+    "entidad": "necrosis cutánea",
+    "relacion": "puede ser causada por",
+    "valor": "coagulación intravascular diseminada"
+  },
+  {
+    "entidad": "necrosis cutánea",
+    "relacion": "puede ser causada por",
+    "valor": "vasculitis necrotizante"
+  },
+  {
+    "entidad": "necrosis cutánea",
+    "relacion": "puede ser causada por",
+    "valor": "vasculitis necrotizante sistémica extensa paraneoplásica"
+  },
+  {
+    "entidad": "necrosis cutánea",
+    "relacion": "puede ser causada por",
+    "valor": "vasculitis livedoide"
+  },
+  {
+    "entidad": "necrosis cutánea",
+    "relacion": "puede ser causada por",
+    "valor": "fascitis necrotizante"
+  },
+  {
+    "entidad": "necrosis cutánea",
+    "relacion": "puede ser causada por",
+    "valor": "necrosis por droga vasoactiva"
+  },
+  {
+    "entidad": "necrosis cutánea",
+    "relacion": "puede ser causada por",
+    "valor": "necrosis por cocaína"
+  },
+  {
+    "entidad": "necrosis cutánea",
+    "relacion": "requiere",
+    "valor": "hospitalización"
+  },
+  {
+    "entidad": "dermatólogo",
+    "relacion": "tiene un rol importante en",
+    "valor": "diagnóstico de necrosis cutánea"
+  },
+  {
+    "entidad": "biopsia cutánea",
+    "relacion": "es fundamental para",
+    "valor": "determinar diagnóstico precoz"
+  }
+]

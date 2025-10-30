@@ -1,0 +1,707 @@
+[
+  {
+    "entidad": "Hospital Clínico Universidad de Chile",
+    "relacion": "tiene como misión",
+    "valor": "formación de profesionales de la salud de excelencia"
+  },
+  {
+    "entidad": "Hospital Clínico Universidad de Chile",
+    "relacion": "proporciona",
+    "valor": "soluciones integrales de salud"
+  },
+  {
+    "entidad": "Programa de Becas de Formación Clínica",
+    "relacion": "fue aprobado por",
+    "valor": "Decreto Universitario N° 823"
+  },
+  {
+    "entidad": "Programa de Becas de Formación Clínica",
+    "relacion": "tiene como objetivo",
+    "valor": "satisfacer la necesidad de formación de académicos"
+  },
+  {
+    "entidad": "Becas",
+    "relacion": "financian",
+    "valor": "programas de formación en especialidades clínicas"
+  },
+  {
+    "entidad": "Ministerio de Salud",
+    "relacion": "financia",
+    "valor": "programas de formación de especialistas"
+  },
+  {
+    "entidad": "Escuela de Postgrado de la Facultad de Medicina",
+    "relacion": "realiza",
+    "valor": "la selección de postulantes"
+  },
+  {
+    "entidad": "residencias médicas",
+    "relacion": "son evaluadas por",
+    "valor": "docentes de la facultad"
+  },
+  {
+    "entidad": "HCUCH",
+    "relacion": "define",
+    "valor": "número de becas y especialidades cada año"
+  },
+  {
+    "entidad": "residencias médicas",
+    "relacion": "requieren",
+    "valor": "compromiso de permanecer en la institución"
+  },
+  {
+    "entidad": "residencias médicas",
+    "relacion": "son controladas y evaluadas por",
+    "valor": "docentes"
+  },
+  {
+    "entidad": "anestesiología",
+    "relacion": "desarrolla",
+    "valor": "proyectos y gana fondos concursables"
+  },
+  {
+    "entidad": "medicina intensiva",
+    "relacion": "participa en",
+    "valor": "proyectos de investigación"
+  },
+  {
+    "entidad": "obstetricia y ginecología",
+    "relacion": "realiza",
+    "valor": "presentaciones en congresos"
+  },
+  {
+    "entidad": "HCUCH",
+    "relacion": "no recupera",
+    "valor": "satisfactoriamente la inversión del programa"
+  },
+  {
+    "entidad": "programa de formación académica",
+    "relacion": "debe incluir",
+    "valor": "técnicas de docencia y evaluación"
+  },
+  {
+    "entidad": "mentoría académica",
+    "relacion": "revela",
+    "valor": "mayor productividad en investigación"
+  },
+  {
+    "entidad": "Becas de Formación Clínica",
+    "relacion": "cumplió",
+    "valor": "20 años"
+  },
+  {
+    "entidad": "HCUCH",
+    "relacion": "se propone",
+    "valor": "actualización del reglamento de becas"
+  },
+  {
+    "entidad": "Colangiocarcinoma (CCA)",
+    "relacion": "es un",
+    "valor": "tumor hepático primario"
+  },
+  {
+    "entidad": "Hepatocarcinoma-Colangiocarcinoma combinado (cHCC-CCA)",
+    "relacion": "es un",
+    "valor": "tipo de neoplasia hepática maligna"
+  },
+  {
+    "entidad": "cirrosis",
+    "relacion": "afecta a",
+    "valor": "pacientes con CCA y cHCC-CCA"
+  },
+  {
+    "entidad": "Hospital Clínico de la Universidad de Chile",
+    "relacion": "realiza",
+    "valor": "biopsias hepáticas"
+  },
+  {
+    "entidad": "biopsias hepáticas",
+    "relacion": "se utilizan para",
+    "valor": "diagnóstico de CCA y cHCC-CCA"
+  },
+  {
+    "entidad": "alfa-fetoproteína (AFP)",
+    "relacion": "es un",
+    "valor": "marcador tumoral"
+  },
+  {
+    "entidad": "CA 19-9",
+    "relacion": "es un",
+    "valor": "marcador tumoral"
+  },
+  {
+    "entidad": "cirrosis hepática",
+    "relacion": "es causada por",
+    "valor": "EHGNA y CEP"
+  },
+  {
+    "entidad": "EHGNA",
+    "relacion": "es un",
+    "valor": "factor de riesgo para cirrosis"
+  },
+  {
+    "entidad": "CEP",
+    "relacion": "es un",
+    "valor": "factor de riesgo para CCA"
+  },
+  {
+    "entidad": "diagnóstico histológico",
+    "relacion": "se realiza en",
+    "valor": "exámenes patológicos"
+  },
+  {
+    "entidad": "trasplante hepático ortotópico (THO)",
+    "relacion": "es un",
+    "valor": "tratamiento para pacientes con CCA"
+  },
+  {
+    "entidad": "cHCC-CCA",
+    "relacion": "tiene",
+    "valor": "peor pronóstico que HCC"
+  },
+  {
+    "entidad": "sobrevida a 12 meses",
+    "relacion": "es",
+    "valor": "baja en pacientes con CCA"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "es alta en",
+    "valor": "pacientes con CCA y cHCC-CCA"
+  },
+  {
+    "entidad": "método de biopsia core",
+    "relacion": "es preferido para",
+    "valor": "toma de muestras de tejido hepático"
+  },
+  {
+    "entidad": "tumores multifocales",
+    "relacion": "son un",
+    "valor": "factor de mal pronóstico"
+  },
+  {
+    "entidad": "invasión vascular",
+    "relacion": "es un",
+    "valor": "factor de mal pronóstico"
+  },
+  {
+    "entidad": "márgenes quirúrgicos libres < 2 cm",
+    "relacion": "son un",
+    "valor": "factor de mal pronóstico"
+  },
+  {
+    "entidad": "exploración multidisciplinaria",
+    "relacion": "es importante para",
+    "valor": "diagnóstico de CCA y cHCC-CCA"
+  },
+  {
+    "entidad": "cáncer",
+    "relacion": "es",
+    "valor": "una prioridad de salud pública en Chile"
+  },
+  {
+    "entidad": "Unidad de Evaluación de Tecnologías en Salud (ETESA UC)",
+    "relacion": "pertenece a",
+    "valor": "Pontificia Universidad Católica de Chile"
+  },
+  {
+    "entidad": "Departamento de Salud Pública",
+    "relacion": "pertenece a",
+    "valor": "Pontificia Universidad Católica de Chile"
+  },
+  {
+    "entidad": "Centro para la prevención y control del cáncer",
+    "relacion": "está en",
+    "valor": "Chile"
+  },
+  {
+    "entidad": "cáncer",
+    "relacion": "causa",
+    "valor": "la principal causa de muerte en 134 países"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud (OMS)",
+    "relacion": "informa que",
+    "valor": "1 de cada 6 muertes es atribuible al cáncer"
+  },
+  {
+    "entidad": "cáncer",
+    "relacion": "ocupa",
+    "valor": "el primer lugar de causa de muerte en Chile en 2021"
+  },
+  {
+    "entidad": "costo global atribuible al cáncer",
+    "relacion": "es",
+    "valor": "US$ 1.160 billones"
+  },
+  {
+    "entidad": "Ley Nacional de Cáncer (LNC)",
+    "relacion": "es",
+    "valor": "un hito relevante en políticas públicas en cáncer en Chile"
+  },
+  {
+    "entidad": "costo esperado anual total del cáncer",
+    "relacion": "se estima en",
+    "valor": "1.557 billones de pesos chilenos"
+  },
+  {
+    "entidad": "costos directos de salud",
+    "relacion": "se estima en",
+    "valor": "1.436 billones de pesos chilenos"
+  },
+  {
+    "entidad": "cáncer",
+    "relacion": "representa",
+    "valor": "8.9% de todos los gastos en salud"
+  },
+  {
+    "entidad": "cáncer",
+    "relacion": "representa",
+    "valor": "0.69% del Producto Interno Bruto (PIB)"
+  },
+  {
+    "entidad": "cáncer",
+    "relacion": "genera",
+    "valor": "costos al sistema de salud"
+  },
+  {
+    "entidad": "cáncer",
+    "relacion": "incluye",
+    "valor": "costos directos e indirectos"
+  },
+  {
+    "entidad": "costos indirectos",
+    "relacion": "se estiman en",
+    "valor": "71.000 millones de pesos chilenos"
+  },
+  {
+    "entidad": "cáncer",
+    "relacion": "concentra",
+    "valor": "67.9% del total de costos estimados"
+  },
+  {
+    "entidad": "cáncer",
+    "relacion": "afecta a",
+    "valor": "la población económicamente activa"
+  },
+  {
+    "entidad": "cáncer",
+    "relacion": "requiere",
+    "valor": "una asignación significativa del presupuesto de salud"
+  },
+  {
+    "entidad": "cáncer",
+    "relacion": "es",
+    "valor": "un problema creciente en Chile"
+  },
+  {
+    "entidad": "cáncer",
+    "relacion": "se estima que",
+    "valor": "los costos han incrementado significativamente en los últimos años"
+  },
+  {
+    "entidad": "Helicobacter pylori",
+    "relacion": "causa",
+    "valor": "infección en niños y adultos"
+  },
+  {
+    "entidad": "UBT-13C",
+    "relacion": "es un",
+    "valor": "método no invasivo para diagnóstico"
+  },
+  {
+    "entidad": "infección por Helicobacter pylori",
+    "relacion": "asociada con",
+    "valor": "cambios en el índice de masa corporal"
+  },
+  {
+    "entidad": "niños",
+    "relacion": "muestran",
+    "valor": "valores de UBT-13C más bajos que adultos"
+  },
+  {
+    "entidad": "H. pylori",
+    "relacion": "asociado con",
+    "valor": "mayor índice de masa corporal en niños"
+  },
+  {
+    "entidad": "H. pylori",
+    "relacion": "no se relaciona con",
+    "valor": "índice de masa corporal en adultos"
+  },
+  {
+    "entidad": "índice de masa corporal",
+    "relacion": "impacta en",
+    "valor": "títulos de UBT-13C en adultos"
+  },
+  {
+    "entidad": "títulos de UBT-13C",
+    "relacion": "asociados con",
+    "valor": "estado nutricional"
+  },
+  {
+    "entidad": "H. pylori",
+    "relacion": "tasa de infección",
+    "valor": "similar entre sexos"
+  },
+  {
+    "entidad": "H. pylori",
+    "relacion": "más prevalente en",
+    "valor": "niños que en adultos"
+  },
+  {
+    "entidad": "niños infectados",
+    "relacion": "presentan",
+    "valor": "malnutrición por exceso"
+  },
+  {
+    "entidad": "adultos infectados",
+    "relacion": "no muestran",
+    "valor": "diferencias significativas en estado nutricional"
+  },
+  {
+    "entidad": "títulos de UBT-13C",
+    "relacion": "correlacionan con",
+    "valor": "edad en adultos"
+  },
+  {
+    "entidad": "H. pylori",
+    "relacion": "asociado con",
+    "valor": "gastritis crónica y úlceras gastroduodenales"
+  },
+  {
+    "entidad": "H. pylori",
+    "relacion": "es un",
+    "valor": "factor de riesgo para cáncer gástrico"
+  },
+  {
+    "entidad": "estudio retrospectivo",
+    "relacion": "incluye",
+    "valor": "1141 pacientes"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "realiza",
+    "valor": "estudio sobre H. pylori"
+  },
+  {
+    "entidad": "H. pylori",
+    "relacion": "diagnosticado por",
+    "valor": "pruebas invasivas y no invasivas"
+  },
+  {
+    "entidad": "prueba de aliento con urea",
+    "relacion": "detecta",
+    "valor": "infección activa por H. pylori"
+  },
+  {
+    "entidad": "H. pylori",
+    "relacion": "se relaciona con",
+    "valor": "carga bacteriana"
+  },
+  {
+    "entidad": "H. pylori",
+    "relacion": "asociado con",
+    "valor": "diferencias en tasas de infección entre sexos"
+  },
+  {
+    "entidad": "TAVI",
+    "relacion": "es un",
+    "valor": "tratamiento para estenosis valvular aórtica"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "realiza",
+    "valor": "implantes de TAVI"
+  },
+  {
+    "entidad": "Hospital Clínico Universidad Católica",
+    "relacion": "realiza",
+    "valor": "implantes de TAVI"
+  },
+  {
+    "entidad": "Hospital San Juan de Dios",
+    "relacion": "realiza",
+    "valor": "implantes de TAVI"
+  },
+  {
+    "entidad": "Clínica Las Condes",
+    "relacion": "realiza",
+    "valor": "implantes de TAVI"
+  },
+  {
+    "entidad": "TAVI",
+    "relacion": "se introdujo en",
+    "valor": "2002"
+  },
+  {
+    "entidad": "TAVI",
+    "relacion": "se inició en Chile en",
+    "valor": "2010"
+  },
+  {
+    "entidad": "TAVI",
+    "relacion": "ha demostrado",
+    "valor": "resultados favorables en pacientes de alto riesgo"
+  },
+  {
+    "entidad": "TAVI",
+    "relacion": "se utiliza en",
+    "valor": "pacientes con riesgo quirúrgico moderado o bajo"
+  },
+  {
+    "entidad": "experiencia acumulada",
+    "relacion": "mejora",
+    "valor": "resultados de TAVI"
+  },
+  {
+    "entidad": "mortalidad intrahospitalaria",
+    "relacion": "fue",
+    "valor": "1.8%"
+  },
+  {
+    "entidad": "mortalidad a 30 días",
+    "relacion": "fue",
+    "valor": "2.7%"
+  },
+  {
+    "entidad": "mortalidad a 1 año",
+    "relacion": "fue",
+    "valor": "9.0%"
+  },
+  {
+    "entidad": "TAVI",
+    "relacion": "se realiza con",
+    "valor": "acceso transfemoral en 88% de los casos"
+  },
+  {
+    "entidad": "prótesis balón-expandible",
+    "relacion": "se utiliza en",
+    "valor": "82% de los pacientes"
+  },
+  {
+    "entidad": "TAVI",
+    "relacion": "ha impactado",
+    "valor": "la salud de muchos pacientes"
+  },
+  {
+    "entidad": "TAVI",
+    "relacion": "se considera",
+    "valor": "terapia de elección para estenosis valvular aórtica sintomática"
+  },
+  {
+    "entidad": "TAVI",
+    "relacion": "se ha utilizado en",
+    "valor": "pacientes con riesgo quirúrgico aumentado"
+  },
+  {
+    "entidad": "TAVI",
+    "relacion": "se ha realizado en",
+    "valor": "múltiples hospitales en Chile"
+  },
+  {
+    "entidad": "TAVI",
+    "relacion": "se ha utilizado para",
+    "valor": "mejorar la calidad de vida de pacientes con estenosis aórtica severa"
+  },
+  {
+    "entidad": "fibromialgia",
+    "relacion": "es una",
+    "valor": "enfermedad caracterizada por dolor musculoesquelético crónico"
+  },
+  {
+    "entidad": "disfunción cognitiva",
+    "relacion": "es un",
+    "valor": "síntoma común en pacientes con fibromialgia"
+  },
+  {
+    "entidad": "mujeres con fibromialgia",
+    "relacion": "tienen",
+    "valor": "mayor percepción de disfunción cognitiva"
+  },
+  {
+    "entidad": "mujeres sanas",
+    "relacion": "tienen",
+    "valor": "menor percepción de disfunción cognitiva"
+  },
+  {
+    "entidad": "Functional Assessment of Cancer Therapy Cognition scale (FACT-Cogv3)",
+    "relacion": "se utiliza para",
+    "valor": "evaluar el funcionamiento cognitivo autopercibido"
+  },
+  {
+    "entidad": "Trail Making Test (TMT-A, TMT-B)",
+    "relacion": "se utiliza para",
+    "valor": "evaluar el rendimiento neuropsicológico"
+  },
+  {
+    "entidad": "Digit Span test (DS)",
+    "relacion": "se utiliza para",
+    "valor": "evaluar la memoria verbal a corto plazo"
+  },
+  {
+    "entidad": "Frontal Assessment Battery (FAB-E)",
+    "relacion": "se utiliza para",
+    "valor": "evaluar la función ejecutiva"
+  },
+  {
+    "entidad": "mujeres con fibromialgia",
+    "relacion": "presentan",
+    "valor": "menor rendimiento cognitivo en pruebas objetivas"
+  },
+  {
+    "entidad": "cognición",
+    "relacion": "se ve afectada por",
+    "valor": "dolor, fatiga, síntomas depresivos y sueño deficiente"
+  },
+  {
+    "entidad": "cognición",
+    "relacion": "se relaciona con",
+    "valor": "la calidad de vida en pacientes con fibromialgia"
+  },
+  {
+    "entidad": "neuroinflamación",
+    "relacion": "juega un papel en",
+    "valor": "la disfunción cognitiva en fibromialgia"
+  },
+  {
+    "entidad": "mujeres con fibromialgia",
+    "relacion": "requieren",
+    "valor": "más investigación sobre características clínicas y psicosociales"
+  },
+  {
+    "entidad": "Universidad Andres Bello",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "Universidad San Sebastián",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "índices simples subrogados (SSI)",
+    "relacion": "evalúan",
+    "valor": "función de células beta"
+  },
+  {
+    "entidad": "índices simples subrogados (SSI)",
+    "relacion": "evalúan",
+    "valor": "sensibilidad a la insulina (SI)"
+  },
+  {
+    "entidad": "índices simples subrogados (SSI)",
+    "relacion": "evalúan",
+    "valor": "resistencia a la insulina (RI)"
+  },
+  {
+    "entidad": "prueba de tolerancia a la glucosa intravenosa con muestreo frecuente (FSIVGTT)",
+    "relacion": "referencia",
+    "valor": "parámetros obtenidos"
+  },
+  {
+    "entidad": "HOMA1-%B",
+    "relacion": "correlaciona con",
+    "valor": "AIRg"
+  },
+  {
+    "entidad": "HOMA2-%B",
+    "relacion": "correlaciona con",
+    "valor": "AIRg"
+  },
+  {
+    "entidad": "HOMA1-%B",
+    "relacion": "correlaciona con",
+    "valor": "DI"
+  },
+  {
+    "entidad": "HOMA2-%B",
+    "relacion": "correlaciona con",
+    "valor": "DI"
+  },
+  {
+    "entidad": "insulina en ayuno",
+    "relacion": "correlaciona con",
+    "valor": "Si"
+  },
+  {
+    "entidad": "HOMA1-IR",
+    "relacion": "correlaciona con",
+    "valor": "Si"
+  },
+  {
+    "entidad": "HOMA2-IR",
+    "relacion": "correlaciona con",
+    "valor": "Si"
+  },
+  {
+    "entidad": "HOMA1-%S",
+    "relacion": "correlaciona con",
+    "valor": "Si"
+  },
+  {
+    "entidad": "HOMA2-%S",
+    "relacion": "correlaciona con",
+    "valor": "Si"
+  },
+  {
+    "entidad": "QUICKI",
+    "relacion": "correlaciona con",
+    "valor": "Si"
+  },
+  {
+    "entidad": "índice de McAuley",
+    "relacion": "correlaciona con",
+    "valor": "Si"
+  },
+  {
+    "entidad": "AIRg",
+    "relacion": "muestra buena confiabilidad",
+    "valor": "ICC > 0.75"
+  },
+  {
+    "entidad": "HOMA1-%S",
+    "relacion": "muestra buena confiabilidad",
+    "valor": "ICC > 0.75"
+  },
+  {
+    "entidad": "HOMA2-%S",
+    "relacion": "muestra buena confiabilidad",
+    "valor": "ICC > 0.75"
+  },
+  {
+    "entidad": "QUICKI",
+    "relacion": "muestra buena confiabilidad",
+    "valor": "ICC > 0.75"
+  },
+  {
+    "entidad": "insulin sensitivity (IS)",
+    "relacion": "definido como",
+    "valor": "capacidad de la insulina para ejercer sus efectos fisiológicos"
+  },
+  {
+    "entidad": "hyperinsulinemic euglycemic glucose clamp (HEGC)",
+    "relacion": "es el estándar de oro",
+    "valor": "para cuantificar IS"
+  },
+  {
+    "entidad": "índices simples subrogados (SSI)",
+    "relacion": "son",
+    "valor": "herramientas económicas y fáciles de usar"
+  },
+  {
+    "entidad": "Comité de Ética y de Investigación del Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán",
+    "relacion": "aproba",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "HOMA1-IR",
+    "relacion": "es un",
+    "valor": "índice de evaluación de resistencia a la insulina"
+  },
+  {
+    "entidad": "QUICKI",
+    "relacion": "es un",
+    "valor": "índice de verificación de sensibilidad a la insulina"
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "entidad": "Biopsia de seno",
+    "relacion": "requiere_muestra_de",
+    "valor": "tejido del seno"
+  },
+  {
+    "entidad": "Biopsia de seno",
+    "relacion": "diagnostica",
+    "valor": "cáncer de seno"
+  },
+  {
+    "entidad": "Biopsia de seno",
+    "relacion": "indicado_si_tiene",
+    "valor": "bulto en el seno"
+  },
+  {
+    "entidad": "Biopsia de seno",
+    "relacion": "indicado_si_tiene",
+    "valor": "cambios en mamografía"
+  },
+  {
+    "entidad": "Biopsia de seno",
+    "relacion": "indicado_si_tiene",
+    "valor": "secreción anormal del pezón"
+  },
+  {
+    "entidad": "Biopsia de seno",
+    "relacion": "tiene_duracion",
+    "valor": "varios días a una semana para resultados"
+  },
+  {
+    "entidad": "Biopsia de seno",
+    "relacion": "tiene_riesgo",
+    "valor": "infección"
+  },
+  {
+    "entidad": "Biopsia de seno",
+    "relacion": "tiene_riesgo",
+    "valor": "sangrado"
+  },
+  {
+    "entidad": "Biopsia de seno",
+    "relacion": "tiene_riesgo",
+    "valor": "moretones"
+  },
+  {
+    "entidad": "Biopsia de seno",
+    "relacion": "pertenece_a_categoria",
+    "valor": "procedimiento diagnóstico"
+  },
+  {
+    "entidad": "Biopsia de seno",
+    "relacion": "realizado_por",
+    "valor": "patólogo"
+  },
+  {
+    "entidad": "Biopsia de seno",
+    "relacion": "utiliza_equipo",
+    "valor": "aguja"
+  },
+  {
+    "entidad": "Biopsia de seno",
+    "relacion": "utiliza_equipo",
+    "valor": "mamografía"
+  },
+  {
+    "entidad": "Biopsia de seno",
+    "relacion": "utiliza_equipo",
+    "valor": "ultrasonido"
+  },
+  {
+    "entidad": "Biopsia de seno",
+    "relacion": "utiliza_equipo",
+    "valor": "resonancia magnética"
+  },
+  {
+    "entidad": "Biopsia de seno",
+    "relacion": "ayuda_diagnosticar",
+    "valor": "cambios sospechosos en el seno"
+  },
+  {
+    "entidad": "Biopsia de piel",
+    "relacion": "requiere_muestra_de",
+    "valor": "muestra de piel"
+  },
+  {
+    "entidad": "Biopsia de piel",
+    "relacion": "diagnostica",
+    "valor": "cáncer de piel"
+  },
+  {
+    "entidad": "Biopsia de piel",
+    "relacion": "diagnostica",
+    "valor": "psoriasis"
+  },
+  {
+    "entidad": "Biopsia de piel",
+    "relacion": "diagnostica",
+    "valor": "eccema"
+  },
+  {
+    "entidad": "Biopsia de piel",
+    "relacion": "diagnostica",
+    "valor": "infecciones bacterianas o micóticas"
+  },
+  {
+    "entidad": "Biopsia de piel",
+    "relacion": "indicado_si_tiene",
+    "valor": "sarpullido que no desaparece"
+  },
+  {
+    "entidad": "Biopsia de piel",
+    "relacion": "indicado_si_tiene",
+    "valor": "piel escamosa o áspera"
+  },
+  {
+    "entidad": "Biopsia de piel",
+    "relacion": "indicado_si_tiene",
+    "valor": "heridas abiertas que no sanan"
+  },
+  {
+    "entidad": "Biopsia de piel",
+    "relacion": "indicado_si_tiene",
+    "valor": "piel con ampollas"
+  },
+  {
+    "entidad": "Biopsia de piel",
+    "relacion": "indicado_si_tiene",
+    "valor": "lunar u otro crecimiento sospechoso"
+  },
+  {
+    "entidad": "Biopsia de piel",
+    "relacion": "tiene_riesgo",
+    "valor": "moretón"
+  },
+  {
+    "entidad": "Biopsia de piel",
+    "relacion": "tiene_riesgo",
+    "valor": "sangrado"
+  },
+  {
+    "entidad": "Biopsia de piel",
+    "relacion": "tiene_riesgo",
+    "valor": "dolor en el lugar de la biopsia"
+  },
+  {
+    "entidad": "Biopsia de piel",
+    "relacion": "es_tipo_de",
+    "valor": "procedimiento diagnóstico"
+  },
+  {
+    "entidad": "Biopsia de piel",
+    "relacion": "utiliza_equipo",
+    "valor": "hoja de afeitar"
+  },
+  {
+    "entidad": "Biopsia de piel",
+    "relacion": "utiliza_equipo",
+    "valor": "bisturí"
+  },
+  {
+    "entidad": "Biopsia de piel",
+    "relacion": "utiliza_equipo",
+    "valor": "herramienta especial con hoja redonda"
+  },
+  {
+    "entidad": "Biopsia de piel",
+    "relacion": "se_realiza_en",
+    "valor": "consultorio del profesional de la salud"
+  },
+  {
+    "entidad": "Broncoscopia con lavado broncoalveolar",
+    "relacion": "requiere_muestra_de",
+    "valor": "muestra de líquido de los pulmones"
+  },
+  {
+    "entidad": "Broncoscopia con lavado broncoalveolar",
+    "relacion": "diagnostica",
+    "valor": "infecciones pulmonares"
+  },
+  {
+    "entidad": "Broncoscopia con lavado broncoalveolar",
+    "relacion": "diagnostica",
+    "valor": "cáncer de pulmón"
+  },
+  {
+    "entidad": "Broncoscopia con lavado broncoalveolar",
+    "relacion": "diagnostica",
+    "valor": "tuberculosis"
+  },
+  {
+    "entidad": "Broncoscopia con lavado broncoalveolar",
+    "relacion": "diagnostica",
+    "valor": "neumonía bacteriana"
+  },
+  {
+    "entidad": "Broncoscopia con lavado broncoalveolar",
+    "relacion": "alivia",
+    "valor": "obstrucciones en las vías respiratorias"
+  },
+  {
+    "entidad": "Broncoscopia con lavado broncoalveolar",
+    "relacion": "alivia",
+    "valor": "sangrado en las vías respiratorias"
+  },
+  {
+    "entidad": "Broncoscopia con lavado broncoalveolar",
+    "relacion": "indicado_si_tiene",
+    "valor": "síntomas de enfermedad pulmonar"
+  },
+  {
+    "entidad": "Broncoscopia con lavado broncoalveolar",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "tos persistente"
+  },
+  {
+    "entidad": "Broncoscopia con lavado broncoalveolar",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "problemas para respirar"
+  },
+  {
+    "entidad": "Broncoscopia con lavado broncoalveolar",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "tos con sangre"
+  },
+  {
+    "entidad": "Broncoscopia con lavado broncoalveolar",
+    "relacion": "tiene_duracion",
+    "valor": "30 a 90 minutos"
+  },
+  {
+    "entidad": "Broncoscopia con lavado broncoalveolar",
+    "relacion": "tiene_riesgo",
+    "valor": "sangrado en las vías respiratorias"
+  },
+  {
+    "entidad": "Broncoscopia con lavado broncoalveolar",
+    "relacion": "tiene_riesgo",
+    "valor": "infección"
+  },
+  {
+    "entidad": "Broncoscopia con lavado broncoalveolar",
+    "relacion": "tiene_riesgo",
+    "valor": "neumotórax"
+  },
+  {
+    "entidad": "Broncoscopia con lavado broncoalveolar",
+    "relacion": "utiliza_equipo",
+    "valor": "broncoscopio"
+  },
+  {
+    "entidad": "Broncoscopia con lavado broncoalveolar",
+    "relacion": "realizado_por",
+    "valor": "neumólogo"
+  },
+  {
+    "entidad": "Broncoscopia con lavado broncoalveolar",
+    "relacion": "pertenece_a_categoria",
+    "valor": "procedimiento diagnóstico"
+  },
+  {
+    "entidad": "Biopsia de ganglio centinela",
+    "relacion": "diagnostica",
+    "valor": "células cancerosas"
+  },
+  {
+    "entidad": "Biopsia de ganglio centinela",
+    "relacion": "indicado_si_tiene",
+    "valor": "cáncer de seno"
+  },
+  {
+    "entidad": "Biopsia de ganglio centinela",
+    "relacion": "indicado_si_tiene",
+    "valor": "melanoma"
+  },
+  {
+    "entidad": "Biopsia de ganglio centinela",
+    "relacion": "requiere_muestra_de",
+    "valor": "ganglio linfático"
+  },
+  {
+    "entidad": "Biopsia de ganglio centinela",
+    "relacion": "util_para",
+    "valor": "determinar el estadio del cáncer"
+  },
+  {
+    "entidad": "Biopsia de ganglio centinela",
+    "relacion": "es_tipo_de",
+    "valor": "procedimiento quirúrgico"
+  },
+  {
+    "entidad": "Biopsia de ganglio centinela",
+    "relacion": "se_realiza_en",
+    "valor": "hospital o centro quirúrgico ambulatorio"
+  },
+  {
+    "entidad": "Biopsia de ganglio centinela",
+    "relacion": "tiene_riesgo",
+    "valor": "exposición a radiación"
+  },
+  {
+    "entidad": "Biopsia de ganglio centinela",
+    "relacion": "tiene_riesgo",
+    "valor": "sangrado"
+  },
+  {
+    "entidad": "Biopsia de ganglio centinela",
+    "relacion": "tiene_riesgo",
+    "valor": "dolor"
+  },
+  {
+    "entidad": "Biopsia de ganglio centinela",
+    "relacion": "tiene_riesgo",
+    "valor": "moretones"
+  },
+  {
+    "entidad": "Biopsia de ganglio centinela",
+    "relacion": "tiene_riesgo",
+    "valor": "infección"
+  },
+  {
+    "entidad": "Biopsia de ganglio centinela",
+    "relacion": "tiene_riesgo",
+    "valor": "reacciones alérgicas"
+  },
+  {
+    "entidad": "Biopsia de ganglio centinela",
+    "relacion": "tiene_riesgo",
+    "valor": "linfedema"
+  },
+  {
+    "entidad": "Biopsia de ganglio centinela",
+    "relacion": "analiza",
+    "valor": "diseminación del cáncer"
+  },
+  {
+    "entidad": "Biopsia de ganglio centinela",
+    "relacion": "ayuda_diagnosticar",
+    "valor": "estadio del cáncer"
+  }
+]

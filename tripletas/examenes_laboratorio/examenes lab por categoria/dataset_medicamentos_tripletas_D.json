@@ -1,0 +1,157 @@
+[
+  {
+    "entidad": "Densitometría ósea",
+    "relacion": "mide",
+    "valor": "calcio y otros minerales en los huesos"
+  },
+  {
+    "entidad": "Densitometría ósea",
+    "relacion": "diagnostica",
+    "valor": "osteopenia"
+  },
+  {
+    "entidad": "Densitometría ósea",
+    "relacion": "diagnostica",
+    "valor": "osteoporosis"
+  },
+  {
+    "entidad": "Densitometría ósea",
+    "relacion": "util_para",
+    "valor": "predecir el riesgo de futuras fracturas"
+  },
+  {
+    "entidad": "Densitometría ósea",
+    "relacion": "indicado_si_tiene",
+    "valor": "pérdida de densidad ósea"
+  },
+  {
+    "entidad": "Densitometría ósea",
+    "relacion": "tiene_duracion",
+    "valor": "entre 10 y 30 minutos"
+  },
+  {
+    "entidad": "Densitometría ósea",
+    "relacion": "tiene_riesgo",
+    "valor": "exposición a dosis bajas de radiación"
+  },
+  {
+    "entidad": "Densitometría ósea",
+    "relacion": "es_tipo_de",
+    "valor": "radiografía de dosis baja"
+  },
+  {
+    "entidad": "Densitometría ósea",
+    "relacion": "se_realiza_en",
+    "valor": "hospital o clínica"
+  },
+  {
+    "entidad": "Densitometría ósea",
+    "relacion": "realizado_por",
+    "valor": "profesional de la salud"
+  },
+  {
+    "entidad": "Densitometría ósea",
+    "relacion": "pertenece_a_categoria",
+    "valor": "exámenes de densidad ósea"
+  },
+  {
+    "entidad": "Dióxido de carbono (CO2) en la sangre",
+    "relacion": "mide",
+    "valor": "cantidad de dióxido de carbono en la sangre"
+  },
+  {
+    "entidad": "Dióxido de carbono (CO2) en la sangre",
+    "relacion": "requiere_muestra_de",
+    "valor": "sangre de una vena del brazo"
+  },
+  {
+    "entidad": "Dióxido de carbono (CO2) en la sangre",
+    "relacion": "diagnostica",
+    "valor": "desequilibrio hidroelectrolítico"
+  },
+  {
+    "entidad": "Dióxido de carbono (CO2) en la sangre",
+    "relacion": "indicado_si_tiene",
+    "valor": "síntomas de un desequilibrio hidroelectrolítico"
+  },
+  {
+    "entidad": "Dióxido de carbono (CO2) en la sangre",
+    "relacion": "alivia",
+    "valor": "síntomas de problemas para respirar, confusión, debilidad, cansancio, vómitos o diarrea"
+  },
+  {
+    "entidad": "Dióxido de carbono (CO2) en la sangre",
+    "relacion": "tiene_duracion",
+    "valor": "menos de cinco minutos"
+  },
+  {
+    "entidad": "Dióxido de carbono (CO2) en la sangre",
+    "relacion": "tiene_riesgo",
+    "valor": "dolor leve o moretón en el lugar de la punción"
+  },
+  {
+    "entidad": "Dióxido de carbono (CO2) en la sangre",
+    "relacion": "es_tipo_de",
+    "valor": "análisis de sangre"
+  },
+  {
+    "entidad": "Dióxido de carbono (CO2) en la sangre",
+    "relacion": "es_parte_de",
+    "valor": "ionograma"
+  },
+  {
+    "entidad": "Dióxido de carbono (CO2) en la sangre",
+    "relacion": "util_para",
+    "valor": "monitorear problemas de salud relacionados con el equilibrio ácido-base"
+  },
+  {
+    "entidad": "Dióxido de carbono (CO2) en la sangre",
+    "relacion": "ayuda_diagnosticar",
+    "valor": "enfermedad pulmonar, síndrome de Cushing, insuficiencia renal, acidosis metabólica, alcalosis metabólica, enfermedad de Addison, cetoacidosis diabética, shock, alcalosis respiratoria"
+  },
+  {
+    "entidad": "Diagnóstico diferencial",
+    "relacion": "util_para",
+    "valor": "hacer un diagnóstico final cuando tiene síntomas sin una causa clara"
+  },
+  {
+    "entidad": "Diagnóstico diferencial",
+    "relacion": "diagnostica",
+    "valor": "trastornos físicos y mentales"
+  },
+  {
+    "entidad": "Diagnóstico diferencial",
+    "relacion": "tiene_duracion",
+    "valor": "puede tomar tiempo"
+  },
+  {
+    "entidad": "Diagnóstico diferencial",
+    "relacion": "realizado_por",
+    "valor": "profesional de la salud"
+  },
+  {
+    "entidad": "Diagnóstico diferencial",
+    "relacion": "indicado_si_tiene",
+    "valor": "síntomas sin una causa clara"
+  },
+  {
+    "entidad": "Diagnóstico diferencial",
+    "relacion": "pertenece_a_categoria",
+    "valor": "pruebas de laboratorio"
+  },
+  {
+    "entidad": "Diagnóstico diferencial",
+    "relacion": "analiza",
+    "valor": "síntomas, historia clínica, historia médica familiar, resultados de pruebas"
+  },
+  {
+    "entidad": "Diagnóstico diferencial",
+    "relacion": "ayuda_diagnosticar",
+    "valor": "afecciones que causan síntomas similares"
+  },
+  {
+    "entidad": "Diagnóstico diferencial",
+    "relacion": "sugiere_condicion",
+    "valor": "posibles afecciones que pueden estar causando síntomas"
+  }
+]

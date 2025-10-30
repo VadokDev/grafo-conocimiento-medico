@@ -1,0 +1,352 @@
+[
+  {
+    "entidad": "Enfermedad celíaca",
+    "relacion": "es un",
+    "valor": "trastorno autoinmune"
+  },
+  {
+    "entidad": "gluten",
+    "relacion": "desencadena",
+    "valor": "enfermedad celíaca"
+  },
+  {
+    "entidad": "prevalencia de enfermedad celíaca",
+    "relacion": "es aproximadamente",
+    "valor": "1%"
+  },
+  {
+    "entidad": "diagnóstico serológico",
+    "relacion": "tiene",
+    "valor": "alta sensibilidad y especificidad"
+  },
+  {
+    "entidad": "biopsia",
+    "relacion": "confirma",
+    "valor": "diagnóstico de enfermedad celíaca"
+  },
+  {
+    "entidad": "dieta libre de gluten",
+    "relacion": "es el tratamiento principal para",
+    "valor": "enfermedad celíaca"
+  },
+  {
+    "entidad": "nutricionista",
+    "relacion": "debe supervisar",
+    "valor": "dieta libre de gluten"
+  },
+  {
+    "entidad": "complicaciones de enfermedad celíaca",
+    "relacion": "incluyen",
+    "valor": "linfoma y adenocarcinoma del intestino delgado"
+  },
+  {
+    "entidad": "HLA-DQ2",
+    "relacion": "asocia con",
+    "valor": "enfermedad celíaca"
+  },
+  {
+    "entidad": "HLA-DQ8",
+    "relacion": "asocia con",
+    "valor": "enfermedad celíaca"
+  },
+  {
+    "entidad": "lactancia materna",
+    "relacion": "tiene un rol protector en",
+    "valor": "desarrollo de enfermedad celíaca"
+  },
+  {
+    "entidad": "Helicobacter pylori",
+    "relacion": "disminuye el riesgo de",
+    "valor": "enfermedad celíaca"
+  },
+  {
+    "entidad": "síntomas de enfermedad celíaca",
+    "relacion": "pueden incluir",
+    "valor": "síndrome de malabsorción y síntomas extra-intestinales"
+  },
+  {
+    "entidad": "anticuerpos anti-endomisio",
+    "relacion": "son utilizados para",
+    "valor": "diagnóstico de enfermedad celíaca"
+  },
+  {
+    "entidad": "anticuerpos anti-transglutaminasa tisular",
+    "relacion": "son utilizados para",
+    "valor": "diagnóstico de enfermedad celíaca"
+  },
+  {
+    "entidad": "video-cápsula",
+    "relacion": "tiene mejor sensibilidad que",
+    "valor": "endoscopia digestiva alta en diagnóstico de enfermedad celíaca"
+  },
+  {
+    "entidad": "dieta libre de gluten",
+    "relacion": "resuelve",
+    "valor": "síntomas de enfermedad celíaca"
+  },
+  {
+    "entidad": "nuevas terapias farmacológicas",
+    "relacion": "podrían estar disponibles para",
+    "valor": "manejo de enfermedad celíaca"
+  },
+  {
+    "entidad": "enfermedad celíaca no respondedora",
+    "relacion": "se define como",
+    "valor": "falta de respuesta clínica tras dieta libre de gluten"
+  },
+  {
+    "entidad": "enfermedad celíaca refractaria",
+    "relacion": "se caracteriza por",
+    "valor": "signos de malabsorción persistentes a pesar de dieta"
+  },
+  {
+    "entidad": "linfoma no Hodgkin",
+    "relacion": "es una complicación asociada a",
+    "valor": "enfermedad celíaca"
+  },
+  {
+    "entidad": "mortalidad en pacientes con enfermedad celíaca",
+    "relacion": "es mayor que en",
+    "valor": "población general"
+  },
+  {
+    "entidad": "células madre mesenquimales (MSC)",
+    "relacion": "tienen",
+    "valor": "propiedades inmunomoduladoras"
+  },
+  {
+    "entidad": "células madre mesenquimales (MSC)",
+    "relacion": "tienen",
+    "valor": "potencial regenerativo"
+  },
+  {
+    "entidad": "sepsis",
+    "relacion": "tiene",
+    "valor": "elevada morbilidad y mortalidad"
+  },
+  {
+    "entidad": "síndrome de distrés respiratorio agudo (SDRA)",
+    "relacion": "tiene",
+    "valor": "elevada morbilidad y mortalidad"
+  },
+  {
+    "entidad": "injuria renal aguda (IRA)",
+    "relacion": "tiene",
+    "valor": "elevada morbilidad y mortalidad"
+  },
+  {
+    "entidad": "terapia celular",
+    "relacion": "es",
+    "valor": "una opción terapéutica en medicina intensiva"
+  },
+  {
+    "entidad": "células madre mesenquimales (MSC)",
+    "relacion": "se utilizan en",
+    "valor": "ensayos clínicos en sepsis"
+  },
+  {
+    "entidad": "células madre mesenquimales (MSC)",
+    "relacion": "se utilizan en",
+    "valor": "ensayos clínicos en SDRA"
+  },
+  {
+    "entidad": "células madre mesenquimales (MSC)",
+    "relacion": "se utilizan en",
+    "valor": "ensayos clínicos en IRA"
+  },
+  {
+    "entidad": "Fondo de Ayuda a la Investigación (FAI)",
+    "relacion": "apoya",
+    "valor": "investigación en terapia celular"
+  },
+  {
+    "entidad": "Universidad de los Andes",
+    "relacion": "es",
+    "valor": "una institución de investigación"
+  },
+  {
+    "entidad": "Hospital Militar de Santiago",
+    "relacion": "es",
+    "valor": "una institución de investigación"
+  },
+  {
+    "entidad": "University of California San Diego",
+    "relacion": "es",
+    "valor": "una institución de investigación"
+  },
+  {
+    "entidad": "Institute for Regenerative Medicine and Biotherapy",
+    "relacion": "es",
+    "valor": "una institución de investigación"
+  },
+  {
+    "entidad": "células madre mesenquimales (MSC)",
+    "relacion": "se obtienen de",
+    "valor": "médula ósea"
+  },
+  {
+    "entidad": "células madre mesenquimales (MSC)",
+    "relacion": "se obtienen de",
+    "valor": "tejido adiposo"
+  },
+  {
+    "entidad": "células madre mesenquimales (MSC)",
+    "relacion": "se obtienen de",
+    "valor": "cordón umbilical"
+  },
+  {
+    "entidad": "células madre mesenquimales (MSC)",
+    "relacion": "se obtienen de",
+    "valor": "placenta"
+  },
+  {
+    "entidad": "células madre mesenquimales (MSC)",
+    "relacion": "se obtienen de",
+    "valor": "tejido dental"
+  },
+  {
+    "entidad": "células madre mesenquimales (MSC)",
+    "relacion": "se obtienen de",
+    "valor": "tejido endometrial"
+  },
+  {
+    "entidad": "células madre mesenquimales (MSC)",
+    "relacion": "se caracterizan por",
+    "valor": "baja inmunogenicidad"
+  },
+  {
+    "entidad": "células madre mesenquimales (MSC)",
+    "relacion": "se caracterizan por",
+    "valor": "capacidad de diferenciación"
+  },
+  {
+    "entidad": "células madre mesenquimales (MSC)",
+    "relacion": "median",
+    "valor": "procesos de reparación tisular"
+  },
+  {
+    "entidad": "células madre mesenquimales (MSC)",
+    "relacion": "sintetizan",
+    "valor": "componentes de la matriz extracelular"
+  },
+  {
+    "entidad": "células madre mesenquimales (MSC)",
+    "relacion": "secretan",
+    "valor": "factores solubles como G-CSF y VEGF"
+  },
+  {
+    "entidad": "células madre mesenquimales (MSC)",
+    "relacion": "actúan mediante",
+    "valor": "contacto con células del sistema inmune"
+  },
+  {
+    "entidad": "células madre mesenquimales (MSC)",
+    "relacion": "actúan mediante",
+    "valor": "liberación de factores paracrinos"
+  },
+  {
+    "entidad": "ensayos clínicos",
+    "relacion": "evaluan",
+    "valor": "eficacia de MSC en pacientes críticos"
+  },
+  {
+    "entidad": "células madre mesenquimales (MSC)",
+    "relacion": "se utilizan en",
+    "valor": "tratamientos de enfermedades inflamatorias"
+  },
+  {
+    "entidad": "células madre mesenquimales (MSC)",
+    "relacion": "se utilizan en",
+    "valor": "tratamientos de enfermedades autoinmunes"
+  },
+  {
+    "entidad": "Hidroxicloroquina (HCQ)",
+    "relacion": "es un",
+    "valor": "fármaco antimalárico"
+  },
+  {
+    "entidad": "Hidroxicloroquina (HCQ)",
+    "relacion": "se utiliza en",
+    "valor": "el tratamiento de enfermedades autoinmunes sistémicas"
+  },
+  {
+    "entidad": "enfermedades autoinmunes sistémicas",
+    "relacion": "se caracterizan por",
+    "valor": "la presencia de autoanticuerpos"
+  },
+  {
+    "entidad": "Hidroxicloroquina (HCQ)",
+    "relacion": "tiene propiedades",
+    "valor": "inmunomoduladoras"
+  },
+  {
+    "entidad": "Hidroxicloroquina (HCQ)",
+    "relacion": "disminuye el riesgo de",
+    "valor": "malignidades"
+  },
+  {
+    "entidad": "Hidroxicloroquina (HCQ)",
+    "relacion": "reduce",
+    "valor": "la actividad en lupus eritematoso sistémico"
+  },
+  {
+    "entidad": "Hidroxicloroquina (HCQ)",
+    "relacion": "mejora",
+    "valor": "el perfil cardiometabólico en lupus eritematoso sistémico"
+  },
+  {
+    "entidad": "Hidroxicloroquina (HCQ)",
+    "relacion": "es efectiva en",
+    "valor": "la prevención de trombosis en síndrome antifosfolípido"
+  },
+  {
+    "entidad": "Hidroxicloroquina (HCQ)",
+    "relacion": "mejora",
+    "valor": "los síntomas en síndrome de Sjögren"
+  },
+  {
+    "entidad": "Hidroxicloroquina (HCQ)",
+    "relacion": "tiene un perfil de",
+    "valor": "seguridad favorable"
+  },
+  {
+    "entidad": "Hidroxicloroquina (HCQ)",
+    "relacion": "puede causar",
+    "valor": "toxicidad retiniana"
+  },
+  {
+    "entidad": "Hidroxicloroquina (HCQ)",
+    "relacion": "requiere",
+    "valor": "control oftalmológico"
+  },
+  {
+    "entidad": "Hidroxicloroquina (HCQ)",
+    "relacion": "puede ser usada en",
+    "valor": "embarazo y lactancia"
+  },
+  {
+    "entidad": "lupus eritematoso sistémico",
+    "relacion": "se beneficia de",
+    "valor": "tratamiento con HCQ"
+  },
+  {
+    "entidad": "artritis reumatoide",
+    "relacion": "se beneficia de",
+    "valor": "tratamiento con HCQ"
+  },
+  {
+    "entidad": "dermatomiositis",
+    "relacion": "puede mejorar con",
+    "valor": "tratamiento con HCQ"
+  },
+  {
+    "entidad": "sarcoidosis",
+    "relacion": "puede mejorar con",
+    "valor": "tratamiento con HCQ"
+  },
+  {
+    "entidad": "síndrome antifosfolípido",
+    "relacion": "se beneficia de",
+    "valor": "tratamiento con HCQ"
+  }
+]

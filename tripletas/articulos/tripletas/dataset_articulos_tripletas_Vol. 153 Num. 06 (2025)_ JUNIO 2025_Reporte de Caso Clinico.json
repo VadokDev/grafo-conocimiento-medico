@@ -1,0 +1,87 @@
+[
+  {
+    "entidad": "Condrodisplasia metafisaria tipo Schmid",
+    "relacion": "es un",
+    "valor": "trastorno hereditario"
+  },
+  {
+    "entidad": "COL10A1",
+    "relacion": "causa",
+    "valor": "condrodisplasia metafisaria tipo Schmid"
+  },
+  {
+    "entidad": "Condrodisplasia metafisaria tipo Schmid",
+    "relacion": "se caracteriza por",
+    "valor": "extremidades cortas y estatura baja"
+  },
+  {
+    "entidad": "paciente femenina de 4 años",
+    "relacion": "presenta",
+    "valor": "talla baja patológica y genu varo"
+  },
+  {
+    "entidad": "análisis genético",
+    "relacion": "se realiza mediante",
+    "valor": "panel de trastornos esqueléticos"
+  },
+  {
+    "entidad": "genu varo",
+    "relacion": "puede ser confundido con",
+    "valor": "raquitismo"
+  },
+  {
+    "entidad": "diagnóstico temprano",
+    "relacion": "facilita",
+    "valor": "tratamiento multidisciplinario"
+  },
+  {
+    "entidad": "cribado genético familiar",
+    "relacion": "facilita",
+    "valor": "asesoramiento genético"
+  },
+  {
+    "entidad": "osteocondrodisplasias",
+    "relacion": "son un grupo de",
+    "valor": "anormalidades en el desarrollo de huesos y cartílago"
+  },
+  {
+    "entidad": "Condrodisplasia metafisaria tipo Schmid",
+    "relacion": "se transmite de forma",
+    "valor": "autosómica dominante"
+  },
+  {
+    "entidad": "COL10A1",
+    "relacion": "localizado en",
+    "valor": "cromosoma 6q21-q22.3"
+  },
+  {
+    "entidad": "Condrodisplasia metafisaria tipo Schmid",
+    "relacion": "afecta",
+    "valor": "metáfisis de los huesos largos"
+  },
+  {
+    "entidad": "análisis de secuencias y pruebas de deleción/duplicación",
+    "relacion": "se realizan para",
+    "valor": "diagnóstico de trastornos esqueléticos"
+  },
+  {
+    "entidad": "raquitismo",
+    "relacion": "es un diagnóstico diferencial de",
+    "valor": "genu varo"
+  },
+  {
+    "entidad": "Condrodisplasia metafisaria tipo Schmid",
+    "relacion": "se manifiesta en",
+    "valor": "la primera infancia"
+  },
+  {
+    "entidad": "extremidades",
+    "relacion": "presentan",
+    "valor": "deformidades como coxa vara"
+  },
+  {
+    "entidad": "estudio renal completo",
+    "relacion": "confirma",
+    "valor": "funcionamiento renal normal"
+  }
+]

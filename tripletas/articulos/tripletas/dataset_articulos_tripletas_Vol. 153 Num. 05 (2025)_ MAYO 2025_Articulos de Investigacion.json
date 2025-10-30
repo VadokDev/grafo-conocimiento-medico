@@ -1,0 +1,552 @@
+[
+  {
+    "entidad": "Hipercolesterolemia Familiar",
+    "relacion": "es un",
+    "valor": "enfermedad metabólica heredada"
+  },
+  {
+    "entidad": "Hipercolesterolemia Familiar",
+    "relacion": "se caracteriza por",
+    "valor": "niveles elevados de colesterol LDL"
+  },
+  {
+    "entidad": "Hipercolesterolemia Familiar",
+    "relacion": "afecta a",
+    "valor": "morbi-mortalidad por enfermedad cardiovascular"
+  },
+  {
+    "entidad": "Hospital Las Higueras",
+    "relacion": "realiza",
+    "valor": "diagnóstico clínico y análisis genético"
+  },
+  {
+    "entidad": "Criterio de la Red de Clínicas de Lípidos Holandesas (DLCN)",
+    "relacion": "se utiliza para",
+    "valor": "estratificar pacientes con HF"
+  },
+  {
+    "entidad": "DLCN",
+    "relacion": "otorga",
+    "valor": "puntaje para diagnóstico de HF"
+  },
+  {
+    "entidad": "pacientes con sospecha clínica de HF",
+    "relacion": "son seleccionados mediante",
+    "valor": "análisis de perfil lipídico"
+  },
+  {
+    "entidad": "análisis genético",
+    "relacion": "se realiza para",
+    "valor": "confirmar diagnóstico de HF"
+  },
+  {
+    "entidad": "variantes genéticas",
+    "relacion": "asociadas a",
+    "valor": "Hipercolesterolemia Familiar"
+  },
+  {
+    "entidad": "programa de pesquisa",
+    "relacion": "se implementa para",
+    "valor": "identificar casos de HF"
+  },
+  {
+    "entidad": "pacientes con diagnóstico genético positivo",
+    "relacion": "son derivados a",
+    "valor": "endocrinología para manejo terapéutico"
+  },
+  {
+    "entidad": "estudio en cascada familiar",
+    "relacion": "se utiliza para",
+    "valor": "identificar nuevos casos de HF"
+  },
+  {
+    "entidad": "programa de pesquisa oportunista",
+    "relacion": "favorece",
+    "valor": "diagnóstico temprano de HF"
+  },
+  {
+    "entidad": "Hipercolesterolemia Familiar",
+    "relacion": "es subdiagnosticada en",
+    "valor": "población general"
+  },
+  {
+    "entidad": "análisis genético",
+    "relacion": "no está disponible en",
+    "valor": "Chile"
+  },
+  {
+    "entidad": "muestra sanguínea",
+    "relacion": "se obtiene para",
+    "valor": "secuenciar genes asociados a HF"
+  },
+  {
+    "entidad": "mutaciones en el gen RLDL",
+    "relacion": "se identifican en",
+    "valor": "pacientes con HF"
+  },
+  {
+    "entidad": "programa piloto",
+    "relacion": "es el primero en",
+    "valor": "Chile para pesquisa de HF"
+  },
+  {
+    "entidad": "pacientes pediátricos y adultos",
+    "relacion": "son diagnosticados con",
+    "valor": "Hipercolesterolemia Familiar"
+  },
+  {
+    "entidad": "tratamiento farmacológico",
+    "relacion": "se inicia en",
+    "valor": "pacientes con diagnóstico de HF"
+  },
+  {
+    "entidad": "cuestionario clínico",
+    "relacion": "identifica",
+    "valor": "propensión a enfermedades profesionales de salud mental"
+  },
+  {
+    "entidad": "Universidad Complutense de Madrid",
+    "relacion": "es un",
+    "valor": "institución educativa"
+  },
+  {
+    "entidad": "Universidad de Chile",
+    "relacion": "es un",
+    "valor": "institución educativa"
+  },
+  {
+    "entidad": "Enrique Escobar",
+    "relacion": "es",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "Juan Pablo Osorio",
+    "relacion": "es",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "Natalia Martini",
+    "relacion": "es",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "Ley N° 16.744",
+    "relacion": "regula",
+    "valor": "calificación de enfermedades profesionales de salud mental en Chile"
+  },
+  {
+    "entidad": "algoritmos de aprendizaje automático",
+    "relacion": "apoyan",
+    "valor": "calificación de salud mental"
+  },
+  {
+    "entidad": "cuestionario de propensión a enfermedades de salud mental",
+    "relacion": "se aplica a",
+    "valor": "trabajadores chilenos"
+  },
+  {
+    "entidad": "modelos de árboles de decisión",
+    "relacion": "evalúan",
+    "valor": "calificación de salud mental"
+  },
+  {
+    "entidad": "regresión logística",
+    "relacion": "evalúa",
+    "valor": "calificación de salud mental"
+  },
+  {
+    "entidad": "SUSESO",
+    "relacion": "fiscaliza",
+    "valor": "aplicación de normativas de seguridad social"
+  },
+  {
+    "entidad": "SUSESO",
+    "relacion": "impulsa",
+    "valor": "iniciativas de investigación desde 2005"
+  },
+  {
+    "entidad": "SUSESO",
+    "relacion": "promueve",
+    "valor": "proyecto para objetivar calificación de enfermedades profesionales de salud mental"
+  },
+  {
+    "entidad": "neurosis profesionales incapacitantes",
+    "relacion": "pueden provocar",
+    "valor": "trastornos de adaptación, depresión reactiva, trastorno por somatización y dolor crónico"
+  },
+  {
+    "entidad": "Decreto Supremo N° 109",
+    "relacion": "establece",
+    "valor": "normas para calificar y evaluar accidentes y enfermedades profesionales"
+  },
+  {
+    "entidad": "algoritmos de aprendizaje automático",
+    "relacion": "mejoran",
+    "valor": "eficiencia y objetividad del proceso de calificación"
+  },
+  {
+    "entidad": "Árbol Plus",
+    "relacion": "presenta",
+    "valor": "mayor precisión en modelos de calificación"
+  },
+  {
+    "entidad": "muestra de 340 trabajadores",
+    "relacion": "se compone de",
+    "valor": "trabajadores del sector público-privado y Organismo Administrador de la Ley"
+  },
+  {
+    "entidad": "cuestionario",
+    "relacion": "integra",
+    "valor": "diversos criterios de evaluación"
+  },
+  {
+    "entidad": "RStudio",
+    "relacion": "se utiliza para",
+    "valor": "análisis de datos"
+  },
+  {
+    "entidad": "algoritmos de aprendizaje automático",
+    "relacion": "requieren",
+    "valor": "expansión de base de datos y refinamiento de modelos"
+  },
+  {
+    "entidad": "sexo y edad",
+    "relacion": "no influyen en",
+    "valor": "resultados finales de la clasificación"
+  },
+  {
+    "entidad": "Árbol Plus",
+    "relacion": "optimiza",
+    "valor": "desempeño en calificación de enfermedades"
+  },
+  {
+    "entidad": "conducta suicida",
+    "relacion": "es un",
+    "valor": "problema de salud pública mundial"
+  },
+  {
+    "entidad": "adolescentes chilenos",
+    "relacion": "son un",
+    "valor": "grupo etario vulnerable"
+  },
+  {
+    "entidad": "factores psicológicos",
+    "relacion": "son",
+    "valor": "elementos clave en la conducta suicida"
+  },
+  {
+    "entidad": "factores clínicos",
+    "relacion": "son",
+    "valor": "elementos clave en la conducta suicida"
+  },
+  {
+    "entidad": "factores sociofamiliares",
+    "relacion": "son",
+    "valor": "elementos clave en la conducta suicida"
+  },
+  {
+    "entidad": "modelos teóricos existentes",
+    "relacion": "presentan",
+    "valor": "limitaciones en contextos socioculturales específicos"
+  },
+  {
+    "entidad": "estudio no experimental",
+    "relacion": "fue realizado en",
+    "valor": "388 adolescentes"
+  },
+  {
+    "entidad": "BIS-11",
+    "relacion": "evalúa",
+    "valor": "impulsividad"
+  },
+  {
+    "entidad": "DASS-21",
+    "relacion": "evalúa",
+    "valor": "sintomatología ansiosa-depresiva"
+  },
+  {
+    "entidad": "DERS",
+    "relacion": "evalúa",
+    "valor": "dificultades en la regulación emocional"
+  },
+  {
+    "entidad": "C-SSRS",
+    "relacion": "evalúa",
+    "valor": "riesgo suicida"
+  },
+  {
+    "entidad": "responsividad materna",
+    "relacion": "es un predictor significativo de",
+    "valor": "ideación suicida"
+  },
+  {
+    "entidad": "sintomatología depresiva",
+    "relacion": "es un predictor significativo de",
+    "valor": "ideación suicida"
+  },
+  {
+    "entidad": "antecedentes familiares de enfermedades mentales",
+    "relacion": "son un predictor significativo de",
+    "valor": "ideación suicida"
+  },
+  {
+    "entidad": "historial de hospitalización por intento de suicidio",
+    "relacion": "es un predictor significativo de",
+    "valor": "ideación suicida"
+  },
+  {
+    "entidad": "victimización por bullying",
+    "relacion": "es un predictor significativo de",
+    "valor": "ideación suicida"
+  },
+  {
+    "entidad": "victimización por abuso sexual",
+    "relacion": "es un predictor significativo de",
+    "valor": "ideación suicida"
+  },
+  {
+    "entidad": "no tener hermanos",
+    "relacion": "es un predictor significativo de",
+    "valor": "intento suicida"
+  },
+  {
+    "entidad": "impulsividad no planificada",
+    "relacion": "es un predictor significativo de",
+    "valor": "intento suicida"
+  },
+  {
+    "entidad": "interferencia emocional",
+    "relacion": "es un predictor significativo de",
+    "valor": "intento suicida"
+  },
+  {
+    "entidad": "hospitalizaciones previas por salud mental",
+    "relacion": "son un predictor significativo de",
+    "valor": "intento suicida"
+  },
+  {
+    "entidad": "ideación suicida",
+    "relacion": "es un predictor significativo de",
+    "valor": "intento suicida"
+  },
+  {
+    "entidad": "intenciones serias de intento suicida",
+    "relacion": "son un predictor significativo de",
+    "valor": "intento suicida"
+  },
+  {
+    "entidad": "modelos de regresión logística múltiple",
+    "relacion": "contribuyen a",
+    "valor": "la comprensión del fenómeno suicida"
+  },
+  {
+    "entidad": "estrategias de prevención",
+    "relacion": "son necesarias para",
+    "valor": "abordar la conducta suicida"
+  },
+  {
+    "entidad": "Fondo Nacional de Desarrollo Científico y Tecnológico (FONDECYT)",
+    "relacion": "financió",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "Universidad Católica del Maule",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "Ministerio de Salud (MINSAL)",
+    "relacion": "proporciona",
+    "valor": "datos sobre suicidio en jóvenes"
+  },
+  {
+    "entidad": "Ley chilena de etiquetado y publicidad de alimentos",
+    "relacion": "fue promulgada en",
+    "valor": "2012"
+  },
+  {
+    "entidad": "Ley chilena de etiquetado y publicidad de alimentos",
+    "relacion": "se implementó en",
+    "valor": "fases consecutivas hasta 2019"
+  },
+  {
+    "entidad": "estudio de cohorte",
+    "relacion": "investiga",
+    "valor": "cambios en el comportamiento dietético"
+  },
+  {
+    "entidad": "mAHEI",
+    "relacion": "evalúa",
+    "valor": "calidad de la dieta"
+  },
+  {
+    "entidad": "consumo de carbohidratos",
+    "relacion": "aumentó durante",
+    "valor": "seguimiento"
+  },
+  {
+    "entidad": "consumo de grasas",
+    "relacion": "aumentó durante",
+    "valor": "seguimiento"
+  },
+  {
+    "entidad": "consumo de proteínas",
+    "relacion": "disminuyó durante",
+    "valor": "seguimiento"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "son predictores de",
+    "valor": "cambios positivos en la calidad de la dieta"
+  },
+  {
+    "entidad": "eventos de salud importantes",
+    "relacion": "son predictores de",
+    "valor": "cambios positivos en la calidad de la dieta"
+  },
+  {
+    "entidad": "nivel educativo alto",
+    "relacion": "es un predictor de",
+    "valor": "cambios positivos en la calidad de la dieta"
+  },
+  {
+    "entidad": "ingresos familiares suficientes",
+    "relacion": "son predictores de",
+    "valor": "cambios positivos en la calidad de la dieta"
+  },
+  {
+    "entidad": "políticas de salud pública",
+    "relacion": "deben ser reforzadas con",
+    "valor": "intervenciones más profundas"
+  },
+  {
+    "entidad": "estudio PURE",
+    "relacion": "investiga",
+    "valor": "factores de riesgo modificables"
+  },
+  {
+    "entidad": "enfermedades no transmisibles (ENT)",
+    "relacion": "representan",
+    "valor": "85% de todas las muertes en Chile"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "ha duplicado su prevalencia en",
+    "valor": "Chile"
+  },
+  {
+    "entidad": "mujeres con educación secundaria o terciaria",
+    "relacion": "son más propensas a",
+    "valor": "mejorar su dieta"
+  },
+  {
+    "entidad": "hombres con educación primaria",
+    "relacion": "son menos propensos a",
+    "valor": "cambiar su dieta"
+  },
+  {
+    "entidad": "30 Seconds Sit-to-Stand Test (30s-STST)",
+    "relacion": "es",
+    "valor": "una prueba válida y confiable para evaluar la musculatura de las extremidades inferiores"
+  },
+  {
+    "entidad": "30s-STST",
+    "relacion": "evalúa",
+    "valor": "capacidad funcional"
+  },
+  {
+    "entidad": "población chilena",
+    "relacion": "tiene",
+    "valor": "valores de referencia establecidos para 30s-STST"
+  },
+  {
+    "entidad": "estudio transversal",
+    "relacion": "se realizó en",
+    "valor": "seis centros en Chile"
+  },
+  {
+    "entidad": "centros de atención primaria",
+    "relacion": "son",
+    "valor": "tres de los seis centros del estudio"
+  },
+  {
+    "entidad": "Universidades",
+    "relacion": "son",
+    "valor": "tres de los seis centros del estudio"
+  },
+  {
+    "entidad": "valores de referencia",
+    "relacion": "se establecieron para",
+    "valor": "adultos de 18 a 80 años"
+  },
+  {
+    "entidad": "análisis de regresión lineal múltiple",
+    "relacion": "se realizó para",
+    "valor": "hombres y mujeres"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "es un",
+    "valor": "predictor en el desempeño del 30s-STST"
+  },
+  {
+    "entidad": "altura",
+    "relacion": "es un",
+    "valor": "predictor en el desempeño del 30s-STST para mujeres"
+  },
+  {
+    "entidad": "peso",
+    "relacion": "es un",
+    "valor": "predictor en el desempeño del 30s-STST"
+  },
+  {
+    "entidad": "30s-STST",
+    "relacion": "es utilizado como",
+    "valor": "referencia en otras poblaciones del Cono Sur"
+  },
+  {
+    "entidad": "capacidad funcional",
+    "relacion": "es un",
+    "valor": "indicador importante de salud"
+  },
+  {
+    "entidad": "músculo",
+    "relacion": "es evaluado por",
+    "valor": "30s-STST"
+  },
+  {
+    "entidad": "métodos de evaluación",
+    "relacion": "incluyen",
+    "valor": "pruebas de campo y laboratorio"
+  },
+  {
+    "entidad": "6-minute walk test (6MWT)",
+    "relacion": "es un",
+    "valor": "estándar para evaluar capacidad funcional"
+  },
+  {
+    "entidad": "30s-STST",
+    "relacion": "es una alternativa a",
+    "valor": "6MWT"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "hizo que",
+    "valor": "30s-STST fuera importante como evaluación remota"
+  },
+  {
+    "entidad": "valores de referencia",
+    "relacion": "deben ser",
+    "valor": "adaptados a la población local"
+  },
+  {
+    "entidad": "poblaciones del Cono Sur",
+    "relacion": "pueden usar",
+    "valor": "valores de referencia establecidos en este estudio"
+  },
+  {
+    "entidad": "métodos de evaluación",
+    "relacion": "tienen",
+    "valor": "ventajas y desventajas"
+  }
+]

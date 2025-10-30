@@ -1,0 +1,792 @@
+[
+  {
+    "entidad": "COVID-19",
+    "relacion": "genera",
+    "valor": "desafíos para el sistema de salud"
+  },
+  {
+    "entidad": "enfermedades cardiovasculares",
+    "relacion": "asocian con",
+    "valor": "peor pronóstico de infecciones"
+  },
+  {
+    "entidad": "American College of Cardiology",
+    "relacion": "establece",
+    "valor": "guía para manejo de pacientes cardiológicos durante la pandemia"
+  },
+  {
+    "entidad": "Society for Cardiovascular Angiography and Interventions",
+    "relacion": "colabora con",
+    "valor": "American College of Cardiology"
+  },
+  {
+    "entidad": "estenosis aórtica",
+    "relacion": "afecta a",
+    "valor": "pacientes vulnerables a COVID-19"
+  },
+  {
+    "entidad": "TAVI",
+    "relacion": "es un",
+    "valor": "tratamiento para estenosis aórtica severa"
+  },
+  {
+    "entidad": "TAVI",
+    "relacion": "se asocia a",
+    "valor": "menor estadía hospitalaria"
+  },
+  {
+    "entidad": "Hospital Sótero del Río",
+    "relacion": "realiza",
+    "valor": "implantes de TAVI"
+  },
+  {
+    "entidad": "Clínica Universidad de los Andes",
+    "relacion": "realiza",
+    "valor": "implantes de TAVI"
+  },
+  {
+    "entidad": "Clínica BUPA Santiago",
+    "relacion": "realiza",
+    "valor": "implantes de TAVI"
+  },
+  {
+    "entidad": "sedación consciente",
+    "relacion": "se utiliza en",
+    "valor": "procedimiento de TAVI"
+  },
+  {
+    "entidad": "válvula Medtronic",
+    "relacion": "se utiliza en",
+    "valor": "implantes de TAVI"
+  },
+  {
+    "entidad": "telemedicina",
+    "relacion": "se utiliza para",
+    "valor": "seguimiento de pacientes post TAVI"
+  },
+  {
+    "entidad": "comité de ética del Servicio de Salud Metropolitano Sur Oriente",
+    "relacion": "autoriza",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "alta precoz",
+    "relacion": "es un objetivo de",
+    "valor": "programa de TAVI"
+  },
+  {
+    "entidad": "World Health Organization",
+    "relacion": "recomienda",
+    "valor": "uso racional de equipo de protección personal"
+  },
+  {
+    "entidad": "mortalidad en pacientes con estenosis aórtica severa",
+    "relacion": "es alta sin",
+    "valor": "tratamiento"
+  },
+  {
+    "entidad": "programa de TAVI",
+    "relacion": "se mantiene durante",
+    "valor": "pandemia por COVID-19"
+  },
+  {
+    "entidad": "estrategia minimalista",
+    "relacion": "se aplica en",
+    "valor": "implante de TAVI"
+  },
+  {
+    "entidad": "recursos hospitalarios",
+    "relacion": "son limitados durante",
+    "valor": "pandemia por COVID-19"
+  },
+  {
+    "entidad": "Escala de Adaptación de la Persona Mayor a su Residencia (EAPAR)",
+    "relacion": "es",
+    "valor": "un instrumento para evaluar la adaptación de personas mayores"
+  },
+  {
+    "entidad": "Nancy Plaza-Troncoso",
+    "relacion": "es",
+    "valor": "autora del estudio"
+  },
+  {
+    "entidad": "Universidad Católica de la Santísima Concepción",
+    "relacion": "financia",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "población chilena",
+    "relacion": "es objeto de",
+    "valor": "la adaptación y evaluación de la EAPAR"
+  },
+  {
+    "entidad": "personas mayores",
+    "relacion": "padecen",
+    "valor": "dependencia funcional leve, moderada o grave"
+  },
+  {
+    "entidad": "residencias protegidas",
+    "relacion": "son",
+    "valor": "una solución para personas con vulnerabilidad"
+  },
+  {
+    "entidad": "depresión",
+    "relacion": "puede aparecer",
+    "valor": "cuando no se logra mantener un equilibrio físico y emocional"
+  },
+  {
+    "entidad": "Roy y Andrews",
+    "relacion": "proponen",
+    "valor": "un modelo teórico de adaptación"
+  },
+  {
+    "entidad": "EAPAR",
+    "relacion": "es",
+    "valor": "un instrumento confiable y válido para profesionales de salud"
+  },
+  {
+    "entidad": "Comité de Ética de la Dirección de Investigación de la Universidad Católica de la Santísima Concepción",
+    "relacion": "aprueba",
+    "valor": "el protocolo del estudio"
+  },
+  {
+    "entidad": "Castonguay y Ferron",
+    "relacion": "elaboran",
+    "valor": "la EAPAR en 1999"
+  },
+  {
+    "entidad": "EAPAR",
+    "relacion": "incluye",
+    "valor": "dimensiones personal, social y bienestar general"
+  },
+  {
+    "entidad": "alfa de Cronbach",
+    "relacion": "mide",
+    "valor": "la fiabilidad del instrumento"
+  },
+  {
+    "entidad": "escala de autoestima de Rosenberg",
+    "relacion": "se utiliza para contrastar",
+    "valor": "la validez estadística"
+  },
+  {
+    "entidad": "EAPAR",
+    "relacion": "presenta",
+    "valor": "una adecuada consistencia interna"
+  },
+  {
+    "entidad": "población canadiense",
+    "relacion": "se compara con",
+    "valor": "los resultados obtenidos en Chile"
+  },
+  {
+    "entidad": "instrumento de adaptación",
+    "relacion": "no se logra obtener",
+    "valor": "correlación significativa con la escala de autoestima"
+  },
+  {
+    "entidad": "EAPAR",
+    "relacion": "es",
+    "valor": "un recurso para detectar riesgo de adaptación"
+  },
+  {
+    "entidad": "18F-fluorodesoxiglucosa",
+    "relacion": "es un",
+    "valor": "radiotrazador"
+  },
+  {
+    "entidad": "tomografía por emisión de positrones",
+    "relacion": "es un",
+    "valor": "técnica de imagen"
+  },
+  {
+    "entidad": "tomografía computada",
+    "relacion": "es un",
+    "valor": "técnica de imagen"
+  },
+  {
+    "entidad": "mieloma múltiple",
+    "relacion": "es un",
+    "valor": "enfermedad"
+  },
+  {
+    "entidad": "mieloma múltiple extramedular",
+    "relacion": "es un",
+    "valor": "subtipo de mieloma múltiple"
+  },
+  {
+    "entidad": "Hospital de Clínicas Dr. Manuel Quintela",
+    "relacion": "es un",
+    "valor": "institución médica"
+  },
+  {
+    "entidad": "Universidad de la República",
+    "relacion": "es un",
+    "valor": "institución educativa"
+  },
+  {
+    "entidad": "PET-TC",
+    "relacion": "utiliza",
+    "valor": "18F-fluorodesoxiglucosa"
+  },
+  {
+    "entidad": "PET-TC",
+    "relacion": "tiene",
+    "valor": "alta sensibilidad y especificidad"
+  },
+  {
+    "entidad": "PET-TC",
+    "relacion": "es útil para",
+    "valor": "diagnosticar compromiso extramedular"
+  },
+  {
+    "entidad": "mieloma múltiple extramedular",
+    "relacion": "requiere",
+    "valor": "tratamiento distinto"
+  },
+  {
+    "entidad": "mieloma múltiple extramedular",
+    "relacion": "tiene",
+    "valor": "mayor agresividad"
+  },
+  {
+    "entidad": "mieloma múltiple extramedular",
+    "relacion": "tiene",
+    "valor": "menor supervivencia"
+  },
+  {
+    "entidad": "Fondo Nacional de Recursos",
+    "relacion": "cubre",
+    "valor": "PET-TC en mieloma múltiple"
+  },
+  {
+    "entidad": "Centro Uruguayo de Imagenología Molecular",
+    "relacion": "realiza",
+    "valor": "PET-TC en Uruguay"
+  },
+  {
+    "entidad": "International Myeloma Working Group",
+    "relacion": "propone",
+    "valor": "realizar PET-TC en mieloma múltiple"
+  },
+  {
+    "entidad": "tomografía computada",
+    "relacion": "tiene",
+    "valor": "mayor sensibilidad que radiografía"
+  },
+  {
+    "entidad": "resonancia magnética",
+    "relacion": "es",
+    "valor": "técnica de elección para diagnóstico de plasmocitoma"
+  },
+  {
+    "entidad": "PET-TC",
+    "relacion": "permite",
+    "valor": "evaluar respuesta al tratamiento"
+  },
+  {
+    "entidad": "PET-TC",
+    "relacion": "reduce",
+    "valor": "necesidad de biopsias de médula ósea"
+  },
+  {
+    "entidad": "mieloma múltiple",
+    "relacion": "representa",
+    "valor": "1% de las neoplasias a nivel mundial"
+  },
+  {
+    "entidad": "mieloma múltiple",
+    "relacion": "tiene",
+    "valor": "incidencia estimada de 4 casos cada 100.000 personas por año"
+  },
+  {
+    "entidad": "mieloma múltiple",
+    "relacion": "ha aumentado",
+    "valor": "la supervivencia global en la última década"
+  },
+  {
+    "entidad": "hormonas reguladoras del apetito",
+    "relacion": "modulan",
+    "valor": "ingesta alimentaria"
+  },
+  {
+    "entidad": "hormonas orexigénicas",
+    "relacion": "asociadas con",
+    "valor": "ingesta energética"
+  },
+  {
+    "entidad": "hormonas anorexigénicas",
+    "relacion": "asociadas con",
+    "valor": "ingesta energética"
+  },
+  {
+    "entidad": "leptina",
+    "relacion": "asociada positivamente con",
+    "valor": "ingesta energética en hombres"
+  },
+  {
+    "entidad": "insulina",
+    "relacion": "asociada negativamente con",
+    "valor": "ingesta energética"
+  },
+  {
+    "entidad": "ghrelina",
+    "relacion": "asociada positivamente con",
+    "valor": "ingesta energética"
+  },
+  {
+    "entidad": "orexina-A",
+    "relacion": "asociada positivamente con",
+    "valor": "ingesta energética"
+  },
+  {
+    "entidad": "adolescentes chilenos",
+    "relacion": "participan en",
+    "valor": "estudio sobre ingesta energética"
+  },
+  {
+    "entidad": "Instituto de Nutrición y Tecnología de los Alimentos (INTA)",
+    "relacion": "realiza",
+    "valor": "evaluaciones de hormonas"
+  },
+  {
+    "entidad": "métodos de análisis multivariados",
+    "relacion": "utilizados para",
+    "valor": "estudiar asociaciones entre hormonas e ingesta"
+  },
+  {
+    "entidad": "factores modificables",
+    "relacion": "pueden influir en",
+    "valor": "niveles de hormonas reguladoras del apetito"
+  },
+  {
+    "entidad": "comportamiento alimentario",
+    "relacion": "influenciado por",
+    "valor": "hormonas reguladoras del apetito"
+  },
+  {
+    "entidad": "hormonas orexigénicas",
+    "relacion": "incluyen",
+    "valor": "ghrelina y orexina-A"
+  },
+  {
+    "entidad": "hormonas anorexigénicas",
+    "relacion": "incluyen",
+    "valor": "leptina e insulina"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen niveles más altos de",
+    "valor": "leptina, insulina y grelina que hombres"
+  },
+  {
+    "entidad": "hormonas",
+    "relacion": "afectan",
+    "valor": "regulación del apetito"
+  },
+  {
+    "entidad": "evaluaciones de antropometría",
+    "relacion": "realizadas en",
+    "valor": "adolescentes chilenos"
+  },
+  {
+    "entidad": "Intercambio plasmático terapéutico (IPT)",
+    "relacion": "es un",
+    "valor": "procedimiento médico"
+  },
+  {
+    "entidad": "plasmafiltración",
+    "relacion": "es un",
+    "valor": "método de IPT"
+  },
+  {
+    "entidad": "plasma",
+    "relacion": "es separado de",
+    "valor": "componentes sanguíneos"
+  },
+  {
+    "entidad": "plasma",
+    "relacion": "es reemplazado por",
+    "valor": "soluciones con albúmina y/o plasma"
+  },
+  {
+    "entidad": "Sociedad Americana de Aféresis (ASFA)",
+    "relacion": "define",
+    "valor": "IPT"
+  },
+  {
+    "entidad": "IPT",
+    "relacion": "permite",
+    "valor": "eliminación de macromoléculas nocivas"
+  },
+  {
+    "entidad": "macromoléculas nocivas",
+    "relacion": "incluyen",
+    "valor": "anticuerpos, inmunocomplejos, crioglobulinas y endotoxinas"
+  },
+  {
+    "entidad": "IPT",
+    "relacion": "es considerado como tratamiento de",
+    "valor": "primera línea en ciertas patologías"
+  },
+  {
+    "entidad": "patologías",
+    "relacion": "incluyen",
+    "valor": "síndrome de Guillain-Barré, microangiopatía trombótica, enfermedad de anticuerpo contra membrana basal glomerular y miastenia gravis"
+  },
+  {
+    "entidad": "Administración de Alimentos y Medicamentos (FDA)",
+    "relacion": "aprueba",
+    "valor": "uso de IPT mediante membranas"
+  },
+  {
+    "entidad": "IPT por filtración",
+    "relacion": "es menos costoso que",
+    "valor": "IPT por centrifugación"
+  },
+  {
+    "entidad": "IPT por filtración",
+    "relacion": "no causa",
+    "valor": "pérdida de componentes celulares"
+  },
+  {
+    "entidad": "anticoagulación",
+    "relacion": "no es indispensable en",
+    "valor": "IPT por filtración"
+  },
+  {
+    "entidad": "IPT",
+    "relacion": "ha sido aplicado en",
+    "valor": "diversos escenarios clínicos"
+  },
+  {
+    "entidad": "Hospital Las Higueras",
+    "relacion": "realiza",
+    "valor": "IPT"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "requieren",
+    "valor": "terapia de sustitución renal (TSR)"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "es alta en",
+    "valor": "pacientes tratados con IPT"
+  },
+  {
+    "entidad": "complicaciones",
+    "relacion": "son",
+    "valor": "mild y prevenibles"
+  },
+  {
+    "entidad": "trombocitopenia",
+    "relacion": "se presenta en",
+    "valor": "41% de los pacientes"
+  },
+  {
+    "entidad": "hipocalcemia",
+    "relacion": "se presenta en",
+    "valor": "18% de los pacientes"
+  },
+  {
+    "entidad": "hipotensión",
+    "relacion": "se presenta en",
+    "valor": "16% de los pacientes"
+  },
+  {
+    "entidad": "IPT",
+    "relacion": "es seguro cuando",
+    "valor": "se sigue un protocolo de monitoreo estricto"
+  },
+  {
+    "entidad": "mortalidad a 7 días",
+    "relacion": "es",
+    "valor": "20%"
+  },
+  {
+    "entidad": "mortalidad a un año",
+    "relacion": "es",
+    "valor": "30%"
+  },
+  {
+    "entidad": "IPT",
+    "relacion": "es realizado por",
+    "valor": "personal entrenado"
+  },
+  {
+    "entidad": "Enfermedades Pulmonares Intersticiales",
+    "relacion": "son",
+    "valor": "patologías respiratorias crónicas"
+  },
+  {
+    "entidad": "Fibrosis Pulmonar Idiopática",
+    "relacion": "es un",
+    "valor": "subtipo de Enfermedades Pulmonares Intersticiales"
+  },
+  {
+    "entidad": "Fibrosis Pulmonar Idiopática",
+    "relacion": "afecta",
+    "valor": "la calidad de vida de las personas"
+  },
+  {
+    "entidad": "Región de Los Ríos",
+    "relacion": "tiene",
+    "valor": "una población de adultos mayores"
+  },
+  {
+    "entidad": "Hospital Base Valdivia",
+    "relacion": "es",
+    "valor": "el único centro regional de referencia para diagnóstico y tratamiento de EPI"
+  },
+  {
+    "entidad": "Comité Ético Científico del Servicio de Salud Valdivia",
+    "relacion": "evaluó y autorizó",
+    "valor": "el protocolo de investigación"
+  },
+  {
+    "entidad": "Policlínico Respiratorio",
+    "relacion": "es parte de",
+    "valor": "Consultorio de Especialidades del Hospital Base Valdivia"
+  },
+  {
+    "entidad": "EPI",
+    "relacion": "se agrupan en",
+    "valor": "Neumonías Intersticiales Idiopáticas y otras"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "se verifica con",
+    "valor": "certificados de defunción"
+  },
+  {
+    "entidad": "mortalidad por EPI",
+    "relacion": "es",
+    "valor": "una causa de defunción"
+  },
+  {
+    "entidad": "Enfermedades del Tejido Conectivo",
+    "relacion": "son",
+    "valor": "subtipos de EPI"
+  },
+  {
+    "entidad": "Artritis Reumatoide",
+    "relacion": "es",
+    "valor": "una causa frecuente de mortalidad en EPI"
+  },
+  {
+    "entidad": "EPI",
+    "relacion": "tiene",
+    "valor": "una alta tasa de mortalidad"
+  },
+  {
+    "entidad": "Fondo Nacional de Salud",
+    "relacion": "es",
+    "valor": "el sistema de salud pública en Chile"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "representan",
+    "valor": "la mayoría de los casos de EPI"
+  },
+  {
+    "entidad": "EPI",
+    "relacion": "se caracteriza por",
+    "valor": "afectar el intersticio y parénquima pulmonar"
+  },
+  {
+    "entidad": "Región de Los Ríos",
+    "relacion": "presenta",
+    "valor": "un índice de envejecimiento superior al total nacional"
+  },
+  {
+    "entidad": "mortalidad por FPI",
+    "relacion": "ha aumentado",
+    "valor": "en Chile"
+  },
+  {
+    "entidad": "EPI",
+    "relacion": "requiere",
+    "valor": "cobertura diagnóstica y terapéutica adecuada"
+  },
+  {
+    "entidad": "Oclusiones crónicas totales (OCT)",
+    "relacion": "representan",
+    "valor": "un desafío en la práctica clínica"
+  },
+  {
+    "entidad": "Oclusiones crónicas totales (OCT)",
+    "relacion": "son",
+    "valor": "predictor independiente de mortalidad"
+  },
+  {
+    "entidad": "Infarto agudo del miocardio (IAM)",
+    "relacion": "puede ser",
+    "valor": "signo de mal pronóstico"
+  },
+  {
+    "entidad": "Coronariografía",
+    "relacion": "se utiliza para",
+    "valor": "estudiar pacientes con IAM"
+  },
+  {
+    "entidad": "Hospital Guillermo Grant Benavente",
+    "relacion": "realiza",
+    "valor": "angioplastía primaria"
+  },
+  {
+    "entidad": "Pacientes con IAM",
+    "relacion": "se agrupan en",
+    "valor": "con y sin OCT"
+  },
+  {
+    "entidad": "Pacientes con OCT",
+    "relacion": "presentan",
+    "valor": "mayor prevalencia de hipertensión"
+  },
+  {
+    "entidad": "Pacientes con OCT",
+    "relacion": "presentan",
+    "valor": "mayor prevalencia de diabetes mellitus"
+  },
+  {
+    "entidad": "Pacientes con OCT",
+    "relacion": "presentan",
+    "valor": "mayor disfunción renal"
+  },
+  {
+    "entidad": "Pacientes con IAM",
+    "relacion": "tienen",
+    "valor": "menor sobrevida a largo plazo"
+  },
+  {
+    "entidad": "Edad",
+    "relacion": "es un",
+    "valor": "predictor independiente de mortalidad"
+  },
+  {
+    "entidad": "Diabetes mellitus",
+    "relacion": "es un",
+    "valor": "predictor independiente de mortalidad"
+  },
+  {
+    "entidad": "Disfunción renal",
+    "relacion": "es un",
+    "valor": "predictor independiente de mortalidad"
+  },
+  {
+    "entidad": "Sobrevida a largo plazo",
+    "relacion": "se asocia con",
+    "valor": "presencia de OCT"
+  },
+  {
+    "entidad": "Angioplastía",
+    "relacion": "se realiza en",
+    "valor": "pacientes con IAM"
+  },
+  {
+    "entidad": "Comité de Ética Científico del Servicio de Salud Concepción",
+    "relacion": "aprueba",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "Estudio descriptivo",
+    "relacion": "se basa en",
+    "valor": "análisis de registros médicos"
+  },
+  {
+    "entidad": "Sobrevida global",
+    "relacion": "fue",
+    "valor": "12,6% en pacientes con IAM"
+  },
+  {
+    "entidad": "Fracción de eyección",
+    "relacion": "se presenta en",
+    "valor": "rango similar en ambos grupos"
+  },
+  {
+    "entidad": "Tabaquismo",
+    "relacion": "es un",
+    "valor": "predictor de mortalidad"
+  },
+  {
+    "entidad": "tumores mayores de 2 centímetros",
+    "relacion": "son",
+    "valor": "predictores de mortalidad"
+  },
+  {
+    "entidad": "nefro-ureterectomía",
+    "relacion": "es un",
+    "valor": "método de tratamiento para carcinoma de urotelio alto"
+  },
+  {
+    "entidad": "carcinoma de urotelio alto",
+    "relacion": "representa",
+    "valor": "5-10% de los carcinomas uroteliales"
+  },
+  {
+    "entidad": "pacientes con tabaquismo",
+    "relacion": "tienen",
+    "valor": "mayor mortalidad"
+  },
+  {
+    "entidad": "pacientes con tumores invasores",
+    "relacion": "tienen",
+    "valor": "mayor mortalidad"
+  },
+  {
+    "entidad": "pacientes con tumores mayores de 2 cm",
+    "relacion": "tienen",
+    "valor": "mayor mortalidad"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "es un",
+    "valor": "centro académico"
+  },
+  {
+    "entidad": "Hospital Sótero del Río",
+    "relacion": "es un",
+    "valor": "centro de salud"
+  },
+  {
+    "entidad": "quimioterapia adyuvante",
+    "relacion": "es un",
+    "valor": "tratamiento utilizado en algunos pacientes"
+  },
+  {
+    "entidad": "sobrevida global",
+    "relacion": "se establece mediante",
+    "valor": "curvas de Kaplan-Meier"
+  },
+  {
+    "entidad": "análisis multivariado",
+    "relacion": "se utiliza para",
+    "valor": "establecer predictores de mortalidad"
+  },
+  {
+    "entidad": "técnicas de manejo conservador",
+    "relacion": "no son adecuadas para",
+    "valor": "pacientes con tabaquismo y tumores invasores"
+  },
+  {
+    "entidad": "KSS",
+    "relacion": "es un",
+    "valor": "tratamiento conservador"
+  },
+  {
+    "entidad": "tumores de urotelio alto",
+    "relacion": "incluyen",
+    "valor": "lesiones desde los cálices renales hasta el uréter distal"
+  },
+  {
+    "entidad": "técnica laparoscópica",
+    "relacion": "se utiliza en",
+    "valor": "nefro-ureterectomías"
+  },
+  {
+    "entidad": "comité de ética del Hospital Clínico de la Pontificia Universidad Católica de Chile",
+    "relacion": "aprueba",
+    "valor": "estudios clínicos"
+  }
+]

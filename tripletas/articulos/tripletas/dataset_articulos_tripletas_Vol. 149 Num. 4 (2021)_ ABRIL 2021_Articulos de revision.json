@@ -1,0 +1,377 @@
+[
+  {
+    "entidad": "COVID-19",
+    "relacion": "es una",
+    "valor": "enfermedad"
+  },
+  {
+    "entidad": "SARS-CoV-2",
+    "relacion": "causa",
+    "valor": "COVID-19"
+  },
+  {
+    "entidad": "pacientes críticos",
+    "relacion": "requieren",
+    "valor": "sedación y analgesia"
+  },
+  {
+    "entidad": "sedación",
+    "relacion": "promueve",
+    "valor": "tolerancia y confort"
+  },
+  {
+    "entidad": "analgesia",
+    "relacion": "disminuye",
+    "valor": "dolor"
+  },
+  {
+    "entidad": "bloqueadores neuromusculares",
+    "relacion": "evitan",
+    "valor": "asincronías ventilatorias"
+  },
+  {
+    "entidad": "oxigenoterapia",
+    "relacion": "es parte de",
+    "valor": "tratamiento de soporte"
+  },
+  {
+    "entidad": "Universidad de Wuhan",
+    "relacion": "recomienda",
+    "valor": "administración de oxigenoterapia"
+  },
+  {
+    "entidad": "Organización Panamericana de la Salud",
+    "relacion": "proporciona",
+    "valor": "guías de tratamiento"
+  },
+  {
+    "entidad": "delirium",
+    "relacion": "afecta a",
+    "valor": "pacientes con COVID-19"
+  },
+  {
+    "entidad": "dolor neuropático",
+    "relacion": "puede ser causado por",
+    "valor": "invasión viral a nervios periféricos"
+  },
+  {
+    "entidad": "Sociedad Médica de Cuidados Críticos de Estados Unidos",
+    "relacion": "define",
+    "valor": "manejo A, B, C, D, E, F"
+  },
+  {
+    "entidad": "sedación profunda",
+    "relacion": "es necesaria en",
+    "valor": "pacientes con SDRA"
+  },
+  {
+    "entidad": "farmacéutico clínico",
+    "relacion": "es un",
+    "valor": "miembro del equipo multidisciplinario"
+  },
+  {
+    "entidad": "estrategias de optimización farmacoterapéutica",
+    "relacion": "disminuyen",
+    "valor": "errores de medicación"
+  },
+  {
+    "entidad": "ventilación mecánica invasiva",
+    "relacion": "requiere",
+    "valor": "sedación y analgesia"
+  },
+  {
+    "entidad": "camas críticas",
+    "relacion": "tienen",
+    "valor": "alta ocupación"
+  },
+  {
+    "entidad": "estrategias de optimización",
+    "relacion": "mejoran",
+    "valor": "desenlaces clínicos"
+  },
+  {
+    "entidad": "días de ventilación mecánica",
+    "relacion": "se asocian con",
+    "valor": "mortalidad"
+  },
+  {
+    "entidad": "metadona",
+    "relacion": "puede ser utilizada para",
+    "valor": "manejar síndrome de abstinencia"
+  },
+  {
+    "entidad": "AINEs",
+    "relacion": "deben ser evitados por",
+    "valor": "efectos negativos en COVID-19"
+  },
+  {
+    "entidad": "microbiota intestinal",
+    "relacion": "afecta a",
+    "valor": "enfermedad hígado graso no alcohólico"
+  },
+  {
+    "entidad": "enfermedad hígado graso no alcohólico",
+    "relacion": "es causada por",
+    "valor": "obesidad"
+  },
+  {
+    "entidad": "enfermedad hígado graso no alcohólico",
+    "relacion": "es causada por",
+    "valor": "resistencia a la insulina"
+  },
+  {
+    "entidad": "enfermedad hígado graso no alcohólico",
+    "relacion": "es causada por",
+    "valor": "diabetes mellitus tipo 2"
+  },
+  {
+    "entidad": "enfermedad hígado graso no alcohólico",
+    "relacion": "es causada por",
+    "valor": "dislipidemia"
+  },
+  {
+    "entidad": "microbiota intestinal",
+    "relacion": "modula",
+    "valor": "sistema inmune"
+  },
+  {
+    "entidad": "microbiota intestinal",
+    "relacion": "aumenta",
+    "valor": "permeabilidad intestinal"
+  },
+  {
+    "entidad": "microbiota intestinal",
+    "relacion": "produce",
+    "valor": "ácidos grasos de cadena corta"
+  },
+  {
+    "entidad": "microbiota intestinal",
+    "relacion": "aumenta",
+    "valor": "producción de etanol endógeno"
+  },
+  {
+    "entidad": "microbiota intestinal",
+    "relacion": "contribuye a",
+    "valor": "inflamación"
+  },
+  {
+    "entidad": "microbiota intestinal",
+    "relacion": "afecta a",
+    "valor": "metabolismo de colina"
+  },
+  {
+    "entidad": "microbiota intestinal",
+    "relacion": "alterada en",
+    "valor": "enfermedad hígado graso no alcohólico"
+  },
+  {
+    "entidad": "microbiota intestinal",
+    "relacion": "asociada a",
+    "valor": "obesidad"
+  },
+  {
+    "entidad": "microbiota intestinal",
+    "relacion": "asociada a",
+    "valor": "resistencia a la insulina"
+  },
+  {
+    "entidad": "microbiota intestinal",
+    "relacion": "asociada a",
+    "valor": "diabetes mellitus"
+  },
+  {
+    "entidad": "microbiota intestinal",
+    "relacion": "asociada a",
+    "valor": "dislipidemia"
+  },
+  {
+    "entidad": "microbiota intestinal",
+    "relacion": "asociada a",
+    "valor": "enfermedades coronarias"
+  },
+  {
+    "entidad": "esteatosis simple",
+    "relacion": "es un tipo de",
+    "valor": "enfermedad hígado graso no alcohólico"
+  },
+  {
+    "entidad": "esteatohepatitis no alcohólica",
+    "relacion": "es un tipo de",
+    "valor": "enfermedad hígado graso no alcohólico"
+  },
+  {
+    "entidad": "fibrosis",
+    "relacion": "es un tipo de",
+    "valor": "enfermedad hígado graso no alcohólico"
+  },
+  {
+    "entidad": "cirrosis",
+    "relacion": "es un tipo de",
+    "valor": "enfermedad hígado graso no alcohólico"
+  },
+  {
+    "entidad": "carcinoma hepatocelular",
+    "relacion": "es un tipo de",
+    "valor": "enfermedad hígado graso no alcohólico"
+  },
+  {
+    "entidad": "dieta alta en fibra",
+    "relacion": "aumenta",
+    "valor": "abundancia de Bacteroidetes"
+  },
+  {
+    "entidad": "dieta baja en fibra",
+    "relacion": "aumenta",
+    "valor": "abundancia de microorganismos tolerantes a la bilis"
+  },
+  {
+    "entidad": "Bacteroidetes",
+    "relacion": "es un tipo de",
+    "valor": "microorganismo en microbiota intestinal"
+  },
+  {
+    "entidad": "Firmicutes",
+    "relacion": "es un tipo de",
+    "valor": "microorganismo en microbiota intestinal"
+  },
+  {
+    "entidad": "Prevotella",
+    "relacion": "es un tipo de",
+    "valor": "microorganismo en microbiota intestinal"
+  },
+  {
+    "entidad": "Bifidobacterium",
+    "relacion": "es un tipo de",
+    "valor": "microorganismo en microbiota intestinal"
+  },
+  {
+    "entidad": "Lactobacillus",
+    "relacion": "es un tipo de",
+    "valor": "microorganismo en microbiota intestinal"
+  },
+  {
+    "entidad": "metabolismo de carbohidratos",
+    "relacion": "afectado por",
+    "valor": "microbiota intestinal"
+  },
+  {
+    "entidad": "estrés oxidativo",
+    "relacion": "es causado por",
+    "valor": "aumento de endotoxinas"
+  },
+  {
+    "entidad": "endotoxinas",
+    "relacion": "provocan",
+    "valor": "inflamación"
+  },
+  {
+    "entidad": "ácidos biliares",
+    "relacion": "alterados en",
+    "valor": "enfermedad hígado graso no alcohólico"
+  },
+  {
+    "entidad": "transplante fecal",
+    "relacion": "es un tratamiento para",
+    "valor": "enfermedad hígado graso no alcohólico"
+  },
+  {
+    "entidad": "probióticos",
+    "relacion": "son utilizados en",
+    "valor": "tratamiento de enfermedad hígado graso no alcohólico"
+  },
+  {
+    "entidad": "Test de sangre oculta en deposiciones (TSOD)",
+    "relacion": "es un",
+    "valor": "método de cribado"
+  },
+  {
+    "entidad": "cáncer colorrectal (CCR)",
+    "relacion": "es",
+    "valor": "una enfermedad"
+  },
+  {
+    "entidad": "programas de cribado",
+    "relacion": "son",
+    "valor": "estándar en países desarrollados"
+  },
+  {
+    "entidad": "colonoscopy",
+    "relacion": "permite",
+    "valor": "visualizar el colon y remover lesiones neoplásicas"
+  },
+  {
+    "entidad": "Test de sangre oculta en deposiciones (TSOD)",
+    "relacion": "es",
+    "valor": "un método de bajo costo y sin riesgo"
+  },
+  {
+    "entidad": "Test de guayaco",
+    "relacion": "tiene",
+    "valor": "baja sensibilidad en hemorragia oculta"
+  },
+  {
+    "entidad": "test inmunológicos",
+    "relacion": "son preferidos",
+    "valor": "en programas de cribado"
+  },
+  {
+    "entidad": "métodos cuantitativos",
+    "relacion": "permiten",
+    "valor": "lecturas objetivas"
+  },
+  {
+    "entidad": "hemoglobina (Hb)",
+    "relacion": "es",
+    "valor": "una proteína"
+  },
+  {
+    "entidad": "hemorragia oculta intestinal",
+    "relacion": "se define como",
+    "valor": "sangre no observable en heces"
+  },
+  {
+    "entidad": "test inmunológico (TSODi)",
+    "relacion": "mide",
+    "valor": "presencia de sangre mediante anticuerpos"
+  },
+  {
+    "entidad": "test químicos",
+    "relacion": "son",
+    "valor": "menos efectivos que los inmunológicos"
+  },
+  {
+    "entidad": "OC-Sensor",
+    "relacion": "es",
+    "valor": "un test cuantitativo"
+  },
+  {
+    "entidad": "Programa de Prevención de Neoplasias Colorrectales (PRENEC)",
+    "relacion": "fue desarrollado por",
+    "valor": "Unidad de Coloproctología de Clínica Las Condes y Tokyo Medical and Dental University"
+  },
+  {
+    "entidad": "adherencia",
+    "relacion": "es mayor",
+    "valor": "en test inmunológicos que en químicos"
+  },
+  {
+    "entidad": "test inmunológico OC-sensor",
+    "relacion": "logró",
+    "valor": "92% de adherencia"
+  },
+  {
+    "entidad": "adenomas o adenocarcinomas",
+    "relacion": "fueron identificados en",
+    "valor": "46.8% de pacientes con test positivo"
+  },
+  {
+    "entidad": "cáncer",
+    "relacion": "fue detectado en",
+    "valor": "4.61% de los pacientes"
+  },
+  {
+    "entidad": "métodos cuantitativos",
+    "relacion": "permiten",
+    "valor": "estratificar pacientes de mayor riesgo"
+  }
+]

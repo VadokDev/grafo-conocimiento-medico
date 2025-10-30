@@ -1,0 +1,92 @@
+[
+  {
+    "entidad": "personas con discapacidad psiquiátrica",
+    "relacion": "presentan",
+    "valor": "dificultades para alcanzar la inclusión laboral"
+  },
+  {
+    "entidad": "Ley 21.015",
+    "relacion": "ofrece",
+    "valor": "oportunidad de aprendizaje"
+  },
+  {
+    "entidad": "equipos de salud",
+    "relacion": "deben conocer",
+    "valor": "aspectos legales de la empleabilidad"
+  },
+  {
+    "entidad": "estrategias de inclusión laboral",
+    "relacion": "son",
+    "valor": "recomendaciones para su implementación"
+  },
+  {
+    "entidad": "empleo con apoyo",
+    "relacion": "es",
+    "valor": "una estrategia efectiva"
+  },
+  {
+    "entidad": "centros de capacitación laboral",
+    "relacion": "son",
+    "valor": "estrategias desarrolladas en Chile"
+  },
+  {
+    "entidad": "Ley N° 21.015",
+    "relacion": "incentiva",
+    "valor": "la inclusión laboral de personas con discapacidad"
+  },
+  {
+    "entidad": "personas con discapacidad",
+    "relacion": "deben recibir",
+    "valor": "apoyo para el empleo desde temprana edad"
+  },
+  {
+    "entidad": "normativa laboral en discapacidad en Chile",
+    "relacion": "incluye",
+    "valor": "prohibición de discriminación"
+  },
+  {
+    "entidad": "empresas sociales",
+    "relacion": "son",
+    "valor": "entidades que operan entre el sector público y privado"
+  },
+  {
+    "entidad": "personas con discapacidad psiquiátrica",
+    "relacion": "tienen",
+    "valor": "mayores problemas para acceder al empleo"
+  },
+  {
+    "entidad": "equipos de salud",
+    "relacion": "deben estar preparados para",
+    "valor": "orientar a personas con discapacidad psiquiátrica que manifiesten interés por trabajar"
+  },
+  {
+    "entidad": "redes intersectoriales",
+    "relacion": "son",
+    "valor": "importantes para la inclusión laboral"
+  },
+  {
+    "entidad": "Ley N° 21.015",
+    "relacion": "requiere",
+    "valor": "revisar cómo es y qué ofrece la inclusión laboral"
+  },
+  {
+    "entidad": "personas con discapacidad psiquiátrica",
+    "relacion": "pueden experimentar",
+    "valor": "autoestigma percibido"
+  },
+  {
+    "entidad": "empleo protegido",
+    "relacion": "es",
+    "valor": "una opción para quienes no pueden obtener empleo normal"
+  },
+  {
+    "entidad": "estrategias de empleabilidad",
+    "relacion": "se identifican como",
+    "valor": "empleo abierto, empleo protegido, empleo con apoyo y empresas sociales"
+  },
+  {
+    "entidad": "personas con discapacidad",
+    "relacion": "deben ser contratadas",
+    "valor": "en condiciones de igualdad jurídica y equidad laboral"
+  }
+]

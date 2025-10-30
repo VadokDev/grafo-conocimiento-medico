@@ -1,0 +1,87 @@
+[
+  {
+    "entidad": "Mielopatía cervical degenerativa",
+    "relacion": "es",
+    "valor": "la causa más común de disfunción de la médula espinal en adultos"
+  },
+  {
+    "entidad": "Mielopatía cervical degenerativa",
+    "relacion": "requiere",
+    "valor": "diagnóstico y manejo precoz"
+  },
+  {
+    "entidad": "Mielopatía cervical degenerativa",
+    "relacion": "aumenta debido a",
+    "valor": "envejecimiento poblacional"
+  },
+  {
+    "entidad": "Diagnóstico precoz",
+    "relacion": "mejora",
+    "valor": "resultados generales y neurológicos"
+  },
+  {
+    "entidad": "Resonancia magnética",
+    "relacion": "es",
+    "valor": "la principal herramienta diagnóstica"
+  },
+  {
+    "entidad": "Pacientes con MCD leve",
+    "relacion": "pueden ser",
+    "valor": "manejados de forma conservadora"
+  },
+  {
+    "entidad": "Pacientes con MCD moderada o severa",
+    "relacion": "requieren",
+    "valor": "descompresión quirúrgica"
+  },
+  {
+    "entidad": "Mielopatía cervical degenerativa",
+    "relacion": "presenta",
+    "valor": "síntomas que van desde debilidad muscular hasta parálisis completa"
+  },
+  {
+    "entidad": "Compresión de la médula espinal",
+    "relacion": "causa",
+    "valor": "lesión neural progresiva"
+  },
+  {
+    "entidad": "Mielopatía cervical degenerativa",
+    "relacion": "es asociada a",
+    "valor": "discapacidad neurológica"
+  },
+  {
+    "entidad": "Mielopatía cervical degenerativa",
+    "relacion": "puede ser difícil de",
+    "valor": "diagnosticar"
+  },
+  {
+    "entidad": "Tratamiento quirúrgico",
+    "relacion": "es recomendado para",
+    "valor": "pacientes con síntomas de MCD moderada a severa"
+  },
+  {
+    "entidad": "Mielopatía cervical degenerativa",
+    "relacion": "debe ser considerada en",
+    "valor": "el diagnóstico diferencial de dolor cervical y debilidad en extremidades"
+  },
+  {
+    "entidad": "Educación sobre signos de alarma",
+    "relacion": "es importante para",
+    "valor": "pacientes asintomáticos y aquellos con MCD leve"
+  },
+  {
+    "entidad": "Mielopatía cervical degenerativa",
+    "relacion": "es",
+    "valor": "subdiagnosticada"
+  },
+  {
+    "entidad": "Mielopatía cervical degenerativa",
+    "relacion": "se presenta como",
+    "valor": "deterioro lento y gradual"
+  },
+  {
+    "entidad": "Compresión medular",
+    "relacion": "puede ser",
+    "valor": "un hallazgo incidental en pacientes asintomáticos"
+  }
+]

@@ -1,0 +1,932 @@
+[
+  {
+    "entidad": "COVID-19",
+    "relacion": "es una",
+    "valor": "enfermedad"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud (OMS)",
+    "relacion": "declara",
+    "valor": "pandemia"
+  },
+  {
+    "entidad": "región de La Araucanía",
+    "relacion": "tiene",
+    "valor": "alta incidencia y letalidad de COVID-19"
+  },
+  {
+    "entidad": "Hospital Hernán Henríquez Aravena",
+    "relacion": "es un",
+    "valor": "hospital de alta complejidad"
+  },
+  {
+    "entidad": "Universidad de La Frontera",
+    "relacion": "financia",
+    "valor": "Proyecto DIUFRO DFP 0020-20"
+  },
+  {
+    "entidad": "pacientes ingresados por COVID-19",
+    "relacion": "presentan",
+    "valor": "comorbilidades como hipertensión, diabetes y obesidad"
+  },
+  {
+    "entidad": "tos, disnea y fiebre",
+    "relacion": "son síntomas de",
+    "valor": "COVID-19"
+  },
+  {
+    "entidad": "biomarcadores como ferritina y D-dimer",
+    "relacion": "son",
+    "valor": "indicadores de gravedad"
+  },
+  {
+    "entidad": "hospitalización prolongada",
+    "relacion": "se asocia con",
+    "valor": "cough, dyspnea y fever"
+  },
+  {
+    "entidad": "hipertensión y obesidad",
+    "relacion": "se asocian con",
+    "valor": "mayor tiempo de hospitalización"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "es del",
+    "valor": "8% en pacientes hospitalizados"
+  },
+  {
+    "entidad": "síntomas gastrointestinales",
+    "relacion": "incluyen",
+    "valor": "diarrea y vómitos"
+  },
+  {
+    "entidad": "Comité de Ética Científica del Servicio de Salud Araucanía Sur",
+    "relacion": "aprueba",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "análisis de similitud",
+    "relacion": "muestra",
+    "valor": "asociaciones entre síntomas y evolución clínica"
+  },
+  {
+    "entidad": "proyecto de investigación",
+    "relacion": "es dirigido por",
+    "valor": "Teresa Balboa-Castillo"
+  },
+  {
+    "entidad": "pacientes adultos",
+    "relacion": "son",
+    "valor": "el foco del estudio"
+  },
+  {
+    "entidad": "síntomas al ingreso",
+    "relacion": "son",
+    "valor": "predictores de gravedad"
+  },
+  {
+    "entidad": "días de hospitalización",
+    "relacion": "se relacionan con",
+    "valor": "la gravedad de COVID-19"
+  },
+  {
+    "entidad": "neoplasias mieloproliferativas Philadelphia negativas",
+    "relacion": "son",
+    "valor": "desórdenes hematológicos crónicos"
+  },
+  {
+    "entidad": "neoplasias mieloproliferativas Philadelphia negativas",
+    "relacion": "se caracterizan por",
+    "valor": "sobreproducción de células mieloides"
+  },
+  {
+    "entidad": "policitemia vera",
+    "relacion": "es un tipo de",
+    "valor": "neoplasia mieloproliferativa Philadelphia negativa"
+  },
+  {
+    "entidad": "trombocitemia esencial",
+    "relacion": "es un tipo de",
+    "valor": "neoplasia mieloproliferativa Philadelphia negativa"
+  },
+  {
+    "entidad": "mielofibrosis primaria",
+    "relacion": "es un tipo de",
+    "valor": "neoplasia mieloproliferativa Philadelphia negativa"
+  },
+  {
+    "entidad": "JAK2 V617F",
+    "relacion": "es una mutación asociada a",
+    "valor": "neoplasias mieloproliferativas Philadelphia negativas"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud (OMS)",
+    "relacion": "incluye",
+    "valor": "mutación JAK2 como criterio diagnóstico"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "no tiene",
+    "valor": "datos epidemiológicos sobre neoplasias mieloproliferativas Philadelphia negativas"
+  },
+  {
+    "entidad": "Hospital del Salvador",
+    "relacion": "es un",
+    "valor": "hospital en Santiago, Chile"
+  },
+  {
+    "entidad": "Hospital Gustavo Fricke",
+    "relacion": "es un",
+    "valor": "hospital en Viña del Mar, Chile"
+  },
+  {
+    "entidad": "Hospital Barros Luco Trudeau",
+    "relacion": "es un",
+    "valor": "hospital en Santiago, Chile"
+  },
+  {
+    "entidad": "Hospital Sótero del Río",
+    "relacion": "es un",
+    "valor": "hospital en Santiago, Chile"
+  },
+  {
+    "entidad": "Hospital Carlos Van Buren",
+    "relacion": "es un",
+    "valor": "hospital en Valparaíso, Chile"
+  },
+  {
+    "entidad": "Hospital Juan Noé",
+    "relacion": "es un",
+    "valor": "hospital en Arica, Chile"
+  },
+  {
+    "entidad": "Hospital Regional Vallenar-Huasco",
+    "relacion": "es un",
+    "valor": "hospital en Vallenar, Chile"
+  },
+  {
+    "entidad": "Hospital Puerto Montt",
+    "relacion": "es un",
+    "valor": "hospital en Puerto Montt, Chile"
+  },
+  {
+    "entidad": "Hospital Regional Coyhaique",
+    "relacion": "es un",
+    "valor": "hospital en Coyhaique, Chile"
+  },
+  {
+    "entidad": "Hospital Clínico de Magallanes",
+    "relacion": "es un",
+    "valor": "hospital en Punta Arenas, Chile"
+  },
+  {
+    "entidad": "Hospital Regional de Valdivia",
+    "relacion": "es un",
+    "valor": "hospital en Valdivia, Chile"
+  },
+  {
+    "entidad": "Hospital de La Serena",
+    "relacion": "es un",
+    "valor": "hospital en La Serena, Chile"
+  },
+  {
+    "entidad": "Ximena Valladares",
+    "relacion": "es un",
+    "valor": "autora del estudio"
+  },
+  {
+    "entidad": "Rafael Benavente",
+    "relacion": "es un",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "Christine Rojas",
+    "relacion": "es un",
+    "valor": "autora del estudio"
+  },
+  {
+    "entidad": "Camila Peña",
+    "relacion": "es un",
+    "valor": "autora del estudio"
+  },
+  {
+    "entidad": "Rodrigo Valenzuela",
+    "relacion": "es un",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "Virginia Monardes",
+    "relacion": "es un",
+    "valor": "autora del estudio"
+  },
+  {
+    "entidad": "Hernán López",
+    "relacion": "es un",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "Marcelo Abarca",
+    "relacion": "es un",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "Pilar León",
+    "relacion": "es un",
+    "valor": "autora del estudio"
+  },
+  {
+    "entidad": "Rocío Osorio",
+    "relacion": "es un",
+    "valor": "autora del estudio"
+  },
+  {
+    "entidad": "Erika Pérez",
+    "relacion": "es un",
+    "valor": "autora del estudio"
+  },
+  {
+    "entidad": "Pablo Soto",
+    "relacion": "es un",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "Gabriel La Rocca",
+    "relacion": "es un",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "Daniela Cardemil",
+    "relacion": "es un",
+    "valor": "autora del estudio"
+  },
+  {
+    "entidad": "Vivianne Torres",
+    "relacion": "es un",
+    "valor": "autora del estudio"
+  },
+  {
+    "entidad": "Marvila Intriago",
+    "relacion": "es un",
+    "valor": "autora del estudio"
+  },
+  {
+    "entidad": "María Elena Cabrera",
+    "relacion": "es un",
+    "valor": "autora del estudio"
+  },
+  {
+    "entidad": "María Soledad Undurraga",
+    "relacion": "es un",
+    "valor": "autora del estudio"
+  },
+  {
+    "entidad": "incidencia de neoplasias mieloproliferativas Philadelphia negativas",
+    "relacion": "es",
+    "valor": "baja en Chile"
+  },
+  {
+    "entidad": "biopsia de médula ósea",
+    "relacion": "es un",
+    "valor": "método diagnóstico"
+  },
+  {
+    "entidad": "estudio de mutación JAK2 V617F",
+    "relacion": "es un",
+    "valor": "método diagnóstico"
+  },
+  {
+    "entidad": "eventos trombóticos",
+    "relacion": "son observados en",
+    "valor": "pacientes con neoplasias mieloproliferativas Philadelphia negativas"
+  },
+  {
+    "entidad": "eventos hemorrágicos",
+    "relacion": "son observados en",
+    "valor": "pacientes con neoplasias mieloproliferativas Philadelphia negativas"
+  },
+  {
+    "entidad": "sobrevida global",
+    "relacion": "es",
+    "valor": "alta en pacientes con neoplasias mieloproliferativas Philadelphia negativas"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "es causado por",
+    "valor": "SARS-CoV-2"
+  },
+  {
+    "entidad": "SARS-CoV-2",
+    "relacion": "fue identificado en",
+    "valor": "finales de 2019"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud",
+    "relacion": "declaró",
+    "valor": "pandemia mundial el 11 de marzo de 2020"
+  },
+  {
+    "entidad": "Hospital San Juan de Dios",
+    "relacion": "es un",
+    "valor": "hospital de alta complejidad en Santiago, Chile"
+  },
+  {
+    "entidad": "Hospital San Juan de Dios",
+    "relacion": "atiende a",
+    "valor": "1.300.000 personas"
+  },
+  {
+    "entidad": "ventilación mecánica invasiva",
+    "relacion": "es un tratamiento para",
+    "valor": "insuficiencia respiratoria aguda"
+  },
+  {
+    "entidad": "pacientes COVID-19",
+    "relacion": "requieren",
+    "valor": "ventilación mecánica invasiva"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "es aproximadamente",
+    "valor": "40% en pacientes COVID-19 en UCI"
+  },
+  {
+    "entidad": "diabetes mellitus",
+    "relacion": "aumenta el riesgo de",
+    "valor": "mortalidad en pacientes COVID-19"
+  },
+  {
+    "entidad": "ventilación mecánica invasiva",
+    "relacion": "se utilizó en",
+    "valor": "pacientes con hipoxemia severa"
+  },
+  {
+    "entidad": "Sociedad de Medicina Intensiva",
+    "relacion": "ha protocolizado",
+    "valor": "recomendaciones para manejo ventilatorio"
+  },
+  {
+    "entidad": "días en ventilación mecánica invasiva",
+    "relacion": "fue de",
+    "valor": "14 días entre extubados"
+  },
+  {
+    "entidad": "posición prono",
+    "relacion": "se utilizó en",
+    "valor": "80% de los pacientes"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "fue menor que",
+    "valor": "en estudios internacionales previos"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "es un",
+    "valor": "trabajo observacional y retrospectivo"
+  },
+  {
+    "entidad": "días en UCI",
+    "relacion": "se realizó seguimiento por",
+    "valor": "28 días"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "fue de",
+    "valor": "24% al 5 de julio de 2020"
+  },
+  {
+    "entidad": "anticoagulación",
+    "relacion": "se utilizó en",
+    "valor": "74% de los pacientes"
+  },
+  {
+    "entidad": "corticoides",
+    "relacion": "se consideraron",
+    "valor": "para reducir mortalidad en COVID-19"
+  },
+  {
+    "entidad": "dímero D",
+    "relacion": "es un marcador de",
+    "valor": "riesgo trombótico en COVID-19"
+  },
+  {
+    "entidad": "Deterioro Cognitivo Leve (DCL)",
+    "relacion": "es un",
+    "valor": "estado intermedio entre el envejecimiento normal y la demencia"
+  },
+  {
+    "entidad": "Intervención Multidimensional basada en entrenamiento cognitivo, físico y social (IMCFS)",
+    "relacion": "afecta a",
+    "valor": "el desempeño cognitivo de personas con DCL"
+  },
+  {
+    "entidad": "personas con DCL",
+    "relacion": "pueden beneficiarse de",
+    "valor": "intervenciones no farmacológicas"
+  },
+  {
+    "entidad": "IMCFS",
+    "relacion": "mejora",
+    "valor": "el desempeño cognitivo global"
+  },
+  {
+    "entidad": "IMCFS",
+    "relacion": "mejora",
+    "valor": "la memoria anterógrada"
+  },
+  {
+    "entidad": "IMCFS",
+    "relacion": "mejora",
+    "valor": "la memoria visoespacial"
+  },
+  {
+    "entidad": "IMCFS",
+    "relacion": "mejora",
+    "valor": "el aprendizaje asociativo"
+  },
+  {
+    "entidad": "atención",
+    "relacion": "no se ve afectada por",
+    "valor": "IMCFS"
+  },
+  {
+    "entidad": "funciones ejecutivas",
+    "relacion": "no se ven afectadas por",
+    "valor": "IMCFS"
+  },
+  {
+    "entidad": "lenguaje",
+    "relacion": "no se ve afectado por",
+    "valor": "IMCFS"
+  },
+  {
+    "entidad": "habilidades visoconstructivas",
+    "relacion": "no se ven afectadas por",
+    "valor": "IMCFS"
+  },
+  {
+    "entidad": "intervenciones no farmacológicas",
+    "relacion": "se proponen como complemento de",
+    "valor": "terapias farmacológicas"
+  },
+  {
+    "entidad": "Chilean healthcare network",
+    "relacion": "ofrece",
+    "valor": "programas de intervención como IMCFS"
+  },
+  {
+    "entidad": "proyecto PMI UVA 1401",
+    "relacion": "financia",
+    "valor": "la investigación"
+  },
+  {
+    "entidad": "Universidad de Valparaíso",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "Comité Ético Científico (CEC)",
+    "relacion": "aprueba",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "Declaración de Helsinki",
+    "relacion": "regula",
+    "valor": "la ética en investigación médica"
+  },
+  {
+    "entidad": "neuroplasticidad",
+    "relacion": "permite",
+    "valor": "aprender nuevas estrategias en personas con DCL"
+  },
+  {
+    "entidad": "ejercicio físico",
+    "relacion": "se asocia con",
+    "valor": "mejor desempeño cognitivo"
+  },
+  {
+    "entidad": "musicoterapia",
+    "relacion": "mejora",
+    "valor": "el desempeño en atención y funciones ejecutivas"
+  },
+  {
+    "entidad": "intervención multidimensional",
+    "relacion": "puede ser integrada a",
+    "valor": "programas de salud"
+  },
+  {
+    "entidad": "Juan Pablo Huidobro E.",
+    "relacion": "es autor de",
+    "valor": "artículo de investigación"
+  },
+  {
+    "entidad": "Hospital Naval Almirante Nef",
+    "relacion": "es un",
+    "valor": "centro de salud en Viña del Mar, Chile"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "es un",
+    "valor": "institución educativa"
+  },
+  {
+    "entidad": "Universidad de Valparaíso",
+    "relacion": "es un",
+    "valor": "institución educativa"
+  },
+  {
+    "entidad": "recolección de orina de 24 h",
+    "relacion": "es utilizada para",
+    "valor": "evaluar la excreción urinaria de creatinina"
+  },
+  {
+    "entidad": "excreción urinaria de creatinina",
+    "relacion": "depende de",
+    "valor": "varios factores"
+  },
+  {
+    "entidad": "ecuaciones de estimación de UCr/24h",
+    "relacion": "han sido desarrolladas para",
+    "valor": "estimar la excreción urinaria de creatinina"
+  },
+  {
+    "entidad": "población chilena",
+    "relacion": "es objeto de",
+    "valor": "evaluación de ecuaciones de estimación de UCr/24h"
+  },
+  {
+    "entidad": "ecuación de Huidobro",
+    "relacion": "es una",
+    "valor": "nueva ecuación para estimar UCr/24h"
+  },
+  {
+    "entidad": "Walser",
+    "relacion": "tiene mejor desempeño que",
+    "valor": "otras ecuaciones en estimar UCr/24h"
+  },
+  {
+    "entidad": "Ix (CKD-EPI)",
+    "relacion": "tiene mejor desempeño que",
+    "valor": "otras ecuaciones en estimar UCr/24h"
+  },
+  {
+    "entidad": "Huidobro",
+    "relacion": "tiene mejor desempeño que",
+    "valor": "otras ecuaciones en estimar UCr/24h"
+  },
+  {
+    "entidad": "recolección de orina de 24 h",
+    "relacion": "es el estándar de oro para",
+    "valor": "medición de proteinuria"
+  },
+  {
+    "entidad": "muestra de población latinoamericana",
+    "relacion": "es evaluada en",
+    "valor": "desempeño de ecuaciones de estimación"
+  },
+  {
+    "entidad": "creatinina",
+    "relacion": "es un",
+    "valor": "biomarcador utilizado en estimaciones"
+  },
+  {
+    "entidad": "TFG",
+    "relacion": "se estima con",
+    "valor": "ecuaciones MDRD y CKD-EPI"
+  },
+  {
+    "entidad": "método de Jaffe",
+    "relacion": "es utilizado para",
+    "valor": "determinar Cr y UCr"
+  },
+  {
+    "entidad": "Comité de Ética del Hospital Naval Almirante Nef",
+    "relacion": "aprueba",
+    "valor": "la investigación"
+  },
+  {
+    "entidad": "sesgo",
+    "relacion": "es calculado como",
+    "valor": "la media de las diferencias individuales"
+  },
+  {
+    "entidad": "exactitud de las fórmulas",
+    "relacion": "es evaluada por",
+    "valor": "porcentaje de eUCr dentro del 30% de UCr medida"
+  },
+  {
+    "entidad": "muestra de 230 pacientes",
+    "relacion": "es analizada para",
+    "valor": "evaluar ecuaciones de estimación"
+  },
+  {
+    "entidad": "ecuciones de Rule y Kawasaki",
+    "relacion": "tienen",
+    "valor": "peor desempeño en estimación de UCr/24h"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "causa",
+    "valor": "exceso de muertes en Chile"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "afecta a",
+    "valor": "población durante la pandemia"
+  },
+  {
+    "entidad": "Departamento de Salud Municipal de Quillota",
+    "relacion": "pertenece a",
+    "valor": "Centro Asistencial Docente"
+  },
+  {
+    "entidad": "exceso de muertes",
+    "relacion": "se estudia desde",
+    "valor": "epidemia de influenza española"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "se evalúa en",
+    "valor": "diferentes grupos de edad"
+  },
+  {
+    "entidad": "Grupo de edad 60-80 años",
+    "relacion": "es el más vulnerable en",
+    "valor": "términos de mortalidad durante la pandemia"
+  },
+  {
+    "entidad": "gobierno chileno",
+    "relacion": "despliega",
+    "valor": "acciones para ampliar capacidad hospitalaria"
+  },
+  {
+    "entidad": "PCR",
+    "relacion": "se considera",
+    "valor": "la prueba diagnóstica para COVID-19"
+  },
+  {
+    "entidad": "Región Metropolitana",
+    "relacion": "muestra",
+    "valor": "alta incidencia acumulada de casos"
+  },
+  {
+    "entidad": "mortalidad masculina",
+    "relacion": "es mayor que",
+    "valor": "mortalidad femenina por COVID-19"
+  },
+  {
+    "entidad": "mortalidad por COVID-19",
+    "relacion": "es mayor en",
+    "valor": "hombres que en mujeres"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "se mide mediante",
+    "valor": "Tasa de Mortalidad Bruta (TMB)"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "se compara con",
+    "valor": "Tasa de Mortalidad Esperada (TME)"
+  },
+  {
+    "entidad": "mortalidad en Chile",
+    "relacion": "se analiza en",
+    "valor": "primeros seis meses de 2020"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "se asocia con",
+    "valor": "comorbilidades como diabetes, HTA, obesidad o asma"
+  },
+  {
+    "entidad": "exceso de muertes",
+    "relacion": "puede no estar ligado a",
+    "valor": "COVID-19 directamente"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "se evalúa en",
+    "valor": "diferentes territorios"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "se observa en",
+    "valor": "meses de mayo y junio"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "se calcula usando",
+    "valor": "datos de mortalidad del DEIS"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "se ajusta por",
+    "valor": "estructura por edad de la población"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "se divide en",
+    "valor": "tasa observada y esperada"
+  },
+  {
+    "entidad": "estudiantes de medicina",
+    "relacion": "muestran",
+    "valor": "altos niveles de síntomas depresivos"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "afecta a",
+    "valor": "estudiantes de medicina"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "realiza",
+    "valor": "una revisión sistemática y metaanálisis"
+  },
+  {
+    "entidad": "MEDLINE",
+    "relacion": "es buscado a través de",
+    "valor": "PubMed, Embase y Web of Science"
+  },
+  {
+    "entidad": "depresión",
+    "relacion": "es prevalente en",
+    "valor": "estudiantes de medicina durante la pandemia"
+  },
+  {
+    "entidad": "Asia",
+    "relacion": "reporta",
+    "valor": "tasas de prevalencia más bajas de depresión"
+  },
+  {
+    "entidad": "estudiantes universitarios",
+    "relacion": "tienen",
+    "valor": "alto riesgo de problemas de salud mental"
+  },
+  {
+    "entidad": "síntomas depresivos",
+    "relacion": "son asociados con",
+    "valor": "miedo a la infección y medidas de aislamiento"
+  },
+  {
+    "entidad": "estudiantes de medicina",
+    "relacion": "reportan",
+    "valor": "altas tasas de depresión y ansiedad"
+  },
+  {
+    "entidad": "pandemia de COVID-19",
+    "relacion": "incrementa",
+    "valor": "la prevalencia de depresión"
+  },
+  {
+    "entidad": "métodos de muestreo",
+    "relacion": "son utilizados en",
+    "valor": "estudios sobre depresión"
+  },
+  {
+    "entidad": "prevalencia de depresión",
+    "relacion": "es comparada con",
+    "valor": "otros estudiantes universitarios"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "predominan en",
+    "valor": "la mayoría de los estudios"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "fue declarado",
+    "valor": "pandemia por la OMS"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "incluye",
+    "valor": "11 estudios"
+  },
+  {
+    "entidad": "depresión",
+    "relacion": "es medida por",
+    "valor": "escalas estandarizadas"
+  },
+  {
+    "entidad": "metaanálisis",
+    "relacion": "indica",
+    "valor": "alta prevalencia de depresión en estudiantes de medicina"
+  },
+  {
+    "entidad": "estudiantes de medicina",
+    "relacion": "experimentan",
+    "valor": "síntomas depresivos relacionados con el aislamiento social"
+  },
+  {
+    "entidad": "estudios",
+    "relacion": "son realizados en",
+    "valor": "diversos continentes"
+  },
+  {
+    "entidad": "métodos de análisis estadístico",
+    "relacion": "son utilizados para",
+    "valor": "evaluar heterogeneidad entre estudios"
+  },
+  {
+    "entidad": "estudiantes de medicina",
+    "relacion": "son impactados por",
+    "valor": "el cambio a la enseñanza en línea"
+  },
+  {
+    "entidad": "prevalencia de depresión",
+    "relacion": "varía entre",
+    "valor": "diferentes países"
+  },
+  {
+    "entidad": "Testosterona",
+    "relacion": "inhibe",
+    "valor": "actividad de la aldosterona sintasa"
+  },
+  {
+    "entidad": "Aldosterona sintasa silvestre (ASWT)",
+    "relacion": "es inhibida por",
+    "valor": "testosterona"
+  },
+  {
+    "entidad": "Aldosterona sintasa quimérica (ASCE)",
+    "relacion": "es inhibida por",
+    "valor": "testosterona"
+  },
+  {
+    "entidad": "Familial hyperaldosteronism type I",
+    "relacion": "es causado por",
+    "valor": "enzima quimérica aldosterona sintasa"
+  },
+  {
+    "entidad": "ACTH",
+    "relacion": "regula",
+    "valor": "enzima quimérica aldosterona sintasa"
+  },
+  {
+    "entidad": "Angiotensina II",
+    "relacion": "regula",
+    "valor": "aldosterona sintasa"
+  },
+  {
+    "entidad": "HEK-293",
+    "relacion": "es un",
+    "valor": "tipo de célula utilizada en el estudio"
+  },
+  {
+    "entidad": "Aldosteronismo primario",
+    "relacion": "es una causa de",
+    "valor": "hipertensión"
+  },
+  {
+    "entidad": "Testosterona",
+    "relacion": "sugiere necesidad de",
+    "valor": "más estudios clínicos"
+  },
+  {
+    "entidad": "CETREN",
+    "relacion": "es un",
+    "valor": "centro de investigación"
+  },
+  {
+    "entidad": "Universidad Católica de Chile",
+    "relacion": "es un",
+    "valor": "institución educativa"
+  },
+  {
+    "entidad": "CYP11B1",
+    "relacion": "es un",
+    "valor": "gen que codifica la enzima 11β-hidroxilasa"
+  },
+  {
+    "entidad": "CYP11B2",
+    "relacion": "es un",
+    "valor": "gen que codifica la aldosterona sintasa"
+  },
+  {
+    "entidad": "Progestágeno",
+    "relacion": "inhibe",
+    "valor": "aldosterona sintasa"
+  },
+  {
+    "entidad": "Estrógeno",
+    "relacion": "no afecta",
+    "valor": "actividad de aldosterona sintasa"
+  },
+  {
+    "entidad": "HPLC-MS/MS",
+    "relacion": "es un",
+    "valor": "método para medir producción de aldosterona"
+  },
+  {
+    "entidad": "Inhibición de aldosterona sintasa",
+    "relacion": "es un efecto de",
+    "valor": "testosterona"
+  },
+  {
+    "entidad": "Mecanismo regulador",
+    "relacion": "es un",
+    "valor": "nuevo efecto de la testosterona"
+  }
+]

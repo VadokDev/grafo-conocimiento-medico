@@ -1,0 +1,117 @@
+[
+  {
+    "entidad": "Tamoxifeno",
+    "relacion": "es un",
+    "valor": "modulador selectivo del receptor de estrógeno"
+  },
+  {
+    "entidad": "Cáncer de mama",
+    "relacion": "es",
+    "valor": "la enfermedad más común en países desarrollados y subdesarrollados"
+  },
+  {
+    "entidad": "Cáncer de mama",
+    "relacion": "es",
+    "valor": "receptor hormonal positivo en 60 a 70% de los casos"
+  },
+  {
+    "entidad": "Tamoxifeno",
+    "relacion": "constituye",
+    "valor": "el manejo hormonal estándar en pacientes con cáncer de mama receptor hormonal positivo"
+  },
+  {
+    "entidad": "Endoxifeno",
+    "relacion": "es un",
+    "valor": "metabolito de Tamoxifeno"
+  },
+  {
+    "entidad": "CYP2D6",
+    "relacion": "es",
+    "valor": "una enzima involucrada en la metabolización de Tamoxifeno"
+  },
+  {
+    "entidad": "Antidepresivos",
+    "relacion": "se prescriben",
+    "valor": "para depresión, ansiedad y bochornos en pacientes con cáncer de mama"
+  },
+  {
+    "entidad": "Antidepresivos tricíclicos",
+    "relacion": "deben ser",
+    "valor": "evitados en pacientes que reciben Tamoxifeno"
+  },
+  {
+    "entidad": "Bupropión",
+    "relacion": "es",
+    "valor": "un inhibidor moderado de CYP2D6"
+  },
+  {
+    "entidad": "Citalopram",
+    "relacion": "es",
+    "valor": "recomendado porque no influye en el metabolismo de Tamoxifeno"
+  },
+  {
+    "entidad": "Desvenlafaxina",
+    "relacion": "es",
+    "valor": "recomendada porque no influye en el metabolismo de Tamoxifeno"
+  },
+  {
+    "entidad": "Mortalidad",
+    "relacion": "se asocia con",
+    "valor": "trastornos depresivos en pacientes oncológicos"
+  },
+  {
+    "entidad": "Tamoxifeno",
+    "relacion": "puede volverse",
+    "valor": "menos efectivo en pacientes que usan antidepresivos inhibidores fuertes"
+  },
+  {
+    "entidad": "Genotipo CYP2D6",
+    "relacion": "puede ser",
+    "valor": "un factor predictivo de respuesta clínica en terapia con Tamoxifeno"
+  },
+  {
+    "entidad": "Antidepresivos",
+    "relacion": "pueden causar",
+    "valor": "interacciones farmacológicas en pacientes oncológicos"
+  },
+  {
+    "entidad": "Cáncer de mama",
+    "relacion": "puede provocar",
+    "valor": "trastornos depresivos mayores en hasta 30% de los pacientes"
+  },
+  {
+    "entidad": "Cáncer de mama",
+    "relacion": "se asocia con",
+    "valor": "mayor mortalidad en pacientes jóvenes con trastornos depresivos"
+  },
+  {
+    "entidad": "Antidepresivos",
+    "relacion": "se utilizan para",
+    "valor": "abordar síntomas como dolor neuropático y fatiga en pacientes oncológicos"
+  },
+  {
+    "entidad": "Minsal",
+    "relacion": "no menciona",
+    "valor": "interacciones entre antidepresivos y Tamoxifeno"
+  },
+  {
+    "entidad": "Citalopram",
+    "relacion": "es",
+    "valor": "una opción de primera línea para pacientes con cáncer de mama"
+  },
+  {
+    "entidad": "Vortioxetina",
+    "relacion": "es",
+    "valor": "una opción de tratamiento para síntomas depresivos y ansiosos"
+  },
+  {
+    "entidad": "Bupropión",
+    "relacion": "es",
+    "valor": "una opción con menor riesgo de efectos secundarios sexuales"
+  },
+  {
+    "entidad": "Sertralina",
+    "relacion": "puede causar",
+    "valor": "aumento de peso en pacientes con cáncer de mama"
+  }
+]

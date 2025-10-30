@@ -1,0 +1,117 @@
+[
+  {
+    "entidad": "Tecnologías de Información y Comunicación (TICS)",
+    "relacion": "mejora",
+    "valor": "efectividad de programas para enfermedades crónicas"
+  },
+  {
+    "entidad": "diabetes mellitus tipo 2",
+    "relacion": "es un",
+    "valor": "trastorno metabólico crónico"
+  },
+  {
+    "entidad": "diabetes mellitus tipo 2",
+    "relacion": "causa",
+    "valor": "niveles elevados de glucosa en sangre"
+  },
+  {
+    "entidad": "diabetes mellitus tipo 2",
+    "relacion": "es un",
+    "valor": "factor de riesgo para eventos cardiovasculares"
+  },
+  {
+    "entidad": "hemoglobina glicosilada A",
+    "relacion": "es un",
+    "valor": "resultado primario en estudios de diabetes"
+  },
+  {
+    "entidad": "Universidad de Concepción",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "Universidad Autónoma de Nuevo León",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud (OMS)",
+    "relacion": "define",
+    "valor": "Enfermedades Crónicas No Transmisibles (ECNT)"
+  },
+  {
+    "entidad": "ECNT",
+    "relacion": "representan",
+    "valor": "un desafío para los sistemas sanitarios"
+  },
+  {
+    "entidad": "TICS",
+    "relacion": "fortalecen",
+    "valor": "gestión del cuidado por profesionales de enfermería"
+  },
+  {
+    "entidad": "intervenciones con TICS",
+    "relacion": "mejoran",
+    "valor": "control glucémico en diabetes tipo 2"
+  },
+  {
+    "entidad": "mensajes de texto",
+    "relacion": "son",
+    "valor": "recursos eficaces para el seguimiento del control glucémico"
+  },
+  {
+    "entidad": "plataformas web",
+    "relacion": "son",
+    "valor": "recursos eficaces para el seguimiento del control glucémico"
+  },
+  {
+    "entidad": "diabetes tipo 2",
+    "relacion": "es un",
+    "valor": "problema de salud pública creciente"
+  },
+  {
+    "entidad": "TICS",
+    "relacion": "son",
+    "valor": "herramientas digitales para el manejo de información"
+  },
+  {
+    "entidad": "TICS",
+    "relacion": "facilitan",
+    "valor": "el quehacer de la profesión de enfermería"
+  },
+  {
+    "entidad": "TICS",
+    "relacion": "mejoran",
+    "valor": "eficacia de programas en el manejo de ECNT"
+  },
+  {
+    "entidad": "intervenciones en salud",
+    "relacion": "traen",
+    "valor": "resultados positivos en el control glucémico"
+  },
+  {
+    "entidad": "control glucémico",
+    "relacion": "es un",
+    "valor": "objetivo en el manejo de diabetes tipo 2"
+  },
+  {
+    "entidad": "ensayos clínicos aleatorizados",
+    "relacion": "reportan",
+    "valor": "disminución significativa de HbA1c"
+  },
+  {
+    "entidad": "TICS",
+    "relacion": "son",
+    "valor": "complemento compatible con atención habitual"
+  },
+  {
+    "entidad": "mensajes de texto",
+    "relacion": "favorecen",
+    "valor": "la conectividad en la población"
+  },
+  {
+    "entidad": "TICS",
+    "relacion": "pueden ser",
+    "valor": "utilizadas en el manejo de otras condiciones crónicas"
+  }
+]

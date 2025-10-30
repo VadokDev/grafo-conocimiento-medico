@@ -1,0 +1,382 @@
+[
+  {
+    "entidad": "Feocromocitoma",
+    "relacion": "presenta",
+    "valor": "síndrome coronario agudo"
+  },
+  {
+    "entidad": "Mujer de 70 años",
+    "relacion": "presenta",
+    "valor": "dolor retroesternal opresivo"
+  },
+  {
+    "entidad": "Feocromocitoma",
+    "relacion": "causa",
+    "valor": "palpitaciones, sudoración, cefaleas y hipertensión"
+  },
+  {
+    "entidad": "Catecolaminas",
+    "relacion": "confirma",
+    "valor": "diagnóstico de feocromocitoma"
+  },
+  {
+    "entidad": "Resonancia magnética",
+    "relacion": "localiza",
+    "valor": "tumor suprarrenal"
+  },
+  {
+    "entidad": "Doxazosina",
+    "relacion": "se utiliza para",
+    "valor": "bloqueo α y β-adrenérgico"
+  },
+  {
+    "entidad": "Cirugía",
+    "relacion": "es el tratamiento definitivo de",
+    "valor": "feocromocitoma"
+  },
+  {
+    "entidad": "Catecolaminas",
+    "relacion": "inducen",
+    "valor": "espasmos coronarios multivaso"
+  },
+  {
+    "entidad": "Electrocardiograma",
+    "relacion": "muestra",
+    "valor": "alteraciones en el segmento ST y onda T"
+  },
+  {
+    "entidad": "Hipertensión arterial",
+    "relacion": "es frecuente en",
+    "valor": "pacientes con feocromocitoma"
+  },
+  {
+    "entidad": "Resonancia magnética nuclear",
+    "relacion": "se utiliza para",
+    "valor": "localizar el tumor"
+  },
+  {
+    "entidad": "Cintigrama con MIBG",
+    "relacion": "confirma",
+    "valor": "captación en la masa"
+  },
+  {
+    "entidad": "Cirugía laparoscópica",
+    "relacion": "es la técnica de elección para",
+    "valor": "excisiones de feocromocitoma"
+  },
+  {
+    "entidad": "Monitorización post cirugía",
+    "relacion": "es necesaria para",
+    "valor": "complicaciones postoperatorias"
+  },
+  {
+    "entidad": "Doxazosina",
+    "relacion": "previene",
+    "valor": "vasoconstricción inducida por catecolaminas"
+  },
+  {
+    "entidad": "Hipoglicemia",
+    "relacion": "se debe a",
+    "valor": "hiperinsulinemia de rebote"
+  },
+  {
+    "entidad": "Feocromocitoma",
+    "relacion": "puede presentar",
+    "valor": "crisis de dolor torácico"
+  },
+  {
+    "entidad": "Catecolaminas",
+    "relacion": "causan",
+    "valor": "daño miocárdico"
+  },
+  {
+    "entidad": "Lupus peritonitis",
+    "relacion": "es un",
+    "valor": "fenómeno raro"
+  },
+  {
+    "entidad": "Lupus peritonitis",
+    "relacion": "se caracteriza por",
+    "valor": "ascitis de rápido inicio y dolor abdominal severo"
+  },
+  {
+    "entidad": "ascitis",
+    "relacion": "es un",
+    "valor": "síntoma asociado a lupus peritonitis"
+  },
+  {
+    "entidad": "mujer de 39 años",
+    "relacion": "presenta",
+    "valor": "ascitis masiva y dolorosa como manifestación de reactivación lúpica"
+  },
+  {
+    "entidad": "SLE",
+    "relacion": "es un",
+    "valor": "trastorno autoinmunitario"
+  },
+  {
+    "entidad": "SLE",
+    "relacion": "puede causar",
+    "valor": "peritonitis lúpica"
+  },
+  {
+    "entidad": "metilprednisolona",
+    "relacion": "es un",
+    "valor": "tratamiento para SLE"
+  },
+  {
+    "entidad": "hidroxicloroquina",
+    "relacion": "es un",
+    "valor": "tratamiento para SLE"
+  },
+  {
+    "entidad": "SLE",
+    "relacion": "puede manifestarse con",
+    "valor": "ascitis dolorosa"
+  },
+  {
+    "entidad": "ascitis dolorosa",
+    "relacion": "puede ser causada por",
+    "valor": "peritonitis lúpica"
+  },
+  {
+    "entidad": "corticoides",
+    "relacion": "son útiles para",
+    "valor": "el tratamiento de SLE"
+  },
+  {
+    "entidad": "hidroxicloroquina",
+    "relacion": "puede ser útil para",
+    "valor": "el manejo de reactivaciones lúpicas"
+  },
+  {
+    "entidad": "serología positiva",
+    "relacion": "indica",
+    "valor": "presencia de SLE"
+  },
+  {
+    "entidad": "ANA",
+    "relacion": "es un",
+    "valor": "marcador asociado a SLE"
+  },
+  {
+    "entidad": "C3 complementario",
+    "relacion": "puede estar",
+    "valor": "bajo en SLE"
+  },
+  {
+    "entidad": "C4 complementario",
+    "relacion": "puede estar",
+    "valor": "bajo en SLE"
+  },
+  {
+    "entidad": "ascitis",
+    "relacion": "puede ser",
+    "valor": "exudativa"
+  },
+  {
+    "entidad": "peritoneo",
+    "relacion": "puede ser afectado por",
+    "valor": "vasculitis en SLE"
+  },
+  {
+    "entidad": "infecciones gastrointestinales",
+    "relacion": "pueden causar",
+    "valor": "engrosamiento de la pared intestinal"
+  },
+  {
+    "entidad": "pulmonía",
+    "relacion": "puede ser confundida con",
+    "valor": "manifestación de SLE"
+  },
+  {
+    "entidad": "SLE",
+    "relacion": "puede causar",
+    "valor": "efusiones pleurales"
+  },
+  {
+    "entidad": "efusiones pleurales",
+    "relacion": "pueden ser",
+    "valor": "exudativas"
+  },
+  {
+    "entidad": "ascitis",
+    "relacion": "puede ser",
+    "valor": "resultado de la activación del sistema inmune"
+  },
+  {
+    "entidad": "Neumonía criptogénica organizada",
+    "relacion": "es un",
+    "valor": "diagnóstico diferencial de neumonía que no responde a tratamiento"
+  },
+  {
+    "entidad": "neumonía que no responde a tratamiento",
+    "relacion": "aumenta",
+    "valor": "morbimortalidad"
+  },
+  {
+    "entidad": "neumonía organizada",
+    "relacion": "es una",
+    "valor": "causa de neumonía que no responde a tratamiento"
+  },
+  {
+    "entidad": "neumonía organizada criptogénica",
+    "relacion": "es un",
+    "valor": "tipo de neumonía organizada"
+  },
+  {
+    "entidad": "neumonía criptogénica organizada",
+    "relacion": "responde a",
+    "valor": "corticoides"
+  },
+  {
+    "entidad": "pacientes con neumonía que no responde a tratamiento",
+    "relacion": "requieren",
+    "valor": "estudios exhaustivos"
+  },
+  {
+    "entidad": "biopsia pulmonar",
+    "relacion": "es un",
+    "valor": "procedimiento diagnóstico"
+  },
+  {
+    "entidad": "TAC de tórax",
+    "relacion": "es útil en",
+    "valor": "neumonía que no responde a tratamiento"
+  },
+  {
+    "entidad": "adrenal corticosteroids",
+    "relacion": "se utilizan para",
+    "valor": "tratar neumonía criptogénica organizada"
+  },
+  {
+    "entidad": "neumonía criptogénica organizada",
+    "relacion": "puede presentar",
+    "valor": "fiebre, disnea, tos"
+  },
+  {
+    "entidad": "neumonía criptogénica organizada",
+    "relacion": "se caracteriza por",
+    "valor": "masas organizadas de tejido granulatorio en alvéolos"
+  },
+  {
+    "entidad": "neumonía que no responde a tratamiento",
+    "relacion": "puede ser causada por",
+    "valor": "infecciones o causas no infecciosas"
+  },
+  {
+    "entidad": "neumonía criptogénica organizada",
+    "relacion": "es frecuentemente",
+    "valor": "subdiagnosticada"
+  },
+  {
+    "entidad": "mujer de 82 años",
+    "relacion": "presentó",
+    "valor": "neumonía criptogénica organizada"
+  },
+  {
+    "entidad": "Dr. Felipe Alejandro Olivares Abara",
+    "relacion": "es el autor de",
+    "valor": "el artículo"
+  },
+  {
+    "entidad": "Hospital Militar de Santiago",
+    "relacion": "es un",
+    "valor": "centro de atención médica"
+  },
+  {
+    "entidad": "neumonía organizada",
+    "relacion": "puede ser secundaria a",
+    "valor": "múltiples causas"
+  },
+  {
+    "entidad": "válvula tricúspide",
+    "relacion": "presenta",
+    "valor": "rotura espontánea"
+  },
+  {
+    "entidad": "hipertensión pulmonar",
+    "relacion": "es secundaria a",
+    "valor": "VIH"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "es un",
+    "valor": "hombre de 42 años"
+  },
+  {
+    "entidad": "VIH",
+    "relacion": "causa",
+    "valor": "hipertensión pulmonar"
+  },
+  {
+    "entidad": "músculo papilar",
+    "relacion": "sufre",
+    "valor": "ruptura espontánea"
+  },
+  {
+    "entidad": "insuficiencia tricuspídea",
+    "relacion": "es consecuencia de",
+    "valor": "ruptura del músculo papilar"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "shock cardiogénico"
+  },
+  {
+    "entidad": "terapia con inotrópicos",
+    "relacion": "no logra",
+    "valor": "controlar el shock cardiogénico"
+  },
+  {
+    "entidad": "reemplazo de válvula tricúspide",
+    "relacion": "es un",
+    "valor": "tratamiento"
+  },
+  {
+    "entidad": "óxido nítrico inhalado",
+    "relacion": "controla",
+    "valor": "hipertensión pulmonar postoperatoria"
+  },
+  {
+    "entidad": "terapia antirretroviral",
+    "relacion": "se inicia",
+    "valor": "después de la cirugía"
+  },
+  {
+    "entidad": "ecocardiograma",
+    "relacion": "muestra",
+    "valor": "insuficiencia tricuspídea masiva"
+  },
+  {
+    "entidad": "iloprost",
+    "relacion": "se utiliza como",
+    "valor": "terapia vasodilatadora"
+  },
+  {
+    "entidad": "sildenafil",
+    "relacion": "se utiliza como",
+    "valor": "terapia vasodilatadora"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "es dado de alta",
+    "valor": "16 días después de la cirugía"
+  },
+  {
+    "entidad": "insuficiencia valvular prostésica",
+    "relacion": "persiste",
+    "valor": "en el paciente"
+  },
+  {
+    "entidad": "terapia con iloprost",
+    "relacion": "se considera",
+    "valor": "reinstalar"
+  },
+  {
+    "entidad": "ecocardiografía de control",
+    "relacion": "muestra",
+    "valor": "prótesis tricuspídea con insuficiencia central moderada"
+  }
+]

@@ -1,0 +1,417 @@
+[
+  {
+    "entidad": "Calidad de datos",
+    "relacion": "es un",
+    "valor": "factor crítico en sistemas de salud"
+  },
+  {
+    "entidad": "Sistemas de Salud en Chile",
+    "relacion": "afecta a",
+    "valor": "población indígena y migrante"
+  },
+  {
+    "entidad": "Departamento de Estadísticas e Información de Salud (DEIS)",
+    "relacion": "elabora",
+    "valor": "Resúmenes Estadísticos Mensuales (REM)"
+  },
+  {
+    "entidad": "población indígena",
+    "relacion": "es un",
+    "valor": "grupo históricamente excluido"
+  },
+  {
+    "entidad": "población migrante",
+    "relacion": "es un",
+    "valor": "grupo históricamente excluido"
+  },
+  {
+    "entidad": "equidad en salud",
+    "relacion": "está ligada a",
+    "valor": "fortaleza de los sistemas de salud"
+  },
+  {
+    "entidad": "datos sobre salud sexual y reproductiva",
+    "relacion": "deben ser evaluados por",
+    "valor": "categorías indígenas y migrantes"
+  },
+  {
+    "entidad": "interdependencia negativa",
+    "relacion": "genera",
+    "valor": "sesgo en la información de salud"
+  },
+  {
+    "entidad": "sistemas de información sanitaria (SIS)",
+    "relacion": "son",
+    "valor": "esenciales para atención de salud"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud (OMS)",
+    "relacion": "publica",
+    "valor": "cifras de situación sanitaria mundial"
+  },
+  {
+    "entidad": "mortalidad materna",
+    "relacion": "es un",
+    "valor": "indicador de desigualdad en salud"
+  },
+  {
+    "entidad": "controles ginecológicos y mamografías",
+    "relacion": "son parte de",
+    "valor": "indicadores de salud sexual y reproductiva"
+  },
+  {
+    "entidad": "acceso a atención profesional prenatal",
+    "relacion": "es crítico para",
+    "valor": "salud de la madre y del recién nacido"
+  },
+  {
+    "entidad": "datos de salud",
+    "relacion": "deben ser",
+    "valor": "coherentes, disponibles y accesibles"
+  },
+  {
+    "entidad": "población en control programa salud de la mujer",
+    "relacion": "debe incluir",
+    "valor": "diferenciación por pertenencia indígena y migrante"
+  },
+  {
+    "entidad": "sistemas de información de salud rutinarios",
+    "relacion": "son",
+    "valor": "fuente principal de datos"
+  },
+  {
+    "entidad": "celdas vacías y con ceros",
+    "relacion": "dificultan",
+    "valor": "interpretación de datos"
+  },
+  {
+    "entidad": "mujeres indígenas y migrantes",
+    "relacion": "sufren de",
+    "valor": "mayor inequidad en acceso a salud"
+  },
+  {
+    "entidad": "datos sobre salud sexual y reproductiva",
+    "relacion": "deben estar desagregados por",
+    "valor": "subgrupos relevantes"
+  },
+  {
+    "entidad": "informes REM",
+    "relacion": "son",
+    "valor": "fuente de información regular y descentralizada"
+  },
+  {
+    "entidad": "calidad de datos",
+    "relacion": "depende de",
+    "valor": "coherencia, disponibilidad y accesibilidad"
+  },
+  {
+    "entidad": "mujeres migrantes",
+    "relacion": "no son",
+    "valor": "leídas correctamente por el sistema de salud"
+  },
+  {
+    "entidad": "Hipertensión intracraneana idiopática",
+    "relacion": "es un",
+    "valor": "síndrome de presión intracraneal aumentada"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "afecta a",
+    "valor": "la prevalencia de hipertensión intracraneana idiopática"
+  },
+  {
+    "entidad": "Instituto de Neurocirugía Doctor Alfonso Asenjo",
+    "relacion": "es un",
+    "valor": "centro de atención médica"
+  },
+  {
+    "entidad": "Universidad de Chile",
+    "relacion": "pertenece a",
+    "valor": "Instituto de Neurocirugía Doctor Alfonso Asenjo"
+  },
+  {
+    "entidad": "cefalea",
+    "relacion": "es un",
+    "valor": "síntoma común de hipertensión intracraneana idiopática"
+  },
+  {
+    "entidad": "papiledema",
+    "relacion": "es característico de",
+    "valor": "hipertensión intracraneana idiopática"
+  },
+  {
+    "entidad": "acetazolamida",
+    "relacion": "es un",
+    "valor": "tratamiento médico de primera línea"
+  },
+  {
+    "entidad": "sobrepeso",
+    "relacion": "es un",
+    "valor": "factor asociado a hipertensión intracraneana idiopática"
+  },
+  {
+    "entidad": "deterioro visual",
+    "relacion": "es asociado a",
+    "valor": "mayor papiledema"
+  },
+  {
+    "entidad": "deterioro visual",
+    "relacion": "es asociado a",
+    "valor": "ausencia de respuesta a tratamiento médico"
+  },
+  {
+    "entidad": "cirugía",
+    "relacion": "es necesaria en",
+    "valor": "24% de los pacientes con hipertensión intracraneana idiopática"
+  },
+  {
+    "entidad": "derivativa lumboperitoneal",
+    "relacion": "es un",
+    "valor": "tipo de intervención quirúrgica común"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "son más afectadas por",
+    "valor": "hipertensión intracraneana idiopática"
+  },
+  {
+    "entidad": "estudio observacional",
+    "relacion": "es un",
+    "valor": "diseño de investigación utilizado"
+  },
+  {
+    "entidad": "respuesta a tratamiento médico",
+    "relacion": "afecta a",
+    "valor": "resultado visual en pacientes con hipertensión intracraneana idiopática"
+  },
+  {
+    "entidad": "recidivas",
+    "relacion": "ocurren en",
+    "valor": "20% de los pacientes tratados con acetazolamida"
+  },
+  {
+    "entidad": "Servicio de Salud Metropolitano Sur (SSMS)",
+    "relacion": "utiliza",
+    "valor": "redes integradas de atención"
+  },
+  {
+    "entidad": "adultos mayores",
+    "relacion": "presentan",
+    "valor": "hospitalizaciones evitables"
+  },
+  {
+    "entidad": "perfil de riesgo",
+    "relacion": "genera",
+    "valor": "hospitalizaciones evitables"
+  },
+  {
+    "entidad": "metodología",
+    "relacion": "es",
+    "valor": "descriptiva longitudinal retrospectiva"
+  },
+  {
+    "entidad": "datos clínicos",
+    "relacion": "procesar",
+    "valor": "dificultades"
+  },
+  {
+    "entidad": "FONASA",
+    "relacion": "afiliación",
+    "valor": "74% de la muestra"
+  },
+  {
+    "entidad": "diagnóstico CIE-10",
+    "relacion": "considera",
+    "valor": "hipertensión arterial e insuficiencia cardíaca"
+  },
+  {
+    "entidad": "Ley 21.668",
+    "relacion": "modifica",
+    "valor": "Ley N°20.584"
+  },
+  {
+    "entidad": "interoperabilidad",
+    "relacion": "mejora",
+    "valor": "calidad de atención"
+  },
+  {
+    "entidad": "patologías crónicas",
+    "relacion": "condicionan",
+    "valor": "hospitalización"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "constituyen",
+    "valor": "57.2% de la población estudiada"
+  },
+  {
+    "entidad": "edad promedio",
+    "relacion": "es",
+    "valor": "74.2 años"
+  },
+  {
+    "entidad": "diabetes",
+    "relacion": "es",
+    "valor": "segunda condición más común"
+  },
+  {
+    "entidad": "sistemas de información",
+    "relacion": "presentan",
+    "valor": "deficiencias"
+  },
+  {
+    "entidad": "redes integradas de servicios de salud (RISS)",
+    "relacion": "buscan",
+    "valor": "integrar sistemas de salud"
+  },
+  {
+    "entidad": "pacientes policonsultantes",
+    "relacion": "no requieren",
+    "valor": "más de 12 atenciones por año"
+  },
+  {
+    "entidad": "hospitalizaciones evitables",
+    "relacion": "requieren",
+    "valor": "mejor seguimiento de patologías"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "se centra en",
+    "valor": "población de 65 años y más"
+  },
+  {
+    "entidad": "comunidades involucradas",
+    "relacion": "aportan",
+    "valor": "información para el estudio"
+  },
+  {
+    "entidad": "pandemia de COVID-19",
+    "relacion": "provocó",
+    "valor": "crisis de salud global"
+  },
+  {
+    "entidad": "pandemia de COVID-19",
+    "relacion": "generó",
+    "valor": "aumento en síntomas de salud mental"
+  },
+  {
+    "entidad": "Centro de Salud Familiar (CESFAM) Cristo Vive",
+    "relacion": "evalúa",
+    "valor": "modificación de prescripciones de psicofármacos y fármacos crónicos"
+  },
+  {
+    "entidad": "SARS-CoV-2",
+    "relacion": "causa",
+    "valor": "pandemia de COVID-19"
+  },
+  {
+    "entidad": "psicofármacos",
+    "relacion": "aumenta",
+    "valor": "prescripción durante pandemia"
+  },
+  {
+    "entidad": "fármacos crónicos",
+    "relacion": "aumenta",
+    "valor": "prescripción durante pandemia"
+  },
+  {
+    "entidad": "CESFAM Cristo Vive",
+    "relacion": "pertenece a",
+    "valor": "Servicio de Salud Metropolitano Norte"
+  },
+  {
+    "entidad": "Servicio de Salud Metropolitano Norte",
+    "relacion": "es parte de",
+    "valor": "Sistema Nacional de Servicios de Salud de Chile"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud (ENS)",
+    "relacion": "describe",
+    "valor": "prevalencia de patologías en Chile"
+  },
+  {
+    "entidad": "depresión",
+    "relacion": "tiene una prevalencia de",
+    "valor": "11,1%"
+  },
+  {
+    "entidad": "Hipertensión Arterial (HTA)",
+    "relacion": "tiene una prevalencia de",
+    "valor": "27,6%"
+  },
+  {
+    "entidad": "diabetes mellitus (DM)",
+    "relacion": "tiene una prevalencia de",
+    "valor": "12,3%"
+  },
+  {
+    "entidad": "accesibilidad a la atención",
+    "relacion": "se vio dificultada por",
+    "valor": "pandemia de COVID-19"
+  },
+  {
+    "entidad": "consumo de medicamentos crónicos cardiovasculares",
+    "relacion": "reporta",
+    "valor": "aumento significativo durante pandemia"
+  },
+  {
+    "entidad": "psicofármacos",
+    "relacion": "aumenta",
+    "valor": "prescripción en EE.UU. al inicio de la pandemia"
+  },
+  {
+    "entidad": "psicotrópicos",
+    "relacion": "aumenta",
+    "valor": "prescripción en Canadá después de la pandemia"
+  },
+  {
+    "entidad": "CESFAM Cristo Vive",
+    "relacion": "realiza",
+    "valor": "estudio transversal observacional"
+  },
+  {
+    "entidad": "plataforma IRIS-SALUD",
+    "relacion": "es",
+    "valor": "herramienta de inteligencia en salud"
+  },
+  {
+    "entidad": "psicofármacos",
+    "relacion": "incluye",
+    "valor": "antidepresivos, antipsicóticos, ansiolíticos, hipnóticos y sedantes"
+  },
+  {
+    "entidad": "fármacos crónicos",
+    "relacion": "incluye",
+    "valor": "antihipertensivos, diuréticos, hipoglicemiantes, analgésicos"
+  },
+  {
+    "entidad": "monitoreo de la prescripción de fármacos",
+    "relacion": "muestra",
+    "valor": "modificaciones en relación a la pandemia"
+  },
+  {
+    "entidad": "aumento de enfermedades psiquiátricas y crónicas",
+    "relacion": "facilita",
+    "valor": "desarrollo de estrategias de salud pública"
+  },
+  {
+    "entidad": "población de Recoleta",
+    "relacion": "se encuentra en",
+    "valor": "condiciones de pobreza y vulnerabilidad"
+  },
+  {
+    "entidad": "efectos de la pandemia",
+    "relacion": "impactan",
+    "valor": "salud física y mental"
+  },
+  {
+    "entidad": "acceso a consultas médicas",
+    "relacion": "se dificulta por",
+    "valor": "medidas de confinamiento sanitario"
+  },
+  {
+    "entidad": "aumento en la descompensación de patologías",
+    "relacion": "se hipotetiza por",
+    "valor": "confinamiento durante la pandemia"
+  }
+]

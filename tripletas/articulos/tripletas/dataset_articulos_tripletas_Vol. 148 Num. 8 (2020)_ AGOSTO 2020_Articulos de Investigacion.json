@@ -1,0 +1,812 @@
+[
+  {
+    "entidad": "COVID-19",
+    "relacion": "es causado por",
+    "valor": "SARS-CoV-2"
+  },
+  {
+    "entidad": "SARS-CoV-2",
+    "relacion": "es un tipo de",
+    "valor": "betacoronavirus"
+  },
+  {
+    "entidad": "Hospital Barros Luco",
+    "relacion": "es una",
+    "valor": "unidad de emergencia"
+  },
+  {
+    "entidad": "Unidad de Emergencia",
+    "relacion": "pertenece a",
+    "valor": "Hospital Barros Luco"
+  },
+  {
+    "entidad": "GianCarlo Zuccone",
+    "relacion": "es un",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "Valentina Albornoz",
+    "relacion": "es un",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "Helga Ibáñez",
+    "relacion": "es un",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "Raúl Betancur",
+    "relacion": "es un",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "Julio Matute",
+    "relacion": "es un",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "tos seca",
+    "relacion": "es un síntoma de",
+    "valor": "COVID-19"
+  },
+  {
+    "entidad": "cefalea",
+    "relacion": "es un síntoma de",
+    "valor": "COVID-19"
+  },
+  {
+    "entidad": "mialgias",
+    "relacion": "es un síntoma de",
+    "valor": "COVID-19"
+  },
+  {
+    "entidad": "comorbilidades",
+    "relacion": "aumentan el riesgo de",
+    "valor": "complicaciones en COVID-19"
+  },
+  {
+    "entidad": "hipertensión arterial",
+    "relacion": "es una",
+    "valor": "comorbilidad asociada a COVID-19"
+  },
+  {
+    "entidad": "diabetes mellitus",
+    "relacion": "es una",
+    "valor": "comorbilidad asociada a COVID-19"
+  },
+  {
+    "entidad": "enfermedad renal crónica",
+    "relacion": "es una",
+    "valor": "comorbilidad asociada a COVID-19"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "es una",
+    "valor": "comorbilidad asociada a COVID-19"
+  },
+  {
+    "entidad": "ferritina",
+    "relacion": "es un marcador de",
+    "valor": "inflamación en COVID-19"
+  },
+  {
+    "entidad": "dímero D",
+    "relacion": "es un marcador de",
+    "valor": "trastorno de coagulación en COVID-19"
+  },
+  {
+    "entidad": "troponina T",
+    "relacion": "es un marcador de",
+    "valor": "daño miocárdico en COVID-19"
+  },
+  {
+    "entidad": "PCR",
+    "relacion": "es un marcador de",
+    "valor": "inflamación en COVID-19"
+  },
+  {
+    "entidad": "Unidad de Paciente Crítico (UPC)",
+    "relacion": "es un",
+    "valor": "lugar de manejo para pacientes graves"
+  },
+  {
+    "entidad": "método de estudio",
+    "relacion": "es",
+    "valor": "retrospectivo descriptivo"
+  },
+  {
+    "entidad": "síntomas",
+    "relacion": "son observados en",
+    "valor": "pacientes con COVID-19"
+  },
+  {
+    "entidad": "contacto con paciente SARS-CoV-2 (+)",
+    "relacion": "aumenta el riesgo de",
+    "valor": "contagio de COVID-19"
+  },
+  {
+    "entidad": "Trombolisis intravenosa (TIV)",
+    "relacion": "es",
+    "valor": "terapia médica del ataque cerebrovascular isquémico agudo (ACVi)"
+  },
+  {
+    "entidad": "Tiempo puerta-aguja (TpoPA)",
+    "relacion": "debe ser",
+    "valor": "inferior a 60 min"
+  },
+  {
+    "entidad": "Clínica Alemana de Santiago",
+    "relacion": "realiza",
+    "valor": "tratamiento de ACVi"
+  },
+  {
+    "entidad": "Escala de Cincinnati",
+    "relacion": "utiliza",
+    "valor": "como instrumento de sospecha del ACVi"
+  },
+  {
+    "entidad": "Unidad de Tratamiento del Ataque Cerebrovascular (UTAC)",
+    "relacion": "pertenece a",
+    "valor": "Departamento de Neurología y Psiquiatría"
+  },
+  {
+    "entidad": "Dr. Alejandro Brunser R.",
+    "relacion": "dirige",
+    "valor": "Servicio de Neurología"
+  },
+  {
+    "entidad": "Infarto cerebral",
+    "relacion": "se asocia con",
+    "valor": "síntomatología infratentorial (SIT)"
+  },
+  {
+    "entidad": "Hipertensión arterial",
+    "relacion": "se asocia con",
+    "valor": "TpoPA inferior a 60 min"
+  },
+  {
+    "entidad": "NIH Stroke Scale",
+    "relacion": "se asocia con",
+    "valor": "TpoPA inferior a 60 min"
+  },
+  {
+    "entidad": "Signo de la cuerda",
+    "relacion": "se asocia con",
+    "valor": "TpoPA inferior a 60 min"
+  },
+  {
+    "entidad": "Terapia endovascular",
+    "relacion": "se asocia con",
+    "valor": "TpoPA inferior a 60 min"
+  },
+  {
+    "entidad": "Infarto cerebral de tiempo desconocido",
+    "relacion": "se asocia con",
+    "valor": "TpoPA superior a 60 min"
+  },
+  {
+    "entidad": "Motivos de TpoPA superior a 60 min",
+    "relacion": "incluyen",
+    "valor": "falla de identificación del ACVi por triage"
+  },
+  {
+    "entidad": "Motivos de TpoPA superior a 60 min",
+    "relacion": "incluyen",
+    "valor": "dudas diagnósticas sobre el ACVi"
+  },
+  {
+    "entidad": "Motivos de TpoPA superior a 60 min",
+    "relacion": "incluyen",
+    "valor": "posibles contraindicaciones para TIV"
+  },
+  {
+    "entidad": "Motivos de TpoPA superior a 60 min",
+    "relacion": "incluyen",
+    "valor": "necesidad de intubación de la vía aérea"
+  },
+  {
+    "entidad": "Motivos de TpoPA superior a 60 min",
+    "relacion": "incluyen",
+    "valor": "dificultad en reducción de presión arterial"
+  },
+  {
+    "entidad": "Registro de Enfermedades Cerebrovasculares de Clínica Alemana",
+    "relacion": "es",
+    "valor": "prospectivo y contempla consentimiento informado"
+  },
+  {
+    "entidad": "TpoPA promedio",
+    "relacion": "es",
+    "valor": "43,6 ± 23,8 min"
+  },
+  {
+    "entidad": "TpoPA recomendado",
+    "relacion": "es",
+    "valor": "inferior a 60 min"
+  },
+  {
+    "entidad": "diabetes gestacional",
+    "relacion": "incrementa",
+    "valor": "prevalencia"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "incrementa",
+    "valor": "prevalencia"
+  },
+  {
+    "entidad": "Hospital Italiano de Buenos Aires",
+    "relacion": "realiza",
+    "valor": "screening de diabetes gestacional"
+  },
+  {
+    "entidad": "Asociación Latinoamericana de Diabetes (ALAD)",
+    "relacion": "recomienda",
+    "valor": "criterios de diagnóstico"
+  },
+  {
+    "entidad": "diabetes gestacional",
+    "relacion": "afecta a",
+    "valor": "madres y neonatos a largo plazo"
+  },
+  {
+    "entidad": "mujeres con diabetes gestacional",
+    "relacion": "tienen mayor riesgo de",
+    "valor": "obesidad y diabetes"
+  },
+  {
+    "entidad": "screening de diabetes gestacional",
+    "relacion": "aumenta",
+    "valor": "frecuencia"
+  },
+  {
+    "entidad": "tendencia de diabetes gestacional",
+    "relacion": "es evaluada en",
+    "valor": "un período de 11 años"
+  },
+  {
+    "entidad": "diabetes gestacional",
+    "relacion": "se define como",
+    "valor": "glucosa plasmática en ayunas entre 100 y 125 mg/dl"
+  },
+  {
+    "entidad": "Hospital Italiano de Buenos Aires",
+    "relacion": "incluye",
+    "valor": "hospitales universitarios y centros de atención periféricos"
+  },
+  {
+    "entidad": "mujeres embarazadas",
+    "relacion": "son analizadas en",
+    "valor": "cohorte abierta retrospectiva"
+  },
+  {
+    "entidad": "diabetes gestacional",
+    "relacion": "se asocia con",
+    "valor": "incremento en la obesidad global"
+  },
+  {
+    "entidad": "tendencia de obesidad",
+    "relacion": "es creciente en",
+    "valor": "embarazos con diabetes gestacional"
+  },
+  {
+    "entidad": "tendencia de obesidad",
+    "relacion": "es estable en",
+    "valor": "embarazos sin diabetes gestacional"
+  },
+  {
+    "entidad": "screening de diabetes gestacional",
+    "relacion": "se realiza en",
+    "valor": "un 59% de los embarazos"
+  },
+  {
+    "entidad": "diabetes gestacional",
+    "relacion": "duplica su valor entre",
+    "valor": "2007 y 2018"
+  },
+  {
+    "entidad": "Hospital Italiano de Buenos Aires",
+    "relacion": "es un",
+    "valor": "sistema de salud"
+  },
+  {
+    "entidad": "mujeres con diabetes gestacional",
+    "relacion": "tienen",
+    "valor": "un único embarazo con DMG en el 95% de los casos"
+  },
+  {
+    "entidad": "Enfermedad de Parkinson",
+    "relacion": "es",
+    "valor": "una patología neurodegenerativa"
+  },
+  {
+    "entidad": "Enfermedad de Parkinson",
+    "relacion": "afecta a",
+    "valor": "la calidad de vida de los pacientes"
+  },
+  {
+    "entidad": "síntomas no motores",
+    "relacion": "son",
+    "valor": "manifestaciones frecuentes en la enfermedad de Parkinson"
+  },
+  {
+    "entidad": "síntomas no motores",
+    "relacion": "se incrementan con",
+    "valor": "la progresión de la enfermedad"
+  },
+  {
+    "entidad": "trastornos del descontrol de impulsos",
+    "relacion": "son",
+    "valor": "conductas repetitivas y compulsivas"
+  },
+  {
+    "entidad": "pacientes con enfermedad de Parkinson",
+    "relacion": "tienen riesgo de desarrollar",
+    "valor": "trastornos del descontrol de impulsos"
+  },
+  {
+    "entidad": "médico en atención primaria",
+    "relacion": "debe sospechar",
+    "valor": "la enfermedad de Parkinson"
+  },
+  {
+    "entidad": "Guía Clínica MINSAL",
+    "relacion": "sugiere",
+    "valor": "monitorear síntomas atípicos en pacientes con Parkinson"
+  },
+  {
+    "entidad": "CESFAM nº 5",
+    "relacion": "pertenece a",
+    "valor": "Servicio de Salud Metropolitano Central"
+  },
+  {
+    "entidad": "Centro de Trastornos del Movimiento (CETRAM)",
+    "relacion": "colabora con",
+    "valor": "la evaluación de pacientes con Parkinson"
+  },
+  {
+    "entidad": "escala de síntomas no motores",
+    "relacion": "evalúa",
+    "valor": "la carga de síntomas en pacientes con Parkinson"
+  },
+  {
+    "entidad": "trastorno conductual del sueño REM",
+    "relacion": "se evalúa mediante",
+    "valor": "entrevistas a pacientes y/o acompañantes"
+  },
+  {
+    "entidad": "escala de depresión geriátrica",
+    "relacion": "es utilizada para",
+    "valor": "screening de depresión en pacientes con Parkinson"
+  },
+  {
+    "entidad": "test de MoCA",
+    "relacion": "evalúa",
+    "valor": "el deterioro cognitivo en pacientes con Parkinson"
+  },
+  {
+    "entidad": "síntomas no motores",
+    "relacion": "tienen un impacto mayor que",
+    "valor": "los síntomas motores en la calidad de vida"
+  },
+  {
+    "entidad": "pacientes con enfermedad de Parkinson",
+    "relacion": "reportan",
+    "valor": "compromiso en varios dominios de síntomas no motores"
+  },
+  {
+    "entidad": "trastornos del control de impulsos",
+    "relacion": "se asocian con",
+    "valor": "el uso de agonistas dopaminérgicos"
+  },
+  {
+    "entidad": "pacientes con Parkinson",
+    "relacion": "deben ser",
+    "valor": "monitoreados por médicos de atención primaria"
+  },
+  {
+    "entidad": "médico general",
+    "relacion": "juega un papel",
+    "valor": "determinante en la atención de pacientes con Parkinson"
+  },
+  {
+    "entidad": "Infarto agudo de miocardio sin enfermedad coronaria ateroesclerótica obstructiva",
+    "relacion": "es un",
+    "valor": "diagnóstico operativo"
+  },
+  {
+    "entidad": "MINOCA",
+    "relacion": "afecta a",
+    "valor": "pacientes con infarto agudo de miocardio"
+  },
+  {
+    "entidad": "Resonancia magnética cardíaca",
+    "relacion": "utiliza",
+    "valor": "para caracterizar el miocardio"
+  },
+  {
+    "entidad": "Imágenes intravasculares",
+    "relacion": "utiliza",
+    "valor": "para identificar etiologías del MINOCA"
+  },
+  {
+    "entidad": "Mujeres",
+    "relacion": "predomina en",
+    "valor": "pacientes con MINOCA"
+  },
+  {
+    "entidad": "Factores de riesgo cardiovascular",
+    "relacion": "carga",
+    "valor": "baja en pacientes con MINOCA"
+  },
+  {
+    "entidad": "Disrupción de placa ateroesclerótica",
+    "relacion": "asociado a",
+    "valor": "mortalidad en pacientes con MINOCA"
+  },
+  {
+    "entidad": "Patrón de balonamiento apical",
+    "relacion": "no es",
+    "valor": "patognomónico de miocardiopatía por estrés"
+  },
+  {
+    "entidad": "Evaluación multimodal",
+    "relacion": "permite",
+    "valor": "diagnóstico más preciso de MINOCA"
+  },
+  {
+    "entidad": "IVI",
+    "relacion": "identifica",
+    "valor": "lesiones que explican MINOCA"
+  },
+  {
+    "entidad": "CMR",
+    "relacion": "realiza",
+    "valor": "evaluación no invasiva del miocardio"
+  },
+  {
+    "entidad": "Pacientes con patrón microvascular",
+    "relacion": "presentan",
+    "valor": "miocardiopatía por estrés"
+  },
+  {
+    "entidad": "Pacientes con patrón epicárdico",
+    "relacion": "presentan",
+    "valor": "infarto transmural"
+  },
+  {
+    "entidad": "Follow-up",
+    "relacion": "mide",
+    "valor": "evolución de la fracción de eyección del ventrículo izquierdo"
+  },
+  {
+    "entidad": "Mortalidad",
+    "relacion": "reportada en",
+    "valor": "pacientes con DP"
+  },
+  {
+    "entidad": "Estudio retrospectivo",
+    "relacion": "realiza",
+    "valor": "análisis de pacientes con MINOCA"
+  },
+  {
+    "entidad": "Comité de Ética Científico",
+    "relacion": "aprueba",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "Universidad de Chile",
+    "relacion": "es un",
+    "valor": "centro de formación en cardiología"
+  },
+  {
+    "entidad": "Clínica Alemana de Santiago",
+    "relacion": "es un",
+    "valor": "centro de atención médica"
+  },
+  {
+    "entidad": "Hospital DIPRECA",
+    "relacion": "es un",
+    "valor": "centro de atención médica"
+  },
+  {
+    "entidad": "Nefropatías secundarias a paraproteína",
+    "relacion": "es un",
+    "valor": "tipo de enfermedad"
+  },
+  {
+    "entidad": "paraproteínas",
+    "relacion": "causa",
+    "valor": "daño renal"
+  },
+  {
+    "entidad": "monoclonal gammopathy",
+    "relacion": "asocia",
+    "valor": "falla renal"
+  },
+  {
+    "entidad": "mieloma múltiple",
+    "relacion": "es un",
+    "valor": "tipo de gammapatía monoclonal"
+  },
+  {
+    "entidad": "amiloidosis",
+    "relacion": "es un",
+    "valor": "tipo de nefropatía asociada a paraproteínas"
+  },
+  {
+    "entidad": "GMSR",
+    "relacion": "es un",
+    "valor": "trastorno renal"
+  },
+  {
+    "entidad": "biopsia renal",
+    "relacion": "utiliza",
+    "valor": "diagnóstico de nefropatías"
+  },
+  {
+    "entidad": "creatinina",
+    "relacion": "indica",
+    "valor": "falla renal"
+  },
+  {
+    "entidad": "proteinuria",
+    "relacion": "es un",
+    "valor": "hallazgo clínico"
+  },
+  {
+    "entidad": "hemoglobina",
+    "relacion": "es un",
+    "valor": "parámetro de laboratorio"
+  },
+  {
+    "entidad": "velocidad de sedimentación globular",
+    "relacion": "es un",
+    "valor": "parámetro de laboratorio"
+  },
+  {
+    "entidad": "cadenas livianas",
+    "relacion": "se asocian con",
+    "valor": "mieloma múltiple"
+  },
+  {
+    "entidad": "cadenas pesadas",
+    "relacion": "se asocian con",
+    "valor": "amiloidosis"
+  },
+  {
+    "entidad": "tratamiento precoz",
+    "relacion": "mejora",
+    "valor": "sobrevida renal"
+  },
+  {
+    "entidad": "mieloma múltiple",
+    "relacion": "tiene",
+    "valor": "peor pronóstico que GMSR"
+  },
+  {
+    "entidad": "métodos diagnósticos",
+    "relacion": "son necesarios para",
+    "valor": "detectar paraproteínas"
+  },
+  {
+    "entidad": "Dr. Rodrigo Sepúlveda Palamara",
+    "relacion": "es el",
+    "valor": "autor principal del estudio"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "es la",
+    "valor": "institución donde se realizó el estudio"
+  },
+  {
+    "entidad": "estudio de cohorte retrospectivo",
+    "relacion": "realiza",
+    "valor": "análisis de pacientes"
+  },
+  {
+    "entidad": "sobrevida",
+    "relacion": "se analiza mediante",
+    "valor": "Kaplan-Meier"
+  },
+  {
+    "entidad": "GMSR",
+    "relacion": "tiene",
+    "valor": "peor sobrevida que MGUS"
+  },
+  {
+    "entidad": "trastorno por déficit de atención (TDAH)",
+    "relacion": "asocia",
+    "valor": "rasgos de personalidad del grupo C"
+  },
+  {
+    "entidad": "estudiantes de medicina",
+    "relacion": "presentan",
+    "valor": "rasgos de personalidad del grupo C"
+  },
+  {
+    "entidad": "rasgos de personalidad del grupo C",
+    "relacion": "incluyen",
+    "valor": "perfeccionismo, dependencia, ansiedad"
+  },
+  {
+    "entidad": "TDAH",
+    "relacion": "puede ser",
+    "valor": "subdiagnosticado en adultos"
+  },
+  {
+    "entidad": "Grupo 1",
+    "relacion": "tiene",
+    "valor": "diagnóstico poco probable de TDAH"
+  },
+  {
+    "entidad": "Grupo 2",
+    "relacion": "tiene",
+    "valor": "diagnóstico probable o muy probable de TDAH"
+  },
+  {
+    "entidad": "Grupo 2",
+    "relacion": "presenta",
+    "valor": "mayor proporción de rasgos de personalidad B o C"
+  },
+  {
+    "entidad": "Universidad de Valparaíso",
+    "relacion": "realiza",
+    "valor": "estudio sobre TDAH y rasgos de personalidad"
+  },
+  {
+    "entidad": "Comité de Bioética de la Facultad de Medicina de la Universidad de Valparaíso",
+    "relacion": "aprueba",
+    "valor": "estudio"
+  },
+  {
+    "entidad": "TDAH",
+    "relacion": "asocia",
+    "valor": "problemas académicos, laborales, legales y familiares"
+  },
+  {
+    "entidad": "rasgos de personalidad del grupo B",
+    "relacion": "asocian",
+    "valor": "trastornos de la personalidad"
+  },
+  {
+    "entidad": "rasgos de personalidad del grupo C",
+    "relacion": "son frecuentes",
+    "valor": "entre estudiantes de medicina"
+  },
+  {
+    "entidad": "TDAH",
+    "relacion": "puede causar",
+    "valor": "estrategias compensatorias en adultos"
+  },
+  {
+    "entidad": "estudiantes de medicina",
+    "relacion": "muestran",
+    "valor": "autoexigencia y perfeccionismo"
+  },
+  {
+    "entidad": "TDAH",
+    "relacion": "influye en",
+    "valor": "desarrollo de rasgos de personalidad"
+  },
+  {
+    "entidad": "rasgos de personalidad del grupo C",
+    "relacion": "son",
+    "valor": "consecuencia de TDAH no tratado"
+  },
+  {
+    "entidad": "estudiantes de medicina",
+    "relacion": "son",
+    "valor": "sometidos a alta demanda académica"
+  },
+  {
+    "entidad": "TDAH",
+    "relacion": "asocia",
+    "valor": "trastornos de ansiedad"
+  },
+  {
+    "entidad": "rasgos de personalidad del grupo C",
+    "relacion": "se desarrollan como",
+    "valor": "reacciones compensatorias al déficit de atención"
+  },
+  {
+    "entidad": "población transgénero",
+    "relacion": "tiene",
+    "valor": "mayor riesgo de problemas de salud mental"
+  },
+  {
+    "entidad": "población cisgénero",
+    "relacion": "es comparada con",
+    "valor": "población transgénero"
+  },
+  {
+    "entidad": "prejuicio sexual",
+    "relacion": "afecta a",
+    "valor": "salud mental de la población transgénero"
+  },
+  {
+    "entidad": "salud mental",
+    "relacion": "se describe como",
+    "valor": "precaria en la población transgénero"
+  },
+  {
+    "entidad": "depresión",
+    "relacion": "es un indicador de",
+    "valor": "salud mental negativa"
+  },
+  {
+    "entidad": "ideación suicida",
+    "relacion": "es un indicador de",
+    "valor": "salud mental negativa"
+  },
+  {
+    "entidad": "sustancias",
+    "relacion": "se consumen en",
+    "valor": "alta frecuencia en la población transgénero"
+  },
+  {
+    "entidad": "sexo asignado al nacer",
+    "relacion": "influye en",
+    "valor": "salud mental de la población transgénero"
+  },
+  {
+    "entidad": "autoidentificación de género",
+    "relacion": "influye en",
+    "valor": "salud mental de la población transgénero"
+  },
+  {
+    "entidad": "Comisión Nacional de Investigación Científica y Tecnológica (CONICYT)",
+    "relacion": "financia",
+    "valor": "estudios sobre salud mental"
+  },
+  {
+    "entidad": "Universidad Católica del Norte",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "Universidad Alberto Hurtado",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "Universidad de La Frontera",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "Universidad de Talca",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "University of Auckland",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "INSERM",
+    "relacion": "es un",
+    "valor": "instituto de salud pública"
+  },
+  {
+    "entidad": "salud mental",
+    "relacion": "varía según",
+    "valor": "sexo asignado al nacer y autoidentificación de género"
+  },
+  {
+    "entidad": "población transgénero",
+    "relacion": "experimenta",
+    "valor": "vulnerabilidad en salud mental"
+  },
+  {
+    "entidad": "estrés",
+    "relacion": "es un factor que contribuye a",
+    "valor": "problemas de salud mental en población transgénero"
+  }
+]

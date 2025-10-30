@@ -1,0 +1,492 @@
+[
+  {
+    "entidad": "índice de masa corporal (IMC)",
+    "relacion": "asocia",
+    "valor": "mortalidad por todas las causas"
+  },
+  {
+    "entidad": "personas mayores",
+    "relacion": "afecta a",
+    "valor": "riesgo de mortalidad"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud de Chile 2009-2010",
+    "relacion": "es un",
+    "valor": "estudio prospectivo"
+  },
+  {
+    "entidad": "bajo peso",
+    "relacion": "aumenta",
+    "valor": "riesgo de mortalidad"
+  },
+  {
+    "entidad": "obesidad II",
+    "relacion": "aumenta",
+    "valor": "riesgo de mortalidad"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "es un",
+    "valor": "contexto de estudio"
+  },
+  {
+    "entidad": "malnutrición",
+    "relacion": "causa",
+    "valor": "efectos adversos en la salud"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "asocia con",
+    "valor": "enfermedades crónicas"
+  },
+  {
+    "entidad": "bajo peso",
+    "relacion": "se relaciona con",
+    "valor": "sarcopenia"
+  },
+  {
+    "entidad": "bajo peso",
+    "relacion": "se relaciona con",
+    "valor": "aumento de mortalidad"
+  },
+  {
+    "entidad": "obesidad II",
+    "relacion": "se relaciona con",
+    "valor": "aumento de mortalidad"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "financia",
+    "valor": "Encuesta Nacional de Salud"
+  },
+  {
+    "entidad": "modelo de regresión proporcional de Cox",
+    "relacion": "utiliza",
+    "valor": "para analizar la asociación entre IMC y mortalidad"
+  },
+  {
+    "entidad": "mortalidad por todas las causas",
+    "relacion": "es un",
+    "valor": "resultado del estudio"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "son más propensas a",
+    "valor": "bajo peso y obesidad"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "es un factor",
+    "valor": "en el riesgo de mortalidad"
+  },
+  {
+    "entidad": "comorbilidad",
+    "relacion": "afecta",
+    "valor": "riesgo de mortalidad"
+  },
+  {
+    "entidad": "estilo de vida",
+    "relacion": "influye en",
+    "valor": "salud de personas mayores"
+  },
+  {
+    "entidad": "Programa educativo virtual",
+    "relacion": "beneficia",
+    "valor": "personas mayores"
+  },
+  {
+    "entidad": "Diploma Instructores Pares Senior-FITT",
+    "relacion": "es un",
+    "valor": "programa educativo virtual"
+  },
+  {
+    "entidad": "Universidad de Los Lagos",
+    "relacion": "ofrece",
+    "valor": "Diploma Instructores Pares Senior-FITT"
+  },
+  {
+    "entidad": "Fondo de financiamiento interno Redes Territoriales de Investigación",
+    "relacion": "financia",
+    "valor": "proyecto"
+  },
+  {
+    "entidad": "personas mayores",
+    "relacion": "participan en",
+    "valor": "programas educativos"
+  },
+  {
+    "entidad": "educación",
+    "relacion": "transforma",
+    "valor": "creencias y actitudes"
+  },
+  {
+    "entidad": "programa educativo virtual",
+    "relacion": "mejora",
+    "valor": "bienestar físico y mental"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "promueve",
+    "valor": "independencia física"
+  },
+  {
+    "entidad": "conocimientos adquiridos",
+    "relacion": "transmiten",
+    "valor": "a la comunidad"
+  },
+  {
+    "entidad": "programa",
+    "relacion": "se implementó durante",
+    "valor": "pandemia COVID-19"
+  },
+  {
+    "entidad": "cambio en el peso corporal",
+    "relacion": "es un",
+    "valor": "beneficio percibido"
+  },
+  {
+    "entidad": "fortalecimiento muscular",
+    "relacion": "es un",
+    "valor": "beneficio percibido"
+  },
+  {
+    "entidad": "independencia",
+    "relacion": "es un",
+    "valor": "beneficio percibido"
+  },
+  {
+    "entidad": "movilidad física",
+    "relacion": "es un",
+    "valor": "beneficio percibido"
+  },
+  {
+    "entidad": "vínculos afectivos",
+    "relacion": "fortalece",
+    "valor": "beneficios psicoemocionales"
+  },
+  {
+    "entidad": "instructores pares",
+    "relacion": "se convierten en",
+    "valor": "agentes de cambio"
+  },
+  {
+    "entidad": "educación en salud",
+    "relacion": "promueve",
+    "valor": "alfabetización en salud"
+  },
+  {
+    "entidad": "Comité de ética del Servicio Salud Reloncaví",
+    "relacion": "aprueba",
+    "valor": "investigación"
+  },
+  {
+    "entidad": "metodología de aprendizaje entre pares",
+    "relacion": "demuestra ser",
+    "valor": "efectiva"
+  },
+  {
+    "entidad": "TICs",
+    "relacion": "son utilizadas en",
+    "valor": "formación e-learning"
+  },
+  {
+    "entidad": "educación virtual",
+    "relacion": "promueve",
+    "valor": "actividad física"
+  },
+  {
+    "entidad": "programa educativo virtual",
+    "relacion": "proporciona",
+    "valor": "conocimientos y habilidades útiles"
+  },
+  {
+    "entidad": "50% de los participantes",
+    "relacion": "guían",
+    "valor": "otros grupos de personas mayores"
+  },
+  {
+    "entidad": "Pancreatoduodenectomía",
+    "relacion": "representa",
+    "valor": "única alternativa curativa en pacientes con tumores periampulares"
+  },
+  {
+    "entidad": "Hospital Clínico UC CHRISTUS",
+    "relacion": "realiza",
+    "valor": "pancreatoduodenectomía en pacientes octogenarios"
+  },
+  {
+    "entidad": "pacientes octogenarios",
+    "relacion": "presentan",
+    "valor": "mayor incidencia de tumores periampulares"
+  },
+  {
+    "entidad": "evaluación preoperatoria multidisciplinaria",
+    "relacion": "es necesaria para",
+    "valor": "seleccionar pacientes adecuados para cirugía"
+  },
+  {
+    "entidad": "fragilidad",
+    "relacion": "se asocia con",
+    "valor": "mayor riesgo de complicaciones postoperatorias"
+  },
+  {
+    "entidad": "mortalidad postoperatoria",
+    "relacion": "se define como",
+    "valor": "muerte desde la cirugía a 30 y 90 días"
+  },
+  {
+    "entidad": "sobrevida global",
+    "relacion": "se define como",
+    "valor": "lapso entre la pancreatoduodenectomía y la fecha de muerte"
+  },
+  {
+    "entidad": "quimioterapia adyuvante",
+    "relacion": "se realizó en",
+    "valor": "4 pacientes"
+  },
+  {
+    "entidad": "mortalidad postoperatoria",
+    "relacion": "no se presentó en",
+    "valor": "30 ni 90 días"
+  },
+  {
+    "entidad": "pacientes octogenarios",
+    "relacion": "pueden beneficiarse de",
+    "valor": "intervención quirúrgica segura"
+  },
+  {
+    "entidad": "evaluación multidisciplinaria",
+    "relacion": "incluye",
+    "valor": "evaluación cardiológica, geriátrica y anestésica"
+  },
+  {
+    "entidad": "fístula pancreática",
+    "relacion": "se presentó en",
+    "valor": "1 paciente"
+  },
+  {
+    "entidad": "comorbilidades",
+    "relacion": "se presentan con mayor frecuencia en",
+    "valor": "pacientes octogenarios"
+  },
+  {
+    "entidad": "tasa de morbilidad",
+    "relacion": "varía entre",
+    "valor": "47,3% y 80% en pacientes octogenarios"
+  },
+  {
+    "entidad": "evaluación preoperatoria",
+    "relacion": "debe ser",
+    "valor": "exhaustiva y protocolizada"
+  },
+  {
+    "entidad": "mortalidad a 30 días",
+    "relacion": "se sitúa en un rango entre",
+    "valor": "2,7% y 5,1%"
+  },
+  {
+    "entidad": "mortalidad a 90 días",
+    "relacion": "varía entre",
+    "valor": "2,7% y 11%"
+  },
+  {
+    "entidad": "pacientes octogenarios",
+    "relacion": "son seleccionados en",
+    "valor": "centros de alto volumen"
+  },
+  {
+    "entidad": "sobrevida libre de enfermedad",
+    "relacion": "se determina como",
+    "valor": "lapso entre la cirugía y la fecha de recurrencia"
+  },
+  {
+    "entidad": "encuesta FACT-C",
+    "relacion": "evalúa",
+    "valor": "calidad de vida en pacientes con cáncer colorrectal"
+  },
+  {
+    "entidad": "cáncer colorrectal",
+    "relacion": "es",
+    "valor": "una enfermedad"
+  },
+  {
+    "entidad": "Hospital San José de Melipilla",
+    "relacion": "es un",
+    "valor": "hospital en Chile"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "es una",
+    "valor": "institución educativa en Chile"
+  },
+  {
+    "entidad": "FACIT.ORG",
+    "relacion": "desarrolla",
+    "valor": "cuestionarios de calidad de vida"
+  },
+  {
+    "entidad": "coeficiente de validez de contenido (CVC)",
+    "relacion": "mide",
+    "valor": "el acuerdo entre expertos sobre la encuesta"
+  },
+  {
+    "entidad": "jueces expertos",
+    "relacion": "evalúan",
+    "valor": "la encuesta FACT-C"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "es",
+    "valor": "el resultado de la diferencia entre la condición esperada y la condición real"
+  },
+  {
+    "entidad": "evaluación de síntomas",
+    "relacion": "es",
+    "valor": "un enfoque en controles postquirúrgicos y oncológicos"
+  },
+  {
+    "entidad": "encuestas de calidad de vida",
+    "relacion": "son",
+    "valor": "instrumentos inespecíficos"
+  },
+  {
+    "entidad": "dimensiones de la encuesta FACT-C",
+    "relacion": "incluyen",
+    "valor": "estado físico, ambiente familiar y social, estado emocional, capacidad de funcionamiento personal, otras preocupaciones"
+  },
+  {
+    "entidad": "cáncer colorrectal",
+    "relacion": "es",
+    "valor": "la tercera causa más común de muerte en Chile"
+  },
+  {
+    "entidad": "cirugía resectiva",
+    "relacion": "es",
+    "valor": "el tratamiento definitivo para cáncer colorrectal"
+  },
+  {
+    "entidad": "evaluación de calidad de vida",
+    "relacion": "debe ser",
+    "valor": "estandarizada"
+  },
+  {
+    "entidad": "encuesta EORL QLQ-CR29",
+    "relacion": "no está",
+    "valor": "traducida ni validada para su aplicación en pacientes chilenos"
+  },
+  {
+    "entidad": "encuesta FACT-C",
+    "relacion": "ha sido",
+    "valor": "validada en población hispanoparlante"
+  },
+  {
+    "entidad": "proceso de validación",
+    "relacion": "es",
+    "valor": "necesario para asegurar la aplicabilidad del instrumento"
+  },
+  {
+    "entidad": "modificaciones menores",
+    "relacion": "se realizaron para",
+    "valor": "mejorar la comprensión de ítems en la encuesta"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "afecta",
+    "valor": "la funcionalidad física y emocional del paciente"
+  },
+  {
+    "entidad": "evaluación de la encuesta FACT-C",
+    "relacion": "se basa en",
+    "valor": "una escala tipo Likert"
+  },
+  {
+    "entidad": "virus parotiditis",
+    "relacion": "causa",
+    "valor": "parotiditis infecciosa"
+  },
+  {
+    "entidad": "parotiditis infecciosa",
+    "relacion": "afecta principalmente a",
+    "valor": "niños"
+  },
+  {
+    "entidad": "vacuna trivírica",
+    "relacion": "disminuyó",
+    "valor": "casos de parotiditis en Chile"
+  },
+  {
+    "entidad": "brote de parotiditis",
+    "relacion": "ocurrió en",
+    "valor": "2018 y 2019"
+  },
+  {
+    "entidad": "Instituto de Salud Pública de Chile",
+    "relacion": "realizó",
+    "valor": "hallazgos de laboratorio"
+  },
+  {
+    "entidad": "programa de vigilancia epidemiológica",
+    "relacion": "evalúa",
+    "valor": "parotiditis"
+  },
+  {
+    "entidad": "IgM e IgG anti virus parotiditis",
+    "relacion": "se analizó mediante",
+    "valor": "ELISA"
+  },
+  {
+    "entidad": "ácido nucleico viral",
+    "relacion": "se evaluó en",
+    "valor": "orina/saliva mediante qRT-PCR"
+  },
+  {
+    "entidad": "genotipos G y N",
+    "relacion": "se encontraron en",
+    "valor": "secuenciamiento genético"
+  },
+  {
+    "entidad": "vacuna SRP",
+    "relacion": "incorpora",
+    "valor": "vacuna de parotiditis Leningrado-Zagreb"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "clasifica pacientes como",
+    "valor": "casos sospechosos, probables y confirmados"
+  },
+  {
+    "entidad": "muestras de plasma",
+    "relacion": "se utilizan para",
+    "valor": "determinación de anticuerpos IgG e IgM"
+  },
+  {
+    "entidad": "qRT-PCR",
+    "relacion": "se utiliza para",
+    "valor": "detección de ARN viral"
+  },
+  {
+    "entidad": "campaña de vacunación contra parotiditis",
+    "relacion": "inició en",
+    "valor": "enero de 2019"
+  },
+  {
+    "entidad": "genotipo N",
+    "relacion": "se determinó en",
+    "valor": "muestras positivas en 2019"
+  },
+  {
+    "entidad": "genotipo G",
+    "relacion": "se determinó en",
+    "valor": "muestras positivas en 2018"
+  },
+  {
+    "entidad": "brotes de parotiditis",
+    "relacion": "se presentan en",
+    "valor": "poblaciones altamente inmunizadas"
+  },
+  {
+    "entidad": "vacuna SRP",
+    "relacion": "es segura y presenta",
+    "valor": "efectos adversos infrecuentes"
+  }
+]

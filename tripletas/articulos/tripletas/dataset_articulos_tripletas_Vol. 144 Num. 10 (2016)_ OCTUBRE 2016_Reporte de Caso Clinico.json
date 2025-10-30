@@ -1,0 +1,322 @@
+[
+  {
+    "entidad": "Cetoacidosis diabética normoglicémica",
+    "relacion": "es un tipo de",
+    "valor": "emergencia médica"
+  },
+  {
+    "entidad": "Cetoacidosis diabética normoglicémica",
+    "relacion": "afecta a",
+    "valor": "madre y feto"
+  },
+  {
+    "entidad": "madre",
+    "relacion": "presenta",
+    "valor": "síntomas como náuseas, vómitos, dolor abdominal y anorexia"
+  },
+  {
+    "entidad": "madre",
+    "relacion": "tiene",
+    "valor": "39 años"
+  },
+  {
+    "entidad": "madre",
+    "relacion": "está en",
+    "valor": "32 semanas de embarazo"
+  },
+  {
+    "entidad": "madre",
+    "relacion": "es diagnosticada con",
+    "valor": "síndrome hipertensivo del embarazo"
+  },
+  {
+    "entidad": "madre",
+    "relacion": "es diagnosticada con",
+    "valor": "diabetes gestacional"
+  },
+  {
+    "entidad": "madre",
+    "relacion": "es diagnosticada con",
+    "valor": "obesidad mórbida"
+  },
+  {
+    "entidad": "madre",
+    "relacion": "es diagnosticada con",
+    "valor": "mal control prenatal"
+  },
+  {
+    "entidad": "feto",
+    "relacion": "presenta",
+    "valor": "movimientos fetales"
+  },
+  {
+    "entidad": "feto",
+    "relacion": "tiene",
+    "valor": "perfil biofísico de 6/8"
+  },
+  {
+    "entidad": "Cetoacidosis diabética normoglicémica",
+    "relacion": "se trata con",
+    "valor": "hidratación y insulina regular"
+  },
+  {
+    "entidad": "cesárea de urgencia",
+    "relacion": "es realizada para",
+    "valor": "resolver el embarazo"
+  },
+  {
+    "entidad": "nuevo nacido",
+    "relacion": "pesa",
+    "valor": "2.650 kg"
+  },
+  {
+    "entidad": "nuevo nacido",
+    "relacion": "tiene",
+    "valor": "longitud de 46 cm"
+  },
+  {
+    "entidad": "nuevo nacido",
+    "relacion": "es",
+    "valor": "grande para la edad gestacional"
+  },
+  {
+    "entidad": "nuevo nacido",
+    "relacion": "tiene",
+    "valor": "Apgar de 2.7"
+  },
+  {
+    "entidad": "nuevo nacido",
+    "relacion": "presenta",
+    "valor": "asfixia perinatal"
+  },
+  {
+    "entidad": "nuevo nacido",
+    "relacion": "presenta",
+    "valor": "síndrome convulsivo"
+  },
+  {
+    "entidad": "nuevo nacido",
+    "relacion": "presenta",
+    "valor": "posible cardiopatía congénita"
+  },
+  {
+    "entidad": "Cetoacidosis diabética normoglicémica",
+    "relacion": "se asocia con",
+    "valor": "mortalidad materna y fetal"
+  },
+  {
+    "entidad": "Cetoacidosis diabética normoglicémica",
+    "relacion": "es tratada con",
+    "valor": "insulinoterapia y reposición de electrolitos"
+  },
+  {
+    "entidad": "Cetoacidosis diabética normoglicémica",
+    "relacion": "puede causar",
+    "valor": "deterioro del desarrollo neurológico"
+  },
+  {
+    "entidad": "diabetes no controlada",
+    "relacion": "provoca",
+    "valor": "daños en el recién nacido"
+  },
+  {
+    "entidad": "Cetoacidosis diabética normoglicémica",
+    "relacion": "requiere",
+    "valor": "monitoreo y control"
+  },
+  {
+    "entidad": "Cetoacidosis diabética normoglicémica",
+    "relacion": "es diagnosticada por",
+    "valor": "glicemia y cetonemia"
+  },
+  {
+    "entidad": "Cetoacidosis diabética normoglicémica",
+    "relacion": "se presenta con",
+    "valor": "acidosis metabólica y anión Gap elevado"
+  },
+  {
+    "entidad": "vasculitis renal",
+    "relacion": "asociada a",
+    "valor": "anticuerpos anti-citoplasma de neutrófilos (ANCA)"
+  },
+  {
+    "entidad": "embarazo",
+    "relacion": "afecta a",
+    "valor": "vasculitis renal"
+  },
+  {
+    "entidad": "vasculitis renal",
+    "relacion": "cambia",
+    "valor": "curso durante el embarazo"
+  },
+  {
+    "entidad": "mujer de 20 años",
+    "relacion": "presenta",
+    "valor": "vasculitis renal mediada por ANCA"
+  },
+  {
+    "entidad": "ciclofosfamida",
+    "relacion": "causa",
+    "valor": "amenorrhea"
+  },
+  {
+    "entidad": "embarazo",
+    "relacion": "transcurre con",
+    "valor": "parto espontáneo a las 37 semanas"
+  },
+  {
+    "entidad": "nuevo nacido",
+    "relacion": "es",
+    "valor": "sano"
+  },
+  {
+    "entidad": "proteinuria",
+    "relacion": "aumenta durante",
+    "valor": "embarazo"
+  },
+  {
+    "entidad": "función renal",
+    "relacion": "deteriora levemente durante",
+    "valor": "embarazo"
+  },
+  {
+    "entidad": "nefrótica proteinuria",
+    "relacion": "aparece durante",
+    "valor": "el año después del parto"
+  },
+  {
+    "entidad": "glucocorticoides",
+    "relacion": "inducen",
+    "valor": "cambios en linfocitos B, T y monocitos"
+  },
+  {
+    "entidad": "enfermedades inmunomediadas",
+    "relacion": "se modifican durante",
+    "valor": "embarazo"
+  },
+  {
+    "entidad": "glomérulos",
+    "relacion": "muestran",
+    "valor": "compromiso por crecientes fibrocelulares"
+  },
+  {
+    "entidad": "ciclofosfamida",
+    "relacion": "se cambia por",
+    "valor": "azatioprina"
+  },
+  {
+    "entidad": "azatioprina",
+    "relacion": "se utiliza durante",
+    "valor": "embarazo"
+  },
+  {
+    "entidad": "corticoides",
+    "relacion": "se utilizan para",
+    "valor": "tratar reactivaciones durante el embarazo"
+  },
+  {
+    "entidad": "muerte materna",
+    "relacion": "es mayor en",
+    "valor": "pacientes con GPA activa durante el embarazo"
+  },
+  {
+    "entidad": "recaídas",
+    "relacion": "deben ser tratadas",
+    "valor": "agresivamente durante el embarazo"
+  },
+  {
+    "entidad": "función renal",
+    "relacion": "debe ser monitorizada durante",
+    "valor": "embarazo"
+  },
+  {
+    "entidad": "mujeres en remisión",
+    "relacion": "deben mantener",
+    "valor": "terapia con azatioprina y corticoides durante el embarazo"
+  },
+  {
+    "entidad": "Neumonía intersticial",
+    "relacion": "inducida por",
+    "valor": "bloqueo androgénico máximo"
+  },
+  {
+    "entidad": "Bloqueo androgénico máximo",
+    "relacion": "es un",
+    "valor": "tratamiento para cáncer de próstata avanzado"
+  },
+  {
+    "entidad": "Cáncer de próstata avanzado",
+    "relacion": "afecta a",
+    "valor": "pacientes mayores de 65 años"
+  },
+  {
+    "entidad": "Bicalutamida",
+    "relacion": "es un",
+    "valor": "fármaco antiandrogénico"
+  },
+  {
+    "entidad": "Leuprorelina",
+    "relacion": "es un",
+    "valor": "análogos de la hormona liberadora de gonadotropinas"
+  },
+  {
+    "entidad": "Enfermedad pulmonar intersticial",
+    "relacion": "es un",
+    "valor": "efecto adverso del tratamiento"
+  },
+  {
+    "entidad": "Paciente",
+    "relacion": "desarrolló",
+    "valor": "insuficiencia respiratoria"
+  },
+  {
+    "entidad": "Insuficiencia respiratoria",
+    "relacion": "es un",
+    "valor": "síntoma asociado a neumonía intersticial"
+  },
+  {
+    "entidad": "Neumonía organizada",
+    "relacion": "fue tratada con",
+    "valor": "metilprednisolona"
+  },
+  {
+    "entidad": "Anatomía patológica post-mortem",
+    "relacion": "reveló",
+    "valor": "neumonía en organización y neumonía intersticial usual"
+  },
+  {
+    "entidad": "Fallecimiento del paciente",
+    "relacion": "fue atribuido a",
+    "valor": "fibrosis pulmonar"
+  },
+  {
+    "entidad": "Fibrosis pulmonar",
+    "relacion": "es considerada",
+    "valor": "una condición rara pero severa"
+  },
+  {
+    "entidad": "Tratamiento antibiótico",
+    "relacion": "fue administrado para",
+    "valor": "neumonía asociada a cuidados de la salud"
+  },
+  {
+    "entidad": "Hospital Británico de Buenos Aires",
+    "relacion": "es un",
+    "valor": "centro médico en Argentina"
+  },
+  {
+    "entidad": "Unidad de cuidados intensivos",
+    "relacion": "es parte de",
+    "valor": "Hospital Británico de Buenos Aires"
+  },
+  {
+    "entidad": "Servicio de neumonología",
+    "relacion": "es parte de",
+    "valor": "Hospital Británico de Buenos Aires"
+  },
+  {
+    "entidad": "Servicio de Histopatología",
+    "relacion": "es parte de",
+    "valor": "Hospital Británico de Buenos Aires"
+  }
+]

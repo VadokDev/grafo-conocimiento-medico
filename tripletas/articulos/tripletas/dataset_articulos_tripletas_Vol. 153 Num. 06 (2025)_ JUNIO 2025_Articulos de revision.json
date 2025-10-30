@@ -1,0 +1,127 @@
+[
+  {
+    "entidad": "tiempos de recuperación",
+    "relacion": "son un",
+    "valor": "problema relevante en salud ocupacional"
+  },
+  {
+    "entidad": "factores sociales de la salud",
+    "relacion": "inciden en",
+    "valor": "mayores tiempos de recuperación"
+  },
+  {
+    "entidad": "envejecimiento de la población trabajadora",
+    "relacion": "es un",
+    "valor": "tema relevante para la salud ocupacional"
+  },
+  {
+    "entidad": "trabajadores mayores de 45 años",
+    "relacion": "requieren",
+    "valor": "tiempos significativamente mayores de recuperación"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "presentan",
+    "valor": "más días de recuperación en accidentes de mayor gravedad"
+  },
+  {
+    "entidad": "accidentes laborales",
+    "relacion": "ocurren hacia",
+    "valor": "el fin de la semana"
+  },
+  {
+    "entidad": "fatiga y cansancio",
+    "relacion": "están presentes en",
+    "valor": "accidentes con consecuencias más severas"
+  },
+  {
+    "entidad": "accidentes en empresas grandes",
+    "relacion": "son más frecuentes que",
+    "valor": "en empresas pequeñas"
+  },
+  {
+    "entidad": "accidentes con mayor tiempo perdido",
+    "relacion": "ocurren en",
+    "valor": "empresas pequeñas y trabajadores inmigrantes"
+  },
+  {
+    "entidad": "fracturas",
+    "relacion": "están relacionadas con",
+    "valor": "accidentes con mayor tiempo perdido"
+  },
+  {
+    "entidad": "lesiones internas",
+    "relacion": "están relacionadas con",
+    "valor": "accidentes con mayor tiempo perdido"
+  },
+  {
+    "entidad": "lesiones múltiples",
+    "relacion": "están relacionadas con",
+    "valor": "accidentes con mayor tiempo perdido"
+  },
+  {
+    "entidad": "Ley Chilena Nro. 16.744",
+    "relacion": "distingue",
+    "valor": "dos tipos de accidentes laborales"
+  },
+  {
+    "entidad": "accidente de trabajo",
+    "relacion": "es",
+    "valor": "toda lesión física sufrida por una persona causada o como consecuencia del trabajo"
+  },
+  {
+    "entidad": "accidente de trayecto",
+    "relacion": "es",
+    "valor": "el que se produce en el trayecto directo entre el lugar de trabajo y el lugar de residencia"
+  },
+  {
+    "entidad": "mayores tiempos de recuperación",
+    "relacion": "se relacionan con",
+    "valor": "mayor severidad de la lesión"
+  },
+  {
+    "entidad": "días promedio perdidos por accidentes laborales",
+    "relacion": "van aumentando con",
+    "valor": "el paso de los años en Chile"
+  },
+  {
+    "entidad": "determinantes sociales y de salud",
+    "relacion": "permanecen como",
+    "valor": "un desafío importante para la investigación"
+  },
+  {
+    "entidad": "factores personales",
+    "relacion": "asociados con",
+    "valor": "largos tiempos de recuperación"
+  },
+  {
+    "entidad": "condición migrante",
+    "relacion": "afecta a",
+    "valor": "los días de ausentismo"
+  },
+  {
+    "entidad": "accidentes de trayecto",
+    "relacion": "implican",
+    "valor": "mayores días de tiempo perdido"
+  },
+  {
+    "entidad": "tamaño de la empresa",
+    "relacion": "afecta a",
+    "valor": "la severidad de los accidentes"
+  },
+  {
+    "entidad": "tipos de lesiones",
+    "relacion": "asociadas con",
+    "valor": "mayor severidad y larga estadía"
+  },
+  {
+    "entidad": "tipos de accidentes",
+    "relacion": "que implican",
+    "valor": "mayor severidad tienden a ser caídas, tropiezos y resbalones"
+  },
+  {
+    "entidad": "regiones o provincias",
+    "relacion": "muestran",
+    "valor": "mayores días de recuperación"
+  }
+]

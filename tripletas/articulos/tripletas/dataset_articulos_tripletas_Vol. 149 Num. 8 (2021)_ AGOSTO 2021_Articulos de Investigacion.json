@@ -1,0 +1,802 @@
+[
+  {
+    "entidad": "compuestos antimicrobianos",
+    "relacion": "asociado a",
+    "valor": "eventos adversos"
+  },
+  {
+    "entidad": "eventos adversos",
+    "relacion": "caracterizar",
+    "valor": "objetivo del estudio"
+  },
+  {
+    "entidad": "Sistema Nacional de Farmacovigilancia",
+    "relacion": "reporta",
+    "valor": "eventos adversos"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "rango de edad",
+    "valor": "2 meses a 96 años"
+  },
+  {
+    "entidad": "eventos adversos",
+    "relacion": "frecuencia",
+    "valor": "trastornos de la piel"
+  },
+  {
+    "entidad": "trastornos de la piel",
+    "relacion": "porcentaje",
+    "valor": "56.7%"
+  },
+  {
+    "entidad": "trastornos hepatobiliares",
+    "relacion": "porcentaje",
+    "valor": "13.3%"
+  },
+  {
+    "entidad": "manifestaciones del sistema nervioso central",
+    "relacion": "porcentaje",
+    "valor": "10%"
+  },
+  {
+    "entidad": "análisis causal",
+    "relacion": "indica",
+    "valor": "asociación definitiva, probable y posible"
+  },
+  {
+    "entidad": "lesiones cutáneas",
+    "relacion": "asociado con",
+    "valor": "beta-lactámicos"
+  },
+  {
+    "entidad": "trastornos hepatobiliares",
+    "relacion": "asociado con",
+    "valor": "fármacos antituberculosos"
+  },
+  {
+    "entidad": "manifestaciones del SNC",
+    "relacion": "asociado con",
+    "valor": "carbapenémicos"
+  },
+  {
+    "entidad": "eventos adversos",
+    "relacion": "manejados con",
+    "valor": "retirada del fármaco sospechoso"
+  },
+  {
+    "entidad": "eventos adversos",
+    "relacion": "categoría",
+    "valor": "severidad"
+  },
+  {
+    "entidad": "eventos adversos",
+    "relacion": "porcentaje de gravedad",
+    "valor": "22%"
+  },
+  {
+    "entidad": "eventos potencialmente evitables",
+    "relacion": "porcentaje",
+    "valor": "25%"
+  },
+  {
+    "entidad": "antimicrobianos",
+    "relacion": "diversidad",
+    "valor": "amplia"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "hospitalizados en",
+    "valor": "unidades de diferentes complejidades"
+  },
+  {
+    "entidad": "eventos adversos",
+    "relacion": "afectan a",
+    "valor": "diferentes sistemas u órganos"
+  },
+  {
+    "entidad": "SJS",
+    "relacion": "resultado",
+    "valor": "fatal en un caso"
+  },
+  {
+    "entidad": "análisis de preventabilidad",
+    "relacion": "revela",
+    "valor": "eventos potencialmente evitables"
+  },
+  {
+    "entidad": "Causas de eventos adversos",
+    "relacion": "incluyen",
+    "valor": "duplicación terapéutica y uso inapropiado"
+  },
+  {
+    "entidad": "litiasis urinaria",
+    "relacion": "es un",
+    "valor": "trastorno urológico común"
+  },
+  {
+    "entidad": "análisis de composición química",
+    "relacion": "es parte de",
+    "valor": "evaluación metabólica de litiasis urinaria"
+  },
+  {
+    "entidad": "espectroscopía infrarroja",
+    "relacion": "se utiliza para",
+    "valor": "analizar la composición química de cálculos urinarios"
+  },
+  {
+    "entidad": "calcio",
+    "relacion": "es el componente más frecuente en",
+    "valor": "litiasis urinaria"
+  },
+  {
+    "entidad": "calcio oxalato monohidrato",
+    "relacion": "es el tipo más común de",
+    "valor": "litiasis urinaria"
+  },
+  {
+    "entidad": "cálculos urinarios",
+    "relacion": "pueden influir en",
+    "valor": "éxito de tratamientos extracorpóreos"
+  },
+  {
+    "entidad": "análisis químico de litiasis",
+    "relacion": "es fundamental para",
+    "valor": "prevención de recurrencias"
+  },
+  {
+    "entidad": "Comité de Ética de Clínica Santa María",
+    "relacion": "aprobó",
+    "valor": "el estudio de análisis de litiasis"
+  },
+  {
+    "entidad": "Universidad Finis Terrae",
+    "relacion": "es una",
+    "valor": "institución involucrada en el estudio"
+  },
+  {
+    "entidad": "Servicio de Urología Clínica Santa María",
+    "relacion": "es un",
+    "valor": "centro de atención de salud"
+  },
+  {
+    "entidad": "métodos físicos",
+    "relacion": "son preferidos sobre",
+    "valor": "métodos químicos para análisis de litiasis"
+  },
+  {
+    "entidad": "espectroscopía infrarroja",
+    "relacion": "permite identificar",
+    "valor": "componentes y proporciones en cálculos urinarios"
+  },
+  {
+    "entidad": "urolitiasis",
+    "relacion": "es una",
+    "valor": "enfermedad prevalente y costosa"
+  },
+  {
+    "entidad": "análisis espectroscópico",
+    "relacion": "es un complemento para",
+    "valor": "evaluación de la enfermedad litiásica"
+  },
+  {
+    "entidad": "cálculos de ácido úrico",
+    "relacion": "son más frecuentes en",
+    "valor": "pacientes de 40 a 60 años"
+  },
+  {
+    "entidad": "litiasis urinaria",
+    "relacion": "produce",
+    "valor": "carga económica significativa en salud"
+  },
+  {
+    "entidad": "análisis químico",
+    "relacion": "ofrece",
+    "valor": "directrices sobre causas subyacentes de cálculos urinarios"
+  },
+  {
+    "entidad": "Cáncer",
+    "relacion": "es un",
+    "valor": "problema de salud pública"
+  },
+  {
+    "entidad": "mamografía",
+    "relacion": "es un",
+    "valor": "método de detección"
+  },
+  {
+    "entidad": "papanicolaou",
+    "relacion": "es un",
+    "valor": "método de detección"
+  },
+  {
+    "entidad": "Cáncer de mama",
+    "relacion": "tiene",
+    "valor": "alta incidencia y mortalidad en mujeres"
+  },
+  {
+    "entidad": "Cáncer cervicouterino",
+    "relacion": "tiene",
+    "valor": "alta incidencia y mortalidad en mujeres"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "implementa",
+    "valor": "Programa Nacional del Cáncer"
+  },
+  {
+    "entidad": "Programa Nacional del Cáncer",
+    "relacion": "ofrece",
+    "valor": "exámenes gratuitos para población en riesgo"
+  },
+  {
+    "entidad": "abstención",
+    "relacion": "es condicionada por",
+    "valor": "razones personales como baja percepción de riesgo"
+  },
+  {
+    "entidad": "abstención",
+    "relacion": "se presenta en",
+    "valor": "mamografía y papanicolaou"
+  },
+  {
+    "entidad": "educación",
+    "relacion": "influye en",
+    "valor": "la decisión de realizarse exámenes preventivos"
+  },
+  {
+    "entidad": "cáncer de mama",
+    "relacion": "es la",
+    "valor": "principal causa de muerte oncológica en mujeres"
+  },
+  {
+    "entidad": "cáncer cervicouterino",
+    "relacion": "ocupa",
+    "valor": "el lugar 27 entre todas las causas de muerte"
+  },
+  {
+    "entidad": "falta de actitud preventiva",
+    "relacion": "contribuye a",
+    "valor": "alta mortalidad por cáncer"
+  },
+  {
+    "entidad": "desigualdad económica y educativa",
+    "relacion": "incide en",
+    "valor": "mortalidad por cáncer"
+  },
+  {
+    "entidad": "temor y desinformación",
+    "relacion": "inhiben",
+    "valor": "la realización de exámenes preventivos"
+  },
+  {
+    "entidad": "mamografías",
+    "relacion": "son efectivas para",
+    "valor": "la detección temprana de cáncer"
+  },
+  {
+    "entidad": "papanicolaou",
+    "relacion": "es efectivo para",
+    "valor": "la detección del virus de papiloma humano"
+  },
+  {
+    "entidad": "abstención a mamografía",
+    "relacion": "aumenta cuando",
+    "valor": "no se realiza el papanicolaou"
+  },
+  {
+    "entidad": "abstención a papanicolaou",
+    "relacion": "aumenta cuando",
+    "valor": "no se realiza la mamografía"
+  },
+  {
+    "entidad": "factores socioculturales",
+    "relacion": "determinan",
+    "valor": "la condición de riesgo o protección en salud"
+  },
+  {
+    "entidad": "política sanitaria",
+    "relacion": "debería enfocarse en",
+    "valor": "promoción de hábitos de vida saludable"
+  },
+  {
+    "entidad": "Cervicocranial arterial dissection (CIAD)",
+    "relacion": "es",
+    "valor": "una causa importante de accidente cerebrovascular"
+  },
+  {
+    "entidad": "CIAD",
+    "relacion": "se caracteriza por",
+    "valor": "síntomas clínicos e imagenológicos"
+  },
+  {
+    "entidad": "pacientes con CIAD",
+    "relacion": "son tratados con",
+    "valor": "terapia antiplatelet"
+  },
+  {
+    "entidad": "pacientes con CIAD",
+    "relacion": "son tratados con",
+    "valor": "anticoagulación"
+  },
+  {
+    "entidad": "pacientes con CIAD",
+    "relacion": "son tratados con",
+    "valor": "stenting"
+  },
+  {
+    "entidad": "Cervical pain",
+    "relacion": "es el",
+    "valor": "síntoma más común"
+  },
+  {
+    "entidad": "diagnóstico de CIAD",
+    "relacion": "puede ocurrir sin",
+    "valor": "signos clínicos o imagenológicos de ACV"
+  },
+  {
+    "entidad": "disección de arterias cervicales e intracraneales (DACI)",
+    "relacion": "representa",
+    "valor": "25% de los eventos cerebrovasculares en pacientes menores de 45 años"
+  },
+  {
+    "entidad": "manejo clínico",
+    "relacion": "puede diferir según",
+    "valor": "las características del caso"
+  },
+  {
+    "entidad": "tratamientos para DACI",
+    "relacion": "incluyen",
+    "valor": "antiagregación y anticoagulación"
+  },
+  {
+    "entidad": "recurrencia de disección y eventos cerebrovasculares",
+    "relacion": "es",
+    "valor": "baja a mediano y largo plazo"
+  },
+  {
+    "entidad": "escala de Rankin modificada (ERm)",
+    "relacion": "se utiliza para medir",
+    "valor": "el outcome clínico"
+  },
+  {
+    "entidad": "pacientes con DACI",
+    "relacion": "logran un Rankin favorable",
+    "valor": "en un alto porcentaje"
+  },
+  {
+    "entidad": "síndrome de Horner",
+    "relacion": "se presenta en",
+    "valor": "35% de los casos"
+  },
+  {
+    "entidad": "disección de arterias de circulación anterior (DACA)",
+    "relacion": "es un subgrupo de",
+    "valor": "disección de arterias cervicales"
+  },
+  {
+    "entidad": "disección de arterias de circulación posterior (DACP)",
+    "relacion": "es un subgrupo de",
+    "valor": "disección de arterias cervicales"
+  },
+  {
+    "entidad": "terapia endovascular con stent",
+    "relacion": "se realiza en",
+    "valor": "casos seleccionados"
+  },
+  {
+    "entidad": "dolor",
+    "relacion": "es un síntoma frecuente en",
+    "valor": "pacientes con DACI"
+  },
+  {
+    "entidad": "tratamiento farmacológico",
+    "relacion": "incluye",
+    "valor": "doble antiagregación plaquetaria"
+  },
+  {
+    "entidad": "evaluación funcional a 3 meses",
+    "relacion": "mide",
+    "valor": "la funcionalidad del paciente"
+  },
+  {
+    "entidad": "recurrencia precoz de ACV",
+    "relacion": "es",
+    "valor": "5.2% a 3 meses"
+  },
+  {
+    "entidad": "Instituto de Nutrición y Tecnología de los Alimentos (INTA)",
+    "relacion": "pertenece a",
+    "valor": "Universidad de Chile"
+  },
+  {
+    "entidad": "Cursos Abiertos Masivos en Línea (CAMEL)",
+    "relacion": "es un",
+    "valor": "tipo de curso"
+  },
+  {
+    "entidad": "Cursos Abiertos Masivos en Línea (CAMEL)",
+    "relacion": "se utiliza para",
+    "valor": "educación en salud y nutrición"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "es un",
+    "valor": "problema de salud pública"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud (OMS)",
+    "relacion": "declara",
+    "valor": "obesidad como epidemia global"
+  },
+  {
+    "entidad": "dieta inadecuada",
+    "relacion": "es un",
+    "valor": "factor que contribuye a la obesidad"
+  },
+  {
+    "entidad": "sedentarismo",
+    "relacion": "es un",
+    "valor": "factor que contribuye a la obesidad"
+  },
+  {
+    "entidad": "Cursos MOOC",
+    "relacion": "son utilizados para",
+    "valor": "promoción de salud y prevención de obesidad"
+  },
+  {
+    "entidad": "evaluación de cursos MOOC",
+    "relacion": "se realiza mediante",
+    "valor": "encuestas y pruebas"
+  },
+  {
+    "entidad": "satisfacción del estudiante",
+    "relacion": "se mide a través de",
+    "valor": "encuestas finales"
+  },
+  {
+    "entidad": "evaluación final",
+    "relacion": "es aprobada por",
+    "valor": "participantes que completan el curso"
+  },
+  {
+    "entidad": "Cursos MOOC",
+    "relacion": "son una herramienta para",
+    "valor": "educar en forma masiva y flexible"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "es un",
+    "valor": "lugar donde se implementan los cursos MOOC"
+  },
+  {
+    "entidad": "programas de educación continua",
+    "relacion": "son promovidos por",
+    "valor": "Instituto de Nutrición y Tecnología de los Alimentos (INTA)"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "es un",
+    "valor": "problema de salud pública"
+  },
+  {
+    "entidad": "SARS-CoV-2",
+    "relacion": "causa",
+    "valor": "infección respiratoria aguda"
+  },
+  {
+    "entidad": "población adulta",
+    "relacion": "es",
+    "valor": "grupo de estudio"
+  },
+  {
+    "entidad": "Departamento de Enfermedades Respiratorias",
+    "relacion": "pertenece a",
+    "valor": "Pontificia Universidad Católica de Chile"
+  },
+  {
+    "entidad": "Sección de Medicina de Urgencia",
+    "relacion": "pertenece a",
+    "valor": "Pontificia Universidad Católica de Chile"
+  },
+  {
+    "entidad": "Dr. Fernando Saldías Peñafiel",
+    "relacion": "es",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "estudio descriptivo prospectivo",
+    "relacion": "evalúa",
+    "valor": "características clínicas de COVID-19"
+  },
+  {
+    "entidad": "síntomas respiratorios",
+    "relacion": "sugieren",
+    "valor": "infección respiratoria aguda por coronavirus"
+  },
+  {
+    "entidad": "malestar general",
+    "relacion": "es un",
+    "valor": "síntoma asociado a COVID-19"
+  },
+  {
+    "entidad": "anorexia",
+    "relacion": "es un",
+    "valor": "síntoma asociado a COVID-19"
+  },
+  {
+    "entidad": "fiebre",
+    "relacion": "es un",
+    "valor": "síntoma asociado a COVID-19"
+  },
+  {
+    "entidad": "mialgias",
+    "relacion": "es un",
+    "valor": "síntoma asociado a COVID-19"
+  },
+  {
+    "entidad": "cefalea",
+    "relacion": "es un",
+    "valor": "síntoma asociado a COVID-19"
+  },
+  {
+    "entidad": "congestión nasal",
+    "relacion": "es un",
+    "valor": "síntoma asociado a COVID-19"
+  },
+  {
+    "entidad": "anosmia/disgeusia",
+    "relacion": "es un",
+    "valor": "síntoma asociado a COVID-19"
+  },
+  {
+    "entidad": "tos",
+    "relacion": "es un",
+    "valor": "síntoma asociado a COVID-19"
+  },
+  {
+    "entidad": "disnea",
+    "relacion": "es un",
+    "valor": "síntoma asociado a COVID-19"
+  },
+  {
+    "entidad": "diabetes mellitus",
+    "relacion": "es un",
+    "valor": "comorbilidad asociada a COVID-19"
+  },
+  {
+    "entidad": "hipertensión arterial",
+    "relacion": "es un",
+    "valor": "comorbilidad asociada a COVID-19"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "es un",
+    "valor": "comorbilidad asociada a COVID-19"
+  },
+  {
+    "entidad": "modelo de predicción clínica",
+    "relacion": "apoya",
+    "valor": "toma de decisiones clínicas"
+  },
+  {
+    "entidad": "pesquisa oportuna",
+    "relacion": "permite",
+    "valor": "controlar transmisión de COVID-19"
+  },
+  {
+    "entidad": "contacto estrecho con paciente COVID-19",
+    "relacion": "es un",
+    "valor": "factor de riesgo"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "es un",
+    "valor": "predictor clínico de COVID-19"
+  },
+  {
+    "entidad": "sexo masculino",
+    "relacion": "es un",
+    "valor": "predictor clínico de COVID-19"
+  },
+  {
+    "entidad": "consumo de tabaco",
+    "relacion": "es un",
+    "valor": "predictor clínico de COVID-19"
+  },
+  {
+    "entidad": "taquicardia",
+    "relacion": "es un",
+    "valor": "signo vital alterado en COVID-19"
+  },
+  {
+    "entidad": "fiebre",
+    "relacion": "es un",
+    "valor": "signo vital alterado en COVID-19"
+  },
+  {
+    "entidad": "hipoxemia",
+    "relacion": "es un",
+    "valor": "signo vital alterado en COVID-19"
+  },
+  {
+    "entidad": "factores de riesgo cardiometabólico",
+    "relacion": "asocia con",
+    "valor": "deterioro cognitivo"
+  },
+  {
+    "entidad": "cognición",
+    "relacion": "afecta a",
+    "valor": "funcionamiento cognitivo"
+  },
+  {
+    "entidad": "reserva cognitiva",
+    "relacion": "mediador de",
+    "valor": "asociación entre factores de riesgo cardiometabólico y funcionamiento cognitivo"
+  },
+  {
+    "entidad": "diabetes mellitus tipo 2",
+    "relacion": "es un",
+    "valor": "factor de riesgo para demencia"
+  },
+  {
+    "entidad": "hipertensión arterial",
+    "relacion": "relacionada con",
+    "valor": "disminución de la función cognitiva"
+  },
+  {
+    "entidad": "colesterol HDL",
+    "relacion": "contribuye a",
+    "valor": "diferencias en el funcionamiento cognitivo"
+  },
+  {
+    "entidad": "envejecimiento",
+    "relacion": "aumenta el riesgo de",
+    "valor": "desarrollo de enfermedades"
+  },
+  {
+    "entidad": "intervenciones para disminuir la presión arterial",
+    "relacion": "reducen",
+    "valor": "riesgo de demencia"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "potencia",
+    "valor": "reserva cognitiva"
+  },
+  {
+    "entidad": "presión arterial elevada",
+    "relacion": "tiene una relación inversa con",
+    "valor": "reserva cognitiva"
+  },
+  {
+    "entidad": "factores de riesgo cardiometabólico",
+    "relacion": "afectan",
+    "valor": "funcionamiento cognitivo"
+  },
+  {
+    "entidad": "reserva cognitiva",
+    "relacion": "asociada con",
+    "valor": "mejor rendimiento en tareas cognitivas"
+  },
+  {
+    "entidad": "enfermedad de Alzheimer",
+    "relacion": "asociada con",
+    "valor": "colesterol alterado"
+  },
+  {
+    "entidad": "diabetes mellitus",
+    "relacion": "asociada con",
+    "valor": "deterioro en la función ejecutiva"
+  },
+  {
+    "entidad": "factores de riesgo cardiometabólico",
+    "relacion": "tienen un efecto directo en",
+    "valor": "funcionamiento cognitivo"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "afecta a",
+    "valor": "pacientes en Chile"
+  },
+  {
+    "entidad": "Hospital El Carmen",
+    "relacion": "realiza",
+    "valor": "estudio sobre COVID-19"
+  },
+  {
+    "entidad": "factores demográficos",
+    "relacion": "asociados a",
+    "valor": "severidad de COVID-19"
+  },
+  {
+    "entidad": "comorbilidades",
+    "relacion": "asociadas a",
+    "valor": "severidad de COVID-19"
+  },
+  {
+    "entidad": "nivel socioeconómico",
+    "relacion": "influye en",
+    "valor": "severidad de COVID-19"
+  },
+  {
+    "entidad": "edad avanzada",
+    "relacion": "aumenta",
+    "valor": "riesgo de severidad en COVID-19"
+  },
+  {
+    "entidad": "sexo masculino",
+    "relacion": "asociado a",
+    "valor": "mayor severidad en COVID-19"
+  },
+  {
+    "entidad": "enfermedad renal crónica",
+    "relacion": "es un",
+    "valor": "factor de riesgo para severidad de COVID-19"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "es un",
+    "valor": "factor de riesgo para severidad de COVID-19"
+  },
+  {
+    "entidad": "diabetes",
+    "relacion": "es un",
+    "valor": "factor de riesgo para severidad de COVID-19"
+  },
+  {
+    "entidad": "hipertensión",
+    "relacion": "no se asocia con",
+    "valor": "severidad de COVID-19"
+  },
+  {
+    "entidad": "enfermedad pulmonar crónica",
+    "relacion": "no se asocia con",
+    "valor": "severidad de COVID-19"
+  },
+  {
+    "entidad": "enfermedad cardiovascular",
+    "relacion": "no se asocia con",
+    "valor": "severidad de COVID-19"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "no se asocia con",
+    "valor": "severidad de COVID-19"
+  },
+  {
+    "entidad": "Hospital de Palena",
+    "relacion": "es un",
+    "valor": "hospital en Chile"
+  },
+  {
+    "entidad": "Universidad de Chile",
+    "relacion": "es un",
+    "valor": "institución académica"
+  },
+  {
+    "entidad": "comité de ética",
+    "relacion": "aprueba",
+    "valor": "estudio de investigación"
+  },
+  {
+    "entidad": "pacientes COVID-19",
+    "relacion": "son tratados en",
+    "valor": "Hospital El Carmen"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "es alta en",
+    "valor": "pacientes con comorbilidades"
+  },
+  {
+    "entidad": "estrategias de mitigación",
+    "relacion": "son necesarias para",
+    "valor": "controlar COVID-19"
+  },
+  {
+    "entidad": "vacunas",
+    "relacion": "deben ser distribuidas a",
+    "valor": "población de bajo nivel socioeconómico"
+  }
+]

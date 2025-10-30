@@ -1,0 +1,767 @@
+[
+  {
+    "entidad": "Anemia hemolítica autoinmune",
+    "relacion": "es un",
+    "valor": "enfermedad"
+  },
+  {
+    "entidad": "Hospital del Salvador",
+    "relacion": "pertenece a",
+    "valor": "Unidad de Hematología Clínica"
+  },
+  {
+    "entidad": "Universidad de Chile",
+    "relacion": "pertenece a",
+    "valor": "Departamento de Medicina Oriente"
+  },
+  {
+    "entidad": "Anemia hemolítica autoinmune",
+    "relacion": "es causada por",
+    "valor": "anticuerpos dirigidos contra antígenos de glóbulos rojos"
+  },
+  {
+    "entidad": "Anemia hemolítica autoinmune",
+    "relacion": "se clasifica en",
+    "valor": "primaria y secundaria"
+  },
+  {
+    "entidad": "síndromes linfoproliferativos",
+    "relacion": "son causas de",
+    "valor": "anemia hemolítica autoinmune"
+  },
+  {
+    "entidad": "mesenquimopatías",
+    "relacion": "son causas de",
+    "valor": "anemia hemolítica autoinmune"
+  },
+  {
+    "entidad": "Anemia hemolítica autoinmune",
+    "relacion": "puede ser",
+    "valor": "grave y potencialmente letal"
+  },
+  {
+    "entidad": "Hospital del Salvador",
+    "relacion": "realiza",
+    "valor": "análisis retrospectivo de pacientes"
+  },
+  {
+    "entidad": "corticoides",
+    "relacion": "son tratamiento de",
+    "valor": "primera línea para anemia hemolítica autoinmune"
+  },
+  {
+    "entidad": "rituximab",
+    "relacion": "es tratamiento de",
+    "valor": "segunda línea para anemia hemolítica autoinmune"
+  },
+  {
+    "entidad": "Anemia hemolítica autoinmune",
+    "relacion": "afecta a",
+    "valor": "adultos"
+  },
+  {
+    "entidad": "Dra. Camila Peña",
+    "relacion": "es",
+    "valor": "autora del estudio"
+  },
+  {
+    "entidad": "sobrevida global",
+    "relacion": "es",
+    "valor": "72% a 5 años"
+  },
+  {
+    "entidad": "síndrome de Evans",
+    "relacion": "es una condición asociada a",
+    "valor": "anemia hemolítica autoinmune"
+  },
+  {
+    "entidad": "test de Coombs directo",
+    "relacion": "es utilizado para",
+    "valor": "diagnosticar anemia hemolítica autoinmune"
+  },
+  {
+    "entidad": "anemia hemolítica autoinmune",
+    "relacion": "se presenta con",
+    "valor": "hemólisis"
+  },
+  {
+    "entidad": "anemia hemolítica autoinmune",
+    "relacion": "puede ser",
+    "valor": "mediada por Ig calientes o fríos"
+  },
+  {
+    "entidad": "Anemia hemolítica autoinmune",
+    "relacion": "es estudiada en",
+    "valor": "el Hospital del Salvador"
+  },
+  {
+    "entidad": "Cáncer colorrectal",
+    "relacion": "es",
+    "valor": "la tercera neoplasia más frecuente en el mundo"
+  },
+  {
+    "entidad": "Cáncer colorrectal",
+    "relacion": "es",
+    "valor": "la segunda causa de muerte por cáncer"
+  },
+  {
+    "entidad": "PET/CT",
+    "relacion": "se utiliza para",
+    "valor": "etapificación y seguimiento del cáncer colorrectal"
+  },
+  {
+    "entidad": "Tumores sincrónicos",
+    "relacion": "se detectan con",
+    "valor": "PET/CT contrastada"
+  },
+  {
+    "entidad": "Cáncer colorrectal",
+    "relacion": "presenta",
+    "valor": "metástasis hematógenas en 20-25% de los pacientes al diagnóstico"
+  },
+  {
+    "entidad": "Tumores malignos sincrónicos",
+    "relacion": "pueden modificar",
+    "valor": "la conducta quirúrgica"
+  },
+  {
+    "entidad": "PET/CT",
+    "relacion": "tiene mayor sensibilidad que",
+    "valor": "la etapificación tradicional"
+  },
+  {
+    "entidad": "Cáncer sincrónico colorrectal",
+    "relacion": "se define como",
+    "valor": "adenocarcinoma separado del CCR original"
+  },
+  {
+    "entidad": "Tumores extracolónicos sincrónicos",
+    "relacion": "se detectan en",
+    "valor": "pacientes con cáncer colorrectal"
+  },
+  {
+    "entidad": "PET/CT",
+    "relacion": "permite detectar",
+    "valor": "lesiones proximales en casos de colonoscopía incompleta"
+  },
+  {
+    "entidad": "TC contrastada",
+    "relacion": "detecta",
+    "valor": "neoplasias no visibles con PET"
+  },
+  {
+    "entidad": "Cáncer sincrónico extracolónico",
+    "relacion": "se ha reportado en",
+    "valor": "5.7% de los pacientes con cáncer colorrectal"
+  },
+  {
+    "entidad": "Incidencia de tumores sincrónicos colorrectales",
+    "relacion": "varía entre",
+    "valor": "1.3% y 7.3% según literatura"
+  },
+  {
+    "entidad": "PET/CTc",
+    "relacion": "es capaz de detectar",
+    "valor": "un segundo cáncer primario sincrónico"
+  },
+  {
+    "entidad": "Cáncer sincrónico",
+    "relacion": "requiere",
+    "valor": "confirmación histológica"
+  },
+  {
+    "entidad": "Cáncer colorrectal",
+    "relacion": "se asocia a",
+    "valor": "menor sobrevida en presencia de metástasis"
+  },
+  {
+    "entidad": "Incidentalomas del PET/CTc",
+    "relacion": "se clasifican en",
+    "valor": "verdaderos positivos, falsos positivos y no confirmados"
+  },
+  {
+    "entidad": "tumores secretores de hormona de crecimiento",
+    "relacion": "se clasifican en",
+    "valor": "densamente granulares y escasamente granulares"
+  },
+  {
+    "entidad": "tumores escasamente granulares",
+    "relacion": "tienen",
+    "valor": "comportamiento más agresivo"
+  },
+  {
+    "entidad": "tumores densamente granulares",
+    "relacion": "tienen",
+    "valor": "mejor pronóstico"
+  },
+  {
+    "entidad": "patrón granular",
+    "relacion": "predice",
+    "valor": "comportamiento clínico en pacientes acromegálicos"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "es un factor pronóstico",
+    "valor": "independiente en el tratamiento quirúrgico"
+  },
+  {
+    "entidad": "invasión de seno cavernoso",
+    "relacion": "es un factor pronóstico",
+    "valor": "independiente en el tratamiento quirúrgico"
+  },
+  {
+    "entidad": "acromegalia",
+    "relacion": "es causada por",
+    "valor": "tumores somatotropos"
+  },
+  {
+    "entidad": "tumores escasamente granulares",
+    "relacion": "se asocian con",
+    "valor": "menor tasa de curación postquirúrgica"
+  },
+  {
+    "entidad": "tumores densamente granulares",
+    "relacion": "se asocian con",
+    "valor": "mayor tasa de curación postquirúrgica"
+  },
+  {
+    "entidad": "patrón granular",
+    "relacion": "influye en",
+    "valor": "respuesta bioquímica al tratamiento médico"
+  },
+  {
+    "entidad": "técnica de inmunohistoquímica",
+    "relacion": "se utiliza para",
+    "valor": "clasificar tumores según patrón granular"
+  },
+  {
+    "entidad": "hospitales chilenos",
+    "relacion": "realizan",
+    "valor": "cirugías para tumores somatotropos"
+  },
+  {
+    "entidad": "Dra. Carmen A. Carrasco",
+    "relacion": "es",
+    "valor": "autora del estudio"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "es",
+    "valor": "institución involucrada en el estudio"
+  },
+  {
+    "entidad": "Instituto de Neurocirugía Asenjo",
+    "relacion": "es",
+    "valor": "institución involucrada en el estudio"
+  },
+  {
+    "entidad": "Hospital del Salvador",
+    "relacion": "es",
+    "valor": "institución involucrada en el estudio"
+  },
+  {
+    "entidad": "Clínica Alemana de Santiago",
+    "relacion": "es",
+    "valor": "institución involucrada en el estudio"
+  },
+  {
+    "entidad": "esteatosis hepática no alcohólica",
+    "relacion": "es",
+    "valor": "acumulación intracelular de triglicéridos"
+  },
+  {
+    "entidad": "esteatosis hepática no alcohólica",
+    "relacion": "tiene prevalencia",
+    "valor": "15 a 30% en adultos"
+  },
+  {
+    "entidad": "esteatosis hepática no alcohólica",
+    "relacion": "tiene prevalencia",
+    "valor": "3 a 10% en niños"
+  },
+  {
+    "entidad": "esteatosis hepática no alcohólica",
+    "relacion": "es mayor en",
+    "valor": "población hispánica que en caucásicos"
+  },
+  {
+    "entidad": "esteatosis hepática no alcohólica",
+    "relacion": "está relacionada con",
+    "valor": "síndrome metabólico"
+  },
+  {
+    "entidad": "esteatosis hepática no alcohólica",
+    "relacion": "está relacionada con",
+    "valor": "obesidad"
+  },
+  {
+    "entidad": "esteatosis hepática no alcohólica",
+    "relacion": "está relacionada con",
+    "valor": "diabetes mellitus"
+  },
+  {
+    "entidad": "esteatosis hepática no alcohólica",
+    "relacion": "es un factor de riesgo",
+    "valor": "cardiovascular independiente"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "tiene alta prevalencia de",
+    "valor": "esteatosis hepática no alcohólica"
+  },
+  {
+    "entidad": "esteatosis hepática no alcohólica",
+    "relacion": "es responsable de",
+    "valor": "20% de los casos de cirrosis"
+  },
+  {
+    "entidad": "esteatosis hepática no alcohólica",
+    "relacion": "puede progresar a",
+    "valor": "esteatohepatitis"
+  },
+  {
+    "entidad": "esteatohepatitis",
+    "relacion": "puede evolucionar a",
+    "valor": "cirrosis"
+  },
+  {
+    "entidad": "cirrosis",
+    "relacion": "puede evolucionar a",
+    "valor": "hepatocarcinoma"
+  },
+  {
+    "entidad": "ecografía",
+    "relacion": "es",
+    "valor": "modalidad imagenológica de rutina para evaluar hígado graso"
+  },
+  {
+    "entidad": "ecografía",
+    "relacion": "tiene baja sensibilidad",
+    "valor": "20 a 30% en estadíos tempranos"
+  },
+  {
+    "entidad": "tomografía computada",
+    "relacion": "puede diagnosticar",
+    "valor": "esteatosis hepática no alcohólica"
+  },
+  {
+    "entidad": "resonancia magnética",
+    "relacion": "puede diagnosticar",
+    "valor": "esteatosis hepática no alcohólica"
+  },
+  {
+    "entidad": "proton density fat fraction (PDFF)",
+    "relacion": "permite cuantificar",
+    "valor": "grasa hepática en todo el hígado"
+  },
+  {
+    "entidad": "método Region Growing",
+    "relacion": "es un",
+    "valor": "método para calcular PDFF"
+  },
+  {
+    "entidad": "método Graph Cuts",
+    "relacion": "es un",
+    "valor": "método para calcular PDFF"
+  },
+  {
+    "entidad": "método Hierarchical",
+    "relacion": "es un",
+    "valor": "método para calcular PDFF"
+  },
+  {
+    "entidad": "método Hierarchical",
+    "relacion": "es más preciso y eficiente que",
+    "valor": "otros métodos para obtener PDFF"
+  },
+  {
+    "entidad": "comité de ética",
+    "relacion": "aprueba",
+    "valor": "proyecto de investigación"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "es",
+    "valor": "institución donde se realizó el estudio"
+  },
+  {
+    "entidad": "resonador Philips Achieva 1,5T",
+    "relacion": "se utilizó para",
+    "valor": "realizar pruebas en pacientes"
+  },
+  {
+    "entidad": "protocolo de resonancia magnética",
+    "relacion": "se utilizó para",
+    "valor": "evaluar el comportamiento de métodos de cuantificación"
+  },
+  {
+    "entidad": "método PDFF",
+    "relacion": "es más preciso que",
+    "valor": "ecografía para diagnóstico de hígado graso"
+  },
+  {
+    "entidad": "caídas",
+    "relacion": "son",
+    "valor": "una de las principales causas de morbilidad y mortalidad entre adultos mayores"
+  },
+  {
+    "entidad": "adultos mayores",
+    "relacion": "presentan",
+    "valor": "disminución de la capacidad funcional"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud 2009-2010",
+    "relacion": "analiza",
+    "valor": "factores asociados a caídas en adultos mayores chilenos"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen mayor frecuencia de",
+    "valor": "caídas"
+  },
+  {
+    "entidad": "personas mayores de 75 años",
+    "relacion": "tienen mayor riesgo de",
+    "valor": "caídas"
+  },
+  {
+    "entidad": "discapacidad",
+    "relacion": "es un",
+    "valor": "factor de riesgo para caídas"
+  },
+  {
+    "entidad": "problemas auditivos",
+    "relacion": "aumentan el riesgo de",
+    "valor": "caídas"
+  },
+  {
+    "entidad": "problemas visuales",
+    "relacion": "aumentan el riesgo de",
+    "valor": "caídas"
+  },
+  {
+    "entidad": "bienestar auto-reportado",
+    "relacion": "afecta",
+    "valor": "la probabilidad de caídas"
+  },
+  {
+    "entidad": "multimorbilidad",
+    "relacion": "presenta asociación negativa con",
+    "valor": "caídas"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "influye en",
+    "valor": "la calidad de vida de adultos mayores"
+  },
+  {
+    "entidad": "deterioro cognitivo",
+    "relacion": "no se asocia con",
+    "valor": "caídas en adultos mayores"
+  },
+  {
+    "entidad": "Instituto de Anatomía, Histología y Patología",
+    "relacion": "es parte de",
+    "valor": "la Universidad Austral de Chile"
+  },
+  {
+    "entidad": "Escuela de Kinesiología",
+    "relacion": "pertenece a",
+    "valor": "la Universidad Santo Tomás"
+  },
+  {
+    "entidad": "Universidad de Glasgow",
+    "relacion": "colabora con",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud",
+    "relacion": "proporciona",
+    "valor": "datos sobre caídas en adultos mayores"
+  },
+  {
+    "entidad": "población mayor de 60 años en Chile",
+    "relacion": "se proyecta que aumentará a",
+    "valor": "20% de la población nacional para 2025"
+  },
+  {
+    "entidad": "Fragilidad",
+    "relacion": "afecta a",
+    "valor": "calidad de vida de personas mayores"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "es medida por",
+    "valor": "WHOQoL-BREF"
+  },
+  {
+    "entidad": "Fragilidad",
+    "relacion": "es evaluada por",
+    "valor": "Tilburg Frailty Indicator (TFI)"
+  },
+  {
+    "entidad": "personas mayores",
+    "relacion": "viven en",
+    "valor": "la comunidad"
+  },
+  {
+    "entidad": "personas mayores frágiles",
+    "relacion": "utilizan",
+    "valor": "servicios de salud más frecuentemente"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "es influenciada por",
+    "valor": "fragilidad"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "incluye",
+    "valor": "aspectos físicos, psicológicos, sociales y ambientales"
+  },
+  {
+    "entidad": "Instituto Nacional de Estadísticas (INE)",
+    "relacion": "reporta",
+    "valor": "envejecimiento acelerado en Chile"
+  },
+  {
+    "entidad": "Vicerrectoría de Investigación y Doctorado, Universidad Andrés Bello",
+    "relacion": "financia",
+    "valor": "actividades de investigación"
+  },
+  {
+    "entidad": "Comisión Nacional de Investigación Científica y Tecnológica (CONICYT)",
+    "relacion": "financia",
+    "valor": "Fondo Nacional de Desarrollo Científico y Tecnológico (FODECYT)"
+  },
+  {
+    "entidad": "Escala de Barthel",
+    "relacion": "mide",
+    "valor": "capacidad funcional en actividades de la vida diaria"
+  },
+  {
+    "entidad": "MMSE de Folstein",
+    "relacion": "evalúa",
+    "valor": "estado cognitivo"
+  },
+  {
+    "entidad": "Escala de Yesavage",
+    "relacion": "mide",
+    "valor": "síntomas depresivos"
+  },
+  {
+    "entidad": "Escala de Soledad de Hughes",
+    "relacion": "mide",
+    "valor": "aislamiento social"
+  },
+  {
+    "entidad": "escala multidimensional de percepción de apoyo social (MSPSS)",
+    "relacion": "mide",
+    "valor": "apoyo social percibido"
+  },
+  {
+    "entidad": "fragilidad social",
+    "relacion": "se relaciona con",
+    "valor": "reducción en la calidad de atención"
+  },
+  {
+    "entidad": "personas mayores frágiles",
+    "relacion": "reportan",
+    "valor": "peor calidad de vida"
+  },
+  {
+    "entidad": "intervenciones preventivas",
+    "relacion": "deben incluir",
+    "valor": "aspectos físicos, psicológicos y sociales"
+  },
+  {
+    "entidad": "Características del huésped",
+    "relacion": "predicen",
+    "valor": "desenlace en pacientes adultos hospitalizados por infección respiratoria aguda grave"
+  },
+  {
+    "entidad": "Influenza",
+    "relacion": "es un tipo de",
+    "valor": "patógeno viral"
+  },
+  {
+    "entidad": "Infecciones respiratorias agudas graves (IRAG)",
+    "relacion": "son causadas por",
+    "valor": "diferentes patógenos virales"
+  },
+  {
+    "entidad": "Estudio prospectivo",
+    "relacion": "realizado en",
+    "valor": "un centro centinela"
+  },
+  {
+    "entidad": "Hospital Militar de Santiago",
+    "relacion": "es un",
+    "valor": "centro centinela para IRAG"
+  },
+  {
+    "entidad": "Pacientes hospitalizados",
+    "relacion": "incluyen",
+    "valor": "132 casos de IRAG"
+  },
+  {
+    "entidad": "Coinfección viral",
+    "relacion": "fue identificada en",
+    "valor": "12% de los casos"
+  },
+  {
+    "entidad": "Infección por influenza",
+    "relacion": "fue identificada en",
+    "valor": "56% de los casos"
+  },
+  {
+    "entidad": "Pacientes mayores de 65 años",
+    "relacion": "constituyen",
+    "valor": "80% de la muestra"
+  },
+  {
+    "entidad": "Estado de postración",
+    "relacion": "se asocia con",
+    "valor": "mortalidad al egreso"
+  },
+  {
+    "entidad": "Análisis multivariado",
+    "relacion": "muestra que",
+    "valor": "solo el estado de postración se asocia significativamente con mortalidad"
+  },
+  {
+    "entidad": "Patógenos virales",
+    "relacion": "no son relevantes para",
+    "valor": "predecir desenlace en pacientes con IRAG"
+  },
+  {
+    "entidad": "Vacuna contra la influenza estacional",
+    "relacion": "reduce",
+    "valor": "hospitalizaciones y mortalidad en grupos vulnerables"
+  },
+  {
+    "entidad": "Infecciones respiratorias",
+    "relacion": "ocurren durante",
+    "valor": "todo el año"
+  },
+  {
+    "entidad": "Pacientes con IRAG",
+    "relacion": "requieren",
+    "valor": "asistencia ventilatoria en un 20%"
+  },
+  {
+    "entidad": "Mortalidad hospitalaria",
+    "relacion": "fue del",
+    "valor": "15.9%"
+  },
+  {
+    "entidad": "Estudio",
+    "relacion": "fue aprobado por",
+    "valor": "el Comité de Ética del Hospital Militar"
+  },
+  {
+    "entidad": "Hospital Militar",
+    "relacion": "se encuentra en",
+    "valor": "Santiago, Chile"
+  },
+  {
+    "entidad": "cáncer de vesícula biliar",
+    "relacion": "representa",
+    "valor": "un problema de salud pública en Chile"
+  },
+  {
+    "entidad": "garantía GES",
+    "relacion": "incluye",
+    "valor": "colecistectomía preventiva"
+  },
+  {
+    "entidad": "colecistectomía preventiva",
+    "relacion": "es",
+    "valor": "una medida efectiva para la prevención del cáncer de vesícula"
+  },
+  {
+    "entidad": "Ministerio de Salud",
+    "relacion": "proporciona",
+    "valor": "bases de datos de mortalidad y egresos hospitalarios"
+  },
+  {
+    "entidad": "cálculos biliares",
+    "relacion": "son",
+    "valor": "el principal factor de riesgo para el cáncer de vesícula"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "afectan",
+    "valor": "mayormente por cáncer de vesícula biliar"
+  },
+  {
+    "entidad": "cáncer de vesícula biliar",
+    "relacion": "es la",
+    "valor": "segunda causa de muerte por cáncer en mujeres"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "es un",
+    "valor": "factor de riesgo para el cáncer de vesícula biliar"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "es un",
+    "valor": "factor de riesgo para el cáncer de vesícula biliar"
+  },
+  {
+    "entidad": "etnia mapuche",
+    "relacion": "es un",
+    "valor": "factor de riesgo para el cáncer de vesícula biliar"
+  },
+  {
+    "entidad": "cáncer de vesícula biliar",
+    "relacion": "tiene",
+    "valor": "alta incidencia en Chile"
+  },
+  {
+    "entidad": "tasa de mortalidad",
+    "relacion": "es más alta",
+    "valor": "en Chile comparado con otros países"
+  },
+  {
+    "entidad": "cáncer de vesícula biliar",
+    "relacion": "afecta",
+    "valor": "más a mujeres que a hombres"
+  },
+  {
+    "entidad": "garantía GES",
+    "relacion": "impacta",
+    "valor": "en la tendencia de egresos hospitalarios"
+  },
+  {
+    "entidad": "grupo de edad 35-49 años",
+    "relacion": "se beneficia",
+    "valor": "de la garantía GES"
+  },
+  {
+    "entidad": "egresos hospitalarios",
+    "relacion": "aumentan",
+    "valor": "después de la implementación del GES"
+  },
+  {
+    "entidad": "mortalidad por cáncer de vesícula",
+    "relacion": "disminuye",
+    "valor": "en el grupo de 35-49 años después del GES"
+  },
+  {
+    "entidad": "cáncer de vesícula biliar",
+    "relacion": "requiere",
+    "valor": "un tiempo mínimo para observar el impacto de la política GES"
+  },
+  {
+    "entidad": "garantía GES",
+    "relacion": "debería extenderse",
+    "valor": "a personas mayores de 50 años"
+  },
+  {
+    "entidad": "ecotomografía de abdomen",
+    "relacion": "debería ser incorporada",
+    "valor": "en el Examen de Medicina Preventiva del Adulto (EMPA)"
+  }
+]

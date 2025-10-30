@@ -1,0 +1,352 @@
+[
+  {
+    "entidad": "Diabetes Mellitus tipo 2 con tendencia a la cetosis",
+    "relacion": "es un",
+    "valor": "subtipo de diabetes"
+  },
+  {
+    "entidad": "Diabetes Mellitus tipo 2 con tendencia a la cetosis",
+    "relacion": "se caracteriza por",
+    "valor": "debut con hiperglucemia severa y cetoacidosis"
+  },
+  {
+    "entidad": "Diabetes Mellitus tipo 2 con tendencia a la cetosis",
+    "relacion": "aparece en",
+    "valor": "individuos con fenotipo de diabetes tipo 2"
+  },
+  {
+    "entidad": "disfunción aguda de la célula beta",
+    "relacion": "causa",
+    "valor": "cetoacidosis en diabetes tipo 2 con tendencia a la cetosis"
+  },
+  {
+    "entidad": "pacientes con diabetes tipo 2 con tendencia a la cetosis",
+    "relacion": "no requieren",
+    "valor": "tratamiento con insulina una vez que la etapa aguda ha pasado"
+  },
+  {
+    "entidad": "pacientes con diabetes tipo 2 con tendencia a la cetosis",
+    "relacion": "deben seguir",
+    "valor": "una dieta y medicamentos hipoglucemiantes orales"
+  },
+  {
+    "entidad": "insulina",
+    "relacion": "se utiliza en",
+    "valor": "tratamiento de cetoacidosis diabética"
+  },
+  {
+    "entidad": "metformina",
+    "relacion": "se utiliza en",
+    "valor": "manejo de diabetes tipo 2 con tendencia a la cetosis"
+  },
+  {
+    "entidad": "Diabetes Mellitus tipo 2 con tendencia a la cetosis",
+    "relacion": "es reconocida en",
+    "valor": "todas las poblaciones"
+  },
+  {
+    "entidad": "Diabetes Mellitus tipo 2 con tendencia a la cetosis",
+    "relacion": "se presenta con mayor frecuencia en",
+    "valor": "hombres"
+  },
+  {
+    "entidad": "Diabetes Mellitus tipo 2 con tendencia a la cetosis",
+    "relacion": "se asocia con",
+    "valor": "obesidad y antecedentes familiares de diabetes tipo 2"
+  },
+  {
+    "entidad": "glucotoxicidad",
+    "relacion": "produce",
+    "valor": "resistencia a la insulina"
+  },
+  {
+    "entidad": "lipotoxicidad",
+    "relacion": "participa en",
+    "valor": "falla beta celular y resistencia a la insulina"
+  },
+  {
+    "entidad": "enzima glucosa 6-fosfato deshidrogenasa",
+    "relacion": "se encuentra en",
+    "valor": "alta prevalencia en pacientes con diabetes tipo 2 con tendencia a la cetosis"
+  },
+  {
+    "entidad": "Diabetes Mellitus tipo 2 con tendencia a la cetosis",
+    "relacion": "requiere",
+    "valor": "monitoreo periódico para prevenir descompensaciones metabólicas"
+  },
+  {
+    "entidad": "Multiorgan disorder syndrome (MODS)",
+    "relacion": "sugiere",
+    "valor": "mitochondrial disorder"
+  },
+  {
+    "entidad": "octagenarian",
+    "relacion": "es un",
+    "valor": "paciente"
+  },
+  {
+    "entidad": "Caucasian male",
+    "relacion": "tiene",
+    "valor": "85 años"
+  },
+  {
+    "entidad": "tonic-clonic seizures",
+    "relacion": "presenta",
+    "valor": "convulsiones"
+  },
+  {
+    "entidad": "neurodermitis",
+    "relacion": "es un",
+    "valor": "hallazgo"
+  },
+  {
+    "entidad": "atopic dermatitis",
+    "relacion": "es un",
+    "valor": "hallazgo"
+  },
+  {
+    "entidad": "diabetes",
+    "relacion": "es un",
+    "valor": "hallazgo"
+  },
+  {
+    "entidad": "hypertension",
+    "relacion": "es un",
+    "valor": "hallazgo"
+  },
+  {
+    "entidad": "renal insufficiency",
+    "relacion": "es un",
+    "valor": "hallazgo"
+  },
+  {
+    "entidad": "non-specific colitis",
+    "relacion": "es un",
+    "valor": "hallazgo"
+  },
+  {
+    "entidad": "urine bladder lithiasis",
+    "relacion": "es un",
+    "valor": "hallazgo"
+  },
+  {
+    "entidad": "bilateral cataracts",
+    "relacion": "es un",
+    "valor": "hallazgo"
+  },
+  {
+    "entidad": "atrial fibrillation",
+    "relacion": "es un",
+    "valor": "hallazgo"
+  },
+  {
+    "entidad": "diverticulosis",
+    "relacion": "es un",
+    "valor": "hallazgo"
+  },
+  {
+    "entidad": "polyneuropathy",
+    "relacion": "es un",
+    "valor": "hallazgo"
+  },
+  {
+    "entidad": "vitamin-D-deficiency",
+    "relacion": "es un",
+    "valor": "hallazgo"
+  },
+  {
+    "entidad": "renal cysts",
+    "relacion": "es un",
+    "valor": "hallazgo"
+  },
+  {
+    "entidad": "left anterior hemi-block",
+    "relacion": "es un",
+    "valor": "hallazgo"
+  },
+  {
+    "entidad": "right bundle branch block",
+    "relacion": "es un",
+    "valor": "hallazgo"
+  },
+  {
+    "entidad": "pulmonary artery hypertension",
+    "relacion": "es un",
+    "valor": "hallazgo"
+  },
+  {
+    "entidad": "heart failure",
+    "relacion": "es un",
+    "valor": "hallazgo"
+  },
+  {
+    "entidad": "ptosis",
+    "relacion": "es un",
+    "valor": "hallazgo neurológico"
+  },
+  {
+    "entidad": "quadriparesis",
+    "relacion": "es un",
+    "valor": "hallazgo neurológico"
+  },
+  {
+    "entidad": "fasciculations",
+    "relacion": "es un",
+    "valor": "hallazgo neurológico"
+  },
+  {
+    "entidad": "dysarthria",
+    "relacion": "es un",
+    "valor": "hallazgo neurológico"
+  },
+  {
+    "entidad": "dysdiadochokinesia",
+    "relacion": "es un",
+    "valor": "hallazgo neurológico"
+  },
+  {
+    "entidad": "tremor",
+    "relacion": "es un",
+    "valor": "hallazgo neurológico"
+  },
+  {
+    "entidad": "hyperkinesia",
+    "relacion": "es un",
+    "valor": "hallazgo neurológico"
+  },
+  {
+    "entidad": "ataxia",
+    "relacion": "es un",
+    "valor": "hallazgo neurológico"
+  },
+  {
+    "entidad": "leukoencephalopathy",
+    "relacion": "es un",
+    "valor": "hallazgo neurológico"
+  },
+  {
+    "entidad": "basal ganglia calcification",
+    "relacion": "es un",
+    "valor": "hallazgo neurológico"
+  },
+  {
+    "entidad": "non-syndromic mitochondrial multi-organ disorder syndrome (MIMODS)",
+    "relacion": "fue diagnosticado como",
+    "valor": "diagnóstico"
+  },
+  {
+    "entidad": "Josef Finsterer",
+    "relacion": "es el",
+    "valor": "autor correspondiente"
+  },
+  {
+    "entidad": "Krankenanstalt Rudolfstiftung",
+    "relacion": "es un",
+    "valor": "hospital"
+  },
+  {
+    "entidad": "Radiological Department",
+    "relacion": "pertenece a",
+    "valor": "Krankenanstalt Rudolfstiftung"
+  },
+  {
+    "entidad": "Vienna",
+    "relacion": "es un",
+    "valor": "lugar"
+  },
+  {
+    "entidad": "Austria",
+    "relacion": "es un",
+    "valor": "país"
+  },
+  {
+    "entidad": "Vasculitis de grandes vasos",
+    "relacion": "afecta a",
+    "valor": "paciente con vasculitis ANCA (+)"
+  },
+  {
+    "entidad": "Vasculitis ANCA (+)",
+    "relacion": "se asocia a",
+    "valor": "glomerulonefritis"
+  },
+  {
+    "entidad": "Aortitis",
+    "relacion": "se presenta en",
+    "valor": "paciente con vasculitis ANCA (+)"
+  },
+  {
+    "entidad": "Ciclofosfamida",
+    "relacion": "se utiliza para",
+    "valor": "tratar vasculitis"
+  },
+  {
+    "entidad": "Adrenal esteroides",
+    "relacion": "se utiliza para",
+    "valor": "tratar vasculitis"
+  },
+  {
+    "entidad": "Hemodiálisis",
+    "relacion": "se inicia tras",
+    "valor": "pérdida de función renal"
+  },
+  {
+    "entidad": "Takayasu arteritis",
+    "relacion": "es un tipo de",
+    "valor": "vasculitis de grandes vasos"
+  },
+  {
+    "entidad": "Mujer de 30 años",
+    "relacion": "presenta",
+    "valor": "vasculitis ANCA (+)"
+  },
+  {
+    "entidad": "Compromiso renal",
+    "relacion": "es un síntoma de",
+    "valor": "vasculitis ANCA (+)"
+  },
+  {
+    "entidad": "Estenosis de la aorta abdominal",
+    "relacion": "es un hallazgo en",
+    "valor": "paciente con aortitis"
+  },
+  {
+    "entidad": "Ciclofosfamida",
+    "relacion": "se prescribe junto a",
+    "valor": "deflazacort"
+  },
+  {
+    "entidad": "Deflazacort",
+    "relacion": "se utiliza para",
+    "valor": "evitar efectos cosméticos de corticoides"
+  },
+  {
+    "entidad": "Bypass aorto-ilíaco",
+    "relacion": "se realiza con miras a",
+    "valor": "trasplante renal"
+  },
+  {
+    "entidad": "Vasculitis de vasos pequeños",
+    "relacion": "puede asociarse a",
+    "valor": "vasculitis de grandes vasos"
+  },
+  {
+    "entidad": "Complicaciones de terapia inmunosupresora",
+    "relacion": "ocurren en",
+    "valor": "paciente con vasculitis ANCA (+)"
+  },
+  {
+    "entidad": "Infección respiratoria",
+    "relacion": "puede causar",
+    "valor": "reactivación de vasculitis"
+  },
+  {
+    "entidad": "Anticuerpos anti-neutrófilos citoplasmáticos (ANCA)",
+    "relacion": "no se asocian a",
+    "valor": "vasculitis de grandes vasos"
+  },
+  {
+    "entidad": "Arteritis de células gigantes",
+    "relacion": "es un diagnóstico diferencial de",
+    "valor": "vasculitis de grandes vasos"
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "entidad": "Endocarditis infecciosa",
+    "relacion": "es",
+    "valor": "infección de una válvula cardíaca nativa o protésica"
+  },
+  {
+    "entidad": "Erysipelothrix rhusiopathiae",
+    "relacion": "causa",
+    "valor": "endocarditis infecciosa"
+  },
+  {
+    "entidad": "Erysipelothrix rhusiopathiae",
+    "relacion": "es un",
+    "valor": "bacilo Gram positivo"
+  },
+  {
+    "entidad": "Erysipelothrix rhusiopathiae",
+    "relacion": "causa",
+    "valor": "enfermedades cutáneas en animales"
+  },
+  {
+    "entidad": "endocarditis infecciosa",
+    "relacion": "se presenta en",
+    "valor": "pacientes con exposición a animales"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "desarrolló",
+    "valor": "endocarditis infecciosa con compromiso bivalvular"
+  },
+  {
+    "entidad": "endocarditis infecciosa",
+    "relacion": "requiere",
+    "valor": "antimicrobianos y cirugía"
+  },
+  {
+    "entidad": "Erysipelothrix rhusiopathiae",
+    "relacion": "fue aislado de",
+    "valor": "cultivos de sangre y vegetaciones valvulares"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "evolucionó",
+    "valor": "de manera exitosa"
+  },
+  {
+    "entidad": "endocarditis infecciosa",
+    "relacion": "tiene",
+    "valor": "una mortalidad de 18%"
+  },
+  {
+    "entidad": "endocarditis infecciosa",
+    "relacion": "se produce por",
+    "valor": "patógenos en la sangre"
+  },
+  {
+    "entidad": "exposición a animales",
+    "relacion": "es un",
+    "valor": "factor de riesgo para Erysipelothrix rhusiopathiae"
+  },
+  {
+    "entidad": "ecocardiograma transesofágico",
+    "relacion": "demostró",
+    "valor": "vegetaciones en válvulas cardíacas"
+  },
+  {
+    "entidad": "cardiocirugía",
+    "relacion": "fue realizada para",
+    "valor": "reemplazo valvular aórtico y mitral"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "recibió",
+    "valor": "rehabilitación y anticoagulantes cumarínicos"
+  },
+  {
+    "entidad": "Erysipelothrix rhusiopathiae",
+    "relacion": "es considerado",
+    "valor": "una zoonosis"
+  },
+  {
+    "entidad": "endocarditis infecciosa",
+    "relacion": "puede tener",
+    "valor": "latencia de 1 mes"
+  },
+  {
+    "entidad": "diagnóstico",
+    "relacion": "incluye",
+    "valor": "cultivos e imágenes"
+  },
+  {
+    "entidad": "antimicrobianos",
+    "relacion": "son",
+    "valor": "pilares del tratamiento"
+  },
+  {
+    "entidad": "Dilia Martínez-Méndez",
+    "relacion": "es",
+    "valor": "autora del artículo"
+  },
+  {
+    "entidad": "Mariolga Bravo-Acosta",
+    "relacion": "es",
+    "valor": "coautora del artículo"
+  },
+  {
+    "entidad": "barco de expedición",
+    "relacion": "opera en",
+    "valor": "ruta Antártica"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "sufrió",
+    "valor": "trauma mayor"
+  },
+  {
+    "entidad": "trauma mayor",
+    "relacion": "resulta de",
+    "valor": "caída en el barco"
+  },
+  {
+    "entidad": "médico de a bordo",
+    "relacion": "manejó",
+    "valor": "paciente durante cuatro días"
+  },
+  {
+    "entidad": "evacuación médica",
+    "relacion": "fue posible desde",
+    "valor": "islas Shetland del Sur"
+  },
+  {
+    "entidad": "médico de a bordo",
+    "relacion": "realizó",
+    "valor": "control de signos vitales"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "recibió",
+    "valor": "terapia intravenosa"
+  },
+  {
+    "entidad": "hospital",
+    "relacion": "realizó",
+    "valor": "evaluación completa"
+  },
+  {
+    "entidad": "CT scan",
+    "relacion": "fue realizado en",
+    "valor": "hospital"
+  },
+  {
+    "entidad": "surgery",
+    "relacion": "fue realizada en",
+    "valor": "hospital"
+  },
+  {
+    "entidad": "Chilean Scientific Research base",
+    "relacion": "es",
+    "valor": "base de investigación científica"
+  },
+  {
+    "entidad": "Eduardo Frei Montalva",
+    "relacion": "es",
+    "valor": "nombre de la base científica"
+  },
+  {
+    "entidad": "Twin Otter",
+    "relacion": "es",
+    "valor": "tipo de avión utilizado para medevac"
+  },
+  {
+    "entidad": "Punta Arenas",
+    "relacion": "es",
+    "valor": "destino final de la evacuación"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "continuó",
+    "valor": "terapia física"
+  },
+  {
+    "entidad": "recursos limitados",
+    "relacion": "son un desafío en",
+    "valor": "medicina en barcos pequeños"
+  },
+  {
+    "entidad": "interacciones prolongadas",
+    "relacion": "son un desafío en",
+    "valor": "medicina en barcos pequeños"
+  },
+  {
+    "entidad": "accidentes",
+    "relacion": "son comunes en",
+    "valor": "barcos de expedición"
+  },
+  {
+    "entidad": "médico",
+    "relacion": "debe tener",
+    "valor": "experiencia en atención de emergencia"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "fue",
+    "valor": "manejada por un solo médico"
+  },
+  {
+    "entidad": "médico",
+    "relacion": "debe improvisar en",
+    "valor": "situaciones complicadas"
+  },
+  {
+    "entidad": "médico",
+    "relacion": "debe operar en",
+    "valor": "entornos multiculturales"
+  },
+  {
+    "entidad": "médico",
+    "relacion": "debe conocer",
+    "valor": "normas internacionales de atención"
+  },
+  {
+    "entidad": "médico",
+    "relacion": "debe coordinar con",
+    "valor": "equipo médico en tierra"
+  }
+]

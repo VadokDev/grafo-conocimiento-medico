@@ -1,0 +1,167 @@
+[
+  {
+    "entidad": "Fístula coronaria gigante",
+    "relacion": "es un tipo de",
+    "valor": "anomalía coronaria"
+  },
+  {
+    "entidad": "Fístula coronaria gigante",
+    "relacion": "tiene origen",
+    "valor": "congénito"
+  },
+  {
+    "entidad": "Fístula coronaria gigante",
+    "relacion": "puede causar",
+    "valor": "síntomas de isquemia o insuficiencia cardiaca"
+  },
+  {
+    "entidad": "Fístula coronaria gigante",
+    "relacion": "puede ocasionar",
+    "valor": "complicaciones como endocarditis bacteriana, disección, trombosis e infarto al miocardio"
+  },
+  {
+    "entidad": "Paciente mujer de 60 años",
+    "relacion": "presenta",
+    "valor": "disnea y ortopnea"
+  },
+  {
+    "entidad": "Paciente mujer de 60 años",
+    "relacion": "fue diagnosticada con",
+    "valor": "fístula coronaria gigante"
+  },
+  {
+    "entidad": "Coronary angiography",
+    "relacion": "muestra",
+    "valor": "arteria coronaria izquierda normal y una arteria coronaria derecha tortuosa"
+  },
+  {
+    "entidad": "Tratamiento quirúrgico",
+    "relacion": "fue realizado para",
+    "valor": "cerrar la fístula"
+  },
+  {
+    "entidad": "Evolución postoperatoria",
+    "relacion": "fue",
+    "valor": "sin incidentes"
+  },
+  {
+    "entidad": "Paciente",
+    "relacion": "evoluciona",
+    "valor": "bien después de 5 años"
+  },
+  {
+    "entidad": "Fístula coronaria gigante",
+    "relacion": "es de baja prevalencia",
+    "valor": "en estudios angiográficos"
+  },
+  {
+    "entidad": "Cierre de fístulas coronarias",
+    "relacion": "es un tratamiento",
+    "valor": "controversial"
+  },
+  {
+    "entidad": "Cierre quirúrgico",
+    "relacion": "es un método",
+    "valor": "para tratar fístulas coronarias"
+  },
+  {
+    "entidad": "Cierre percutáneo",
+    "relacion": "ha adquirido relevancia como",
+    "valor": "método alternativo para tratar fístulas coronarias"
+  },
+  {
+    "entidad": "Resultados de tratamiento",
+    "relacion": "son",
+    "valor": "buenos con baja morbimortalidad"
+  },
+  {
+    "entidad": "Pronóstico a largo plazo",
+    "relacion": "es",
+    "valor": "adecuado para fístulas coronarias tratadas"
+  },
+  {
+    "entidad": "Síndrome de Cushing iatrogénico",
+    "relacion": "es causado por",
+    "valor": "corticoides inhalados"
+  },
+  {
+    "entidad": "corticoides inhalados",
+    "relacion": "interactúa con",
+    "valor": "Ritonavir"
+  },
+  {
+    "entidad": "Ritonavir",
+    "relacion": "es un",
+    "valor": "inhibidor de proteasa"
+  },
+  {
+    "entidad": "Fluticasone/Salmeterol",
+    "relacion": "es un",
+    "valor": "tratamiento para EPOC"
+  },
+  {
+    "entidad": "paciente VIH",
+    "relacion": "desarrolla",
+    "valor": "síndrome de Cushing"
+  },
+  {
+    "entidad": "síndrome de Cushing",
+    "relacion": "revierte tras",
+    "valor": "suspensión de medicamentos"
+  },
+  {
+    "entidad": "Fluticasone",
+    "relacion": "es metabolizado por",
+    "valor": "CYP3A4"
+  },
+  {
+    "entidad": "CYP3A4",
+    "relacion": "inhibe",
+    "valor": "metabolismo de Ritonavir"
+  },
+  {
+    "entidad": "paciente VIH",
+    "relacion": "tiene comorbilidades",
+    "valor": "enfermedades respiratorias"
+  },
+  {
+    "entidad": "corticoides inhalados",
+    "relacion": "son utilizados en",
+    "valor": "tratamientos de enfermedades respiratorias"
+  },
+  {
+    "entidad": "suspensión de fluticasona/ritonavir",
+    "relacion": "resulta en",
+    "valor": "normalización del eje HHA"
+  },
+  {
+    "entidad": "eje hipotálamo-hipófisis-adrenal (HHA)",
+    "relacion": "es evaluado por",
+    "valor": "cortisol basal"
+  },
+  {
+    "entidad": "cortisol basal",
+    "relacion": "indica",
+    "valor": "actividad sistémica de corticoides inhalados"
+  },
+  {
+    "entidad": "VIH",
+    "relacion": "aumenta el riesgo de",
+    "valor": "fracturas óseas"
+  },
+  {
+    "entidad": "calcio/colecalciferol",
+    "relacion": "es administrado para",
+    "valor": "osteoporosis lumbar"
+  },
+  {
+    "entidad": "buprenorfina",
+    "relacion": "se utiliza para",
+    "valor": "analgesia"
+  },
+  {
+    "entidad": "amitriptilina",
+    "relacion": "se utiliza para",
+    "valor": "tratamiento de dolor"
+  }
+]

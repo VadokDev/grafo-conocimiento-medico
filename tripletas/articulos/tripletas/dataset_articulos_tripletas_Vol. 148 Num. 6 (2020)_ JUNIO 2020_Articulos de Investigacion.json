@@ -1,0 +1,857 @@
+[
+  {
+    "entidad": "Vasculitis Asociadas a Anticuerpos Anti Citoplasma de Neutrófilos (VAA)",
+    "relacion": "es un",
+    "valor": "grupo de enfermedades"
+  },
+  {
+    "entidad": "VAA",
+    "relacion": "se caracteriza por",
+    "valor": "inflamación necrotizante de la pared de pequeños vasos"
+  },
+  {
+    "entidad": "anticuerpos anti citoplasma de neutrófilos (ANCA)",
+    "relacion": "son",
+    "valor": "marcadores en VAA"
+  },
+  {
+    "entidad": "Hospital Clínico Universidad de Chile",
+    "relacion": "es un",
+    "valor": "centro de investigación"
+  },
+  {
+    "entidad": "Pamela Wurmann Kiblisky",
+    "relacion": "es",
+    "valor": "autora del estudio"
+  },
+  {
+    "entidad": "mortalidad temprana",
+    "relacion": "es asociada a",
+    "valor": "factores clínicos"
+  },
+  {
+    "entidad": "síndrome riñón pulmón",
+    "relacion": "es un",
+    "valor": "factor asociado a mortalidad"
+  },
+  {
+    "entidad": "compromiso oftalmológico",
+    "relacion": "es un",
+    "valor": "factor asociado a mortalidad"
+  },
+  {
+    "entidad": "Five Factor Score (FFS)",
+    "relacion": "es un",
+    "valor": "instrumento de evaluación de riesgo"
+  },
+  {
+    "entidad": "edad avanzada",
+    "relacion": "es un",
+    "valor": "factor predictor de muerte"
+  },
+  {
+    "entidad": "velocidad de filtración glomerular < 15 ml/min",
+    "relacion": "es un",
+    "valor": "factor predictor de muerte"
+  },
+  {
+    "entidad": "Birmingham Vasculitis Activity Score (BVAS)",
+    "relacion": "es un",
+    "valor": "instrumento para evaluar actividad de VAA"
+  },
+  {
+    "entidad": "anemia",
+    "relacion": "es un",
+    "valor": "factor asociado a mortalidad"
+  },
+  {
+    "entidad": "leucocitosis",
+    "relacion": "es un",
+    "valor": "factor asociado a mortalidad"
+  },
+  {
+    "entidad": "creatinina > 2 mg/dL",
+    "relacion": "es un",
+    "valor": "factor predictor de mortalidad"
+  },
+  {
+    "entidad": "mortalidad al año",
+    "relacion": "fue",
+    "valor": "16.9%"
+  },
+  {
+    "entidad": "infección",
+    "relacion": "es una",
+    "valor": "causa de muerte"
+  },
+  {
+    "entidad": "vasculitis activa",
+    "relacion": "es una",
+    "valor": "causa de muerte"
+  },
+  {
+    "entidad": "infarto agudo al miocardio",
+    "relacion": "es una",
+    "valor": "causa de muerte"
+  },
+  {
+    "entidad": "estatus epiléptico no convulsivo",
+    "relacion": "es una",
+    "valor": "causa de muerte"
+  },
+  {
+    "entidad": "corticoides",
+    "relacion": "son",
+    "valor": "tratamiento utilizado"
+  },
+  {
+    "entidad": "ciclofosfamida",
+    "relacion": "es un",
+    "valor": "inmunosupresor utilizado"
+  },
+  {
+    "entidad": "azatioprina",
+    "relacion": "es un",
+    "valor": "inmunosupresor utilizado"
+  },
+  {
+    "entidad": "metrotrexato",
+    "relacion": "es un",
+    "valor": "inmunosupresor utilizado"
+  },
+  {
+    "entidad": "rituximab",
+    "relacion": "es un",
+    "valor": "inmunosupresor utilizado"
+  },
+  {
+    "entidad": "pacientes hispanoamericanos",
+    "relacion": "tienen",
+    "valor": "presentación más severa de VAA"
+  },
+  {
+    "entidad": "cohorte chilena",
+    "relacion": "observó",
+    "valor": "mortalidad global del 17% para GPA"
+  },
+  {
+    "entidad": "cohorte chilena",
+    "relacion": "observó",
+    "valor": "mortalidad global del 18% para PAM"
+  },
+  {
+    "entidad": "Cytomegalovirus (CMV)",
+    "relacion": "es un",
+    "valor": "infección oportunista en pacientes inmunosuprimidos"
+  },
+  {
+    "entidad": "pacientes con SIDA",
+    "relacion": "presentan",
+    "valor": "infección por CMV"
+  },
+  {
+    "entidad": "carga viral (CV) de CMV",
+    "relacion": "se requiere",
+    "valor": "puntos de corte para discriminar enfermedad"
+  },
+  {
+    "entidad": "análisis retrospectivo",
+    "relacion": "se realizó en",
+    "valor": "pacientes con SIDA hospitalizados"
+  },
+  {
+    "entidad": "Cytomegalovirus (CMV)",
+    "relacion": "causa",
+    "valor": "enfermedad en pacientes con SIDA"
+  },
+  {
+    "entidad": "CMV VL de 3,800 copias/mL",
+    "relacion": "es útil para",
+    "valor": "discriminar pacientes infectados de aquellos con enfermedad"
+  },
+  {
+    "entidad": "ganciclovir",
+    "relacion": "es un",
+    "valor": "tratamiento para CMV"
+  },
+  {
+    "entidad": "valganciclovir",
+    "relacion": "es un",
+    "valor": "tratamiento para CMV"
+  },
+  {
+    "entidad": "respuesta favorable",
+    "relacion": "se observa en",
+    "valor": "pacientes tratados con ganciclovir o valganciclovir"
+  },
+  {
+    "entidad": "toxicidad farmacológica",
+    "relacion": "se registró en",
+    "valor": "pacientes tratados con ganciclovir o valganciclovir"
+  },
+  {
+    "entidad": "Hospital Base de Valdivia",
+    "relacion": "es un",
+    "valor": "centro de estudio"
+  },
+  {
+    "entidad": "Comité de Ética Científica",
+    "relacion": "aprobó",
+    "valor": "el trabajo"
+  },
+  {
+    "entidad": "Cytomegalovirus (CMV)",
+    "relacion": "afecta a",
+    "valor": "diferentes órganos en pacientes con SIDA"
+  },
+  {
+    "entidad": "pacientes con SIDA",
+    "relacion": "pueden presentar",
+    "valor": "reactivación viral asintomática"
+  },
+  {
+    "entidad": "análisis de curva ROC",
+    "relacion": "se utilizó para",
+    "valor": "determinar el punto de corte de CV"
+  },
+  {
+    "entidad": "neutropenia",
+    "relacion": "es un efecto",
+    "valor": "adverso asociado al tratamiento con ganciclovir"
+  },
+  {
+    "entidad": "trombocitopenia",
+    "relacion": "es un efecto",
+    "valor": "adverso asociado al tratamiento con ganciclovir"
+  },
+  {
+    "entidad": "neumonía por CMV",
+    "relacion": "no se observó en",
+    "valor": "la serie de pacientes"
+  },
+  {
+    "entidad": "mortalidad hospitalaria",
+    "relacion": "se asocia con",
+    "valor": "infección por CMV en pacientes con SIDA"
+  },
+  {
+    "entidad": "respuesta al tratamiento",
+    "relacion": "es favorable en",
+    "valor": "la mayoría de los casos"
+  },
+  {
+    "entidad": "pacientes con CMV enfermedad",
+    "relacion": "presentan",
+    "valor": "síntomas gastrointestinales predominantes"
+  },
+  {
+    "entidad": "hipotiroidismo",
+    "relacion": "ocurre en",
+    "valor": "1-2% de la población general"
+  },
+  {
+    "entidad": "hipotiroidismo",
+    "relacion": "requiere tratamiento con",
+    "valor": "levotiroxina"
+  },
+  {
+    "entidad": "levotiroxina",
+    "relacion": "es un",
+    "valor": "tratamiento continuo"
+  },
+  {
+    "entidad": "Morisky-Green adherence test",
+    "relacion": "se aplica para evaluar",
+    "valor": "adherencia al tratamiento"
+  },
+  {
+    "entidad": "TSH",
+    "relacion": "se mide para determinar",
+    "valor": "efectividad del tratamiento"
+  },
+  {
+    "entidad": "pacientes con hipotiroidismo",
+    "relacion": "son tratados con",
+    "valor": "levotiroxina"
+  },
+  {
+    "entidad": "anemia",
+    "relacion": "aumenta la probabilidad de",
+    "valor": "tener niveles anormales de TSH"
+  },
+  {
+    "entidad": "dosis mayores de 100 µg/día",
+    "relacion": "aumenta la probabilidad de",
+    "valor": "tener niveles anormales de TSH"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "reportan",
+    "valor": "adherencia completa, moderada y falta de adherencia"
+  },
+  {
+    "entidad": "TSH",
+    "relacion": "se clasifica como",
+    "valor": "eutiroideo, hipotiroideo o hipertiroideo"
+  },
+  {
+    "entidad": "pacientes con hipotiroidismo",
+    "relacion": "son predominantemente",
+    "valor": "mujeres"
+  },
+  {
+    "entidad": "levotiroxina",
+    "relacion": "es uno de los",
+    "valor": "medicamentos más prescritos en el mundo"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "son monitoreados para mantener",
+    "valor": "niveles de TSH en rango eutiroideo"
+  },
+  {
+    "entidad": "relación médico-paciente",
+    "relacion": "influye en",
+    "valor": "adherencia a la terapia"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "fue respaldado por",
+    "valor": "el Comité de Bioética de la Universidad Tecnológica de Pereira"
+  },
+  {
+    "entidad": "Tecnoquímicas S.A.",
+    "relacion": "financió",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "Antofagasta",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "Gobierno Regional de Antofagasta",
+    "relacion": "financia",
+    "valor": "estudio sobre metales pesados"
+  },
+  {
+    "entidad": "arsénico inorgánico (AsIn)",
+    "relacion": "es un",
+    "valor": "contaminante"
+  },
+  {
+    "entidad": "plomo (Pb)",
+    "relacion": "es un",
+    "valor": "metal pesado"
+  },
+  {
+    "entidad": "cadmio (Cd)",
+    "relacion": "es un",
+    "valor": "metal pesado"
+  },
+  {
+    "entidad": "cromo (Cr)",
+    "relacion": "es un",
+    "valor": "metal pesado"
+  },
+  {
+    "entidad": "mercurio (Hg)",
+    "relacion": "es un",
+    "valor": "metal pesado"
+  },
+  {
+    "entidad": "población de Antofagasta",
+    "relacion": "es expuesta a",
+    "valor": "metales pesados"
+  },
+  {
+    "entidad": "estudio epidemiológico-am-biental",
+    "relacion": "evalúa",
+    "valor": "exposición a metales pesados"
+  },
+  {
+    "entidad": "muestras biológicas",
+    "relacion": "se obtienen para medir",
+    "valor": "metales pesados"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "es un factor asociado a",
+    "valor": "exposición a metales"
+  },
+  {
+    "entidad": "sexo masculino",
+    "relacion": "es un factor asociado a",
+    "valor": "niveles elevados de AsIn"
+  },
+  {
+    "entidad": "nivel educativo bajo",
+    "relacion": "es un factor asociado a",
+    "valor": "niveles elevados de AsIn"
+  },
+  {
+    "entidad": "consumo de productos del mar",
+    "relacion": "es un factor asociado a",
+    "valor": "niveles elevados de AsIn en niños"
+  },
+  {
+    "entidad": "residencia a más de 500 metros de fuentes de contaminación",
+    "relacion": "es un factor asociado a",
+    "valor": "niveles elevados de AsIn"
+  },
+  {
+    "entidad": "Comité de Ética Científico de la Facultad de Medicina de la Pontificia Universidad Católica",
+    "relacion": "aprueba",
+    "valor": "estudio"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "realiza",
+    "valor": "análisis de datos"
+  },
+  {
+    "entidad": "metales pesados",
+    "relacion": "se asocian con",
+    "valor": "enfermedades crónicas"
+  },
+  {
+    "entidad": "intervenciones sanitarias-ambientales",
+    "relacion": "deben evaluar",
+    "valor": "exposición a arsénico"
+  },
+  {
+    "entidad": "población infantil",
+    "relacion": "presenta",
+    "valor": "niveles elevados de AsIn"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "es el primero en",
+    "valor": "obtener prevalencia poblacional en Antofagasta"
+  },
+  {
+    "entidad": "Hidatidosis pulmonar",
+    "relacion": "es una",
+    "valor": "zoonosis parasitaria"
+  },
+  {
+    "entidad": "Echinococcus granulosus",
+    "relacion": "causa",
+    "valor": "hidatidosis"
+  },
+  {
+    "entidad": "perro",
+    "relacion": "es un",
+    "valor": "hospedero definitivo"
+  },
+  {
+    "entidad": "animales de abasto",
+    "relacion": "son",
+    "valor": "hospederos intermediarios"
+  },
+  {
+    "entidad": "hidatidosis humana",
+    "relacion": "es la",
+    "valor": "principal causa de hospitalización por enfermedad parasitaria en Chile"
+  },
+  {
+    "entidad": "hidatidosis",
+    "relacion": "tiene",
+    "valor": "alta morbilidad y costos socioeconómicos"
+  },
+  {
+    "entidad": "Región del Biobío",
+    "relacion": "concentra",
+    "valor": "el mayor número absoluto de casos de hidatidosis en Chile"
+  },
+  {
+    "entidad": "quiste hidatídico pulmonar (QHP)",
+    "relacion": "es un",
+    "valor": "tipo de hidatidosis"
+  },
+  {
+    "entidad": "diagnóstico precoz",
+    "relacion": "es fundamental para",
+    "valor": "mejorar los resultados del tratamiento"
+  },
+  {
+    "entidad": "tratamiento quirúrgico",
+    "relacion": "es el",
+    "valor": "método principal para QHP"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "se asocia a",
+    "valor": "diagnóstico tardío y dificultad de acceso a tratamiento"
+  },
+  {
+    "entidad": "vacuna recombinante EG95",
+    "relacion": "se implementó en",
+    "valor": "zonas de alta endemia en Chile"
+  },
+  {
+    "entidad": "hidatidosis",
+    "relacion": "requiere",
+    "valor": "acciones de prevención como desparasitaciones"
+  },
+  {
+    "entidad": "morbimortalidad",
+    "relacion": "ha disminuido",
+    "valor": "significativamente a través del tiempo"
+  },
+  {
+    "entidad": "quiste complicado",
+    "relacion": "se asocia a",
+    "valor": "mayor daño del parénquima pulmonar"
+  },
+  {
+    "entidad": "cirugía conservadora",
+    "relacion": "se realizó en",
+    "valor": "la mayoría de los casos"
+  },
+  {
+    "entidad": "recidiva",
+    "relacion": "fue observada en",
+    "valor": "7,6% de los casos"
+  },
+  {
+    "entidad": "mortalidad a 30 días",
+    "relacion": "fue reportada en",
+    "valor": "6 pacientes"
+  },
+  {
+    "entidad": "SARS-CoV-2",
+    "relacion": "causa",
+    "valor": "infección respiratoria aguda"
+  },
+  {
+    "entidad": "personal de salud",
+    "relacion": "es un",
+    "valor": "grupo de alto riesgo"
+  },
+  {
+    "entidad": "Hospital Clínico de la Pontificia Universidad Católica",
+    "relacion": "implementa",
+    "valor": "programa de detección precoz"
+  },
+  {
+    "entidad": "programa de detección precoz",
+    "relacion": "permite",
+    "valor": "detección temprana de COVID-19"
+  },
+  {
+    "entidad": "sintomatología",
+    "relacion": "se evalúa en",
+    "valor": "personal de salud"
+  },
+  {
+    "entidad": "PCR de hisopado nasofaríngeo",
+    "relacion": "se utiliza para",
+    "valor": "diagnosticar COVID-19"
+  },
+  {
+    "entidad": "contacto con paciente COVID-19",
+    "relacion": "es un",
+    "valor": "factor de riesgo"
+  },
+  {
+    "entidad": "fiebre",
+    "relacion": "es un",
+    "valor": "síntoma asociado a COVID-19"
+  },
+  {
+    "entidad": "pérdida de olfato o gusto",
+    "relacion": "es un",
+    "valor": "síntoma asociado a COVID-19"
+  },
+  {
+    "entidad": "programa de evaluación telefónica",
+    "relacion": "se implementa en",
+    "valor": "personal de salud"
+  },
+  {
+    "entidad": "sintomas respiratorios agudos",
+    "relacion": "indican",
+    "valor": "sospecha de COVID-19"
+  },
+  {
+    "entidad": "Comité de Ética de la Institución",
+    "relacion": "aprueba",
+    "valor": "protocolo de evaluación"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "es una",
+    "valor": "enfermedad infecciosa"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud",
+    "relacion": "denomina",
+    "valor": "COVID-19"
+  },
+  {
+    "entidad": "sistema de vigilancia epidemiológica",
+    "relacion": "evalúa",
+    "valor": "impacto de la enfermedad"
+  },
+  {
+    "entidad": "equipos de protección personal",
+    "relacion": "son necesarios para",
+    "valor": "proteger al personal de salud"
+  },
+  {
+    "entidad": "sintomatología",
+    "relacion": "se asocia con",
+    "valor": "infección por SARS-CoV-2"
+  },
+  {
+    "entidad": "programa de detección precoz",
+    "relacion": "reduce",
+    "valor": "riesgo de contagio"
+  },
+  {
+    "entidad": "hospital universitario",
+    "relacion": "realiza",
+    "valor": "seguimiento de casos"
+  },
+  {
+    "entidad": "sintomas de inicio reciente",
+    "relacion": "son evaluados por",
+    "valor": "médicos especialistas"
+  },
+  {
+    "entidad": "Juan Pablo Huidobro EsPinosa",
+    "relacion": "es autor de",
+    "valor": "Nueva fórmula para estimar creatininuria en población chilena"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "tiene departamento de",
+    "valor": "Nefrología"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "tiene departamento de",
+    "valor": "Medicina Interna"
+  },
+  {
+    "entidad": "Hospital Naval Almirante Nef",
+    "relacion": "tiene sección de",
+    "valor": "Nefrología"
+  },
+  {
+    "entidad": "creatininuria",
+    "relacion": "es medida por",
+    "valor": "recolecciones de orina de 24 horas"
+  },
+  {
+    "entidad": "fórmula propuesta",
+    "relacion": "predice",
+    "valor": "valores de UCr de 24 horas"
+  },
+  {
+    "entidad": "UCr",
+    "relacion": "se asocia con",
+    "valor": "edad"
+  },
+  {
+    "entidad": "UCr",
+    "relacion": "se asocia con",
+    "valor": "sexo"
+  },
+  {
+    "entidad": "UCr",
+    "relacion": "se asocia con",
+    "valor": "peso"
+  },
+  {
+    "entidad": "fórmulas existentes",
+    "relacion": "se comparan con",
+    "valor": "fórmula propuesta"
+  },
+  {
+    "entidad": "fórmula propuesta",
+    "relacion": "tiene rendimiento comparable con",
+    "valor": "fórmulas del grupo CKD-EPI"
+  },
+  {
+    "entidad": "fórmula propuesta",
+    "relacion": "tiene rendimiento superior a",
+    "valor": "otras ecuaciones"
+  },
+  {
+    "entidad": "población chilena",
+    "relacion": "no tenía",
+    "valor": "valores normales de UCr"
+  },
+  {
+    "entidad": "recolección de orina de 24 horas",
+    "relacion": "es utilizada para",
+    "valor": "estimar tasa de filtración glomerular"
+  },
+  {
+    "entidad": "recolección de orina de 24 horas",
+    "relacion": "es utilizada para",
+    "valor": "cuantificar proteinuria"
+  },
+  {
+    "entidad": "recolección de orina de 24 horas",
+    "relacion": "es utilizada para",
+    "valor": "estudiar funciones tubulares"
+  },
+  {
+    "entidad": "recolección de orina de 24 horas",
+    "relacion": "es utilizada para",
+    "valor": "realizar estudio de litiasis urinaria"
+  },
+  {
+    "entidad": "recolección de orina de 24 horas",
+    "relacion": "es utilizada para",
+    "valor": "evaluar adherencia a recomendaciones nutricionales"
+  },
+  {
+    "entidad": "método de regresión lineal múltiple",
+    "relacion": "se utiliza para",
+    "valor": "desarrollar fórmula de UCr"
+  },
+  {
+    "entidad": "comité de ética-clínico de la Facultad de Medicina de la Pontificia Universidad Católica de Chile",
+    "relacion": "aprueba",
+    "valor": "estudio"
+  },
+  {
+    "entidad": "valores de creatinina",
+    "relacion": "son medidos en",
+    "valor": "muestras de orina"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "presenta correlación lineal inversa con",
+    "valor": "valores de UCr"
+  },
+  {
+    "entidad": "peso",
+    "relacion": "presenta correlación lineal positiva con",
+    "valor": "valores de UCr"
+  },
+  {
+    "entidad": "talla",
+    "relacion": "presenta correlación lineal positiva con",
+    "valor": "valores de UCr"
+  },
+  {
+    "entidad": "Fundación Valle del Lili",
+    "relacion": "es un",
+    "valor": "hospital de alta complejidad"
+  },
+  {
+    "entidad": "Universidad Icesi",
+    "relacion": "es un",
+    "valor": "institución educativa"
+  },
+  {
+    "entidad": "Centro de Investigaciones Clínicas (CIC)",
+    "relacion": "es un",
+    "valor": "centro de investigación"
+  },
+  {
+    "entidad": "dispositivo cardíaco implantable",
+    "relacion": "mejora",
+    "valor": "supervivencia en pacientes con muerte súbita"
+  },
+  {
+    "entidad": "muerte súbita",
+    "relacion": "es un",
+    "valor": "fenómeno de alta mortalidad"
+  },
+  {
+    "entidad": "paro cardíaco",
+    "relacion": "es un",
+    "valor": "cese de la actividad cardiaca"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud",
+    "relacion": "reporta",
+    "valor": "muerte por paro cardíaco como causa principal de mortalidad"
+  },
+  {
+    "entidad": "dispositivos cardíacos",
+    "relacion": "se utilizan para",
+    "valor": "mejorar la condición y sobrevida de pacientes cardiópatas"
+  },
+  {
+    "entidad": "Cerebral Performance Category (CPC)",
+    "relacion": "evalúa",
+    "valor": "estado neurológico de pacientes"
+  },
+  {
+    "entidad": "pacientes con muerte súbita",
+    "relacion": "requieren",
+    "valor": "manejo con dispositivos cardíacos"
+  },
+  {
+    "entidad": "muerte súbita",
+    "relacion": "aumenta",
+    "valor": "relevancia en enfermedades cardiovasculares"
+  },
+  {
+    "entidad": "hipertensión arterial",
+    "relacion": "es un",
+    "valor": "antecedente en pacientes"
+  },
+  {
+    "entidad": "cardiopatía isquémica",
+    "relacion": "es un",
+    "valor": "antecedente en pacientes"
+  },
+  {
+    "entidad": "sistema de salud en Colombia",
+    "relacion": "tiene",
+    "valor": "limitaciones de acceso a dispositivos cardíacos"
+  },
+  {
+    "entidad": "registro CRECA",
+    "relacion": "es un",
+    "valor": "sistema de registro de reanimación cardiopulmonar"
+  },
+  {
+    "entidad": "Hospital Universitario Fundación Valle del Lili",
+    "relacion": "realiza",
+    "valor": "revisión de historias clínicas"
+  },
+  {
+    "entidad": "pacientes mayores de 17 años",
+    "relacion": "son seleccionados para",
+    "valor": "estudio de muerte súbita"
+  },
+  {
+    "entidad": "análisis descriptivo univariado",
+    "relacion": "se utiliza para",
+    "valor": "evaluar variables cualitativas y cuantitativas"
+  },
+  {
+    "entidad": "supervivencia a 30 días y 1 año",
+    "relacion": "es un",
+    "valor": "resultado de interés en el estudio"
+  },
+  {
+    "entidad": "dispositivo intracardíaco",
+    "relacion": "se implanta para",
+    "valor": "prevenir muerte súbita"
+  },
+  {
+    "entidad": "estado vital",
+    "relacion": "se corrobora a",
+    "valor": "1 mes y un año"
+  },
+  {
+    "entidad": "muerte súbita cardíaca",
+    "relacion": "es un",
+    "valor": "evento de alta mortalidad"
+  },
+  {
+    "entidad": "tecnología médica",
+    "relacion": "ha alcanzado",
+    "valor": "logros en tratamientos cardiovasculares"
+  }
+]

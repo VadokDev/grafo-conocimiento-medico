@@ -1,0 +1,757 @@
+[
+  {
+    "entidad": "variabilidad del ritmo cardiaco",
+    "relacion": "analiza",
+    "valor": "sensibilidad insulínica"
+  },
+  {
+    "entidad": "pacientes obesos",
+    "relacion": "presentan",
+    "valor": "resistencia a la insulina"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "asociada a",
+    "valor": "alteraciones en la función del Sistema Nervioso Autónomo"
+  },
+  {
+    "entidad": "disautonomía",
+    "relacion": "mencionada como",
+    "valor": "nexo causal entre estilo de vida poco saludable y desbalance energético"
+  },
+  {
+    "entidad": "sistema nervioso simpático",
+    "relacion": "regula",
+    "valor": "funciones metabólicas y cardiovasculares"
+  },
+  {
+    "entidad": "análisis espectral",
+    "relacion": "utiliza",
+    "valor": "para determinar influencia del SNA sobre la VRC"
+  },
+  {
+    "entidad": "HOMA-IR",
+    "relacion": "mide",
+    "valor": "resistencia a la insulina"
+  },
+  {
+    "entidad": "frecuencia cardiaca",
+    "relacion": "aumenta en",
+    "valor": "pacientes con resistencia a la insulina"
+  },
+  {
+    "entidad": "actividad simpática",
+    "relacion": "incrementa",
+    "valor": "en sujetos obesos"
+  },
+  {
+    "entidad": "insulina",
+    "relacion": "secreta más",
+    "valor": "en respuesta a la resistencia a la insulina"
+  },
+  {
+    "entidad": "análisis no lineal",
+    "relacion": "cuantifica",
+    "valor": "complejidad de intervalos RR"
+  },
+  {
+    "entidad": "método no invasivo",
+    "relacion": "utiliza",
+    "valor": "para diagnóstico de enfermedades cardiovasculares"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "contribuye a",
+    "valor": "riesgo de complicaciones cardiovasculares"
+  },
+  {
+    "entidad": "estilo de vida poco saludable",
+    "relacion": "caracteriza",
+    "valor": "desbalance entre gasto y consumo calórico"
+  },
+  {
+    "entidad": "TNF-α",
+    "relacion": "promueve",
+    "valor": "resistencia a la insulina"
+  },
+  {
+    "entidad": "actividad física regular",
+    "relacion": "puede tener",
+    "valor": "efecto cardioprotector"
+  },
+  {
+    "entidad": "insulina",
+    "relacion": "actúa sobre",
+    "valor": "sistema nervioso simpático"
+  },
+  {
+    "entidad": "cirugía bariátrica",
+    "relacion": "disminuye",
+    "valor": "índice HOMA en pacientes obesos"
+  },
+  {
+    "entidad": "predominio simpático",
+    "relacion": "observado en",
+    "valor": "función cardiovascular de sujetos obesos"
+  },
+  {
+    "entidad": "ácido nicotínico",
+    "relacion": "aumenta",
+    "valor": "transporte celular de colesterol de lipoproteínas de alta densidad"
+  },
+  {
+    "entidad": "pacientes con hipoalfalipoproteinemia",
+    "relacion": "son tratados con",
+    "valor": "ácido nicotínico"
+  },
+  {
+    "entidad": "lipoproteínas de alta densidad (HDL)",
+    "relacion": "participan en",
+    "valor": "transporte reverso de colesterol"
+  },
+  {
+    "entidad": "receptor scavenger clase B tipo I (SR-BI)",
+    "relacion": "media",
+    "valor": "transporte de colesterol"
+  },
+  {
+    "entidad": "ácido nicotínico",
+    "relacion": "mejora",
+    "valor": "funcionalidad de partículas de HDL"
+  },
+  {
+    "entidad": "HDL",
+    "relacion": "transportan",
+    "valor": "colesterol hacia el hígado"
+  },
+  {
+    "entidad": "ácido nicotínico",
+    "relacion": "aumenta",
+    "valor": "niveles de colesterol HDL"
+  },
+  {
+    "entidad": "partículas de HDL2",
+    "relacion": "son acumuladas por",
+    "valor": "ácido nicotínico"
+  },
+  {
+    "entidad": "ácido nicotínico",
+    "relacion": "induce",
+    "valor": "aumento en el tamaño de partículas de HDL"
+  },
+  {
+    "entidad": "eflujo de colesterol",
+    "relacion": "aumenta",
+    "valor": "después del tratamiento con ácido nicotínico"
+  },
+  {
+    "entidad": "captación de colesterol",
+    "relacion": "aumenta",
+    "valor": "después del tratamiento con ácido nicotínico"
+  },
+  {
+    "entidad": "ácido nicotínico",
+    "relacion": "modula",
+    "valor": "metabolismo de HDL"
+  },
+  {
+    "entidad": "estudio clínico piloto",
+    "relacion": "evalúa",
+    "valor": "efecto del ácido nicotínico en pacientes hipoalfalipoproteinémicos"
+  },
+  {
+    "entidad": "Merck S.A. Chile",
+    "relacion": "proporciona",
+    "valor": "droga de intervención (NiaspanMR)"
+  },
+  {
+    "entidad": "Comité de Ética en Investigación",
+    "relacion": "aprueba",
+    "valor": "consentimiento informado"
+  },
+  {
+    "entidad": "análisis bioquímicos",
+    "relacion": "se realizan en",
+    "valor": "Hospital Clínico"
+  },
+  {
+    "entidad": "plasma post-tratamiento con ácido nicotínico",
+    "relacion": "tiene",
+    "valor": "mayor capacidad de transporte de colesterol"
+  },
+  {
+    "entidad": "Facultad de Medicina",
+    "relacion": "pertenece a",
+    "valor": "Universidad Finis Terrae"
+  },
+  {
+    "entidad": "Universidad Finis Terrae",
+    "relacion": "implementa",
+    "valor": "programa de perfeccionamiento docente"
+  },
+  {
+    "entidad": "programa de perfeccionamiento docente",
+    "relacion": "denominado",
+    "valor": "Diplomado en Pedagogía Universitaria en Ciencias de la Salud"
+  },
+  {
+    "entidad": "programa de perfeccionamiento docente",
+    "relacion": "tiene como objetivo",
+    "valor": "capacitar en prácticas educacionales efectivas"
+  },
+  {
+    "entidad": "docentes",
+    "relacion": "participan en",
+    "valor": "programa de perfeccionamiento"
+  },
+  {
+    "entidad": "docentes perfeccionados",
+    "relacion": "mejoran",
+    "valor": "calidad de planificación docente"
+  },
+  {
+    "entidad": "calidad de planificación docente",
+    "relacion": "se evalúa mediante",
+    "valor": "análisis de programas de asignaturas"
+  },
+  {
+    "entidad": "calidad de conducción de clases",
+    "relacion": "se evalúa mediante",
+    "valor": "observación de clases"
+  },
+  {
+    "entidad": "rendimiento académico",
+    "relacion": "se mide mediante",
+    "valor": "calificaciones finales de estudiantes"
+  },
+  {
+    "entidad": "estudiantes",
+    "relacion": "aprueban",
+    "valor": "más con docentes perfeccionados"
+  },
+  {
+    "entidad": "programa de perfeccionamiento",
+    "relacion": "impacta en",
+    "valor": "rendimiento académico de estudiantes"
+  },
+  {
+    "entidad": "evaluación de docentes",
+    "relacion": "se realiza a través de",
+    "valor": "encuestas y observaciones"
+  },
+  {
+    "entidad": "programa de perfeccionamiento",
+    "relacion": "mejora",
+    "valor": "conducción de clases"
+  },
+  {
+    "entidad": "docentes no perfeccionados",
+    "relacion": "mantienen",
+    "valor": "calificaciones sin variación"
+  },
+  {
+    "entidad": "calificaciones finales",
+    "relacion": "se comparan entre",
+    "valor": "docentes perfeccionados y no perfeccionados"
+  },
+  {
+    "entidad": "programa de perfeccionamiento",
+    "relacion": "se implementa desde",
+    "valor": "2010"
+  },
+  {
+    "entidad": "Facultad de Medicina",
+    "relacion": "evalúa",
+    "valor": "efectividad del programa de perfeccionamiento"
+  },
+  {
+    "entidad": "estudiantes",
+    "relacion": "mejoran su rendimiento",
+    "valor": "tras la capacitación de sus docentes"
+  },
+  {
+    "entidad": "programa de perfeccionamiento",
+    "relacion": "se basa en",
+    "valor": "indicadores de desempeño docente"
+  },
+  {
+    "entidad": "Programa Bright Bodies",
+    "relacion": "es un",
+    "valor": "programa de manejo de la obesidad"
+  },
+  {
+    "entidad": "Yale University",
+    "relacion": "desarrolla",
+    "valor": "Programa Bright Bodies"
+  },
+  {
+    "entidad": "niños y adolescentes chilenos",
+    "relacion": "participan en",
+    "valor": "Programa Bright Bodies"
+  },
+  {
+    "entidad": "Programa Bright Bodies",
+    "relacion": "consiste en",
+    "valor": "intervención de estilo de vida"
+  },
+  {
+    "entidad": "intervención de estilo de vida",
+    "relacion": "incluye",
+    "valor": "nutrición y ejercicio"
+  },
+  {
+    "entidad": "Programa Bright Bodies",
+    "relacion": "focaliza en",
+    "valor": "modificación de comportamiento y apoyo familiar"
+  },
+  {
+    "entidad": "familias de niños obesos",
+    "relacion": "participan en",
+    "valor": "talleres de apoyo familiar"
+  },
+  {
+    "entidad": "evaluación del impacto",
+    "relacion": "se realiza en",
+    "valor": "parámetros antropométricos y metabólicos"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "asociada con",
+    "valor": "enfermedades crónicas no transmisibles"
+  },
+  {
+    "entidad": "síndrome metabólico",
+    "relacion": "se define por",
+    "valor": "presencia de al menos tres parámetros"
+  },
+  {
+    "entidad": "Fundación de la Familia",
+    "relacion": "colabora con",
+    "valor": "Programa Bright Bodies"
+  },
+  {
+    "entidad": "escuelas de Talcahuano",
+    "relacion": "participan en",
+    "valor": "evaluación del estado nutricional"
+  },
+  {
+    "entidad": "escuelas de Talcahuano",
+    "relacion": "invitan a",
+    "valor": "familias de escolares con obesidad"
+  },
+  {
+    "entidad": "escuelas de Talcahuano",
+    "relacion": "realizan",
+    "valor": "evaluación del estado nutricional"
+  },
+  {
+    "entidad": "intervención",
+    "relacion": "dura",
+    "valor": "8 meses"
+  },
+  {
+    "entidad": "Programa Bright Bodies",
+    "relacion": "produce",
+    "valor": "cambios significativos en parámetros antropométricos"
+  },
+  {
+    "entidad": "Programa Bright Bodies",
+    "relacion": "reduce",
+    "valor": "prevalencia de síndrome metabólico"
+  },
+  {
+    "entidad": "calorías totales",
+    "relacion": "disminuyen en",
+    "valor": "43%"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "mejora en",
+    "valor": "niños y adolescentes obesos"
+  },
+  {
+    "entidad": "evaluación clínica",
+    "relacion": "se realiza en",
+    "valor": "niños y adolescentes obesos"
+  },
+  {
+    "entidad": "intervención",
+    "relacion": "se evalúa mediante",
+    "valor": "modificación de hábitos alimentarios"
+  },
+  {
+    "entidad": "intervención",
+    "relacion": "se evalúa mediante",
+    "valor": "mejora de la condición física"
+  },
+  {
+    "entidad": "Injuria Renal Aguda (IRA)",
+    "relacion": "aumenta",
+    "valor": "morbimortalidad en pacientes críticos"
+  },
+  {
+    "entidad": "Injuria Renal Aguda (IRA)",
+    "relacion": "aumenta",
+    "valor": "estancia hospitalaria"
+  },
+  {
+    "entidad": "Injuria Renal Aguda (IRA)",
+    "relacion": "se caracteriza por",
+    "valor": "disminución de la velocidad de filtración glomerular"
+  },
+  {
+    "entidad": "Injuria Renal Aguda (IRA)",
+    "relacion": "asociada a",
+    "valor": "complicaciones médicas"
+  },
+  {
+    "entidad": "diagnóstico de IRA",
+    "relacion": "se basa en",
+    "valor": "creatinina sérica y diuresis"
+  },
+  {
+    "entidad": "criterios AKIN",
+    "relacion": "utilizados para",
+    "valor": "diagnóstico de IRA"
+  },
+  {
+    "entidad": "Unidades de Paciente Crítico (UPC)",
+    "relacion": "reportan",
+    "valor": "mayor incidencia de IRA"
+  },
+  {
+    "entidad": "hipertensión arterial",
+    "relacion": "asociada a",
+    "valor": "mayor incidencia de IRA"
+  },
+  {
+    "entidad": "Diabetes Mellitus",
+    "relacion": "asociada a",
+    "valor": "mayor incidencia de IRA"
+  },
+  {
+    "entidad": "IRA",
+    "relacion": "aumenta",
+    "valor": "mortalidad a 30 días"
+  },
+  {
+    "entidad": "IRA",
+    "relacion": "aumenta",
+    "valor": "mortalidad a un año"
+  },
+  {
+    "entidad": "pacientes con IRA",
+    "relacion": "tienen",
+    "valor": "mayor riesgo de mortalidad"
+  },
+  {
+    "entidad": "mortalidad a 30 días",
+    "relacion": "es mayor en",
+    "valor": "pacientes con IRA"
+  },
+  {
+    "entidad": "mortalidad a un año",
+    "relacion": "es mayor en",
+    "valor": "pacientes con IRA"
+  },
+  {
+    "entidad": "Comité Ético Científico",
+    "relacion": "aprueba",
+    "valor": "estudio"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "realizado en",
+    "valor": "centro terciario de salud en Santiago de Chile"
+  },
+  {
+    "entidad": "biomarcadores asociados a IRA",
+    "relacion": "pueden ayudar a",
+    "valor": "mejorar pronóstico"
+  },
+  {
+    "entidad": "protocolo de diagnóstico",
+    "relacion": "podría llevar a",
+    "valor": "intervenciones tempranas en IRA"
+  },
+  {
+    "entidad": "Insuficiencia renal",
+    "relacion": "afecta a",
+    "valor": "pacientes cardiológicos"
+  },
+  {
+    "entidad": "Enfermedad renal crónica (ERC)",
+    "relacion": "es",
+    "valor": "un problema de salud"
+  },
+  {
+    "entidad": "Insuficiencia renal crónica (IRC)",
+    "relacion": "es",
+    "valor": "una forma de insuficiencia renal"
+  },
+  {
+    "entidad": "Filtrado glomerular (FG)",
+    "relacion": "se utiliza para",
+    "valor": "diagnosticar insuficiencia renal"
+  },
+  {
+    "entidad": "MDRD",
+    "relacion": "es",
+    "valor": "una fórmula para estimar el FG"
+  },
+  {
+    "entidad": "Insuficiencia renal oculta (IRO)",
+    "relacion": "es",
+    "valor": "una condición donde el FG es bajo pero la creatinina es normal"
+  },
+  {
+    "entidad": "Hipertensión",
+    "relacion": "es un factor de riesgo para",
+    "valor": "insuficiencia renal"
+  },
+  {
+    "entidad": "Edad",
+    "relacion": "es un factor de riesgo para",
+    "valor": "insuficiencia renal"
+  },
+  {
+    "entidad": "Fracción de eyección del ventrículo izquierdo (FEVI)",
+    "relacion": "se asocia con",
+    "valor": "insuficiencia renal"
+  },
+  {
+    "entidad": "Hemoglobina",
+    "relacion": "se asocia con",
+    "valor": "insuficiencia renal"
+  },
+  {
+    "entidad": "Morbimortalidad cardiovascular",
+    "relacion": "se asocia con",
+    "valor": "enfermedad renal crónica"
+  },
+  {
+    "entidad": "Estadios KDOQI",
+    "relacion": "se utilizan para",
+    "valor": "clasificar la severidad de la ERC"
+  },
+  {
+    "entidad": "Estatinas",
+    "relacion": "se recomiendan para",
+    "valor": "tratar dislipidemia en pacientes con ERC"
+  },
+  {
+    "entidad": "Hospital de Tortosa",
+    "relacion": "es",
+    "valor": "el lugar del estudio"
+  },
+  {
+    "entidad": "Estudio descriptivo observacional transversal",
+    "relacion": "es",
+    "valor": "el diseño del estudio"
+  },
+  {
+    "entidad": "Pacientes cardiológicos",
+    "relacion": "consultan en",
+    "valor": "una clínica de cardiología"
+  },
+  {
+    "entidad": "Insuficiencia renal",
+    "relacion": "se clasifica en",
+    "valor": "etapas según el filtrado glomerular"
+  },
+  {
+    "entidad": "Análisis univariado",
+    "relacion": "se utiliza para",
+    "valor": "determinar factores de riesgo"
+  },
+  {
+    "entidad": "Análisis multivariado",
+    "relacion": "se utiliza para",
+    "valor": "ajustar factores de riesgo"
+  },
+  {
+    "entidad": "pancreatitis crónica",
+    "relacion": "es un",
+    "valor": "proceso inflamatorio crónico del páncreas"
+  },
+  {
+    "entidad": "Hospital Clínico Universidad de Chile",
+    "relacion": "pertenece a",
+    "valor": "Sección de Gastroenterología"
+  },
+  {
+    "entidad": "Clínica Dávila",
+    "relacion": "es un",
+    "valor": "centro asistencial"
+  },
+  {
+    "entidad": "tratamiento endoscópico",
+    "relacion": "se utiliza en",
+    "valor": "pacientes con pancreatitis crónica"
+  },
+  {
+    "entidad": "pancreatitis crónica",
+    "relacion": "causa",
+    "valor": "dolor abdominal"
+  },
+  {
+    "entidad": "dolor abdominal",
+    "relacion": "requiere",
+    "valor": "tratamiento invasivo"
+  },
+  {
+    "entidad": "alcohol",
+    "relacion": "es un",
+    "valor": "factor etiológico en pancreatitis crónica"
+  },
+  {
+    "entidad": "diabetes mellitus tipo 3c",
+    "relacion": "se asocia con",
+    "valor": "pancreatitis crónica"
+  },
+  {
+    "entidad": "insuficiencia exocrina",
+    "relacion": "se presenta en",
+    "valor": "pacientes con pancreatitis crónica"
+  },
+  {
+    "entidad": "papilotomía pancreática",
+    "relacion": "es un",
+    "valor": "método endoscópico utilizado"
+  },
+  {
+    "entidad": "stent",
+    "relacion": "se coloca en",
+    "valor": "conducto pancreático"
+  },
+  {
+    "entidad": "seguimiento a largo plazo",
+    "relacion": "evalúa",
+    "valor": "resultados del tratamiento endoscópico"
+  },
+  {
+    "entidad": "complicaciones",
+    "relacion": "no se observaron en",
+    "valor": "tratamiento endoscópico"
+  },
+  {
+    "entidad": "recurrencias",
+    "relacion": "pueden requerir",
+    "valor": "tratamiento invasivo"
+  },
+  {
+    "entidad": "bloqueo del plexo celiaco",
+    "relacion": "es un",
+    "valor": "tratamiento alternativo"
+  },
+  {
+    "entidad": "cirugía resectiva",
+    "relacion": "es una",
+    "valor": "opción cuando el tratamiento endoscópico falla"
+  },
+  {
+    "entidad": "cálculos intraductales",
+    "relacion": "son parte de",
+    "valor": "pancreatitis crónica"
+  },
+  {
+    "entidad": "dieta",
+    "relacion": "es parte del",
+    "valor": "manejo conservador de pancreatitis crónica"
+  },
+  {
+    "entidad": "Índice de Bienestar Personal (PWI)",
+    "relacion": "evalúa",
+    "valor": "bienestar subjetivo"
+  },
+  {
+    "entidad": "usuarios vulnerables",
+    "relacion": "pertenece a",
+    "valor": "servicios de salud"
+  },
+  {
+    "entidad": "Gran Santiago",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "Instituto de Salud Pública de la Universidad Andrés Bello",
+    "relacion": "financia",
+    "valor": "la investigación"
+  },
+  {
+    "entidad": "Centro de Estudios Cuantitativos de la Universidad de Santiago",
+    "relacion": "realiza",
+    "valor": "la encuesta"
+  },
+  {
+    "entidad": "Fondo Nacional de Salud (FONASA)",
+    "relacion": "asocia a",
+    "valor": "usuarios de salud pública"
+  },
+  {
+    "entidad": "bienestar subjetivo",
+    "relacion": "predice",
+    "valor": "salud y longevidad"
+  },
+  {
+    "entidad": "satisfacción vital",
+    "relacion": "se relaciona con",
+    "valor": "bienestar subjetivo"
+  },
+  {
+    "entidad": "nivel socioeconómico",
+    "relacion": "afecta a",
+    "valor": "bienestar subjetivo"
+  },
+  {
+    "entidad": "PWI-7",
+    "relacion": "es un",
+    "valor": "instrumento adecuado para medir bienestar subjetivo"
+  },
+  {
+    "entidad": "satisfacción con la vida",
+    "relacion": "es un indicador de",
+    "valor": "bienestar"
+  },
+  {
+    "entidad": "salud",
+    "relacion": "es un componente de",
+    "valor": "bienestar subjetivo"
+  },
+  {
+    "entidad": "relaciones personales",
+    "relacion": "se asocia con",
+    "valor": "satisfacción general"
+  },
+  {
+    "entidad": "logros",
+    "relacion": "se asocia con",
+    "valor": "satisfacción general"
+  },
+  {
+    "entidad": "comunidad",
+    "relacion": "tiene menor impacto en",
+    "valor": "bienestar subjetivo"
+  },
+  {
+    "entidad": "espiritualidad",
+    "relacion": "se relaciona con",
+    "valor": "bienestar subjetivo"
+  },
+  {
+    "entidad": "muestra de 400 individuos",
+    "relacion": "es parte de",
+    "valor": "la investigación"
+  },
+  {
+    "entidad": "satisfacción con ingresos",
+    "relacion": "es más fuerte en",
+    "valor": "grupos de menores ingresos"
+  },
+  {
+    "entidad": "bienestar subjetivo",
+    "relacion": "es un objetivo relevante en",
+    "valor": "investigación social y políticas públicas"
+  }
+]

@@ -1,0 +1,387 @@
+[
+  {
+    "entidad": "Hospital de Urgencia Asistencia Pública",
+    "relacion": "es",
+    "valor": "centro de referencia nacional en manejo de pacientes gran quemados"
+  },
+  {
+    "entidad": "tubos orotraqueales",
+    "relacion": "son utilizados en",
+    "valor": "manejo de pacientes gran quemados"
+  },
+  {
+    "entidad": "Unidad de Gran Quemado",
+    "relacion": "utiliza",
+    "valor": "sujeciones de tela de algodón y/o adhesivos tipo transpore"
+  },
+  {
+    "entidad": "sujeciones de tela de algodón y/o adhesivos tipo transpore",
+    "relacion": "causan",
+    "valor": "daños a nivel tisular en pacientes con compromiso facial"
+  },
+  {
+    "entidad": "Unidad Dental",
+    "relacion": "ha innovado en",
+    "valor": "técnicas para fijación de tubos orotraqueales"
+  },
+  {
+    "entidad": "amarras alámbricas de acero inoxidable y plásticas",
+    "relacion": "permiten",
+    "valor": "disminuir riesgos de extubación y desplazamiento accidental del tubo orotraqueal"
+  },
+  {
+    "entidad": "técnica de fijación de tubos orotraqueales",
+    "relacion": "es utilizada en",
+    "valor": "pacientes gran quemados"
+  },
+  {
+    "entidad": "Comité Ético Científico del Servicio de Salud Metropolitano Central",
+    "relacion": "certificó",
+    "valor": "el reporte de casos clínicos"
+  },
+  {
+    "entidad": "pacientes gran quemados",
+    "relacion": "requieren",
+    "valor": "ventilación mecánica invasiva"
+  },
+  {
+    "entidad": "fijación del tubo orotraqueal",
+    "relacion": "previene",
+    "valor": "desplazamiento y extubación no planificada"
+  },
+  {
+    "entidad": "técnica tradicional de fijación",
+    "relacion": "consiste en",
+    "valor": "asegurar el tubo con cintas de tela anudadas"
+  },
+  {
+    "entidad": "cintas de tela",
+    "relacion": "pueden provocar",
+    "valor": "daño tisular"
+  },
+  {
+    "entidad": "tornillos de fijación intermaxilar",
+    "relacion": "permiten",
+    "valor": "correcta estabilidad del tubo orotraqueal"
+  },
+  {
+    "entidad": "amarras alámbricas",
+    "relacion": "podrían soportar",
+    "valor": "una fuerza considerable para la fijación del tubo orotraqueal"
+  },
+  {
+    "entidad": "modificación de la técnica de fijación",
+    "relacion": "propone",
+    "valor": "mejorar el sistema de fijación"
+  },
+  {
+    "entidad": "intubación orotraqueal",
+    "relacion": "es crucial en",
+    "valor": "ventilación mecánica asistida en pacientes gran quemados"
+  },
+  {
+    "entidad": "fijación estable del tubo orotraqueal",
+    "relacion": "disminuye",
+    "valor": "riesgo de extubación accidental"
+  },
+  {
+    "entidad": "técnica de fijación transalveolar",
+    "relacion": "requiere",
+    "valor": "conocimiento de la anatomía del maxilar"
+  },
+  {
+    "entidad": "hipercalcemia hipocalciúrica familiar",
+    "relacion": "es un",
+    "valor": "trastorno genético"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "reporta",
+    "valor": "primer caso de hipercalcemia hipocalciúrica familiar"
+  },
+  {
+    "entidad": "mujer de 45 años",
+    "relacion": "presenta",
+    "valor": "hipercalcemia PTH dependiente"
+  },
+  {
+    "entidad": "hipocalciuria",
+    "relacion": "es un",
+    "valor": "síntoma de hipercalcemia hipocalciúrica familiar"
+  },
+  {
+    "entidad": "familia",
+    "relacion": "tiene antecedentes de",
+    "valor": "hipercalcemia asintomática"
+  },
+  {
+    "entidad": "gen del receptor sensor de calcio (CaSR)",
+    "relacion": "presenta",
+    "valor": "variante de significado incierto"
+  },
+  {
+    "entidad": "hiperparatiroidismo primario",
+    "relacion": "es una",
+    "valor": "causa de hipercalcemia PTH dependiente"
+  },
+  {
+    "entidad": "paratiroidectomía",
+    "relacion": "es un",
+    "valor": "tratamiento para hiperparatiroidismo primario"
+  },
+  {
+    "entidad": "hipercalcemia",
+    "relacion": "se caracteriza por",
+    "valor": "calcio plasmático mayor a 10,5 mg/dL"
+  },
+  {
+    "entidad": "hipercalcemia hipocalciúrica familiar",
+    "relacion": "se asocia con",
+    "valor": "mutaciones en el gen CaSR"
+  },
+  {
+    "entidad": "mutaciones en HHF",
+    "relacion": "son",
+    "valor": "autosómicas dominantes"
+  },
+  {
+    "entidad": "RCCC",
+    "relacion": "es un",
+    "valor": "índice para evaluar excreción de calcio urinario"
+  },
+  {
+    "entidad": "calcimiméticos",
+    "relacion": "se utilizan en",
+    "valor": "casos excepcionales de hipercalcemia hipocalciúrica familiar"
+  },
+  {
+    "entidad": "diagnóstico diferencial",
+    "relacion": "es necesario en",
+    "valor": "hipercalcemia PTH dependiente"
+  },
+  {
+    "entidad": "panel genético",
+    "relacion": "se recomienda para",
+    "valor": "confirmar diagnóstico de HHF"
+  },
+  {
+    "entidad": "pacientes con HHF",
+    "relacion": "no requieren",
+    "valor": "tratamiento específico"
+  },
+  {
+    "entidad": "pronóstico de pacientes con HHF",
+    "relacion": "es similar a",
+    "valor": "la población general"
+  },
+  {
+    "entidad": "Regurgitación tricuspídea",
+    "relacion": "es",
+    "valor": "la complicación valvular más frecuente después del trasplante de corazón"
+  },
+  {
+    "entidad": "Regurgitación tricuspídea",
+    "relacion": "causa",
+    "valor": "insuficiencia cardíaca derecha"
+  },
+  {
+    "entidad": "Regurgitación tricuspídea",
+    "relacion": "tiene",
+    "valor": "mal pronóstico a largo plazo"
+  },
+  {
+    "entidad": "Manejo de Regurgitación tricuspídea",
+    "relacion": "es",
+    "valor": "complejo"
+  },
+  {
+    "entidad": "Manejo de Regurgitación tricuspídea",
+    "relacion": "incluye",
+    "valor": "médico, quirúrgico y percutáneo"
+  },
+  {
+    "entidad": "TricValve",
+    "relacion": "es",
+    "valor": "un sistema bicaval con dos válvulas autoexpandibles"
+  },
+  {
+    "entidad": "TricValve",
+    "relacion": "está dedicado a",
+    "valor": "tratar la insuficiencia tricuspídea sintomática refractaria a terapia médica"
+  },
+  {
+    "entidad": "TricValve",
+    "relacion": "es",
+    "valor": "seguro y efectivo para mejorar la calidad de vida"
+  },
+  {
+    "entidad": "paciente trasplantado cardíaco",
+    "relacion": "sufre de",
+    "valor": "insuficiencia tricuspídea severa sintomática"
+  },
+  {
+    "entidad": "insuficiencia tricuspídea severa sintomática",
+    "relacion": "requiere",
+    "valor": "intervención percutánea"
+  },
+  {
+    "entidad": "intervención percutánea",
+    "relacion": "utiliza",
+    "valor": "dispositivo TricValve"
+  },
+  {
+    "entidad": "dispositivo TricValve",
+    "relacion": "reduce",
+    "valor": "reflujo cava"
+  },
+  {
+    "entidad": "dispositivo TricValve",
+    "relacion": "promueve",
+    "valor": "remodelación del ventrículo derecho"
+  },
+  {
+    "entidad": "dispositivo TricValve",
+    "relacion": "aumenta",
+    "valor": "el gasto cardíaco"
+  },
+  {
+    "entidad": "TRI-SCORE",
+    "relacion": "es",
+    "valor": "una escala de riesgo para mortalidad intrahospitalaria"
+  },
+  {
+    "entidad": "TRI-SCORE",
+    "relacion": "evalúa",
+    "valor": "ocho variables"
+  },
+  {
+    "entidad": "TRI-SCORE",
+    "relacion": "ayuda en",
+    "valor": "la toma de decisiones"
+  },
+  {
+    "entidad": "tratamiento quirúrgico",
+    "relacion": "tiene",
+    "valor": "alta tasa de complicaciones"
+  },
+  {
+    "entidad": "tratamiento percutáneo",
+    "relacion": "emerge como",
+    "valor": "opción de tratamiento en pacientes de alto riesgo"
+  },
+  {
+    "entidad": "procedimiento TricValve",
+    "relacion": "requiere",
+    "valor": "anestesia local"
+  },
+  {
+    "entidad": "procedimiento TricValve",
+    "relacion": "utiliza",
+    "valor": "acceso venoso femoral"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "es dado de alta",
+    "valor": "72 horas después sin incidentes"
+  },
+  {
+    "entidad": "ecocardiograma transtorácico",
+    "relacion": "muestra",
+    "valor": "dimensiones similares del ventrículo derecho"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "se encuentra",
+    "valor": "asintomático a los seis meses"
+  },
+  {
+    "entidad": "Síndrome de POEMS",
+    "relacion": "es un",
+    "valor": "trastorno multisistémico"
+  },
+  {
+    "entidad": "Síndrome de POEMS",
+    "relacion": "es causado por",
+    "valor": "neoplasia de células plasmáticas"
+  },
+  {
+    "entidad": "POEMS",
+    "relacion": "se refiere a",
+    "valor": "polineuropatía, organomegalia, endocrinopatía, proteína monoclonal y cambios en la piel"
+  },
+  {
+    "entidad": "Síndrome de POEMS",
+    "relacion": "es",
+    "valor": "una patología rara"
+  },
+  {
+    "entidad": "International Myeloma Working Group",
+    "relacion": "define",
+    "valor": "criterios de diagnóstico para el síndrome de POEMS"
+  },
+  {
+    "entidad": "citoquinas proinflamatorias",
+    "relacion": "juegan un rol en",
+    "valor": "la fisiopatología del síndrome de POEMS"
+  },
+  {
+    "entidad": "factor de crecimiento endotelial vascular (VEGF)",
+    "relacion": "es sobreproducido en",
+    "valor": "el síndrome de POEMS"
+  },
+  {
+    "entidad": "Hospital Carlos Van Buren",
+    "relacion": "estudia y trata",
+    "valor": "pacientes con síndrome de POEMS"
+  },
+  {
+    "entidad": "melfalán/dexametasona",
+    "relacion": "es un tratamiento utilizado en",
+    "valor": "síndrome de POEMS"
+  },
+  {
+    "entidad": "pacientes con síndrome de POEMS",
+    "relacion": "se encuentran",
+    "valor": "estables en controles ambulatorios"
+  },
+  {
+    "entidad": "polineuropatía",
+    "relacion": "es el hallazgo más común en",
+    "valor": "síndrome de POEMS"
+  },
+  {
+    "entidad": "gammopatía monoclonal de significado incierto (GMSI)",
+    "relacion": "es común en",
+    "valor": "pacientes con síndrome de POEMS"
+  },
+  {
+    "entidad": "casos atípicos",
+    "relacion": "no cumplen",
+    "valor": "todos los criterios de diagnóstico del síndrome de POEMS"
+  },
+  {
+    "entidad": "tratamiento empírico",
+    "relacion": "se inicia según",
+    "valor": "el compromiso sintomático"
+  },
+  {
+    "entidad": "dexametasona",
+    "relacion": "se utiliza junto a",
+    "valor": "melfalán en el tratamiento del síndrome de POEMS"
+  },
+  {
+    "entidad": "hiperprolactinemia",
+    "relacion": "es un hallazgo en",
+    "valor": "uno de los casos de síndrome de POEMS"
+  },
+  {
+    "entidad": "hipogonadismo hipogonadotropo",
+    "relacion": "es un hallazgo en",
+    "valor": "uno de los casos de síndrome de POEMS"
+  },
+  {
+    "entidad": "liquen plano",
+    "relacion": "es un hallazgo dermatológico en",
+    "valor": "uno de los casos de síndrome de POEMS"
+  }
+]

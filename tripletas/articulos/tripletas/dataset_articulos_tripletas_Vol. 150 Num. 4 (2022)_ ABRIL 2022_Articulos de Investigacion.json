@@ -1,0 +1,787 @@
+[
+  {
+    "entidad": "tutores clínicos",
+    "relacion": "tienen atributos",
+    "valor": "competencias clínicas, competencias docentes y características personales"
+  },
+  {
+    "entidad": "desempeño global del tutor",
+    "relacion": "se considera",
+    "valor": "capacidad de facilitar un proceso de aprendizaje activo y un ambiente cálido"
+  },
+  {
+    "entidad": "competencias docentes",
+    "relacion": "tienen mayor influencia en",
+    "valor": "desempeño global"
+  },
+  {
+    "entidad": "características personales",
+    "relacion": "tienen influencia significativa en",
+    "valor": "desempeño global"
+  },
+  {
+    "entidad": "competencias clínicas",
+    "relacion": "tienen influencia indirecta en",
+    "valor": "competencias docentes"
+  },
+  {
+    "entidad": "modelo",
+    "relacion": "explica",
+    "valor": "88% de la varianza del desempeño global del tutor"
+  },
+  {
+    "entidad": "estudiantes de medicina",
+    "relacion": "evaluaron",
+    "valor": "37 tutores clínicos"
+  },
+  {
+    "entidad": "Role Model Apperception Tool (RoMAT)",
+    "relacion": "es un",
+    "valor": "cuestionario utilizado para evaluar percepciones de estudiantes"
+  },
+  {
+    "entidad": "Universidad de Chile",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "estudiantes de segundo año de medicina",
+    "relacion": "respondieron",
+    "valor": "cuestionario RoMAT"
+  },
+  {
+    "entidad": "entorno de aprendizaje",
+    "relacion": "debe ser",
+    "valor": "cálido y de soporte"
+  },
+  {
+    "entidad": "competencias docentes",
+    "relacion": "son más valoradas que",
+    "valor": "competencias clínicas"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "muestra",
+    "valor": "que competencias docentes y características personales influyen en desempeño"
+  },
+  {
+    "entidad": "tutores clínicos",
+    "relacion": "deben ser",
+    "valor": "modelos a seguir"
+  },
+  {
+    "entidad": "evaluación de competencias docentes",
+    "relacion": "es necesaria para",
+    "valor": "mejorar la enseñanza clínica"
+  },
+  {
+    "entidad": "método PLS-SEM",
+    "relacion": "se utiliza para",
+    "valor": "analizar relaciones entre variables"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "es una",
+    "valor": "enfermedad"
+  },
+  {
+    "entidad": "SARS-CoV-2",
+    "relacion": "causa",
+    "valor": "COVID-19"
+  },
+  {
+    "entidad": "Hospital de Puerto Montt",
+    "relacion": "es un",
+    "valor": "centro de referencia en la Región de Los Lagos"
+  },
+  {
+    "entidad": "Universidad San Sebastián",
+    "relacion": "pertenece a",
+    "valor": "Hospital de Puerto Montt"
+  },
+  {
+    "entidad": "Javier Riquelme de la Fuente",
+    "relacion": "es el",
+    "valor": "autor principal del estudio"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "afecta a",
+    "valor": "adultos"
+  },
+  {
+    "entidad": "neumonía",
+    "relacion": "es la",
+    "valor": "principal causa de hospitalización por COVID-19"
+  },
+  {
+    "entidad": "comorbilidades",
+    "relacion": "aumentan",
+    "valor": "la gravedad de COVID-19"
+  },
+  {
+    "entidad": "edad ≥ 65 años",
+    "relacion": "no es un",
+    "valor": "factor de riesgo independiente para fallecer"
+  },
+  {
+    "entidad": "índice de Charlson ≥ 3",
+    "relacion": "es un",
+    "valor": "factor de riesgo para fallecer"
+  },
+  {
+    "entidad": "insuficiencia cardiaca",
+    "relacion": "es un",
+    "valor": "factor de riesgo para fallecer"
+  },
+  {
+    "entidad": "ventilación mecánica invasiva",
+    "relacion": "es un",
+    "valor": "factor de riesgo para fallecer"
+  },
+  {
+    "entidad": "neumonía viral",
+    "relacion": "ocurre en",
+    "valor": "81% de los casos"
+  },
+  {
+    "entidad": "neumonía",
+    "relacion": "es la",
+    "valor": "causa principal de ingreso en 66% de los casos"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "fue declarado",
+    "valor": "pandemia por la OMS"
+  },
+  {
+    "entidad": "Hospital de Puerto Montt",
+    "relacion": "recibió",
+    "valor": "la mayoría de los pacientes con COVID-19 de la región"
+  },
+  {
+    "entidad": "brote nosocomial",
+    "relacion": "incluyó",
+    "valor": "19 pacientes"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "fue",
+    "valor": "9,7%"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "se diagnosticó",
+    "valor": "en 226 pacientes"
+  },
+  {
+    "entidad": "días de hospitalización",
+    "relacion": "fueron",
+    "valor": "13,3 días"
+  },
+  {
+    "entidad": "antimicrobianos",
+    "relacion": "fueron usados en",
+    "valor": "55% de los pacientes"
+  },
+  {
+    "entidad": "dexametasona",
+    "relacion": "fue usada en",
+    "valor": "36% de los pacientes"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "presenta síntomas como",
+    "valor": "disnea, tos y fiebre"
+  },
+  {
+    "entidad": "comorbilidades",
+    "relacion": "incluyen",
+    "valor": "hipertensión arterial, diabetes mellitus y obesidad"
+  },
+  {
+    "entidad": "Hospital de Puerto Montt",
+    "relacion": "fue autorizado por",
+    "valor": "el Comité de Ética Científica del Servicio de Salud del Reloncaví"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "es una",
+    "valor": "enfermedad causada por el virus SARS-CoV-2"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud (OMS)",
+    "relacion": "declara",
+    "valor": "pandemia de COVID-19"
+  },
+  {
+    "entidad": "confinamiento",
+    "relacion": "es una",
+    "valor": "medida de salud pública para controlar COVID-19"
+  },
+  {
+    "entidad": "adolescentes chilenos",
+    "relacion": "experimentan",
+    "valor": "cambios en hábitos alimentarios y actividad física"
+  },
+  {
+    "entidad": "estilos de vida",
+    "relacion": "se modifican",
+    "valor": "durante el confinamiento por COVID-19"
+  },
+  {
+    "entidad": "dieta de calidad",
+    "relacion": "previene",
+    "valor": "enfermedades crónicas no transmisibles"
+  },
+  {
+    "entidad": "encuesta en línea",
+    "relacion": "evalúa",
+    "valor": "hábitos alimentarios y actividad física"
+  },
+  {
+    "entidad": "adolescentes",
+    "relacion": "responden",
+    "valor": "a una encuesta sobre hábitos alimentarios"
+  },
+  {
+    "entidad": "consumo de almuerzo",
+    "relacion": "aumenta",
+    "valor": "durante el confinamiento"
+  },
+  {
+    "entidad": "consumo de alimentos saludables",
+    "relacion": "disminuye",
+    "valor": "durante el confinamiento"
+  },
+  {
+    "entidad": "tiempo sentado",
+    "relacion": "aumenta",
+    "valor": "durante el confinamiento"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "disminuye",
+    "valor": "durante el confinamiento"
+  },
+  {
+    "entidad": "estrés y aburrimiento",
+    "relacion": "son factores de riesgo",
+    "valor": "para el aumento de la ingesta de alimentos"
+  },
+  {
+    "entidad": "políticas de salud pública",
+    "relacion": "deben ser implementadas",
+    "valor": "para mitigar efectos negativos del confinamiento"
+  },
+  {
+    "entidad": "Universidad de Concepción",
+    "relacion": "es la",
+    "valor": "institución donde se realizó el estudio"
+  },
+  {
+    "entidad": "Comité de Ética y Bioética",
+    "relacion": "aprueba",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "adolescentes",
+    "relacion": "son un grupo etario",
+    "valor": "históricamente abandonado por la salud pública"
+  },
+  {
+    "entidad": "Generalized Anxiety Disorder 7-Item (GAD-7)",
+    "relacion": "es un",
+    "valor": "instrumento de evaluación de trastorno de ansiedad generalizada"
+  },
+  {
+    "entidad": "GAD-7",
+    "relacion": "se adapta a",
+    "valor": "población adolescente en Chile"
+  },
+  {
+    "entidad": "GAD-7",
+    "relacion": "evalúa",
+    "valor": "propiedades psicométricas"
+  },
+  {
+    "entidad": "adolescentes",
+    "relacion": "presentan",
+    "valor": "trastornos de ansiedad"
+  },
+  {
+    "entidad": "trastorno de ansiedad generalizada (TAG)",
+    "relacion": "se caracteriza por",
+    "valor": "ansiedad y preocupación excesiva"
+  },
+  {
+    "entidad": "GAD-7",
+    "relacion": "mide",
+    "valor": "síntomas de ansiedad"
+  },
+  {
+    "entidad": "GAD-7",
+    "relacion": "tiene",
+    "valor": "buena fiabilidad"
+  },
+  {
+    "entidad": "GAD-7",
+    "relacion": "muestra",
+    "valor": "correlaciones significativas con síntomas depresivos"
+  },
+  {
+    "entidad": "GAD-7",
+    "relacion": "es sensible a",
+    "valor": "cambios relacionados con el tratamiento"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "puntúan más alto que",
+    "valor": "hombres en GAD-7"
+  },
+  {
+    "entidad": "escuela de salud pública",
+    "relacion": "pertenece a",
+    "valor": "Universidad de Chile"
+  },
+  {
+    "entidad": "Núcleo Milenio para Mejorar la Salud Mental de Adolescentes y Jóvenes (Imhay)",
+    "relacion": "está ubicado en",
+    "valor": "Santiago, Chile"
+  },
+  {
+    "entidad": "Instituto Milenio para la Investigación en Depresión y Personalidad (MIDAP)",
+    "relacion": "está ubicado en",
+    "valor": "Santiago, Chile"
+  },
+  {
+    "entidad": "Centro de Medicina Reproductiva y Desarrollo Integral del Adolescente (CEMERA)",
+    "relacion": "pertenece a",
+    "valor": "Facultad de Medicina, Universidad de Chile"
+  },
+  {
+    "entidad": "PHQ-9",
+    "relacion": "evalúa",
+    "valor": "síntomas depresivos"
+  },
+  {
+    "entidad": "KIDSCREEN-10",
+    "relacion": "evalúa",
+    "valor": "calidad de vida relacionada con la salud"
+  },
+  {
+    "entidad": "ANID",
+    "relacion": "financia",
+    "valor": "estudio"
+  },
+  {
+    "entidad": "Ministerio de Educación, Cultura y Deporte de España",
+    "relacion": "apoya",
+    "valor": "formación de profesorado universitario"
+  },
+  {
+    "entidad": "EuroSCORE II",
+    "relacion": "es un",
+    "valor": "score de riesgo de mortalidad para cirugía cardíaca en adultos"
+  },
+  {
+    "entidad": "EuroSCORE II",
+    "relacion": "se utiliza en",
+    "valor": "cirugías cardíacas en Latinoamérica"
+  },
+  {
+    "entidad": "EuroSCORE II",
+    "relacion": "subestima",
+    "valor": "el riesgo de mortalidad en cirugía cardíaca"
+  },
+  {
+    "entidad": "EuroSCORE II",
+    "relacion": "fue desarrollado con",
+    "valor": "22,381 pacientes de 43 países"
+  },
+  {
+    "entidad": "EuroSCORE II",
+    "relacion": "se calibra mediante",
+    "valor": "la relación de mortalidad observada/estimada"
+  },
+  {
+    "entidad": "EuroSCORE II",
+    "relacion": "muestra un",
+    "valor": "poder de discriminación moderado"
+  },
+  {
+    "entidad": "EuroSCORE II",
+    "relacion": "fue validado en",
+    "valor": "Argentina, Brasil y Uruguay"
+  },
+  {
+    "entidad": "Society of Thoracic Surgeons Score (STS score)",
+    "relacion": "es un",
+    "valor": "modelo de riesgo para cirugía cardíaca"
+  },
+  {
+    "entidad": "InsCor",
+    "relacion": "es un",
+    "valor": "modelo de riesgo local en Brasil"
+  },
+  {
+    "entidad": "ArgenSCORE",
+    "relacion": "es un",
+    "valor": "modelo de riesgo local en Argentina"
+  },
+  {
+    "entidad": "Universidad de Talca",
+    "relacion": "es una",
+    "valor": "institución educativa en Chile"
+  },
+  {
+    "entidad": "Facultad de Medicina, Universidad de Concepción",
+    "relacion": "es una",
+    "valor": "institución educativa en Chile"
+  },
+  {
+    "entidad": "Catalina Cerda-Núñez",
+    "relacion": "es un",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "JAVIERA YÁNEZ-LILLO",
+    "relacion": "es un",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "ENRIQUE SEGUEL",
+    "relacion": "es un",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "SERGIO GUINEZ-MOLINOS",
+    "relacion": "es un",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "PRISMA",
+    "relacion": "es un",
+    "valor": "lineamiento para revisiones sistemáticas"
+  },
+  {
+    "entidad": "Scielo",
+    "relacion": "es una",
+    "valor": "base de datos electrónica"
+  },
+  {
+    "entidad": "Pubmed",
+    "relacion": "es una",
+    "valor": "base de datos electrónica"
+  },
+  {
+    "entidad": "Scopus",
+    "relacion": "es una",
+    "valor": "base de datos electrónica"
+  },
+  {
+    "entidad": "GRADE",
+    "relacion": "es un",
+    "valor": "sistema para evaluar la calidad de la evidencia"
+  },
+  {
+    "entidad": "CONISS",
+    "relacion": "es un",
+    "valor": "concurso nacional de ingreso a los servicios de salud"
+  },
+  {
+    "entidad": "gobierno de Chile",
+    "relacion": "implementa",
+    "valor": "estrategias para la formación de profesionales de salud"
+  },
+  {
+    "entidad": "médicos especialistas",
+    "relacion": "son un",
+    "valor": "recurso esencial para el sistema de salud"
+  },
+  {
+    "entidad": "déficit de médicos especialistas",
+    "relacion": "afecta a",
+    "valor": "la atención de salud en Chile"
+  },
+  {
+    "entidad": "puntuaciones del CONISS",
+    "relacion": "se utilizan para",
+    "valor": "la asignación de recursos de formación"
+  },
+  {
+    "entidad": "médicos-cirujanos",
+    "relacion": "participan en",
+    "valor": "el CONISS"
+  },
+  {
+    "entidad": "Universidad de Concepción",
+    "relacion": "es un",
+    "valor": "centro de formación médica"
+  },
+  {
+    "entidad": "puntuaciones definitivas",
+    "relacion": "aumentan",
+    "valor": "progresivamente entre 2016 y 2020"
+  },
+  {
+    "entidad": "mujeres participantes",
+    "relacion": "representan",
+    "valor": "49% de los participantes"
+  },
+  {
+    "entidad": "calificación médica nacional",
+    "relacion": "influye en",
+    "valor": "las puntuaciones definitivas del CONISS"
+  },
+  {
+    "entidad": "Ministerio de Salud",
+    "relacion": "regula",
+    "valor": "los mecanismos de especialización médica"
+  },
+  {
+    "entidad": "población objetivo",
+    "relacion": "consiste en",
+    "valor": "médicos-cirujanos que participan en el CONISS"
+  },
+  {
+    "entidad": "evaluación del CONISS",
+    "relacion": "se basa en",
+    "valor": "antecedentes de desempeño curricular y extracurricular"
+  },
+  {
+    "entidad": "recursos humanos en salud",
+    "relacion": "son necesarios para",
+    "valor": "garantizar la atención de salud"
+  },
+  {
+    "entidad": "universidades chilenas",
+    "relacion": "proporcionan",
+    "valor": "médicos-cirujanos para el CONISS"
+  },
+  {
+    "entidad": "puntuaciones parciales",
+    "relacion": "se evalúan en",
+    "valor": "cinco rubros del CONISS"
+  },
+  {
+    "entidad": "CONISS",
+    "relacion": "convoca",
+    "valor": "a médicos-cirujanos recién egresados"
+  },
+  {
+    "entidad": "puntuación máxima",
+    "relacion": "se logra en",
+    "valor": "los rubros 2, 3, 4 y 5 del CONISS"
+  },
+  {
+    "entidad": "población de médicos especialistas",
+    "relacion": "debe ser suficiente para",
+    "valor": "atender las necesidades de salud"
+  },
+  {
+    "entidad": "puntuaciones del CONISS",
+    "relacion": "son analizadas en",
+    "valor": "un estudio exploratorio"
+  },
+  {
+    "entidad": "Tocilizumab",
+    "relacion": "es un",
+    "valor": "tratamiento para COVID-19"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "afecta a",
+    "valor": "pacientes con neumonía severa"
+  },
+  {
+    "entidad": "Tocilizumab",
+    "relacion": "se utiliza en",
+    "valor": "indicación off-label"
+  },
+  {
+    "entidad": "Tocilizumab",
+    "relacion": "causa",
+    "valor": "reacciones adversas"
+  },
+  {
+    "entidad": "reacciones adversas",
+    "relacion": "incluyen",
+    "valor": "neutropenia"
+  },
+  {
+    "entidad": "reacciones adversas",
+    "relacion": "incluyen",
+    "valor": "trombocitopenia"
+  },
+  {
+    "entidad": "reacciones adversas",
+    "relacion": "incluyen",
+    "valor": "transaminitis"
+  },
+  {
+    "entidad": "reacciones adversas",
+    "relacion": "incluyen",
+    "valor": "desarrollo de infecciones"
+  },
+  {
+    "entidad": "Tocilizumab",
+    "relacion": "se evalúa en",
+    "valor": "pacientes adultos"
+  },
+  {
+    "entidad": "Tocilizumab",
+    "relacion": "tiene un perfil de",
+    "valor": "seguridad"
+  },
+  {
+    "entidad": "incidencia acumulada de reacciones adversas",
+    "relacion": "es",
+    "valor": "frecuente"
+  },
+  {
+    "entidad": "reacciones adversas",
+    "relacion": "son clasificadas como",
+    "valor": "probables o posibles"
+  },
+  {
+    "entidad": "Tocilizumab",
+    "relacion": "requiere",
+    "valor": "monitoreo de hemograma y pruebas hepáticas"
+  },
+  {
+    "entidad": "corticoides",
+    "relacion": "son un",
+    "valor": "factor de riesgo para infecciones"
+  },
+  {
+    "entidad": "Hospital Clínico UC-Christus",
+    "relacion": "es un",
+    "valor": "centro de estudio"
+  },
+  {
+    "entidad": "Programa de Farmacología y Toxicología",
+    "relacion": "pertenece a",
+    "valor": "Pontificia Universidad Católica de Chile"
+  },
+  {
+    "entidad": "Nicolás Severino",
+    "relacion": "es un",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "Waldo Gutiérrez",
+    "relacion": "es un",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "Tamara Fuenzalida",
+    "relacion": "es un",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "Pablo Iturra",
+    "relacion": "es un",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "Antonio González",
+    "relacion": "es un",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "STOP-BANG questionnaire",
+    "relacion": "es un",
+    "valor": "herramienta de tamizaje"
+  },
+  {
+    "entidad": "Obstructive sleep apnea (OSA)",
+    "relacion": "afecta a",
+    "valor": "manejo de la vía aérea"
+  },
+  {
+    "entidad": "STOP-BANG questionnaire",
+    "relacion": "predice",
+    "valor": "dificultad en el manejo de la vía aérea"
+  },
+  {
+    "entidad": "dificultad en el manejo de la vía aérea",
+    "relacion": "se asocia con",
+    "valor": "riesgo de SAHOS"
+  },
+  {
+    "entidad": "SAHOS",
+    "relacion": "es una",
+    "valor": "patología prevalente"
+  },
+  {
+    "entidad": "anestesia general",
+    "relacion": "se utiliza en",
+    "valor": "procedimientos quirúrgicos ambulatorios"
+  },
+  {
+    "entidad": "STOP-BANG questionnaire",
+    "relacion": "se aplica por",
+    "valor": "enfermera"
+  },
+  {
+    "entidad": "dificultad para ventilar con máscara",
+    "relacion": "es evaluada por",
+    "valor": "escala de Han"
+  },
+  {
+    "entidad": "dificultad para intubar",
+    "relacion": "es evaluada por",
+    "valor": "escala de Cormack-Lehane"
+  },
+  {
+    "entidad": "STOP-BANG",
+    "relacion": "se clasifica en",
+    "valor": "bajo, moderado, alto riesgo"
+  },
+  {
+    "entidad": "STOP-BANG",
+    "relacion": "tiene un punto de corte de",
+    "valor": "> 2 para dificultad en ventilación"
+  },
+  {
+    "entidad": "STOP-BANG questionnaire",
+    "relacion": "se incluye en",
+    "valor": "evaluación preanestésica"
+  },
+  {
+    "entidad": "anestesiología",
+    "relacion": "es un",
+    "valor": "campo de estudio"
+  },
+  {
+    "entidad": "Dra. Valeria Monsalve Fuentes",
+    "relacion": "es la",
+    "valor": "autora principal"
+  },
+  {
+    "entidad": "Servicio de Anestesiología Clínica Dávila",
+    "relacion": "es un",
+    "valor": "centro de investigación"
+  },
+  {
+    "entidad": "Universidad de los Andes",
+    "relacion": "es un",
+    "valor": "institución educativa"
+  },
+  {
+    "entidad": "dificultad en el manejo de la vía aérea",
+    "relacion": "se relaciona con",
+    "valor": "obesidad y otros factores"
+  },
+  {
+    "entidad": "STOP-BANG",
+    "relacion": "demuestra",
+    "valor": "capacidad discriminativa aceptable"
+  },
+  {
+    "entidad": "STOP-BANG",
+    "relacion": "no se recomienda como",
+    "valor": "predictor único"
+  }
+]

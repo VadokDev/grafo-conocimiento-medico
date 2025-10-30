@@ -1,0 +1,97 @@
+[
+  {
+    "entidad": "Neurofibromatosis tipo 1 (NF1)",
+    "relacion": "es un",
+    "valor": "desorden autosómico dominante"
+  },
+  {
+    "entidad": "NF1",
+    "relacion": "causa",
+    "valor": "mutaciones en el gen NF1"
+  },
+  {
+    "entidad": "NF1",
+    "relacion": "tiene",
+    "valor": "alta variabilidad clínica"
+  },
+  {
+    "entidad": "NF1",
+    "relacion": "presenta",
+    "valor": "penetrancia completa"
+  },
+  {
+    "entidad": "neurofibromina",
+    "relacion": "es el producto de",
+    "valor": "el gen NF1"
+  },
+  {
+    "entidad": "neurofibromina",
+    "relacion": "actúa como",
+    "valor": "supresor tumoral"
+  },
+  {
+    "entidad": "análisis mutacional",
+    "relacion": "es recomendado para",
+    "valor": "confirmar el diagnóstico en niños"
+  },
+  {
+    "entidad": "análisis mutacional",
+    "relacion": "es útil para",
+    "valor": "diagnóstico prenatal o preimplantacional"
+  },
+  {
+    "entidad": "NF1",
+    "relacion": "se asocia con",
+    "valor": "tumores benignos y malignos"
+  },
+  {
+    "entidad": "criterios NIH",
+    "relacion": "son utilizados para",
+    "valor": "diagnóstico clínico de NF1"
+  },
+  {
+    "entidad": "mutaciones esporádicas",
+    "relacion": "ocurren en",
+    "valor": "aproximadamente el 50% de los casos"
+  },
+  {
+    "entidad": "mutaciones en NF1",
+    "relacion": "han sido reportadas",
+    "valor": "más de 1289"
+  },
+  {
+    "entidad": "NF1",
+    "relacion": "se caracteriza por",
+    "valor": "extrema variabilidad clínica"
+  },
+  {
+    "entidad": "mutaciones en el gen NF1",
+    "relacion": "se localizan en",
+    "valor": "el cromosoma 17q11.2"
+  },
+  {
+    "entidad": "análisis mutacional",
+    "relacion": "aumenta",
+    "valor": "la sensibilidad del diagnóstico"
+  },
+  {
+    "entidad": "métodos moleculares",
+    "relacion": "son utilizados para",
+    "valor": "identificar mutaciones en NF1"
+  },
+  {
+    "entidad": "familiares de pacientes con NF1",
+    "relacion": "tienen",
+    "valor": "50% de riesgo de heredar el gen alterado"
+  },
+  {
+    "entidad": "NF1",
+    "relacion": "se manifiesta con",
+    "valor": "manchas café con leche"
+  },
+  {
+    "entidad": "análisis mutacional",
+    "relacion": "puede facilitar",
+    "valor": "diagnóstico diferencial de NF1"
+  }
+]

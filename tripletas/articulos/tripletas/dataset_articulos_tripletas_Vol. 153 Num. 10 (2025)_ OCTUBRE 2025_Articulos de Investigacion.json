@@ -1,0 +1,412 @@
+[
+  {
+    "entidad": "estudiantes de Medicina de Chile",
+    "relacion": "perceiben",
+    "valor": "buen trato docente"
+  },
+  {
+    "entidad": "maltrato académico",
+    "relacion": "asocia con",
+    "valor": "agotamiento y trastornos emocionales"
+  },
+  {
+    "entidad": "entorno positivo",
+    "relacion": "fomenta",
+    "valor": "empatía y satisfacción estudiantil"
+  },
+  {
+    "entidad": "buen trato docente",
+    "relacion": "mejora",
+    "valor": "satisfacción con la vida"
+  },
+  {
+    "entidad": "buen trato docente",
+    "relacion": "reduce",
+    "valor": "agotamiento"
+  },
+  {
+    "entidad": "buen trato docente",
+    "relacion": "asocia con",
+    "valor": "equilibrio trabajo-vida"
+  },
+  {
+    "entidad": "universidades chilenas",
+    "relacion": "realizan",
+    "valor": "estudio transversal"
+  },
+  {
+    "entidad": "Cuestionario de Buen Trato Docente",
+    "relacion": "evalúa",
+    "valor": "prácticas docentes"
+  },
+  {
+    "entidad": "estudiantes más jóvenes",
+    "relacion": "reportan",
+    "valor": "mejores percepciones de buen trato docente"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "perciben",
+    "valor": "mayor apoyo en planificación flexible"
+  },
+  {
+    "entidad": "cursos teóricos y sincrónicos",
+    "relacion": "asocian con",
+    "valor": "mejores percepciones de agilidad en clase"
+  },
+  {
+    "entidad": "satisfacción personal",
+    "relacion": "relacionada con",
+    "valor": "buen trato docente"
+  },
+  {
+    "entidad": "diferencias entre universidades",
+    "relacion": "destacan",
+    "valor": "necesidad de políticas inclusivas"
+  },
+  {
+    "entidad": "buen trato docente",
+    "relacion": "vinculado a",
+    "valor": "mejores niveles de satisfacción con la vida"
+  },
+  {
+    "entidad": "estudiantes homosexuales",
+    "relacion": "perciben",
+    "valor": "mayores niveles de buenas prácticas docentes"
+  },
+  {
+    "entidad": "ingresos familiares altos",
+    "relacion": "asocian con",
+    "valor": "mejor dominio de la disciplina por parte de los profesores"
+  },
+  {
+    "entidad": "buenas prácticas docentes",
+    "relacion": "asociadas con",
+    "valor": "satisfacción en salud y vida"
+  },
+  {
+    "entidad": "tamaño del grupo de estudiantes",
+    "relacion": "afecta",
+    "valor": "percepciones de apertura al diálogo"
+  },
+  {
+    "entidad": "políticas institucionales inclusivas",
+    "relacion": "necesarias para",
+    "valor": "fomentar entornos equitativos"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "tiene",
+    "valor": "disparidades regionales en enfermedades no transmisibles"
+  },
+  {
+    "entidad": "enfermedades no transmisibles",
+    "relacion": "incluyen",
+    "valor": "cáncer y diabetes"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud, Sexualidad y Género (ENSSEX)",
+    "relacion": "utiliza",
+    "valor": "datos para evaluar disparidades"
+  },
+  {
+    "entidad": "mamografía",
+    "relacion": "es un",
+    "valor": "indicador clave de salud"
+  },
+  {
+    "entidad": "Papanicolaou (PAP)",
+    "relacion": "es un",
+    "valor": "indicador clave de salud"
+  },
+  {
+    "entidad": "antígeno prostático específico (PSA)",
+    "relacion": "es un",
+    "valor": "indicador clave de salud"
+  },
+  {
+    "entidad": "tratamiento de diabetes",
+    "relacion": "es un",
+    "valor": "indicador clave de salud"
+  },
+  {
+    "entidad": "índice general de disparidad (IDg)",
+    "relacion": "revela",
+    "valor": "diferencias en acceso a exámenes preventivos"
+  },
+  {
+    "entidad": "macrozonas norte y sur",
+    "relacion": "presentan",
+    "valor": "mejor desempeño en salud"
+  },
+  {
+    "entidad": "regiones como Tarapacá, Maule y Metropolitana",
+    "relacion": "registran",
+    "valor": "rezagos importantes en salud"
+  },
+  {
+    "entidad": "políticas de descentralización",
+    "relacion": "son necesarias para",
+    "valor": "reducir brechas de salud"
+  },
+  {
+    "entidad": "Meta 3.4 de los Objetivos de Desarrollo Sostenible",
+    "relacion": "promueve",
+    "valor": "reducir mortalidad prematura por ENT"
+  },
+  {
+    "entidad": "determinantes sociales de la salud",
+    "relacion": "afectan",
+    "valor": "acceso y calidad de atención sanitaria"
+  },
+  {
+    "entidad": "Ministerio de Salud",
+    "relacion": "realiza",
+    "valor": "la Encuesta Nacional de Salud, Sexualidad y Género"
+  },
+  {
+    "entidad": "Modelo de Atención con Enfoque Familiar en la Atención Primaria de Salud",
+    "relacion": "se implementa a través de",
+    "valor": "Centros de Salud Familiar (CESFAM)"
+  },
+  {
+    "entidad": "Garantías Explícitas en Salud (GES)",
+    "relacion": "amplía",
+    "valor": "cobertura de problemas de salud"
+  },
+  {
+    "entidad": "enfermedades cardiovasculares",
+    "relacion": "son",
+    "valor": "una de las principales causas de muerte"
+  },
+  {
+    "entidad": "población indígena",
+    "relacion": "muestra",
+    "valor": "tasas más bajas en tratamiento de diabetes"
+  },
+  {
+    "entidad": "mujeres extranjeras",
+    "relacion": "tienen",
+    "valor": "mayores porcentajes de realización de PAP"
+  },
+  {
+    "entidad": "regiones de Aysén y Ñuble",
+    "relacion": "muestran",
+    "valor": "alto desempeño en salud"
+  },
+  {
+    "entidad": "regiones de Tarapacá, Maule y Metropolitana",
+    "relacion": "presentan",
+    "valor": "brechas significativas en salud"
+  },
+  {
+    "entidad": "disparidades en salud",
+    "relacion": "se definen como",
+    "valor": "diferencias significativas entre grupos poblacionales"
+  },
+  {
+    "entidad": "sistemas de salud segmentados",
+    "relacion": "contribuyen a",
+    "valor": "desigualdades en salud"
+  },
+  {
+    "entidad": "acceso a servicios de salud preventiva",
+    "relacion": "es crítico para",
+    "valor": "reducir mortalidad por ENT"
+  },
+  {
+    "entidad": "Brucella canis",
+    "relacion": "causa",
+    "valor": "infecciones zoonóticas en humanos"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "tiene",
+    "valor": "infecciones emergentes por Brucella canis"
+  },
+  {
+    "entidad": "diagnóstico serológico",
+    "relacion": "fue introducido en",
+    "valor": "Chile en 2017"
+  },
+  {
+    "entidad": "estudio multicéntrico",
+    "relacion": "realizado en",
+    "valor": "tres hospitales en el sur de Chile"
+  },
+  {
+    "entidad": "prueba de aglutinación rápida en lámina con mercaptoetanol (ME-RSAT)",
+    "relacion": "se utiliza para",
+    "valor": "diagnóstico de Brucella canis"
+  },
+  {
+    "entidad": "casos de brucelosis",
+    "relacion": "son concentrados en",
+    "valor": "regiones del sur de Chile"
+  },
+  {
+    "entidad": "exposición a perros",
+    "relacion": "es un factor de riesgo para",
+    "valor": "infecciones por Brucella canis"
+  },
+  {
+    "entidad": "HLA B*07",
+    "relacion": "se asocia con",
+    "valor": "infecciones por Brucella canis"
+  },
+  {
+    "entidad": "doxiciclina",
+    "relacion": "es un tratamiento para",
+    "valor": "infecciones por Brucella canis"
+  },
+  {
+    "entidad": "Brucella canis",
+    "relacion": "causa",
+    "valor": "epididimitis y abortos en perros"
+  },
+  {
+    "entidad": "Instituto de Salud Pública (ISP)",
+    "relacion": "es el",
+    "valor": "laboratorio de referencia nacional en Chile"
+  },
+  {
+    "entidad": "serología",
+    "relacion": "es el método principal para",
+    "valor": "diagnóstico de Brucella canis"
+  },
+  {
+    "entidad": "infecciones por Brucella canis",
+    "relacion": "presentan",
+    "valor": "síndromes febriles agudos o prolongados"
+  },
+  {
+    "entidad": "granulomas",
+    "relacion": "se observan en",
+    "valor": "análisis histológicos de casos de brucelosis"
+  },
+  {
+    "entidad": "HLA-B39 y HLA-B27",
+    "relacion": "se han identificado como",
+    "valor": "marcadores de riesgo en brucelosis"
+  },
+  {
+    "entidad": "doxiciclina y rifampicina",
+    "relacion": "se recomiendan para",
+    "valor": "tratamiento de brucelosis complicada"
+  },
+  {
+    "entidad": "Brucella canis",
+    "relacion": "es un",
+    "valor": "problema emergente en salud pública"
+  },
+  {
+    "entidad": "método ME-RSAT",
+    "relacion": "tiene",
+    "valor": "alta sensibilidad y especificidad en diagnóstico"
+  },
+  {
+    "entidad": "infecciones por Brucella canis",
+    "relacion": "pueden causar",
+    "valor": "morbilidad prolongada y riesgo de recaídas"
+  },
+  {
+    "entidad": "DART",
+    "relacion": "es un",
+    "valor": "software de IA para detección de retinopatía diabética"
+  },
+  {
+    "entidad": "retinopatía diabética",
+    "relacion": "es una",
+    "valor": "complicación de la diabetes mellitus"
+  },
+  {
+    "entidad": "diabetes mellitus",
+    "relacion": "es una",
+    "valor": "enfermedad crónica"
+  },
+  {
+    "entidad": "DART",
+    "relacion": "utiliza",
+    "valor": "probabilidad condicional y estándar de referencia adecuado"
+  },
+  {
+    "entidad": "DART",
+    "relacion": "se implementó en",
+    "valor": "el sistema público de salud en Chile"
+  },
+  {
+    "entidad": "sensibilidad",
+    "relacion": "se corrige mediante",
+    "valor": "aplicación de probabilidad condicional"
+  },
+  {
+    "entidad": "especificidad",
+    "relacion": "se corrige mediante",
+    "valor": "aplicación de probabilidad condicional"
+  },
+  {
+    "entidad": "fundoscopía",
+    "relacion": "es un",
+    "valor": "método para diagnosticar retinopatía diabética"
+  },
+  {
+    "entidad": "retinografía",
+    "relacion": "es un",
+    "valor": "método para diagnosticar retinopatía diabética"
+  },
+  {
+    "entidad": "DART",
+    "relacion": "se compara con",
+    "valor": "método de fundoscopía"
+  },
+  {
+    "entidad": "DART",
+    "relacion": "reporta",
+    "valor": "valores de sensibilidad y especificidad"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "publica",
+    "valor": "información sobre DART"
+  },
+  {
+    "entidad": "DART",
+    "relacion": "presenta",
+    "valor": "falsos negativos y positivos"
+  },
+  {
+    "entidad": "DART",
+    "relacion": "depende de",
+    "valor": "la capacidad del tecnólogo médico"
+  },
+  {
+    "entidad": "UAPO",
+    "relacion": "es un",
+    "valor": "programa de atención primaria oftalmológica en Chile"
+  },
+  {
+    "entidad": "DART",
+    "relacion": "mejora",
+    "valor": "la atención de pacientes"
+  },
+  {
+    "entidad": "DART",
+    "relacion": "necesita",
+    "valor": "validación con estándares de referencia adecuados"
+  },
+  {
+    "entidad": "DART",
+    "relacion": "ha mostrado",
+    "valor": "resultados variables en su validación"
+  },
+  {
+    "entidad": "DART",
+    "relacion": "no detecta",
+    "valor": "alteraciones retinianas fuera de los criterios de DR"
+  },
+  {
+    "entidad": "DART",
+    "relacion": "ha sido",
+    "valor": "implementado desde 2018"
+  }
+]

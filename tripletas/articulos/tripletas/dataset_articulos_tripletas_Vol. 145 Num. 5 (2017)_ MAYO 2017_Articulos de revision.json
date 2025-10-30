@@ -1,0 +1,292 @@
+[
+  {
+    "entidad": "Anorexia Nerviosa",
+    "relacion": "es un",
+    "valor": "trastorno psiquiátrico severo"
+  },
+  {
+    "entidad": "Anorexia Nerviosa",
+    "relacion": "tiene",
+    "valor": "alta mortalidad"
+  },
+  {
+    "entidad": "Anorexia Nerviosa",
+    "relacion": "se asocia con",
+    "valor": "comorbilidad psiquiátrica y somática"
+  },
+  {
+    "entidad": "Anorexia Nerviosa",
+    "relacion": "presenta",
+    "valor": "bajo peso y restricción alimentaria"
+  },
+  {
+    "entidad": "Anorexia Nerviosa",
+    "relacion": "requiere",
+    "valor": "hospitalización en ciertos casos"
+  },
+  {
+    "entidad": "hospitalización",
+    "relacion": "debe ser",
+    "valor": "multidisciplinaria"
+  },
+  {
+    "entidad": "tratamiento intrahospitalario",
+    "relacion": "debe incluir",
+    "valor": "intervenciones familiares"
+  },
+  {
+    "entidad": "intervenciones familiares",
+    "relacion": "son recomendadas para",
+    "valor": "niños y adolescentes"
+  },
+  {
+    "entidad": "realimentación",
+    "relacion": "debe evitar",
+    "valor": "suplementos alimenticios"
+  },
+  {
+    "entidad": "realimentación",
+    "relacion": "debe ser",
+    "valor": "acompañada de apoyo cercano"
+  },
+  {
+    "entidad": "síndrome de realimentación",
+    "relacion": "es un riesgo de",
+    "valor": "la alimentación en pacientes con AN"
+  },
+  {
+    "entidad": "psicofármacos",
+    "relacion": "no tienen",
+    "valor": "un rol específico en el tratamiento intrahospitalario"
+  },
+  {
+    "entidad": "psicoterapia individual",
+    "relacion": "no ha mostrado",
+    "valor": "suficiente evidencia en recuperación nutricional"
+  },
+  {
+    "entidad": "terapia de remediación cognitiva",
+    "relacion": "asocia con",
+    "valor": "mejoría en la flexibilidad cognitiva"
+  },
+  {
+    "entidad": "hospitalización",
+    "relacion": "debe ser evaluada según",
+    "valor": "estado clínico y perfil sintomático"
+  },
+  {
+    "entidad": "hospitalización",
+    "relacion": "se relaciona con",
+    "valor": "mejor evolución y menor frecuencia de recaídas"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "es un",
+    "valor": "centro de investigación en salud mental"
+  },
+  {
+    "entidad": "Dra. Melina Vogel",
+    "relacion": "es la",
+    "valor": "jefa de la unidad de trastornos de la conducta alimentaria"
+  },
+  {
+    "entidad": "Hospital San Borja Arriarán",
+    "relacion": "pertenece a",
+    "valor": "sección de endocrinología y diabetes"
+  },
+  {
+    "entidad": "Instituto de Investigaciones Materno Infantil (IDI-MI)",
+    "relacion": "es parte de",
+    "valor": "Escuela de Medicina, Universidad de Chile"
+  },
+  {
+    "entidad": "sP Medical",
+    "relacion": "proporciona",
+    "valor": "apoyo financiero limitado para capacitación"
+  },
+  {
+    "entidad": "bomba de insulina",
+    "relacion": "es un tipo de",
+    "valor": "infusor continuo subcutáneo de insulina (ICSI)"
+  },
+  {
+    "entidad": "monitoreo continuo de glucosa (MCG)",
+    "relacion": "permite",
+    "valor": "medir glicemia intersticial en forma continua"
+  },
+  {
+    "entidad": "Sensor-Augmented Pump Therapy (SAPT)",
+    "relacion": "es una combinación de",
+    "valor": "ICSI y MCG"
+  },
+  {
+    "entidad": "sistema híbrido",
+    "relacion": "automatiza",
+    "valor": "entrega de insulina basal"
+  },
+  {
+    "entidad": "pacientes con diabetes tipo 1",
+    "relacion": "se benefician de",
+    "valor": "mejor control metabólico"
+  },
+  {
+    "entidad": "páncreas artificial",
+    "relacion": "es un tipo de",
+    "valor": "tecnología en desarrollo para diabetes"
+  },
+  {
+    "entidad": "ICSI",
+    "relacion": "reemplaza",
+    "valor": "insulina de acción prolongada en pacientes tratados con múltiples inyecciones diarias"
+  },
+  {
+    "entidad": "MCG",
+    "relacion": "mide",
+    "valor": "niveles de glucosa intersticial cada 5 minutos"
+  },
+  {
+    "entidad": "MCG",
+    "relacion": "requiere",
+    "valor": "calibraciones periódicas con glicemia capilar"
+  },
+  {
+    "entidad": "MiniMed 670G",
+    "relacion": "es el primer",
+    "valor": "sistema híbrido aprobado por la FDA"
+  },
+  {
+    "entidad": "algoritmos computacionales",
+    "relacion": "se utilizan en",
+    "valor": "páncreas artificial"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "deben informar",
+    "valor": "ingesta de comida al páncreas artificial"
+  },
+  {
+    "entidad": "ICSI",
+    "relacion": "ofrece",
+    "valor": "mayor flexibilidad y precisión en la administración de insulina"
+  },
+  {
+    "entidad": "MCG-TR",
+    "relacion": "reduce",
+    "valor": "tasa, duración y severidad de episodios de hipoglicemia"
+  },
+  {
+    "entidad": "ICSI",
+    "relacion": "presenta desventajas como",
+    "valor": "falla del set de infusión"
+  },
+  {
+    "entidad": "MCG",
+    "relacion": "presenta desventajas como",
+    "valor": "desfase fisiológico en la medición"
+  },
+  {
+    "entidad": "ICSI",
+    "relacion": "es costo-efectivo en comparación con",
+    "valor": "MDI"
+  },
+  {
+    "entidad": "tecnologías en diabetes",
+    "relacion": "han expandido",
+    "valor": "alternativas terapéuticas para pacientes"
+  },
+  {
+    "entidad": "diabetes mellitus",
+    "relacion": "afecta a",
+    "valor": "40 millones de adultos en Latinoamérica"
+  },
+  {
+    "entidad": "toma de decisiones compartidas (TDC)",
+    "relacion": "promueve",
+    "valor": "conversaciones empáticas entre pacientes y clínicos"
+  },
+  {
+    "entidad": "TDC",
+    "relacion": "busca",
+    "valor": "respuestas que reflejen la evidencia y los valores del paciente"
+  },
+  {
+    "entidad": "TDC",
+    "relacion": "es un",
+    "valor": "enfoque para el manejo de diabetes"
+  },
+  {
+    "entidad": "comorbilidades",
+    "relacion": "impactan en",
+    "valor": "la salud y el tratamiento del paciente con diabetes"
+  },
+  {
+    "entidad": "guías clínicas",
+    "relacion": "ignoran",
+    "valor": "la multimorbilidad en el manejo de diabetes"
+  },
+  {
+    "entidad": "pacientes con diabetes",
+    "relacion": "presentan",
+    "valor": "una o más comorbilidades"
+  },
+  {
+    "entidad": "evidencia",
+    "relacion": "es incierta respecto a",
+    "valor": "el mejor tratamiento para diabetes"
+  },
+  {
+    "entidad": "TDC",
+    "relacion": "facilita",
+    "valor": "la toma de decisiones informadas"
+  },
+  {
+    "entidad": "herramientas de ayuda en la toma de decisiones (HATD)",
+    "relacion": "favorecen",
+    "valor": "la TDC mediante información pertinente"
+  },
+  {
+    "entidad": "Asociación Americana de Diabetes (ADA)",
+    "relacion": "reconoce",
+    "valor": "la atención centrada en el paciente"
+  },
+  {
+    "entidad": "Asociación Europea para el Estudio de la Diabetes (EASD)",
+    "relacion": "reconoce",
+    "valor": "la atención centrada en el paciente"
+  },
+  {
+    "entidad": "sistemas de salud en Latinoamérica",
+    "relacion": "son",
+    "valor": "desordenados y fragmentados"
+  },
+  {
+    "entidad": "investigación",
+    "relacion": "es necesaria para",
+    "valor": "responder a los desafíos de la TDC"
+  },
+  {
+    "entidad": "TDC",
+    "relacion": "fortalece",
+    "valor": "la ética de ofrecer cuidado centrado en el paciente"
+  },
+  {
+    "entidad": "TDC",
+    "relacion": "requiere",
+    "valor": "conversaciones significativas entre médico y paciente"
+  },
+  {
+    "entidad": "TDC",
+    "relacion": "es un área en",
+    "valor": "evolución constante"
+  },
+  {
+    "entidad": "Congreso Mundial de Shared Decision Making",
+    "relacion": "se realizó en",
+    "valor": "Lima, Perú"
+  },
+  {
+    "entidad": "TDC",
+    "relacion": "transforma",
+    "valor": "la atención de salud de pacientes con diabetes en Latinoamérica"
+  }
+]

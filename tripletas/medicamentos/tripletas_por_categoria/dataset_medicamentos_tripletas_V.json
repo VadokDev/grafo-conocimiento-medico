@@ -1,0 +1,2267 @@
+[
+  {
+    "entidad": "Vacuna contra el cólera",
+    "relacion": "trata",
+    "valor": "prevención del cólera"
+  },
+  {
+    "entidad": "Vacuna contra el cólera",
+    "relacion": "uso",
+    "valor": "vacuna oral, una dosis"
+  },
+  {
+    "entidad": "Vacuna contra el cólera",
+    "relacion": "se_administra_via",
+    "valor": "oral"
+  },
+  {
+    "entidad": "Vacuna contra el cólera",
+    "relacion": "contraindicado_en",
+    "valor": "reacción alérgica grave a la vacuna"
+  },
+  {
+    "entidad": "Vacuna contra el cólera",
+    "relacion": "contraindicado_en",
+    "valor": "embarazo o lactancia"
+  },
+  {
+    "entidad": "Vacuna contra el cólera",
+    "relacion": "contraindicado_en",
+    "valor": "uso reciente de antibióticos"
+  },
+  {
+    "entidad": "Vacuna contra el cólera",
+    "relacion": "contraindicado_en",
+    "valor": "uso de cloroquina (Aralen)"
+  },
+  {
+    "entidad": "Vacuna contra el cólera",
+    "relacion": "efecto_secundario",
+    "valor": "dolor abdominal"
+  },
+  {
+    "entidad": "Vacuna contra el cólera",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio o fatiga"
+  },
+  {
+    "entidad": "Vacuna contra el cólera",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Vacuna contra el cólera",
+    "relacion": "efecto_secundario",
+    "valor": "falta de apetito"
+  },
+  {
+    "entidad": "Vacuna contra el cólera",
+    "relacion": "efecto_secundario",
+    "valor": "náusea o diarrea"
+  },
+  {
+    "entidad": "Vacuna contra el cólera",
+    "relacion": "marca_comercial",
+    "valor": "Vaxchora"
+  },
+  {
+    "entidad": "Vacuna contra la fiebre amarilla",
+    "relacion": "trata",
+    "valor": "fiebre amarilla"
+  },
+  {
+    "entidad": "Vacuna contra la fiebre amarilla",
+    "relacion": "uso",
+    "valor": "una sola inyección"
+  },
+  {
+    "entidad": "Vacuna contra la fiebre amarilla",
+    "relacion": "se_administra_via",
+    "valor": "inyección"
+  },
+  {
+    "entidad": "Vacuna contra la fiebre amarilla",
+    "relacion": "precaucion",
+    "valor": "no donar sangre durante 14 días después de recibir la vacuna"
+  },
+  {
+    "entidad": "Vacuna contra la fiebre amarilla",
+    "relacion": "contraindicado_en",
+    "valor": "alergia grave a componentes de la vacuna"
+  },
+  {
+    "entidad": "Vacuna contra la fiebre amarilla",
+    "relacion": "contraindicado_en",
+    "valor": "bebés menores de 6 meses"
+  },
+  {
+    "entidad": "Vacuna contra la fiebre amarilla",
+    "relacion": "contraindicado_en",
+    "valor": "personas con VIH/SIDA u otras enfermedades que afecten el sistema inmunitario"
+  },
+  {
+    "entidad": "Vacuna contra la fiebre amarilla",
+    "relacion": "contraindicado_en",
+    "valor": "adultos de 60 años y mayores sin consultar al médico"
+  },
+  {
+    "entidad": "Vacuna contra la fiebre amarilla",
+    "relacion": "marca_comercial",
+    "valor": "YF-VAX"
+  },
+  {
+    "entidad": "Vacuna viva contra el herpes zóster",
+    "relacion": "trata",
+    "valor": "prevención del herpes zóster"
+  },
+  {
+    "entidad": "Vacuna viva contra el herpes zóster",
+    "relacion": "uso",
+    "valor": "dosis administrada mediante inyección"
+  },
+  {
+    "entidad": "Vacuna viva contra el herpes zóster",
+    "relacion": "se_administra_via",
+    "valor": "inyección"
+  },
+  {
+    "entidad": "Vacuna viva contra el herpes zóster",
+    "relacion": "contraindicado_en",
+    "valor": "sistema inmunitario debilitado"
+  },
+  {
+    "entidad": "Vacuna viva contra el herpes zóster",
+    "relacion": "contraindicado_en",
+    "valor": "embarazo"
+  },
+  {
+    "entidad": "Vacuna viva contra el herpes zóster",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Vacuna viva contra el herpes zóster",
+    "relacion": "efecto_secundario",
+    "valor": "enrojecimiento en el lugar de la inyección"
+  },
+  {
+    "entidad": "Vacuna viva contra el herpes zóster",
+    "relacion": "efecto_secundario",
+    "valor": "dolor en el lugar de la inyección"
+  },
+  {
+    "entidad": "Vacuna viva contra el herpes zóster",
+    "relacion": "efecto_secundario",
+    "valor": "hinchazón en el lugar de la inyección"
+  },
+  {
+    "entidad": "Vacuna viva contra el herpes zóster",
+    "relacion": "efecto_secundario",
+    "valor": "picazón en el lugar de la inyección"
+  },
+  {
+    "entidad": "Vacuna viva contra el herpes zóster",
+    "relacion": "marca_comercial",
+    "valor": "Zostavax"
+  },
+  {
+    "entidad": "Vadadustat",
+    "relacion": "contraindicado_en",
+    "valor": "aumento del riesgo de ataque cardíaco, accidente cerebrovascular y coágulos"
+  },
+  {
+    "entidad": "Vadadustat",
+    "relacion": "trata",
+    "valor": "anemia por enfermedad crónica debida a enfermedad renal crónica"
+  },
+  {
+    "entidad": "Vadadustat",
+    "relacion": "uso",
+    "valor": "tomar por vía oral, una vez al día, con o sin alimentos"
+  },
+  {
+    "entidad": "Vadadustat",
+    "relacion": "se_administra_via",
+    "valor": "vía oral"
+  },
+  {
+    "entidad": "Vadadustat",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Vadadustat",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos actuales"
+  },
+  {
+    "entidad": "Vadadustat",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta a menos que el médico lo indique"
+  },
+  {
+    "entidad": "Vadadustat",
+    "relacion": "olvido",
+    "valor": "tomar la dosis olvidada tan pronto como se recuerde, omitir si es el mismo día de la siguiente dosis"
+  },
+  {
+    "entidad": "Vadadustat",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Vadadustat",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Vadadustat",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio"
+  },
+  {
+    "entidad": "Vadadustat",
+    "relacion": "efecto_secundario",
+    "valor": "erupción cutánea"
+  },
+  {
+    "entidad": "Vadadustat",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para respirar"
+  },
+  {
+    "entidad": "Vadadustat",
+    "relacion": "efecto_secundario",
+    "valor": "sibilancias"
+  },
+  {
+    "entidad": "Vadadustat",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago"
+  },
+  {
+    "entidad": "Vadadustat",
+    "relacion": "efecto_secundario",
+    "valor": "coloración amarillenta de la piel"
+  },
+  {
+    "entidad": "Vadadustat",
+    "relacion": "efecto_secundario",
+    "valor": "orina oscura"
+  },
+  {
+    "entidad": "Vadadustat",
+    "relacion": "efecto_secundario",
+    "valor": "cambios de comportamiento"
+  },
+  {
+    "entidad": "Vadadustat",
+    "relacion": "efecto_secundario",
+    "valor": "convulsiones"
+  },
+  {
+    "entidad": "Vadadustat",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, bien cerrado, a temperatura ambiente y lejos del calor y la humedad"
+  },
+  {
+    "entidad": "Vadadustat",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento o a los servicios de emergencia"
+  },
+  {
+    "entidad": "Valaciclovir",
+    "relacion": "trata",
+    "valor": "herpes zóster"
+  },
+  {
+    "entidad": "Valaciclovir",
+    "relacion": "trata",
+    "valor": "herpes genital"
+  },
+  {
+    "entidad": "Valaciclovir",
+    "relacion": "uso",
+    "valor": "tabletas para tomar por vía oral"
+  },
+  {
+    "entidad": "Valaciclovir",
+    "relacion": "uso",
+    "valor": "cada 8 horas durante 7 días para herpes zóster"
+  },
+  {
+    "entidad": "Valaciclovir",
+    "relacion": "uso",
+    "valor": "2 veces al día durante 5 días para herpes genital"
+  },
+  {
+    "entidad": "Valaciclovir",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias a aciclovir o valaciclovir"
+  },
+  {
+    "entidad": "Valaciclovir",
+    "relacion": "precaucion",
+    "valor": "informar sobre otros medicamentos que toma"
+  },
+  {
+    "entidad": "Valaciclovir",
+    "relacion": "precaucion",
+    "valor": "informar sobre enfermedades del riñón o hígado"
+  },
+  {
+    "entidad": "Valaciclovir",
+    "relacion": "precaucion",
+    "valor": "informar si está embarazada o amamantando"
+  },
+  {
+    "entidad": "Valaciclovir",
+    "relacion": "olvido",
+    "valor": "tome la dosis omitida tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Valaciclovir",
+    "relacion": "olvido",
+    "valor": "omita la dosis olvidada si es casi hora de la siguiente"
+  },
+  {
+    "entidad": "Valaciclovir",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Valaciclovir",
+    "relacion": "efecto_secundario",
+    "valor": "molestias estomacales"
+  },
+  {
+    "entidad": "Valaciclovir",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Valaciclovir",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea o heces blandas"
+  },
+  {
+    "entidad": "Valaciclovir",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Valaciclovir",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Valaciclovir",
+    "relacion": "efecto_secundario",
+    "valor": "picazón"
+  },
+  {
+    "entidad": "Valaciclovir",
+    "relacion": "efecto_secundario",
+    "valor": "confusión"
+  },
+  {
+    "entidad": "Valaciclovir",
+    "relacion": "efecto_secundario",
+    "valor": "coloración amarillenta de la piel u ojos"
+  },
+  {
+    "entidad": "Valaciclovir",
+    "relacion": "efecto_secundario",
+    "valor": "fiebre"
+  },
+  {
+    "entidad": "Valaciclovir",
+    "relacion": "efecto_secundario",
+    "valor": "sangre en la orina"
+  },
+  {
+    "entidad": "Valaciclovir",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original y cerrado herméticamente"
+  },
+  {
+    "entidad": "Valaciclovir",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente, lejos del calor y la humedad"
+  },
+  {
+    "entidad": "Valaciclovir",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Valaciclovir",
+    "relacion": "marca_comercial",
+    "valor": "Valtrex"
+  },
+  {
+    "entidad": "Valganciclovir",
+    "relacion": "contraindicado_en",
+    "valor": "embarazo"
+  },
+  {
+    "entidad": "Valganciclovir",
+    "relacion": "trata",
+    "valor": "retinitis por citomegalovirus (CMV) en personas con SIDA"
+  },
+  {
+    "entidad": "Valganciclovir",
+    "relacion": "trata",
+    "valor": "prevención de enfermedad por CMV en trasplantes"
+  },
+  {
+    "entidad": "Valganciclovir",
+    "relacion": "uso",
+    "valor": "tomar con alimentos una o dos veces al día"
+  },
+  {
+    "entidad": "Valganciclovir",
+    "relacion": "se_administra_via",
+    "valor": "vía oral"
+  },
+  {
+    "entidad": "Valganciclovir",
+    "relacion": "dieta",
+    "valor": "tomar suficientes líquidos"
+  },
+  {
+    "entidad": "Valganciclovir",
+    "relacion": "olvido",
+    "valor": "tomar la dosis olvidada tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Valganciclovir",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Valganciclovir",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Valganciclovir",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Valganciclovir",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de ojos"
+  },
+  {
+    "entidad": "Valganciclovir",
+    "relacion": "efecto_secundario",
+    "valor": "depresión"
+  },
+  {
+    "entidad": "Valganciclovir",
+    "relacion": "efecto_secundario",
+    "valor": "convulsiones"
+  },
+  {
+    "entidad": "Valganciclovir",
+    "relacion": "almacenamiento",
+    "valor": "mantener en empaque original, a temperatura ambiente"
+  },
+  {
+    "entidad": "Valganciclovir",
+    "relacion": "almacenamiento",
+    "valor": "guardar solución oral en refrigerador hasta 49 días"
+  },
+  {
+    "entidad": "Valganciclovir",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Valganciclovir",
+    "relacion": "marca_comercial",
+    "valor": "Valcyte"
+  },
+  {
+    "entidad": "Valrubicina intravesical",
+    "relacion": "trata",
+    "valor": "cáncer de vejiga urinaria (carcinoma in situ, CIS)"
+  },
+  {
+    "entidad": "Valrubicina intravesical",
+    "relacion": "uso",
+    "valor": "aplicación mediante infusión a través de un catéter en la vejiga urinaria"
+  },
+  {
+    "entidad": "Valrubicina intravesical",
+    "relacion": "se_administra_via",
+    "valor": "catéter en la vejiga urinaria"
+  },
+  {
+    "entidad": "Valrubicina intravesical",
+    "relacion": "otro_uso",
+    "valor": "consultar a médico o farmacéutico"
+  },
+  {
+    "entidad": "Valrubicina intravesical",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos"
+  },
+  {
+    "entidad": "Valrubicina intravesical",
+    "relacion": "precaucion",
+    "valor": "no usar si tiene infección en vías urinarias"
+  },
+  {
+    "entidad": "Valrubicina intravesical",
+    "relacion": "precaucion",
+    "valor": "evitar el embarazo durante el tratamiento"
+  },
+  {
+    "entidad": "Valrubicina intravesical",
+    "relacion": "dieta",
+    "valor": "continuar con dieta normal a menos que se indique lo contrario"
+  },
+  {
+    "entidad": "Valrubicina intravesical",
+    "relacion": "olvido",
+    "valor": "llamar al médico si se pierde una cita"
+  },
+  {
+    "entidad": "Valrubicina intravesical",
+    "relacion": "efecto_secundario",
+    "valor": "ganas frecuentes o urgentes de orinar"
+  },
+  {
+    "entidad": "Valrubicina intravesical",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para orinar"
+  },
+  {
+    "entidad": "Valrubicina intravesical",
+    "relacion": "efecto_secundario",
+    "valor": "dolor abdominal"
+  },
+  {
+    "entidad": "Valrubicina intravesical",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Valrubicina intravesical",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Valrubicina intravesical",
+    "relacion": "efecto_secundario",
+    "valor": "debilidad"
+  },
+  {
+    "entidad": "Valrubicina intravesical",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio"
+  },
+  {
+    "entidad": "Valrubicina intravesical",
+    "relacion": "efecto_secundario",
+    "valor": "orina de color rojo"
+  },
+  {
+    "entidad": "Valrubicina intravesical",
+    "relacion": "efecto_secundario",
+    "valor": "sangre en la orina"
+  },
+  {
+    "entidad": "Valrubicina intravesical",
+    "relacion": "almacenamiento",
+    "valor": "almacenar en consultorio médico o clínica"
+  },
+  {
+    "entidad": "Valrubicina intravesical",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Vemurafenib",
+    "relacion": "trata",
+    "valor": "melanoma que no se puede tratar con cirugía"
+  },
+  {
+    "entidad": "Vemurafenib",
+    "relacion": "trata",
+    "valor": "enfermedad Erdheim-Chester"
+  },
+  {
+    "entidad": "Vemurafenib",
+    "relacion": "uso",
+    "valor": "tabletas para tomar por vía oral, dos veces al día"
+  },
+  {
+    "entidad": "Vemurafenib",
+    "relacion": "se_administra_via",
+    "valor": "oral"
+  },
+  {
+    "entidad": "Vemurafenib",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Vemurafenib",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos"
+  },
+  {
+    "entidad": "Vemurafenib",
+    "relacion": "precaucion",
+    "valor": "no quedar embarazada durante el tratamiento"
+  },
+  {
+    "entidad": "Vemurafenib",
+    "relacion": "dieta",
+    "valor": "continuar con dieta normal a menos que se indique lo contrario"
+  },
+  {
+    "entidad": "Vemurafenib",
+    "relacion": "olvido",
+    "valor": "tomar la dosis omitida tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Vemurafenib",
+    "relacion": "efecto_secundario",
+    "valor": "aumento del riesgo de otros tipos de cáncer"
+  },
+  {
+    "entidad": "Vemurafenib",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio"
+  },
+  {
+    "entidad": "Vemurafenib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de articulaciones"
+  },
+  {
+    "entidad": "Vemurafenib",
+    "relacion": "efecto_secundario",
+    "valor": "enrojecimiento o inflamación de manos y pies"
+  },
+  {
+    "entidad": "Vemurafenib",
+    "relacion": "efecto_secundario",
+    "valor": "cambio en sentido del gusto"
+  },
+  {
+    "entidad": "Vemurafenib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Vemurafenib",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida del cabello"
+  },
+  {
+    "entidad": "Vemurafenib",
+    "relacion": "efecto_secundario",
+    "valor": "picazón en la piel"
+  },
+  {
+    "entidad": "Vemurafenib",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Vemurafenib",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Vemurafenib",
+    "relacion": "efecto_secundario",
+    "valor": "tos"
+  },
+  {
+    "entidad": "Vemurafenib",
+    "relacion": "efecto_secundario",
+    "valor": "cambios en la apariencia de la piel"
+  },
+  {
+    "entidad": "Vemurafenib",
+    "relacion": "efecto_secundario",
+    "valor": "nueva verruga"
+  },
+  {
+    "entidad": "Vemurafenib",
+    "relacion": "efecto_secundario",
+    "valor": "úlceras en la piel"
+  },
+  {
+    "entidad": "Vemurafenib",
+    "relacion": "efecto_secundario",
+    "valor": "cambio en el tamaño o color de un lunar"
+  },
+  {
+    "entidad": "Vemurafenib",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio extremo"
+  },
+  {
+    "entidad": "Vemurafenib",
+    "relacion": "efecto_secundario",
+    "valor": "sangrado o moretones inusuales"
+  },
+  {
+    "entidad": "Vemurafenib",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Vemurafenib",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Vemurafenib",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de apetito"
+  },
+  {
+    "entidad": "Vemurafenib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor en la parte superior derecha del estómago"
+  },
+  {
+    "entidad": "Vemurafenib",
+    "relacion": "efecto_secundario",
+    "valor": "coloración amarillenta en piel y ojos"
+  },
+  {
+    "entidad": "Vemurafenib",
+    "relacion": "efecto_secundario",
+    "valor": "sensibilidad a la luz"
+  },
+  {
+    "entidad": "Vemurafenib",
+    "relacion": "efecto_secundario",
+    "valor": "enrojecimiento o dolor ocular"
+  },
+  {
+    "entidad": "Vemurafenib",
+    "relacion": "efecto_secundario",
+    "valor": "cambios en la visión"
+  },
+  {
+    "entidad": "Vemurafenib",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para respirar o tragar"
+  },
+  {
+    "entidad": "Vemurafenib",
+    "relacion": "efecto_secundario",
+    "valor": "ritmo cardíaco rápido o irregular"
+  },
+  {
+    "entidad": "Vemurafenib",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido o enrojecimiento en todo el cuerpo"
+  },
+  {
+    "entidad": "Vemurafenib",
+    "relacion": "efecto_secundario",
+    "valor": "urticaria"
+  },
+  {
+    "entidad": "Vemurafenib",
+    "relacion": "efecto_secundario",
+    "valor": "fiebre"
+  },
+  {
+    "entidad": "Vemurafenib",
+    "relacion": "almacenamiento",
+    "valor": "mantener en empaque original, cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Vemurafenib",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente, lejos del calor y la humedad"
+  },
+  {
+    "entidad": "Vemurafenib",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Vemurafenib",
+    "relacion": "marca_comercial",
+    "valor": "Zelboraf"
+  },
+  {
+    "entidad": "Venetoclax",
+    "relacion": "trata",
+    "valor": "leucemia linfocítica crónica (CLL)"
+  },
+  {
+    "entidad": "Venetoclax",
+    "relacion": "trata",
+    "valor": "linfoma linfocítico pequeño (SLL)"
+  },
+  {
+    "entidad": "Venetoclax",
+    "relacion": "trata",
+    "valor": "leucemia mieloide aguda (LMA)"
+  },
+  {
+    "entidad": "Venetoclax",
+    "relacion": "uso",
+    "valor": "tabletas para tomar por vía oral"
+  },
+  {
+    "entidad": "Venetoclax",
+    "relacion": "uso",
+    "valor": "tomar con una comida y agua una vez al día"
+  },
+  {
+    "entidad": "Venetoclax",
+    "relacion": "precaucion",
+    "valor": "informar si es alérgico al venetoclax o a otros medicamentos"
+  },
+  {
+    "entidad": "Venetoclax",
+    "relacion": "precaucion",
+    "valor": "no tomar ciertos medicamentos sin consultar al médico"
+  },
+  {
+    "entidad": "Venetoclax",
+    "relacion": "precaucion",
+    "valor": "no tomar hierba de San Juan sin consultar al médico"
+  },
+  {
+    "entidad": "Venetoclax",
+    "relacion": "precaucion",
+    "valor": "informar sobre problemas de potasio, fósforo o calcio en sangre"
+  },
+  {
+    "entidad": "Venetoclax",
+    "relacion": "precaucion",
+    "valor": "no quedar embarazada durante el tratamiento y 30 días después"
+  },
+  {
+    "entidad": "Venetoclax",
+    "relacion": "precaucion",
+    "valor": "no amamantar durante el tratamiento y 1 semana después"
+  },
+  {
+    "entidad": "Venetoclax",
+    "relacion": "dieta",
+    "valor": "no comer toronja, carambola ni naranjas de Sevilla"
+  },
+  {
+    "entidad": "Venetoclax",
+    "relacion": "olvido",
+    "valor": "tomar la dosis omitida si es dentro de 8 horas"
+  },
+  {
+    "entidad": "Venetoclax",
+    "relacion": "olvido",
+    "valor": "omitir la dosis si han pasado más de 8 horas"
+  },
+  {
+    "entidad": "Venetoclax",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Venetoclax",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Venetoclax",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Venetoclax",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Venetoclax",
+    "relacion": "efecto_secundario",
+    "valor": "disminución del apetito"
+  },
+  {
+    "entidad": "Venetoclax",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio extremo"
+  },
+  {
+    "entidad": "Venetoclax",
+    "relacion": "efecto_secundario",
+    "valor": "inflamación de brazos o manos"
+  },
+  {
+    "entidad": "Venetoclax",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de espalda"
+  },
+  {
+    "entidad": "Venetoclax",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de huesos, muscular o de articulaciones"
+  },
+  {
+    "entidad": "Venetoclax",
+    "relacion": "efecto_secundario",
+    "valor": "dolor abdominal"
+  },
+  {
+    "entidad": "Venetoclax",
+    "relacion": "efecto_secundario",
+    "valor": "inflamación o llagas en la boca"
+  },
+  {
+    "entidad": "Venetoclax",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de boca o garganta"
+  },
+  {
+    "entidad": "Venetoclax",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Venetoclax",
+    "relacion": "efecto_secundario",
+    "valor": "secreción o congestión nasal, tos"
+  },
+  {
+    "entidad": "Venetoclax",
+    "relacion": "efecto_secundario",
+    "valor": "falta de aire"
+  },
+  {
+    "entidad": "Venetoclax",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Venetoclax",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Venetoclax",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para conciliar el sueño"
+  },
+  {
+    "entidad": "Venetoclax",
+    "relacion": "efecto_secundario",
+    "valor": "fiebre y otros signos de infección"
+  },
+  {
+    "entidad": "Venetoclax",
+    "relacion": "efecto_secundario",
+    "valor": "micción menos frecuente"
+  },
+  {
+    "entidad": "Venetoclax",
+    "relacion": "efecto_secundario",
+    "valor": "inflamación de piernas, tobillos o pies"
+  },
+  {
+    "entidad": "Venetoclax",
+    "relacion": "efecto_secundario",
+    "valor": "sangrado inusual o intenso"
+  },
+  {
+    "entidad": "Venetoclax",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original y cerrado"
+  },
+  {
+    "entidad": "Venetoclax",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente, lejos del calor y humedad"
+  },
+  {
+    "entidad": "Venetoclax",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Venetoclax",
+    "relacion": "marca_comercial",
+    "valor": "Venclexta"
+  },
+  {
+    "entidad": "Vericiguat",
+    "relacion": "contraindicado_en",
+    "valor": "embarazo"
+  },
+  {
+    "entidad": "Vericiguat",
+    "relacion": "trata",
+    "valor": "insuficiencia cardíaca"
+  },
+  {
+    "entidad": "Vericiguat",
+    "relacion": "uso",
+    "valor": "tabletas por vía oral una vez al día con alimentos"
+  },
+  {
+    "entidad": "Vericiguat",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Vericiguat",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos"
+  },
+  {
+    "entidad": "Vericiguat",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Vericiguat",
+    "relacion": "olvido",
+    "valor": "tomar la dosis omitida el mismo día, omitir si es al siguiente día"
+  },
+  {
+    "entidad": "Vericiguat",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Vericiguat",
+    "relacion": "efecto_secundario",
+    "valor": "aturdimiento"
+  },
+  {
+    "entidad": "Vericiguat",
+    "relacion": "almacenamiento",
+    "valor": "mantener en empaque original, a temperatura ambiente, fuera del alcance de niños"
+  },
+  {
+    "entidad": "Vericiguat",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Vericiguat",
+    "relacion": "marca_comercial",
+    "valor": "Verquvo ®"
+  },
+  {
+    "entidad": "Vilazodona",
+    "relacion": "contraindicado_en",
+    "valor": "menores de 18 años"
+  },
+  {
+    "entidad": "Vilazodona",
+    "relacion": "trata",
+    "valor": "depresión"
+  },
+  {
+    "entidad": "Vilazodona",
+    "relacion": "uso",
+    "valor": "tomar con alimentos una vez al día"
+  },
+  {
+    "entidad": "Vilazodona",
+    "relacion": "se_administra_via",
+    "valor": "oral"
+  },
+  {
+    "entidad": "Vilazodona",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos actuales"
+  },
+  {
+    "entidad": "Vilazodona",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Vilazodona",
+    "relacion": "olvido",
+    "valor": "tomar la dosis omitida tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Vilazodona",
+    "relacion": "efecto_secundario",
+    "valor": "boca seca"
+  },
+  {
+    "entidad": "Vilazodona",
+    "relacion": "efecto_secundario",
+    "valor": "aumento del apetito"
+  },
+  {
+    "entidad": "Vilazodona",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Vilazodona",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, a temperatura ambiente"
+  },
+  {
+    "entidad": "Vilazodona",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Vilazodona",
+    "relacion": "marca_comercial",
+    "valor": "Viibryd"
+  },
+  {
+    "entidad": "Vitaminas prenatales",
+    "relacion": "trata",
+    "valor": "antes, durante y después del embarazo"
+  },
+  {
+    "entidad": "Vitaminas prenatales",
+    "relacion": "uso",
+    "valor": "tomar una vez al día, aproximadamente a la misma hora"
+  },
+  {
+    "entidad": "Vitaminas prenatales",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Vitaminas prenatales",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos actuales"
+  },
+  {
+    "entidad": "Vitaminas prenatales",
+    "relacion": "dieta",
+    "valor": "seguir recomendaciones dietéticas del médico"
+  },
+  {
+    "entidad": "Vitaminas prenatales",
+    "relacion": "olvido",
+    "valor": "tomar la dosis omitida tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Vitaminas prenatales",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Vitaminas prenatales",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas, vómitos o diarrea"
+  },
+  {
+    "entidad": "Vitaminas prenatales",
+    "relacion": "efecto_secundario",
+    "valor": "picazón, erupción o urticaria"
+  },
+  {
+    "entidad": "Vitaminas prenatales",
+    "relacion": "almacenamiento",
+    "valor": "mantener en envase original, cerrado herméticamente, a temperatura ambiente"
+  },
+  {
+    "entidad": "Vitaminas prenatales",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Vonoprazan y Amoxicilina",
+    "relacion": "trata",
+    "valor": "eliminar el H. pylori"
+  },
+  {
+    "entidad": "Vonoprazan y Amoxicilina",
+    "relacion": "uso",
+    "valor": "tabletas y cápsulas por vía oral"
+  },
+  {
+    "entidad": "Vonoprazan",
+    "relacion": "se_administra_via",
+    "valor": "oral"
+  },
+  {
+    "entidad": "Amoxicilina",
+    "relacion": "se_administra_via",
+    "valor": "oral"
+  },
+  {
+    "entidad": "Vonoprazan y Amoxicilina",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias a medicamentos"
+  },
+  {
+    "entidad": "Vonoprazan y Amoxicilina",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Vonoprazan y Amoxicilina",
+    "relacion": "olvido",
+    "valor": "tomar la dosis olvidada tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Vonoprazan y Amoxicilina",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Vonoprazan y Amoxicilina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago"
+  },
+  {
+    "entidad": "Vonoprazan y Amoxicilina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Vonoprazan y Amoxicilina",
+    "relacion": "efecto_secundario",
+    "valor": "congestión o secreción nasal"
+  },
+  {
+    "entidad": "Vonoprazan y Amoxicilina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de garganta"
+  },
+  {
+    "entidad": "Vonoprazan y Amoxicilina",
+    "relacion": "efecto_secundario",
+    "valor": "picazón y/o secreción vaginal"
+  },
+  {
+    "entidad": "Vonoprazan y Amoxicilina",
+    "relacion": "efecto_secundario",
+    "valor": "ampollas o descamación de la piel"
+  },
+  {
+    "entidad": "Vonoprazan y Amoxicilina",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Vonoprazan y Amoxicilina",
+    "relacion": "efecto_secundario",
+    "valor": "urticaria"
+  },
+  {
+    "entidad": "Vonoprazan y Amoxicilina",
+    "relacion": "efecto_secundario",
+    "valor": "hinchazón de labios, cara o lengua"
+  },
+  {
+    "entidad": "Vonoprazan y Amoxicilina",
+    "relacion": "efecto_secundario",
+    "valor": "falta de aliento"
+  },
+  {
+    "entidad": "Vonoprazan y Amoxicilina",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para respirar o tragar"
+  },
+  {
+    "entidad": "Vonoprazan y Amoxicilina",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea intensa"
+  },
+  {
+    "entidad": "Vonoprazan y Amoxicilina",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos intensos"
+  },
+  {
+    "entidad": "Vonoprazan y Amoxicilina",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad o disminución de la micción"
+  },
+  {
+    "entidad": "Vonoprazan y Amoxicilina",
+    "relacion": "efecto_secundario",
+    "valor": "orina turbia o con sangre"
+  },
+  {
+    "entidad": "Vonoprazan y Amoxicilina",
+    "relacion": "almacenamiento",
+    "valor": "mantener en envase original, cerrado y a temperatura ambiente"
+  },
+  {
+    "entidad": "Vonoprazan y Amoxicilina",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Vonoprazan y Amoxicilina",
+    "relacion": "marca_comercial",
+    "valor": "Voquezna ® Dual Pak ®"
+  },
+  {
+    "entidad": "Vonoprazan, claritromicina y amoxicilina",
+    "relacion": "trata",
+    "valor": "úlceras causadas por H. pylori"
+  },
+  {
+    "entidad": "Vonoprazan, claritromicina y amoxicilina",
+    "relacion": "uso",
+    "valor": "tomar por vía oral, dos veces al día durante 14 días"
+  },
+  {
+    "entidad": "Vonoprazan, claritromicina y amoxicilina",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Vonoprazan, claritromicina y amoxicilina",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias a medicamentos y condiciones médicas"
+  },
+  {
+    "entidad": "Vonoprazan, claritromicina y amoxicilina",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Vonoprazan, claritromicina y amoxicilina",
+    "relacion": "olvido",
+    "valor": "tomar la dosis olvidada tan pronto como se recuerde, omitir si es en 4 horas de la siguiente dosis"
+  },
+  {
+    "entidad": "Vonoprazan, claritromicina y amoxicilina",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Vonoprazan, claritromicina y amoxicilina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago"
+  },
+  {
+    "entidad": "Vonoprazan, claritromicina y amoxicilina",
+    "relacion": "efecto_secundario",
+    "valor": "cambio en la capacidad para saborear los alimentos"
+  },
+  {
+    "entidad": "Vonoprazan, claritromicina y amoxicilina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Vonoprazan, claritromicina y amoxicilina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de garganta"
+  },
+  {
+    "entidad": "Vonoprazan, claritromicina y amoxicilina",
+    "relacion": "efecto_secundario",
+    "valor": "picazón y/o secreción vaginal"
+  },
+  {
+    "entidad": "Vonoprazan, claritromicina y amoxicilina",
+    "relacion": "efecto_secundario",
+    "valor": "ampollas o descamación de la piel"
+  },
+  {
+    "entidad": "Vonoprazan, claritromicina y amoxicilina",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido; urticaria; picazón; hinchazón de los labios, la cara o la lengua"
+  },
+  {
+    "entidad": "Vonoprazan, claritromicina y amoxicilina",
+    "relacion": "efecto_secundario",
+    "valor": "ojos o piel amarillos, pérdida de apetito"
+  },
+  {
+    "entidad": "Vonoprazan, claritromicina y amoxicilina",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea intensa"
+  },
+  {
+    "entidad": "Vonoprazan, claritromicina y amoxicilina",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos intensos"
+  },
+  {
+    "entidad": "Vonoprazan, claritromicina y amoxicilina",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad o disminución de la micción"
+  },
+  {
+    "entidad": "Vonoprazan, claritromicina y amoxicilina",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original, cerrado herméticamente, a temperatura ambiente"
+  },
+  {
+    "entidad": "Vonoprazan, claritromicina y amoxicilina",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento o a los servicios de emergencia"
+  },
+  {
+    "entidad": "Vonoprazan, claritromicina y amoxicilina",
+    "relacion": "marca_comercial",
+    "valor": "Voquezna ® Triple Pak ®"
+  },
+  {
+    "entidad": "Vonoprazan",
+    "relacion": "trata",
+    "valor": "esofagitis erosiva"
+  },
+  {
+    "entidad": "Vonoprazan",
+    "relacion": "trata",
+    "valor": "Helicobacter pylori"
+  },
+  {
+    "entidad": "Vonoprazan",
+    "relacion": "uso",
+    "valor": "cápsula para administrarse por vía oral"
+  },
+  {
+    "entidad": "Vonoprazan",
+    "relacion": "uso",
+    "valor": "una vez al día durante 8 semanas para esofagitis erosiva"
+  },
+  {
+    "entidad": "Vonoprazan",
+    "relacion": "uso",
+    "valor": "dos veces al día durante 14 días para H. pylori"
+  },
+  {
+    "entidad": "Vonoprazan",
+    "relacion": "otro_uso",
+    "valor": "otros usos según prescripción médica"
+  },
+  {
+    "entidad": "Vonoprazan",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias a medicamentos"
+  },
+  {
+    "entidad": "Vonoprazan",
+    "relacion": "precaucion",
+    "valor": "informar sobre otros medicamentos que se están tomando"
+  },
+  {
+    "entidad": "Vonoprazan",
+    "relacion": "precaucion",
+    "valor": "informar sobre enfermedades renales o hepáticas"
+  },
+  {
+    "entidad": "Vonoprazan",
+    "relacion": "precaucion",
+    "valor": "informar si está embarazada o amamantando"
+  },
+  {
+    "entidad": "Vonoprazan",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Vonoprazan",
+    "relacion": "olvido",
+    "valor": "tome la dosis olvidada tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Vonoprazan",
+    "relacion": "olvido",
+    "valor": "omita la dosis si han pasado 12 horas para esofagitis erosiva"
+  },
+  {
+    "entidad": "Vonoprazan",
+    "relacion": "olvido",
+    "valor": "omita la dosis si han pasado 4 horas para H. pylori"
+  },
+  {
+    "entidad": "Vonoprazan",
+    "relacion": "efecto_secundario",
+    "valor": "pólipos estomacales"
+  },
+  {
+    "entidad": "Vonoprazan",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Vonoprazan",
+    "relacion": "efecto_secundario",
+    "valor": "distensión abdominal"
+  },
+  {
+    "entidad": "Vonoprazan",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago"
+  },
+  {
+    "entidad": "Vonoprazan",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Vonoprazan",
+    "relacion": "efecto_secundario",
+    "valor": "indigestión"
+  },
+  {
+    "entidad": "Vonoprazan",
+    "relacion": "efecto_secundario",
+    "valor": "orina escasa o sangre en la orina"
+  },
+  {
+    "entidad": "Vonoprazan",
+    "relacion": "efecto_secundario",
+    "valor": "heces acuosas"
+  },
+  {
+    "entidad": "Vonoprazan",
+    "relacion": "efecto_secundario",
+    "valor": "erupción cutánea"
+  },
+  {
+    "entidad": "Vonoprazan",
+    "relacion": "efecto_secundario",
+    "valor": "ritmo cardíaco irregular"
+  },
+  {
+    "entidad": "Vonoprazan",
+    "relacion": "efecto_secundario",
+    "valor": "convulsiones"
+  },
+  {
+    "entidad": "Vonoprazan",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Vonoprazan",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente y lejos del calor y humedad"
+  },
+  {
+    "entidad": "Vonoprazan",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Vonoprazan",
+    "relacion": "marca_comercial",
+    "valor": "Voquezna"
+  },
+  {
+    "entidad": "Vorapaxar",
+    "relacion": "contraindicado_en",
+    "valor": "apoplejía, miniapoplejía, sangrado en el cerebro, trastornos de la sangre o de coagulación, úlcera estomacal, enfermedad renal o hepática"
+  },
+  {
+    "entidad": "Vorapaxar",
+    "relacion": "trata",
+    "valor": "reducir el riesgo de infarto y apoplejía en personas con problemas de flujo sanguíneo"
+  },
+  {
+    "entidad": "Vorapaxar",
+    "relacion": "uso",
+    "valor": "tomar una tableta por vía oral una vez al día, con o sin alimentos"
+  },
+  {
+    "entidad": "Vorapaxar",
+    "relacion": "otro_uso",
+    "valor": "otros usos a discreción del médico"
+  },
+  {
+    "entidad": "Vorapaxar",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos que se están tomando"
+  },
+  {
+    "entidad": "Vorapaxar",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta a menos que lo indique el médico"
+  },
+  {
+    "entidad": "Vorapaxar",
+    "relacion": "olvido",
+    "valor": "tomar la dosis omitida tan pronto como se recuerde, omitir si es casi hora de la siguiente dosis"
+  },
+  {
+    "entidad": "Vorapaxar",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio, debilidad, piel pálida, manos y pies fríos"
+  },
+  {
+    "entidad": "Vorapaxar",
+    "relacion": "almacenamiento",
+    "valor": "mantener en empaque original, cerrado, a temperatura ambiente, lejos del calor y la humedad"
+  },
+  {
+    "entidad": "Vorapaxar",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento o a servicios de emergencia"
+  },
+  {
+    "entidad": "Vorapaxar",
+    "relacion": "marca_comercial",
+    "valor": "Zontivity"
+  },
+  {
+    "entidad": "Vorasidenib",
+    "relacion": "trata",
+    "valor": "astrocitoma u oligodendroglioma en pacientes mayores de 12 años"
+  },
+  {
+    "entidad": "Vorasidenib",
+    "relacion": "uso",
+    "valor": "tabletas para tomar por vía oral, una vez al día"
+  },
+  {
+    "entidad": "Vorasidenib",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Vorasidenib",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos concurrentes"
+  },
+  {
+    "entidad": "Vorasidenib",
+    "relacion": "precaucion",
+    "valor": "puede disminuir la eficacia de anticonceptivos hormonales"
+  },
+  {
+    "entidad": "Vorasidenib",
+    "relacion": "precaucion",
+    "valor": "no debe quedar embarazada durante el tratamiento"
+  },
+  {
+    "entidad": "Vorasidenib",
+    "relacion": "dieta",
+    "valor": "consultar sobre el consumo de toronja"
+  },
+  {
+    "entidad": "Vorasidenib",
+    "relacion": "olvido",
+    "valor": "tomar la dosis olvidada dentro de las 6 horas"
+  },
+  {
+    "entidad": "Vorasidenib",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio"
+  },
+  {
+    "entidad": "Vorasidenib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Vorasidenib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor en músculos o articulaciones"
+  },
+  {
+    "entidad": "Vorasidenib",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Vorasidenib",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Vorasidenib",
+    "relacion": "efecto_secundario",
+    "valor": "convulsiones"
+  },
+  {
+    "entidad": "Vorasidenib",
+    "relacion": "almacenamiento",
+    "valor": "mantener en envase original, cerrado y a temperatura ambiente"
+  },
+  {
+    "entidad": "Vorasidenib",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Vorasidenib",
+    "relacion": "marca_comercial",
+    "valor": "Voranigo ®"
+  },
+  {
+    "entidad": "Voriconazol",
+    "relacion": "trata",
+    "valor": "infecciones micóticas graves como la aspergilosis invasiva"
+  },
+  {
+    "entidad": "Voriconazol",
+    "relacion": "trata",
+    "valor": "candidiasis esofágica"
+  },
+  {
+    "entidad": "Voriconazol",
+    "relacion": "trata",
+    "valor": "candidemia"
+  },
+  {
+    "entidad": "Voriconazol",
+    "relacion": "uso",
+    "valor": "tomar cada 12 horas en ayunas, al menos 1 hora antes o 1 hora después de la comida"
+  },
+  {
+    "entidad": "Voriconazol",
+    "relacion": "uso",
+    "valor": "agitar la suspensión antes de usar"
+  },
+  {
+    "entidad": "Voriconazol",
+    "relacion": "se_administra_via",
+    "valor": "vía oral"
+  },
+  {
+    "entidad": "Voriconazol",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Voriconazol",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias a voriconazol y otros antimicóticos"
+  },
+  {
+    "entidad": "Voriconazol",
+    "relacion": "precaucion",
+    "valor": "consultar sobre interacciones con otros medicamentos"
+  },
+  {
+    "entidad": "Voriconazol",
+    "relacion": "precaucion",
+    "valor": "evitar la luz solar fuerte y usar protección solar"
+  },
+  {
+    "entidad": "Voriconazol",
+    "relacion": "dieta",
+    "valor": "continuar con la dieta normal a menos que se indique lo contrario"
+  },
+  {
+    "entidad": "Voriconazol",
+    "relacion": "olvido",
+    "valor": "tomar la dosis omitida tan pronto como se recuerde"
+  },
+  {
+    "entidad": "Voriconazol",
+    "relacion": "efecto_secundario",
+    "valor": "visión anormal"
+  },
+  {
+    "entidad": "Voriconazol",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para ver los colores"
+  },
+  {
+    "entidad": "Voriconazol",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Voriconazol",
+    "relacion": "efecto_secundario",
+    "valor": "náusea"
+  },
+  {
+    "entidad": "Voriconazol",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Voriconazol",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Voriconazol",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Voriconazol",
+    "relacion": "efecto_secundario",
+    "valor": "boca seca"
+  },
+  {
+    "entidad": "Voriconazol",
+    "relacion": "efecto_secundario",
+    "valor": "rubor"
+  },
+  {
+    "entidad": "Voriconazol",
+    "relacion": "efecto_secundario",
+    "valor": "fiebre"
+  },
+  {
+    "entidad": "Voriconazol",
+    "relacion": "efecto_secundario",
+    "valor": "escalofríos o temblor"
+  },
+  {
+    "entidad": "Voriconazol",
+    "relacion": "efecto_secundario",
+    "valor": "ritmo cardíaco rápido"
+  },
+  {
+    "entidad": "Voriconazol",
+    "relacion": "efecto_secundario",
+    "valor": "respiración rápida"
+  },
+  {
+    "entidad": "Voriconazol",
+    "relacion": "efecto_secundario",
+    "valor": "confusión"
+  },
+  {
+    "entidad": "Voriconazol",
+    "relacion": "efecto_secundario",
+    "valor": "molestias estomacales"
+  },
+  {
+    "entidad": "Voriconazol",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio extremo"
+  },
+  {
+    "entidad": "Voriconazol",
+    "relacion": "efecto_secundario",
+    "valor": "sangrado o moretones inusuales"
+  },
+  {
+    "entidad": "Voriconazol",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de apetito"
+  },
+  {
+    "entidad": "Voriconazol",
+    "relacion": "efecto_secundario",
+    "valor": "picazón"
+  },
+  {
+    "entidad": "Voriconazol",
+    "relacion": "efecto_secundario",
+    "valor": "orina oscura"
+  },
+  {
+    "entidad": "Voriconazol",
+    "relacion": "efecto_secundario",
+    "valor": "coloración amarillenta de la piel o los ojos"
+  },
+  {
+    "entidad": "Voriconazol",
+    "relacion": "efecto_secundario",
+    "valor": "dolor en la parte superior derecha del estómago"
+  },
+  {
+    "entidad": "Voriconazol",
+    "relacion": "efecto_secundario",
+    "valor": "síntomas similares a los de la gripe"
+  },
+  {
+    "entidad": "Voriconazol",
+    "relacion": "efecto_secundario",
+    "valor": "aumento de peso"
+  },
+  {
+    "entidad": "Voriconazol",
+    "relacion": "efecto_secundario",
+    "valor": "joroba de grasa entre los hombros"
+  },
+  {
+    "entidad": "Voriconazol",
+    "relacion": "efecto_secundario",
+    "valor": "cara redondeada"
+  },
+  {
+    "entidad": "Voriconazol",
+    "relacion": "efecto_secundario",
+    "valor": "adelgazamiento de la piel"
+  },
+  {
+    "entidad": "Voriconazol",
+    "relacion": "efecto_secundario",
+    "valor": "hematomas"
+  },
+  {
+    "entidad": "Voriconazol",
+    "relacion": "efecto_secundario",
+    "valor": "crecimiento excesivo de cabello"
+  },
+  {
+    "entidad": "Voriconazol",
+    "relacion": "efecto_secundario",
+    "valor": "sudoración"
+  },
+  {
+    "entidad": "Voriconazol",
+    "relacion": "efecto_secundario",
+    "valor": "alucinaciones"
+  },
+  {
+    "entidad": "Voriconazol",
+    "relacion": "efecto_secundario",
+    "valor": "dolor u opresión en el pecho"
+  },
+  {
+    "entidad": "Voriconazol",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Voriconazol",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para respirar o tragar"
+  },
+  {
+    "entidad": "Voriconazol",
+    "relacion": "efecto_secundario",
+    "valor": "inflamación de las manos, pies, tobillos o parte inferior de las piernas"
+  },
+  {
+    "entidad": "Voriconazol",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, cerrado herméticamente y lejos del alcance de los niños"
+  },
+  {
+    "entidad": "Voriconazol",
+    "relacion": "almacenamiento",
+    "valor": "almacenar tabletas a temperatura ambiente, lejos del calor y humedad"
+  },
+  {
+    "entidad": "Voriconazol",
+    "relacion": "almacenamiento",
+    "valor": "guardar la suspensión oral sin mezclar en el refrigerador"
+  },
+  {
+    "entidad": "Voriconazol",
+    "relacion": "almacenamiento",
+    "valor": "desechar cualquier suspensión sin usar después de 14 días"
+  },
+  {
+    "entidad": "Voriconazol",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Voriconazol",
+    "relacion": "sobredosis",
+    "valor": "llamar a servicios de emergencia si hay síntomas graves"
+  },
+  {
+    "entidad": "Voriconazol",
+    "relacion": "marca_comercial",
+    "valor": "Vfend ®"
+  },
+  {
+    "entidad": "Vorinostat",
+    "relacion": "trata",
+    "valor": "linfoma cutáneo de células-T"
+  },
+  {
+    "entidad": "Vorinostat",
+    "relacion": "uso",
+    "valor": "tomar por vía oral, una vez al día, con alimentos"
+  },
+  {
+    "entidad": "Vorinostat",
+    "relacion": "otro_uso",
+    "valor": "puede recetarse para otros usos"
+  },
+  {
+    "entidad": "Vorinostat",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos actuales"
+  },
+  {
+    "entidad": "Vorinostat",
+    "relacion": "precaucion",
+    "valor": "no amamantar durante el tratamiento y 1 semana después"
+  },
+  {
+    "entidad": "Vorinostat",
+    "relacion": "dieta",
+    "valor": "beber al menos ocho vasos de agua al día"
+  },
+  {
+    "entidad": "Vorinostat",
+    "relacion": "olvido",
+    "valor": "tomar la dosis olvidada tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Vorinostat",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Vorinostat",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Vorinostat",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de apetito"
+  },
+  {
+    "entidad": "Vorinostat",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de peso"
+  },
+  {
+    "entidad": "Vorinostat",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Vorinostat",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Vorinostat",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio extremo"
+  },
+  {
+    "entidad": "Vorinostat",
+    "relacion": "efecto_secundario",
+    "valor": "escalofríos"
+  },
+  {
+    "entidad": "Vorinostat",
+    "relacion": "efecto_secundario",
+    "valor": "cambio en el sabor de las cosas"
+  },
+  {
+    "entidad": "Vorinostat",
+    "relacion": "efecto_secundario",
+    "valor": "boca seca"
+  },
+  {
+    "entidad": "Vorinostat",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida del cabello"
+  },
+  {
+    "entidad": "Vorinostat",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Vorinostat",
+    "relacion": "efecto_secundario",
+    "valor": "hinchazón de las piernas, pies o tobillos"
+  },
+  {
+    "entidad": "Vorinostat",
+    "relacion": "efecto_secundario",
+    "valor": "picazón"
+  },
+  {
+    "entidad": "Vorinostat",
+    "relacion": "efecto_secundario",
+    "valor": "tos"
+  },
+  {
+    "entidad": "Vorinostat",
+    "relacion": "efecto_secundario",
+    "valor": "fiebre"
+  },
+  {
+    "entidad": "Vorinostat",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Vorinostat",
+    "relacion": "efecto_secundario",
+    "valor": "dolores musculares"
+  },
+  {
+    "entidad": "Vorinostat",
+    "relacion": "efecto_secundario",
+    "valor": "sangrado o moretones inusuales"
+  },
+  {
+    "entidad": "Vorinostat",
+    "relacion": "efecto_secundario",
+    "valor": "piel pálida"
+  },
+  {
+    "entidad": "Vorinostat",
+    "relacion": "efecto_secundario",
+    "valor": "inflamación súbita, enrojecimiento, calor, dolor, y/o sensibilidad en las piernas"
+  },
+  {
+    "entidad": "Vorinostat",
+    "relacion": "efecto_secundario",
+    "valor": "enrojecimiento de la piel o cambios en el color de la piel"
+  },
+  {
+    "entidad": "Vorinostat",
+    "relacion": "efecto_secundario",
+    "valor": "dolor punzante súbito en el pecho"
+  },
+  {
+    "entidad": "Vorinostat",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para respirar"
+  },
+  {
+    "entidad": "Vorinostat",
+    "relacion": "efecto_secundario",
+    "valor": "expulsión de sangre al toser"
+  },
+  {
+    "entidad": "Vorinostat",
+    "relacion": "efecto_secundario",
+    "valor": "sudoración"
+  },
+  {
+    "entidad": "Vorinostat",
+    "relacion": "efecto_secundario",
+    "valor": "ritmo cardíaco acelerado"
+  },
+  {
+    "entidad": "Vorinostat",
+    "relacion": "efecto_secundario",
+    "valor": "desmayos"
+  },
+  {
+    "entidad": "Vorinostat",
+    "relacion": "efecto_secundario",
+    "valor": "sentirse ansioso"
+  },
+  {
+    "entidad": "Vorinostat",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, bien cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Vorinostat",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente, lejos del calor y la humedad"
+  },
+  {
+    "entidad": "Vorinostat",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento o a los servicios de emergencia"
+  },
+  {
+    "entidad": "Vorinostat",
+    "relacion": "marca_comercial",
+    "valor": "Zolinza ®"
+  },
+  {
+    "entidad": "Vosoritida",
+    "relacion": "trata",
+    "valor": "aumento del crecimiento lineal en niños con acondroplasia"
+  },
+  {
+    "entidad": "Vosoritida",
+    "relacion": "uso",
+    "valor": "mezclar en polvo con líquido para inyectarse por vía subcutánea una vez al día"
+  },
+  {
+    "entidad": "Vosoritida",
+    "relacion": "se_administra_via",
+    "valor": "subcutánea"
+  },
+  {
+    "entidad": "Vosoritida",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta a menos que el médico lo indique"
+  },
+  {
+    "entidad": "Vosoritida",
+    "relacion": "olvido",
+    "valor": "inyéctese la dosis tan pronto como lo recuerde si han pasado 12 horas o menos; omita la dosis si han pasado más de 12 horas"
+  },
+  {
+    "entidad": "Vosoritida",
+    "relacion": "efecto_secundario",
+    "valor": "enrojecimiento, sarpullido, urticaria, picor, hinchazón, dolor o hematomas en el lugar de inyección"
+  },
+  {
+    "entidad": "Vosoritida",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Vosoritida",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Vosoritida",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio"
+  },
+  {
+    "entidad": "Vosoritida",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Vosoritida",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago"
+  },
+  {
+    "entidad": "Vosoritida",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Vosoritida",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de oído"
+  },
+  {
+    "entidad": "Vosoritida",
+    "relacion": "efecto_secundario",
+    "valor": "secreción nasal"
+  },
+  {
+    "entidad": "Vosoritida",
+    "relacion": "efecto_secundario",
+    "valor": "dolor en las articulaciones"
+  },
+  {
+    "entidad": "Vosoritida",
+    "relacion": "efecto_secundario",
+    "valor": "piel seca"
+  },
+  {
+    "entidad": "Vosoritida",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original, cerrado, en el refrigerador, no congelar"
+  },
+  {
+    "entidad": "Vosoritida",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento o a los servicios de emergencia"
+  },
+  {
+    "entidad": "Vosoritida",
+    "relacion": "marca_comercial",
+    "valor": "Voxzogo ®"
+  }
+]

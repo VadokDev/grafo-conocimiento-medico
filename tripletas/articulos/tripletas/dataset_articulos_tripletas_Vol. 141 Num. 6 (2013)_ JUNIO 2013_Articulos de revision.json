@@ -1,0 +1,222 @@
+[
+  {
+    "entidad": "Enfermedad de Parkinson",
+    "relacion": "causa",
+    "valor": "trastorno de la marcha"
+  },
+  {
+    "entidad": "Freezing",
+    "relacion": "es un",
+    "valor": "fenómeno motor"
+  },
+  {
+    "entidad": "Freezing",
+    "relacion": "afecta a",
+    "valor": "más de un tercio de los pacientes con Parkinson"
+  },
+  {
+    "entidad": "Freezing",
+    "relacion": "se caracteriza por",
+    "valor": "sensación de pies pegados al suelo"
+  },
+  {
+    "entidad": "Freezing",
+    "relacion": "ocurre en",
+    "valor": "etapas avanzadas de la enfermedad"
+  },
+  {
+    "entidad": "Levodopa",
+    "relacion": "contribuye a",
+    "valor": "desarrollo del Freezing"
+  },
+  {
+    "entidad": "Freezing",
+    "relacion": "asociado a",
+    "valor": "caídas y pérdida de independencia"
+  },
+  {
+    "entidad": "Freezing",
+    "relacion": "requiere",
+    "valor": "medidas terapéuticas"
+  },
+  {
+    "entidad": "terapia",
+    "relacion": "incluye",
+    "valor": "asociación entre terapia farmacológica y estímulos sensoriales"
+  },
+  {
+    "entidad": "ejercicios de coordinación",
+    "relacion": "son",
+    "valor": "estrategias terapéuticas para Freezing"
+  },
+  {
+    "entidad": "estímulos auditivos",
+    "relacion": "mejoran",
+    "valor": "movimientos en pacientes con Parkinson"
+  },
+  {
+    "entidad": "estímulos visuales",
+    "relacion": "normalizan",
+    "valor": "longitud del paso"
+  },
+  {
+    "entidad": "estímulos visuales",
+    "relacion": "se utilizan para",
+    "valor": "guiar a los pacientes en su marcha"
+  },
+  {
+    "entidad": "estimulación cerebral profunda",
+    "relacion": "es un",
+    "valor": "procedimiento quirúrgico para tratar Freezing"
+  },
+  {
+    "entidad": "Freezing",
+    "relacion": "requiere",
+    "valor": "más investigaciones para su comprensión"
+  },
+  {
+    "entidad": "estrategias de atención",
+    "relacion": "mejoran",
+    "valor": "patrón de marcha en Parkinson"
+  },
+  {
+    "entidad": "Parkinsonianos",
+    "relacion": "pueden generar",
+    "valor": "patrones adecuados de marcha con estimulación sensorial"
+  },
+  {
+    "entidad": "metilfenidato",
+    "relacion": "se utiliza en",
+    "valor": "tratamiento de la marcha en Parkinson"
+  },
+  {
+    "entidad": "Freezing",
+    "relacion": "no se correlaciona con",
+    "valor": "síntomas motores como rigidez y bradicinesia"
+  },
+  {
+    "entidad": "caídas",
+    "relacion": "son",
+    "valor": "un riesgo asociado al Freezing"
+  },
+  {
+    "entidad": "Vasculitis asociadas a ANCA",
+    "relacion": "es un",
+    "valor": "grupo de enfermedades"
+  },
+  {
+    "entidad": "ANCA",
+    "relacion": "indica",
+    "valor": "presencia de anticuerpos anti-citoplasma de neutrófilos"
+  },
+  {
+    "entidad": "granulomatosis con poliangiitis",
+    "relacion": "es un",
+    "valor": "tipo de vasculitis asociada a ANCA"
+  },
+  {
+    "entidad": "poliangiitis microscópica",
+    "relacion": "es un",
+    "valor": "tipo de vasculitis asociada a ANCA"
+  },
+  {
+    "entidad": "eosinofilia y granulomatosis con poliangiitis",
+    "relacion": "es un",
+    "valor": "tipo de vasculitis asociada a ANCA"
+  },
+  {
+    "entidad": "ciclofosfamida",
+    "relacion": "es un",
+    "valor": "tratamiento para inducción de remisión"
+  },
+  {
+    "entidad": "Rituximab",
+    "relacion": "es un",
+    "valor": "tratamiento para vasculitis"
+  },
+  {
+    "entidad": "metotrexato",
+    "relacion": "es un",
+    "valor": "tratamiento para formas menos graves de vasculitis"
+  },
+  {
+    "entidad": "plasmaféresis",
+    "relacion": "es un",
+    "valor": "tratamiento controversial para vasculitis"
+  },
+  {
+    "entidad": "infecciones",
+    "relacion": "pueden inducir",
+    "valor": "recaídas en vasculitis"
+  },
+  {
+    "entidad": "linfocitos B",
+    "relacion": "son responsables de",
+    "valor": "producción de ANCA"
+  },
+  {
+    "entidad": "neutrófilos",
+    "relacion": "participan en",
+    "valor": "la patogenia de las vasculitis"
+  },
+  {
+    "entidad": "ciclofosfamida",
+    "relacion": "asocia a",
+    "valor": "riesgo aumentado de toxicidad"
+  },
+  {
+    "entidad": "azatioprina",
+    "relacion": "es un",
+    "valor": "tratamiento para mantenimiento de remisión"
+  },
+  {
+    "entidad": "micofenolato mofetil",
+    "relacion": "es un",
+    "valor": "tratamiento para mantenimiento de remisión"
+  },
+  {
+    "entidad": "leflunomida",
+    "relacion": "es un",
+    "valor": "tratamiento para mantenimiento de remisión"
+  },
+  {
+    "entidad": "estudios prospectivos",
+    "relacion": "han permitido establecer",
+    "valor": "pautas de consenso internacionales"
+  },
+  {
+    "entidad": "patogenia de las VAA",
+    "relacion": "es apoyada por",
+    "valor": "evidencia de ANCA"
+  },
+  {
+    "entidad": "ciclofosfamida",
+    "relacion": "mejoró",
+    "valor": "el pronóstico de los pacientes"
+  },
+  {
+    "entidad": "RAVE",
+    "relacion": "compara",
+    "valor": "ciclofosfamida y rituximab"
+  },
+  {
+    "entidad": "RITUXVAS",
+    "relacion": "compara",
+    "valor": "rituximab y ciclofosfamida"
+  },
+  {
+    "entidad": "TNFa",
+    "relacion": "es un",
+    "valor": "factor de necrosis tumoral"
+  },
+  {
+    "entidad": "glomérulo",
+    "relacion": "puede ser afectado por",
+    "valor": "vasculitis"
+  },
+  {
+    "entidad": "mimetismo molecular",
+    "relacion": "puede ocurrir en",
+    "valor": "pacientes con vasculitis y infecciones"
+  }
+]

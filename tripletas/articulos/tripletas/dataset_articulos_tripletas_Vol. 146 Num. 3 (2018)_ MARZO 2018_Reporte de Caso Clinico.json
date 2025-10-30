@@ -1,0 +1,282 @@
+[
+  {
+    "entidad": "Aplasia medular adquirida",
+    "relacion": "es un",
+    "valor": "enfermedad"
+  },
+  {
+    "entidad": "Aplasia medular adquirida",
+    "relacion": "asocia con",
+    "valor": "embarazo"
+  },
+  {
+    "entidad": "Aplasia medular adquirida",
+    "relacion": "puede resultar en",
+    "valor": "alta mortalidad materna y fetal"
+  },
+  {
+    "entidad": "ciclosporina",
+    "relacion": "es un",
+    "valor": "tratamiento"
+  },
+  {
+    "entidad": "inmunoglobulina antitimocítica de caballo",
+    "relacion": "es un",
+    "valor": "tratamiento"
+  },
+  {
+    "entidad": "trasplante de progenitores hematopoyéticos (TPH)",
+    "relacion": "es el",
+    "valor": "tratamiento de elección"
+  },
+  {
+    "entidad": "metilprednisolona",
+    "relacion": "se utiliza en",
+    "valor": "embarazo"
+  },
+  {
+    "entidad": "hemorragia intracerebral",
+    "relacion": "es una complicación asociada a",
+    "valor": "aplasia medular adquirida durante el embarazo"
+  },
+  {
+    "entidad": "trombocitopenia severa",
+    "relacion": "puede causar",
+    "valor": "hemorragia cerebral"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "sindrome mielodisplástico hipoplásico"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "requiere",
+    "valor": "transfusiones de glóbulos rojos y plaquetas"
+  },
+  {
+    "entidad": "cesárea",
+    "relacion": "se realiza en",
+    "valor": "paciente con aplasia medular durante el embarazo"
+  },
+  {
+    "entidad": "hemoglobina",
+    "relacion": "debe ser mayor a",
+    "valor": "8 g/dl durante el embarazo"
+  },
+  {
+    "entidad": "plaquetas",
+    "relacion": "deben ser mayores a",
+    "valor": "20.000/ul durante el embarazo"
+  },
+  {
+    "entidad": "trabajo coordinado de hematólogos, obstetras y anestesistas",
+    "relacion": "es crucial para",
+    "valor": "un embarazo y parto exitoso"
+  },
+  {
+    "entidad": "medroxiprogesterona acetato",
+    "relacion": "se utiliza para",
+    "valor": "manejo anticonceptivo"
+  },
+  {
+    "entidad": "bromocriptina",
+    "relacion": "se utiliza para",
+    "valor": "suprimir lactancia"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "no presenta",
+    "valor": "respuesta al tratamiento inmunosupresor a los seis meses"
+  },
+  {
+    "entidad": "levotiroxina",
+    "relacion": "es un",
+    "valor": "tratamiento para el hipotiroidismo"
+  },
+  {
+    "entidad": "cáncer papilar de tiroides",
+    "relacion": "requiere",
+    "valor": "tiroidectomía total"
+  },
+  {
+    "entidad": "tiroidectomía total",
+    "relacion": "deja a los pacientes",
+    "valor": "dependientes del reemplazo hormonal con levotiroxina"
+  },
+  {
+    "entidad": "desensibilización",
+    "relacion": "es el único tratamiento",
+    "valor": "para pacientes alérgicos a levotiroxina"
+  },
+  {
+    "entidad": "hipotiroidismo",
+    "relacion": "puede causar",
+    "valor": "coma mixedematoso"
+  },
+  {
+    "entidad": "angioedema",
+    "relacion": "es un síntoma de",
+    "valor": "reacción alérgica a levotiroxina"
+  },
+  {
+    "entidad": "Dra. María Antonieta Guzmán Meléndez",
+    "relacion": "es",
+    "valor": "autora del estudio"
+  },
+  {
+    "entidad": "Hospital Clínico Universidad de Chile",
+    "relacion": "realiza",
+    "valor": "desensibilización a levotiroxina"
+  },
+  {
+    "entidad": "protocolo de desensibilización",
+    "relacion": "se basa en",
+    "valor": "aumentar dosis de levotiroxina cada 15 minutos"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "fue",
+    "valor": "monitorizada durante el procedimiento"
+  },
+  {
+    "entidad": "levotiroxina",
+    "relacion": "es convertida a",
+    "valor": "triyodotironina (T3)"
+  },
+  {
+    "entidad": "triyodotironina (T3)",
+    "relacion": "mantiene",
+    "valor": "niveles estables postadministración"
+  },
+  {
+    "entidad": "reacciones de hipersensibilidad",
+    "relacion": "son",
+    "valor": "infrecuentes con levotiroxina"
+  },
+  {
+    "entidad": "prick test",
+    "relacion": "se utilizó para",
+    "valor": "evaluar reacciones alérgicas"
+  },
+  {
+    "entidad": "Hospital Universitario Ramón y Cajal",
+    "relacion": "es un",
+    "valor": "centro de alergología en España"
+  },
+  {
+    "entidad": "levotiroxina",
+    "relacion": "es el tratamiento de elección",
+    "valor": "para el manejo a largo plazo del hipotiroidismo"
+  },
+  {
+    "entidad": "reemplazo hormonal",
+    "relacion": "inhibe",
+    "valor": "crecimiento tumoral por retroalimentación negativa sobre TSH"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presentó",
+    "valor": "síntomas de hipotiroidismo severo"
+  },
+  {
+    "entidad": "dosis diaria de levotiroxina",
+    "relacion": "fue indicada por",
+    "valor": "el endocrinólogo"
+  },
+  {
+    "entidad": "desensibilización",
+    "relacion": "se realizó con",
+    "valor": "levotiroxina en presentación magistral"
+  },
+  {
+    "entidad": "valores de TSH",
+    "relacion": "mejoraron a",
+    "valor": "0,94 uUI/mL después de la desensibilización"
+  },
+  {
+    "entidad": "tos",
+    "relacion": "asociada a",
+    "valor": "fracturas costales simétricas"
+  },
+  {
+    "entidad": "tos crónica",
+    "relacion": "causa de",
+    "valor": "fracturas costales"
+  },
+  {
+    "entidad": "enalapril",
+    "relacion": "utilizado para",
+    "valor": "tratamiento de hipertensión"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "dolor torácico bilateral"
+  },
+  {
+    "entidad": "radiografía de tórax",
+    "relacion": "realizada para",
+    "valor": "diagnóstico de fracturas"
+  },
+  {
+    "entidad": "tomografía axial computada (TAC)",
+    "relacion": "confirma",
+    "valor": "fracturas costales"
+  },
+  {
+    "entidad": "enalapril",
+    "relacion": "suspendido",
+    "valor": "tras diagnóstico de fracturas"
+  },
+  {
+    "entidad": "reposo y corsé",
+    "relacion": "indicado para",
+    "valor": "mejorar dolor"
+  },
+  {
+    "entidad": "tos crónica",
+    "relacion": "puede causar",
+    "valor": "alteración en la calidad de vida"
+  },
+  {
+    "entidad": "fracturas costales",
+    "relacion": "pueden ocurrir en",
+    "valor": "sujetos normales"
+  },
+  {
+    "entidad": "tratamiento",
+    "relacion": "suele ser",
+    "valor": "conservador"
+  },
+  {
+    "entidad": "cough",
+    "relacion": "asociada a",
+    "valor": "complicaciones como síncope y neumotórax"
+  },
+  {
+    "entidad": "IECA",
+    "relacion": "puede causar",
+    "valor": "tos crónica"
+  },
+  {
+    "entidad": "síncope",
+    "relacion": "es una",
+    "valor": "complicación de la tos"
+  },
+  {
+    "entidad": "neumotórax",
+    "relacion": "es una",
+    "valor": "complicación de la tos"
+  },
+  {
+    "entidad": "hernias pulmonares",
+    "relacion": "son",
+    "valor": "complicaciones menos frecuentes de la tos"
+  },
+  {
+    "entidad": "fracturas costales",
+    "relacion": "pueden ser causadas por",
+    "valor": "trauma torácico y tos"
+  }
+]

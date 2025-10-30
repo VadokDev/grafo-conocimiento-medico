@@ -1,0 +1,987 @@
+[
+  {
+    "entidad": "gen NAT2",
+    "relacion": "asociado a",
+    "valor": "fisura labiopalatina no sindrómica"
+  },
+  {
+    "entidad": "fisura labiopalatina no sindrómica",
+    "relacion": "es un",
+    "valor": "defecto congénito"
+  },
+  {
+    "entidad": "N-acetiltransferasas",
+    "relacion": "responsables de",
+    "valor": "biotransformación de arilaminas"
+  },
+  {
+    "entidad": "N-acetiltransferasa 2 (NAT2)",
+    "relacion": "participa en",
+    "valor": "detoxificación de arilamidas"
+  },
+  {
+    "entidad": "alelos *5(481C>T), *6(590G>A), *7(857G>A)",
+    "relacion": "determinan",
+    "valor": "fenotipo acetilador lento"
+  },
+  {
+    "entidad": "alelo *4",
+    "relacion": "es",
+    "valor": "alelo salvaje"
+  },
+  {
+    "entidad": "CEMIC",
+    "relacion": "aproba",
+    "valor": "proyecto de investigación"
+  },
+  {
+    "entidad": "ECLAMC",
+    "relacion": "es un",
+    "valor": "estudio colaborativo de malformaciones congénitas"
+  },
+  {
+    "entidad": "transmisión disequilibrio (TDT)",
+    "relacion": "evalúa",
+    "valor": "asociación entre alelos y malformación"
+  },
+  {
+    "entidad": "alelo *5",
+    "relacion": "muestra",
+    "valor": "asociación positiva con FLPNS"
+  },
+  {
+    "entidad": "NAT2",
+    "relacion": "puede estar en",
+    "valor": "desequilibrio de ligamiento con alelo de susceptibilidad"
+  },
+  {
+    "entidad": "factores ambientales",
+    "relacion": "contribuyen a",
+    "valor": "fisura labiopalatina no sindrómica"
+  },
+  {
+    "entidad": "población argentina",
+    "relacion": "resultado de",
+    "valor": "interacciones entre poblaciones nativas y europeas"
+  },
+  {
+    "entidad": "análisis genéticos",
+    "relacion": "permiten",
+    "valor": "desarrollo de estrategias preventivas"
+  },
+  {
+    "entidad": "Dra. María Rita Santos",
+    "relacion": "es",
+    "valor": "autora del estudio"
+  },
+  {
+    "entidad": "CICPBA",
+    "relacion": "proporciona",
+    "valor": "apoyo financiero"
+  },
+  {
+    "entidad": "depresión posparto",
+    "relacion": "es un",
+    "valor": "trastorno psicológico"
+  },
+  {
+    "entidad": "Ministerio de Salud (MINSAL)",
+    "relacion": "recomienda",
+    "valor": "Escala de Depresión Posparto de Edimburgo (EPDS)"
+  },
+  {
+    "entidad": "Escala de Depresión Posparto de Edimburgo (EPDS)",
+    "relacion": "se utiliza para",
+    "valor": "tamizaje de depresión posparto"
+  },
+  {
+    "entidad": "Centros de Atención Primaria",
+    "relacion": "son",
+    "valor": "lugares de atención médica"
+  },
+  {
+    "entidad": "mujeres con depresión posparto",
+    "relacion": "enfrentan",
+    "valor": "barreras para acceder a tratamiento"
+  },
+  {
+    "entidad": "falta de conocimiento sobre la enfermedad",
+    "relacion": "es una",
+    "valor": "barrera de acceso"
+  },
+  {
+    "entidad": "negativa conceptualización de la enfermedad",
+    "relacion": "es una",
+    "valor": "barrera de acceso"
+  },
+  {
+    "entidad": "falta de apoyo de red",
+    "relacion": "es una",
+    "valor": "barrera de acceso"
+  },
+  {
+    "entidad": "tiempos de espera largos",
+    "relacion": "son",
+    "valor": "barreras del sistema de salud"
+  },
+  {
+    "entidad": "falta de coordinación entre decisiones clínicas y administrativas",
+    "relacion": "es una",
+    "valor": "barrera de acceso"
+  },
+  {
+    "entidad": "tratamiento efectivo",
+    "relacion": "existe para",
+    "valor": "depresión posparto"
+  },
+  {
+    "entidad": "mujeres con depresión posparto",
+    "relacion": "reportan",
+    "valor": "dificultades para definir su malestar como enfermedad"
+  },
+  {
+    "entidad": "profesionales de salud",
+    "relacion": "identifican",
+    "valor": "barreras para la búsqueda de ayuda"
+  },
+  {
+    "entidad": "confianza en el personal de salud",
+    "relacion": "facilita",
+    "valor": "la búsqueda de ayuda"
+  },
+  {
+    "entidad": "miedo a ser catalogada de 'loca'",
+    "relacion": "es una",
+    "valor": "barrera para pedir ayuda"
+  },
+  {
+    "entidad": "programa Chile Crece Contigo",
+    "relacion": "es un",
+    "valor": "programa de apoyo"
+  },
+  {
+    "entidad": "intervención multidisciplinaria",
+    "relacion": "mejora",
+    "valor": "satisfacción en el tratamiento"
+  },
+  {
+    "entidad": "comunicación clara del diagnóstico",
+    "relacion": "es fundamental para",
+    "valor": "la adherencia al tratamiento"
+  },
+  {
+    "entidad": "barreras estructurales de accesibilidad",
+    "relacion": "obstaculizan",
+    "valor": "el acceso y la adherencia al tratamiento"
+  },
+  {
+    "entidad": "redes de apoyo",
+    "relacion": "son",
+    "valor": "escasas para las madres con depresión posparto"
+  },
+  {
+    "entidad": "mujeres con depresión posparto",
+    "relacion": "reconocen",
+    "valor": "alteraciones emocionales y problemas psicosociales"
+  },
+  {
+    "entidad": "efectos de los fármacos",
+    "relacion": "son motivo de",
+    "valor": "rechazo del tratamiento farmacológico"
+  },
+  {
+    "entidad": "MP10",
+    "relacion": "afecta a",
+    "valor": "salud de la población"
+  },
+  {
+    "entidad": "Concepción Metropolitano",
+    "relacion": "es un",
+    "valor": "área de estudio"
+  },
+  {
+    "entidad": "Universidad de Concepción",
+    "relacion": "tiene",
+    "valor": "departamentos de Ingeniería Industrial y Ciencias Ambientales"
+  },
+  {
+    "entidad": "Cristian Mardones",
+    "relacion": "es",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "Andrés Saavedra",
+    "relacion": "es",
+    "valor": "coautor del estudio"
+  },
+  {
+    "entidad": "Jorge Jiménez",
+    "relacion": "es",
+    "valor": "coautor del estudio"
+  },
+  {
+    "entidad": "contaminación por MP10",
+    "relacion": "causa",
+    "valor": "mortalidad y morbilidad"
+  },
+  {
+    "entidad": "mortalidad prematura",
+    "relacion": "es evaluada por",
+    "valor": "función de daño"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "se relaciona con",
+    "valor": "concentraciones de MP10"
+  },
+  {
+    "entidad": "enfermedades respiratorias",
+    "relacion": "son afectadas por",
+    "valor": "concentraciones de MP10"
+  },
+  {
+    "entidad": "método de la función de daño",
+    "relacion": "se utiliza para",
+    "valor": "determinar el impacto económico de la reducción de contaminación"
+  },
+  {
+    "entidad": "hospitalizaciones",
+    "relacion": "aumentan con",
+    "valor": "niveles de MP10"
+  },
+  {
+    "entidad": "estudios epidemiológicos",
+    "relacion": "se utilizan para",
+    "valor": "obtener funciones concentración-respuesta (C-R)"
+  },
+  {
+    "entidad": "valorización económica",
+    "relacion": "se aplica a",
+    "valor": "efectos en salud"
+  },
+  {
+    "entidad": "beneficios económicos",
+    "relacion": "provienen de",
+    "valor": "muertes prematuras evitadas"
+  },
+  {
+    "entidad": "Concepción Metropolitano",
+    "relacion": "presenta",
+    "valor": "beneficios en salud por reducción de MP10"
+  },
+  {
+    "entidad": "coeficientes C-R",
+    "relacion": "son utilizados para",
+    "valor": "estimar riesgos de salud"
+  },
+  {
+    "entidad": "Dirección Meteorológica de Chile",
+    "relacion": "proporciona",
+    "valor": "datos meteorológicos"
+  },
+  {
+    "entidad": "Sistema de Información Nacional de Calidad del Aire (SINCA)",
+    "relacion": "proporciona",
+    "valor": "datos de concentraciones de MP10"
+  },
+  {
+    "entidad": "Departamento de Estadísticas e Información de Salud (DEIS)",
+    "relacion": "proporciona",
+    "valor": "datos de mortalidad e ingresos hospitalarios"
+  },
+  {
+    "entidad": "salud pública",
+    "relacion": "es un campo de estudio relacionado con",
+    "valor": "impacto de la contaminación"
+  },
+  {
+    "entidad": "análisis estadísticos",
+    "relacion": "se utilizan para",
+    "valor": "evaluar efectos de la contaminación"
+  },
+  {
+    "entidad": "costo de hospitalización",
+    "relacion": "se utiliza para",
+    "valor": "valorar morbilidad"
+  },
+  {
+    "entidad": "valor de la vida estadística (VVE)",
+    "relacion": "se utiliza para",
+    "valor": "valorar mortalidad prematura"
+  },
+  {
+    "entidad": "Universidad Católica del Maule",
+    "relacion": "tiene",
+    "valor": "Departamento de Kinesiología"
+  },
+  {
+    "entidad": "Universidad Católica del Maule",
+    "relacion": "tiene",
+    "valor": "Laboratorio de Envejecimiento y Funcionalidad"
+  },
+  {
+    "entidad": "Universidad Católica del Maule",
+    "relacion": "tiene",
+    "valor": "Laboratorio de Función Ventilatoria"
+  },
+  {
+    "entidad": "Prueba de caminata en seis minutos (PC6m)",
+    "relacion": "es",
+    "valor": "una medida de rendimiento físico"
+  },
+  {
+    "entidad": "adultos mayores autovalentes",
+    "relacion": "participan en",
+    "valor": "la prueba de caminata en seis minutos"
+  },
+  {
+    "entidad": "nivel socioeconómico",
+    "relacion": "afecta a",
+    "valor": "el costo fisiológico"
+  },
+  {
+    "entidad": "género",
+    "relacion": "afecta a",
+    "valor": "el costo fisiológico"
+  },
+  {
+    "entidad": "costo fisiológico",
+    "relacion": "se calcula como",
+    "valor": "la relación entre la diferencia de frecuencia cardíaca y la velocidad de marcha"
+  },
+  {
+    "entidad": "costo fisiológico",
+    "relacion": "es mayor en",
+    "valor": "hombres de nivel socioeconómico medio-alto"
+  },
+  {
+    "entidad": "distancia recorrida",
+    "relacion": "es mayor en",
+    "valor": "participantes de nivel socioeconómico alto"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "es un",
+    "valor": "ejemplo de inequidades sociales y económicas"
+  },
+  {
+    "entidad": "nivel socioeconómico bajo",
+    "relacion": "se asocia con",
+    "valor": "mayores tasas de discapacidad"
+  },
+  {
+    "entidad": "costo fisiológico",
+    "relacion": "se determina mediante",
+    "valor": "la frecuencia cardíaca de trabajo"
+  },
+  {
+    "entidad": "frecuencia cardíaca de trabajo",
+    "relacion": "se mide cada",
+    "valor": "15 segundos"
+  },
+  {
+    "entidad": "mujeres de nivel socioeconómico medio-alto",
+    "relacion": "alcanzan estado estacionario fisiológico",
+    "valor": "antes que hombres de nivel socioeconómico medio-bajo"
+  },
+  {
+    "entidad": "costo fisiológico",
+    "relacion": "es un indicador de",
+    "valor": "eficiencia fisiológica"
+  },
+  {
+    "entidad": "circuito elíptico",
+    "relacion": "se utiliza para",
+    "valor": "garantizar el blanco de acción aeróbico"
+  },
+  {
+    "entidad": "evaluadores",
+    "relacion": "controlan",
+    "valor": "la ejecución de la prueba"
+  },
+  {
+    "entidad": "muestra de adultos mayores",
+    "relacion": "es",
+    "valor": "no representativa de la población"
+  },
+  {
+    "entidad": "costo fisiológico",
+    "relacion": "no expresa diferencias significativas según",
+    "valor": "nivel socioeconómico"
+  },
+  {
+    "entidad": "mezcla amerindia",
+    "relacion": "es un",
+    "valor": "parámetro importante en estudios epidemiológicos"
+  },
+  {
+    "entidad": "métodos serológicos",
+    "relacion": "son utilizados para",
+    "valor": "determinar índices de mezcla"
+  },
+  {
+    "entidad": "métodos moleculares",
+    "relacion": "son utilizados para",
+    "valor": "determinar índices de mezcla"
+  },
+  {
+    "entidad": "ABO*A",
+    "relacion": "es un",
+    "valor": "alelo del sistema ABO"
+  },
+  {
+    "entidad": "ABO*O",
+    "relacion": "es un",
+    "valor": "alelo del sistema ABO"
+  },
+  {
+    "entidad": "AIMs",
+    "relacion": "son",
+    "valor": "marcadores de identidad ancestral"
+  },
+  {
+    "entidad": "población chilena",
+    "relacion": "es",
+    "valor": "mixta"
+  },
+  {
+    "entidad": "Universidad de Tarapacá",
+    "relacion": "tiene un",
+    "valor": "Comité de Ética/Bioética"
+  },
+  {
+    "entidad": "ADN genómico",
+    "relacion": "es obtenido mediante",
+    "valor": "protocolo de extracción de Lahiri y Nurnberger"
+  },
+  {
+    "entidad": "programa S2 ABOESTIMATOR",
+    "relacion": "es utilizado para",
+    "valor": "estimar la frecuencia génica"
+  },
+  {
+    "entidad": "programa computacional ADMIXTURE",
+    "relacion": "es utilizado para",
+    "valor": "estimar el porcentaje de componentes americano y europeo"
+  },
+  {
+    "entidad": "t de Student",
+    "relacion": "es utilizado para",
+    "valor": "determinar el nivel de significación"
+  },
+  {
+    "entidad": "prueba no paramétrica de Wilcoxon",
+    "relacion": "es utilizada para",
+    "valor": "evaluar la normalidad de distribución"
+  },
+  {
+    "entidad": "muestra de voluntarios",
+    "relacion": "es",
+    "valor": "de 720 chilenos"
+  },
+  {
+    "entidad": "poblaciones ancestrales",
+    "relacion": "pueden ser afectadas por",
+    "valor": "eventos mutacionales excepcionales"
+  },
+  {
+    "entidad": "método de Bernstein",
+    "relacion": "es utilizado para",
+    "valor": "calcular el índice de mezcla"
+  },
+  {
+    "entidad": "frecuencias de alelos A y O",
+    "relacion": "son utilizadas para",
+    "valor": "calcular el índice de mezcla"
+  },
+  {
+    "entidad": "población mestiza",
+    "relacion": "es resultado de",
+    "valor": "enlace asimétrico entre europeos y amerindios"
+  },
+  {
+    "entidad": "tamaño de muestra",
+    "relacion": "puede afectar",
+    "valor": "la varianza de frecuencias génicas"
+  },
+  {
+    "entidad": "Hospital San José",
+    "relacion": "es un",
+    "valor": "hospital de referencia del Servicio de Salud Metropolitano Norte"
+  },
+  {
+    "entidad": "Unidad de Broncopulmonar",
+    "relacion": "pertenece a",
+    "valor": "Hospital San José"
+  },
+  {
+    "entidad": "neumonía adquirida en la comunidad",
+    "relacion": "es una",
+    "valor": "enfermedad infecciosa prevalente"
+  },
+  {
+    "entidad": "pacientes adultos inmunocompetentes",
+    "relacion": "reciben",
+    "valor": "atención en hospitalización diurna"
+  },
+  {
+    "entidad": "hospitalización diurna",
+    "relacion": "reduce",
+    "valor": "las tasas de admisión hospitalaria"
+  },
+  {
+    "entidad": "neumonía adquirida en la comunidad",
+    "relacion": "afecta a",
+    "valor": "pacientes ancianos con enfermedades preexistentes"
+  },
+  {
+    "entidad": "hospital de día",
+    "relacion": "optimiza",
+    "valor": "el uso de recursos sanitarios"
+  },
+  {
+    "entidad": "pacientes con EPOC",
+    "relacion": "requieren",
+    "valor": "ventilación no invasiva"
+  },
+  {
+    "entidad": "hospitalización diurna",
+    "relacion": "promueve",
+    "valor": "el autocuidado y la autonomía"
+  },
+  {
+    "entidad": "comorbilidades",
+    "relacion": "son comunes en",
+    "valor": "pacientes con neumonía adquirida en la comunidad"
+  },
+  {
+    "entidad": "oxigenoterapia",
+    "relacion": "es un",
+    "valor": "tratamiento utilizado en hospitalización diurna"
+  },
+  {
+    "entidad": "antibióticos",
+    "relacion": "son administrados a",
+    "valor": "pacientes con neumonía adquirida en la comunidad"
+  },
+  {
+    "entidad": "servicios de atención primaria",
+    "relacion": "coordinan con",
+    "valor": "hospitalización diurna"
+  },
+  {
+    "entidad": "pacientes adultos con neumonía",
+    "relacion": "son evaluados en",
+    "valor": "el Servicio de Urgencia"
+  },
+  {
+    "entidad": "hospitalización diurna",
+    "relacion": "se implementó en",
+    "valor": "2006"
+  },
+  {
+    "entidad": "factores de riesgo",
+    "relacion": "incluyen",
+    "valor": "edad avanzada y enfermedades preexistentes"
+  },
+  {
+    "entidad": "mortalidad a 30 días",
+    "relacion": "es estimada en",
+    "valor": "3-6% para pacientes con neumonía"
+  },
+  {
+    "entidad": "hospitalización diurna",
+    "relacion": "es una alternativa a",
+    "valor": "hospitalización convencional"
+  },
+  {
+    "entidad": "pacientes con neumonía comunitaria",
+    "relacion": "son manejados en",
+    "valor": "unidades ambulatorias"
+  },
+  {
+    "entidad": "hospitalización diurna",
+    "relacion": "reduce",
+    "valor": "costos sanitarios"
+  },
+  {
+    "entidad": "fragilidad",
+    "relacion": "aumenta el riesgo de",
+    "valor": "dependencia en adultos mayores"
+  },
+  {
+    "entidad": "adultos mayores",
+    "relacion": "asisten a",
+    "valor": "sistema público de salud de Antofagasta"
+  },
+  {
+    "entidad": "fragilidad",
+    "relacion": "se define según",
+    "valor": "criterios de Fried"
+  },
+  {
+    "entidad": "criterios de Fried",
+    "relacion": "incluyen",
+    "valor": "pérdida de peso inexplicable, cansancio, debilidad muscular y falta de actividad física"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "se asocia con",
+    "valor": "fragilidad"
+  },
+  {
+    "entidad": "educación",
+    "relacion": "se asocia con",
+    "valor": "fragilidad"
+  },
+  {
+    "entidad": "estado cognitivo",
+    "relacion": "se asocia con",
+    "valor": "fragilidad"
+  },
+  {
+    "entidad": "autoeficacia",
+    "relacion": "se asocia con",
+    "valor": "fragilidad"
+  },
+  {
+    "entidad": "evaluación funcional del adulto mayor (EFAM)",
+    "relacion": "se aplica en",
+    "valor": "sistema público de salud en Chile"
+  },
+  {
+    "entidad": "EFAM",
+    "relacion": "predice",
+    "valor": "pérdida de funcionalidad en adultos mayores"
+  },
+  {
+    "entidad": "enfermedades crónicas",
+    "relacion": "se correlacionan con",
+    "valor": "fragilidad"
+  },
+  {
+    "entidad": "diabetes mellitus",
+    "relacion": "se asocia con",
+    "valor": "aumento de fragilidad"
+  },
+  {
+    "entidad": "hipertensión arterial",
+    "relacion": "se asocia con",
+    "valor": "aumento de fragilidad"
+  },
+  {
+    "entidad": "polifarmacia",
+    "relacion": "es un síndrome geriátrico",
+    "valor": "común en adultos mayores"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen mayor riesgo de",
+    "valor": "fragilidad"
+  },
+  {
+    "entidad": "autovalentes sin riesgo",
+    "relacion": "presentan",
+    "valor": "mayor porcentaje de ausencia de fragilidad"
+  },
+  {
+    "entidad": "autovalentes con riesgo",
+    "relacion": "presentan",
+    "valor": "mayor porcentaje de fragilidad"
+  },
+  {
+    "entidad": "dinamometría",
+    "relacion": "se utiliza para",
+    "valor": "evaluar fragilidad"
+  },
+  {
+    "entidad": "fragilidad",
+    "relacion": "puede llevar a",
+    "valor": "hospitalización e institucionalización"
+  },
+  {
+    "entidad": "Universidad de Antofagasta",
+    "relacion": "realiza",
+    "valor": "investigación sobre fragilidad en adultos mayores"
+  },
+  {
+    "entidad": "síndrome de Down",
+    "relacion": "es",
+    "valor": "una condición genética"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "tiene",
+    "valor": "alta prevalencia de síndrome de Down"
+  },
+  {
+    "entidad": "escolares chilenos",
+    "relacion": "presentan",
+    "valor": "alta frecuencia de sobrepeso y obesidad"
+  },
+  {
+    "entidad": "malnutrición por exceso",
+    "relacion": "es",
+    "valor": "un fenómeno creciente a nivel mundial"
+  },
+  {
+    "entidad": "JUNAEB",
+    "relacion": "recolecta",
+    "valor": "datos antropométricos de escolares en Chile"
+  },
+  {
+    "entidad": "patrones antropométricos",
+    "relacion": "se utilizan para",
+    "valor": "diagnóstico nutricional"
+  },
+  {
+    "entidad": "hipotiroidismo",
+    "relacion": "afecta a",
+    "valor": "30% de los escolares con síndrome de Down"
+  },
+  {
+    "entidad": "cardiopatía congénita",
+    "relacion": "afecta a",
+    "valor": "22.8% de los escolares con síndrome de Down"
+  },
+  {
+    "entidad": "asma",
+    "relacion": "afecta a",
+    "valor": "5% de los escolares con síndrome de Down"
+  },
+  {
+    "entidad": "patrón OMS/2007",
+    "relacion": "detecta",
+    "valor": "mayor porcentaje de malnutrición por exceso"
+  },
+  {
+    "entidad": "patrón SDM/2002",
+    "relacion": "subestima",
+    "valor": "malnutrición por exceso"
+  },
+  {
+    "entidad": "obesidad central",
+    "relacion": "es",
+    "valor": "un factor de riesgo cardiovascular"
+  },
+  {
+    "entidad": "madres con educación superior",
+    "relacion": "tienen",
+    "valor": "hijos más eutróficos"
+  },
+  {
+    "entidad": "hábitos alimentarios inadecuados",
+    "relacion": "afectan a",
+    "valor": "60.8% de los escolares"
+  },
+  {
+    "entidad": "evaluación nutricional",
+    "relacion": "debe incluir",
+    "valor": "medición de circunferencia de cintura abdominal"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "es",
+    "valor": "la institución que realizó el estudio"
+  },
+  {
+    "entidad": "estudio de corte transversal",
+    "relacion": "evalúa",
+    "valor": "frecuencia de malnutrición por exceso"
+  },
+  {
+    "entidad": "Broncoscopia",
+    "relacion": "es un",
+    "valor": "procedimiento mínimamente invasivo"
+  },
+  {
+    "entidad": "Biopsia transbronquial",
+    "relacion": "se utiliza en",
+    "valor": "diagnóstico de lesiones pulmonares"
+  },
+  {
+    "entidad": "Cáncer pulmonar",
+    "relacion": "es una",
+    "valor": "enfermedad maligna"
+  },
+  {
+    "entidad": "Instituto Nacional del Tórax",
+    "relacion": "es un",
+    "valor": "centro asistencial y docente de referencia"
+  },
+  {
+    "entidad": "Clínica Alemana-Universidad del Desarrollo",
+    "relacion": "es un",
+    "valor": "centro de neumología intervencional"
+  },
+  {
+    "entidad": "Dr. Sebastián Fernández-Bussy",
+    "relacion": "es el",
+    "valor": "autor principal del estudio"
+  },
+  {
+    "entidad": "Lesiones pulmonares focales",
+    "relacion": "son estudiadas por",
+    "valor": "broncoscopia con biopsia transbronquial"
+  },
+  {
+    "entidad": "Tamaño de la lesión",
+    "relacion": "influye en",
+    "valor": "el rendimiento diagnóstico"
+  },
+  {
+    "entidad": "Ubicación de la lesión",
+    "relacion": "afecta a",
+    "valor": "el rendimiento diagnóstico"
+  },
+  {
+    "entidad": "Etiología de la lesión",
+    "relacion": "correlaciona con",
+    "valor": "el rendimiento diagnóstico"
+  },
+  {
+    "entidad": "Complicaciones del procedimiento",
+    "relacion": "son",
+    "valor": "poco frecuentes"
+  },
+  {
+    "entidad": "Anestesia tópica",
+    "relacion": "es utilizada en",
+    "valor": "procedimientos de broncoscopia"
+  },
+  {
+    "entidad": "Seguimiento clínico-radiológico",
+    "relacion": "es considerado como",
+    "valor": "gold standard en diagnóstico"
+  },
+  {
+    "entidad": "Lesiones malignas",
+    "relacion": "fueron diagnosticadas en",
+    "valor": "214 pacientes"
+  },
+  {
+    "entidad": "Adenocarcinoma",
+    "relacion": "es el",
+    "valor": "tumor primario más frecuente"
+  },
+  {
+    "entidad": "Neumotórax",
+    "relacion": "es una",
+    "valor": "complicación del procedimiento"
+  },
+  {
+    "entidad": "Hemorragia leve",
+    "relacion": "es una",
+    "valor": "complicación del procedimiento"
+  },
+  {
+    "entidad": "Comité de ética del Servicio de Salud Metropolitano Oriente",
+    "relacion": "evaluó y aceptó",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "Radiografía de tórax",
+    "relacion": "se realiza al finalizar",
+    "valor": "el procedimiento"
+  },
+  {
+    "entidad": "Consentimiento informado",
+    "relacion": "es requerido para",
+    "valor": "realizar el procedimiento"
+  },
+  {
+    "entidad": "trasplante intracoronario de células mononucleares de médula ósea autólogas",
+    "relacion": "es un",
+    "valor": "tratamiento para cardiopatía dilatada"
+  },
+  {
+    "entidad": "pacientes con cardiopatía dilatada",
+    "relacion": "reciben",
+    "valor": "trasplante intracoronario de células mononucleares de médula ósea autólogas"
+  },
+  {
+    "entidad": "células mononucleares de médula ósea autólogas",
+    "relacion": "se utilizan en",
+    "valor": "terapia celular cardiovascular"
+  },
+  {
+    "entidad": "insuficiencia cardiaca",
+    "relacion": "afecta a",
+    "valor": "pacientes con cardiopatía dilatada"
+  },
+  {
+    "entidad": "seguimiento a largo plazo",
+    "relacion": "evalúa",
+    "valor": "seguridad y eficacia del tratamiento"
+  },
+  {
+    "entidad": "función ventricular izquierda",
+    "relacion": "mejora en",
+    "valor": "pacientes tratados con CMMO"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "mejora en",
+    "valor": "pacientes tratados con CMMO"
+  },
+  {
+    "entidad": "grupo tratado",
+    "relacion": "presenta",
+    "valor": "mejoría en capacidad funcional"
+  },
+  {
+    "entidad": "grupo control",
+    "relacion": "no presenta",
+    "valor": "mejoría significativa en capacidad funcional"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "es similar en",
+    "valor": "ambos grupos"
+  },
+  {
+    "entidad": "terapia celular",
+    "relacion": "no se asocia a",
+    "valor": "mayor riesgo de mortalidad"
+  },
+  {
+    "entidad": "células madre",
+    "relacion": "son seguras en",
+    "valor": "pacientes con insuficiencia cardiaca"
+  },
+  {
+    "entidad": "proyecto INNOVA Chile",
+    "relacion": "financia",
+    "valor": "estudio de terapia celular"
+  },
+  {
+    "entidad": "Clínica Santa María",
+    "relacion": "es un",
+    "valor": "centro de tratamiento"
+  },
+  {
+    "entidad": "Hospital Barros Luco Trudeau",
+    "relacion": "es un",
+    "valor": "centro de tratamiento"
+  },
+  {
+    "entidad": "Hospital San Juan de Dios",
+    "relacion": "es un",
+    "valor": "centro de tratamiento"
+  },
+  {
+    "entidad": "Universidad de los Andes",
+    "relacion": "colabora en",
+    "valor": "estudio de terapia celular"
+  },
+  {
+    "entidad": "encuestas de calidad de vida",
+    "relacion": "evalúan",
+    "valor": "impacto de la insuficiencia cardiaca"
+  },
+  {
+    "entidad": "células CD34+",
+    "relacion": "son parte de",
+    "valor": "trasplante intracoronario"
+  }
+]

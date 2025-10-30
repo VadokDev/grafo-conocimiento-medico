@@ -1,0 +1,277 @@
+[
+  {
+    "entidad": "estrés emocional",
+    "relacion": "causa",
+    "valor": "síndrome de takotsubo"
+  },
+  {
+    "entidad": "síndrome de takotsubo",
+    "relacion": "simula",
+    "valor": "infarto agudo de miocardio"
+  },
+  {
+    "entidad": "terremotos",
+    "relacion": "causa",
+    "valor": "síndrome de takotsubo"
+  },
+  {
+    "entidad": "resonancia magnética cardíaca",
+    "relacion": "utiliza",
+    "valor": "diagnóstico diferencial entre síndrome de takotsubo e infarto agudo de miocardio"
+  },
+  {
+    "entidad": "pacientes con síndrome de takotsubo",
+    "relacion": "muestra",
+    "valor": "buena evolución"
+  },
+  {
+    "entidad": "síndrome de takotsubo",
+    "relacion": "diagnosticado mediante",
+    "valor": "resonancia magnética cardíaca"
+  },
+  {
+    "entidad": "estrés emocional",
+    "relacion": "relacionado con",
+    "valor": "desastres naturales"
+  },
+  {
+    "entidad": "síndrome de takotsubo",
+    "relacion": "presenta",
+    "valor": "disfunción ventricular"
+  },
+  {
+    "entidad": "mujeres de 71 y 80 años",
+    "relacion": "desarrollaron",
+    "valor": "síndrome de takotsubo"
+  },
+  {
+    "entidad": "síndrome de takotsubo",
+    "relacion": "es conocido como",
+    "valor": "miocardiopatía de takotsubo"
+  },
+  {
+    "entidad": "síndrome de takotsubo",
+    "relacion": "es desencadenado por",
+    "valor": "estrés emocional o físico significativo"
+  },
+  {
+    "entidad": "coronariografía",
+    "relacion": "muestra",
+    "valor": "ausencia de enfermedad coronaria significativa"
+  },
+  {
+    "entidad": "síndrome de takotsubo",
+    "relacion": "puede ser",
+    "valor": "típico o atípico"
+  },
+  {
+    "entidad": "edema miocárdico",
+    "relacion": "detectado por",
+    "valor": "resonancia magnética cardíaca"
+  },
+  {
+    "entidad": "síndrome de takotsubo",
+    "relacion": "puede ser causado por",
+    "valor": "altos niveles de catecolaminas"
+  },
+  {
+    "entidad": "estrés relacionado con terremotos",
+    "relacion": "puede constituir",
+    "valor": "factor desencadenante del síndrome de takotsubo"
+  },
+  {
+    "entidad": "Guillain-Barré syndrome",
+    "relacion": "asociado con",
+    "valor": "SARS-CoV-2"
+  },
+  {
+    "entidad": "SARS-CoV-2",
+    "relacion": "causa",
+    "valor": "síntomas neurológicos"
+  },
+  {
+    "entidad": "Hospital del Salvador",
+    "relacion": "admite",
+    "valor": "casos de SARS-CoV-2"
+  },
+  {
+    "entidad": "Hospital del Salvador",
+    "relacion": "atiende a",
+    "valor": "población de 521,920 adultos"
+  },
+  {
+    "entidad": "pacientes con GBS",
+    "relacion": "presentan",
+    "valor": "debilidad simétrica flácida"
+  },
+  {
+    "entidad": "pacientes con GBS",
+    "relacion": "necesitan",
+    "valor": "intubación y ventilación mecánica"
+  },
+  {
+    "entidad": "inmunoglobulina intravenosa",
+    "relacion": "utilizada en",
+    "valor": "tratamiento de GBS"
+  },
+  {
+    "entidad": "SARS-CoV-2",
+    "relacion": "no aumenta",
+    "valor": "incidencia de GBS durante la pandemia"
+  },
+  {
+    "entidad": "sub-notificación",
+    "relacion": "puede ser",
+    "valor": "factor en el reporte de GBS"
+  },
+  {
+    "entidad": "infecciones respiratorias",
+    "relacion": "disminuyen",
+    "valor": "incidencia de GBS"
+  },
+  {
+    "entidad": "epidemiológica vigilancia",
+    "relacion": "debe ser",
+    "valor": "mejorada para GBS"
+  },
+  {
+    "entidad": "Gabriel Cea",
+    "relacion": "es el",
+    "valor": "autor correspondiente"
+  },
+  {
+    "entidad": "Universidad de Chile",
+    "relacion": "es un",
+    "valor": "centro de investigación"
+  },
+  {
+    "entidad": "SARS-CoV-2",
+    "relacion": "implicado en",
+    "valor": "GBS"
+  },
+  {
+    "entidad": "casos de GBS",
+    "relacion": "reportados en",
+    "valor": "varios países"
+  },
+  {
+    "entidad": "SARS-CoV-2",
+    "relacion": "puede causar",
+    "valor": "síntomas neurológicos como encefalopatía"
+  },
+  {
+    "entidad": "técnica de Ozaki",
+    "relacion": "consiste en",
+    "valor": "reconstrucción de válvula aórtica con pericardio autólogo"
+  },
+  {
+    "entidad": "válvula aórtica",
+    "relacion": "es un tipo de",
+    "valor": "válvula cardíaca"
+  },
+  {
+    "entidad": "pericardio autólogo",
+    "relacion": "se utiliza en",
+    "valor": "la reconstrucción de válvula aórtica"
+  },
+  {
+    "entidad": "Hospital Clínico Regional de Concepción",
+    "relacion": "es un",
+    "valor": "centro médico"
+  },
+  {
+    "entidad": "Universidad de Concepción",
+    "relacion": "es un",
+    "valor": "institución educativa"
+  },
+  {
+    "entidad": "Rodrigo Reyes Melo",
+    "relacion": "es el autor de",
+    "valor": "la comunicación"
+  },
+  {
+    "entidad": "reemplazo valvular aórtico protésico",
+    "relacion": "es el",
+    "valor": "estándar en el tratamiento de valvulopatía aórtica"
+  },
+  {
+    "entidad": "insuficiencia aórtica",
+    "relacion": "es un tipo de",
+    "valor": "valvulopatía"
+  },
+  {
+    "entidad": "estenosis aórtica",
+    "relacion": "es un tipo de",
+    "valor": "valvulopatía"
+  },
+  {
+    "entidad": "cirugía cardiaca",
+    "relacion": "incluye",
+    "valor": "monitorización y ecocardiografía"
+  },
+  {
+    "entidad": "glutaraldehído",
+    "relacion": "se utiliza para",
+    "valor": "fijar pericardio autólogo"
+  },
+  {
+    "entidad": "circulación extracorpórea",
+    "relacion": "se realiza mediante",
+    "valor": "canulación arterial y venosa"
+  },
+  {
+    "entidad": "neoválvula aórtica",
+    "relacion": "se evalúa con",
+    "valor": "ecocardiografía transesofágica"
+  },
+  {
+    "entidad": "técnica de Ozaki",
+    "relacion": "ha sido adoptada por",
+    "valor": "centros alrededor del mundo"
+  },
+  {
+    "entidad": "técnica de Ozaki",
+    "relacion": "presenta",
+    "valor": "bajo potencial trombogénico"
+  },
+  {
+    "entidad": "técnica de Ozaki",
+    "relacion": "no requiere",
+    "valor": "tratamiento anticoagulante"
+  },
+  {
+    "entidad": "anillo aórtico",
+    "relacion": "preserva",
+    "valor": "motilidad natural durante el ciclo cardiaco"
+  },
+  {
+    "entidad": "neovelos",
+    "relacion": "se suturan al",
+    "valor": "anillo valvular"
+  },
+  {
+    "entidad": "sutura de polipropileno",
+    "relacion": "se utiliza para",
+    "valor": "suturación de neovelos"
+  },
+  {
+    "entidad": "ecocardiografía intraoperatoria",
+    "relacion": "evalúa",
+    "valor": "resultado postoperatorio inmediato"
+  },
+  {
+    "entidad": "Ozaki y colaboradores",
+    "relacion": "reportaron",
+    "valor": "experiencia inicial en 88 pacientes"
+  },
+  {
+    "entidad": "Baird y colaboradores",
+    "relacion": "reportaron",
+    "valor": "análisis retrospectivo de 57 pacientes"
+  },
+  {
+    "entidad": "técnica de Ozaki",
+    "relacion": "ha sido utilizada en",
+    "valor": "pacientes pediátricos con valvulopatías congénitas"
+  }
+]

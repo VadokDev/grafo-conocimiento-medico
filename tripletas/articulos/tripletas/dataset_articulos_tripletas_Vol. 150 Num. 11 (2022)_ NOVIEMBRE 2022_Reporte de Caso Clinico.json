@@ -1,0 +1,197 @@
+[
+  {
+    "entidad": "Takayasu arteritis",
+    "relacion": "causa",
+    "valor": "angina crónica"
+  },
+  {
+    "entidad": "mujeres jóvenes",
+    "relacion": "afectadas por",
+    "valor": "síndromes coronarios crónicos"
+  },
+  {
+    "entidad": "25 años",
+    "relacion": "edad de",
+    "valor": "paciente"
+  },
+  {
+    "entidad": "aortitis",
+    "relacion": "diagnosticada como",
+    "valor": "causa de estenosis coronaria"
+  },
+  {
+    "entidad": "estenosis ostial coronaria bilateral",
+    "relacion": "diagnosticada en",
+    "valor": "paciente"
+  },
+  {
+    "entidad": "terapia médica",
+    "relacion": "respuesta",
+    "valor": "aparentemente favorable"
+  },
+  {
+    "entidad": "isquemia significativa",
+    "relacion": "persistente en",
+    "valor": "evaluación de seguimiento"
+  },
+  {
+    "entidad": "revascularización miocárdica",
+    "relacion": "requerida para",
+    "valor": "paciente"
+  },
+  {
+    "entidad": "intervención coronaria percutánea",
+    "relacion": "realizada en",
+    "valor": "paciente"
+  },
+  {
+    "entidad": "prednisona",
+    "relacion": "prescrita como",
+    "valor": "terapia inmunosupresora"
+  },
+  {
+    "entidad": "azatioprina",
+    "relacion": "prescrita como",
+    "valor": "terapia inmunosupresora"
+  },
+  {
+    "entidad": "bisoprolol",
+    "relacion": "prescrito para",
+    "valor": "manejo de CCS"
+  },
+  {
+    "entidad": "ácido acetilsalicílico",
+    "relacion": "prescrito para",
+    "valor": "manejo de CCS"
+  },
+  {
+    "entidad": "atorvastatina",
+    "relacion": "prescrita para",
+    "valor": "manejo de CCS"
+  },
+  {
+    "entidad": "CCT",
+    "relacion": "utilizado para",
+    "valor": "diagnóstico y seguimiento de TAK"
+  },
+  {
+    "entidad": "PET-CT",
+    "relacion": "sugerido como",
+    "valor": "biomarcador para diagnóstico de TAK"
+  },
+  {
+    "entidad": "guías actuales de CCS",
+    "relacion": "sugieren",
+    "valor": "evaluación inicial antes de probabilidad de enfermedad coronaria"
+  },
+  {
+    "entidad": "Heart Team",
+    "relacion": "discutió",
+    "valor": "estrategia de revascularización"
+  },
+  {
+    "entidad": "intervención coronaria percutánea",
+    "relacion": "planificada como",
+    "valor": "estrategia de revascularización"
+  },
+  {
+    "entidad": "Diálisis de albúmina de paso único (SPAD)",
+    "relacion": "es un",
+    "valor": "tratamiento de soporte hepático extracorpóreo"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "afecta a",
+    "valor": "pacientes con insuficiencia hepática aguda (IHA)"
+  },
+  {
+    "entidad": "insuficiencia hepática aguda (IHA)",
+    "relacion": "se asocia a",
+    "valor": "elevada mortalidad"
+  },
+  {
+    "entidad": "cirrosis alcohólica",
+    "relacion": "es un",
+    "valor": "antecedente del paciente"
+  },
+  {
+    "entidad": "Single-pass albumin dialysis (SPAD)",
+    "relacion": "se utiliza como",
+    "valor": "puente a trasplante hepático"
+  },
+  {
+    "entidad": "SPAD",
+    "relacion": "es una técnica",
+    "valor": "de eliminación de toxinas hepáticas"
+  },
+  {
+    "entidad": "SPAD",
+    "relacion": "es fácil de implementar en",
+    "valor": "unidades de cuidados críticos"
+  },
+  {
+    "entidad": "SPAD",
+    "relacion": "tiene costos",
+    "valor": "menores que otras terapias de soporte hepático extracorpóreo"
+  },
+  {
+    "entidad": "bilirrubina",
+    "relacion": "se reduce durante",
+    "valor": "el tratamiento con SPAD"
+  },
+  {
+    "entidad": "amonio",
+    "relacion": "se reduce durante",
+    "valor": "el tratamiento con SPAD"
+  },
+  {
+    "entidad": "técnicas extracorpóreas",
+    "relacion": "son efectivas para",
+    "valor": "el aclaramiento de moléculas pequeñas y amonio"
+  },
+  {
+    "entidad": "SPAD",
+    "relacion": "puede tener un rol de",
+    "valor": "soporte hepático"
+  },
+  {
+    "entidad": "trasplante hepático",
+    "relacion": "es el único tratamiento",
+    "valor": "efectivo para reducir la mortalidad en IHA"
+  },
+  {
+    "entidad": "autointoxicación",
+    "relacion": "es un fenómeno asociado a",
+    "valor": "daño multiorgánico"
+  },
+  {
+    "entidad": "Pseudomonas aeruginosa",
+    "relacion": "causa",
+    "valor": "bacteremia en el paciente"
+  },
+  {
+    "entidad": "SPAD",
+    "relacion": "se realizó con",
+    "valor": "máquina Fresenius Multifiltrate"
+  },
+  {
+    "entidad": "SPAD",
+    "relacion": "se realizó en modalidad",
+    "valor": "hemodiálisis venovenosa continua (HDVVC)"
+  },
+  {
+    "entidad": "tiempo de protrombina",
+    "relacion": "se estabiliza durante",
+    "valor": "el tratamiento con SPAD"
+  },
+  {
+    "entidad": "función renal",
+    "relacion": "se normaliza durante",
+    "valor": "el tratamiento con SPAD"
+  },
+  {
+    "entidad": "SPAD",
+    "relacion": "debe ser evaluada en",
+    "valor": "estudios prospectivos"
+  }
+]

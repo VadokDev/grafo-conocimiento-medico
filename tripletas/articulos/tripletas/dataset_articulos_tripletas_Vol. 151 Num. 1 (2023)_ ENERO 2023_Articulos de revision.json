@@ -1,0 +1,82 @@
+[
+  {
+    "entidad": "Ayuno intermitente",
+    "relacion": "afecta a",
+    "valor": "salud metabólica en humanos"
+  },
+  {
+    "entidad": "Ayuno en días alternados",
+    "relacion": "es un tipo de",
+    "valor": "ayuno intermitente"
+  },
+  {
+    "entidad": "Ayuno en días alternados modificado",
+    "relacion": "es un tipo de",
+    "valor": "ayuno intermitente"
+  },
+  {
+    "entidad": "Alimentación con restricción de tiempo",
+    "relacion": "es un tipo de",
+    "valor": "ayuno intermitente"
+  },
+  {
+    "entidad": "Ayuno intermitente",
+    "relacion": "induce",
+    "valor": "pérdida de peso"
+  },
+  {
+    "entidad": "Ayuno intermitente",
+    "relacion": "mejora",
+    "valor": "metabolismo de glucosa"
+  },
+  {
+    "entidad": "Ayuno intermitente",
+    "relacion": "reduce",
+    "valor": "presión arterial"
+  },
+  {
+    "entidad": "Ayuno intermitente",
+    "relacion": "mejora",
+    "valor": "perfil lipídico"
+  },
+  {
+    "entidad": "Ayuno en días alternados",
+    "relacion": "resulta en",
+    "valor": "disminución de la insulinemia"
+  },
+  {
+    "entidad": "Ayuno en días alternados",
+    "relacion": "resulta en",
+    "valor": "disminución de la glicemia"
+  },
+  {
+    "entidad": "Alimentación con restricción de tiempo",
+    "relacion": "resulta en",
+    "valor": "disminución del peso corporal"
+  },
+  {
+    "entidad": "Alimentación con restricción de tiempo",
+    "relacion": "resulta en",
+    "valor": "aumento de la saciedad"
+  },
+  {
+    "entidad": "Ayuno intermitente",
+    "relacion": "es seguro",
+    "valor": "para la salud"
+  },
+  {
+    "entidad": "Adherencia",
+    "relacion": "es clave para",
+    "valor": "el éxito de las intervenciones de ayuno"
+  },
+  {
+    "entidad": "Ayuno intermitente",
+    "relacion": "puede ser utilizado como",
+    "valor": "estrategia para la pérdida de peso"
+  },
+  {
+    "entidad": "Ayuno intermitente",
+    "relacion": "mejora",
+    "valor": "parámetros cardiometabólicos"
+  }
+]

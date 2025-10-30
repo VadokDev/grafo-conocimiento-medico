@@ -1,0 +1,272 @@
+[
+  {
+    "entidad": "Enfermedades pulmonares intersticiales",
+    "relacion": "son",
+    "valor": "grupo heterogéneo de patologías"
+  },
+  {
+    "entidad": "Enfermedades pulmonares intersticiales",
+    "relacion": "caracterizadas por",
+    "valor": "compromiso difuso del tejido pulmonar"
+  },
+  {
+    "entidad": "Sociedad Americana de Tórax (ATS)",
+    "relacion": "publica",
+    "valor": "guías y consensos sobre enfermedades intersticiales"
+  },
+  {
+    "entidad": "Neumonía Intersticial Usual (UIP)",
+    "relacion": "subyace a",
+    "valor": "fibrosis pulmonar idiopática y artritis reumatoidea"
+  },
+  {
+    "entidad": "Fibrosis pulmonar idiopática (FPI)",
+    "relacion": "es",
+    "valor": "la patología más importante en enfermedades pulmonares intersticiales"
+  },
+  {
+    "entidad": "FPI",
+    "relacion": "presenta",
+    "valor": "alta mortalidad a cinco años"
+  },
+  {
+    "entidad": "Nintedanib",
+    "relacion": "es",
+    "valor": "un fármaco anti-fibrótico para FPI"
+  },
+  {
+    "entidad": "Pirfenidona",
+    "relacion": "es",
+    "valor": "un fármaco anti-fibrótico para FPI"
+  },
+  {
+    "entidad": "Neumonitis por hipersensibilidad (NH)",
+    "relacion": "es",
+    "valor": "una enfermedad intersticial"
+  },
+  {
+    "entidad": "NH",
+    "relacion": "es producida por",
+    "valor": "respuesta de hipersensibilidad mediada por linfocitos"
+  },
+  {
+    "entidad": "Enfermedad intersticial asociada a enfermedad del tejido conectivo (EI-ETC)",
+    "relacion": "incrementa",
+    "valor": "morbimortalidad en pacientes con ETC"
+  },
+  {
+    "entidad": "Anticuerpos",
+    "relacion": "no son",
+    "valor": "diagnóstico específico sin elementos clínicos"
+  },
+  {
+    "entidad": "Biopsia pulmonar",
+    "relacion": "no se utiliza",
+    "valor": "en EI-ETC"
+  },
+  {
+    "entidad": "Trasplante pulmonar",
+    "relacion": "es",
+    "valor": "opción en enfermedad avanzada"
+  },
+  {
+    "entidad": "Neumonía Intersticial con Características Autoinmunes (IPAF)",
+    "relacion": "intenta agrupar",
+    "valor": "pacientes con enfermedad intersticial y elementos de autoinmunidad"
+  },
+  {
+    "entidad": "enfermedad renal crónica avanzada",
+    "relacion": "afecta a",
+    "valor": "calidad de vida"
+  },
+  {
+    "entidad": "enfermedad renal crónica avanzada",
+    "relacion": "asocia con",
+    "valor": "aumento en riesgo cardiovascular"
+  },
+  {
+    "entidad": "entrenamiento físico",
+    "relacion": "mejora",
+    "valor": "variables clínicas y de laboratorio"
+  },
+  {
+    "entidad": "entrenamiento físico",
+    "relacion": "reduce",
+    "valor": "mortalidad en pacientes en diálisis"
+  },
+  {
+    "entidad": "ejercicio",
+    "relacion": "induce",
+    "valor": "mejoría en función inmune"
+  },
+  {
+    "entidad": "ejercicio",
+    "relacion": "ejercita",
+    "valor": "efectos antiinflamatorios"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "asocia con",
+    "valor": "mejoría en sobrevida"
+  },
+  {
+    "entidad": "sedentarismo",
+    "relacion": "es un",
+    "valor": "factor de riesgo de mortalidad"
+  },
+  {
+    "entidad": "velocidad de marcha",
+    "relacion": "es un",
+    "valor": "marcador de salud"
+  },
+  {
+    "entidad": "ejercicio intradialítico",
+    "relacion": "mejora",
+    "valor": "eficacia de la diálisis"
+  },
+  {
+    "entidad": "ejercicio",
+    "relacion": "reduce",
+    "valor": "uso de medicamentos antihipertensivos"
+  },
+  {
+    "entidad": "hormona paratiroidea (PTH)",
+    "relacion": "se asocia con",
+    "valor": "actividad física diaria"
+  },
+  {
+    "entidad": "ejercicio de resistencia",
+    "relacion": "mejora",
+    "valor": "densidad mineral ósea"
+  },
+  {
+    "entidad": "programas de ejercicio físico",
+    "relacion": "son necesarios en",
+    "valor": "centros de diálisis"
+  },
+  {
+    "entidad": "KDOQI",
+    "relacion": "señala",
+    "valor": "importancia de la actividad física en ERC"
+  },
+  {
+    "entidad": "entrenamiento físico",
+    "relacion": "debería ser incluido en",
+    "valor": "programas de formación de residentes en nefrología"
+  },
+  {
+    "entidad": "lipodistrofias primarias",
+    "relacion": "son",
+    "valor": "enfermedades infrecuentes"
+  },
+  {
+    "entidad": "lipodistrofias",
+    "relacion": "definidas por",
+    "valor": "reducción del tejido adiposo"
+  },
+  {
+    "entidad": "lipodistrofias",
+    "relacion": "pueden ser",
+    "valor": "congénitas o adquiridas"
+  },
+  {
+    "entidad": "lipodistrofias",
+    "relacion": "pueden ser",
+    "valor": "parciales o generalizadas"
+  },
+  {
+    "entidad": "lipodistrofias",
+    "relacion": "causan",
+    "valor": "resistencia insulínica"
+  },
+  {
+    "entidad": "resistencia insulínica",
+    "relacion": "resulta en",
+    "valor": "diabetes y dislipidemia"
+  },
+  {
+    "entidad": "leptina",
+    "relacion": "controla",
+    "valor": "anomalías metabólicas"
+  },
+  {
+    "entidad": "lipodistrofias primarias",
+    "relacion": "representan",
+    "valor": "un desafío diagnóstico"
+  },
+  {
+    "entidad": "lipodistrofias congénitas generalizadas",
+    "relacion": "son causadas por",
+    "valor": "mutaciones en genes AGPAT2 y BSCL2"
+  },
+  {
+    "entidad": "lipodistrofias familiares parciales",
+    "relacion": "se caracterizan por",
+    "valor": "lipoatrofia regional"
+  },
+  {
+    "entidad": "lipodistrofias adquiridas",
+    "relacion": "pueden ser",
+    "valor": "generalizadas o parciales"
+  },
+  {
+    "entidad": "metabolismo energético",
+    "relacion": "regulado por",
+    "valor": "adipoquinas"
+  },
+  {
+    "entidad": "leptina",
+    "relacion": "juega un rol en",
+    "valor": "fisiopatología de la resistencia insulínica"
+  },
+  {
+    "entidad": "lipodistrofias",
+    "relacion": "asociadas a",
+    "valor": "miopatías, nefropatías y trastornos neurológicos"
+  },
+  {
+    "entidad": "metreleptina",
+    "relacion": "es",
+    "valor": "la única droga aprobada para lipodistrofias"
+  },
+  {
+    "entidad": "lipodistrofias parciales",
+    "relacion": "pueden ser confundidas con",
+    "valor": "síndrome metabólico"
+  },
+  {
+    "entidad": "lipodistrofias",
+    "relacion": "determinan",
+    "valor": "complicaciones estéticas y metabólicas"
+  },
+  {
+    "entidad": "lipodistrofias",
+    "relacion": "son",
+    "valor": "síndromes heterogéneos"
+  },
+  {
+    "entidad": "lipodistrofias",
+    "relacion": "se clasifican como",
+    "valor": "congénitas o adquiridas"
+  },
+  {
+    "entidad": "lipodistrofias",
+    "relacion": "causan",
+    "valor": "anormalidades metabólicas"
+  },
+  {
+    "entidad": "lipodistrofias",
+    "relacion": "se asocian a",
+    "valor": "enfermedades cardiovasculares"
+  },
+  {
+    "entidad": "lipodistrofias",
+    "relacion": "se caracterizan por",
+    "valor": "reducción del tejido adiposo"
+  },
+  {
+    "entidad": "lipodistrofias",
+    "relacion": "pueden presentar",
+    "valor": "síndromes progeroides"
+  }
+]

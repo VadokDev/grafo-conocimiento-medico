@@ -1,0 +1,782 @@
+[
+  {
+    "entidad": "gastrostomía",
+    "relacion": "es indicado en",
+    "valor": "pacientes con demencia avanzada"
+  },
+  {
+    "entidad": "médicos tratantes",
+    "relacion": "utilizan criterios para",
+    "valor": "indicar gastrostomía"
+  },
+  {
+    "entidad": "disfagia",
+    "relacion": "afecta a",
+    "valor": "pacientes con demencia"
+  },
+  {
+    "entidad": "demencia avanzada",
+    "relacion": "es un",
+    "valor": "problema de salud"
+  },
+  {
+    "entidad": "gastrostomía",
+    "relacion": "puede beneficiar a",
+    "valor": "pacientes con demencia avanzada"
+  },
+  {
+    "entidad": "médicos",
+    "relacion": "creen que",
+    "valor": "gastrostomía mejora la salud de pacientes con demencia"
+  },
+  {
+    "entidad": "gastrostomía",
+    "relacion": "reduce el riesgo de",
+    "valor": "neumonía aspirativa"
+  },
+  {
+    "entidad": "gastrostomía",
+    "relacion": "ayuda en",
+    "valor": "curación de úlceras por presión"
+  },
+  {
+    "entidad": "gastrostomía",
+    "relacion": "mejora",
+    "valor": "sobrevida de pacientes"
+  },
+  {
+    "entidad": "médicos",
+    "relacion": "consideran que",
+    "valor": "gastrostomía es parte del cuidado básico"
+  },
+  {
+    "entidad": "fonoaudiólogos",
+    "relacion": "recomiendan",
+    "valor": "gastrostomía en pacientes con demencia avanzada"
+  },
+  {
+    "entidad": "opiniones de enfermeras",
+    "relacion": "influyen en",
+    "valor": "decisión de indicar gastrostomía"
+  },
+  {
+    "entidad": "equipo de nutrición",
+    "relacion": "recomienda",
+    "valor": "gastrostomía"
+  },
+  {
+    "entidad": "voluntades anticipadas",
+    "relacion": "consideran",
+    "valor": "médicos al indicar gastrostomía"
+  },
+  {
+    "entidad": "preferencias de la familia",
+    "relacion": "consideran",
+    "valor": "médicos al indicar gastrostomía"
+  },
+  {
+    "entidad": "nivel cognitivo del paciente",
+    "relacion": "consideran",
+    "valor": "médicos al indicar gastrostomía"
+  },
+  {
+    "entidad": "pronóstico",
+    "relacion": "consideran",
+    "valor": "médicos al indicar gastrostomía"
+  },
+  {
+    "entidad": "funcionamiento físico",
+    "relacion": "consideran",
+    "valor": "médicos al indicar gastrostomía"
+  },
+  {
+    "entidad": "edad del paciente",
+    "relacion": "consideran",
+    "valor": "médicos al indicar gastrostomía"
+  },
+  {
+    "entidad": "costo de la gastrostomía",
+    "relacion": "consideran",
+    "valor": "médicos al indicar gastrostomía"
+  },
+  {
+    "entidad": "VKORC1",
+    "relacion": "afecta a",
+    "valor": "dosis de anticoagulantes orales"
+  },
+  {
+    "entidad": "CYP2C9",
+    "relacion": "afecta a",
+    "valor": "dosis de anticoagulantes orales"
+  },
+  {
+    "entidad": "VKORC1 -1639G>A",
+    "relacion": "asociado a",
+    "valor": "menores requerimientos de dosis de anticoagulantes"
+  },
+  {
+    "entidad": "CYP2C9 *2",
+    "relacion": "no asociado a",
+    "valor": "requerimientos de dosis de anticoagulantes"
+  },
+  {
+    "entidad": "CYP2C9 *3",
+    "relacion": "no asociado a",
+    "valor": "requerimientos de dosis de anticoagulantes"
+  },
+  {
+    "entidad": "acenocoumarol",
+    "relacion": "utilizado en",
+    "valor": "tratamiento anticoagulante"
+  },
+  {
+    "entidad": "warfarina",
+    "relacion": "utilizado en",
+    "valor": "tratamiento anticoagulante"
+  },
+  {
+    "entidad": "INR",
+    "relacion": "utilizado para",
+    "valor": "monitorear tratamiento anticoagulante"
+  },
+  {
+    "entidad": "pacientes chilenos",
+    "relacion": "evaluados en",
+    "valor": "estudio farmacogenético"
+  },
+  {
+    "entidad": "Clínica Alemana de Santiago",
+    "relacion": "participa en",
+    "valor": "estudio de pacientes"
+  },
+  {
+    "entidad": "Centro Médico San Joaquín",
+    "relacion": "participa en",
+    "valor": "estudio de pacientes"
+  },
+  {
+    "entidad": "genotipificación",
+    "relacion": "realizada por",
+    "valor": "PCR y secuenciación"
+  },
+  {
+    "entidad": "dosis de anticoagulantes orales",
+    "relacion": "varía según",
+    "valor": "genotipo VKORC1"
+  },
+  {
+    "entidad": "dosis de anticoagulantes orales",
+    "relacion": "varía según",
+    "valor": "genotipo CYP2C9"
+  },
+  {
+    "entidad": "genotipo VKORC1",
+    "relacion": "asociado a",
+    "valor": "dosis baja de anticoagulantes"
+  },
+  {
+    "entidad": "genotipo CYP2C9",
+    "relacion": "no asociado a",
+    "valor": "dosis baja de anticoagulantes"
+  },
+  {
+    "entidad": "dosis de mantenimiento",
+    "relacion": "asociada a",
+    "valor": "variante VKORC1"
+  },
+  {
+    "entidad": "tamizaje genético",
+    "relacion": "puede ayudar a",
+    "valor": "predecir dosis de anticoagulantes"
+  },
+  {
+    "entidad": "efectos adversos",
+    "relacion": "minimizar",
+    "valor": "conocimiento de genotipo"
+  },
+  {
+    "entidad": "dosis de anticoagulantes orales",
+    "relacion": "afectada por",
+    "valor": "factores genéticos"
+  },
+  {
+    "entidad": "dosis de anticoagulantes orales",
+    "relacion": "afectada por",
+    "valor": "edad y sexo"
+  },
+  {
+    "entidad": "estudiantes de medicina",
+    "relacion": "utilizan",
+    "valor": "estrategias de aprendizaje"
+  },
+  {
+    "entidad": "docentes clínicos",
+    "relacion": "reconocen",
+    "valor": "variedad de estrategias de aprendizaje"
+  },
+  {
+    "entidad": "estrategias de aprendizaje",
+    "relacion": "varían según",
+    "valor": "naturaleza de la tarea"
+  },
+  {
+    "entidad": "estrategias de aprendizaje",
+    "relacion": "varían según",
+    "valor": "diferencias individuales"
+  },
+  {
+    "entidad": "aprendizaje clínico",
+    "relacion": "ocurre en",
+    "valor": "escenarios complejos"
+  },
+  {
+    "entidad": "estudiantes de medicina",
+    "relacion": "deben adaptar",
+    "valor": "enfoques de aprendizaje"
+  },
+  {
+    "entidad": "estrategias orientadas al aprendizaje teórico",
+    "relacion": "incluyen",
+    "valor": "técnicas de estudio y búsqueda de información"
+  },
+  {
+    "entidad": "estrategias orientadas al aprendizaje práctico",
+    "relacion": "incluyen",
+    "valor": "practicar con pacientes e interactuar con el equipo de salud"
+  },
+  {
+    "entidad": "estrategias de integración teórico-práctica",
+    "relacion": "emergen de",
+    "valor": "la combinación de teoría y práctica"
+  },
+  {
+    "entidad": "estrategias orientadas por la evaluación",
+    "relacion": "se relacionan con",
+    "valor": "preparación para calificaciones"
+  },
+  {
+    "entidad": "contexto clínico",
+    "relacion": "tensiona",
+    "valor": "modos previos de aprendizaje"
+  },
+  {
+    "entidad": "identidad profesional",
+    "relacion": "se desarrolla a través de",
+    "valor": "interacción en contextos clínicos"
+  },
+  {
+    "entidad": "metodología cualitativa",
+    "relacion": "se utiliza para",
+    "valor": "descubrir y construir conocimiento"
+  },
+  {
+    "entidad": "teoría fundada",
+    "relacion": "se aplica en",
+    "valor": "análisis de datos"
+  },
+  {
+    "entidad": "escuela de medicina",
+    "relacion": "puede limitar",
+    "valor": "generalización de conclusiones"
+  },
+  {
+    "entidad": "estrategias de aprendizaje",
+    "relacion": "se desarrollan en",
+    "valor": "contextos sociales y colaborativos"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "es un",
+    "valor": "factor de salud"
+  },
+  {
+    "entidad": "inactividad física",
+    "relacion": "es un",
+    "valor": "factor de riesgo para enfermedades crónicas"
+  },
+  {
+    "entidad": "estudiantes universitarios",
+    "relacion": "son un",
+    "valor": "grupo poblacional relevante para el estudio de salud"
+  },
+  {
+    "entidad": "Universidad Simón Bolívar",
+    "relacion": "financia",
+    "valor": "la investigación"
+  },
+  {
+    "entidad": "Vicerrectoría de Investigación e Innovación",
+    "relacion": "facilita",
+    "valor": "el proceso de recolección de datos"
+  },
+  {
+    "entidad": "motivos para la actividad física",
+    "relacion": "se clasifican en",
+    "valor": "disfrute, apariencia física, salud, social y competencia"
+  },
+  {
+    "entidad": "género",
+    "relacion": "afecta",
+    "valor": "los niveles de actividad física"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "presentan",
+    "valor": "menores niveles de actividad física que hombres"
+  },
+  {
+    "entidad": "salud",
+    "relacion": "es un motivo principal",
+    "valor": "para realizar actividad física"
+  },
+  {
+    "entidad": "diversión",
+    "relacion": "es un motivo importante",
+    "valor": "para realizar actividad física"
+  },
+  {
+    "entidad": "competencia",
+    "relacion": "es un motivo menos relevante",
+    "valor": "para realizar actividad física"
+  },
+  {
+    "entidad": "estrato socioeconómico bajo",
+    "relacion": "se asocia con",
+    "valor": "inactividad física"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "se asocia con",
+    "valor": "inactividad física"
+  },
+  {
+    "entidad": "hábito de fumar",
+    "relacion": "se asocia con",
+    "valor": "inactividad física"
+  },
+  {
+    "entidad": "motivación social",
+    "relacion": "es más alta en",
+    "valor": "hombres activos"
+  },
+  {
+    "entidad": "Universidad del Norte",
+    "relacion": "aprueba",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "cuestionario IPAQ",
+    "relacion": "se utiliza para",
+    "valor": "determinar niveles de actividad física"
+  },
+  {
+    "entidad": "cuestionario MPAM-R",
+    "relacion": "se utiliza para",
+    "valor": "medir motivos para la actividad física"
+  },
+  {
+    "entidad": "promoción de la salud",
+    "relacion": "es un objetivo",
+    "valor": "de las universidades"
+  },
+  {
+    "entidad": "programas de actividad física",
+    "relacion": "deben adaptarse a",
+    "valor": "las necesidades de la población"
+  },
+  {
+    "entidad": "evidencia sobre actividad física",
+    "relacion": "indica que",
+    "valor": "31% de la población mundial no realiza actividad física"
+  },
+  {
+    "entidad": "Hospital Clínico Universidad de Chile",
+    "relacion": "tiene",
+    "valor": "Sección Medicina Nuclear"
+  },
+  {
+    "entidad": "Hospital Clínico Universidad de Chile",
+    "relacion": "tiene",
+    "valor": "Departamento de Cardiología y Cirugía Cardiovascular"
+  },
+  {
+    "entidad": "Hospital Clínico Universidad de Chile",
+    "relacion": "tiene",
+    "valor": "Centro de Apoyo a la Investigación Científica OAIC"
+  },
+  {
+    "entidad": "Dra. Teresa Massardo",
+    "relacion": "dirige",
+    "valor": "Sección Medicina Nuclear"
+  },
+  {
+    "entidad": "prueba de esfuerzo",
+    "relacion": "evalúa",
+    "valor": "enfermedad coronaria"
+  },
+  {
+    "entidad": "SPECT miocárdico",
+    "relacion": "evalúa",
+    "valor": "enfermedad coronaria"
+  },
+  {
+    "entidad": "SPECT miocárdico",
+    "relacion": "tiene",
+    "valor": "valor predictivo negativo"
+  },
+  {
+    "entidad": "isquemia en SPECT",
+    "relacion": "aumenta",
+    "valor": "probabilidad de eventos cardiovasculares"
+  },
+  {
+    "entidad": "pacientes con buena capacidad metabólica",
+    "relacion": "presentan",
+    "valor": "defectos isquémicos en SPECT"
+  },
+  {
+    "entidad": "índice de Duke",
+    "relacion": "es",
+    "valor": "un parámetro pronóstico"
+  },
+  {
+    "entidad": "SPECT",
+    "relacion": "se utiliza para",
+    "valor": "detección de isquemia"
+  },
+  {
+    "entidad": "SPECT",
+    "relacion": "se asocia a",
+    "valor": "menor tasa de eventos mayores"
+  },
+  {
+    "entidad": "pacientes diabéticos",
+    "relacion": "tienen",
+    "valor": "mayor riesgo cardiovascular"
+  },
+  {
+    "entidad": "SPECT de perfusión normal",
+    "relacion": "tiene",
+    "valor": "buen valor pronóstico"
+  },
+  {
+    "entidad": "SPECT",
+    "relacion": "se considera",
+    "valor": "superior a la prueba de esfuerzo"
+  },
+  {
+    "entidad": "seguimiento clínico",
+    "relacion": "se realiza en",
+    "valor": "pacientes con SPECT positivo"
+  },
+  {
+    "entidad": "eventos coronarios",
+    "relacion": "se presentan en",
+    "valor": "pacientes con isquemia en SPECT"
+  },
+  {
+    "entidad": "isquemia en SPECT",
+    "relacion": "es un",
+    "valor": "factor pronóstico independiente"
+  },
+  {
+    "entidad": "SPECT",
+    "relacion": "se utiliza en",
+    "valor": "evaluación de riesgo cardiovascular"
+  },
+  {
+    "entidad": "pacientes con 10 METs",
+    "relacion": "tienen",
+    "valor": "baja tasa de eventos cardiovasculares"
+  },
+  {
+    "entidad": "SPECT",
+    "relacion": "se asocia a",
+    "valor": "baja mortalidad anual"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "se asocia a",
+    "valor": "menor prevalencia de factores de riesgo cardiovascular"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud 2009-2010",
+    "relacion": "proporciona",
+    "valor": "datos sobre la población chilena"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "suministra",
+    "valor": "datos epidemiológicos"
+  },
+  {
+    "entidad": "factores de riesgo cardiovascular",
+    "relacion": "incluyen",
+    "valor": "diabetes tipo 2, hipertensión, síndrome metabólico y dislipidemia"
+  },
+  {
+    "entidad": "niveles de actividad física",
+    "relacion": "se determinan mediante",
+    "valor": "Global Physical Activity Questionnaire (GPAQ v2)"
+  },
+  {
+    "entidad": "inactividad física",
+    "relacion": "se asocia a",
+    "valor": "enfermedades crónicas no transmisibles"
+  },
+  {
+    "entidad": "aumento de actividad física",
+    "relacion": "reduce",
+    "valor": "prevalencia de diabetes mellitus"
+  },
+  {
+    "entidad": "aumento de actividad física",
+    "relacion": "reduce",
+    "valor": "prevalencia de hipertensión"
+  },
+  {
+    "entidad": "aumento de actividad física",
+    "relacion": "reduce",
+    "valor": "prevalencia de síndrome metabólico"
+  },
+  {
+    "entidad": "aumento de actividad física",
+    "relacion": "reduce",
+    "valor": "prevalencia de colesterol HDL disminuido"
+  },
+  {
+    "entidad": "caminar o andar en bicicleta",
+    "relacion": "se asocia a",
+    "valor": "reducción de la prevalencia de factores de riesgo cardiovascular"
+  },
+  {
+    "entidad": "políticas públicas",
+    "relacion": "deberían promover",
+    "valor": "actividades físicas"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud 2009-2010",
+    "relacion": "es un",
+    "valor": "estudio de prevalencia"
+  },
+  {
+    "entidad": "muestra de la encuesta",
+    "relacion": "comprende",
+    "valor": "personas mayores de 15 años"
+  },
+  {
+    "entidad": "marcadores metabólicos",
+    "relacion": "se miden para",
+    "valor": "determinar prevalencia de factores de riesgo cardiovascular"
+  },
+  {
+    "entidad": "sedentarismo",
+    "relacion": "se determina mediante",
+    "valor": "auto-reporte de tiempo sentado"
+  },
+  {
+    "entidad": "métodos estandarizados",
+    "relacion": "se utilizan para",
+    "valor": "medir presión arterial y perfil lipídico"
+  },
+  {
+    "entidad": "cuestionario GPAQ",
+    "relacion": "ha sido validado en",
+    "valor": "población latina"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "es dirigido por",
+    "valor": "Carlos Celis-Morales"
+  },
+  {
+    "entidad": "población chilena",
+    "relacion": "presenta",
+    "valor": "alta prevalencia de inactividad física"
+  },
+  {
+    "entidad": "sistema de asignación de órganos",
+    "relacion": "no considera",
+    "valor": "edades de donante y receptor"
+  },
+  {
+    "entidad": "trasplante renal",
+    "relacion": "es",
+    "valor": "el mejor tratamiento para la insuficiencia renal terminal"
+  },
+  {
+    "entidad": "sistema de asignación de órganos",
+    "relacion": "considera",
+    "valor": "factores inmunológicos y tiempo en lista de espera"
+  },
+  {
+    "entidad": "edad del donante",
+    "relacion": "es un",
+    "valor": "determinante de la sobrevivencia del injerto"
+  },
+  {
+    "entidad": "edad del receptor",
+    "relacion": "es un",
+    "valor": "determinante de la sobrevivencia del injerto"
+  },
+  {
+    "entidad": "disparidad de edades entre donante y receptor",
+    "relacion": "es un",
+    "valor": "determinante de la sobrevivencia del injerto"
+  },
+  {
+    "entidad": "sistema de asignación de riñones",
+    "relacion": "debe ser",
+    "valor": "justo, equitativo y no discriminante"
+  },
+  {
+    "entidad": "modelo de asignación de órganos",
+    "relacion": "compara",
+    "valor": "trasplantes reales realizados en 2012"
+  },
+  {
+    "entidad": "probabilidad de recibir un injerto renal",
+    "relacion": "se ve afectada por",
+    "valor": "la edad del donante y receptor"
+  },
+  {
+    "entidad": "Instituto de Salud Pública (ISP)",
+    "relacion": "asigna",
+    "valor": "riñones a sus receptores"
+  },
+  {
+    "entidad": "sistema HLA",
+    "relacion": "es parte de",
+    "valor": "sistema de puntaje para asignación de órganos"
+  },
+  {
+    "entidad": "pacientes en lista de espera",
+    "relacion": "son",
+    "valor": "candidatos a recibir trasplante renal"
+  },
+  {
+    "entidad": "donantes de órganos",
+    "relacion": "tienen",
+    "valor": "una edad promedio de 44,2 años"
+  },
+  {
+    "entidad": "pacientes en lista de espera",
+    "relacion": "tienen",
+    "valor": "una edad promedio de 42,1 años"
+  },
+  {
+    "entidad": "pacientes trasplantados",
+    "relacion": "tienen",
+    "valor": "una edad promedio de 47,5 años"
+  },
+  {
+    "entidad": "sistema de asignación de órganos",
+    "relacion": "tiende a",
+    "valor": "discriminar a los jóvenes"
+  },
+  {
+    "entidad": "Eurotransplant Senior Program",
+    "relacion": "asigna",
+    "valor": "riñones de donantes de > 65 años a receptores de edades similares"
+  },
+  {
+    "entidad": "donantes añosos",
+    "relacion": "deben ser",
+    "valor": "aceptados para receptores de edades similares"
+  },
+  {
+    "entidad": "sistema de asignación de órganos",
+    "relacion": "debe corregirse",
+    "valor": "para evitar inequidad"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "tiene",
+    "valor": "Departamento de Cardiología y Enfermedades Respiratorias"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "tiene",
+    "valor": "Departamento de Salud Pública"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "tiene",
+    "valor": "Red Ambulatoria"
+  },
+  {
+    "entidad": "espirómetro",
+    "relacion": "utiliza",
+    "valor": "circuito abierto con neumotacógrafo Lilly"
+  },
+  {
+    "entidad": "espirómetro",
+    "relacion": "calibrado",
+    "valor": "diariamente"
+  },
+  {
+    "entidad": "medición de flujos y volúmenes espirométricos",
+    "relacion": "es",
+    "valor": "herramienta esencial para evaluación de pacientes con enfermedad pulmonar"
+  },
+  {
+    "entidad": "valores espirométricos",
+    "relacion": "tienen",
+    "valor": "patrón de incremento hasta alcanzar la edad adulta"
+  },
+  {
+    "entidad": "ecuaciones predictivas de Knudson",
+    "relacion": "se utilizan",
+    "valor": "en laboratorios de función pulmonar pediátricos"
+  },
+  {
+    "entidad": "valores espirométricos de escolares y adolescentes chilenos sanos",
+    "relacion": "son",
+    "valor": "mayores que los valores de referencia predichos según fórmulas de Knudson"
+  },
+  {
+    "entidad": "nuevas fórmulas locales",
+    "relacion": "permiten",
+    "valor": "correcta interpretación de resultados espirométricos"
+  },
+  {
+    "entidad": "valores obtenidos en estudio",
+    "relacion": "son",
+    "valor": "significativamente mayores que los predictivos según Knudson, Gutiérrez, GLI y NANHES"
+  },
+  {
+    "entidad": "fórmulas predictivas",
+    "relacion": "se construyen",
+    "valor": "usando edad, peso y talla como variables independientes"
+  },
+  {
+    "entidad": "fórmulas de referencia",
+    "relacion": "permiten",
+    "valor": "evaluación funcional respiratoria de la población chilena"
+  },
+  {
+    "entidad": "nuevas fórmulas",
+    "relacion": "detectan",
+    "valor": "alteraciones no observadas con ecuaciones de referencia de Knudson"
+  },
+  {
+    "entidad": "Comité de Ética de la Facultad de Medicina de la Pontificia Universidad Católica de Chile",
+    "relacion": "aprueba",
+    "valor": "estudio"
+  },
+  {
+    "entidad": "sensibilidad de nuevas fórmulas",
+    "relacion": "es",
+    "valor": "100% para CVF y VEF1"
+  },
+  {
+    "entidad": "especificidad de nuevas fórmulas",
+    "relacion": "es",
+    "valor": "96% para CVF y 85% para VEF1"
+  },
+  {
+    "entidad": "nuevas fórmulas",
+    "relacion": "son",
+    "valor": "igualmente sensibles que las de Knudson para detectar alteraciones"
+  }
+]

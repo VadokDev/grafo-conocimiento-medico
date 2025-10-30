@@ -1,0 +1,412 @@
+[
+  {
+    "entidad": "Cáncer de vesícula",
+    "relacion": "presenta",
+    "valor": "alta tasa de mortalidad en Chile"
+  },
+  {
+    "entidad": "Ministerio de Salud Chileno",
+    "relacion": "incluyó",
+    "valor": "colelitiasis y colecistectomía en el programa GES"
+  },
+  {
+    "entidad": "GES",
+    "relacion": "evalúa",
+    "valor": "resultados de la colecistectomía preventiva del cáncer de vesícula biliar"
+  },
+  {
+    "entidad": "colelitiasis",
+    "relacion": "afecta a",
+    "valor": "pacientes de 35 a 49 años"
+  },
+  {
+    "entidad": "cáncer de vesícula biliar",
+    "relacion": "se relaciona con",
+    "valor": "inflamación crónica en la vesícula"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen",
+    "valor": "mayor riesgo de cáncer de vesícula"
+  },
+  {
+    "entidad": "herencia mapuche",
+    "relacion": "es un",
+    "valor": "factor de riesgo independiente para cáncer de vesícula"
+  },
+  {
+    "entidad": "programa GES",
+    "relacion": "requiere",
+    "valor": "modificación para mejorar su eficacia"
+  },
+  {
+    "entidad": "costo del programa GES",
+    "relacion": "es aproximadamente",
+    "valor": "USD $19.000.000 anuales"
+  },
+  {
+    "entidad": "incidencia de cáncer de vesícula",
+    "relacion": "varía entre",
+    "valor": "regiones de Chile"
+  },
+  {
+    "entidad": "cáncer de vesícula",
+    "relacion": "muestra",
+    "valor": "tendencia a la baja en mortalidad"
+  },
+  {
+    "entidad": "colecistectomía",
+    "relacion": "presenta",
+    "valor": "complicaciones como lesión de vía biliar"
+  },
+  {
+    "entidad": "programa GES",
+    "relacion": "focaliza recursos en",
+    "valor": "pacientes de áreas de alta incidencia"
+  },
+  {
+    "entidad": "cáncer de vesícula",
+    "relacion": "afecta principalmente a",
+    "valor": "mujeres"
+  },
+  {
+    "entidad": "cáncer de vesícula",
+    "relacion": "tiene",
+    "valor": "baja eficiencia en el programa GES"
+  },
+  {
+    "entidad": "cáncer de vesícula",
+    "relacion": "requiere",
+    "valor": "mejores métodos de predictibilidad"
+  },
+  {
+    "entidad": "cáncer de vesícula",
+    "relacion": "se asocia con",
+    "valor": "pólipos mayores de 1 cm y vesícula calcificada"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "causa",
+    "valor": "discontinuidad de tratamientos"
+  },
+  {
+    "entidad": "pacientes con enfermedades crónicas",
+    "relacion": "residen en",
+    "valor": "Chile"
+  },
+  {
+    "entidad": "MOVID-IMPACT-C",
+    "relacion": "es una",
+    "valor": "encuesta"
+  },
+  {
+    "entidad": "Universidad San Sebastián",
+    "relacion": "es parte de",
+    "valor": "facultad de Medicina y Ciencia"
+  },
+  {
+    "entidad": "Universidad de Chile",
+    "relacion": "es parte de",
+    "valor": "Escuela de Salud Pública"
+  },
+  {
+    "entidad": "diabetes",
+    "relacion": "aumenta",
+    "valor": "posibilidades de discontinuidad de tratamiento"
+  },
+  {
+    "entidad": "empeoramiento del estado de salud",
+    "relacion": "asocia con",
+    "valor": "discontinuidad de tratamiento"
+  },
+  {
+    "entidad": "pacientes con hipertensión",
+    "relacion": "son",
+    "valor": "los más afectados por discontinuidad"
+  },
+  {
+    "entidad": "pacientes en control por eventos cardiovasculares mayores",
+    "relacion": "son",
+    "valor": "los que menos discontinuaron tratamientos"
+  },
+  {
+    "entidad": "telemedicina",
+    "relacion": "fue autorizada para",
+    "valor": "disminuir la brecha de acceso a atenciones de salud"
+  },
+  {
+    "entidad": "sistema de salud",
+    "relacion": "prioriza",
+    "valor": "pacientes con mayor gravedad"
+  },
+  {
+    "entidad": "discontinuidad de tratamientos",
+    "relacion": "es un problema",
+    "valor": "multifactorial"
+  },
+  {
+    "entidad": "factors sociales y de salud",
+    "relacion": "son",
+    "valor": "variables explicativas"
+  },
+  {
+    "entidad": "discontinuidad de tratamiento",
+    "relacion": "es medida por",
+    "valor": "encuesta telefónica"
+  },
+  {
+    "entidad": "análisis secundario",
+    "relacion": "se realiza sobre",
+    "valor": "base de datos de MOVID-IMPACT-C"
+  },
+  {
+    "entidad": "Universidad San Sebastián",
+    "relacion": "financia",
+    "valor": "proyecto de investigación"
+  },
+  {
+    "entidad": "Instituto Nacional de Estadísticas (INE)",
+    "relacion": "proporciona",
+    "valor": "marco muestral"
+  },
+  {
+    "entidad": "muestra de pacientes con enfermedades crónicas",
+    "relacion": "es",
+    "valor": "1.261 encuestados"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "constituyen",
+    "valor": "51,67% de la muestra"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "constituyen",
+    "valor": "48,33% de la muestra"
+  },
+  {
+    "entidad": "FONASA",
+    "relacion": "es un tipo de",
+    "valor": "previsión de salud"
+  },
+  {
+    "entidad": "ISAPRE",
+    "relacion": "es un tipo de",
+    "valor": "previsión de salud"
+  },
+  {
+    "entidad": "listas de espera",
+    "relacion": "constituyen",
+    "valor": "un problema de salud pública"
+  },
+  {
+    "entidad": "especialistas médicos",
+    "relacion": "disponibles",
+    "valor": "escasos"
+  },
+  {
+    "entidad": "método",
+    "relacion": "propuesto para",
+    "valor": "cuantificar y monitorear brechas de consultas de especialidad"
+  },
+  {
+    "entidad": "datos oficiales",
+    "relacion": "utilizados en",
+    "valor": "la estimación de brechas"
+  },
+  {
+    "entidad": "razón de demanda/oferta (r)",
+    "relacion": "cuantifica",
+    "valor": "brechas de oferta de consultas médicas de especialidad"
+  },
+  {
+    "entidad": "cardiología adulto",
+    "relacion": "especialidad con",
+    "valor": "mayor brecha"
+  },
+  {
+    "entidad": "psiquiatría infanto-juvenil",
+    "relacion": "especialidad sin",
+    "valor": "brecha"
+  },
+  {
+    "entidad": "dermatología",
+    "relacion": "especialidad con",
+    "valor": "más diferencias entre establecimientos"
+  },
+  {
+    "entidad": "brechas de oferta",
+    "relacion": "existen en",
+    "valor": "2021"
+  },
+  {
+    "entidad": "programación en red",
+    "relacion": "considera",
+    "valor": "acceso equitativo a servicios de salud"
+  },
+  {
+    "entidad": "Sistema de Gestión de Tiempos de Espera (SIGTE)",
+    "relacion": "fuente de",
+    "valor": "datos para estimar indicadores"
+  },
+  {
+    "entidad": "Comité Ético Científico del Servicio de Salud Metropolitano Sur Oriente",
+    "relacion": "aprobó",
+    "valor": "el protocolo de investigación"
+  },
+  {
+    "entidad": "método presentado",
+    "relacion": "permite evaluar",
+    "valor": "la oferta disponible en relación a las necesidades de atención"
+  },
+  {
+    "entidad": "interconsultas nuevas",
+    "relacion": "componente de",
+    "valor": "la demanda"
+  },
+  {
+    "entidad": "brechas de consultas nuevas de especialidad (CNE)",
+    "relacion": "consideran",
+    "valor": "listas de espera"
+  },
+  {
+    "entidad": "especialidades médicas",
+    "relacion": "representaron",
+    "valor": "75,7% de la lista de espera de CNE"
+  },
+  {
+    "entidad": "Ministerio de Salud",
+    "relacion": "no encontró",
+    "valor": "diferencias significativas entre razones de muerte"
+  },
+  {
+    "entidad": "acceso equitativo",
+    "relacion": "es una función esencial de",
+    "valor": "la salud pública"
+  },
+  {
+    "entidad": "especialidades de alto riesgo de mortalidad",
+    "relacion": "identificadas por",
+    "valor": "Martínez"
+  },
+  {
+    "entidad": "diferencias entre establecimientos",
+    "relacion": "constituyen",
+    "valor": "inequidades de acceso"
+  },
+  {
+    "entidad": "redistribución de horas del personal",
+    "relacion": "puede abordar",
+    "valor": "diferencias en brechas"
+  },
+  {
+    "entidad": "especialistas médicos",
+    "relacion": "se concentran en",
+    "valor": "el sector privado"
+  },
+  {
+    "entidad": "programación",
+    "relacion": "actualiza",
+    "valor": "trimestralmente"
+  },
+  {
+    "entidad": "método",
+    "relacion": "puede ser aplicado",
+    "valor": "anualmente, trimestralmente o mensualmente"
+  },
+  {
+    "entidad": "Neumonía en organización",
+    "relacion": "es un",
+    "valor": "tipo de enfermedad"
+  },
+  {
+    "entidad": "Neumonía en organización",
+    "relacion": "pertenece a",
+    "valor": "neumonías intersticiales idiopáticas"
+  },
+  {
+    "entidad": "Neumonía en organización",
+    "relacion": "puede ser",
+    "valor": "criptogénica o secundaria"
+  },
+  {
+    "entidad": "Instituto Nacional del Tórax",
+    "relacion": "es un",
+    "valor": "centro de atención médica en Chile"
+  },
+  {
+    "entidad": "Universidad de Chile",
+    "relacion": "es un",
+    "valor": "institución educativa"
+  },
+  {
+    "entidad": "Miljenko Lolas",
+    "relacion": "es un",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "Juan Pablo Cuevas",
+    "relacion": "es un",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "Mauricio Salinas",
+    "relacion": "es un",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "diagnóstico de neumonía en organización",
+    "relacion": "es",
+    "valor": "complejo y no estandarizado"
+  },
+  {
+    "entidad": "biopsia transbronquial",
+    "relacion": "es el método más común para",
+    "valor": "obtener muestras"
+  },
+  {
+    "entidad": "etiología criptogénica",
+    "relacion": "es considerada en",
+    "valor": "la mayoría de los casos"
+  },
+  {
+    "entidad": "fármacos",
+    "relacion": "son una causa de",
+    "valor": "neumonía en organización"
+  },
+  {
+    "entidad": "enfermedades del tejido conectivo",
+    "relacion": "son una causa de",
+    "valor": "neumonía en organización"
+  },
+  {
+    "entidad": "corticoides",
+    "relacion": "son el tratamiento más utilizado para",
+    "valor": "neumonía en organización"
+  },
+  {
+    "entidad": "neumonía en organización",
+    "relacion": "puede presentarse como",
+    "valor": "nódulos"
+  },
+  {
+    "entidad": "seguimiento a largo plazo",
+    "relacion": "resulta en",
+    "valor": "fallecimientos"
+  },
+  {
+    "entidad": "cohorte chilena",
+    "relacion": "tiene características similares a",
+    "valor": "otras series reportadas"
+  },
+  {
+    "entidad": "tomografía axial computarizada",
+    "relacion": "se utiliza para",
+    "valor": "evaluar neumonía en organización"
+  },
+  {
+    "entidad": "histología",
+    "relacion": "es recomendada para",
+    "valor": "diagnóstico certero de neumonía en organización"
+  }
+]

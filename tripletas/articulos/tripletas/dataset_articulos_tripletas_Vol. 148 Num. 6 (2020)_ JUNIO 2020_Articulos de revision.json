@@ -1,0 +1,192 @@
+[
+  {
+    "entidad": "Esofagitis eosinofílica",
+    "relacion": "es un",
+    "valor": "enfermedad crónica inmune mediada"
+  },
+  {
+    "entidad": "Esofagitis eosinofílica",
+    "relacion": "inducida por",
+    "valor": "alérgenos alimentarios"
+  },
+  {
+    "entidad": "Esofagitis eosinofílica",
+    "relacion": "caracterizada por",
+    "valor": "síntomas de disfunción esofágica"
+  },
+  {
+    "entidad": "Esofagitis eosinofílica",
+    "relacion": "asociada con",
+    "valor": "otras condiciones atópicas"
+  },
+  {
+    "entidad": "Esofagitis eosinofílica",
+    "relacion": "diagnosticada por",
+    "valor": "análisis de biopsias endoscópicas"
+  },
+  {
+    "entidad": "Inhibidores de la bomba de protones (IBP)",
+    "relacion": "son",
+    "valor": "tratamiento aceptado para EoE"
+  },
+  {
+    "entidad": "Esofagitis eosinofílica",
+    "relacion": "puede causar",
+    "valor": "estenosis y disfunción esofágica severa"
+  },
+  {
+    "entidad": "Dieta",
+    "relacion": "es un",
+    "valor": "enfoque de tratamiento para EoE"
+  },
+  {
+    "entidad": "Drogas",
+    "relacion": "son un",
+    "valor": "enfoque de tratamiento para EoE"
+  },
+  {
+    "entidad": "Dilatación esofágica",
+    "relacion": "es un",
+    "valor": "enfoque de tratamiento para EoE"
+  },
+  {
+    "entidad": "Esofagitis eosinofílica",
+    "relacion": "presenta síntomas de",
+    "valor": "impactación alimentaria y disfagia"
+  },
+  {
+    "entidad": "Esofagitis eosinofílica",
+    "relacion": "puede tener",
+    "valor": "síntomas extra-digestivos"
+  },
+  {
+    "entidad": "Esofagitis eosinofílica",
+    "relacion": "afecta a",
+    "valor": "niños y adultos"
+  },
+  {
+    "entidad": "Esofagitis eosinofílica",
+    "relacion": "se asocia con",
+    "valor": "asma, eczema y alergias alimentarias"
+  },
+  {
+    "entidad": "Esofagitis eosinofílica",
+    "relacion": "requiere",
+    "valor": "evaluación y seguimiento multidisciplinario"
+  },
+  {
+    "entidad": "Corticoides tópicos",
+    "relacion": "tienen",
+    "valor": "efecto directo sobre la mucosa"
+  },
+  {
+    "entidad": "Terapias biológicas",
+    "relacion": "están siendo estudiadas para",
+    "valor": "uso en EoE"
+  },
+  {
+    "entidad": "Esofagitis eosinofílica",
+    "relacion": "tiene un pronóstico de",
+    "valor": "daño irreversible si no se trata"
+  },
+  {
+    "entidad": "Esofagitis eosinofílica",
+    "relacion": "requiere",
+    "valor": "diagnóstico y tratamiento precoz"
+  },
+  {
+    "entidad": "Universidad Andres Bello",
+    "relacion": "es un",
+    "valor": "institución educativa"
+  },
+  {
+    "entidad": "Katherine Mondaca-Gómez",
+    "relacion": "es un",
+    "valor": "autora del artículo"
+  },
+  {
+    "entidad": "Naldy Febré Vergara",
+    "relacion": "es un",
+    "valor": "autora del artículo"
+  },
+  {
+    "entidad": "errores de medicación",
+    "relacion": "causa",
+    "valor": "daño a pacientes"
+  },
+  {
+    "entidad": "prescripción médica",
+    "relacion": "es un",
+    "valor": "punto débil en la cadena terapéutica"
+  },
+  {
+    "entidad": "abreviaturas inseguras",
+    "relacion": "asociado con",
+    "valor": "errores de medicación"
+  },
+  {
+    "entidad": "PubMed",
+    "relacion": "es un",
+    "valor": "base de datos revisada"
+  },
+  {
+    "entidad": "Lilacs",
+    "relacion": "es un",
+    "valor": "base de datos revisada"
+  },
+  {
+    "entidad": "abrevaciones",
+    "relacion": "aumenta",
+    "valor": "en prescripciones médicas"
+  },
+  {
+    "entidad": "acrónimo 'u'",
+    "relacion": "refiere a",
+    "valor": "unidades"
+  },
+  {
+    "entidad": "acrónimo 'sc'",
+    "relacion": "refiere a",
+    "valor": "subcutáneo"
+  },
+  {
+    "entidad": "Institute for Safe Medication Practices (ISMP)",
+    "relacion": "recomienda",
+    "valor": "lista de abreviaturas de alto riesgo"
+  },
+  {
+    "entidad": "The Joint Commission",
+    "relacion": "emite",
+    "valor": "nómina de abreviaturas de alto riesgo"
+  },
+  {
+    "entidad": "intervenciones educativas",
+    "relacion": "disminuye",
+    "valor": "incidencia de abreviaturas de alto riesgo"
+  },
+  {
+    "entidad": "prescripción electrónica",
+    "relacion": "no erradica",
+    "valor": "errores de medicación"
+  },
+  {
+    "entidad": "profesionales médicos",
+    "relacion": "son conscientes de",
+    "valor": "riesgos de abreviaturas"
+  },
+  {
+    "entidad": "lista de abreviaturas de alto riesgo",
+    "relacion": "es propuesta para",
+    "valor": "servicios sanitarios en Chile"
+  },
+  {
+    "entidad": "errores de medicación",
+    "relacion": "ocurren en",
+    "valor": "hospitales a nivel mundial"
+  },
+  {
+    "entidad": "abreviaturas",
+    "relacion": "deben ser evitadas",
+    "valor": "en prescripciones médicas"
+  }
+]

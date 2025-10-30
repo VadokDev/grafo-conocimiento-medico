@@ -1,0 +1,197 @@
+[
+  {
+    "entidad": "estatinas",
+    "relacion": "explora",
+    "valor": "beneficios potenciales en cáncer"
+  },
+  {
+    "entidad": "formas lipofílicas de estatinas",
+    "relacion": "tienen",
+    "valor": "rol terapéutico"
+  },
+  {
+    "entidad": "estatinas",
+    "relacion": "inhiben",
+    "valor": "vía del mevalonato"
+  },
+  {
+    "entidad": "estatinas",
+    "relacion": "reducen",
+    "valor": "estímulos inflamatorios en el microambiente tumoral"
+  },
+  {
+    "entidad": "estatinas",
+    "relacion": "inhiben",
+    "valor": "cascadas de señalización críticas para proliferación y metástasis"
+  },
+  {
+    "entidad": "ensayos clínicos aleatorios",
+    "relacion": "son necesarios para",
+    "valor": "confirmar beneficios de estatinas en cáncer"
+  },
+  {
+    "entidad": "hipercolesterolemia",
+    "relacion": "es un",
+    "valor": "trastorno del metabolismo del colesterol"
+  },
+  {
+    "entidad": "estatinas",
+    "relacion": "son utilizadas para",
+    "valor": "corregir hipercolesterolemia"
+  },
+  {
+    "entidad": "estatinas",
+    "relacion": "tienen efectos pleiotrópicos",
+    "valor": "independientes de la síntesis de colesterol"
+  },
+  {
+    "entidad": "enfermedad cardiovascular",
+    "relacion": "se previene con",
+    "valor": "estatinas"
+  },
+  {
+    "entidad": "inflamación crónica",
+    "relacion": "juega un rol",
+    "valor": "en la progresión del cáncer"
+  },
+  {
+    "entidad": "estatinas",
+    "relacion": "afectan",
+    "valor": "la evolución de condiciones como el cáncer"
+  },
+  {
+    "entidad": "cáncer de colon",
+    "relacion": "se asocia con",
+    "valor": "respuesta inflamatoria crónica"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "es un factor de riesgo",
+    "valor": "para cáncer"
+  },
+  {
+    "entidad": "estatinas",
+    "relacion": "inducen",
+    "valor": "autofagia en células cancerosas"
+  },
+  {
+    "entidad": "estatinas lipofílicas",
+    "relacion": "inducen",
+    "valor": "muerte celular en cánceres dependientes de HMGCoA reductasa"
+  },
+  {
+    "entidad": "estatinas",
+    "relacion": "mejoran",
+    "valor": "la respuesta a quimioterapia"
+  },
+  {
+    "entidad": "cáncer de próstata",
+    "relacion": "puede beneficiarse de",
+    "valor": "uso de estatinas"
+  },
+  {
+    "entidad": "estatinas",
+    "relacion": "modulan",
+    "valor": "la respuesta inmune e inflamatoria"
+  },
+  {
+    "entidad": "cáncer de ovario",
+    "relacion": "muestra mejor sobrevida con",
+    "valor": "uso de estatinas"
+  },
+  {
+    "entidad": "estatinas",
+    "relacion": "inhiben",
+    "valor": "invasión y metástasis"
+  },
+  {
+    "entidad": "cáncer",
+    "relacion": "es el resultado de",
+    "valor": "interacción entre células cancerosas y su microambiente"
+  },
+  {
+    "entidad": "Hipertensión arterial",
+    "relacion": "es una",
+    "valor": "patología común en mujeres"
+  },
+  {
+    "entidad": "Hipertensión arterial",
+    "relacion": "tiene una prevalencia de",
+    "valor": "hasta un 80% en adultas mayores"
+  },
+  {
+    "entidad": "Hipertensión arterial",
+    "relacion": "es un factor de riesgo para",
+    "valor": "cardiopatía coronaria"
+  },
+  {
+    "entidad": "Hipertensión arterial",
+    "relacion": "es un factor de riesgo para",
+    "valor": "accidente cerebrovascular"
+  },
+  {
+    "entidad": "Hipertensión arterial",
+    "relacion": "es un factor de riesgo para",
+    "valor": "insuficiencia cardiaca"
+  },
+  {
+    "entidad": "Preeclampsia",
+    "relacion": "provoca",
+    "valor": "hipertensión durante el embarazo"
+  },
+  {
+    "entidad": "Preeclampsia",
+    "relacion": "aumenta el riesgo de",
+    "valor": "enfermedad cardiovascular en la vida posterior"
+  },
+  {
+    "entidad": "Menopausia",
+    "relacion": "puede causar",
+    "valor": "disfunción endotelial"
+  },
+  {
+    "entidad": "Anticonceptivos orales",
+    "relacion": "pueden causar",
+    "valor": "hipertensión en algunas mujeres"
+  },
+  {
+    "entidad": "Hipertensión postmenopáusica",
+    "relacion": "es considerada",
+    "valor": "una forma de hipertensión secundaria"
+  },
+  {
+    "entidad": "Tratamiento no farmacológico",
+    "relacion": "debe ser instaurado en",
+    "valor": "toda mujer hipertensa"
+  },
+  {
+    "entidad": "Dieta DASH",
+    "relacion": "disminuye",
+    "valor": "la presión arterial"
+  },
+  {
+    "entidad": "Antihipertensivos",
+    "relacion": "deben ser utilizados con precaución en",
+    "valor": "mujeres embarazadas"
+  },
+  {
+    "entidad": "Hipertensión gestacional",
+    "relacion": "se caracteriza por",
+    "valor": "la aparición de hipertensión no proteinúrica después de las 20 semanas"
+  },
+  {
+    "entidad": "Hipertensión arterial crónica",
+    "relacion": "se define como",
+    "valor": "presión arterial elevada antes de las 20 semanas de embarazo"
+  },
+  {
+    "entidad": "Factores de riesgo cardiovascular",
+    "relacion": "aumentan con",
+    "valor": "la magnitud de la obesidad"
+  },
+  {
+    "entidad": "Hipertensión arterial",
+    "relacion": "debe ser manejada según",
+    "valor": "las diferentes etapas de la vida de la mujer"
+  }
+]

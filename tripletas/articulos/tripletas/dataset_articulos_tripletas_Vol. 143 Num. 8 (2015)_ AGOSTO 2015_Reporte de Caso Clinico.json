@@ -1,0 +1,277 @@
+[
+  {
+    "entidad": "Streptococcus pyogenes",
+    "relacion": "es un",
+    "valor": "agente bacteriano"
+  },
+  {
+    "entidad": "influenza A H1N1",
+    "relacion": "causa",
+    "valor": "coinfección"
+  },
+  {
+    "entidad": "bacterias",
+    "relacion": "son",
+    "valor": "agentes de sobreinfección"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "neumonía multifocal"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "evoluciona a",
+    "valor": "falla orgánica múltiple"
+  },
+  {
+    "entidad": "Streptococcus pyogenes",
+    "relacion": "fue identificado por",
+    "valor": "test rápido"
+  },
+  {
+    "entidad": "influenza A H1N1",
+    "relacion": "fue detectado por",
+    "valor": "técnica de PCR"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "requiere",
+    "valor": "soporte ventilatorio"
+  },
+  {
+    "entidad": "Streptococcus pyogenes",
+    "relacion": "causa",
+    "valor": "infecciones cutáneas"
+  },
+  {
+    "entidad": "Streptococcus pyogenes",
+    "relacion": "produce",
+    "valor": "exotoxinas pirogénicas"
+  },
+  {
+    "entidad": "neumonía bacteriana",
+    "relacion": "es una",
+    "valor": "complicación de la influenza"
+  },
+  {
+    "entidad": "vigilancia de laboratorio",
+    "relacion": "se realiza en",
+    "valor": "Chile"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "no recibió",
+    "valor": "inmunización para influenza"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "obesidad"
+  },
+  {
+    "entidad": "Streptococcus pyogenes",
+    "relacion": "es",
+    "valor": "beta-hemolítico del grupo A"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "desarrolla",
+    "valor": "shock tóxico estreptocócico"
+  },
+  {
+    "entidad": "infección por influenza",
+    "relacion": "afecta",
+    "valor": "células epiteliales"
+  },
+  {
+    "entidad": "Streptococcus pyogenes",
+    "relacion": "es aislado de",
+    "valor": "cultivo de sangre"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "fallece por",
+    "valor": "complicación hemorrágica"
+  },
+  {
+    "entidad": "Linfoma intravascular",
+    "relacion": "es un",
+    "valor": "subtipo raro de linfoma"
+  },
+  {
+    "entidad": "Linfoma intravascular",
+    "relacion": "caracterizado por",
+    "valor": "proliferación clonal de linfocitos en vasos"
+  },
+  {
+    "entidad": "Linfoma intravascular",
+    "relacion": "afecta a",
+    "valor": "sistema nervioso central y piel"
+  },
+  {
+    "entidad": "Linfoma intravascular",
+    "relacion": "se diagnostica mediante",
+    "valor": "biopsia que muestra infiltración de vasos"
+  },
+  {
+    "entidad": "Rituximab",
+    "relacion": "es un",
+    "valor": "tratamiento utilizado"
+  },
+  {
+    "entidad": "Ciclofosfamida",
+    "relacion": "es un",
+    "valor": "tratamiento utilizado"
+  },
+  {
+    "entidad": "Adriamicina",
+    "relacion": "es un",
+    "valor": "tratamiento utilizado"
+  },
+  {
+    "entidad": "Vincristina",
+    "relacion": "es un",
+    "valor": "tratamiento utilizado"
+  },
+  {
+    "entidad": "Prednisona",
+    "relacion": "es un",
+    "valor": "tratamiento utilizado"
+  },
+  {
+    "entidad": "Trasplante autólogo de células madre hematopoyéticas",
+    "relacion": "es un",
+    "valor": "opción de tratamiento"
+  },
+  {
+    "entidad": "Linfoma intravascular",
+    "relacion": "presenta",
+    "valor": "síntomas variables"
+  },
+  {
+    "entidad": "Síntomas B",
+    "relacion": "incluyen",
+    "valor": "fiebre, pérdida de peso, sudoración nocturna"
+  },
+  {
+    "entidad": "LDH",
+    "relacion": "se observa en",
+    "valor": "80-90% de los casos"
+  },
+  {
+    "entidad": "Anemia",
+    "relacion": "se observa en",
+    "valor": "65% de los casos"
+  },
+  {
+    "entidad": "Biopsia de tejido afectado",
+    "relacion": "es necesaria para",
+    "valor": "diagnóstico"
+  },
+  {
+    "entidad": "Linfoma intravascular",
+    "relacion": "tiene un curso",
+    "valor": "agresivo"
+  },
+  {
+    "entidad": "Tasa de supervivencia a 3 años",
+    "relacion": "es",
+    "valor": "33%"
+  },
+  {
+    "entidad": "Diagnóstico erróneo",
+    "relacion": "ocurre en",
+    "valor": "70% de los pacientes"
+  },
+  {
+    "entidad": "Quimioterapia R-CHOP",
+    "relacion": "se recomienda para",
+    "valor": "tratamiento del linfoma intravascular"
+  },
+  {
+    "entidad": "Linfoma intravascular",
+    "relacion": "es considerado",
+    "valor": "enfermedad diseminada"
+  },
+  {
+    "entidad": "arteria proatlántica persistente tipo I",
+    "relacion": "asociada a",
+    "valor": "aneurisma fusiforme de la arteria subclavia"
+  },
+  {
+    "entidad": "hombre de 61 años",
+    "relacion": "presenta",
+    "valor": "infarto cerebral derecho"
+  },
+  {
+    "entidad": "arteria proatlántica persistente tipo I",
+    "relacion": "es una forma de",
+    "valor": "anastomosis carótida-basilar primitiva"
+  },
+  {
+    "entidad": "ausencia de la arteria vertebral ipsilateral",
+    "relacion": "acompaña a",
+    "valor": "hipoplasia de la arteria vertebral contralateral"
+  },
+  {
+    "entidad": "arteria basilar",
+    "relacion": "es suplida por",
+    "valor": "arteria proatlántica"
+  },
+  {
+    "entidad": "aneurisma fusiforme de la arteria subclavia derecha",
+    "relacion": "es una",
+    "valor": "anomalía vascular"
+  },
+  {
+    "entidad": "segmento A1 de la arteria cerebral anterior derecha",
+    "relacion": "presenta",
+    "valor": "aplasia"
+  },
+  {
+    "entidad": "arteria comunicante anterior",
+    "relacion": "origen de",
+    "valor": "arteria cerebral anterior derecha"
+  },
+  {
+    "entidad": "arteria proatlántica",
+    "relacion": "juega un papel crítico en",
+    "valor": "irrigación del lecho circulatorio posterior"
+  },
+  {
+    "entidad": "tipo I de arteria proatlántica",
+    "relacion": "origina de",
+    "valor": "arteria carotídea interna"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "fue tratado con",
+    "valor": "terapia antiplaquetaria"
+  },
+  {
+    "entidad": "terapia antiplaquetaria",
+    "relacion": "incluye",
+    "valor": "ácido acetilsalicílico"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "desarrolló",
+    "valor": "hemiparesia izquierda severa"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "falleció por",
+    "valor": "complicaciones de salud"
+  },
+  {
+    "entidad": "ausencia de arterias vertebrales",
+    "relacion": "es un indicio de",
+    "valor": "comunicación vascular fetal persistente"
+  },
+  {
+    "entidad": "anomalías vasculares",
+    "relacion": "pueden modificar",
+    "valor": "tácticas quirúrgicas en endarterectomía"
+  }
+]

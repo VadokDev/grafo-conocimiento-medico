@@ -1,0 +1,757 @@
+[
+  {
+    "entidad": "adicción a la comida",
+    "relacion": "asociación con",
+    "valor": "estado nutricional en universitarios chilenos"
+  },
+  {
+    "entidad": "universitarios chilenos",
+    "relacion": "son evaluados por",
+    "valor": "Yale Food Addiction Scale"
+  },
+  {
+    "entidad": "Yale Food Addiction Scale",
+    "relacion": "evalúa",
+    "valor": "adicción a la comida"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "se relaciona con",
+    "valor": "adicción a la comida"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen mayor prevalencia de",
+    "valor": "adicción a la comida que hombres"
+  },
+  {
+    "entidad": "índice de masa corporal",
+    "relacion": "aumenta la probabilidad de",
+    "valor": "adicción a la comida"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "realizado por",
+    "valor": "Ana Obregón y colaboradores"
+  },
+  {
+    "entidad": "comportamiento alimentario",
+    "relacion": "influye en",
+    "valor": "selección y cantidad de alimentos ingeridos"
+  },
+  {
+    "entidad": "sustancias adictivas",
+    "relacion": "tienen similitudes con",
+    "valor": "alimentos de alta palatabilidad"
+  },
+  {
+    "entidad": "dopamina",
+    "relacion": "es liberada por",
+    "valor": "consumo de alimentos y drogas"
+  },
+  {
+    "entidad": "sistema dopaminérgico",
+    "relacion": "es activado por",
+    "valor": "alimentos y drogas"
+  },
+  {
+    "entidad": "estudio exploratorio",
+    "relacion": "evalúa",
+    "valor": "prevalencia de adicción a la comida en Chile"
+  },
+  {
+    "entidad": "factores biológicos y ambientales",
+    "relacion": "interactúan para causar",
+    "valor": "obesidad"
+  },
+  {
+    "entidad": "estudio en animales",
+    "relacion": "muestra que",
+    "valor": "el acceso a azúcar y grasa puede causar adicción"
+  },
+  {
+    "entidad": "individuos obesos",
+    "relacion": "muestran",
+    "valor": "menor expresión del receptor 2 de dopamina"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "debería ser considerada como",
+    "valor": "un desorden a nivel cerebral"
+  },
+  {
+    "entidad": "muestra de universitarios",
+    "relacion": "incluye",
+    "valor": "292 estudiantes de 18 a 39 años"
+  },
+  {
+    "entidad": "Comité de Ética de la Universidad San Sebastián",
+    "relacion": "aprueba",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "mujeres obesas",
+    "relacion": "tienen mayor prevalencia de",
+    "valor": "adicción a la comida"
+  },
+  {
+    "entidad": "adicción a la comida",
+    "relacion": "se correlaciona positivamente con",
+    "valor": "índice de masa corporal"
+  },
+  {
+    "entidad": "Polifarmacia",
+    "relacion": "es definida por",
+    "valor": "la Organización Mundial de la Salud como el consumo simultáneo de tres o más medicamentos"
+  },
+  {
+    "entidad": "Diabetes mellitus tipo 2",
+    "relacion": "es considerada como",
+    "valor": "un trastorno crónico complejo"
+  },
+  {
+    "entidad": "Diabetes mellitus tipo 2",
+    "relacion": "asocia con",
+    "valor": "múltiples complicaciones microvasculares y macrovasculares"
+  },
+  {
+    "entidad": "Manejo del paciente diabético",
+    "relacion": "implica",
+    "valor": "consumo constante de recursos"
+  },
+  {
+    "entidad": "Polifarmacia",
+    "relacion": "incrementa",
+    "valor": "la complejidad del manejo terapéutico"
+  },
+  {
+    "entidad": "Polifarmacia",
+    "relacion": "aumenta",
+    "valor": "los costos de atención médica"
+  },
+  {
+    "entidad": "Instituto Mexicano del Seguro Social",
+    "relacion": "es",
+    "valor": "una organización que proporciona atención médica"
+  },
+  {
+    "entidad": "Costo de la polifarmacia",
+    "relacion": "se determina en",
+    "valor": "pacientes con diabetes mellitus tipo 2"
+  },
+  {
+    "entidad": "Costo promedio anual de atención del paciente diabético con polifarmacia",
+    "relacion": "es",
+    "valor": "USD 182,61"
+  },
+  {
+    "entidad": "Medicamentos",
+    "relacion": "representan",
+    "valor": "menos del 50% de los gastos totales de pacientes diabéticos con polifarmacia"
+  },
+  {
+    "entidad": "Análisis económico",
+    "relacion": "mejora",
+    "valor": "la eficiencia de los procesos de distribución presupuestaria"
+  },
+  {
+    "entidad": "Evaluaciones económicas",
+    "relacion": "han tomado fuerza",
+    "valor": "a nivel mundial en sistemas de salud"
+  },
+  {
+    "entidad": "Costo de medicamentos",
+    "relacion": "se estima identificando",
+    "valor": "tipo de medicamento y unidades consumidas"
+  },
+  {
+    "entidad": "Diabetes mellitus tipo 2",
+    "relacion": "requiere",
+    "valor": "medidas higiénico dietéticas y uso permanente de fármacos"
+  },
+  {
+    "entidad": "Costo de medicamentos para el manejo de complicaciones",
+    "relacion": "es",
+    "valor": "USD 13,90"
+  },
+  {
+    "entidad": "Costo de medicamentos para el manejo de comorbilidades",
+    "relacion": "es",
+    "valor": "USD 23,70"
+  },
+  {
+    "entidad": "Costo de medicamentos para control de glicemia",
+    "relacion": "es",
+    "valor": "USD 33,31"
+  },
+  {
+    "entidad": "sobrepeso",
+    "relacion": "es un",
+    "valor": "problema de salud pública en Chile"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "es un",
+    "valor": "problema de salud pública en Chile"
+  },
+  {
+    "entidad": "adolescentes chilenos",
+    "relacion": "sufren de",
+    "valor": "sobrepeso u obesidad"
+  },
+  {
+    "entidad": "determinantes individuales",
+    "relacion": "afectan",
+    "valor": "probabilidad de sobrepeso u obesidad"
+  },
+  {
+    "entidad": "determinantes sociales",
+    "relacion": "afectan",
+    "valor": "probabilidad de sobrepeso u obesidad"
+  },
+  {
+    "entidad": "determinantes ambientales",
+    "relacion": "afectan",
+    "valor": "probabilidad de sobrepeso u obesidad"
+  },
+  {
+    "entidad": "nivel socioeconómico",
+    "relacion": "influye en",
+    "valor": "probabilidad de sobrepeso u obesidad"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "tienen menor probabilidad de",
+    "valor": "sobrepeso"
+  },
+  {
+    "entidad": "estudiantes de alto nivel socioeconómico",
+    "relacion": "tienen menor probabilidad de",
+    "valor": "sobrepeso"
+  },
+  {
+    "entidad": "participación en actividades deportivas",
+    "relacion": "reduce",
+    "valor": "probabilidad de sobrepeso"
+  },
+  {
+    "entidad": "distancia entre escuela y restaurante de comida rápida",
+    "relacion": "afecta",
+    "valor": "probabilidad de sobrepeso"
+  },
+  {
+    "entidad": "políticas públicas",
+    "relacion": "deben considerar",
+    "valor": "desigualdades socioeconómicas"
+  },
+  {
+    "entidad": "Ministerio de Educación",
+    "relacion": "realiza",
+    "valor": "Estudio Nacional de Educación Física"
+  },
+  {
+    "entidad": "estudiantes de octavo básico",
+    "relacion": "son analizados en",
+    "valor": "estudio sobre sobrepeso y obesidad"
+  },
+  {
+    "entidad": "entorno físico",
+    "relacion": "influye en",
+    "valor": "probabilidad de obesidad o sobrepeso"
+  },
+  {
+    "entidad": "educación de la madre",
+    "relacion": "es un determinante de",
+    "valor": "sobrepeso en escolares"
+  },
+  {
+    "entidad": "distancia vivienda-escuela",
+    "relacion": "es un factor que afecta",
+    "valor": "sobrepeso"
+  },
+  {
+    "entidad": "distancia vivienda-restaurante de comida rápida",
+    "relacion": "es un factor que afecta",
+    "valor": "sobrepeso"
+  },
+  {
+    "entidad": "distancia vivienda-supermercado",
+    "relacion": "es un factor que afecta",
+    "valor": "sobrepeso"
+  },
+  {
+    "entidad": "áreas verdes",
+    "relacion": "son un factor que afecta",
+    "valor": "sobrepeso"
+  },
+  {
+    "entidad": "socioeconómico bajo",
+    "relacion": "aumenta la probabilidad de",
+    "valor": "sobrepeso en mujeres"
+  },
+  {
+    "entidad": "Diabetes Mellitus tipo 1",
+    "relacion": "es un",
+    "valor": "enfermedad autoinmune crónica"
+  },
+  {
+    "entidad": "metilación global del ADN",
+    "relacion": "se encuentra",
+    "valor": "disminuida en pacientes con Diabetes Mellitus tipo 1"
+  },
+  {
+    "entidad": "niveles de homocisteína en plasma",
+    "relacion": "se encuentran",
+    "valor": "disminuidos en pacientes con Diabetes Mellitus tipo 1"
+  },
+  {
+    "entidad": "pacientes con Diabetes Mellitus tipo 1",
+    "relacion": "tienen",
+    "valor": "menores niveles de homocisteína"
+  },
+  {
+    "entidad": "pacientes con Diabetes Mellitus tipo 1",
+    "relacion": "tienen",
+    "valor": "menor metilación global del ADN"
+  },
+  {
+    "entidad": "folatos",
+    "relacion": "se asocian con",
+    "valor": "metilación global del ADN"
+  },
+  {
+    "entidad": "homocisteína",
+    "relacion": "es un",
+    "valor": "aminoácido azufrado"
+  },
+  {
+    "entidad": "S-Adenosil Metionina (SAMe)",
+    "relacion": "es un",
+    "valor": "donante de grupos metilo"
+  },
+  {
+    "entidad": "nutrientes",
+    "relacion": "participan como",
+    "valor": "cofactores en la metilación del ADN"
+  },
+  {
+    "entidad": "metilación del ADN",
+    "relacion": "regula",
+    "valor": "la expresión génica en mamíferos"
+  },
+  {
+    "entidad": "metilación del ADN",
+    "relacion": "involucra",
+    "valor": "la adición de un grupo metilo a la citosina"
+  },
+  {
+    "entidad": "enzimas ADN metiltransferasas (DNMTs)",
+    "relacion": "catalizan",
+    "valor": "la metilación del ADN"
+  },
+  {
+    "entidad": "homocisteína",
+    "relacion": "se metaboliza a través de",
+    "valor": "remetilación y transulfuración"
+  },
+  {
+    "entidad": "deficiencia de folatos",
+    "relacion": "conduce a",
+    "valor": "acumulación de homocisteína"
+  },
+  {
+    "entidad": "metabolismo de homocisteína",
+    "relacion": "se encuentra alterado en",
+    "valor": "Diabetes Mellitus tipo 1"
+  },
+  {
+    "entidad": "insulina",
+    "relacion": "modula",
+    "valor": "la actividad de las enzimas en el ciclo de homocisteína"
+  },
+  {
+    "entidad": "metilación global del ADN",
+    "relacion": "se relaciona con",
+    "valor": "niveles de homocisteína"
+  },
+  {
+    "entidad": "metilación global del ADN",
+    "relacion": "se relaciona con",
+    "valor": "niveles de folatos"
+  },
+  {
+    "entidad": "Hospital Clínico de la Universidad de Chile",
+    "relacion": "realiza",
+    "valor": "trasplantes hepáticos"
+  },
+  {
+    "entidad": "trasplante hepático",
+    "relacion": "aumenta",
+    "valor": "sobrevida del paciente"
+  },
+  {
+    "entidad": "inmunosupresión crónica",
+    "relacion": "aumenta",
+    "valor": "riesgo de complicaciones dermatológicas"
+  },
+  {
+    "entidad": "manifestaciones cutáneas",
+    "relacion": "se presentan en",
+    "valor": "pacientes con trasplante hepático"
+  },
+  {
+    "entidad": "infecciones cutáneas",
+    "relacion": "son",
+    "valor": "las más comunes en pacientes con trasplante hepático"
+  },
+  {
+    "entidad": "enfermedad injerto versus huésped (EICH)",
+    "relacion": "es",
+    "valor": "una complicación del trasplante hepático"
+  },
+  {
+    "entidad": "cirrosis hepática",
+    "relacion": "es la principal causa de",
+    "valor": "trasplante hepático"
+  },
+  {
+    "entidad": "ciclosporina",
+    "relacion": "causa",
+    "valor": "hipertricosis en pacientes trasplantados"
+  },
+  {
+    "entidad": "lesiones malignas",
+    "relacion": "se presentan en",
+    "valor": "pacientes trasplantados"
+  },
+  {
+    "entidad": "pacientes en lista de espera para trasplante hepático",
+    "relacion": "presentan",
+    "valor": "signos dermatológicos asociados a daño hepático crónico"
+  },
+  {
+    "entidad": "Hospital Clínico de la Universidad de Chile",
+    "relacion": "realiza",
+    "valor": "exámenes dermatológicos completos"
+  },
+  {
+    "entidad": "infecciones micóticas",
+    "relacion": "son",
+    "valor": "una de las manifestaciones dermatológicas más frecuentes"
+  },
+  {
+    "entidad": "infecciones virales",
+    "relacion": "son",
+    "valor": "una de las manifestaciones dermatológicas frecuentes"
+  },
+  {
+    "entidad": "lesiones premalignas y malignas",
+    "relacion": "se encuentran en",
+    "valor": "pacientes con trasplante hepático"
+  },
+  {
+    "entidad": "dermatólogos",
+    "relacion": "deben colaborar con",
+    "valor": "hepatólogos en el seguimiento de pacientes trasplantados"
+  },
+  {
+    "entidad": "bacteriemia",
+    "relacion": "es un",
+    "valor": "complicación en neumonía adquirida en la comunidad"
+  },
+  {
+    "entidad": "neumonía adquirida en la comunidad",
+    "relacion": "afecta a",
+    "valor": "adultos inmunocompetentes"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "es un",
+    "valor": "hospital docente"
+  },
+  {
+    "entidad": "Dr. Fernando Saldías Peñafiel",
+    "relacion": "es el",
+    "valor": "autor principal del estudio"
+  },
+  {
+    "entidad": "hemocultivos",
+    "relacion": "se utilizan para",
+    "valor": "diagnosticar bacteriemia"
+  },
+  {
+    "entidad": "antibióticos",
+    "relacion": "disminuyen",
+    "valor": "rendimiento de hemocultivos"
+  },
+  {
+    "entidad": "hipotensión arterial",
+    "relacion": "es un",
+    "valor": "predictor clínico de bacteriemia"
+  },
+  {
+    "entidad": "leucocitosis",
+    "relacion": "es un",
+    "valor": "predictor clínico de bacteriemia"
+  },
+  {
+    "entidad": "nitrógeno ureico",
+    "relacion": "es un",
+    "valor": "predictor clínico de bacteriemia"
+  },
+  {
+    "entidad": "proteína C reactiva",
+    "relacion": "es un",
+    "valor": "predictor clínico de bacteriemia"
+  },
+  {
+    "entidad": "comorbilidades",
+    "relacion": "aumentan",
+    "valor": "riesgo de bacteriemia"
+  },
+  {
+    "entidad": "edad avanzada",
+    "relacion": "es un",
+    "valor": "factor de riesgo para neumonía"
+  },
+  {
+    "entidad": "mortalidad hospitalaria",
+    "relacion": "es un",
+    "valor": "resultado asociado a neumonía"
+  },
+  {
+    "entidad": "hospitalización",
+    "relacion": "es un",
+    "valor": "factor que afecta la duración de la estadía"
+  },
+  {
+    "entidad": "guías clínicas",
+    "relacion": "recomiendan",
+    "valor": "realizar hemocultivos antes de iniciar tratamiento"
+  },
+  {
+    "entidad": "Streptococcus pneumoniae",
+    "relacion": "es un",
+    "valor": "microorganismo común en bacteriemia"
+  },
+  {
+    "entidad": "H. influenzae",
+    "relacion": "es un",
+    "valor": "microorganismo aislado en hemocultivos"
+  },
+  {
+    "entidad": "Staphylococcus aureus",
+    "relacion": "es un",
+    "valor": "microorganismo aislado en hemocultivos"
+  },
+  {
+    "entidad": "neumonía grave",
+    "relacion": "es un",
+    "valor": "predictor de bacteriemia"
+  },
+  {
+    "entidad": "CURB-65",
+    "relacion": "es un",
+    "valor": "índice pronóstico para neumonía"
+  },
+  {
+    "entidad": "mortalidad a 30 días",
+    "relacion": "es un",
+    "valor": "resultado asociado a neumonía"
+  },
+  {
+    "entidad": "análisis multivariado",
+    "relacion": "se utiliza para",
+    "valor": "identificar predictores clínicos"
+  },
+  {
+    "entidad": "adherencia a terapia antihipertensiva",
+    "relacion": "es un",
+    "valor": "problema de salud pública"
+  },
+  {
+    "entidad": "hipertensión arterial (HTA)",
+    "relacion": "causa",
+    "valor": "enfermedad cerebrovascular"
+  },
+  {
+    "entidad": "hipertensión arterial (HTA)",
+    "relacion": "causa",
+    "valor": "enfermedad cardíaca isquémica"
+  },
+  {
+    "entidad": "Morinsky-Green",
+    "relacion": "es un",
+    "valor": "cuestionario para determinar adherencia al tratamiento"
+  },
+  {
+    "entidad": "pacientes hipertensos",
+    "relacion": "son evaluados por",
+    "valor": "cuestionario de Morinsky-Green"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "afecta",
+    "valor": "adherencia a terapia antihipertensiva"
+  },
+  {
+    "entidad": "desempleo",
+    "relacion": "afecta",
+    "valor": "adherencia a terapia antihipertensiva"
+  },
+  {
+    "entidad": "olvido",
+    "relacion": "es la principal razón de",
+    "valor": "falta de adherencia al tratamiento"
+  },
+  {
+    "entidad": "efectos adversos",
+    "relacion": "son una razón de",
+    "valor": "falta de adherencia al tratamiento"
+  },
+  {
+    "entidad": "autopercepción de salud",
+    "relacion": "es evaluada por",
+    "valor": "cuestionario EQ5D"
+  },
+  {
+    "entidad": "dieta saludable",
+    "relacion": "afecta",
+    "valor": "control de la hipertensión arterial"
+  },
+  {
+    "entidad": "sal",
+    "relacion": "afecta",
+    "valor": "presión arterial"
+  },
+  {
+    "entidad": "pacientes adherentes",
+    "relacion": "tienen",
+    "valor": "mejor hábito alimentario"
+  },
+  {
+    "entidad": "Fundación de la Sociedad Chilena de Cardiología y Cirugía Cardiovascular",
+    "relacion": "realiza",
+    "valor": "estudio sobre adherencia a tratamiento antihipertensivo"
+  },
+  {
+    "entidad": "CESFAM",
+    "relacion": "es un",
+    "valor": "centro de atención de salud familiar"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen menor",
+    "valor": "percepción de salud en condiciones de dolor y angustia/depresión"
+  },
+  {
+    "entidad": "pacientes hipertensos",
+    "relacion": "son tratados en",
+    "valor": "programa cardiovascular"
+  },
+  {
+    "entidad": "cuestionario de MGL",
+    "relacion": "es utilizado para",
+    "valor": "evaluar adherencia a tratamiento antihipertensivo"
+  },
+  {
+    "entidad": "DRESS Syndrome",
+    "relacion": "es un",
+    "valor": "síndrome raro causado por medicamentos"
+  },
+  {
+    "entidad": "DRESS Syndrome",
+    "relacion": "se caracteriza por",
+    "valor": "erupción polimórfica diseminada, fiebre y disfunción de múltiples órganos"
+  },
+  {
+    "entidad": "Hospital Universitario 'Dr. José Eleuterio González'",
+    "relacion": "es un",
+    "valor": "centro clínico donde se realizó el estudio"
+  },
+  {
+    "entidad": "carbamazepina",
+    "relacion": "es un",
+    "valor": "medicamento causante del síndrome de DRESS"
+  },
+  {
+    "entidad": "fenitoína",
+    "relacion": "es un",
+    "valor": "medicamento causante del síndrome de DRESS"
+  },
+  {
+    "entidad": "antituberculosos",
+    "relacion": "son",
+    "valor": "medicamentos causantes del síndrome de DRESS"
+  },
+  {
+    "entidad": "amoxicilina",
+    "relacion": "es un",
+    "valor": "medicamento causante del síndrome de DRESS"
+  },
+  {
+    "entidad": "sistemas inmunológicos",
+    "relacion": "contribuyen a",
+    "valor": "la generación de eosinofilia en el síndrome de DRESS"
+  },
+  {
+    "entidad": "DRESS Syndrome",
+    "relacion": "requiere",
+    "valor": "diagnóstico y tratamiento oportuno"
+  },
+  {
+    "entidad": "sistemas",
+    "relacion": "pueden ser afectados por",
+    "valor": "medicamentos en el síndrome de DRESS"
+  },
+  {
+    "entidad": "esteroides sistémicos",
+    "relacion": "son",
+    "valor": "la primera línea de tratamiento para el síndrome de DRESS"
+  },
+  {
+    "entidad": "Dexametasona",
+    "relacion": "es un",
+    "valor": "tipo de esteroide utilizado en el tratamiento del síndrome de DRESS"
+  },
+  {
+    "entidad": "prednisona",
+    "relacion": "es un",
+    "valor": "tipo de esteroide utilizado en el tratamiento del síndrome de DRESS"
+  },
+  {
+    "entidad": "DRESS Syndrome",
+    "relacion": "tiene una",
+    "valor": "mortalidad del 10%"
+  },
+  {
+    "entidad": "compromiso hepático",
+    "relacion": "es responsable de",
+    "valor": "la mayoría de las muertes asociadas al síndrome de DRESS"
+  },
+  {
+    "entidad": "biopsia de piel",
+    "relacion": "revela",
+    "valor": "características compatibles con dermatitis reactiva exantematosa"
+  },
+  {
+    "entidad": "DRESS Syndrome",
+    "relacion": "debe ser distinguido de",
+    "valor": "síndrome de Stevens-Johnson/necrólisis epidérmica tóxica"
+  },
+  {
+    "entidad": "DRESS Syndrome",
+    "relacion": "puede manifestarse con",
+    "valor": "miocarditis, neumonitis intersticial, tiroiditis e infiltración cerebral por eosinófilos"
+  },
+  {
+    "entidad": "DRESS Syndrome",
+    "relacion": "puede causar",
+    "valor": "desarrollo de secuelas autoinmunes"
+  },
+  {
+    "entidad": "DRESS Syndrome",
+    "relacion": "es más común en",
+    "valor": "adultos sin predominio de género"
+  }
+]

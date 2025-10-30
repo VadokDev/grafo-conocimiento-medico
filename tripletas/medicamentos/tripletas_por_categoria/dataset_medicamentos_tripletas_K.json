@@ -1,0 +1,1337 @@
+[
+  {
+    "entidad": "Ketorolaco",
+    "relacion": "trata",
+    "valor": "alivio del dolor moderadamente intenso, usualmente después de una cirugía"
+  },
+  {
+    "entidad": "Ketorolaco",
+    "relacion": "uso",
+    "valor": "tomar cada 4 a 6 horas siguiendo un horario, o según sea necesario para el dolor"
+  },
+  {
+    "entidad": "Ketorolaco",
+    "relacion": "se_administra_via",
+    "valor": "inyección intravenosa o intramuscular, luego vía oral"
+  },
+  {
+    "entidad": "Ketorolaco",
+    "relacion": "otro_uso",
+    "valor": "puede ser recetado para otros usos"
+  },
+  {
+    "entidad": "Ketorolaco",
+    "relacion": "precaucion",
+    "valor": "informar a su médico sobre otros medicamentos que está tomando"
+  },
+  {
+    "entidad": "Ketorolaco",
+    "relacion": "precaucion",
+    "valor": "no tomar aspirina ni otros AINE sin consultar a su médico"
+  },
+  {
+    "entidad": "Ketorolaco",
+    "relacion": "precaucion",
+    "valor": "no tomar si está embarazada o amamantando"
+  },
+  {
+    "entidad": "Ketorolaco",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta a menos que su médico lo indique"
+  },
+  {
+    "entidad": "Ketorolaco",
+    "relacion": "olvido",
+    "valor": "tomar en cuanto se acuerde, omitir si es casi hora de la siguiente dosis"
+  },
+  {
+    "entidad": "Ketorolaco",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Ketorolaco",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Ketorolaco",
+    "relacion": "efecto_secundario",
+    "valor": "somnolencia"
+  },
+  {
+    "entidad": "Ketorolaco",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Ketorolaco",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Ketorolaco",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Ketorolaco",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original, cerrado herméticamente y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Ketorolaco",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento o a los servicios de emergencia"
+  },
+  {
+    "entidad": "Ketorolaco",
+    "relacion": "marca_comercial",
+    "valor": "Toradol ®"
+  },
+  {
+    "entidad": "Ketotifeno oftálmico",
+    "relacion": "trata",
+    "valor": "prurito causado por la conjuntivitis alérgica"
+  },
+  {
+    "entidad": "Ketotifeno oftálmico",
+    "relacion": "uso",
+    "valor": "2 veces al día, cada 8 a 12 horas"
+  },
+  {
+    "entidad": "Ketotifeno oftálmico",
+    "relacion": "otro_uso",
+    "valor": "puede ser prescrito para otros usos"
+  },
+  {
+    "entidad": "Ketotifeno oftálmico",
+    "relacion": "precaucion",
+    "valor": "informar al doctor si es alérgico al ketotifeno o a otros medicamentos"
+  },
+  {
+    "entidad": "Ketotifeno oftálmico",
+    "relacion": "precaucion",
+    "valor": "informar al doctor si está embarazada o amamantando"
+  },
+  {
+    "entidad": "Ketotifeno oftálmico",
+    "relacion": "dieta",
+    "valor": "seguir régimen alimentario normal a menos que el doctor indique lo contrario"
+  },
+  {
+    "entidad": "Ketotifeno oftálmico",
+    "relacion": "olvido",
+    "valor": "ponerse las gotas tan pronto como lo recuerde, o saltarse la dosis si es hora de la siguiente"
+  },
+  {
+    "entidad": "Ketotifeno oftálmico",
+    "relacion": "efecto_secundario",
+    "valor": "cefalea"
+  },
+  {
+    "entidad": "Ketotifeno oftálmico",
+    "relacion": "efecto_secundario",
+    "valor": "rinorrea"
+  },
+  {
+    "entidad": "Ketotifeno oftálmico",
+    "relacion": "efecto_secundario",
+    "valor": "ardor o picazón en los ojos"
+  },
+  {
+    "entidad": "Ketotifeno oftálmico",
+    "relacion": "efecto_secundario",
+    "valor": "secreción en los ojos"
+  },
+  {
+    "entidad": "Ketotifeno oftálmico",
+    "relacion": "efecto_secundario",
+    "valor": "ojos secos"
+  },
+  {
+    "entidad": "Ketotifeno oftálmico",
+    "relacion": "efecto_secundario",
+    "valor": "dolor en los ojos"
+  },
+  {
+    "entidad": "Ketotifeno oftálmico",
+    "relacion": "efecto_secundario",
+    "valor": "problemas en los párpados"
+  },
+  {
+    "entidad": "Ketotifeno oftálmico",
+    "relacion": "efecto_secundario",
+    "valor": "prurito"
+  },
+  {
+    "entidad": "Ketotifeno oftálmico",
+    "relacion": "efecto_secundario",
+    "valor": "problema con la producción de lágrimas"
+  },
+  {
+    "entidad": "Ketotifeno oftálmico",
+    "relacion": "efecto_secundario",
+    "valor": "visión borrosa"
+  },
+  {
+    "entidad": "Ketotifeno oftálmico",
+    "relacion": "efecto_secundario",
+    "valor": "sensibilidad a la luz"
+  },
+  {
+    "entidad": "Ketotifeno oftálmico",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Ketotifeno oftálmico",
+    "relacion": "efecto_secundario",
+    "valor": "síntomas similares a los de la gripe"
+  },
+  {
+    "entidad": "Ketotifeno oftálmico",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de garganta"
+  },
+  {
+    "entidad": "Ketotifeno oftálmico",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase, bien cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Ketotifeno oftálmico",
+    "relacion": "almacenamiento",
+    "valor": "almacenar a temperatura ambiente, lejos del calor y la humedad"
+  },
+  {
+    "entidad": "Ketotifeno oftálmico",
+    "relacion": "marca_comercial",
+    "valor": "Zaditor"
+  },
+  {
+    "entidad": "Lopinavir y ritonavir",
+    "relacion": "trata",
+    "valor": "infección por el virus de la inmunodeficiencia humana (VIH)"
+  },
+  {
+    "entidad": "Lopinavir y ritonavir",
+    "relacion": "uso",
+    "valor": "tableta y solución para tomar por vía oral, dos veces al día"
+  },
+  {
+    "entidad": "Lopinavir y ritonavir",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Lopinavir y ritonavir",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos concurrentes"
+  },
+  {
+    "entidad": "Lopinavir y ritonavir",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta a menos que se indique"
+  },
+  {
+    "entidad": "Lopinavir y ritonavir",
+    "relacion": "olvido",
+    "valor": "tomar la dosis omitida tan pronto como se recuerde"
+  },
+  {
+    "entidad": "Lopinavir y ritonavir",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea, náuseas, vómitos"
+  },
+  {
+    "entidad": "Lopinavir y ritonavir",
+    "relacion": "almacenamiento",
+    "valor": "mantener en envase original, cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Lopinavir y ritonavir",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Lopinavir y ritonavir",
+    "relacion": "marca_comercial",
+    "valor": "Kaletra ®"
+  },
+  {
+    "entidad": "Mifepristona",
+    "relacion": "contraindicado_en",
+    "valor": "embarazo"
+  },
+  {
+    "entidad": "Mifepristona",
+    "relacion": "trata",
+    "valor": "hiperglicemia en personas con cierto tipo de Síndrome de Cushing"
+  },
+  {
+    "entidad": "Mifepristona",
+    "relacion": "uso",
+    "valor": "tomar una vez al día con una comida"
+  },
+  {
+    "entidad": "Mifepristona",
+    "relacion": "se_administra_via",
+    "valor": "vía oral"
+  },
+  {
+    "entidad": "Mifepristona",
+    "relacion": "otro_uso",
+    "valor": "terminar un embarazo prematuramente"
+  },
+  {
+    "entidad": "Mifepristona",
+    "relacion": "precaucion",
+    "valor": "indicar alergias y medicamentos actuales al médico"
+  },
+  {
+    "entidad": "Mifepristona",
+    "relacion": "dieta",
+    "valor": "no comer toronja ni tomar jugo de toronja"
+  },
+  {
+    "entidad": "Mifepristona",
+    "relacion": "olvido",
+    "valor": "tomar la dosis omitida tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Mifepristona",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Mifepristona",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Mifepristona",
+    "relacion": "efecto_secundario",
+    "valor": "boca seca"
+  },
+  {
+    "entidad": "Mifepristona",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Mifepristona",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Mifepristona",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de articulaciones o músculos"
+  },
+  {
+    "entidad": "Mifepristona",
+    "relacion": "efecto_secundario",
+    "valor": "inflamación de las manos, pies, tobillos o parte inferior de las piernas"
+  },
+  {
+    "entidad": "Mifepristona",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Mifepristona",
+    "relacion": "efecto_secundario",
+    "valor": "picazón"
+  },
+  {
+    "entidad": "Mifepristona",
+    "relacion": "efecto_secundario",
+    "valor": "náusea"
+  },
+  {
+    "entidad": "Mifepristona",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de apetito"
+  },
+  {
+    "entidad": "Mifepristona",
+    "relacion": "efecto_secundario",
+    "valor": "mareos o aturdimiento"
+  },
+  {
+    "entidad": "Mifepristona",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio o debilidad inusuales"
+  },
+  {
+    "entidad": "Mifepristona",
+    "relacion": "efecto_secundario",
+    "valor": "nerviosismo o irritabilidad"
+  },
+  {
+    "entidad": "Mifepristona",
+    "relacion": "efecto_secundario",
+    "valor": "temblores"
+  },
+  {
+    "entidad": "Mifepristona",
+    "relacion": "efecto_secundario",
+    "valor": "sudoración"
+  },
+  {
+    "entidad": "Mifepristona",
+    "relacion": "efecto_secundario",
+    "valor": "debilidad, dolor o calambres musculares"
+  },
+  {
+    "entidad": "Mifepristona",
+    "relacion": "efecto_secundario",
+    "valor": "ritmo cardíaco rápido, irregular o fuerte"
+  },
+  {
+    "entidad": "Mifepristona",
+    "relacion": "efecto_secundario",
+    "valor": "hemorragia vaginal inesperada o manchas"
+  },
+  {
+    "entidad": "Mifepristona",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para respirar"
+  },
+  {
+    "entidad": "Mifepristona",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original, cerrado herméticamente y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Mifepristona",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Mifepristona",
+    "relacion": "marca_comercial",
+    "valor": "Korlym"
+  },
+  {
+    "entidad": "Palifermin",
+    "relacion": "trata",
+    "valor": "aftas severas en la boca y garganta ocasionadas por terapia de radiación y quimioterapia"
+  },
+  {
+    "entidad": "Palifermin",
+    "relacion": "uso",
+    "valor": "polvo para mezclar con un líquido e inyectarlo de forma intravenosa"
+  },
+  {
+    "entidad": "Palifermin",
+    "relacion": "se_administra_via",
+    "valor": "intravenosa"
+  },
+  {
+    "entidad": "Palifermin",
+    "relacion": "otro_uso",
+    "valor": "otros usos bajo consulta médica"
+  },
+  {
+    "entidad": "Palifermin",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos actuales"
+  },
+  {
+    "entidad": "Palifermin",
+    "relacion": "dieta",
+    "valor": "continuar con dieta normal a menos que se indique lo contrario"
+  },
+  {
+    "entidad": "Palifermin",
+    "relacion": "efecto_secundario",
+    "valor": "crecimiento más rápido de algunos tumores"
+  },
+  {
+    "entidad": "Palifermin",
+    "relacion": "efecto_secundario",
+    "valor": "lengua gruesa"
+  },
+  {
+    "entidad": "Palifermin",
+    "relacion": "efecto_secundario",
+    "valor": "cambios en el color de la lengua"
+  },
+  {
+    "entidad": "Palifermin",
+    "relacion": "efecto_secundario",
+    "valor": "cambio en la capacidad para saborear los alimentos"
+  },
+  {
+    "entidad": "Palifermin",
+    "relacion": "efecto_secundario",
+    "valor": "sensación aumentada o disminuida al tacto en la boca"
+  },
+  {
+    "entidad": "Palifermin",
+    "relacion": "efecto_secundario",
+    "valor": "ardor u hormigueo en la boca"
+  },
+  {
+    "entidad": "Palifermin",
+    "relacion": "efecto_secundario",
+    "valor": "dolor en las articulaciones"
+  },
+  {
+    "entidad": "Palifermin",
+    "relacion": "efecto_secundario",
+    "valor": "fiebre"
+  },
+  {
+    "entidad": "Palifermin",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Palifermin",
+    "relacion": "efecto_secundario",
+    "valor": "urticaria"
+  },
+  {
+    "entidad": "Palifermin",
+    "relacion": "efecto_secundario",
+    "valor": "piel roja o que pica"
+  },
+  {
+    "entidad": "Palifermin",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para respirar o tragar"
+  },
+  {
+    "entidad": "Palifermin",
+    "relacion": "efecto_secundario",
+    "valor": "hinchazón de manos, pies, tobillos o pantorrillas"
+  },
+  {
+    "entidad": "Palifermin",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Palifermin",
+    "relacion": "marca_comercial",
+    "valor": "Kepivance"
+  },
+  {
+    "entidad": "Ribociclib",
+    "relacion": "trata",
+    "valor": "cáncer de mama avanzado con receptores hormonales positivos"
+  },
+  {
+    "entidad": "Ribociclib",
+    "relacion": "trata",
+    "valor": "cáncer de mama temprano con receptores hormonales positivos"
+  },
+  {
+    "entidad": "Ribociclib",
+    "relacion": "uso",
+    "valor": "tableta que se administra por vía oral una vez al día"
+  },
+  {
+    "entidad": "Ribociclib",
+    "relacion": "se_administra_via",
+    "valor": "oral"
+  },
+  {
+    "entidad": "Ribociclib",
+    "relacion": "dieta",
+    "valor": "no comer toronja ni tomar jugo de toronja"
+  },
+  {
+    "entidad": "Ribociclib",
+    "relacion": "olvido",
+    "valor": "omita la dosis que le faltó y continúe con su programa de dosificación habitual"
+  },
+  {
+    "entidad": "Ribociclib",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Ribociclib",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Ribociclib",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Ribociclib",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Ribociclib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago"
+  },
+  {
+    "entidad": "Ribociclib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Ribociclib",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida del cabello"
+  },
+  {
+    "entidad": "Ribociclib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de espalda"
+  },
+  {
+    "entidad": "Ribociclib",
+    "relacion": "efecto_secundario",
+    "valor": "picazón"
+  },
+  {
+    "entidad": "Ribociclib",
+    "relacion": "efecto_secundario",
+    "valor": "aftas en la boca"
+  },
+  {
+    "entidad": "Ribociclib",
+    "relacion": "efecto_secundario",
+    "valor": "hinchazón de las manos, pies, tobillos o pantorrillas"
+  },
+  {
+    "entidad": "Ribociclib",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para conciliar el sueño o mantenerse dormido"
+  },
+  {
+    "entidad": "Ribociclib",
+    "relacion": "efecto_secundario",
+    "valor": "fiebre, dolor de garganta, escalofríos u otros síntomas de infección"
+  },
+  {
+    "entidad": "Ribociclib",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Ribociclib",
+    "relacion": "efecto_secundario",
+    "valor": "ampollas o descamación de la piel"
+  },
+  {
+    "entidad": "Ribociclib",
+    "relacion": "efecto_secundario",
+    "valor": "ardor o ampollas en los labios, ojos o boca"
+  },
+  {
+    "entidad": "Ribociclib",
+    "relacion": "efecto_secundario",
+    "valor": "ritmo cardíaco rápido, irregular o fuerte"
+  },
+  {
+    "entidad": "Ribociclib",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para respirar o falta de aliento"
+  },
+  {
+    "entidad": "Ribociclib",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Ribociclib",
+    "relacion": "efecto_secundario",
+    "valor": "desvanecimiento"
+  },
+  {
+    "entidad": "Ribociclib",
+    "relacion": "efecto_secundario",
+    "valor": "coloración amarillenta en la piel y los ojos"
+  },
+  {
+    "entidad": "Ribociclib",
+    "relacion": "efecto_secundario",
+    "valor": "orina oscura o café"
+  },
+  {
+    "entidad": "Ribociclib",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio"
+  },
+  {
+    "entidad": "Ribociclib",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de apetito"
+  },
+  {
+    "entidad": "Ribociclib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor en la parte derecha superior del estómago"
+  },
+  {
+    "entidad": "Ribociclib",
+    "relacion": "efecto_secundario",
+    "valor": "sangrado o moretones que se forman con más facilidad de lo normal"
+  },
+  {
+    "entidad": "Ribociclib",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original, cerrado herméticamente y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Ribociclib",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente y lejos del calor excesivo y la humedad"
+  },
+  {
+    "entidad": "Ribociclib",
+    "relacion": "sobredosis",
+    "valor": "llame a la línea de ayuda de control de envenenamiento al 1-800-222-1222"
+  },
+  {
+    "entidad": "Ribociclib",
+    "relacion": "marca_comercial",
+    "valor": "Kisqali"
+  },
+  {
+    "entidad": "Ribociclib",
+    "relacion": "otro_uso",
+    "valor": "otros usos bajo consulta médica"
+  },
+  {
+    "entidad": "Sapropterina",
+    "relacion": "trata",
+    "valor": "fenilcetonuria (PKU)"
+  },
+  {
+    "entidad": "Sapropterina",
+    "relacion": "uso",
+    "valor": "una vez al día, con alimentos"
+  },
+  {
+    "entidad": "Sapropterina",
+    "relacion": "se_administra_via",
+    "valor": "oral"
+  },
+  {
+    "entidad": "Sapropterina",
+    "relacion": "dieta",
+    "valor": "dieta baja en fenilalanina"
+  },
+  {
+    "entidad": "Sapropterina",
+    "relacion": "olvido",
+    "valor": "tome la dosis que omitió tan pronto como la recuerde"
+  },
+  {
+    "entidad": "Sapropterina",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Sapropterina",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Sapropterina",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Sapropterina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago"
+  },
+  {
+    "entidad": "Sapropterina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Sapropterina",
+    "relacion": "efecto_secundario",
+    "valor": "tos"
+  },
+  {
+    "entidad": "Sapropterina",
+    "relacion": "efecto_secundario",
+    "valor": "sibilancia"
+  },
+  {
+    "entidad": "Sapropterina",
+    "relacion": "almacenamiento",
+    "valor": "en su empaque original, bien cerrado, en un lugar fresco y seco"
+  },
+  {
+    "entidad": "Sapropterina",
+    "relacion": "sobredosis",
+    "valor": "llame a la línea de ayuda de control de envenenamiento al 1-800-222-1222"
+  },
+  {
+    "entidad": "Sapropterina",
+    "relacion": "marca_comercial",
+    "valor": "Kuvan ®"
+  },
+  {
+    "entidad": "Selumetinib",
+    "relacion": "trata",
+    "valor": "neurofibromatosis tipo 1 (NF1) en niños mayores de 2 años con neurofibromas plexiformes"
+  },
+  {
+    "entidad": "Selumetinib",
+    "relacion": "uso",
+    "valor": "cápsulas para tomar por vía oral, dos veces al día con el estómago vacío"
+  },
+  {
+    "entidad": "Selumetinib",
+    "relacion": "dieta",
+    "valor": "evitar comer toronja o tomar jugo de toronja"
+  },
+  {
+    "entidad": "Selumetinib",
+    "relacion": "olvido",
+    "valor": "tome la dosis que omitió tan pronto como lo recuerde, omita si es dentro de las 6 horas de la siguiente dosis"
+  },
+  {
+    "entidad": "Selumetinib",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Selumetinib",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Selumetinib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago"
+  },
+  {
+    "entidad": "Selumetinib",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Selumetinib",
+    "relacion": "efecto_secundario",
+    "valor": "piel seca"
+  },
+  {
+    "entidad": "Selumetinib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Selumetinib",
+    "relacion": "efecto_secundario",
+    "valor": "úlceras en la boca"
+  },
+  {
+    "entidad": "Selumetinib",
+    "relacion": "efecto_secundario",
+    "valor": "picazón"
+  },
+  {
+    "entidad": "Selumetinib",
+    "relacion": "efecto_secundario",
+    "valor": "enrojecimiento alrededor de las uñas"
+  },
+  {
+    "entidad": "Selumetinib",
+    "relacion": "efecto_secundario",
+    "valor": "sangrado de nariz"
+  },
+  {
+    "entidad": "Selumetinib",
+    "relacion": "efecto_secundario",
+    "valor": "fatiga"
+  },
+  {
+    "entidad": "Selumetinib",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de apetito"
+  },
+  {
+    "entidad": "Selumetinib",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de cabello o cambios en el color del cabello"
+  },
+  {
+    "entidad": "Selumetinib",
+    "relacion": "efecto_secundario",
+    "valor": "fiebre"
+  },
+  {
+    "entidad": "Selumetinib",
+    "relacion": "efecto_secundario",
+    "valor": "hemorragia inusual"
+  },
+  {
+    "entidad": "Selumetinib",
+    "relacion": "efecto_secundario",
+    "valor": "piel pálida y cansancio"
+  },
+  {
+    "entidad": "Selumetinib",
+    "relacion": "efecto_secundario",
+    "valor": "visión borrosa, pérdida de visión, manchas oscuras u otros cambios en la visión"
+  },
+  {
+    "entidad": "Selumetinib",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Selumetinib",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido, ampollas en la piel o piel que se pela"
+  },
+  {
+    "entidad": "Selumetinib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor muscular, dolores y debilidad u orina oscura"
+  },
+  {
+    "entidad": "Selumetinib",
+    "relacion": "efecto_secundario",
+    "valor": "tos o sibilancias, dificultad para respirar, hinchazón de tobillos y pies o cansancio extremo"
+  },
+  {
+    "entidad": "Selumetinib",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, bien cerrado, a temperatura ambiente, lejos del calor y la humedad"
+  },
+  {
+    "entidad": "Selumetinib",
+    "relacion": "sobredosis",
+    "valor": "llame a la línea de ayuda de control de envenenamiento al 1-800-222-1222"
+  },
+  {
+    "entidad": "Selumetinib",
+    "relacion": "marca_comercial",
+    "valor": "Koselugo ®"
+  },
+  {
+    "entidad": "Subsalicilato de Bismuto",
+    "relacion": "trata",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Subsalicilato de Bismuto",
+    "relacion": "trata",
+    "valor": "pirosis (acidez estomacal)"
+  },
+  {
+    "entidad": "Subsalicilato de Bismuto",
+    "relacion": "trata",
+    "valor": "malestar estomacal"
+  },
+  {
+    "entidad": "Subsalicilato de Bismuto",
+    "relacion": "uso",
+    "valor": "tomar por vía oral, con o sin alimentos"
+  },
+  {
+    "entidad": "Subsalicilato de Bismuto",
+    "relacion": "precaucion",
+    "valor": "informar si es alérgico a analgésicos de salicilato"
+  },
+  {
+    "entidad": "Subsalicilato de Bismuto",
+    "relacion": "precaucion",
+    "valor": "consultar al doctor si tiene úlceras o problemas de hemorragias"
+  },
+  {
+    "entidad": "Subsalicilato de Bismuto",
+    "relacion": "dieta",
+    "valor": "tomar abundante cantidad de agua u otras bebidas"
+  },
+  {
+    "entidad": "Subsalicilato de Bismuto",
+    "relacion": "olvido",
+    "valor": "tomar la dosis olvidada tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Subsalicilato de Bismuto",
+    "relacion": "efecto_secundario",
+    "valor": "pitidos o zumbidos en los oídos"
+  },
+  {
+    "entidad": "Subsalicilato de Bismuto",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase, bien cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Subsalicilato de Bismuto",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Subsalicilato de Bismuto",
+    "relacion": "marca_comercial",
+    "valor": "Kaopectate ® Anti-Diarrheal Caplets"
+  },
+  {
+    "entidad": "Subsalicilato de Bismuto",
+    "relacion": "marca_comercial",
+    "valor": "Kaopectate ® Liquid"
+  },
+  {
+    "entidad": "Subsalicilato de Bismuto",
+    "relacion": "marca_comercial",
+    "valor": "Kaopectate ® Extra Strength Liquid"
+  },
+  {
+    "entidad": "Subsalicilato de Bismuto",
+    "relacion": "marca_comercial",
+    "valor": "Pepto-Bismol ® Liquid"
+  },
+  {
+    "entidad": "Subsalicilato de Bismuto",
+    "relacion": "marca_comercial",
+    "valor": "Pepto-Bismol ® Chewable Tablets"
+  },
+  {
+    "entidad": "Subsalicilato de Bismuto",
+    "relacion": "marca_comercial",
+    "valor": "Pepto-Bismol ® Caplets"
+  },
+  {
+    "entidad": "Sulfonato sódico de poliestireno",
+    "relacion": "trata",
+    "valor": "hipercalemia"
+  },
+  {
+    "entidad": "Sulfonato sódico de poliestireno",
+    "relacion": "uso",
+    "valor": "suspensión y polvo oral para suspensión"
+  },
+  {
+    "entidad": "Sulfonato sódico de poliestireno",
+    "relacion": "se_administra_via",
+    "valor": "vía oral y recto como enema"
+  },
+  {
+    "entidad": "Sulfonato sódico de poliestireno",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos concurrentes"
+  },
+  {
+    "entidad": "Sulfonato sódico de poliestireno",
+    "relacion": "dieta",
+    "valor": "consultar sobre sustitutos de sal con potasio"
+  },
+  {
+    "entidad": "Sulfonato sódico de poliestireno",
+    "relacion": "olvido",
+    "valor": "tomar la dosis omitida tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Sulfonato sódico de poliestireno",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Sulfonato sódico de poliestireno",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Sulfonato sódico de poliestireno",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Sulfonato sódico de poliestireno",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de apetito"
+  },
+  {
+    "entidad": "Sulfonato sódico de poliestireno",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Sulfonato sódico de poliestireno",
+    "relacion": "efecto_secundario",
+    "valor": "convulsiones"
+  },
+  {
+    "entidad": "Sulfonato sódico de poliestireno",
+    "relacion": "efecto_secundario",
+    "valor": "hemorragia inusual"
+  },
+  {
+    "entidad": "Sulfonato sódico de poliestireno",
+    "relacion": "efecto_secundario",
+    "valor": "confusión"
+  },
+  {
+    "entidad": "Sulfonato sódico de poliestireno",
+    "relacion": "efecto_secundario",
+    "valor": "debilidad muscular"
+  },
+  {
+    "entidad": "Sulfonato sódico de poliestireno",
+    "relacion": "efecto_secundario",
+    "valor": "dolor abdominal"
+  },
+  {
+    "entidad": "Sulfonato sódico de poliestireno",
+    "relacion": "efecto_secundario",
+    "valor": "ritmo cardíaco rápido, fuerte o irregular"
+  },
+  {
+    "entidad": "Sulfonato sódico de poliestireno",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, cerrado y a temperatura ambiente"
+  },
+  {
+    "entidad": "Sulfonato sódico de poliestireno",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Sulfonato sódico de poliestireno",
+    "relacion": "marca_comercial",
+    "valor": "Kalexate ®"
+  },
+  {
+    "entidad": "Sulfonato sódico de poliestireno",
+    "relacion": "marca_comercial",
+    "valor": "Kayexalate ®"
+  },
+  {
+    "entidad": "Sulfonato sódico de poliestireno",
+    "relacion": "marca_comercial",
+    "valor": "Kionex ®"
+  },
+  {
+    "entidad": "Sulfonato sódico de poliestireno",
+    "relacion": "marca_comercial",
+    "valor": "SPS ®"
+  },
+  {
+    "entidad": "Tavaborol tópico",
+    "relacion": "trata",
+    "valor": "infecciones fúngicas de las uñas de los dedos de los pies"
+  },
+  {
+    "entidad": "Tavaborol tópico",
+    "relacion": "uso",
+    "valor": "aplicar una vez al día por 48 semanas"
+  },
+  {
+    "entidad": "Tavaborol tópico",
+    "relacion": "se_administra_via",
+    "valor": "solución tópica"
+  },
+  {
+    "entidad": "Tavaborol tópico",
+    "relacion": "otro_uso",
+    "valor": "consultar al médico o farmacéutico"
+  },
+  {
+    "entidad": "Tavaborol tópico",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos actuales"
+  },
+  {
+    "entidad": "Tavaborol tópico",
+    "relacion": "dieta",
+    "valor": "continuar con la dieta normal a menos que se indique lo contrario"
+  },
+  {
+    "entidad": "Tavaborol tópico",
+    "relacion": "olvido",
+    "valor": "aplicar la dosis omitida tan pronto como se recuerde"
+  },
+  {
+    "entidad": "Tavaborol tópico",
+    "relacion": "efecto_secundario",
+    "valor": "descamación, enrojecimiento, picazón o inflamación de la piel alrededor de las uñas"
+  },
+  {
+    "entidad": "Tavaborol tópico",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original, cerrado herméticamente y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Tavaborol tópico",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento o a los servicios de emergencia"
+  },
+  {
+    "entidad": "Tavaborol tópico",
+    "relacion": "marca_comercial",
+    "valor": "Kerydin ®"
+  },
+  {
+    "entidad": "Telitromicina",
+    "relacion": "contraindicado_en",
+    "valor": "miastenia gravis"
+  },
+  {
+    "entidad": "Telitromicina",
+    "relacion": "trata",
+    "valor": "ciertos tipos de neumonía"
+  },
+  {
+    "entidad": "Telitromicina",
+    "relacion": "uso",
+    "valor": "tomar por vía oral una vez al día por 7 a 10 días"
+  },
+  {
+    "entidad": "Telitromicina",
+    "relacion": "se_administra_via",
+    "valor": "oral"
+  },
+  {
+    "entidad": "Telitromicina",
+    "relacion": "olvido",
+    "valor": "tome la dosis que olvidó tan pronto como lo recuerde, o sáltese la dosis si es hora para la siguiente"
+  },
+  {
+    "entidad": "Telitromicina",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Telitromicina",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Telitromicina",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Telitromicina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Telitromicina",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Telitromicina",
+    "relacion": "efecto_secundario",
+    "valor": "desmayos"
+  },
+  {
+    "entidad": "Telitromicina",
+    "relacion": "efecto_secundario",
+    "valor": "frecuencia cardíaca más rápida que lo normal"
+  },
+  {
+    "entidad": "Telitromicina",
+    "relacion": "efecto_secundario",
+    "valor": "urticaria"
+  },
+  {
+    "entidad": "Telitromicina",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Telitromicina",
+    "relacion": "efecto_secundario",
+    "valor": "picazón"
+  },
+  {
+    "entidad": "Telitromicina",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para respirar o tragar"
+  },
+  {
+    "entidad": "Telitromicina",
+    "relacion": "efecto_secundario",
+    "valor": "inflamación de la cara, garganta, lengua, labios, ojos, manos, pies, tobillos o pantorrillas"
+  },
+  {
+    "entidad": "Telitromicina",
+    "relacion": "efecto_secundario",
+    "valor": "ronquera"
+  },
+  {
+    "entidad": "Telitromicina",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase, bien cerrado y fuera del alcance de los niños, a temperatura ambiente y lejos del calor excesivo y la humedad"
+  },
+  {
+    "entidad": "Telitromicina",
+    "relacion": "sobredosis",
+    "valor": "llame a la línea de ayuda de control de envenenamiento o a los servicios de emergencia"
+  },
+  {
+    "entidad": "Telitromicina",
+    "relacion": "marca_comercial",
+    "valor": "Ketek"
+  },
+  {
+    "entidad": "Tirbanibulina tópica",
+    "relacion": "trata",
+    "valor": "queratosis actínica"
+  },
+  {
+    "entidad": "Tirbanibulina tópica",
+    "relacion": "uso",
+    "valor": "aplicarse en la cara o el cuero cabelludo una vez al día durante 5 días"
+  },
+  {
+    "entidad": "Tirbanibulina tópica",
+    "relacion": "se_administra_via",
+    "valor": "ungüento"
+  },
+  {
+    "entidad": "Tirbanibulina tópica",
+    "relacion": "otro_uso",
+    "valor": "consultar al médico o farmacéutico"
+  },
+  {
+    "entidad": "Tirbanibulina tópica",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos"
+  },
+  {
+    "entidad": "Tirbanibulina tópica",
+    "relacion": "dieta",
+    "valor": "continuar con la dieta normal a menos que se indique lo contrario"
+  },
+  {
+    "entidad": "Tirbanibulina tópica",
+    "relacion": "olvido",
+    "valor": "aplicar la dosis omitida tan pronto como se recuerde"
+  },
+  {
+    "entidad": "Tirbanibulina tópica",
+    "relacion": "efecto_secundario",
+    "valor": "enrojecimiento, descamación, formación de costras, inflamación, dolor, picazón, ampollas"
+  },
+  {
+    "entidad": "Tirbanibulina tópica",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original, cerrado, a temperatura ambiente y lejos del calor y humedad"
+  },
+  {
+    "entidad": "Tirbanibulina tópica",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento o al 911"
+  },
+  {
+    "entidad": "Tirbanibulina tópica",
+    "relacion": "marca_comercial",
+    "valor": "Klisyri ®"
+  }
+]

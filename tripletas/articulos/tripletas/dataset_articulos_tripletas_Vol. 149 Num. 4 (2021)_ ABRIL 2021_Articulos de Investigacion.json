@@ -1,0 +1,792 @@
+[
+  {
+    "entidad": "sintomatología depresiva",
+    "relacion": "afecta a",
+    "valor": "hombres y mujeres"
+  },
+  {
+    "entidad": "factores socioeconómicos",
+    "relacion": "influye en",
+    "valor": "sintomatología depresiva"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "presentan",
+    "valor": "mayor prevalencia de sintomatología depresiva"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "presentan",
+    "valor": "menor prevalencia de sintomatología depresiva"
+  },
+  {
+    "entidad": "nivel educativo",
+    "relacion": "asocia con",
+    "valor": "sintomatología depresiva"
+  },
+  {
+    "entidad": "ingreso familiar",
+    "relacion": "asocia con",
+    "valor": "sintomatología depresiva"
+  },
+  {
+    "entidad": "apoyo social percibido",
+    "relacion": "influye en",
+    "valor": "sintomatología depresiva"
+  },
+  {
+    "entidad": "acontecimientos vitales estresantes",
+    "relacion": "aumenta",
+    "valor": "sintomatología depresiva"
+  },
+  {
+    "entidad": "mujeres de bajo nivel socioeconómico",
+    "relacion": "son",
+    "valor": "doblemente desfavorecidas"
+  },
+  {
+    "entidad": "educación básica",
+    "relacion": "asocia con",
+    "valor": "mayor riesgo de sintomatología depresiva"
+  },
+  {
+    "entidad": "trabajo remunerado",
+    "relacion": "es un",
+    "valor": "factor protector de salud mental"
+  },
+  {
+    "entidad": "no trabajar ni estudiar",
+    "relacion": "asocia con",
+    "valor": "mayor riesgo de sintomatología depresiva"
+  },
+  {
+    "entidad": "sintomatología depresiva",
+    "relacion": "aumenta con",
+    "valor": "la edad"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "reportan",
+    "valor": "mayor apoyo social percibido"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "reportan",
+    "valor": "mayor frecuencia de acontecimientos vitales estresantes"
+  },
+  {
+    "entidad": "sintomatología depresiva",
+    "relacion": "es mayor en",
+    "valor": "el primer cuartil de ingreso"
+  },
+  {
+    "entidad": "sintomatología depresiva",
+    "relacion": "disminuye con",
+    "valor": "mayor nivel educativo"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen",
+    "valor": "mayor probabilidad de presentar sintomatología depresiva"
+  },
+  {
+    "entidad": "bajo apoyo social",
+    "relacion": "asocia con",
+    "valor": "mayor riesgo de sintomatología depresiva"
+  },
+  {
+    "entidad": "menores ingresos",
+    "relacion": "asocia con",
+    "valor": "mayor riesgo de sintomatología depresiva"
+  },
+  {
+    "entidad": "Disección endoscópica submucosa (DES)",
+    "relacion": "es un",
+    "valor": "tratamiento para neoplasias incipientes del tubo digestivo"
+  },
+  {
+    "entidad": "neoplasias incipientes del tubo digestivo (NITD)",
+    "relacion": "son",
+    "valor": "lesiones tratables mediante resección endoscópica"
+  },
+  {
+    "entidad": "endoscopistas",
+    "relacion": "realizan",
+    "valor": "resecciones endoscópicas"
+  },
+  {
+    "entidad": "Complejo Asistencial Dr. Sótero del Río",
+    "relacion": "es un",
+    "valor": "centro donde se realizan DES"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "tiene",
+    "valor": "un departamento de cirugía digestiva"
+  },
+  {
+    "entidad": "endoscopía",
+    "relacion": "utiliza",
+    "valor": "tecnología avanzada para procedimientos"
+  },
+  {
+    "entidad": "resección en bloque",
+    "relacion": "permite",
+    "valor": "mejor análisis histológico"
+  },
+  {
+    "entidad": "morbidad y mortalidad",
+    "relacion": "se reduce con",
+    "valor": "la técnica de DES"
+  },
+  {
+    "entidad": "programas de tamizaje",
+    "relacion": "se instituyen para",
+    "valor": "detección precoz de tumores del tubo digestivo"
+  },
+  {
+    "entidad": "técnica de resección endoscópica mucosa (EMR)",
+    "relacion": "es un",
+    "valor": "método alternativo a la DES"
+  },
+  {
+    "entidad": "técnica de DES",
+    "relacion": "es comparada con",
+    "valor": "cirugía tradicional en términos de resultados"
+  },
+  {
+    "entidad": "sobrevida global",
+    "relacion": "alcanzó",
+    "valor": "90% en pacientes tratados"
+  },
+  {
+    "entidad": "sobrevida específica por cáncer",
+    "relacion": "alcanzó",
+    "valor": "100% en pacientes tratados"
+  },
+  {
+    "entidad": "sobrevida libre de recurrencia",
+    "relacion": "alcanzó",
+    "valor": "100% en pacientes tratados"
+  },
+  {
+    "entidad": "técnica de DES",
+    "relacion": "se considera",
+    "valor": "segura con buenos resultados oncológicos"
+  },
+  {
+    "entidad": "neoplasias malignas del tubo digestivo",
+    "relacion": "son responsables de",
+    "valor": "25% de la mortalidad anual por cáncer en Chile"
+  },
+  {
+    "entidad": "dilataciones endoscópicas",
+    "relacion": "se utilizan para",
+    "valor": "manejar estenosis esofágica post-operatoria"
+  },
+  {
+    "entidad": "histología pre-operatoria",
+    "relacion": "incluye",
+    "valor": "adenocarcinomas y lesiones con displasia de alto grado"
+  },
+  {
+    "entidad": "técnica de DES",
+    "relacion": "se desarrolló en",
+    "valor": "Japón"
+  },
+  {
+    "entidad": "técnica de DES",
+    "relacion": "se implementa en",
+    "valor": "el sistema de salud chileno"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "son dados de alta",
+    "valor": "regularmente a las 48 horas post-operatorias"
+  },
+  {
+    "entidad": "retinopatía diabética",
+    "relacion": "es una",
+    "valor": "complicación frecuente de la diabetes"
+  },
+  {
+    "entidad": "diabetes",
+    "relacion": "afecta a",
+    "valor": "más del 12% de la población adulta en Chile"
+  },
+  {
+    "entidad": "retinopatía diabética",
+    "relacion": "es una de las",
+    "valor": "primeras causas de discapacidad visual en personas en edad laboral"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "tiene",
+    "valor": "una alta prevalencia de diabetes"
+  },
+  {
+    "entidad": "Unidades de Atención Primaria Oftalmológica (UAPOs)",
+    "relacion": "son responsables de",
+    "valor": "realizar controles oftalmológicos de pacientes con diabetes"
+  },
+  {
+    "entidad": "tecnólogos médicos",
+    "relacion": "realizan",
+    "valor": "toma de fotografías digitales de retina"
+  },
+  {
+    "entidad": "DART",
+    "relacion": "es un",
+    "valor": "software de inteligencia artificial para clasificar fotografías retinales"
+  },
+  {
+    "entidad": "oftalmólogos",
+    "relacion": "evalúan",
+    "valor": "fotografías clasificadas por DART"
+  },
+  {
+    "entidad": "sistema público de salud chileno",
+    "relacion": "implementa",
+    "valor": "estrategias de tamizaje para retinopatía diabética"
+  },
+  {
+    "entidad": "sensibilidad de DART",
+    "relacion": "es",
+    "valor": "100%"
+  },
+  {
+    "entidad": "especificidad de DART",
+    "relacion": "es",
+    "valor": "55,4%"
+  },
+  {
+    "entidad": "sensibilidad de tecnólogos médicos",
+    "relacion": "es",
+    "valor": "97,1%"
+  },
+  {
+    "entidad": "especificidad de tecnólogos médicos",
+    "relacion": "es",
+    "valor": "91,7%"
+  },
+  {
+    "entidad": "estrategia DART",
+    "relacion": "reduce",
+    "valor": "la carga de oftalmólogos en el tamizaje"
+  },
+  {
+    "entidad": "estrategia de tamizaje en el SSMSO",
+    "relacion": "no depende de",
+    "valor": "oftalmólogos como tamizadores"
+  },
+  {
+    "entidad": "tecnólogos médicos en el HSR",
+    "relacion": "reciben",
+    "valor": "mayor entrenamiento que los de DART"
+  },
+  {
+    "entidad": "prevalencia de retinopatía diabética",
+    "relacion": "debe ser",
+    "valor": "monitoreada periódicamente"
+  },
+  {
+    "entidad": "programa de tamizaje",
+    "relacion": "debe garantizar",
+    "valor": "acceso universal al examen de tamizaje"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "establece",
+    "valor": "examen anual de fondo de ojo para pacientes diabéticos"
+  },
+  {
+    "entidad": "DART",
+    "relacion": "requiere",
+    "valor": "evaluación por oftalmólogos para casos alterados"
+  },
+  {
+    "entidad": "TAVI",
+    "relacion": "es un",
+    "valor": "tratamiento para estenosis aórtica severa"
+  },
+  {
+    "entidad": "estenosis aórtica severa",
+    "relacion": "afecta a",
+    "valor": "pacientes con alto riesgo quirúrgico"
+  },
+  {
+    "entidad": "sedación consciente",
+    "relacion": "utiliza",
+    "valor": "en el procedimiento TAVI"
+  },
+  {
+    "entidad": "Hospital Las Higueras",
+    "relacion": "realiza",
+    "valor": "implante de TAVI bajo sedación consciente"
+  },
+  {
+    "entidad": "Fentanilo",
+    "relacion": "es un",
+    "valor": "medicamento utilizado para sedación"
+  },
+  {
+    "entidad": "Midazolam",
+    "relacion": "es un",
+    "valor": "medicamento utilizado para sedación"
+  },
+  {
+    "entidad": "implante de TAVI",
+    "relacion": "logra",
+    "valor": "alta precoz en pacientes"
+  },
+  {
+    "entidad": "complicaciones",
+    "relacion": "son",
+    "valor": "bajas en TAVI bajo sedación consciente"
+  },
+  {
+    "entidad": "valvulopatía",
+    "relacion": "es un",
+    "valor": "problema cardíaco"
+  },
+  {
+    "entidad": "ecocardiograma",
+    "relacion": "se utiliza en",
+    "valor": "evaluación de candidatos para TAVI"
+  },
+  {
+    "entidad": "Heart Team",
+    "relacion": "incluye",
+    "valor": "cardiólogos y cirujanos cardíacos"
+  },
+  {
+    "entidad": "TAVI minimalista",
+    "relacion": "es un",
+    "valor": "enfoque para optimizar el procedimiento TAVI"
+  },
+  {
+    "entidad": "mortalidad a 30 días",
+    "relacion": "es evaluada en",
+    "valor": "pacientes tras TAVI"
+  },
+  {
+    "entidad": "hospitalización",
+    "relacion": "se reduce con",
+    "valor": "TAVI bajo sedación consciente"
+  },
+  {
+    "entidad": "protocolo de sedación consciente",
+    "relacion": "es clave para",
+    "valor": "resultados satisfactorios en TAVI"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "son",
+    "valor": "evaluados para el procedimiento TAVI"
+  },
+  {
+    "entidad": "disfunción de prótesis biológica",
+    "relacion": "es una",
+    "valor": "indicación para TAVI"
+  },
+  {
+    "entidad": "valvulas utilizadas",
+    "relacion": "incluyen",
+    "valor": "Edwards Sapien 3, Medtronic Evolut, Boston Acurate Neo, Meril Myval"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "causa",
+    "valor": "complicaciones neurológicas"
+  },
+  {
+    "entidad": "SARS-CoV-2",
+    "relacion": "afecta a",
+    "valor": "sistema nervioso central"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "son evaluados por",
+    "valor": "equipo de neurología"
+  },
+  {
+    "entidad": "Hospital Clínico UC-CHRISTUS",
+    "relacion": "realiza",
+    "valor": "evaluaciones neurológicas"
+  },
+  {
+    "entidad": "neurología hospitalaria",
+    "relacion": "investiga",
+    "valor": "complicaciones neurológicas en COVID-19"
+  },
+  {
+    "entidad": "delirium",
+    "relacion": "es un",
+    "valor": "diagnóstico neurológico frecuente"
+  },
+  {
+    "entidad": "accidente cerebrovascular",
+    "relacion": "es una",
+    "valor": "complicación neurológica asociada a COVID-19"
+  },
+  {
+    "entidad": "crisis epilépticas",
+    "relacion": "son",
+    "valor": "complicaciones neurológicas en pacientes con COVID-19"
+  },
+  {
+    "entidad": "mioneuropatía",
+    "relacion": "es un",
+    "valor": "trastorno neurológico en pacientes críticos"
+  },
+  {
+    "entidad": "Guillain-Barré",
+    "relacion": "es un",
+    "valor": "síndrome asociado a COVID-19"
+  },
+  {
+    "entidad": "neuroimágenes",
+    "relacion": "se utilizan para",
+    "valor": "diagnosticar complicaciones neurológicas"
+  },
+  {
+    "entidad": "pacientes críticos",
+    "relacion": "presentan",
+    "valor": "mayor riesgo de complicaciones neurológicas"
+  },
+  {
+    "entidad": "respuesta inflamatoria sistémica",
+    "relacion": "puede causar",
+    "valor": "trastornos neurológicos"
+  },
+  {
+    "entidad": "fisiopatología",
+    "relacion": "no es clara",
+    "valor": "en relación a COVID-19"
+  },
+  {
+    "entidad": "estudios prospectivos",
+    "relacion": "se esperan para",
+    "valor": "mejorar la comprensión de complicaciones neurológicas"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "es",
+    "valor": "la institución donde se realizó el estudio"
+  },
+  {
+    "entidad": "Comité de Ética Científico en Ciencias de la Salud",
+    "relacion": "aprueba",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "Reemplazo valvular aórtico",
+    "relacion": "es un",
+    "valor": "procedimiento quirúrgico"
+  },
+  {
+    "entidad": "Reemplazo valvular aórtico",
+    "relacion": "se realiza con",
+    "valor": "técnica mínimamente invasiva"
+  },
+  {
+    "entidad": "técnica mínimamente invasiva",
+    "relacion": "busca",
+    "valor": "reducir el impacto de la cirugía"
+  },
+  {
+    "entidad": "estrategia de recuperación acelerada",
+    "relacion": "optimiza",
+    "valor": "respuesta fisiológica a la cirugía"
+  },
+  {
+    "entidad": "Instituto Nacional del Tórax",
+    "relacion": "realiza",
+    "valor": "reemplazo valvular aórtico"
+  },
+  {
+    "entidad": "Clínica Santa María",
+    "relacion": "realiza",
+    "valor": "reemplazo valvular aórtico"
+  },
+  {
+    "entidad": "Escuela de Salud Pública, Universidad de Chile",
+    "relacion": "colabora con",
+    "valor": "estudio de reemplazo valvular aórtico"
+  },
+  {
+    "entidad": "Eduardo Turner",
+    "relacion": "es un",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "fibrilación auricular",
+    "relacion": "es una",
+    "valor": "complicación postoperatoria"
+  },
+  {
+    "entidad": "circulación extracorpórea",
+    "relacion": "se realiza en",
+    "valor": "normotermia"
+  },
+  {
+    "entidad": "anestesia",
+    "relacion": "es parte de",
+    "valor": "manejo en cirugía cardíaca"
+  },
+  {
+    "entidad": "ecocardiografía transesofágica",
+    "relacion": "se utiliza para",
+    "valor": "monitorizar el corazón durante la cirugía"
+  },
+  {
+    "entidad": "prótesis biológica",
+    "relacion": "se prefiere en",
+    "valor": "pacientes con raíz chica"
+  },
+  {
+    "entidad": "mortalidad postoperatoria",
+    "relacion": "es",
+    "valor": "0.9%"
+  },
+  {
+    "entidad": "pacientes extubados en pabellón",
+    "relacion": "son",
+    "valor": "27.7%"
+  },
+  {
+    "entidad": "índice de área de orificio efectivo (IAOE)",
+    "relacion": "se utiliza para evaluar",
+    "valor": "tamaño de prótesis"
+  },
+  {
+    "entidad": "fibrilación auricular postoperatoria",
+    "relacion": "afecta a",
+    "valor": "19.2% de los pacientes"
+  },
+  {
+    "entidad": "anemia y transfusiones",
+    "relacion": "son problemas en",
+    "valor": "manejo postoperatorio"
+  },
+  {
+    "entidad": "extubación en el pabellón",
+    "relacion": "debe ser",
+    "valor": "el patrón de oro actual"
+  },
+  {
+    "entidad": "estenosis aórtica severa",
+    "relacion": "es una",
+    "valor": "enfermedad"
+  },
+  {
+    "entidad": "implante valvular percutáneo",
+    "relacion": "es un",
+    "valor": "tratamiento"
+  },
+  {
+    "entidad": "TAVI",
+    "relacion": "es un",
+    "valor": "procedimiento"
+  },
+  {
+    "entidad": "Hospital Guillermo Grant Benavente",
+    "relacion": "es un",
+    "valor": "centro de tratamiento"
+  },
+  {
+    "entidad": "Universidad de Concepción",
+    "relacion": "es un",
+    "valor": "institución educativa"
+  },
+  {
+    "entidad": "pacientes de riesgo intermedio",
+    "relacion": "son tratados con",
+    "valor": "TAVI"
+  },
+  {
+    "entidad": "TAVI",
+    "relacion": "demuestra ser",
+    "valor": "superior al tratamiento médico"
+  },
+  {
+    "entidad": "TAVI",
+    "relacion": "tiene una tasa de",
+    "valor": "mortalidad similar a la cirugía"
+  },
+  {
+    "entidad": "TAVI",
+    "relacion": "se asocia a",
+    "valor": "menor incidencia de complicaciones neurológicas"
+  },
+  {
+    "entidad": "TAVI",
+    "relacion": "se asocia a",
+    "valor": "mayor tasa de complicaciones vasculares"
+  },
+  {
+    "entidad": "TAVI",
+    "relacion": "se asocia a",
+    "valor": "necesidad de marcapasos permanente"
+  },
+  {
+    "entidad": "TAVI",
+    "relacion": "se asocia a",
+    "valor": "regurgitación aórtica moderada o severa"
+  },
+  {
+    "entidad": "sobrevida a 30 días",
+    "relacion": "fue de",
+    "valor": "96,3%"
+  },
+  {
+    "entidad": "sobrevida a 2 años",
+    "relacion": "fue de",
+    "valor": "85%"
+  },
+  {
+    "entidad": "mortalidad cardiovascular",
+    "relacion": "fue de",
+    "valor": "5,9%"
+  },
+  {
+    "entidad": "ecocardiograma transtorácico",
+    "relacion": "se utiliza para",
+    "valor": "confirmar diagnóstico clínico"
+  },
+  {
+    "entidad": "marcapasos",
+    "relacion": "se requiere en",
+    "valor": "16% de los pacientes post TAVI"
+  },
+  {
+    "entidad": "TAVI",
+    "relacion": "es considerado",
+    "valor": "indicación clase I en recomendaciones"
+  },
+  {
+    "entidad": "TAVI",
+    "relacion": "es no inferior a",
+    "valor": "reemplazo valvular aórtico"
+  },
+  {
+    "entidad": "TAVI",
+    "relacion": "se realiza en",
+    "valor": "pacientes con estenosis aórtica severa sintomática"
+  },
+  {
+    "entidad": "Violencia contra la mujer",
+    "relacion": "es un",
+    "valor": "problema de salud pública"
+  },
+  {
+    "entidad": "Violencia contra la mujer",
+    "relacion": "es un",
+    "valor": "violación de derechos humanos"
+  },
+  {
+    "entidad": "gestación",
+    "relacion": "es un",
+    "valor": "período crítico para la violencia"
+  },
+  {
+    "entidad": "postparto",
+    "relacion": "es un",
+    "valor": "período crítico para la violencia"
+  },
+  {
+    "entidad": "Woman Abuse Screening Tool (WAST)",
+    "relacion": "es un",
+    "valor": "instrumento para detección de violencia"
+  },
+  {
+    "entidad": "Centros de Atención Primaria",
+    "relacion": "son",
+    "valor": "lugares de atención para mujeres"
+  },
+  {
+    "entidad": "mujeres inmigrantes",
+    "relacion": "tienen mayor riesgo de",
+    "valor": "violencia de pareja"
+  },
+  {
+    "entidad": "historia de violencia doméstica",
+    "relacion": "aumenta el riesgo de",
+    "valor": "violencia durante la gestación"
+  },
+  {
+    "entidad": "falta de apoyo de la pareja",
+    "relacion": "aumenta el riesgo de",
+    "valor": "violencia durante la gestación"
+  },
+  {
+    "entidad": "consumo de alcohol por parte de la pareja",
+    "relacion": "aumenta el riesgo de",
+    "valor": "violencia durante la gestación"
+  },
+  {
+    "entidad": "violencia durante la gestación",
+    "relacion": "tiene consecuencias",
+    "valor": "estrés psicológico"
+  },
+  {
+    "entidad": "violencia durante la gestación",
+    "relacion": "tiene consecuencias",
+    "valor": "baja asistencia a control prenatal"
+  },
+  {
+    "entidad": "violencia durante la gestación",
+    "relacion": "tiene consecuencias",
+    "valor": "mayor riesgo de pre-eclampsia"
+  },
+  {
+    "entidad": "violencia durante la gestación",
+    "relacion": "tiene consecuencias",
+    "valor": "abortos espontáneos"
+  },
+  {
+    "entidad": "violencia durante la gestación",
+    "relacion": "tiene consecuencias",
+    "valor": "parto prematuro"
+  },
+  {
+    "entidad": "hijos de madres víctimas de violencia",
+    "relacion": "tienen mayor riesgo de",
+    "valor": "menor adhesión a controles de salud"
+  },
+  {
+    "entidad": "violencia es transgeneracional",
+    "relacion": "indica que",
+    "valor": "el observar violencia en padres está relacionado con padecer violencia en el futuro"
+  },
+  {
+    "entidad": "programa Chile Crece Contigo",
+    "relacion": "incluye",
+    "valor": "detección de factores de riesgo gestacionales"
+  },
+  {
+    "entidad": "atención prenatal y postnatal",
+    "relacion": "pueden ser",
+    "valor": "oportunidades para detectar violencia"
+  },
+  {
+    "entidad": "centros de salud",
+    "relacion": "deben tener",
+    "valor": "protocolos de intervención para víctimas de violencia"
+  },
+  {
+    "entidad": "apoyo familiar y de pareja",
+    "relacion": "disminuye",
+    "valor": "probabilidad de violencia durante el embarazo"
+  },
+  {
+    "entidad": "consumo de alcohol",
+    "relacion": "aumenta",
+    "valor": "incidencia de violencia de pareja"
+  },
+  {
+    "entidad": "mujeres víctimas de violencia",
+    "relacion": "pueden recibir",
+    "valor": "atención con trabajadora social y/o psicólogo"
+  }
+]

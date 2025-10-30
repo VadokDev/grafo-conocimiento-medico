@@ -1,0 +1,377 @@
+[
+  {
+    "entidad": "Mielografía",
+    "relacion": "diagnostica",
+    "valor": "hernia de disco"
+  },
+  {
+    "entidad": "Mielografía",
+    "relacion": "diagnostica",
+    "valor": "tumores"
+  },
+  {
+    "entidad": "Mielografía",
+    "relacion": "diagnostica",
+    "valor": "estenosis espinal"
+  },
+  {
+    "entidad": "Mielografía",
+    "relacion": "diagnostica",
+    "valor": "infecciones de las membranas y tejidos de la médula espinal"
+  },
+  {
+    "entidad": "Mielografía",
+    "relacion": "diagnostica",
+    "valor": "aracnoiditis"
+  },
+  {
+    "entidad": "Mielografía",
+    "relacion": "alivia",
+    "valor": "dolor de espalda"
+  },
+  {
+    "entidad": "Mielografía",
+    "relacion": "alivia",
+    "valor": "dolor de cuello"
+  },
+  {
+    "entidad": "Mielografía",
+    "relacion": "alivia",
+    "valor": "dolor de pierna"
+  },
+  {
+    "entidad": "Mielografía",
+    "relacion": "alivia",
+    "valor": "sensación de hormigueo"
+  },
+  {
+    "entidad": "Mielografía",
+    "relacion": "alivia",
+    "valor": "debilidad"
+  },
+  {
+    "entidad": "Mielografía",
+    "relacion": "requiere_muestra_de",
+    "valor": "líquido cefalorraquídeo"
+  },
+  {
+    "entidad": "Mielografía",
+    "relacion": "tiene_duracion",
+    "valor": "cerca de una hora"
+  },
+  {
+    "entidad": "Mielografía",
+    "relacion": "tiene_riesgo",
+    "valor": "reacción alérgica al colorante de contraste"
+  },
+  {
+    "entidad": "Mielografía",
+    "relacion": "tiene_riesgo",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Mielografía",
+    "relacion": "tiene_riesgo",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Mielografía",
+    "relacion": "tiene_riesgo",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Mielografía",
+    "relacion": "tiene_riesgo",
+    "valor": "convulsiones"
+  },
+  {
+    "entidad": "Mielografía",
+    "relacion": "tiene_riesgo",
+    "valor": "infección"
+  },
+  {
+    "entidad": "Mielografía",
+    "relacion": "tiene_riesgo",
+    "valor": "obstrucción del conducto raquídeo"
+  },
+  {
+    "entidad": "Mielografía",
+    "relacion": "utiliza_equipo",
+    "valor": "fluoroscopia"
+  },
+  {
+    "entidad": "Mielografía",
+    "relacion": "utiliza_equipo",
+    "valor": "tomografía computarizada"
+  },
+  {
+    "entidad": "Mielografía",
+    "relacion": "se_realiza_en",
+    "valor": "centro de radiología"
+  },
+  {
+    "entidad": "Mielografía",
+    "relacion": "se_realiza_en",
+    "valor": "departamento de radiología de un hospital"
+  },
+  {
+    "entidad": "Mielografía",
+    "relacion": "es_tipo_de",
+    "valor": "prueba de diagnóstico por imagen"
+  },
+  {
+    "entidad": "Mielografía",
+    "relacion": "indicado_si_tiene",
+    "valor": "nuevo dolor o debilidad en la espalda después de una cirugía reciente"
+  },
+  {
+    "entidad": "Mielografía",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "problemas en la columna vertebral"
+  },
+  {
+    "entidad": "Muestra de vellosidades coriónicas",
+    "relacion": "analiza",
+    "valor": "células de las vellosidades coriónicas"
+  },
+  {
+    "entidad": "Muestra de vellosidades coriónicas",
+    "relacion": "diagnostica",
+    "valor": "síndrome de Down"
+  },
+  {
+    "entidad": "Muestra de vellosidades coriónicas",
+    "relacion": "diagnostica",
+    "valor": "fibrosis quística"
+  },
+  {
+    "entidad": "Muestra de vellosidades coriónicas",
+    "relacion": "diagnostica",
+    "valor": "enfermedad de células falciformes"
+  },
+  {
+    "entidad": "Muestra de vellosidades coriónicas",
+    "relacion": "diagnostica",
+    "valor": "enfermedad de Tay-Sachs"
+  },
+  {
+    "entidad": "Muestra de vellosidades coriónicas",
+    "relacion": "diagnostica",
+    "valor": "trisomía 18"
+  },
+  {
+    "entidad": "Muestra de vellosidades coriónicas",
+    "relacion": "requiere_muestra_de",
+    "valor": "tejido de la placenta"
+  },
+  {
+    "entidad": "Muestra de vellosidades coriónicas",
+    "relacion": "tiene_duracion",
+    "valor": "30 a 45 minutos"
+  },
+  {
+    "entidad": "Muestra de vellosidades coriónicas",
+    "relacion": "tiene_riesgo",
+    "valor": "aborto espontáneo"
+  },
+  {
+    "entidad": "Muestra de vellosidades coriónicas",
+    "relacion": "tiene_riesgo",
+    "valor": "infección"
+  },
+  {
+    "entidad": "Muestra de vellosidades coriónicas",
+    "relacion": "tiene_riesgo",
+    "valor": "sangrado"
+  },
+  {
+    "entidad": "Muestra de vellosidades coriónicas",
+    "relacion": "tiene_riesgo",
+    "valor": "sensibilización al Rh"
+  },
+  {
+    "entidad": "Muestra de vellosidades coriónicas",
+    "relacion": "tiene_riesgo",
+    "valor": "defectos en las extremidades del bebé"
+  },
+  {
+    "entidad": "Muestra de vellosidades coriónicas",
+    "relacion": "es_tipo_de",
+    "valor": "prueba diagnóstica prenatal"
+  },
+  {
+    "entidad": "Muestra de vellosidades coriónicas",
+    "relacion": "util_para",
+    "valor": "diagnosticar problemas cromosómicos"
+  },
+  {
+    "entidad": "Muestra de vellosidades coriónicas",
+    "relacion": "indicado_si_tiene",
+    "valor": "riesgo mayor de trastorno cromosómico"
+  },
+  {
+    "entidad": "Muestra de vellosidades coriónicas",
+    "relacion": "realizado_por",
+    "valor": "profesional de la salud"
+  },
+  {
+    "entidad": "Muestra de vellosidades coriónicas",
+    "relacion": "se_realiza_en",
+    "valor": "consultorio médico o clínica"
+  },
+  {
+    "entidad": "Monitorización de fármacos",
+    "relacion": "mide",
+    "valor": "cantidad de ciertos medicamentos en la sangre"
+  },
+  {
+    "entidad": "Monitorización de fármacos",
+    "relacion": "util_para",
+    "valor": "determinar las mejores dosis de medicamentos difíciles de dosificar"
+  },
+  {
+    "entidad": "Monitorización de fármacos",
+    "relacion": "requiere_muestra_de",
+    "valor": "sangre de una vena del brazo"
+  },
+  {
+    "entidad": "Monitorización de fármacos",
+    "relacion": "tiene_duracion",
+    "valor": "menos de 5 minutos"
+  },
+  {
+    "entidad": "Monitorización de fármacos",
+    "relacion": "tiene_riesgo",
+    "valor": "dolor leve o moretón en el lugar de la punción"
+  },
+  {
+    "entidad": "Monitorización de fármacos",
+    "relacion": "indicado_si_tiene",
+    "valor": "síntomas de un efecto secundario grave"
+  },
+  {
+    "entidad": "Monitorización de fármacos",
+    "relacion": "es_tipo_de",
+    "valor": "análisis de sangre"
+  },
+  {
+    "entidad": "Monitorización de fármacos",
+    "relacion": "ayuda_diagnosticar",
+    "valor": "eficacia del medicamento sin causar toxicidad"
+  },
+  {
+    "entidad": "Marcadores tumorales",
+    "relacion": "analiza",
+    "valor": "sustancias producidas por células cancerosas o en respuesta al cáncer"
+  },
+  {
+    "entidad": "Marcadores tumorales",
+    "relacion": "requiere_muestra_de",
+    "valor": "sangre, orina o tejido de un tumor"
+  },
+  {
+    "entidad": "Marcadores tumorales",
+    "relacion": "diagnostica",
+    "valor": "cáncer"
+  },
+  {
+    "entidad": "Marcadores tumorales",
+    "relacion": "indicado_si_tiene",
+    "valor": "diagnóstico de cáncer"
+  },
+  {
+    "entidad": "Marcadores tumorales",
+    "relacion": "util_para",
+    "valor": "evaluar el tratamiento del cáncer"
+  },
+  {
+    "entidad": "Marcadores tumorales",
+    "relacion": "detecta",
+    "valor": "presencia de células cancerosas"
+  },
+  {
+    "entidad": "Marcadores tumorales",
+    "relacion": "es_tipo_de",
+    "valor": "prueba de laboratorio"
+  },
+  {
+    "entidad": "Marcadores tumorales",
+    "relacion": "ayuda_diagnosticar",
+    "valor": "cáncer de próstata"
+  },
+  {
+    "entidad": "Marcadores tumorales",
+    "relacion": "ayuda_diagnosticar",
+    "valor": "cáncer de hígado"
+  },
+  {
+    "entidad": "Marcadores tumorales",
+    "relacion": "tiene_duracion",
+    "valor": "menos de cinco minutos para análisis de sangre"
+  },
+  {
+    "entidad": "Marcadores tumorales",
+    "relacion": "tiene_riesgo",
+    "valor": "dolor leve o moretón en el lugar de la punción"
+  },
+  {
+    "entidad": "Marcadores tumorales",
+    "relacion": "realizado_por",
+    "valor": "profesional de la salud"
+  },
+  {
+    "entidad": "Medición de la presión arterial",
+    "relacion": "mide",
+    "valor": "fuerza de la sangre sobre las arterias"
+  },
+  {
+    "entidad": "Medición de la presión arterial",
+    "relacion": "diagnostica",
+    "valor": "hipertensión"
+  },
+  {
+    "entidad": "Medición de la presión arterial",
+    "relacion": "indicado_si_tiene",
+    "valor": "presión arterial alta"
+  },
+  {
+    "entidad": "Medición de la presión arterial",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Medición de la presión arterial",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Medición de la presión arterial",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "desmayo"
+  },
+  {
+    "entidad": "Medición de la presión arterial",
+    "relacion": "tiene_duracion",
+    "valor": "aproximadamente un minuto"
+  },
+  {
+    "entidad": "Medición de la presión arterial",
+    "relacion": "tiene_riesgo",
+    "valor": "pequeña molestia al inflar el manguito"
+  },
+  {
+    "entidad": "Medición de la presión arterial",
+    "relacion": "realizado_por",
+    "valor": "profesional de la salud"
+  },
+  {
+    "entidad": "Medición de la presión arterial",
+    "relacion": "se_realiza_en",
+    "valor": "consultorio médico"
+  },
+  {
+    "entidad": "Medición de la presión arterial",
+    "relacion": "pertenece_a_categoria",
+    "valor": "prueba de laboratorio"
+  }
+]

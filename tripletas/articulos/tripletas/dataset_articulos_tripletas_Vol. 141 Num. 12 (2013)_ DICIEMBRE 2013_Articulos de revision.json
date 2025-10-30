@@ -1,0 +1,207 @@
+[
+  {
+    "entidad": "cáncer gástrico",
+    "relacion": "es la",
+    "valor": "primera causa de muerte por cáncer en Chile"
+  },
+  {
+    "entidad": "epigenética",
+    "relacion": "estudia",
+    "valor": "cambios reversibles en el genoma"
+  },
+  {
+    "entidad": "metilación del ADN",
+    "relacion": "juega un papel importante en",
+    "valor": "regulación de la expresión de genes"
+  },
+  {
+    "entidad": "Reprimo",
+    "relacion": "es un",
+    "valor": "potencial biomarcador no invasivo para detección de cáncer gástrico"
+  },
+  {
+    "entidad": "p73",
+    "relacion": "es un",
+    "valor": "biomarcador para evaluar riesgo de lesiones precursoras"
+  },
+  {
+    "entidad": "APC",
+    "relacion": "está asociado a",
+    "valor": "mal pronóstico en cáncer gástrico"
+  },
+  {
+    "entidad": "BRCA1",
+    "relacion": "está asociado a",
+    "valor": "aparición temprana de cáncer gástrico"
+  },
+  {
+    "entidad": "hMLH1",
+    "relacion": "es inactivado por",
+    "valor": "metilación del ADN en cáncer gástrico"
+  },
+  {
+    "entidad": "hMSH2",
+    "relacion": "es inactivado por",
+    "valor": "metilación del ADN en cáncer gástrico"
+  },
+  {
+    "entidad": "hipermetilación",
+    "relacion": "es un mecanismo de",
+    "valor": "inactivación de genes supresores de tumores"
+  },
+  {
+    "entidad": "hipometilación",
+    "relacion": "es un mecanismo de",
+    "valor": "activación de oncogenes en cáncer gástrico"
+  },
+  {
+    "entidad": "Fondecyt",
+    "relacion": "es una",
+    "valor": "fuente de apoyo financiero"
+  },
+  {
+    "entidad": "Centro UC de Investigación en Oncología",
+    "relacion": "pertenece a",
+    "valor": "Pontificia Universidad Católica de Chile"
+  },
+  {
+    "entidad": "cáncer gástrico difuso",
+    "relacion": "se caracteriza por",
+    "valor": "no formar estructuras histológicas"
+  },
+  {
+    "entidad": "gastritis crónica",
+    "relacion": "es una",
+    "valor": "lesión precursora de cáncer gástrico"
+  },
+  {
+    "entidad": "metaplasia intestinal",
+    "relacion": "es una",
+    "valor": "lesión precursora de cáncer gástrico"
+  },
+  {
+    "entidad": "Correa",
+    "relacion": "postuló",
+    "valor": "modelo humano de cáncer gástrico"
+  },
+  {
+    "entidad": "5-Azacytidina",
+    "relacion": "es un",
+    "valor": "tratamiento desmetilante"
+  },
+  {
+    "entidad": "muestras clínicas",
+    "relacion": "pueden ser utilizadas para",
+    "valor": "detección de metilación del ADN"
+  },
+  {
+    "entidad": "insuficiencia cardiaca",
+    "relacion": "es un",
+    "valor": "condición prevalente"
+  },
+  {
+    "entidad": "biomarcadores",
+    "relacion": "utiliza",
+    "valor": "diagnóstico en insuficiencia cardiaca"
+  },
+  {
+    "entidad": "péptidos natriuréticos",
+    "relacion": "demuestra",
+    "valor": "utilidad clínica"
+  },
+  {
+    "entidad": "Brain natriuretic peptide",
+    "relacion": "destaca",
+    "valor": "valor diagnóstico y pronóstico"
+  },
+  {
+    "entidad": "biomarcadores",
+    "relacion": "proporciona",
+    "valor": "estratificación de riesgo"
+  },
+  {
+    "entidad": "biomarcadores",
+    "relacion": "refleja",
+    "valor": "fisiopatología de la insuficiencia cardiaca"
+  },
+  {
+    "entidad": "endotelina",
+    "relacion": "contribuye a",
+    "valor": "regulación de la función miocárdica"
+  },
+  {
+    "entidad": "vasopresina",
+    "relacion": "liberada por",
+    "valor": "neurohipófisis"
+  },
+  {
+    "entidad": "adrenomedulina",
+    "relacion": "posee",
+    "valor": "efecto vasodilatador"
+  },
+  {
+    "entidad": "Proteína C reactiva",
+    "relacion": "es un",
+    "valor": "reactante de fase aguda"
+  },
+  {
+    "entidad": "Factor de necrosis tumoral alfa",
+    "relacion": "es una",
+    "valor": "citoquina proinflamatoria"
+  },
+  {
+    "entidad": "ST-2",
+    "relacion": "es un",
+    "valor": "miembro de la familia de receptores IL-1"
+  },
+  {
+    "entidad": "Fas (Apo-1)",
+    "relacion": "media",
+    "valor": "apoptosis celular"
+  },
+  {
+    "entidad": "troponinas",
+    "relacion": "son",
+    "valor": "marcadores de injuria miocitaria"
+  },
+  {
+    "entidad": "ácido úrico",
+    "relacion": "correlaciona con",
+    "valor": "deterioro hemodinámico"
+  },
+  {
+    "entidad": "procolágeno III",
+    "relacion": "es un",
+    "valor": "predictor independiente de mal pronóstico"
+  },
+  {
+    "entidad": "espironolactona",
+    "relacion": "reduce",
+    "valor": "mortalidad en insuficiencia cardiaca"
+  },
+  {
+    "entidad": "eplerenona",
+    "relacion": "reduce",
+    "valor": "hospitalización por causa cardiovascular"
+  },
+  {
+    "entidad": "biomarcadores",
+    "relacion": "mejoran",
+    "valor": "estratificación de riesgo"
+  },
+  {
+    "entidad": "NT-proBNP",
+    "relacion": "es un",
+    "valor": "biomarcador utilizado para monitorizar tratamiento"
+  },
+  {
+    "entidad": "copeptina",
+    "relacion": "es un",
+    "valor": "predictor de mortalidad"
+  },
+  {
+    "entidad": "biomarcadores",
+    "relacion": "facilitan",
+    "valor": "guía en manejo terapéutico"
+  }
+]

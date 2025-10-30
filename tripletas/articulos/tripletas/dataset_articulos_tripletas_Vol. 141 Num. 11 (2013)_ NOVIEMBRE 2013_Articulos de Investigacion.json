@@ -1,0 +1,932 @@
+[
+  {
+    "entidad": "Cáncer medular de tiroides",
+    "relacion": "representa",
+    "valor": "aproximadamente 5% de todos los cánceres tiroideos"
+  },
+  {
+    "entidad": "Cáncer medular de tiroides",
+    "relacion": "es tratado con",
+    "valor": "cirugía"
+  },
+  {
+    "entidad": "cirugía",
+    "relacion": "incluye",
+    "valor": "tiroidectomía total"
+  },
+  {
+    "entidad": "tiroidectomía total",
+    "relacion": "es",
+    "valor": "el tratamiento curativo"
+  },
+  {
+    "entidad": "Cáncer medular de tiroides",
+    "relacion": "se presenta como",
+    "valor": "nódulo tiroideo"
+  },
+  {
+    "entidad": "Cáncer medular de tiroides",
+    "relacion": "tiene origen en",
+    "valor": "células C parafoliculares"
+  },
+  {
+    "entidad": "Cáncer medular de tiroides",
+    "relacion": "se presenta como",
+    "valor": "trastorno de herencia autosómica dominante en 20% de los casos"
+  },
+  {
+    "entidad": "Cáncer medular de tiroides",
+    "relacion": "asociado a",
+    "valor": "mutaciones del proto-oncogen RET"
+  },
+  {
+    "entidad": "diagnóstico de Cáncer medular de tiroides",
+    "relacion": "se basa en",
+    "valor": "citología"
+  },
+  {
+    "entidad": "metástasis a linfonodos regionales",
+    "relacion": "es habitual en",
+    "valor": "45% de los pacientes al momento del diagnóstico"
+  },
+  {
+    "entidad": "extensión del tumor primario",
+    "relacion": "es un factor",
+    "valor": "predictores de resultado adverso"
+  },
+  {
+    "entidad": "cirugía",
+    "relacion": "es",
+    "valor": "el único tratamiento curativo"
+  },
+  {
+    "entidad": "Cáncer medular de tiroides",
+    "relacion": "se presenta como",
+    "valor": "tumor esporádico en 80% de los casos"
+  },
+  {
+    "entidad": "Cáncer medular de tiroides",
+    "relacion": "se presenta como",
+    "valor": "parte del síndrome de neoplasia endocrina múltiple tipo 2"
+  },
+  {
+    "entidad": "calcitonina sérica",
+    "relacion": "es utilizada para",
+    "valor": "diagnóstico"
+  },
+  {
+    "entidad": "recidiva",
+    "relacion": "es",
+    "valor": "paciente con remisión total y aparición de enfermedad detectable"
+  },
+  {
+    "entidad": "Cáncer medular de tiroides",
+    "relacion": "se asocia a",
+    "valor": "bajas tasas de mortalidad en diagnóstico temprano"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "es",
+    "valor": "una institución donde se realizó el estudio"
+  },
+  {
+    "entidad": "vandetanib",
+    "relacion": "es",
+    "valor": "un tratamiento para CMT avanzado"
+  },
+  {
+    "entidad": "Cáncer medular de tiroides",
+    "relacion": "se presenta en",
+    "valor": "etapas tempranas en un alto porcentaje de pacientes"
+  },
+  {
+    "entidad": "trauma",
+    "relacion": "es",
+    "valor": "una causa importante de muerte entre jóvenes adultos"
+  },
+  {
+    "entidad": "pacientes traumatizados",
+    "relacion": "ingresan a",
+    "valor": "UCI de un hospital general en Chile"
+  },
+  {
+    "entidad": "UCI",
+    "relacion": "pertenece a",
+    "valor": "Complejo Asistencial Dr. Sótero del Río"
+  },
+  {
+    "entidad": "Complejo Asistencial Dr. Sótero del Río",
+    "relacion": "se encuentra en",
+    "valor": "Santiago, Chile"
+  },
+  {
+    "entidad": "politrauma (PT)",
+    "relacion": "es un tipo de",
+    "valor": "lesión en 2 o más sistemas con riesgo vital"
+  },
+  {
+    "entidad": "traumatizados graves (TG)",
+    "relacion": "es un tipo de",
+    "valor": "lesión en 1 sistema con riesgo vital"
+  },
+  {
+    "entidad": "TBI (Trauma Brain Injury)",
+    "relacion": "es",
+    "valor": "el tipo de trauma más común"
+  },
+  {
+    "entidad": "APACHE II",
+    "relacion": "es",
+    "valor": "un puntaje de gravedad"
+  },
+  {
+    "entidad": "ISS (Injury Severity Score)",
+    "relacion": "es",
+    "valor": "un puntaje de gravedad"
+  },
+  {
+    "entidad": "cirugía",
+    "relacion": "es requerida por",
+    "valor": "67% de los pacientes"
+  },
+  {
+    "entidad": "transfusiones sanguíneas",
+    "relacion": "son recibidas por",
+    "valor": "58% de los pacientes"
+  },
+  {
+    "entidad": "mortalidad en UCI",
+    "relacion": "es",
+    "valor": "15%"
+  },
+  {
+    "entidad": "mortalidad hospitalaria",
+    "relacion": "es",
+    "valor": "25%"
+  },
+  {
+    "entidad": "rabdomiolisis",
+    "relacion": "es",
+    "valor": "la complicación más frecuente"
+  },
+  {
+    "entidad": "neumonía aspirativa",
+    "relacion": "es",
+    "valor": "la infección más frecuente"
+  },
+  {
+    "entidad": "manejo protocolizado",
+    "relacion": "puede disminuir",
+    "valor": "mortalidad asociada al trauma"
+  },
+  {
+    "entidad": "sistemas de rescate",
+    "relacion": "son importantes para",
+    "valor": "disminuir mortalidad en trauma"
+  },
+  {
+    "entidad": "Comité de Ética de Servicio de Salud Metropolitano Sur Oriente",
+    "relacion": "aprueba",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "nutrición enteral",
+    "relacion": "es el tipo más frecuentemente aportado",
+    "valor": "a los pacientes"
+  },
+  {
+    "entidad": "disfunción orgánica múltiple-sepsis",
+    "relacion": "es",
+    "valor": "una de las principales causas de muerte"
+  },
+  {
+    "entidad": "Costeo basado en actividades",
+    "relacion": "es",
+    "valor": "una metodología de gestión"
+  },
+  {
+    "entidad": "tratamientos intensivos",
+    "relacion": "se aplica en",
+    "valor": "unidades de cuidados intensivos"
+  },
+  {
+    "entidad": "recursos",
+    "relacion": "son utilizados por",
+    "valor": "pacientes en cuidados intensivos"
+  },
+  {
+    "entidad": "hospitales públicos de Talca y Curicó",
+    "relacion": "son",
+    "valor": "los lugares de estudio"
+  },
+  {
+    "entidad": "metodología de costeo",
+    "relacion": "permite",
+    "valor": "medir costos financieros"
+  },
+  {
+    "entidad": "costos de actividades",
+    "relacion": "incluyen",
+    "valor": "recursos humanos y costos indirectos"
+  },
+  {
+    "entidad": "costos asociados a procedimientos y tratamientos",
+    "relacion": "son",
+    "valor": "los más significativos"
+  },
+  {
+    "entidad": "costeo basado en actividades",
+    "relacion": "facilita",
+    "valor": "la identificación de actividades que no agregan valor"
+  },
+  {
+    "entidad": "Fondo nacional de investigación en salud (Fonis)",
+    "relacion": "financia",
+    "valor": "el proyecto de investigación"
+  },
+  {
+    "entidad": "UCI Hospital de Talca",
+    "relacion": "tiene",
+    "valor": "8 camas"
+  },
+  {
+    "entidad": "UCI Hospital de Curicó",
+    "relacion": "tiene",
+    "valor": "10 camas"
+  },
+  {
+    "entidad": "costos directos",
+    "relacion": "se refieren a",
+    "valor": "medios o factores consumidos en el proceso"
+  },
+  {
+    "entidad": "costos indirectos",
+    "relacion": "incluyen",
+    "valor": "consumo de factores de producción"
+  },
+  {
+    "entidad": "ABC",
+    "relacion": "permite",
+    "valor": "establecer relación causa-efecto entre actividades"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "son clasificados según",
+    "valor": "patologías como sepsis, cardiovascular, respiratorias"
+  },
+  {
+    "entidad": "costos de actividades",
+    "relacion": "son",
+    "valor": "diferentes entre hospitales"
+  },
+  {
+    "entidad": "métodos de costeo",
+    "relacion": "deben ser incorporados en",
+    "valor": "la gestión de servicios clínicos"
+  },
+  {
+    "entidad": "personal de salud",
+    "relacion": "realiza",
+    "valor": "actividades de coordinación y procedimientos"
+  },
+  {
+    "entidad": "costos de procedimientos y terapia del paciente",
+    "relacion": "son",
+    "valor": "los más relevantes en términos monetarios"
+  },
+  {
+    "entidad": "coordinación",
+    "relacion": "es una actividad",
+    "valor": "realizada por médicos y enfermeras"
+  },
+  {
+    "entidad": "metodología aplicada",
+    "relacion": "clasifica",
+    "valor": "costos en directos e indirectos"
+  },
+  {
+    "entidad": "ejercicio aeróbico",
+    "relacion": "afecta a",
+    "valor": "presión arterial"
+  },
+  {
+    "entidad": "niños",
+    "relacion": "participan en",
+    "valor": "ejercicio aeróbico"
+  },
+  {
+    "entidad": "adolescentes",
+    "relacion": "participan en",
+    "valor": "ejercicio aeróbico"
+  },
+  {
+    "entidad": "adultos",
+    "relacion": "participan en",
+    "valor": "ejercicio aeróbico"
+  },
+  {
+    "entidad": "presión arterial sistólica",
+    "relacion": "disminuye tras",
+    "valor": "ejercicio aeróbico"
+  },
+  {
+    "entidad": "presión arterial diastólica",
+    "relacion": "disminuye tras",
+    "valor": "ejercicio aeróbico"
+  },
+  {
+    "entidad": "inactividad física",
+    "relacion": "es un",
+    "valor": "factor de riesgo para enfermedad cardiovascular"
+  },
+  {
+    "entidad": "ejercicio físico",
+    "relacion": "promueve",
+    "valor": "salud cardiovascular"
+  },
+  {
+    "entidad": "hipertensión arterial",
+    "relacion": "es un",
+    "valor": "problema de salud pública"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "incrementa",
+    "valor": "riesgo de enfermedad cardiovascular"
+  },
+  {
+    "entidad": "peso corporal",
+    "relacion": "se mide antes y después de",
+    "valor": "ejercicio aeróbico"
+  },
+  {
+    "entidad": "frecuencia cardíaca",
+    "relacion": "se mide antes y después de",
+    "valor": "ejercicio aeróbico"
+  },
+  {
+    "entidad": "CESFAM de Los Lagos",
+    "relacion": "aprueba",
+    "valor": "estudio"
+  },
+  {
+    "entidad": "comité de ética",
+    "relacion": "aprueba",
+    "valor": "estudio"
+  },
+  {
+    "entidad": "fondos del departamento ciencias de la actividad física",
+    "relacion": "financia",
+    "valor": "proyecto de investigación"
+  },
+  {
+    "entidad": "fondos del departamento de salud de la comuna de Los Lagos",
+    "relacion": "financia",
+    "valor": "proyecto de investigación"
+  },
+  {
+    "entidad": "ejercicio físico",
+    "relacion": "juega un rol",
+    "valor": "en la prevención de la salud cardiovascular"
+  },
+  {
+    "entidad": "ejercicio físico",
+    "relacion": "aumenta",
+    "valor": "presión arterial durante el esfuerzo"
+  },
+  {
+    "entidad": "ejercicio físico",
+    "relacion": "produce",
+    "valor": "efecto hipotensivo post ejercicio"
+  },
+  {
+    "entidad": "presión arterial",
+    "relacion": "se correlaciona con",
+    "valor": "peso corporal"
+  },
+  {
+    "entidad": "peso corporal inicial",
+    "relacion": "correlaciona con",
+    "valor": "presión arterial post intervención"
+  },
+  {
+    "entidad": "presión arterial sistólica",
+    "relacion": "se correlaciona con",
+    "valor": "valores finales de presión arterial"
+  },
+  {
+    "entidad": "presión arterial diastólica",
+    "relacion": "se correlaciona con",
+    "valor": "valores finales de presión arterial"
+  },
+  {
+    "entidad": "Chagas Disease",
+    "relacion": "es un",
+    "valor": "problema de salud pública"
+  },
+  {
+    "entidad": "Trypanosoma cruzi",
+    "relacion": "causa",
+    "valor": "enfermedad de Chagas"
+  },
+  {
+    "entidad": "nifurtimox",
+    "relacion": "es un",
+    "valor": "fármaco utilizado para tratar Chagas"
+  },
+  {
+    "entidad": "Benznidazol",
+    "relacion": "es un",
+    "valor": "fármaco para tratar Chagas"
+  },
+  {
+    "entidad": "Centro de Chagas",
+    "relacion": "depende de",
+    "valor": "Departamento de Cardiología"
+  },
+  {
+    "entidad": "Centro Diagnóstico Terapéutico (CDT)",
+    "relacion": "es un",
+    "valor": "centro de tratamiento para Chagas"
+  },
+  {
+    "entidad": "Servicio de Salud Metropolitano Sur Oriente",
+    "relacion": "es un",
+    "valor": "organismo de salud en Chile"
+  },
+  {
+    "entidad": "enfermedad de Chagas",
+    "relacion": "afecta a",
+    "valor": "corazón y tubo digestivo"
+  },
+  {
+    "entidad": "nifurtimox",
+    "relacion": "causa",
+    "valor": "efectos secundarios"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "reciben",
+    "valor": "tratamiento farmacológico"
+  },
+  {
+    "entidad": "Comité de Ética",
+    "relacion": "aprueba",
+    "valor": "trabajos de investigación"
+  },
+  {
+    "entidad": "serología positiva",
+    "relacion": "se verifica en",
+    "valor": "pacientes con Chagas"
+  },
+  {
+    "entidad": "transmisión vertical",
+    "relacion": "es un",
+    "valor": "mecanismo de transmisión de Chagas"
+  },
+  {
+    "entidad": "nifurtimox",
+    "relacion": "se administra en",
+    "valor": "dosis de 6-8 mg/kg"
+  },
+  {
+    "entidad": "nifurtimox",
+    "relacion": "tiene",
+    "valor": "efectos secundarios frecuentes"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "reportan",
+    "valor": "efectos secundarios significativos"
+  },
+  {
+    "entidad": "nifurtimox",
+    "relacion": "se utiliza en",
+    "valor": "tratamiento de Chagas crónica"
+  },
+  {
+    "entidad": "Chagas Disease",
+    "relacion": "es",
+    "valor": "enfermedad endémica en América"
+  },
+  {
+    "entidad": "nifurtimox",
+    "relacion": "se considera",
+    "valor": "eficaz en Chile"
+  },
+  {
+    "entidad": "pacientes tratados",
+    "relacion": "completan",
+    "valor": "tratamiento en un alto porcentaje"
+  },
+  {
+    "entidad": "efectos secundarios",
+    "relacion": "incluyen",
+    "valor": "náuseas y cefalea"
+  },
+  {
+    "entidad": "nifurtimox",
+    "relacion": "fue desarrollado en",
+    "valor": "1960"
+  },
+  {
+    "entidad": "Benznidazol",
+    "relacion": "fue introducido en",
+    "valor": "1974"
+  },
+  {
+    "entidad": "HER2",
+    "relacion": "es un",
+    "valor": "proto-oncogén"
+  },
+  {
+    "entidad": "HER2",
+    "relacion": "localizado en",
+    "valor": "cromosoma 17"
+  },
+  {
+    "entidad": "cáncer gástrico avanzado",
+    "relacion": "es un",
+    "valor": "tipo de cáncer"
+  },
+  {
+    "entidad": "cáncer gástrico avanzado",
+    "relacion": "causa",
+    "valor": "muerte por cáncer"
+  },
+  {
+    "entidad": "sobreexpresión de HER2",
+    "relacion": "es un",
+    "valor": "predictor de respuesta a terapia"
+  },
+  {
+    "entidad": "trastuzumab",
+    "relacion": "es un",
+    "valor": "anticuerpo monoclonal"
+  },
+  {
+    "entidad": "quimioterapia estándar",
+    "relacion": "se incorpora en",
+    "valor": "tratamiento del cáncer gástrico avanzado"
+  },
+  {
+    "entidad": "cáncer gástrico",
+    "relacion": "representa",
+    "valor": "un problema de salud pública en Chile"
+  },
+  {
+    "entidad": "tipos histológicos",
+    "relacion": "incluyen",
+    "valor": "intestinal y difuso"
+  },
+  {
+    "entidad": "E-caderina",
+    "relacion": "es un",
+    "valor": "gen cuya pérdida se asocia a cáncer gástrico"
+  },
+  {
+    "entidad": "inmunohistoquímica",
+    "relacion": "se utiliza para determinar",
+    "valor": "la sobreexpresión de HER2"
+  },
+  {
+    "entidad": "hibridación in situ",
+    "relacion": "se utiliza para determinar",
+    "valor": "la amplificación del gen HER2"
+  },
+  {
+    "entidad": "cáncer gástrico",
+    "relacion": "se asocia a",
+    "valor": "enfermedad avanzada"
+  },
+  {
+    "entidad": "sobreexpresión de HER2",
+    "relacion": "se ha descrito entre",
+    "valor": "10% y 20% en cáncer gástrico"
+  },
+  {
+    "entidad": "amplificación del gen HER2",
+    "relacion": "se ha observado en",
+    "valor": "11% de los casos"
+  },
+  {
+    "entidad": "técnicas de marcación fluorescente",
+    "relacion": "se utilizan para",
+    "valor": "visualizar la amplificación del gen HER2"
+  },
+  {
+    "entidad": "cáncer gástrico",
+    "relacion": "se clasifica en",
+    "valor": "dos grupos histológicos principales"
+  },
+  {
+    "entidad": "cáncer gástrico",
+    "relacion": "presenta",
+    "valor": "heterogeneidad en la sobreexpresión de HER2"
+  },
+  {
+    "entidad": "determinación de HER2",
+    "relacion": "debería reservarse para",
+    "valor": "tumores de tipo intestinal"
+  },
+  {
+    "entidad": "Infarto agudo al miocardio",
+    "relacion": "es",
+    "valor": "la principal causa de muerte en Chile"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "es",
+    "valor": "un factor asociado a la mortalidad"
+  },
+  {
+    "entidad": "pacientes adultos mayores",
+    "relacion": "tienen",
+    "valor": "mayor mortalidad por infarto agudo al miocardio"
+  },
+  {
+    "entidad": "infarto agudo al miocardio",
+    "relacion": "presenta",
+    "valor": "más complicaciones en pacientes mayores"
+  },
+  {
+    "entidad": "tratamientos probados",
+    "relacion": "son",
+    "valor": "subutilizados en pacientes mayores"
+  },
+  {
+    "entidad": "hospitalización",
+    "relacion": "muestra",
+    "valor": "alta mortalidad en pacientes mayores"
+  },
+  {
+    "entidad": "mortalidad a 5 años",
+    "relacion": "es",
+    "valor": "33% en pacientes mayores"
+  },
+  {
+    "entidad": "reperfusión",
+    "relacion": "es",
+    "valor": "menos común en pacientes mayores"
+  },
+  {
+    "entidad": "beta bloqueadores",
+    "relacion": "son",
+    "valor": "menos utilizados en pacientes mayores"
+  },
+  {
+    "entidad": "hospital clínico universidad de Chile",
+    "relacion": "realiza",
+    "valor": "estudios sobre infarto agudo al miocardio"
+  },
+  {
+    "entidad": "sintomatología",
+    "relacion": "es parte de",
+    "valor": "la definición de infarto agudo al miocardio según la OMS"
+  },
+  {
+    "entidad": "ecocardiografía",
+    "relacion": "es",
+    "valor": "un estudio realizado en pacientes con infarto agudo al miocardio"
+  },
+  {
+    "entidad": "angiografía coronaria",
+    "relacion": "es",
+    "valor": "un estudio realizado en pacientes con infarto agudo al miocardio"
+  },
+  {
+    "entidad": "revascularización",
+    "relacion": "es",
+    "valor": "menos frecuente en pacientes mayores"
+  },
+  {
+    "entidad": "mortalidad hospitalaria",
+    "relacion": "es",
+    "valor": "más alta en pacientes mayores"
+  },
+  {
+    "entidad": "tratamientos farmacológicos",
+    "relacion": "son",
+    "valor": "menos aplicados en pacientes mayores"
+  },
+  {
+    "entidad": "expectativa de vida",
+    "relacion": "ha cambiado",
+    "valor": "en la población mayor"
+  },
+  {
+    "entidad": "cambio en la mortalidad",
+    "relacion": "es",
+    "valor": "resultado de la mejora en tratamientos"
+  },
+  {
+    "entidad": "factores modificables",
+    "relacion": "se asocian a",
+    "valor": "diferencias en evolución del infarto"
+  },
+  {
+    "entidad": "mortalidad a largo plazo",
+    "relacion": "ha disminuido",
+    "valor": "en pacientes con mejor tratamiento"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "no debe ser",
+    "valor": "una contraindicación para tratamientos efectivos"
+  },
+  {
+    "entidad": "Lipoprotein-associated phospholipase A2 (Lp-PLA2)",
+    "relacion": "es un",
+    "valor": "biomarcador inflamatorio"
+  },
+  {
+    "entidad": "Lp-PLA2",
+    "relacion": "está involucrado en",
+    "valor": "aterosclerosis"
+  },
+  {
+    "entidad": "Lp-PLA2",
+    "relacion": "se asocia con",
+    "valor": "eventos cardiovasculares"
+  },
+  {
+    "entidad": "sujetos asintomáticos",
+    "relacion": "tienen",
+    "valor": "diferente riesgo cardiovascular"
+  },
+  {
+    "entidad": "niveles de Lp-PLA2",
+    "relacion": "aumentan con",
+    "valor": "número de factores de riesgo"
+  },
+  {
+    "entidad": "Lp-PLA2",
+    "relacion": "correlaciona significativamente con",
+    "valor": "colesterol no-HDL"
+  },
+  {
+    "entidad": "Lp-PLA2",
+    "relacion": "correlaciona significativamente con",
+    "valor": "LDL"
+  },
+  {
+    "entidad": "Lp-PLA2",
+    "relacion": "correlaciona significativamente con",
+    "valor": "IMC"
+  },
+  {
+    "entidad": "Lp-PLA2",
+    "relacion": "correlaciona significativamente con",
+    "valor": "circunferencia de cintura"
+  },
+  {
+    "entidad": "Lp-PLA2",
+    "relacion": "no correlaciona con",
+    "valor": "glicemia"
+  },
+  {
+    "entidad": "Lp-PLA2",
+    "relacion": "no correlaciona con",
+    "valor": "tabaquismo"
+  },
+  {
+    "entidad": "Lp-PLA2",
+    "relacion": "no correlaciona con",
+    "valor": "PCRus"
+  },
+  {
+    "entidad": "Lp-PLA2",
+    "relacion": "no correlaciona con",
+    "valor": "fibrinógeno"
+  },
+  {
+    "entidad": "actividad de Lp-PLA2",
+    "relacion": "es un",
+    "valor": "marcador de riesgo cardiovascular"
+  },
+  {
+    "entidad": "enfermedad aterosclerótica",
+    "relacion": "es",
+    "valor": "una enfermedad inflamatoria"
+  },
+  {
+    "entidad": "factores de riesgo cardiovasculares",
+    "relacion": "incluyen",
+    "valor": "dislipidemia, diabetes, obesidad, hipertensión, tabaquismo, historia familiar de cardiopatía coronaria"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen",
+    "valor": "niveles de Lp-PLA2 más bajos que hombres"
+  },
+  {
+    "entidad": "Lp-PLA2",
+    "relacion": "es producida por",
+    "valor": "macrófagos en la pared arterial"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "fue realizado en",
+    "valor": "dos centros de cardiología en Santiago"
+  },
+  {
+    "entidad": "comités de ética",
+    "relacion": "aprobaron",
+    "valor": "el protocolo de investigación"
+  },
+  {
+    "entidad": "pacientes politraumatizados",
+    "relacion": "presentan",
+    "valor": "riesgo elevado de muerte"
+  },
+  {
+    "entidad": "triada mortal",
+    "relacion": "indica",
+    "valor": "mal pronóstico"
+  },
+  {
+    "entidad": "triada mortal",
+    "relacion": "se compone de",
+    "valor": "acidosis, hipotermia y coagulopatía"
+  },
+  {
+    "entidad": "acidosis",
+    "relacion": "es una",
+    "valor": "complicación en pacientes politraumatizados"
+  },
+  {
+    "entidad": "hipotermia",
+    "relacion": "es una",
+    "valor": "complicación en pacientes politraumatizados"
+  },
+  {
+    "entidad": "coagulopatía",
+    "relacion": "es una",
+    "valor": "complicación en pacientes politraumatizados"
+  },
+  {
+    "entidad": "triada mortal",
+    "relacion": "se asocia con",
+    "valor": "mayor mortalidad"
+  },
+  {
+    "entidad": "triada mortal",
+    "relacion": "se asocia con",
+    "valor": "mayor índice de severidad de la lesión (ISS)"
+  },
+  {
+    "entidad": "Hospital Civil de Guadalajara",
+    "relacion": "es un",
+    "valor": "centro de atención de urgencias"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "es causada por",
+    "valor": "hemorragia en pacientes politraumatizados"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "se relaciona con",
+    "valor": "coagulopatía"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "se relaciona con",
+    "valor": "acidosis"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "se relaciona con",
+    "valor": "hipotermia"
+  },
+  {
+    "entidad": "método ISS",
+    "relacion": "evalúa",
+    "valor": "la severidad de las lesiones en pacientes politraumatizados"
+  },
+  {
+    "entidad": "coagulopatía",
+    "relacion": "se define como",
+    "valor": "imposibilidad de mantener un estado normal de coagulación"
+  },
+  {
+    "entidad": "acidosis metabólica",
+    "relacion": "ocurre como resultado de",
+    "valor": "producción de ácido láctico y ácido fosfórico"
+  },
+  {
+    "entidad": "hemorragia grave",
+    "relacion": "induce",
+    "valor": "respuesta inmunometabólica y hemodinámica"
+  },
+  {
+    "entidad": "triada mortal",
+    "relacion": "podría ser",
+    "valor": "indicador de magnitud de la lesión"
+  },
+  {
+    "entidad": "estrategias terapéuticas",
+    "relacion": "deben ser",
+    "valor": "implementadas de manera oportuna"
+  }
+]

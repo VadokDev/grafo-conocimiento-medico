@@ -1,0 +1,312 @@
+[
+  {
+    "entidad": "Linfoma de células grandes B",
+    "relacion": "originado en",
+    "valor": "enfermedad de Castleman"
+  },
+  {
+    "entidad": "enfermedad de Castleman",
+    "relacion": "asociado a",
+    "valor": "herpesvirus asociado a sarcoma de Kaposi"
+  },
+  {
+    "entidad": "herpesvirus asociado a sarcoma de Kaposi",
+    "relacion": "infecta",
+    "valor": "células linfoides"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "tiene",
+    "valor": "73 años de edad"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "coexiste con",
+    "valor": "linfoma de células grandes B"
+  },
+  {
+    "entidad": "linfoma de células grandes B",
+    "relacion": "diagnosticado en",
+    "valor": "ganglio linfático axilar derecho"
+  },
+  {
+    "entidad": "biopsia excisional",
+    "relacion": "realizada en",
+    "valor": "ganglio linfático"
+  },
+  {
+    "entidad": "células plasmáticas",
+    "relacion": "características de",
+    "valor": "enfermedad de Castleman"
+  },
+  {
+    "entidad": "células linfoides",
+    "relacion": "presentan",
+    "valor": "nucleolos prominentes"
+  },
+  {
+    "entidad": "linfoma de células grandes B",
+    "relacion": "expresa",
+    "valor": "CD 79+, CD 38+, MUM-1+"
+  },
+  {
+    "entidad": "Kaposi sarcoma-associated herpesvirus",
+    "relacion": "positivo en",
+    "valor": "células neoplásicas"
+  },
+  {
+    "entidad": "EBER",
+    "relacion": "resultado",
+    "valor": "negativo"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "inicia tratamiento con",
+    "valor": "R-CHOP"
+  },
+  {
+    "entidad": "R-CHOP",
+    "relacion": "es un",
+    "valor": "esquema de quimioterapia"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "se encuentra en",
+    "valor": "remisión"
+  },
+  {
+    "entidad": "linfoma de células grandes B",
+    "relacion": "asociado a",
+    "valor": "VIH+"
+  },
+  {
+    "entidad": "linfoma de células grandes B",
+    "relacion": "puede ocurrir en",
+    "valor": "pacientes VIH-"
+  },
+  {
+    "entidad": "enfermedad de Castleman",
+    "relacion": "caracteriza por",
+    "valor": "linfadenopatía, fiebre, hipergammaglobulinemia"
+  },
+  {
+    "entidad": "linfomas no Hodgkin",
+    "relacion": "comparten características con",
+    "valor": "deficiencias inmunes"
+  },
+  {
+    "entidad": "linfomas originados en enfermedad de Castleman",
+    "relacion": "deben ser tratados con",
+    "valor": "quimioterapia estándar"
+  },
+  {
+    "entidad": "Síndrome de McKittrick-Wheelock",
+    "relacion": "es causado por",
+    "valor": "hipersecreción crónica de agua y electrolitos de un tumor intestinal"
+  },
+  {
+    "entidad": "tumor intestinal",
+    "relacion": "es usualmente un",
+    "valor": "adenoma velloso"
+  },
+  {
+    "entidad": "adenoma velloso",
+    "relacion": "se localiza en",
+    "valor": "recto o sigmoides"
+  },
+  {
+    "entidad": "pacientes con síndrome de McKittrick-Wheelock",
+    "relacion": "presentan",
+    "valor": "deshidratación"
+  },
+  {
+    "entidad": "síndrome de McKittrick-Wheelock",
+    "relacion": "asocia con",
+    "valor": "hipokalemia"
+  },
+  {
+    "entidad": "síndrome de McKittrick-Wheelock",
+    "relacion": "asocia con",
+    "valor": "hiponatremia"
+  },
+  {
+    "entidad": "síndrome de McKittrick-Wheelock",
+    "relacion": "asocia con",
+    "valor": "hipocloremia"
+  },
+  {
+    "entidad": "síndrome de McKittrick-Wheelock",
+    "relacion": "asocia con",
+    "valor": "acidosis metabólica"
+  },
+  {
+    "entidad": "diarrea crónica",
+    "relacion": "puede causar",
+    "valor": "shock hipovolémico"
+  },
+  {
+    "entidad": "diarrea crónica",
+    "relacion": "puede causar",
+    "valor": "injuria renal aguda"
+  },
+  {
+    "entidad": "resección del tumor",
+    "relacion": "resulta en",
+    "valor": "desaparición de la diarrea"
+  },
+  {
+    "entidad": "resección del tumor",
+    "relacion": "resulta en",
+    "valor": "normalización de la función renal"
+  },
+  {
+    "entidad": "hidratación parenteral",
+    "relacion": "se utiliza para",
+    "valor": "corregir hipovolemia"
+  },
+  {
+    "entidad": "reposiciones de electrolitos",
+    "relacion": "se utilizan para",
+    "valor": "corregir alteraciones metabólicas"
+  },
+  {
+    "entidad": "adenoma velloso",
+    "relacion": "puede tener",
+    "valor": "displasia epitelial severa"
+  },
+  {
+    "entidad": "adenoma velloso",
+    "relacion": "puede tener",
+    "valor": "focos microscópicos de adenocarcinoma"
+  },
+  {
+    "entidad": "prostaglandinas (PGE2)",
+    "relacion": "son producidas por",
+    "valor": "células del adenoma velloso"
+  },
+  {
+    "entidad": "PGE2",
+    "relacion": "provoca",
+    "valor": "aumento del AMP cíclico intracelular"
+  },
+  {
+    "entidad": "PGE2",
+    "relacion": "activa",
+    "valor": "canales apicales de cloro y potasio"
+  },
+  {
+    "entidad": "síndrome de McKittrick-Wheelock",
+    "relacion": "es considerado",
+    "valor": "raro"
+  },
+  {
+    "entidad": "casos publicados de síndrome de McKittrick-Wheelock",
+    "relacion": "son aproximadamente",
+    "valor": "50"
+  },
+  {
+    "entidad": "hipopituitarismo",
+    "relacion": "causa",
+    "valor": "síndrome de QT largo"
+  },
+  {
+    "entidad": "hipopituitarismo",
+    "relacion": "causa",
+    "valor": "taquicardia ventricular en torsade de pointes"
+  },
+  {
+    "entidad": "pituitaria",
+    "relacion": "produce",
+    "valor": "hormonas hipofisarias"
+  },
+  {
+    "entidad": "adenoma hipofisario",
+    "relacion": "asociado a",
+    "valor": "hipopituitarismo"
+  },
+  {
+    "entidad": "síncope",
+    "relacion": "síntoma de",
+    "valor": "hipopituitarismo"
+  },
+  {
+    "entidad": "electrocardiograma",
+    "relacion": "muestra",
+    "valor": "bradicardia sinusal"
+  },
+  {
+    "entidad": "electrocardiograma",
+    "relacion": "muestra",
+    "valor": "intervalo QT prolongado"
+  },
+  {
+    "entidad": "taquicardia ventricular polimorfa",
+    "relacion": "observada en",
+    "valor": "monitorización cardiaca"
+  },
+  {
+    "entidad": "hidrocortisona",
+    "relacion": "tratamiento para",
+    "valor": "hipopituitarismo"
+  },
+  {
+    "entidad": "levotiroxina",
+    "relacion": "tratamiento para",
+    "valor": "hipopituitarismo"
+  },
+  {
+    "entidad": "hipotiroidismo",
+    "relacion": "asociado a",
+    "valor": "síndrome de QT largo"
+  },
+  {
+    "entidad": "insuficiencia adrenal",
+    "relacion": "asociado a",
+    "valor": "síndrome de QT largo"
+  },
+  {
+    "entidad": "taquicardia ventricular",
+    "relacion": "puede ser causada por",
+    "valor": "hipopituitarismo"
+  },
+  {
+    "entidad": "apoplejía hipofisaria",
+    "relacion": "causa de",
+    "valor": "hipopituitarismo"
+  },
+  {
+    "entidad": "hormonas hipofisarias",
+    "relacion": "disminuidas en",
+    "valor": "panhipopituitarismo"
+  },
+  {
+    "entidad": "sulfato de magnesio",
+    "relacion": "tratamiento para",
+    "valor": "taquicardia ventricular polimorfa"
+  },
+  {
+    "entidad": "marcapasos transitorio",
+    "relacion": "utilizado en",
+    "valor": "taquicardia ventricular polimorfa"
+  },
+  {
+    "entidad": "hormonas",
+    "relacion": "deben ser evaluadas en",
+    "valor": "pacientes con SQTL"
+  },
+  {
+    "entidad": "SQTL",
+    "relacion": "asociado a",
+    "valor": "arritmias malignas"
+  },
+  {
+    "entidad": "hipopituitarismo",
+    "relacion": "puede causar",
+    "valor": "miocardiopatía dilatada"
+  },
+  {
+    "entidad": "hormonas",
+    "relacion": "pueden influir en",
+    "valor": "complicaciones cardiovasculares"
+  }
+]

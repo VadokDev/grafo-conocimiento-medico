@@ -1,0 +1,1257 @@
+[
+  {
+    "entidad": "Amniocentesis",
+    "relacion": "requiere_muestra_de",
+    "valor": "líquido amniótico"
+  },
+  {
+    "entidad": "Amniocentesis",
+    "relacion": "diagnostica",
+    "valor": "trastornos genéticos"
+  },
+  {
+    "entidad": "Amniocentesis",
+    "relacion": "diagnostica",
+    "valor": "defectos de nacimiento"
+  },
+  {
+    "entidad": "Amniocentesis",
+    "relacion": "diagnostica",
+    "valor": "infecciones en el feto"
+  },
+  {
+    "entidad": "Amniocentesis",
+    "relacion": "indicado_si_tiene",
+    "valor": "mayor riesgo de trastornos genéticos"
+  },
+  {
+    "entidad": "Amniocentesis",
+    "relacion": "tiene_duracion",
+    "valor": "15 minutos"
+  },
+  {
+    "entidad": "Amniocentesis",
+    "relacion": "tiene_riesgo",
+    "valor": "menos del 1% de aborto espontáneo"
+  },
+  {
+    "entidad": "Amniocentesis",
+    "relacion": "tiene_riesgo",
+    "valor": "sangrado vaginal"
+  },
+  {
+    "entidad": "Amniocentesis",
+    "relacion": "tiene_riesgo",
+    "valor": "fuga de líquido amniótico"
+  },
+  {
+    "entidad": "Amniocentesis",
+    "relacion": "tiene_riesgo",
+    "valor": "calambres intensos"
+  },
+  {
+    "entidad": "Amniocentesis",
+    "relacion": "tiene_riesgo",
+    "valor": "fiebre"
+  },
+  {
+    "entidad": "Amniocentesis",
+    "relacion": "es_tipo_de",
+    "valor": "prueba de diagnóstico"
+  },
+  {
+    "entidad": "Amniocentesis",
+    "relacion": "utiliza_equipo",
+    "valor": "ecografía"
+  },
+  {
+    "entidad": "Amniocentesis",
+    "relacion": "realizado_por",
+    "valor": "profesional de la salud"
+  },
+  {
+    "entidad": "Amniocentesis",
+    "relacion": "mide",
+    "valor": "salud del feto"
+  },
+  {
+    "entidad": "Amniocentesis",
+    "relacion": "ayuda_diagnosticar",
+    "valor": "síndrome de Down"
+  },
+  {
+    "entidad": "Amniocentesis",
+    "relacion": "ayuda_diagnosticar",
+    "valor": "fibrosis quística"
+  },
+  {
+    "entidad": "Amniocentesis",
+    "relacion": "ayuda_diagnosticar",
+    "valor": "enfermedad de células falciformes"
+  },
+  {
+    "entidad": "Amniocentesis",
+    "relacion": "ayuda_diagnosticar",
+    "valor": "enfermedad de Tay-Sachs"
+  },
+  {
+    "entidad": "Amniocentesis",
+    "relacion": "ayuda_diagnosticar",
+    "valor": "defecto del tubo neural"
+  },
+  {
+    "entidad": "Anticuerpos antitiroideos",
+    "relacion": "mide",
+    "valor": "nivel de anticuerpos tiroideos en sangre"
+  },
+  {
+    "entidad": "Anticuerpos antitiroideos",
+    "relacion": "requiere_muestra_de",
+    "valor": "sangre de una vena del brazo"
+  },
+  {
+    "entidad": "Anticuerpos antitiroideos",
+    "relacion": "diagnostica",
+    "valor": "enfermedad de Hashimoto"
+  },
+  {
+    "entidad": "Anticuerpos antitiroideos",
+    "relacion": "diagnostica",
+    "valor": "enfermedad de Graves"
+  },
+  {
+    "entidad": "Anticuerpos antitiroideos",
+    "relacion": "indicado_si_tiene",
+    "valor": "hipotiroidismo"
+  },
+  {
+    "entidad": "Anticuerpos antitiroideos",
+    "relacion": "indicado_si_tiene",
+    "valor": "hipertiroidismo"
+  },
+  {
+    "entidad": "Anticuerpos antitiroideos",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "síntomas de enfermedad de Hashimoto"
+  },
+  {
+    "entidad": "Anticuerpos antitiroideos",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "síntomas de enfermedad de Graves"
+  },
+  {
+    "entidad": "Anticuerpos antitiroideos",
+    "relacion": "tiene_duracion",
+    "valor": "menos de cinco minutos"
+  },
+  {
+    "entidad": "Anticuerpos antitiroideos",
+    "relacion": "tiene_riesgo",
+    "valor": "dolor leve o moretón en el lugar de la punción"
+  },
+  {
+    "entidad": "Anticuerpos antitiroideos",
+    "relacion": "realizado_por",
+    "valor": "profesional de la salud"
+  },
+  {
+    "entidad": "Análisis de sangre de glucagón",
+    "relacion": "mide",
+    "valor": "cantidad de glucagón en la sangre"
+  },
+  {
+    "entidad": "Análisis de sangre de glucagón",
+    "relacion": "diagnostica",
+    "valor": "hipoglucemia"
+  },
+  {
+    "entidad": "Análisis de sangre de glucagón",
+    "relacion": "diagnostica",
+    "valor": "diabetes"
+  },
+  {
+    "entidad": "Análisis de sangre de glucagón",
+    "relacion": "diagnostica",
+    "valor": "pancreatitis aguda o crónica"
+  },
+  {
+    "entidad": "Análisis de sangre de glucagón",
+    "relacion": "diagnostica",
+    "valor": "glucagonoma"
+  },
+  {
+    "entidad": "Análisis de sangre de glucagón",
+    "relacion": "requiere_muestra_de",
+    "valor": "sangre de una vena del brazo"
+  },
+  {
+    "entidad": "Análisis de sangre de glucagón",
+    "relacion": "tiene_duracion",
+    "valor": "menos de cinco minutos"
+  },
+  {
+    "entidad": "Análisis de sangre de glucagón",
+    "relacion": "tiene_riesgo",
+    "valor": "dolor leve o moretón en el lugar de la punción"
+  },
+  {
+    "entidad": "Análisis de sangre de glucagón",
+    "relacion": "realizado_por",
+    "valor": "profesional de la salud"
+  },
+  {
+    "entidad": "Anoscopia",
+    "relacion": "diagnostica",
+    "valor": "hemorroides"
+  },
+  {
+    "entidad": "Anoscopia",
+    "relacion": "diagnostica",
+    "valor": "fisuras anales"
+  },
+  {
+    "entidad": "Anoscopia",
+    "relacion": "diagnostica",
+    "valor": "pólipos anales"
+  },
+  {
+    "entidad": "Anoscopia",
+    "relacion": "diagnostica",
+    "valor": "inflamación"
+  },
+  {
+    "entidad": "Anoscopia",
+    "relacion": "diagnostica",
+    "valor": "cáncer"
+  },
+  {
+    "entidad": "Anoscopia",
+    "relacion": "indicado_si_tiene",
+    "valor": "sangre en las heces"
+  },
+  {
+    "entidad": "Anoscopia",
+    "relacion": "indicado_si_tiene",
+    "valor": "picazón alrededor del ano"
+  },
+  {
+    "entidad": "Anoscopia",
+    "relacion": "indicado_si_tiene",
+    "valor": "hinchazón o bultos duros alrededor del ano"
+  },
+  {
+    "entidad": "Anoscopia",
+    "relacion": "indicado_si_tiene",
+    "valor": "secreción del ano"
+  },
+  {
+    "entidad": "Anoscopia",
+    "relacion": "indicado_si_tiene",
+    "valor": "evacuaciones dolorosas"
+  },
+  {
+    "entidad": "Anoscopia",
+    "relacion": "indicado_si_tiene",
+    "valor": "problemas para evacuar"
+  },
+  {
+    "entidad": "Anoscopia",
+    "relacion": "requiere_muestra_de",
+    "valor": "tejido para biopsia"
+  },
+  {
+    "entidad": "Anoscopia",
+    "relacion": "tiene_duracion",
+    "valor": "unos minutos"
+  },
+  {
+    "entidad": "Anoscopia",
+    "relacion": "tiene_riesgo",
+    "valor": "molestias durante el procedimiento"
+  },
+  {
+    "entidad": "Anoscopia",
+    "relacion": "tiene_riesgo",
+    "valor": "sangrado leve"
+  },
+  {
+    "entidad": "Anoscopia",
+    "relacion": "realizado_por",
+    "valor": "profesional de la salud"
+  },
+  {
+    "entidad": "Anoscopia",
+    "relacion": "se_realiza_en",
+    "valor": "consultorio o clínica ambulatoria"
+  },
+  {
+    "entidad": "Anoscopia",
+    "relacion": "utiliza_equipo",
+    "valor": "anoscopio"
+  },
+  {
+    "entidad": "Anoscopia",
+    "relacion": "utiliza_equipo",
+    "valor": "colposcopio"
+  },
+  {
+    "entidad": "Amplitud de distribución eritrocitaria",
+    "relacion": "mide",
+    "valor": "variación del volumen y tamaño de los glóbulos rojos"
+  },
+  {
+    "entidad": "Amplitud de distribución eritrocitaria",
+    "relacion": "diagnostica",
+    "valor": "anemia"
+  },
+  {
+    "entidad": "Amplitud de distribución eritrocitaria",
+    "relacion": "diagnostica",
+    "valor": "talasemia"
+  },
+  {
+    "entidad": "Amplitud de distribución eritrocitaria",
+    "relacion": "requiere_muestra_de",
+    "valor": "sangre de una vena del brazo"
+  },
+  {
+    "entidad": "Amplitud de distribución eritrocitaria",
+    "relacion": "es_parte_de",
+    "valor": "conteo sanguíneo completo"
+  },
+  {
+    "entidad": "Amplitud de distribución eritrocitaria",
+    "relacion": "indicado_si_tiene",
+    "valor": "síntomas de anemia"
+  },
+  {
+    "entidad": "Amplitud de distribución eritrocitaria",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "problemas para respirar"
+  },
+  {
+    "entidad": "Amplitud de distribución eritrocitaria",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "debilidad o fatiga"
+  },
+  {
+    "entidad": "Amplitud de distribución eritrocitaria",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Amplitud de distribución eritrocitaria",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Amplitud de distribución eritrocitaria",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "arritmia"
+  },
+  {
+    "entidad": "Amplitud de distribución eritrocitaria",
+    "relacion": "tiene_duracion",
+    "valor": "menos de cinco minutos"
+  },
+  {
+    "entidad": "Amplitud de distribución eritrocitaria",
+    "relacion": "tiene_riesgo",
+    "valor": "dolor leve o moretón en el lugar de la punción"
+  },
+  {
+    "entidad": "Análisis de cálculos renales",
+    "relacion": "analiza",
+    "valor": "composición de los cálculos renales"
+  },
+  {
+    "entidad": "Análisis de cálculos renales",
+    "relacion": "indicado_si_tiene",
+    "valor": "síntomas de un cálculo renal"
+  },
+  {
+    "entidad": "Análisis de cálculos renales",
+    "relacion": "requiere_muestra_de",
+    "valor": "cálculo renal"
+  },
+  {
+    "entidad": "Análisis de cálculos renales",
+    "relacion": "tiene_riesgo",
+    "valor": "dolor, infección del tracto urinario, bloqueo del tracto urinario"
+  },
+  {
+    "entidad": "Análisis de cálculos renales",
+    "relacion": "util_para",
+    "valor": "entender por qué se forma el cálculo"
+  },
+  {
+    "entidad": "Análisis de cálculos renales",
+    "relacion": "es_tipo_de",
+    "valor": "prueba de laboratorio"
+  },
+  {
+    "entidad": "Análisis de cálculos renales",
+    "relacion": "ayuda_diagnosticar",
+    "valor": "cálculos renales"
+  },
+  {
+    "entidad": "Análisis de cálculos renales",
+    "relacion": "realizado_por",
+    "valor": "profesional de la salud"
+  },
+  {
+    "entidad": "Análisis de globulinas",
+    "relacion": "analiza",
+    "valor": "globulinas"
+  },
+  {
+    "entidad": "Análisis de globulinas",
+    "relacion": "diagnostica",
+    "valor": "daño o enfermedad del hígado"
+  },
+  {
+    "entidad": "Análisis de globulinas",
+    "relacion": "diagnostica",
+    "valor": "enfermedad de los riñones"
+  },
+  {
+    "entidad": "Análisis de globulinas",
+    "relacion": "diagnostica",
+    "valor": "problemas nutricionales"
+  },
+  {
+    "entidad": "Análisis de globulinas",
+    "relacion": "diagnostica",
+    "valor": "trastornos autoinmunes"
+  },
+  {
+    "entidad": "Análisis de globulinas",
+    "relacion": "diagnostica",
+    "valor": "cáncer"
+  },
+  {
+    "entidad": "Análisis de globulinas",
+    "relacion": "requiere_muestra_de",
+    "valor": "sangre de una vena del brazo"
+  },
+  {
+    "entidad": "Análisis de globulinas",
+    "relacion": "tiene_duracion",
+    "valor": "menos de cinco minutos"
+  },
+  {
+    "entidad": "Análisis de globulinas",
+    "relacion": "tiene_riesgo",
+    "valor": "dolor leve o moretón en el lugar de la punción"
+  },
+  {
+    "entidad": "Análisis de globulinas",
+    "relacion": "indicado_si_tiene",
+    "valor": "síntomas de enfermedad renal o hepática"
+  },
+  {
+    "entidad": "Análisis de globulinas",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "náusea y vómito"
+  },
+  {
+    "entidad": "Análisis de globulinas",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "falta de apetito"
+  },
+  {
+    "entidad": "Análisis de globulinas",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "fatiga"
+  },
+  {
+    "entidad": "Análisis de globulinas",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "debilidad"
+  },
+  {
+    "entidad": "Análisis de globulinas",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "ictericia"
+  },
+  {
+    "entidad": "Análisis de globulinas",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "inflamación o dolor en el abdomen"
+  },
+  {
+    "entidad": "Análisis de globulinas",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "hinchazón en los tobillos y las piernas"
+  },
+  {
+    "entidad": "Análisis de globulinas",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "orina de color oscuro o heces de color claro"
+  },
+  {
+    "entidad": "Análisis de globulinas",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "picazón frecuente"
+  },
+  {
+    "entidad": "Análisis de globulinas",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "alergias"
+  },
+  {
+    "entidad": "Análisis de globulinas",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "enfermedades autoinmunitarias"
+  },
+  {
+    "entidad": "Análisis de globulinas",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "mieloma múltiple"
+  },
+  {
+    "entidad": "Análisis del líquido pleural",
+    "relacion": "analiza",
+    "valor": "muestra de fluido pleural"
+  },
+  {
+    "entidad": "Análisis del líquido pleural",
+    "relacion": "indicado_si_tiene",
+    "valor": "derrame pleural"
+  },
+  {
+    "entidad": "Análisis del líquido pleural",
+    "relacion": "diagnostica",
+    "valor": "causas del derrame pleural"
+  },
+  {
+    "entidad": "Análisis del líquido pleural",
+    "relacion": "requiere_muestra_de",
+    "valor": "líquido pleural"
+  },
+  {
+    "entidad": "Análisis del líquido pleural",
+    "relacion": "tiene_riesgo",
+    "valor": "colapso pulmonar"
+  },
+  {
+    "entidad": "Análisis del líquido pleural",
+    "relacion": "tiene_riesgo",
+    "valor": "hemorragia"
+  },
+  {
+    "entidad": "Análisis del líquido pleural",
+    "relacion": "tiene_riesgo",
+    "valor": "edema pulmonar"
+  },
+  {
+    "entidad": "Análisis del líquido pleural",
+    "relacion": "tiene_riesgo",
+    "valor": "infección"
+  },
+  {
+    "entidad": "Análisis del líquido pleural",
+    "relacion": "tiene_riesgo",
+    "valor": "lesión del hígado o bazo"
+  },
+  {
+    "entidad": "Análisis del líquido pleural",
+    "relacion": "util_para",
+    "valor": "encontrar la causa del derrame pleural"
+  },
+  {
+    "entidad": "Análisis del líquido pleural",
+    "relacion": "es_tipo_de",
+    "valor": "prueba de laboratorio"
+  },
+  {
+    "entidad": "Análisis del líquido pleural",
+    "relacion": "realizado_por",
+    "valor": "profesional de la salud"
+  },
+  {
+    "entidad": "Análisis del líquido pleural",
+    "relacion": "se_realiza_en",
+    "valor": "consultorio médico o hospital"
+  },
+  {
+    "entidad": "Análisis de hemoglobina",
+    "relacion": "mide",
+    "valor": "niveles de hemoglobina en la sangre"
+  },
+  {
+    "entidad": "Análisis de hemoglobina",
+    "relacion": "diagnostica",
+    "valor": "anemia"
+  },
+  {
+    "entidad": "Análisis de hemoglobina",
+    "relacion": "indicado_si_tiene",
+    "valor": "síntomas de anemia"
+  },
+  {
+    "entidad": "Análisis de hemoglobina",
+    "relacion": "requiere_muestra_de",
+    "valor": "sangre de una vena del brazo"
+  },
+  {
+    "entidad": "Análisis de hemoglobina",
+    "relacion": "tiene_duracion",
+    "valor": "menos de cinco minutos"
+  },
+  {
+    "entidad": "Análisis de hemoglobina",
+    "relacion": "tiene_riesgo",
+    "valor": "ligero dolor o moretón en el lugar de la punción"
+  },
+  {
+    "entidad": "Análisis de hemoglobina",
+    "relacion": "es_tipo_de",
+    "valor": "examen de sangre"
+  },
+  {
+    "entidad": "Análisis de hemoglobina",
+    "relacion": "util_para",
+    "valor": "detectar anemia"
+  },
+  {
+    "entidad": "Análisis de hemoglobina",
+    "relacion": "realizado_por",
+    "valor": "profesional de la salud"
+  },
+  {
+    "entidad": "Análisis del líquido cefalorraquídeo",
+    "relacion": "analiza",
+    "valor": "líquido cefalorraquídeo"
+  },
+  {
+    "entidad": "Análisis del líquido cefalorraquídeo",
+    "relacion": "detecta",
+    "valor": "enfermedades que afectan el cerebro y la médula espinal"
+  },
+  {
+    "entidad": "Análisis del líquido cefalorraquídeo",
+    "relacion": "requiere_muestra_de",
+    "valor": "líquido cefalorraquídeo"
+  },
+  {
+    "entidad": "Análisis del líquido cefalorraquídeo",
+    "relacion": "diagnostica",
+    "valor": "meningitis"
+  },
+  {
+    "entidad": "Análisis del líquido cefalorraquídeo",
+    "relacion": "diagnostica",
+    "valor": "encefalitis"
+  },
+  {
+    "entidad": "Análisis del líquido cefalorraquídeo",
+    "relacion": "diagnostica",
+    "valor": "síndrome de Guillain-Barré"
+  },
+  {
+    "entidad": "Análisis del líquido cefalorraquídeo",
+    "relacion": "diagnostica",
+    "valor": "esclerosis múltiple"
+  },
+  {
+    "entidad": "Análisis del líquido cefalorraquídeo",
+    "relacion": "diagnostica",
+    "valor": "sangrado en el cerebro"
+  },
+  {
+    "entidad": "Análisis del líquido cefalorraquídeo",
+    "relacion": "diagnostica",
+    "valor": "tumores cerebrales"
+  },
+  {
+    "entidad": "Análisis del líquido cefalorraquídeo",
+    "relacion": "diagnostica",
+    "valor": "enfermedad de Alzheimer"
+  },
+  {
+    "entidad": "Análisis del líquido cefalorraquídeo",
+    "relacion": "indicado_si_tiene",
+    "valor": "síntomas de infección en el cerebro o médula espinal"
+  },
+  {
+    "entidad": "Análisis del líquido cefalorraquídeo",
+    "relacion": "indicado_si_tiene",
+    "valor": "síntomas de esclerosis múltiple"
+  },
+  {
+    "entidad": "Análisis del líquido cefalorraquídeo",
+    "relacion": "indicado_si_tiene",
+    "valor": "lesión cerebral o en la médula espinal"
+  },
+  {
+    "entidad": "Análisis del líquido cefalorraquídeo",
+    "relacion": "indicado_si_tiene",
+    "valor": "cáncer que podría haberse propagado al sistema nervioso central"
+  },
+  {
+    "entidad": "Análisis del líquido cefalorraquídeo",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "dolores de cabeza"
+  },
+  {
+    "entidad": "Análisis del líquido cefalorraquídeo",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "fiebre"
+  },
+  {
+    "entidad": "Análisis del líquido cefalorraquídeo",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "convulsiones"
+  },
+  {
+    "entidad": "Análisis del líquido cefalorraquídeo",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "rigidez en el cuello"
+  },
+  {
+    "entidad": "Análisis del líquido cefalorraquídeo",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "náuseas y vómitos"
+  },
+  {
+    "entidad": "Análisis del líquido cefalorraquídeo",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "sensibilidad a la luz"
+  },
+  {
+    "entidad": "Análisis del líquido cefalorraquídeo",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "visión doble"
+  },
+  {
+    "entidad": "Análisis del líquido cefalorraquídeo",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "cambios en el comportamiento"
+  },
+  {
+    "entidad": "Análisis del líquido cefalorraquídeo",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "confusión"
+  },
+  {
+    "entidad": "Análisis del líquido cefalorraquídeo",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "hormigueo"
+  },
+  {
+    "entidad": "Análisis del líquido cefalorraquídeo",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "espasmos musculares dolorosos"
+  },
+  {
+    "entidad": "Análisis del líquido cefalorraquídeo",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "debilidad muscular"
+  },
+  {
+    "entidad": "Análisis del líquido cefalorraquídeo",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Análisis del líquido cefalorraquídeo",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "problemas para controlar la vejiga"
+  },
+  {
+    "entidad": "Análisis del líquido cefalorraquídeo",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "fatiga"
+  },
+  {
+    "entidad": "Análisis del líquido cefalorraquídeo",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "problemas para pensar o aprender"
+  },
+  {
+    "entidad": "Análisis del líquido cefalorraquídeo",
+    "relacion": "tiene_duracion",
+    "valor": "20 minutos"
+  },
+  {
+    "entidad": "Análisis del líquido cefalorraquídeo",
+    "relacion": "tiene_riesgo",
+    "valor": "dolor o sensibilidad en la espalda"
+  },
+  {
+    "entidad": "Análisis del líquido cefalorraquídeo",
+    "relacion": "tiene_riesgo",
+    "valor": "sangrado en el sitio de punción"
+  },
+  {
+    "entidad": "Análisis del líquido cefalorraquídeo",
+    "relacion": "tiene_riesgo",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Análisis del líquido cefalorraquídeo",
+    "relacion": "realizado_por",
+    "valor": "profesional de la salud"
+  },
+  {
+    "entidad": "Análisis del líquido cefalorraquídeo",
+    "relacion": "es_tipo_de",
+    "valor": "prueba de laboratorio"
+  },
+  {
+    "entidad": "Análisis del líquido cefalorraquídeo",
+    "relacion": "se_realiza_en",
+    "valor": "hospital"
+  },
+  {
+    "entidad": "Análisis de sangre de la brecha aniónica",
+    "relacion": "mide",
+    "valor": "equilibrio ácido-base en la sangre"
+  },
+  {
+    "entidad": "Análisis de sangre de la brecha aniónica",
+    "relacion": "mide",
+    "valor": "desequilibrio electrolítico en la sangre"
+  },
+  {
+    "entidad": "Análisis de sangre de la brecha aniónica",
+    "relacion": "requiere_muestra_de",
+    "valor": "sangre de una vena del brazo"
+  },
+  {
+    "entidad": "Análisis de sangre de la brecha aniónica",
+    "relacion": "diagnostica",
+    "valor": "acidosis"
+  },
+  {
+    "entidad": "Análisis de sangre de la brecha aniónica",
+    "relacion": "diagnostica",
+    "valor": "alcalosis"
+  },
+  {
+    "entidad": "Análisis de sangre de la brecha aniónica",
+    "relacion": "tiene_duracion",
+    "valor": "menos de cinco minutos"
+  },
+  {
+    "entidad": "Análisis de sangre de la brecha aniónica",
+    "relacion": "tiene_riesgo",
+    "valor": "dolor leve o moretón en el lugar de la punción"
+  },
+  {
+    "entidad": "Análisis de sangre de la brecha aniónica",
+    "relacion": "util_para",
+    "valor": "evaluar el equilibrio ácido-base y electrolitos"
+  },
+  {
+    "entidad": "Análisis de sangre de la brecha aniónica",
+    "relacion": "es_tipo_de",
+    "valor": "análisis de sangre"
+  },
+  {
+    "entidad": "Análisis de sangre de la brecha aniónica",
+    "relacion": "realizado_por",
+    "valor": "profesional de la salud"
+  },
+  {
+    "entidad": "Análisis de semen",
+    "relacion": "mide",
+    "valor": "cantidad y calidad del semen y espermatozoides"
+  },
+  {
+    "entidad": "Análisis de semen",
+    "relacion": "analiza",
+    "valor": "volumen"
+  },
+  {
+    "entidad": "Análisis de semen",
+    "relacion": "analiza",
+    "valor": "recuento espermático"
+  },
+  {
+    "entidad": "Análisis de semen",
+    "relacion": "analiza",
+    "valor": "concentración de espermatozoides"
+  },
+  {
+    "entidad": "Análisis de semen",
+    "relacion": "analiza",
+    "valor": "movimiento de los espermatozoides"
+  },
+  {
+    "entidad": "Análisis de semen",
+    "relacion": "analiza",
+    "valor": "forma de los espermatozoides"
+  },
+  {
+    "entidad": "Análisis de semen",
+    "relacion": "analiza",
+    "valor": "pH"
+  },
+  {
+    "entidad": "Análisis de semen",
+    "relacion": "analiza",
+    "valor": "tiempo de licuefacción"
+  },
+  {
+    "entidad": "Análisis de semen",
+    "relacion": "indicado_si_tiene",
+    "valor": "dificultad para concebir"
+  },
+  {
+    "entidad": "Análisis de semen",
+    "relacion": "indicado_si_tiene",
+    "valor": "confirmar éxito de una vasectomía"
+  },
+  {
+    "entidad": "Análisis de semen",
+    "relacion": "diagnostica",
+    "valor": "infertilidad"
+  },
+  {
+    "entidad": "Análisis de semen",
+    "relacion": "requiere_muestra_de",
+    "valor": "semen"
+  },
+  {
+    "entidad": "Análisis de semen",
+    "relacion": "tiene_duracion",
+    "valor": "15 a 30 minutos para licuefacción"
+  },
+  {
+    "entidad": "Análisis de semen",
+    "relacion": "tiene_riesgo",
+    "valor": "ninguno conocido"
+  },
+  {
+    "entidad": "Análisis de semen",
+    "relacion": "se_realiza_en",
+    "valor": "laboratorio"
+  },
+  {
+    "entidad": "Análisis de semen",
+    "relacion": "realizado_por",
+    "valor": "profesional de la salud"
+  },
+  {
+    "entidad": "Prueba de sangre",
+    "relacion": "requiere_muestra_de",
+    "valor": "sangre"
+  },
+  {
+    "entidad": "Prueba de sangre",
+    "relacion": "tiene_duracion",
+    "valor": "8 a 12 horas de ayuno"
+  },
+  {
+    "entidad": "Prueba de sangre",
+    "relacion": "util_para",
+    "valor": "diagnosticar condiciones de salud"
+  },
+  {
+    "entidad": "Prueba de glucosa en sangre",
+    "relacion": "mide",
+    "valor": "nivel de glucosa en la sangre"
+  },
+  {
+    "entidad": "Prueba de glucosa en sangre",
+    "relacion": "diagnostica",
+    "valor": "diabetes"
+  },
+  {
+    "entidad": "Prueba de glucosa en sangre",
+    "relacion": "diagnostica",
+    "valor": "prediabetes"
+  },
+  {
+    "entidad": "Prueba de glucosa en sangre",
+    "relacion": "diagnostica",
+    "valor": "diabetes gestacional"
+  },
+  {
+    "entidad": "Niveles de colesterol",
+    "relacion": "mide",
+    "valor": "nivel de lípidos en la sangre"
+  },
+  {
+    "entidad": "Niveles de colesterol",
+    "relacion": "diagnostica",
+    "valor": "enfermedad cardiaca"
+  },
+  {
+    "entidad": "Panel metabólico básico",
+    "relacion": "mide",
+    "valor": "químicos naturales en la sangre"
+  },
+  {
+    "entidad": "Panel metabólico básico",
+    "relacion": "util_para",
+    "valor": "evaluar funcionamiento de órganos"
+  },
+  {
+    "entidad": "Pruebas funcionales hepáticas",
+    "relacion": "mide",
+    "valor": "proteínas y sustancias del hígado"
+  },
+  {
+    "entidad": "Panel de función renal",
+    "relacion": "mide",
+    "valor": "productos de desecho y sustancias del riñón"
+  },
+  {
+    "entidad": "Panel de función renal",
+    "relacion": "util_para",
+    "valor": "vigilar función renal"
+  },
+  {
+    "entidad": "Análisis de sangre de lipoproteína (a)",
+    "relacion": "mide",
+    "valor": "nivel de lipoproteína (a) en la sangre"
+  },
+  {
+    "entidad": "Análisis de sangre de lipoproteína (a)",
+    "relacion": "indicado_si_tiene",
+    "valor": "alto riesgo de enfermedad cardíaca"
+  },
+  {
+    "entidad": "Análisis de sangre de lipoproteína (a)",
+    "relacion": "indicado_si_tiene",
+    "valor": "antecedentes familiares de niveles altos de lipoproteína (a)"
+  },
+  {
+    "entidad": "Análisis de sangre de lipoproteína (a)",
+    "relacion": "diagnostica",
+    "valor": "enfermedad cardíaca"
+  },
+  {
+    "entidad": "Análisis de sangre de lipoproteína (a)",
+    "relacion": "diagnostica",
+    "valor": "accidente cerebrovascular"
+  },
+  {
+    "entidad": "Análisis de sangre de lipoproteína (a)",
+    "relacion": "diagnostica",
+    "valor": "enfermedad de las arterias periféricas"
+  },
+  {
+    "entidad": "Análisis de sangre de lipoproteína (a)",
+    "relacion": "requiere_muestra_de",
+    "valor": "sangre de una vena del brazo"
+  },
+  {
+    "entidad": "Análisis de sangre de lipoproteína (a)",
+    "relacion": "tiene_duracion",
+    "valor": "menos de cinco minutos"
+  },
+  {
+    "entidad": "Análisis de sangre de lipoproteína (a)",
+    "relacion": "tiene_riesgo",
+    "valor": "dolor leve o moretón en el lugar de la punción"
+  },
+  {
+    "entidad": "Análisis de sangre de lipoproteína (a)",
+    "relacion": "util_para",
+    "valor": "entender riesgo de enfermedad cardíaca"
+  },
+  {
+    "entidad": "Análisis de sangre de lipoproteína (a)",
+    "relacion": "es_tipo_de",
+    "valor": "análisis de sangre"
+  },
+  {
+    "entidad": "Análisis de sangre de lipoproteína (a)",
+    "relacion": "ayuda_diagnosticar",
+    "valor": "riesgo cardiovascular"
+  },
+  {
+    "entidad": "Análisis de sangre de lipoproteína (a)",
+    "relacion": "sugiere_condicion",
+    "valor": "alto riesgo de enfermedad cardíaca"
+  },
+  {
+    "entidad": "Análisis de sangre de lipoproteína (a)",
+    "relacion": "realizado_por",
+    "valor": "médico o profesional de la salud"
+  },
+  {
+    "entidad": "Análisis del complemento",
+    "relacion": "mide",
+    "valor": "niveles y actividad de proteínas del complemento"
+  },
+  {
+    "entidad": "Análisis del complemento",
+    "relacion": "diagnostica",
+    "valor": "enfermedades autoinmunes"
+  },
+  {
+    "entidad": "Análisis del complemento",
+    "relacion": "diagnostica",
+    "valor": "infecciones bacterianas"
+  },
+  {
+    "entidad": "Análisis del complemento",
+    "relacion": "diagnostica",
+    "valor": "infecciones virales"
+  },
+  {
+    "entidad": "Análisis del complemento",
+    "relacion": "diagnostica",
+    "valor": "infecciones micóticas"
+  },
+  {
+    "entidad": "Análisis del complemento",
+    "relacion": "indicado_si_tiene",
+    "valor": "lupus"
+  },
+  {
+    "entidad": "Análisis del complemento",
+    "relacion": "indicado_si_tiene",
+    "valor": "artritis reumatoide"
+  },
+  {
+    "entidad": "Análisis del complemento",
+    "relacion": "alivia",
+    "valor": "síntomas de enfermedades autoinmunes"
+  },
+  {
+    "entidad": "Análisis del complemento",
+    "relacion": "requiere_muestra_de",
+    "valor": "sangre"
+  },
+  {
+    "entidad": "Análisis del complemento",
+    "relacion": "tiene_duracion",
+    "valor": "menos de cinco minutos"
+  },
+  {
+    "entidad": "Análisis del complemento",
+    "relacion": "tiene_riesgo",
+    "valor": "dolor leve en el lugar de la punción"
+  },
+  {
+    "entidad": "Análisis del complemento",
+    "relacion": "tiene_riesgo",
+    "valor": "formación de moretón"
+  },
+  {
+    "entidad": "Análisis del complemento",
+    "relacion": "realizado_por",
+    "valor": "profesional de la salud"
+  },
+  {
+    "entidad": "Análisis del líquido sinovial",
+    "relacion": "analiza",
+    "valor": "aspecto del líquido sinovial"
+  },
+  {
+    "entidad": "Análisis del líquido sinovial",
+    "relacion": "analiza",
+    "valor": "sustancias químicas del líquido sinovial"
+  },
+  {
+    "entidad": "Análisis del líquido sinovial",
+    "relacion": "analiza",
+    "valor": "cristales, bacterias y otras sustancias"
+  },
+  {
+    "entidad": "Análisis del líquido sinovial",
+    "relacion": "diagnostica",
+    "valor": "osteoartritis"
+  },
+  {
+    "entidad": "Análisis del líquido sinovial",
+    "relacion": "diagnostica",
+    "valor": "gota"
+  },
+  {
+    "entidad": "Análisis del líquido sinovial",
+    "relacion": "diagnostica",
+    "valor": "artritis reumatoide"
+  },
+  {
+    "entidad": "Análisis del líquido sinovial",
+    "relacion": "diagnostica",
+    "valor": "derrame articular"
+  },
+  {
+    "entidad": "Análisis del líquido sinovial",
+    "relacion": "diagnostica",
+    "valor": "infección en una articulación"
+  },
+  {
+    "entidad": "Análisis del líquido sinovial",
+    "relacion": "diagnostica",
+    "valor": "trastorno hemorrágico"
+  },
+  {
+    "entidad": "Análisis del líquido sinovial",
+    "relacion": "indicado_si_tiene",
+    "valor": "dolor de articulaciones con fiebre"
+  },
+  {
+    "entidad": "Análisis del líquido sinovial",
+    "relacion": "indicado_si_tiene",
+    "valor": "inflamación de articulaciones"
+  },
+  {
+    "entidad": "Análisis del líquido sinovial",
+    "relacion": "indicado_si_tiene",
+    "valor": "enrojecimiento sobre la articulación"
+  },
+  {
+    "entidad": "Análisis del líquido sinovial",
+    "relacion": "indicado_si_tiene",
+    "valor": "articulación que se siente caliente al tacto"
+  },
+  {
+    "entidad": "Análisis del líquido sinovial",
+    "relacion": "indicado_si_tiene",
+    "valor": "problemas para doblar la articulación"
+  },
+  {
+    "entidad": "Análisis del líquido sinovial",
+    "relacion": "requiere_muestra_de",
+    "valor": "líquido sinovial"
+  },
+  {
+    "entidad": "Análisis del líquido sinovial",
+    "relacion": "tiene_duracion",
+    "valor": "menos de dos minutos"
+  },
+  {
+    "entidad": "Análisis del líquido sinovial",
+    "relacion": "tiene_riesgo",
+    "valor": "dolor en la articulación por un par de días"
+  },
+  {
+    "entidad": "Análisis del líquido sinovial",
+    "relacion": "tiene_riesgo",
+    "valor": "infección"
+  },
+  {
+    "entidad": "Análisis del líquido sinovial",
+    "relacion": "tiene_riesgo",
+    "valor": "sangrado"
+  },
+  {
+    "entidad": "Análisis del líquido sinovial",
+    "relacion": "utiliza_equipo",
+    "valor": "jeringa"
+  },
+  {
+    "entidad": "Análisis del líquido sinovial",
+    "relacion": "realizado_por",
+    "valor": "profesional de la salud"
+  },
+  {
+    "entidad": "Análisis del líquido sinovial",
+    "relacion": "es_tipo_de",
+    "valor": "análisis de laboratorio"
+  },
+  {
+    "entidad": "Análisis del líquido sinovial",
+    "relacion": "util_para",
+    "valor": "determinar trastornos de las articulaciones"
+  }
+]

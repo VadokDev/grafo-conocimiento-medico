@@ -1,0 +1,287 @@
+[
+  {
+    "entidad": "síndrome aórtico agudo",
+    "relacion": "describe",
+    "valor": "conjunto de patologías de la aorta"
+  },
+  {
+    "entidad": "dolor torácico agudo",
+    "relacion": "es un síntoma de",
+    "valor": "síndrome aórtico agudo"
+  },
+  {
+    "entidad": "síndrome aórtico agudo",
+    "relacion": "afecta a",
+    "valor": "pacientes"
+  },
+  {
+    "entidad": "disección aórtica",
+    "relacion": "es un tipo de",
+    "valor": "síndrome aórtico agudo"
+  },
+  {
+    "entidad": "hematoma intramural aórtico",
+    "relacion": "es un tipo de",
+    "valor": "síndrome aórtico agudo"
+  },
+  {
+    "entidad": "úlcera aórtica penetrante",
+    "relacion": "es un tipo de",
+    "valor": "síndrome aórtico agudo"
+  },
+  {
+    "entidad": "Angio-TC",
+    "relacion": "es el examen de elección para",
+    "valor": "evaluar síndrome aórtico agudo"
+  },
+  {
+    "entidad": "dímero D",
+    "relacion": "es un biomarcador para",
+    "valor": "síndrome aórtico agudo"
+  },
+  {
+    "entidad": "hipertensión arterial",
+    "relacion": "es un factor de riesgo para",
+    "valor": "disección aórtica"
+  },
+  {
+    "entidad": "aterosclerosis",
+    "relacion": "es un factor de riesgo para",
+    "valor": "disección aórtica"
+  },
+  {
+    "entidad": "síndrome de Marfan",
+    "relacion": "es un factor de riesgo para",
+    "valor": "disección aórtica"
+  },
+  {
+    "entidad": "ecocardiografía",
+    "relacion": "es un examen utilizado para",
+    "valor": "diagnóstico inicial de síndrome aórtico agudo"
+  },
+  {
+    "entidad": "resonancia magnética",
+    "relacion": "es una alternativa a",
+    "valor": "Angio-TC en diagnóstico de síndrome aórtico agudo"
+  },
+  {
+    "entidad": "clasificación de Stanford",
+    "relacion": "se utiliza para",
+    "valor": "clasificar disección aórtica"
+  },
+  {
+    "entidad": "clasificación de DeBakey",
+    "relacion": "se utiliza para",
+    "valor": "clasificar disección aórtica"
+  },
+  {
+    "entidad": "síndrome aórtico agudo",
+    "relacion": "requiere",
+    "valor": "diagnóstico precoz"
+  },
+  {
+    "entidad": "imágenes",
+    "relacion": "son fundamentales para",
+    "valor": "diagnóstico del síndrome aórtico agudo"
+  },
+  {
+    "entidad": "Etilenglicol",
+    "relacion": "causa",
+    "valor": "intoxicación"
+  },
+  {
+    "entidad": "intoxicación por etilenglicol",
+    "relacion": "caracterizada por",
+    "valor": "aumento del gap osmolal plasmático"
+  },
+  {
+    "entidad": "intoxicación por etilenglicol",
+    "relacion": "induce",
+    "valor": "acidosis metabólica"
+  },
+  {
+    "entidad": "acidosis metabólica",
+    "relacion": "asociada con",
+    "valor": "aumento del anion gap"
+  },
+  {
+    "entidad": "intoxicación por etilenglicol",
+    "relacion": "presenta",
+    "valor": "compromiso neurológico"
+  },
+  {
+    "entidad": "intoxicación por etilenglicol",
+    "relacion": "requiere",
+    "valor": "terapia de reemplazo renal"
+  },
+  {
+    "entidad": "etilenglicol",
+    "relacion": "se utiliza como",
+    "valor": "anticongelante"
+  },
+  {
+    "entidad": "etilenglicol",
+    "relacion": "se metaboliza en",
+    "valor": "ácido glicólico"
+  },
+  {
+    "entidad": "ácido glicólico",
+    "relacion": "induce",
+    "valor": "daño renal"
+  },
+  {
+    "entidad": "glicolato",
+    "relacion": "afecta",
+    "valor": "respiración celular"
+  },
+  {
+    "entidad": "oxalato",
+    "relacion": "precipita con",
+    "valor": "calcio"
+  },
+  {
+    "entidad": "intoxicación por etilenglicol",
+    "relacion": "puede causar",
+    "valor": "falla renal aguda"
+  },
+  {
+    "entidad": "falla renal aguda",
+    "relacion": "requiere",
+    "valor": "hemodiálisis"
+  },
+  {
+    "entidad": "etileno",
+    "relacion": "se utiliza como",
+    "valor": "solvente"
+  },
+  {
+    "entidad": "fomepizol",
+    "relacion": "inhibe",
+    "valor": "metabolismo de etilenglicol"
+  },
+  {
+    "entidad": "etanol",
+    "relacion": "inhibe",
+    "valor": "metabolismo de etilenglicol"
+  },
+  {
+    "entidad": "lavado gástrico",
+    "relacion": "es",
+    "valor": "de escasa utilidad"
+  },
+  {
+    "entidad": "bicarbonato de sodio",
+    "relacion": "se utiliza en",
+    "valor": "acidosis metabólica severa"
+  },
+  {
+    "entidad": "pH < 7,1",
+    "relacion": "es un",
+    "valor": "factor de mal pronóstico"
+  },
+  {
+    "entidad": "glicolato > 10 mmol/L",
+    "relacion": "predice",
+    "valor": "falla renal aguda"
+  },
+  {
+    "entidad": "intoxicación por etilenglicol",
+    "relacion": "debe ser conocida por",
+    "valor": "médicos en unidades de urgencia"
+  },
+  {
+    "entidad": "Reserva Cognitiva",
+    "relacion": "afecta",
+    "valor": "función cognitiva en presencia de daño cerebral"
+  },
+  {
+    "entidad": "envejecimiento",
+    "relacion": "es un",
+    "valor": "proceso irreversible"
+  },
+  {
+    "entidad": "enfermedades neurodegenerativas",
+    "relacion": "incluye",
+    "valor": "demencias"
+  },
+  {
+    "entidad": "cognición",
+    "relacion": "se ve afectada por",
+    "valor": "cambios fisiológicos y moleculares"
+  },
+  {
+    "entidad": "cognición",
+    "relacion": "es influenciada por",
+    "valor": "la reserva cognitiva"
+  },
+  {
+    "entidad": "alta reserva cognitiva",
+    "relacion": "no limita",
+    "valor": "efectos de deterioro cognitivo en demencias avanzadas"
+  },
+  {
+    "entidad": "escolaridad",
+    "relacion": "es un predictor de",
+    "valor": "reserva cognitiva"
+  },
+  {
+    "entidad": "factores ambientales",
+    "relacion": "impactan",
+    "valor": "la progresión de demencias"
+  },
+  {
+    "entidad": "fármacos anticolinérgicos",
+    "relacion": "promueven",
+    "valor": "deterioro cognitivo"
+  },
+  {
+    "entidad": "síntomas depresivos",
+    "relacion": "atenuan",
+    "valor": "efecto de la reserva cognitiva"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen mayor prevalencia de",
+    "valor": "demencia tipo Alzheimer"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "muestran variaciones en",
+    "valor": "severidad de demencia con alta reserva cognitiva"
+  },
+  {
+    "entidad": "programas de estimulación cognitiva",
+    "relacion": "potencian",
+    "valor": "grosor cortical en demencias"
+  },
+  {
+    "entidad": "contaminantes ambientales",
+    "relacion": "inducen",
+    "valor": "neuroinflamación y neuropatología"
+  },
+  {
+    "entidad": "alta reserva cognitiva",
+    "relacion": "no logra",
+    "valor": "un efecto benéfico en demencias avanzadas"
+  },
+  {
+    "entidad": "deterioro cognitivo",
+    "relacion": "es acelerado por",
+    "valor": "uso de fármacos anticolinérgicos"
+  },
+  {
+    "entidad": "cognición",
+    "relacion": "se ve afectada por",
+    "valor": "síntomas neuropsiquiátricos"
+  },
+  {
+    "entidad": "alta reserva cognitiva",
+    "relacion": "no reduce",
+    "valor": "declive cognitivo en demencias"
+  },
+  {
+    "entidad": "flujo sanguíneo cerebral",
+    "relacion": "se asocia con",
+    "valor": "deterioro cognitivo en Alzheimer"
+  }
+]

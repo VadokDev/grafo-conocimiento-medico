@@ -1,0 +1,112 @@
+[
+  {
+    "entidad": "mieloma múltiple",
+    "relacion": "es un",
+    "valor": "neoplasia de células B clonales"
+  },
+  {
+    "entidad": "mieloma múltiple",
+    "relacion": "se caracteriza por",
+    "valor": "acumulación de células plasmáticas malignas en la médula ósea"
+  },
+  {
+    "entidad": "mieloma múltiple",
+    "relacion": "representa",
+    "valor": "1% de todas las neoplasias"
+  },
+  {
+    "entidad": "mieloma múltiple",
+    "relacion": "es aproximadamente",
+    "valor": "10% de las hemopatías malignas"
+  },
+  {
+    "entidad": "talidomida",
+    "relacion": "cambia",
+    "valor": "el tratamiento de pacientes con mieloma múltiple"
+  },
+  {
+    "entidad": "talidomida",
+    "relacion": "tiene efectos secundarios",
+    "valor": "que comprometen su efectividad"
+  },
+  {
+    "entidad": "IMiDs",
+    "relacion": "son",
+    "valor": "análogos estructurales y funcionales de la talidomida"
+  },
+  {
+    "entidad": "lenalidomida",
+    "relacion": "demuestra",
+    "valor": "actividad potente y es altamente efectiva"
+  },
+  {
+    "entidad": "pomalidomida",
+    "relacion": "demuestra",
+    "valor": "actividad potente y es altamente efectiva"
+  },
+  {
+    "entidad": "lenalidomida",
+    "relacion": "se utiliza en combinación con",
+    "valor": "dexametasona"
+  },
+  {
+    "entidad": "dexametasona",
+    "relacion": "mejora",
+    "valor": "los efectos citotóxicos de lenalidomida"
+  },
+  {
+    "entidad": "lenalidomida",
+    "relacion": "induce",
+    "valor": "apoptosis en células de mieloma"
+  },
+  {
+    "entidad": "pomalidomida",
+    "relacion": "regula negativamente",
+    "valor": "moléculas de adhesión celular"
+  },
+  {
+    "entidad": "pomalidomida",
+    "relacion": "reduce",
+    "valor": "secreción de IL-6 y VEGF"
+  },
+  {
+    "entidad": "lenalidomida",
+    "relacion": "aumenta",
+    "valor": "la respuesta inmune anti-tumoral"
+  },
+  {
+    "entidad": "células T",
+    "relacion": "son estimuladas por",
+    "valor": "lenalidomida"
+  },
+  {
+    "entidad": "células NK",
+    "relacion": "son estimuladas por",
+    "valor": "lenalidomida"
+  },
+  {
+    "entidad": "Cereblon (CRBN)",
+    "relacion": "es",
+    "valor": "la proteína de unión clave para lenalidomida y pomalidomida"
+  },
+  {
+    "entidad": "resistencia a IMiDs",
+    "relacion": "se asocia con",
+    "valor": "disminución en los niveles de proteína CRBN"
+  },
+  {
+    "entidad": "lenalidomida",
+    "relacion": "induce",
+    "valor": "degradación de Ikaros y Aiolos"
+  },
+  {
+    "entidad": "mecanismos de resistencia",
+    "relacion": "son necesarios para",
+    "valor": "la búsqueda de nuevos enfoques terapéuticos"
+  },
+  {
+    "entidad": "IMiDs",
+    "relacion": "demuestran",
+    "valor": "una actividad potente y son opciones de tratamiento altamente eficaces"
+  }
+]

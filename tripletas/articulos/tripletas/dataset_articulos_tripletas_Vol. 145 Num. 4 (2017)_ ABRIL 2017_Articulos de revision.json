@@ -1,0 +1,207 @@
+[
+  {
+    "entidad": "Dieta mediterránea",
+    "relacion": "afecta a",
+    "valor": "prevención de la enfermedad de Alzheimer"
+  },
+  {
+    "entidad": "enfermedad de Alzheimer",
+    "relacion": "es",
+    "valor": "la causa más común de demencia en adultos mayores"
+  },
+  {
+    "entidad": "diabetes tipo 2",
+    "relacion": "es un",
+    "valor": "factor de riesgo modificable para la enfermedad de Alzheimer"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "es un",
+    "valor": "factor de riesgo modificable para la enfermedad de Alzheimer"
+  },
+  {
+    "entidad": "dieta mediterránea",
+    "relacion": "incluye",
+    "valor": "frutas, verduras, aceite de oliva, pescado y vino moderado"
+  },
+  {
+    "entidad": "dieta mediterránea",
+    "relacion": "reduce",
+    "valor": "estrés oxidativo"
+  },
+  {
+    "entidad": "ácidos grasos insaturados",
+    "relacion": "reducen",
+    "valor": "respuesta inflamatoria"
+  },
+  {
+    "entidad": "dieta mediterránea",
+    "relacion": "mejora",
+    "valor": "factores de riesgo cardiovascular"
+  },
+  {
+    "entidad": "dieta mediterránea",
+    "relacion": "disminuye",
+    "valor": "riesgo de deterioro cognitivo"
+  },
+  {
+    "entidad": "dieta mediterránea",
+    "relacion": "posee",
+    "valor": "efecto neuroprotector"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "aumenta",
+    "valor": "flujo sanguíneo cerebral"
+  },
+  {
+    "entidad": "dieta mediterránea",
+    "relacion": "asocia con",
+    "valor": "menor prevalencia de enfermedades crónicas"
+  },
+  {
+    "entidad": "dieta mediterránea",
+    "relacion": "se relaciona con",
+    "valor": "menor riesgo de eventos cardiovasculares"
+  },
+  {
+    "entidad": "dieta mediterránea",
+    "relacion": "promueve",
+    "valor": "reducción de marcadores inflamatorios"
+  },
+  {
+    "entidad": "ácidos grasos omega 3",
+    "relacion": "asocian con",
+    "valor": "disminución del riesgo de demencia"
+  },
+  {
+    "entidad": "vitamina E",
+    "relacion": "puede reducir",
+    "valor": "riesgo de demencia"
+  },
+  {
+    "entidad": "dieta mediterránea",
+    "relacion": "ayuda a",
+    "valor": "disminuir el estrés oxidativo"
+  },
+  {
+    "entidad": "alcohol",
+    "relacion": "ingerido moderadamente",
+    "valor": "se relaciona con menor riesgo de desarrollar EA"
+  },
+  {
+    "entidad": "polifenoles",
+    "relacion": "protegen",
+    "valor": "vasos sanguíneos de procesos inflamatorios"
+  },
+  {
+    "entidad": "dieta mediterránea",
+    "relacion": "contribuye a",
+    "valor": "disminuir complicaciones cognitivas"
+  },
+  {
+    "entidad": "dieta mediterránea",
+    "relacion": "se recomienda",
+    "valor": "para disminuir el riesgo de EA"
+  },
+  {
+    "entidad": "Farmacogenómica",
+    "relacion": "es",
+    "valor": "herramienta fundamental para la medicina personalizada"
+  },
+  {
+    "entidad": "Farmacogenómica",
+    "relacion": "aplica",
+    "valor": "en la práctica clínica"
+  },
+  {
+    "entidad": "polimorfismos genéticos",
+    "relacion": "modifican",
+    "valor": "la expresión y función de enzimas y proteínas"
+  },
+  {
+    "entidad": "enzimas y proteínas",
+    "relacion": "involucradas en",
+    "valor": "el metabolismo de fármacos"
+  },
+  {
+    "entidad": "variantes alélicas",
+    "relacion": "clasifican",
+    "valor": "a las personas como metabolizadores pobres, extensivos o rápidos"
+  },
+  {
+    "entidad": "respuesta a fármacos",
+    "relacion": "afecta",
+    "valor": "la eficacia y seguridad del tratamiento"
+  },
+  {
+    "entidad": "técnicas no invasivas",
+    "relacion": "desarrollan",
+    "valor": "en ingeniería genética y biología molecular"
+  },
+  {
+    "entidad": "Proyectos Genoma Humano",
+    "relacion": "aportan",
+    "valor": "a la comprensión de la variación genética humana"
+  },
+  {
+    "entidad": "farmacogenómica",
+    "relacion": "busca",
+    "valor": "definir tratamientos farmacológicos personalizados"
+  },
+  {
+    "entidad": "biomarcadores genéticos",
+    "relacion": "proporcionan",
+    "valor": "herramientas para decisiones informadas en tratamientos"
+  },
+  {
+    "entidad": "FDA",
+    "relacion": "acoge",
+    "valor": "la validación y aprobación de biomarcadores farmacogenéticos"
+  },
+  {
+    "entidad": "farmacogenómica",
+    "relacion": "se aplica",
+    "valor": "en oncología, psiquiatría, cardiología y neurología"
+  },
+  {
+    "entidad": "polimorfismos genéticos",
+    "relacion": "asocian",
+    "valor": "a reacciones adversas a medicamentos"
+  },
+  {
+    "entidad": "farmacogenómica",
+    "relacion": "enfrenta",
+    "valor": "desafíos en su aplicación clínica"
+  },
+  {
+    "entidad": "profesionales de la salud",
+    "relacion": "necesitan",
+    "valor": "capacitación en farmacogenómica"
+  },
+  {
+    "entidad": "estudios farmacogenómicos",
+    "relacion": "han sido",
+    "valor": "graduales en su aceptación"
+  },
+  {
+    "entidad": "variabilidad interindividual",
+    "relacion": "es causada por",
+    "valor": "factores genéticos y no genéticos"
+  },
+  {
+    "entidad": "algoritmos",
+    "relacion": "deben incluir",
+    "valor": "factores no genómicos y ambientales"
+  },
+  {
+    "entidad": "Comisión Nacional Científica y Tecnológica (CONICYT)",
+    "relacion": "financia",
+    "valor": "el proyecto Fondecyt 1140434"
+  },
+  {
+    "entidad": "Sociedad Latinoamericana de Farmacogenómica y Medicina Personalizada (SOLFAGEM)",
+    "relacion": "patrocina",
+    "valor": "el trabajo"
+  }
+]

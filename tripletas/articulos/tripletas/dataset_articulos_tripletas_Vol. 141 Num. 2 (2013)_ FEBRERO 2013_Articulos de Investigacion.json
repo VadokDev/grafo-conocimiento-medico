@@ -1,0 +1,952 @@
+[
+  {
+    "entidad": "Hospital Geriátrico Provincial",
+    "relacion": "es un",
+    "valor": "centro de referencia en atención geriátrica"
+  },
+  {
+    "entidad": "Ministerio de Salud de la Provincia de Santa Fe",
+    "relacion": "depende de",
+    "valor": "Hospital Geriátrico Provincial"
+  },
+  {
+    "entidad": "Criterios de Beers",
+    "relacion": "son utilizados para",
+    "valor": "identificar medicamentos potencialmente inapropiados"
+  },
+  {
+    "entidad": "polifarmacia",
+    "relacion": "incrementa el riesgo de",
+    "valor": "consumir medicamentos potencialmente inapropiados"
+  },
+  {
+    "entidad": "pacientes ancianos",
+    "relacion": "son susceptibles a",
+    "valor": "eventos adversos a medicamentos"
+  },
+  {
+    "entidad": "medicamentos potencialmente inapropiados",
+    "relacion": "deben evitarse en",
+    "valor": "adultos mayores"
+  },
+  {
+    "entidad": "Universidad Nacional de Rosario",
+    "relacion": "es un",
+    "valor": "institución educativa"
+  },
+  {
+    "entidad": "Gobierno de la Provincia de Santa Fe",
+    "relacion": "subsidiado",
+    "valor": "proyecto de investigación"
+  },
+  {
+    "entidad": "Secretaría de Extensión de la Universidad Nacional de Rosario",
+    "relacion": "ha apoyado",
+    "valor": "proyecto de investigación"
+  },
+  {
+    "entidad": "pacientes que utilizan AINEs",
+    "relacion": "deben recibir",
+    "valor": "medicamentos para protección gástrica"
+  },
+  {
+    "entidad": "fármacos psicotrópicos",
+    "relacion": "son utilizados por",
+    "valor": "pacientes ancianos"
+  },
+  {
+    "entidad": "Benzodiazepinas",
+    "relacion": "son un tipo de",
+    "valor": "fármacos psicotrópicos"
+  },
+  {
+    "entidad": "fármacos antitrombóticos",
+    "relacion": "son utilizados por",
+    "valor": "pacientes ancianos"
+  },
+  {
+    "entidad": "agentes que actúan sobre el sistema renina-angiotensina",
+    "relacion": "son utilizados por",
+    "valor": "pacientes ancianos"
+  },
+  {
+    "entidad": "anti-ulcer agents",
+    "relacion": "son utilizados por",
+    "valor": "pacientes ancianos"
+  },
+  {
+    "entidad": "medicación inapropiada",
+    "relacion": "se asocia con",
+    "valor": "polifarmacia"
+  },
+  {
+    "entidad": "Criterios de Beers",
+    "relacion": "fueron actualizados en",
+    "valor": "2012"
+  },
+  {
+    "entidad": "pacientes ancianos",
+    "relacion": "residen en",
+    "valor": "Hospital Geriátrico Provincial"
+  },
+  {
+    "entidad": "formulario terapéutico provincial",
+    "relacion": "es de uso obligatorio en",
+    "valor": "instituciones oficiales de la provincia"
+  },
+  {
+    "entidad": "análisis bivariado y multivariado",
+    "relacion": "se utiliza para",
+    "valor": "analizar la asociación entre variables"
+  },
+  {
+    "entidad": "estrategias",
+    "relacion": "son necesarias para",
+    "valor": "optimizar la calidad prescriptiva"
+  },
+  {
+    "entidad": "diabetes tipo 2",
+    "relacion": "es un",
+    "valor": "problema de salud pública"
+  },
+  {
+    "entidad": "control glicémico",
+    "relacion": "asocia con",
+    "valor": "apoyo familiar"
+  },
+  {
+    "entidad": "control glicémico",
+    "relacion": "asocia con",
+    "valor": "nivel de conocimientos"
+  },
+  {
+    "entidad": "apoyo familiar",
+    "relacion": "mejora",
+    "valor": "control glicémico"
+  },
+  {
+    "entidad": "nivel de conocimientos",
+    "relacion": "no afecta",
+    "valor": "control glicémico"
+  },
+  {
+    "entidad": "pacientes con diabetes tipo 2",
+    "relacion": "completan",
+    "valor": "encuesta demográfica"
+  },
+  {
+    "entidad": "hemoglobina glicosilada (HbA1c)",
+    "relacion": "se mide para",
+    "valor": "evaluar control glicémico"
+  },
+  {
+    "entidad": "apoyo familiar",
+    "relacion": "se clasifica en",
+    "valor": "alto, medio y bajo"
+  },
+  {
+    "entidad": "programas de educación en diabetes",
+    "relacion": "tienen como objetivo",
+    "valor": "educar al paciente"
+  },
+  {
+    "entidad": "intervención familiar",
+    "relacion": "es eficaz para",
+    "valor": "mejorar conocimiento y control glicémico"
+  },
+  {
+    "entidad": "instrumentos validados",
+    "relacion": "se utilizan para",
+    "valor": "evaluar apoyo familiar"
+  },
+  {
+    "entidad": "Instituto Mexicano del Seguro Social (IMSS)",
+    "relacion": "financia",
+    "valor": "estudio"
+  },
+  {
+    "entidad": "pacientes con diabetes tipo 2",
+    "relacion": "requieren",
+    "valor": "educación sobre la enfermedad"
+  },
+  {
+    "entidad": "apoyo familiar medio",
+    "relacion": "aumenta",
+    "valor": "riesgo de descontrol glicémico"
+  },
+  {
+    "entidad": "pacientes con diabetes tipo 2",
+    "relacion": "deben recibir",
+    "valor": "educación para autocuidado"
+  },
+  {
+    "entidad": "nivel de conocimientos",
+    "relacion": "se mide a través de",
+    "valor": "instrumento validado"
+  },
+  {
+    "entidad": "apoyo familiar",
+    "relacion": "se relaciona con",
+    "valor": "mejoras en el autocuidado"
+  },
+  {
+    "entidad": "pacientes con diabetes tipo 2",
+    "relacion": "son evaluados en",
+    "valor": "consultorios de Medicina Familiar"
+  },
+  {
+    "entidad": "control glicémico adecuado",
+    "relacion": "se define como",
+    "valor": "HbA1c < 6,5%"
+  },
+  {
+    "entidad": "apoyo familiar alto",
+    "relacion": "se asocia con",
+    "valor": "mejor control glicémico"
+  },
+  {
+    "entidad": "apoyo familiar medio",
+    "relacion": "se asocia con",
+    "valor": "mayor riesgo de descontrol glicémico"
+  },
+  {
+    "entidad": "médicos",
+    "relacion": "trabajan en",
+    "valor": "Región Metropolitana de Santiago, Chile"
+  },
+  {
+    "entidad": "número de empleos",
+    "relacion": "afecta a",
+    "valor": "bienestar general de los médicos"
+  },
+  {
+    "entidad": "bienestar subjetivo",
+    "relacion": "se mide con",
+    "valor": "cuestionario BISUMED"
+  },
+  {
+    "entidad": "cuestionario BISUMED",
+    "relacion": "evalúa",
+    "valor": "54 ítems y 9 dimensiones"
+  },
+  {
+    "entidad": "especialidades médicas",
+    "relacion": "se agrupan en",
+    "valor": "siete grupos"
+  },
+  {
+    "entidad": "médicos",
+    "relacion": "reportan",
+    "valor": "tres o más empleos"
+  },
+  {
+    "entidad": "mujeres médicas",
+    "relacion": "tienen",
+    "valor": "mayor número de empleos que hombres"
+  },
+  {
+    "entidad": "bienestar médico",
+    "relacion": "es un indicador de",
+    "valor": "calidad en servicios de salud"
+  },
+  {
+    "entidad": "relación médico-paciente",
+    "relacion": "ha cambiado hacia",
+    "valor": "una mediada por terceros"
+  },
+  {
+    "entidad": "precariedad laboral",
+    "relacion": "afecta a",
+    "valor": "la salud de los médicos"
+  },
+  {
+    "entidad": "médicos",
+    "relacion": "experimentan",
+    "valor": "satisfacción e insatisfacción en su trabajo"
+  },
+  {
+    "entidad": "especialidades médicas",
+    "relacion": "muestran",
+    "valor": "asociaciones significativas con bienestar"
+  },
+  {
+    "entidad": "mujeres médicas",
+    "relacion": "asumen",
+    "valor": "mayor responsabilidad en roles familiares"
+  },
+  {
+    "entidad": "bienestar general",
+    "relacion": "incluye",
+    "valor": "satisfacción con el trabajo y la vida"
+  },
+  {
+    "entidad": "médicos pediatras",
+    "relacion": "revelan",
+    "valor": "mayor bienestar con más empleos"
+  },
+  {
+    "entidad": "médicos",
+    "relacion": "se enfrentan a",
+    "valor": "cambios en la práctica médica"
+  },
+  {
+    "entidad": "médicos",
+    "relacion": "son",
+    "valor": "empleados de instituciones públicas o privadas"
+  },
+  {
+    "entidad": "Facultad de Ciencias Empresariales",
+    "relacion": "pertenece a",
+    "valor": "Universidad de Talca"
+  },
+  {
+    "entidad": "Unidad de Cuidados Intensivos",
+    "relacion": "se encuentra en",
+    "valor": "Hospital Base de Curicó"
+  },
+  {
+    "entidad": "Unidad de Cuidados Intensivos",
+    "relacion": "se encuentra en",
+    "valor": "Hospital Regional de Talca"
+  },
+  {
+    "entidad": "Fondo Nacional de Investigación en Salud (FONIS)",
+    "relacion": "financia",
+    "valor": "proyecto de investigación"
+  },
+  {
+    "entidad": "Sandra Alvear Vega",
+    "relacion": "es",
+    "valor": "autora del estudio"
+  },
+  {
+    "entidad": "Jorge Canteros",
+    "relacion": "es",
+    "valor": "coautor del estudio"
+  },
+  {
+    "entidad": "Juan Jara",
+    "relacion": "es",
+    "valor": "coautor del estudio"
+  },
+  {
+    "entidad": "Patricia Rodríguez",
+    "relacion": "es",
+    "valor": "coautora del estudio"
+  },
+  {
+    "entidad": "costos de tratamientos intensivos",
+    "relacion": "son",
+    "valor": "altos"
+  },
+  {
+    "entidad": "costos de atención en UCI",
+    "relacion": "deben ser considerados en",
+    "valor": "toma de decisiones médicas"
+  },
+  {
+    "entidad": "costos",
+    "relacion": "desempeñan un papel importante en",
+    "valor": "toma de decisiones"
+  },
+  {
+    "entidad": "costos",
+    "relacion": "pueden ser clasificados según",
+    "valor": "perspectiva de análisis"
+  },
+  {
+    "entidad": "costos financieros",
+    "relacion": "afectan a",
+    "valor": "instituciones de salud"
+  },
+  {
+    "entidad": "Unidad de Cuidados Intensivos",
+    "relacion": "concentra",
+    "valor": "procesos clínicos complejos"
+  },
+  {
+    "entidad": "Hospital de Curicó",
+    "relacion": "realiza",
+    "valor": "estudio prospectivo"
+  },
+  {
+    "entidad": "Hospital de Talca",
+    "relacion": "realiza",
+    "valor": "estudio prospectivo"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "son clasificados según",
+    "valor": "patologías"
+  },
+  {
+    "entidad": "sepsis",
+    "relacion": "consume",
+    "valor": "mayor proporción de recursos en UCI"
+  },
+  {
+    "entidad": "trauma",
+    "relacion": "ocupa",
+    "valor": "segundo lugar en utilización de recursos"
+  },
+  {
+    "entidad": "costos promedio por día cama",
+    "relacion": "son mayores en",
+    "valor": "sepsis"
+  },
+  {
+    "entidad": "costos promedio por día cama",
+    "relacion": "son mayores en",
+    "valor": "cardiovasculares"
+  },
+  {
+    "entidad": "costos promedio por día cama",
+    "relacion": "son mayores en",
+    "valor": "renales"
+  },
+  {
+    "entidad": "costos promedio por día cama",
+    "relacion": "son mayores en",
+    "valor": "trauma"
+  },
+  {
+    "entidad": "costos asociados a actividades",
+    "relacion": "fluctúan entre",
+    "valor": "73% y 85% por patología"
+  },
+  {
+    "entidad": "costos de medicamentos",
+    "relacion": "fluctúan entre",
+    "valor": "4% y 12% por patología"
+  },
+  {
+    "entidad": "costos de insumos",
+    "relacion": "fluctúan entre",
+    "valor": "5% y 12% por patología"
+  },
+  {
+    "entidad": "Fondo Nacional de Salud (Fonasa)",
+    "relacion": "utiliza",
+    "valor": "arancel para valoración de exámenes"
+  },
+  {
+    "entidad": "costos de tratamientos intensivos",
+    "relacion": "deben ser medidos y analizados para",
+    "valor": "optimizar recursos"
+  },
+  {
+    "entidad": "virus papiloma humano (VPH)",
+    "relacion": "es un",
+    "valor": "factor de riesgo para cáncer cervical"
+  },
+  {
+    "entidad": "vacuna anti VPH",
+    "relacion": "previene",
+    "valor": "infección por VPH"
+  },
+  {
+    "entidad": "padres",
+    "relacion": "tienen disposición a pagar por",
+    "valor": "vacuna anti VPH"
+  },
+  {
+    "entidad": "encuesta",
+    "relacion": "fue respondida por",
+    "valor": "386 individuos"
+  },
+  {
+    "entidad": "padres",
+    "relacion": "están dispuestos a pagar",
+    "valor": "US$ 758 por la vacuna"
+  },
+  {
+    "entidad": "disposición a pagar",
+    "relacion": "está asociada con",
+    "valor": "precio de la vacuna"
+  },
+  {
+    "entidad": "disposición a pagar",
+    "relacion": "está asociada con",
+    "valor": "nivel de ingreso de los encuestados"
+  },
+  {
+    "entidad": "disposición a pagar",
+    "relacion": "está asociada con",
+    "valor": "tamaño de la familia"
+  },
+  {
+    "entidad": "MINSAL",
+    "relacion": "indica",
+    "valor": "conducta sexual como principal factor de riesgo de infección por VPH"
+  },
+  {
+    "entidad": "vacunas Gardasil® y Cervarix®",
+    "relacion": "son",
+    "valor": "vacunas disponibles contra VPH"
+  },
+  {
+    "entidad": "cáncer cérvico-uterino (CCU)",
+    "relacion": "es causado por",
+    "valor": "infección por VPH"
+  },
+  {
+    "entidad": "padres",
+    "relacion": "muestran preocupación por",
+    "valor": "contagio de sus hijas por VPH"
+  },
+  {
+    "entidad": "padres",
+    "relacion": "muestran preocupación por",
+    "valor": "lesiones genitales (LG)"
+  },
+  {
+    "entidad": "padres",
+    "relacion": "muestran preocupación por",
+    "valor": "cáncer cérvico-uterino (CCU)"
+  },
+  {
+    "entidad": "tamaño de grupo familiar",
+    "relacion": "afecta",
+    "valor": "probabilidad de adquirir vacunas"
+  },
+  {
+    "entidad": "ingreso familiar",
+    "relacion": "afecta",
+    "valor": "probabilidad de pagar por vacunas"
+  },
+  {
+    "entidad": "conocimiento sobre VPH",
+    "relacion": "afecta",
+    "valor": "probabilidad de pagar por vacunas"
+  },
+  {
+    "entidad": "Servicio de Quemados del Hospital de Asistencia Pública de Santiago",
+    "relacion": "es un",
+    "valor": "centro de referencia nacional para gran quemado adulto en Chile"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "tiene",
+    "valor": "aproximadamente 150 sujetos por año que sufren quemaduras severas"
+  },
+  {
+    "entidad": "pacientes quemados severos",
+    "relacion": "son",
+    "valor": "principalmente hombres en edad laboral"
+  },
+  {
+    "entidad": "fuego",
+    "relacion": "es el",
+    "valor": "agente productor más frecuente de quemaduras"
+  },
+  {
+    "entidad": "inhalación de humo",
+    "relacion": "es diagnosticada en",
+    "valor": "22% de los pacientes"
+  },
+  {
+    "entidad": "compromiso de conciencia",
+    "relacion": "afecta a",
+    "valor": "28% de los pacientes en el momento de la quemadura"
+  },
+  {
+    "entidad": "Ministerio de Salud (MINSAL)",
+    "relacion": "registra",
+    "valor": "egresos hospitalarios por quemaduras"
+  },
+  {
+    "entidad": "Instituto Nacional de Estadísticas",
+    "relacion": "informa",
+    "valor": "muertes por quemaduras en Chile"
+  },
+  {
+    "entidad": "dosis letal 50",
+    "relacion": "es",
+    "valor": "43%"
+  },
+  {
+    "entidad": "pacientes con compromiso de conciencia",
+    "relacion": "presentan",
+    "valor": "mayor letalidad"
+  },
+  {
+    "entidad": "pacientes bonzo",
+    "relacion": "son",
+    "valor": "un subgrupo especial de pacientes con quemaduras autoinferidas"
+  },
+  {
+    "entidad": "políticas de Estado",
+    "relacion": "garantizan",
+    "valor": "acceso y equidad en la atención de pacientes quemados graves"
+  },
+  {
+    "entidad": "Centro de Referencia Nacional",
+    "relacion": "creado en",
+    "valor": "2008 para pacientes quemados"
+  },
+  {
+    "entidad": "tratamiento estandarizado",
+    "relacion": "ha permitido",
+    "valor": "disminución de la letalidad en pacientes quemados"
+  },
+  {
+    "entidad": "pacientes añosos",
+    "relacion": "constituyen",
+    "valor": "un grupo especialmente vulnerable"
+  },
+  {
+    "entidad": "rehabilitación",
+    "relacion": "es un desafío pendiente",
+    "valor": "para pacientes quemados en Chile"
+  },
+  {
+    "entidad": "factor de crecimiento vascular endotelial (VEGF)",
+    "relacion": "es un",
+    "valor": "factor pro-angiogénico"
+  },
+  {
+    "entidad": "cáncer de próstata (CaP)",
+    "relacion": "es",
+    "valor": "la segunda causa de muerte por cáncer en hombres en Chile"
+  },
+  {
+    "entidad": "prostatectomía",
+    "relacion": "es un",
+    "valor": "tratamiento para el cáncer de próstata"
+  },
+  {
+    "entidad": "hiperplasia prostática benigna (HPB)",
+    "relacion": "es un",
+    "valor": "trastorno prostático no maligno"
+  },
+  {
+    "entidad": "VEGF",
+    "relacion": "se asocia con",
+    "valor": "recidiva tumoral"
+  },
+  {
+    "entidad": "VEGF",
+    "relacion": "se estudia en",
+    "valor": "tejido prostático maligno y benigno"
+  },
+  {
+    "entidad": "índice de Gleason",
+    "relacion": "es un",
+    "valor": "factor pronóstico en cáncer de próstata"
+  },
+  {
+    "entidad": "antígeno prostático específico (PSA)",
+    "relacion": "es un",
+    "valor": "marcador diagnóstico"
+  },
+  {
+    "entidad": "células glandulares prostáticas",
+    "relacion": "se tiñen con",
+    "valor": "VEGF"
+  },
+  {
+    "entidad": "recidiva bioquímica",
+    "relacion": "se define como",
+    "valor": "PSA mayor de 0,2 ng/ml al año de la prostatectomía"
+  },
+  {
+    "entidad": "Centro de Investigaciones Biomédicas",
+    "relacion": "es parte de",
+    "valor": "la Escuela de Medicina de la Universidad de Valparaíso"
+  },
+  {
+    "entidad": "Universidad de Valparaíso",
+    "relacion": "financia",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "Comité de Ética de la Facultad de Medicina de la Universidad de Valparaíso",
+    "relacion": "aprueba",
+    "valor": "la realización del estudio"
+  },
+  {
+    "entidad": "VEGF",
+    "relacion": "no se relaciona con",
+    "valor": "recidiva al año de prostatectomía"
+  },
+  {
+    "entidad": "VEGF",
+    "relacion": "no muestra correlación con",
+    "valor": "índice de Gleason"
+  },
+  {
+    "entidad": "VEGF",
+    "relacion": "no muestra correlación con",
+    "valor": "PSA preoperatorio"
+  },
+  {
+    "entidad": "neumonía adquirida en la comunidad",
+    "relacion": "es un",
+    "valor": "problema prevalente"
+  },
+  {
+    "entidad": "neumonía adquirida en la comunidad",
+    "relacion": "asocia a",
+    "valor": "elevada morbimortalidad"
+  },
+  {
+    "entidad": "pacientes adultos inmunocompetentes",
+    "relacion": "son",
+    "valor": "sujetos de estudio"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "aumenta en",
+    "valor": "adultos mayores tras neumonía"
+  },
+  {
+    "entidad": "edad avanzada",
+    "relacion": "asocia a",
+    "valor": "mayor riesgo de muerte"
+  },
+  {
+    "entidad": "comorbilidades",
+    "relacion": "aumentan",
+    "valor": "riesgo de complicaciones"
+  },
+  {
+    "entidad": "enfermedad cardiovascular",
+    "relacion": "es un",
+    "valor": "factor de riesgo"
+  },
+  {
+    "entidad": "enfermedad neurológica crónica",
+    "relacion": "es un",
+    "valor": "factor de riesgo"
+  },
+  {
+    "entidad": "neoplasia",
+    "relacion": "es un",
+    "valor": "factor de riesgo"
+  },
+  {
+    "entidad": "ausencia de fiebre",
+    "relacion": "asocia a",
+    "valor": "mayor riesgo de muerte"
+  },
+  {
+    "entidad": "hospitalización",
+    "relacion": "es un",
+    "valor": "proceso de ingreso"
+  },
+  {
+    "entidad": "hospital Clínico de la Pontificia Universidad Católica de Chile",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "programas de inmunización",
+    "relacion": "son",
+    "valor": "medidas preventivas"
+  },
+  {
+    "entidad": "evaluación de comorbilidades",
+    "relacion": "es un",
+    "valor": "método de manejo"
+  },
+  {
+    "entidad": "seguimiento a un año",
+    "relacion": "evalúa",
+    "valor": "supervivencia"
+  },
+  {
+    "entidad": "análisis multivariado",
+    "relacion": "utiliza",
+    "valor": "modelo de regresión logística"
+  },
+  {
+    "entidad": "mortalidad a 30 días",
+    "relacion": "fue",
+    "valor": "9,9%"
+  },
+  {
+    "entidad": "mortalidad a 12 meses",
+    "relacion": "fue",
+    "valor": "15,8%"
+  },
+  {
+    "entidad": "Streptococcus pneumoniae",
+    "relacion": "es un",
+    "valor": "patógeno aislado"
+  },
+  {
+    "entidad": "Haemophilus influenzae",
+    "relacion": "es un",
+    "valor": "patógeno aislado"
+  },
+  {
+    "entidad": "virus respiratorios",
+    "relacion": "son",
+    "valor": "patógenos aislados"
+  },
+  {
+    "entidad": "ventilación mecánica",
+    "relacion": "es un",
+    "valor": "tratamiento"
+  },
+  {
+    "entidad": "hospitalización prolongada",
+    "relacion": "asocia a",
+    "valor": "mayor riesgo de muerte"
+  },
+  {
+    "entidad": "Universidad Austral de Chile",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "estudiantes universitarios",
+    "relacion": "presentan",
+    "valor": "trastornos de salud mental"
+  },
+  {
+    "entidad": "trastornos de salud mental",
+    "relacion": "aumentan con",
+    "valor": "el incremento de la población universitaria"
+  },
+  {
+    "entidad": "trastornos del estado de ánimo",
+    "relacion": "emergen en",
+    "valor": "la adolescencia tardía"
+  },
+  {
+    "entidad": "consumo de alcohol",
+    "relacion": "es un",
+    "valor": "comportamiento de riesgo"
+  },
+  {
+    "entidad": "trastornos de ansiedad",
+    "relacion": "afectan a",
+    "valor": "estudiantes universitarios"
+  },
+  {
+    "entidad": "estrés",
+    "relacion": "impacta en",
+    "valor": "la salud mental de los estudiantes"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "reportan",
+    "valor": "más sintomatología que hombres"
+  },
+  {
+    "entidad": "programas de intervención",
+    "relacion": "son diseñados para",
+    "valor": "apoyar a estudiantes de primer año"
+  },
+  {
+    "entidad": "socioeconómico bajo",
+    "relacion": "asocia con",
+    "valor": "sintomatología de salud mental"
+  },
+  {
+    "entidad": "etnia mapuche",
+    "relacion": "asocia con",
+    "valor": "sintomatología de salud mental"
+  },
+  {
+    "entidad": "variables sociodemográficas",
+    "relacion": "se relacionan con",
+    "valor": "sintomatología de salud mental"
+  },
+  {
+    "entidad": "Centro de Salud Universitario",
+    "relacion": "ofrece",
+    "valor": "evaluación y tratamiento médico o psicológico"
+  },
+  {
+    "entidad": "sexualidad juvenil",
+    "relacion": "incluye",
+    "valor": "prácticas y actitudes"
+  },
+  {
+    "entidad": "universitarios chilenos",
+    "relacion": "son",
+    "valor": "participantes del estudio"
+  },
+  {
+    "entidad": "sexo masculino",
+    "relacion": "tiene",
+    "valor": "inicio sexual más precoz"
+  },
+  {
+    "entidad": "sexo femenino",
+    "relacion": "utiliza",
+    "valor": "preservativo en mayor medida"
+  },
+  {
+    "entidad": "cohorte más joven",
+    "relacion": "tiene",
+    "valor": "mejor prevención"
+  },
+  {
+    "entidad": "violencia física y verbal",
+    "relacion": "se indaga en",
+    "valor": "población universitaria"
+  },
+  {
+    "entidad": "autoestima",
+    "relacion": "influye en",
+    "valor": "violencia verbal"
+  },
+  {
+    "entidad": "diferencias sexuales",
+    "relacion": "se observan en",
+    "valor": "constructos psicológicos"
+  },
+  {
+    "entidad": "Amabilidad",
+    "relacion": "distingue en mujeres",
+    "valor": "uso de protección"
+  },
+  {
+    "entidad": "Responsabilidad",
+    "relacion": "distingue en hombres",
+    "valor": "uso de protección"
+  },
+  {
+    "entidad": "salud pública",
+    "relacion": "se beneficia de",
+    "valor": "investigación psicológica"
+  },
+  {
+    "entidad": "investigación",
+    "relacion": "aporta a",
+    "valor": "comprensión de la sexualidad"
+  },
+  {
+    "entidad": "personalidad",
+    "relacion": "afecta",
+    "valor": "desarrollo de la sexualidad"
+  },
+  {
+    "entidad": "violencia en relaciones diádicas",
+    "relacion": "reportan",
+    "valor": "más mujeres que hombres"
+  },
+  {
+    "entidad": "métodos de protección",
+    "relacion": "son utilizados por",
+    "valor": "más mujeres que hombres"
+  },
+  {
+    "entidad": "diferencias de edad",
+    "relacion": "se observan en",
+    "valor": "frecuencia de violencia"
+  },
+  {
+    "entidad": "investigación internacional",
+    "relacion": "utiliza",
+    "valor": "diversidad de medidas de personalidad"
+  },
+  {
+    "entidad": "salud sexual",
+    "relacion": "es un aspecto de",
+    "valor": "planificación sanitaria"
+  }
+]

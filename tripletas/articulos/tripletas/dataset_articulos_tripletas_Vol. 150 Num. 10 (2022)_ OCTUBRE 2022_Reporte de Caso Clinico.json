@@ -1,0 +1,157 @@
+[
+  {
+    "entidad": "sulfohemoglobinemia",
+    "relacion": "es un",
+    "valor": "hemoglobinopatía"
+  },
+  {
+    "entidad": "sulfohemoglobina (SulfHb)",
+    "relacion": "es formada por",
+    "valor": "oxidación de hemoglobina (Hb) por compuestos de azufre"
+  },
+  {
+    "entidad": "sulfohemoglobinemia",
+    "relacion": "se asocia principalmente a",
+    "valor": "uso de fármacos o sobrecrecimiento bacteriano intestinal"
+  },
+  {
+    "entidad": "zopiclona",
+    "relacion": "causa",
+    "valor": "sulfohemoglobinemia"
+  },
+  {
+    "entidad": "cianosis",
+    "relacion": "se presenta en",
+    "valor": "sulfohemoglobinemia"
+  },
+  {
+    "entidad": "pulso oximetría",
+    "relacion": "muestra",
+    "valor": "desaturación en sulfohemoglobinemia"
+  },
+  {
+    "entidad": "methemoglobinemia (MetHb)",
+    "relacion": "es un diagnóstico diferencial de",
+    "valor": "sulfohemoglobinemia"
+  },
+  {
+    "entidad": "cooximetría",
+    "relacion": "se utiliza para",
+    "valor": "diagnosticar methemoglobinemia"
+  },
+  {
+    "entidad": "sulfohemoglobinemia",
+    "relacion": "es autolimitada en",
+    "valor": "la mayoría de los casos"
+  },
+  {
+    "entidad": "método confirmatorio",
+    "relacion": "no está disponible en",
+    "valor": "Chile"
+  },
+  {
+    "entidad": "cooximetría venosa",
+    "relacion": "puede ayudar a",
+    "valor": "descartar methemoglobinemia"
+  },
+  {
+    "entidad": "zopiclona",
+    "relacion": "es un",
+    "valor": "fármaco de uso frecuente en Chile"
+  },
+  {
+    "entidad": "sulfohemoglobinemia",
+    "relacion": "debe ser diferenciada de",
+    "valor": "methemoglobinemia"
+  },
+  {
+    "entidad": "tratamiento",
+    "relacion": "es conservador en",
+    "valor": "sulfohemoglobinemia"
+  },
+  {
+    "entidad": "azul de metileno",
+    "relacion": "es un tratamiento que debe evitarse en",
+    "valor": "sulfohemoglobinemia"
+  },
+  {
+    "entidad": "Clostridioides difficile",
+    "relacion": "causa",
+    "valor": "infección recurrente"
+  },
+  {
+    "entidad": "infección por Clostridioides difficile",
+    "relacion": "asocia",
+    "valor": "morbimortalidad"
+  },
+  {
+    "entidad": "Fecal microbiota transplantation",
+    "relacion": "es un",
+    "valor": "tratamiento alternativo a antibióticos"
+  },
+  {
+    "entidad": "pacientes mayores de 65 años",
+    "relacion": "presentan",
+    "valor": "mayor tasa de infección por Clostridioides difficile"
+  },
+  {
+    "entidad": "trasplante de microbiota fecal",
+    "relacion": "se recomienda",
+    "valor": "después de ≥ 2 recurrencias de infección por Clostridioides difficile"
+  },
+  {
+    "entidad": "trasplante de microbiota fecal",
+    "relacion": "es más efectivo que",
+    "valor": "tratamiento con vancomicina"
+  },
+  {
+    "entidad": "donante fecal sano",
+    "relacion": "es un",
+    "valor": "requisito esencial para TMF exitoso"
+  },
+  {
+    "entidad": "TMF",
+    "relacion": "puede ser",
+    "valor": "una técnica segura y eficaz"
+  },
+  {
+    "entidad": "TMF",
+    "relacion": "mejora",
+    "valor": "calidad de vida de pacientes"
+  },
+  {
+    "entidad": "TMF",
+    "relacion": "previene",
+    "valor": "episodios de recurrencia"
+  },
+  {
+    "entidad": "vancomicina",
+    "relacion": "es un",
+    "valor": "tratamiento habitual para infección por Clostridioides difficile"
+  },
+  {
+    "entidad": "fidaxomicina",
+    "relacion": "no está disponible en",
+    "valor": "Chile"
+  },
+  {
+    "entidad": "paciente de 75 años",
+    "relacion": "recibió",
+    "valor": "trasplante de microbiota fecal"
+  },
+  {
+    "entidad": "trasplante de microbiota fecal",
+    "relacion": "se realizó por",
+    "valor": "colonoscopía"
+  },
+  {
+    "entidad": "TMF",
+    "relacion": "se considera",
+    "valor": "estrategia válida en pacientes de edad avanzada"
+  },
+  {
+    "entidad": "infección recurrente de Clostridioides difficile",
+    "relacion": "es un",
+    "valor": "problema de salud pública"
+  }
+]

@@ -1,0 +1,187 @@
+[
+  {
+    "entidad": "Carcinoma Triquilemal",
+    "relacion": "es un",
+    "valor": "tumor maligno"
+  },
+  {
+    "entidad": "Carcinoma Triquilemal",
+    "relacion": "deriva de",
+    "valor": "vaina externa del folículo piloso"
+  },
+  {
+    "entidad": "Carcinoma Triquilemal",
+    "relacion": "constituyen",
+    "valor": "1% de todos los carcinomas anexiales"
+  },
+  {
+    "entidad": "paciente masculino de 97 años",
+    "relacion": "presenta",
+    "valor": "lesión tumoral en la zona anterior del tórax"
+  },
+  {
+    "entidad": "lesión tumoral",
+    "relacion": "evoluciona durante",
+    "valor": "6 meses"
+  },
+  {
+    "entidad": "biopsia",
+    "relacion": "resulta en",
+    "valor": "carcinoma triquilemal"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "recibe",
+    "valor": "5 sesiones de radioterapia"
+  },
+  {
+    "entidad": "radioterapia",
+    "relacion": "aplicada en",
+    "valor": "zona afectada"
+  },
+  {
+    "entidad": "radioterapia",
+    "relacion": "se considera",
+    "valor": "tratamiento escasamente reportado como de primera línea"
+  },
+  {
+    "entidad": "hallazgos dermatoscópicos",
+    "relacion": "asociados a",
+    "valor": "carcinoma triquilemal"
+  },
+  {
+    "entidad": "carcinoma triquilemal",
+    "relacion": "afecta principalmente a",
+    "valor": "hombres mayores"
+  },
+  {
+    "entidad": "radiación ultravioleta",
+    "relacion": "es un",
+    "valor": "factor de riesgo"
+  },
+  {
+    "entidad": "mutaciones en el gen p53",
+    "relacion": "sospechadas como",
+    "valor": "factor de riesgo"
+  },
+  {
+    "entidad": "diagnóstico del carcinoma triquilemal",
+    "relacion": "es de",
+    "valor": "exclusión mediante estudio histopatológico"
+  },
+  {
+    "entidad": "opciones de tratamiento",
+    "relacion": "incluyen",
+    "valor": "escisión amplia o cirugía con control de márgenes"
+  },
+  {
+    "entidad": "radioterapia",
+    "relacion": "puede ser",
+    "valor": "opción en pacientes de edad avanzada"
+  },
+  {
+    "entidad": "seguimiento del carcinoma triquilemal",
+    "relacion": "no existen",
+    "valor": "guías publicadas"
+  },
+  {
+    "entidad": "Lamotrigina",
+    "relacion": "es un",
+    "valor": "fármaco anticonvulsivante"
+  },
+  {
+    "entidad": "Lamotrigina",
+    "relacion": "se utiliza en",
+    "valor": "trastornos del ánimo"
+  },
+  {
+    "entidad": "intoxicación por Lamotrigina",
+    "relacion": "puede presentar",
+    "valor": "síntomas leves y graves"
+  },
+  {
+    "entidad": "síntomas leves",
+    "relacion": "incluyen",
+    "valor": "palpitaciones y cefalea"
+  },
+  {
+    "entidad": "síntomas graves",
+    "relacion": "incluyen",
+    "valor": "convulsiones, compromiso de conciencia, coma y shock cardiogénico"
+  },
+  {
+    "entidad": "antídoto",
+    "relacion": "no existe para",
+    "valor": "intoxicación por Lamotrigina"
+  },
+  {
+    "entidad": "manejo de intoxicación por Lamotrigina",
+    "relacion": "es",
+    "valor": "de soporte"
+  },
+  {
+    "entidad": "terapias extracorpóreas",
+    "relacion": "pueden ser una opción para",
+    "valor": "casos graves de intoxicación por Lamotrigina"
+  },
+  {
+    "entidad": "hemodiálisis diaria",
+    "relacion": "se utilizó en",
+    "valor": "caso de intoxicación grave por Lamotrigina"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "ingirió",
+    "valor": "6.2 gramos de Lamotrigina"
+  },
+  {
+    "entidad": "emulsión lipídica",
+    "relacion": "se utilizó como",
+    "valor": "parte del manejo de intoxicación"
+  },
+  {
+    "entidad": "Lamotrigina",
+    "relacion": "se metaboliza principalmente en",
+    "valor": "el hígado"
+  },
+  {
+    "entidad": "Lamotrigina",
+    "relacion": "se elimina en",
+    "valor": "un 96% por vía renal"
+  },
+  {
+    "entidad": "Lamotrigina",
+    "relacion": "presenta",
+    "valor": "un 55% de unión a proteínas plasmáticas"
+  },
+  {
+    "entidad": "hemorragia",
+    "relacion": "puede ser causada por",
+    "valor": "intoxicación por Lamotrigina"
+  },
+  {
+    "entidad": "pronóstico de intoxicación por Lamotrigina",
+    "relacion": "depende de",
+    "valor": "edad, género, comorbilidades e intoxicación por otros medicamentos"
+  },
+  {
+    "entidad": "Lamotrigina",
+    "relacion": "tiene un rango terapéutico de",
+    "valor": "3 a 14 µg/ml"
+  },
+  {
+    "entidad": "carbón activado",
+    "relacion": "no reduce",
+    "valor": "considerablemente la Cmax de Lamotrigina"
+  },
+  {
+    "entidad": "emulsiones lipídicas",
+    "relacion": "se han descrito como",
+    "valor": "estrategia terapéutica en intoxicaciones severas"
+  },
+  {
+    "entidad": "Lamotrigina",
+    "relacion": "se absorbe",
+    "valor": "rápida y casi completamente tras la administración oral"
+  }
+]

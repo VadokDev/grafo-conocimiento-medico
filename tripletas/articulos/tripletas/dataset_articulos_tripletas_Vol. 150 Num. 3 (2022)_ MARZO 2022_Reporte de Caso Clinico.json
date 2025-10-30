@@ -1,0 +1,147 @@
+[
+  {
+    "entidad": "Leucemia mieloide crónica atípica BCR-ABL1 negativa",
+    "relacion": "es un",
+    "valor": "síndrome mieloproliferativo/mielodisplásico"
+  },
+  {
+    "entidad": "Leucemia mieloide crónica atípica BCR-ABL1 negativa",
+    "relacion": "se caracteriza por",
+    "valor": "leucocitosis y proliferación de precursores neutrofílicos displásicos"
+  },
+  {
+    "entidad": "Leucemia mieloide crónica atípica BCR-ABL1 negativa",
+    "relacion": "presenta",
+    "valor": "ausencia de positividad para el transcrito BCR-ABL1"
+  },
+  {
+    "entidad": "Mujer de 66 años",
+    "relacion": "presenta",
+    "valor": "malestar general y pérdida de peso"
+  },
+  {
+    "entidad": "Mujer de 66 años",
+    "relacion": "evoluciona a",
+    "valor": "falla multiorgánica"
+  },
+  {
+    "entidad": "Hombre de 57 años",
+    "relacion": "presenta",
+    "valor": "astenia, adinamia y cefalea"
+  },
+  {
+    "entidad": "Hombre de 57 años",
+    "relacion": "evoluciona a",
+    "valor": "falla renal aguda"
+  },
+  {
+    "entidad": "Leucemia mieloide crónica atípica BCR-ABL1 negativa",
+    "relacion": "tiene un pronóstico",
+    "valor": "malo"
+  },
+  {
+    "entidad": "trasplante alogénico de células madre hematopoyéticas",
+    "relacion": "es una",
+    "valor": "opción potencialmente curativa"
+  },
+  {
+    "entidad": "mutaciones como RAS, MEK, CSF3R, JAK2",
+    "relacion": "se identifican en",
+    "valor": "pacientes con leucemia mieloide crónica atípica BCR-ABL1 negativa"
+  },
+  {
+    "entidad": "Leucemia mieloide crónica atípica BCR-ABL1 negativa",
+    "relacion": "puede presentar",
+    "valor": "aberraciones cromosómicas como trisomía 8"
+  },
+  {
+    "entidad": "Leucemia mieloide crónica atípica BCR-ABL1 negativa",
+    "relacion": "se diagnostica mediante",
+    "valor": "criterios OMS del 2016"
+  },
+  {
+    "entidad": "coagulación intravascular diseminada",
+    "relacion": "es una manifestación",
+    "valor": "poco frecuente en leucemia mieloide crónica atípica BCR-ABL1 negativa"
+  },
+  {
+    "entidad": "coartación aórtica",
+    "relacion": "asociada a",
+    "valor": "valvulopatía aórtica bicúspide severa"
+  },
+  {
+    "entidad": "tratamiento quirúrgico",
+    "relacion": "es una opción",
+    "valor": "para el manejo de coartación aórtica"
+  },
+  {
+    "entidad": "paciente masculino de 41 años",
+    "relacion": "presenta",
+    "valor": "coartación aórtica y valvulopatía"
+  },
+  {
+    "entidad": "cirugía",
+    "relacion": "realizada mediante",
+    "valor": "esternotomía media"
+  },
+  {
+    "entidad": "bypass aorto-aórtico",
+    "relacion": "es parte de",
+    "valor": "la técnica quirúrgica"
+  },
+  {
+    "entidad": "reemplazo valvular aórtico",
+    "relacion": "realizado con",
+    "valor": "prótesis mecánica"
+  },
+  {
+    "entidad": "ecocardiograma transtorácico",
+    "relacion": "evidencia",
+    "valor": "doble lesión valvular aórtica"
+  },
+  {
+    "entidad": "insuficiencia cardiaca descompensada",
+    "relacion": "es manejada con",
+    "valor": "terapia depletiva y vasodilatadora"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "evoluciona",
+    "valor": "sin complicaciones postoperatorias"
+  },
+  {
+    "entidad": "control de imágenes",
+    "relacion": "muestra",
+    "valor": "prótesis mecánica en posición aórtica"
+  },
+  {
+    "entidad": "recomendaciones",
+    "relacion": "sobre el manejo",
+    "valor": "de coartación aórtica en adultos"
+  },
+  {
+    "entidad": "técnica abierta",
+    "relacion": "ofrece",
+    "valor": "resultados más duraderos"
+  },
+  {
+    "entidad": "manejo quirúrgico",
+    "relacion": "debe ser",
+    "valor": "planeado cuidadosamente"
+  },
+  {
+    "entidad": "coartación aórtica",
+    "relacion": "es un",
+    "valor": "desafío en adultos"
+  },
+  {
+    "entidad": "reparación quirúrgica",
+    "relacion": "es considerada",
+    "valor": "el gold standard"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "es dado de alta",
+    "valor": "24 días después de la cirugía"
+  }
+]

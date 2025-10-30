@@ -1,0 +1,252 @@
+[
+  {
+    "entidad": "Cistinosis nefropática",
+    "relacion": "es un",
+    "valor": "enfermedad rara"
+  },
+  {
+    "entidad": "CTNS",
+    "relacion": "es un",
+    "valor": "gen asociado a cistinosis nefropática"
+  },
+  {
+    "entidad": "cisteamina",
+    "relacion": "es un",
+    "valor": "tratamiento para cistinosis nefropática"
+  },
+  {
+    "entidad": "cisteamina",
+    "relacion": "mejora",
+    "valor": "calidad de vida y expectativa de vida"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "tubulopatía proximal y síndrome de Fanconi"
+  },
+  {
+    "entidad": "análisis genético",
+    "relacion": "confirma",
+    "valor": "diagnóstico de cistinosis nefropática"
+  },
+  {
+    "entidad": "deletción de 57 kb",
+    "relacion": "es común en",
+    "valor": "población europea y americana"
+  },
+  {
+    "entidad": "cisteamina",
+    "relacion": "previene",
+    "valor": "progresión del daño renal"
+  },
+  {
+    "entidad": "cisteamina",
+    "relacion": "se utiliza en",
+    "valor": "tratamiento oftalmológico"
+  },
+  {
+    "entidad": "cistinosis nefropática",
+    "relacion": "requiere",
+    "valor": "asesoramiento genético"
+  },
+  {
+    "entidad": "trasplante renal",
+    "relacion": "es considerado en",
+    "valor": "pacientes con clearance de creatinina menor a 20 ml/min"
+  },
+  {
+    "entidad": "cistinosis nefropática",
+    "relacion": "inicia en",
+    "valor": "primeros meses de vida"
+  },
+  {
+    "entidad": "cisteamina",
+    "relacion": "se presenta en",
+    "valor": "formato de colirio"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "muestra",
+    "valor": "estabilidad metabólica tras tratamiento"
+  },
+  {
+    "entidad": "CTNS",
+    "relacion": "es analizado mediante",
+    "valor": "PCR en exones 3-12"
+  },
+  {
+    "entidad": "cisteamina",
+    "relacion": "es el único",
+    "valor": "fármaco disponible para cistinosis nefropática"
+  },
+  {
+    "entidad": "cistinosis nefropática",
+    "relacion": "tiene un riesgo de recurrencia",
+    "valor": "25% en padres heterocigotos"
+  },
+  {
+    "entidad": "Pseudohipoparatiroidismo",
+    "relacion": "es un",
+    "valor": "trastorno genético raro"
+  },
+  {
+    "entidad": "Pseudohipoparatiroidismo",
+    "relacion": "causa",
+    "valor": "resistencia a la acción de la paratohormona (PTH)"
+  },
+  {
+    "entidad": "Pseudohipoparatiroidismo",
+    "relacion": "se manifiesta por",
+    "valor": "hipocalcemia, hiperfosfatemia y PTH elevada"
+  },
+  {
+    "entidad": "Osteodistrofia hereditaria de Albright (OHA)",
+    "relacion": "es un",
+    "valor": "fenotipo específico del Pseudohipoparatiroidismo"
+  },
+  {
+    "entidad": "GNAS",
+    "relacion": "codifica para",
+    "valor": "la subunidad alfa de la proteína G"
+  },
+  {
+    "entidad": "GNAS",
+    "relacion": "se asocia con",
+    "valor": "variedades de Pseudohipoparatiroidismo"
+  },
+  {
+    "entidad": "Pseudohipoparatiroidismo",
+    "relacion": "puede manifestarse en",
+    "valor": "adolescencia o adultez temprana"
+  },
+  {
+    "entidad": "Carolina Peña",
+    "relacion": "es un",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "es un",
+    "valor": "institución educativa"
+  },
+  {
+    "entidad": "Tratamiento del Pseudohipoparatiroidismo",
+    "relacion": "se realiza con",
+    "valor": "suplementación oral de calcio y calcitriol"
+  },
+  {
+    "entidad": "Pseudopseudohipoparatiroidismo (PPHP)",
+    "relacion": "es un",
+    "valor": "fenotipo normocalcémico del Pseudohipoparatiroidismo"
+  },
+  {
+    "entidad": "Obesidad",
+    "relacion": "es un",
+    "valor": "componente fenotípico central de OHA"
+  },
+  {
+    "entidad": "Pseudohipoparatiroidismo",
+    "relacion": "puede causar",
+    "valor": "cataratas y calcificaciones SNC"
+  },
+  {
+    "entidad": "Pseudohipoparatiroidismo",
+    "relacion": "se asocia con",
+    "valor": "hiperparatiroidismo secundario/terciario"
+  },
+  {
+    "entidad": "Pseudohipoparatiroidismo",
+    "relacion": "requiere",
+    "valor": "monitoreo estricto de la talla y velocidad de crecimiento"
+  },
+  {
+    "entidad": "Pseudohipoparatiroidismo",
+    "relacion": "puede presentar",
+    "valor": "resistencia a TsH y gonadotrofinas"
+  },
+  {
+    "entidad": "Pseudohipoparatiroidismo",
+    "relacion": "se debe considerar en",
+    "valor": "pacientes con hipocalcemia y PTH elevada"
+  },
+  {
+    "entidad": "Tricodisplasia espinulosa",
+    "relacion": "asociada a",
+    "valor": "inmunosupresión"
+  },
+  {
+    "entidad": "Tricodisplasia espinulosa",
+    "relacion": "asociada a",
+    "valor": "síndrome mielodisplásico"
+  },
+  {
+    "entidad": "Tricodisplasia espinulosa",
+    "relacion": "caracterizada por",
+    "valor": "erupción cutánea centrofacial de pápulas eritematosas"
+  },
+  {
+    "entidad": "Tricodisplasia espinulosa",
+    "relacion": "asociada a",
+    "valor": "poliomavirus"
+  },
+  {
+    "entidad": "poliomavirus asociado a TS",
+    "relacion": "detectado en",
+    "valor": "pacientes inmunosuprimidos"
+  },
+  {
+    "entidad": "mujer de 47 años",
+    "relacion": "diagnosticada con",
+    "valor": "pancitopenia autoinmune"
+  },
+  {
+    "entidad": "pancitopenia autoinmune",
+    "relacion": "refractaria a",
+    "valor": "tratamientos inmunosupresores"
+  },
+  {
+    "entidad": "ciclosporina",
+    "relacion": "utilizada en",
+    "valor": "tratamientos inmunosupresores"
+  },
+  {
+    "entidad": "micofenolato",
+    "relacion": "utilizada en",
+    "valor": "tratamientos inmunosupresores"
+  },
+  {
+    "entidad": "metilprednisolona",
+    "relacion": "utilizada en",
+    "valor": "tratamientos inmunosupresores"
+  },
+  {
+    "entidad": "rituximab",
+    "relacion": "utilizada en",
+    "valor": "tratamientos inmunosupresores"
+  },
+  {
+    "entidad": "biopsia de piel",
+    "relacion": "mostró",
+    "valor": "alteración folicular compatible con TS"
+  },
+  {
+    "entidad": "TSV",
+    "relacion": "induce",
+    "valor": "hiperproliferación de células de la vaina interna de la raíz"
+  },
+  {
+    "entidad": "cidofovir tópico",
+    "relacion": "mejora clínica en",
+    "valor": "Tricodisplasia espinulosa"
+  },
+  {
+    "entidad": "valganciclovir oral",
+    "relacion": "mejora clínica en",
+    "valor": "Tricodisplasia espinulosa"
+  },
+  {
+    "entidad": "Tricodisplasia espinulosa",
+    "relacion": "debe ser",
+    "valor": "reconocida en pacientes inmunosuprimidos"
+  }
+]

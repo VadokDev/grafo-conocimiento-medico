@@ -1,0 +1,792 @@
+[
+  {
+    "entidad": "vitamina B-12",
+    "relacion": "asociada con",
+    "valor": "mortalidad en pacientes hospitalizados adultos mayores"
+  },
+  {
+    "entidad": "pacientes hospitalizados adultos mayores",
+    "relacion": "tienen",
+    "valor": "niveles de vitamina B-12 elevados"
+  },
+  {
+    "entidad": "niveles de vitamina B-12",
+    "relacion": "afectan",
+    "valor": "mortalidad"
+  },
+  {
+    "entidad": "vitamina B-12",
+    "relacion": "suplementación",
+    "valor": "práctica común en adultos mayores"
+  },
+  {
+    "entidad": "niveles insuficientes de vitamina B-12",
+    "relacion": "asociados con",
+    "valor": "mayor riesgo de compromiso neurológico y demencia"
+  },
+  {
+    "entidad": "niveles elevados de vitamina B-12",
+    "relacion": "asociados con",
+    "valor": "aumento del riesgo cardiovascular"
+  },
+  {
+    "entidad": "pacientes con niveles de vitamina B-12 mayores a 1.000 pg/ml",
+    "relacion": "tienen",
+    "valor": "mayor riesgo de mortalidad"
+  },
+  {
+    "entidad": "análisis multivariable",
+    "relacion": "muestra",
+    "valor": "significancia en vitamina B-12"
+  },
+  {
+    "entidad": "Charlson",
+    "relacion": "es un",
+    "valor": "índice de comorbilidades"
+  },
+  {
+    "entidad": "escala de Fried",
+    "relacion": "evalúa",
+    "valor": "fragilidad"
+  },
+  {
+    "entidad": "Complejo Asistencial Dr. Víctor Ríos Ruiz",
+    "relacion": "es un",
+    "valor": "hospital académico"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "evaluada en",
+    "valor": "un año de seguimiento"
+  },
+  {
+    "entidad": "mortalidad intrahospitalaria",
+    "relacion": "evaluada en",
+    "valor": "los primeros 30 días"
+  },
+  {
+    "entidad": "pacientes con daño hepático crónico",
+    "relacion": "tienen",
+    "valor": "mayor riesgo de mortalidad"
+  },
+  {
+    "entidad": "vitamina B-12",
+    "relacion": "puede ser",
+    "valor": "indicador de enfermedad subyacente"
+  },
+  {
+    "entidad": "análisis de sobrevida",
+    "relacion": "realizado mediante",
+    "valor": "curva de Kaplan-Meier"
+  },
+  {
+    "entidad": "niveles de vitamina B-12",
+    "relacion": "evaluados en",
+    "valor": "pacientes ≥ 65 años"
+  },
+  {
+    "entidad": "mortalidad por todas las causas",
+    "relacion": "asociada con",
+    "valor": "niveles altos de vitamina B-12"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "se mide con",
+    "valor": "cuestionario de autorreporte (IPAQ)"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "se mide con",
+    "valor": "acelerometría (ActiGraph)"
+  },
+  {
+    "entidad": "estado nutricional",
+    "relacion": "influye en",
+    "valor": "precisión del autorreporte de actividad física"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "es una",
+    "valor": "enfermedad multicausal"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud (OMS)",
+    "relacion": "reporta",
+    "valor": "650 millones de personas obesas en 2016"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud 2016-2017",
+    "relacion": "reporta",
+    "valor": "34,4% de obesidad en adultos en Chile"
+  },
+  {
+    "entidad": "cambios en estilos de vida",
+    "relacion": "son factores causantes de",
+    "valor": "obesidad"
+  },
+  {
+    "entidad": "actividad física regular",
+    "relacion": "asociada a",
+    "valor": "menor riesgo de obesidad"
+  },
+  {
+    "entidad": "cuestionario internacional de actividad física (IPAQ)",
+    "relacion": "tiende a",
+    "valor": "sobreestimar conductas saludables"
+  },
+  {
+    "entidad": "acelerómetros",
+    "relacion": "ofrecen",
+    "valor": "cuantificación objetiva de actividad física"
+  },
+  {
+    "entidad": "estudio observacional analítico",
+    "relacion": "utiliza información de",
+    "valor": "proyecto gENADIO"
+  },
+  {
+    "entidad": "proyecto gENADIO",
+    "relacion": "realizado en",
+    "valor": "Chile entre 2009-2011"
+  },
+  {
+    "entidad": "estado nutricional",
+    "relacion": "se determina por",
+    "valor": "índice de masa corporal (IMC)"
+  },
+  {
+    "entidad": "medición de actividad física",
+    "relacion": "es discrepante con",
+    "valor": "medición objetiva con acelerómetro"
+  },
+  {
+    "entidad": "cuestionario de autorreporte IPAQ",
+    "relacion": "subestima",
+    "valor": "niveles de actividad física ligera"
+  },
+  {
+    "entidad": "cuestionario de autorreporte IPAQ",
+    "relacion": "sobreestima",
+    "valor": "niveles de actividad física moderada y vigorosa"
+  },
+  {
+    "entidad": "estado nutricional normal",
+    "relacion": "presenta",
+    "valor": "mayor nivel de subestimación en actividad física"
+  },
+  {
+    "entidad": "personas obesas",
+    "relacion": "reportan",
+    "valor": "mayores niveles de sobreestimación en actividad física"
+  },
+  {
+    "entidad": "medición objetiva de actividad física",
+    "relacion": "es relevante para",
+    "valor": "definir políticas públicas"
+  },
+  {
+    "entidad": "medición de actividad física",
+    "relacion": "debería incluir",
+    "valor": "evaluaciones objetivas"
+  },
+  {
+    "entidad": "acelerómetros",
+    "relacion": "no capturan",
+    "valor": "cierto tipo de actividades físicas"
+  },
+  {
+    "entidad": "medición de actividad física",
+    "relacion": "podría ocultar",
+    "valor": "niveles reales de inactividad física"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "es el primero en",
+    "valor": "comparar niveles de actividad física autorreportados y medidos objetivamente"
+  },
+  {
+    "entidad": "cuidado informal",
+    "relacion": "afecta a",
+    "valor": "salud de cuidadores familiares"
+  },
+  {
+    "entidad": "cuidadores familiares",
+    "relacion": "son",
+    "valor": "miembros de la familia"
+  },
+  {
+    "entidad": "personas mayores dependientes",
+    "relacion": "requieren",
+    "valor": "cuidado"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "tiene",
+    "valor": "17,5% de personas de 60 años y más"
+  },
+  {
+    "entidad": "dependencia funcional",
+    "relacion": "afecta a",
+    "valor": "14,4% de la población mayor"
+  },
+  {
+    "entidad": "cuidadores informales",
+    "relacion": "no reciben",
+    "valor": "remuneración económica"
+  },
+  {
+    "entidad": "cuidado informal",
+    "relacion": "causa",
+    "valor": "tensión física y desgaste emocional"
+  },
+  {
+    "entidad": "síndrome del cuidador",
+    "relacion": "es",
+    "valor": "una condición de sobrecarga"
+  },
+  {
+    "entidad": "cuidado informal",
+    "relacion": "asocia",
+    "valor": "efectos negativos en salud física y mental"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen",
+    "valor": "mayor probabilidad de ser cuidadores"
+  },
+  {
+    "entidad": "métodos cuasi experimentales",
+    "relacion": "se utilizan para",
+    "valor": "eliminar sesgo de selección"
+  },
+  {
+    "entidad": "propensity score",
+    "relacion": "es",
+    "valor": "una técnica para estimar efectos de tratamiento"
+  },
+  {
+    "entidad": "cuidadores informales",
+    "relacion": "tienen",
+    "valor": "bajos niveles educativos y de ingresos"
+  },
+  {
+    "entidad": "cuidado informal",
+    "relacion": "reduce",
+    "valor": "la percepción de buena salud"
+  },
+  {
+    "entidad": "intervenciones",
+    "relacion": "deben apuntar a",
+    "valor": "mejorar competencias de cuidadores"
+  },
+  {
+    "entidad": "Programa de Centros Diurnos del Adulto Mayor",
+    "relacion": "es",
+    "valor": "una iniciativa en Chile"
+  },
+  {
+    "entidad": "cuidado",
+    "relacion": "produce",
+    "valor": "estrés y agotamiento emocional"
+  },
+  {
+    "entidad": "cuidadores informales",
+    "relacion": "son",
+    "valor": "más vulnerables"
+  },
+  {
+    "entidad": "salud física",
+    "relacion": "se ve afectada por",
+    "valor": "sobrecarga del cuidador"
+  },
+  {
+    "entidad": "salud mental",
+    "relacion": "se ve afectada por",
+    "valor": "estrés y agotamiento emocional"
+  },
+  {
+    "entidad": "Incidentalomas tiroideos",
+    "relacion": "son detectados por",
+    "valor": "PET/CT con F18-FDG"
+  },
+  {
+    "entidad": "PET/CT",
+    "relacion": "es un",
+    "valor": "examen híbrido molecular y anatómico"
+  },
+  {
+    "entidad": "F18-FDG",
+    "relacion": "es un",
+    "valor": "radiotrazador utilizado en PET/CT"
+  },
+  {
+    "entidad": "nódulos tiroideos",
+    "relacion": "pueden ser",
+    "valor": "benignos o malignos"
+  },
+  {
+    "entidad": "frecuencia de malignidad",
+    "relacion": "es evaluada en",
+    "valor": "nódulos tiroideos incidentales"
+  },
+  {
+    "entidad": "SUVmax",
+    "relacion": "correlaciona con",
+    "valor": "la malignidad de nódulos tiroideos"
+  },
+  {
+    "entidad": "American Thyroid Association (ATA)",
+    "relacion": "publica",
+    "valor": "guía de manejo de nódulos tiroideos"
+  },
+  {
+    "entidad": "PAAF",
+    "relacion": "es un",
+    "valor": "procedimiento para evaluar nódulos tiroideos"
+  },
+  {
+    "entidad": "incidentalomas tiroideos",
+    "relacion": "son hallazgos",
+    "valor": "inesperados en estudios de PET/CT"
+  },
+  {
+    "entidad": "nódulos hipercaptantes",
+    "relacion": "requieren",
+    "valor": "evaluación ecográfica y PAAF"
+  },
+  {
+    "entidad": "cáncer de tiroides",
+    "relacion": "es un tipo de",
+    "valor": "neoplasia maligna"
+  },
+  {
+    "entidad": "tiroidectomía",
+    "relacion": "es un",
+    "valor": "procedimiento quirúrgico para nódulos tiroideos malignos"
+  },
+  {
+    "entidad": "incidentalomas tiroideos",
+    "relacion": "se presentan en",
+    "valor": "0,14-4,8% de pacientes con PET/CT"
+  },
+  {
+    "entidad": "SUVmax ≥ 5,0",
+    "relacion": "es altamente sugestivo de",
+    "valor": "malignidad en nódulos tiroideos"
+  },
+  {
+    "entidad": "nódulos benignos",
+    "relacion": "tienen",
+    "valor": "menor SUVmax que nódulos malignos"
+  },
+  {
+    "entidad": "nódulos tiroideos",
+    "relacion": "son clasificados según",
+    "valor": "la escala Bethesda"
+  },
+  {
+    "entidad": "frecuencia de incidentalomas tiroideos",
+    "relacion": "es relativamente",
+    "valor": "baja"
+  },
+  {
+    "entidad": "nódulos tiroideos",
+    "relacion": "son evaluados por",
+    "valor": "citología y histopatología"
+  },
+  {
+    "entidad": "nódulos malignos",
+    "relacion": "presentan",
+    "valor": "SUVmax significativamente mayor que benignos"
+  },
+  {
+    "entidad": "Hospitales",
+    "relacion": "requieren",
+    "valor": "herramientas de gestión"
+  },
+  {
+    "entidad": "Costeo Basado en Actividades (ABC)",
+    "relacion": "es un",
+    "valor": "método de gestión de costos"
+  },
+  {
+    "entidad": "Unidades Médico Quirúrgica (MQ)",
+    "relacion": "calcula",
+    "valor": "costos de procedimientos"
+  },
+  {
+    "entidad": "Unidades de Cuidados Medios (CM)",
+    "relacion": "calcula",
+    "valor": "costos de procedimientos"
+  },
+  {
+    "entidad": "Diagnóstico de egreso",
+    "relacion": "afecta a",
+    "valor": "número de días cama"
+  },
+  {
+    "entidad": "Costos de procedimientos",
+    "relacion": "varían según",
+    "valor": "especialidad médica"
+  },
+  {
+    "entidad": "Especialidades Respiratorias",
+    "relacion": "tienen",
+    "valor": "costos de cama altos"
+  },
+  {
+    "entidad": "Especialidades Renales",
+    "relacion": "tienen",
+    "valor": "costos de cama altos"
+  },
+  {
+    "entidad": "Gestión de camas",
+    "relacion": "es crítica para",
+    "valor": "instituciones de salud"
+  },
+  {
+    "entidad": "Proyecto FONDEF IT13I10003",
+    "relacion": "desarrolla",
+    "valor": "metodología para gestión de costos"
+  },
+  {
+    "entidad": "WinSig",
+    "relacion": "es un",
+    "valor": "sistema de información de gestión"
+  },
+  {
+    "entidad": "Costos indirectos",
+    "relacion": "son asignados a",
+    "valor": "procedimientos"
+  },
+  {
+    "entidad": "Día cama promedio",
+    "relacion": "es calculado por",
+    "valor": "especialidad médica"
+  },
+  {
+    "entidad": "Recursos humanos",
+    "relacion": "son un factor en",
+    "valor": "costos de procedimientos"
+  },
+  {
+    "entidad": "Alta Paciente",
+    "relacion": "es el procedimiento más caro en",
+    "valor": "Unidad Médico Quirúrgico"
+  },
+  {
+    "entidad": "Alimentación de Paciente",
+    "relacion": "es un procedimiento costoso en",
+    "valor": "Unidad de Cuidados Medios"
+  },
+  {
+    "entidad": "Costos de día cama",
+    "relacion": "son subvalorados en",
+    "valor": "Unidad de Cuidados Medios"
+  },
+  {
+    "entidad": "Costos de día cama",
+    "relacion": "son subvalorados en",
+    "valor": "Unidad Médico Quirúrgico"
+  },
+  {
+    "entidad": "gRD",
+    "relacion": "minimiza",
+    "valor": "sesgo en costos"
+  },
+  {
+    "entidad": "Costos de hospitalización",
+    "relacion": "son analizados por",
+    "valor": "especialidades o patologías"
+  },
+  {
+    "entidad": "Asistente-Alumno",
+    "relacion": "mejora",
+    "valor": "percepción de calidad del trato a usuarios"
+  },
+  {
+    "entidad": "Centro de Salud Familiar (CESFAM)",
+    "relacion": "implementa",
+    "valor": "asistente-alumno"
+  },
+  {
+    "entidad": "Universidad de los Andes",
+    "relacion": "financia",
+    "valor": "estudio sobre calidad de atención"
+  },
+  {
+    "entidad": "Organización Panamericana de la Salud",
+    "relacion": "promueve",
+    "valor": "atención primaria de salud"
+  },
+  {
+    "entidad": "Ley 20.645",
+    "relacion": "regula",
+    "valor": "bono anual a funcionarios según calidad de trato"
+  },
+  {
+    "entidad": "Estudio cuasiexperimental",
+    "relacion": "evalúa",
+    "valor": "impacto del asistente-alumno en la atención"
+  },
+  {
+    "entidad": "pacientes ambulatorios",
+    "relacion": "evalúan",
+    "valor": "calidad de atención recibida"
+  },
+  {
+    "entidad": "médicos",
+    "relacion": "opinan",
+    "valor": "positivamente sobre el asistente-alumno"
+  },
+  {
+    "entidad": "cuestionario tU-APS",
+    "relacion": "mide",
+    "valor": "calidad del trato a usuarios"
+  },
+  {
+    "entidad": "calidad de atención",
+    "relacion": "depende de",
+    "valor": "tiempo dedicado a pacientes"
+  },
+  {
+    "entidad": "modelo teamlet",
+    "relacion": "organiza",
+    "valor": "atención en equipos de salud"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "sienten",
+    "valor": "acompañamiento por parte del asistente-alumno"
+  },
+  {
+    "entidad": "estudiantes de medicina",
+    "relacion": "asumen",
+    "valor": "rol de asistente-alumno"
+  },
+  {
+    "entidad": "calidad de atención",
+    "relacion": "afecta a",
+    "valor": "satisfacción del usuario"
+  },
+  {
+    "entidad": "interacción paciente-alumno",
+    "relacion": "es",
+    "valor": "experiencia positiva"
+  },
+  {
+    "entidad": "asistente-alumno",
+    "relacion": "es considerado",
+    "valor": "elemento de valor en el equipo de salud"
+  },
+  {
+    "entidad": "Neuropad",
+    "relacion": "evalúa",
+    "valor": "capacidad diagnóstica para neuropatía diabética"
+  },
+  {
+    "entidad": "disfunción sudomotora",
+    "relacion": "indica",
+    "valor": "daño en fibras nerviosas cortas"
+  },
+  {
+    "entidad": "neuropatía diabética",
+    "relacion": "afecta a",
+    "valor": "pacientes diabéticos tipo 2"
+  },
+  {
+    "entidad": "Centro de Salud Familiar María Latife Saadi",
+    "relacion": "realiza",
+    "valor": "estudio sobre neuropatía diabética"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "proporciona",
+    "valor": "orientación técnica para manejo de pie diabético"
+  },
+  {
+    "entidad": "monofilamento de 10 g",
+    "relacion": "se utiliza como",
+    "valor": "estándar de referencia para neuropatía diabética"
+  },
+  {
+    "entidad": "neuropatía periférica distal",
+    "relacion": "es causada por",
+    "valor": "diabetes mellitus"
+  },
+  {
+    "entidad": "sensibilidad y especificidad",
+    "relacion": "son evaluadas en",
+    "valor": "pruebas diagnósticas"
+  },
+  {
+    "entidad": "pacientes con diabetes tipo 2",
+    "relacion": "son evaluados en",
+    "valor": "estudio de neuropatía diabética"
+  },
+  {
+    "entidad": "Neuropad",
+    "relacion": "presenta",
+    "valor": "alta sensibilidad en detección precoz de neuropatía"
+  },
+  {
+    "entidad": "pruebas diagnósticas",
+    "relacion": "se comparan con",
+    "valor": "monofilamento y diapasón"
+  },
+  {
+    "entidad": "Nicolás Lorenzini",
+    "relacion": "es autor de",
+    "valor": "estudio sobre neuropatía diabética"
+  },
+  {
+    "entidad": "Centro de Salud Familiar María Latife Saadi",
+    "relacion": "es un",
+    "valor": "centro de investigación"
+  },
+  {
+    "entidad": "pacientes diabéticos",
+    "relacion": "desarrollan",
+    "valor": "úlcera en los pies"
+  },
+  {
+    "entidad": "neuropatía diabética",
+    "relacion": "puede llevar a",
+    "valor": "amputaciones"
+  },
+  {
+    "entidad": "electromiografía",
+    "relacion": "es el",
+    "valor": "gold estándar para evaluación de neuropatía"
+  },
+  {
+    "entidad": "prueba Neuropad",
+    "relacion": "detecta",
+    "valor": "disfunción sudomotora"
+  },
+  {
+    "entidad": "diabetes mellitus",
+    "relacion": "causa",
+    "valor": "hiperglicemia crónica"
+  },
+  {
+    "entidad": "sensibilidad superficial",
+    "relacion": "se evalúa con",
+    "valor": "monofilamento y pincel"
+  },
+  {
+    "entidad": "pacientes con neuropatía",
+    "relacion": "pueden tener",
+    "valor": "exploración neurológica normal"
+  },
+  {
+    "entidad": "Neuropad",
+    "relacion": "es recomendado para",
+    "valor": "detección temprana de neuropatía"
+  },
+  {
+    "entidad": "estado nutricional",
+    "relacion": "está relacionado con",
+    "valor": "condición física funcional en adultos mayores"
+  },
+  {
+    "entidad": "medidas antropométricas",
+    "relacion": "se asocian con",
+    "valor": "condición física funcional"
+  },
+  {
+    "entidad": "índice de masa corporal (IMC)",
+    "relacion": "indica",
+    "valor": "obesidad"
+  },
+  {
+    "entidad": "razón cintura-talla (RCT)",
+    "relacion": "indica",
+    "valor": "riesgo cardiometabólico"
+  },
+  {
+    "entidad": "masa adiposa (MA)",
+    "relacion": "indica",
+    "valor": "obesidad"
+  },
+  {
+    "entidad": "índice de masa muscular esquelética (IMME)",
+    "relacion": "indica",
+    "valor": "baja masa muscular en mujeres"
+  },
+  {
+    "entidad": "Senior Fitness Test",
+    "relacion": "evalúa",
+    "valor": "condición física funcional"
+  },
+  {
+    "entidad": "correlaciones negativas",
+    "relacion": "se encuentran entre",
+    "valor": "pruebas de condición física y medidas antropométricas"
+  },
+  {
+    "entidad": "masa adiposa (MA)",
+    "relacion": "afecta",
+    "valor": "prueba de paso de 2 minutos"
+  },
+  {
+    "entidad": "edad y sexo",
+    "relacion": "influyen",
+    "valor": "asociaciones entre medidas antropométricas y condición física"
+  },
+  {
+    "entidad": "nutrición",
+    "relacion": "influye en",
+    "valor": "capacidad funcional de adultos mayores"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "aumenta",
+    "valor": "riesgo de mortalidad y morbilidad"
+  },
+  {
+    "entidad": "antropometría",
+    "relacion": "es parte de",
+    "valor": "evaluación nutricional en adultos mayores"
+  },
+  {
+    "entidad": "razón cintura-talla (RCT)",
+    "relacion": "tiene mayor capacidad predictiva que",
+    "valor": "IMC para riesgo cardiometabólico"
+  },
+  {
+    "entidad": "capacidad funcional",
+    "relacion": "se relaciona con",
+    "valor": "nutrición y estado físico"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "tienen mayor",
+    "valor": "fuerza y capacidad aeróbica"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen mayor",
+    "valor": "flexibilidad"
+  },
+  {
+    "entidad": "sarcopenia",
+    "relacion": "es un precursor de",
+    "valor": "limitación funcional"
+  },
+  {
+    "entidad": "medidas antropométricas",
+    "relacion": "son determinantes de",
+    "valor": "funcionalidad en adultos mayores"
+  },
+  {
+    "entidad": "estado nutricional",
+    "relacion": "se evalúa mediante",
+    "valor": "medidas antropométricas"
+  },
+  {
+    "entidad": "capacidad funcional",
+    "relacion": "depende de",
+    "valor": "niveles de actividad física"
+  }
+]

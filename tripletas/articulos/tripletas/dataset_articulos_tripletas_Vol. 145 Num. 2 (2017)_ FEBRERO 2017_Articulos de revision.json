@@ -1,0 +1,202 @@
+[
+  {
+    "entidad": "Virus de la inmunodeficiencia humana tipo 1 (VIH-1)",
+    "relacion": "causa",
+    "valor": "alteraciones en el tejido linfoide asociado a la mucosa gastrointestinal"
+  },
+  {
+    "entidad": "Terapia con probióticos/prebióticos",
+    "relacion": "afecta a",
+    "valor": "la reconstitución del tejido linfoide asociado a la mucosa gastrointestinal"
+  },
+  {
+    "entidad": "Terapia antirretroviral altamente activa (TAR)",
+    "relacion": "reduce",
+    "valor": "carga viral en pacientes con VIH-1"
+  },
+  {
+    "entidad": "Terapia con probióticos/prebióticos",
+    "relacion": "mejora",
+    "valor": "la integridad de la mucosa gastrointestinal"
+  },
+  {
+    "entidad": "CD4+ T cells",
+    "relacion": "son",
+    "valor": "células objetivo del VIH-1"
+  },
+  {
+    "entidad": "GALT",
+    "relacion": "es un",
+    "valor": "sitio importante para la replicación viral"
+  },
+  {
+    "entidad": "Probioticos",
+    "relacion": "son",
+    "valor": "microorganismos vivos que mejoran la función de la barrera intestinal"
+  },
+  {
+    "entidad": "Prebióticos",
+    "relacion": "son",
+    "valor": "ingredientes alimenticios que promueven el crecimiento de bacterias benéficas"
+  },
+  {
+    "entidad": "Terapia simbiótica",
+    "relacion": "induce",
+    "valor": "efectos benéficos en pacientes infectados con VIH-1"
+  },
+  {
+    "entidad": "Estado de hiperactivación inmune",
+    "relacion": "es causado por",
+    "valor": "la translocación de productos microbianos"
+  },
+  {
+    "entidad": "Microbiota intestinal",
+    "relacion": "es afectada por",
+    "valor": "la terapia con probióticos/prebióticos"
+  },
+  {
+    "entidad": "Lactobacillus spp.",
+    "relacion": "es un",
+    "valor": "probiotico utilizado en el tratamiento de enfermedades"
+  },
+  {
+    "entidad": "Bifidobacterium spp.",
+    "relacion": "es un",
+    "valor": "probiotico utilizado en el tratamiento de enfermedades"
+  },
+  {
+    "entidad": "Inulina",
+    "relacion": "es un",
+    "valor": "prebiótico utilizado para mejorar la microbiota intestinal"
+  },
+  {
+    "entidad": "Estado de inmunodeficiencia adquirida (SIDA)",
+    "relacion": "es una consecuencia de",
+    "valor": "la infección por VIH-1"
+  },
+  {
+    "entidad": "Terapia simbiótica",
+    "relacion": "mejora",
+    "valor": "la integridad estructural de la mucosa gastrointestinal"
+  },
+  {
+    "entidad": "Células NK",
+    "relacion": "aumentan su actividad por",
+    "valor": "el suministro de prebióticos"
+  },
+  {
+    "entidad": "CD14s",
+    "relacion": "se reduce por",
+    "valor": "el suministro de probióticos"
+  },
+  {
+    "entidad": "Producción de IL-6",
+    "relacion": "se disminuye por",
+    "valor": "la terapia simbiótica"
+  },
+  {
+    "entidad": "Terapia con probióticos/prebióticos",
+    "relacion": "puede reducir",
+    "valor": "el perfil inflamatorio en pacientes con VIH-1"
+  },
+  {
+    "entidad": "Enfermedad diverticular",
+    "relacion": "es un",
+    "valor": "diagnóstico gastroenterológico frecuente"
+  },
+  {
+    "entidad": "Diverticulosis",
+    "relacion": "es un tipo de",
+    "valor": "enfermedad diverticular"
+  },
+  {
+    "entidad": "Diverticulitis",
+    "relacion": "es un tipo de",
+    "valor": "enfermedad diverticular"
+  },
+  {
+    "entidad": "Diverticulosis",
+    "relacion": "presenta",
+    "valor": "aumento de incidencia en pacientes mayores"
+  },
+  {
+    "entidad": "Diverticulitis",
+    "relacion": "puede ser",
+    "valor": "aguda o crónica"
+  },
+  {
+    "entidad": "Baja ingesta de fibras",
+    "relacion": "es un factor",
+    "valor": "en la patogenia de la diverticulosis"
+  },
+  {
+    "entidad": "Alteraciones de la microbiota intestinal",
+    "relacion": "son factores",
+    "valor": "en la patogenia de la diverticulosis"
+  },
+  {
+    "entidad": "Edad",
+    "relacion": "es un factor de riesgo",
+    "valor": "importante en la diverticulosis"
+  },
+  {
+    "entidad": "Hábito tabáquico",
+    "relacion": "aumenta",
+    "valor": "el riesgo de enfermedad diverticular"
+  },
+  {
+    "entidad": "Antibióticos",
+    "relacion": "tienen evidencia",
+    "valor": "sparse y de baja calidad en diverticulitis no complicada"
+  },
+  {
+    "entidad": "Mesalazina",
+    "relacion": "es un tratamiento",
+    "valor": "evaluado para la enfermedad diverticular"
+  },
+  {
+    "entidad": "Rifaximina",
+    "relacion": "es un tratamiento",
+    "valor": "evaluado para la enfermedad diverticular"
+  },
+  {
+    "entidad": "Probioticos",
+    "relacion": "son tratamientos",
+    "valor": "evaluados para la enfermedad diverticular"
+  },
+  {
+    "entidad": "Cirugía profiláctica",
+    "relacion": "debe ser",
+    "valor": "discutida caso a caso"
+  },
+  {
+    "entidad": "Dieta rica en fibras",
+    "relacion": "puede aumentar",
+    "valor": "el riesgo de enfermedad diverticular"
+  },
+  {
+    "entidad": "Obesidad",
+    "relacion": "aumenta",
+    "valor": "el riesgo de diverticulitis"
+  },
+  {
+    "entidad": "Calprotectina fecal",
+    "relacion": "es un marcador",
+    "valor": "de inflamación en enfermedad diverticular"
+  },
+  {
+    "entidad": "Ejercicio físico",
+    "relacion": "es una medida",
+    "valor": "efectiva en el manejo de la enfermedad diverticular"
+  },
+  {
+    "entidad": "Diverticulitis aguda",
+    "relacion": "se clasifica según",
+    "valor": "características clínicas y radiológicas"
+  },
+  {
+    "entidad": "Colonoscopía",
+    "relacion": "debe ser",
+    "valor": "reevaluada después de un episodio de diverticulitis"
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "entidad": "síndrome de úlcera rectal solitaria (SURS)",
+    "relacion": "es un",
+    "valor": "trastorno de la defecación"
+  },
+  {
+    "entidad": "SURS",
+    "relacion": "tiene manifestaciones clínicas",
+    "valor": "variadas y difíciles de diagnosticar"
+  },
+  {
+    "entidad": "SURS",
+    "relacion": "no tiene",
+    "valor": "un manejo definitivo"
+  },
+  {
+    "entidad": "tratamiento del SURS",
+    "relacion": "debe ser",
+    "valor": "individualizado y multimodal"
+  },
+  {
+    "entidad": "cirugía",
+    "relacion": "está reservada para",
+    "valor": "corregir alteraciones anatómicas"
+  },
+  {
+    "entidad": "SURS",
+    "relacion": "se asocia a",
+    "valor": "disinergia defecatoria (DD)"
+  },
+  {
+    "entidad": "SURS",
+    "relacion": "se asocia a",
+    "valor": "prolapso rectal (PR)"
+  },
+  {
+    "entidad": "SURS",
+    "relacion": "se asocia a",
+    "valor": "intususcepción rectal (IR)"
+  },
+  {
+    "entidad": "diagnóstico de SURS",
+    "relacion": "se realiza mediante",
+    "valor": "integración de síntomas, hallazgos endoscópicos e histológicos"
+  },
+  {
+    "entidad": "SURS",
+    "relacion": "se caracteriza por",
+    "valor": "lesiones en la pared rectal"
+  },
+  {
+    "entidad": "SURS",
+    "relacion": "puede presentar",
+    "valor": "múltiples morfologías"
+  },
+  {
+    "entidad": "rectorragia",
+    "relacion": "es un síntoma",
+    "valor": "frecuente en SURS"
+  },
+  {
+    "entidad": "SURS",
+    "relacion": "tiene una prevalencia estimada de",
+    "valor": "1:100,000 individuos por año"
+  },
+  {
+    "entidad": "SURS",
+    "relacion": "afecta a",
+    "valor": "todos los grupos etarios"
+  },
+  {
+    "entidad": "SURS",
+    "relacion": "es diagnosticado en promedio en",
+    "valor": "5 años desde el inicio de síntomas"
+  },
+  {
+    "entidad": "fisiopatología del SURS",
+    "relacion": "es",
+    "valor": "probablemente multifactorial"
+  },
+  {
+    "entidad": "alteraciones de la relajación del piso pélvico",
+    "relacion": "se asocian a",
+    "valor": "SURS"
+  },
+  {
+    "entidad": "SURS",
+    "relacion": "requiere",
+    "valor": "evaluación clínica completa"
+  },
+  {
+    "entidad": "histología en SURS",
+    "relacion": "es fundamental para",
+    "valor": "el diagnóstico"
+  },
+  {
+    "entidad": "oblitación fibromuscular de la lámina propia (OFMLP)",
+    "relacion": "es",
+    "valor": "la piedra angular diagnóstica"
+  },
+  {
+    "entidad": "SURS",
+    "relacion": "puede ser tratado con",
+    "valor": "biofeedback"
+  },
+  {
+    "entidad": "biofeedback",
+    "relacion": "mejora",
+    "valor": "la función anorrectal en SURS"
+  },
+  {
+    "entidad": "SURS",
+    "relacion": "puede requerir",
+    "valor": "intervención quirúrgica"
+  },
+  {
+    "entidad": "rectopexia ventral laparoscópica (RVL)",
+    "relacion": "es un tratamiento",
+    "valor": "efectivo para SURS asociado a IR o PR"
+  },
+  {
+    "entidad": "NMS",
+    "relacion": "es una herramienta para",
+    "valor": "el tratamiento de la incontinencia fecal"
+  },
+  {
+    "entidad": "NMS",
+    "relacion": "ha mostrado resultados prometedores en",
+    "valor": "el control de síntomas en SURS"
+  },
+  {
+    "entidad": "craneofaringioma",
+    "relacion": "es un",
+    "valor": "tumor de histología benigna"
+  },
+  {
+    "entidad": "craneofaringioma",
+    "relacion": "puede provocar",
+    "valor": "graves secuelas"
+  },
+  {
+    "entidad": "craneofaringioma",
+    "relacion": "se caracteriza por",
+    "valor": "ser localmente agresivo"
+  },
+  {
+    "entidad": "craneofaringioma",
+    "relacion": "presenta",
+    "valor": "alta tasa de recurrencia"
+  },
+  {
+    "entidad": "craneofaringioma adamantinomatoso",
+    "relacion": "es causado por",
+    "valor": "mutación activante del gen CTNNB1"
+  },
+  {
+    "entidad": "CTNNB1",
+    "relacion": "codifica para",
+    "valor": "forma mutante de β-catenina"
+  },
+  {
+    "entidad": "craneofaringioma papilar",
+    "relacion": "se asocia a",
+    "valor": "mutaciones en el oncogen BRAF"
+  },
+  {
+    "entidad": "BRAF",
+    "relacion": "activa",
+    "valor": "vía de señalización MAPK"
+  },
+  {
+    "entidad": "síntomas de craneofaringioma",
+    "relacion": "son secundarios a",
+    "valor": "déficit hormonal, hidrocefalia o alteración visual"
+  },
+  {
+    "entidad": "tratamiento de craneofaringioma",
+    "relacion": "debe realizarse en",
+    "valor": "centros con alta experiencia"
+  },
+  {
+    "entidad": "radioterapia",
+    "relacion": "ha demostrado",
+    "valor": "disminuir la recidiva tumoral"
+  },
+  {
+    "entidad": "nuevos tratamientos médicos",
+    "relacion": "se basan en",
+    "valor": "terapias targets moleculares"
+  },
+  {
+    "entidad": "Instituto de Neurocirugía Asenjo",
+    "relacion": "es un",
+    "valor": "centro de referencia nacional"
+  },
+  {
+    "entidad": "craneofaringioma",
+    "relacion": "corresponde al",
+    "valor": "5-15% de los tumores intracraneales en niños"
+  },
+  {
+    "entidad": "craneofaringioma",
+    "relacion": "se presenta con",
+    "valor": "distribución bimodal"
+  },
+  {
+    "entidad": "mutación activante del gen CTNNB1",
+    "relacion": "se describe en",
+    "valor": "hasta el 94% de los casos de CFA"
+  },
+  {
+    "entidad": "craneofaringioma",
+    "relacion": "puede desencadenar",
+    "valor": "hidrocefalia secundaria"
+  },
+  {
+    "entidad": "deficiencia de AVP",
+    "relacion": "se presenta en",
+    "valor": "1 de cada 4 pacientes con CF"
+  },
+  {
+    "entidad": "craneofaringioma",
+    "relacion": "se asocia a",
+    "valor": "alta morbilidad"
+  },
+  {
+    "entidad": "cirugía del craneofaringioma",
+    "relacion": "plantea",
+    "valor": "un gran desafío"
+  },
+  {
+    "entidad": "radioterapia con haz de protones",
+    "relacion": "se plantea como",
+    "valor": "una alternativa con mejores resultados"
+  },
+  {
+    "entidad": "Instituto de Neurocirugía Asenjo",
+    "relacion": "concentra",
+    "valor": "el mayor volumen de pacientes portadores de CF"
+  }
+]

@@ -1,0 +1,532 @@
+[
+  {
+    "entidad": "Diabetes mellitus (DM)",
+    "relacion": "es un",
+    "valor": "factor de riesgo cardiovascular"
+  },
+  {
+    "entidad": "Enfermedad cardiovascular aterosclerótica (ECVA)",
+    "relacion": "afecta a",
+    "valor": "población adulta de Chile"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud (ENS) 2009-2010",
+    "relacion": "proporciona",
+    "valor": "datos sobre salud en Chile"
+  },
+  {
+    "entidad": "Antonio Arteaga",
+    "relacion": "es el autor de",
+    "valor": "estudio sobre diabetes y ECVA"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "es la institución de",
+    "valor": "investigación en nutrición y diabetes"
+  },
+  {
+    "entidad": "FondecYt",
+    "relacion": "financia",
+    "valor": "proyectos de investigación"
+  },
+  {
+    "entidad": "Diabetes mellitus (DM)",
+    "relacion": "se asocia con",
+    "valor": "aumento de frecuencia de ECVA"
+  },
+  {
+    "entidad": "Población adulta de Chile",
+    "relacion": "presenta",
+    "valor": "prevalencia de diabetes mellitus"
+  },
+  {
+    "entidad": "Mujeres diabéticas",
+    "relacion": "tienen mayor riesgo de",
+    "valor": "enfermedad cardiovascular"
+  },
+  {
+    "entidad": "Hombres diabéticos",
+    "relacion": "muestran",
+    "valor": "incremento de ECVA con la edad"
+  },
+  {
+    "entidad": "Síndrome metabólico",
+    "relacion": "es más común en",
+    "valor": "pacientes diabéticos con ECVA"
+  },
+  {
+    "entidad": "Factores de riesgo cardiovascular",
+    "relacion": "son más frecuentes en",
+    "valor": "diabéticos con ECVA"
+  },
+  {
+    "entidad": "Diabetes mellitus (DM)",
+    "relacion": "incrementa",
+    "valor": "riesgo cardiovascular en mujeres"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud (ENS)",
+    "relacion": "evalúa",
+    "valor": "frecuencia de ECVA"
+  },
+  {
+    "entidad": "Diabetes mellitus (DM)",
+    "relacion": "se diagnostica por",
+    "valor": "glicemia elevada o autorreporte"
+  },
+  {
+    "entidad": "Enfermedad cardiovascular aterosclerótica (ECVA)",
+    "relacion": "se establece por",
+    "valor": "autorreporte de diagnóstico médico"
+  },
+  {
+    "entidad": "Diabetes mellitus (DM)",
+    "relacion": "se relaciona con",
+    "valor": "mayor frecuencia de hipertensión arterial"
+  },
+  {
+    "entidad": "Diabetes mellitus (DM)",
+    "relacion": "se relaciona con",
+    "valor": "mayor frecuencia de dislipidemia"
+  },
+  {
+    "entidad": "calidad de vida relacionada con la salud",
+    "relacion": "es un",
+    "valor": "constructo complejo"
+  },
+  {
+    "entidad": "cuestionario Short-Form Health Survey (SF-36®)",
+    "relacion": "es utilizado para",
+    "valor": "evaluar calidad de vida relacionada con la salud"
+  },
+  {
+    "entidad": "médicos internos residentes",
+    "relacion": "realizan",
+    "valor": "guardias en un Servicio de Urgencias"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen",
+    "valor": "peor percepción de calidad de vida relacionada con la salud que hombres"
+  },
+  {
+    "entidad": "vitalidad",
+    "relacion": "es el mejor predictor de",
+    "valor": "salud mental y funcionamiento social en mujeres"
+  },
+  {
+    "entidad": "Servicio de Urgencias",
+    "relacion": "puede constituir",
+    "valor": "un entorno que propicie problemas de salud física y mental"
+  },
+  {
+    "entidad": "médicos internos residentes",
+    "relacion": "presentan",
+    "valor": "alta incidencia de depresión y ansiedad"
+  },
+  {
+    "entidad": "feminización de la profesión médica",
+    "relacion": "afecta",
+    "valor": "la salud mental de mujeres médicas"
+  },
+  {
+    "entidad": "estrategias preventivas",
+    "relacion": "deben ser implementadas para",
+    "valor": "mejorar la situación física y psicológica de los profesionales sanitarios"
+  },
+  {
+    "entidad": "mujeres MIR",
+    "relacion": "tienen",
+    "valor": "percepción significativamente peor de su calidad de vida relacionada con la salud"
+  },
+  {
+    "entidad": "dimensiones del SF-36®",
+    "relacion": "analizan",
+    "valor": "aspectos de salud física y mental"
+  },
+  {
+    "entidad": "médicos internos residentes",
+    "relacion": "son",
+    "valor": "el grupo menos estudiado en relación a la calidad de vida relacionada con la salud"
+  },
+  {
+    "entidad": "presión asistencial",
+    "relacion": "hace que",
+    "valor": "los médicos sean más vulnerables a alteraciones de bienestar físico y psicológico"
+  },
+  {
+    "entidad": "Instituto de Nutrición y Tecnología de los Alimentos (INTA)",
+    "relacion": "realiza",
+    "valor": "programas de educación en promoción de salud"
+  },
+  {
+    "entidad": "programa de educación a distancia",
+    "relacion": "contribuye a",
+    "valor": "desarrollo de capacidades en promoción de salud"
+  },
+  {
+    "entidad": "Atención Primaria de Salud (APS)",
+    "relacion": "requiere de",
+    "valor": "competencias en prevención y promoción de salud"
+  },
+  {
+    "entidad": "Organización Panamericana de la Salud (OPS/OMS)",
+    "relacion": "impulsa",
+    "valor": "renovación de la Atención Primaria de Salud"
+  },
+  {
+    "entidad": "Ministerio de Salud (MINSAL)",
+    "relacion": "financia",
+    "valor": "programa de desarrollo de recursos humanos en APS"
+  },
+  {
+    "entidad": "Diploma de educación a distancia en promoción de salud",
+    "relacion": "evalúa",
+    "valor": "satisfacción de los estudiantes"
+  },
+  {
+    "entidad": "estudiantes",
+    "relacion": "implementan",
+    "valor": "nuevo conocimiento en promoción de salud"
+  },
+  {
+    "entidad": "metodología interactiva y participativa",
+    "relacion": "aplicada en",
+    "valor": "Diploma de educación a distancia"
+  },
+  {
+    "entidad": "encuestas",
+    "relacion": "miden",
+    "valor": "satisfacción y aprendizaje de los estudiantes"
+  },
+  {
+    "entidad": "contenido del Diploma",
+    "relacion": "se estructura en",
+    "valor": "5 módulos de aprendizaje"
+  },
+  {
+    "entidad": "plataforma Moodle",
+    "relacion": "facilita",
+    "valor": "intercambio entre alumnos y tutores"
+  },
+  {
+    "entidad": "trabajo final",
+    "relacion": "consiste en",
+    "valor": "formulación de una intervención en promoción de salud"
+  },
+  {
+    "entidad": "barreras en el proceso de aprendizaje",
+    "relacion": "incluyen",
+    "valor": "falta de tiempo y acceso a internet"
+  },
+  {
+    "entidad": "tasa de aprobación del Diploma",
+    "relacion": "es",
+    "valor": "90,15%"
+  },
+  {
+    "entidad": "estudiantes",
+    "relacion": "reportan",
+    "valor": "alta satisfacción con el Diploma"
+  },
+  {
+    "entidad": "Diploma",
+    "relacion": "aumenta",
+    "valor": "confianza laboral de los graduados"
+  },
+  {
+    "entidad": "graduados",
+    "relacion": "recomiendan",
+    "valor": "Diploma a otras personas"
+  },
+  {
+    "entidad": "obstáculos para implementar contenidos",
+    "relacion": "son",
+    "valor": "caracter organizacional"
+  },
+  {
+    "entidad": "Fondo Nacional de Salud (FONASA)",
+    "relacion": "comisiona",
+    "valor": "estudio de costos"
+  },
+  {
+    "entidad": "hospitales públicos",
+    "relacion": "evalúa",
+    "valor": "situación financiera"
+  },
+  {
+    "entidad": "costos actualizados",
+    "relacion": "se basa en",
+    "valor": "prestaciones hospitalarias"
+  },
+  {
+    "entidad": "hospitales públicos",
+    "relacion": "tienen",
+    "valor": "situaciones financieras heterogéneas"
+  },
+  {
+    "entidad": "arancel",
+    "relacion": "no cubre",
+    "valor": "costos reales"
+  },
+  {
+    "entidad": "FONASA",
+    "relacion": "elabora",
+    "valor": "propuesta de aranceles"
+  },
+  {
+    "entidad": "aranceles",
+    "relacion": "se ajustan a",
+    "valor": "inflactores de remuneraciones"
+  },
+  {
+    "entidad": "costos de prestaciones",
+    "relacion": "afectan",
+    "valor": "sustentabilidad financiera del sistema"
+  },
+  {
+    "entidad": "método mixto",
+    "relacion": "utiliza",
+    "valor": "estudio de costos"
+  },
+  {
+    "entidad": "prestaciones hospitalarias",
+    "relacion": "representan",
+    "valor": "73,1% del gasto total"
+  },
+  {
+    "entidad": "facturación",
+    "relacion": "es menor que",
+    "valor": "gasto operacional"
+  },
+  {
+    "entidad": "hospitales",
+    "relacion": "justifican",
+    "valor": "transferencias con costos actualizados"
+  },
+  {
+    "entidad": "hospitales",
+    "relacion": "presentan",
+    "valor": "brechas en facturación"
+  },
+  {
+    "entidad": "hospitales",
+    "relacion": "se agrupan en",
+    "valor": "cuatro grupos"
+  },
+  {
+    "entidad": "Grupo 1",
+    "relacion": "justifica",
+    "valor": "transferencias con costos superiores"
+  },
+  {
+    "entidad": "Grupo 2",
+    "relacion": "justifica",
+    "valor": "transferencias con brechas menores"
+  },
+  {
+    "entidad": "Grupo 3",
+    "relacion": "tiene",
+    "valor": "brechas significativas"
+  },
+  {
+    "entidad": "Grupo 4",
+    "relacion": "justifica",
+    "valor": "transferencias con costos propios"
+  },
+  {
+    "entidad": "costos calculados",
+    "relacion": "son",
+    "valor": "más altos que arancel MAI"
+  },
+  {
+    "entidad": "hospitales",
+    "relacion": "gastan",
+    "valor": "más de lo que facturan"
+  },
+  {
+    "entidad": "análisis de eficiencia",
+    "relacion": "debe ajustar",
+    "valor": "costos por complejidad"
+  },
+  {
+    "entidad": "Grupos Relacionados por el Diagnóstico (GRD)",
+    "relacion": "permiten",
+    "valor": "estandarizar casuística hospitalaria"
+  },
+  {
+    "entidad": "edad materna",
+    "relacion": "es un",
+    "valor": "factor de riesgo"
+  },
+  {
+    "entidad": "mortalidad materna",
+    "relacion": "asociada a",
+    "valor": "edad materna avanzada"
+  },
+  {
+    "entidad": "mortalidad fetal",
+    "relacion": "asociada a",
+    "valor": "edad materna avanzada"
+  },
+  {
+    "entidad": "mortalidad neonatal",
+    "relacion": "asociada a",
+    "valor": "edad materna avanzada"
+  },
+  {
+    "entidad": "mortalidad infantil",
+    "relacion": "asociada a",
+    "valor": "edad materna avanzada"
+  },
+  {
+    "entidad": "embarazo adolescente",
+    "relacion": "asocia a",
+    "valor": "mayor riesgo materno y perinatal"
+  },
+  {
+    "entidad": "mujeres de 20-29 años",
+    "relacion": "tienen",
+    "valor": "menor riesgo de mortalidad"
+  },
+  {
+    "entidad": "mujeres de 45-49 años",
+    "relacion": "tienen",
+    "valor": "mayor tasa de mortalidad"
+  },
+  {
+    "entidad": "rango de edad materna",
+    "relacion": "concentra",
+    "valor": "menor riesgo de mortalidad"
+  },
+  {
+    "entidad": "Instituto Nacional de Estadísticas de Chile",
+    "relacion": "publica",
+    "valor": "Anuarios de Estadísticas Vitales"
+  },
+  {
+    "entidad": "mujeres de 10-14 años",
+    "relacion": "presentan",
+    "valor": "alto riesgo de mortalidad"
+  },
+  {
+    "entidad": "mujeres de 35 o más años",
+    "relacion": "asociadas a",
+    "valor": "mayor riesgo de patologías"
+  },
+  {
+    "entidad": "embarazo en adolescentes",
+    "relacion": "es un",
+    "valor": "problema de salud pública"
+  },
+  {
+    "entidad": "mujeres de 30-34 años",
+    "relacion": "presentan",
+    "valor": "mayor riesgo de mortalidad fetal"
+  },
+  {
+    "entidad": "mujeres de 20-34 años",
+    "relacion": "son",
+    "valor": "grupo control en estudios"
+  },
+  {
+    "entidad": "políticas públicas",
+    "relacion": "necesarias para",
+    "valor": "reducir embarazo adolescente"
+  },
+  {
+    "entidad": "WHO",
+    "relacion": "sugiere",
+    "valor": "control de fecundidad en adolescentes"
+  },
+  {
+    "entidad": "cáncer gástrico",
+    "relacion": "es",
+    "valor": "uno de los tumores más letales en la población chilena"
+  },
+  {
+    "entidad": "Instituto Nacional del Cáncer de Chile",
+    "relacion": "realiza",
+    "valor": "radioquimioterapia adyuvante"
+  },
+  {
+    "entidad": "radioquimioterapia adyuvante",
+    "relacion": "se utiliza en",
+    "valor": "cáncer gástrico completamente resecado"
+  },
+  {
+    "entidad": "5-fluorouracilo",
+    "relacion": "es un",
+    "valor": "agente utilizado en el tratamiento"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "son tratados con",
+    "valor": "radioquimioterapia adyuvante"
+  },
+  {
+    "entidad": "cáncer gástrico",
+    "relacion": "afecta a",
+    "valor": "hombres y mujeres"
+  },
+  {
+    "entidad": "cáncer gástrico",
+    "relacion": "es",
+    "valor": "el 3º más frecuente y mortal en América Central, Caribe y Sudamérica"
+  },
+  {
+    "entidad": "cáncer gástrico",
+    "relacion": "tiene una relación",
+    "valor": "hombre/mujer de 2,6:1"
+  },
+  {
+    "entidad": "cáncer gástrico",
+    "relacion": "es diagnosticado en",
+    "valor": "etapa tardía"
+  },
+  {
+    "entidad": "tratamiento estándar",
+    "relacion": "es",
+    "valor": "cirugía"
+  },
+  {
+    "entidad": "sobrevida a 5 años",
+    "relacion": "es",
+    "valor": "40% con compromiso seroso"
+  },
+  {
+    "entidad": "radioquimioterapia adyuvante",
+    "relacion": "ha mostrado",
+    "valor": "ser efectiva y segura"
+  },
+  {
+    "entidad": "Instituto Nacional del Cáncer",
+    "relacion": "realiza",
+    "valor": "análisis de sobrevida"
+  },
+  {
+    "entidad": "análisis univariado",
+    "relacion": "explora",
+    "valor": "factores pronósticos relevantes"
+  },
+  {
+    "entidad": "análisis multivariado",
+    "relacion": "identifica",
+    "valor": "factores estadísticamente significativos"
+  },
+  {
+    "entidad": "disección linfática D2",
+    "relacion": "es realizada en",
+    "valor": "91% de los pacientes"
+  },
+  {
+    "entidad": "sobrevida global",
+    "relacion": "es",
+    "valor": "53% a 3 años y 41% a 5 años"
+  },
+  {
+    "entidad": "cáncer gástrico",
+    "relacion": "es tratado con",
+    "valor": "radioterapia y quimioterapia adyuvante"
+  }
+]

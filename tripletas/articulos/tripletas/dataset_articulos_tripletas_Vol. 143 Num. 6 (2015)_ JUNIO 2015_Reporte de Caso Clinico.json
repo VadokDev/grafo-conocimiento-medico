@@ -1,0 +1,242 @@
+[
+  {
+    "entidad": "Artritis infecciosa",
+    "relacion": "es un",
+    "valor": "proceso inflamatorio agudo"
+  },
+  {
+    "entidad": "Artritis infecciosa",
+    "relacion": "es causada por",
+    "valor": "invasión de microorganismos piógenos"
+  },
+  {
+    "entidad": "Articulación temporomandibular",
+    "relacion": "es afectada por",
+    "valor": "artritis infecciosa"
+  },
+  {
+    "entidad": "Otitis necrotizante",
+    "relacion": "causa",
+    "valor": "artritis infecciosa de la articulación temporomandibular"
+  },
+  {
+    "entidad": "Paciente",
+    "relacion": "tiene",
+    "valor": "41 años"
+  },
+  {
+    "entidad": "Paciente",
+    "relacion": "presenta",
+    "valor": "dolor en la articulación temporomandibular"
+  },
+  {
+    "entidad": "Hospital San Juan de Dios",
+    "relacion": "es un",
+    "valor": "centro de atención médica"
+  },
+  {
+    "entidad": "Ceftazidima",
+    "relacion": "es un",
+    "valor": "antibiótico utilizado en tratamiento"
+  },
+  {
+    "entidad": "Clindamicina",
+    "relacion": "es un",
+    "valor": "antibiótico utilizado en tratamiento"
+  },
+  {
+    "entidad": "Ciprofloxacino",
+    "relacion": "es un",
+    "valor": "antibiótico utilizado en tratamiento"
+  },
+  {
+    "entidad": "Artroscentesis",
+    "relacion": "es un",
+    "valor": "método de tratamiento"
+  },
+  {
+    "entidad": "Osteoartritis secundaria",
+    "relacion": "es una secuela de",
+    "valor": "artritis infecciosa"
+  },
+  {
+    "entidad": "Tomografía axial computarizada",
+    "relacion": "es utilizada para",
+    "valor": "diagnosticar compromiso óseo"
+  },
+  {
+    "entidad": "Resonancia nuclear magnética",
+    "relacion": "es utilizada para",
+    "valor": "evaluar cambios degenerativos"
+  },
+  {
+    "entidad": "Antibióticos de amplio espectro",
+    "relacion": "son recomendados para",
+    "valor": "tratamiento inicial de artritis infecciosa"
+  },
+  {
+    "entidad": "Articulación temporomandibular",
+    "relacion": "puede sufrir",
+    "valor": "daño irreversible"
+  },
+  {
+    "entidad": "Secuelas anatómicas intrarticulares",
+    "relacion": "condicionan",
+    "valor": "artrosis secundaria"
+  },
+  {
+    "entidad": "Manejo terapéutico",
+    "relacion": "puede incluir",
+    "valor": "AINES y férulas oclusales"
+  },
+  {
+    "entidad": "Manejo terapéutico",
+    "relacion": "puede incluir",
+    "valor": "procedimientos quirúrgicos invasivos"
+  },
+  {
+    "entidad": "Púrpura trombótica trombocitopénica",
+    "relacion": "es un tipo de",
+    "valor": "microangiopatía trombótica"
+  },
+  {
+    "entidad": "Rituximab",
+    "relacion": "es un",
+    "valor": "anticuerpo monoclonal anti CD20"
+  },
+  {
+    "entidad": "Rituximab",
+    "relacion": "se utiliza en el tratamiento de",
+    "valor": "púrpura trombótica trombocitopénica refractaria"
+  },
+  {
+    "entidad": "Plasmaféresis",
+    "relacion": "es un tratamiento estándar para",
+    "valor": "púrpura trombótica trombocitopénica"
+  },
+  {
+    "entidad": "Pacientes refractarios",
+    "relacion": "tienen un riesgo elevado de",
+    "valor": "mortalidad"
+  },
+  {
+    "entidad": "Rituximab",
+    "relacion": "ha mostrado tasas de éxito mayores a",
+    "valor": "90%"
+  },
+  {
+    "entidad": "ADAMTS13",
+    "relacion": "es normalizado por",
+    "valor": "rituximab"
+  },
+  {
+    "entidad": "Rituximab",
+    "relacion": "previene",
+    "valor": "reactivaciones a mediano y largo plazo"
+  },
+  {
+    "entidad": "Rituximab",
+    "relacion": "induce",
+    "valor": "remisión completa en pacientes con PTT"
+  },
+  {
+    "entidad": "Rituximab",
+    "relacion": "favorece",
+    "valor": "controlar el PTT en pacientes de difícil manejo"
+  },
+  {
+    "entidad": "Microangiopatía trombótica no inmune",
+    "relacion": "puede ser secundaria a",
+    "valor": "neoplasia o trasplante"
+  },
+  {
+    "entidad": "Rituximab",
+    "relacion": "ha mostrado utilidad clínica en",
+    "valor": "lupus y artritis reumatoide"
+  },
+  {
+    "entidad": "Hospital Universitario",
+    "relacion": "realiza",
+    "valor": "manejo de púrpura trombótica trombocitopénica"
+  },
+  {
+    "entidad": "Dr. Mauricio Sarmiento",
+    "relacion": "es el autor de",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "es la institución donde se realiza",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "Síndrome de hiper IgE",
+    "relacion": "es",
+    "valor": "una enfermedad poco frecuente"
+  },
+  {
+    "entidad": "Síndrome de hiper IgE",
+    "relacion": "caracterizado por",
+    "valor": "eczema crónico, abscesos cutáneos, neumonías, infecciones invasivas, altos niveles de IgE, retención de dientes primarios y anormalidades óseas"
+  },
+  {
+    "entidad": "HIES",
+    "relacion": "se presenta en",
+    "valor": "edad adulta"
+  },
+  {
+    "entidad": "24 años",
+    "relacion": "es la edad de",
+    "valor": "un paciente reportado con HIES"
+  },
+  {
+    "entidad": "Staphylococcus aureus",
+    "relacion": "es el agente bacteriano más frecuentemente aislado en",
+    "valor": "infecciones recurrentes en HIES"
+  },
+  {
+    "entidad": "Grimbacher scale",
+    "relacion": "se utiliza para",
+    "valor": "diagnosticar el síndrome de hiper IgE"
+  },
+  {
+    "entidad": "interferón gamma",
+    "relacion": "es producido en",
+    "valor": "baja cantidad por células T en pacientes con HIES"
+  },
+  {
+    "entidad": "células T helper tipo 1 (Th1)",
+    "relacion": "tienen",
+    "valor": "defectos en la respuesta en HIES"
+  },
+  {
+    "entidad": "infecciones graves",
+    "relacion": "son un riesgo en",
+    "valor": "pacientes con HIES"
+  },
+  {
+    "entidad": "tratamiento antibiótico",
+    "relacion": "se utiliza para",
+    "valor": "reducir abscesos cutáneos y neumonías estafilocócicas"
+  },
+  {
+    "entidad": "crioglobulinemia",
+    "relacion": "se asocia con",
+    "valor": "fenómenos trombóticos en pacientes con HIES"
+  },
+  {
+    "entidad": "Universidad de La Frontera",
+    "relacion": "es",
+    "valor": "la institución donde se realizó el estudio"
+  },
+  {
+    "entidad": "Hospital Hernán Henríquez Aravena",
+    "relacion": "es",
+    "valor": "un lugar de atención médica involucrado en el caso"
+  },
+  {
+    "entidad": "Dr. Guillermo Esteban Aguilera Silva",
+    "relacion": "es",
+    "valor": "el autor principal del estudio"
+  }
+]

@@ -1,0 +1,397 @@
+[
+  {
+    "entidad": "catéter de diálisis peritoneal",
+    "relacion": "se instala por",
+    "valor": "vía laparoscópica avanzada (LAP)"
+  },
+  {
+    "entidad": "catéter de diálisis peritoneal",
+    "relacion": "se instala por",
+    "valor": "vía mínimamente invasiva (MMI)"
+  },
+  {
+    "entidad": "Hospital Clínico Universidad de Chile",
+    "relacion": "realiza",
+    "valor": "instalación de catéter de diálisis peritoneal"
+  },
+  {
+    "entidad": "número de pacientes",
+    "relacion": "es",
+    "valor": "264"
+  },
+  {
+    "entidad": "complicaciones precoces",
+    "relacion": "ocurren hasta",
+    "valor": "30 días"
+  },
+  {
+    "entidad": "complicaciones tardías",
+    "relacion": "ocurren a partir de",
+    "valor": "30 días"
+  },
+  {
+    "entidad": "vía mínimamente invasiva (MMI)",
+    "relacion": "es realizada por",
+    "valor": "nefrólogos y cirujanos"
+  },
+  {
+    "entidad": "vía laparoscópica avanzada (LAP)",
+    "relacion": "requiere",
+    "valor": "anestesia general"
+  },
+  {
+    "entidad": "mortalidad asociada",
+    "relacion": "es",
+    "valor": "0%"
+  },
+  {
+    "entidad": "reposicionamiento",
+    "relacion": "es la complicación precoz más frecuente",
+    "valor": "7.6%"
+  },
+  {
+    "entidad": "peritonitis",
+    "relacion": "es la complicación tardía más frecuente",
+    "valor": "44%"
+  },
+  {
+    "entidad": "tasa global de complicaciones",
+    "relacion": "es",
+    "valor": "43.9%"
+  },
+  {
+    "entidad": "vía LAP",
+    "relacion": "no es superior a",
+    "valor": "vía MMI en complicaciones"
+  },
+  {
+    "entidad": "tendencia",
+    "relacion": "observada en",
+    "valor": "menor tasa de reposicionamientos en grupo LAP"
+  },
+  {
+    "entidad": "técnica de instalación",
+    "relacion": "incluye",
+    "valor": "quirúrgica y mínimamente invasiva"
+  },
+  {
+    "entidad": "método de análisis",
+    "relacion": "es",
+    "valor": "estudio retrospectivo"
+  },
+  {
+    "entidad": "software STATA 14",
+    "relacion": "se utiliza para",
+    "valor": "análisis estadístico"
+  },
+  {
+    "entidad": "comité ético científico",
+    "relacion": "aprueba",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "experiencia del operador",
+    "relacion": "impacta en",
+    "valor": "resultados de instalación de CPD"
+  },
+  {
+    "entidad": "Plan de Salud Familiar (PSF)",
+    "relacion": "establece",
+    "valor": "intervenciones sanitarias en atención primaria"
+  },
+  {
+    "entidad": "Ministerio de Salud (MINSAL)",
+    "relacion": "emite",
+    "valor": "orientaciones técnicas y programáticas"
+  },
+  {
+    "entidad": "PSF",
+    "relacion": "sirve de",
+    "valor": "plan base para el cálculo de transferencias de financiamiento"
+  },
+  {
+    "entidad": "PSF",
+    "relacion": "plantea",
+    "valor": "dificultades para su actualización coordinada"
+  },
+  {
+    "entidad": "intervenciones sanitarias del PSF",
+    "relacion": "tienen",
+    "valor": "origen normativo diverso"
+  },
+  {
+    "entidad": "PSF",
+    "relacion": "responde a",
+    "valor": "Objetivos Sanitarios del país"
+  },
+  {
+    "entidad": "PSF",
+    "relacion": "debe ser modificado de acuerdo con",
+    "valor": "cambios demográficos y epidemiológicos"
+  },
+  {
+    "entidad": "Régimen de Garantías Explícitas en Salud (GES)",
+    "relacion": "incluye",
+    "valor": "acciones de promoción de la salud"
+  },
+  {
+    "entidad": "PSF",
+    "relacion": "no guarda",
+    "valor": "vínculo explícito con instrumentos normativos"
+  },
+  {
+    "entidad": "intervenciones en APS",
+    "relacion": "no están incorporadas en",
+    "valor": "PSF"
+  },
+  {
+    "entidad": "PSF",
+    "relacion": "facilita",
+    "valor": "divergencias de intervenciones entre regímenes de cobertura"
+  },
+  {
+    "entidad": "Banco Mundial",
+    "relacion": "financia",
+    "valor": "consultoría sobre Plan de Salud Familiar"
+  },
+  {
+    "entidad": "PSF",
+    "relacion": "incluye",
+    "valor": "prestaciones mínimas para la atención primaria"
+  },
+  {
+    "entidad": "Ministerio de Salud",
+    "relacion": "regula",
+    "valor": "intervenciones en APS"
+  },
+  {
+    "entidad": "PSF",
+    "relacion": "contiene",
+    "valor": "intervenciones que no requieren aseguramiento explícito"
+  },
+  {
+    "entidad": "Ley 20.850",
+    "relacion": "realiza",
+    "valor": "entrega de insumos en atención primaria"
+  },
+  {
+    "entidad": "intervenciones GES",
+    "relacion": "deben ser",
+    "valor": "desarrolladas en APS"
+  },
+  {
+    "entidad": "PSF",
+    "relacion": "requiere",
+    "valor": "evaluación de la ejecución de intervenciones"
+  },
+  {
+    "entidad": "PSF",
+    "relacion": "presenta",
+    "valor": "heterogeneidad en documentos de regulación técnica"
+  },
+  {
+    "entidad": "PSF",
+    "relacion": "se debe avanzar en",
+    "valor": "evaluación de actividades realizadas"
+  },
+  {
+    "entidad": "cáncer",
+    "relacion": "es",
+    "valor": "la primera causa de mortalidad en Chile"
+  },
+  {
+    "entidad": "factores de riesgo modificables",
+    "relacion": "relacionan con",
+    "valor": "30% a 50% de los cánceres"
+  },
+  {
+    "entidad": "población chilena",
+    "relacion": "tiene",
+    "valor": "insuficiente evidencia sobre factores de riesgo"
+  },
+  {
+    "entidad": "cáncer de mama",
+    "relacion": "es",
+    "valor": "una de las neoplasias malignas de mayor importancia epidemiológica"
+  },
+  {
+    "entidad": "cáncer de pulmón",
+    "relacion": "es",
+    "valor": "una de las neoplasias malignas de mayor importancia epidemiológica"
+  },
+  {
+    "entidad": "cáncer colorrectal (CCR)",
+    "relacion": "es",
+    "valor": "una de las neoplasias malignas de mayor importancia epidemiológica"
+  },
+  {
+    "entidad": "seguro oncológico",
+    "relacion": "afiliados a",
+    "valor": "centro privado de cáncer"
+  },
+  {
+    "entidad": "REDCap®",
+    "relacion": "es utilizado para",
+    "valor": "recolección de datos"
+  },
+  {
+    "entidad": "R v4.04",
+    "relacion": "es utilizado para",
+    "valor": "análisis de datos"
+  },
+  {
+    "entidad": "Instituto Oncológico Fundación Arturo López Pérez (FALP)",
+    "relacion": "es",
+    "valor": "un centro de atención integral del cáncer en Santiago de Chile"
+  },
+  {
+    "entidad": "Convenio Oncológico",
+    "relacion": "cubre",
+    "valor": "copago de prestaciones relacionadas con el tratamiento de cáncer"
+  },
+  {
+    "entidad": "cáncer de mama",
+    "relacion": "tiene",
+    "valor": "alta frecuencia de antecedentes familiares"
+  },
+  {
+    "entidad": "cáncer colorrectal",
+    "relacion": "tiene",
+    "valor": "asociación con consumo de carnes y embutidos"
+  },
+  {
+    "entidad": "cáncer de pulmón",
+    "relacion": "tiene",
+    "valor": "asociación con tabaquismo"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "afecta",
+    "valor": "la salud pulmonar"
+  },
+  {
+    "entidad": "encuestas poblacionales",
+    "relacion": "se realizan para",
+    "valor": "establecer diagnósticos de salud"
+  },
+  {
+    "entidad": "Ley del Cáncer",
+    "relacion": "busca",
+    "valor": "desarrollar estrategias para la prevención del cáncer"
+  },
+  {
+    "entidad": "Plan GES",
+    "relacion": "tiene",
+    "valor": "programas que cubren distintos tipos de cáncer"
+  },
+  {
+    "entidad": "carga genética",
+    "relacion": "es un",
+    "valor": "factor de riesgo no modificable"
+  },
+  {
+    "entidad": "consumo de tabaco",
+    "relacion": "es un",
+    "valor": "factor de riesgo modificable"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "es un",
+    "valor": "factor de riesgo modificable"
+  },
+  {
+    "entidad": "encuesta de factores de riesgo",
+    "relacion": "busca",
+    "valor": "determinar la frecuencia de factores de riesgo en la población"
+  },
+  {
+    "entidad": "antecedentes familiares de cáncer",
+    "relacion": "son reportados por",
+    "valor": "64% de los participantes"
+  },
+  {
+    "entidad": "prueba de pararse y sentarse de cinco repeticiones (5-STS)",
+    "relacion": "es un",
+    "valor": "test de campo utilizado para evaluar la función física"
+  },
+  {
+    "entidad": "5-STS",
+    "relacion": "evalúa",
+    "valor": "el riesgo de caídas"
+  },
+  {
+    "entidad": "5-STS",
+    "relacion": "es un componente de",
+    "valor": "la batería corta de rendimiento físico (SPPB)"
+  },
+  {
+    "entidad": "población adulta chilena",
+    "relacion": "no tiene",
+    "valor": "valores de referencia disponibles para el 5-STS"
+  },
+  {
+    "entidad": "estudio multicéntrico transversal",
+    "relacion": "realizó",
+    "valor": "la recopilación de datos en cinco sitios diferentes de Chile"
+  },
+  {
+    "entidad": "adultos saludables",
+    "relacion": "fueron incluidos en",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "valores de referencia",
+    "relacion": "se establecieron",
+    "valor": "según sexo y categorías específicas de edad"
+  },
+  {
+    "entidad": "5-STS",
+    "relacion": "requiere",
+    "valor": "poco espacio, material y tiempo"
+  },
+  {
+    "entidad": "evaluadores",
+    "relacion": "fueron entrenados para",
+    "valor": "realizar la prueba 5-STS"
+  },
+  {
+    "entidad": "modelo predictivo",
+    "relacion": "demostró",
+    "valor": "una capacidad moderada para predecir los tiempos de finalización"
+  },
+  {
+    "entidad": "valores de referencia",
+    "relacion": "son útiles para",
+    "valor": "evaluar la capacidad física"
+  },
+  {
+    "entidad": "5-STS",
+    "relacion": "es utilizado en",
+    "valor": "la evaluación de la fragilidad y el riesgo de caídas en adultos mayores"
+  },
+  {
+    "entidad": "población chilena",
+    "relacion": "requiere",
+    "valor": "valores de referencia específicos para la evaluación de la función física"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "fue aprobado por",
+    "valor": "el Comité de Ética del Servicio de Salud Metropolitano Oriental"
+  },
+  {
+    "entidad": "método de evaluación",
+    "relacion": "se basa en",
+    "valor": "el tiempo requerido para completar cinco repeticiones"
+  },
+  {
+    "entidad": "5-STS",
+    "relacion": "es un indicador de",
+    "valor": "la fuerza de las extremidades inferiores y la capacidad funcional"
+  },
+  {
+    "entidad": "valores de referencia",
+    "relacion": "fueron determinados para",
+    "valor": "la población chilena de 18 a 80 años"
+  }
+]

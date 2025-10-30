@@ -1,0 +1,732 @@
+[
+  {
+    "entidad": "Woman Abuse Screening Tool (WAST)",
+    "relacion": "es un",
+    "valor": "instrumento de tamizaje para violencia doméstica"
+  },
+  {
+    "entidad": "WAST",
+    "relacion": "se utiliza en",
+    "valor": "Centros de Salud"
+  },
+  {
+    "entidad": "WAST",
+    "relacion": "fue adaptado culturalmente para",
+    "valor": "población chilena"
+  },
+  {
+    "entidad": "violencia doméstica",
+    "relacion": "es un",
+    "valor": "grave problema de salud pública"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud (OMS)",
+    "relacion": "estima que",
+    "valor": "entre 10 y 69% de las mujeres han sufrido agresiones físicas"
+  },
+  {
+    "entidad": "Ley Nº 19.325",
+    "relacion": "fue creada para",
+    "valor": "proteger a la mujer de violencia intrafamiliar"
+  },
+  {
+    "entidad": "Ministerio de la Mujer y Equidad de Género (SERNAMEG)",
+    "relacion": "fue creado para",
+    "valor": "ejecutar modelos programáticos para prevenir la violencia contra las mujeres"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "son víctimas de",
+    "valor": "violencia doméstica"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "buscan ayuda en",
+    "valor": "atención primaria de salud"
+  },
+  {
+    "entidad": "WAST",
+    "relacion": "tiene una sensibilidad de",
+    "valor": "100%"
+  },
+  {
+    "entidad": "WAST",
+    "relacion": "tiene una especificidad de",
+    "valor": "96%"
+  },
+  {
+    "entidad": "WAST",
+    "relacion": "fue validado en",
+    "valor": "población de habla hispana"
+  },
+  {
+    "entidad": "violencia económica",
+    "relacion": "es un tipo de",
+    "valor": "violencia doméstica"
+  },
+  {
+    "entidad": "mujeres víctimas de violencia",
+    "relacion": "fueron contactadas en",
+    "valor": "Centro de la Mujer"
+  },
+  {
+    "entidad": "mujeres sin violencia",
+    "relacion": "fueron contactadas en",
+    "valor": "CESFAM Dr. Patricio Hevia y Cristo Vive"
+  },
+  {
+    "entidad": "WAST",
+    "relacion": "se aplica en",
+    "valor": "mujeres con y sin historia de violencia"
+  },
+  {
+    "entidad": "mujeres con certeza de violencia",
+    "relacion": "tienen un puntaje mínimo de",
+    "valor": "15 puntos"
+  },
+  {
+    "entidad": "mujeres sin violencia",
+    "relacion": "tienen un puntaje mínimo de",
+    "valor": "8 puntos"
+  },
+  {
+    "entidad": "WAST",
+    "relacion": "se considera",
+    "valor": "una herramienta de tamizaje útil"
+  },
+  {
+    "entidad": "violencia doméstica",
+    "relacion": "afecta a",
+    "valor": "los derechos humanos de las mujeres"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "son atendidas por",
+    "valor": "matronas en atención primaria"
+  },
+  {
+    "entidad": "WAST",
+    "relacion": "fue adaptado para",
+    "valor": "mejorar la comprensión del lenguaje"
+  },
+  {
+    "entidad": "Asma",
+    "relacion": "es",
+    "valor": "una enfermedad crónica multifactorial"
+  },
+  {
+    "entidad": "Asma",
+    "relacion": "afecta a",
+    "valor": "mujeres"
+  },
+  {
+    "entidad": "Factores psicológicos",
+    "relacion": "asocian con",
+    "valor": "control del asma"
+  },
+  {
+    "entidad": "Depresión moderada",
+    "relacion": "asocia con",
+    "valor": "control inadecuado del asma"
+  },
+  {
+    "entidad": "Labilidad emocional",
+    "relacion": "asocia con",
+    "valor": "menor probabilidad de control inadecuado del asma"
+  },
+  {
+    "entidad": "Violencia intrafamiliar",
+    "relacion": "asocia con",
+    "valor": "control inadecuado del asma"
+  },
+  {
+    "entidad": "Miedo",
+    "relacion": "asocia con",
+    "valor": "aumento en el uso de broncodilatadores"
+  },
+  {
+    "entidad": "Trastorno de sueño",
+    "relacion": "asocia con",
+    "valor": "despertar nocturno"
+  },
+  {
+    "entidad": "Trastorno ansioso",
+    "relacion": "es",
+    "valor": "un diagnóstico de salud mental"
+  },
+  {
+    "entidad": "Trastorno mixto",
+    "relacion": "es",
+    "valor": "un diagnóstico de salud mental"
+  },
+  {
+    "entidad": "Centros de Salud Familiar (CESFAM)",
+    "relacion": "proporcionan",
+    "valor": "atención a pacientes asmáticos"
+  },
+  {
+    "entidad": "Programa de Salud Mental",
+    "relacion": "ofrece",
+    "valor": "evaluación a pacientes con trastornos mentales"
+  },
+  {
+    "entidad": "Alejandra Román Lay",
+    "relacion": "es",
+    "valor": "la autora del estudio"
+  },
+  {
+    "entidad": "Faculdade de Saúde Pública, Universidade de São Paulo",
+    "relacion": "es",
+    "valor": "la institución de la autora"
+  },
+  {
+    "entidad": "Asma",
+    "relacion": "presenta síntomas como",
+    "valor": "sibilancias, disnea, opresión torácica y tos"
+  },
+  {
+    "entidad": "Prevalencia de asma",
+    "relacion": "es",
+    "valor": "334 millones de personas a nivel mundial"
+  },
+  {
+    "entidad": "Factores psicológicos",
+    "relacion": "pueden afectar",
+    "valor": "la autopercepción y control del asma"
+  },
+  {
+    "entidad": "Violencia doméstica",
+    "relacion": "es",
+    "valor": "un factor de riesgo en mujeres asmáticas"
+  },
+  {
+    "entidad": "Control del asma",
+    "relacion": "es difícil debido a",
+    "valor": "múltiples factores que intervienen en su tratamiento"
+  },
+  {
+    "entidad": "Estudio",
+    "relacion": "fue financiado por",
+    "valor": "CONICYT/Becas Chile"
+  },
+  {
+    "entidad": "Escala Hospitalaria de Ansiedad y Depresión (HADS)",
+    "relacion": "es",
+    "valor": "un instrumento de evaluación"
+  },
+  {
+    "entidad": "pacientes con cáncer",
+    "relacion": "presentan",
+    "valor": "alta prevalencia de ansiedad y depresión"
+  },
+  {
+    "entidad": "HADS",
+    "relacion": "es adaptada y validada para",
+    "valor": "pacientes oncológicos chilenos"
+  },
+  {
+    "entidad": "Universidad Autónoma de Chile",
+    "relacion": "financia",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "DASS-21",
+    "relacion": "se utiliza como",
+    "valor": "estándar de oro para validar HADS"
+  },
+  {
+    "entidad": "análisis factorial confirmatorio",
+    "relacion": "indica",
+    "valor": "ajuste al modelo de dos factores"
+  },
+  {
+    "entidad": "HADS",
+    "relacion": "mide",
+    "valor": "síntomas de ansiedad y depresión"
+  },
+  {
+    "entidad": "pacientes oncológicos",
+    "relacion": "son tratados en",
+    "valor": "Instituto Oncológico Fundación Arturo López"
+  },
+  {
+    "entidad": "HADS",
+    "relacion": "tiene",
+    "valor": "buena consistencia interna"
+  },
+  {
+    "entidad": "ansiedad y depresión",
+    "relacion": "afectan",
+    "valor": "calidad de vida de los pacientes"
+  },
+  {
+    "entidad": "HADS",
+    "relacion": "permite",
+    "valor": "identificar síntomas de ansiedad y depresión"
+  },
+  {
+    "entidad": "cáncer",
+    "relacion": "es responsable de",
+    "valor": "23% de las muertes en Chile"
+  },
+  {
+    "entidad": "HADS",
+    "relacion": "es",
+    "valor": "un instrumento confiable y válido"
+  },
+  {
+    "entidad": "experiencia emocional",
+    "relacion": "es relevante en",
+    "valor": "diferentes fases de la enfermedad"
+  },
+  {
+    "entidad": "HADS",
+    "relacion": "evalúa",
+    "valor": "síntomas cognitivos, emocionales y conductuales"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "son seleccionados para",
+    "valor": "confirmación diagnóstica"
+  },
+  {
+    "entidad": "HADS",
+    "relacion": "se utiliza para",
+    "valor": "evaluar el impacto psicológico durante el tratamiento"
+  },
+  {
+    "entidad": "HADS",
+    "relacion": "es adecuada para",
+    "valor": "evaluar el estado emocional en pacientes chilenos"
+  },
+  {
+    "entidad": "Tromboelastografía (TEG)",
+    "relacion": "ofrece",
+    "valor": "información precisa y en tiempo real sobre hemostasia"
+  },
+  {
+    "entidad": "Pruebas de coagulación estándar (SCE)",
+    "relacion": "evalúan",
+    "valor": "etapas o sustratos aislados de la hemostasia"
+  },
+  {
+    "entidad": "Cirrosis hepática",
+    "relacion": "presenta",
+    "valor": "un estado de hipocoagulabilidad"
+  },
+  {
+    "entidad": "Tromboelastografía (TEG)",
+    "relacion": "analiza",
+    "valor": "el proceso de formación, estabilización y lisis del trombo"
+  },
+  {
+    "entidad": "Pruebas de coagulación estándar (SCE)",
+    "relacion": "tienen",
+    "valor": "una capacidad predictiva limitada para hemostasia"
+  },
+  {
+    "entidad": "Pacientes con cirrosis hepática",
+    "relacion": "sometidos a",
+    "valor": "trasplante hepático"
+  },
+  {
+    "entidad": "Comité de Ética de la Facultad de Medicina",
+    "relacion": "aprobó",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "Tromboelastografía (TEG)",
+    "relacion": "permite",
+    "valor": "una evaluación más completa del proceso de hemostasia"
+  },
+  {
+    "entidad": "Pruebas de coagulación estándar (SCE)",
+    "relacion": "no son",
+    "valor": "adecuadas para evaluar el estado global de la coagulación"
+  },
+  {
+    "entidad": "Hipocoagulabilidad",
+    "relacion": "fue",
+    "valor": "el trastorno de laboratorio más frecuente"
+  },
+  {
+    "entidad": "Tromboelastografía (TEG)",
+    "relacion": "se utilizó",
+    "valor": "caolín como activador"
+  },
+  {
+    "entidad": "Valores predictivos positivos (VPP)",
+    "relacion": "fueron",
+    "valor": "bajos para SCE"
+  },
+  {
+    "entidad": "Valores predictivos negativos (VPN)",
+    "relacion": "fueron",
+    "valor": "altos para SCE"
+  },
+  {
+    "entidad": "Alteraciones de laboratorio",
+    "relacion": "se presentaron en",
+    "valor": "la totalidad de los pacientes"
+  },
+  {
+    "entidad": "Estado de coagulación",
+    "relacion": "se calificó como",
+    "valor": "hipercoagulable en algunos pacientes"
+  },
+  {
+    "entidad": "Práctica de uso de plasma fresco congelado (PFC)",
+    "relacion": "carece de",
+    "valor": "fundamento en pacientes con hipocoagulabilidad"
+  },
+  {
+    "entidad": "Fundación Arriarán",
+    "relacion": "es un",
+    "valor": "centro de atención VIH"
+  },
+  {
+    "entidad": "Hospital Clínico San Borja Arriarán",
+    "relacion": "es un",
+    "valor": "hospital en Santiago, Chile"
+  },
+  {
+    "entidad": "Facultad de Medicina, Universidad de Chile",
+    "relacion": "es un",
+    "valor": "institución educativa"
+  },
+  {
+    "entidad": "infección por VIH",
+    "relacion": "afecta a",
+    "valor": "pacientes adultos"
+  },
+  {
+    "entidad": "Terapia Antirretroviral (TAR)",
+    "relacion": "reduce",
+    "valor": "mortalidad y morbilidad en pacientes con VIH"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "varía según",
+    "valor": "períodos de acceso a TAR"
+  },
+  {
+    "entidad": "abandonos",
+    "relacion": "se define como",
+    "valor": "ausencia de controles médicos por más de 6 meses"
+  },
+  {
+    "entidad": "traslado",
+    "relacion": "se define como",
+    "valor": "cambio de centro de atención"
+  },
+  {
+    "entidad": "Comisión Nacional del SIDA (CONASIDA)",
+    "relacion": "fue creada en",
+    "valor": "1990"
+  },
+  {
+    "entidad": "Ley 19.779",
+    "relacion": "aporta un marco jurídico a",
+    "valor": "intervenciones relacionadas con el VIH"
+  },
+  {
+    "entidad": "Programa Nacional de Atención Integral de VIH/SIDA",
+    "relacion": "se implementa en",
+    "valor": "Chile"
+  },
+  {
+    "entidad": "mortalidad global",
+    "relacion": "fue de",
+    "valor": "22% de la población atendida"
+  },
+  {
+    "entidad": "pacientes activos",
+    "relacion": "se define como",
+    "valor": "quienes asisten al menos una vez a control médico"
+  },
+  {
+    "entidad": "TAR contemporánea",
+    "relacion": "se implementa en",
+    "valor": "2009-2014"
+  },
+  {
+    "entidad": "estrategia 90-90-90",
+    "relacion": "es un objetivo de",
+    "valor": "la OMS para el tratamiento del VIH"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "se ha reducido en",
+    "valor": "pacientes con acceso a TAR"
+  },
+  {
+    "entidad": "abandonos",
+    "relacion": "persiste como",
+    "valor": "un problema no resuelto"
+  },
+  {
+    "entidad": "traslado",
+    "relacion": "fue registrado como",
+    "valor": "6% de los pacientes"
+  },
+  {
+    "entidad": "Reserva Cognitiva",
+    "relacion": "es un",
+    "valor": "factor protector en el envejecimiento"
+  },
+  {
+    "entidad": "Depresión",
+    "relacion": "afecta a",
+    "valor": "el funcionamiento cognitivo en adultos mayores"
+  },
+  {
+    "entidad": "Apoyo Social",
+    "relacion": "modera",
+    "valor": "la relación entre Reserva Cognitiva y Depresión"
+  },
+  {
+    "entidad": "Funcionamiento Cognitivo",
+    "relacion": "es evaluado por",
+    "valor": "Addenbrooke’s Cognitive Examination"
+  },
+  {
+    "entidad": "Depresión",
+    "relacion": "es un",
+    "valor": "factor de riesgo independiente para el deterioro cognitivo"
+  },
+  {
+    "entidad": "Apoyo Social",
+    "relacion": "reduce",
+    "valor": "los niveles de soledad percibida"
+  },
+  {
+    "entidad": "Reserva Cognitiva",
+    "relacion": "se acumula a lo largo de",
+    "valor": "la vida"
+  },
+  {
+    "entidad": "Adultos mayores",
+    "relacion": "son evaluados en",
+    "valor": "su funcionamiento cognitivo"
+  },
+  {
+    "entidad": "Depresión",
+    "relacion": "correlaciona con",
+    "valor": "un rendimiento deficiente en memoria y atención"
+  },
+  {
+    "entidad": "Apoyo Social",
+    "relacion": "protege a",
+    "valor": "individuos con alta Reserva Cognitiva de desarrollar depresión"
+  },
+  {
+    "entidad": "Edad",
+    "relacion": "influye en",
+    "valor": "el rendimiento cognitivo"
+  },
+  {
+    "entidad": "Renta",
+    "relacion": "se asocia con",
+    "valor": "un mejor estado de salud"
+  },
+  {
+    "entidad": "Muestra de 206 adultos mayores",
+    "relacion": "fue seleccionada por",
+    "valor": "muestreo no probabilístico por conveniencia"
+  },
+  {
+    "entidad": "Universidad de la Frontera",
+    "relacion": "es la",
+    "valor": "institución donde se realizó el estudio"
+  },
+  {
+    "entidad": "Comisión Nacional de Investigación Científica y Tecnológica (CONICYT)",
+    "relacion": "financia",
+    "valor": "la investigación"
+  },
+  {
+    "entidad": "creencias culturales sobre los médicos",
+    "relacion": "influye en",
+    "valor": "percepción de la atención"
+  },
+  {
+    "entidad": "creencias culturales sobre los médicos",
+    "relacion": "determina",
+    "valor": "conductas de prevención y adhesión a tratamientos"
+  },
+  {
+    "entidad": "interacciones entre profesionales y pacientes",
+    "relacion": "resulta en",
+    "valor": "creencias sobre médicos"
+  },
+  {
+    "entidad": "creencias culturales positivas",
+    "relacion": "influye en",
+    "valor": "continuidad de exámenes preventivos"
+  },
+  {
+    "entidad": "malos tratos",
+    "relacion": "genera",
+    "valor": "creencias y expectativas negativas"
+  },
+  {
+    "entidad": "creencias sobre los médicos",
+    "relacion": "se evalúa mediante",
+    "valor": "instrumento culturalmente pertinente"
+  },
+  {
+    "entidad": "instrumento",
+    "relacion": "mide",
+    "valor": "creencias sobre médicos"
+  },
+  {
+    "entidad": "escala de creencias sobre los médicos",
+    "relacion": "compuesta por",
+    "valor": "dos factores"
+  },
+  {
+    "entidad": "primer factor",
+    "relacion": "denominado",
+    "valor": "creencias negativas sobre los médicos"
+  },
+  {
+    "entidad": "segundo factor",
+    "relacion": "denominado",
+    "valor": "creencias positivas sobre los médicos"
+  },
+  {
+    "entidad": "creencias negativas sobre los médicos",
+    "relacion": "explica",
+    "valor": "56,6% de la varianza"
+  },
+  {
+    "entidad": "creencias positivas sobre los médicos",
+    "relacion": "explica",
+    "valor": "13,7% de la varianza"
+  },
+  {
+    "entidad": "escala de creencias sobre los médicos",
+    "relacion": "tiene",
+    "valor": "adecuadas propiedades psicométricas"
+  },
+  {
+    "entidad": "creencias culturales",
+    "relacion": "pueden ser reforzadas por",
+    "valor": "creencias positivas"
+  },
+  {
+    "entidad": "creencias negativas",
+    "relacion": "pueden dar cuenta de",
+    "valor": "desempeño del médico"
+  },
+  {
+    "entidad": "creencias",
+    "relacion": "se perpetúan mediante",
+    "valor": "socialización"
+  },
+  {
+    "entidad": "instrumentos culturalmente pertinentes",
+    "relacion": "son necesarios para",
+    "valor": "estudios en salud"
+  },
+  {
+    "entidad": "Dra. María José Baeza-Rivera",
+    "relacion": "desarrolló",
+    "valor": "tesis doctoral"
+  },
+  {
+    "entidad": "Comisión Nacional de Investigación Científica y Tecnológica",
+    "relacion": "financió",
+    "valor": "estudio"
+  },
+  {
+    "entidad": "cáncer diferenciado de tiroides (CDT)",
+    "relacion": "es",
+    "valor": "neoplasia endocrinológica más frecuente"
+  },
+  {
+    "entidad": "MINSAL 2013",
+    "relacion": "predice",
+    "valor": "riesgo de recurrencia en pacientes con CDT"
+  },
+  {
+    "entidad": "American Thyroid Association (ATA)",
+    "relacion": "propuso",
+    "valor": "escala ATA 2009"
+  },
+  {
+    "entidad": "escala ATA 2009",
+    "relacion": "clasifica",
+    "valor": "pacientes en 3 categorías de riesgo"
+  },
+  {
+    "entidad": "escala MINSAL 2013",
+    "relacion": "compara",
+    "valor": "escala ATA 2009 y ATA 2015"
+  },
+  {
+    "entidad": "MINSAL 2013",
+    "relacion": "incluye",
+    "valor": "categoría de riesgo muy bajo"
+  },
+  {
+    "entidad": "MINSAL 2013",
+    "relacion": "es consistente con",
+    "valor": "últimas series publicadas sobre EETM"
+  },
+  {
+    "entidad": "AJCC/TNM",
+    "relacion": "actualizó",
+    "valor": "sistema de clasificación de mortalidad atribuida al CDT"
+  },
+  {
+    "entidad": "MINSAL 2013",
+    "relacion": "clasifica",
+    "valor": "pacientes con riesgo de recurrencia"
+  },
+  {
+    "entidad": "MINSAL 2013",
+    "relacion": "tiene",
+    "valor": "mejor rendimiento diagnóstico que ATA 2009 y ATA 2015"
+  },
+  {
+    "entidad": "levotiroxina",
+    "relacion": "es un",
+    "valor": "tratamiento para CDT"
+  },
+  {
+    "entidad": "radioyodo (RAI)",
+    "relacion": "es un",
+    "valor": "tratamiento para CDT"
+  },
+  {
+    "entidad": "tiroidectomía total",
+    "relacion": "es un",
+    "valor": "procedimiento quirúrgico para CDT"
+  },
+  {
+    "entidad": "MINSAL 2013",
+    "relacion": "evalúa",
+    "valor": "riesgo de persistencia o recurrencia"
+  },
+  {
+    "entidad": "MINSAL 2013",
+    "relacion": "se basa en",
+    "valor": "características clínicas, histológicas y de laboratorio"
+  },
+  {
+    "entidad": "MINSAL 2013",
+    "relacion": "es",
+    "valor": "una escala de clasificación de riesgo"
+  },
+  {
+    "entidad": "pacientes con CDT",
+    "relacion": "son tratados con",
+    "valor": "tiroidectomía total y RAI"
+  },
+  {
+    "entidad": "MINSAL 2013",
+    "relacion": "mejora",
+    "valor": "selección de pacientes de riesgo intermedio"
+  }
+]

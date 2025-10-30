@@ -1,0 +1,887 @@
+[
+  {
+    "entidad": "Leniolisib",
+    "relacion": "trata",
+    "valor": "síndrome de fosfoinositida 3-quinasa delta activada (APDS)"
+  },
+  {
+    "entidad": "Leniolisib",
+    "relacion": "uso",
+    "valor": "tabletas para tomar por vía oral, dos veces al día"
+  },
+  {
+    "entidad": "Leniolisib",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Leniolisib",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos"
+  },
+  {
+    "entidad": "Leniolisib",
+    "relacion": "precaucion",
+    "valor": "no quedar embarazada durante el tratamiento"
+  },
+  {
+    "entidad": "Leniolisib",
+    "relacion": "precaucion",
+    "valor": "no amamantar durante el tratamiento"
+  },
+  {
+    "entidad": "Leniolisib",
+    "relacion": "dieta",
+    "valor": "continuar con dieta normal a menos que se indique lo contrario"
+  },
+  {
+    "entidad": "Leniolisib",
+    "relacion": "olvido",
+    "valor": "tomar la dosis omitida tan pronto como se recuerde"
+  },
+  {
+    "entidad": "Leniolisib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Leniolisib",
+    "relacion": "efecto_secundario",
+    "valor": "congestión nasal"
+  },
+  {
+    "entidad": "Leniolisib",
+    "relacion": "efecto_secundario",
+    "valor": "picazón en la piel"
+  },
+  {
+    "entidad": "Leniolisib",
+    "relacion": "efecto_secundario",
+    "valor": "erupción cutánea"
+  },
+  {
+    "entidad": "Leniolisib",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Leniolisib",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio"
+  },
+  {
+    "entidad": "Leniolisib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cuello o de espalda"
+  },
+  {
+    "entidad": "Leniolisib",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida del cabello"
+  },
+  {
+    "entidad": "Leniolisib",
+    "relacion": "efecto_secundario",
+    "valor": "fiebre"
+  },
+  {
+    "entidad": "Leniolisib",
+    "relacion": "efecto_secundario",
+    "valor": "ritmo cardíaco rápido"
+  },
+  {
+    "entidad": "Leniolisib",
+    "relacion": "almacenamiento",
+    "valor": "mantener en empaque original, a temperatura ambiente"
+  },
+  {
+    "entidad": "Leniolisib",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Leniolisib",
+    "relacion": "marca_comercial",
+    "valor": "Joenja"
+  },
+  {
+    "entidad": "Mitomicina pielocalicial",
+    "relacion": "trata",
+    "valor": "cáncer urotelial"
+  },
+  {
+    "entidad": "Mitomicina pielocalicial",
+    "relacion": "uso",
+    "valor": "mezclar en polvo con solución de gel y administrar a través de un catéter en el riñón"
+  },
+  {
+    "entidad": "Mitomicina pielocalicial",
+    "relacion": "se_administra_via",
+    "valor": "catéter en el riñón"
+  },
+  {
+    "entidad": "Mitomicina pielocalicial",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Mitomicina pielocalicial",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias a mitomicina y otros medicamentos"
+  },
+  {
+    "entidad": "Mitomicina pielocalicial",
+    "relacion": "precaucion",
+    "valor": "informar sobre otros medicamentos que se están tomando"
+  },
+  {
+    "entidad": "Mitomicina pielocalicial",
+    "relacion": "precaucion",
+    "valor": "informar si tiene orificio o rotura en la vejiga"
+  },
+  {
+    "entidad": "Mitomicina pielocalicial",
+    "relacion": "precaucion",
+    "valor": "informar si tiene hipertensión arterial o enfermedad del riñón"
+  },
+  {
+    "entidad": "Mitomicina pielocalicial",
+    "relacion": "precaucion",
+    "valor": "no quedar embarazada durante el tratamiento"
+  },
+  {
+    "entidad": "Mitomicina pielocalicial",
+    "relacion": "precaucion",
+    "valor": "no amamantar durante el tratamiento y 1 semana después"
+  },
+  {
+    "entidad": "Mitomicina pielocalicial",
+    "relacion": "precaucion",
+    "valor": "evitar contacto con la orina durante 6 horas después de la dosis"
+  },
+  {
+    "entidad": "Mitomicina pielocalicial",
+    "relacion": "dieta",
+    "valor": "continuar con dieta normal a menos que se indique lo contrario"
+  },
+  {
+    "entidad": "Mitomicina pielocalicial",
+    "relacion": "olvido",
+    "valor": "llamar al médico para reprogramar la dosis"
+  },
+  {
+    "entidad": "Mitomicina pielocalicial",
+    "relacion": "efecto_secundario",
+    "valor": "náusea"
+  },
+  {
+    "entidad": "Mitomicina pielocalicial",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Mitomicina pielocalicial",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago"
+  },
+  {
+    "entidad": "Mitomicina pielocalicial",
+    "relacion": "efecto_secundario",
+    "valor": "disminución del apetito"
+  },
+  {
+    "entidad": "Mitomicina pielocalicial",
+    "relacion": "efecto_secundario",
+    "valor": "fatiga"
+  },
+  {
+    "entidad": "Mitomicina pielocalicial",
+    "relacion": "efecto_secundario",
+    "valor": "picazón"
+  },
+  {
+    "entidad": "Mitomicina pielocalicial",
+    "relacion": "efecto_secundario",
+    "valor": "fiebre, escalofríos u otros síntomas de infección"
+  },
+  {
+    "entidad": "Mitomicina pielocalicial",
+    "relacion": "efecto_secundario",
+    "valor": "moretones o sangrado inexplicable"
+  },
+  {
+    "entidad": "Mitomicina pielocalicial",
+    "relacion": "efecto_secundario",
+    "valor": "micción dolorosa o difícil"
+  },
+  {
+    "entidad": "Mitomicina pielocalicial",
+    "relacion": "almacenamiento",
+    "valor": "mantener en un lugar adecuado según indicaciones del fabricante"
+  },
+  {
+    "entidad": "Mitomicina pielocalicial",
+    "relacion": "marca_comercial",
+    "valor": "Jelmyto ®"
+  },
+  {
+    "entidad": "Pirtobrutinib",
+    "relacion": "trata",
+    "valor": "linfoma de células del manto"
+  },
+  {
+    "entidad": "Pirtobrutinib",
+    "relacion": "trata",
+    "valor": "leucemia linfocítica crónica"
+  },
+  {
+    "entidad": "Pirtobrutinib",
+    "relacion": "trata",
+    "valor": "linfoma linfocítico pequeño"
+  },
+  {
+    "entidad": "Pirtobrutinib",
+    "relacion": "uso",
+    "valor": "tabletas para tomar por vía oral una vez al día"
+  },
+  {
+    "entidad": "Pirtobrutinib",
+    "relacion": "se_administra_via",
+    "valor": "vía oral"
+  },
+  {
+    "entidad": "Pirtobrutinib",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos actuales"
+  },
+  {
+    "entidad": "Pirtobrutinib",
+    "relacion": "precaucion",
+    "valor": "no quedar embarazada durante el tratamiento"
+  },
+  {
+    "entidad": "Pirtobrutinib",
+    "relacion": "precaucion",
+    "valor": "evitar exposición prolongada al sol"
+  },
+  {
+    "entidad": "Pirtobrutinib",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Pirtobrutinib",
+    "relacion": "olvido",
+    "valor": "tome la dosis omitida tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Pirtobrutinib",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio"
+  },
+  {
+    "entidad": "Pirtobrutinib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Pirtobrutinib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor muscular, articular y óseo"
+  },
+  {
+    "entidad": "Pirtobrutinib",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Pirtobrutinib",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Pirtobrutinib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago"
+  },
+  {
+    "entidad": "Pirtobrutinib",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Pirtobrutinib",
+    "relacion": "efecto_secundario",
+    "valor": "disminución del apetito"
+  },
+  {
+    "entidad": "Pirtobrutinib",
+    "relacion": "efecto_secundario",
+    "valor": "adormecimiento u hormigueo"
+  },
+  {
+    "entidad": "Pirtobrutinib",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Pirtobrutinib",
+    "relacion": "efecto_secundario",
+    "valor": "aftas en la boca"
+  },
+  {
+    "entidad": "Pirtobrutinib",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para dormir"
+  },
+  {
+    "entidad": "Pirtobrutinib",
+    "relacion": "efecto_secundario",
+    "valor": "hinchazón"
+  },
+  {
+    "entidad": "Pirtobrutinib",
+    "relacion": "efecto_secundario",
+    "valor": "fiebre, escalofríos"
+  },
+  {
+    "entidad": "Pirtobrutinib",
+    "relacion": "efecto_secundario",
+    "valor": "sangre en las heces"
+  },
+  {
+    "entidad": "Pirtobrutinib",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Pirtobrutinib",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, a temperatura ambiente"
+  },
+  {
+    "entidad": "Pirtobrutinib",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Pirtobrutinib",
+    "relacion": "marca_comercial",
+    "valor": "Jaypirca ®"
+  },
+  {
+    "entidad": "Ruxolitinib",
+    "relacion": "trata",
+    "valor": "mielofibrosis"
+  },
+  {
+    "entidad": "Ruxolitinib",
+    "relacion": "trata",
+    "valor": "policitemia vera"
+  },
+  {
+    "entidad": "Ruxolitinib",
+    "relacion": "trata",
+    "valor": "enfermedad de injerto contra huésped aguda"
+  },
+  {
+    "entidad": "Ruxolitinib",
+    "relacion": "trata",
+    "valor": "enfermedad de injerto contra huésped crónica"
+  },
+  {
+    "entidad": "Ruxolitinib",
+    "relacion": "uso",
+    "valor": "tabletas para tomar por vía oral"
+  },
+  {
+    "entidad": "Ruxolitinib",
+    "relacion": "se_administra_via",
+    "valor": "oral"
+  },
+  {
+    "entidad": "Ruxolitinib",
+    "relacion": "olvido",
+    "valor": "omite la dosis que le faltó y continúe con su programa de dosificación habitual"
+  },
+  {
+    "entidad": "Ruxolitinib",
+    "relacion": "efecto_secundario",
+    "valor": "aumento del riesgo de cáncer de piel"
+  },
+  {
+    "entidad": "Ruxolitinib",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Ruxolitinib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Ruxolitinib",
+    "relacion": "efecto_secundario",
+    "valor": "aumento de peso"
+  },
+  {
+    "entidad": "Ruxolitinib",
+    "relacion": "efecto_secundario",
+    "valor": "gases"
+  },
+  {
+    "entidad": "Ruxolitinib",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Ruxolitinib",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Ruxolitinib",
+    "relacion": "efecto_secundario",
+    "valor": "náusea"
+  },
+  {
+    "entidad": "Ruxolitinib",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Ruxolitinib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de los músculos o de los huesos"
+  },
+  {
+    "entidad": "Ruxolitinib",
+    "relacion": "efecto_secundario",
+    "valor": "sangrado inusual o intenso"
+  },
+  {
+    "entidad": "Ruxolitinib",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para respirar"
+  },
+  {
+    "entidad": "Ruxolitinib",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, bien cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Ruxolitinib",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente y lejos del calor excesivo y la humedad"
+  },
+  {
+    "entidad": "Ruxolitinib",
+    "relacion": "sobredosis",
+    "valor": "llame a la línea de ayuda de control de envenenamiento al 1-800-222-1222"
+  },
+  {
+    "entidad": "Ruxolitinib",
+    "relacion": "marca_comercial",
+    "valor": "Jakafi"
+  },
+  {
+    "entidad": "Sitagliptina",
+    "relacion": "trata",
+    "valor": "diabetes tipo 2"
+  },
+  {
+    "entidad": "Sitagliptina",
+    "relacion": "uso",
+    "valor": "una vez al día con o sin alimentos"
+  },
+  {
+    "entidad": "Sitagliptina",
+    "relacion": "se_administra_via",
+    "valor": "vía oral"
+  },
+  {
+    "entidad": "Sitagliptina",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Sitagliptina",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos"
+  },
+  {
+    "entidad": "Sitagliptina",
+    "relacion": "dieta",
+    "valor": "seguir recomendaciones de dieta y ejercicio"
+  },
+  {
+    "entidad": "Sitagliptina",
+    "relacion": "olvido",
+    "valor": "tomar la dosis olvidada tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Sitagliptina",
+    "relacion": "efecto_secundario",
+    "valor": "congestión o secreción nasal"
+  },
+  {
+    "entidad": "Sitagliptina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de garganta"
+  },
+  {
+    "entidad": "Sitagliptina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Sitagliptina",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Sitagliptina",
+    "relacion": "efecto_secundario",
+    "valor": "náusea"
+  },
+  {
+    "entidad": "Sitagliptina",
+    "relacion": "efecto_secundario",
+    "valor": "fiebre"
+  },
+  {
+    "entidad": "Sitagliptina",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para respirar"
+  },
+  {
+    "entidad": "Sitagliptina",
+    "relacion": "almacenamiento",
+    "valor": "mantener en empaque original, a temperatura ambiente"
+  },
+  {
+    "entidad": "Sitagliptina",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Sitagliptina",
+    "relacion": "marca_comercial",
+    "valor": "Januvia"
+  },
+  {
+    "entidad": "Sitagliptina",
+    "relacion": "marca_comercial",
+    "valor": "Zituvio"
+  },
+  {
+    "entidad": "Sitagliptina",
+    "relacion": "marca_comercial",
+    "valor": "Janumet"
+  },
+  {
+    "entidad": "Sitagliptina",
+    "relacion": "marca_comercial",
+    "valor": "Juvisync"
+  },
+  {
+    "entidad": "Sitagliptina",
+    "relacion": "marca_comercial",
+    "valor": "Steglujan"
+  },
+  {
+    "entidad": "Sitagliptina",
+    "relacion": "marca_comercial",
+    "valor": "Zituvimet"
+  },
+  {
+    "entidad": "Suzetrigina",
+    "relacion": "trata",
+    "valor": "dolor de moderado a severo"
+  },
+  {
+    "entidad": "Suzetrigina",
+    "relacion": "uso",
+    "valor": "tabletas para tomar por vía oral cada 12 horas"
+  },
+  {
+    "entidad": "Suzetrigina",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos actuales"
+  },
+  {
+    "entidad": "Suzetrigina",
+    "relacion": "precaucion",
+    "valor": "puede disminuir la eficacia de anticonceptivos hormonales"
+  },
+  {
+    "entidad": "Suzetrigina",
+    "relacion": "dieta",
+    "valor": "no comer pomelo ni tomar jugo de pomelo"
+  },
+  {
+    "entidad": "Suzetrigina",
+    "relacion": "olvido",
+    "valor": "tomar la dosis omitida tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Suzetrigina",
+    "relacion": "efecto_secundario",
+    "valor": "picazón"
+  },
+  {
+    "entidad": "Suzetrigina",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Suzetrigina",
+    "relacion": "efecto_secundario",
+    "valor": "espasmos musculares"
+  },
+  {
+    "entidad": "Suzetrigina",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Suzetrigina",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Suzetrigina",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original, cerrado herméticamente y a temperatura ambiente"
+  },
+  {
+    "entidad": "Suzetrigina",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Suzetrigina",
+    "relacion": "marca_comercial",
+    "valor": "Journavx ®"
+  },
+  {
+    "entidad": "Testosterona",
+    "relacion": "trata",
+    "valor": "niveles bajos o inexistentes de testosterona en hombres"
+  },
+  {
+    "entidad": "Testosterona",
+    "relacion": "uso",
+    "valor": "cápsula para tomar por vía oral, con comida dos veces al día"
+  },
+  {
+    "entidad": "Testosterona",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Testosterona",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos"
+  },
+  {
+    "entidad": "Testosterona",
+    "relacion": "precaucion",
+    "valor": "no usar en mujeres, niños o adolescentes"
+  },
+  {
+    "entidad": "Testosterona",
+    "relacion": "efecto_secundario",
+    "valor": "disminución en la cantidad de esperma"
+  },
+  {
+    "entidad": "Testosterona",
+    "relacion": "efecto_secundario",
+    "valor": "aumento del riesgo de cáncer de próstata"
+  },
+  {
+    "entidad": "Testosterona",
+    "relacion": "efecto_secundario",
+    "valor": "acidez estomacal"
+  },
+  {
+    "entidad": "Testosterona",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Testosterona",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Testosterona",
+    "relacion": "efecto_secundario",
+    "valor": "aumento de peso"
+  },
+  {
+    "entidad": "Testosterona",
+    "relacion": "efecto_secundario",
+    "valor": "cambios de humor incluyendo depresión"
+  },
+  {
+    "entidad": "Testosterona",
+    "relacion": "almacenamiento",
+    "valor": "mantener en envase original, cerrado y a temperatura ambiente"
+  },
+  {
+    "entidad": "Testosterona",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Testosterona",
+    "relacion": "marca_comercial",
+    "valor": "Jatenzo"
+  },
+  {
+    "entidad": "Testosterona",
+    "relacion": "marca_comercial",
+    "valor": "Kyzatrex"
+  },
+  {
+    "entidad": "Testosterona",
+    "relacion": "marca_comercial",
+    "valor": "Tlando"
+  },
+  {
+    "entidad": "Tolvaptán",
+    "relacion": "trata",
+    "valor": "enfermedad renal poliquística autosómica dominante (ADPKD)"
+  },
+  {
+    "entidad": "Tolvaptán",
+    "relacion": "otro_uso",
+    "valor": "niveles bajos de sodio en sangre en personas con insuficiencia cardíaca"
+  },
+  {
+    "entidad": "Tolvaptán",
+    "relacion": "uso",
+    "valor": "tabletas, dos veces al día, con o sin comida"
+  },
+  {
+    "entidad": "Tolvaptán",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos"
+  },
+  {
+    "entidad": "Tolvaptán",
+    "relacion": "dieta",
+    "valor": "beber suficiente agua y evitar pomelo"
+  },
+  {
+    "entidad": "Tolvaptán",
+    "relacion": "olvido",
+    "valor": "omitir la dosis y continuar con el programa habitual"
+  },
+  {
+    "entidad": "Tolvaptán",
+    "relacion": "efecto_secundario",
+    "valor": "sed"
+  },
+  {
+    "entidad": "Tolvaptán",
+    "relacion": "efecto_secundario",
+    "valor": "boca seca"
+  },
+  {
+    "entidad": "Tolvaptán",
+    "relacion": "efecto_secundario",
+    "valor": "micción frecuente y excesiva"
+  },
+  {
+    "entidad": "Tolvaptán",
+    "relacion": "efecto_secundario",
+    "valor": "acidez estomacal"
+  },
+  {
+    "entidad": "Tolvaptán",
+    "relacion": "efecto_secundario",
+    "valor": "disminución del apetito"
+  },
+  {
+    "entidad": "Tolvaptán",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Tolvaptán",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Tolvaptán",
+    "relacion": "efecto_secundario",
+    "valor": "desmayos"
+  },
+  {
+    "entidad": "Tolvaptán",
+    "relacion": "efecto_secundario",
+    "valor": "confusión"
+  },
+  {
+    "entidad": "Tolvaptán",
+    "relacion": "almacenamiento",
+    "valor": "mantener en empaque original, a temperatura ambiente, lejos del calor y humedad"
+  },
+  {
+    "entidad": "Tolvaptán",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Vacuna contra la viruela/viruela del mono",
+    "relacion": "trata",
+    "valor": "prevención de la infección por ortopoxvirus"
+  },
+  {
+    "entidad": "Vacuna contra la viruela/viruela del mono",
+    "relacion": "uso",
+    "valor": "2 dosis con 4 semanas de diferencia"
+  },
+  {
+    "entidad": "Vacuna contra la viruela/viruela del mono",
+    "relacion": "se_administra_via",
+    "valor": "inyección"
+  },
+  {
+    "entidad": "Vacuna contra la viruela/viruela del mono",
+    "relacion": "marca_comercial",
+    "valor": "Jynneos"
+  },
+  {
+    "entidad": "Vacuna contra la viruela/viruela del mono",
+    "relacion": "precaucion",
+    "valor": "posponer vacunación en enfermedades moderadas o graves"
+  },
+  {
+    "entidad": "Vacuna contra la viruela/viruela del mono",
+    "relacion": "contraindicado_en",
+    "valor": "reacción alérgica grave previa a la vacuna"
+  },
+  {
+    "entidad": "Vacuna contra la viruela/viruela del mono",
+    "relacion": "efecto_secundario",
+    "valor": "dolor, enrojecimiento, picazón o hinchazón en el lugar de la inyección"
+  },
+  {
+    "entidad": "Vacuna contra la viruela/viruela del mono",
+    "relacion": "efecto_secundario",
+    "valor": "fatiga"
+  },
+  {
+    "entidad": "Vacuna contra la viruela/viruela del mono",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Vacuna contra la viruela/viruela del mono",
+    "relacion": "efecto_secundario",
+    "valor": "dolor muscular"
+  }
+]

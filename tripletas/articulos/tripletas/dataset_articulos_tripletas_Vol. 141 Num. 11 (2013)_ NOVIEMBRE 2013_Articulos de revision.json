@@ -1,0 +1,62 @@
+[
+  {
+    "entidad": "hipótesis de Pedersen",
+    "relacion": "explica",
+    "valor": "macrosomía fetal en diabetes gestacional"
+  },
+  {
+    "entidad": "glucosa",
+    "relacion": "es un",
+    "valor": "nutriente asociado a macrosomía fetal"
+  },
+  {
+    "entidad": "macrosomía fetal",
+    "relacion": "es una",
+    "valor": "complicación de la diabetes gestacional"
+  },
+  {
+    "entidad": "mujeres con sobrepeso",
+    "relacion": "tienen",
+    "valor": "mayor frecuencia de macrosomía fetal"
+  },
+  {
+    "entidad": "triglicéridos",
+    "relacion": "podrían ser",
+    "valor": "responsables del crecimiento fetal excesivo"
+  },
+  {
+    "entidad": "control glicémico óptimo",
+    "relacion": "no previene",
+    "valor": "macrosomía fetal en mujeres con diabetes gestacional"
+  },
+  {
+    "entidad": "obesidad pregestacional",
+    "relacion": "aumenta",
+    "valor": "el riesgo de macrosomía fetal"
+  },
+  {
+    "entidad": "leptina",
+    "relacion": "aumenta",
+    "valor": "el transporte de aminoácidos hacia el feto"
+  },
+  {
+    "entidad": "metabolismo lipídico alterado",
+    "relacion": "es un",
+    "valor": "factor de riesgo para macrosomía fetal"
+  },
+  {
+    "entidad": "diabetes gestacional",
+    "relacion": "debería ser reemplazada por",
+    "valor": "síndrome de sobreoferta de glucosa y triglicéridos en el embarazo"
+  },
+  {
+    "entidad": "estudios futuros",
+    "relacion": "deben incluir",
+    "valor": "modelos animales y estudios clínicos prospectivos"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "publica",
+    "valor": "tablas de percentiles de peso fetal"
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "entidad": "Accidente cerebrovascular embólico",
+    "relacion": "es causado por",
+    "valor": "endocarditis de Libman-Sacks"
+  },
+  {
+    "entidad": "endocarditis de Libman-Sacks",
+    "relacion": "es una manifestación de",
+    "valor": "síndrome antifosfolípidos primario"
+  },
+  {
+    "entidad": "síndrome antifosfolípidos primario",
+    "relacion": "se caracteriza por",
+    "valor": "trombosis venosas y/o arteriales"
+  },
+  {
+    "entidad": "anticuerpos anticardiolipinas",
+    "relacion": "son asociados a",
+    "valor": "síndrome antifosfolípidos"
+  },
+  {
+    "entidad": "paciente de 17 años",
+    "relacion": "presenta",
+    "valor": "hemiparesis y afasia"
+  },
+  {
+    "entidad": "resonancia magnética",
+    "relacion": "muestra",
+    "valor": "múltiples infartos en la arteria cerebral media izquierda"
+  },
+  {
+    "entidad": "ecocardiograma transesofágico",
+    "relacion": "revela",
+    "valor": "vegetación en la válvula mitral"
+  },
+  {
+    "entidad": "anticuerpos antinucleares",
+    "relacion": "son positivos en",
+    "valor": "la paciente"
+  },
+  {
+    "entidad": "anticoagulación oral",
+    "relacion": "es iniciada en",
+    "valor": "la paciente"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "evoluciona favorablemente con",
+    "valor": "recuperación de movilidad"
+  },
+  {
+    "entidad": "endocarditis de Libman-Sacks",
+    "relacion": "está asociada con",
+    "valor": "síndrome antifosfolípidos"
+  },
+  {
+    "entidad": "vegetaciones valvulares estériles",
+    "relacion": "están relacionadas con",
+    "valor": "eventos embólicos arteriales"
+  },
+  {
+    "entidad": "tratamiento anticoagulante",
+    "relacion": "se recomienda para",
+    "valor": "pacientes con síndrome antifosfolípidos"
+  },
+  {
+    "entidad": "hidroxicloroquina",
+    "relacion": "está recomendada en",
+    "valor": "casos de síndrome antifosfolípidos refractario"
+  },
+  {
+    "entidad": "cirugía de reemplazo valvular",
+    "relacion": "es necesaria en",
+    "valor": "pacientes con compromiso valvular severo"
+  },
+  {
+    "entidad": "síndrome antifosfolípidos primario",
+    "relacion": "tiene prevalencias de",
+    "valor": "30% con endocarditis de Libman-Sacks"
+  },
+  {
+    "entidad": "Ritmo nodal",
+    "relacion": "es causado por",
+    "valor": "descarga eléctrica de alto voltaje"
+  },
+  {
+    "entidad": "descarga eléctrica",
+    "relacion": "puede causar",
+    "valor": "daño miocárdico directo"
+  },
+  {
+    "entidad": "descarga eléctrica",
+    "relacion": "puede causar",
+    "valor": "arritmias"
+  },
+  {
+    "entidad": "arritmias",
+    "relacion": "son",
+    "valor": "poco comunes"
+  },
+  {
+    "entidad": "varón de 19 años",
+    "relacion": "sufrió",
+    "valor": "ritmo nodal tras descarga eléctrica"
+  },
+  {
+    "entidad": "Hospital Universitario del Mar",
+    "relacion": "es un",
+    "valor": "centro de atención médica"
+  },
+  {
+    "entidad": "electrocardiograma",
+    "relacion": "mostró",
+    "valor": "ritmo nodal de 72 lpm"
+  },
+  {
+    "entidad": "ritmo sinusal",
+    "relacion": "regresó",
+    "valor": "espontáneamente tras 4 horas"
+  },
+  {
+    "entidad": "quemaduras",
+    "relacion": "fueron causadas por",
+    "valor": "descarga eléctrica de alto voltaje"
+  },
+  {
+    "entidad": "corazón",
+    "relacion": "es",
+    "valor": "vulnerable a lesiones eléctricas"
+  },
+  {
+    "entidad": "descarga eléctrica",
+    "relacion": "puede inducir",
+    "valor": "trastornos en el tejido de conducción"
+  },
+  {
+    "entidad": "nodos sinusal y auriculoventricular",
+    "relacion": "tienen",
+    "valor": "vulnerabilidad especial al daño eléctrico"
+  },
+  {
+    "entidad": "estado hiperadrenérgico",
+    "relacion": "puede ser",
+    "valor": "causa del trastorno eléctrico"
+  },
+  {
+    "entidad": "monitorización cardíaca",
+    "relacion": "es necesaria tras",
+    "valor": "descarga eléctrica"
+  },
+  {
+    "entidad": "pérdida de conciencia",
+    "relacion": "es un criterio para",
+    "valor": "monitorización cardíaca"
+  },
+  {
+    "entidad": "antecedentes de cardiopatía",
+    "relacion": "son un factor de riesgo para",
+    "valor": "monitorización cardíaca"
+  },
+  {
+    "entidad": "síndrome anti-GQ1b",
+    "relacion": "incluye",
+    "valor": "síndrome de Miller Fisher (MFS)"
+  },
+  {
+    "entidad": "síndrome anti-GQ1b",
+    "relacion": "incluye",
+    "valor": "síndrome de Guillain Barré (GBS)"
+  },
+  {
+    "entidad": "síndrome anti-GQ1b",
+    "relacion": "incluye",
+    "valor": "encefalitis de Bickerstaff (BBE)"
+  },
+  {
+    "entidad": "síndrome anti-GQ1b",
+    "relacion": "incluye",
+    "valor": "oftalmoplejía aguda (AO)"
+  },
+  {
+    "entidad": "anticuerpos anti-GQ1b",
+    "relacion": "se asocia a",
+    "valor": "síndrome de Miller Fisher (SMF)"
+  },
+  {
+    "entidad": "anticuerpos anti-GQ1b",
+    "relacion": "se asocia a",
+    "valor": "síndrome de Guillain Barré (SGB)"
+  },
+  {
+    "entidad": "anticuerpos anti-GQ1b",
+    "relacion": "se asocia a",
+    "valor": "encefalitis de Bickerstaff (EB)"
+  },
+  {
+    "entidad": "anticuerpos anti-GQ1b",
+    "relacion": "se asocia a",
+    "valor": "oftalmoplejía aguda (OA)"
+  },
+  {
+    "entidad": "infección respiratoria",
+    "relacion": "precede a",
+    "valor": "síndrome anti-GQ1b"
+  },
+  {
+    "entidad": "diarrea",
+    "relacion": "precede a",
+    "valor": "síndrome anti-GQ1b"
+  },
+  {
+    "entidad": "pacientes con síndrome anti-GQ1b",
+    "relacion": "presentan",
+    "valor": "alteraciones neurológicas mínimas tras 6 meses"
+  },
+  {
+    "entidad": "tratamiento",
+    "relacion": "incluye",
+    "valor": "inmunomodulación"
+  },
+  {
+    "entidad": "electrofisiología",
+    "relacion": "muestra",
+    "valor": "enfermedad desmielinizante"
+  },
+  {
+    "entidad": "resonancia magnética",
+    "relacion": "resulta en",
+    "valor": "hallazgos normales"
+  },
+  {
+    "entidad": "líquido cefalorraquídeo",
+    "relacion": "resulta en",
+    "valor": "hallazgos normales"
+  },
+  {
+    "entidad": "inmunoglobulina intravenosa (IgIV)",
+    "relacion": "se utiliza en",
+    "valor": "tratamiento del síndrome anti-GQ1b"
+  },
+  {
+    "entidad": "plasmaféresis",
+    "relacion": "se utiliza en",
+    "valor": "tratamiento del síndrome anti-GQ1b"
+  },
+  {
+    "entidad": "síndrome anti-GQ1b",
+    "relacion": "se relaciona con",
+    "valor": "mimetismo molecular"
+  },
+  {
+    "entidad": "anticuerpos anti-GQ1b",
+    "relacion": "se encuentran en",
+    "valor": "pacientes con síntomas oculomotores"
+  },
+  {
+    "entidad": "síndrome anti-GQ1b",
+    "relacion": "puede requerir",
+    "valor": "intubación para protección de vía aérea"
+  },
+  {
+    "entidad": "síndrome anti-GQ1b",
+    "relacion": "puede presentar",
+    "valor": "recurrencias"
+  },
+  {
+    "entidad": "síndrome anti-GQ1b",
+    "relacion": "no presenta",
+    "valor": "hallazgos imagenológicos específicos"
+  }
+]

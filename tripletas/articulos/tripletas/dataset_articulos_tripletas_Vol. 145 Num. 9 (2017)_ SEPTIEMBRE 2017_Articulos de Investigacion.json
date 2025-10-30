@@ -1,0 +1,802 @@
+[
+  {
+    "entidad": "Instituto Nacional José Miguel Carrera",
+    "relacion": "es",
+    "valor": "la institución educacional pública más antigua de Chile"
+  },
+  {
+    "entidad": "calidad de sueño",
+    "relacion": "afecta a",
+    "valor": "rendimiento académico"
+  },
+  {
+    "entidad": "Pittsburgh Sleep Quality Index (PSQI)",
+    "relacion": "evalúa",
+    "valor": "calidad del sueño"
+  },
+  {
+    "entidad": "estudiantes de educación secundaria",
+    "relacion": "asisten a",
+    "valor": "jornada de la mañana y tarde"
+  },
+  {
+    "entidad": "calidad subjetiva del sueño",
+    "relacion": "se clasifica como",
+    "valor": "buena o mala"
+  },
+  {
+    "entidad": "rendimiento académico",
+    "relacion": "se mide por",
+    "valor": "promedio de notas"
+  },
+  {
+    "entidad": "jornada de la mañana",
+    "relacion": "tiene estudiantes que",
+    "valor": "duermen menos horas que los de la tarde"
+  },
+  {
+    "entidad": "jornada de la tarde",
+    "relacion": "tiene estudiantes que",
+    "valor": "duermen más horas que los de la mañana"
+  },
+  {
+    "entidad": "mal dormir",
+    "relacion": "se asocia con",
+    "valor": "menor rendimiento académico"
+  },
+  {
+    "entidad": "adolescentes",
+    "relacion": "deben dormir",
+    "valor": "8 a 10 horas por día"
+  },
+  {
+    "entidad": "calidad subjetiva del sueño",
+    "relacion": "puede ser sobreestimada por",
+    "valor": "los estudiantes"
+  },
+  {
+    "entidad": "horarios de dormir",
+    "relacion": "influye en",
+    "valor": "calidad del sueño"
+  },
+  {
+    "entidad": "eficiencia del sueño",
+    "relacion": "se considera",
+    "valor": "buena si es mayor o igual a 85%"
+  },
+  {
+    "entidad": "disfunción diurna",
+    "relacion": "se presenta en",
+    "valor": "estudiantes con mala calidad de sueño"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud",
+    "relacion": "muestra que",
+    "valor": "63,2% de los chilenos manifiesta problemas para dormir"
+  },
+  {
+    "entidad": "jóvenes",
+    "relacion": "son la población más afectada por",
+    "valor": "problemas de sueño"
+  },
+  {
+    "entidad": "horarios de levantarse",
+    "relacion": "difieren entre",
+    "valor": "estudiantes de la mañana y de la tarde"
+  },
+  {
+    "entidad": "experiencias infantiles adversas (EIA)",
+    "relacion": "constituyen",
+    "valor": "factor de vulnerabilidad para patologías mentales"
+  },
+  {
+    "entidad": "depresión",
+    "relacion": "asociada a",
+    "valor": "experiencias infantiles adversas"
+  },
+  {
+    "entidad": "trastornos de ansiedad",
+    "relacion": "asociados a",
+    "valor": "experiencias infantiles adversas"
+  },
+  {
+    "entidad": "abuso de sustancias",
+    "relacion": "asociado a",
+    "valor": "experiencias infantiles adversas"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "asociada a",
+    "valor": "experiencias infantiles adversas"
+  },
+  {
+    "entidad": "hipertensión",
+    "relacion": "asociada a",
+    "valor": "experiencias infantiles adversas"
+  },
+  {
+    "entidad": "diabetes",
+    "relacion": "asociada a",
+    "valor": "experiencias infantiles adversas"
+  },
+  {
+    "entidad": "problemas cardiovasculares",
+    "relacion": "asociados a",
+    "valor": "experiencias infantiles adversas"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "asociado a",
+    "valor": "experiencias infantiles adversas"
+  },
+  {
+    "entidad": "promiscuidad sexual",
+    "relacion": "asociada a",
+    "valor": "experiencias infantiles adversas"
+  },
+  {
+    "entidad": "trastorno mental",
+    "relacion": "emerge más temprano en",
+    "valor": "pacientes con historia de EIA"
+  },
+  {
+    "entidad": "severidad de síntomas depresivos",
+    "relacion": "correlaciona con",
+    "valor": "número de EIA"
+  },
+  {
+    "entidad": "comorbilidades psiquiátricas",
+    "relacion": "correlaciona con",
+    "valor": "número de EIA"
+  },
+  {
+    "entidad": "eventos de violencia de pareja",
+    "relacion": "correlaciona con",
+    "valor": "número de EIA"
+  },
+  {
+    "entidad": "eventos vitales estresantes",
+    "relacion": "correlaciona con",
+    "valor": "número de EIA"
+  },
+  {
+    "entidad": "número de episodios depresivos",
+    "relacion": "correlaciona con",
+    "valor": "número de EIA"
+  },
+  {
+    "entidad": "duración del episodio depresivo más prolongado",
+    "relacion": "correlaciona con",
+    "valor": "número de EIA"
+  },
+  {
+    "entidad": "suicidalidad",
+    "relacion": "correlaciona con",
+    "valor": "número de EIA"
+  },
+  {
+    "entidad": "edad del primer episodio depresivo",
+    "relacion": "correlaciona inversamente con",
+    "valor": "número de EIA"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "ha editado",
+    "valor": "guías clínicas para depresión"
+  },
+  {
+    "entidad": "atención primaria de salud (APS)",
+    "relacion": "trata",
+    "valor": "90% de las depresiones"
+  },
+  {
+    "entidad": "proyecto Fonis sa13/20135",
+    "relacion": "investiga",
+    "valor": "factores asociados a la depresión"
+  },
+  {
+    "entidad": "modelo de tratamiento informado en trauma (TIT)",
+    "relacion": "reconoce",
+    "valor": "necesidad de atención diferenciada"
+  },
+  {
+    "entidad": "pacientes con historia de trauma",
+    "relacion": "requieren",
+    "valor": "tratamiento diferenciado"
+  },
+  {
+    "entidad": "comorbilidades ansiosas",
+    "relacion": "son sub-diagnosticadas en",
+    "valor": "pacientes con depresión"
+  },
+  {
+    "entidad": "subtipo de pacientes depresivos",
+    "relacion": "se caracteriza por",
+    "valor": "inicio precoz de la enfermedad"
+  },
+  {
+    "entidad": "estrategias de reconocimiento",
+    "relacion": "son necesarias para",
+    "valor": "pacientes con EIA"
+  },
+  {
+    "entidad": "dieta alta en grasas",
+    "relacion": "afecta a",
+    "valor": "formación de cálculos biliares de colesterol"
+  },
+  {
+    "entidad": "cálculos biliares de colesterol",
+    "relacion": "es un tipo de",
+    "valor": "litiasis biliar"
+  },
+  {
+    "entidad": "colesterol",
+    "relacion": "es transportado por",
+    "valor": "micelas y vesículas en la bilis"
+  },
+  {
+    "entidad": "dieta alta en grasas",
+    "relacion": "incrementa",
+    "valor": "niveles de colesterol en sangre"
+  },
+  {
+    "entidad": "dieta alta en grasas",
+    "relacion": "incrementa",
+    "valor": "concentraciones de HDL-colesterol"
+  },
+  {
+    "entidad": "dieta alta en grasas",
+    "relacion": "incrementa",
+    "valor": "concentraciones de LDL-colesterol"
+  },
+  {
+    "entidad": "bile",
+    "relacion": "contiene",
+    "valor": "colesterol y fosfolípidos"
+  },
+  {
+    "entidad": "transportadores vesiculares",
+    "relacion": "aumentan",
+    "valor": "concentraciones de colesterol"
+  },
+  {
+    "entidad": "transportadores vesiculares",
+    "relacion": "tienen",
+    "valor": "razón colesterol/fosfolípidos alterada"
+  },
+  {
+    "entidad": "ratones BALB/c",
+    "relacion": "son utilizados como",
+    "valor": "modelo experimental"
+  },
+  {
+    "entidad": "Instituto de Salud Pública (ISP)",
+    "relacion": "suministra",
+    "valor": "ratones para el estudio"
+  },
+  {
+    "entidad": "universidad católica de la santísima concepción",
+    "relacion": "realiza",
+    "valor": "investigación sobre colelitiasis"
+  },
+  {
+    "entidad": "dieta alta en grasas",
+    "relacion": "contribuye a",
+    "valor": "formación de cálculos vesiculares de colesterol"
+  },
+  {
+    "entidad": "ácidos grasos saturados",
+    "relacion": "aumentan",
+    "valor": "concentraciones de colesterol biliar"
+  },
+  {
+    "entidad": "colelitiasis",
+    "relacion": "es influenciada por",
+    "valor": "dieta y metabolismo lipídico"
+  },
+  {
+    "entidad": "dieta alta en grasas",
+    "relacion": "induce",
+    "valor": "sobresaturación de la bilis con colesterol"
+  },
+  {
+    "entidad": "cristales de colesterol",
+    "relacion": "se forman a partir de",
+    "valor": "bile sobresaturada con colesterol"
+  },
+  {
+    "entidad": "Entrenamiento interválico de alta intensidad (HIIT)",
+    "relacion": "contribuye a",
+    "valor": "normalización de la hipertensión arterial"
+  },
+  {
+    "entidad": "hipertensión arterial",
+    "relacion": "afecta a",
+    "valor": "sistema cardiovascular"
+  },
+  {
+    "entidad": "ejercicio físico",
+    "relacion": "es una",
+    "valor": "estrategia terapéutica para hipertensión"
+  },
+  {
+    "entidad": "óxido nítrico (ON)",
+    "relacion": "es secretado por",
+    "valor": "células endoteliales"
+  },
+  {
+    "entidad": "factor de crecimiento endotelial vascular (VEGF)",
+    "relacion": "facilita",
+    "valor": "flujo sanguíneo"
+  },
+  {
+    "entidad": "interleukina-15 (IL-15)",
+    "relacion": "desencadena",
+    "valor": "angiogénesis"
+  },
+  {
+    "entidad": "ejercicio regular",
+    "relacion": "aumenta",
+    "valor": "reactividad paracrina"
+  },
+  {
+    "entidad": "ejercicio físico",
+    "relacion": "mejora",
+    "valor": "vasodilatación"
+  },
+  {
+    "entidad": "grosor del vaso sanguíneo",
+    "relacion": "disminuye con",
+    "valor": "ejercicio regular"
+  },
+  {
+    "entidad": "músculo liso",
+    "relacion": "aumenta su",
+    "valor": "reactividad con ejercicio"
+  },
+  {
+    "entidad": "lumen vascular",
+    "relacion": "mejora con",
+    "valor": "ejercicio regular"
+  },
+  {
+    "entidad": "protocolo de ejercicio HIIT",
+    "relacion": "es efectivo para",
+    "valor": "mejorar presión arterial"
+  },
+  {
+    "entidad": "pacientes hipertensos",
+    "relacion": "logran normalizar",
+    "valor": "presión arterial"
+  },
+  {
+    "entidad": "programa de ejercicio HIIT",
+    "relacion": "se realiza en",
+    "valor": "24 sesiones"
+  },
+  {
+    "entidad": "grupo hipertenso",
+    "relacion": "muestra",
+    "valor": "reducción significativa de presión arterial sistólica"
+  },
+  {
+    "entidad": "presión arterial sistólica (PaS)",
+    "relacion": "se mide en",
+    "valor": "mmHg"
+  },
+  {
+    "entidad": "presión arterial diastólica (Pad)",
+    "relacion": "se mide en",
+    "valor": "mmHg"
+  },
+  {
+    "entidad": "método 1 * 2 * 10",
+    "relacion": "consiste en",
+    "valor": "ejercicio intenso seguido de pausa"
+  },
+  {
+    "entidad": "centro de investigación en Metabolismo, ejercicio y salud (cieMets)",
+    "relacion": "pertenece a",
+    "valor": "universidad de la Frontera"
+  },
+  {
+    "entidad": "universidad de la Frontera",
+    "relacion": "está ubicada en",
+    "valor": "región de la Araucanía, Chile"
+  },
+  {
+    "entidad": "Médicos",
+    "relacion": "evalúan",
+    "valor": "competencia moral"
+  },
+  {
+    "entidad": "Test de Competencia Moral (TCM)",
+    "relacion": "mide",
+    "valor": "competencia moral"
+  },
+  {
+    "entidad": "Índice C (IC)",
+    "relacion": "representa",
+    "valor": "grado de desarrollo de competencia moral"
+  },
+  {
+    "entidad": "Postgrado",
+    "relacion": "afecta",
+    "valor": "positivamente el IC"
+  },
+  {
+    "entidad": "Años de ejercicio profesional",
+    "relacion": "afectan",
+    "valor": "negativamente el IC"
+  },
+  {
+    "entidad": "Clínica Dávila",
+    "relacion": "financia",
+    "valor": "departamento de docencia y desarrollo"
+  },
+  {
+    "entidad": "Universidad de Concepción",
+    "relacion": "pertenece a",
+    "valor": "Facultad de educación"
+  },
+  {
+    "entidad": "Moral Competence Test (MCT)",
+    "relacion": "utiliza",
+    "valor": "para evaluar competencia moral"
+  },
+  {
+    "entidad": "Kohlberg",
+    "relacion": "propone",
+    "valor": "modelo evolutivo de competencia moral"
+  },
+  {
+    "entidad": "Método Konstanz de discusión de dilemas (MKDD)",
+    "relacion": "incrementa",
+    "valor": "competencia moral"
+  },
+  {
+    "entidad": "Médicos en ejercicio",
+    "relacion": "muestran",
+    "valor": "amplio rango de IC"
+  },
+  {
+    "entidad": "Género",
+    "relacion": "no tiene",
+    "valor": "influencia significativa en el IC"
+  },
+  {
+    "entidad": "Educación formal",
+    "relacion": "influye en",
+    "valor": "desarrollo de competencia moral"
+  },
+  {
+    "entidad": "Talleres de discusión",
+    "relacion": "promueven",
+    "valor": "competencia moral"
+  },
+  {
+    "entidad": "Dilemas morales",
+    "relacion": "requieren",
+    "valor": "competencia moral"
+  },
+  {
+    "entidad": "Médicos de dos centros hospitalarios chilenos",
+    "relacion": "tienen",
+    "valor": "IC promedio de 20,98"
+  },
+  {
+    "entidad": "hombres gays",
+    "relacion": "son",
+    "valor": "una minoría sexual"
+  },
+  {
+    "entidad": "mujeres lesbianas",
+    "relacion": "son",
+    "valor": "una minoría sexual"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "es",
+    "valor": "el país de estudio"
+  },
+  {
+    "entidad": "salud mental",
+    "relacion": "afecta a",
+    "valor": "hombres gays y mujeres lesbianas"
+  },
+  {
+    "entidad": "bienestar subjetivo",
+    "relacion": "afecta a",
+    "valor": "hombres gays y mujeres lesbianas"
+  },
+  {
+    "entidad": "Escala de Satisfacción con la Vida",
+    "relacion": "es utilizada para medir",
+    "valor": "bienestar subjetivo"
+  },
+  {
+    "entidad": "Outcome Questionnaire-45 (OQ-45)",
+    "relacion": "es utilizada para evaluar",
+    "valor": "sintomatología socioemocional"
+  },
+  {
+    "entidad": "sintomatología psicológica",
+    "relacion": "se presenta en",
+    "valor": "la población homosexual"
+  },
+  {
+    "entidad": "homofobia",
+    "relacion": "afecta",
+    "valor": "la salud mental de las minorías sexuales"
+  },
+  {
+    "entidad": "intención suicida",
+    "relacion": "es reportada por",
+    "valor": "un porcentaje de la población homosexual"
+  },
+  {
+    "entidad": "mujeres lesbianas",
+    "relacion": "reportan",
+    "valor": "mayor satisfacción con la vida que hombres gays"
+  },
+  {
+    "entidad": "hombres gays",
+    "relacion": "tienen",
+    "valor": "mayor prevalencia de depresión y ansiedad"
+  },
+  {
+    "entidad": "mujeres lesbianas",
+    "relacion": "tienen",
+    "valor": "menor dificultad en relaciones interpersonales que hombres gays"
+  },
+  {
+    "entidad": "Proyecto Fondecyt 1110423",
+    "relacion": "apoya",
+    "valor": "la investigación sobre homofobia y calidad de vida"
+  },
+  {
+    "entidad": "Universidad Católica del Norte",
+    "relacion": "aproba",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "muestra de hombres gays y mujeres lesbianas",
+    "relacion": "es seleccionada mediante",
+    "valor": "muestreo en cadena tipo bola de nieve"
+  },
+  {
+    "entidad": "sintomatología socioemocional",
+    "relacion": "se mide con",
+    "valor": "el OQ-45"
+  },
+  {
+    "entidad": "violencia hacia la población gay y lésbica",
+    "relacion": "genera",
+    "valor": "efectos negativos en la salud"
+  },
+  {
+    "entidad": "revelación de la orientación sexual",
+    "relacion": "es alta en",
+    "valor": "la población estudiada"
+  },
+  {
+    "entidad": "Escherichia coli",
+    "relacion": "es un",
+    "valor": "bacilo gram-negativo"
+  },
+  {
+    "entidad": "Enfermedad Inflamatoria Intestinal",
+    "relacion": "es",
+    "valor": "una patología inflamatoria crónica"
+  },
+  {
+    "entidad": "Enfermedad de Crohn",
+    "relacion": "es un",
+    "valor": "tipo de Enfermedad Inflamatoria Intestinal"
+  },
+  {
+    "entidad": "Colitis Ulcerosa",
+    "relacion": "es un",
+    "valor": "tipo de Enfermedad Inflamatoria Intestinal"
+  },
+  {
+    "entidad": "Escherichia coli",
+    "relacion": "está asociado con",
+    "valor": "la patogénesis de enfermedades inflamatorias intestinales"
+  },
+  {
+    "entidad": "Escherichia coli intracelular",
+    "relacion": "se encuentra en",
+    "valor": "mucosa intestinal de pacientes con Enfermedad Inflamatoria Intestinal"
+  },
+  {
+    "entidad": "corticosteroides",
+    "relacion": "se utilizan como",
+    "valor": "tratamiento anti-inflamatorio"
+  },
+  {
+    "entidad": "corticosteroides",
+    "relacion": "afectan",
+    "valor": "la respuesta inmune en pacientes con Enfermedad Inflamatoria Intestinal"
+  },
+  {
+    "entidad": "Escherichia coli",
+    "relacion": "puede inducir",
+    "valor": "la liberación de TNF-α"
+  },
+  {
+    "entidad": "Escherichia coli",
+    "relacion": "se asocia con",
+    "valor": "características clínicas en pacientes con Colitis Ulcerosa"
+  },
+  {
+    "entidad": "Escherichia coli",
+    "relacion": "se asocia con",
+    "valor": "el uso de corticosteroides en pacientes con Colitis Ulcerosa"
+  },
+  {
+    "entidad": "microbiota intestinal",
+    "relacion": "puede ser alterada por",
+    "valor": "factores ambientales como dieta e influencia hormonal"
+  },
+  {
+    "entidad": "pacientes con Enfermedad Inflamatoria Intestinal",
+    "relacion": "presentan",
+    "valor": "alteraciones en la microbiota"
+  },
+  {
+    "entidad": "corticosteroides",
+    "relacion": "pueden afectar",
+    "valor": "la microbiota intestinal"
+  },
+  {
+    "entidad": "Enfermedad Inflamatoria Intestinal",
+    "relacion": "es asociada con",
+    "valor": "la presencia de Escherichia coli intracelular"
+  },
+  {
+    "entidad": "Escherichia coli",
+    "relacion": "se encuentra en",
+    "valor": "pacientes con Enfermedad de Crohn y Colitis Ulcerosa"
+  },
+  {
+    "entidad": "escalas de evaluación funcional",
+    "relacion": "evalúan",
+    "valor": "funcionalidad en pacientes críticamente enfermos"
+  },
+  {
+    "entidad": "pacientes críticamente enfermos",
+    "relacion": "presentan",
+    "valor": "debilidad adquirida en UCI"
+  },
+  {
+    "entidad": "debilidad adquirida en UCI",
+    "relacion": "afecta",
+    "valor": "calidad de vida de los pacientes"
+  },
+  {
+    "entidad": "escala PFIT-s",
+    "relacion": "correlaciona positivamente con",
+    "valor": "6MWT"
+  },
+  {
+    "entidad": "escala PFIT-s",
+    "relacion": "correlaciona positivamente con",
+    "valor": "MRC-SS"
+  },
+  {
+    "entidad": "escala PFIT-s",
+    "relacion": "correlaciona positivamente con",
+    "valor": "fuerza de prensión"
+  },
+  {
+    "entidad": "escala PFIT-s",
+    "relacion": "correlaciona negativamente con",
+    "valor": "TUG"
+  },
+  {
+    "entidad": "escala PFIT-s",
+    "relacion": "predice",
+    "valor": "necesidad de rehabilitación al alta"
+  },
+  {
+    "entidad": "escala PFIT-s",
+    "relacion": "predice",
+    "valor": "destino al alta a domicilio"
+  },
+  {
+    "entidad": "escala DEMMI",
+    "relacion": "correlaciona positivamente con",
+    "valor": "MRC-SS"
+  },
+  {
+    "entidad": "interobserver reliability",
+    "relacion": "evaluada en",
+    "valor": "tres artículos"
+  },
+  {
+    "entidad": "intraobserver agreement",
+    "relacion": "considerada",
+    "valor": "buena en un reporte"
+  },
+  {
+    "entidad": "escuela de Kinesiología de la Universidad San Sebastián",
+    "relacion": "financia",
+    "valor": "este estudio"
+  },
+  {
+    "entidad": "Medical Research Council Sum Score (MRC-SS)",
+    "relacion": "es un",
+    "valor": "estándar de referencia"
+  },
+  {
+    "entidad": "Timed Up and Go (TUG)",
+    "relacion": "es un",
+    "valor": "estándar de referencia"
+  },
+  {
+    "entidad": "Six Minutes Walk Test (6MWT)",
+    "relacion": "es un",
+    "valor": "estándar de referencia"
+  },
+  {
+    "entidad": "fuerza de prensión",
+    "relacion": "es un",
+    "valor": "estándar de referencia"
+  },
+  {
+    "entidad": "escala Perme MS",
+    "relacion": "es una",
+    "valor": "escala de evaluación funcional"
+  },
+  {
+    "entidad": "escala DEMMI",
+    "relacion": "es una",
+    "valor": "escala de evaluación funcional"
+  },
+  {
+    "entidad": "escala PFIT-s",
+    "relacion": "es una",
+    "valor": "escala de evaluación funcional"
+  },
+  {
+    "entidad": "Criterios de elegibilidad",
+    "relacion": "consideran",
+    "valor": "estudios en inglés y español"
+  },
+  {
+    "entidad": "pacientes críticamente enfermos",
+    "relacion": "definidos como",
+    "valor": "enfermos cuya condición patológica afecta a uno o más sistemas"
+  },
+  {
+    "entidad": "escala de evaluación funcional",
+    "relacion": "debe ser aplicada por",
+    "valor": "un profesional con experiencia"
+  },
+  {
+    "entidad": "escala de evaluación funcional",
+    "relacion": "requiere",
+    "valor": "participación activa del paciente"
+  },
+  {
+    "entidad": "escala de evaluación funcional",
+    "relacion": "considera",
+    "valor": "aspectos como comprensión de la tarea, coordinación y control motor"
+  },
+  {
+    "entidad": "escala de evaluación funcional",
+    "relacion": "muestra",
+    "valor": "validez y confiabilidad variables"
+  },
+  {
+    "entidad": "validez de criterio",
+    "relacion": "evaluada en",
+    "valor": "estudios"
+  },
+  {
+    "entidad": "confiabilidad inter e intraobservador",
+    "relacion": "evaluada en",
+    "valor": "estudios"
+  }
+]

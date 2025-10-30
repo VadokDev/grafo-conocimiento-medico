@@ -1,0 +1,87 @@
+[
+  {
+    "entidad": "Anemia",
+    "relacion": "es",
+    "valor": "la manifestación extraintestinal más común de la enfermedad inflamatoria intestinal (EII)"
+  },
+  {
+    "entidad": "Enfermedad inflamatoria intestinal (EII)",
+    "relacion": "presenta",
+    "valor": "anemia"
+  },
+  {
+    "entidad": "Anemia",
+    "relacion": "tiene",
+    "valor": "un impacto significativo en la calidad de vida del paciente"
+  },
+  {
+    "entidad": "Anemia",
+    "relacion": "es",
+    "valor": "subdiagnosticada y subtratada por los proveedores"
+  },
+  {
+    "entidad": "Anemia",
+    "relacion": "requiere",
+    "valor": "evaluación activa y manejo integral"
+  },
+  {
+    "entidad": "Anemia por déficit de hierro (ADH)",
+    "relacion": "es",
+    "valor": "una de las causas más frecuentes de anemia en EII"
+  },
+  {
+    "entidad": "Anemia de enfermedad crónica (AEC)",
+    "relacion": "es",
+    "valor": "la segunda causa de anemia en pacientes con EII"
+  },
+  {
+    "entidad": "Anemia",
+    "relacion": "debe ser",
+    "valor": "monitoreada cuidadosamente para prevenir su recurrencia"
+  },
+  {
+    "entidad": "Tratamiento de anemia",
+    "relacion": "depende de",
+    "valor": "la etiología subyacente y la normalización de la actividad inflamatoria"
+  },
+  {
+    "entidad": "Hierro intravenoso",
+    "relacion": "es",
+    "valor": "la terapia de primera línea en pacientes con EII activa y anemia severa"
+  },
+  {
+    "entidad": "Eritropoyetina recombinante humana",
+    "relacion": "está indicada en",
+    "valor": "pacientes con anemia sintomática refractaria a hierro intravenoso"
+  },
+  {
+    "entidad": "Deficiencia de vitamina B12",
+    "relacion": "es",
+    "valor": "una causa ocasional de anemia en pacientes con EII"
+  },
+  {
+    "entidad": "Deficiencia de folato",
+    "relacion": "es",
+    "valor": "una causa ocasional de anemia en pacientes con EII"
+  },
+  {
+    "entidad": "Anemia hemolítica autoinmune",
+    "relacion": "es",
+    "valor": "una causa infrecuente de anemia en pacientes con colitis ulcerosa (CU)"
+  },
+  {
+    "entidad": "Guías para el estudio y seguimiento de pacientes con EII",
+    "relacion": "sugieren",
+    "valor": "realizar hemograma completo y ferritina sérica"
+  },
+  {
+    "entidad": "Anemia",
+    "relacion": "afecta",
+    "valor": "la calidad de vida, la actividad laboral y las funciones cognitivas de los pacientes"
+  },
+  {
+    "entidad": "Anemia",
+    "relacion": "incrementa",
+    "valor": "los costos de salud cuando está presente"
+  }
+]

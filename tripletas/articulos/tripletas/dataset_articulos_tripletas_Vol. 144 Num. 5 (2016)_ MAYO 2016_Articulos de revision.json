@@ -1,0 +1,302 @@
+[
+  {
+    "entidad": "Ancho de distribución eritrocitaria (RDW)",
+    "relacion": "es un",
+    "valor": "biomarcador potencial en enfermedades cardiovasculares"
+  },
+  {
+    "entidad": "RDW",
+    "relacion": "indica",
+    "valor": "heterogeneidad de eritrocitos"
+  },
+  {
+    "entidad": "RDW",
+    "relacion": "se utiliza en",
+    "valor": "diagnóstico diferencial de hipocromía anemia"
+  },
+  {
+    "entidad": "RDW",
+    "relacion": "puede servir como",
+    "valor": "biomarcador en diagnóstico y pronóstico de enfermedades cardiovasculares"
+  },
+  {
+    "entidad": "aumento de heterogeneidad",
+    "relacion": "es",
+    "valor": "consecuencia de condiciones fisiopatológicas"
+  },
+  {
+    "entidad": "insuficiencia cardiaca (IC)",
+    "relacion": "se asocia con",
+    "valor": "aumento de RDW"
+  },
+  {
+    "entidad": "infarto agudo al miocardio (IAM)",
+    "relacion": "se asocia con",
+    "valor": "aumento de RDW"
+  },
+  {
+    "entidad": "fibrilación auricular",
+    "relacion": "se asocia con",
+    "valor": "aumento de RDW"
+  },
+  {
+    "entidad": "RDW",
+    "relacion": "predice",
+    "valor": "morbilidad cardiovascular"
+  },
+  {
+    "entidad": "RDW",
+    "relacion": "predice",
+    "valor": "mortalidad cardiovascular"
+  },
+  {
+    "entidad": "micropartículas (MPs)",
+    "relacion": "son liberadas de",
+    "valor": "membrana plasmática de células"
+  },
+  {
+    "entidad": "exosomas",
+    "relacion": "son vesículas derivadas de",
+    "valor": "células durante activación o apoptosis"
+  },
+  {
+    "entidad": "MPs y exosomas",
+    "relacion": "se asocian con",
+    "valor": "patogénesis de enfermedades cardiovasculares"
+  },
+  {
+    "entidad": "estrés oxidativo",
+    "relacion": "se asocia con",
+    "valor": "aumento de RDW"
+  },
+  {
+    "entidad": "inflamación",
+    "relacion": "se asocia con",
+    "valor": "aumento de RDW"
+  },
+  {
+    "entidad": "desnutrición",
+    "relacion": "se asocia con",
+    "valor": "aumento de RDW"
+  },
+  {
+    "entidad": "disfunción renal",
+    "relacion": "se asocia con",
+    "valor": "aumento de RDW"
+  },
+  {
+    "entidad": "vitamina C",
+    "relacion": "disminuye",
+    "valor": "niveles de RDW"
+  },
+  {
+    "entidad": "proteína C reactiva ultrasensible (PCRus)",
+    "relacion": "predice",
+    "valor": "aumento en niveles de RDW"
+  },
+  {
+    "entidad": "RDW",
+    "relacion": "depende de",
+    "valor": "aspectos fisiopatológicos en enfermedades cardiovasculares"
+  },
+  {
+    "entidad": "BNP",
+    "relacion": "aumenta la capacidad predictiva de",
+    "valor": "RDW en enfermedades cardiovasculares"
+  },
+  {
+    "entidad": "Pacientes Simulados",
+    "relacion": "se utilizan en",
+    "valor": "formación de profesionales de salud"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "tiene experiencia en",
+    "valor": "uso de pacientes simulados"
+  },
+  {
+    "entidad": "pacientes simulados",
+    "relacion": "promueven",
+    "valor": "atención centrada en el paciente"
+  },
+  {
+    "entidad": "estudiantes",
+    "relacion": "valoran",
+    "valor": "feedback desde la perspectiva del paciente"
+  },
+  {
+    "entidad": "Ley de Derechos y Deberes de los pacientes",
+    "relacion": "recalca",
+    "valor": "importancia de la relación equipo docente-paciente"
+  },
+  {
+    "entidad": "simulación clínica",
+    "relacion": "representa",
+    "valor": "experiencias reales de pacientes"
+  },
+  {
+    "entidad": "pacientes simulados",
+    "relacion": "permiten",
+    "valor": "aprendizaje basado en competencias"
+  },
+  {
+    "entidad": "ECOE/OSCE",
+    "relacion": "introduce",
+    "valor": "metodología de evaluación con pacientes estandarizados"
+  },
+  {
+    "entidad": "pacientes simulados",
+    "relacion": "son menos amenazantes que",
+    "valor": "pacientes reales"
+  },
+  {
+    "entidad": "docentes",
+    "relacion": "deben crear",
+    "valor": "un ambiente seguro para el aprendizaje"
+  },
+  {
+    "entidad": "pacientes simulados",
+    "relacion": "ofrecen",
+    "valor": "feedback constructivo a estudiantes"
+  },
+  {
+    "entidad": "programa de pacientes simulados",
+    "relacion": "requiere",
+    "valor": "presupuesto anual"
+  },
+  {
+    "entidad": "actores profesionales",
+    "relacion": "son reclutados como",
+    "valor": "pacientes simulados"
+  },
+  {
+    "entidad": "entrenamiento de pacientes simulados",
+    "relacion": "dura",
+    "valor": "4 a 12 horas"
+  },
+  {
+    "entidad": "evaluación de desempeño de pacientes simulados",
+    "relacion": "es importante para",
+    "valor": "mantener la calidad"
+  },
+  {
+    "entidad": "simulación con pacientes simulados",
+    "relacion": "facilita",
+    "valor": "una visión holística del paciente"
+  },
+  {
+    "entidad": "pacientes simulados",
+    "relacion": "no reemplazan",
+    "valor": "pacientes reales ni docentes"
+  },
+  {
+    "entidad": "Trastorno Dismórfico Corporal (TDC)",
+    "relacion": "coexiste con",
+    "valor": "Anorexia Nerviosa (AN)"
+  },
+  {
+    "entidad": "TDC",
+    "relacion": "implica",
+    "valor": "diagnóstico y tratamiento más complejo"
+  },
+  {
+    "entidad": "TDC",
+    "relacion": "causa",
+    "valor": "severidad clínica y peor pronóstico"
+  },
+  {
+    "entidad": "TDC",
+    "relacion": "presenta similitudes con",
+    "valor": "trastornos de la conducta alimentaria (TCA)"
+  },
+  {
+    "entidad": "TDC",
+    "relacion": "se relaciona con",
+    "valor": "insatisfacción corporal y distorsión de la imagen corporal"
+  },
+  {
+    "entidad": "TDC",
+    "relacion": "se asocia con",
+    "valor": "depresión y tendencias suicidas"
+  },
+  {
+    "entidad": "TDC",
+    "relacion": "se presenta en",
+    "valor": "contextos psiquiátricos, dermatológicos y de cirugía cosmética"
+  },
+  {
+    "entidad": "TDC",
+    "relacion": "tiene un componente",
+    "valor": "hereditario significativo"
+  },
+  {
+    "entidad": "TDC",
+    "relacion": "se observa en",
+    "valor": "ambos sexos con predominio masculino"
+  },
+  {
+    "entidad": "TDC",
+    "relacion": "se inicia en",
+    "valor": "la adolescencia"
+  },
+  {
+    "entidad": "TDC",
+    "relacion": "se manifiesta a través de",
+    "valor": "preocupaciones por defectos físicos imaginarios"
+  },
+  {
+    "entidad": "TDC",
+    "relacion": "puede incluir",
+    "valor": "trastorno dismórfico muscular"
+  },
+  {
+    "entidad": "TDC",
+    "relacion": "se asocia con",
+    "valor": "trastornos obsesivo-compulsivos"
+  },
+  {
+    "entidad": "TDC",
+    "relacion": "se relaciona con",
+    "valor": "trastornos de ansiedad social"
+  },
+  {
+    "entidad": "TDC",
+    "relacion": "se asocia con",
+    "valor": "trastornos del ánimo"
+  },
+  {
+    "entidad": "TDC",
+    "relacion": "puede ser tratado con",
+    "valor": "psicoterapia cognitivo-conductual"
+  },
+  {
+    "entidad": "TDC",
+    "relacion": "puede ser tratado con",
+    "valor": "inhibidores de la recaptura de serotonina"
+  },
+  {
+    "entidad": "cirugía plástica",
+    "relacion": "puede exacerbar",
+    "valor": "TDC"
+  },
+  {
+    "entidad": "TDC",
+    "relacion": "se asocia con",
+    "valor": "alta tasa de ideación e intentos suicidas"
+  },
+  {
+    "entidad": "TDC",
+    "relacion": "requiere",
+    "valor": "seguimiento a largo plazo"
+  },
+  {
+    "entidad": "TDC",
+    "relacion": "debe ser evaluado en",
+    "valor": "pacientes con TCA"
+  },
+  {
+    "entidad": "TCA",
+    "relacion": "puede incluir",
+    "valor": "TDC comórbido"
+  }
+]

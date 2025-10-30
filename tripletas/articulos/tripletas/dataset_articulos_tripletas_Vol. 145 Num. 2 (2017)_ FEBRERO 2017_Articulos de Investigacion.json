@@ -1,0 +1,797 @@
+[
+  {
+    "entidad": "enfermedad pulmonar obstructiva crónica (EPOC)",
+    "relacion": "afecta a",
+    "valor": "calidad de vida relacionada con la salud (CVRS)"
+  },
+  {
+    "entidad": "calidad de vida relacionada con la salud (CVRS)",
+    "relacion": "es evaluada por",
+    "valor": "SF-6D"
+  },
+  {
+    "entidad": "SF-6D",
+    "relacion": "se deriva de",
+    "valor": "SF-12"
+  },
+  {
+    "entidad": "pacientes chilenos con EPOC",
+    "relacion": "reportan",
+    "valor": "valores normativos de SF-6D"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "es propietario de",
+    "valor": "Encuesta Nacional de Salud 2009-2010"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud 2009-2010",
+    "relacion": "utiliza",
+    "valor": "datos para calcular SF-6D"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "reportan",
+    "valor": "mejor CVRS que mujeres"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "reportan",
+    "valor": "CVRS inferior a hombres"
+  },
+  {
+    "entidad": "nivel educativo",
+    "relacion": "influye en",
+    "valor": "CVRS de pacientes con EPOC"
+  },
+  {
+    "entidad": "pacientes con alto nivel educativo",
+    "relacion": "reportan",
+    "valor": "mejor CVRS"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "es un",
+    "valor": "factor de riesgo para EPOC"
+  },
+  {
+    "entidad": "efecto techo",
+    "relacion": "no es una limitación en",
+    "valor": "SF-6D para pacientes chilenos con EPOC"
+  },
+  {
+    "entidad": "valores normativos de SF-6D",
+    "relacion": "son útiles para",
+    "valor": "comparaciones entre poblaciones"
+  },
+  {
+    "entidad": "política sanitaria",
+    "relacion": "se beneficia de",
+    "valor": "valores normativos de CVRS"
+  },
+  {
+    "entidad": "investigación",
+    "relacion": "se apoya en",
+    "valor": "valores normativos para evaluar tratamientos"
+  },
+  {
+    "entidad": "Cuestionario de actividades de la vida diaria (T-ADLQ)",
+    "relacion": "evalúa",
+    "valor": "actividades de la vida diaria en pacientes con accidente cerebrovascular menor"
+  },
+  {
+    "entidad": "accidente cerebrovascular menor",
+    "relacion": "afecta a",
+    "valor": "independencia y funcionalidad"
+  },
+  {
+    "entidad": "hipertensión arterial",
+    "relacion": "es una de las causas de",
+    "valor": "accidente cerebrovascular"
+  },
+  {
+    "entidad": "T-ADLQ",
+    "relacion": "es útil para",
+    "valor": "evaluar AVD en pacientes hipertensos con ACV isquémico"
+  },
+  {
+    "entidad": "índice de Barthel",
+    "relacion": "evalúa",
+    "valor": "actividades básicas de la vida diaria"
+  },
+  {
+    "entidad": "T-ADLQ",
+    "relacion": "incluye",
+    "valor": "ítems para AVD básicas e instrumentales"
+  },
+  {
+    "entidad": "T-ADLQ",
+    "relacion": "mide",
+    "valor": "deterioro funcional en seis áreas"
+  },
+  {
+    "entidad": "deterioro cognitivo",
+    "relacion": "se asocia con",
+    "valor": "menor rendimiento en AVD"
+  },
+  {
+    "entidad": "síntomas depresivos",
+    "relacion": "se asocian con",
+    "valor": "menor rendimiento en AVD"
+  },
+  {
+    "entidad": "escala de Hamilton",
+    "relacion": "evalúa",
+    "valor": "síntomas de depresión"
+  },
+  {
+    "entidad": "T-ADLQ",
+    "relacion": "se construyó a partir de",
+    "valor": "ADLQ añadiendo un dominio de tecnología"
+  },
+  {
+    "entidad": "pacientes hipertensos",
+    "relacion": "se seleccionaron para",
+    "valor": "evaluar AVD con T-ADLQ"
+  },
+  {
+    "entidad": "comité de ética",
+    "relacion": "aprueba",
+    "valor": "estudios de investigación"
+  },
+  {
+    "entidad": "MINSAL",
+    "relacion": "proporciona",
+    "valor": "guías clínicas para diagnóstico de ACV"
+  },
+  {
+    "entidad": "T-ADLQ",
+    "relacion": "es válido y confiable para",
+    "valor": "evaluación funcional de pacientes con deterioro cognitivo"
+  },
+  {
+    "entidad": "deterioro funcional",
+    "relacion": "se relaciona con",
+    "valor": "mayor compromiso de actividades de la vida diaria"
+  },
+  {
+    "entidad": "cuestionario T-ADLQ",
+    "relacion": "permite",
+    "valor": "valorar el deterioro funcional de pacientes con ACV menor"
+  },
+  {
+    "entidad": "Programa educativo estructurado",
+    "relacion": "evalúa",
+    "valor": "eficacia en población diabética chilena"
+  },
+  {
+    "entidad": "población diabética chilena",
+    "relacion": "presenta",
+    "valor": "diabetes mellitus tipo 2"
+  },
+  {
+    "entidad": "diabetes mellitus",
+    "relacion": "es una",
+    "valor": "enfermedad metabólica crónica"
+  },
+  {
+    "entidad": "Servicio de Salud Maule",
+    "relacion": "participa en",
+    "valor": "elaboración del programa educativo"
+  },
+  {
+    "entidad": "Universidad Católica del Maule",
+    "relacion": "participa en",
+    "valor": "elaboración del programa educativo"
+  },
+  {
+    "entidad": "Clínica Alemana de Santiago",
+    "relacion": "participa en",
+    "valor": "elaboración del programa educativo"
+  },
+  {
+    "entidad": "Asociación de Diabéticos de Chile (ADICH)",
+    "relacion": "participa en",
+    "valor": "elaboración del programa educativo"
+  },
+  {
+    "entidad": "Departamento de Salud Municipal de Talca",
+    "relacion": "participa en",
+    "valor": "elaboración del programa educativo"
+  },
+  {
+    "entidad": "ensayo clínico aleatorio",
+    "relacion": "realiza",
+    "valor": "evaluación de la eficacia del programa educativo"
+  },
+  {
+    "entidad": "pacientes diabéticos",
+    "relacion": "son",
+    "valor": "sujetos de estudio"
+  },
+  {
+    "entidad": "hemoglobina glicosilada",
+    "relacion": "es un",
+    "valor": "parámetro de control metabólico"
+  },
+  {
+    "entidad": "educación en diabetes",
+    "relacion": "contribuye a",
+    "valor": "mejorar el control metabólico"
+  },
+  {
+    "entidad": "programas educativos estructurados",
+    "relacion": "son",
+    "valor": "fundamentales en el control de la diabetes"
+  },
+  {
+    "entidad": "familia y amigos",
+    "relacion": "deben ser",
+    "valor": "incluidos en la educación del paciente"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "garantiza",
+    "valor": "atención a pacientes diabéticos"
+  },
+  {
+    "entidad": "educadores",
+    "relacion": "realizan",
+    "valor": "intervención educativa"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "deben asumir",
+    "valor": "responsabilidad en el cuidado de su enfermedad"
+  },
+  {
+    "entidad": "programa educativo",
+    "relacion": "se desarrolla en",
+    "valor": "modalidad de taller"
+  },
+  {
+    "entidad": "grupo de 8 pacientes",
+    "relacion": "es",
+    "valor": "tamaño de los talleres educativos"
+  },
+  {
+    "entidad": "material audiovisual",
+    "relacion": "es proporcionado por",
+    "valor": "el programa educativo"
+  },
+  {
+    "entidad": "grupo control",
+    "relacion": "recibe",
+    "valor": "prestaciones regulares sin educación estructurada"
+  },
+  {
+    "entidad": "pacientes con diabetes",
+    "relacion": "deben tener",
+    "valor": "un control adecuado de su afección"
+  },
+  {
+    "entidad": "intervenciones educativas",
+    "relacion": "mejoran",
+    "valor": "el conocimiento sobre diabetes"
+  },
+  {
+    "entidad": "educación del paciente",
+    "relacion": "es",
+    "valor": "base del control de la enfermedad"
+  },
+  {
+    "entidad": "fragilidad",
+    "relacion": "es un",
+    "valor": "síndrome geriátrico"
+  },
+  {
+    "entidad": "insuficiencia cardiaca",
+    "relacion": "afecta a",
+    "valor": "pacientes mayores"
+  },
+  {
+    "entidad": "fragilidad",
+    "relacion": "es un",
+    "valor": "predictor independiente de rehospitalización"
+  },
+  {
+    "entidad": "fragilidad",
+    "relacion": "es un",
+    "valor": "predictor independiente de visitas a la sala de emergencias"
+  },
+  {
+    "entidad": "fragilidad",
+    "relacion": "es un",
+    "valor": "predictor independiente de muerte"
+  },
+  {
+    "entidad": "pacientes con insuficiencia cardiaca descompensada",
+    "relacion": "tienen",
+    "valor": "alta prevalencia de fragilidad"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "es un",
+    "valor": "predictor de fragilidad"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "se mide con",
+    "valor": "Minnesota Living with Heart Failure Questionnaire"
+  },
+  {
+    "entidad": "hospitalizaciones previas",
+    "relacion": "son un",
+    "valor": "factor asociado a fragilidad"
+  },
+  {
+    "entidad": "polifarmacia",
+    "relacion": "es un",
+    "valor": "factor asociado a fragilidad"
+  },
+  {
+    "entidad": "grupo iCaro",
+    "relacion": "es representado por",
+    "valor": "Felipe Díaz-Toro y otros"
+  },
+  {
+    "entidad": "Universidad Andrés Bello",
+    "relacion": "es una",
+    "valor": "institución participante"
+  },
+  {
+    "entidad": "Universidad de Chile",
+    "relacion": "es una",
+    "valor": "institución participante"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "es una",
+    "valor": "institución participante"
+  },
+  {
+    "entidad": "Hospital del Salvador",
+    "relacion": "es un",
+    "valor": "hospital participante"
+  },
+  {
+    "entidad": "Clínica Dávila",
+    "relacion": "es una",
+    "valor": "institución participante"
+  },
+  {
+    "entidad": "Hospital DIPRECA",
+    "relacion": "es un",
+    "valor": "hospital participante"
+  },
+  {
+    "entidad": "Hospital Clínico Universidad de Chile",
+    "relacion": "es un",
+    "valor": "hospital participante"
+  },
+  {
+    "entidad": "carolina nazzal nazal",
+    "relacion": "es",
+    "valor": "autora del estudio"
+  },
+  {
+    "entidad": "grant Novartis",
+    "relacion": "es un",
+    "valor": "apoyo financiero"
+  },
+  {
+    "entidad": "criterios de Fried",
+    "relacion": "se utilizan para",
+    "valor": "definir fragilidad"
+  },
+  {
+    "entidad": "sarcopenia",
+    "relacion": "es un",
+    "valor": "elemento clave del síndrome de fragilidad"
+  },
+  {
+    "entidad": "deterioro cognitivo",
+    "relacion": "es un",
+    "valor": "elemento clave del síndrome de fragilidad"
+  },
+  {
+    "entidad": "enfermedades cardiovasculares",
+    "relacion": "son un",
+    "valor": "factor de riesgo para fragilidad"
+  },
+  {
+    "entidad": "estrés oxidativo",
+    "relacion": "contribuye a",
+    "valor": "desarrollo de insuficiencia cardiaca"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "contribuye a",
+    "valor": "desarrollo de insuficiencia cardiaca"
+  },
+  {
+    "entidad": "inflamación crónica",
+    "relacion": "es un",
+    "valor": "sustrato para el desarrollo de insuficiencia cardiaca"
+  },
+  {
+    "entidad": "Afasia",
+    "relacion": "es un",
+    "valor": "trastorno adquirido del lenguaje"
+  },
+  {
+    "entidad": "Ataque cerebrovascular isquémico",
+    "relacion": "causa",
+    "valor": "afasia"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "experimenta",
+    "valor": "cambios poblacionales"
+  },
+  {
+    "entidad": "Enfermedades no transmisibles",
+    "relacion": "son responsables de",
+    "valor": "morbi-mortalidad"
+  },
+  {
+    "entidad": "Esperanza de vida promedio",
+    "relacion": "alcanza",
+    "valor": "79 años"
+  },
+  {
+    "entidad": "Ataque cerebrovascular (ACV)",
+    "relacion": "es la primera causa de",
+    "valor": "muerte en Chile"
+  },
+  {
+    "entidad": "Estudio PISCIS",
+    "relacion": "realizado en",
+    "valor": "Iquique, Chile"
+  },
+  {
+    "entidad": "Afasia",
+    "relacion": "diagnosticada en",
+    "valor": "28 de 142 pacientes"
+  },
+  {
+    "entidad": "Incidencia de afasia",
+    "relacion": "es",
+    "valor": "20%"
+  },
+  {
+    "entidad": "Factores de riesgo",
+    "relacion": "incluyen",
+    "valor": "hipertensión arterial"
+  },
+  {
+    "entidad": "Hipertensión arterial",
+    "relacion": "es el principal factor de riesgo para",
+    "valor": "ataque cerebrovascular"
+  },
+  {
+    "entidad": "Etiología del ACV",
+    "relacion": "es indeterminada en",
+    "valor": "64% de los pacientes"
+  },
+  {
+    "entidad": "Infarto de circulación anterior",
+    "relacion": "es el tipo más común de",
+    "valor": "ACV"
+  },
+  {
+    "entidad": "Escala de Rankin modificada",
+    "relacion": "se utiliza para medir",
+    "valor": "desenlace funcional"
+  },
+  {
+    "entidad": "Desenlace funcional",
+    "relacion": "se evalúa a los",
+    "valor": "6 meses"
+  },
+  {
+    "entidad": "Pacientes afásicos",
+    "relacion": "presentan",
+    "valor": "mayor mortalidad"
+  },
+  {
+    "entidad": "Factores de riesgo cardiovascular",
+    "relacion": "incluyen",
+    "valor": "diabetes mellitus"
+  },
+  {
+    "entidad": "Afasia",
+    "relacion": "afecta",
+    "valor": "calidad de vida"
+  },
+  {
+    "entidad": "Ministerio de Salud (MINSAL)",
+    "relacion": "proporciona",
+    "valor": "datos sobre afasia"
+  },
+  {
+    "entidad": "Estudio PISCIS",
+    "relacion": "aportó información sobre",
+    "valor": "incidencia y pronóstico de ACV"
+  },
+  {
+    "entidad": "Mujeres chilenas en edad fértil",
+    "relacion": "tienen",
+    "valor": "estado nutricional"
+  },
+  {
+    "entidad": "estado nutricional",
+    "relacion": "asociado con",
+    "valor": "actividad física"
+  },
+  {
+    "entidad": "estado nutricional",
+    "relacion": "asociado con",
+    "valor": "hábitos alimentarios"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "afecta a",
+    "valor": "sobrepeso"
+  },
+  {
+    "entidad": "hábitos alimentarios",
+    "relacion": "afectan a",
+    "valor": "sobrepeso"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud 2009-2010",
+    "relacion": "utiliza",
+    "valor": "muestra de 1,195 mujeres"
+  },
+  {
+    "entidad": "mujeres con menor nivel educacional",
+    "relacion": "tienen",
+    "valor": "mayor riesgo de malnutrición por exceso"
+  },
+  {
+    "entidad": "mujeres en zona rural",
+    "relacion": "tienen",
+    "valor": "mayor riesgo de malnutrición por exceso"
+  },
+  {
+    "entidad": "consumo de cereales integrales",
+    "relacion": "disminuye",
+    "valor": "prevalencia de malnutrición por exceso"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "disminuye",
+    "valor": "prevalencia de malnutrición por exceso"
+  },
+  {
+    "entidad": "exposición a ambiente laboral",
+    "relacion": "aumenta",
+    "valor": "prevalencia de malnutrición por exceso"
+  },
+  {
+    "entidad": "mujeres con edad entre 31 y 44 años",
+    "relacion": "tienen",
+    "valor": "mayor prevalencia de malnutrición por exceso"
+  },
+  {
+    "entidad": "mujeres con bajo nivel educacional",
+    "relacion": "tienen",
+    "valor": "mayor prevalencia de malnutrición por exceso"
+  },
+  {
+    "entidad": "mujeres activas",
+    "relacion": "tienen",
+    "valor": "menor prevalencia de malnutrición por exceso"
+  },
+  {
+    "entidad": "sedentarismo en tiempo libre",
+    "relacion": "aumenta",
+    "valor": "prevalencia de malnutrición por exceso"
+  },
+  {
+    "entidad": "mujeres en edad fértil",
+    "relacion": "son",
+    "valor": "gestoras de hábitos de vida saludables"
+  },
+  {
+    "entidad": "Sistema de Alerta Médica (MAS)",
+    "relacion": "fue creado para",
+    "valor": "manejo de descompensaciones clínicas"
+  },
+  {
+    "entidad": "Servicio Médico Quirúrgico (MSS)",
+    "relacion": "se encuentra en",
+    "valor": "Clínica Dávila"
+  },
+  {
+    "entidad": "Clínica Dávila",
+    "relacion": "está ubicada en",
+    "valor": "Santiago de Chile"
+  },
+  {
+    "entidad": "enfermera",
+    "relacion": "activa",
+    "valor": "Sistema de Alerta Médica (MAS)"
+  },
+  {
+    "entidad": "médico",
+    "relacion": "evalúa",
+    "valor": "paciente tras activación de MAS"
+  },
+  {
+    "entidad": "puntaje predictivo",
+    "relacion": "se desarrolla para",
+    "valor": "identificar pacientes que activarán MAS"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "pueden activar",
+    "valor": "Sistema de Alerta Médica (MAS)"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "es un factor",
+    "valor": "en la activación de MAS"
+  },
+  {
+    "entidad": "diagnóstico",
+    "relacion": "se basa en",
+    "valor": "Clasificación Internacional de Enfermedades (CIE-10)"
+  },
+  {
+    "entidad": "Sistema de Emergencia Médica (SEM)",
+    "relacion": "fue desarrollado para",
+    "valor": "manejo protocolizado de descompensaciones clínicas"
+  },
+  {
+    "entidad": "pacientes quirúrgicos",
+    "relacion": "constituyen",
+    "valor": "68.7% de los pacientes"
+  },
+  {
+    "entidad": "pacientes médicos",
+    "relacion": "constituyen",
+    "valor": "31.3% de los pacientes"
+  },
+  {
+    "entidad": "puntaje pronóstico",
+    "relacion": "se obtiene multiplicando",
+    "valor": "Odds Ratio (OR) de factores pronósticos"
+  },
+  {
+    "entidad": "Sistema de Alerta Médica (MAS)",
+    "relacion": "se asocia a",
+    "valor": "mortalidad intrahospitalaria"
+  },
+  {
+    "entidad": "punto de corte ≥ 6",
+    "relacion": "proporciona",
+    "valor": "sensibilidad y especificidad para activar MAS"
+  },
+  {
+    "entidad": "puntaje predictivo",
+    "relacion": "puede identificar",
+    "valor": "pacientes con complicaciones"
+  },
+  {
+    "entidad": "Clínica Dávila",
+    "relacion": "puede aplicar",
+    "valor": "metodología para puntajes predictivos"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "presentan",
+    "valor": "descompensaciones clínicas anuales"
+  },
+  {
+    "entidad": "Sistema de Emergencia Médica (SEM)",
+    "relacion": "es activado por",
+    "valor": "enfermera clínica"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "se asocia a",
+    "valor": "activación de SEM"
+  },
+  {
+    "entidad": "puntaje pronóstico",
+    "relacion": "se construye a partir de",
+    "valor": "factores pronósticos identificados"
+  },
+  {
+    "entidad": "Inventario de Envejecimiento Exitoso (SAI)",
+    "relacion": "es",
+    "valor": "un instrumento para medir el envejecimiento exitoso"
+  },
+  {
+    "entidad": "personas mayores chilenas",
+    "relacion": "son evaluadas por",
+    "valor": "el Inventario de Envejecimiento Exitoso (SAI)"
+  },
+  {
+    "entidad": "Universidad de Tarapacá",
+    "relacion": "es",
+    "valor": "la institución que supervisa el estudio"
+  },
+  {
+    "entidad": "FONDECYT",
+    "relacion": "financia",
+    "valor": "el proyecto de investigación"
+  },
+  {
+    "entidad": "Comisión Nacional de Investigación Científica (CONICYT)",
+    "relacion": "financia",
+    "valor": "el proyecto de investigación"
+  },
+  {
+    "entidad": "envejecimiento exitoso",
+    "relacion": "es un concepto que",
+    "valor": "incorpora factores biológicos, psicológicos y sociales"
+  },
+  {
+    "entidad": "mecanismos de desempeño funcional",
+    "relacion": "es una dimensión de",
+    "valor": "el Inventario de Envejecimiento Exitoso (SAI)"
+  },
+  {
+    "entidad": "factores intrapsíquicos",
+    "relacion": "es una dimensión de",
+    "valor": "el Inventario de Envejecimiento Exitoso (SAI)"
+  },
+  {
+    "entidad": "gerotrascendencia",
+    "relacion": "es una dimensión de",
+    "valor": "el Inventario de Envejecimiento Exitoso (SAI)"
+  },
+  {
+    "entidad": "espiritualidad",
+    "relacion": "es una dimensión de",
+    "valor": "el Inventario de Envejecimiento Exitoso (SAI)"
+  },
+  {
+    "entidad": "propósito y satisfacción vital",
+    "relacion": "es una dimensión de",
+    "valor": "el Inventario de Envejecimiento Exitoso (SAI)"
+  },
+  {
+    "entidad": "muestra de 777 personas mayores",
+    "relacion": "es",
+    "valor": "la población estudiada"
+  },
+  {
+    "entidad": "Lorena Gallardo-Peralta",
+    "relacion": "es",
+    "valor": "la investigadora principal"
+  },
+  {
+    "entidad": "análisis factorial confirmatorio",
+    "relacion": "se utiliza para",
+    "valor": "evaluar el modelo del SAI"
+  },
+  {
+    "entidad": "alfa de Cronbach",
+    "relacion": "mide",
+    "valor": "la consistencia interna del SAI"
+  },
+  {
+    "entidad": "etnicidad",
+    "relacion": "es un factor considerado en",
+    "valor": "la validación del SAI"
+  },
+  {
+    "entidad": "pueblo Aymara",
+    "relacion": "es un grupo étnico que",
+    "valor": "participa en el estudio"
+  },
+  {
+    "entidad": "envejecimiento",
+    "relacion": "es un proceso que",
+    "valor": "puede ser exitoso o no"
+  },
+  {
+    "entidad": "instrumento de medición",
+    "relacion": "es necesario para",
+    "valor": "evaluar el envejecimiento exitoso en Chile"
+  }
+]

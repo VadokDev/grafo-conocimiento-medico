@@ -1,0 +1,197 @@
+[
+  {
+    "entidad": "síndrome de Stevens-Johnson (SSJ)",
+    "relacion": "es un",
+    "valor": "síndrome cutáneo grave"
+  },
+  {
+    "entidad": "necrolisis epidérmica tóxica (NET)",
+    "relacion": "es un",
+    "valor": "síndrome cutáneo grave"
+  },
+  {
+    "entidad": "SSJ/NET",
+    "relacion": "afecta a",
+    "valor": "individuos genéticamente susceptibles"
+  },
+  {
+    "entidad": "SSJ/NET",
+    "relacion": "es causado por",
+    "valor": "reacciones adversas a medicamentos"
+  },
+  {
+    "entidad": "apoptosis de queratinocitos",
+    "relacion": "resulta en",
+    "valor": "alta mortalidad"
+  },
+  {
+    "entidad": "fármacos",
+    "relacion": "provocan",
+    "valor": "respuestas inmunitarias inapropiadas"
+  },
+  {
+    "entidad": "linfocitos T",
+    "relacion": "son activados por",
+    "valor": "hipótesis hapteno/prohapteno"
+  },
+  {
+    "entidad": "linfocitos T",
+    "relacion": "son activados por",
+    "valor": "interacción p-i"
+  },
+  {
+    "entidad": "linfocitos T",
+    "relacion": "son activados por",
+    "valor": "modelo del péptido alterado"
+  },
+  {
+    "entidad": "FasL",
+    "relacion": "es un",
+    "valor": "mediador clave en la apoptosis"
+  },
+  {
+    "entidad": "perforinas",
+    "relacion": "son un",
+    "valor": "mediador clave en la apoptosis"
+  },
+  {
+    "entidad": "granzimas",
+    "relacion": "son un",
+    "valor": "mediador clave en la apoptosis"
+  },
+  {
+    "entidad": "granulisina",
+    "relacion": "es un",
+    "valor": "mediador clave en la apoptosis"
+  },
+  {
+    "entidad": "alelos HLA",
+    "relacion": "influyen en",
+    "valor": "susceptibilidad a SSJ/NET"
+  },
+  {
+    "entidad": "CYP450",
+    "relacion": "influye en",
+    "valor": "metabolismo de fármacos"
+  },
+  {
+    "entidad": "biopsia",
+    "relacion": "es crucial para",
+    "valor": "confirmación del diagnóstico"
+  },
+  {
+    "entidad": "algoritmos de causalidad",
+    "relacion": "ayudan a",
+    "valor": "identificar SSJ/TEN"
+  },
+  {
+    "entidad": "biomarcadores",
+    "relacion": "necesitan",
+    "valor": "más investigación"
+  },
+  {
+    "entidad": "SCORTEN",
+    "relacion": "es un",
+    "valor": "score de severidad para NET"
+  },
+  {
+    "entidad": "neutrófilo/linfocito ratio",
+    "relacion": "es predictor de",
+    "valor": "gravedad y mortalidad"
+  },
+  {
+    "entidad": "lamotrigina",
+    "relacion": "se asocia a",
+    "valor": "progresión rápida de SSJ/NET"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile (MINSAL)",
+    "relacion": "suministra",
+    "valor": "guías clínicas"
+  },
+  {
+    "entidad": "SSJ/NET",
+    "relacion": "presenta",
+    "valor": "compromiso mucoso en más del 90% de los pacientes"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "es alta en",
+    "valor": "SSJ y NET"
+  },
+  {
+    "entidad": "falla multiorgánica",
+    "relacion": "es la principal causa de",
+    "valor": "muerte en SSJ/NET"
+  },
+  {
+    "entidad": "Mycoplasma pneumoniae",
+    "relacion": "es un desencadenante de",
+    "valor": "SSJ/NET"
+  },
+  {
+    "entidad": "infecciones virales",
+    "relacion": "son desencadenantes de",
+    "valor": "SSJ/NET"
+  },
+  {
+    "entidad": "radioterapia",
+    "relacion": "es un desencadenante de",
+    "valor": "SSJ/NET"
+  },
+  {
+    "entidad": "insecticidas",
+    "relacion": "son desencadenantes de",
+    "valor": "SSJ/NET"
+  },
+  {
+    "entidad": "paracetamol",
+    "relacion": "se asocia a",
+    "valor": "SSJ/NET en niños"
+  },
+  {
+    "entidad": "fase de reepitelización",
+    "relacion": "dura entre",
+    "valor": "1 a 3 semanas"
+  },
+  {
+    "entidad": "complicaciones tardías",
+    "relacion": "se asocian a",
+    "valor": "morbilidad significativa"
+  },
+  {
+    "entidad": "cicatrización patológica",
+    "relacion": "es una secuela de",
+    "valor": "SSJ/NET"
+  },
+  {
+    "entidad": "alteraciones ungueales",
+    "relacion": "se asocian a",
+    "valor": "severidad de SSJ/NET"
+  },
+  {
+    "entidad": "síndrome sicca Sjögren-like",
+    "relacion": "se presenta en",
+    "valor": "40% de los sobrevivientes"
+  },
+  {
+    "entidad": "diagnóstico",
+    "relacion": "es clínico-histopatológico",
+    "valor": "en SSJ/NET"
+  },
+  {
+    "entidad": "marcadores",
+    "relacion": "no han mostrado utilidad en",
+    "valor": "etapa inicial de diagnóstico"
+  },
+  {
+    "entidad": "red neuronal profunda",
+    "relacion": "detecta",
+    "valor": "SSJ/NET a partir de imágenes"
+  },
+  {
+    "entidad": "inteligencia artificial",
+    "relacion": "tiene potencial en",
+    "valor": "diagnóstico de SSJ/NET"
+  }
+]

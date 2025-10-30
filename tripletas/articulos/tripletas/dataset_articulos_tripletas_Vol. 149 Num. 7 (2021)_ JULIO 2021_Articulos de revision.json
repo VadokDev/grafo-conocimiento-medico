@@ -1,0 +1,117 @@
+[
+  {
+    "entidad": "Jugos de fruta",
+    "relacion": "perpetradores de",
+    "valor": "interacciones farmacocinéticas"
+  },
+  {
+    "entidad": "Productos herbáceos",
+    "relacion": "perpetradores de",
+    "valor": "interacciones farmacocinéticas"
+  },
+  {
+    "entidad": "Enzimas metabolizadoras",
+    "relacion": "mediadas por",
+    "valor": "transportadores de membrana"
+  },
+  {
+    "entidad": "Intestino",
+    "relacion": "involucrado en",
+    "valor": "disposición de fármacos"
+  },
+  {
+    "entidad": "Hígado",
+    "relacion": "involucrado en",
+    "valor": "disposición de fármacos"
+  },
+  {
+    "entidad": "Riñón",
+    "relacion": "involucrado en",
+    "valor": "disposición de fármacos"
+  },
+  {
+    "entidad": "CYP3A4",
+    "relacion": "responsable de",
+    "valor": "metabolismo sistémico y pre sistémico de fármacos"
+  },
+  {
+    "entidad": "CYP450",
+    "relacion": "familia de",
+    "valor": "enzimas metabolizadoras"
+  },
+  {
+    "entidad": "Transportadores de membrana",
+    "relacion": "pertenecen a",
+    "valor": "familias ABC y SLC"
+  },
+  {
+    "entidad": "OATP",
+    "relacion": "subfamilia de",
+    "valor": "transportadores de membrana"
+  },
+  {
+    "entidad": "Jugo de pomelo",
+    "relacion": "interactúa con",
+    "valor": "CYP3A4"
+  },
+  {
+    "entidad": "Naringina",
+    "relacion": "inhibidor de",
+    "valor": "OATP1A2 y OATP2B1"
+  },
+  {
+    "entidad": "Fexofenadina",
+    "relacion": "sustrato de",
+    "valor": "OATP1A2 y OATP2B1"
+  },
+  {
+    "entidad": "Aliskiren",
+    "relacion": "sustrato de",
+    "valor": "OATP1A2 y OATP2B1"
+  },
+  {
+    "entidad": "Hierba de San Juan",
+    "relacion": "usada para tratar",
+    "valor": "insomnio y depresión"
+  },
+  {
+    "entidad": "Hiperforina",
+    "relacion": "ligando de",
+    "valor": "receptor X de pregnano (PXR)"
+  },
+  {
+    "entidad": "Ciclosporina",
+    "relacion": "sustrato de",
+    "valor": "CYP3A4 y P-GP"
+  },
+  {
+    "entidad": "Té verde",
+    "relacion": "disminuye",
+    "valor": "Cmax y ABC de nadolol"
+  },
+  {
+    "entidad": "Ginkgo biloba",
+    "relacion": "utilizado para",
+    "valor": "trastornos cerebrovasculares"
+  },
+  {
+    "entidad": "Talinolol",
+    "relacion": "sustrato de",
+    "valor": "P-GP"
+  },
+  {
+    "entidad": "CYP3A4",
+    "relacion": "efecto inductor sobre",
+    "valor": "midazolam"
+  },
+  {
+    "entidad": "CYP2C9",
+    "relacion": "efecto inductor sobre",
+    "valor": "omeprazol"
+  },
+  {
+    "entidad": "CYP2C19",
+    "relacion": "efecto inductor sobre",
+    "valor": "tolbutamida"
+  }
+]

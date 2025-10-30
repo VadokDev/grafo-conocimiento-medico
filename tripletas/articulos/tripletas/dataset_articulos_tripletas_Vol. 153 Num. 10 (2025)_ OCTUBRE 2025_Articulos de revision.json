@@ -1,0 +1,127 @@
+[
+  {
+    "entidad": "Mpox",
+    "relacion": "es",
+    "valor": "una zoonosis emergente"
+  },
+  {
+    "entidad": "Mpox virus (MPXV)",
+    "relacion": "causa",
+    "valor": "Mpox"
+  },
+  {
+    "entidad": "Mpox",
+    "relacion": "ha suscitado",
+    "valor": "preocupación global"
+  },
+  {
+    "entidad": "patogenia",
+    "relacion": "explora",
+    "valor": "virus Mpox"
+  },
+  {
+    "entidad": "clínica",
+    "relacion": "explora",
+    "valor": "virus Mpox"
+  },
+  {
+    "entidad": "terapéutica",
+    "relacion": "explora",
+    "valor": "virus Mpox"
+  },
+  {
+    "entidad": "estudio cualitativo",
+    "relacion": "realiza",
+    "valor": "revisión narrativa"
+  },
+  {
+    "entidad": "artículos",
+    "relacion": "incluye",
+    "valor": "23"
+  },
+  {
+    "entidad": "virus Mpox",
+    "relacion": "ingresa al hospedero mediante",
+    "valor": "exposición a secreciones respiratorias"
+  },
+  {
+    "entidad": "virus Mpox",
+    "relacion": "ingresa al hospedero mediante",
+    "valor": "contacto directo con fluidos corporales"
+  },
+  {
+    "entidad": "virus Mpox",
+    "relacion": "produce",
+    "valor": "infección aguda"
+  },
+  {
+    "entidad": "virus Mpox",
+    "relacion": "infecta",
+    "valor": "células epiteliales del tracto respiratorio"
+  },
+  {
+    "entidad": "virus Mpox",
+    "relacion": "infecta",
+    "valor": "queratinocitos y fibroblastos de la piel"
+  },
+  {
+    "entidad": "virus Mpox",
+    "relacion": "afecta",
+    "valor": "sistema inmune"
+  },
+  {
+    "entidad": "ciclo replicativo",
+    "relacion": "ocurre en",
+    "valor": "el citoplasma"
+  },
+  {
+    "entidad": "clado 1",
+    "relacion": "responsable de",
+    "valor": "numerosos brotes en África central"
+  },
+  {
+    "entidad": "clado 2",
+    "relacion": "es",
+    "valor": "menos virulento"
+  },
+  {
+    "entidad": "brote de 2022",
+    "relacion": "se propagó a través de",
+    "valor": "contacto cercano o contacto sexual"
+  },
+  {
+    "entidad": "pacientes diagnosticados",
+    "relacion": "suelen estar",
+    "valor": "coinfectados con otras ITS"
+  },
+  {
+    "entidad": "vacuna contra la viruela",
+    "relacion": "genera",
+    "valor": "inmunidad cruzada contra MPXV"
+  },
+  {
+    "entidad": "MVA-BN (Jynneos)",
+    "relacion": "es",
+    "valor": "vacuna de tercera generación"
+  },
+  {
+    "entidad": "tecovirimat",
+    "relacion": "es",
+    "valor": "inhibidor de la síntesis de la proteína VP37"
+  },
+  {
+    "entidad": "MPXV",
+    "relacion": "no tiene",
+    "valor": "receptor específico"
+  },
+  {
+    "entidad": "estrategias de tratamiento",
+    "relacion": "incluyen",
+    "valor": "terapia de soporte y manejo de complicaciones"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "publica",
+    "valor": "protocolo de vigilancia de viruela del mono"
+  }
+]

@@ -1,0 +1,207 @@
+[
+  {
+    "entidad": "Agregados amiloides",
+    "relacion": "rol en",
+    "valor": "desórdenes de conformación proteica"
+  },
+  {
+    "entidad": "Desórdenes de conformación proteica (DCP)",
+    "relacion": "incluye",
+    "valor": "enfermedad de Alzheimer"
+  },
+  {
+    "entidad": "Desórdenes de conformación proteica (DCP)",
+    "relacion": "incluye",
+    "valor": "enfermedad de Parkinson"
+  },
+  {
+    "entidad": "Desórdenes de conformación proteica (DCP)",
+    "relacion": "incluye",
+    "valor": "enfermedad de Huntington"
+  },
+  {
+    "entidad": "Desórdenes de conformación proteica (DCP)",
+    "relacion": "incluye",
+    "valor": "diabetes tipo-2"
+  },
+  {
+    "entidad": "Desórdenes de conformación proteica (DCP)",
+    "relacion": "incluye",
+    "valor": "encefalopatías espongiformes transmisibles"
+  },
+  {
+    "entidad": "Agregados proteicos",
+    "relacion": "causa",
+    "valor": "daños tisulares"
+  },
+  {
+    "entidad": "Péptido β-amiloide",
+    "relacion": "involucrado en",
+    "valor": "enfermedad de Alzheimer"
+  },
+  {
+    "entidad": "Proteína tau",
+    "relacion": "involucrada en",
+    "valor": "enfermedad de Alzheimer"
+  },
+  {
+    "entidad": "Proteína del prion (PrPSc)",
+    "relacion": "involucrada en",
+    "valor": "encefalopatías espongiformes transmisibles"
+  },
+  {
+    "entidad": "α-sinucleína",
+    "relacion": "involucrada en",
+    "valor": "enfermedad de Parkinson"
+  },
+  {
+    "entidad": "Huntingtina",
+    "relacion": "involucrada en",
+    "valor": "enfermedad de Huntington"
+  },
+  {
+    "entidad": "Agregados proteicos",
+    "relacion": "ejercen",
+    "valor": "toxicidad"
+  },
+  {
+    "entidad": "Microglía",
+    "relacion": "participa en",
+    "valor": "respuesta neuroinflamatoria"
+  },
+  {
+    "entidad": "Astrocitos",
+    "relacion": "intervienen en",
+    "valor": "respuesta inflamatoria"
+  },
+  {
+    "entidad": "Agregados proteicos de βA",
+    "relacion": "causan",
+    "valor": "proceso inflamatorio"
+  },
+  {
+    "entidad": "PrPSc",
+    "relacion": "causa",
+    "valor": "proceso inflamatorio"
+  },
+  {
+    "entidad": "Citoquinas pro-inflamatorias",
+    "relacion": "producidas por",
+    "valor": "microglía activada"
+  },
+  {
+    "entidad": "Enfermedad de Alzheimer",
+    "relacion": "asociada a",
+    "valor": "acumulación de βA"
+  },
+  {
+    "entidad": "Enfermedades neurodegenerativas",
+    "relacion": "caracterizadas por",
+    "valor": "neuroinflamación"
+  },
+  {
+    "entidad": "Inmunización activa o pasiva",
+    "relacion": "estrategia terapéutica para",
+    "valor": "enfermedades neurodegenerativas"
+  },
+  {
+    "entidad": "Inhibidores de secretasas",
+    "relacion": "estrategia terapéutica para",
+    "valor": "enfermedades neurodegenerativas"
+  },
+  {
+    "entidad": "Compuestos anti-agregación",
+    "relacion": "estrategia terapéutica para",
+    "valor": "enfermedades neurodegenerativas"
+  },
+  {
+    "entidad": "Tromboembolismo Pulmonar Masivo",
+    "relacion": "asociado con",
+    "valor": "alta mortalidad"
+  },
+  {
+    "entidad": "Clasificaciones de gravedad",
+    "relacion": "afectan",
+    "valor": "elección de terapias"
+  },
+  {
+    "entidad": "Hipotensión arterial sistémica",
+    "relacion": "define",
+    "valor": "TEP masivo"
+  },
+  {
+    "entidad": "Disfunción ventricular derecha",
+    "relacion": "elemento importante para",
+    "valor": "definir gravedad y pronóstico"
+  },
+  {
+    "entidad": "Trombolisis sistémica",
+    "relacion": "recomendado como",
+    "valor": "tratamiento para TEP masivo"
+  },
+  {
+    "entidad": "Terapias radiológicas invasivas",
+    "relacion": "son",
+    "valor": "alternativas útiles en ciertos casos"
+  },
+  {
+    "entidad": "Sociedad Europea de Cardiología",
+    "relacion": "sugiere",
+    "valor": "nuevas definiciones para TEP"
+  },
+  {
+    "entidad": "TEP de alto riesgo",
+    "relacion": "incluye",
+    "valor": "casos más graves"
+  },
+  {
+    "entidad": "Trombolisis",
+    "relacion": "debe ser considerada",
+    "valor": "en pacientes con TEP masivo"
+  },
+  {
+    "entidad": "Terapias por catéter",
+    "relacion": "son comparables a",
+    "valor": "trombolisis farmacológica"
+  },
+  {
+    "entidad": "Embolectomía quirúrgica",
+    "relacion": "es una estrategia de",
+    "valor": "rescate efectiva"
+  },
+  {
+    "entidad": "Filtros de vena cava inferior",
+    "relacion": "pueden ser utilizados cuando",
+    "valor": "hay contraindicación para anticoagulación"
+  },
+  {
+    "entidad": "Trombolíticos",
+    "relacion": "favorecen",
+    "valor": "la lisis de moléculas de fibrina"
+  },
+  {
+    "entidad": "Complicaciones de trombolisis",
+    "relacion": "incluyen",
+    "valor": "sangrados o hemorragias"
+  },
+  {
+    "entidad": "Fragmentación mecánica",
+    "relacion": "es una técnica de",
+    "valor": "terapia por catéter"
+  },
+  {
+    "entidad": "Terapias híbridas",
+    "relacion": "combinan",
+    "valor": "fragmentación mecánica y trombolisis local"
+  },
+  {
+    "entidad": "Trombolisis local",
+    "relacion": "permite",
+    "valor": "reducir efectos adversos"
+  },
+  {
+    "entidad": "Terapias realizadas por catéter",
+    "relacion": "pueden ser",
+    "valor": "primera opción terapéutica en TEP masivo"
+  }
+]

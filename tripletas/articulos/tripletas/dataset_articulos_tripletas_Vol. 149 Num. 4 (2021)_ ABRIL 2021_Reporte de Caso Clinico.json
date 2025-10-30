@@ -1,0 +1,352 @@
+[
+  {
+    "entidad": "angioma de células litorales",
+    "relacion": "es un",
+    "valor": "tipo de neoplasia vascular"
+  },
+  {
+    "entidad": "bazo",
+    "relacion": "es el",
+    "valor": "órgano afectado por angioma de células litorales"
+  },
+  {
+    "entidad": "esplenectomía",
+    "relacion": "permite",
+    "valor": "diagnóstico definitivo mediante examen histopatológico"
+  },
+  {
+    "entidad": "paciente masculino de 52 años",
+    "relacion": "presenta",
+    "valor": "astenia y distensión abdominal"
+  },
+  {
+    "entidad": "tomografía computarizada",
+    "relacion": "muestra",
+    "valor": "múltiples masas hipodensas en el bazo"
+  },
+  {
+    "entidad": "histopatología",
+    "relacion": "diagnostica",
+    "valor": "angioma de células litorales"
+  },
+  {
+    "entidad": "adenocarcinoma de próstata",
+    "relacion": "es diagnosticado durante",
+    "valor": "seguimiento urológico"
+  },
+  {
+    "entidad": "lesiones focales esplénicas",
+    "relacion": "incluyen",
+    "valor": "abscesos y linfomas como diagnósticos diferenciales"
+  },
+  {
+    "entidad": "angioma de células litorales",
+    "relacion": "es frecuentemente",
+    "valor": "un hallazgo incidental"
+  },
+  {
+    "entidad": "análisis inmunohistoquímico",
+    "relacion": "es positivo para",
+    "valor": "CD31 y CD68 en células neoplásicas"
+  },
+  {
+    "entidad": "enfermedades autoinmunes",
+    "relacion": "se asocian con",
+    "valor": "angioma de células litorales"
+  },
+  {
+    "entidad": "angioma de células litorales",
+    "relacion": "difiere de",
+    "valor": "otras neoplasias vasculares esplénicas"
+  },
+  {
+    "entidad": "marcadores endoteliales e histocitarios",
+    "relacion": "pueden confundir",
+    "valor": "diagnóstico de angioma de células litorales"
+  },
+  {
+    "entidad": "búsqueda activa de neoplasias concomitantes",
+    "relacion": "debe realizarse tras",
+    "valor": "diagnóstico de angioma de células litorales"
+  },
+  {
+    "entidad": "Escrofuloderma",
+    "relacion": "es un",
+    "valor": "tipo de tuberculosis cutánea"
+  },
+  {
+    "entidad": "tuberculosis",
+    "relacion": "causa",
+    "valor": "escrofuloderma"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "asocia",
+    "valor": "coinfección con tuberculosis"
+  },
+  {
+    "entidad": "SARS-CoV-2",
+    "relacion": "causa",
+    "valor": "COVID-19"
+  },
+  {
+    "entidad": "Mycobacterium tuberculosis",
+    "relacion": "causa",
+    "valor": "tuberculosis"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "coinfección con COVID-19"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "es",
+    "valor": "mujer de 49 años"
+  },
+  {
+    "entidad": "tuberculosis cutánea",
+    "relacion": "representa",
+    "valor": "1-1.5% de la tuberculosis extrapulmonar"
+  },
+  {
+    "entidad": "tuberculosis",
+    "relacion": "es",
+    "valor": "una de las principales causas de muerte a nivel mundial"
+  },
+  {
+    "entidad": "tele-dermatología",
+    "relacion": "utiliza",
+    "valor": "para atención médica"
+  },
+  {
+    "entidad": "tratamiento para tuberculosis",
+    "relacion": "es",
+    "valor": "esquema primario de 4 drogas"
+  },
+  {
+    "entidad": "escrofuloderma",
+    "relacion": "puede causar",
+    "valor": "ulceración y descarga de material"
+  },
+  {
+    "entidad": "diagnóstico diferencial",
+    "relacion": "incluye",
+    "valor": "micobacteriosis atípicas y actinomicosis"
+  },
+  {
+    "entidad": "linfopenia",
+    "relacion": "se asocia con",
+    "valor": "peor pronóstico en coinfección"
+  },
+  {
+    "entidad": "neutrófilos",
+    "relacion": "aumentan en",
+    "valor": "coinfección por COVID-19"
+  },
+  {
+    "entidad": "técnicas moleculares",
+    "relacion": "muestran",
+    "valor": "alta sensibilidad y especificidad para tuberculosis"
+  },
+  {
+    "entidad": "cultivo",
+    "relacion": "es",
+    "valor": "el Gold Standard para diagnóstico de tuberculosis"
+  },
+  {
+    "entidad": "inmunología y microbiología",
+    "relacion": "concluyen",
+    "valor": "asociación entre TB y COVID-19"
+  },
+  {
+    "entidad": "pacientes con TB",
+    "relacion": "tienen",
+    "valor": "mayor riesgo de complicaciones por COVID-19"
+  },
+  {
+    "entidad": "carcinoma hepatocelular",
+    "relacion": "es",
+    "valor": "una neoplasia"
+  },
+  {
+    "entidad": "carcinoma hepatocelular",
+    "relacion": "es la",
+    "valor": "quinta neoplasia más frecuente"
+  },
+  {
+    "entidad": "carcinoma hepatocelular",
+    "relacion": "es la",
+    "valor": "segunda causa de muerte por cáncer en el mundo"
+  },
+  {
+    "entidad": "daño hepático crónico",
+    "relacion": "subyace en",
+    "valor": "90% de los pacientes con carcinoma hepatocelular"
+  },
+  {
+    "entidad": "tomografía computada",
+    "relacion": "es",
+    "valor": "una modalidad de diagnóstico"
+  },
+  {
+    "entidad": "resonancia magnética",
+    "relacion": "es",
+    "valor": "una modalidad de diagnóstico"
+  },
+  {
+    "entidad": "hemoperitoneo",
+    "relacion": "es",
+    "valor": "una complicación del carcinoma hepatocelular"
+  },
+  {
+    "entidad": "hematocele",
+    "relacion": "es",
+    "valor": "una manifestación del carcinoma hepatocelular"
+  },
+  {
+    "entidad": "70 años",
+    "relacion": "es la edad de",
+    "valor": "un paciente masculino"
+  },
+  {
+    "entidad": "embolización de la arteria hepática derecha",
+    "relacion": "es un",
+    "valor": "tratamiento del carcinoma hepatocelular"
+  },
+  {
+    "entidad": "resección quirúrgica",
+    "relacion": "es un",
+    "valor": "tratamiento del carcinoma hepatocelular"
+  },
+  {
+    "entidad": "alfafetoproteína",
+    "relacion": "es",
+    "valor": "un marcador en el seguimiento de carcinoma hepatocelular"
+  },
+  {
+    "entidad": "carcinoma hepatocelular",
+    "relacion": "puede causar",
+    "valor": "hemorragia"
+  },
+  {
+    "entidad": "hemorragia",
+    "relacion": "puede manifestarse como",
+    "valor": "dolor abdominal"
+  },
+  {
+    "entidad": "hemorragia",
+    "relacion": "puede manifestarse como",
+    "valor": "distensión abdominal"
+  },
+  {
+    "entidad": "hemorragia",
+    "relacion": "puede causar",
+    "valor": "hipotensión y shock"
+  },
+  {
+    "entidad": "carcinoma hepatocelular",
+    "relacion": "puede ser",
+    "valor": "una urgencia vital"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "fue tratado con",
+    "valor": "embolia y resección"
+  },
+  {
+    "entidad": "seguimiento a 3 años",
+    "relacion": "no mostró",
+    "valor": "recidiva tumoral"
+  },
+  {
+    "entidad": "carcinoma hepatocelular",
+    "relacion": "puede presentar",
+    "valor": "síntomas inespecíficos"
+  },
+  {
+    "entidad": "SARS-CoV-2",
+    "relacion": "causa",
+    "valor": "insuficiencia renal aguda"
+  },
+  {
+    "entidad": "insuficiencia renal aguda",
+    "relacion": "es una manifestación de",
+    "valor": "infección por SARS-CoV-2"
+  },
+  {
+    "entidad": "rabdomiolisis",
+    "relacion": "es producida por",
+    "valor": "necrosis muscular"
+  },
+  {
+    "entidad": "rabdomiolisis",
+    "relacion": "puede causar",
+    "valor": "insuficiencia renal aguda"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "rabdomiolisis secundaria a SARS-CoV-2"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "requiere",
+    "valor": "terapia de reemplazo renal"
+  },
+  {
+    "entidad": "terapia de reemplazo renal",
+    "relacion": "normaliza",
+    "valor": "alteraciones del medio interno"
+  },
+  {
+    "entidad": "SARS-CoV-2",
+    "relacion": "afecta a",
+    "valor": "diferentes órganos"
+  },
+  {
+    "entidad": "músculo",
+    "relacion": "expresa",
+    "valor": "enzima convertidora de angiotensina tipo II (ECA2)"
+  },
+  {
+    "entidad": "acidosis",
+    "relacion": "es causada por",
+    "valor": "rabdomiolisis"
+  },
+  {
+    "entidad": "acidosis",
+    "relacion": "puede provocar",
+    "valor": "falla renal"
+  },
+  {
+    "entidad": "falla renal",
+    "relacion": "es asociada a",
+    "valor": "injuria tubular aguda"
+  },
+  {
+    "entidad": "injuria tubular aguda",
+    "relacion": "es causada por",
+    "valor": "rabdomiolisis"
+  },
+  {
+    "entidad": "SARS-CoV-2",
+    "relacion": "induce",
+    "valor": "daño tubular directo"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "recupera",
+    "valor": "función renal"
+  },
+  {
+    "entidad": "función renal",
+    "relacion": "se estabiliza con",
+    "valor": "rehabilitación"
+  },
+  {
+    "entidad": "rehabilitación",
+    "relacion": "permite",
+    "valor": "deambular sin ayuda"
+  }
+]

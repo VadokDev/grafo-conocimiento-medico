@@ -1,0 +1,777 @@
+[
+  {
+    "entidad": "polimorfismo rs9939609",
+    "relacion": "pertenece a",
+    "valor": "gen FTO"
+  },
+  {
+    "entidad": "gen FTO",
+    "relacion": "asocia con",
+    "valor": "ingesta energética"
+  },
+  {
+    "entidad": "gen FTO",
+    "relacion": "asocia con",
+    "valor": "consumo de macronutrientes"
+  },
+  {
+    "entidad": "gen FTO",
+    "relacion": "asocia con",
+    "valor": "consumo de alcohol"
+  },
+  {
+    "entidad": "población chilena",
+    "relacion": "es objeto de estudio en",
+    "valor": "investigación sobre obesidad"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "es influenciada por",
+    "valor": "estilos de vida"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "tiene un componente",
+    "valor": "genético"
+  },
+  {
+    "entidad": "FTO",
+    "relacion": "se expresa en",
+    "valor": "núcleo arcuato del hipotálamo"
+  },
+  {
+    "entidad": "FTO",
+    "relacion": "incrementa",
+    "valor": "consumo de alimentos"
+  },
+  {
+    "entidad": "población chilena",
+    "relacion": "presenta",
+    "valor": "alta prevalencia de obesidad"
+  },
+  {
+    "entidad": "estudio GENADIO",
+    "relacion": "incluye",
+    "valor": "participantes chilenos"
+  },
+  {
+    "entidad": "consumo energético",
+    "relacion": "es un factor importante para",
+    "valor": "adiposidad"
+  },
+  {
+    "entidad": "FTO",
+    "relacion": "asocia con",
+    "valor": "mayor ingesta proteica"
+  },
+  {
+    "entidad": "FTO",
+    "relacion": "asocia con",
+    "valor": "mayor preferencia por grasas"
+  },
+  {
+    "entidad": "FTO",
+    "relacion": "asocia con",
+    "valor": "bajo poder de saciedad"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "realiza análisis de",
+    "valor": "regresión lineal"
+  },
+  {
+    "entidad": "población chilena",
+    "relacion": "es objeto de",
+    "valor": "investigación sobre genética y alimentación"
+  },
+  {
+    "entidad": "nódulos pulmonares",
+    "relacion": "son",
+    "valor": "opacidades radiológicas"
+  },
+  {
+    "entidad": "cirugía",
+    "relacion": "es",
+    "valor": "la única alternativa para diagnóstico y tratamiento"
+  },
+  {
+    "entidad": "programa multidisciplinario",
+    "relacion": "maneja",
+    "valor": "nódulos pulmonares"
+  },
+  {
+    "entidad": "nódulos pulmonares",
+    "relacion": "tienen",
+    "valor": "más de 80 posibilidades etiológicas"
+  },
+  {
+    "entidad": "tomografía computada",
+    "relacion": "se utiliza para",
+    "valor": "screening de cáncer pulmonar"
+  },
+  {
+    "entidad": "PET/CT",
+    "relacion": "se utiliza para",
+    "valor": "estudiar metabolismo de nódulos pulmonares"
+  },
+  {
+    "entidad": "biopsia transtorácica percutánea",
+    "relacion": "es",
+    "valor": "una técnica para obtener muestras"
+  },
+  {
+    "entidad": "biopsia transbronquial",
+    "relacion": "es",
+    "valor": "una técnica para obtener muestras"
+  },
+  {
+    "entidad": "cirugía",
+    "relacion": "permite",
+    "valor": "diagnóstico y tratamiento en un mismo procedimiento"
+  },
+  {
+    "entidad": "nódulos pulmonares",
+    "relacion": "se caracterizan por",
+    "valor": "características epidemiológicas, anatómicas, quirúrgicas e histológicas"
+  },
+  {
+    "entidad": "Clínica Las Condes",
+    "relacion": "es",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "Javier Vega Salas",
+    "relacion": "es",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "nódulos pulmonares malignos",
+    "relacion": "se encuentran en",
+    "valor": "87% de las biopsias"
+  },
+  {
+    "entidad": "adenocarcinoma pulmonar",
+    "relacion": "es",
+    "valor": "el tipo histológico más frecuente"
+  },
+  {
+    "entidad": "nódulos pulmonares",
+    "relacion": "se localizan en",
+    "valor": "los lóbulos superiores en un 55%"
+  },
+  {
+    "entidad": "cirugía videotoracoscópica asistida",
+    "relacion": "se utiliza en",
+    "valor": "el 100% de los pacientes"
+  },
+  {
+    "entidad": "nódulos pulmonares",
+    "relacion": "pueden ser",
+    "valor": "benignos o malignos"
+  },
+  {
+    "entidad": "nódulos pulmonares",
+    "relacion": "se caracterizan por",
+    "valor": "bordes irregulares en el 45%"
+  },
+  {
+    "entidad": "nódulos pulmonares",
+    "relacion": "se caracterizan por",
+    "valor": "tamaño promedio de 16 mm"
+  },
+  {
+    "entidad": "nódulos pulmonares",
+    "relacion": "se encuentran en",
+    "valor": "60% de pacientes con antecedentes de tabaquismo"
+  },
+  {
+    "entidad": "nódulos pulmonares",
+    "relacion": "se encuentran en",
+    "valor": "49% de pacientes con antecedentes de neoplasia"
+  },
+  {
+    "entidad": "nódulos pulmonares",
+    "relacion": "son evaluados por",
+    "valor": "un comité multidisciplinario"
+  },
+  {
+    "entidad": "nódulos pulmonares",
+    "relacion": "requieren",
+    "valor": "un manejo adecuado para disminuir cirugías innecesarias"
+  },
+  {
+    "entidad": "diabetes mellitus",
+    "relacion": "afecta a",
+    "valor": "personas en Chile"
+  },
+  {
+    "entidad": "hipertensión arterial",
+    "relacion": "afecta a",
+    "valor": "personas en Chile"
+  },
+  {
+    "entidad": "conflicto decisional",
+    "relacion": "se refiere a",
+    "valor": "incertidumbre personal sobre decisiones"
+  },
+  {
+    "entidad": "escala de conflicto decisional",
+    "relacion": "se utiliza para",
+    "valor": "medir el conflicto decisional"
+  },
+  {
+    "entidad": "centros de atención primaria",
+    "relacion": "atienden a",
+    "valor": "personas con diabetes mellitus o hipertensión arterial"
+  },
+  {
+    "entidad": "percepción de salud",
+    "relacion": "se asocia con",
+    "valor": "niveles de conflicto decisional"
+  },
+  {
+    "entidad": "nivel educativo",
+    "relacion": "se asocia con",
+    "valor": "niveles de conflicto decisional"
+  },
+  {
+    "entidad": "médicos",
+    "relacion": "atienden a",
+    "valor": "personas con diabetes mellitus o hipertensión arterial"
+  },
+  {
+    "entidad": "decisión de iniciar tratamiento",
+    "relacion": "se asocia con",
+    "valor": "mayores niveles de conflicto decisional"
+  },
+  {
+    "entidad": "Fondo Nacional de Desarrollo Científico y Tecnológico (FONDECYT)",
+    "relacion": "suministra",
+    "valor": "apoyo financiero"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "es un",
+    "valor": "institución de investigación"
+  },
+  {
+    "entidad": "análisis de covarianza",
+    "relacion": "se utiliza para",
+    "valor": "determinar asociación entre variables"
+  },
+  {
+    "entidad": "escala de conflicto decisional",
+    "relacion": "fue validada en",
+    "valor": "población chilena"
+  },
+  {
+    "entidad": "conflicto decisional",
+    "relacion": "se asocia con",
+    "valor": "arrepentimiento de decisiones"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud (OMS)",
+    "relacion": "considera",
+    "valor": "la participación como esencial en salud pública"
+  },
+  {
+    "entidad": "decisiones clínicas",
+    "relacion": "deben considerar",
+    "valor": "valores y preferencias del usuario"
+  },
+  {
+    "entidad": "hipertensión",
+    "relacion": "es un",
+    "valor": "desafío para el sistema de salud en Chile"
+  },
+  {
+    "entidad": "Diabetes Tipo II",
+    "relacion": "es un",
+    "valor": "desafío para el sistema de salud en Chile"
+  },
+  {
+    "entidad": "modelo de manejo de casos",
+    "relacion": "evalúa",
+    "valor": "efectividad en atención primaria"
+  },
+  {
+    "entidad": "técnicos de salud",
+    "relacion": "encabezan",
+    "valor": "el modelo de manejo de casos"
+  },
+  {
+    "entidad": "enfermeras registradas",
+    "relacion": "supervisan",
+    "valor": "el modelo de manejo de casos"
+  },
+  {
+    "entidad": "centros de atención primaria",
+    "relacion": "utilizan",
+    "valor": "modelo de manejo de casos"
+  },
+  {
+    "entidad": "pacientes con hipertensión o diabetes tipo II",
+    "relacion": "participan en",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "intervención de gestión de casos",
+    "relacion": "muestra",
+    "valor": "resultados prometedores en hipertensión"
+  },
+  {
+    "entidad": "carga de AVISA",
+    "relacion": "es atribuible a",
+    "valor": "presión arterial elevada"
+  },
+  {
+    "entidad": "carga de AVISA",
+    "relacion": "es atribuible a",
+    "valor": "glicemia elevada"
+  },
+  {
+    "entidad": "gestión del cuidado",
+    "relacion": "mejora",
+    "valor": "controles glicémicos en pacientes diabéticos"
+  },
+  {
+    "entidad": "gestión del cuidado",
+    "relacion": "disminuye",
+    "valor": "mortalidad por neumonía en niños"
+  },
+  {
+    "entidad": "gestión del cuidado",
+    "relacion": "mejora",
+    "valor": "calidad de vida en pacientes con Alzheimer"
+  },
+  {
+    "entidad": "gestión del cuidado",
+    "relacion": "mejora",
+    "valor": "acceso a atención psiquiátrica"
+  },
+  {
+    "entidad": "gestión del cuidado",
+    "relacion": "disminuye",
+    "valor": "mortalidad en pacientes con insuficiencia cardiaca"
+  },
+  {
+    "entidad": "gestión del cuidado",
+    "relacion": "disminuye",
+    "valor": "mortalidad en pacientes VIH positivos"
+  },
+  {
+    "entidad": "Programa de Salud Cardiovascular",
+    "relacion": "funciona en",
+    "valor": "Chile"
+  },
+  {
+    "entidad": "atención primaria de salud",
+    "relacion": "es el contexto de",
+    "valor": "la intervención"
+  },
+  {
+    "entidad": "pacientes hipertensos y diabéticos",
+    "relacion": "son atendidos por",
+    "valor": "enfermeras y técnicos paramédicos"
+  },
+  {
+    "entidad": "intervención",
+    "relacion": "se basa en",
+    "valor": "gestión del cuidado"
+  },
+  {
+    "entidad": "Ministerio de Salud",
+    "relacion": "colabora con",
+    "valor": "los centros de atención primaria"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "recibe apoyo de",
+    "valor": "CONICYT del Gobierno de Chile"
+  },
+  {
+    "entidad": "gestión del cuidado",
+    "relacion": "mejora",
+    "valor": "satisfacción usuaria"
+  },
+  {
+    "entidad": "gestión del cuidado",
+    "relacion": "disminuye",
+    "valor": "complicaciones derivadas de la diabetes"
+  },
+  {
+    "entidad": "gestión del cuidado",
+    "relacion": "aumenta",
+    "valor": "número de pacientes con tamizaje de retinopatía diabética"
+  },
+  {
+    "entidad": "estrés psicológico",
+    "relacion": "asocia con",
+    "valor": "síndrome metabólico"
+  },
+  {
+    "entidad": "síndrome metabólico",
+    "relacion": "es un",
+    "valor": "conjunto de factores de riesgo cardiometabólico"
+  },
+  {
+    "entidad": "estrés psicológico crónico",
+    "relacion": "predice",
+    "valor": "puntaje total de componentes del síndrome metabólico"
+  },
+  {
+    "entidad": "síntomas depresivos",
+    "relacion": "asocia con",
+    "valor": "síndrome metabólico"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen mayor riesgo de",
+    "valor": "desarrollar síndrome metabólico tras episodio depresivo"
+  },
+  {
+    "entidad": "estrés psicológico",
+    "relacion": "impacta en",
+    "valor": "salud física"
+  },
+  {
+    "entidad": "Universidad de La Frontera",
+    "relacion": "realiza",
+    "valor": "investigación sobre estrés y salud"
+  },
+  {
+    "entidad": "CONICYT",
+    "relacion": "financia",
+    "valor": "investigación científica en Chile"
+  },
+  {
+    "entidad": "Dr. Manuel S. Ortiz",
+    "relacion": "es el",
+    "valor": "investigador principal del estudio"
+  },
+  {
+    "entidad": "perímetro de cintura",
+    "relacion": "aumenta con",
+    "valor": "estrés crónico"
+  },
+  {
+    "entidad": "estrés crónico",
+    "relacion": "asocia con",
+    "valor": "trayectorias positivas de perímetro de cintura"
+  },
+  {
+    "entidad": "muestra de adultos chilenos",
+    "relacion": "es objeto de",
+    "valor": "estudio sobre estrés y síndrome metabólico"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "reporta",
+    "valor": "prevalencia de síndrome metabólico en la población chilena"
+  },
+  {
+    "entidad": "escala de Bromberger y Matthews",
+    "relacion": "mide",
+    "valor": "estrés psicológico"
+  },
+  {
+    "entidad": "escala CES-D",
+    "relacion": "evalúa",
+    "valor": "sintomatología depresiva"
+  },
+  {
+    "entidad": "análisis de regresión jerárquica",
+    "relacion": "se utiliza para",
+    "valor": "estimar asociación entre variables"
+  },
+  {
+    "entidad": "estrés psicológico",
+    "relacion": "es un",
+    "valor": "factor de riesgo para síndrome metabólico"
+  },
+  {
+    "entidad": "Infliximab",
+    "relacion": "es un",
+    "valor": "anticuerpo monoclonal IgG1 contra TNF-α"
+  },
+  {
+    "entidad": "Enfermedad Inflamatoria Intestinal (EII)",
+    "relacion": "es un",
+    "valor": "grupo de enfermedades que incluye Crohn y Colitis Ulcerosa"
+  },
+  {
+    "entidad": "monitorización terapéutica del fármaco (MTF)",
+    "relacion": "mejora",
+    "valor": "resultados clínicos y costo efectividad"
+  },
+  {
+    "entidad": "niveles de infliximab",
+    "relacion": "se correlacionan",
+    "valor": "con la respuesta clínica"
+  },
+  {
+    "entidad": "anticuerpos anti-infliximab (ATI)",
+    "relacion": "se correlacionan",
+    "valor": "inversamente con los niveles de infliximab"
+  },
+  {
+    "entidad": "estrategia terapéutica",
+    "relacion": "se modifica",
+    "valor": "según la actividad inflamatoria del paciente"
+  },
+  {
+    "entidad": "Grupo A",
+    "relacion": "incluye",
+    "valor": "pacientes vírgenes a tratamiento biológico"
+  },
+  {
+    "entidad": "Grupo B",
+    "relacion": "incluye",
+    "valor": "pacientes en tratamiento de mantención con infliximab"
+  },
+  {
+    "entidad": "calprotectina fecal",
+    "relacion": "se utiliza para evaluar",
+    "valor": "la actividad inflamatoria"
+  },
+  {
+    "entidad": "niveles de infliximab",
+    "relacion": "se consideran adecuados",
+    "valor": "entre 3-7 ug/ml"
+  },
+  {
+    "entidad": "niveles de ATI",
+    "relacion": "se consideran elevados",
+    "valor": "> 10 AU/ml"
+  },
+  {
+    "entidad": "estrategia proactiva",
+    "relacion": "podría mejorar",
+    "valor": "resultados clínicos"
+  },
+  {
+    "entidad": "niveles de infliximab > 4,5 ug/mL",
+    "relacion": "son predictivos de",
+    "valor": "recaída al suspender tratamiento"
+  },
+  {
+    "entidad": "inmunomoduladores",
+    "relacion": "mejoran",
+    "valor": "la farmacocinética e inmunogenicidad del infliximab"
+  },
+  {
+    "entidad": "monitorización terapéutica",
+    "relacion": "permite",
+    "valor": "personalizar el tratamiento"
+  },
+  {
+    "entidad": "Comité de Ética",
+    "relacion": "aprueba",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "Clínica Las Condes",
+    "relacion": "es un",
+    "valor": "centro de investigación"
+  },
+  {
+    "entidad": "pacientes con EII",
+    "relacion": "son tratados con",
+    "valor": "infliximab"
+  },
+  {
+    "entidad": "estrategia terapéutica",
+    "relacion": "se basa en",
+    "valor": "niveles de infliximab y ATI"
+  },
+  {
+    "entidad": "infarto agudo de miocardio",
+    "relacion": "es una",
+    "valor": "enfermedad"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "tiene",
+    "valor": "variación estacional en hospitalizaciones por infarto agudo de miocardio"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "tienen",
+    "valor": "mayor riesgo de hospitalizaciones por infarto agudo de miocardio con la edad"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen",
+    "valor": "mayor incidencia de hospitalizaciones por infarto agudo de miocardio en climas fríos"
+  },
+  {
+    "entidad": "temperatura",
+    "relacion": "afecta",
+    "valor": "la incidencia de infarto agudo de miocardio"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "proporciona",
+    "valor": "bases de datos de egresos hospitalarios"
+  },
+  {
+    "entidad": "nivel socioeconómico",
+    "relacion": "es un",
+    "valor": "factor de ajuste en el análisis"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "evalúa",
+    "valor": "el efecto de la variación estacional en hospitalizaciones por infarto agudo de miocardio"
+  },
+  {
+    "entidad": "cambio climático",
+    "relacion": "puede afectar",
+    "valor": "la salud de la población"
+  },
+  {
+    "entidad": "pacientes de bajo nivel socioeconómico",
+    "relacion": "tienen",
+    "valor": "mayor susceptibilidad a variaciones estacionales"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "muestran",
+    "valor": "un aumento en el riesgo de hospitalizaciones por infarto agudo de miocardio con la edad"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "presentan",
+    "valor": "un riesgo constante de hospitalizaciones por infarto agudo de miocardio a lo largo de la vida"
+  },
+  {
+    "entidad": "estación fría",
+    "relacion": "aumenta",
+    "valor": "la incidencia de hospitalizaciones por infarto agudo de miocardio"
+  },
+  {
+    "entidad": "estación calurosa",
+    "relacion": "disminuye",
+    "valor": "la incidencia de hospitalizaciones por infarto agudo de miocardio"
+  },
+  {
+    "entidad": "fármacos vasodilatadores",
+    "relacion": "pueden ser",
+    "valor": "una estrategia de prevención en población joven"
+  },
+  {
+    "entidad": "enfermedad coronaria",
+    "relacion": "es",
+    "valor": "la segunda causa de muerte en Chile"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "tienen",
+    "valor": "un mayor porcentaje de hospitalizaciones por infarto agudo de miocardio en edades medias"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen",
+    "valor": "un mayor porcentaje de hospitalizaciones por infarto agudo de miocardio en edades avanzadas"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "es un",
+    "valor": "tema relevante en la literatura médica"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud (OMS)",
+    "relacion": "define",
+    "valor": "calidad de vida como la percepción del individuo de su posición en la vida"
+  },
+  {
+    "entidad": "estudiantes de Medicina",
+    "relacion": "pueden verse afectados por",
+    "valor": "alta exigencia académica y emocional"
+  },
+  {
+    "entidad": "estudiantes de Medicina",
+    "relacion": "presentan mayor propensión a",
+    "valor": "ansiedad, depresión, burnout y estrés"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "afecta",
+    "valor": "rendimiento académico"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "influye en",
+    "valor": "cuidado de los pacientes"
+  },
+  {
+    "entidad": "síntomas de estrés",
+    "relacion": "tienen una prevalencia de",
+    "valor": "36% en estudiantes del área de la salud"
+  },
+  {
+    "entidad": "depresión y ansiedad",
+    "relacion": "tienen una prevalencia cercana a",
+    "valor": "40% y 13% de burnout severo"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "varía según",
+    "valor": "etapas de formación, región geográfica de origen, sexo, actividad física, sobrepeso y consumo de modafinilo"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "se asocia directamente con",
+    "valor": "mejores puntajes de calidad de vida"
+  },
+  {
+    "entidad": "modafinilo",
+    "relacion": "afecta negativamente",
+    "valor": "salud física y psicológica"
+  },
+  {
+    "entidad": "sobrepeso y obesidad",
+    "relacion": "se asocian inversamente con",
+    "valor": "calidad de vida"
+  },
+  {
+    "entidad": "estudiantes de Medicina",
+    "relacion": "realizan actividad física",
+    "valor": "obtienen mejores puntajes de calidad de vida"
+  },
+  {
+    "entidad": "estudiantes de Medicina",
+    "relacion": "provienen de",
+    "valor": "regiones fuera de la Región Metropolitana"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "presentan peores puntajes en",
+    "valor": "salud física"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "presentan mejores puntajes en",
+    "valor": "relaciones interpersonales"
+  },
+  {
+    "entidad": "cursos clínicos",
+    "relacion": "presentan menores puntajes en",
+    "valor": "salud física"
+  },
+  {
+    "entidad": "estudiantes de Medicina",
+    "relacion": "se ven expuestos a",
+    "valor": "pacientes, enfermedad y muerte"
+  },
+  {
+    "entidad": "región geográfica de origen",
+    "relacion": "influye en",
+    "valor": "puntajes de calidad de vida"
+  },
+  {
+    "entidad": "estudiantes de Medicina",
+    "relacion": "requieren atención para",
+    "valor": "intervenciones en salud y prevención de patología mental"
+  }
+]

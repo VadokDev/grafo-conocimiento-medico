@@ -1,0 +1,397 @@
+[
+  {
+    "entidad": "VIH",
+    "relacion": "causa",
+    "valor": "infección"
+  },
+  {
+    "entidad": "biopsia renal",
+    "relacion": "utilizada para",
+    "valor": "diagnóstico de VIH"
+  },
+  {
+    "entidad": "alteraciones ultraestructurales",
+    "relacion": "observadas en",
+    "valor": "biopsia renal"
+  },
+  {
+    "entidad": "tubulo-reticular inclusions",
+    "relacion": "indicador de",
+    "valor": "infección por VIH"
+  },
+  {
+    "entidad": "HIVAN",
+    "relacion": "asociado a",
+    "valor": "infección por VIH"
+  },
+  {
+    "entidad": "microscopía electrónica",
+    "relacion": "utilizada para",
+    "valor": "visualizar alteraciones ultraestructurales"
+  },
+  {
+    "entidad": "hematuria microscópica",
+    "relacion": "síntoma de",
+    "valor": "enfermedad de la membrana basal delgada"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "recibe",
+    "valor": "terapia antirretroviral"
+  },
+  {
+    "entidad": "terapia antirretroviral",
+    "relacion": "incluye",
+    "valor": "zidovudina, lamivudina y efavirenz"
+  },
+  {
+    "entidad": "hematuria",
+    "relacion": "persistente en",
+    "valor": "paciente durante 14 años"
+  },
+  {
+    "entidad": "glomérulos",
+    "relacion": "presentan",
+    "valor": "hipertrofia"
+  },
+  {
+    "entidad": "enfermedad de la membrana basal delgada",
+    "relacion": "diagnóstico clínico de",
+    "valor": "paciente"
+  },
+  {
+    "entidad": "microscopía óptica",
+    "relacion": "utilizada para",
+    "valor": "evaluar tejido renal"
+  },
+  {
+    "entidad": "células endoteliales",
+    "relacion": "contienen",
+    "valor": "inclusiones tubulo-reticulares"
+  },
+  {
+    "entidad": "infecciones oportunistas",
+    "relacion": "asociadas a",
+    "valor": "VIH"
+  },
+  {
+    "entidad": "hematuria macroscópica",
+    "relacion": "puede presentarse en",
+    "valor": "enfermedad de la membrana basal delgada"
+  },
+  {
+    "entidad": "presión arterial",
+    "relacion": "se mantiene",
+    "valor": "normal en paciente"
+  },
+  {
+    "entidad": "carga viral",
+    "relacion": "indetectable en",
+    "valor": "paciente después de 6 años"
+  },
+  {
+    "entidad": "recuperación de función renal",
+    "relacion": "observada en",
+    "valor": "paciente asintomático"
+  },
+  {
+    "entidad": "Enfermedad de Mucha-Habermann",
+    "relacion": "es un",
+    "valor": "enfermedad rara y potencialmente letal"
+  },
+  {
+    "entidad": "Enfermedad de Mucha-Habermann",
+    "relacion": "se caracteriza por",
+    "valor": "lesiones úlcero-necróticas dolorosas, fiebre y síntomas sistémicos graves"
+  },
+  {
+    "entidad": "minociclina",
+    "relacion": "es un",
+    "valor": "tratamiento efectivo"
+  },
+  {
+    "entidad": "prednisona",
+    "relacion": "es un",
+    "valor": "tratamiento inicial fallido"
+  },
+  {
+    "entidad": "Hospital Clínico San Borja Arriarán",
+    "relacion": "es un",
+    "valor": "centro de atención médica"
+  },
+  {
+    "entidad": "Javier Arellano Lorca",
+    "relacion": "es un",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "Ignacio Yáñez Silva",
+    "relacion": "es un",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "Felipe Soto Vilches",
+    "relacion": "es un",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "Andrea Luna Heine",
+    "relacion": "es un",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "Yamile Corredoira Salum",
+    "relacion": "es un",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "Pityriasis lichenoides et varioliformis acuta",
+    "relacion": "es un",
+    "valor": "manifestación de la misma enfermedad"
+  },
+  {
+    "entidad": "16 años",
+    "relacion": "es la edad de",
+    "valor": "un paciente masculino"
+  },
+  {
+    "entidad": "lesiones polimorfas",
+    "relacion": "se presentan en",
+    "valor": "el paciente"
+  },
+  {
+    "entidad": "fiebre",
+    "relacion": "se presenta con",
+    "valor": "temperatura de 38,1ºC"
+  },
+  {
+    "entidad": "biopsias",
+    "relacion": "confirman",
+    "valor": "el diagnóstico de EMHFUN"
+  },
+  {
+    "entidad": "histopatología",
+    "relacion": "revela",
+    "valor": "infiltrado linfocitario y necrosis de queratinocitos"
+  },
+  {
+    "entidad": "tasa de mortalidad",
+    "relacion": "es",
+    "valor": "15%"
+  },
+  {
+    "entidad": "compromiso sistémico",
+    "relacion": "puede incluir",
+    "valor": "síntomas gastrointestinales, neurológicos y respiratorios"
+  },
+  {
+    "entidad": "tratamiento de soporte",
+    "relacion": "es necesario para",
+    "valor": "pacientes con pérdida significativa de piel"
+  },
+  {
+    "entidad": "seguimiento",
+    "relacion": "debe ser",
+    "valor": "periódico con exámenes de laboratorio"
+  },
+  {
+    "entidad": "minociclina",
+    "relacion": "tiene efectos",
+    "valor": "proteolíticos y antiinflamatorios"
+  },
+  {
+    "entidad": "corticoides sistémicos",
+    "relacion": "tienen resultados",
+    "valor": "controversiales en el tratamiento"
+  },
+  {
+    "entidad": "inmunoglobulinas endovenosas",
+    "relacion": "podrían ser",
+    "valor": "una alternativa terapéutica"
+  },
+  {
+    "entidad": "factor de necrosis tumoral-alfa (TNF-alfa)",
+    "relacion": "está elevado en",
+    "valor": "pacientes con EMHFUN"
+  },
+  {
+    "entidad": "Neuromielitis óptica",
+    "relacion": "es",
+    "valor": "una enfermedad desmielinizante"
+  },
+  {
+    "entidad": "Neuromielitis óptica",
+    "relacion": "afecta a",
+    "valor": "nervios ópticos y médula espinal"
+  },
+  {
+    "entidad": "Neuromielitis óptica",
+    "relacion": "está asociada con",
+    "valor": "anticuerpos contra acuaporina-4"
+  },
+  {
+    "entidad": "Neuromielitis óptica",
+    "relacion": "tiene",
+    "valor": "alta morbilidad y mortalidad"
+  },
+  {
+    "entidad": "Lupus eritematoso sistémico",
+    "relacion": "puede causar",
+    "valor": "complicaciones neurológicas"
+  },
+  {
+    "entidad": "Mujer de 35 años",
+    "relacion": "presenta",
+    "valor": "neuromielitis óptica y lupus eritematoso sistémico"
+  },
+  {
+    "entidad": "Mujer de 35 años",
+    "relacion": "requiere",
+    "valor": "terapia inmunosupresora"
+  },
+  {
+    "entidad": "Methylprednisolone",
+    "relacion": "es un",
+    "valor": "tratamiento de primera línea"
+  },
+  {
+    "entidad": "Ciclofosfamida",
+    "relacion": "es un",
+    "valor": "tratamiento de segunda línea"
+  },
+  {
+    "entidad": "Rituximab",
+    "relacion": "es un",
+    "valor": "tratamiento de segunda línea"
+  },
+  {
+    "entidad": "Espasmos tónicos dolorosos",
+    "relacion": "son",
+    "valor": "frecuentes en neuromielitis óptica"
+  },
+  {
+    "entidad": "Corticoides",
+    "relacion": "son",
+    "valor": "de primera línea para tratamiento de NMO y LES"
+  },
+  {
+    "entidad": "Inmunosupresores",
+    "relacion": "se utilizan para",
+    "valor": "reducir recurrencias en NMO"
+  },
+  {
+    "entidad": "Embarazo",
+    "relacion": "puede complicar",
+    "valor": "el tratamiento de NMO y LES"
+  },
+  {
+    "entidad": "Lupus eritematoso sistémico",
+    "relacion": "puede desarrollarse",
+    "valor": "a posterioridad de NMO"
+  },
+  {
+    "entidad": "Anticuerpos anti-DNA de doble hebra",
+    "relacion": "son",
+    "valor": "indicadores en diagnóstico de LES"
+  },
+  {
+    "entidad": "Linfopenia",
+    "relacion": "es un hallazgo",
+    "valor": "previo al tratamiento en el paciente"
+  },
+  {
+    "entidad": "Resonancia magnética",
+    "relacion": "se utiliza para",
+    "valor": "diagnosticar mielitis en NMO"
+  },
+  {
+    "entidad": "Criterios diagnósticos de NMO",
+    "relacion": "incluyen",
+    "valor": "presencia de anticuerpos IgG antiacuaporina-4"
+  },
+  {
+    "entidad": "Shunt porto-sistémico congénito",
+    "relacion": "causa",
+    "valor": "síndrome confusional agudo"
+  },
+  {
+    "entidad": "hígado no cirrótico",
+    "relacion": "asocia a",
+    "valor": "síndrome confusional agudo"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "síndrome confusional agudo reiterado"
+  },
+  {
+    "entidad": "niveles de amonio elevados",
+    "relacion": "indican",
+    "valor": "posible shunt porto-sistémico"
+  },
+  {
+    "entidad": "tomografía computarizada",
+    "relacion": "confirma",
+    "valor": "presencia de shunt porto-sistémico"
+  },
+  {
+    "entidad": "shunt porto-sistémico",
+    "relacion": "se emboliza",
+    "valor": "para tratar el síndrome confusional agudo"
+  },
+  {
+    "entidad": "síndrome confusional agudo",
+    "relacion": "responde a",
+    "valor": "embolización del shunt"
+  },
+  {
+    "entidad": "ecografía Doppler abdominal",
+    "relacion": "muestra",
+    "valor": "dilatación aneurismática y shunt porto-cava"
+  },
+  {
+    "entidad": "tratamiento sintomático",
+    "relacion": "mejora",
+    "valor": "estado del paciente"
+  },
+  {
+    "entidad": "apixaban",
+    "relacion": "es un",
+    "valor": "medicamento anticoagulante"
+  },
+  {
+    "entidad": "furosemida",
+    "relacion": "es un",
+    "valor": "diurético"
+  },
+  {
+    "entidad": "clortalidona",
+    "relacion": "es un",
+    "valor": "diurético"
+  },
+  {
+    "entidad": "síndrome confusional agudo",
+    "relacion": "requiere",
+    "valor": "ampliación de pruebas diagnósticas"
+  },
+  {
+    "entidad": "encefalopatía hiperamonémica",
+    "relacion": "ocurre en",
+    "valor": "pacientes no cirróticos"
+  },
+  {
+    "entidad": "shunts porto-sistémicos",
+    "relacion": "son",
+    "valor": "causas de hiperamonemia"
+  },
+  {
+    "entidad": "embolización transcatéter",
+    "relacion": "es el",
+    "valor": "método de elección para tratar SPS"
+  },
+  {
+    "entidad": "síndrome confusional agudo",
+    "relacion": "es",
+    "valor": "una alteración transitoria del estado mental"
+  }
+]

@@ -1,0 +1,752 @@
+[
+  {
+    "entidad": "personas mayores",
+    "relacion": "tienen",
+    "valor": "depresión y dependencia funcional"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "afecta a",
+    "valor": "personas mayores con depresión y dependencia funcional"
+  },
+  {
+    "entidad": "cuestionario SF-12",
+    "relacion": "valida",
+    "valor": "calidad de vida relacionada con la salud"
+  },
+  {
+    "entidad": "cuestionario SF-36",
+    "relacion": "es un",
+    "valor": "instrumento para evaluar calidad de vida"
+  },
+  {
+    "entidad": "SENAMA",
+    "relacion": "financia",
+    "valor": "estudios sobre personas mayores"
+  },
+  {
+    "entidad": "depresión",
+    "relacion": "asocia con",
+    "valor": "mala calidad de vida"
+  },
+  {
+    "entidad": "dependencia funcional",
+    "relacion": "asocia con",
+    "valor": "mala calidad de vida"
+  },
+  {
+    "entidad": "cuestionario SF-12",
+    "relacion": "incluye",
+    "valor": "12 ítems del SF-36"
+  },
+  {
+    "entidad": "cuestionario SF-12",
+    "relacion": "mide",
+    "valor": "componentes físico y mental"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "reportan",
+    "valor": "mayor prevalencia de síntomas de depresión"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "reportan",
+    "valor": "menor prevalencia de síntomas de depresión"
+  },
+  {
+    "entidad": "dependencia severa",
+    "relacion": "tiene",
+    "valor": "peores puntajes en calidad de vida"
+  },
+  {
+    "entidad": "depresión severa",
+    "relacion": "tiene",
+    "valor": "peores puntajes en calidad de vida"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "se relaciona con",
+    "valor": "envejecimiento saludable"
+  },
+  {
+    "entidad": "cuestionario SF-12",
+    "relacion": "es una",
+    "valor": "alternativa al SF-36"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "se mide con",
+    "valor": "SF-12 y SF-36"
+  },
+  {
+    "entidad": "muestra representativa nacional",
+    "relacion": "incluye",
+    "valor": "personas mayores de 60 años"
+  },
+  {
+    "entidad": "componente mental",
+    "relacion": "se asocia con",
+    "valor": "depresión y dependencia"
+  },
+  {
+    "entidad": "componente físico",
+    "relacion": "se asocia con",
+    "valor": "depresión y dependencia"
+  },
+  {
+    "entidad": "Unidad de Cuidados Intensivos (UCI)",
+    "relacion": "es un",
+    "valor": "área hospitalaria"
+  },
+  {
+    "entidad": "Reacción Adversa a Medicamentos (RAM)",
+    "relacion": "es un",
+    "valor": "resultado negativo a la medicación"
+  },
+  {
+    "entidad": "Pacientes hospitalizados en UCI",
+    "relacion": "tienen",
+    "valor": "mayor riesgo de RAM"
+  },
+  {
+    "entidad": "Farmacovigilancia intensiva",
+    "relacion": "se utiliza para",
+    "valor": "determinar factores de riesgo de RAM"
+  },
+  {
+    "entidad": "APACHE II",
+    "relacion": "es un",
+    "valor": "índice de gravedad"
+  },
+  {
+    "entidad": "Historia de alergias",
+    "relacion": "afecta a",
+    "valor": "desarrollo de RAM"
+  },
+  {
+    "entidad": "Índice de Masa Corporal (IMC)",
+    "relacion": "afecta a",
+    "valor": "desarrollo de RAM"
+  },
+  {
+    "entidad": "Ventilación mecánica invasiva (VMI)",
+    "relacion": "afecta a",
+    "valor": "desarrollo de RAM"
+  },
+  {
+    "entidad": "Polifarmacia",
+    "relacion": "es un",
+    "valor": "factor de riesgo para RAM"
+  },
+  {
+    "entidad": "Combinaciones medicamentosas",
+    "relacion": "son",
+    "valor": "factor de riesgo para RAM"
+  },
+  {
+    "entidad": "Causalidad de la OMS",
+    "relacion": "se utiliza para",
+    "valor": "evaluar relación causal de fármaco sospechoso y RAM"
+  },
+  {
+    "entidad": "Algoritmo de Naranjo",
+    "relacion": "se utiliza para",
+    "valor": "evaluar relación causal de fármaco sospechoso y RAM"
+  },
+  {
+    "entidad": "Hospital Clínico Red de Salud UC CHRISTUS",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "Comité de Ética Científico de la Facultad de Medicina",
+    "relacion": "aprueba",
+    "valor": "estudio observacional"
+  },
+  {
+    "entidad": "Medicamentos administrados",
+    "relacion": "aumentan",
+    "valor": "riesgo de RAM"
+  },
+  {
+    "entidad": "Factores de riesgo identificados",
+    "relacion": "tienen",
+    "valor": "gran impacto en parámetros farmacocinéticos y farmacodinámicos"
+  },
+  {
+    "entidad": "Reacciones adversas a medicamentos",
+    "relacion": "son",
+    "valor": "eventos clínicos prevenibles"
+  },
+  {
+    "entidad": "Dr. Max Andresen H.",
+    "relacion": "es",
+    "valor": "correspondencia del estudio"
+  },
+  {
+    "entidad": "Estudio observacional, descriptivo y prospectivo",
+    "relacion": "es un",
+    "valor": "tipo de estudio realizado"
+  },
+  {
+    "entidad": "Enfermedad de Creutzfeldt-Jakob",
+    "relacion": "es un",
+    "valor": "enfermedad priónica"
+  },
+  {
+    "entidad": "Enfermedad de Creutzfeldt-Jakob",
+    "relacion": "produce",
+    "valor": "demencia progresiva"
+  },
+  {
+    "entidad": "Hospital San Camilo",
+    "relacion": "es un",
+    "valor": "hospital terciario en Chile"
+  },
+  {
+    "entidad": "Servicio de Neurología",
+    "relacion": "pertenece a",
+    "valor": "Hospital San Camilo"
+  },
+  {
+    "entidad": "priones",
+    "relacion": "causan",
+    "valor": "enfermedades neurodegenerativas"
+  },
+  {
+    "entidad": "proteína priónica",
+    "relacion": "es codificada por",
+    "valor": "gen PRNP"
+  },
+  {
+    "entidad": "gen PRNP",
+    "relacion": "se encuentra en",
+    "valor": "cromosoma 20"
+  },
+  {
+    "entidad": "Enfermedad de Creutzfeldt-Jakob",
+    "relacion": "se clasifica en",
+    "valor": "esporádica, familiar, iatrogénica y variante"
+  },
+  {
+    "entidad": "síndrome demencial rápidamente progresivo",
+    "relacion": "requiere",
+    "valor": "diagnóstico diferencial"
+  },
+  {
+    "entidad": "resonancia magnética",
+    "relacion": "es un",
+    "valor": "examen diagnóstico"
+  },
+  {
+    "entidad": "electroencefalograma",
+    "relacion": "es un",
+    "valor": "examen diagnóstico"
+  },
+  {
+    "entidad": "Hallazgos clínicos",
+    "relacion": "incluyen",
+    "valor": "síndrome amnésico, mioclónico, frontal y atáxico"
+  },
+  {
+    "entidad": "Hospital Barros Luco Trudeau",
+    "relacion": "es un",
+    "valor": "hospital terciario en Santiago de Chile"
+  },
+  {
+    "entidad": "ECJ",
+    "relacion": "tiene una tasa de incidencia",
+    "valor": "más alta en Chile"
+  },
+  {
+    "entidad": "ECJ",
+    "relacion": "requiere",
+    "valor": "alto índice de sospecha"
+  },
+  {
+    "entidad": "ECJ",
+    "relacion": "no tiene",
+    "valor": "terapia curativa"
+  },
+  {
+    "entidad": "manejo sintomático",
+    "relacion": "es parte del",
+    "valor": "tratamiento de ECJ"
+  },
+  {
+    "entidad": "ECJ",
+    "relacion": "lleva a",
+    "valor": "muerte en corto tiempo"
+  },
+  {
+    "entidad": "Hipercolesterolemia Familiar",
+    "relacion": "es un",
+    "valor": "trastorno genético"
+  },
+  {
+    "entidad": "Hipercolesterolemia Familiar",
+    "relacion": "causa",
+    "valor": "enfermedad cardiovascular prematura"
+  },
+  {
+    "entidad": "LDL receptor (LDLR)",
+    "relacion": "asociado a",
+    "valor": "Hipercolesterolemia Familiar"
+  },
+  {
+    "entidad": "apolipoproteína B (APOB)",
+    "relacion": "asociado a",
+    "valor": "Hipercolesterolemia Familiar"
+  },
+  {
+    "entidad": "proproteína convertasa subtilisina/kexina tipo 9 (PCSK9)",
+    "relacion": "asociado a",
+    "valor": "Hipercolesterolemia Familiar"
+  },
+  {
+    "entidad": "niños y adolescentes",
+    "relacion": "son",
+    "valor": "población estudiada"
+  },
+  {
+    "entidad": "Región del Biobío",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "mutaciones",
+    "relacion": "se encuentran en",
+    "valor": "genes relacionados con Hipercolesterolemia Familiar"
+  },
+  {
+    "entidad": "LDLR",
+    "relacion": "contiene",
+    "valor": "mutaciones como p.Asp47Asn y duplicación de exones 13-15"
+  },
+  {
+    "entidad": "APOE",
+    "relacion": "contiene",
+    "valor": "mutaciones como p.Glu204* y p.Ile268Met"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "fue realizado por",
+    "valor": "Universidad de Concepción"
+  },
+  {
+    "entidad": "Hospital Guillermo Grant Benavente",
+    "relacion": "es un",
+    "valor": "centro de atención"
+  },
+  {
+    "entidad": "pesquisa selectiva",
+    "relacion": "se utiliza para",
+    "valor": "diagnosticar Hipercolesterolemia Familiar"
+  },
+  {
+    "entidad": "xantomas",
+    "relacion": "son un",
+    "valor": "síntoma asociado a Hipercolesterolemia Familiar"
+  },
+  {
+    "entidad": "análisis bioquímicos",
+    "relacion": "se realizan para",
+    "valor": "evaluar niveles de lípidos"
+  },
+  {
+    "entidad": "ADN genómico",
+    "relacion": "se obtiene de",
+    "valor": "muestras de sangre periférica"
+  },
+  {
+    "entidad": "MLPA",
+    "relacion": "se utiliza para",
+    "valor": "determinar variación del número de copias"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "aporta a",
+    "valor": "la caracterización genética de Hipercolesterolemia Familiar en Chile"
+  },
+  {
+    "entidad": "Leucemia Linfoblástica Aguda del adulto",
+    "relacion": "es",
+    "valor": "una enfermedad"
+  },
+  {
+    "entidad": "cromosoma Philadelphia",
+    "relacion": "es",
+    "valor": "una anomalía citogenética"
+  },
+  {
+    "entidad": "imatinib",
+    "relacion": "es",
+    "valor": "un inhibidor de tirosina quinasa"
+  },
+  {
+    "entidad": "quimioterapia intensiva",
+    "relacion": "se asocia a",
+    "valor": "imatinib"
+  },
+  {
+    "entidad": "Hospital del Salvador",
+    "relacion": "realiza",
+    "valor": "tratamientos de LLA Ph+"
+  },
+  {
+    "entidad": "protocolo nacional de LLA",
+    "relacion": "define",
+    "valor": "criterios de inclusión para QT intensiva"
+  },
+  {
+    "entidad": "enfermedad mínima residual (EMR)",
+    "relacion": "se define como",
+    "valor": "una relación BCR-ABL1/ABL1 igual a cero"
+  },
+  {
+    "entidad": "transplante de progenitores hematopoyéticos (TPH)",
+    "relacion": "es",
+    "valor": "una opción terapéutica"
+  },
+  {
+    "entidad": "sobrevida global (SG)",
+    "relacion": "se considera desde",
+    "valor": "el diagnóstico hasta la muerte"
+  },
+  {
+    "entidad": "sobrevida libre de eventos (SLE)",
+    "relacion": "se considera desde",
+    "valor": "el diagnóstico hasta la recaída o muerte"
+  },
+  {
+    "entidad": "Dr. Rafael Benavente A.",
+    "relacion": "es",
+    "valor": "el autor principal del estudio"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "suministra",
+    "valor": "protocolo de tratamiento"
+  },
+  {
+    "entidad": "quimioterapia intratecal",
+    "relacion": "se utiliza para",
+    "valor": "profilaxis del sistema nervioso central"
+  },
+  {
+    "entidad": "neutropenia febril",
+    "relacion": "es",
+    "valor": "una complicación frecuente del tratamiento"
+  },
+  {
+    "entidad": "BCR-ABL1",
+    "relacion": "es",
+    "valor": "un gen asociado a la leucemia linfoblástica aguda Philadelphia positiva"
+  },
+  {
+    "entidad": "análisis estadístico",
+    "relacion": "se realiza mediante",
+    "valor": "método de Kaplan Meier"
+  },
+  {
+    "entidad": "quimioterapia",
+    "relacion": "se considera",
+    "valor": "una parte del tratamiento para LLA Ph+"
+  },
+  {
+    "entidad": "Ley n° 20.584",
+    "relacion": "regula",
+    "valor": "derechos y deberes de las personas en atención en salud"
+  },
+  {
+    "entidad": "Estado de Chile",
+    "relacion": "protege",
+    "valor": "seguridad del paciente y calidad de atención"
+  },
+  {
+    "entidad": "Auditoría Médica",
+    "relacion": "recoge",
+    "valor": "reclamos en salud"
+  },
+  {
+    "entidad": "Unidad de Auditoría Médica",
+    "relacion": "resuelve",
+    "valor": "reclamos de atención en salud"
+  },
+  {
+    "entidad": "reclamos",
+    "relacion": "se originan en",
+    "valor": "interacción sub-estándar con el médico"
+  },
+  {
+    "entidad": "reclamos",
+    "relacion": "se originan en",
+    "valor": "cobros y seguros"
+  },
+  {
+    "entidad": "reclamos",
+    "relacion": "se resuelven mediante",
+    "valor": "llamada telefónica"
+  },
+  {
+    "entidad": "reclamos",
+    "relacion": "se resuelven mediante",
+    "valor": "entrevistas presenciales"
+  },
+  {
+    "entidad": "reclamos",
+    "relacion": "se resuelven mediante",
+    "valor": "mediación"
+  },
+  {
+    "entidad": "reclamos",
+    "relacion": "resultan en",
+    "valor": "acción legal"
+  },
+  {
+    "entidad": "relación médico-paciente",
+    "relacion": "previene",
+    "valor": "reclamos y litigaciones"
+  },
+  {
+    "entidad": "calidad de atención",
+    "relacion": "debe ser",
+    "valor": "fortalecida en organizaciones de salud"
+  },
+  {
+    "entidad": "Superintendencia de Salud",
+    "relacion": "mediación",
+    "valor": "resuelve reclamos en salud"
+  },
+  {
+    "entidad": "Ley n° 19.966",
+    "relacion": "establece",
+    "valor": "mediación en salud"
+  },
+  {
+    "entidad": "reclamos",
+    "relacion": "se clasifican en",
+    "valor": "tipos A, B, C, D"
+  },
+  {
+    "entidad": "reclamos",
+    "relacion": "se generan en",
+    "valor": "Urgencia y Centro Médico"
+  },
+  {
+    "entidad": "falla en la relación con el médico",
+    "relacion": "es causa de",
+    "valor": "21,4% de los reclamos"
+  },
+  {
+    "entidad": "cobros/presupuestos/coberturas",
+    "relacion": "es causa de",
+    "valor": "20,9% de los reclamos"
+  },
+  {
+    "entidad": "reclamos",
+    "relacion": "se resuelven en",
+    "valor": "los primeros cinco días hábiles"
+  },
+  {
+    "entidad": "reclamos",
+    "relacion": "se generan en",
+    "valor": "hospitalización de Salud Mental y UPCA"
+  },
+  {
+    "entidad": "reclamos",
+    "relacion": "se resuelven con",
+    "valor": "disculpas y explicaciones"
+  },
+  {
+    "entidad": "neumonía adquirida en la comunidad (NAC)",
+    "relacion": "es un",
+    "valor": "problema de salud pública"
+  },
+  {
+    "entidad": "PSI",
+    "relacion": "evalúa",
+    "valor": "la gravedad de la neumonía adquirida en la comunidad"
+  },
+  {
+    "entidad": "CURB-65",
+    "relacion": "evalúa",
+    "valor": "la gravedad de la neumonía adquirida en la comunidad"
+  },
+  {
+    "entidad": "PSI",
+    "relacion": "es superior a",
+    "valor": "CURB-65 en casos bacterianos"
+  },
+  {
+    "entidad": "PSI",
+    "relacion": "varía según",
+    "valor": "el agente de la NAC"
+  },
+  {
+    "entidad": "PSI",
+    "relacion": "recomienda",
+    "valor": "manejo ambulatorio en bajo riesgo"
+  },
+  {
+    "entidad": "CURB-65",
+    "relacion": "indica",
+    "valor": "hospitalización en riesgo de mortalidad"
+  },
+  {
+    "entidad": "Streptococcus pneumoniae",
+    "relacion": "es el agente más frecuente en",
+    "valor": "neumonía adquirida en la comunidad"
+  },
+  {
+    "entidad": "neumonía adquirida en la comunidad (NAC)",
+    "relacion": "requiere",
+    "valor": "hospitalización en 20-40% de los pacientes"
+  },
+  {
+    "entidad": "neumonía adquirida en la comunidad (NAC)",
+    "relacion": "fallece",
+    "valor": "5-10% de los pacientes"
+  },
+  {
+    "entidad": "virus respiratorios",
+    "relacion": "se detectan en",
+    "valor": "29-55% de los casos de NAC"
+  },
+  {
+    "entidad": "PSI",
+    "relacion": "tiene un rendimiento superior en",
+    "valor": "casos no graves de NAC bacteriana"
+  },
+  {
+    "entidad": "CURB-65",
+    "relacion": "es superior en",
+    "valor": "mortalidad y oxigenoterapia en casos virales"
+  },
+  {
+    "entidad": "PSI",
+    "relacion": "muestra un rendimiento",
+    "valor": "superior a CURB-65 en casos bacterianos no graves"
+  },
+  {
+    "entidad": "FONDECYT",
+    "relacion": "financia",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "Universidad de Chile",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "Comité de Ética de Investigación en Seres Humanos",
+    "relacion": "aprueba",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "hospital Clínico Universidad de Chile",
+    "relacion": "es un",
+    "valor": "lugar de enrolamiento"
+  },
+  {
+    "entidad": "Hospital Lucio Córdova",
+    "relacion": "es un",
+    "valor": "lugar de enrolamiento"
+  },
+  {
+    "entidad": "Complejo Hospitalario San José",
+    "relacion": "es un",
+    "valor": "lugar de enrolamiento"
+  },
+  {
+    "entidad": "Clínica Santa María",
+    "relacion": "es un",
+    "valor": "lugar de enrolamiento"
+  },
+  {
+    "entidad": "Timed Up and Go (TUG)",
+    "relacion": "es utilizado para",
+    "valor": "evaluar el riesgo de caídas en adultos mayores"
+  },
+  {
+    "entidad": "Timed Up and Go (TUG)",
+    "relacion": "evalúa",
+    "valor": "movilidad y equilibrio"
+  },
+  {
+    "entidad": "TUG",
+    "relacion": "tiene",
+    "valor": "una moderada correlación con el riesgo de caídas"
+  },
+  {
+    "entidad": "TUG",
+    "relacion": "demuestra",
+    "valor": "buena confiabilidad test-retest"
+  },
+  {
+    "entidad": "TUG",
+    "relacion": "varía en",
+    "valor": "validez y sensibilidad entre poblaciones"
+  },
+  {
+    "entidad": "TUG",
+    "relacion": "requiere",
+    "valor": "que el participante se incorpore desde una silla y camine tres metros"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "afecta",
+    "valor": "los tiempos de corte del TUG"
+  },
+  {
+    "entidad": "Servicio Nacional del Adulto Mayor (SENAMA)",
+    "relacion": "autorizó",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "Universidad Católica Silva Henríquez",
+    "relacion": "financia",
+    "valor": "la investigación"
+  },
+  {
+    "entidad": "caídas",
+    "relacion": "son causadas por",
+    "valor": "alteraciones en el balance postural y disminución de la fuerza muscular"
+  },
+  {
+    "entidad": "TUG",
+    "relacion": "debe ser complementado con",
+    "valor": "tareas motoras o cognitivas"
+  },
+  {
+    "entidad": "TUG",
+    "relacion": "es una herramienta",
+    "valor": "masiva y fácil de aplicar"
+  },
+  {
+    "entidad": "TUG",
+    "relacion": "predice",
+    "valor": "el riesgo de caídas en adultos mayores"
+  },
+  {
+    "entidad": "tiempos de corte",
+    "relacion": "deben ser determinados por",
+    "valor": "grupo etario"
+  },
+  {
+    "entidad": "TUG",
+    "relacion": "mejora su sensibilidad y especificidad al",
+    "valor": "determinar tiempos de corte por grupos etarios"
+  },
+  {
+    "entidad": "Jorge Ugarte Ll.",
+    "relacion": "es el autor principal de",
+    "valor": "la investigación"
+  },
+  {
+    "entidad": "Felipe Vargas R.",
+    "relacion": "es coautor de",
+    "valor": "la investigación"
+  }
+]

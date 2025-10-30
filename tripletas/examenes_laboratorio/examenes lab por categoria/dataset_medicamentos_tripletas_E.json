@@ -1,0 +1,2092 @@
+[
+  {
+    "entidad": "Evaluación del riesgo de suicidio",
+    "relacion": "util_para",
+    "valor": "determinar la probabilidad de que una persona intente suicidarse"
+  },
+  {
+    "entidad": "Evaluación del riesgo de suicidio",
+    "relacion": "indicado_si_tiene",
+    "valor": "signos de advertencia de suicidio"
+  },
+  {
+    "entidad": "Evaluación del riesgo de suicidio",
+    "relacion": "requiere_muestra_de",
+    "valor": "no requiere ninguna preparación especial"
+  },
+  {
+    "entidad": "Evaluación del riesgo de suicidio",
+    "relacion": "realizado_por",
+    "valor": "profesional de la salud o profesional de la salud mental"
+  },
+  {
+    "entidad": "Evaluación del riesgo de suicidio",
+    "relacion": "tiene_riesgo",
+    "valor": "no implica ningún riesgo"
+  },
+  {
+    "entidad": "Evaluación del riesgo de suicidio",
+    "relacion": "diagnostica",
+    "valor": "riesgo de suicidio"
+  },
+  {
+    "entidad": "Herramientas de evaluación del riesgo suicida",
+    "relacion": "es_tipo_de",
+    "valor": "cuestionario o pauta"
+  },
+  {
+    "entidad": "Cuestionario de salud del paciente-9 (PHQ9)",
+    "relacion": "mide",
+    "valor": "severidad de la depresión"
+  },
+  {
+    "entidad": "Preguntas de evaluación del suicidio (ASQ)",
+    "relacion": "mide",
+    "valor": "riesgo de suicidio"
+  },
+  {
+    "entidad": "Evaluación y triaje de 5 pasos para la evaluación del suicidio (SAFE-T)",
+    "relacion": "mide",
+    "valor": "nivel de riesgo de suicidio"
+  },
+  {
+    "entidad": "Escala de evaluación del riesgo de suicidio de Columbia (C-SSRS)",
+    "relacion": "mide",
+    "valor": "riesgo de suicidio"
+  },
+  {
+    "entidad": "Estudio del sueño",
+    "relacion": "mide",
+    "valor": "frecuencia respiratoria"
+  },
+  {
+    "entidad": "Estudio del sueño",
+    "relacion": "mide",
+    "valor": "nivel de oxígeno en la sangre"
+  },
+  {
+    "entidad": "Estudio del sueño",
+    "relacion": "mide",
+    "valor": "frecuencia cardíaca"
+  },
+  {
+    "entidad": "Estudio del sueño",
+    "relacion": "mide",
+    "valor": "ondas cerebrales"
+  },
+  {
+    "entidad": "Estudio del sueño",
+    "relacion": "mide",
+    "valor": "movimientos de las piernas"
+  },
+  {
+    "entidad": "Estudio del sueño",
+    "relacion": "mide",
+    "valor": "movimientos de los ojos"
+  },
+  {
+    "entidad": "Estudio del sueño",
+    "relacion": "diagnostica",
+    "valor": "apnea del sueño"
+  },
+  {
+    "entidad": "Estudio del sueño",
+    "relacion": "diagnostica",
+    "valor": "insomnio"
+  },
+  {
+    "entidad": "Estudio del sueño",
+    "relacion": "diagnostica",
+    "valor": "síndrome de las piernas inquietas"
+  },
+  {
+    "entidad": "Estudio del sueño",
+    "relacion": "diagnostica",
+    "valor": "narcolepsia"
+  },
+  {
+    "entidad": "Estudio del sueño",
+    "relacion": "indicado_si_tiene",
+    "valor": "ronquidos fuertes al dormir"
+  },
+  {
+    "entidad": "Estudio del sueño",
+    "relacion": "indicado_si_tiene",
+    "valor": "despertarse jadeando para respirar"
+  },
+  {
+    "entidad": "Estudio del sueño",
+    "relacion": "indicado_si_tiene",
+    "valor": "dificultad para conciliar o mantener el sueño"
+  },
+  {
+    "entidad": "Estudio del sueño",
+    "relacion": "indicado_si_tiene",
+    "valor": "somnolencia durante el día"
+  },
+  {
+    "entidad": "Estudio del sueño",
+    "relacion": "requiere_muestra_de",
+    "valor": "no aplica"
+  },
+  {
+    "entidad": "Estudio del sueño",
+    "relacion": "se_realiza_en",
+    "valor": "hospital"
+  },
+  {
+    "entidad": "Estudio del sueño",
+    "relacion": "se_realiza_en",
+    "valor": "clínica de estudios del sueño"
+  },
+  {
+    "entidad": "Estudio del sueño",
+    "relacion": "se_realiza_en",
+    "valor": "hogar"
+  },
+  {
+    "entidad": "Estudio del sueño",
+    "relacion": "tiene_riesgo",
+    "valor": "irritación leve de la piel"
+  },
+  {
+    "entidad": "Estudio del sueño",
+    "relacion": "es_tipo_de",
+    "valor": "polisomnografía"
+  },
+  {
+    "entidad": "Estudio del sueño",
+    "relacion": "ayuda_diagnosticar",
+    "valor": "trastornos del sueño"
+  },
+  {
+    "entidad": "Electroforesis de hemoglobina",
+    "relacion": "mide",
+    "valor": "diferentes tipos de hemoglobina en la sangre"
+  },
+  {
+    "entidad": "Electroforesis de hemoglobina",
+    "relacion": "detecta",
+    "valor": "hemoglobinopatía"
+  },
+  {
+    "entidad": "Electroforesis de hemoglobina",
+    "relacion": "diagnostica",
+    "valor": "anemia"
+  },
+  {
+    "entidad": "Electroforesis de hemoglobina",
+    "relacion": "diagnostica",
+    "valor": "enfermedad de células falciformes"
+  },
+  {
+    "entidad": "Electroforesis de hemoglobina",
+    "relacion": "requiere_muestra_de",
+    "valor": "sangre"
+  },
+  {
+    "entidad": "Electroforesis de hemoglobina",
+    "relacion": "tiene_duracion",
+    "valor": "menos de cinco minutos"
+  },
+  {
+    "entidad": "Electroforesis de hemoglobina",
+    "relacion": "tiene_riesgo",
+    "valor": "dolor leve o moretón en el lugar de la punción"
+  },
+  {
+    "entidad": "Electroforesis de hemoglobina",
+    "relacion": "indicado_si_tiene",
+    "valor": "trastorno de la hemoglobina"
+  },
+  {
+    "entidad": "Electroforesis de hemoglobina",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "anemia"
+  },
+  {
+    "entidad": "Electroforesis de hemoglobina",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "enfermedad de células falciformes"
+  },
+  {
+    "entidad": "Electroforesis de hemoglobina",
+    "relacion": "util_para",
+    "valor": "evaluar trastornos de la hemoglobina"
+  },
+  {
+    "entidad": "Electroforesis de hemoglobina",
+    "relacion": "realizado_por",
+    "valor": "profesional de la salud"
+  },
+  {
+    "entidad": "Electroforesis de hemoglobina",
+    "relacion": "es_tipo_de",
+    "valor": "prueba de laboratorio"
+  },
+  {
+    "entidad": "Examen de cáncer de piel",
+    "relacion": "analiza",
+    "valor": "signos de cáncer de piel"
+  },
+  {
+    "entidad": "Examen de cáncer de piel",
+    "relacion": "detecta",
+    "valor": "cáncer de piel"
+  },
+  {
+    "entidad": "Examen de cáncer de piel",
+    "relacion": "requiere_muestra_de",
+    "valor": "no requiere muestra"
+  },
+  {
+    "entidad": "Examen de cáncer de piel",
+    "relacion": "indicado_si_tiene",
+    "valor": "áreas sospechosas en la piel"
+  },
+  {
+    "entidad": "Examen de cáncer de piel",
+    "relacion": "es_tipo_de",
+    "valor": "examen de detección"
+  },
+  {
+    "entidad": "Examen de cáncer de piel",
+    "relacion": "tiene_duracion",
+    "valor": "10 a 15 minutos"
+  },
+  {
+    "entidad": "Examen de cáncer de piel",
+    "relacion": "realizado_por",
+    "valor": "profesional de la salud o dermatólogo"
+  },
+  {
+    "entidad": "Examen de cáncer de piel",
+    "relacion": "tiene_riesgo",
+    "valor": "falsos positivos y negativos"
+  },
+  {
+    "entidad": "Examen de cáncer de piel",
+    "relacion": "util_para",
+    "valor": "detectar cáncer de piel en etapas tempranas"
+  },
+  {
+    "entidad": "Evaluación de salud mental",
+    "relacion": "analiza",
+    "valor": "estado de ánimo, pensamiento, comportamiento y memoria"
+  },
+  {
+    "entidad": "Evaluación de salud mental",
+    "relacion": "alivia",
+    "valor": "signos de trastornos mentales"
+  },
+  {
+    "entidad": "Evaluación de salud mental",
+    "relacion": "indicado_si_tiene",
+    "valor": "trastornos mentales"
+  },
+  {
+    "entidad": "Evaluación de salud mental",
+    "relacion": "diagnostica",
+    "valor": "trastornos mentales"
+  },
+  {
+    "entidad": "Evaluación de salud mental",
+    "relacion": "utiliza_equipo",
+    "valor": "cuestionario"
+  },
+  {
+    "entidad": "Evaluación de salud mental",
+    "relacion": "realizado_por",
+    "valor": "profesional de la salud"
+  },
+  {
+    "entidad": "Evaluación de salud mental",
+    "relacion": "tiene_duracion",
+    "valor": "menos de cinco minutos"
+  },
+  {
+    "entidad": "Evaluación de salud mental",
+    "relacion": "tiene_riesgo",
+    "valor": "dolor leve o moretón en el lugar de la punción"
+  },
+  {
+    "entidad": "Evaluación de salud mental",
+    "relacion": "es_tipo_de",
+    "valor": "prueba de detección"
+  },
+  {
+    "entidad": "Evaluación de salud mental",
+    "relacion": "util_para",
+    "valor": "detectar trastornos mentales"
+  },
+  {
+    "entidad": "Evaluación de salud mental",
+    "relacion": "sugiere_condicion",
+    "valor": "trastorno mental"
+  },
+  {
+    "entidad": "Evaluación de salud mental",
+    "relacion": "es_parte_de",
+    "valor": "evaluaciones de salud mental"
+  },
+  {
+    "entidad": "Evaluación del TDAH",
+    "relacion": "alivia",
+    "valor": "dificultades para prestar atención y concentrarse"
+  },
+  {
+    "entidad": "Evaluación del TDAH",
+    "relacion": "indicado_si_tiene",
+    "valor": "trastorno por déficit de atención con hiperactividad"
+  },
+  {
+    "entidad": "Evaluación del TDAH",
+    "relacion": "diagnostica",
+    "valor": "TDAH"
+  },
+  {
+    "entidad": "Evaluación del TDAH",
+    "relacion": "diagnostica",
+    "valor": "otros trastornos mentales"
+  },
+  {
+    "entidad": "Evaluación del TDAH",
+    "relacion": "util_para",
+    "valor": "detectar el TDAH"
+  },
+  {
+    "entidad": "Evaluación del TDAH",
+    "relacion": "requiere_muestra_de",
+    "valor": "examen físico y cuestionarios"
+  },
+  {
+    "entidad": "Evaluación del TDAH",
+    "relacion": "realizado_por",
+    "valor": "profesional de la salud"
+  },
+  {
+    "entidad": "Evaluación del TDAH",
+    "relacion": "tiene_riesgo",
+    "valor": "ninguno"
+  },
+  {
+    "entidad": "Evaluación del TDAH",
+    "relacion": "es_tipo_de",
+    "valor": "prueba de detección"
+  },
+  {
+    "entidad": "Evaluación del TDAH",
+    "relacion": "mide",
+    "valor": "síntomas de TDAH"
+  },
+  {
+    "entidad": "Evaluación del TDAH",
+    "relacion": "ayuda_diagnosticar",
+    "valor": "trastornos de salud mental"
+  },
+  {
+    "entidad": "Examen dental",
+    "relacion": "alivia",
+    "valor": "dolor de dientes"
+  },
+  {
+    "entidad": "Examen dental",
+    "relacion": "alivia",
+    "valor": "infección"
+  },
+  {
+    "entidad": "Examen dental",
+    "relacion": "alivia",
+    "valor": "pérdida de dientes"
+  },
+  {
+    "entidad": "Examen dental",
+    "relacion": "indicado_si_tiene",
+    "valor": "encías hinchadas"
+  },
+  {
+    "entidad": "Examen dental",
+    "relacion": "indicado_si_tiene",
+    "valor": "enrojecidas o sangrantes"
+  },
+  {
+    "entidad": "Examen dental",
+    "relacion": "indicado_si_tiene",
+    "valor": "dolor de dientes"
+  },
+  {
+    "entidad": "Examen dental",
+    "relacion": "indicado_si_tiene",
+    "valor": "antecedentes familiares de problemas de salud bucal"
+  },
+  {
+    "entidad": "Examen dental",
+    "relacion": "indicado_si_tiene",
+    "valor": "afecciones de salud que aumentan el riesgo de problemas de salud oral"
+  },
+  {
+    "entidad": "Examen dental",
+    "relacion": "diagnostica",
+    "valor": "caries dental"
+  },
+  {
+    "entidad": "Examen dental",
+    "relacion": "diagnostica",
+    "valor": "enfermedad de las encías"
+  },
+  {
+    "entidad": "Examen dental",
+    "relacion": "diagnostica",
+    "valor": "pérdida ósea en la mandíbula"
+  },
+  {
+    "entidad": "Examen dental",
+    "relacion": "diagnostica",
+    "valor": "cáncer oral"
+  },
+  {
+    "entidad": "Examen dental",
+    "relacion": "requiere_muestra_de",
+    "valor": "radiografías dentales"
+  },
+  {
+    "entidad": "Examen dental",
+    "relacion": "tiene_duracion",
+    "valor": "30 minutos a 1 hora"
+  },
+  {
+    "entidad": "Examen dental",
+    "relacion": "tiene_riesgo",
+    "valor": "incomodidad durante la limpieza"
+  },
+  {
+    "entidad": "Examen dental",
+    "relacion": "tiene_riesgo",
+    "valor": "exposición a radiación baja"
+  },
+  {
+    "entidad": "Examen dental",
+    "relacion": "realizado_por",
+    "valor": "dentista"
+  },
+  {
+    "entidad": "Examen dental",
+    "relacion": "realizado_por",
+    "valor": "higienista dental"
+  },
+  {
+    "entidad": "Examen dental",
+    "relacion": "es_tipo_de",
+    "valor": "examen de salud bucal"
+  },
+  {
+    "entidad": "Examen dental",
+    "relacion": "utiliza_equipo",
+    "valor": "herramientas de escalado"
+  },
+  {
+    "entidad": "Examen dental",
+    "relacion": "utiliza_equipo",
+    "valor": "dispositivo de pulido"
+  },
+  {
+    "entidad": "Examen dental",
+    "relacion": "utiliza_equipo",
+    "valor": "radiografías"
+  },
+  {
+    "entidad": "Examen dental",
+    "relacion": "pertenece_a_categoria",
+    "valor": "exámenes dentales"
+  },
+  {
+    "entidad": "Examen dental",
+    "relacion": "util_para",
+    "valor": "prevenir problemas de salud bucal"
+  },
+  {
+    "entidad": "Examen dental",
+    "relacion": "ayuda_diagnosticar",
+    "valor": "problemas de salud bucal"
+  },
+  {
+    "entidad": "Examen dental",
+    "relacion": "sugiere_condicion",
+    "valor": "necesidad de tratamiento dental"
+  },
+  {
+    "entidad": "Elastografía",
+    "relacion": "analiza",
+    "valor": "rigidez de los órganos"
+  },
+  {
+    "entidad": "Elastografía",
+    "relacion": "alivia",
+    "valor": "no aplica"
+  },
+  {
+    "entidad": "Elastografía",
+    "relacion": "requiere_muestra_de",
+    "valor": "no requiere muestra de tejido"
+  },
+  {
+    "entidad": "Elastografía",
+    "relacion": "indicado_si_tiene",
+    "valor": "fibrosis hepática"
+  },
+  {
+    "entidad": "Elastografía",
+    "relacion": "diagnostica",
+    "valor": "fibrosis hepática"
+  },
+  {
+    "entidad": "Elastografía",
+    "relacion": "tiene_duracion",
+    "valor": "10 a 15 segundos"
+  },
+  {
+    "entidad": "Elastografía",
+    "relacion": "tiene_riesgo",
+    "valor": "mínimos riesgos en resonancia magnética"
+  },
+  {
+    "entidad": "Elastografía",
+    "relacion": "pertenece_a_categoria",
+    "valor": "prueba de imagen"
+  },
+  {
+    "entidad": "Elastografía",
+    "relacion": "mide",
+    "valor": "rigidez del hígado"
+  },
+  {
+    "entidad": "Elastografía",
+    "relacion": "detecta",
+    "valor": "cicatrices en el hígado"
+  },
+  {
+    "entidad": "Elastografía",
+    "relacion": "utiliza_equipo",
+    "valor": "dispositivo de ultrasonido o resonancia magnética"
+  },
+  {
+    "entidad": "Elastografía",
+    "relacion": "se_realiza_en",
+    "valor": "consultorios médicos o hospitales"
+  },
+  {
+    "entidad": "Elastografía",
+    "relacion": "util_para",
+    "valor": "comprobar fibrosis hepática"
+  },
+  {
+    "entidad": "Elastografía",
+    "relacion": "indica_condicion",
+    "valor": "fibrosis hepática"
+  },
+  {
+    "entidad": "Elastografía",
+    "relacion": "es_tipo_de",
+    "valor": "prueba de laboratorio"
+  },
+  {
+    "entidad": "Elastografía",
+    "relacion": "ayuda_diagnosticar",
+    "valor": "afecciones del hígado"
+  },
+  {
+    "entidad": "Elastografía",
+    "relacion": "realizado_por",
+    "valor": "técnico de radiología o radiólogo"
+  },
+  {
+    "entidad": "Evaluación de depresión",
+    "relacion": "indicado_si_tiene",
+    "valor": "depresión"
+  },
+  {
+    "entidad": "Evaluación de depresión",
+    "relacion": "alivia",
+    "valor": "síntomas de depresión"
+  },
+  {
+    "entidad": "Evaluación de depresión",
+    "relacion": "diagnostica",
+    "valor": "depresión mayor"
+  },
+  {
+    "entidad": "Evaluación de depresión",
+    "relacion": "diagnostica",
+    "valor": "trastorno depresivo persistente"
+  },
+  {
+    "entidad": "Evaluación de depresión",
+    "relacion": "diagnostica",
+    "valor": "trastorno afectivo estacional"
+  },
+  {
+    "entidad": "Evaluación de depresión",
+    "relacion": "diagnostica",
+    "valor": "depresión post-parto"
+  },
+  {
+    "entidad": "Evaluación de depresión",
+    "relacion": "util_para",
+    "valor": "detectar depresión"
+  },
+  {
+    "entidad": "Evaluación de depresión",
+    "relacion": "es_tipo_de",
+    "valor": "prueba de depresión"
+  },
+  {
+    "entidad": "Evaluación de depresión",
+    "relacion": "realizado_por",
+    "valor": "profesional de la salud"
+  },
+  {
+    "entidad": "Evaluación de depresión",
+    "relacion": "tiene_duracion",
+    "valor": "menos de cinco minutos"
+  },
+  {
+    "entidad": "Análisis de sangre",
+    "relacion": "requiere_muestra_de",
+    "valor": "sangre de una vena del brazo"
+  },
+  {
+    "entidad": "Análisis de sangre",
+    "relacion": "tiene_riesgo",
+    "valor": "dolor leve o moretón en el lugar de la punción"
+  },
+  {
+    "entidad": "Examen de nitrógeno ureico en sangre",
+    "relacion": "mide",
+    "valor": "cantidad de nitrógeno ureico en la sangre"
+  },
+  {
+    "entidad": "Examen de nitrógeno ureico en sangre",
+    "relacion": "diagnostica",
+    "valor": "problemas de riñón"
+  },
+  {
+    "entidad": "Examen de nitrógeno ureico en sangre",
+    "relacion": "indicado_si_tiene",
+    "valor": "enfermedad renal"
+  },
+  {
+    "entidad": "Examen de nitrógeno ureico en sangre",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "fatiga"
+  },
+  {
+    "entidad": "Examen de nitrógeno ureico en sangre",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "picazón"
+  },
+  {
+    "entidad": "Examen de nitrógeno ureico en sangre",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "hinchazón de piernas, pies o tobillos"
+  },
+  {
+    "entidad": "Examen de nitrógeno ureico en sangre",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "calambres musculares"
+  },
+  {
+    "entidad": "Examen de nitrógeno ureico en sangre",
+    "relacion": "requiere_muestra_de",
+    "valor": "sangre de una vena del brazo"
+  },
+  {
+    "entidad": "Examen de nitrógeno ureico en sangre",
+    "relacion": "tiene_duracion",
+    "valor": "menos de cinco minutos"
+  },
+  {
+    "entidad": "Examen de nitrógeno ureico en sangre",
+    "relacion": "tiene_riesgo",
+    "valor": "dolor leve o moretón en el lugar de la punción"
+  },
+  {
+    "entidad": "Examen de nitrógeno ureico en sangre",
+    "relacion": "es_tipo_de",
+    "valor": "examen de laboratorio"
+  },
+  {
+    "entidad": "Examen de nitrógeno ureico en sangre",
+    "relacion": "es_parte_de",
+    "valor": "perfil metabólico completo"
+  },
+  {
+    "entidad": "Examen de bilirrubina en sangre",
+    "relacion": "mide",
+    "valor": "niveles de bilirrubina en la sangre"
+  },
+  {
+    "entidad": "Examen de bilirrubina en sangre",
+    "relacion": "diagnostica",
+    "valor": "ictericia"
+  },
+  {
+    "entidad": "Examen de bilirrubina en sangre",
+    "relacion": "diagnostica",
+    "valor": "enfermedades del hígado"
+  },
+  {
+    "entidad": "Examen de bilirrubina en sangre",
+    "relacion": "diagnostica",
+    "valor": "daño hepático"
+  },
+  {
+    "entidad": "Examen de bilirrubina en sangre",
+    "relacion": "indicado_si_tiene",
+    "valor": "ictericia"
+  },
+  {
+    "entidad": "Examen de bilirrubina en sangre",
+    "relacion": "indicado_si_tiene",
+    "valor": "orina oscura"
+  },
+  {
+    "entidad": "Examen de bilirrubina en sangre",
+    "relacion": "indicado_si_tiene",
+    "valor": "heces color de arcilla"
+  },
+  {
+    "entidad": "Examen de bilirrubina en sangre",
+    "relacion": "indicado_si_tiene",
+    "valor": "dolor de estómago"
+  },
+  {
+    "entidad": "Examen de bilirrubina en sangre",
+    "relacion": "requiere_muestra_de",
+    "valor": "sangre de una vena del brazo"
+  },
+  {
+    "entidad": "Examen de bilirrubina en sangre",
+    "relacion": "tiene_duracion",
+    "valor": "menos de cinco minutos"
+  },
+  {
+    "entidad": "Examen de bilirrubina en sangre",
+    "relacion": "tiene_riesgo",
+    "valor": "dolor leve en el lugar de la punción"
+  },
+  {
+    "entidad": "Examen de bilirrubina en sangre",
+    "relacion": "tiene_riesgo",
+    "valor": "moretón en el lugar de la punción"
+  },
+  {
+    "entidad": "Examen de bilirrubina en sangre",
+    "relacion": "realizado_por",
+    "valor": "profesional de la salud"
+  },
+  {
+    "entidad": "Examen de bilirrubina en sangre",
+    "relacion": "util_para",
+    "valor": "examinar la salud del hígado"
+  },
+  {
+    "entidad": "Examen de bilirrubina en sangre",
+    "relacion": "util_para",
+    "valor": "buscar la causa de ictericia"
+  },
+  {
+    "entidad": "Examen de bilirrubina en sangre",
+    "relacion": "util_para",
+    "valor": "determinar funcionamiento de un tratamiento"
+  },
+  {
+    "entidad": "Examen de bilirrubina en sangre",
+    "relacion": "es_tipo_de",
+    "valor": "examen de sangre"
+  },
+  {
+    "entidad": "Examen de bilirrubina en sangre",
+    "relacion": "es_parte_de",
+    "valor": "pruebas de funcionamiento hepático"
+  },
+  {
+    "entidad": "Evaluación de sarpullido",
+    "relacion": "analiza",
+    "valor": "causa del sarpullido"
+  },
+  {
+    "entidad": "Evaluación de sarpullido",
+    "relacion": "alivia",
+    "valor": "síntomas de sarpullido"
+  },
+  {
+    "entidad": "Evaluación de sarpullido",
+    "relacion": "requiere_muestra_de",
+    "valor": "sangre de una vena o muestra de piel"
+  },
+  {
+    "entidad": "Evaluación de sarpullido",
+    "relacion": "diagnostica",
+    "valor": "dermatitis de contacto alérgica"
+  },
+  {
+    "entidad": "Evaluación de sarpullido",
+    "relacion": "diagnostica",
+    "valor": "dermatitis de contacto irritante"
+  },
+  {
+    "entidad": "Evaluación de sarpullido",
+    "relacion": "diagnostica",
+    "valor": "infecciones como varicela y sarampión"
+  },
+  {
+    "entidad": "Evaluación de sarpullido",
+    "relacion": "tiene_duracion",
+    "valor": "48 a 96 horas para la prueba del parche"
+  },
+  {
+    "entidad": "Evaluación de sarpullido",
+    "relacion": "tiene_riesgo",
+    "valor": "picazón intensa o dolor bajo los parches"
+  },
+  {
+    "entidad": "Evaluación de sarpullido",
+    "relacion": "tiene_riesgo",
+    "valor": "moretones o dolor en el lugar de la punción"
+  },
+  {
+    "entidad": "Evaluación de sarpullido",
+    "relacion": "es_tipo_de",
+    "valor": "prueba de laboratorio"
+  },
+  {
+    "entidad": "Evaluación de sarpullido",
+    "relacion": "ayuda_diagnosticar",
+    "valor": "alergias a sustancias específicas"
+  },
+  {
+    "entidad": "Evaluación de sarpullido",
+    "relacion": "realizado_por",
+    "valor": "profesional de la salud"
+  },
+  {
+    "entidad": "Evaluación del riesgo de caídas",
+    "relacion": "analiza",
+    "valor": "probabilidad de caerse"
+  },
+  {
+    "entidad": "Evaluación del riesgo de caídas",
+    "relacion": "indicado_si_tiene",
+    "valor": "personas mayores de 65 años"
+  },
+  {
+    "entidad": "Evaluación del riesgo de caídas",
+    "relacion": "alivia",
+    "valor": "riesgo de caídas"
+  },
+  {
+    "entidad": "Evaluación del riesgo de caídas",
+    "relacion": "diagnostica",
+    "valor": "riesgo de caídas"
+  },
+  {
+    "entidad": "Evaluación del riesgo de caídas",
+    "relacion": "tiene_riesgo",
+    "valor": "bajo riesgo de caerse durante la evaluación"
+  },
+  {
+    "entidad": "Evaluación del riesgo de caídas",
+    "relacion": "utiliza_equipo",
+    "valor": "herramientas de evaluación del riesgo de caídas"
+  },
+  {
+    "entidad": "Evaluación del riesgo de caídas",
+    "relacion": "se_realiza_en",
+    "valor": "consultorio médico"
+  },
+  {
+    "entidad": "Evaluación del riesgo de caídas",
+    "relacion": "realizado_por",
+    "valor": "profesional de la salud"
+  },
+  {
+    "entidad": "Evaluación del riesgo de caídas",
+    "relacion": "tiene_duracion",
+    "valor": "varía según la evaluación"
+  },
+  {
+    "entidad": "Evaluación del riesgo de caídas",
+    "relacion": "sugiere_condicion",
+    "valor": "riesgo de caídas elevado"
+  },
+  {
+    "entidad": "Examen del pie diabético",
+    "relacion": "analiza",
+    "valor": "problemas con los nervios y la circulación sanguínea"
+  },
+  {
+    "entidad": "Examen del pie diabético",
+    "relacion": "alivia",
+    "valor": "riesgo de infección severa y amputación"
+  },
+  {
+    "entidad": "Examen del pie diabético",
+    "relacion": "indicado_si_tiene",
+    "valor": "diabetes"
+  },
+  {
+    "entidad": "Examen del pie diabético",
+    "relacion": "diagnostica",
+    "valor": "úlceras"
+  },
+  {
+    "entidad": "Examen del pie diabético",
+    "relacion": "diagnostica",
+    "valor": "gangrena"
+  },
+  {
+    "entidad": "Examen del pie diabético",
+    "relacion": "tiene_duracion",
+    "valor": "no especificada"
+  },
+  {
+    "entidad": "Examen del pie diabético",
+    "relacion": "tiene_riesgo",
+    "valor": "ninguno conocido"
+  },
+  {
+    "entidad": "Examen del pie diabético",
+    "relacion": "es_tipo_de",
+    "valor": "examen de laboratorio"
+  },
+  {
+    "entidad": "Examen del pie diabético",
+    "relacion": "utiliza_equipo",
+    "valor": "monofilamento, diapasón"
+  },
+  {
+    "entidad": "Examen del pie diabético",
+    "relacion": "se_realiza_en",
+    "valor": "consultorio médico"
+  },
+  {
+    "entidad": "Examen del pie diabético",
+    "relacion": "realizado_por",
+    "valor": "profesional de la salud, podólogo"
+  },
+  {
+    "entidad": "Ecografía Doppler",
+    "relacion": "analiza",
+    "valor": "circulación sanguínea"
+  },
+  {
+    "entidad": "Ecografía Doppler",
+    "relacion": "diagnostica",
+    "valor": "enfermedades vasculares"
+  },
+  {
+    "entidad": "Ecografía Doppler",
+    "relacion": "diagnostica",
+    "valor": "tumores en los vasos sanguíneos"
+  },
+  {
+    "entidad": "Ecografía Doppler",
+    "relacion": "diagnostica",
+    "valor": "problemas congénitos con la estructura de los vasos sanguíneos"
+  },
+  {
+    "entidad": "Ecografía Doppler",
+    "relacion": "indicado_si_tiene",
+    "valor": "síntomas de circulación anormal"
+  },
+  {
+    "entidad": "Ecografía Doppler",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "trombosis venosa profunda"
+  },
+  {
+    "entidad": "Ecografía Doppler",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "enfermedad arterial periférica"
+  },
+  {
+    "entidad": "Ecografía Doppler",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "venas varicosas"
+  },
+  {
+    "entidad": "Ecografía Doppler",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "accidente cerebrovascular"
+  },
+  {
+    "entidad": "Ecografía Doppler",
+    "relacion": "tiene_duracion",
+    "valor": "variable según el área a examinar"
+  },
+  {
+    "entidad": "Ecografía Doppler",
+    "relacion": "utiliza_equipo",
+    "valor": "transductor ultrasónico"
+  },
+  {
+    "entidad": "Ecografía Doppler",
+    "relacion": "realizado_por",
+    "valor": "sonógrafo"
+  },
+  {
+    "entidad": "Ecografía Doppler",
+    "relacion": "es_tipo_de",
+    "valor": "ultrasonido"
+  },
+  {
+    "entidad": "Ecografía Doppler",
+    "relacion": "se_realiza_en",
+    "valor": "consultorios médicos o hospitales"
+  },
+  {
+    "entidad": "Electroforesis de proteínas por inmunofijación en sangre",
+    "relacion": "mide",
+    "valor": "cantidad y tipo de proteínas en la sangre"
+  },
+  {
+    "entidad": "Electroforesis de proteínas por inmunofijación en sangre",
+    "relacion": "diagnostica",
+    "valor": "mieloma múltiple"
+  },
+  {
+    "entidad": "Electroforesis de proteínas por inmunofijación en sangre",
+    "relacion": "diagnostica",
+    "valor": "linfoma"
+  },
+  {
+    "entidad": "Electroforesis de proteínas por inmunofijación en sangre",
+    "relacion": "diagnostica",
+    "valor": "leucemia"
+  },
+  {
+    "entidad": "Electroforesis de proteínas por inmunofijación en sangre",
+    "relacion": "diagnostica",
+    "valor": "enfermedad de los riñones"
+  },
+  {
+    "entidad": "Electroforesis de proteínas por inmunofijación en sangre",
+    "relacion": "diagnostica",
+    "valor": "enfermedad del hígado"
+  },
+  {
+    "entidad": "Electroforesis de proteínas por inmunofijación en sangre",
+    "relacion": "diagnostica",
+    "valor": "enfermedades autoinmunes"
+  },
+  {
+    "entidad": "Electroforesis de proteínas por inmunofijación en sangre",
+    "relacion": "diagnostica",
+    "valor": "enfermedades neurológicas"
+  },
+  {
+    "entidad": "Electroforesis de proteínas por inmunofijación en sangre",
+    "relacion": "diagnostica",
+    "valor": "desnutrición o malabsorción"
+  },
+  {
+    "entidad": "Electroforesis de proteínas por inmunofijación en sangre",
+    "relacion": "diagnostica",
+    "valor": "gammapatía monoclonal de significado incierto"
+  },
+  {
+    "entidad": "Electroforesis de proteínas por inmunofijación en sangre",
+    "relacion": "requiere_muestra_de",
+    "valor": "sangre de una vena del brazo"
+  },
+  {
+    "entidad": "Electroforesis de proteínas por inmunofijación en sangre",
+    "relacion": "tiene_duracion",
+    "valor": "menos de cinco minutos"
+  },
+  {
+    "entidad": "Electroforesis de proteínas por inmunofijación en sangre",
+    "relacion": "tiene_riesgo",
+    "valor": "dolor leve o moretón en el lugar de la punción"
+  },
+  {
+    "entidad": "Electroforesis de proteínas por inmunofijación en sangre",
+    "relacion": "es_tipo_de",
+    "valor": "prueba de laboratorio"
+  },
+  {
+    "entidad": "Electroforesis de proteínas por inmunofijación en sangre",
+    "relacion": "util_para",
+    "valor": "detectar o controlar problemas de salud relacionados con proteínas"
+  },
+  {
+    "entidad": "Electroforesis de proteínas por inmunofijación en sangre",
+    "relacion": "realizado_por",
+    "valor": "profesional de la salud"
+  },
+  {
+    "entidad": "Electrocardiograma",
+    "relacion": "analiza",
+    "valor": "actividad eléctrica del corazón"
+  },
+  {
+    "entidad": "Electrocardiograma",
+    "relacion": "mide",
+    "valor": "ritmo cardíaco"
+  },
+  {
+    "entidad": "Electrocardiograma",
+    "relacion": "mide",
+    "valor": "tamaño y posición de las cavidades del corazón"
+  },
+  {
+    "entidad": "Electrocardiograma",
+    "relacion": "diagnostica",
+    "valor": "arritmia"
+  },
+  {
+    "entidad": "Electrocardiograma",
+    "relacion": "diagnostica",
+    "valor": "cardiomiopatía"
+  },
+  {
+    "entidad": "Electrocardiograma",
+    "relacion": "diagnostica",
+    "valor": "enfermedad de las arterias coronarias"
+  },
+  {
+    "entidad": "Electrocardiograma",
+    "relacion": "diagnostica",
+    "valor": "ataque cardiaco"
+  },
+  {
+    "entidad": "Electrocardiograma",
+    "relacion": "diagnostica",
+    "valor": "insuficiencia cardiaca"
+  },
+  {
+    "entidad": "Electrocardiograma",
+    "relacion": "diagnostica",
+    "valor": "enfermedades de las válvulas del corazón"
+  },
+  {
+    "entidad": "Electrocardiograma",
+    "relacion": "diagnostica",
+    "valor": "defectos cardiacos congénitos"
+  },
+  {
+    "entidad": "Electrocardiograma",
+    "relacion": "indicado_si_tiene",
+    "valor": "síntomas de una afección cardíaca"
+  },
+  {
+    "entidad": "Electrocardiograma",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "dolor de pecho"
+  },
+  {
+    "entidad": "Electrocardiograma",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "latidos cardíacos rápidos o irregulares"
+  },
+  {
+    "entidad": "Electrocardiograma",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "dificultad para respirar"
+  },
+  {
+    "entidad": "Electrocardiograma",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Electrocardiograma",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "cansancio"
+  },
+  {
+    "entidad": "Electrocardiograma",
+    "relacion": "tiene_duracion",
+    "valor": "unos minutos"
+  },
+  {
+    "entidad": "Electrocardiograma",
+    "relacion": "tiene_riesgo",
+    "valor": "molestia o irritación leve en la piel"
+  },
+  {
+    "entidad": "Electrocardiograma",
+    "relacion": "requiere_muestra_de",
+    "valor": "no requiere preparativos especiales"
+  },
+  {
+    "entidad": "Electrocardiograma",
+    "relacion": "se_realiza_en",
+    "valor": "consultorio, clínica ambulatoria, hospital"
+  },
+  {
+    "entidad": "Electrocardiograma",
+    "relacion": "realizado_por",
+    "valor": "profesional de la salud"
+  },
+  {
+    "entidad": "Electrocardiograma",
+    "relacion": "es_tipo_de",
+    "valor": "prueba de laboratorio"
+  },
+  {
+    "entidad": "Evaluación de trastornos del espectro autista (TEA)",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "signos tempranos de TEA"
+  },
+  {
+    "entidad": "Evaluación de trastornos del espectro autista (TEA)",
+    "relacion": "alivia",
+    "valor": "síntomas de autismo"
+  },
+  {
+    "entidad": "Evaluación de trastornos del espectro autista (TEA)",
+    "relacion": "diagnostica",
+    "valor": "trastorno del espectro autista"
+  },
+  {
+    "entidad": "Evaluación de trastornos del espectro autista (TEA)",
+    "relacion": "requiere_muestra_de",
+    "valor": "no requiere preparación especial"
+  },
+  {
+    "entidad": "Evaluación de trastornos del espectro autista (TEA)",
+    "relacion": "realizado_por",
+    "valor": "pediatra o enfermera"
+  },
+  {
+    "entidad": "Evaluación de trastornos del espectro autista (TEA)",
+    "relacion": "tiene_riesgo",
+    "valor": "no implica ningún riesgo"
+  },
+  {
+    "entidad": "Evaluación de trastornos del espectro autista (TEA)",
+    "relacion": "util_para",
+    "valor": "detectar signos de TEA"
+  },
+  {
+    "entidad": "Evaluación de trastornos del espectro autista (TEA)",
+    "relacion": "es_tipo_de",
+    "valor": "prueba de detección"
+  },
+  {
+    "entidad": "Evaluación de trastornos del espectro autista (TEA)",
+    "relacion": "ayuda_diagnosticar",
+    "valor": "trastorno del espectro autista"
+  },
+  {
+    "entidad": "Evaluación del consumo de alcohol",
+    "relacion": "indicado_si_tiene",
+    "valor": "trastorno por consumo de alcohol"
+  },
+  {
+    "entidad": "Evaluación del consumo de alcohol",
+    "relacion": "alivia",
+    "valor": "consumo no saludable de alcohol"
+  },
+  {
+    "entidad": "Evaluación del consumo de alcohol",
+    "relacion": "mide",
+    "valor": "consumo de alcohol"
+  },
+  {
+    "entidad": "Evaluación del consumo de alcohol",
+    "relacion": "diagnostica",
+    "valor": "trastorno por consumo de alcohol"
+  },
+  {
+    "entidad": "Evaluación del consumo de alcohol",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "síntomas de trastorno por consumo de alcohol"
+  },
+  {
+    "entidad": "Evaluación del consumo de alcohol",
+    "relacion": "realizado_por",
+    "valor": "profesional de la salud"
+  },
+  {
+    "entidad": "Evaluación del consumo de alcohol",
+    "relacion": "pertenece_a_categoria",
+    "valor": "pruebas de detección"
+  },
+  {
+    "entidad": "Evaluación del consumo de alcohol",
+    "relacion": "util_para",
+    "valor": "verificar riesgo de trastorno por consumo de alcohol"
+  },
+  {
+    "entidad": "Evaluación del consumo de alcohol",
+    "relacion": "tiene_riesgo",
+    "valor": "no requiere preparación especial"
+  },
+  {
+    "entidad": "Evaluación del consumo de alcohol",
+    "relacion": "tiene_duracion",
+    "valor": "no especificada"
+  },
+  {
+    "entidad": "Ecografía",
+    "relacion": "analiza",
+    "valor": "órganos, tejidos y estructuras del interior del cuerpo"
+  },
+  {
+    "entidad": "Ecografía",
+    "relacion": "alivia",
+    "valor": "no aplica"
+  },
+  {
+    "entidad": "Ecografía",
+    "relacion": "requiere_muestra_de",
+    "valor": "no aplica"
+  },
+  {
+    "entidad": "Ecografía",
+    "relacion": "indicado_si_tiene",
+    "valor": "signos o síntomas de un problema médico"
+  },
+  {
+    "entidad": "Ecografía",
+    "relacion": "diagnostica",
+    "valor": "trastornos genéticos"
+  },
+  {
+    "entidad": "Ecografía",
+    "relacion": "diagnostica",
+    "valor": "defectos congénitos"
+  },
+  {
+    "entidad": "Ecografía",
+    "relacion": "diagnostica",
+    "valor": "obstrucciones, crecimientos y problemas estructurales"
+  },
+  {
+    "entidad": "Ecografía",
+    "relacion": "tiene_duracion",
+    "valor": "no especificada"
+  },
+  {
+    "entidad": "Ecografía",
+    "relacion": "tiene_riesgo",
+    "valor": "puede afectar fluidos y tejidos del cuerpo"
+  },
+  {
+    "entidad": "Ecografía",
+    "relacion": "pertenece_a_categoria",
+    "valor": "prueba de diagnóstico por imagen"
+  },
+  {
+    "entidad": "Ecografía",
+    "relacion": "mide",
+    "valor": "tamaño, posición y ritmo cardiaco del feto"
+  },
+  {
+    "entidad": "Ecografía",
+    "relacion": "detecta",
+    "valor": "defectos de nacimiento"
+  },
+  {
+    "entidad": "Ecografía",
+    "relacion": "es_parte_de",
+    "valor": "exámenes de embarazo"
+  },
+  {
+    "entidad": "Ecografía",
+    "relacion": "utiliza_equipo",
+    "valor": "transductor"
+  },
+  {
+    "entidad": "Ecografía",
+    "relacion": "se_realiza_en",
+    "valor": "consultorios médicos o hospitales"
+  },
+  {
+    "entidad": "Ecografía",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "dolor, hinchazón"
+  },
+  {
+    "entidad": "Ecografía",
+    "relacion": "realizado_por",
+    "valor": "ecografista"
+  },
+  {
+    "entidad": "Ecografía",
+    "relacion": "ayuda_diagnosticar",
+    "valor": "afecciones médicas que involucran tejidos blandos"
+  },
+  {
+    "entidad": "Evaluación de quemaduras",
+    "relacion": "analiza",
+    "valor": "calor, químicos, electricidad, radiación, fricción"
+  },
+  {
+    "entidad": "Evaluación de quemaduras",
+    "relacion": "alivia",
+    "valor": "dolor"
+  },
+  {
+    "entidad": "Evaluación de quemaduras",
+    "relacion": "indicado_si_tiene",
+    "valor": "quemaduras menores, moderadas o graves"
+  },
+  {
+    "entidad": "Evaluación de quemaduras",
+    "relacion": "diagnostica",
+    "valor": "gravedad de la quemadura"
+  },
+  {
+    "entidad": "Evaluación de quemaduras",
+    "relacion": "tiene_riesgo",
+    "valor": "complicaciones respiratorias, shock, infecciones, sepsis"
+  },
+  {
+    "entidad": "Evaluación de quemaduras",
+    "relacion": "util_para",
+    "valor": "decidir tratamiento y pronóstico de sanación"
+  },
+  {
+    "entidad": "Evaluación de quemaduras",
+    "relacion": "es_tipo_de",
+    "valor": "examen médico"
+  },
+  {
+    "entidad": "Evaluación de quemaduras",
+    "relacion": "realizado_por",
+    "valor": "profesionales de salud"
+  },
+  {
+    "entidad": "Evaluación de quemaduras",
+    "relacion": "se_realiza_en",
+    "valor": "hospital o centro especializado"
+  },
+  {
+    "entidad": "Evaluación de quemaduras",
+    "relacion": "mide",
+    "valor": "profundidad y extensión de la quemadura"
+  },
+  {
+    "entidad": "Evaluación de quemaduras",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "quemaduras de primer, segundo y tercer grado"
+  },
+  {
+    "entidad": "Examen neurológico",
+    "relacion": "analiza",
+    "valor": "sistema nervioso"
+  },
+  {
+    "entidad": "Examen neurológico",
+    "relacion": "alivia",
+    "valor": "síntomas del sistema nervioso"
+  },
+  {
+    "entidad": "Examen neurológico",
+    "relacion": "indicado_si_tiene",
+    "valor": "trastornos del sistema nervioso"
+  },
+  {
+    "entidad": "Examen neurológico",
+    "relacion": "diagnostica",
+    "valor": "enfermedades nerviosas degenerativas"
+  },
+  {
+    "entidad": "Examen neurológico",
+    "relacion": "diagnostica",
+    "valor": "problemas de los nervios por diabetes"
+  },
+  {
+    "entidad": "Examen neurológico",
+    "relacion": "diagnostica",
+    "valor": "epilepsia"
+  },
+  {
+    "entidad": "Examen neurológico",
+    "relacion": "diagnostica",
+    "valor": "trastornos de dolor de cabeza"
+  },
+  {
+    "entidad": "Examen neurológico",
+    "relacion": "diagnostica",
+    "valor": "meningitis"
+  },
+  {
+    "entidad": "Examen neurológico",
+    "relacion": "diagnostica",
+    "valor": "esclerosis múltiple"
+  },
+  {
+    "entidad": "Examen neurológico",
+    "relacion": "util_para",
+    "valor": "controlar la salud del sistema nervioso"
+  },
+  {
+    "entidad": "Examen neurológico",
+    "relacion": "util_para",
+    "valor": "averiguar si un trastorno está causando síntomas"
+  },
+  {
+    "entidad": "Examen neurológico",
+    "relacion": "util_para",
+    "valor": "supervisar una afección nerviosa"
+  },
+  {
+    "entidad": "Examen neurológico",
+    "relacion": "se_realiza_en",
+    "valor": "consultorio de un profesional de la salud"
+  },
+  {
+    "entidad": "Examen neurológico",
+    "relacion": "se_realiza_en",
+    "valor": "sala de emergencias"
+  },
+  {
+    "entidad": "Examen neurológico",
+    "relacion": "se_realiza_en",
+    "valor": "hospital"
+  },
+  {
+    "entidad": "Examen neurológico",
+    "relacion": "realizado_por",
+    "valor": "neurólogo"
+  },
+  {
+    "entidad": "Examen neurológico",
+    "relacion": "es_tipo_de",
+    "valor": "examen neurológico"
+  },
+  {
+    "entidad": "Examen neurológico",
+    "relacion": "tiene_riesgo",
+    "valor": "ninguno"
+  },
+  {
+    "entidad": "Elastasa fecal",
+    "relacion": "mide",
+    "valor": "cantidad de elastasa en las heces"
+  },
+  {
+    "entidad": "Elastasa fecal",
+    "relacion": "alivia",
+    "valor": "dolor abdominal"
+  },
+  {
+    "entidad": "Elastasa fecal",
+    "relacion": "alivia",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Elastasa fecal",
+    "relacion": "indicado_si_tiene",
+    "valor": "insuficiencia pancreática exocrina"
+  },
+  {
+    "entidad": "Elastasa fecal",
+    "relacion": "diagnostica",
+    "valor": "insuficiencia pancreática exocrina"
+  },
+  {
+    "entidad": "Elastasa fecal",
+    "relacion": "requiere_muestra_de",
+    "valor": "muestra de heces"
+  },
+  {
+    "entidad": "Elastasa fecal",
+    "relacion": "tiene_riesgo",
+    "valor": "ninguno conocido"
+  },
+  {
+    "entidad": "Elastasa fecal",
+    "relacion": "util_para",
+    "valor": "detectar insuficiencia pancreática exocrina"
+  },
+  {
+    "entidad": "Elastasa fecal",
+    "relacion": "es_tipo_de",
+    "valor": "prueba de laboratorio"
+  },
+  {
+    "entidad": "Elastasa fecal",
+    "relacion": "realizado_por",
+    "valor": "profesional de la salud"
+  },
+  {
+    "entidad": "Evaluación del riesgo de enfermedad cardíaca",
+    "relacion": "mide",
+    "valor": "riesgo de enfermedad del corazón o ECV"
+  },
+  {
+    "entidad": "Evaluación del riesgo de enfermedad cardíaca",
+    "relacion": "indicado_si_tiene",
+    "valor": "probabilidad de tener una enfermedad cardíaca en los próximos 10 años"
+  },
+  {
+    "entidad": "Evaluación del riesgo de enfermedad cardíaca",
+    "relacion": "indicado_si_tiene",
+    "valor": "antecedentes familiares de enfermedades cardíacas"
+  },
+  {
+    "entidad": "Evaluación del riesgo de enfermedad cardíaca",
+    "relacion": "requiere_muestra_de",
+    "valor": "cuestionario sobre factores de riesgo"
+  },
+  {
+    "entidad": "Evaluación del riesgo de enfermedad cardíaca",
+    "relacion": "es_tipo_de",
+    "valor": "herramienta de detección"
+  },
+  {
+    "entidad": "Evaluación del riesgo de enfermedad cardíaca",
+    "relacion": "util_para",
+    "valor": "prevenir o reducir posibilidades de desarrollar enfermedad cardíaca"
+  },
+  {
+    "entidad": "Evaluación del riesgo de enfermedad cardíaca",
+    "relacion": "realizado_por",
+    "valor": "profesional de la salud"
+  },
+  {
+    "entidad": "Evaluación del riesgo de enfermedad cardíaca",
+    "relacion": "tiene_duracion",
+    "valor": "sin duración específica"
+  },
+  {
+    "entidad": "Evaluación del riesgo de enfermedad cardíaca",
+    "relacion": "tiene_riesgo",
+    "valor": "contestar el cuestionario no implica ningún riesgo"
+  },
+  {
+    "entidad": "Examen de isoenzimas de la lactato deshidrogenasa (LDH)",
+    "relacion": "mide",
+    "valor": "isoenzimas de lactato deshidrogenasa en sangre"
+  },
+  {
+    "entidad": "Examen de isoenzimas de la lactato deshidrogenasa (LDH)",
+    "relacion": "requiere_muestra_de",
+    "valor": "sangre de una vena del brazo"
+  },
+  {
+    "entidad": "Examen de isoenzimas de la lactato deshidrogenasa (LDH)",
+    "relacion": "diagnostica",
+    "valor": "daño en tejidos"
+  },
+  {
+    "entidad": "Examen de isoenzimas de la lactato deshidrogenasa (LDH)",
+    "relacion": "indicado_si_tiene",
+    "valor": "síntomas que sugieren daño en los tejidos"
+  },
+  {
+    "entidad": "Examen de isoenzimas de la lactato deshidrogenasa (LDH)",
+    "relacion": "alivia",
+    "valor": "no aplica"
+  },
+  {
+    "entidad": "Examen de isoenzimas de la lactato deshidrogenasa (LDH)",
+    "relacion": "tiene_duracion",
+    "valor": "menos de cinco minutos"
+  },
+  {
+    "entidad": "Examen de isoenzimas de la lactato deshidrogenasa (LDH)",
+    "relacion": "tiene_riesgo",
+    "valor": "dolor leve o moretón en el lugar de la punción"
+  },
+  {
+    "entidad": "Examen de isoenzimas de la lactato deshidrogenasa (LDH)",
+    "relacion": "es_tipo_de",
+    "valor": "prueba de laboratorio"
+  },
+  {
+    "entidad": "Examen de isoenzimas de la lactato deshidrogenasa (LDH)",
+    "relacion": "util_para",
+    "valor": "verificar daño en tejidos"
+  },
+  {
+    "entidad": "Examen de isoenzimas de la lactato deshidrogenasa (LDH)",
+    "relacion": "ayuda_diagnosticar",
+    "valor": "afecciones agudas y crónicas"
+  },
+  {
+    "entidad": "Examen de isoenzimas de la lactato deshidrogenasa (LDH)",
+    "relacion": "realizado_por",
+    "valor": "profesional de la salud"
+  },
+  {
+    "entidad": "Evaluación de la depresión posparto",
+    "relacion": "indicado_si_tiene",
+    "valor": "depresión relacionada con tener un bebé"
+  },
+  {
+    "entidad": "Evaluación de la depresión posparto",
+    "relacion": "alivia",
+    "valor": "síntomas de depresión posparto"
+  },
+  {
+    "entidad": "Evaluación de la depresión posparto",
+    "relacion": "diagnostica",
+    "valor": "depresión posparto"
+  },
+  {
+    "entidad": "Evaluación de la depresión posparto",
+    "relacion": "util_para",
+    "valor": "averiguar si tiene depresión después de dar a luz"
+  },
+  {
+    "entidad": "Evaluación de la depresión posparto",
+    "relacion": "es_tipo_de",
+    "valor": "evaluación"
+  },
+  {
+    "entidad": "Evaluación de la depresión posparto",
+    "relacion": "realizado_por",
+    "valor": "profesional de la salud"
+  },
+  {
+    "entidad": "Evaluación de la depresión posparto",
+    "relacion": "tiene_duracion",
+    "valor": "menos de cinco minutos"
+  },
+  {
+    "entidad": "Evaluación de la depresión posparto",
+    "relacion": "requiere_muestra_de",
+    "valor": "cuestionario"
+  },
+  {
+    "entidad": "Evaluación de la depresión posparto",
+    "relacion": "pertenece_a_categoria",
+    "valor": "pruebas de salud mental"
+  },
+  {
+    "entidad": "Escala de depresión posparto de Edimburgo",
+    "relacion": "es_tipo_de",
+    "valor": "cuestionario"
+  },
+  {
+    "entidad": "Evaluación de obesidad",
+    "relacion": "mide",
+    "valor": "cantidad de grasa corporal"
+  },
+  {
+    "entidad": "Evaluación de obesidad",
+    "relacion": "indicado_si_tiene",
+    "valor": "obesidad"
+  },
+  {
+    "entidad": "Evaluación de obesidad",
+    "relacion": "indicado_si_tiene",
+    "valor": "sobrepeso"
+  },
+  {
+    "entidad": "Evaluación de obesidad",
+    "relacion": "alivia",
+    "valor": "riesgo de problemas de salud relacionados con la grasa corporal"
+  },
+  {
+    "entidad": "Evaluación de obesidad",
+    "relacion": "diagnostica",
+    "valor": "obesidad"
+  },
+  {
+    "entidad": "Evaluación de obesidad",
+    "relacion": "diagnostica",
+    "valor": "sobrepeso"
+  },
+  {
+    "entidad": "Evaluación de obesidad",
+    "relacion": "tiene_duracion",
+    "valor": "no especificada"
+  },
+  {
+    "entidad": "Evaluación de obesidad",
+    "relacion": "realizado_por",
+    "valor": "profesional de la salud"
+  },
+  {
+    "entidad": "Evaluación de obesidad",
+    "relacion": "pertenece_a_categoria",
+    "valor": "exámenes de laboratorio"
+  },
+  {
+    "entidad": "Evaluación de obesidad",
+    "relacion": "utiliza_equipo",
+    "valor": "calculadora de IMC"
+  },
+  {
+    "entidad": "Evaluación de obesidad",
+    "relacion": "se_realiza_en",
+    "valor": "consultorio médico"
+  },
+  {
+    "entidad": "Evaluación de obesidad",
+    "relacion": "ayuda_diagnosticar",
+    "valor": "exceso de grasa corporal"
+  },
+  {
+    "entidad": "Evaluación de obesidad",
+    "relacion": "sugiere_condicion",
+    "valor": "obesidad o sobrepeso"
+  },
+  {
+    "entidad": "Evaluación de trastornos del espectro alcohólico fetal (TEAF)",
+    "relacion": "indicado_si_tiene",
+    "valor": "exposición prenatal al alcohol"
+  },
+  {
+    "entidad": "Evaluación de trastornos del espectro alcohólico fetal (TEAF)",
+    "relacion": "alivia",
+    "valor": "síntomas de TEAF"
+  },
+  {
+    "entidad": "Evaluación de trastornos del espectro alcohólico fetal (TEAF)",
+    "relacion": "diagnostica",
+    "valor": "trastornos del espectro alcohólico fetal"
+  },
+  {
+    "entidad": "Evaluación de trastornos del espectro alcohólico fetal (TEAF)",
+    "relacion": "mide",
+    "valor": "discapacidades intelectuales y retrasos en el desarrollo"
+  },
+  {
+    "entidad": "Evaluación de trastornos del espectro alcohólico fetal (TEAF)",
+    "relacion": "detecta",
+    "valor": "rasgos físicos anormales"
+  },
+  {
+    "entidad": "Evaluación de trastornos del espectro alcohólico fetal (TEAF)",
+    "relacion": "tiene_riesgo",
+    "valor": "ninguno"
+  },
+  {
+    "entidad": "Evaluación de trastornos del espectro alcohólico fetal (TEAF)",
+    "relacion": "requiere_muestra_de",
+    "valor": "examen físico"
+  },
+  {
+    "entidad": "Evaluación de trastornos del espectro alcohólico fetal (TEAF)",
+    "relacion": "es_tipo_de",
+    "valor": "evaluación diagnóstica"
+  },
+  {
+    "entidad": "Evaluación de trastornos del espectro alcohólico fetal (TEAF)",
+    "relacion": "realizado_por",
+    "valor": "profesional de la salud"
+  },
+  {
+    "entidad": "Evaluación de trastornos del espectro alcohólico fetal (TEAF)",
+    "relacion": "util_para",
+    "valor": "determinar si un niño tiene TEAF"
+  },
+  {
+    "entidad": "Electromiografía y estudios de conducción nerviosa",
+    "relacion": "analiza",
+    "valor": "señales eléctricas de los músculos"
+  },
+  {
+    "entidad": "Electromiografía y estudios de conducción nerviosa",
+    "relacion": "mide",
+    "valor": "velocidad de conducción de señales eléctricas a través de los nervios"
+  },
+  {
+    "entidad": "Electromiografía y estudios de conducción nerviosa",
+    "relacion": "alivia",
+    "valor": "debilidad muscular"
+  },
+  {
+    "entidad": "Electromiografía y estudios de conducción nerviosa",
+    "relacion": "alivia",
+    "valor": "hormigueo"
+  },
+  {
+    "entidad": "Electromiografía y estudios de conducción nerviosa",
+    "relacion": "alivia",
+    "valor": "entumecimiento"
+  },
+  {
+    "entidad": "Electromiografía y estudios de conducción nerviosa",
+    "relacion": "alivia",
+    "valor": "calambres"
+  },
+  {
+    "entidad": "Electromiografía y estudios de conducción nerviosa",
+    "relacion": "alivia",
+    "valor": "espasmos musculares"
+  },
+  {
+    "entidad": "Electromiografía y estudios de conducción nerviosa",
+    "relacion": "alivia",
+    "valor": "parálisis"
+  },
+  {
+    "entidad": "Electromiografía y estudios de conducción nerviosa",
+    "relacion": "indicado_si_tiene",
+    "valor": "trastornos musculares"
+  },
+  {
+    "entidad": "Electromiografía y estudios de conducción nerviosa",
+    "relacion": "indicado_si_tiene",
+    "valor": "trastornos nerviosos"
+  },
+  {
+    "entidad": "Electromiografía y estudios de conducción nerviosa",
+    "relacion": "diagnostica",
+    "valor": "síndrome del túnel carpiano"
+  },
+  {
+    "entidad": "Electromiografía y estudios de conducción nerviosa",
+    "relacion": "diagnostica",
+    "valor": "hernia de disco"
+  },
+  {
+    "entidad": "Electromiografía y estudios de conducción nerviosa",
+    "relacion": "diagnostica",
+    "valor": "síndrome de Guillain-Barré"
+  },
+  {
+    "entidad": "Electromiografía y estudios de conducción nerviosa",
+    "relacion": "diagnostica",
+    "valor": "miastenia grave"
+  },
+  {
+    "entidad": "Electromiografía y estudios de conducción nerviosa",
+    "relacion": "diagnostica",
+    "valor": "distrofia muscular"
+  },
+  {
+    "entidad": "Electromiografía y estudios de conducción nerviosa",
+    "relacion": "diagnostica",
+    "valor": "enfermedad de Charcot-Marie-Tooth"
+  },
+  {
+    "entidad": "Electromiografía y estudios de conducción nerviosa",
+    "relacion": "diagnostica",
+    "valor": "esclerosis lateral amiotrófica"
+  },
+  {
+    "entidad": "Electromiografía y estudios de conducción nerviosa",
+    "relacion": "tiene_duracion",
+    "valor": "30 a 60 minutos"
+  },
+  {
+    "entidad": "Electromiografía y estudios de conducción nerviosa",
+    "relacion": "tiene_duracion",
+    "valor": "15 minutos a más de una hora"
+  },
+  {
+    "entidad": "Electromiografía y estudios de conducción nerviosa",
+    "relacion": "tiene_riesgo",
+    "valor": "dolor leve durante la prueba"
+  },
+  {
+    "entidad": "Electromiografía y estudios de conducción nerviosa",
+    "relacion": "tiene_riesgo",
+    "valor": "sensación de hormigueo"
+  },
+  {
+    "entidad": "Electromiografía y estudios de conducción nerviosa",
+    "relacion": "tiene_riesgo",
+    "valor": "dolor en los músculos evaluados después de la prueba"
+  },
+  {
+    "entidad": "Electromiografía y estudios de conducción nerviosa",
+    "relacion": "tiene_riesgo",
+    "valor": "moretones en la piel"
+  },
+  {
+    "entidad": "Electromiografía y estudios de conducción nerviosa",
+    "relacion": "utiliza_equipo",
+    "valor": "electrodos"
+  },
+  {
+    "entidad": "Electromiografía y estudios de conducción nerviosa",
+    "relacion": "realizado_por",
+    "valor": "profesional de la salud"
+  },
+  {
+    "entidad": "Examen de la vista",
+    "relacion": "analiza",
+    "valor": "visión de cerca y de lejos"
+  },
+  {
+    "entidad": "Examen de la vista",
+    "relacion": "alivia",
+    "valor": "problemas de visión"
+  },
+  {
+    "entidad": "Examen de la vista",
+    "relacion": "indicado_si_tiene",
+    "valor": "ambliopía"
+  },
+  {
+    "entidad": "Examen de la vista",
+    "relacion": "indicado_si_tiene",
+    "valor": "estrabismo"
+  },
+  {
+    "entidad": "Examen de la vista",
+    "relacion": "indicado_si_tiene",
+    "valor": "miopía"
+  },
+  {
+    "entidad": "Examen de la vista",
+    "relacion": "indicado_si_tiene",
+    "valor": "hiperopía"
+  },
+  {
+    "entidad": "Examen de la vista",
+    "relacion": "indicado_si_tiene",
+    "valor": "astigmatismo"
+  },
+  {
+    "entidad": "Examen de la vista",
+    "relacion": "indicado_si_tiene",
+    "valor": "presbicia"
+  },
+  {
+    "entidad": "Examen de la vista",
+    "relacion": "diagnostica",
+    "valor": "trastornos de la visión"
+  },
+  {
+    "entidad": "Examen de la vista",
+    "relacion": "tiene_duracion",
+    "valor": "breve"
+  },
+  {
+    "entidad": "Examen de la vista",
+    "relacion": "tiene_riesgo",
+    "valor": "ninguno"
+  },
+  {
+    "entidad": "Examen de la vista",
+    "relacion": "es_tipo_de",
+    "valor": "examen de ojos"
+  },
+  {
+    "entidad": "Examen de la vista",
+    "relacion": "realizado_por",
+    "valor": "oftalmólogos"
+  },
+  {
+    "entidad": "Examen de la vista",
+    "relacion": "realizado_por",
+    "valor": "optometristas"
+  },
+  {
+    "entidad": "Examen de la vista",
+    "relacion": "utiliza_equipo",
+    "valor": "tabla de visión ocular"
+  },
+  {
+    "entidad": "Examen de la vista",
+    "relacion": "util_para",
+    "valor": "detectar problemas de visión"
+  },
+  {
+    "entidad": "Examen de la vista",
+    "relacion": "detecta",
+    "valor": "afecciones comunes del ojo"
+  }
+]

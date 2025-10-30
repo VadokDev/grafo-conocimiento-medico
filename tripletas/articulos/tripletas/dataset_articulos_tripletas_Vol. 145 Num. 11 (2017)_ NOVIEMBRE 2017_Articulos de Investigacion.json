@@ -1,0 +1,747 @@
+[
+  {
+    "entidad": "Cirrhosis",
+    "relacion": "es un",
+    "valor": "problema de salud pública"
+  },
+  {
+    "entidad": "Cirrhosis",
+    "relacion": "causa",
+    "valor": "mortalidad"
+  },
+  {
+    "entidad": "Región Metropolitana de Chile",
+    "relacion": "presenta",
+    "valor": "alto riesgo de mortalidad por cirrosis"
+  },
+  {
+    "entidad": "Región del Bíobío",
+    "relacion": "presenta",
+    "valor": "alto riesgo de mortalidad por cirrosis"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "proporciona",
+    "valor": "datos de mortalidad"
+  },
+  {
+    "entidad": "mortalidad por cirrosis",
+    "relacion": "asociada a",
+    "valor": "nivel educativo bajo"
+  },
+  {
+    "entidad": "mortalidad por cirrosis",
+    "relacion": "asociada a",
+    "valor": "porcentaje de población rural"
+  },
+  {
+    "entidad": "mortalidad por cirrosis",
+    "relacion": "asociada a",
+    "valor": "población perteneciente a pueblos originarios"
+  },
+  {
+    "entidad": "mortalidad por cirrosis",
+    "relacion": "asociada a",
+    "valor": "población económicamente inserta en el sector primario"
+  },
+  {
+    "entidad": "mortalidad por cirrosis",
+    "relacion": "asociada a",
+    "valor": "población económicamente inserta en el sector secundario"
+  },
+  {
+    "entidad": "mortalidad por cirrosis",
+    "relacion": "varía según",
+    "valor": "territorio"
+  },
+  {
+    "entidad": "Becas Chile-CONICYT",
+    "relacion": "financia",
+    "valor": "Álvaro Castillo-Carniglia"
+  },
+  {
+    "entidad": "Robertson Fellow in Violence Prevention Research",
+    "relacion": "financia",
+    "valor": "Álvaro Castillo-Carniglia"
+  },
+  {
+    "entidad": "Estudio de Carga de Enfermedad y Carga Atribuible",
+    "relacion": "indica",
+    "valor": "consumo problemático de alcohol"
+  },
+  {
+    "entidad": "consumo de alcohol",
+    "relacion": "responsable de",
+    "valor": "pérdida de años de vida saludables"
+  },
+  {
+    "entidad": "consumo de alcohol",
+    "relacion": "responsable de",
+    "valor": "muertes atribuidas al consumo de alcohol"
+  },
+  {
+    "entidad": "Región Metropolitana",
+    "relacion": "tiene",
+    "valor": "mayor riesgo de mortalidad en comunas urbanas"
+  },
+  {
+    "entidad": "Región del Bíobío",
+    "relacion": "tiene",
+    "valor": "mayor porcentaje de comunas con riesgo atribuible al alcohol"
+  },
+  {
+    "entidad": "mortalidad por cirrosis",
+    "relacion": "se relaciona con",
+    "valor": "determinantes sociales de la salud"
+  },
+  {
+    "entidad": "mortalidad por cirrosis",
+    "relacion": "varía según",
+    "valor": "sexo"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen",
+    "valor": "mayor riesgo asociado a servicios"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "tienen",
+    "valor": "mayor riesgo asociado a educación baja"
+  },
+  {
+    "entidad": "Guías Clínicas",
+    "relacion": "son",
+    "valor": "enunciados que incluyen recomendaciones para optimizar el cuidado de los pacientes"
+  },
+  {
+    "entidad": "Ministerio de Salud (MINSAL)",
+    "relacion": "considera",
+    "valor": "diseminación de Guías Clínicas"
+  },
+  {
+    "entidad": "Régimen de Garantías Explícitas en Salud (RGES)",
+    "relacion": "es parte de",
+    "valor": "la reforma de salud en Chile"
+  },
+  {
+    "entidad": "atributos de recomendaciones",
+    "relacion": "influencian",
+    "valor": "implementación en práctica clínica"
+  },
+  {
+    "entidad": "Diabetes Mellitus 2",
+    "relacion": "es una",
+    "valor": "condición clínica evaluada"
+  },
+  {
+    "entidad": "Hipertensión Arterial",
+    "relacion": "es una",
+    "valor": "condición clínica evaluada"
+  },
+  {
+    "entidad": "Depresión",
+    "relacion": "es una",
+    "valor": "condición clínica evaluada"
+  },
+  {
+    "entidad": "Asma",
+    "relacion": "es una",
+    "valor": "condición clínica evaluada"
+  },
+  {
+    "entidad": "adherencia a recomendaciones",
+    "relacion": "es evaluada mediante",
+    "valor": "auditoría de registros clínicos"
+  },
+  {
+    "entidad": "atributos evaluados",
+    "relacion": "incluyen",
+    "valor": "naturaleza, ejecutabilidad, complejidad, flexibilidad, experimentabilidad, observabilidad"
+  },
+  {
+    "entidad": "recomendaciones restrictivas",
+    "relacion": "tienen",
+    "valor": "mayor adherencia que prescriptivas"
+  },
+  {
+    "entidad": "recomendaciones rígidas",
+    "relacion": "tienen",
+    "valor": "mayor adherencia que flexibles"
+  },
+  {
+    "entidad": "recomendaciones experimentables",
+    "relacion": "tienen",
+    "valor": "mayor adherencia que no experimentables"
+  },
+  {
+    "entidad": "Comité de Ética en Investigación",
+    "relacion": "aprueba",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "es",
+    "valor": "la institución donde se realizó el estudio"
+  },
+  {
+    "entidad": "Centro Médico San Joaquín",
+    "relacion": "es",
+    "valor": "un lugar de correspondencia para el estudio"
+  },
+  {
+    "entidad": "infertilidad",
+    "relacion": "afecta a",
+    "valor": "12-15% de la población chilena en edad reproductiva"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "es evaluada por",
+    "valor": "cuestionario FertiQoL"
+  },
+  {
+    "entidad": "FertiQoL",
+    "relacion": "evalúa",
+    "valor": "bienestar psicosocial y experiencia de tratamiento"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "reciben",
+    "valor": "atención médica en el sistema de salud pública chileno"
+  },
+  {
+    "entidad": "duración de infertilidad",
+    "relacion": "afecta a",
+    "valor": "calidad de vida"
+  },
+  {
+    "entidad": "acceso a atención",
+    "relacion": "afecta a",
+    "valor": "calidad de vida de los usuarios"
+  },
+  {
+    "entidad": "Instituto de Investigaciones Materno Infantil (IDIMI)",
+    "relacion": "es",
+    "valor": "centro de referencia nacional para fertilización in vitro"
+  },
+  {
+    "entidad": "satisfacción marital",
+    "relacion": "contribuye a",
+    "valor": "bienestar personal"
+  },
+  {
+    "entidad": "falta de acceso a atención reproductiva",
+    "relacion": "causa",
+    "valor": "disminución de calidad de vida"
+  },
+  {
+    "entidad": "organización de servicios médicos",
+    "relacion": "afecta a",
+    "valor": "satisfacción de los pacientes"
+  },
+  {
+    "entidad": "pacientes de regiones",
+    "relacion": "reportan",
+    "valor": "menor satisfacción médica que pacientes de la capital"
+  },
+  {
+    "entidad": "calidad de servicios reproductivos",
+    "relacion": "es percibida como",
+    "valor": "deficiente por los pacientes"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "reportan",
+    "valor": "mayor insatisfacción con los servicios de salud reproductiva"
+  },
+  {
+    "entidad": "interacción clínica",
+    "relacion": "debe ser",
+    "valor": "mejorada para aumentar la calidad de vida"
+  },
+  {
+    "entidad": "Ministerio de Salud",
+    "relacion": "establece",
+    "valor": "protocolos para tratamiento de infertilidad"
+  },
+  {
+    "entidad": "atención psicológica",
+    "relacion": "debe ser",
+    "valor": "integrada al tratamiento reproductivo"
+  },
+  {
+    "entidad": "ciclos de tratamiento",
+    "relacion": "son",
+    "valor": "iterativos y con resultados inciertos"
+  },
+  {
+    "entidad": "calidad de gestión sanitaria",
+    "relacion": "incide en",
+    "valor": "estado emocional de los pacientes"
+  },
+  {
+    "entidad": "PET/CT",
+    "relacion": "utiliza",
+    "valor": "F18-fluorodeoxyglucose para detectar tumores"
+  },
+  {
+    "entidad": "neoplasias malignas primarias múltiples (NMPM)",
+    "relacion": "se define como",
+    "valor": "dos o más tumores malignos distintos en el mismo paciente"
+  },
+  {
+    "entidad": "NMPM",
+    "relacion": "se clasifica en",
+    "valor": "sincrónicas y metacrónicas"
+  },
+  {
+    "entidad": "cáncer sincrónico",
+    "relacion": "se define como",
+    "valor": "tumores detectados simultáneamente o hasta 6 meses del diagnóstico del primer tumor"
+  },
+  {
+    "entidad": "cáncer metacrónico",
+    "relacion": "se define como",
+    "valor": "tumores diagnosticados entre 6 meses y 10 años después del primer cáncer"
+  },
+  {
+    "entidad": "PET/CT",
+    "relacion": "detecta",
+    "valor": "neoplasias insospechadas"
+  },
+  {
+    "entidad": "hallazgos incidentales",
+    "relacion": "pueden ser",
+    "valor": "neoplasias malignas, metástasis atípicas, falsos positivos o tumores benignos"
+  },
+  {
+    "entidad": "F18-fluorodeoxiglucosa",
+    "relacion": "se utiliza en",
+    "valor": "PET/CT para detectar lesiones"
+  },
+  {
+    "entidad": "pacientes oncológicos",
+    "relacion": "presentan",
+    "valor": "frecuencia de NMPM"
+  },
+  {
+    "entidad": "NMPM",
+    "relacion": "se confirma en",
+    "valor": "8% de los pacientes oncológicos"
+  },
+  {
+    "entidad": "PET/CT",
+    "relacion": "modifica",
+    "valor": "tratamiento en más del 40% de los casos"
+  },
+  {
+    "entidad": "falsos positivos",
+    "relacion": "son causados por",
+    "valor": "hipercaptación fisiológica de glucosa"
+  },
+  {
+    "entidad": "neoplasias malignas",
+    "relacion": "pueden ser",
+    "valor": "asintomáticas y potencialmente curables"
+  },
+  {
+    "entidad": "métodos diagnósticos",
+    "relacion": "han mejorado",
+    "valor": "la detección de NMPM"
+  },
+  {
+    "entidad": "Clínica Las Condes",
+    "relacion": "realiza",
+    "valor": "PET/CT en pacientes oncológicos"
+  },
+  {
+    "entidad": "David Ladrón de Guevara",
+    "relacion": "es autor de",
+    "valor": "el estudio sobre NMPM"
+  },
+  {
+    "entidad": "pacientes en seguimiento",
+    "relacion": "presentan",
+    "valor": "mayor frecuencia de neoplasias metacrónicas"
+  },
+  {
+    "entidad": "hallazgos del PET/CT",
+    "relacion": "no confirmados",
+    "valor": "35% de los casos"
+  },
+  {
+    "entidad": "hipoglicemia",
+    "relacion": "es",
+    "valor": "la principal limitante para el logro de metas glicémicas en diabetes"
+  },
+  {
+    "entidad": "diabetes mellitus tipo 2",
+    "relacion": "es",
+    "valor": "la principal causa de hipoglicemia en pacientes"
+  },
+  {
+    "entidad": "pacientes diabéticos",
+    "relacion": "presentan",
+    "valor": "mayor riesgo de hipoglicemia"
+  },
+  {
+    "entidad": "servicio de urgencia",
+    "relacion": "atiende",
+    "valor": "casos de hipoglicemia"
+  },
+  {
+    "entidad": "Clínica Dávila",
+    "relacion": "es",
+    "valor": "una institución privada de salud en Santiago, Chile"
+  },
+  {
+    "entidad": "Hospital Clínico Universidad de Chile",
+    "relacion": "es",
+    "valor": "una institución de salud en Santiago, Chile"
+  },
+  {
+    "entidad": "glibenclamida",
+    "relacion": "es",
+    "valor": "un fármaco asociado a hipoglicemia"
+  },
+  {
+    "entidad": "pacientes no diabéticos",
+    "relacion": "pueden experimentar",
+    "valor": "hipoglicemia"
+  },
+  {
+    "entidad": "cirugía bariátrica",
+    "relacion": "es",
+    "valor": "una comorbilidad potencialmente causal de hipoglicemia"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "afecta",
+    "valor": "el riesgo de hipoglicemia"
+  },
+  {
+    "entidad": "glicemia",
+    "relacion": "se define como",
+    "valor": "glucosa en sangre menor a 70 mg/dl"
+  },
+  {
+    "entidad": "compromiso de conciencia",
+    "relacion": "se refiere a",
+    "valor": "confusión, sopor o coma"
+  },
+  {
+    "entidad": "hospitalización",
+    "relacion": "es",
+    "valor": "un destino común para pacientes con hipoglicemia"
+  },
+  {
+    "entidad": "Fonasa",
+    "relacion": "es",
+    "valor": "el sistema de salud pública en Chile"
+  },
+  {
+    "entidad": "insulina",
+    "relacion": "es",
+    "valor": "un tratamiento para diabetes que puede causar hipoglicemia"
+  },
+  {
+    "entidad": "metformina",
+    "relacion": "puede estar asociada a",
+    "valor": "hipoglicemia en algunos casos"
+  },
+  {
+    "entidad": "pacientes mayores de 65 años",
+    "relacion": "tienen",
+    "valor": "un mayor riesgo de hipoglicemia"
+  },
+  {
+    "entidad": "función renal",
+    "relacion": "afecta",
+    "valor": "el riesgo de hipoglicemia"
+  },
+  {
+    "entidad": "hemoglobina glicosilada",
+    "relacion": "es",
+    "valor": "un indicador del control metabólico en diabetes"
+  },
+  {
+    "entidad": "comorbilidades",
+    "relacion": "pueden incluir",
+    "valor": "enfermedades endocrinas, renales y hepáticas"
+  },
+  {
+    "entidad": "estudiantes universitarios chilenos",
+    "relacion": "presentan",
+    "valor": "malnutrición por exceso"
+  },
+  {
+    "entidad": "estudiantes universitarios chilenos",
+    "relacion": "tienen",
+    "valor": "alto consumo de alimentos poco saludables"
+  },
+  {
+    "entidad": "estudiantes universitarios chilenos",
+    "relacion": "reportan",
+    "valor": "elevado sedentarismo"
+  },
+  {
+    "entidad": "estudiantes universitarios chilenos",
+    "relacion": "experimentan",
+    "valor": "insomnio"
+  },
+  {
+    "entidad": "estudiantes universitarios chilenos",
+    "relacion": "muestran",
+    "valor": "somnolencia diurna"
+  },
+  {
+    "entidad": "estudiantes universitarios chilenos",
+    "relacion": "tienen",
+    "valor": "cantidad de sueño inadecuada"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "tienen",
+    "valor": "peores hábitos alimentarios"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "consumen",
+    "valor": "más tabaco"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "consumen",
+    "valor": "más alcohol"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "reportan",
+    "valor": "mayor somnolencia diurna"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen",
+    "valor": "mayor sedentarismo"
+  },
+  {
+    "entidad": "universidades chilenas",
+    "relacion": "deben implementar",
+    "valor": "políticas de promoción de estilos de vida saludable"
+  },
+  {
+    "entidad": "encuesta sobre hábitos alimentarios",
+    "relacion": "evalúa",
+    "valor": "hábitos alimentarios y estilo de vida"
+  },
+  {
+    "entidad": "Pittsburgh Sleep Quality Index",
+    "relacion": "evalúa",
+    "valor": "patrones de sueño"
+  },
+  {
+    "entidad": "Insomnia Severity Index",
+    "relacion": "evalúa",
+    "valor": "gravedad e impacto del insomnio"
+  },
+  {
+    "entidad": "Epworth Sleepiness Scale",
+    "relacion": "evalúa",
+    "valor": "propensión a quedarse dormido"
+  },
+  {
+    "entidad": "nutricionistas",
+    "relacion": "aplican",
+    "valor": "encuesta estructurada"
+  },
+  {
+    "entidad": "Comité de Ética de la Universidad San Sebastián",
+    "relacion": "aprueba",
+    "valor": "encuesta y su aplicación"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud (ENS) 2010",
+    "relacion": "muestra",
+    "valor": "alto porcentaje de obesidad en jóvenes"
+  },
+  {
+    "entidad": "estudiantes universitarios",
+    "relacion": "presentan",
+    "valor": "bajo consumo de desayuno"
+  },
+  {
+    "entidad": "estudiantes universitarios",
+    "relacion": "reportan",
+    "valor": "bajo consumo de frutas y verduras"
+  },
+  {
+    "entidad": "estudiantes universitarios",
+    "relacion": "tienen",
+    "valor": "alta frecuencia de consumo de comida chatarra"
+  },
+  {
+    "entidad": "estudiantes universitarios",
+    "relacion": "tienen",
+    "valor": "bajo nivel de actividad física"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "afecta a",
+    "valor": "asociación entre obesidad y diabetes mellitus tipo 2"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "incrementa",
+    "valor": "riesgo de diabetes mellitus tipo 2"
+  },
+  {
+    "entidad": "diabetes mellitus tipo 2",
+    "relacion": "es un",
+    "valor": "factor de riesgo para enfermedades cardiovasculares"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "asociada con",
+    "valor": "reducción en mortalidad prematura"
+  },
+  {
+    "entidad": "inactividad física",
+    "relacion": "es un",
+    "valor": "factor de riesgo para diabetes tipo 2"
+  },
+  {
+    "entidad": "exceso de peso corporal",
+    "relacion": "es un",
+    "valor": "factor de riesgo para diabetes tipo 2"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud 2009-2010",
+    "relacion": "proporciona",
+    "valor": "datos sobre actividad física y obesidad en Chile"
+  },
+  {
+    "entidad": "glicemia en ayuno",
+    "relacion": "se utiliza para",
+    "valor": "diagnosticar diabetes mellitus tipo 2"
+  },
+  {
+    "entidad": "índice de masa corporal (IMC)",
+    "relacion": "se utiliza para",
+    "valor": "determinar estado nutricional"
+  },
+  {
+    "entidad": "obesidad central",
+    "relacion": "se define como",
+    "valor": "perímetro de cintura elevado"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "modifica",
+    "valor": "asociación entre obesidad y diabetes mellitus tipo 2"
+  },
+  {
+    "entidad": "políticas públicas",
+    "relacion": "deben centrarse en",
+    "valor": "mejorar niveles de actividad física y obesidad"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "investiga",
+    "valor": "asociación entre obesidad y diabetes mellitus tipo 2"
+  },
+  {
+    "entidad": "factores de riesgo cardiovascular",
+    "relacion": "deben ser abordados por",
+    "valor": "intervenciones de salud pública"
+  },
+  {
+    "entidad": "muestra nacional",
+    "relacion": "es representativa de",
+    "valor": "población adulta en Chile"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "debe ser incrementada para",
+    "valor": "disminuir riesgo de diabetes mellitus tipo 2"
+  },
+  {
+    "entidad": "contaminación del aire",
+    "relacion": "afecta a",
+    "valor": "salud"
+  },
+  {
+    "entidad": "material particulado",
+    "relacion": "asocia con",
+    "valor": "enfermedades respiratorias"
+  },
+  {
+    "entidad": "gases contaminantes",
+    "relacion": "asocia con",
+    "valor": "enfermedades respiratorias"
+  },
+  {
+    "entidad": "consultas por enfermedades respiratorias",
+    "relacion": "aumenta durante",
+    "valor": "invierno"
+  },
+  {
+    "entidad": "consultas por enfermedades respiratorias",
+    "relacion": "disminuye durante",
+    "valor": "verano"
+  },
+  {
+    "entidad": "material particulado de 2,5 µm (MP2,5)",
+    "relacion": "correlaciona con",
+    "valor": "consultas por enfermedades respiratorias"
+  },
+  {
+    "entidad": "material particulado de 10 µm (MP10)",
+    "relacion": "correlaciona con",
+    "valor": "consultas por enfermedades respiratorias"
+  },
+  {
+    "entidad": "monóxido de carbono (CO)",
+    "relacion": "correlaciona con",
+    "valor": "consultas por enfermedades respiratorias"
+  },
+  {
+    "entidad": "dióxido de nitrógeno (NO2)",
+    "relacion": "correlaciona con",
+    "valor": "consultas por enfermedades respiratorias"
+  },
+  {
+    "entidad": "ozono (O3)",
+    "relacion": "asocia negativamente con",
+    "valor": "consultas por enfermedades respiratorias"
+  },
+  {
+    "entidad": "dióxido de azufre (SO2)",
+    "relacion": "presenta menor relación con",
+    "valor": "consultas por enfermedades respiratorias"
+  },
+  {
+    "entidad": "Universidad de Santiago de Chile",
+    "relacion": "realiza",
+    "valor": "estudio sobre contaminación y salud"
+  },
+  {
+    "entidad": "comuna de El Bosque",
+    "relacion": "es el lugar de estudio de",
+    "valor": "contaminación del aire y salud"
+  },
+  {
+    "entidad": "estaciones de monitoreo de calidad del aire",
+    "relacion": "miden",
+    "valor": "contaminantes"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "proporciona",
+    "valor": "datos de atenciones médicas"
+  },
+  {
+    "entidad": "Ministerio del Medio Ambiente de Chile",
+    "relacion": "proporciona",
+    "valor": "datos de calidad del aire"
+  }
+]

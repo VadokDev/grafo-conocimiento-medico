@@ -1,0 +1,322 @@
+[
+  {
+    "entidad": "proceso estilohioideo",
+    "relacion": "es un",
+    "valor": "estructura ósea"
+  },
+  {
+    "entidad": "calcificación y elongación del ligamento estilohioideo",
+    "relacion": "puede asociarse a",
+    "valor": "dolor facial y del cuello"
+  },
+  {
+    "entidad": "síndrome de Eagle",
+    "relacion": "es conocido como",
+    "valor": "dolor asociado a elongación del proceso estilohioideo"
+  },
+  {
+    "entidad": "paciente asintomática",
+    "relacion": "presenta",
+    "valor": "proceso estilohioideo elongado y calcificado"
+  },
+  {
+    "entidad": "radiografía dental convencional",
+    "relacion": "se utiliza para",
+    "valor": "detectar elongación del proceso estilohioideo"
+  },
+  {
+    "entidad": "tomografía axial computada",
+    "relacion": "confirma",
+    "valor": "diagnóstico de elongación y calcificación"
+  },
+  {
+    "entidad": "Centro de Estudios e Investigación en Dolor Orofacial",
+    "relacion": "es un",
+    "valor": "centro de referencia"
+  },
+  {
+    "entidad": "Universidad Federal de Ceará",
+    "relacion": "es un",
+    "valor": "institución educativa"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "es",
+    "valor": "mujer de 79 años"
+  },
+  {
+    "entidad": "elongación del complejo estilohioideo",
+    "relacion": "puede ser",
+    "valor": "asintomática"
+  },
+  {
+    "entidad": "síndrome de Eagle",
+    "relacion": "es más frecuente en",
+    "valor": "pacientes femeninas menores de 30 años"
+  },
+  {
+    "entidad": "radiografías convencionales",
+    "relacion": "son indicadas para",
+    "valor": "visualizar el proceso estilohioideo"
+  },
+  {
+    "entidad": "seguimiento clínico",
+    "relacion": "es importante para",
+    "valor": "pacientes asintomáticos"
+  },
+  {
+    "entidad": "elongación del complejo estilohioideo",
+    "relacion": "debe ser incluida en",
+    "valor": "diagnóstico diferencial del síndrome de Eagle"
+  },
+  {
+    "entidad": "Disfagia cervical espondilótica",
+    "relacion": "es causada por",
+    "valor": "hiperostosis esquelética difusa idiopática"
+  },
+  {
+    "entidad": "hiperostosis esquelética difusa idiopática",
+    "relacion": "es conocida como",
+    "valor": "DISH"
+  },
+  {
+    "entidad": "DISH",
+    "relacion": "afecta predominantemente a",
+    "valor": "hombres mayores de 65 años"
+  },
+  {
+    "entidad": "DISH",
+    "relacion": "produce",
+    "valor": "ossificación de ligamentos de la columna"
+  },
+  {
+    "entidad": "paciente joven",
+    "relacion": "presenta",
+    "valor": "disfagia y disfonía"
+  },
+  {
+    "entidad": "disfagia",
+    "relacion": "es un síntoma de",
+    "valor": "compresión esofágica"
+  },
+  {
+    "entidad": "osteofitos cervicales",
+    "relacion": "causan",
+    "valor": "compresión del esófago y vía aérea"
+  },
+  {
+    "entidad": "resección de osteofitos cervicales",
+    "relacion": "resulta en",
+    "valor": "resolución completa de síntomas"
+  },
+  {
+    "entidad": "DISH",
+    "relacion": "debe ser considerado en",
+    "valor": "el diagnóstico diferencial de disfagia y disfonía"
+  },
+  {
+    "entidad": "tratamiento quirúrgico",
+    "relacion": "se reserva para",
+    "valor": "casos que no responden a tratamiento médico"
+  },
+  {
+    "entidad": "evaluación clínica completa",
+    "relacion": "debe incluir",
+    "valor": "estructuras orofaríngeas y rango de movilidad cervical"
+  },
+  {
+    "entidad": "radiografía lateral de columna cervical",
+    "relacion": "demuestra",
+    "valor": "osificación entre cuerpos vertebrales"
+  },
+  {
+    "entidad": "esofagograma",
+    "relacion": "evalúa",
+    "valor": "paso del bario por el esófago"
+  },
+  {
+    "entidad": "pacientes con DISH",
+    "relacion": "responden a",
+    "valor": "tratamiento conservador"
+  },
+  {
+    "entidad": "abordaje cervical anterior de Smith-Robinson",
+    "relacion": "es utilizado para",
+    "valor": "resección de osteofitos"
+  },
+  {
+    "entidad": "DISH",
+    "relacion": "es poco conocido",
+    "valor": "en el diagnóstico diferencial de disfagia"
+  },
+  {
+    "entidad": "Síndrome hemolítico-urémico",
+    "relacion": "es un",
+    "valor": "entidad clínica"
+  },
+  {
+    "entidad": "gemcitabina",
+    "relacion": "es un",
+    "valor": "medicamento utilizado en quimioterapia"
+  },
+  {
+    "entidad": "gemcitabina",
+    "relacion": "asociado a",
+    "valor": "síndrome hemolítico-urémico"
+  },
+  {
+    "entidad": "síndrome hemolítico-urémico",
+    "relacion": "causa",
+    "valor": "injuria renal aguda"
+  },
+  {
+    "entidad": "síndrome hemolítico-urémico",
+    "relacion": "causa",
+    "valor": "hipertensión"
+  },
+  {
+    "entidad": "síndrome hemolítico-urémico",
+    "relacion": "causa",
+    "valor": "fallo renal crónico"
+  },
+  {
+    "entidad": "síndrome hemolítico-urémico",
+    "relacion": "causa",
+    "valor": "muerte"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "tiene",
+    "valor": "carcinoma de páncreas"
+  },
+  {
+    "entidad": "gemcitabina",
+    "relacion": "se utiliza en",
+    "valor": "cáncer pancreático"
+  },
+  {
+    "entidad": "gemcitabina",
+    "relacion": "se utiliza en",
+    "valor": "cáncer pulmonar de células no pequeñas"
+  },
+  {
+    "entidad": "gemcitabina",
+    "relacion": "se utiliza en",
+    "valor": "linfoma"
+  },
+  {
+    "entidad": "gemcitabina",
+    "relacion": "se utiliza en",
+    "valor": "cáncer de ovario"
+  },
+  {
+    "entidad": "gemcitabina",
+    "relacion": "se utiliza en",
+    "valor": "cáncer de mama"
+  },
+  {
+    "entidad": "gemcitabina",
+    "relacion": "se utiliza en",
+    "valor": "cáncer de hígado"
+  },
+  {
+    "entidad": "gemcitabina",
+    "relacion": "se utiliza en",
+    "valor": "cáncer de vía biliar"
+  },
+  {
+    "entidad": "gemcitabina",
+    "relacion": "se utiliza en",
+    "valor": "cáncer de vejiga"
+  },
+  {
+    "entidad": "síndrome hemolítico-urémico",
+    "relacion": "se presenta en",
+    "valor": "pacientes tratados con gemcitabina"
+  },
+  {
+    "entidad": "suspensión de gemcitabina",
+    "relacion": "permite",
+    "valor": "mejoría en función renal"
+  },
+  {
+    "entidad": "suspensión de gemcitabina",
+    "relacion": "permite",
+    "valor": "mejoría en parámetros hematológicos"
+  },
+  {
+    "entidad": "biopsia renal",
+    "relacion": "muestra",
+    "valor": "microangiopatía trombótica"
+  },
+  {
+    "entidad": "microangiopatía trombótica",
+    "relacion": "se caracteriza por",
+    "valor": "engrosamiento de la pared capilar"
+  },
+  {
+    "entidad": "microangiopatía trombótica",
+    "relacion": "se caracteriza por",
+    "valor": "edema de células endoteliales"
+  },
+  {
+    "entidad": "microangiopatía trombótica",
+    "relacion": "se caracteriza por",
+    "valor": "trombos intraluminales"
+  },
+  {
+    "entidad": "microangiopatía trombótica",
+    "relacion": "se caracteriza por",
+    "valor": "oclusión de capilares glomerulares"
+  },
+  {
+    "entidad": "microangiopatía trombótica",
+    "relacion": "se caracteriza por",
+    "valor": "expansión del mesangio"
+  },
+  {
+    "entidad": "microangiopatía trombótica",
+    "relacion": "se caracteriza por",
+    "valor": "engrosamiento de arteriolas"
+  },
+  {
+    "entidad": "tratamiento del síndrome hemolítico-urémico",
+    "relacion": "incluye",
+    "valor": "suspensión de gemcitabina"
+  },
+  {
+    "entidad": "tratamiento del síndrome hemolítico-urémico",
+    "relacion": "incluye",
+    "valor": "hipotensores"
+  },
+  {
+    "entidad": "tratamiento del síndrome hemolítico-urémico",
+    "relacion": "incluye",
+    "valor": "diuréticos"
+  },
+  {
+    "entidad": "tratamiento del síndrome hemolítico-urémico",
+    "relacion": "incluye",
+    "valor": "corticoides"
+  },
+  {
+    "entidad": "tratamiento del síndrome hemolítico-urémico",
+    "relacion": "incluye",
+    "valor": "plasmaféresis"
+  },
+  {
+    "entidad": "tratamiento del síndrome hemolítico-urémico",
+    "relacion": "incluye",
+    "valor": "transfusiones"
+  },
+  {
+    "entidad": "tratamiento del síndrome hemolítico-urémico",
+    "relacion": "incluye",
+    "valor": "rituximab"
+  },
+  {
+    "entidad": "mortalidad en pacientes con síndrome hemolítico-urémico",
+    "relacion": "varía entre",
+    "valor": "15% y 70%"
+  }
+]

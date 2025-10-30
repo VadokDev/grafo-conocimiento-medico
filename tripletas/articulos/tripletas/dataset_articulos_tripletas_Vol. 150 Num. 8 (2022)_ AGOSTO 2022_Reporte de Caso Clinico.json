@@ -1,0 +1,202 @@
+[
+  {
+    "entidad": "Hospital Militar de Santiago",
+    "relacion": "ubicado en",
+    "valor": "Santiago, Chile"
+  },
+  {
+    "entidad": "Unidad de Arritmias y Laboratorio de Electrofisiología Cardíaca",
+    "relacion": "pertenece a",
+    "valor": "Hospital Militar de Santiago"
+  },
+  {
+    "entidad": "Unidad de Arritmias y Marcapasos",
+    "relacion": "pertenece a",
+    "valor": "Hospital San José"
+  },
+  {
+    "entidad": "Servicio de Anestesiología",
+    "relacion": "pertenece a",
+    "valor": "Hospital Militar de Santiago"
+  },
+  {
+    "entidad": "Unidad de Hemodinamia",
+    "relacion": "pertenece a",
+    "valor": "Hospital Militar de Santiago"
+  },
+  {
+    "entidad": "Dr. Marrero",
+    "relacion": "es",
+    "valor": "Proctor del sistema Micra de Medtronic"
+  },
+  {
+    "entidad": "Dr. José Pardo G.",
+    "relacion": "dirige",
+    "valor": "Unidad de Arritmias y Laboratorio de Electrofisiología Cardíaca"
+  },
+  {
+    "entidad": "67 años",
+    "relacion": "edad de",
+    "valor": "mujer"
+  },
+  {
+    "entidad": "mujer",
+    "relacion": "presenta",
+    "valor": "disfunción del nodo sinusal"
+  },
+  {
+    "entidad": "mujer",
+    "relacion": "tiene",
+    "valor": "historia de fibrilación auricular paroxística"
+  },
+  {
+    "entidad": "implante de marcapasos",
+    "relacion": "indicado para",
+    "valor": "mujer con disfunción del nodo sinusal"
+  },
+  {
+    "entidad": "marcapasos sin cables",
+    "relacion": "es una alternativa a",
+    "valor": "marcapasos convencional"
+  },
+  {
+    "entidad": "mujer",
+    "relacion": "fue tratada con",
+    "valor": "radioterapia y quimioterapia por cáncer de tráquea"
+  },
+  {
+    "entidad": "radioterapia",
+    "relacion": "causa",
+    "valor": "complicaciones cardiovasculares"
+  },
+  {
+    "entidad": "paclitaxel",
+    "relacion": "produce",
+    "valor": "bradicardia sinusal"
+  },
+  {
+    "entidad": "marcapasos DDDR",
+    "relacion": "indicado en",
+    "valor": "pacientes sintomáticos con ENS"
+  },
+  {
+    "entidad": "marcapasos VVIR",
+    "relacion": "considerado en",
+    "valor": "pacientes ancianos y/o frágiles"
+  },
+  {
+    "entidad": "MP-SC unicameral",
+    "relacion": "es una alternativa a",
+    "valor": "MP VVIR convencional"
+  },
+  {
+    "entidad": "Micra TPS",
+    "relacion": "es un tipo de",
+    "valor": "marcapasos sin cables"
+  },
+  {
+    "entidad": "mujer",
+    "relacion": "fue dada de alta en",
+    "valor": "buenas condiciones"
+  },
+  {
+    "entidad": "Micra",
+    "relacion": "se mantiene",
+    "valor": "normofuncionante"
+  },
+  {
+    "entidad": "paciente oncológico inmunosuprimido",
+    "relacion": "es un tipo de",
+    "valor": "paciente que puede beneficiarse del MP-SC"
+  },
+  {
+    "entidad": "Mies van der Rohe",
+    "relacion": "cita",
+    "valor": "Menos es más"
+  },
+  {
+    "entidad": "feocromocitoma bilateral",
+    "relacion": "asociado a",
+    "valor": "mutación del gen TMEM127"
+  },
+  {
+    "entidad": "TMEM127",
+    "relacion": "es un",
+    "valor": "gen supresor de tumores"
+  },
+  {
+    "entidad": "TMEM127",
+    "relacion": "codifica para",
+    "valor": "una proteína trans-membrana"
+  },
+  {
+    "entidad": "mutación c.117_120delGTCT",
+    "relacion": "produce",
+    "valor": "proteína truncada o ausente"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "hipertensión arterial"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "diagnosticada con",
+    "valor": "Diabetes Mellitus tipo 2"
+  },
+  {
+    "entidad": "nódulos suprarrenales",
+    "relacion": "encontrados en",
+    "valor": "TAC de abdomen"
+  },
+  {
+    "entidad": "metanefrinas urinarias",
+    "relacion": "elevadas en",
+    "valor": "paciente"
+  },
+  {
+    "entidad": "suprarrenalectomía bilateral",
+    "relacion": "realizada en",
+    "valor": "diciembre de 2017"
+  },
+  {
+    "entidad": "estudio genético",
+    "relacion": "realizado en",
+    "valor": "laboratorio Invitae"
+  },
+  {
+    "entidad": "familiares",
+    "relacion": "estudiados",
+    "valor": "7 de 9 hermanos"
+  },
+  {
+    "entidad": "hermanos",
+    "relacion": "presentan",
+    "valor": "variante patogénica"
+  },
+  {
+    "entidad": "TMEM127",
+    "relacion": "localizado en",
+    "valor": "cromosoma 2q11"
+  },
+  {
+    "entidad": "mutaciones de TMEM127",
+    "relacion": "fueron descritas en",
+    "valor": "2010"
+  },
+  {
+    "entidad": "frecuencia relativa de variantes patogénicas",
+    "relacion": "es desconocida en",
+    "valor": "feocromocitomas y paragangliomas"
+  },
+  {
+    "entidad": "evaluación clínica anual",
+    "relacion": "recomendada para",
+    "valor": "pacientes con mutación TMEM127"
+  },
+  {
+    "entidad": "18F-Dopa PET/CT",
+    "relacion": "posible uso en",
+    "valor": "estudio de imágenes"
+  }
+]

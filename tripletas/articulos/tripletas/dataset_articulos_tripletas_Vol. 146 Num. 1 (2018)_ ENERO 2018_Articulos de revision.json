@@ -1,0 +1,207 @@
+[
+  {
+    "entidad": "Cardiotoxicidad",
+    "relacion": "inducida por",
+    "valor": "tratamientos oncológicos"
+  },
+  {
+    "entidad": "tratamientos oncológicos",
+    "relacion": "asociados a",
+    "valor": "efectos adversos cardiovasculares"
+  },
+  {
+    "entidad": "Cardio-Oncología",
+    "relacion": "tiene como objetivo",
+    "valor": "minimizar efectos cardiovasculares de tratamientos oncológicos"
+  },
+  {
+    "entidad": "pacientes con cáncer",
+    "relacion": "pueden presentar",
+    "valor": "morbimortalidad cardiovascular"
+  },
+  {
+    "entidad": "enfermedades cardiovasculares",
+    "relacion": "comparten",
+    "valor": "factores de riesgo con cáncer"
+  },
+  {
+    "entidad": "antraciclinas",
+    "relacion": "causan",
+    "valor": "cardiotoxicidad"
+  },
+  {
+    "entidad": "trastuzumab",
+    "relacion": "interfiere con",
+    "valor": "receptor HER2/ErbB2"
+  },
+  {
+    "entidad": "radioterapia",
+    "relacion": "asociada a",
+    "valor": "efectos dañinos en el sistema cardiovascular"
+  },
+  {
+    "entidad": "ecocardiografía",
+    "relacion": "es un método para",
+    "valor": "evaluar función ventricular"
+  },
+  {
+    "entidad": "biomarcadores",
+    "relacion": "son utilizados para",
+    "valor": "detección precoz de cardiotoxicidad"
+  },
+  {
+    "entidad": "equipos de Cardio-Oncología",
+    "relacion": "proveen",
+    "valor": "cuidados clínicos a pacientes con cáncer"
+  },
+  {
+    "entidad": "estrategias de prevención",
+    "relacion": "se implementan para",
+    "valor": "reducir cardiotoxicidad"
+  },
+  {
+    "entidad": "enalapril",
+    "relacion": "se utiliza para",
+    "valor": "minimizar impacto de antraciclinas"
+  },
+  {
+    "entidad": "carvedilol",
+    "relacion": "demuestra utilidad como",
+    "valor": "cardioprotector en antraciclinas"
+  },
+  {
+    "entidad": "Dexrazoxane",
+    "relacion": "es un",
+    "valor": "quelante del hierro"
+  },
+  {
+    "entidad": "unidades de Cardio-Oncología",
+    "relacion": "se desarrollan para",
+    "valor": "cuidado especializado de pacientes oncológicos"
+  },
+  {
+    "entidad": "estrategias de tratamiento",
+    "relacion": "se generan para",
+    "valor": "manejar cardiotoxicidad"
+  },
+  {
+    "entidad": "seguimiento a largo plazo",
+    "relacion": "permite",
+    "valor": "tratar morbilidad tardía en pacientes"
+  },
+  {
+    "entidad": "técnicas de imagen",
+    "relacion": "ayudan a",
+    "valor": "identificar daño miocárdico subclínico"
+  },
+  {
+    "entidad": "Terapia de reemplazo renal continua (TRRC)",
+    "relacion": "mejora",
+    "valor": "equilibrio hídrico en pacientes en ECMO"
+  },
+  {
+    "entidad": "Terapia de reemplazo renal continua (TRRC)",
+    "relacion": "resuelve",
+    "valor": "desequilibrios electrolíticos en pacientes en ECMO"
+  },
+  {
+    "entidad": "Terapia de reemplazo renal continua (TRRC)",
+    "relacion": "mejora",
+    "valor": "aporte calórico en pacientes en ECMO"
+  },
+  {
+    "entidad": "Terapia de reemplazo renal continua (TRRC)",
+    "relacion": "reduce",
+    "valor": "necesidad de diuréticos en pacientes en ECMO"
+  },
+  {
+    "entidad": "Extracorporeal Membrane Oxygenation (ECMO)",
+    "relacion": "se utiliza en",
+    "valor": "pacientes con insuficiencia respiratoria grave"
+  },
+  {
+    "entidad": "Extracorporeal Membrane Oxygenation (ECMO)",
+    "relacion": "se indica a",
+    "valor": "pacientes con colapso circulatorio por disfunción miocárdica severa"
+  },
+  {
+    "entidad": "Insuficiencia renal aguda (IRA)",
+    "relacion": "desarrollan",
+    "valor": "más del 75% de los pacientes en ECMO"
+  },
+  {
+    "entidad": "Insuficiencia renal aguda (IRA)",
+    "relacion": "requiere",
+    "valor": "50% de los pacientes en ECMO"
+  },
+  {
+    "entidad": "ECMO VV",
+    "relacion": "mejora",
+    "valor": "desempeño del corazón al incrementar el contenido de oxígeno en sangre"
+  },
+  {
+    "entidad": "ECMO VV",
+    "relacion": "disminuye",
+    "valor": "resistencia vascular pulmonar"
+  },
+  {
+    "entidad": "ECMO VV",
+    "relacion": "evita",
+    "valor": "incremento en la postcarga del ventrículo izquierdo"
+  },
+  {
+    "entidad": "Anticoagulación",
+    "relacion": "se emplea en",
+    "valor": "pacientes en ECMO"
+  },
+  {
+    "entidad": "Heparina no fraccionada",
+    "relacion": "se utiliza para",
+    "valor": "anticoagulación en ECMO"
+  },
+  {
+    "entidad": "Falla cardíaca aguda",
+    "relacion": "aumenta el riesgo de",
+    "valor": "desarrollo de IRA"
+  },
+  {
+    "entidad": "Respuesta inflamatoria sistémica",
+    "relacion": "se genera por",
+    "valor": "exposición a la superficie no endotelizada del ECMO"
+  },
+  {
+    "entidad": "Guías KDIGO",
+    "relacion": "se publicaron para",
+    "valor": "armonizar criterios de diagnóstico de IRA"
+  },
+  {
+    "entidad": "Terapia de reemplazo renal continua (TRRC)",
+    "relacion": "se puede realizar mediante",
+    "valor": "acceso venoso independiente"
+  },
+  {
+    "entidad": "Terapia de reemplazo renal continua (TRRC)",
+    "relacion": "se puede realizar mediante",
+    "valor": "introducción de un hemofiltro en el circuito de ECMO"
+  },
+  {
+    "entidad": "Terapia de reemplazo renal continua (TRRC)",
+    "relacion": "se puede realizar mediante",
+    "valor": "conexión de una máquina de TRRC al circuito de ECMO"
+  },
+  {
+    "entidad": "Sobre carga hídrica",
+    "relacion": "es una indicación habitual de",
+    "valor": "TRRC en pacientes con ECMO"
+  },
+  {
+    "entidad": "Insuficiencia renal aguda (IRA)",
+    "relacion": "puede causar",
+    "valor": "insuficiencia renal terminal"
+  },
+  {
+    "entidad": "Insuficiencia renal aguda (IRA)",
+    "relacion": "aumenta el riesgo de",
+    "valor": "desarrollar enfermedad renal crónica"
+  }
+]

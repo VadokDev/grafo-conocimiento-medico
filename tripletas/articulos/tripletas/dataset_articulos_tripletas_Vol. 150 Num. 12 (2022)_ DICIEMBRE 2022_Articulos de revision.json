@@ -1,0 +1,192 @@
+[
+  {
+    "entidad": "insuficiencia cardíaca",
+    "relacion": "es un",
+    "valor": "problema de salud mundial"
+  },
+  {
+    "entidad": "insuficiencia cardíaca",
+    "relacion": "asocia",
+    "valor": "diabetes mellitus tipo 2"
+  },
+  {
+    "entidad": "inhibidores SGLT2",
+    "relacion": "reduce",
+    "valor": "eventos cardiovasculares"
+  },
+  {
+    "entidad": "inhibidores SGLT2",
+    "relacion": "se utilizan en",
+    "valor": "tratamiento de insuficiencia cardíaca"
+  },
+  {
+    "entidad": "diabetes mellitus tipo 2",
+    "relacion": "es una",
+    "valor": "enfermedad crónica"
+  },
+  {
+    "entidad": "inhibidores SGLT2",
+    "relacion": "aumentan",
+    "valor": "excreción urinaria de glucosa"
+  },
+  {
+    "entidad": "inhibidores SGLT2",
+    "relacion": "se incluyen",
+    "valor": "dapagliflozina, canagliflozina, empagliflozina"
+  },
+  {
+    "entidad": "dapagliflozina",
+    "relacion": "reduce",
+    "valor": "mortalidad cardiovascular"
+  },
+  {
+    "entidad": "canagliflozina",
+    "relacion": "provoca",
+    "valor": "reducción de eventos cardiovasculares"
+  },
+  {
+    "entidad": "sotagliflozina",
+    "relacion": "se evalúa en",
+    "valor": "pacientes con diabetes y hospitalización reciente por IC"
+  },
+  {
+    "entidad": "empagliflozina",
+    "relacion": "muestra",
+    "valor": "reducción de hospitalización por IC"
+  },
+  {
+    "entidad": "insuficiencia cardíaca con fracción de eyección reducida",
+    "relacion": "se trata con",
+    "valor": "inhibidores SGLT2"
+  },
+  {
+    "entidad": "insuficiencia cardíaca con fracción de eyección preservada",
+    "relacion": "se trata con",
+    "valor": "inhibidores SGLT2"
+  },
+  {
+    "entidad": "inhibidores SGLT2",
+    "relacion": "mejoran",
+    "valor": "calidad de vida en pacientes con IC"
+  },
+  {
+    "entidad": "guías de insuficiencia cardíaca",
+    "relacion": "recomiendan",
+    "valor": "dapagliflozina o empagliflozina"
+  },
+  {
+    "entidad": "inhibidores SGLT2",
+    "relacion": "son considerados",
+    "valor": "terapia fundamental en IC"
+  },
+  {
+    "entidad": "esclerosis lateral amiotrófica",
+    "relacion": "es un",
+    "valor": "enfermedad neurodegenerativa"
+  },
+  {
+    "entidad": "esclerosis lateral amiotrófica",
+    "relacion": "afecta a",
+    "valor": "motoneuronas superiores e inferiores"
+  },
+  {
+    "entidad": "esclerosis lateral amiotrófica",
+    "relacion": "causa",
+    "valor": "debilidad y atrofia muscular"
+  },
+  {
+    "entidad": "manejo multidisciplinario",
+    "relacion": "mejora",
+    "valor": "calidad de vida"
+  },
+  {
+    "entidad": "manejo multidisciplinario",
+    "relacion": "prolonga",
+    "valor": "sobrevida"
+  },
+  {
+    "entidad": "intervenciones terapéuticas",
+    "relacion": "incluyen",
+    "valor": "manejo respiratorio"
+  },
+  {
+    "entidad": "intervenciones terapéuticas",
+    "relacion": "incluyen",
+    "valor": "terapia modificadora de la enfermedad"
+  },
+  {
+    "entidad": "nutrición y soporte metabólico",
+    "relacion": "es crítico para",
+    "valor": "mantenimiento de peso"
+  },
+  {
+    "entidad": "cuidados paliativos",
+    "relacion": "son esenciales para",
+    "valor": "optimizar manejo sintomático"
+  },
+  {
+    "entidad": "dextrometorfano/quinidina",
+    "relacion": "reduce",
+    "valor": "síntomas del síndrome pseudo-bulbar"
+  },
+  {
+    "entidad": "riluzol",
+    "relacion": "es un",
+    "valor": "inhibidor de la liberación de glutamato"
+  },
+  {
+    "entidad": "edaravone",
+    "relacion": "es un",
+    "valor": "eliminador de radicales libres"
+  },
+  {
+    "entidad": "células madre",
+    "relacion": "disminuyen",
+    "valor": "tasa de progresión de la enfermedad"
+  },
+  {
+    "entidad": "terapia génica",
+    "relacion": "modula",
+    "valor": "expresión génica"
+  },
+  {
+    "entidad": "diagnóstico precoz",
+    "relacion": "es fundamental para",
+    "valor": "manejo clínico de la ELA"
+  },
+  {
+    "entidad": "síntomas neuropsiquiátricos",
+    "relacion": "inciden en",
+    "valor": "calidad de vida"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "se ve afectada por",
+    "valor": "deterioro cognitivo o conductual"
+  },
+  {
+    "entidad": "ventilación mecánica no invasiva",
+    "relacion": "mejora",
+    "valor": "síntomas respiratorios"
+  },
+  {
+    "entidad": "ventilación mecánica invasiva",
+    "relacion": "puede prolongar",
+    "valor": "sobrevida"
+  },
+  {
+    "entidad": "nutrición enteral",
+    "relacion": "se ofrece cuando",
+    "valor": "hay pérdida de peso significativa"
+  },
+  {
+    "entidad": "apoyo nutricional",
+    "relacion": "incluye",
+    "valor": "evaluación del peso corporal"
+  },
+  {
+    "entidad": "cuidados multidisciplinarios",
+    "relacion": "son el estándar de",
+    "valor": "atención en ELA"
+  }
+]

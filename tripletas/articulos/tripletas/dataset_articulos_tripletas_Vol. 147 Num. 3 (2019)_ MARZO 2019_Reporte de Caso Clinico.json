@@ -1,0 +1,302 @@
+[
+  {
+    "entidad": "trasplante de hígado",
+    "relacion": "es un",
+    "valor": "procedimiento plausible, efectivo y seguro"
+  },
+  {
+    "entidad": "pacientes con hemofilia",
+    "relacion": "son",
+    "valor": "candidatos para trasplante de hígado"
+  },
+  {
+    "entidad": "hemofilia A",
+    "relacion": "se caracteriza por",
+    "valor": "deficiencia del factor VIII"
+  },
+  {
+    "entidad": "factor VIII",
+    "relacion": "es producido por",
+    "valor": "células sinusoidales hepáticas y células endoteliales"
+  },
+  {
+    "entidad": "hemofilia",
+    "relacion": "causa",
+    "valor": "episodios de sangrados espontáneos"
+  },
+  {
+    "entidad": "tratamiento de hemofilia",
+    "relacion": "se basa en",
+    "valor": "administración del factor deficiente"
+  },
+  {
+    "entidad": "virus de hepatitis C (VHC)",
+    "relacion": "es una causa de",
+    "valor": "cirrosis hepática en pacientes con hemofilia"
+  },
+  {
+    "entidad": "síndrome hepatopulmonar",
+    "relacion": "es una complicación de",
+    "valor": "hipertensión portal"
+  },
+  {
+    "entidad": "trasplante hepático",
+    "relacion": "es la mejor alternativa para",
+    "valor": "insuficiencia hepática grave"
+  },
+  {
+    "entidad": "programa de trasplantes",
+    "relacion": "pertenece a",
+    "valor": "Red de Salud UC-Christus"
+  },
+  {
+    "entidad": "hemofilia",
+    "relacion": "fue incorporada a",
+    "valor": "Garantías Explícitas de Salud (GES)"
+  },
+  {
+    "entidad": "trasplante hepático",
+    "relacion": "mejora",
+    "valor": "niveles de factor VIII"
+  },
+  {
+    "entidad": "tratamiento profiláctico con F·VIII",
+    "relacion": "se indica para",
+    "valor": "pacientes con hemofilia y sangrados"
+  },
+  {
+    "entidad": "inmunosupresores",
+    "relacion": "se utilizan en",
+    "valor": "trasplante hepático"
+  },
+  {
+    "entidad": "hemofilia",
+    "relacion": "no es una contraindicación para",
+    "valor": "trasplante hepático"
+  },
+  {
+    "entidad": "trasplante hepático",
+    "relacion": "ofrece",
+    "valor": "mejor pronóstico global para el paciente"
+  },
+  {
+    "entidad": "trasplante hepático",
+    "relacion": "conlleva",
+    "valor": "menor gasto asociado al tratamiento crónico"
+  },
+  {
+    "entidad": "Fibrodisplasia osificante progresiva (FOP)",
+    "relacion": "es un",
+    "valor": "enfermedad genética"
+  },
+  {
+    "entidad": "ACVR1",
+    "relacion": "es un",
+    "valor": "gen asociado a FOP"
+  },
+  {
+    "entidad": "variante patogénica p.Arg206His",
+    "relacion": "causa",
+    "valor": "FOP"
+  },
+  {
+    "entidad": "FOP",
+    "relacion": "se caracteriza por",
+    "valor": "osificación heterotópica en tejidos blandos"
+  },
+  {
+    "entidad": "FOP",
+    "relacion": "evoluciona en",
+    "valor": "brotes"
+  },
+  {
+    "entidad": "FOP",
+    "relacion": "asocia a",
+    "valor": "mortalidad por complicaciones respiratorias"
+  },
+  {
+    "entidad": "terapia",
+    "relacion": "es",
+    "valor": "sintomática"
+  },
+  {
+    "entidad": "analgesia",
+    "relacion": "es un",
+    "valor": "tratamiento para FOP"
+  },
+  {
+    "entidad": "corticoides",
+    "relacion": "se utilizan para",
+    "valor": "prevenir brotes en FOP"
+  },
+  {
+    "entidad": "bifosfonatos",
+    "relacion": "son",
+    "valor": "controversiales en el tratamiento de FOP"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "agenesia renal izquierda"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "hallux valgus"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "déficit intelectual leve"
+  },
+  {
+    "entidad": "resonancia magnética",
+    "relacion": "muestra",
+    "valor": "nódulos de osificación heterotópica"
+  },
+  {
+    "entidad": "radiografía",
+    "relacion": "confirma",
+    "valor": "zonas de osificación en tejidos blandos"
+  },
+  {
+    "entidad": "FOP plus",
+    "relacion": "es un tipo de",
+    "valor": "FOP con características atípicas"
+  },
+  {
+    "entidad": "FOP",
+    "relacion": "es mayormente",
+    "valor": "esporádica"
+  },
+  {
+    "entidad": "prednisona",
+    "relacion": "se utiliza para",
+    "valor": "manejar brotes de FOP"
+  },
+  {
+    "entidad": "leucomalacia periventricular",
+    "relacion": "es un hallazgo en",
+    "valor": "neuroimágenes de la paciente"
+  },
+  {
+    "entidad": "palovarotene",
+    "relacion": "es un",
+    "valor": "fármaco en investigación para FOP"
+  },
+  {
+    "entidad": "Comité de Ética del Servicio de Salud Metropolitano Sur Oriente",
+    "relacion": "aprueba",
+    "valor": "revisión de la ficha clínica"
+  },
+  {
+    "entidad": "Daniela Avila-Smirnow",
+    "relacion": "es",
+    "valor": "autora del estudio"
+  },
+  {
+    "entidad": "Síndrome de Goodpasture",
+    "relacion": "es un",
+    "valor": "enfermedad autoinmune"
+  },
+  {
+    "entidad": "anticuerpos anti-membrana basal glomerular",
+    "relacion": "son",
+    "valor": "marcadores diagnósticos"
+  },
+  {
+    "entidad": "EAMBG",
+    "relacion": "es un",
+    "valor": "tipo de vasculitis"
+  },
+  {
+    "entidad": "plasmaféresis",
+    "relacion": "es parte de",
+    "valor": "terapia para EAMBG"
+  },
+  {
+    "entidad": "corticoides",
+    "relacion": "son",
+    "valor": "medicamentos utilizados en tratamiento"
+  },
+  {
+    "entidad": "ciclofosfamida",
+    "relacion": "es un",
+    "valor": "medicamento inmunosupresor"
+  },
+  {
+    "entidad": "recurrencia de EAMBG",
+    "relacion": "es",
+    "valor": "evento raro"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "recurrencia de EAMBG con anticuerpos negativos"
+  },
+  {
+    "entidad": "Dr. Rodrigo Tagle",
+    "relacion": "es",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "es",
+    "valor": "institución afiliada"
+  },
+  {
+    "entidad": "hemorragia alveolar",
+    "relacion": "es un",
+    "valor": "síntoma asociado a EAMBG"
+  },
+  {
+    "entidad": "mialgias",
+    "relacion": "son",
+    "valor": "síntomas reportados en el paciente"
+  },
+  {
+    "entidad": "neumonía multilobar",
+    "relacion": "es un",
+    "valor": "diagnóstico considerado en el paciente"
+  },
+  {
+    "entidad": "hidrocarburos",
+    "relacion": "son",
+    "valor": "factores de riesgo para recurrencia de EAMBG"
+  },
+  {
+    "entidad": "exámenes de laboratorio",
+    "relacion": "son utilizados para",
+    "valor": "diagnóstico de EAMBG"
+  },
+  {
+    "entidad": "creatinina",
+    "relacion": "es un",
+    "valor": "marcador de función renal"
+  },
+  {
+    "entidad": "control clínico mensual",
+    "relacion": "es parte de",
+    "valor": "seguimiento del paciente"
+  },
+  {
+    "entidad": "anticuerpos ANCA",
+    "relacion": "son",
+    "valor": "pruebas realizadas en el paciente"
+  },
+  {
+    "entidad": "examen de orina",
+    "relacion": "es parte de",
+    "valor": "evaluación de función renal"
+  },
+  {
+    "entidad": "inmunofluorescencia",
+    "relacion": "es un",
+    "valor": "método diagnóstico utilizado"
+  },
+  {
+    "entidad": "hospitalización",
+    "relacion": "es necesaria en",
+    "valor": "casos de EAMBG con complicaciones"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "entidad": "Leucemia Mieloide Aguda",
+    "relacion": "es un",
+    "valor": "neoplasia"
+  },
+  {
+    "entidad": "Leucemia Mieloide Aguda",
+    "relacion": "tiene",
+    "valor": "alta letalidad"
+  },
+  {
+    "entidad": "Cytología",
+    "relacion": "es parte de",
+    "valor": "diagnóstico de Leucemia Mieloide Aguda"
+  },
+  {
+    "entidad": "Inmunofenotipo",
+    "relacion": "es parte de",
+    "valor": "diagnóstico de Leucemia Mieloide Aguda"
+  },
+  {
+    "entidad": "Cariograma",
+    "relacion": "es parte de",
+    "valor": "diagnóstico de Leucemia Mieloide Aguda"
+  },
+  {
+    "entidad": "Biología Molecular",
+    "relacion": "es parte de",
+    "valor": "diagnóstico de Leucemia Mieloide Aguda"
+  },
+  {
+    "entidad": "Secuenciación de siguiente generación",
+    "relacion": "es un",
+    "valor": "elemento clave para diagnóstico"
+  },
+  {
+    "entidad": "Mutaciones germinales",
+    "relacion": "aumentan",
+    "valor": "frecuencia de detección"
+  },
+  {
+    "entidad": "Mutaciones germinales",
+    "relacion": "influencian",
+    "valor": "decisiones sobre tratamiento"
+  },
+  {
+    "entidad": "Clasificación OMS 2022",
+    "relacion": "es un",
+    "valor": "nuevo estándar diagnóstico"
+  },
+  {
+    "entidad": "Clasificación ICC 2022",
+    "relacion": "es un",
+    "valor": "nuevo estándar diagnóstico"
+  },
+  {
+    "entidad": "European Leukemia Network 2022",
+    "relacion": "proporciona",
+    "valor": "estratificación de riesgo"
+  },
+  {
+    "entidad": "Algoritmo de diagnóstico integrado",
+    "relacion": "es propuesto para",
+    "valor": "implementación en diagnóstico"
+  },
+  {
+    "entidad": "Nuevas tecnologías diagnósticas",
+    "relacion": "son necesarias para",
+    "valor": "mejorar pronóstico"
+  },
+  {
+    "entidad": "Leucemia Mieloide Aguda",
+    "relacion": "requiere",
+    "valor": "estrategias de tratamiento específicas"
+  },
+  {
+    "entidad": "TP53 mutado",
+    "relacion": "conlleva",
+    "valor": "mal pronóstico"
+  },
+  {
+    "entidad": "FLT3",
+    "relacion": "es un",
+    "valor": "factor pronóstico"
+  },
+  {
+    "entidad": "NPM1",
+    "relacion": "es un",
+    "valor": "factor pronóstico"
+  },
+  {
+    "entidad": "Midostaurina",
+    "relacion": "es un",
+    "valor": "fármaco financiado para tratamiento"
+  },
+  {
+    "entidad": "Venetoclax",
+    "relacion": "aumenta",
+    "valor": "tasa de respuesta completa"
+  },
+  {
+    "entidad": "Cuidado de la salud pública",
+    "relacion": "es una",
+    "valor": "prioridad nacional"
+  },
+  {
+    "entidad": "metformina",
+    "relacion": "es el",
+    "valor": "fármaco preferido para el manejo inicial de diabetes mellitus tipo 2"
+  },
+  {
+    "entidad": "metformina",
+    "relacion": "puede provocar",
+    "valor": "acumulación en el organismo y alteraciones metabólicas"
+  },
+  {
+    "entidad": "acidosis láctica asociada a metformina (MALA)",
+    "relacion": "es una",
+    "valor": "complicación grave"
+  },
+  {
+    "entidad": "MALA",
+    "relacion": "es a menudo",
+    "valor": "subdiagnosticada"
+  },
+  {
+    "entidad": "MALA",
+    "relacion": "se relaciona con",
+    "valor": "uso crónico o incidental de metformina"
+  },
+  {
+    "entidad": "MILA",
+    "relacion": "se refiere a",
+    "valor": "consumo agudo o intencional de metformina"
+  },
+  {
+    "entidad": "terapias de reemplazo renal",
+    "relacion": "se utilizan para",
+    "valor": "manejar MALA"
+  },
+  {
+    "entidad": "hospital clínico en Chile",
+    "relacion": "es el lugar donde",
+    "valor": "se analizaron casos de MALA"
+  },
+  {
+    "entidad": "acidosis metabólica",
+    "relacion": "se presenta con",
+    "valor": "pH bajo y aumento de lactato"
+  },
+  {
+    "entidad": "metformina",
+    "relacion": "se absorbe en",
+    "valor": "el duodeno-yeyuno y el íleon-colon"
+  },
+  {
+    "entidad": "acidosis láctica",
+    "relacion": "se clasifica en",
+    "valor": "tipo A y tipo B"
+  },
+  {
+    "entidad": "tipo A",
+    "relacion": "es causada por",
+    "valor": "hipoxia"
+  },
+  {
+    "entidad": "tipo B",
+    "relacion": "es causada por",
+    "valor": "disrupción del metabolismo mitocondrial"
+  },
+  {
+    "entidad": "MALA",
+    "relacion": "puede ser mortal en",
+    "valor": "50% de los casos"
+  },
+  {
+    "entidad": "factores de riesgo de MALA",
+    "relacion": "incluyen",
+    "valor": "enfermedad hepática, ERC, abuso de alcohol"
+  },
+  {
+    "entidad": "diagnóstico de MALA",
+    "relacion": "se basa en",
+    "valor": "cuadro clínico y descarte de otras causas"
+  },
+  {
+    "entidad": "TRR",
+    "relacion": "se recomienda en",
+    "valor": "acidosis metabólica severa con pH ≤ 7,0"
+  },
+  {
+    "entidad": "metformina",
+    "relacion": "se elimina principalmente por",
+    "valor": "vía renal"
+  },
+  {
+    "entidad": "MALA",
+    "relacion": "se debe prevenir ajustando",
+    "valor": "la dosis de metformina"
+  }
+]

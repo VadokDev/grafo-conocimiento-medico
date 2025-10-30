@@ -1,0 +1,352 @@
+[
+  {
+    "entidad": "neurotoxocariasis",
+    "relacion": "es un",
+    "valor": "tipo de infección"
+  },
+  {
+    "entidad": "neurotoxocariasis",
+    "relacion": "manifiesta como",
+    "valor": "meningitis"
+  },
+  {
+    "entidad": "neurotoxocariasis",
+    "relacion": "manifiesta como",
+    "valor": "encefalitis"
+  },
+  {
+    "entidad": "neurotoxocariasis",
+    "relacion": "manifiesta como",
+    "valor": "vasculitis"
+  },
+  {
+    "entidad": "neurotoxocariasis",
+    "relacion": "se asocia con",
+    "valor": "cefalea"
+  },
+  {
+    "entidad": "neurotoxocariasis",
+    "relacion": "se asocia con",
+    "valor": "convulsiones"
+  },
+  {
+    "entidad": "neurotoxocariasis",
+    "relacion": "se asocia con",
+    "valor": "confusión"
+  },
+  {
+    "entidad": "neurotoxocariasis",
+    "relacion": "se asocia con",
+    "valor": "alteraciones cognitivas"
+  },
+  {
+    "entidad": "eosinofilia periférica",
+    "relacion": "permite",
+    "valor": "sospecha temprana de neurotoxocariasis"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "es un",
+    "valor": "trabajador agrícola"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "hemiparesia izquierda progresiva"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "deterioro de conciencia"
+  },
+  {
+    "entidad": "leucocitosis",
+    "relacion": "se observa en",
+    "valor": "paciente"
+  },
+  {
+    "entidad": "eosinofilia periférica",
+    "relacion": "se observa en",
+    "valor": "paciente"
+  },
+  {
+    "entidad": "análisis de LCR",
+    "relacion": "revela",
+    "valor": "sin anomalías"
+  },
+  {
+    "entidad": "tomografía computada cerebral",
+    "relacion": "muestra",
+    "valor": "lesiones hipodensas mal definidas"
+  },
+  {
+    "entidad": "resonancia magnética",
+    "relacion": "muestra",
+    "valor": "múltiples focos con aumento de señal"
+  },
+  {
+    "entidad": "estudios serológicos",
+    "relacion": "encuentran",
+    "valor": "anticuerpos IgG específicos contra Toxocara"
+  },
+  {
+    "entidad": "tratamiento",
+    "relacion": "incluye",
+    "valor": "albendazol"
+  },
+  {
+    "entidad": "tratamiento",
+    "relacion": "incluye",
+    "valor": "corticosteroides"
+  },
+  {
+    "entidad": "respuesta del paciente",
+    "relacion": "es",
+    "valor": "favorable"
+  },
+  {
+    "entidad": "recuperación del paciente",
+    "relacion": "es",
+    "valor": "gradual y completa"
+  },
+  {
+    "entidad": "Toxocara",
+    "relacion": "es un",
+    "valor": "género de parásitos"
+  },
+  {
+    "entidad": "Toxocara canis",
+    "relacion": "es un",
+    "valor": "especie de Toxocara"
+  },
+  {
+    "entidad": "neurotoxocariasis",
+    "relacion": "se asocia con",
+    "valor": "eosinofilia"
+  },
+  {
+    "entidad": "corticoides",
+    "relacion": "se utilizan en",
+    "valor": "tratamiento de neurotoxocariasis"
+  },
+  {
+    "entidad": "albendazol",
+    "relacion": "se utiliza en",
+    "valor": "tratamiento de neurotoxocariasis"
+  },
+  {
+    "entidad": "Gonzalo Eymin",
+    "relacion": "es autor de",
+    "valor": "La importancia de la evidencia y de la adherencia a los protocolos clínicos en bienestar de los pacientes"
+  },
+  {
+    "entidad": "Francisco Cruz",
+    "relacion": "es autor de",
+    "valor": "La importancia de la evidencia y de la adherencia a los protocolos clínicos en bienestar de los pacientes"
+  },
+  {
+    "entidad": "Carlos Calvo de la Barra",
+    "relacion": "es autor de",
+    "valor": "La importancia de la evidencia y de la adherencia a los protocolos clínicos en bienestar de los pacientes"
+  },
+  {
+    "entidad": "Alejandro Majerson",
+    "relacion": "es autor de",
+    "valor": "La importancia de la evidencia y de la adherencia a los protocolos clínicos en bienestar de los pacientes"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "tiene departamento de",
+    "valor": "Medicina Interna"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "tiene departamento de",
+    "valor": "Radiología"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "tiene departamento de",
+    "valor": "Urología"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "tiene",
+    "valor": "32 años"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "enfermedad renal crónica"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "se somete a",
+    "valor": "nefrectomía"
+  },
+  {
+    "entidad": "nefrectomía",
+    "relacion": "es realizada por",
+    "valor": "pionefrosis xantogranulomatosa"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "recibe",
+    "valor": "hemodiálisis"
+  },
+  {
+    "entidad": "hemodiálisis",
+    "relacion": "se realiza a través de",
+    "valor": "fístula arterio-venosa"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "septic shock"
+  },
+  {
+    "entidad": "cultivos",
+    "relacion": "son positivos para",
+    "valor": "Enterococcus faecium resistente a vancomicina"
+  },
+  {
+    "entidad": "cultivos",
+    "relacion": "son positivos para",
+    "valor": "Klebsiella pneumoniae BLEE"
+  },
+  {
+    "entidad": "CIM",
+    "relacion": "es un proceso de",
+    "valor": "conciliación de indicaciones médicas"
+  },
+  {
+    "entidad": "CIM",
+    "relacion": "reduce",
+    "valor": "duplicidad de fármacos"
+  },
+  {
+    "entidad": "CIM",
+    "relacion": "reduce",
+    "valor": "interacciones"
+  },
+  {
+    "entidad": "reuniones de morbilidad y mortalidad",
+    "relacion": "son utilizadas para",
+    "valor": "analizar eventos adversos"
+  },
+  {
+    "entidad": "evidencia",
+    "relacion": "apoya",
+    "valor": "decisiones clínicas"
+  },
+  {
+    "entidad": "evidencia",
+    "relacion": "permite predecir",
+    "valor": "riesgo de infección"
+  },
+  {
+    "entidad": "Comité de Ética institucional",
+    "relacion": "aprueba",
+    "valor": "publicación de caso clínico"
+  },
+  {
+    "entidad": "Síndrome hemolítico urémico asociado a Shiga-toxina",
+    "relacion": "es un",
+    "valor": "trastorno médico"
+  },
+  {
+    "entidad": "Shiga toxin",
+    "relacion": "causa",
+    "valor": "síndrome hemolítico urémico"
+  },
+  {
+    "entidad": "síndrome hemolítico urémico",
+    "relacion": "es una",
+    "valor": "causa de insuficiencia renal aguda"
+  },
+  {
+    "entidad": "síndrome hemolítico urémico",
+    "relacion": "es la",
+    "valor": "causa más común de microangiopatía trombótica en pediatría"
+  },
+  {
+    "entidad": "aHUS",
+    "relacion": "es un",
+    "valor": "trastorno raro"
+  },
+  {
+    "entidad": "aHUS",
+    "relacion": "es causado por",
+    "valor": "un defecto genético en la vía alternativa del complemento"
+  },
+  {
+    "entidad": "SHU-Stx",
+    "relacion": "presenta",
+    "valor": "diarrea, trombocitopenia y falla renal"
+  },
+  {
+    "entidad": "SHU-Stx",
+    "relacion": "requiere",
+    "valor": "terapia de reemplazo renal"
+  },
+  {
+    "entidad": "plasmaféresis",
+    "relacion": "es un",
+    "valor": "tratamiento para aHUS"
+  },
+  {
+    "entidad": "Eculizumab",
+    "relacion": "es un",
+    "valor": "inhibidor de C5"
+  },
+  {
+    "entidad": "Eculizumab",
+    "relacion": "cambia",
+    "valor": "la historia natural del aHUS"
+  },
+  {
+    "entidad": "Escherichia coli O:157",
+    "relacion": "produce",
+    "valor": "Shiga toxin"
+  },
+  {
+    "entidad": "complemento",
+    "relacion": "tiene como función",
+    "valor": "atacar células extrañas"
+  },
+  {
+    "entidad": "complemento",
+    "relacion": "se activa por",
+    "valor": "exotoxinas Stx1 y Stx2"
+  },
+  {
+    "entidad": "SHU-Stx",
+    "relacion": "se asocia con",
+    "valor": "mayor necesidad de TRR"
+  },
+  {
+    "entidad": "SHU-Stx",
+    "relacion": "tiene una tasa de letalidad",
+    "valor": "< 3%"
+  },
+  {
+    "entidad": "aHUS",
+    "relacion": "tiene una tasa de letalidad",
+    "valor": "5-25%"
+  },
+  {
+    "entidad": "SHU-Stx",
+    "relacion": "requiere",
+    "valor": "medidas de soporte"
+  },
+  {
+    "entidad": "SHU-Stx",
+    "relacion": "no tiene",
+    "valor": "tratamiento específico"
+  },
+  {
+    "entidad": "diagnóstico diferencial",
+    "relacion": "es importante para",
+    "valor": "determinar el tratamiento adecuado"
+  }
+]

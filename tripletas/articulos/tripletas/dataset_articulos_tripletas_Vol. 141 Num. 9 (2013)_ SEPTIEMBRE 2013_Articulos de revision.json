@@ -1,0 +1,192 @@
+[
+  {
+    "entidad": "sepsis",
+    "relacion": "es un",
+    "valor": "problema de salud global"
+  },
+  {
+    "entidad": "sepsis",
+    "relacion": "es la",
+    "valor": "principal causa de muerte en UCI no coronarias"
+  },
+  {
+    "entidad": "reconocimiento temprano de sepsis",
+    "relacion": "es un",
+    "valor": "determinante fundamental del pronóstico"
+  },
+  {
+    "entidad": "intervenciones de bajo costo",
+    "relacion": "pueden mejorar",
+    "valor": "las posibilidades de supervivencia"
+  },
+  {
+    "entidad": "bundle de reanimación inicial",
+    "relacion": "actualiza",
+    "valor": "la evidencia para pacientes con sepsis severa"
+  },
+  {
+    "entidad": "Surviving Sepsis Campaign",
+    "relacion": "promueve",
+    "valor": "un bundle para el reconocimiento precoz y la reanimación inicial de pacientes con sepsis severa"
+  },
+  {
+    "entidad": "lactato plasmático",
+    "relacion": "debe ser medido",
+    "valor": "dentro de las primeras 6 horas de diagnóstico de sepsis severa"
+  },
+  {
+    "entidad": "hemocultivos",
+    "relacion": "deben ser tomados",
+    "valor": "antes de iniciar la administración de antibióticos"
+  },
+  {
+    "entidad": "antibióticos de amplio espectro",
+    "relacion": "deben ser administrados",
+    "valor": "dentro de las primeras 3 horas de ingreso"
+  },
+  {
+    "entidad": "solución con cristaloides",
+    "relacion": "debe ser administrada",
+    "valor": "en presencia de hipotensión"
+  },
+  {
+    "entidad": "noradrenalina",
+    "relacion": "debe ser iniciada",
+    "valor": "cuando la hipotensión no responda a la reanimación inicial"
+  },
+  {
+    "entidad": "presión venosa central",
+    "relacion": "debe ser medida",
+    "valor": "si la hipotensión persiste"
+  },
+  {
+    "entidad": "SvcO2",
+    "relacion": "debe ser llevada a",
+    "valor": "un valor ≥ 70%"
+  },
+  {
+    "entidad": "monitoreo multimodal de la perfusión tisular",
+    "relacion": "es necesario durante",
+    "valor": "la reanimación avanzada del shock séptico"
+  },
+  {
+    "entidad": "diferencia veno-arterial de dióxido de carbono",
+    "relacion": "puede ser considerada como",
+    "valor": "un indicador de la suficiencia del flujo sanguíneo venoso"
+  },
+  {
+    "entidad": "CO2gap",
+    "relacion": "es indicativo de",
+    "valor": "hipoperfusión esplácnica"
+  },
+  {
+    "entidad": "espectroscopia del infrarrojo cercano (NIRS)",
+    "relacion": "ha emergido como",
+    "valor": "una herramienta útil en la evaluación de la saturación tisular de oxígeno"
+  },
+  {
+    "entidad": "monitoreo óptico de la microcirculación",
+    "relacion": "permite",
+    "valor": "visualización directa de las perturbaciones de la microcirculación"
+  },
+  {
+    "entidad": "bundle de reanimación inicial",
+    "relacion": "puede garantizar",
+    "valor": "la entrega de intervenciones esenciales"
+  },
+  {
+    "entidad": "monitoreo multimodal",
+    "relacion": "podría superar",
+    "valor": "las limitaciones de los marcadores individuales"
+  },
+  {
+    "entidad": "espondiloartritis",
+    "relacion": "es un",
+    "valor": "grupo de enfermedades inflamatorias crónicas"
+  },
+  {
+    "entidad": "espondiloartritis",
+    "relacion": "caracterizada por",
+    "valor": "formación de nuevo hueso y anquilosis"
+  },
+  {
+    "entidad": "enthesis",
+    "relacion": "es el",
+    "valor": "órgano primario de la espondiloartritis"
+  },
+  {
+    "entidad": "sindesmofitos",
+    "relacion": "son",
+    "valor": "estructuras óseas que se forman en espondiloartritis"
+  },
+  {
+    "entidad": "factor de necrosis tumoral alfa (TNF-alpha)",
+    "relacion": "es",
+    "valor": "una citocina clave en la espondiloartritis"
+  },
+  {
+    "entidad": "Wnt signaling pathway",
+    "relacion": "es considerado",
+    "valor": "el regulador principal de la osteoblastogénesis"
+  },
+  {
+    "entidad": "antiinflamatorios no esteroideos (AINES)",
+    "relacion": "no detienen",
+    "valor": "la progresión de la erosión ósea en espondiloartritis"
+  },
+  {
+    "entidad": "genes adicionales",
+    "relacion": "han sido identificados en",
+    "valor": "la fisiopatología de la espondiloartritis"
+  },
+  {
+    "entidad": "remodelación ósea",
+    "relacion": "es foco de",
+    "valor": "investigación activa a nivel mundial"
+  },
+  {
+    "entidad": "enthesis",
+    "relacion": "es implicada en",
+    "valor": "la patogenia de la espondiloartritis"
+  },
+  {
+    "entidad": "proteoglicanos",
+    "relacion": "podrían ser",
+    "valor": "blancos de la respuesta autoinmune en espondiloartritis"
+  },
+  {
+    "entidad": "DKK1",
+    "relacion": "se ha encontrado",
+    "valor": "aumentado en pacientes con artritis reumatoide"
+  },
+  {
+    "entidad": "DKK1",
+    "relacion": "es",
+    "valor": "un posible blanco terapéutico en espondiloartritis"
+  },
+  {
+    "entidad": "HLA-B27",
+    "relacion": "está relacionado con",
+    "valor": "una mayor producción de citocinas pro-inflamatorias"
+  },
+  {
+    "entidad": "remodelación ósea",
+    "relacion": "puede resultar en",
+    "valor": "anquilosis y discapacidad"
+  },
+  {
+    "entidad": "señalización BMP",
+    "relacion": "modula",
+    "valor": "la formación de osteofitos"
+  },
+  {
+    "entidad": "inhibición de la vía Wnt",
+    "relacion": "puede comprometer",
+    "valor": "la formación ósea en artritis reumatoide"
+  },
+  {
+    "entidad": "mecanismos de remodelación ósea",
+    "relacion": "son",
+    "valor": "importantes en la homeostasis articular"
+  }
+]

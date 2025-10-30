@@ -1,0 +1,782 @@
+[
+  {
+    "entidad": "Aplasia medular adquirida",
+    "relacion": "es un",
+    "valor": "trastorno hematológico"
+  },
+  {
+    "entidad": "Hospital del Salvador",
+    "relacion": "es un",
+    "valor": "hospital público de referencia"
+  },
+  {
+    "entidad": "Pilar León",
+    "relacion": "es un",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "Terapia inmunosupresora (TIS)",
+    "relacion": "se utiliza para",
+    "valor": "pacientes mayores de 40 años o sin donante"
+  },
+  {
+    "entidad": "Trasplante de progenitores hematopoyéticos (TPH)",
+    "relacion": "es el tratamiento de elección para",
+    "valor": "pacientes menores de 40 años con aplasia medular"
+  },
+  {
+    "entidad": "Ciclosporina",
+    "relacion": "se utiliza para",
+    "valor": "prevenir el rechazo en TPH"
+  },
+  {
+    "entidad": "Globulina antitimocítica (GAT)",
+    "relacion": "se utiliza en",
+    "valor": "tratamiento inmunosupresor"
+  },
+  {
+    "entidad": "Citopenias",
+    "relacion": "son manifestaciones de",
+    "valor": "aplasia medular adquirida"
+  },
+  {
+    "entidad": "Linfocitos T (LT)",
+    "relacion": "inhiben",
+    "valor": "hematopoyesis en aplasia medular"
+  },
+  {
+    "entidad": "Factor de necrosis tumoral (TNF) α",
+    "relacion": "es un mediador de",
+    "valor": "la apoptosis de células madre hematopoyéticas"
+  },
+  {
+    "entidad": "Criterios de Camitta",
+    "relacion": "se utilizan para",
+    "valor": "diagnosticar aplasia medular"
+  },
+  {
+    "entidad": "Sobrevida global (SG)",
+    "relacion": "se calcula desde",
+    "valor": "la fecha de diagnóstico hasta el último control o muerte"
+  },
+  {
+    "entidad": "Epidemiología",
+    "relacion": "se estudia en",
+    "valor": "pacientes con aplasia medular adquirida"
+  },
+  {
+    "entidad": "Clones hematopoyéticos",
+    "relacion": "se encuentran en",
+    "valor": "pacientes con aplasia medular"
+  },
+  {
+    "entidad": "Síndrome de Klinefelter",
+    "relacion": "es una alteración detectada en",
+    "valor": "un paciente con aplasia medular"
+  },
+  {
+    "entidad": "Infecciones",
+    "relacion": "son una causa de",
+    "valor": "mortalidad en pacientes con TPH"
+  },
+  {
+    "entidad": "Eltrombopag",
+    "relacion": "es un tratamiento para",
+    "valor": "pacientes refractarios a TIS"
+  },
+  {
+    "entidad": "Grupo Europeo de Trasplante",
+    "relacion": "recomienda",
+    "valor": "TIS como primera línea en pacientes mayores de 40 años"
+  },
+  {
+    "entidad": "Hospital del Salvador",
+    "relacion": "realiza",
+    "valor": "tratamientos para aplasia medular adquirida"
+  },
+  {
+    "entidad": "Ciclosporina",
+    "relacion": "se ajusta para mantener",
+    "valor": "niveles entre 200-350 ng/ml"
+  },
+  {
+    "entidad": "Colitis de Crohn",
+    "relacion": "es un",
+    "valor": "tipo de enfermedad inflamatoria intestinal"
+  },
+  {
+    "entidad": "Crohn's colitis",
+    "relacion": "afecta a",
+    "valor": "25% de los pacientes con enfermedad de Crohn"
+  },
+  {
+    "entidad": "tratamiento quirúrgico",
+    "relacion": "analiza",
+    "valor": "resultados a corto y largo plazo"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "es un",
+    "valor": "institución donde se realizó el estudio"
+  },
+  {
+    "entidad": "morbimortalidad quirúrgica",
+    "relacion": "se considera",
+    "valor": "resultado primario del estudio"
+  },
+  {
+    "entidad": "necesidad de una segunda cirugía",
+    "relacion": "se considera",
+    "valor": "resultado secundario del estudio"
+  },
+  {
+    "entidad": "equipo multidisciplinario",
+    "relacion": "participa en",
+    "valor": "manejo pre, intra y postoperatorio"
+  },
+  {
+    "entidad": "diagnóstico",
+    "relacion": "se basa en",
+    "valor": "características clínicas, hallazgos endoscópicos y estudio histopatológico"
+  },
+  {
+    "entidad": "colectomía total",
+    "relacion": "es un",
+    "valor": "tipo de intervención quirúrgica común"
+  },
+  {
+    "entidad": "proctocolectomía",
+    "relacion": "es un",
+    "valor": "tipo de intervención quirúrgica común"
+  },
+  {
+    "entidad": "colectomía segmentaria",
+    "relacion": "es un",
+    "valor": "tipo de intervención quirúrgica común"
+  },
+  {
+    "entidad": "complicaciones postoperatorias",
+    "relacion": "se registran en",
+    "valor": "un porcentaje de pacientes"
+  },
+  {
+    "entidad": "ileostomía",
+    "relacion": "es un",
+    "valor": "resultado frecuente del tratamiento quirúrgico"
+  },
+  {
+    "entidad": "recurrencia de la enfermedad",
+    "relacion": "se observa en",
+    "valor": "un porcentaje de pacientes después de la cirugía"
+  },
+  {
+    "entidad": "cáncer de recto",
+    "relacion": "es un",
+    "valor": "hallazgo incidental en un paciente"
+  },
+  {
+    "entidad": "tratamiento farmacológico",
+    "relacion": "disminuye después de",
+    "valor": "la cirugía"
+  },
+  {
+    "entidad": "mortalidad operatoria",
+    "relacion": "no se observa en",
+    "valor": "la serie de pacientes"
+  },
+  {
+    "entidad": "hospitalización",
+    "relacion": "tiene una mediana de",
+    "valor": "18 días"
+  },
+  {
+    "entidad": "seguimiento",
+    "relacion": "se realiza en",
+    "valor": "los pacientes operados"
+  },
+  {
+    "entidad": "fármacos inmunosupresores",
+    "relacion": "se consideran",
+    "valor": "para evitar recurrencias postoperatorias"
+  },
+  {
+    "entidad": "monitor automatizado OMRON HEM-7320-LA",
+    "relacion": "evalúa",
+    "valor": "confiabilidad en medición de presión arterial"
+  },
+  {
+    "entidad": "esfigmomanómetro de mercurio",
+    "relacion": "es comparado con",
+    "valor": "monitor automatizado OMRON HEM-7320-LA"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud (OMS)",
+    "relacion": "identifica",
+    "valor": "reducción del riesgo cardiovascular como estrategia eficaz"
+  },
+  {
+    "entidad": "hipertensión arterial (HTA)",
+    "relacion": "es un",
+    "valor": "factor de riesgo para eventos vasculares cerebrales"
+  },
+  {
+    "entidad": "dispositivos fiables",
+    "relacion": "son necesarios para",
+    "valor": "medición de presión arterial"
+  },
+  {
+    "entidad": "personal de salud",
+    "relacion": "debe estar",
+    "valor": "capacitado para medición de presión arterial"
+  },
+  {
+    "entidad": "toma de presión arterial",
+    "relacion": "es realizada por",
+    "valor": "enfermeras y médicos"
+  },
+  {
+    "entidad": "normas éticas",
+    "relacion": "se respetan en",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "Centro Universitario de Ciencias de la Salud",
+    "relacion": "pertenece a",
+    "valor": "Universidad de Guadalajara"
+  },
+  {
+    "entidad": "medición de presión arterial",
+    "relacion": "es esencial para",
+    "valor": "diagnóstico y control de hipertensión"
+  },
+  {
+    "entidad": "técnica de medición estándar de oro",
+    "relacion": "es comparada con",
+    "valor": "monitor automatizado OMRON HEM-7320-LA"
+  },
+  {
+    "entidad": "coeficiente de correlación intraclase (CCI)",
+    "relacion": "indica",
+    "valor": "alta confiabilidad en mediciones"
+  },
+  {
+    "entidad": "dispositivos oscilométricos automáticos",
+    "relacion": "han aumentado en",
+    "valor": "popularidad para automedición"
+  },
+  {
+    "entidad": "mediciones simultáneas",
+    "relacion": "se realizan entre",
+    "valor": "observadores y dispositivo"
+  },
+  {
+    "entidad": "protocolo de investigación",
+    "relacion": "fue aprobado por",
+    "valor": "comité de ética en investigación"
+  },
+  {
+    "entidad": "medición de presión arterial",
+    "relacion": "puede eliminar",
+    "valor": "errores por sesgos de medición"
+  },
+  {
+    "entidad": "monitor automatizado OMRON HEM-7320-LA",
+    "relacion": "es considerado",
+    "valor": "herramienta útil para medición de PA"
+  },
+  {
+    "entidad": "Universitat Internacional de Catalunya",
+    "relacion": "tiene",
+    "valor": "unidad de Medical Education"
+  },
+  {
+    "entidad": "unidad de Medical Education",
+    "relacion": "evalúa",
+    "valor": "competencias en comunicación clínica"
+  },
+  {
+    "entidad": "estudiantes de medicina",
+    "relacion": "utilizan",
+    "valor": "pacientes simulados"
+  },
+  {
+    "entidad": "pacientes simulados",
+    "relacion": "son",
+    "valor": "herramienta de evaluación"
+  },
+  {
+    "entidad": "comunicación clínica",
+    "relacion": "es",
+    "valor": "competencia necesaria"
+  },
+  {
+    "entidad": "entrevista clínica",
+    "relacion": "es",
+    "valor": "marco de interacción humana"
+  },
+  {
+    "entidad": "relación médico-paciente",
+    "relacion": "afecta",
+    "valor": "gestión asistencial"
+  },
+  {
+    "entidad": "comunicación efectiva",
+    "relacion": "impacta",
+    "valor": "diagnóstico y cumplimiento terapéutico"
+  },
+  {
+    "entidad": "empatía",
+    "relacion": "es",
+    "valor": "aspecto a mejorar"
+  },
+  {
+    "entidad": "comunicación no verbal",
+    "relacion": "es",
+    "valor": "aspecto a mejorar"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen",
+    "valor": "mejores puntuaciones en comunicación"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "tienen",
+    "valor": "puntuaciones más bajas en comunicación"
+  },
+  {
+    "entidad": "tecnicismos",
+    "relacion": "dificultan",
+    "valor": "comunicación en la relación médico-paciente"
+  },
+  {
+    "entidad": "escenarios clínicos",
+    "relacion": "son",
+    "valor": "diseñados para evaluar comunicación"
+  },
+  {
+    "entidad": "evaluación formativa",
+    "relacion": "presenta",
+    "valor": "debilidades en estrategias"
+  },
+  {
+    "entidad": "cuestionario específico",
+    "relacion": "se utiliza para",
+    "valor": "evaluar habilidades comunicativas"
+  },
+  {
+    "entidad": "formación médica",
+    "relacion": "debe incluir",
+    "valor": "habilidades comunicativas"
+  },
+  {
+    "entidad": "Espacio Europeo de Educación Superior",
+    "relacion": "incluye",
+    "valor": "asignaturas de habilidades comunicativas"
+  },
+  {
+    "entidad": "debriefing",
+    "relacion": "facilita",
+    "valor": "autorreflexión de estudiantes"
+  },
+  {
+    "entidad": "evaluadores",
+    "relacion": "son",
+    "valor": "profesionales sanitarios formados"
+  },
+  {
+    "entidad": "análisis estadístico",
+    "relacion": "se realiza con",
+    "valor": "paquete estadístico SPSS"
+  },
+  {
+    "entidad": "comunicación global",
+    "relacion": "es",
+    "valor": "media aritmética de variables de comunicación"
+  },
+  {
+    "entidad": "mamografía espectral de energía dual",
+    "relacion": "es un",
+    "valor": "método de diagnóstico"
+  },
+  {
+    "entidad": "cáncer de mama",
+    "relacion": "es la",
+    "valor": "primera causa de muerte oncológica en mujeres chilenas"
+  },
+  {
+    "entidad": "mamografía convencional",
+    "relacion": "se utiliza para",
+    "valor": "tamizaje en población femenina asintomática"
+  },
+  {
+    "entidad": "mamografía con contraste",
+    "relacion": "tiene una sensibilidad de",
+    "valor": "100%"
+  },
+  {
+    "entidad": "mamografía con contraste",
+    "relacion": "tiene una exactitud diagnóstica de",
+    "valor": "85%"
+  },
+  {
+    "entidad": "mamografía con contraste",
+    "relacion": "puede ser útil para",
+    "valor": "reevaluar pacientes con mamografía convencional alterada"
+  },
+  {
+    "entidad": "resonancia magnética",
+    "relacion": "es un",
+    "valor": "método más sensible para diagnóstico de cáncer de mama"
+  },
+  {
+    "entidad": "mamografía digital",
+    "relacion": "ha mejorado",
+    "valor": "la calidad de las mamografías"
+  },
+  {
+    "entidad": "Hospital Clínico de la Pontificia Universidad Católica de Chile",
+    "relacion": "realiza",
+    "valor": "mamografía con contraste"
+  },
+  {
+    "entidad": "CONICYT - PIA - Anillo ACT1416",
+    "relacion": "financia",
+    "valor": "la investigación"
+  },
+  {
+    "entidad": "factores de riesgo de cáncer de mama",
+    "relacion": "incluyen",
+    "valor": "antecedentes familiares directos y paridad"
+  },
+  {
+    "entidad": "lesiones tipo masa",
+    "relacion": "son un",
+    "valor": "factor de riesgo para lesiones malignas"
+  },
+  {
+    "entidad": "papilomatosis",
+    "relacion": "es un tipo de",
+    "valor": "lesión benigna"
+  },
+  {
+    "entidad": "adenopatías",
+    "relacion": "son",
+    "valor": "ganglios que han perdido su morfología"
+  },
+  {
+    "entidad": "mamografía con contraste",
+    "relacion": "es menos costosa que",
+    "valor": "resonancia magnética"
+  },
+  {
+    "entidad": "mamografía con contraste",
+    "relacion": "mejora",
+    "valor": "sensibilidad y especificidad de la mamografía convencional"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "es responsable de",
+    "valor": "aproximadamente 7 millones de muertes al año"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "es una de las principales causas modificables de",
+    "valor": "muerte"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "afecta a",
+    "valor": "una tercera parte de la población mundial"
+  },
+  {
+    "entidad": "intervenciones",
+    "relacion": "destinadas a",
+    "valor": "reducir la adicción al tabaco"
+  },
+  {
+    "entidad": "Cohorte 1",
+    "relacion": "fue evaluada entre",
+    "valor": "2000 y 2002"
+  },
+  {
+    "entidad": "Cohorte 2",
+    "relacion": "fue evaluada entre",
+    "valor": "2014 y 2017"
+  },
+  {
+    "entidad": "nivel socioeconómico (NSE)",
+    "relacion": "se determina mediante",
+    "valor": "nivel educacional y ocupación del jefe de hogar"
+  },
+  {
+    "entidad": "Cohorte 1",
+    "relacion": "reportó",
+    "valor": "57.5% de fumadores"
+  },
+  {
+    "entidad": "Cohorte 2",
+    "relacion": "reportó",
+    "valor": "40.2% de fumadores"
+  },
+  {
+    "entidad": "Cohorte 2",
+    "relacion": "muestra un riesgo de fumar",
+    "valor": "mayor en niveles socioeconómicos bajos"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "se concentra en",
+    "valor": "los NSE más bajos"
+  },
+  {
+    "entidad": "Cohorte 1",
+    "relacion": "no muestra",
+    "valor": "asociaciones significativas con el NSE"
+  },
+  {
+    "entidad": "Cohorte 2",
+    "relacion": "muestra un incremento del riesgo de fumar",
+    "valor": "a medida que el NSE es más bajo"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "ha disminuido en",
+    "valor": "la población de adultos jóvenes"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "es un factor de riesgo para",
+    "valor": "enfermedades crónicas"
+  },
+  {
+    "entidad": "programas destinados a disminuir el tabaquismo",
+    "relacion": "deben considerar",
+    "valor": "las condiciones socioeconómicas"
+  },
+  {
+    "entidad": "adultos jóvenes",
+    "relacion": "deben ser considerados como",
+    "valor": "grupo prioritario en campañas educativas"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "se ha asociado con",
+    "valor": "diferencias de género en su prevalencia"
+  },
+  {
+    "entidad": "Universidad de Chile",
+    "relacion": "es la institución que",
+    "valor": "realizó el estudio"
+  },
+  {
+    "entidad": "Fondo nacional de desarrollo científico y tecnológico (Fondecyt)",
+    "relacion": "financió",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "tabaco",
+    "relacion": "promueve",
+    "valor": "características inflamatorias en células dendríticas"
+  },
+  {
+    "entidad": "células dendríticas",
+    "relacion": "son",
+    "valor": "jugadores fundamentales en la autoinmunidad"
+  },
+  {
+    "entidad": "células dendríticas",
+    "relacion": "muestran",
+    "valor": "alteraciones fenotípicas y funcionales en pacientes con artritis reumatoide"
+  },
+  {
+    "entidad": "pacientes con artritis reumatoide",
+    "relacion": "se comparan con",
+    "valor": "controles sanos"
+  },
+  {
+    "entidad": "pacientes fumadores",
+    "relacion": "muestran",
+    "valor": "expansión exacerbada de Th17"
+  },
+  {
+    "entidad": "expresión de HLA-DR",
+    "relacion": "aumenta en",
+    "valor": "células dendríticas de pacientes con artritis reumatoide"
+  },
+  {
+    "entidad": "pacientes con artritis reumatoide",
+    "relacion": "presentan",
+    "valor": "correlación entre DAS28 y expansión de Th1"
+  },
+  {
+    "entidad": "tabaco",
+    "relacion": "afecta",
+    "valor": "comportamiento inflamatorio de células dendríticas"
+  },
+  {
+    "entidad": "células T",
+    "relacion": "son",
+    "valor": "inducidas por células dendríticas"
+  },
+  {
+    "entidad": "pacientes chilenos",
+    "relacion": "son",
+    "valor": "el foco del estudio"
+  },
+  {
+    "entidad": "células dendríticas",
+    "relacion": "inducen",
+    "valor": "respuestas mediadas por Th1 y Th17"
+  },
+  {
+    "entidad": "etnicidad",
+    "relacion": "es",
+    "valor": "un factor clave en desórdenes autoinmunes"
+  },
+  {
+    "entidad": "células dendríticas",
+    "relacion": "se obtienen de",
+    "valor": "muestras de sangre"
+  },
+  {
+    "entidad": "pacientes con artritis reumatoide",
+    "relacion": "son",
+    "valor": "genéticamente predispuestos"
+  },
+  {
+    "entidad": "polimorfismos genéticos",
+    "relacion": "afectan",
+    "valor": "comportamiento del sistema inmune"
+  },
+  {
+    "entidad": "cigarrillo",
+    "relacion": "favorece",
+    "valor": "citrulinación de autoantígenos"
+  },
+  {
+    "entidad": "células dendríticas",
+    "relacion": "tienen",
+    "valor": "potencial dual para promover tolerancia o inflamación"
+  },
+  {
+    "entidad": "células Tregs",
+    "relacion": "son generadas por",
+    "valor": "células dendríticas tolerogénicas"
+  },
+  {
+    "entidad": "células Th1",
+    "relacion": "son inducidas por",
+    "valor": "células dendríticas con potencial inflamatorio"
+  },
+  {
+    "entidad": "células Th17",
+    "relacion": "son inducidas por",
+    "valor": "células dendríticas con potencial inflamatorio"
+  },
+  {
+    "entidad": "Traumatismo torácico",
+    "relacion": "es responsable de",
+    "valor": "25-35% de las muertes por trauma"
+  },
+  {
+    "entidad": "Traumatismo torácico",
+    "relacion": "se presenta en",
+    "valor": "10-15% de todos los traumatismos"
+  },
+  {
+    "entidad": "Traumatismo torácico",
+    "relacion": "afecta principalmente a",
+    "valor": "hombres menores de 40 años"
+  },
+  {
+    "entidad": "Hospital Clínico Regional 'Dr. Guillermo Grant Benavente'",
+    "relacion": "realiza",
+    "valor": "tratamiento de traumatismo torácico"
+  },
+  {
+    "entidad": "Facultad de Medicina, Universidad de Concepción",
+    "relacion": "aproba",
+    "valor": "protocolos de investigación"
+  },
+  {
+    "entidad": "Injury Severity Score (ISS)",
+    "relacion": "determina",
+    "valor": "gravedad de acuerdo a lesión anatómica"
+  },
+  {
+    "entidad": "Revised Trauma Score (RTS-T)",
+    "relacion": "evalúa",
+    "valor": "estado o deterioro fisiológico al momento del ingreso"
+  },
+  {
+    "entidad": "Trauma Injury Severity Score (TRISS)",
+    "relacion": "relaciona",
+    "valor": "lesiones con la edad del paciente y el mecanismo del traumatismo"
+  },
+  {
+    "entidad": "Traumatismo torácico",
+    "relacion": "requiere",
+    "valor": "tratamiento invasivo en el 70% de los casos"
+  },
+  {
+    "entidad": "Pleurotomía",
+    "relacion": "es el tratamiento más frecuente",
+    "valor": "en traumatismo torácico"
+  },
+  {
+    "entidad": "Mortalidad",
+    "relacion": "no presenta cambios significativos",
+    "valor": "en pacientes hospitalizados por traumatismo torácico"
+  },
+  {
+    "entidad": "Hospitalizaciones por traumatismo torácico",
+    "relacion": "han aumentado",
+    "valor": "en las últimas tres décadas"
+  },
+  {
+    "entidad": "Proporción de hospitalizaciones",
+    "relacion": "aumenta en",
+    "valor": "pacientes ≥ 65 años y mujeres"
+  },
+  {
+    "entidad": "Lesiones penetrantes",
+    "relacion": "predominan sobre",
+    "valor": "lesiones contusas en traumatismo torácico"
+  },
+  {
+    "entidad": "Agresiones",
+    "relacion": "aumentan en",
+    "valor": "hospitalizaciones por traumatismo torácico"
+  },
+  {
+    "entidad": "Mecanismos de traumatismo",
+    "relacion": "incluyen",
+    "valor": "agresión y accidentes domésticos"
+  },
+  {
+    "entidad": "Lesiones extratorácicas",
+    "relacion": "disminuyen en",
+    "valor": "pacientes hospitalizados por traumatismo torácico"
+  },
+  {
+    "entidad": "Estadía hospitalaria",
+    "relacion": "se reduce",
+    "valor": "en pacientes con traumatismo torácico"
+  },
+  {
+    "entidad": "Morbimortalidad",
+    "relacion": "asociada a",
+    "valor": "traumatismo torácico es frecuente"
+  },
+  {
+    "entidad": "Traumatismo torácico",
+    "relacion": "es un problema de",
+    "valor": "salud pública"
+  },
+  {
+    "entidad": "Hospital Clínico Regional 'Dr. Guillermo Grant Benavente'",
+    "relacion": "es un",
+    "valor": "centro de tratamiento para traumatismo torácico"
+  }
+]

@@ -1,0 +1,187 @@
+[
+  {
+    "entidad": "Colitis Ulcerosa",
+    "relacion": "es un",
+    "valor": "trastorno inflamatorio crónico"
+  },
+  {
+    "entidad": "Colitis Ulcerosa",
+    "relacion": "afecta a",
+    "valor": "colon y recto"
+  },
+  {
+    "entidad": "Colitis Ulcerosa",
+    "relacion": "puede causar",
+    "valor": "cáncer colorrectal"
+  },
+  {
+    "entidad": "factores demográficos",
+    "relacion": "incluyen",
+    "valor": "edad, género, tabaquismo"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "influye en",
+    "valor": "tasa de recaídas y severidad de la enfermedad"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "es un",
+    "valor": "factor ambiental protector"
+  },
+  {
+    "entidad": "género",
+    "relacion": "afecta a",
+    "valor": "riesgo de recaídas"
+  },
+  {
+    "entidad": "Proteína C reactiva",
+    "relacion": "es un",
+    "valor": "marcador biológico"
+  },
+  {
+    "entidad": "Calprotectina fecal",
+    "relacion": "es un",
+    "valor": "marcador biológico"
+  },
+  {
+    "entidad": "pANCA",
+    "relacion": "se asocia con",
+    "valor": "mayor tasa de recaída"
+  },
+  {
+    "entidad": "ASCA",
+    "relacion": "se asocia con",
+    "valor": "enfermedad de Crohn"
+  },
+  {
+    "entidad": "colangitis esclerosante primaria",
+    "relacion": "es un",
+    "valor": "factor predictor de progresión"
+  },
+  {
+    "entidad": "curación de la mucosa",
+    "relacion": "es un",
+    "valor": "objetivo en el tratamiento"
+  },
+  {
+    "entidad": "colectomía",
+    "relacion": "es un",
+    "valor": "resultado potencial de la enfermedad"
+  },
+  {
+    "entidad": "co-infecciones",
+    "relacion": "pueden complicar",
+    "valor": "el curso de la enfermedad"
+  },
+  {
+    "entidad": "Citomegalovirus",
+    "relacion": "se asocia con",
+    "valor": "corticorefractariedad"
+  },
+  {
+    "entidad": "Clostridium difficile",
+    "relacion": "aumenta el riesgo de",
+    "valor": "colectomía"
+  },
+  {
+    "entidad": "hospitalización precoz",
+    "relacion": "se asocia con",
+    "valor": "peor pronóstico"
+  },
+  {
+    "entidad": "niveles bajos de hemoglobina",
+    "relacion": "se asocian con",
+    "valor": "peor pronóstico"
+  },
+  {
+    "entidad": "valores elevados de PCR",
+    "relacion": "se asocian con",
+    "valor": "peor pronóstico"
+  },
+  {
+    "entidad": "presencia de úlceras profundas",
+    "relacion": "se asocia con",
+    "valor": "peor pronóstico"
+  },
+  {
+    "entidad": "demencia",
+    "relacion": "afecta a",
+    "valor": "más de 180 mil personas en Chile"
+  },
+  {
+    "entidad": "demencia",
+    "relacion": "se proyecta que aumentará a",
+    "valor": "600,000 personas en 2050"
+  },
+  {
+    "entidad": "toma de decisiones",
+    "relacion": "plantea",
+    "valor": "desafíos éticos y jurídicos"
+  },
+  {
+    "entidad": "evaluación clínica de la competencia",
+    "relacion": "debe coincidir con",
+    "valor": "sistema jurídico chileno"
+  },
+  {
+    "entidad": "sistema jurídico chileno",
+    "relacion": "no cumple con",
+    "valor": "obligaciones internacionales"
+  },
+  {
+    "entidad": "Artículo 12 de la Convención sobre los Derechos de las Personas con Discapacidad",
+    "relacion": "afirma que",
+    "valor": "personas con discapacidades tienen derecho a ser reconocidas como personas ante la ley"
+  },
+  {
+    "entidad": "competencia en la toma de decisiones",
+    "relacion": "es un elemento central de",
+    "valor": "autonomía"
+  },
+  {
+    "entidad": "consentimiento informado",
+    "relacion": "es parte de",
+    "valor": "la autonomía del paciente"
+  },
+  {
+    "entidad": "evaluación de la competencia",
+    "relacion": "es un proceso",
+    "valor": "complejo en personas con o sin deterioro cognitivo"
+  },
+  {
+    "entidad": "deterioro cognitivo",
+    "relacion": "puede afectar",
+    "valor": "la competencia de toma de decisiones"
+  },
+  {
+    "entidad": "Ley Nº 18.600",
+    "relacion": "define",
+    "valor": "persona con discapacidad mental"
+  },
+  {
+    "entidad": "Comisión de Medicina Preventiva e Invalidez (COMPIN)",
+    "relacion": "declara",
+    "valor": "discapacidad mental"
+  },
+  {
+    "entidad": "interdicción por demencia",
+    "relacion": "anula",
+    "valor": "participación en la vida civil"
+  },
+  {
+    "entidad": "sistema de protección de personas jurídicamente incapaces",
+    "relacion": "debe ser reformado para",
+    "valor": "sustituir la expresión 'demente'"
+  },
+  {
+    "entidad": "modelo de toma de decisiones",
+    "relacion": "se basa en",
+    "valor": "apoyo o asistencia de la voluntad"
+  },
+  {
+    "entidad": "derechos humanos",
+    "relacion": "deben ser respetados para",
+    "valor": "la inclusión efectiva de personas con discapacidad"
+  }
+]

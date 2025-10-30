@@ -1,0 +1,177 @@
+[
+  {
+    "entidad": "hipotiroidismo congénito",
+    "relacion": "es la",
+    "valor": "principal causa de discapacidad cognitiva prevenible"
+  },
+  {
+    "entidad": "hipotiroidismo congénito",
+    "relacion": "produce",
+    "valor": "alteraciones en el desarrollo cerebral"
+  },
+  {
+    "entidad": "hormonas tiroideas",
+    "relacion": "son",
+    "valor": "cruciales para el desarrollo del sistema nervioso"
+  },
+  {
+    "entidad": "programas de tamizaje neonatal",
+    "relacion": "fueron creados en",
+    "valor": "la década de los 70"
+  },
+  {
+    "entidad": "programa de tamizaje neonatal en Chile",
+    "relacion": "logró",
+    "valor": "cobertura nacional en 1996"
+  },
+  {
+    "entidad": "evaluación del desarrollo",
+    "relacion": "debe realizarse",
+    "valor": "periódicamente en pacientes con hipotiroidismo congénito"
+  },
+  {
+    "entidad": "hormonas tiroideas sintéticas",
+    "relacion": "se utilizan para",
+    "valor": "iniciar tratamiento en hipotiroidismo congénito"
+  },
+  {
+    "entidad": "evaluación neurológica",
+    "relacion": "debe realizarse",
+    "valor": "al momento del diagnóstico"
+  },
+  {
+    "entidad": "coeficiente intelectual",
+    "relacion": "se ve afectado por",
+    "valor": "el inicio tardío del tratamiento"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "se ve afectada por",
+    "valor": "las alteraciones neurocognitivas en pacientes con hipotiroidismo congénito"
+  },
+  {
+    "entidad": "seguimiento médico",
+    "relacion": "es necesario para",
+    "valor": "evitar sub o sobre-tratamiento"
+  },
+  {
+    "entidad": "evaluación psicomotora",
+    "relacion": "se realiza con",
+    "valor": "test de Bayley"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "desarrolla",
+    "valor": "normas para la evaluación del desarrollo"
+  },
+  {
+    "entidad": "pacientes con hipotiroidismo congénito",
+    "relacion": "presentan",
+    "valor": "alteraciones en áreas motora, de inteligencia, memoria y lenguaje"
+  },
+  {
+    "entidad": "hormonas tiroideas",
+    "relacion": "participan en",
+    "valor": "la mielinización y sinaptogénesis"
+  },
+  {
+    "entidad": "evaluación neuropsicológica",
+    "relacion": "debe complementarse con",
+    "valor": "neuroimágenes y otros estudios"
+  },
+  {
+    "entidad": "programa nacional de tamizaje de HC",
+    "relacion": "recomienda",
+    "valor": "dosis altas de levotiroxina para el tratamiento"
+  },
+  {
+    "entidad": "enfermedad pulmonar obstructiva crónica (EPOC)",
+    "relacion": "es un",
+    "valor": "trastorno respiratorio crónico"
+  },
+  {
+    "entidad": "EPOC",
+    "relacion": "afecta a",
+    "valor": "actividad física"
+  },
+  {
+    "entidad": "inactividad física",
+    "relacion": "es un",
+    "valor": "factor de riesgo modificable"
+  },
+  {
+    "entidad": "inactividad física",
+    "relacion": "contribuye a",
+    "valor": "mortalidad en pacientes con EPOC"
+  },
+  {
+    "entidad": "intervenciones de actividad física",
+    "relacion": "disminuyen",
+    "valor": "probabilidad de mortalidad"
+  },
+  {
+    "entidad": "cuestionarios",
+    "relacion": "son",
+    "valor": "herramientas de evaluación de actividad física"
+  },
+  {
+    "entidad": "acelerómetros",
+    "relacion": "son",
+    "valor": "dispositivos para medir actividad física"
+  },
+  {
+    "entidad": "calorimetría indirecta",
+    "relacion": "es un",
+    "valor": "método para medir gasto energético"
+  },
+  {
+    "entidad": "agua doblemente marcada",
+    "relacion": "es un",
+    "valor": "método estándar para medir gasto energético"
+  },
+  {
+    "entidad": "función pulmonar",
+    "relacion": "tiene una asociación con",
+    "valor": "niveles de actividad física en EPOC"
+  },
+  {
+    "entidad": "disnea",
+    "relacion": "es un",
+    "valor": "síntoma que limita la actividad física en EPOC"
+  },
+  {
+    "entidad": "factores sociodemográficos",
+    "relacion": "influencian",
+    "valor": "realización de actividad física en EPOC"
+  },
+  {
+    "entidad": "exacerbaciones",
+    "relacion": "reducen",
+    "valor": "niveles de actividad física"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "mejora con",
+    "valor": "mayores niveles de actividad física"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud (OMS)",
+    "relacion": "estima que",
+    "valor": "más de 80 millones padecen EPOC"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "reporta una prevalencia de",
+    "valor": "16.9% de EPOC en mayores de 40 años"
+  },
+  {
+    "entidad": "cuestionario IPAQ",
+    "relacion": "ha sido validado en",
+    "valor": "varios idiomas, incluido el español"
+  },
+  {
+    "entidad": "cuestionario GPAQ",
+    "relacion": "es utilizado en",
+    "valor": "la Encuesta Nacional de Salud en Chile"
+  }
+]

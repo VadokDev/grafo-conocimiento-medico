@@ -1,0 +1,242 @@
+[
+  {
+    "entidad": "Diabetes mellitus",
+    "relacion": "es",
+    "valor": "una enfermedad crónica"
+  },
+  {
+    "entidad": "Osteomielitis de pie diabético (OPD)",
+    "relacion": "es",
+    "valor": "una complicación grave de úlceras infectadas"
+  },
+  {
+    "entidad": "Cultivo",
+    "relacion": "es un método de",
+    "valor": "identificación de microorganismos"
+  },
+  {
+    "entidad": "Metagenómica",
+    "relacion": "es un método de",
+    "valor": "identificación de microorganismos"
+  },
+  {
+    "entidad": "Diabetes mellitus tipo 2",
+    "relacion": "es",
+    "valor": "la forma más común de diabetes"
+  },
+  {
+    "entidad": "Peptoniphilaceae",
+    "relacion": "es identificada por",
+    "valor": "metagenómica"
+  },
+  {
+    "entidad": "Staphylococcus aureus",
+    "relacion": "es",
+    "valor": "un patógeno común en infecciones"
+  },
+  {
+    "entidad": "Osteomielitis",
+    "relacion": "requiere",
+    "valor": "diagnóstico temprano y preciso"
+  },
+  {
+    "entidad": "Técnicas de cultivo",
+    "relacion": "son",
+    "valor": "limitadas en la identificación de microorganismos"
+  },
+  {
+    "entidad": "Microbiota",
+    "relacion": "es",
+    "valor": "el conjunto de microorganismos en un ambiente"
+  },
+  {
+    "entidad": "PRISMA",
+    "relacion": "es",
+    "valor": "una declaración para revisiones sistemáticas"
+  },
+  {
+    "entidad": "Rayyan",
+    "relacion": "es",
+    "valor": "una herramienta para la selección de estudios"
+  },
+  {
+    "entidad": "Diabetes",
+    "relacion": "afecta a",
+    "valor": "millones de personas en el mundo"
+  },
+  {
+    "entidad": "Infecciones polimicrobianas",
+    "relacion": "son comunes en",
+    "valor": "osteomielitis"
+  },
+  {
+    "entidad": "Antibióticos",
+    "relacion": "son utilizados para",
+    "valor": "tratar infecciones"
+  },
+  {
+    "entidad": "Estudios científicos",
+    "relacion": "son analizados para",
+    "valor": "evaluar técnicas de identificación bacteriana"
+  },
+  {
+    "entidad": "Osteomielitis de pie diabético",
+    "relacion": "requiere",
+    "valor": "tratamiento quirúrgico y antibiótico"
+  },
+  {
+    "entidad": "Osteomielitis",
+    "relacion": "está asociada con",
+    "valor": "alto riesgo de amputación"
+  },
+  {
+    "entidad": "Técnicas de identificación bacteriana",
+    "relacion": "son evaluadas para",
+    "valor": "mejorar el manejo clínico"
+  },
+  {
+    "entidad": "Cultivo microbiológico",
+    "relacion": "no identifica",
+    "valor": "todas las bacterias presentes"
+  },
+  {
+    "entidad": "Metagenómica",
+    "relacion": "permite",
+    "valor": "analizar todo el microbioma"
+  },
+  {
+    "entidad": "Osteomielitis",
+    "relacion": "es causada por",
+    "valor": "úlceras que no cicatrizan"
+  },
+  {
+    "entidad": "Técnicas de secuenciación",
+    "relacion": "son utilizadas para",
+    "valor": "identificar bacterias"
+  },
+  {
+    "entidad": "Corynebacterium",
+    "relacion": "es",
+    "valor": "un patógeno potencial en infecciones"
+  },
+  {
+    "entidad": "Bacterias anaerobias",
+    "relacion": "son",
+    "valor": "difíciles de cultivar"
+  },
+  {
+    "entidad": "Estudios retrospectivos",
+    "relacion": "carecen de",
+    "valor": "información uniforme"
+  },
+  {
+    "entidad": "Fibrilación auricular",
+    "relacion": "es",
+    "valor": "la arritmia más común"
+  },
+  {
+    "entidad": "Fibrilación auricular",
+    "relacion": "afecta a",
+    "valor": "pacientes mayores de 65 años"
+  },
+  {
+    "entidad": "Fibrilación auricular",
+    "relacion": "confere",
+    "valor": "mayor riesgo de accidente cerebrovascular"
+  },
+  {
+    "entidad": "Fibrilación auricular",
+    "relacion": "confere",
+    "valor": "mayor riesgo de insuficiencia cardíaca"
+  },
+  {
+    "entidad": "Fibrilación auricular",
+    "relacion": "confere",
+    "valor": "mayor riesgo de muerte"
+  },
+  {
+    "entidad": "Direct oral anticoagulants",
+    "relacion": "tienen",
+    "valor": "beneficios claros en eficacia y seguridad"
+  },
+  {
+    "entidad": "Anticoagulantes directos",
+    "relacion": "son",
+    "valor": "superiores a antagonistas de vitamina K"
+  },
+  {
+    "entidad": "Anticoagulantes directos",
+    "relacion": "se introducen en",
+    "valor": "2008"
+  },
+  {
+    "entidad": "CHAD2S2 Vasc",
+    "relacion": "se utiliza para",
+    "valor": "decidir tratamiento anticoagulante"
+  },
+  {
+    "entidad": "Fibrilación auricular",
+    "relacion": "puede evolucionar a",
+    "valor": "recuperación de ritmo sinusal o perpetuación"
+  },
+  {
+    "entidad": "FA paroxística",
+    "relacion": "es",
+    "valor": "recuperación de ritmo sinusal en 48 horas"
+  },
+  {
+    "entidad": "FA persistente",
+    "relacion": "es",
+    "valor": "perpetuación de la fibrilación auricular"
+  },
+  {
+    "entidad": "Early Atrial Fibrillation Trial",
+    "relacion": "demostró",
+    "valor": "mejor pronóstico con mantención de ritmo sinusal"
+  },
+  {
+    "entidad": "Insuficiencia cardíaca",
+    "relacion": "es",
+    "valor": "la principal causa de muerte cardiovascular en pacientes con FA"
+  },
+  {
+    "entidad": "Diabetes mellitus",
+    "relacion": "está ligada a",
+    "valor": "fibrilación auricular"
+  },
+  {
+    "entidad": "Insuficiencia renal",
+    "relacion": "aumenta",
+    "valor": "la incidencia de fibrilación auricular"
+  },
+  {
+    "entidad": "Anticoagulantes directos",
+    "relacion": "son",
+    "valor": "superiores en eficacia y seguridad en pacientes con insuficiencia renal"
+  },
+  {
+    "entidad": "Registro Garfield FA",
+    "relacion": "incorporó",
+    "valor": "más de 55 mil pacientes"
+  },
+  {
+    "entidad": "Eventos adversos serios",
+    "relacion": "ocurren",
+    "valor": "dentro de los primeros 4 meses de diagnosticada una FA"
+  },
+  {
+    "entidad": "Anticoagulantes directos",
+    "relacion": "son",
+    "valor": "más seguros y eficaces en pacientes añosos"
+  },
+  {
+    "entidad": "Nuevas tendencias",
+    "relacion": "incluyen",
+    "valor": "anticoagulantes directos que influyen en el factor XI y XII"
+  },
+  {
+    "entidad": "Obliteración del cuello de la orejuela izquierda",
+    "relacion": "es",
+    "valor": "una alternativa no farmacológica"
+  }
+]

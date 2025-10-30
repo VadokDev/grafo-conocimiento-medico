@@ -1,0 +1,952 @@
+[
+  {
+    "entidad": "Arteritis de células gigantes",
+    "relacion": "es",
+    "valor": "la vasculitis sistémica más común en pacientes mayores de 50 años"
+  },
+  {
+    "entidad": "Arteritis de células gigantes",
+    "relacion": "afecta a",
+    "valor": "la arteria carótida externa y sus ramas"
+  },
+  {
+    "entidad": "Arteritis de células gigantes",
+    "relacion": "se manifiesta con",
+    "valor": "síntomas constitucionales y cefalea fronto-temporal"
+  },
+  {
+    "entidad": "biopsia de arteria temporal",
+    "relacion": "es",
+    "valor": "el estándar de oro para el diagnóstico"
+  },
+  {
+    "entidad": "Arteritis de células gigantes",
+    "relacion": "puede presentarse como",
+    "valor": "fiebre de origen desconocido"
+  },
+  {
+    "entidad": "compromiso extracraneal",
+    "relacion": "se ha reportado",
+    "valor": "frecuentemente en asociación con síntomas craneales"
+  },
+  {
+    "entidad": "ecografía",
+    "relacion": "es",
+    "valor": "una herramienta útil en el diagnóstico precoz de ACG"
+  },
+  {
+    "entidad": "corticoides",
+    "relacion": "son",
+    "valor": "la base del tratamiento para ACG"
+  },
+  {
+    "entidad": "metotrexato",
+    "relacion": "es",
+    "valor": "un ahorrador de corticoides utilizado en el tratamiento"
+  },
+  {
+    "entidad": "Tocilizumab",
+    "relacion": "se ha propuesto como",
+    "valor": "ahorrador de corticoides con buenos resultados"
+  },
+  {
+    "entidad": "Arteritis de células gigantes",
+    "relacion": "presenta",
+    "valor": "una tasa de amaurosis mayor en población local"
+  },
+  {
+    "entidad": "Hospital Clínico Universidad de Chile",
+    "relacion": "realizó",
+    "valor": "el estudio de casos de ACG"
+  },
+  {
+    "entidad": "Pamela Wurmann Kiblisky",
+    "relacion": "es",
+    "valor": "la autora principal del estudio"
+  },
+  {
+    "entidad": "Giant Cell Arteritis",
+    "relacion": "es",
+    "valor": "el término en inglés para Arteritis de células gigantes"
+  },
+  {
+    "entidad": "anemia normocítica normocrómica",
+    "relacion": "es",
+    "valor": "una manifestación común en el laboratorio"
+  },
+  {
+    "entidad": "velocidad de eritrosedimentación",
+    "relacion": "es",
+    "valor": "un reactante de fase aguda elevado en ACG"
+  },
+  {
+    "entidad": "biopsia de arteria temporal",
+    "relacion": "puede tener",
+    "valor": "hasta 44% de falsos negativos"
+  },
+  {
+    "entidad": "compromiso extracraneal",
+    "relacion": "puede ser",
+    "valor": "asintomático en un porcentaje significativo de casos"
+  },
+  {
+    "entidad": "corticoides",
+    "relacion": "requieren",
+    "valor": "observación estrecha y seguimiento"
+  },
+  {
+    "entidad": "ecografía Doppler de vasos temporales",
+    "relacion": "tiene",
+    "valor": "buena sensibilidad en manos entrenadas"
+  },
+  {
+    "entidad": "FDG-PET",
+    "relacion": "es",
+    "valor": "una técnica de imagen útil para el diagnóstico de compromiso extracraneal"
+  },
+  {
+    "entidad": "Autolesiones deliberadas",
+    "relacion": "es un",
+    "valor": "problema de salud pública"
+  },
+  {
+    "entidad": "Consumo de sustancias psicoactivas",
+    "relacion": "es un",
+    "valor": "problema de salud pública"
+  },
+  {
+    "entidad": "Adolescentes escolarizados en Colombia",
+    "relacion": "son",
+    "valor": "población objetivo del estudio"
+  },
+  {
+    "entidad": "Observatorio de Drogas de Colombia (ODC)",
+    "relacion": "desarrolla",
+    "valor": "estudio primario"
+  },
+  {
+    "entidad": "Ministerio de Justicia y del Derecho",
+    "relacion": "financia",
+    "valor": "estudio"
+  },
+  {
+    "entidad": "Ministerio de Educación Nacional",
+    "relacion": "financia",
+    "valor": "estudio"
+  },
+  {
+    "entidad": "Ministerio de Salud y Protección Social",
+    "relacion": "financia",
+    "valor": "estudio"
+  },
+  {
+    "entidad": "Estudio Nacional de Consumo de Sustancias Psicoactivas en Población Escolar Colombiana 2016 (ENCSPEC)",
+    "relacion": "es un",
+    "valor": "análisis secundario"
+  },
+  {
+    "entidad": "Sexo femenino",
+    "relacion": "muestra",
+    "valor": "asociación con autolesiones deliberadas"
+  },
+  {
+    "entidad": "Cigarrillo",
+    "relacion": "muestra",
+    "valor": "asociación con autolesiones deliberadas"
+  },
+  {
+    "entidad": "Alcohol",
+    "relacion": "muestra",
+    "valor": "asociación con autolesiones deliberadas"
+  },
+  {
+    "entidad": "Marihuana",
+    "relacion": "muestra",
+    "valor": "asociación con autolesiones deliberadas"
+  },
+  {
+    "entidad": "Estimulantes",
+    "relacion": "muestra",
+    "valor": "asociación con autolesiones deliberadas"
+  },
+  {
+    "entidad": "Tranquilizantes",
+    "relacion": "muestra",
+    "valor": "asociación con autolesiones deliberadas"
+  },
+  {
+    "entidad": "Cocaína",
+    "relacion": "muestra",
+    "valor": "asociación con autolesiones deliberadas"
+  },
+  {
+    "entidad": "Basuco",
+    "relacion": "muestra",
+    "valor": "asociación con autolesiones deliberadas"
+  },
+  {
+    "entidad": "Éxtasis",
+    "relacion": "muestra",
+    "valor": "asociación con autolesiones deliberadas"
+  },
+  {
+    "entidad": "Inhalables",
+    "relacion": "muestra",
+    "valor": "asociación con autolesiones deliberadas"
+  },
+  {
+    "entidad": "LSD",
+    "relacion": "muestra",
+    "valor": "asociación con autolesiones deliberadas"
+  },
+  {
+    "entidad": "Trastornos psiquiátricos",
+    "relacion": "están relacionados con",
+    "valor": "autolesiones deliberadas"
+  },
+  {
+    "entidad": "Características familiares",
+    "relacion": "tienen influencia en",
+    "valor": "autolesiones deliberadas"
+  },
+  {
+    "entidad": "Características sociales",
+    "relacion": "tienen influencia en",
+    "valor": "autolesiones deliberadas"
+  },
+  {
+    "entidad": "Consumo de sustancias psicoactivas",
+    "relacion": "aumenta el riesgo de",
+    "valor": "autolesiones deliberadas"
+  },
+  {
+    "entidad": "Estudio",
+    "relacion": "evidencia",
+    "valor": "asociación entre autolesiones y consumo de sustancias psicoactivas"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "afecta a",
+    "valor": "calidad de vida"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "afecta a",
+    "valor": "calidad de sueño"
+  },
+  {
+    "entidad": "confinamiento",
+    "relacion": "asocia a",
+    "valor": "menor calidad de vida"
+  },
+  {
+    "entidad": "confinamiento",
+    "relacion": "asocia a",
+    "valor": "peor calidad de sueño"
+  },
+  {
+    "entidad": "estudiantes universitarios chilenos",
+    "relacion": "reportan",
+    "valor": "sedentarismo"
+  },
+  {
+    "entidad": "confinamiento obligatorio por sospecha de COVID-19",
+    "relacion": "presenta",
+    "valor": "peor calidad de sueño"
+  },
+  {
+    "entidad": "confinamiento obligatorio por sospecha de COVID-19",
+    "relacion": "presenta",
+    "valor": "peor calidad de vida"
+  },
+  {
+    "entidad": "Plan Paso a Paso",
+    "relacion": "es",
+    "valor": "estrategia de confinamiento en Chile"
+  },
+  {
+    "entidad": "Núcleo de Investigación en Kinesiología (NIK)",
+    "relacion": "desarrolla",
+    "valor": "instrumentos de investigación"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "se mide con",
+    "valor": "cuestionario SF-36"
+  },
+  {
+    "entidad": "calidad de sueño",
+    "relacion": "se mide con",
+    "valor": "cuestionario Sleep Self-Report"
+  },
+  {
+    "entidad": "sedentarismo",
+    "relacion": "aumenta el riesgo de",
+    "valor": "enfermedades cardiovasculares"
+  },
+  {
+    "entidad": "universitarios",
+    "relacion": "optan por",
+    "valor": "conductas de afrontamiento"
+  },
+  {
+    "entidad": "conductas de afrontamiento",
+    "relacion": "incluyen",
+    "valor": "meditar y realizar actividad física"
+  },
+  {
+    "entidad": "conductas de afrontamiento",
+    "relacion": "incluyen",
+    "valor": "beber alcohol y fumar tabaco"
+  },
+  {
+    "entidad": "estrés y ansiedad",
+    "relacion": "aumentan durante",
+    "valor": "confinamiento por COVID-19"
+  },
+  {
+    "entidad": "tiempo en pantalla",
+    "relacion": "se categoriza en",
+    "valor": "bajo, medio y alto"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "se mide con",
+    "valor": "cuestionario IPAQ"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "se relaciona con",
+    "valor": "dimensiones de salud mental y social"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "causa",
+    "valor": "complicaciones cardiovasculares"
+  },
+  {
+    "entidad": "pacientes con historia cardiovascular",
+    "relacion": "tienen mayor riesgo de",
+    "valor": "complicaciones cardiovasculares"
+  },
+  {
+    "entidad": "complicaciones cardiovasculares",
+    "relacion": "incluyen",
+    "valor": "insuficiencia cardíaca"
+  },
+  {
+    "entidad": "complicaciones cardiovasculares",
+    "relacion": "incluyen",
+    "valor": "síndrome coronario agudo"
+  },
+  {
+    "entidad": "insuficiencia cardíaca",
+    "relacion": "se asocia con",
+    "valor": "historia cardiovascular"
+  },
+  {
+    "entidad": "síndrome coronario agudo",
+    "relacion": "se asocia con",
+    "valor": "historia cardiovascular"
+  },
+  {
+    "entidad": "arrítmias",
+    "relacion": "ocurren con la misma frecuencia en",
+    "valor": "pacientes con o sin historia cardiovascular"
+  },
+  {
+    "entidad": "trombosis venosa",
+    "relacion": "ocurre con la misma frecuencia en",
+    "valor": "pacientes con o sin historia cardiovascular"
+  },
+  {
+    "entidad": "trombosis arterial",
+    "relacion": "no se asocia con",
+    "valor": "historia cardiovascular"
+  },
+  {
+    "entidad": "SARS-CoV-2",
+    "relacion": "causa",
+    "valor": "daño miocárdico"
+  },
+  {
+    "entidad": "niveles de troponina",
+    "relacion": "son mayores en",
+    "valor": "pacientes con complicaciones cardiovasculares"
+  },
+  {
+    "entidad": "dímero D",
+    "relacion": "refleja",
+    "valor": "estado de hipercoagulabilidad"
+  },
+  {
+    "entidad": "mortalidad intrahospitalaria",
+    "relacion": "es mayor en",
+    "valor": "pacientes con historia cardiovascular"
+  },
+  {
+    "entidad": "ventilación mecánica",
+    "relacion": "es requerida en",
+    "valor": "pacientes con COVID-19"
+  },
+  {
+    "entidad": "Sociedad Chilena de Cardiología y Cirugía Cardiovascular",
+    "relacion": "patrocina",
+    "valor": "registro COVICAR"
+  },
+  {
+    "entidad": "Registro COVICAR",
+    "relacion": "evalúa",
+    "valor": "complicaciones cardiovasculares en COVID-19"
+  },
+  {
+    "entidad": "hospitales en Chile",
+    "relacion": "participan en",
+    "valor": "registro COVICAR"
+  },
+  {
+    "entidad": "exámenes de laboratorio",
+    "relacion": "se registran para evaluar",
+    "valor": "complicaciones cardiovasculares"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "es mayor en",
+    "valor": "pacientes con complicaciones cardiovasculares"
+  },
+  {
+    "entidad": "Enfermedad relacionada a IgG4",
+    "relacion": "es un",
+    "valor": "trastorno fibro-inflamatorio inmunomediado"
+  },
+  {
+    "entidad": "IgG4",
+    "relacion": "causa",
+    "valor": "infiltración tisular de células plasmáticas"
+  },
+  {
+    "entidad": "Enfermedad relacionada a IgG4",
+    "relacion": "provoca",
+    "valor": "pseudotumores y un espectro de manifestaciones clínicas"
+  },
+  {
+    "entidad": "pacientes chilenos",
+    "relacion": "son",
+    "valor": "sujetos de estudio"
+  },
+  {
+    "entidad": "Hospital del Salvador",
+    "relacion": "pertenece a",
+    "valor": "Universidad de Chile"
+  },
+  {
+    "entidad": "Hospital Naval Almirante Nef",
+    "relacion": "pertenece a",
+    "valor": "Universidad de Valparaíso"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "es un",
+    "valor": "centro de investigación"
+  },
+  {
+    "entidad": "Hospital Clínico Universidad de Chile",
+    "relacion": "es un",
+    "valor": "centro médico"
+  },
+  {
+    "entidad": "Clínica Alemana de Santiago",
+    "relacion": "pertenece a",
+    "valor": "Universidad del Desarrollo"
+  },
+  {
+    "entidad": "Instituto Nacional del Tórax",
+    "relacion": "es un",
+    "valor": "centro médico"
+  },
+  {
+    "entidad": "Enfermedad relacionada a IgG4",
+    "relacion": "afecta a",
+    "valor": "cualquier tejido"
+  },
+  {
+    "entidad": "compromiso multiorgánico",
+    "relacion": "es más común en",
+    "valor": "hombres"
+  },
+  {
+    "entidad": "corticosteroides",
+    "relacion": "son",
+    "valor": "tratamiento de primera línea"
+  },
+  {
+    "entidad": "Rituximab",
+    "relacion": "es",
+    "valor": "fármaco efectivo para inducción y mantenimiento"
+  },
+  {
+    "entidad": "Micofenolato Mofetil",
+    "relacion": "se utiliza como",
+    "valor": "ahorrador de corticosteroides"
+  },
+  {
+    "entidad": "Criterios de Umehara",
+    "relacion": "son",
+    "valor": "criterios de diagnóstico"
+  },
+  {
+    "entidad": "elevación de IgG4 sérica",
+    "relacion": "es un",
+    "valor": "hallazgo serológico"
+  },
+  {
+    "entidad": "histopatología",
+    "relacion": "es",
+    "valor": "característica de la enfermedad"
+  },
+  {
+    "entidad": "infiltrado linfoplasmocitario",
+    "relacion": "es un",
+    "valor": "hallazgo histológico"
+  },
+  {
+    "entidad": "fibrosis estoriforme",
+    "relacion": "es un",
+    "valor": "patrón de fibrosis observado"
+  },
+  {
+    "entidad": "Criterios de Clasificación",
+    "relacion": "son",
+    "valor": "importantes para el diagnóstico"
+  },
+  {
+    "entidad": "glucocorticoides",
+    "relacion": "se recomienda",
+    "valor": "dosis de 0,6 mg/Kg/día"
+  },
+  {
+    "entidad": "enfermedad relacionada a IgG4",
+    "relacion": "se presenta con",
+    "valor": "patrón subagudo"
+  },
+  {
+    "entidad": "eosinofilia",
+    "relacion": "es un",
+    "valor": "hallazgo serológico"
+  },
+  {
+    "entidad": "compromiso renal",
+    "relacion": "se asocia con",
+    "valor": "niveles bajos de complemento"
+  },
+  {
+    "entidad": "Cáncer de mama",
+    "relacion": "es causado por",
+    "valor": "crecimiento anormal de células del epitelio mamario"
+  },
+  {
+    "entidad": "Cáncer de mama",
+    "relacion": "tiene una alta prevalencia en",
+    "valor": "mujeres a nivel mundial"
+  },
+  {
+    "entidad": "Cáncer de mama",
+    "relacion": "representa",
+    "valor": "27% de los casos nuevos en América Latina y el Caribe"
+  },
+  {
+    "entidad": "Cáncer de mama",
+    "relacion": "es la primera causa de muerte por cáncer en",
+    "valor": "mujeres en Chile"
+  },
+  {
+    "entidad": "Ley 19.966 del Régimen General de Garantías en Salud (GES)",
+    "relacion": "implementa",
+    "valor": "mamografías en Chile"
+  },
+  {
+    "entidad": "Centro Metropolitano de Imagenología Mamaria",
+    "relacion": "realiza",
+    "valor": "mamografías y ecografías"
+  },
+  {
+    "entidad": "BI-RADS",
+    "relacion": "es utilizado para",
+    "valor": "clasificar resultados de mamografías"
+  },
+  {
+    "entidad": "MINSAL",
+    "relacion": "define",
+    "valor": "grupos de riesgo para mamografías"
+  },
+  {
+    "entidad": "Programa de Cáncer de Mama",
+    "relacion": "inicia en",
+    "valor": "1995 en Chile"
+  },
+  {
+    "entidad": "Cáncer de mama",
+    "relacion": "se diagnostica en",
+    "valor": "etapas avanzadas en países con recursos limitados"
+  },
+  {
+    "entidad": "Ministerio de Salud",
+    "relacion": "emite",
+    "valor": "Plan Nacional de Cáncer 2018-2028"
+  },
+  {
+    "entidad": "Cáncer de mama",
+    "relacion": "requiere",
+    "valor": "detección temprana para mejorar pronóstico"
+  },
+  {
+    "entidad": "Mujeres de 40 a 49 años",
+    "relacion": "son recomendadas para",
+    "valor": "mamografías anuales"
+  },
+  {
+    "entidad": "Cáncer de mama",
+    "relacion": "es tratado con",
+    "valor": "quirúrgico, quimioterapia, radioterapia, hormonoterapia y cuidados paliativos"
+  },
+  {
+    "entidad": "Cáncer de mama",
+    "relacion": "tiene un riesgo de",
+    "valor": "8% en mujeres chilenas"
+  },
+  {
+    "entidad": "Mujeres de 50 a 59 años",
+    "relacion": "tienen acceso a",
+    "valor": "mamografías cada 3 años"
+  },
+  {
+    "entidad": "Cáncer de mama",
+    "relacion": "se asocia con",
+    "valor": "mortalidad en mujeres"
+  },
+  {
+    "entidad": "Cáncer de mama",
+    "relacion": "requiere",
+    "valor": "estrategias de salud pública"
+  },
+  {
+    "entidad": "Cáncer de mama",
+    "relacion": "es evaluado mediante",
+    "valor": "tamizaje con mamografía"
+  },
+  {
+    "entidad": "Mujeres entre 50 y 54 años",
+    "relacion": "son parte de",
+    "valor": "tamizaje cada 3 años"
+  },
+  {
+    "entidad": "Cáncer de mama",
+    "relacion": "es un foco de",
+    "valor": "investigación clínica en Chile"
+  },
+  {
+    "entidad": "SARS-CoV-2",
+    "relacion": "causa",
+    "valor": "enfermedad por coronavirus-19 (COVID-19)"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "varía",
+    "valor": "desde formas asintomáticas hasta graves"
+  },
+  {
+    "entidad": "síndrome de distrés respiratorio agudo (SDRA)",
+    "relacion": "es un",
+    "valor": "tipo de complicación grave por COVID-19"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "afectados por",
+    "valor": "elevadas concentraciones de citoquinas proinflamatorias"
+  },
+  {
+    "entidad": "SARS-CoV-2",
+    "relacion": "asocia con",
+    "valor": "síndrome de COVID prolongado"
+  },
+  {
+    "entidad": "disfunción eréctil (DE)",
+    "relacion": "es un",
+    "valor": "síntoma asociado a la salud sexual"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "asocia con",
+    "valor": "disfunción eréctil en hombres"
+  },
+  {
+    "entidad": "hombres con SDRA",
+    "relacion": "reportan",
+    "valor": "alta prevalencia de disfunción eréctil"
+  },
+  {
+    "entidad": "disfunción eréctil",
+    "relacion": "afecta",
+    "valor": "autoestima y calidad de vida"
+  },
+  {
+    "entidad": "pacientes con SDRA",
+    "relacion": "presentan",
+    "valor": "mayor fatiga"
+  },
+  {
+    "entidad": "apnea obstructiva del sueño (AOS)",
+    "relacion": "es un",
+    "valor": "trastorno respiratorio del sueño"
+  },
+  {
+    "entidad": "SARS-CoV-2",
+    "relacion": "asocia con",
+    "valor": "elevados niveles de citoquinas"
+  },
+  {
+    "entidad": "anticuerpos IgM",
+    "relacion": "se relacionan con",
+    "valor": "severidad de COVID-19"
+  },
+  {
+    "entidad": "hombres con SDRA",
+    "relacion": "tienen",
+    "valor": "30 veces más probabilidades de tener disfunción eréctil"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "afecta",
+    "valor": "puntaje en el cuestionario IIEF5"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "se ve afectada por",
+    "valor": "disfunción eréctil y trastornos del sueño"
+  },
+  {
+    "entidad": "Universidad Santo Tomás",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "Universidad de Concepción",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "Brigham and Women’s Hospital",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "Agencia Nacional de Investigación y Desarrollo (ANID)",
+    "relacion": "financia",
+    "valor": "la investigación"
+  },
+  {
+    "entidad": "cáncer",
+    "relacion": "es una",
+    "valor": "enfermedad"
+  },
+  {
+    "entidad": "quimioterapia",
+    "relacion": "es un",
+    "valor": "tratamiento"
+  },
+  {
+    "entidad": "Enfermera de Enlace",
+    "relacion": "acompaña",
+    "valor": "pacientes durante quimioterapia"
+  },
+  {
+    "entidad": "pacientes con cáncer",
+    "relacion": "experimentan",
+    "valor": "vulnerabilidad"
+  },
+  {
+    "entidad": "sistema de salud",
+    "relacion": "no está organizado para",
+    "valor": "responder a las necesidades de pacientes oncológicos"
+  },
+  {
+    "entidad": "familia",
+    "relacion": "apoya",
+    "valor": "pacientes con cáncer"
+  },
+  {
+    "entidad": "enfermera de enlace",
+    "relacion": "ofrece",
+    "valor": "sistema de apoyo"
+  },
+  {
+    "entidad": "enfermera de enlace",
+    "relacion": "detecta",
+    "valor": "complicaciones"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "requieren",
+    "valor": "acompañamiento durante el tratamiento"
+  },
+  {
+    "entidad": "diagnóstico de cáncer",
+    "relacion": "cambia",
+    "valor": "la vida de las personas"
+  },
+  {
+    "entidad": "apoyo familiar",
+    "relacion": "es",
+    "valor": "fundamental para los pacientes"
+  },
+  {
+    "entidad": "sistema de salud privado",
+    "relacion": "es utilizado para",
+    "valor": "acceso más rápido al diagnóstico"
+  },
+  {
+    "entidad": "calidad de atención",
+    "relacion": "es percibida como",
+    "valor": "alta en oncología"
+  },
+  {
+    "entidad": "enfermería de práctica avanzada",
+    "relacion": "es necesaria para",
+    "valor": "mejorar atención a pacientes oncológicos"
+  },
+  {
+    "entidad": "modelo de atención",
+    "relacion": "se centra en",
+    "valor": "necesidades del paciente"
+  },
+  {
+    "entidad": "pacientes oncológicos",
+    "relacion": "tienen",
+    "valor": "múltiples necesidades"
+  },
+  {
+    "entidad": "enfermeras",
+    "relacion": "desarrollan",
+    "valor": "relaciones empáticas con pacientes"
+  },
+  {
+    "entidad": "investigaciones futuras",
+    "relacion": "deben incluir",
+    "valor": "otros centros de salud"
+  },
+  {
+    "entidad": "Modelo de Cuidados Crónicos",
+    "relacion": "promueve",
+    "valor": "vínculo entre pacientes informados y equipos de salud proactivos"
+  },
+  {
+    "entidad": "intervención",
+    "relacion": "dirigida a",
+    "valor": "fortalecer la implementación del Modelo de Cuidados Crónicos"
+  },
+  {
+    "entidad": "Servicio de Salud Talcahuano",
+    "relacion": "financia",
+    "valor": "desarrollo de la intervención"
+  },
+  {
+    "entidad": "Dirección de Salud Municipal de Hualpén",
+    "relacion": "financia",
+    "valor": "desarrollo de la intervención"
+  },
+  {
+    "entidad": "Universidad de Concepción",
+    "relacion": "financia",
+    "valor": "desarrollo del software Mejoramiento de Cuidados Crónicos"
+  },
+  {
+    "entidad": "Vicerrectoría de Investigación y Desarrollo",
+    "relacion": "financia",
+    "valor": "desarrollo del software Mejoramiento de Cuidados Crónicos"
+  },
+  {
+    "entidad": "enfermedades crónicas",
+    "relacion": "causa",
+    "valor": "85% de todas las muertes en Chile"
+  },
+  {
+    "entidad": "hipertensión arterial",
+    "relacion": "prevalencia",
+    "valor": "27% en Chile"
+  },
+  {
+    "entidad": "diabetes mellitus tipo 2",
+    "relacion": "prevalencia",
+    "valor": "12,3% en Chile"
+  },
+  {
+    "entidad": "Organización Panamericana de Salud (OPS)",
+    "relacion": "propone",
+    "valor": "implementación del Modelo de Cuidados Crónicos"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "propone",
+    "valor": "implementación del Modelo de Cuidados Crónicos"
+  },
+  {
+    "entidad": "Modelo de Atención Integral de Salud Familiar y Comunitario",
+    "relacion": "incorpora",
+    "valor": "Modelo de Cuidados Crónicos"
+  },
+  {
+    "entidad": "cuestionario EVAEC",
+    "relacion": "utiliza",
+    "valor": "para evaluar la atención de enfermedades crónicas"
+  },
+  {
+    "entidad": "grupo intervenido",
+    "relacion": "mejora",
+    "valor": "evaluación de la atención de enfermedades crónicas"
+  },
+  {
+    "entidad": "grupo control",
+    "relacion": "muestra",
+    "valor": "disminución en la evaluación de la atención"
+  },
+  {
+    "entidad": "equipo de salud",
+    "relacion": "recibe",
+    "valor": "capacitación sobre el Modelo de Cuidados Crónicos"
+  },
+  {
+    "entidad": "intervención",
+    "relacion": "mejora",
+    "valor": "atención de usuarios con enfermedades crónicas"
+  },
+  {
+    "entidad": "evaluación de la atención",
+    "relacion": "presenta",
+    "valor": "cambios significativos en el grupo intervenido"
+  },
+  {
+    "entidad": "vínculos con la comunidad",
+    "relacion": "presenta",
+    "valor": "mayor cambio en el grupo intervenido"
+  },
+  {
+    "entidad": "apoyo a la toma de decisiones",
+    "relacion": "muestra",
+    "valor": "mejora en el grupo intervenido"
+  },
+  {
+    "entidad": "sistema de información clínica",
+    "relacion": "presenta",
+    "valor": "aumento no significativo en el grupo intervenido"
+  },
+  {
+    "entidad": "apoyo al autocuidado",
+    "relacion": "presenta",
+    "valor": "aumento no significativo en el grupo intervenido"
+  },
+  {
+    "entidad": "atención primaria",
+    "relacion": "mejora",
+    "valor": "con la implementación del Modelo de Cuidados Crónicos"
+  }
+]

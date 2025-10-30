@@ -1,0 +1,822 @@
+[
+  {
+    "entidad": "Paola Salas Rivas",
+    "relacion": "es",
+    "valor": "autora del estudio"
+  },
+  {
+    "entidad": "Universidad de La Serena",
+    "relacion": "pertenece a",
+    "valor": "Facultad de Ciencias"
+  },
+  {
+    "entidad": "Programa Semillero de investigadores",
+    "relacion": "financia",
+    "valor": "trabajo de investigación"
+  },
+  {
+    "entidad": "trasplante",
+    "relacion": "es",
+    "valor": "intervención médica"
+  },
+  {
+    "entidad": "donantes con muerte cerebral",
+    "relacion": "son",
+    "valor": "principal fuente de órganos"
+  },
+  {
+    "entidad": "Ley N° 21.145",
+    "relacion": "modifica",
+    "valor": "Ley 19.451 sobre trasplante y donación de órganos"
+  },
+  {
+    "entidad": "población adulta",
+    "relacion": "es objeto de estudio en",
+    "valor": "Coquimbo, Chile"
+  },
+  {
+    "entidad": "características sociales y familiares",
+    "relacion": "asocian a",
+    "valor": "decisión de ser donante de órganos"
+  },
+  {
+    "entidad": "población adulta",
+    "relacion": "incluye",
+    "valor": "personas de 18 a 84 años"
+  },
+  {
+    "entidad": "encuesta",
+    "relacion": "utiliza",
+    "valor": "cuestionario adaptado de España"
+  },
+  {
+    "entidad": "decisión de donar órganos",
+    "relacion": "influye",
+    "valor": "opinión de familiares"
+  },
+  {
+    "entidad": "menor edad",
+    "relacion": "asocia a",
+    "valor": "mejor actitud hacia donación"
+  },
+  {
+    "entidad": "familia",
+    "relacion": "afecta",
+    "valor": "decisión de donar órganos"
+  },
+  {
+    "entidad": "conocimiento de muerte encefálica",
+    "relacion": "es importante para",
+    "valor": "promoción de donación de órganos"
+  },
+  {
+    "entidad": "trasplantes",
+    "relacion": "se realizan en",
+    "valor": "personas con estado de salud que lo requiera"
+  },
+  {
+    "entidad": "enfermedad renal",
+    "relacion": "es una causa de",
+    "valor": "trasplante de órganos"
+  },
+  {
+    "entidad": "opinión de la madre",
+    "relacion": "es",
+    "valor": "factor importante en la decisión de donar"
+  },
+  {
+    "entidad": "opinión del padre",
+    "relacion": "es",
+    "valor": "factor importante en la decisión de donar"
+  },
+  {
+    "entidad": "opinión de la pareja",
+    "relacion": "es",
+    "valor": "factor importante en la decisión de donar"
+  },
+  {
+    "entidad": "estrategias de promoción",
+    "relacion": "deben ser enfocadas en",
+    "valor": "sensibilización sobre donación de órganos"
+  },
+  {
+    "entidad": "familias",
+    "relacion": "deben hablar sobre",
+    "valor": "donación de órganos"
+  },
+  {
+    "entidad": "Ley 21.145",
+    "relacion": "actualiza",
+    "valor": "registro nacional de no donantes"
+  },
+  {
+    "entidad": "Carla González Sanzana",
+    "relacion": "es autora de",
+    "valor": "Desafíos de la calidad percibida y el ejercicio del derecho a la información de los usuarios de las Unidades de Urgencia Hospitalaria"
+  },
+  {
+    "entidad": "Cecilia Bustos Ibarra",
+    "relacion": "es autora de",
+    "valor": "Desafíos de la calidad percibida y el ejercicio del derecho a la información de los usuarios de las Unidades de Urgencia Hospitalaria"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile (MINSAL)",
+    "relacion": "elabora",
+    "valor": "Orientaciones Técnicas para el Rediseño del Proceso de Atención de Urgencia de Adulto"
+  },
+  {
+    "entidad": "Ley 20.584",
+    "relacion": "establece",
+    "valor": "derechos y deberes de los usuarios en relación con su atención de salud"
+  },
+  {
+    "entidad": "Unidad de Urgencia Hospitalaria (UUH)",
+    "relacion": "presenta",
+    "valor": "importantes brechas en la calidad de atención"
+  },
+  {
+    "entidad": "usuarios/as",
+    "relacion": "tienen derecho a",
+    "valor": "ser informados sobre su estado de salud"
+  },
+  {
+    "entidad": "equipo de salud",
+    "relacion": "debe cumplir con",
+    "valor": "estándares de comunicación establecidos en la Ley 20.584"
+  },
+  {
+    "entidad": "información sobre diagnóstico",
+    "relacion": "debe ser",
+    "valor": "clara y comprensible"
+  },
+  {
+    "entidad": "espacios físicos",
+    "relacion": "deben garantizar",
+    "valor": "privacidad y confidencialidad en la entrega de información"
+  },
+  {
+    "entidad": "asistente social",
+    "relacion": "actúa como",
+    "valor": "enlace comunicacional entre el equipo de salud y los usuarios/familiares"
+  },
+  {
+    "entidad": "fallecimiento de un paciente",
+    "relacion": "debe ser informado por",
+    "valor": "el médico responsable"
+  },
+  {
+    "entidad": "comunicación efectiva",
+    "relacion": "es esencial para",
+    "valor": "la satisfacción de usuarios y familiares"
+  },
+  {
+    "entidad": "técnicas de recolección de información",
+    "relacion": "incluyen",
+    "valor": "entrevistas semiestructuradas y observación participante"
+  },
+  {
+    "entidad": "hospital Guillermo Grant Benavente (HGGB)",
+    "relacion": "es un",
+    "valor": "hospital público de alta complejidad en Concepción, Chile"
+  },
+  {
+    "entidad": "encuesta de atención al usuario/a",
+    "relacion": "señala",
+    "valor": "dificultades en la comprensión de indicaciones médicas"
+  },
+  {
+    "entidad": "tiempo de atención",
+    "relacion": "es insuficiente para",
+    "valor": "entregar información adecuada a usuarios y familiares"
+  },
+  {
+    "entidad": "calidad de la información",
+    "relacion": "presenta",
+    "valor": "falencias relacionadas a su contenido"
+  },
+  {
+    "entidad": "tecnicismos",
+    "relacion": "dificultan",
+    "valor": "la comprensión de la información por parte de usuarios y familiares"
+  },
+  {
+    "entidad": "protocolos de actuación",
+    "relacion": "son necesarios para",
+    "valor": "informar adecuadamente a los familiares sobre el estado de salud"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "causa",
+    "valor": "confinamiento"
+  },
+  {
+    "entidad": "confinamiento",
+    "relacion": "afecta a",
+    "valor": "salud mental de estudiantes"
+  },
+  {
+    "entidad": "estudiantes de educación superior en Chile",
+    "relacion": "son",
+    "valor": "población vulnerable"
+  },
+  {
+    "entidad": "salud mental",
+    "relacion": "incluye",
+    "valor": "estrés, ansiedad y depresión"
+  },
+  {
+    "entidad": "Centro para Estudios Epidemiológicos (CES-D)",
+    "relacion": "es un",
+    "valor": "instrumento de evaluación"
+  },
+  {
+    "entidad": "Profile of Mood States (POMS)",
+    "relacion": "es un",
+    "valor": "instrumento de evaluación"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "presentan",
+    "valor": "mayores síntomas depresivos"
+  },
+  {
+    "entidad": "primer año de estudios",
+    "relacion": "es un",
+    "valor": "grupo de riesgo para depresión"
+  },
+  {
+    "entidad": "estrés post-traumático (TEPT)",
+    "relacion": "es un",
+    "valor": "síntoma asociado al confinamiento"
+  },
+  {
+    "entidad": "Instituciones de educación superior",
+    "relacion": "deben",
+    "valor": "intervenir en salud mental"
+  },
+  {
+    "entidad": "mujeres y estudiantes de primer año",
+    "relacion": "son",
+    "valor": "grupos de alto riesgo"
+  },
+  {
+    "entidad": "pandemia de COVID-19",
+    "relacion": "genera",
+    "valor": "consecuencias negativas en salud mental"
+  },
+  {
+    "entidad": "sistema sanitario",
+    "relacion": "se ve afectado por",
+    "valor": "la pandemia de COVID-19"
+  },
+  {
+    "entidad": "Instituto Milenio para la Investigación de Depresión y Personalidad (MIDAP)",
+    "relacion": "financia",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "estudiantes universitarios chilenos",
+    "relacion": "tienen",
+    "valor": "alta prevalencia de sintomatología depresiva"
+  },
+  {
+    "entidad": "estrés académico",
+    "relacion": "es un",
+    "valor": "factor de riesgo para problemas de salud mental"
+  },
+  {
+    "entidad": "intervenciones basadas en internet",
+    "relacion": "son efectivas para",
+    "valor": "reducir sintomatología depresiva"
+  },
+  {
+    "entidad": "sintomatología ansiosa",
+    "relacion": "no muestra",
+    "valor": "diferencias significativas entre 2016 y 2020"
+  },
+  {
+    "entidad": "infarto agudo de miocardio",
+    "relacion": "es un",
+    "valor": "tipo de enfermedad cardiovascular"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "tiene",
+    "valor": "alta incidencia de infarto agudo de miocardio"
+  },
+  {
+    "entidad": "Escuela de Salud Pública",
+    "relacion": "pertenece a",
+    "valor": "Facultad de Medicina, Universidad de Chile"
+  },
+  {
+    "entidad": "Universidad de Chile",
+    "relacion": "realiza",
+    "valor": "investigaciones en salud pública"
+  },
+  {
+    "entidad": "Dra. Carolina Nazzal",
+    "relacion": "es",
+    "valor": "autora del estudio"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "proporciona",
+    "valor": "datos de mortalidad y egresos hospitalarios"
+  },
+  {
+    "entidad": "tendencia temporal",
+    "relacion": "se evalúa mediante",
+    "valor": "modelos de regresión de Prais-Winsten"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "tienen mayor incidencia de",
+    "valor": "infarto agudo de miocardio que mujeres"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "presentan",
+    "valor": "aumento en la incidencia de infarto agudo de miocardio"
+  },
+  {
+    "entidad": "población envejecida",
+    "relacion": "aumenta",
+    "valor": "la susceptibilidad a infarto agudo de miocardio"
+  },
+  {
+    "entidad": "tasa de incidencia",
+    "relacion": "se proyecta para",
+    "valor": "el año 2025"
+  },
+  {
+    "entidad": "score de Framingham",
+    "relacion": "se utiliza para",
+    "valor": "evaluar riesgo cardiovascular"
+  },
+  {
+    "entidad": "campañas de salud",
+    "relacion": "realiza",
+    "valor": "el Ministerio de Salud para educar sobre infarto agudo de miocardio"
+  },
+  {
+    "entidad": "regiones de Aysén, Valparaíso y Antofagasta",
+    "relacion": "tienen",
+    "valor": "las tasas más altas de infarto agudo de miocardio"
+  },
+  {
+    "entidad": "regiones de Arica y Parinacota y La Araucanía",
+    "relacion": "tienen",
+    "valor": "las tasas más bajas de infarto agudo de miocardio"
+  },
+  {
+    "entidad": "letalidad extrahospitalaria",
+    "relacion": "fue",
+    "valor": "24%"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "es un factor de riesgo",
+    "valor": "que ha disminuido en la población"
+  },
+  {
+    "entidad": "cocaína",
+    "relacion": "su consumo ha aumentado",
+    "valor": "en la población"
+  },
+  {
+    "entidad": "estudio de series de tiempo",
+    "relacion": "se realizó para",
+    "valor": "analizar la incidencia de infarto agudo de miocardio"
+  },
+  {
+    "entidad": "esperanza de vida en Chile",
+    "relacion": "es",
+    "valor": "79,73 años"
+  },
+  {
+    "entidad": "Diabetes Mellitus tipo 1 (DM1)",
+    "relacion": "es un",
+    "valor": "enfermedad autoinmune crónica"
+  },
+  {
+    "entidad": "DM1",
+    "relacion": "asociada a",
+    "valor": "susceptibilidad genética"
+  },
+  {
+    "entidad": "DM1",
+    "relacion": "asociada a",
+    "valor": "determinantes epigenéticos"
+  },
+  {
+    "entidad": "DM1",
+    "relacion": "desencadenada por",
+    "valor": "factores ambientales"
+  },
+  {
+    "entidad": "insulitis",
+    "relacion": "es un",
+    "valor": "mecanismo de destrucción de células beta"
+  },
+  {
+    "entidad": "linfocitos T",
+    "relacion": "mediador de",
+    "valor": "autoinmunidad en DM1"
+  },
+  {
+    "entidad": "autoanticuerpos",
+    "relacion": "asociados a",
+    "valor": "DM1"
+  },
+  {
+    "entidad": "GAD",
+    "relacion": "es un",
+    "valor": "autoanticuerpo asociado a DM1"
+  },
+  {
+    "entidad": "IAA",
+    "relacion": "es un",
+    "valor": "autoanticuerpo asociado a DM1"
+  },
+  {
+    "entidad": "IA-2",
+    "relacion": "es un",
+    "valor": "autoanticuerpo asociado a DM1"
+  },
+  {
+    "entidad": "ICA",
+    "relacion": "es un",
+    "valor": "autoanticuerpo asociado a DM1"
+  },
+  {
+    "entidad": "ZnT8",
+    "relacion": "es un",
+    "valor": "autoanticuerpo asociado a DM1"
+  },
+  {
+    "entidad": "frecuencia de autoanticuerpos",
+    "relacion": "varía con",
+    "valor": "edad de los pacientes"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "afecta a",
+    "valor": "positividad de autoanticuerpos"
+  },
+  {
+    "entidad": "insulinoterapia",
+    "relacion": "no se asocia con",
+    "valor": "positividad de IAA"
+  },
+  {
+    "entidad": "cetoacidosis diabética (CAD)",
+    "relacion": "asociada a",
+    "valor": "positividad de IA-2"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "es un",
+    "valor": "centro de salud"
+  },
+  {
+    "entidad": "Centro Médico San Joaquín",
+    "relacion": "es un",
+    "valor": "laboratorio de bioquímica"
+  },
+  {
+    "entidad": "análisis de marcadores inmunológicos",
+    "relacion": "es un",
+    "valor": "elemento de apoyo diagnóstico"
+  },
+  {
+    "entidad": "número de autoanticuerpos positivos",
+    "relacion": "predice",
+    "valor": "progresión a DM1"
+  },
+  {
+    "entidad": "Diabetes Antibody Standardization Program (DASP)",
+    "relacion": "lidera",
+    "valor": "estandarización metodológica"
+  },
+  {
+    "entidad": "ZnT8",
+    "relacion": "aumenta",
+    "valor": "sensibilidad global de la batería de marcadores"
+  },
+  {
+    "entidad": "DM1",
+    "relacion": "se presenta con",
+    "valor": "cetoacidosis diabética en población pediátrica"
+  },
+  {
+    "entidad": "Enfermedad Pulmonar Obstructiva Crónica (EPOC)",
+    "relacion": "es un",
+    "valor": "trastorno respiratorio progresivo"
+  },
+  {
+    "entidad": "Síndrome Locomotor (SL)",
+    "relacion": "afecta a",
+    "valor": "sistema músculo-esquelético"
+  },
+  {
+    "entidad": "Síndrome Locomotor (SL)",
+    "relacion": "causa",
+    "valor": "deterioro funcional"
+  },
+  {
+    "entidad": "Síndrome Locomotor (SL)",
+    "relacion": "causa",
+    "valor": "disminución de calidad de vida"
+  },
+  {
+    "entidad": "pacientes con EPOC",
+    "relacion": "presentan",
+    "valor": "deterioro progresivo del estado funcional"
+  },
+  {
+    "entidad": "Geriatric Locomotive Function Scale (GFLS-25)",
+    "relacion": "se utiliza para",
+    "valor": "evaluar el síndrome locomotor"
+  },
+  {
+    "entidad": "deterioro de la fuerza muscular",
+    "relacion": "incluye",
+    "valor": "pérdida de densidad mineral ósea"
+  },
+  {
+    "entidad": "deterioro de la fuerza muscular",
+    "relacion": "incluye",
+    "valor": "reducción de sección transversal muscular"
+  },
+  {
+    "entidad": "deterioro de la fuerza muscular",
+    "relacion": "incluye",
+    "valor": "disminución de los niveles de actividad"
+  },
+  {
+    "entidad": "disnea",
+    "relacion": "es un síntoma de",
+    "valor": "EPOC"
+  },
+  {
+    "entidad": "fatiga",
+    "relacion": "es un síntoma de",
+    "valor": "EPOC"
+  },
+  {
+    "entidad": "tos",
+    "relacion": "es un síntoma de",
+    "valor": "EPOC"
+  },
+  {
+    "entidad": "Comité de Ética de Investigación Biomedicina de Granada",
+    "relacion": "aprueba",
+    "valor": "estudio observacional transversal"
+  },
+  {
+    "entidad": "Hospital Universitario San Cecilio",
+    "relacion": "pertenece a",
+    "valor": "Servicio de Neumología"
+  },
+  {
+    "entidad": "Hospital Universitario Virgen de las Nieves",
+    "relacion": "pertenece a",
+    "valor": "Servicio de Neumología"
+  },
+  {
+    "entidad": "EuroQol-5D (EQ-5D)",
+    "relacion": "se utiliza para",
+    "valor": "medir la calidad de vida"
+  },
+  {
+    "entidad": "London Chest Activity of Daily Living Scale (LCADL)",
+    "relacion": "se utiliza para",
+    "valor": "medir el estado funcional relacionado con la disnea"
+  },
+  {
+    "entidad": "deterioro funcional",
+    "relacion": "es mayor en",
+    "valor": "pacientes con EPOC y SL"
+  },
+  {
+    "entidad": "intervenciones educativas",
+    "relacion": "deben promover",
+    "valor": "cambios de comportamiento y estilo de vida"
+  },
+  {
+    "entidad": "rehabilitación física y pulmonar",
+    "relacion": "es necesaria para",
+    "valor": "pacientes con EPOC y SL"
+  },
+  {
+    "entidad": "sífilis",
+    "relacion": "resurge en",
+    "valor": "mujeres embarazadas en el sur de Chile"
+  },
+  {
+    "entidad": "mujeres embarazadas",
+    "relacion": "afectadas por",
+    "valor": "sífilis"
+  },
+  {
+    "entidad": "sífilis",
+    "relacion": "asociada a",
+    "valor": "resultados adversos del embarazo"
+  },
+  {
+    "entidad": "T. pallidum",
+    "relacion": "causa",
+    "valor": "sífilis"
+  },
+  {
+    "entidad": "VDRL",
+    "relacion": "utilizado para",
+    "valor": "diagnóstico de sífilis"
+  },
+  {
+    "entidad": "penicilina G benzatina",
+    "relacion": "tratamiento para",
+    "valor": "sífilis"
+  },
+  {
+    "entidad": "eritromicina",
+    "relacion": "utilizada en",
+    "valor": "casos de alergia a penicilina"
+  },
+  {
+    "entidad": "desensibilización a penicilina",
+    "relacion": "requerida en",
+    "valor": "casos de alergia"
+  },
+  {
+    "entidad": "aborto",
+    "relacion": "ocurre en",
+    "valor": "6.9% de los casos"
+  },
+  {
+    "entidad": "sífilis congénita",
+    "relacion": "diagnosticada en",
+    "valor": "6.9% de los casos"
+  },
+  {
+    "entidad": "parto prematuro",
+    "relacion": "ocurre en",
+    "valor": "27.6% de los casos"
+  },
+  {
+    "entidad": "mujeres embarazadas",
+    "relacion": "diagnosticadas entre",
+    "valor": "2011 y 2019"
+  },
+  {
+    "entidad": "Región de Los Ríos",
+    "relacion": "lugar de estudio",
+    "valor": "en Chile"
+  },
+  {
+    "entidad": "tasa de sífilis",
+    "relacion": "aumenta en",
+    "valor": "mujeres embarazadas"
+  },
+  {
+    "entidad": "diagnóstico tardío",
+    "relacion": "asociado a",
+    "valor": "resultados adversos en el embarazo"
+  },
+  {
+    "entidad": "educación sexual",
+    "relacion": "incorporación lenta en",
+    "valor": "escuelas secundarias"
+  },
+  {
+    "entidad": "sistema de salud pública",
+    "relacion": "atiende",
+    "valor": "80% de la población en la región"
+  },
+  {
+    "entidad": "sífilis",
+    "relacion": "asociada a",
+    "valor": "transmisión vertical durante el embarazo"
+  },
+  {
+    "entidad": "sífilis",
+    "relacion": "incremento global desde",
+    "valor": "el siglo XXI"
+  },
+  {
+    "entidad": "mujeres embarazadas",
+    "relacion": "presentan",
+    "valor": "diferentes niveles educativos"
+  },
+  {
+    "entidad": "sífilis",
+    "relacion": "diagnosticada en",
+    "valor": "24.1% al momento del parto"
+  },
+  {
+    "entidad": "Escuela de Medicina",
+    "relacion": "pertenece a",
+    "valor": "Universidad de Magallanes"
+  },
+  {
+    "entidad": "Departamento de Psicología",
+    "relacion": "pertenece a",
+    "valor": "Universidad de Magallanes"
+  },
+  {
+    "entidad": "Cristian Núñez-Espinosa",
+    "relacion": "es",
+    "valor": "profesor de Educación Física"
+  },
+  {
+    "entidad": "sintomatología depresiva",
+    "relacion": "afecta a",
+    "valor": "estudiantes de medicina"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "se relaciona con",
+    "valor": "sintomatología depresiva"
+  },
+  {
+    "entidad": "sensibilidad estacional",
+    "relacion": "se relaciona con",
+    "valor": "sintomatología depresiva"
+  },
+  {
+    "entidad": "estudiantes de medicina",
+    "relacion": "residen en",
+    "valor": "alta latitud sur"
+  },
+  {
+    "entidad": "alta latitud sur",
+    "relacion": "se define como",
+    "valor": "latitud 50° hasta el Polo Sur"
+  },
+  {
+    "entidad": "Beck anxiety and depressive symptoms inventory",
+    "relacion": "es utilizado para",
+    "valor": "evaluar sintomatología depresiva"
+  },
+  {
+    "entidad": "WHOQoL-BREF",
+    "relacion": "es utilizado para",
+    "valor": "evaluar calidad de vida"
+  },
+  {
+    "entidad": "trastorno afectivo estacional (TAE)",
+    "relacion": "se asocia con",
+    "valor": "cambios de insulación"
+  },
+  {
+    "entidad": "sensibilidad estacional",
+    "relacion": "es una variable de",
+    "valor": "trastorno afectivo estacional"
+  },
+  {
+    "entidad": "estudiantes de medicina",
+    "relacion": "presentan",
+    "valor": "alta prevalencia de depresión"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "es menor en",
+    "valor": "estudiantes de medicina comparado con otros jóvenes"
+  },
+  {
+    "entidad": "síntomas atípicos",
+    "relacion": "se manifiestan en",
+    "valor": "trastorno afectivo estacional"
+  },
+  {
+    "entidad": "tiempo de exposición a luz solar",
+    "relacion": "incide en",
+    "valor": "alteraciones del estado de ánimo"
+  },
+  {
+    "entidad": "estudiantes de medicina",
+    "relacion": "tienen",
+    "valor": "menor calidad de vida en salud psicológica y relaciones sociales"
+  },
+  {
+    "entidad": "sensibilidad estacional",
+    "relacion": "aumenta en",
+    "valor": "latitudes más altas"
+  },
+  {
+    "entidad": "depresión",
+    "relacion": "se correlaciona con",
+    "valor": "sintomatología ansiosa"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "se correlaciona negativamente con",
+    "valor": "síntomas depresivos"
+  },
+  {
+    "entidad": "tiempo de permanencia en alta latitud",
+    "relacion": "influye en",
+    "valor": "valores de sensibilidad estacional"
+  }
+]

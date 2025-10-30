@@ -1,0 +1,227 @@
+[
+  {
+    "entidad": "IgG4",
+    "relacion": "es un",
+    "valor": "tipo de inmunoglobulina"
+  },
+  {
+    "entidad": "enfermedad relacionada a IgG4",
+    "relacion": "es un",
+    "valor": "patología autoinmune"
+  },
+  {
+    "entidad": "autoimmune pancreatitis (AIP)",
+    "relacion": "es la manifestación digestiva más común de",
+    "valor": "enfermedad relacionada a IgG4"
+  },
+  {
+    "entidad": "mujer de 71 años",
+    "relacion": "presenta",
+    "valor": "jaundice y pérdida de peso"
+  },
+  {
+    "entidad": "serum IgG4",
+    "relacion": "es",
+    "valor": "cinco veces el valor normal"
+  },
+  {
+    "entidad": "endoscopía gastrointestinal",
+    "relacion": "muestra",
+    "valor": "engrosamiento difuso de pliegues gástricos"
+  },
+  {
+    "entidad": "estudio patológico",
+    "relacion": "confirma",
+    "valor": "presencia de células plasmáticas IgG4 positivas"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "es tratada con",
+    "valor": "esteroides"
+  },
+  {
+    "entidad": "glucocorticoides",
+    "relacion": "son efectivos en",
+    "valor": "enfermedad relacionada a IgG4"
+  },
+  {
+    "entidad": "diagnóstico histológico",
+    "relacion": "depende de",
+    "valor": "accesibilidad del órgano afectado"
+  },
+  {
+    "entidad": "biopsia endoscópica gástrica",
+    "relacion": "es",
+    "valor": "la única muestra fácilmente accesible"
+  },
+  {
+    "entidad": "compromiso gástrico",
+    "relacion": "puede ser",
+    "valor": "sintomático o asintomático"
+  },
+  {
+    "entidad": "tratamiento con corticoides",
+    "relacion": "resulta en",
+    "valor": "recuperación completa en la mayoría de los casos"
+  },
+  {
+    "entidad": "primer caso en Chile",
+    "relacion": "es",
+    "valor": "de gastropatía hipertrofica por IgG4"
+  },
+  {
+    "entidad": "rabdomiolisis",
+    "relacion": "es el proceso que lleva a",
+    "valor": "necrosis celular del músculo estriado"
+  },
+  {
+    "entidad": "rabdomiolisis",
+    "relacion": "causa",
+    "valor": "injuria renal aguda"
+  },
+  {
+    "entidad": "injuria renal aguda",
+    "relacion": "aparece en",
+    "valor": "15-50% de los casos de rabdomiolisis"
+  },
+  {
+    "entidad": "hipocalcemia",
+    "relacion": "puede presentarse en",
+    "valor": "60% de los pacientes con rabdomiolisis en fase oligúrica"
+  },
+  {
+    "entidad": "hipercalcemia",
+    "relacion": "puede desarrollarse en",
+    "valor": "20-30% de los pacientes en fase de recuperación de rabdomiolisis"
+  },
+  {
+    "entidad": "calcio",
+    "relacion": "es movilizado desde",
+    "valor": "depósitos de calcio-fósforo durante la recuperación de rabdomiolisis"
+  },
+  {
+    "entidad": "calcitriol",
+    "relacion": "es utilizado como tratamiento para",
+    "valor": "hipocalcemia en rabdomiolisis"
+  },
+  {
+    "entidad": "hemodiálisis",
+    "relacion": "es un tratamiento para",
+    "valor": "insuficiencia renal aguda"
+  },
+  {
+    "entidad": "hombre de 33 años",
+    "relacion": "presenta",
+    "valor": "rabdomiolisis tras consumo de anfetaminas"
+  },
+  {
+    "entidad": "calcio plasmático",
+    "relacion": "fue detectado en",
+    "valor": "18 mg/dl en el ingreso del paciente"
+  },
+  {
+    "entidad": "hormona paratiroidea (PTH)",
+    "relacion": "fue medida en",
+    "valor": "9 pg/ml al ingreso del paciente"
+  },
+  {
+    "entidad": "25-hidroxivitamina D",
+    "relacion": "fue medida en",
+    "valor": "10 ng/ml al ingreso del paciente"
+  },
+  {
+    "entidad": "cintigrama óseo",
+    "relacion": "reveló",
+    "valor": "extensa captación muscular difusa"
+  },
+  {
+    "entidad": "poliuria",
+    "relacion": "se presentó en",
+    "valor": "fase de recuperación de la insuficiencia renal aguda"
+  },
+  {
+    "entidad": "creatinina",
+    "relacion": "fue normalizada a",
+    "valor": "1,5 mg/dl al alta del paciente"
+  },
+  {
+    "entidad": "calcemia",
+    "relacion": "fue de",
+    "valor": "9,6 mg/dl diez meses después del inicio de síntomas"
+  },
+  {
+    "entidad": "Síndrome de DRESS",
+    "relacion": "es un",
+    "valor": "reacción adversa a medicamentos"
+  },
+  {
+    "entidad": "Síndrome de DRESS",
+    "relacion": "caracterizado por",
+    "valor": "lesiones cutáneas, eosinofilia, linfadenopatía y compromiso de órganos internos"
+  },
+  {
+    "entidad": "Síndrome de DRESS",
+    "relacion": "asociado con",
+    "valor": "síntomas pulmonares"
+  },
+  {
+    "entidad": "paciente masculino de 47 años",
+    "relacion": "presenta",
+    "valor": "síndrome de DRESS con compromiso pulmonar"
+  },
+  {
+    "entidad": "penicilina benzatina",
+    "relacion": "asociado a",
+    "valor": "síndrome de DRESS"
+  },
+  {
+    "entidad": "metamizol sódico",
+    "relacion": "asociado a",
+    "valor": "síndrome de DRESS"
+  },
+  {
+    "entidad": "sistema corticosteroides",
+    "relacion": "utilizado para",
+    "valor": "tratamiento del síndrome de DRESS"
+  },
+  {
+    "entidad": "síndrome de DRESS",
+    "relacion": "puede afectar a",
+    "valor": "múltiples órganos"
+  },
+  {
+    "entidad": "compromiso pulmonar",
+    "relacion": "es inhabitual en",
+    "valor": "síndrome de DRESS"
+  },
+  {
+    "entidad": "minociclina",
+    "relacion": "involucrado en",
+    "valor": "compromiso pulmonar"
+  },
+  {
+    "entidad": "diagnóstico de síndrome de DRESS",
+    "relacion": "representa un",
+    "valor": "desafío para los equipos de salud"
+  },
+  {
+    "entidad": "RegiSCAR",
+    "relacion": "es una",
+    "valor": "herramienta diagnóstica"
+  },
+  {
+    "entidad": "tratamiento",
+    "relacion": "se basa en",
+    "valor": "suspensión del fármaco causante y corticoterapia"
+  },
+  {
+    "entidad": "pronóstico del síndrome de DRESS",
+    "relacion": "determinado por",
+    "valor": "grado de compromiso hepático"
+  },
+  {
+    "entidad": "hepatitis fulminante",
+    "relacion": "es la principal causa de",
+    "valor": "muerte en síndrome de DRESS"
+  }
+]

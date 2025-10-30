@@ -1,0 +1,35 @@
+# Knowledge Graph Builder Requirements
+
+# Core dependencies
+torch>=2.0.0
+transformers>=4.30.0
+huggingface-hub>=0.16.0
+
+# NLP libraries
+spacy>=3.5.0
+es-core-news-lg @ https://github.com/explosion/spacy-models/releases/download/es_core_news_lg-3.7.0/es_core_news_lg-3.7.0-py3-none-any.whl
+
+# Data processing
+numpy>=1.24.0
+pandas>=2.0.0
+tqdm>=4.65.0
+
+# Evaluation and validation
+scikit-learn>=1.2.0
+scipy>=1.10.0
+
+# Optional: For GPU acceleration
+# accelerate>=0.20.0
+# bitsandbytes>=0.41.0
+
+# Utilities
+python-dotenv>=1.0.0
+
+# API clients
+openai>=1.0.0
+aiohttp>=3.9.0
+
+
+
+
+

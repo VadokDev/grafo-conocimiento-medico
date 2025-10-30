@@ -1,0 +1,157 @@
+[
+  {
+    "entidad": "Afasia",
+    "relacion": "es un",
+    "valor": "síntoma de estado hiperosmolar hiperglicémico"
+  },
+  {
+    "entidad": "Estado hiperosmolar hiperglicémico",
+    "relacion": "es una complicación de",
+    "valor": "diabetes mellitus tipo 2"
+  },
+  {
+    "entidad": "Estado hiperosmolar hiperglicémico",
+    "relacion": "presenta síntomas neurológicos como",
+    "valor": "convulsiones y movimientos anormales"
+  },
+  {
+    "entidad": "Paciente masculino de 66 años",
+    "relacion": "presenta",
+    "valor": "afasia no fluida y hemiparesia derecha sutil"
+  },
+  {
+    "entidad": "Tomografía computarizada",
+    "relacion": "no muestra",
+    "valor": "lesiones isquémicas agudas"
+  },
+  {
+    "entidad": "Evaluación de laboratorio",
+    "relacion": "revela",
+    "valor": "glucosa en sangre de 936 mg/dL"
+  },
+  {
+    "entidad": "Tratamiento de hiperglicemia y hiperosmolaridad",
+    "relacion": "resulta en",
+    "valor": "remisión de síntomas focales"
+  },
+  {
+    "entidad": "Hospital Barros Luco Trudeau",
+    "relacion": "es un",
+    "valor": "centro de atención médica"
+  },
+  {
+    "entidad": "Insulina cristalina",
+    "relacion": "se utiliza para",
+    "valor": "reducir la glicemia"
+  },
+  {
+    "entidad": "Electroencefalograma",
+    "relacion": "resulta en",
+    "valor": "normal"
+  },
+  {
+    "entidad": "Hemoglobina glicosilada",
+    "relacion": "es un indicador de",
+    "valor": "control de glicemia"
+  },
+  {
+    "entidad": "Protocolo de revascularización",
+    "relacion": "se activa por",
+    "valor": "sospecha de accidente cerebrovascular isquémico"
+  },
+  {
+    "entidad": "Diabetes mellitus tipo 2",
+    "relacion": "es un",
+    "valor": "factor de riesgo para estado hiperosmolar hiperglicémico"
+  },
+  {
+    "entidad": "Hidratación con solución de cloruro de sodio al 0,9%",
+    "relacion": "se inicia para",
+    "valor": "corregir el balance hidroelectrolítico"
+  },
+  {
+    "entidad": "Litoplastía iliaco-femoral",
+    "relacion": "es un",
+    "valor": "tratamiento para implante transcatéter de válvula aórtica"
+  },
+  {
+    "entidad": "Transcatheter aortic valve implantation (TAVI)",
+    "relacion": "tiene un menor",
+    "valor": "riesgo perioperatorio que la cirugía tradicional"
+  },
+  {
+    "entidad": "litoplastía",
+    "relacion": "fractura",
+    "valor": "calcio en arterias coronarias y periféricas"
+  },
+  {
+    "entidad": "onda pulsátil",
+    "relacion": "es utilizada en",
+    "valor": "litoplastía"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "requiere",
+    "valor": "TAVI"
+  },
+  {
+    "entidad": "calcificación arterial periférica",
+    "relacion": "aumenta",
+    "valor": "complejidad en tratamientos percutáneos"
+  },
+  {
+    "entidad": "angioplastía",
+    "relacion": "es un",
+    "valor": "método utilizado en el tratamiento de lesiones vasculares"
+  },
+  {
+    "entidad": "angioplastia multivaso",
+    "relacion": "se realiza en",
+    "valor": "pacientes con enfermedad de 3 vasos"
+  },
+  {
+    "entidad": "TAVI",
+    "relacion": "es una",
+    "valor": "alternativa terapéutica válida en pacientes con estenosis aórtica sintomática"
+  },
+  {
+    "entidad": "calcificación vascular",
+    "relacion": "es un problema",
+    "valor": "en cardiología intervencional"
+  },
+  {
+    "entidad": "diámetro del trayecto iliaco-femoral",
+    "relacion": "es un predictor de",
+    "valor": "complicaciones vasculares"
+  },
+  {
+    "entidad": "ShockWave Medical",
+    "relacion": "es el fabricante de",
+    "valor": "sistema de litoplastía"
+  },
+  {
+    "entidad": "Dr. Nicolás Veas P.",
+    "relacion": "es el autor de",
+    "valor": "el artículo"
+  },
+  {
+    "entidad": "Clínica Universidad de los Andes",
+    "relacion": "es una",
+    "valor": "institución médica en Chile"
+  },
+  {
+    "entidad": "Gran Ospedale Metropolitano Niguarda",
+    "relacion": "es una",
+    "valor": "institución médica en Italia"
+  },
+  {
+    "entidad": "Clínica Alemana",
+    "relacion": "es una",
+    "valor": "institución médica en Chile"
+  },
+  {
+    "entidad": "Hospital Sótero del Río",
+    "relacion": "es una",
+    "valor": "institución médica en Chile"
+  }
+]

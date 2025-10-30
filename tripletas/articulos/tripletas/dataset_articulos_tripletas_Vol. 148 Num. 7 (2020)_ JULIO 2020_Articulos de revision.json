@@ -1,0 +1,352 @@
+[
+  {
+    "entidad": "cáncer",
+    "relacion": "es",
+    "valor": "una de las principales causas de muerte en el mundo"
+  },
+  {
+    "entidad": "quimioterapia",
+    "relacion": "tiene",
+    "valor": "una tasa de éxito limitada"
+  },
+  {
+    "entidad": "inmunoterapia",
+    "relacion": "emerge como",
+    "valor": "una mejor opción para discriminar entre lo propio y lo ajeno"
+  },
+  {
+    "entidad": "inmunoterapia",
+    "relacion": "modifica",
+    "valor": "el sistema inmune para reconocer y eliminar células cancerosas"
+  },
+  {
+    "entidad": "células T",
+    "relacion": "son",
+    "valor": "una potencial arma terapéutica en el tratamiento del cáncer"
+  },
+  {
+    "entidad": "inmunoterapia",
+    "relacion": "genera",
+    "valor": "memoria inmunológica a largo plazo"
+  },
+  {
+    "entidad": "citoquinas",
+    "relacion": "son",
+    "valor": "proteínas que median la comunicación entre células"
+  },
+  {
+    "entidad": "interleuquina-2 (IL-2)",
+    "relacion": "estimula",
+    "valor": "la diferenciación de linfocitos T"
+  },
+  {
+    "entidad": "interferón (IFN)",
+    "relacion": "induce",
+    "valor": "apoptosis de células tumorales"
+  },
+  {
+    "entidad": "vacunas",
+    "relacion": "provocan",
+    "valor": "una respuesta inmune antitumoral"
+  },
+  {
+    "entidad": "virus oncolíticos",
+    "relacion": "inducen",
+    "valor": "una potente respuesta inflamatoria en el microentorno tumoral"
+  },
+  {
+    "entidad": "linfocitos T",
+    "relacion": "desempeñan",
+    "valor": "un papel importante en la respuesta contra el cáncer"
+  },
+  {
+    "entidad": "transferencia de células adaptativas (TCA)",
+    "relacion": "consiste en",
+    "valor": "el uso de células inmunitarias del paciente para tratar el cáncer"
+  },
+  {
+    "entidad": "linfocitos infiltrantes de tumores (TIL)",
+    "relacion": "requieren",
+    "valor": "aislamiento de linfocitos T de biopsias"
+  },
+  {
+    "entidad": "agonistas de receptores tipo Toll",
+    "relacion": "pueden desencadenar",
+    "valor": "respuestas inflamatorias que mejoran la inmunoterapia"
+  },
+  {
+    "entidad": "receptores antigénicos quiméricos (CAR)",
+    "relacion": "modifican",
+    "valor": "la especificidad de los linfocitos T"
+  },
+  {
+    "entidad": "inhibidores de puntos de control",
+    "relacion": "son",
+    "valor": "terapias que bloquean vías inhibitorias activadas por células cancerígenas"
+  },
+  {
+    "entidad": "CTLA-4",
+    "relacion": "es",
+    "valor": "un inhibidor de punto de control inmunitario"
+  },
+  {
+    "entidad": "PD-1",
+    "relacion": "interactúa con",
+    "valor": "el ligando PD-L1 en células tumorales"
+  },
+  {
+    "entidad": "inmunoterapia",
+    "relacion": "se considera",
+    "valor": "una alternativa viable para el tratamiento del cáncer"
+  },
+  {
+    "entidad": "ensayos clínicos",
+    "relacion": "se centran en",
+    "valor": "diferentes enfoques terapéuticos sobre el sistema inmunológico"
+  },
+  {
+    "entidad": "cáncer de pulmón",
+    "relacion": "es tratado con",
+    "valor": "inmunoterapia"
+  },
+  {
+    "entidad": "cáncer de próstata",
+    "relacion": "es tratado con",
+    "valor": "vacuna sipuleucel-T"
+  },
+  {
+    "entidad": "Departamento de Gastroenterología",
+    "relacion": "pertenece a",
+    "valor": "Facultad de Medicina, Pontificia Universidad Católica de Chile"
+  },
+  {
+    "entidad": "artículo de revisión",
+    "relacion": "no recibió",
+    "valor": "financiamiento"
+  },
+  {
+    "entidad": "Dr. Roberto Candia",
+    "relacion": "es autor de",
+    "valor": "artículo de revisión"
+  },
+  {
+    "entidad": "informes endoscópicos",
+    "relacion": "son",
+    "valor": "procesos cualitativos"
+  },
+  {
+    "entidad": "clasificaciones, scores y escalas",
+    "relacion": "dan",
+    "valor": "soporte cuantitativo a procesos cualitativos"
+  },
+  {
+    "entidad": "clasificaciones, scores y escalas",
+    "relacion": "facilitan",
+    "valor": "la descripción de hallazgos"
+  },
+  {
+    "entidad": "gastroesophageal reflux",
+    "relacion": "relacionado con",
+    "valor": "hallazgos endoscópicos"
+  },
+  {
+    "entidad": "Barrett’s esophagus",
+    "relacion": "relacionado con",
+    "valor": "hallazgos endoscópicos"
+  },
+  {
+    "entidad": "gastroesophageal varices",
+    "relacion": "relacionado con",
+    "valor": "hallazgos endoscópicos"
+  },
+  {
+    "entidad": "non-variceal gastrointestinal bleeding",
+    "relacion": "relacionado con",
+    "valor": "hallazgos endoscópicos"
+  },
+  {
+    "entidad": "advanced and incipient neoplasms",
+    "relacion": "relacionado con",
+    "valor": "hallazgos endoscópicos"
+  },
+  {
+    "entidad": "bowel preparation for colonoscopy",
+    "relacion": "relacionado con",
+    "valor": "hallazgos endoscópicos"
+  },
+  {
+    "entidad": "inflammatory bowel diseases",
+    "relacion": "relacionado con",
+    "valor": "hallazgos endoscópicos"
+  },
+  {
+    "entidad": "clasificación de Los Ángeles",
+    "relacion": "etapifica",
+    "valor": "esofagitis erosiva"
+  },
+  {
+    "entidad": "esofagitis erosiva",
+    "relacion": "es un",
+    "valor": "hallazgo endoscópico relacionado con RGE"
+  },
+  {
+    "entidad": "clasificación de Hill",
+    "relacion": "evalúa",
+    "valor": "UGE"
+  },
+  {
+    "entidad": "clasificación de Praga",
+    "relacion": "estandariza",
+    "valor": "extensión del esófago de Barrett"
+  },
+  {
+    "entidad": "várices esofágicas",
+    "relacion": "se clasifican en",
+    "valor": "tamaño y signos rojos"
+  },
+  {
+    "entidad": "clasificación de Sarin",
+    "relacion": "divide",
+    "valor": "várices gástricas según localización"
+  },
+  {
+    "entidad": "clasificación de Forrest",
+    "relacion": "etapifica",
+    "valor": "riesgo de resangrado de lesiones ulceradas"
+  },
+  {
+    "entidad": "clasificación de Borrmann",
+    "relacion": "describe",
+    "valor": "cáncer gástrico avanzado"
+  },
+  {
+    "entidad": "clasificación de Paris",
+    "relacion": "caracteriza",
+    "valor": "lesiones neoplásicas del tubo digestivo"
+  },
+  {
+    "entidad": "clasificación de Boston",
+    "relacion": "califica",
+    "valor": "calidad de la limpieza en colonoscopía"
+  },
+  {
+    "entidad": "Mayo Clinic subscore endoscópico",
+    "relacion": "evalúa",
+    "valor": "gravedad de colitis ulcerosa"
+  },
+  {
+    "entidad": "CDEIS",
+    "relacion": "evalúa",
+    "valor": "gravedad de enfermedad de Crohn"
+  },
+  {
+    "entidad": "UCEIS",
+    "relacion": "es una",
+    "valor": "escala recientemente desarrollada para colitis ulcerosa"
+  },
+  {
+    "entidad": "Índice endoscópico de Rutgeerts",
+    "relacion": "diagnostica",
+    "valor": "reactivación endoscópica de enfermedad de Crohn"
+  },
+  {
+    "entidad": "Osteonecrosis de los maxilares",
+    "relacion": "es un",
+    "valor": "trastorno médico"
+  },
+  {
+    "entidad": "Osteonecrosis de los maxilares",
+    "relacion": "asociada a",
+    "valor": "medicamentos"
+  },
+  {
+    "entidad": "Bifosfonatos",
+    "relacion": "causa",
+    "valor": "osteonecrosis de los maxilares"
+  },
+  {
+    "entidad": "Denosumab",
+    "relacion": "causa",
+    "valor": "osteonecrosis de los maxilares"
+  },
+  {
+    "entidad": "Osteonecrosis de los maxilares",
+    "relacion": "afecta a",
+    "valor": "pacientes con osteoporosis"
+  },
+  {
+    "entidad": "Osteonecrosis de los maxilares",
+    "relacion": "se presenta con",
+    "valor": "hueso necrótico expuesto"
+  },
+  {
+    "entidad": "Osteonecrosis de los maxilares",
+    "relacion": "se asocia a",
+    "valor": "procedimientos dentales invasivos"
+  },
+  {
+    "entidad": "Bifosfonatos",
+    "relacion": "son indicados en",
+    "valor": "enfermedades con aumento de la resorción ósea"
+  },
+  {
+    "entidad": "Medicamentos antiangiogénicos",
+    "relacion": "son utilizados para",
+    "valor": "tratamiento de tumores malignos"
+  },
+  {
+    "entidad": "Osteonecrosis de los maxilares",
+    "relacion": "puede ser diagnosticada por",
+    "valor": "úlceras con hueso expuesto"
+  },
+  {
+    "entidad": "Extracciones dentales",
+    "relacion": "son un factor de riesgo para",
+    "valor": "osteonecrosis de los maxilares"
+  },
+  {
+    "entidad": "Tomografía computarizada",
+    "relacion": "es un",
+    "valor": "examen útil para evaluar osteonecrosis"
+  },
+  {
+    "entidad": "Antimicrobianos tópicos",
+    "relacion": "son utilizados para",
+    "valor": "manejo de osteonecrosis"
+  },
+  {
+    "entidad": "Oxígeno hiperbárico",
+    "relacion": "es una alternativa para",
+    "valor": "manejo de osteonecrosis"
+  },
+  {
+    "entidad": "Concentrados plaquetarios",
+    "relacion": "son utilizados para",
+    "valor": "tratamiento de osteonecrosis"
+  },
+  {
+    "entidad": "Pentoxifilina y vitamina E",
+    "relacion": "son utilizados para",
+    "valor": "tratamiento de osteonecrosis"
+  },
+  {
+    "entidad": "Prevención",
+    "relacion": "es la mejor estrategia para",
+    "valor": "manejar osteonecrosis"
+  },
+  {
+    "entidad": "Evaluación dental",
+    "relacion": "debe ser realizada antes de",
+    "valor": "iniciar tratamiento antiresortivo"
+  },
+  {
+    "entidad": "Controles odontológicos",
+    "relacion": "deben mantenerse",
+    "valor": "cada 3 a 6 meses"
+  },
+  {
+    "entidad": "Suspensión de medicamentos antiresortivos",
+    "relacion": "es desconocida en",
+    "valor": "cirugía dento-maxilar"
+  }
+]

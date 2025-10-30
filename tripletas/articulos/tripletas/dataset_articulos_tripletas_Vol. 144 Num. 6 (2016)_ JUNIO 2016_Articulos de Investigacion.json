@@ -1,0 +1,882 @@
+[
+  {
+    "entidad": "pacientes de edad avanzada",
+    "relacion": "inician",
+    "valor": "hemodiálisis crónica"
+  },
+  {
+    "entidad": "Servicio de Salud Chileno",
+    "relacion": "realiza",
+    "valor": "hemodiálisis crónica"
+  },
+  {
+    "entidad": "enfermedad renal crónica terminal (ERCT)",
+    "relacion": "aumenta con",
+    "valor": "edad"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "es mayor en",
+    "valor": "pacientes de mayor edad"
+  },
+  {
+    "entidad": "Charlson comorbidity index",
+    "relacion": "predice",
+    "valor": "mortalidad en adultos mayores"
+  },
+  {
+    "entidad": "acceso vascular",
+    "relacion": "afecta",
+    "valor": "mortalidad en hemodiálisis"
+  },
+  {
+    "entidad": "catéter venoso central",
+    "relacion": "asocia",
+    "valor": "mayor riesgo de mortalidad"
+  },
+  {
+    "entidad": "diabetes mellitus",
+    "relacion": "se considera",
+    "valor": "comorbilidad en pacientes de hemodiálisis"
+  },
+  {
+    "entidad": "enfermedades cardiovasculares",
+    "relacion": "son",
+    "valor": "principales causas de muerte en mayores de 75 años"
+  },
+  {
+    "entidad": "sobrevida",
+    "relacion": "es mejor en",
+    "valor": "pacientes más jóvenes"
+  },
+  {
+    "entidad": "mortalidad precoz",
+    "relacion": "ocurre en",
+    "valor": "primeros meses de hemodiálisis"
+  },
+  {
+    "entidad": "comorbilidades",
+    "relacion": "afectan",
+    "valor": "pronóstico de sobrevida"
+  },
+  {
+    "entidad": "políticas de salud",
+    "relacion": "deben reforzar",
+    "valor": "control nefrológico oportuno"
+  },
+  {
+    "entidad": "Registro de Diálisis Chileno",
+    "relacion": "revela",
+    "valor": "ingresos anuales de mayores de 65 años"
+  },
+  {
+    "entidad": "esperanza de vida",
+    "relacion": "aumenta en",
+    "valor": "población de edad avanzada"
+  },
+  {
+    "entidad": "análisis multivariado",
+    "relacion": "muestra",
+    "valor": "factores de riesgo de mortalidad"
+  },
+  {
+    "entidad": "hemodiálisis crónica",
+    "relacion": "es un",
+    "valor": "tratamiento para ERCT"
+  },
+  {
+    "entidad": "mortalidad anual",
+    "relacion": "es de",
+    "valor": "54% en mayores de 80 años que inician diálisis"
+  },
+  {
+    "entidad": "imagen corporal",
+    "relacion": "es un",
+    "valor": "constructo multidimensional"
+  },
+  {
+    "entidad": "insatisfacción corporal",
+    "relacion": "es un",
+    "valor": "factor de riesgo para trastornos alimentarios"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen",
+    "valor": "mayor insatisfacción con la imagen corporal que hombres"
+  },
+  {
+    "entidad": "adolescentes",
+    "relacion": "son",
+    "valor": "población vulnerable para insatisfacción con la imagen corporal"
+  },
+  {
+    "entidad": "presión social",
+    "relacion": "afecta a",
+    "valor": "la percepción de la imagen corporal en adolescentes"
+  },
+  {
+    "entidad": "trastornos de la conducta alimentaria",
+    "relacion": "se relacionan con",
+    "valor": "insatisfacción corporal"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "se relaciona con",
+    "valor": "insatisfacción corporal en adolescentes"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "presentan",
+    "valor": "mayores síntomas ansiosos que hombres"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen",
+    "valor": "mayor preocupación por el peso que hombres"
+  },
+  {
+    "entidad": "socioculturales",
+    "relacion": "influyen en",
+    "valor": "la construcción de la imagen corporal"
+  },
+  {
+    "entidad": "Centro de Estudios de la Conducta Alimentaria (CECA)",
+    "relacion": "es parte de",
+    "valor": "la Escuela de Psicología de la Universidad Adolfo Ibáñez"
+  },
+  {
+    "entidad": "proyecto FONDECYT regular 2014",
+    "relacion": "financia",
+    "valor": "el estudio sobre cambios en la imagen corporal"
+  },
+  {
+    "entidad": "adolescentes",
+    "relacion": "desean",
+    "valor": "pesar menos que su peso actual"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "muestran",
+    "valor": "mayor obsesión por la delgadez que hombres"
+  },
+  {
+    "entidad": "síntomas psicopatológicos",
+    "relacion": "se evalúan con",
+    "valor": "el SCL-90"
+  },
+  {
+    "entidad": "conductas alimentarias",
+    "relacion": "se evalúan con",
+    "valor": "el EDI-2"
+  },
+  {
+    "entidad": "adolescentes",
+    "relacion": "asocian",
+    "valor": "obesidad con depresión y ansiedad"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen",
+    "valor": "menor participación en actividades físicas que hombres"
+  },
+  {
+    "entidad": "insatisfacción corporal",
+    "relacion": "se relaciona con",
+    "valor": "baja autoestima y depresión"
+  },
+  {
+    "entidad": "adolescentes",
+    "relacion": "tienen",
+    "valor": "conductas de riesgo"
+  },
+  {
+    "entidad": "conductas de riesgo",
+    "relacion": "aumentan en",
+    "valor": "adolescentes con enfermedades crónicas"
+  },
+  {
+    "entidad": "patología crónica compleja",
+    "relacion": "se caracteriza por",
+    "valor": "necesidad de tratamiento regular"
+  },
+  {
+    "entidad": "cystic fibrosis",
+    "relacion": "es un tipo de",
+    "valor": "patología crónica compleja"
+  },
+  {
+    "entidad": "congenital craniofacial anomalies",
+    "relacion": "es un tipo de",
+    "valor": "patología crónica compleja"
+  },
+  {
+    "entidad": "liver transplantation",
+    "relacion": "es un tipo de",
+    "valor": "patología crónica compleja"
+  },
+  {
+    "entidad": "kidney transplantation",
+    "relacion": "es un tipo de",
+    "valor": "patología crónica compleja"
+  },
+  {
+    "entidad": "spinal dysraphism",
+    "relacion": "es un tipo de",
+    "valor": "patología crónica compleja"
+  },
+  {
+    "entidad": "Centro de Control y Prevención de Enfermedades (CDC)",
+    "relacion": "define",
+    "valor": "categorías de conductas de riesgo"
+  },
+  {
+    "entidad": "conductas de riesgo",
+    "relacion": "incluyen",
+    "valor": "uso de tabaco"
+  },
+  {
+    "entidad": "conductas de riesgo",
+    "relacion": "incluyen",
+    "valor": "consumo de alcohol y otras drogas"
+  },
+  {
+    "entidad": "conductas de riesgo",
+    "relacion": "incluyen",
+    "valor": "comportamientos sexuales de riesgo"
+  },
+  {
+    "entidad": "conductas de riesgo",
+    "relacion": "incluyen",
+    "valor": "comportamientos alimentarios no saludables"
+  },
+  {
+    "entidad": "conductas de riesgo",
+    "relacion": "incluyen",
+    "valor": "sedentarismo"
+  },
+  {
+    "entidad": "conductas de riesgo",
+    "relacion": "incluyen",
+    "valor": "accidentes y violencia"
+  },
+  {
+    "entidad": "adolescentes con enfermedades crónicas",
+    "relacion": "presentan",
+    "valor": "mayor frecuencia de conductas de riesgo"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen",
+    "valor": "menor actividad física y mayor inicio temprano de consumo de tabaco"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "tienen",
+    "valor": "mayor frecuencia de violencia física"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "afecta",
+    "valor": "frecuencia de conductas de riesgo"
+  },
+  {
+    "entidad": "conductas de riesgo",
+    "relacion": "varían según",
+    "valor": "tipo de enfermedad"
+  },
+  {
+    "entidad": "conductas de riesgo",
+    "relacion": "varían según",
+    "valor": "género"
+  },
+  {
+    "entidad": "conductas de riesgo",
+    "relacion": "varían según",
+    "valor": "edad"
+  },
+  {
+    "entidad": "Hospital Dr. Luis Calvo Mackenna",
+    "relacion": "es un",
+    "valor": "hospital pediátrico en Santiago"
+  },
+  {
+    "entidad": "Universidad de Chile",
+    "relacion": "es un",
+    "valor": "centro académico en Santiago"
+  },
+  {
+    "entidad": "SERJOVEN",
+    "relacion": "es un",
+    "valor": "centro de salud del adolescente en Santiago"
+  },
+  {
+    "entidad": "Clínica Las Condes",
+    "relacion": "es un",
+    "valor": "centro de atención pediátrica en Santiago"
+  },
+  {
+    "entidad": "relación neutrófilos/linfocitos",
+    "relacion": "es un",
+    "valor": "predictor de mortalidad en cáncer de mama"
+  },
+  {
+    "entidad": "cáncer de mama",
+    "relacion": "es",
+    "valor": "la neoplasia más común en mujeres"
+  },
+  {
+    "entidad": "cáncer de mama",
+    "relacion": "es",
+    "valor": "la principal causa de muerte por cáncer en chilenas"
+  },
+  {
+    "entidad": "tumores HER2 enriquecidos",
+    "relacion": "son",
+    "valor": "subtipos tumorales clínicamente más agresivos"
+  },
+  {
+    "entidad": "tumores triple negativos",
+    "relacion": "son",
+    "valor": "subtipos tumorales clínicamente más agresivos"
+  },
+  {
+    "entidad": "inflamación",
+    "relacion": "afecta a",
+    "valor": "crecimiento tumoral y progresión metastásica"
+  },
+  {
+    "entidad": "neutrófilos",
+    "relacion": "inhiben",
+    "valor": "actividad citolítica de linfocitos T"
+  },
+  {
+    "entidad": "linfocitos",
+    "relacion": "tienen un rol",
+    "valor": "clave en la inmunovigilancia"
+  },
+  {
+    "entidad": "relación neutrófilos/linfocitos",
+    "relacion": "se ha utilizado como",
+    "valor": "parámetro para determinar inflamación sistémica"
+  },
+  {
+    "entidad": "cáncer de mama",
+    "relacion": "se relaciona con",
+    "valor": "marcadores inflamatorios elevados como PCR e IL6"
+  },
+  {
+    "entidad": "análisis multivariado",
+    "relacion": "incluye",
+    "valor": "edad, tumor stage y compromiso linfonodal"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "realiza",
+    "valor": "estudio sobre cáncer de mama"
+  },
+  {
+    "entidad": "cáncer de mama",
+    "relacion": "se clasifica en",
+    "valor": "subtipos según marcadores clásicos"
+  },
+  {
+    "entidad": "relación neutrófilos/linfocitos",
+    "relacion": "asociada a",
+    "valor": "mortalidad en cáncer de mama"
+  },
+  {
+    "entidad": "cáncer de mama",
+    "relacion": "se estudia en",
+    "valor": "pacientes tratados entre 1997 y 2012"
+  },
+  {
+    "entidad": "relación neutrófilos/linfocitos",
+    "relacion": "es un",
+    "valor": "indicador de mal pronóstico en varios tipos de cáncer"
+  },
+  {
+    "entidad": "urolitiasis",
+    "relacion": "es una",
+    "valor": "patología de alta prevalencia"
+  },
+  {
+    "entidad": "Hospital Clínico Universidad de Chile",
+    "relacion": "es un",
+    "valor": "centro de atención médica"
+  },
+  {
+    "entidad": "profilaxis secundaria",
+    "relacion": "impacta en",
+    "valor": "manejo de pacientes con urolitiasis"
+  },
+  {
+    "entidad": "pacientes con urolitiasis de alto riesgo",
+    "relacion": "requieren",
+    "valor": "evaluación metabólica completa"
+  },
+  {
+    "entidad": "evaluación metabólica completa",
+    "relacion": "permite detectar",
+    "valor": "alteraciones metabólicas"
+  },
+  {
+    "entidad": "medidas generales",
+    "relacion": "incluyen",
+    "valor": "aumento de la ingesta de líquidos"
+  },
+  {
+    "entidad": "medidas específicas",
+    "relacion": "comprenden",
+    "valor": "uso de medicamentos como alopurinol y hidroclorotiazida"
+  },
+  {
+    "entidad": "adherencia al tratamiento",
+    "relacion": "afecta",
+    "valor": "la recurrencia de urolitiasis"
+  },
+  {
+    "entidad": "recurrencia de urolitiasis",
+    "relacion": "puede llegar a",
+    "valor": "45% a 5 años"
+  },
+  {
+    "entidad": "hidroclorotiazida",
+    "relacion": "se utiliza para",
+    "valor": "tratar hipercalciuria"
+  },
+  {
+    "entidad": "citrato de potasio",
+    "relacion": "se utiliza para",
+    "valor": "tratar hipocitraturia"
+  },
+  {
+    "entidad": "alopurinol",
+    "relacion": "se utiliza para",
+    "valor": "tratar hiperuricemia"
+  },
+  {
+    "entidad": "paratiroidectomía",
+    "relacion": "se realiza en",
+    "valor": "pacientes con hiperparatiroidismo primario"
+  },
+  {
+    "entidad": "control anual",
+    "relacion": "incluye",
+    "valor": "examen clínico y análisis de orina"
+  },
+  {
+    "entidad": "fracasos de profilaxis secundaria",
+    "relacion": "se definen como",
+    "valor": "recurrencia de urolitiasis"
+  },
+  {
+    "entidad": "medidas generales",
+    "relacion": "reducen",
+    "valor": "recurrencias de cálculos"
+  },
+  {
+    "entidad": "dieta hipoproteica",
+    "relacion": "reduce",
+    "valor": "eventos litiásicos"
+  },
+  {
+    "entidad": "adherencia al tratamiento",
+    "relacion": "es fundamental para",
+    "valor": "mejorar resultados en prevención"
+  },
+  {
+    "entidad": "pacientes con intención de tratamiento",
+    "relacion": "se mantienen libres de",
+    "valor": "urolitiasis"
+  },
+  {
+    "entidad": "alteraciones metabólicas",
+    "relacion": "son factores de riesgo para",
+    "valor": "formación de litiasis"
+  },
+  {
+    "entidad": "retroalimentación",
+    "relacion": "es un",
+    "valor": "instrumento en educación médica"
+  },
+  {
+    "entidad": "residentes de Psiquiatría",
+    "relacion": "percepción sobre",
+    "valor": "interacción social durante la retroalimentación"
+  },
+  {
+    "entidad": "interacción social",
+    "relacion": "influye en",
+    "valor": "efectividad de la retroalimentación"
+  },
+  {
+    "entidad": "docentes",
+    "relacion": "deben tener",
+    "valor": "habilidades interaccionales"
+  },
+  {
+    "entidad": "relación social",
+    "relacion": "es fundamental para",
+    "valor": "el éxito de la retroalimentación"
+  },
+  {
+    "entidad": "confianza",
+    "relacion": "afecta",
+    "valor": "la receptividad a la retroalimentación"
+  },
+  {
+    "entidad": "horizontalidad",
+    "relacion": "caracteriza",
+    "valor": "la relación entre docente y residente"
+  },
+  {
+    "entidad": "involucramiento del docente",
+    "relacion": "favorece",
+    "valor": "el proceso de retroalimentación"
+  },
+  {
+    "entidad": "socialización",
+    "relacion": "desarrolla",
+    "valor": "familiaridad entre residentes y docentes"
+  },
+  {
+    "entidad": "interacción negativa",
+    "relacion": "afecta",
+    "valor": "el proceso de retroalimentación"
+  },
+  {
+    "entidad": "credibilidad del docente",
+    "relacion": "influye en",
+    "valor": "la motivación al cambio del aprendiz"
+  },
+  {
+    "entidad": "invitación a la integración",
+    "relacion": "favorece",
+    "valor": "el aprendizaje"
+  },
+  {
+    "entidad": "experiencia de retroalimentación",
+    "relacion": "debe ser",
+    "valor": "constructiva"
+  },
+  {
+    "entidad": "miedo a la expresión",
+    "relacion": "afecta",
+    "valor": "la interacción durante la retroalimentación"
+  },
+  {
+    "entidad": "desbalance de poder",
+    "relacion": "influye en",
+    "valor": "la dinámica de la retroalimentación"
+  },
+  {
+    "entidad": "proximidad social",
+    "relacion": "facilita",
+    "valor": "la interacción colaborativa"
+  },
+  {
+    "entidad": "calidad de la retroalimentación",
+    "relacion": "depende de",
+    "valor": "la relación social entre docente y residente"
+  },
+  {
+    "entidad": "Instituto de Investigaciones en Ciencias de la Salud (IICS)",
+    "relacion": "se encuentra en",
+    "valor": "San Lorenzo, Paraguay"
+  },
+  {
+    "entidad": "Conacyt",
+    "relacion": "financia",
+    "valor": "programa de apoyo a postgrados"
+  },
+  {
+    "entidad": "perfil de riesgo litogénico",
+    "relacion": "determina",
+    "valor": "factores metabólicos y saturaciones urinarias"
+  },
+  {
+    "entidad": "urolitiasis",
+    "relacion": "se caracteriza por",
+    "valor": "aparición de cálculos en el aparato urinario"
+  },
+  {
+    "entidad": "factores de riesgo",
+    "relacion": "incluyen",
+    "valor": "edad, sexo, raza, clima, ocupación, ingesta de agua y hábitos nutricionales"
+  },
+  {
+    "entidad": "concentraciones de analitos en orina",
+    "relacion": "son útiles para",
+    "valor": "medir el índice de cristalización y riesgo litogénico"
+  },
+  {
+    "entidad": "análisis morfológico de cálculos",
+    "relacion": "se publicó en",
+    "valor": "50 pacientes"
+  },
+  {
+    "entidad": "trastornos metabólicos",
+    "relacion": "más frecuentes en",
+    "valor": "pacientes pediátricos con urolitiasis"
+  },
+  {
+    "entidad": "hipocitraturia",
+    "relacion": "se presenta en",
+    "valor": "48% de la población estudiada"
+  },
+  {
+    "entidad": "hipercalciuria",
+    "relacion": "se presenta en",
+    "valor": "40% de la población estudiada"
+  },
+  {
+    "entidad": "intervención urológica",
+    "relacion": "fue requerida por",
+    "valor": "61,7% de los pacientes"
+  },
+  {
+    "entidad": "cálculos de oxalato de calcio",
+    "relacion": "fueron los más frecuentes",
+    "valor": "en 70,6% de los casos"
+  },
+  {
+    "entidad": "cálculos de ácido úrico",
+    "relacion": "se encontraron en",
+    "valor": "19,6% de los casos"
+  },
+  {
+    "entidad": "cálculos de fosfato",
+    "relacion": "se encontraron en",
+    "valor": "5,9% de los casos"
+  },
+  {
+    "entidad": "cálculos de cistina",
+    "relacion": "son de origen",
+    "valor": "genético y altamente recurrente"
+  },
+  {
+    "entidad": "perfil de riesgo litogénico",
+    "relacion": "permite evaluar",
+    "valor": "factores de riesgo"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "fue detectada en",
+    "valor": "23,3% de los pacientes"
+  },
+  {
+    "entidad": "diabetes mellitus",
+    "relacion": "fue detectada en",
+    "valor": "11% de los pacientes"
+  },
+  {
+    "entidad": "volumen urinario bajo",
+    "relacion": "fue un factor de riesgo",
+    "valor": "en casi la mitad de los participantes"
+  },
+  {
+    "entidad": "sobresaturación de cristales de hidroxiapatita",
+    "relacion": "fue la más frecuentemente detectada",
+    "valor": "en mujeres"
+  },
+  {
+    "entidad": "saturaciones urinarias",
+    "relacion": "se obtienen mediante",
+    "valor": "análisis integrado de concentraciones de analitos"
+  },
+  {
+    "entidad": "métodos menos invasivos",
+    "relacion": "son escasos en",
+    "valor": "Paraguay"
+  },
+  {
+    "entidad": "cálculos de oxalato de calcio",
+    "relacion": "se forman debido a",
+    "valor": "consumo elevado de proteínas animales"
+  },
+  {
+    "entidad": "Plomo",
+    "relacion": "es un",
+    "valor": "agente ambiental"
+  },
+  {
+    "entidad": "Plomo",
+    "relacion": "causa",
+    "valor": "nefropatía"
+  },
+  {
+    "entidad": "Nefropatía crónica",
+    "relacion": "es causada por",
+    "valor": "exposición prolongada al plomo"
+  },
+  {
+    "entidad": "Biomarcadores urinarios",
+    "relacion": "son utilizados para",
+    "valor": "detectar daño renal precoz"
+  },
+  {
+    "entidad": "IAP",
+    "relacion": "es un",
+    "valor": "marcador funcional de daño renal"
+  },
+  {
+    "entidad": "NAG",
+    "relacion": "es un",
+    "valor": "marcador funcional de daño renal"
+  },
+  {
+    "entidad": "Trabajadores de talleres mecánicos",
+    "relacion": "presentan",
+    "valor": "niveles elevados de plomo en sangre"
+  },
+  {
+    "entidad": "Presión arterial",
+    "relacion": "es afectada por",
+    "valor": "niveles de plomo en sangre"
+  },
+  {
+    "entidad": "Plomo en sangre",
+    "relacion": "correlaciona positivamente con",
+    "valor": "excreción de NAG"
+  },
+  {
+    "entidad": "Plomo en sangre",
+    "relacion": "correlaciona positivamente con",
+    "valor": "excreción de IAP"
+  },
+  {
+    "entidad": "Nefropatía inducida por plomo",
+    "relacion": "se caracteriza por",
+    "valor": "nefritis intersticial progresiva"
+  },
+  {
+    "entidad": "Exposición aguda al plomo",
+    "relacion": "puede causar",
+    "valor": "síndrome de Fanconi"
+  },
+  {
+    "entidad": "Hipertensión arterial",
+    "relacion": "puede ser causada por",
+    "valor": "daño renal inducido por plomo"
+  },
+  {
+    "entidad": "Creatinina",
+    "relacion": "no es un",
+    "valor": "indicador temprano de disfunción renal"
+  },
+  {
+    "entidad": "EDTA",
+    "relacion": "es un",
+    "valor": "tratamiento para la intoxicación por plomo"
+  },
+  {
+    "entidad": "Cátedra de Fisiología y Fisiopatología",
+    "relacion": "pertenece a",
+    "valor": "Universidad Católica Nuestra Señora de la Asunción"
+  },
+  {
+    "entidad": "Departamento de Fisiopatología",
+    "relacion": "pertenece a",
+    "valor": "Universidad de Amberes"
+  },
+  {
+    "entidad": "poblaciones LGBT",
+    "relacion": "tienen",
+    "valor": "alta prevalencia de comportamientos suicidas"
+  },
+  {
+    "entidad": "revisión sistemática",
+    "relacion": "analiza",
+    "valor": "literatura sobre suicidio en poblaciones LGBT"
+  },
+  {
+    "entidad": "investigación",
+    "relacion": "ha aumentado",
+    "valor": "en la última década"
+  },
+  {
+    "entidad": "Estados Unidos",
+    "relacion": "realiza",
+    "valor": "la mayoría de los estudios sobre suicidio en LGBT"
+  },
+  {
+    "entidad": "revistas especializadas",
+    "relacion": "publican",
+    "valor": "estudios sobre salud mental y salud pública de minorías sexuales"
+  },
+  {
+    "entidad": "factores de riesgo",
+    "relacion": "aumentan",
+    "valor": "la probabilidad de suicidio en LGBT"
+  },
+  {
+    "entidad": "estigma y discriminación",
+    "relacion": "afectan",
+    "valor": "la salud mental de la población LGBT"
+  },
+  {
+    "entidad": "modelo de estrés en minorías",
+    "relacion": "explica",
+    "valor": "la relación entre pertenencia a una minoría y problemas de salud mental"
+  },
+  {
+    "entidad": "orientación sexual e identidad de género",
+    "relacion": "son",
+    "valor": "determinantes de la salud"
+  },
+  {
+    "entidad": "Haas et al. (2010)",
+    "relacion": "recomiendan",
+    "valor": "incluir preguntas sobre orientación sexual e identidad de género en investigaciones"
+  },
+  {
+    "entidad": "Chile y Latinoamérica",
+    "relacion": "tienen",
+    "valor": "pocos estudios sobre salud mental en poblaciones LGBT"
+  },
+  {
+    "entidad": "investigaciones",
+    "relacion": "deben abordar",
+    "valor": "las limitaciones en el estudio de suicidabilidad"
+  },
+  {
+    "entidad": "apoyo social",
+    "relacion": "es un",
+    "valor": "factor protector contra el suicidio"
+  },
+  {
+    "entidad": "victimización de género",
+    "relacion": "aumenta",
+    "valor": "el riesgo de suicidio en LGBT"
+  },
+  {
+    "entidad": "homofobia internalizada",
+    "relacion": "se asocia con",
+    "valor": "tendencias suicidas en personas gay"
+  },
+  {
+    "entidad": "edad de salida del closet",
+    "relacion": "influye en",
+    "valor": "la probabilidad de victimización y riesgo suicida"
+  },
+  {
+    "entidad": "intervención preventiva",
+    "relacion": "es evaluada en",
+    "valor": "un estudio sobre población LGBT"
+  },
+  {
+    "entidad": "suicidio consumado",
+    "relacion": "representa",
+    "valor": "30% de los suicidios en Estados Unidos"
+  },
+  {
+    "entidad": "investigación sobre suicidio en LGBT",
+    "relacion": "es",
+    "valor": "exploratoria y necesita más atención"
+  },
+  {
+    "entidad": "políticas de inclusión",
+    "relacion": "no han reducido",
+    "valor": "la incidencia de problemas de salud mental en LGBT"
+  }
+]

@@ -1,0 +1,862 @@
+[
+  {
+    "entidad": "velocidad de marcha",
+    "relacion": "es un",
+    "valor": "marcador funcional"
+  },
+  {
+    "entidad": "velocidad de marcha",
+    "relacion": "predice",
+    "valor": "enfermedades crónicas"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "afecta a",
+    "valor": "población chilena"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud 2016-2017",
+    "relacion": "proporciona",
+    "valor": "datos sobre salud en Chile"
+  },
+  {
+    "entidad": "población chilena",
+    "relacion": "presenta",
+    "valor": "alta prevalencia de obesidad"
+  },
+  {
+    "entidad": "cambio en hábitos de alimentación",
+    "relacion": "contribuye a",
+    "valor": "aumento de obesidad"
+  },
+  {
+    "entidad": "velocidad de marcha normal y rápida",
+    "relacion": "asociada a",
+    "valor": "menor peso corporal"
+  },
+  {
+    "entidad": "velocidad de marcha rápida",
+    "relacion": "asociada a",
+    "valor": "menor probabilidad de obesidad"
+  },
+  {
+    "entidad": "IMC",
+    "relacion": "es un",
+    "valor": "indicador de obesidad"
+  },
+  {
+    "entidad": "perímetro de cintura",
+    "relacion": "es un",
+    "valor": "indicador de obesidad central"
+  },
+  {
+    "entidad": "índice cintura/altura",
+    "relacion": "es un",
+    "valor": "indicador de riesgo metabólico"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile (MINSAL)",
+    "relacion": "aprueba",
+    "valor": "protocolo de estudio"
+  },
+  {
+    "entidad": "escuela de Medicina de la Pontificia Universidad Católica de Chile",
+    "relacion": "revisa",
+    "valor": "protocolo de estudio"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "afecta a",
+    "valor": "salud general"
+  },
+  {
+    "entidad": "sedentarismo",
+    "relacion": "es un",
+    "valor": "factor de riesgo para enfermedades crónicas"
+  },
+  {
+    "entidad": "auto-reporte de velocidad de marcha",
+    "relacion": "utilizado como",
+    "valor": "herramienta de evaluación de salud"
+  },
+  {
+    "entidad": "velocidad de marcha",
+    "relacion": "puede ser",
+    "valor": "una forma de incrementar actividad física"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "es un",
+    "valor": "problema de salud pública"
+  },
+  {
+    "entidad": "población adulta chilena",
+    "relacion": "es objeto de",
+    "valor": "investigación sobre obesidad"
+  },
+  {
+    "entidad": "balance postural",
+    "relacion": "es evaluado por",
+    "valor": "parámetros como área y velocidad media del centro de presión (CoP)"
+  },
+  {
+    "entidad": "adultos mayores",
+    "relacion": "presentan",
+    "valor": "riesgo de caídas"
+  },
+  {
+    "entidad": "índice de masa corporal (IMC)",
+    "relacion": "se asocia con",
+    "valor": "balance postural"
+  },
+  {
+    "entidad": "peso",
+    "relacion": "es un",
+    "valor": "factor de riesgo tradicional de adiposidad"
+  },
+  {
+    "entidad": "adultos mayores chilenos",
+    "relacion": "son categorizados en",
+    "valor": "normopeso, sobrepeso y obesidad"
+  },
+  {
+    "entidad": "grupo normopeso (CG)",
+    "relacion": "tiene",
+    "valor": "IMC promedio de 23.1 kg/m2"
+  },
+  {
+    "entidad": "grupo de sobrepeso (OvW)",
+    "relacion": "tiene",
+    "valor": "IMC promedio de 27.6 kg/m2"
+  },
+  {
+    "entidad": "grupo de obesidad (Ob)",
+    "relacion": "tiene",
+    "valor": "IMC promedio de 34.2 kg/m2"
+  },
+  {
+    "entidad": "velocidad media del CoP",
+    "relacion": "es menor en",
+    "valor": "adultos mayores con sobrepeso y obesidad comparado con normopeso"
+  },
+  {
+    "entidad": "área de balance",
+    "relacion": "se asocia con",
+    "valor": "peso"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "aplica",
+    "valor": "Examen Funcional del Adulto Mayor (EFAM)"
+  },
+  {
+    "entidad": "sarcopenia",
+    "relacion": "se asocia con",
+    "valor": "pérdida de masa muscular en adultos mayores"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "se asocia con",
+    "valor": "alteraciones en el balance postural"
+  },
+  {
+    "entidad": "estudio descriptivo",
+    "relacion": "se realiza en",
+    "valor": "adultos mayores entre 60 y 80 años"
+  },
+  {
+    "entidad": "Interuniversity Center for Healthy Aging (CIES)",
+    "relacion": "colabora en",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "Agencia Nacional de Investigación y Desarrollo (ANID)",
+    "relacion": "financia",
+    "valor": "la investigación"
+  },
+  {
+    "entidad": "Síndrome Metabólico (SMet)",
+    "relacion": "es",
+    "valor": "prevalente en la población"
+  },
+  {
+    "entidad": "ejercicio físico",
+    "relacion": "afecta a",
+    "valor": "aptitud cardiorrespiratoria (ACR)"
+  },
+  {
+    "entidad": "aplicación móvil (m-Health)",
+    "relacion": "asiste a",
+    "valor": "programa de ejercicio físico"
+  },
+  {
+    "entidad": "mujeres con alteraciones metabólicas",
+    "relacion": "participan en",
+    "valor": "programa de ejercicio físico"
+  },
+  {
+    "entidad": "programa Vida Sana",
+    "relacion": "es un",
+    "valor": "grupo de control"
+  },
+  {
+    "entidad": "Centro de Vida Saludable de la Universidad de Concepción",
+    "relacion": "desarrolla",
+    "valor": "aplicación Apptivate"
+  },
+  {
+    "entidad": "aplicación Apptivate",
+    "relacion": "permite",
+    "valor": "monitorear programas de ejercicio"
+  },
+  {
+    "entidad": "mujeres con SMet",
+    "relacion": "presentan",
+    "valor": "baja ACR"
+  },
+  {
+    "entidad": "intervención m-Health",
+    "relacion": "mejora",
+    "valor": "VO2max"
+  },
+  {
+    "entidad": "intervención m-Health",
+    "relacion": "reduce",
+    "valor": "perímetro de cintura"
+  },
+  {
+    "entidad": "intervención m-Health",
+    "relacion": "reduce",
+    "valor": "presión arterial diastólica (PAD)"
+  },
+  {
+    "entidad": "ejercicio físico",
+    "relacion": "es un",
+    "valor": "factor de riesgo para enfermedades crónicas"
+  },
+  {
+    "entidad": "inactividad física",
+    "relacion": "es",
+    "valor": "un factor de riesgo asociado a mortalidad prematura"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "son",
+    "valor": "el grupo de estudio"
+  },
+  {
+    "entidad": "Gobierno regional de Biobío",
+    "relacion": "financia",
+    "valor": "proyecto FIC 40026768-0"
+  },
+  {
+    "entidad": "m-Health",
+    "relacion": "tiene el potencial de",
+    "valor": "apoyar la actividad física"
+  },
+  {
+    "entidad": "aplicaciones móviles",
+    "relacion": "aumentan",
+    "valor": "la actividad física"
+  },
+  {
+    "entidad": "mujeres con SMet",
+    "relacion": "son",
+    "valor": "el grupo objetivo del estudio"
+  },
+  {
+    "entidad": "Cirugía coronaria",
+    "relacion": "es",
+    "valor": "la cirugía cardíaca más realizada y estudiada"
+  },
+  {
+    "entidad": "Hospital Clínico Regional de Concepción",
+    "relacion": "realiza",
+    "valor": "cirugía coronaria aislada"
+  },
+  {
+    "entidad": "EuroSCORE I",
+    "relacion": "evalúa",
+    "valor": "riesgo quirúrgico"
+  },
+  {
+    "entidad": "diabetes mellitus",
+    "relacion": "aumenta",
+    "valor": "en pacientes con disfunción ventricular"
+  },
+  {
+    "entidad": "enfermedad pulmonar obstructiva crónica",
+    "relacion": "aumenta",
+    "valor": "en pacientes con disfunción ventricular"
+  },
+  {
+    "entidad": "infarto agudo al miocardio",
+    "relacion": "aumenta",
+    "valor": "en pacientes con disfunción ventricular"
+  },
+  {
+    "entidad": "disfunción ventricular grave",
+    "relacion": "aumenta",
+    "valor": "en pacientes con disfunción ventricular"
+  },
+  {
+    "entidad": "cirugía sin circulación extracorpórea",
+    "relacion": "disminuye",
+    "valor": "en el segundo período"
+  },
+  {
+    "entidad": "uso de ≥ 2 puentes arteriales",
+    "relacion": "aumenta",
+    "valor": "en el segundo período"
+  },
+  {
+    "entidad": "mortalidad postoperatoria",
+    "relacion": "se mantiene",
+    "valor": "sin cambios significativos"
+  },
+  {
+    "entidad": "edad promedio",
+    "relacion": "aumenta",
+    "valor": "en pacientes tratados con cirugía coronaria"
+  },
+  {
+    "entidad": "comorbilidades",
+    "relacion": "aumentan",
+    "valor": "en pacientes tratados con cirugía coronaria"
+  },
+  {
+    "entidad": "Centro Cardiovascular",
+    "relacion": "facilita",
+    "valor": "trabajo conjunto de especialistas"
+  },
+  {
+    "entidad": "ventilación mecánica postoperatoria",
+    "relacion": "se reduce",
+    "valor": "en el segundo período"
+  },
+  {
+    "entidad": "sistemas de asistencia circulatoria",
+    "relacion": "aumenta",
+    "valor": "en pacientes de alto riesgo"
+  },
+  {
+    "entidad": "ECMO",
+    "relacion": "se utiliza",
+    "valor": "como soporte en pacientes seleccionados"
+  },
+  {
+    "entidad": "cuidados perioperatorios",
+    "relacion": "mejoran",
+    "valor": "resultados de la cirugía coronaria"
+  },
+  {
+    "entidad": "B-CTx",
+    "relacion": "es un",
+    "valor": "marcador de recambio óseo"
+  },
+  {
+    "entidad": "N-MID Osteocalcina",
+    "relacion": "es un",
+    "valor": "marcador de formación ósea"
+  },
+  {
+    "entidad": "Osteoporosis",
+    "relacion": "afecta a",
+    "valor": "mujeres chilenas posmenopáusicas"
+  },
+  {
+    "entidad": "Densitometría ósea",
+    "relacion": "se utiliza para",
+    "valor": "diagnóstico de osteoporosis"
+  },
+  {
+    "entidad": "mujeres posmenopáusicas",
+    "relacion": "se reclutaron en",
+    "valor": "estudio observacional"
+  },
+  {
+    "entidad": "Beta-Cross Laps",
+    "relacion": "es un",
+    "valor": "marcador para medir resorción ósea"
+  },
+  {
+    "entidad": "osteocalcina",
+    "relacion": "es un",
+    "valor": "marcador para medir formación ósea"
+  },
+  {
+    "entidad": "mujeres chilenas posmenopáusicas",
+    "relacion": "tienen",
+    "valor": "valores de B-CTx y N-MID"
+  },
+  {
+    "entidad": "B-CTx",
+    "relacion": "se correlaciona con",
+    "valor": "N-MID Osteocalcina"
+  },
+  {
+    "entidad": "B-CTx y N-MID",
+    "relacion": "se evalúan en",
+    "valor": "mujeres con osteoporosis"
+  },
+  {
+    "entidad": "marcadores óseos",
+    "relacion": "pueden ser",
+    "valor": "herramienta complementaria a la densitometría ósea"
+  },
+  {
+    "entidad": "FRAX",
+    "relacion": "es un",
+    "valor": "algoritmo de predicción de riesgo de fracturas"
+  },
+  {
+    "entidad": "mujeres sanas",
+    "relacion": "tienen niveles de",
+    "valor": "B-CTx y N-MID más bajos"
+  },
+  {
+    "entidad": "osteoporosis",
+    "relacion": "es un",
+    "valor": "problema de salud mundial"
+  },
+  {
+    "entidad": "mujeres posmenopáusicas",
+    "relacion": "presentan",
+    "valor": "aumento de marcadores óseos"
+  },
+  {
+    "entidad": "B-CTx y N-MID",
+    "relacion": "se midieron por",
+    "valor": "electroquimioluminiscencia"
+  },
+  {
+    "entidad": "Hospital Clínico Universidad de Chile",
+    "relacion": "realizó",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "mujeres con osteoporosis",
+    "relacion": "tienen niveles de",
+    "valor": "B-CTx y N-MID más altos"
+  },
+  {
+    "entidad": "Hipocalcemia post tiroidectomía",
+    "relacion": "es",
+    "valor": "la complicación más frecuente posterior a tiroidectomía"
+  },
+  {
+    "entidad": "PTH",
+    "relacion": "se propone como",
+    "valor": "predictor de hipocalcemia postoperatoria"
+  },
+  {
+    "entidad": "Protocolo de manejo ambulatorio",
+    "relacion": "se propone según",
+    "valor": "niveles postoperatorios de calcemia, PTH y síntomas"
+  },
+  {
+    "entidad": "PTH postoperatoria",
+    "relacion": "se determina como",
+    "valor": "predictor de hipocalcemia"
+  },
+  {
+    "entidad": "Calcio",
+    "relacion": "se utiliza en",
+    "valor": "el tratamiento de hipocalcemia"
+  },
+  {
+    "entidad": "Carbonato de calcio",
+    "relacion": "es",
+    "valor": "el tratamiento más utilizado"
+  },
+  {
+    "entidad": "Hipomagnesemia",
+    "relacion": "no tiene asociación significativa con",
+    "valor": "hipocalcemia postoperatoria"
+  },
+  {
+    "entidad": "Fósforo",
+    "relacion": "no tiene asociación significativa con",
+    "valor": "hipocalcemia postoperatoria"
+  },
+  {
+    "entidad": "Protocolo de manejo",
+    "relacion": "debe ser establecido por",
+    "valor": "cada centro"
+  },
+  {
+    "entidad": "Incidencia de hipocalcemia",
+    "relacion": "se reporta en",
+    "valor": "29% y 1% para hipocalcemia transitoria y permanente, respectivamente"
+  },
+  {
+    "entidad": "PTH < 8.8 pg/mL",
+    "relacion": "es un",
+    "valor": "punto de corte para predecir hipocalcemia"
+  },
+  {
+    "entidad": "Descenso de PTH > 80%",
+    "relacion": "es un",
+    "valor": "punto de corte para predecir hipocalcemia"
+  },
+  {
+    "entidad": "Hospitalización",
+    "relacion": "promedio",
+    "valor": "1.05 días"
+  },
+  {
+    "entidad": "Esquemas de tratamiento",
+    "relacion": "se clasifican de",
+    "valor": "I a V"
+  },
+  {
+    "entidad": "Tratamiento profiláctico",
+    "relacion": "es",
+    "valor": "costo/efectivo y seguro"
+  },
+  {
+    "entidad": "Hipocalcemia refractaria",
+    "relacion": "se presenta en",
+    "valor": "pacientes con hipomagnesemia"
+  },
+  {
+    "entidad": "Guías de la American Thyroid Association (ATA)",
+    "relacion": "recomiendan medir",
+    "valor": "PTH postoperatoria para predecir hipocalcemia"
+  },
+  {
+    "entidad": "Criterios de inclusión",
+    "relacion": "se aplican a",
+    "valor": "pacientes sometidos a tiroidectomías por patología maligna y benigna"
+  },
+  {
+    "entidad": "Comité Ético Científico de Clínica Indisa",
+    "relacion": "aprueba",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "Análisis de regresión logística",
+    "relacion": "se utiliza para",
+    "valor": "asociar hipocalcemia con variables pronósticas"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "es causado por",
+    "valor": "SARS-CoV-2"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "es el lugar de estudio de",
+    "valor": "la incidencia de COVID-19"
+  },
+  {
+    "entidad": "SARS-CoV-2",
+    "relacion": "tiene variantes",
+    "valor": "γ, δ y O"
+  },
+  {
+    "entidad": "vacunación",
+    "relacion": "interviene en",
+    "valor": "la predictibilidad de COVID-19"
+  },
+  {
+    "entidad": "método del tercer momento de incidencia",
+    "relacion": "es utilizado para",
+    "valor": "pronóstico a corto plazo de COVID-19"
+  },
+  {
+    "entidad": "incidencia diaria de COVID-19",
+    "relacion": "se estudia en",
+    "valor": "regiones de Chile"
+  },
+  {
+    "entidad": "Metropolitana",
+    "relacion": "es una",
+    "valor": "región de Chile"
+  },
+  {
+    "entidad": "Biobío",
+    "relacion": "es una",
+    "valor": "región de Chile"
+  },
+  {
+    "entidad": "Arica y Parinacota",
+    "relacion": "es una",
+    "valor": "región de Chile"
+  },
+  {
+    "entidad": "predicción",
+    "relacion": "se evalúa con",
+    "valor": "error porcentual absoluto medio corregido"
+  },
+  {
+    "entidad": "predicción de COVID-19",
+    "relacion": "es afectada por",
+    "valor": "intervenciones farmacológicas"
+  },
+  {
+    "entidad": "predicción de COVID-19",
+    "relacion": "es afectada por",
+    "valor": "nuevas variantes del virus"
+  },
+  {
+    "entidad": "incidencia de COVID-19",
+    "relacion": "muestra comportamiento",
+    "valor": "caótico"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "suministra",
+    "valor": "informes diarios de COVID-19"
+  },
+  {
+    "entidad": "Canals et al. (2022)",
+    "relacion": "propone",
+    "valor": "el método del tercer momento de incidencia"
+  },
+  {
+    "entidad": "error de pronóstico",
+    "relacion": "es de alrededor de",
+    "valor": "30%"
+  },
+  {
+    "entidad": "incidencia diaria de COVID-19",
+    "relacion": "se encuentra en",
+    "valor": "el límite entre buena y razonable predictibilidad"
+  },
+  {
+    "entidad": "periodos epidémicos",
+    "relacion": "son diferentes a",
+    "valor": "periodos inter-epidémicos"
+  },
+  {
+    "entidad": "brote epidémico de Omicron",
+    "relacion": "causa",
+    "valor": "baja predictibilidad"
+  },
+  {
+    "entidad": "vacunas",
+    "relacion": "incluyen",
+    "valor": "CoronaVac, BNT162b2, ChAdOx1-S y Ad5.nCoV"
+  },
+  {
+    "entidad": "SARS-CoV-2",
+    "relacion": "causa",
+    "valor": "neumonía adquirida en la comunidad"
+  },
+  {
+    "entidad": "Influenza A",
+    "relacion": "causa",
+    "valor": "neumonía adquirida en la comunidad"
+  },
+  {
+    "entidad": "Influenza B",
+    "relacion": "causa",
+    "valor": "neumonía adquirida en la comunidad"
+  },
+  {
+    "entidad": "Virus respiratorio sincicial (VRS)",
+    "relacion": "causa",
+    "valor": "neumonía adquirida en la comunidad"
+  },
+  {
+    "entidad": "Hantavirus",
+    "relacion": "causa",
+    "valor": "neumonía adquirida en la comunidad"
+  },
+  {
+    "entidad": "neumonía adquirida en la comunidad (NAC)",
+    "relacion": "es",
+    "valor": "primera causa de muerte de origen infeccioso en Chile"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "no se asocia",
+    "valor": "mayor mortalidad comparado con otros virus respiratorios"
+  },
+  {
+    "entidad": "edad ≥ 65 años",
+    "relacion": "asociado con",
+    "valor": "mayor mortalidad a 30 días"
+  },
+  {
+    "entidad": "inmunosupresión",
+    "relacion": "asociado con",
+    "valor": "mayor mortalidad a 30 días"
+  },
+  {
+    "entidad": "cianosis",
+    "relacion": "asociado con",
+    "valor": "mayor mortalidad a 30 días"
+  },
+  {
+    "entidad": "Complejo Asistencial Dr. Víctor Ríos Ruiz",
+    "relacion": "es",
+    "valor": "centro de estudio"
+  },
+  {
+    "entidad": "Universidad de Concepción",
+    "relacion": "es",
+    "valor": "institución involucrada en el estudio"
+  },
+  {
+    "entidad": "proyecto financiado",
+    "relacion": "es",
+    "valor": "fondo de la vicerrectoría de investigación y desarrollo (VRID)"
+  },
+  {
+    "entidad": "mortalidad a 30 días",
+    "relacion": "evaluada mediante",
+    "valor": "regresión logística binaria"
+  },
+  {
+    "entidad": "Hantavirus",
+    "relacion": "tiene mortalidad",
+    "valor": "54.5%"
+  },
+  {
+    "entidad": "Influenza H1N1",
+    "relacion": "tiene mortalidad",
+    "valor": "36.8%"
+  },
+  {
+    "entidad": "otras influenzas",
+    "relacion": "tiene mortalidad",
+    "valor": "30.4%"
+  },
+  {
+    "entidad": "VRS",
+    "relacion": "tiene mortalidad",
+    "valor": "25%"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "tiene mortalidad",
+    "valor": "23.6%"
+  },
+  {
+    "entidad": "análisis univariado",
+    "relacion": "utilizado para",
+    "valor": "evaluar mortalidad a 30 días"
+  },
+  {
+    "entidad": "variables clínicas y de laboratorio",
+    "relacion": "asociadas con",
+    "valor": "mortalidad a 30 días"
+  },
+  {
+    "entidad": "sociodemográficas",
+    "relacion": "incluyen",
+    "valor": "sexo, edad, fumador"
+  },
+  {
+    "entidad": "comorbilidades",
+    "relacion": "incluyen",
+    "valor": "HTA, DM, obesidad, ECV, EPOC, asma, ERC, DHC, EAI, inmunosupresión"
+  },
+  {
+    "entidad": "síntomas",
+    "relacion": "incluyen",
+    "valor": "fiebre, cefalea, odinofagia, tos, mialgia, taquipnea, disnea, cianosis, hipoxemia, hipotensión"
+  },
+  {
+    "entidad": "laboratorio",
+    "relacion": "incluye",
+    "valor": "Na+, K+, creatinina, lactato, PCR, leucocitos, plaquetas, hematocrito, bilirrubina, GOT, GPT, albúmina, INR, BUN, PaO2, PaCO2"
+  },
+  {
+    "entidad": "Osteosarcoma",
+    "relacion": "es",
+    "valor": "el tumor óseo primario maligno más frecuente"
+  },
+  {
+    "entidad": "Osteosarcoma",
+    "relacion": "fue incorporado en",
+    "valor": "el plan de garantías explícitas en salud (GES) en Chile en 2014"
+  },
+  {
+    "entidad": "GES",
+    "relacion": "garantiza",
+    "valor": "diagnóstico, tratamiento y rehabilitación"
+  },
+  {
+    "entidad": "Instituto Traumatológico de Santiago",
+    "relacion": "es",
+    "valor": "el centro de referencia nacional para osteosarcoma"
+  },
+  {
+    "entidad": "pacientes mayores de 15 años",
+    "relacion": "reciben",
+    "valor": "atención especializada en oncología ortopédica"
+  },
+  {
+    "entidad": "Osteosarcoma",
+    "relacion": "afecta a",
+    "valor": "la población mayor de 15 años"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "es un",
+    "valor": "factor pronóstico independiente"
+  },
+  {
+    "entidad": "metástasis al momento del diagnóstico",
+    "relacion": "es un",
+    "valor": "factor pronóstico independiente"
+  },
+  {
+    "entidad": "quimioterapia",
+    "relacion": "se utiliza en",
+    "valor": "el tratamiento del osteosarcoma"
+  },
+  {
+    "entidad": "cirugía oncológica",
+    "relacion": "se realiza",
+    "valor": "en el tratamiento del osteosarcoma"
+  },
+  {
+    "entidad": "complicaciones",
+    "relacion": "incluyen",
+    "valor": "infección periprotésica"
+  },
+  {
+    "entidad": "sobrevida a 5 años",
+    "relacion": "es",
+    "valor": "36%"
+  },
+  {
+    "entidad": "pacientes sin metástasis",
+    "relacion": "tienen",
+    "valor": "una sobrevida a 5 años de 54%"
+  },
+  {
+    "entidad": "pacientes con metástasis",
+    "relacion": "tienen",
+    "valor": "una sobrevida a 5 años de 11%"
+  },
+  {
+    "entidad": "Osteosarcoma",
+    "relacion": "presenta",
+    "valor": "una distribución bimodal en la edad de presentación"
+  },
+  {
+    "entidad": "tratamiento multidisciplinario",
+    "relacion": "incluye",
+    "valor": "quimioterapia neoadyuvante, cirugía de resección tumoral y quimioterapia postoperatoria"
+  },
+  {
+    "entidad": "Instituto Traumatológico de Santiago",
+    "relacion": "fue asignado como",
+    "valor": "centro de referencia nacional"
+  },
+  {
+    "entidad": "Osteosarcoma",
+    "relacion": "se caracteriza por",
+    "valor": "producción de matriz osteoide inmadura y células fusiformes"
+  },
+  {
+    "entidad": "Osteosarcoma",
+    "relacion": "es tratado por",
+    "valor": "un equipo de expertos en cirugías de sarcomas"
+  }
+]

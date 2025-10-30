@@ -1,0 +1,437 @@
+[
+  {
+    "entidad": "Zileutón",
+    "relacion": "trata",
+    "valor": "dificultades respiratorias, opresión en el pecho, sibilancia y tos causada por el asma"
+  },
+  {
+    "entidad": "Zileutón",
+    "relacion": "uso",
+    "valor": "tabletas y tabletas de liberación prolongada, administrarse por vía oral"
+  },
+  {
+    "entidad": "Zileutón",
+    "relacion": "se_administra_via",
+    "valor": "vía oral"
+  },
+  {
+    "entidad": "Zileutón",
+    "relacion": "olvido",
+    "valor": "tome la dosis que omitió tan pronto como lo recuerde, omita la que olvidó si es casi hora de la siguiente dosis"
+  },
+  {
+    "entidad": "Zileutón",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Zileutón",
+    "relacion": "efecto_secundario",
+    "valor": "acidez estomacal"
+  },
+  {
+    "entidad": "Zileutón",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Zileutón",
+    "relacion": "efecto_secundario",
+    "valor": "dolor muscular"
+  },
+  {
+    "entidad": "Zileutón",
+    "relacion": "efecto_secundario",
+    "valor": "irritación de nariz y garganta"
+  },
+  {
+    "entidad": "Zileutón",
+    "relacion": "efecto_secundario",
+    "valor": "dolor o plenitud en la cara"
+  },
+  {
+    "entidad": "Zileutón",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Zileutón",
+    "relacion": "efecto_secundario",
+    "valor": "urticaria"
+  },
+  {
+    "entidad": "Zileutón",
+    "relacion": "efecto_secundario",
+    "valor": "dolor en la parte superior derecha del estómago"
+  },
+  {
+    "entidad": "Zileutón",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Zileutón",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Zileutón",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio excesivo"
+  },
+  {
+    "entidad": "Zileutón",
+    "relacion": "efecto_secundario",
+    "valor": "picazón"
+  },
+  {
+    "entidad": "Zileutón",
+    "relacion": "efecto_secundario",
+    "valor": "coloración amarillenta en la piel y los ojos"
+  },
+  {
+    "entidad": "Zileutón",
+    "relacion": "efecto_secundario",
+    "valor": "orina oscura"
+  },
+  {
+    "entidad": "Zileutón",
+    "relacion": "efecto_secundario",
+    "valor": "síntomas similares a los de la gripe"
+  },
+  {
+    "entidad": "Zileutón",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, bien cerrado, a temperatura ambiente y lejos del calor y la humedad"
+  },
+  {
+    "entidad": "Zileutón",
+    "relacion": "sobredosis",
+    "valor": "llame a la línea de ayuda de control de envenenamiento o a los servicios de emergencia"
+  },
+  {
+    "entidad": "Zileutón",
+    "relacion": "marca_comercial",
+    "valor": "Zyflo"
+  },
+  {
+    "entidad": "Zileutón",
+    "relacion": "marca_comercial",
+    "valor": "Zyflo CR"
+  },
+  {
+    "entidad": "Zileutón",
+    "relacion": "precaucion",
+    "valor": "informe a su médico si es alérgico al zileutón o a otros medicamentos"
+  },
+  {
+    "entidad": "Zileutón",
+    "relacion": "precaucion",
+    "valor": "informe a su médico si tiene enfermedad hepática"
+  },
+  {
+    "entidad": "Zileutón",
+    "relacion": "precaucion",
+    "valor": "informe a su médico si está embarazada o amamantando"
+  },
+  {
+    "entidad": "Zileutón",
+    "relacion": "precaucion",
+    "valor": "consulte a su médico sobre el consumo seguro de alcohol"
+  },
+  {
+    "entidad": "Zileutón",
+    "relacion": "precaucion",
+    "valor": "llame a su médico si experimenta cambios en su salud mental"
+  },
+  {
+    "entidad": "Zolmitriptán",
+    "relacion": "trata",
+    "valor": "aliviar los síntomas de las migrañas"
+  },
+  {
+    "entidad": "Zolmitriptán",
+    "relacion": "uso",
+    "valor": "tomar al primer síntoma de migraña"
+  },
+  {
+    "entidad": "Zolmitriptán",
+    "relacion": "se_administra_via",
+    "valor": "vía oral"
+  },
+  {
+    "entidad": "Zolmitriptán",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Zolmitriptán",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos actuales"
+  },
+  {
+    "entidad": "Zolmitriptán",
+    "relacion": "precaucion",
+    "valor": "no tomar con otros agonistas selectivos de serotonina"
+  },
+  {
+    "entidad": "Zolmitriptán",
+    "relacion": "precaucion",
+    "valor": "consultar al médico si tiene antecedentes de enfermedades cardíacas"
+  },
+  {
+    "entidad": "Zolmitriptán",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta a menos que lo indique el médico"
+  },
+  {
+    "entidad": "Zolmitriptán",
+    "relacion": "efecto_secundario",
+    "valor": "somnolencia"
+  },
+  {
+    "entidad": "Zolmitriptán",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Zolmitriptán",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Zolmitriptán",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original y cerrado herméticamente"
+  },
+  {
+    "entidad": "Zolmitriptán",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Zolmitriptán",
+    "relacion": "marca_comercial",
+    "valor": "Zomig"
+  },
+  {
+    "entidad": "Zolmitriptán",
+    "relacion": "marca_comercial",
+    "valor": "Zomig-ZMT"
+  },
+  {
+    "entidad": "Zonisamida",
+    "relacion": "trata",
+    "valor": "ciertos tipos de convulsiones"
+  },
+  {
+    "entidad": "Zonisamida",
+    "relacion": "uso",
+    "valor": "cápsulas para administrarse por vía oral, una o dos veces al día con o sin alimentos"
+  },
+  {
+    "entidad": "Zonisamida",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Zonisamida",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos que se toman"
+  },
+  {
+    "entidad": "Zonisamida",
+    "relacion": "dieta",
+    "valor": "consultar sobre comer y tomar jugo de pomelo"
+  },
+  {
+    "entidad": "Zonisamida",
+    "relacion": "olvido",
+    "valor": "consultar al médico qué hacer si se olvida una dosis"
+  },
+  {
+    "entidad": "Zonisamida",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Zonisamida",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Zonisamida",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de peso"
+  },
+  {
+    "entidad": "Zonisamida",
+    "relacion": "efecto_secundario",
+    "valor": "cambios en el gusto"
+  },
+  {
+    "entidad": "Zonisamida",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Zonisamida",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Zonisamida",
+    "relacion": "efecto_secundario",
+    "valor": "acidez estomacal"
+  },
+  {
+    "entidad": "Zonisamida",
+    "relacion": "efecto_secundario",
+    "valor": "boca seca"
+  },
+  {
+    "entidad": "Zonisamida",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Zonisamida",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Zonisamida",
+    "relacion": "efecto_secundario",
+    "valor": "confusión"
+  },
+  {
+    "entidad": "Zonisamida",
+    "relacion": "efecto_secundario",
+    "valor": "irritabilidad"
+  },
+  {
+    "entidad": "Zonisamida",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para conciliar el sueño"
+  },
+  {
+    "entidad": "Zonisamida",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad con la memoria"
+  },
+  {
+    "entidad": "Zonisamida",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Zonisamida",
+    "relacion": "efecto_secundario",
+    "valor": "fiebre"
+  },
+  {
+    "entidad": "Zonisamida",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, bien cerrado y fuera del alcance de los niños, a temperatura ambiente y lejos de la luz, calor y humedad"
+  },
+  {
+    "entidad": "Zonisamida",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento o a los servicios de emergencia"
+  },
+  {
+    "entidad": "Zuranolona",
+    "relacion": "trata",
+    "valor": "depresión posparto"
+  },
+  {
+    "entidad": "Zuranolona",
+    "relacion": "uso",
+    "valor": "cápsulas para tomar por vía oral una vez al día por la noche durante 14 días"
+  },
+  {
+    "entidad": "Zuranolona",
+    "relacion": "se_administra_via",
+    "valor": "vía oral"
+  },
+  {
+    "entidad": "Zuranolona",
+    "relacion": "dieta",
+    "valor": "comer con un alimento que contenga grasa (de 400 a 1,000 calorías)"
+  },
+  {
+    "entidad": "Zuranolona",
+    "relacion": "olvido",
+    "valor": "omita la dosis que le faltó y continúe con su programa de dosificación habitual"
+  },
+  {
+    "entidad": "Zuranolona",
+    "relacion": "efecto_secundario",
+    "valor": "somnolencia"
+  },
+  {
+    "entidad": "Zuranolona",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Zuranolona",
+    "relacion": "efecto_secundario",
+    "valor": "confusión"
+  },
+  {
+    "entidad": "Zuranolona",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Zuranolona",
+    "relacion": "efecto_secundario",
+    "valor": "boca seca"
+  },
+  {
+    "entidad": "Zuranolona",
+    "relacion": "efecto_secundario",
+    "valor": "congestión nasal"
+  },
+  {
+    "entidad": "Zuranolona",
+    "relacion": "efecto_secundario",
+    "valor": "debilidad"
+  },
+  {
+    "entidad": "Zuranolona",
+    "relacion": "efecto_secundario",
+    "valor": "falta de energía"
+  },
+  {
+    "entidad": "Zuranolona",
+    "relacion": "efecto_secundario",
+    "valor": "dolor o contracciones musculares"
+  },
+  {
+    "entidad": "Zuranolona",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de dientes"
+  },
+  {
+    "entidad": "Zuranolona",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, bien cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Zuranolona",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente y lejos del calor excesivo y la humedad"
+  },
+  {
+    "entidad": "Zuranolona",
+    "relacion": "sobredosis",
+    "valor": "llame a la línea de ayuda de control de envenenamiento al 1-800-222-1222"
+  },
+  {
+    "entidad": "Zuranolona",
+    "relacion": "marca_comercial",
+    "valor": "Zurzuvae ®"
+  }
+]

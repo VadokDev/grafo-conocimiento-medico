@@ -1,0 +1,397 @@
+[
+  {
+    "entidad": "leiomiomatosis benigna metastásica",
+    "relacion": "es un",
+    "valor": "trastorno raro"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "son afectadas por",
+    "valor": "leiomiomatosis benigna metastásica"
+  },
+  {
+    "entidad": "histerectomía",
+    "relacion": "es un",
+    "valor": "procedimiento quirúrgico común previo"
+  },
+  {
+    "entidad": "ecotomografía abdominal",
+    "relacion": "confirma",
+    "valor": "presencia de masas intraperitoneales"
+  },
+  {
+    "entidad": "masas intraperitoneales",
+    "relacion": "son similares a",
+    "valor": "leiomiomas uterinos"
+  },
+  {
+    "entidad": "cirugía laparoscópica",
+    "relacion": "se utiliza para",
+    "valor": "extirpar masas"
+  },
+  {
+    "entidad": "anatomía patológica",
+    "relacion": "confirma",
+    "valor": "diagnóstico de leiomioma"
+  },
+  {
+    "entidad": "estrógeno y progesterona",
+    "relacion": "juegan un rol en",
+    "valor": "desarrollo de leiomiomas"
+  },
+  {
+    "entidad": "morcelación",
+    "relacion": "puede causar",
+    "valor": "diseminación de células tumorales"
+  },
+  {
+    "entidad": "diagnóstico diferencial",
+    "relacion": "incluye",
+    "valor": "carcinomatosis peritoneal"
+  },
+  {
+    "entidad": "tratamiento",
+    "relacion": "es generalmente",
+    "valor": "conservador"
+  },
+  {
+    "entidad": "hormona liberadora de gonadotropina (GnRH)",
+    "relacion": "es un",
+    "valor": "tratamiento hormonal"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "buenas condiciones postoperatorias"
+  },
+  {
+    "entidad": "leiomiomatosis benigna metastásica",
+    "relacion": "es un",
+    "valor": "hallazgo infrecuente"
+  },
+  {
+    "entidad": "histología",
+    "relacion": "muestra",
+    "valor": "hipercelularidad en miomas"
+  },
+  {
+    "entidad": "síndrome genético",
+    "relacion": "puede estar relacionado con",
+    "valor": "leiomiomatosis"
+  },
+  {
+    "entidad": "diagnóstico definitivo",
+    "relacion": "requiere",
+    "valor": "estudio histológico"
+  },
+  {
+    "entidad": "Cochliomyia hominivorax",
+    "relacion": "causa",
+    "valor": "miasis cutánea"
+  },
+  {
+    "entidad": "miasis cutánea",
+    "relacion": "asociada a",
+    "valor": "dermatitis seborreica"
+  },
+  {
+    "entidad": "Dra. Perla Calderón H.",
+    "relacion": "correspondencia a",
+    "valor": "servicio de Dermatología, Hospital clínico, Universidad de Chile"
+  },
+  {
+    "entidad": "Hospital clínico Universidad de Chile",
+    "relacion": "pertenece a",
+    "valor": "Universidad de Chile"
+  },
+  {
+    "entidad": "Universidad de Chile",
+    "relacion": "tiene",
+    "valor": "Departamento de Dermatología"
+  },
+  {
+    "entidad": "Universidad de Chile",
+    "relacion": "tiene",
+    "valor": "laboratorio de Parasitología Básico-clínico"
+  },
+  {
+    "entidad": "miasis",
+    "relacion": "es una",
+    "valor": "infestación de tejidos por larvas de dípteros"
+  },
+  {
+    "entidad": "Cochliomyia hominivorax",
+    "relacion": "se encuentra en",
+    "valor": "Norteamérica hasta Argentina"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "historia de dermatitis seborreica"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "viajó a",
+    "valor": "Brasil"
+  },
+  {
+    "entidad": "larvas",
+    "relacion": "fueron analizadas por",
+    "valor": "Laboratorio de Parasitología Básico-Clínico"
+  },
+  {
+    "entidad": "ivermectina",
+    "relacion": "es un",
+    "valor": "antiparasitario sintético"
+  },
+  {
+    "entidad": "miasis cutánea",
+    "relacion": "es tratada con",
+    "valor": "extracción manual de larvas"
+  },
+  {
+    "entidad": "miasis cutánea",
+    "relacion": "puede ser tratada con",
+    "valor": "oclusiones de áreas afectadas"
+  },
+  {
+    "entidad": "Cochliomyia hominivorax",
+    "relacion": "puede infestar",
+    "valor": "heridas humanas"
+  },
+  {
+    "entidad": "factores de riesgo",
+    "relacion": "incluyen",
+    "valor": "heridas, mala higiene personal, edades extremas"
+  },
+  {
+    "entidad": "Laboratorio Parasitología Básico-Clínico",
+    "relacion": "es un",
+    "valor": "centro de referencia en Chile"
+  },
+  {
+    "entidad": "Instituto de Salud Pública de Chile",
+    "relacion": "es un",
+    "valor": "centro de referencia en Chile"
+  },
+  {
+    "entidad": "Retracción palpebral",
+    "relacion": "es causada por",
+    "valor": "enfermedades neurológicas"
+  },
+  {
+    "entidad": "Creutzfeldt-Jakob disease (CJD)",
+    "relacion": "causa",
+    "valor": "retractación palpebral bilateral"
+  },
+  {
+    "entidad": "Infarto tálamo-mesencefálico",
+    "relacion": "asociado con",
+    "valor": "retractación palpebral unilateral"
+  },
+  {
+    "entidad": "Infarto protuberancial",
+    "relacion": "causa",
+    "valor": "retractación palpebral unilateral"
+  },
+  {
+    "entidad": "músculo elevador del párpado superior",
+    "relacion": "es inervado por",
+    "valor": "nervio oculomotor (III par)"
+  },
+  {
+    "entidad": "músculo orbicular",
+    "relacion": "es inervado por",
+    "valor": "nervio facial"
+  },
+  {
+    "entidad": "músculo de Müller",
+    "relacion": "controla",
+    "valor": "tono de apertura palpebral"
+  },
+  {
+    "entidad": "síndrome de retracción palpebral",
+    "relacion": "fue descrito por",
+    "valor": "Collier en 1927"
+  },
+  {
+    "entidad": "retractación palpebral",
+    "relacion": "no altera",
+    "valor": "función normal del parpadeo"
+  },
+  {
+    "entidad": "enfermedad de Creutzfeldt-Jakob",
+    "relacion": "se asocia con",
+    "valor": "ceguera cortical"
+  },
+  {
+    "entidad": "lesiones vasculares del cerebro",
+    "relacion": "causan",
+    "valor": "retractación palpebral"
+  },
+  {
+    "entidad": "retractación palpebral",
+    "relacion": "se mantiene después de",
+    "valor": "mejoría de síntomas originales"
+  },
+  {
+    "entidad": "retractación palpebral",
+    "relacion": "es un fenómeno",
+    "valor": "poco estudiado"
+  },
+  {
+    "entidad": "sistema nervioso",
+    "relacion": "incluye",
+    "valor": "mecanismos supranucleares"
+  },
+  {
+    "entidad": "sistema nervioso",
+    "relacion": "afecta",
+    "valor": "coordinación oculomotora"
+  },
+  {
+    "entidad": "Rituximab",
+    "relacion": "es un",
+    "valor": "anticuerpo monoclonal quimérico anti-CD20"
+  },
+  {
+    "entidad": "Rituximab",
+    "relacion": "se utiliza en",
+    "valor": "tratamiento de neoplasias hematológicas"
+  },
+  {
+    "entidad": "Rituximab",
+    "relacion": "se utiliza en",
+    "valor": "artritis reumatoide refractaria"
+  },
+  {
+    "entidad": "Rituximab",
+    "relacion": "se utiliza en",
+    "valor": "lupus eritematoso sistémico"
+  },
+  {
+    "entidad": "vasculitis asociadas a ANCA",
+    "relacion": "es tratada con",
+    "valor": "Rituximab"
+  },
+  {
+    "entidad": "tormenta de citoquinas",
+    "relacion": "es una",
+    "valor": "reacción adversa inhabitual"
+  },
+  {
+    "entidad": "shock",
+    "relacion": "es una",
+    "valor": "reacción adversa a Rituximab"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "tiene",
+    "valor": "81 años"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "es diagnosticado con",
+    "valor": "vasculitis asociada a ANCA"
+  },
+  {
+    "entidad": "Rituximab",
+    "relacion": "se administra",
+    "valor": "500 mg intravenosamente"
+  },
+  {
+    "entidad": "sintomatología",
+    "relacion": "incluye",
+    "valor": "fiebre, escalofríos, tos, malestar"
+  },
+  {
+    "entidad": "sintomatología",
+    "relacion": "se presenta",
+    "valor": "24 horas después de la infusión"
+  },
+  {
+    "entidad": "sintomatología",
+    "relacion": "se resuelve con",
+    "valor": "corticosteroides"
+  },
+  {
+    "entidad": "Rituximab",
+    "relacion": "se asocia con",
+    "valor": "tormenta de citoquinas"
+  },
+  {
+    "entidad": "corticosteroides",
+    "relacion": "se utilizan para",
+    "valor": "lograr remisión de síntomas"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "pancitopenia severa"
+  },
+  {
+    "entidad": "ciclofosfamida",
+    "relacion": "se intenta usar",
+    "valor": "pero se suspende por pancitopenia"
+  },
+  {
+    "entidad": "Rituximab",
+    "relacion": "se considera",
+    "valor": "opción terapéutica en vasculitis"
+  },
+  {
+    "entidad": "Rituximab",
+    "relacion": "demuestra",
+    "valor": "no inferioridad a ciclofosfamida"
+  },
+  {
+    "entidad": "efectos adversos",
+    "relacion": "son",
+    "valor": "frecuentes y generalmente leves"
+  },
+  {
+    "entidad": "efectos adversos",
+    "relacion": "pueden incluir",
+    "valor": "cefalea, fiebre, calofríos"
+  },
+  {
+    "entidad": "reacciones severas",
+    "relacion": "pueden incluir",
+    "valor": "shock cardiogénico, broncoespasmo"
+  },
+  {
+    "entidad": "tormenta de citoquinas",
+    "relacion": "se asocia con",
+    "valor": "liberación masiva de citoquinas"
+  },
+  {
+    "entidad": "IFN-γ",
+    "relacion": "es un",
+    "valor": "tipo de citoquina liberada"
+  },
+  {
+    "entidad": "IL-6",
+    "relacion": "es un",
+    "valor": "tipo de citoquina liberada"
+  },
+  {
+    "entidad": "IL-8",
+    "relacion": "es un",
+    "valor": "tipo de citoquina liberada"
+  },
+  {
+    "entidad": "TNF-α",
+    "relacion": "es un",
+    "valor": "tipo de citoquina liberada"
+  },
+  {
+    "entidad": "pacientes oncológicos",
+    "relacion": "se asocian con",
+    "valor": "tormenta de citoquinas"
+  },
+  {
+    "entidad": "monitorización estricta",
+    "relacion": "puede disminuir",
+    "valor": "incidencia de eventos adversos"
+  }
+]

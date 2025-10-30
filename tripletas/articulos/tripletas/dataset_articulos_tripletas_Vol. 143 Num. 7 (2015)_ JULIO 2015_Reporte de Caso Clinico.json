@@ -1,0 +1,157 @@
+[
+  {
+    "entidad": "Síndrome de hipoglicemia autoinmune",
+    "relacion": "es un",
+    "valor": "trastorno endocrino"
+  },
+  {
+    "entidad": "Insulin autoimmune syndrome (IAS)",
+    "relacion": "es caracterizado por",
+    "valor": "hipoglicemia espontánea y altos niveles de insulina"
+  },
+  {
+    "entidad": "autoanticuerpos contra insulina",
+    "relacion": "están presentes en",
+    "valor": "pacientes con IAS"
+  },
+  {
+    "entidad": "pacientes con IAS",
+    "relacion": "no han sido expuestos a",
+    "valor": "insulina exógena"
+  },
+  {
+    "entidad": "dieta restringida en carbohidratos",
+    "relacion": "es un tratamiento para",
+    "valor": "hipoglicemia autoinmune"
+  },
+  {
+    "entidad": "acarbosa",
+    "relacion": "es un tratamiento para",
+    "valor": "hipoglicemia autoinmune"
+  },
+  {
+    "entidad": "prednisona",
+    "relacion": "es un tratamiento para",
+    "valor": "hipoglicemia autoinmune"
+  },
+  {
+    "entidad": "HLA",
+    "relacion": "está asociado con",
+    "valor": "predisposición genética a IAS"
+  },
+  {
+    "entidad": "HLA-DRB1*0406",
+    "relacion": "es un",
+    "valor": "haplotipo de riesgo para IAS"
+  },
+  {
+    "entidad": "insulina",
+    "relacion": "es elevada en",
+    "valor": "pacientes con hipoglicemia autoinmune"
+  },
+  {
+    "entidad": "polietilenglicol",
+    "relacion": "se utiliza para",
+    "valor": "precipitar anticuerpos antiinsulina"
+  },
+  {
+    "entidad": "monitoreo continuo de glucosa",
+    "relacion": "se propone para",
+    "valor": "evaluar la efectividad del tratamiento en IAS"
+  },
+  {
+    "entidad": "síndrome de Sjögren",
+    "relacion": "fue diagnosticado en",
+    "valor": "una paciente con IAS"
+  },
+  {
+    "entidad": "carbamazepina",
+    "relacion": "fue utilizado en",
+    "valor": "el tratamiento de un paciente antes de ser diagnosticado con IAS"
+  },
+  {
+    "entidad": "insulinoma",
+    "relacion": "fue descartado en",
+    "valor": "pacientes con hipoglicemia autoinmune"
+  },
+  {
+    "entidad": "Tumor inflamatorio miofibroblástico",
+    "relacion": "es un",
+    "valor": "tipo de neoplasia"
+  },
+  {
+    "entidad": "Infliximab",
+    "relacion": "es un",
+    "valor": "tratamiento"
+  },
+  {
+    "entidad": "Mujer de 30 años",
+    "relacion": "presenta",
+    "valor": "dolor abdominal y distensión"
+  },
+  {
+    "entidad": "Tomografía axial computada",
+    "relacion": "revela",
+    "valor": "lesiones nodulares peritoneales"
+  },
+  {
+    "entidad": "Biopsia quirúrgica",
+    "relacion": "reporta",
+    "valor": "infiltrado de miofibroblastos y células inflamatorias"
+  },
+  {
+    "entidad": "Inmunohistoquímica",
+    "relacion": "es consistente con",
+    "valor": "diagnóstico de TIM"
+  },
+  {
+    "entidad": "NSAIDs y glucocorticoides",
+    "relacion": "son",
+    "valor": "opciones de tratamiento"
+  },
+  {
+    "entidad": "Infliximab",
+    "relacion": "se utiliza en",
+    "valor": "pacientes con TIM irresecables"
+  },
+  {
+    "entidad": "Seguimiento a 10 meses",
+    "relacion": "muestra",
+    "valor": "mejoría clínica y radiológica"
+  },
+  {
+    "entidad": "Tumor inflamatorio miofibroblástico",
+    "relacion": "puede ser",
+    "valor": "benigno o maligno"
+  },
+  {
+    "entidad": "Tratamiento quirúrgico",
+    "relacion": "es",
+    "valor": "opción de elección en TIM"
+  },
+  {
+    "entidad": "Infliximab",
+    "relacion": "induce",
+    "valor": "apoptosis celular"
+  },
+  {
+    "entidad": "Tumor inflamatorio miofibroblástico",
+    "relacion": "requiere",
+    "valor": "diferenciación de peritoneal carcinomatosis"
+  },
+  {
+    "entidad": "Dra. Daniela Grünholz Gambi",
+    "relacion": "es",
+    "valor": "autora del estudio"
+  },
+  {
+    "entidad": "Hospital Militar de Santiago",
+    "relacion": "es",
+    "valor": "institución donde se realizó el estudio"
+  },
+  {
+    "entidad": "Comité de ética",
+    "relacion": "aprueba",
+    "valor": "uso de infliximab"
+  }
+]

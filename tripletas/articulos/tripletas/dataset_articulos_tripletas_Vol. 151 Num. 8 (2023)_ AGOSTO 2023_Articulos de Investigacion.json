@@ -1,0 +1,762 @@
+[
+  {
+    "entidad": "Linfoma de Hodgkin",
+    "relacion": "es",
+    "valor": "un cáncer hematológico prevalente"
+  },
+  {
+    "entidad": "Hospital Clínico Red Salud UC-Christus",
+    "relacion": "realiza",
+    "valor": "manejo del linfoma de Hodgkin"
+  },
+  {
+    "entidad": "PET CT",
+    "relacion": "es",
+    "valor": "una herramienta de diagnóstico y etapificación"
+  },
+  {
+    "entidad": "Biopsia de Médula Ósea",
+    "relacion": "es",
+    "valor": "un método de diagnóstico"
+  },
+  {
+    "entidad": "PET CT",
+    "relacion": "tiene mejor sensibilidad que",
+    "valor": "Biopsia de Médula Ósea"
+  },
+  {
+    "entidad": "Linfoma de Hodgkin",
+    "relacion": "afecta principalmente a",
+    "valor": "personas entre 15 y 35 años"
+  },
+  {
+    "entidad": "PET CT",
+    "relacion": "se considera",
+    "valor": "el estándar para la etapificación"
+  },
+  {
+    "entidad": "Ley GES-AUGE",
+    "relacion": "no incluye",
+    "valor": "PET CT para etapificación"
+  },
+  {
+    "entidad": "PET CT",
+    "relacion": "permite",
+    "valor": "modificar el tratamiento de los pacientes"
+  },
+  {
+    "entidad": "esquema ABVD",
+    "relacion": "es",
+    "valor": "el tratamiento más utilizado"
+  },
+  {
+    "entidad": "PETi",
+    "relacion": "se realiza en",
+    "valor": "84% de los pacientes"
+  },
+  {
+    "entidad": "respuesta metabólica completa",
+    "relacion": "se logra en",
+    "valor": "91,2% de PETi"
+  },
+  {
+    "entidad": "sobrevida libre de progresión (SLP)",
+    "relacion": "es",
+    "valor": "un indicador de éxito del tratamiento"
+  },
+  {
+    "entidad": "población VIH+",
+    "relacion": "tiene",
+    "valor": "una tasa de recaídas similar a la población general"
+  },
+  {
+    "entidad": "pacientes mayores de 50 años",
+    "relacion": "tienen",
+    "valor": "peor SLP en comparación con menores de 40"
+  },
+  {
+    "entidad": "Linfoma de Hodgkin",
+    "relacion": "es",
+    "valor": "una causa importante de morbilidad en Chile"
+  },
+  {
+    "entidad": "PET CT",
+    "relacion": "disminuye",
+    "valor": "la subestadificación en pacientes"
+  },
+  {
+    "entidad": "PET CT",
+    "relacion": "reduce",
+    "valor": "los efectos adversos en pacientes"
+  },
+  {
+    "entidad": "Modelo Integral de Salud Familiar y Comunitario (MAIS)",
+    "relacion": "es un",
+    "valor": "modelo de atención en salud"
+  },
+  {
+    "entidad": "Alto Hospicio",
+    "relacion": "es una",
+    "valor": "comuna en la Región de Tarapacá"
+  },
+  {
+    "entidad": "Centros de Salud Primaria",
+    "relacion": "proporciona",
+    "valor": "atención básica de salud"
+  },
+  {
+    "entidad": "usuarios de Centros de Salud",
+    "relacion": "se caracteriza por",
+    "valor": "diversidad en perfiles"
+  },
+  {
+    "entidad": "usuarios de Centros de Salud",
+    "relacion": "declara",
+    "valor": "escaso conocimiento sobre el MAIS"
+  },
+  {
+    "entidad": "Centros de Salud",
+    "relacion": "muestra",
+    "valor": "mejores indicadores de satisfacción con más información sobre el MAIS"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "afecta a",
+    "valor": "salud mental de los usuarios"
+  },
+  {
+    "entidad": "Encuesta Diagnóstico Participativo",
+    "relacion": "se aplica en",
+    "valor": "la comuna de Alto Hospicio"
+  },
+  {
+    "entidad": "Municipalidad de Alto Hospicio",
+    "relacion": "financia",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "Centros de Salud",
+    "relacion": "requiere",
+    "valor": "clarificar perfiles de usuarios"
+  },
+  {
+    "entidad": "usuarios",
+    "relacion": "participan en",
+    "valor": "organizaciones comunitarias"
+  },
+  {
+    "entidad": "satisfacción de usuarios",
+    "relacion": "incrementa con",
+    "valor": "el conocimiento del MAIS"
+  },
+  {
+    "entidad": "Centros de Salud",
+    "relacion": "enfrentan",
+    "valor": "dificultades en salud mental durante la pandemia"
+  },
+  {
+    "entidad": "Alto Hospicio",
+    "relacion": "tiene",
+    "valor": "bajos índices de calidad de vida urbana"
+  },
+  {
+    "entidad": "Centros de Salud",
+    "relacion": "se dirigen a",
+    "valor": "la atención integral de las personas"
+  },
+  {
+    "entidad": "usuarios",
+    "relacion": "reportan",
+    "valor": "diversidad en condiciones de salud"
+  },
+  {
+    "entidad": "Centros de Salud",
+    "relacion": "deben compartir",
+    "valor": "buenas prácticas entre ellos"
+  },
+  {
+    "entidad": "sedentarismo",
+    "relacion": "afecta a",
+    "valor": "niveles de adiposidad"
+  },
+  {
+    "entidad": "gen FTO",
+    "relacion": "asociado a",
+    "valor": "obesidad"
+  },
+  {
+    "entidad": "población chilena",
+    "relacion": "presenta",
+    "valor": "predisposición genética a la obesidad"
+  },
+  {
+    "entidad": "polimorfismo rs9939609",
+    "relacion": "modifica",
+    "valor": "asociación entre sedentarismo y adiposidad"
+  },
+  {
+    "entidad": "estudio GENADIO",
+    "relacion": "incluye",
+    "valor": "409 participantes"
+  },
+  {
+    "entidad": "marcadores de adiposidad",
+    "relacion": "incluyen",
+    "valor": "peso corporal, IMC, perímetro de cintura, masa grasa"
+  },
+  {
+    "entidad": "acelerómetros",
+    "relacion": "utilizados para medir",
+    "valor": "comportamientos sedentarios"
+  },
+  {
+    "entidad": "genotipo FTO",
+    "relacion": "asociado a",
+    "valor": "mayor adiposidad"
+  },
+  {
+    "entidad": "variante de riesgo del gen FTO",
+    "relacion": "aumenta",
+    "valor": "niveles de adiposidad"
+  },
+  {
+    "entidad": "tiempo sedente",
+    "relacion": "incrementa",
+    "valor": "peso corporal y otros marcadores de adiposidad"
+  },
+  {
+    "entidad": "individuos con alelo de riesgo (AA)",
+    "relacion": "presentan",
+    "valor": "mayores niveles de adiposidad"
+  },
+  {
+    "entidad": "individuos con alelo protector (TT)",
+    "relacion": "presentan",
+    "valor": "menores niveles de adiposidad"
+  },
+  {
+    "entidad": "sedentarismo",
+    "relacion": "asociado a",
+    "valor": "aumento de factores de riesgo cardiovascular"
+  },
+  {
+    "entidad": "recomendaciones nacionales de actividad física",
+    "relacion": "deben incluir",
+    "valor": "reducción de tiempo sedente"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "aporta evidencia sobre",
+    "valor": "interacción entre gen FTO y tiempo sedente"
+  },
+  {
+    "entidad": "población chilena",
+    "relacion": "presenta",
+    "valor": "alta prevalencia de obesidad"
+  },
+  {
+    "entidad": "personas mayores chilenas",
+    "relacion": "son",
+    "valor": "una población vulnerable"
+  },
+  {
+    "entidad": "percepción de soledad",
+    "relacion": "afecta a",
+    "valor": "personas mayores"
+  },
+  {
+    "entidad": "baja percepción de apoyo social",
+    "relacion": "asocia con",
+    "valor": "mayor percepción de soledad"
+  },
+  {
+    "entidad": "síntomas depresivos",
+    "relacion": "asocia con",
+    "valor": "mayor percepción de soledad"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "asocia con",
+    "valor": "percepción de soledad"
+  },
+  {
+    "entidad": "estrategias preventivas",
+    "relacion": "pueden mejorar",
+    "valor": "bienestar de las personas mayores"
+  },
+  {
+    "entidad": "Instituto Milenio para la Investigación del Cuidado (MICARE)",
+    "relacion": "es parte de",
+    "valor": "la investigación"
+  },
+  {
+    "entidad": "Agencia Nacional de Investigación y Desarrollo (ANID)",
+    "relacion": "financia",
+    "valor": "el proyecto"
+  },
+  {
+    "entidad": "Universidad Andrés Bello",
+    "relacion": "es",
+    "valor": "la institución de la autora Alejandra-Ximena Araya"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "es",
+    "valor": "la institución de la autora Evelyn Iriarte"
+  },
+  {
+    "entidad": "Centros de Salud Familiar (CESFAM)",
+    "relacion": "son",
+    "valor": "los lugares de reclutamiento de participantes"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "aumenta por",
+    "valor": "la soledad"
+  },
+  {
+    "entidad": "contacto social",
+    "relacion": "es fundamental para",
+    "valor": "disminuir la soledad"
+  },
+  {
+    "entidad": "redes de apoyo",
+    "relacion": "son importantes para",
+    "valor": "reducir la percepción de soledad"
+  },
+  {
+    "entidad": "deterioro cognitivo",
+    "relacion": "se mide con",
+    "valor": "el MMSE de Folstein"
+  },
+  {
+    "entidad": "síntomas depresivos",
+    "relacion": "se miden con",
+    "valor": "la escala de Yesavage"
+  },
+  {
+    "entidad": "apoyo social",
+    "relacion": "se mide con",
+    "valor": "la Escala Multidimensional de Percepción de Apoyo Social (MSPSS)"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "se mide con",
+    "valor": "el instrumento WHOQoL-BREF"
+  },
+  {
+    "entidad": "percepción de soledad",
+    "relacion": "se mide con",
+    "valor": "la Escala de Soledad de 3 ítems"
+  },
+  {
+    "entidad": "tuberculosis",
+    "relacion": "es una",
+    "valor": "enfermedad"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "es el",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "2014-2018",
+    "relacion": "es el",
+    "valor": "período de estudio"
+  },
+  {
+    "entidad": "Sergio Oróstica V.",
+    "relacion": "es el",
+    "valor": "autor principal"
+  },
+  {
+    "entidad": "Carlos Sandaña S.",
+    "relacion": "es el",
+    "valor": "coautor"
+  },
+  {
+    "entidad": "farmacorresistencia",
+    "relacion": "afecta a",
+    "valor": "pacientes con tuberculosis"
+  },
+  {
+    "entidad": "tratamiento no exitoso",
+    "relacion": "es un",
+    "valor": "resultado en pacientes con tuberculosis"
+  },
+  {
+    "entidad": "recaída",
+    "relacion": "es un",
+    "valor": "factor de riesgo para farmacorresistencia"
+  },
+  {
+    "entidad": "VIH",
+    "relacion": "es un",
+    "valor": "factor de riesgo para farmacorresistencia"
+  },
+  {
+    "entidad": "extranjero",
+    "relacion": "es un",
+    "valor": "factor de riesgo para farmacorresistencia"
+  },
+  {
+    "entidad": "TB pulmonar",
+    "relacion": "es un",
+    "valor": "factor de riesgo para farmacorresistencia"
+  },
+  {
+    "entidad": "situación de calle",
+    "relacion": "es un",
+    "valor": "factor de riesgo para tratamiento no exitoso"
+  },
+  {
+    "entidad": "drogadicción",
+    "relacion": "es un",
+    "valor": "factor de riesgo para tratamiento no exitoso"
+  },
+  {
+    "entidad": "alcoholismo",
+    "relacion": "es un",
+    "valor": "factor de riesgo para tratamiento no exitoso"
+  },
+  {
+    "entidad": "no pertenecer a un pueblo indígena",
+    "relacion": "es un",
+    "valor": "factor de riesgo para tratamiento no exitoso"
+  },
+  {
+    "entidad": "sexo masculino",
+    "relacion": "es un",
+    "valor": "factor de riesgo para tratamiento no exitoso"
+  },
+  {
+    "entidad": "Ministerio de Salud (MINSAL)",
+    "relacion": "es la",
+    "valor": "institución responsable de la salud en Chile"
+  },
+  {
+    "entidad": "Programa de Control y Eliminación de la Tuberculosis (PROCET)",
+    "relacion": "es un",
+    "valor": "programa nacional"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud (OMS)",
+    "relacion": "define",
+    "valor": "términos relacionados con la tuberculosis"
+  },
+  {
+    "entidad": "Pruebas de Susceptibilidad a Drogas (PSD)",
+    "relacion": "son utilizadas en",
+    "valor": "el diagnóstico de tuberculosis"
+  },
+  {
+    "entidad": "logistic regression",
+    "relacion": "es un",
+    "valor": "método utilizado en el estudio"
+  },
+  {
+    "entidad": "estrategias específicas y personalizadas",
+    "relacion": "son necesarias para",
+    "valor": "abordar la tuberculosis"
+  },
+  {
+    "entidad": "adolescentes escolarizados",
+    "relacion": "tienen",
+    "valor": "frecuencia de consumo de alimentos"
+  },
+  {
+    "entidad": "frecuencia de consumo de alimentos",
+    "relacion": "asocia",
+    "valor": "riesgo cardiovascular"
+  },
+  {
+    "entidad": "Villavicencio",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "riesgo cardiovascular",
+    "relacion": "se clasifica en",
+    "valor": "bajo, medio y alto"
+  },
+  {
+    "entidad": "Rodríguez-Soriano y Sanjurjo",
+    "relacion": "propone",
+    "valor": "modelo de evaluación de riesgo cardiovascular"
+  },
+  {
+    "entidad": "sugary drinks",
+    "relacion": "aumenta",
+    "valor": "riesgo cardiovascular"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "presentan",
+    "valor": "mayor riesgo cardiovascular"
+  },
+  {
+    "entidad": "consumo de frutas y verduras",
+    "relacion": "se relaciona con",
+    "valor": "menor riesgo cardiovascular"
+  },
+  {
+    "entidad": "Universidad de los Llanos",
+    "relacion": "financia",
+    "valor": "la investigación"
+  },
+  {
+    "entidad": "enfermedades cardiovasculares",
+    "relacion": "son",
+    "valor": "causa de discapacidad y muerte prematura"
+  },
+  {
+    "entidad": "hábitos alimentarios poco saludables",
+    "relacion": "son comunes en",
+    "valor": "adolescentes"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "se evalúa mediante",
+    "valor": "autorreporte"
+  },
+  {
+    "entidad": "consumo de tabaco o alcohol",
+    "relacion": "se considera",
+    "valor": "factor de riesgo cardiovascular"
+  },
+  {
+    "entidad": "índice de masa corporal",
+    "relacion": "se mide para",
+    "valor": "evaluar exceso de adiposidad"
+  },
+  {
+    "entidad": "presión arterial",
+    "relacion": "se mide para",
+    "valor": "evaluar hipertensión"
+  },
+  {
+    "entidad": "colesterol total",
+    "relacion": "se evalúa para",
+    "valor": "determinar riesgo cardiovascular"
+  },
+  {
+    "entidad": "diabetes",
+    "relacion": "es un",
+    "valor": "problema de salud"
+  },
+  {
+    "entidad": "telemedicina",
+    "relacion": "incorpora",
+    "valor": "nuevas herramientas en la práctica clínica"
+  },
+  {
+    "entidad": "célula de diabetes",
+    "relacion": "pertenece a",
+    "valor": "Hospital Digital en Chile"
+  },
+  {
+    "entidad": "Hospital Digital",
+    "relacion": "ofrece",
+    "valor": "atención a través de telemedicina"
+  },
+  {
+    "entidad": "pacientes diabéticos",
+    "relacion": "son tratados por",
+    "valor": "célula de diabetes"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "constituyen",
+    "valor": "61% de los pacientes"
+  },
+  {
+    "entidad": "edad media",
+    "relacion": "es",
+    "valor": "62 años"
+  },
+  {
+    "entidad": "comorbilidades",
+    "relacion": "incluyen",
+    "valor": "hipertensión arterial y dislipidemia"
+  },
+  {
+    "entidad": "insulina",
+    "relacion": "es utilizada por",
+    "valor": "más del 80% de los pacientes"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "no es realizada por",
+    "valor": "más del 90% de los pacientes"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "afecta a",
+    "valor": "casi 55% de los adultos"
+  },
+  {
+    "entidad": "HbA1c",
+    "relacion": "es mayor a",
+    "valor": "10% en más del 45% de los adultos"
+  },
+  {
+    "entidad": "retinopatía",
+    "relacion": "es la principal complicación de",
+    "valor": "diabetes"
+  },
+  {
+    "entidad": "nefropatía",
+    "relacion": "presenta un pronóstico de",
+    "valor": "muy alto riesgo de enfermedad renal crónica en casi 45% de los diagnosticados"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "provienen de",
+    "valor": "Centros de Salud Familiar (CESFAM)"
+  },
+  {
+    "entidad": "sedentarismo",
+    "relacion": "es un hábito de",
+    "valor": "más del 90% de los pacientes"
+  },
+  {
+    "entidad": "malnutrición por exceso",
+    "relacion": "afecta a",
+    "valor": "la mayoría de los pacientes"
+  },
+  {
+    "entidad": "control metabólico",
+    "relacion": "es",
+    "valor": "deficiente en la mayoría de los pacientes"
+  },
+  {
+    "entidad": "soledad",
+    "relacion": "es un",
+    "valor": "problema de salud pública"
+  },
+  {
+    "entidad": "personas mayores",
+    "relacion": "viven en",
+    "valor": "zonas rurales"
+  },
+  {
+    "entidad": "personas mayores",
+    "relacion": "pertenecen a",
+    "valor": "grupos étnicos"
+  },
+  {
+    "entidad": "soledad",
+    "relacion": "afecta a",
+    "valor": "bienestar biopsicosocial"
+  },
+  {
+    "entidad": "soledad emocional",
+    "relacion": "es más prevalente entre",
+    "valor": "indígenas y no indígenas"
+  },
+  {
+    "entidad": "variables asociadas",
+    "relacion": "incluyen",
+    "valor": "ser mujer"
+  },
+  {
+    "entidad": "variables asociadas",
+    "relacion": "incluyen",
+    "valor": "edad"
+  },
+  {
+    "entidad": "variables asociadas",
+    "relacion": "incluyen",
+    "valor": "no tener pareja"
+  },
+  {
+    "entidad": "variables asociadas",
+    "relacion": "incluyen",
+    "valor": "vivir solo"
+  },
+  {
+    "entidad": "variables asociadas",
+    "relacion": "incluyen",
+    "valor": "disfuncionalidad familiar"
+  },
+  {
+    "entidad": "variables asociadas",
+    "relacion": "incluyen",
+    "valor": "tener problemas de salud"
+  },
+  {
+    "entidad": "proyecto FONDECYT Regular 1210021",
+    "relacion": "financiado por",
+    "valor": "Agencia Nacional de Investigación científica y tecnológica (ANID)"
+  },
+  {
+    "entidad": "escala de soledad DJGLS-6",
+    "relacion": "evalúa",
+    "valor": "soledad emocional y social"
+  },
+  {
+    "entidad": "APGAR familiar",
+    "relacion": "evalúa",
+    "valor": "funcionamiento familiar"
+  },
+  {
+    "entidad": "índice de Barthel",
+    "relacion": "evalúa",
+    "valor": "capacidad para realizar actividades de la vida diaria"
+  },
+  {
+    "entidad": "soledad",
+    "relacion": "se observa en",
+    "valor": "pueblos originarios y no indígenas"
+  },
+  {
+    "entidad": "pueblos Quechua",
+    "relacion": "tienen alta prevalencia de",
+    "valor": "soledad"
+  },
+  {
+    "entidad": "pueblos Diaguita y Rapa Nui",
+    "relacion": "tienen baja prevalencia de",
+    "valor": "soledad"
+  },
+  {
+    "entidad": "soledad emocional",
+    "relacion": "es más alta en",
+    "valor": "pueblos indígenas"
+  },
+  {
+    "entidad": "soledad social",
+    "relacion": "es más alta en",
+    "valor": "pueblos Colla y Huilliche"
+  },
+  {
+    "entidad": "muestra del estudio",
+    "relacion": "incluye",
+    "valor": "1,692 personas mayores"
+  },
+  {
+    "entidad": "Universidad Alberto Hurtado",
+    "relacion": "es parte de",
+    "valor": "Departamento de Trabajo Social"
+  },
+  {
+    "entidad": "Universidad Complutense de Madrid",
+    "relacion": "es parte de",
+    "valor": "Instituto Universitario de Desarrollo y Cooperación (IUDC-UCM)"
+  },
+  {
+    "entidad": "Consejo Superior de Investigaciones Científicas (CSIC)",
+    "relacion": "es parte de",
+    "valor": "Instituto de Economía, Geografía y Demografía"
+  },
+  {
+    "entidad": "Universidad de La Frontera",
+    "relacion": "es parte de",
+    "valor": "Departamento de Trabajo Social"
+  },
+  {
+    "entidad": "Universidad de Barcelona",
+    "relacion": "es parte de",
+    "valor": "Departamento de Trabajo Social"
+  }
+]

@@ -1,0 +1,927 @@
+[
+  {
+    "entidad": "Cáncer de mama",
+    "relacion": "es",
+    "valor": "la primera causa de muerte asociada a neoplasias en mujeres chilenas"
+  },
+  {
+    "entidad": "Edad",
+    "relacion": "es",
+    "valor": "el principal factor de riesgo para el desarrollo de cáncer de mama"
+  },
+  {
+    "entidad": "Cáncer de mama",
+    "relacion": "afecta a",
+    "valor": "mujeres adultas mayores"
+  },
+  {
+    "entidad": "Cáncer de mama",
+    "relacion": "se caracteriza por",
+    "valor": "síntomas o hallazgos anormales en el examen físico"
+  },
+  {
+    "entidad": "Mamografía de control",
+    "relacion": "detecta",
+    "valor": "tumores más pequeños en etapa I"
+  },
+  {
+    "entidad": "Tumores luminales",
+    "relacion": "son",
+    "valor": "el tipo patológico más frecuente en cáncer de mama"
+  },
+  {
+    "entidad": "Sobrevida global",
+    "relacion": "es mejor para",
+    "valor": "tumores luminales"
+  },
+  {
+    "entidad": "Radioterapia",
+    "relacion": "es administrada a",
+    "valor": "pacientes tras mastectomía"
+  },
+  {
+    "entidad": "Co-morbilidades",
+    "relacion": "son comunes en",
+    "valor": "mujeres adultas mayores con cáncer de mama"
+  },
+  {
+    "entidad": "Cáncer de mama",
+    "relacion": "es la causa de muerte en",
+    "valor": "43% de las pacientes"
+  },
+  {
+    "entidad": "Tamoxifeno",
+    "relacion": "es utilizado como",
+    "valor": "tratamiento adyuvante en cáncer de mama"
+  },
+  {
+    "entidad": "Cáncer de mama",
+    "relacion": "se diagnostica en",
+    "valor": "etapas más avanzadas en mujeres adultas mayores"
+  },
+  {
+    "entidad": "Radioterapia",
+    "relacion": "es completada sin",
+    "valor": "interrupciones por las pacientes"
+  },
+  {
+    "entidad": "Toxicidad aguda",
+    "relacion": "es más frecuente en",
+    "valor": "radioterapia"
+  },
+  {
+    "entidad": "Mamografía preventiva",
+    "relacion": "mejora",
+    "valor": "la sobrevida en mujeres adultas mayores"
+  },
+  {
+    "entidad": "Clasificación clínico-patológica",
+    "relacion": "se correlaciona con",
+    "valor": "la evolución clínica de las pacientes"
+  },
+  {
+    "entidad": "Cáncer de mama",
+    "relacion": "es asociado a",
+    "valor": "el envejecimiento"
+  },
+  {
+    "entidad": "Cáncer de mama",
+    "relacion": "requiere",
+    "valor": "estudios específicos para adultos mayores"
+  },
+  {
+    "entidad": "hipertensión arterial",
+    "relacion": "causa",
+    "valor": "hipertrofia ventricular izquierda"
+  },
+  {
+    "entidad": "hipertrofia ventricular izquierda",
+    "relacion": "es un",
+    "valor": "factor de mal pronóstico"
+  },
+  {
+    "entidad": "hipertensión esencial",
+    "relacion": "es un tipo de",
+    "valor": "hipertensión arterial"
+  },
+  {
+    "entidad": "hipertensión secundaria",
+    "relacion": "es un tipo de",
+    "valor": "hipertensión arterial"
+  },
+  {
+    "entidad": "daño renal",
+    "relacion": "causa",
+    "valor": "hipertensión secundaria"
+  },
+  {
+    "entidad": "ecocardiograma",
+    "relacion": "se utiliza para",
+    "valor": "evaluar la hipertrofia ventricular izquierda"
+  },
+  {
+    "entidad": "patrones de remodelación ventricular",
+    "relacion": "se evalúan en",
+    "valor": "pacientes con hipertensión"
+  },
+  {
+    "entidad": "género",
+    "relacion": "influye en",
+    "valor": "patrones de remodelación ventricular"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "influye en",
+    "valor": "patrones de remodelación ventricular"
+  },
+  {
+    "entidad": "valores de presión arterial",
+    "relacion": "influye en",
+    "valor": "patrones de remodelación ventricular"
+  },
+  {
+    "entidad": "duración de la hipertensión",
+    "relacion": "influye en",
+    "valor": "patrones de remodelación ventricular"
+  },
+  {
+    "entidad": "hipertrofia ventricular excéntrica",
+    "relacion": "es el tipo más común en",
+    "valor": "mujeres con hipertensión esencial"
+  },
+  {
+    "entidad": "hipertrofia ventricular concéntrica",
+    "relacion": "es el tipo más común en",
+    "valor": "hombres con hipertensión esencial"
+  },
+  {
+    "entidad": "hipertrofia ventricular concéntrica",
+    "relacion": "es el tipo más común en",
+    "valor": "pacientes con hipertensión secundaria"
+  },
+  {
+    "entidad": "índice de masa ventricular izquierda",
+    "relacion": "es mayor en",
+    "valor": "hombres y en el grupo de hipertensión secundaria"
+  },
+  {
+    "entidad": "función diastólica",
+    "relacion": "se altera en",
+    "valor": "grupos con hipertrofia ventricular"
+  },
+  {
+    "entidad": "ecocardiografía",
+    "relacion": "es un método",
+    "valor": "para determinar la hipertrofia ventricular izquierda"
+  },
+  {
+    "entidad": "método de Devereaux",
+    "relacion": "se utiliza para",
+    "valor": "calcular la masa ventricular izquierda"
+  },
+  {
+    "entidad": "grupo de hipertensión esencial",
+    "relacion": "consiste en",
+    "valor": "250 pacientes"
+  },
+  {
+    "entidad": "grupo de hipertensión secundaria",
+    "relacion": "consiste en",
+    "valor": "100 pacientes"
+  },
+  {
+    "entidad": "Disfunción eréctil",
+    "relacion": "es una",
+    "valor": "complicación microvascular de la diabetes mellitus"
+  },
+  {
+    "entidad": "Diabetes mellitus tipo 2",
+    "relacion": "afecta a",
+    "valor": "hombres en edad productiva"
+  },
+  {
+    "entidad": "Diabetes mellitus tipo 2",
+    "relacion": "causa",
+    "valor": "disfunción eréctil"
+  },
+  {
+    "entidad": "Control metabólico inadecuado",
+    "relacion": "aumenta el riesgo de",
+    "valor": "disfunción eréctil"
+  },
+  {
+    "entidad": "Neuropatía periférica",
+    "relacion": "provoca",
+    "valor": "disminución en la actividad de los reflejos necesarios para la erección"
+  },
+  {
+    "entidad": "Microangiopatía",
+    "relacion": "determina",
+    "valor": "disminución del aporte sanguíneo"
+  },
+  {
+    "entidad": "Oxido nítrico",
+    "relacion": "disminuye por",
+    "valor": "disminución del aporte sanguíneo"
+  },
+  {
+    "entidad": "Trastornos hormonales",
+    "relacion": "no influyen en",
+    "valor": "disfunción eréctil en pacientes con diabetes"
+  },
+  {
+    "entidad": "Mecanismos psicológicos",
+    "relacion": "están implicados en",
+    "valor": "disfunción eréctil"
+  },
+  {
+    "entidad": "Índice internacional de la función eréctil (IIFE)",
+    "relacion": "es un",
+    "valor": "cuestionario para evaluar la disfunción eréctil"
+  },
+  {
+    "entidad": "IIFE-5",
+    "relacion": "es una versión",
+    "valor": "más breve del IIFE"
+  },
+  {
+    "entidad": "Comité Local de Investigación y Ética en Investigación en Salud del IMSS",
+    "relacion": "otorga",
+    "valor": "número de registro para estudios"
+  },
+  {
+    "entidad": "Pacientes con diabetes mellitus tipo 2",
+    "relacion": "presentan",
+    "valor": "disfunción eréctil"
+  },
+  {
+    "entidad": "Tabaquismo",
+    "relacion": "aumenta la probabilidad de",
+    "valor": "disfunción eréctil en pacientes con diabetes"
+  },
+  {
+    "entidad": "Pacientes con diabetes controlada",
+    "relacion": "tienen menor probabilidad de",
+    "valor": "disfunción eréctil"
+  },
+  {
+    "entidad": "HbA1C",
+    "relacion": "se correlaciona con",
+    "valor": "el puntaje IIFE-5"
+  },
+  {
+    "entidad": "Disfunción eréctil",
+    "relacion": "se clasifica en",
+    "valor": "leve, moderada y severa"
+  },
+  {
+    "entidad": "Estudio transversal analítico",
+    "relacion": "se realizó en",
+    "valor": "comunidades rurales y urbanas del estado de Sonora, México"
+  },
+  {
+    "entidad": "WHOQoL-Bref",
+    "relacion": "es un",
+    "valor": "cuestionario de calidad de vida"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud (OMS)",
+    "relacion": "define",
+    "valor": "calidad de vida como la percepción individual de la posición en la vida"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "afecta a",
+    "valor": "decisiones de tratamiento"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "afecta a",
+    "valor": "aprobación de nuevas investigaciones farmacéuticas"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "afecta a",
+    "valor": "evaluación de programas y focalización de recursos"
+  },
+  {
+    "entidad": "WHOQoL-Bref",
+    "relacion": "evalúa",
+    "valor": "percepción de calidad de vida"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "influye en",
+    "valor": "percepción de calidad de vida"
+  },
+  {
+    "entidad": "género",
+    "relacion": "influye en",
+    "valor": "percepción de calidad de vida"
+  },
+  {
+    "entidad": "enfermedad crónica",
+    "relacion": "influye en",
+    "valor": "percepción de calidad de vida"
+  },
+  {
+    "entidad": "WHOQoL-Bref",
+    "relacion": "tiene",
+    "valor": "26 preguntas"
+  },
+  {
+    "entidad": "WHOQoL-Bref",
+    "relacion": "se agrupa en",
+    "valor": "cuatro dominios de calidad de vida"
+  },
+  {
+    "entidad": "dominio de salud física",
+    "relacion": "contiene",
+    "valor": "7 preguntas"
+  },
+  {
+    "entidad": "dominio de salud psicológica",
+    "relacion": "contiene",
+    "valor": "6 preguntas"
+  },
+  {
+    "entidad": "dominio de relaciones sociales",
+    "relacion": "contiene",
+    "valor": "3 preguntas"
+  },
+  {
+    "entidad": "dominio ambiental",
+    "relacion": "contiene",
+    "valor": "8 preguntas"
+  },
+  {
+    "entidad": "Comité de Ética de la Universidad Católica del Norte",
+    "relacion": "aprueba",
+    "valor": "la investigación"
+  },
+  {
+    "entidad": "Fondo Nacional de Desarrollo Científico y Tecnológico (FONDECYT)",
+    "relacion": "aprueba",
+    "valor": "la investigación"
+  },
+  {
+    "entidad": "alfa de Cronbach",
+    "relacion": "es",
+    "valor": "0.89"
+  },
+  {
+    "entidad": "WHOQoL-Bref",
+    "relacion": "es utilizado en",
+    "valor": "investigaciones sanitarias"
+  },
+  {
+    "entidad": "WHOQoL-Bref",
+    "relacion": "reporta",
+    "valor": "propiedades psicométricas"
+  },
+  {
+    "entidad": "WHOQoL-Bref",
+    "relacion": "permite",
+    "valor": "comparaciones epidemiológicas a nivel internacional"
+  },
+  {
+    "entidad": "WHOQoL-Bref",
+    "relacion": "es capaz de",
+    "valor": "discriminar la calidad de vida percibida"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "reportan",
+    "valor": "mayores puntajes en calidad de vida que hombres"
+  },
+  {
+    "entidad": "enfermedad crónica",
+    "relacion": "disminuye",
+    "valor": "calidad de vida"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "disminuye con",
+    "valor": "la edad"
+  },
+  {
+    "entidad": "cáncer de mama",
+    "relacion": "es",
+    "valor": "el principal tipo de cáncer en mujeres"
+  },
+  {
+    "entidad": "cáncer de mama",
+    "relacion": "causa",
+    "valor": "mortalidad por cáncer entre mujeres de 20 a 59 años"
+  },
+  {
+    "entidad": "edad del primer embarazo",
+    "relacion": "afecta a",
+    "valor": "desarrollo de cáncer de mama"
+  },
+  {
+    "entidad": "número de hijos",
+    "relacion": "afecta a",
+    "valor": "desarrollo de cáncer de mama"
+  },
+  {
+    "entidad": "intervalo entre embarazos",
+    "relacion": "afecta a",
+    "valor": "desarrollo de cáncer de mama"
+  },
+  {
+    "entidad": "niveles de estrógeno",
+    "relacion": "contribuye a",
+    "valor": "desarrollo de cáncer de mama en mujeres obesas"
+  },
+  {
+    "entidad": "prolactina",
+    "relacion": "contribuye a",
+    "valor": "desarrollo de cáncer de mama en mujeres obesas"
+  },
+  {
+    "entidad": "progesterona",
+    "relacion": "contribuye a",
+    "valor": "desarrollo de cáncer de mama en mujeres obesas"
+  },
+  {
+    "entidad": "estado nutricional",
+    "relacion": "afecta a",
+    "valor": "desarrollo de cáncer de mama"
+  },
+  {
+    "entidad": "edad de diagnóstico",
+    "relacion": "es influenciada por",
+    "valor": "edad del primer embarazo"
+  },
+  {
+    "entidad": "edad de diagnóstico",
+    "relacion": "es influenciada por",
+    "valor": "número de hijos"
+  },
+  {
+    "entidad": "edad de diagnóstico",
+    "relacion": "es influenciada por",
+    "valor": "período de tiempo intergenésico"
+  },
+  {
+    "entidad": "niveles séricos de estrógenos",
+    "relacion": "se correlacionan con",
+    "valor": "estado nutricional"
+  },
+  {
+    "entidad": "niveles séricos de prolactina",
+    "relacion": "se correlacionan con",
+    "valor": "estado nutricional"
+  },
+  {
+    "entidad": "niveles séricos de progesterona",
+    "relacion": "se correlacionan con",
+    "valor": "estado nutricional"
+  },
+  {
+    "entidad": "tejido adiposo",
+    "relacion": "se convierte en",
+    "valor": "fuente principal de estrógenos tras la menopausia"
+  },
+  {
+    "entidad": "estrógenos",
+    "relacion": "interaccionan con",
+    "valor": "receptor (ERa) en el núcleo celular"
+  },
+  {
+    "entidad": "prolactina",
+    "relacion": "interacciona con",
+    "valor": "su receptor a nivel de la membrana celular"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "reduce",
+    "valor": "efecto protector de factores como edad temprana en el primer embarazo"
+  },
+  {
+    "entidad": "mujeres obesas",
+    "relacion": "tienen",
+    "valor": "mayor riesgo de desarrollar cáncer de mama"
+  },
+  {
+    "entidad": "cáncer de mama",
+    "relacion": "es influenciado por",
+    "valor": "factores hormonales y nutricionales"
+  },
+  {
+    "entidad": "trasplante cardiaco",
+    "relacion": "es",
+    "valor": "terapia de elección para insuficiencia cardiaca avanzada"
+  },
+  {
+    "entidad": "Instituto Nacional del Tórax",
+    "relacion": "desarrolla",
+    "valor": "programa de trasplante cardiaco"
+  },
+  {
+    "entidad": "Clínica Dávila",
+    "relacion": "desarrolla",
+    "valor": "programa de trasplante cardiaco"
+  },
+  {
+    "entidad": "políticas clínicas distintivas",
+    "relacion": "incluyen",
+    "valor": "manejo intensivo de donantes"
+  },
+  {
+    "entidad": "políticas clínicas distintivas",
+    "relacion": "incluyen",
+    "valor": "inmunosupresión genérica"
+  },
+  {
+    "entidad": "políticas clínicas distintivas",
+    "relacion": "incluyen",
+    "valor": "inserción de dispositivos de asistencia ventricular"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "fueron",
+    "valor": "trasplantados entre noviembre de 2008 y abril de 2013"
+  },
+  {
+    "entidad": "miocardiopatía isquémica",
+    "relacion": "es",
+    "valor": "indicación principal para trasplante"
+  },
+  {
+    "entidad": "miocardiopatía dilatada",
+    "relacion": "es",
+    "valor": "indicación principal para trasplante"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "fueron",
+    "valor": "enlistados según criterios de la Coordinadora Nacional de Trasplantes"
+  },
+  {
+    "entidad": "donantes",
+    "relacion": "fueron tratados con",
+    "valor": "manejo metabólico intensivo"
+  },
+  {
+    "entidad": "técnica quirúrgica",
+    "relacion": "es",
+    "valor": "trasplante cardiaco ortotópico bicaval"
+  },
+  {
+    "entidad": "inmunosupresión",
+    "relacion": "incluye",
+    "valor": "inducción con baxiliximab"
+  },
+  {
+    "entidad": "inmunosupresión",
+    "relacion": "incluye",
+    "valor": "triterapia genérica con inhibidores de la calcineurina"
+  },
+  {
+    "entidad": "inmunosupresión",
+    "relacion": "incluye",
+    "valor": "antimetabolitos y esteroides"
+  },
+  {
+    "entidad": "biopsias endomiocárdicas",
+    "relacion": "se realizaron",
+    "valor": "para evaluar rechazo"
+  },
+  {
+    "entidad": "mortalidad operatoria",
+    "relacion": "fue",
+    "valor": "6%"
+  },
+  {
+    "entidad": "sobrevida a 3 años",
+    "relacion": "fue",
+    "valor": "86 ± 6%"
+  },
+  {
+    "entidad": "rechazo grado 0",
+    "relacion": "fue encontrado en",
+    "valor": "74% de biopsias"
+  },
+  {
+    "entidad": "infecciones",
+    "relacion": "fueron",
+    "valor": "complicaciones post-trasplante"
+  },
+  {
+    "entidad": "dispositivos de asistencia ventricular",
+    "relacion": "fueron utilizados como",
+    "valor": "puente a trasplante"
+  },
+  {
+    "entidad": "Coordinadora Nacional de Trasplantes",
+    "relacion": "depende de",
+    "valor": "Ministerio de Salud"
+  },
+  {
+    "entidad": "sobrevida libre de rechazo",
+    "relacion": "fue",
+    "valor": "90 ± 4% a un año"
+  },
+  {
+    "entidad": "sobrevida libre de rechazo",
+    "relacion": "fue",
+    "valor": "80 ± 7% a 3 años"
+  },
+  {
+    "entidad": "Tiroglobulina sérica preablativa",
+    "relacion": "es un",
+    "valor": "marcador pronóstico"
+  },
+  {
+    "entidad": "Cáncer diferenciado de tiroides (CDT)",
+    "relacion": "es un",
+    "valor": "tipo de cáncer"
+  },
+  {
+    "entidad": "Tiroglobulina sérica (sTg)",
+    "relacion": "es un",
+    "valor": "marcador de persistencia o recurrencia"
+  },
+  {
+    "entidad": "Tiroglobulina preablativa (pTg)",
+    "relacion": "predice",
+    "valor": "sobrevida libre de enfermedad"
+  },
+  {
+    "entidad": "Pacientes con CDT",
+    "relacion": "requieren",
+    "valor": "seguimiento prolongado"
+  },
+  {
+    "entidad": "Hospital del Salvador",
+    "relacion": "es un",
+    "valor": "centro de tratamiento"
+  },
+  {
+    "entidad": "TSH",
+    "relacion": "se determina mediante",
+    "valor": "quimioluminiscencia"
+  },
+  {
+    "entidad": "Anticuerpos antitiroglobulina (AbTg)",
+    "relacion": "se excluyen en",
+    "valor": "pacientes con CDT"
+  },
+  {
+    "entidad": "Guías de la American Thyroid Association (ATA)",
+    "relacion": "mencionan",
+    "valor": "valor predictivo negativo de pTg"
+  },
+  {
+    "entidad": "Sociedad Latinoamericana de Tiroides (LATS)",
+    "relacion": "sugiere",
+    "valor": "determinación de pTg"
+  },
+  {
+    "entidad": "pTg",
+    "relacion": "es útil como",
+    "valor": "marcador pronóstico"
+  },
+  {
+    "entidad": "Cáncer papilar",
+    "relacion": "es un",
+    "valor": "subtipo de CDT"
+  },
+  {
+    "entidad": "Cáncer folicular",
+    "relacion": "es un",
+    "valor": "subtipo de CDT"
+  },
+  {
+    "entidad": "Cáncer de células de Hürthle",
+    "relacion": "es un",
+    "valor": "subtipo de CDT"
+  },
+  {
+    "entidad": "Recurrencia de enfermedad",
+    "relacion": "se define por",
+    "valor": "niveles detectables de sTg"
+  },
+  {
+    "entidad": "Sobrevida libre de enfermedad",
+    "relacion": "se define como",
+    "valor": "ausencia de enfermedad estructural"
+  },
+  {
+    "entidad": "pTg",
+    "relacion": "fue un",
+    "valor": "indicador independiente"
+  },
+  {
+    "entidad": "pTg < 10 ng/mL",
+    "relacion": "asocia con",
+    "valor": "pronóstico favorable"
+  },
+  {
+    "entidad": "pTg",
+    "relacion": "se mide en",
+    "valor": "pacientes con riesgo bajo e intermedio"
+  },
+  {
+    "entidad": "Levotiroxina",
+    "relacion": "se utiliza en",
+    "valor": "tratamiento de pacientes con CDT"
+  },
+  {
+    "entidad": "Morbilidad materna grave",
+    "relacion": "es un",
+    "valor": "indicador de calidad de atención médica"
+  },
+  {
+    "entidad": "Hospital Clínico Universidad de Chile",
+    "relacion": "realiza",
+    "valor": "manejo de morbilidad materna grave"
+  },
+  {
+    "entidad": "Unidad de Medicina Materno-Fetal",
+    "relacion": "pertenece a",
+    "valor": "Hospital Clínico Universidad de Chile"
+  },
+  {
+    "entidad": "Unidad de Pacientes Críticos",
+    "relacion": "pertenece a",
+    "valor": "Hospital Clínico Universidad de Chile"
+  },
+  {
+    "entidad": "Preeclampsia",
+    "relacion": "es la principal causa de",
+    "valor": "ingreso a UCI"
+  },
+  {
+    "entidad": "Sepsis",
+    "relacion": "es una causa de",
+    "valor": "ingreso a UCI"
+  },
+  {
+    "entidad": "Hemorragia obstétrica",
+    "relacion": "es una causa de",
+    "valor": "ingreso a UCI"
+  },
+  {
+    "entidad": "Edad materna",
+    "relacion": "afecta",
+    "valor": "frecuencia de morbilidad materna grave"
+  },
+  {
+    "entidad": "Cuidado intensivo",
+    "relacion": "requiere",
+    "valor": "manejo especializado"
+  },
+  {
+    "entidad": "Mortalidad materna",
+    "relacion": "es un",
+    "valor": "indicador de calidad de atención médica"
+  },
+  {
+    "entidad": "Complicaciones de preeclampsia",
+    "relacion": "afectan",
+    "valor": "pronóstico perinatal"
+  },
+  {
+    "entidad": "Neonatos",
+    "relacion": "presentan",
+    "valor": "morbilidad relacionada con prematuridad"
+  },
+  {
+    "entidad": "Mortalidad perinatal",
+    "relacion": "es un",
+    "valor": "resultado asociado a morbilidad materna"
+  },
+  {
+    "entidad": "Interrupción del embarazo",
+    "relacion": "es un factor importante para",
+    "valor": "resultado sin muertes maternas"
+  },
+  {
+    "entidad": "Antibióticos",
+    "relacion": "son necesarios para",
+    "valor": "tratamiento de sepsis materna"
+  },
+  {
+    "entidad": "Cuidado prenatal",
+    "relacion": "debe ser",
+    "valor": "más estrecho para prevenir complicaciones"
+  },
+  {
+    "entidad": "Técnica Doppler de arterias uterinas",
+    "relacion": "se utiliza para",
+    "valor": "predecir preeclampsia"
+  },
+  {
+    "entidad": "Manejo obstétrico adecuado",
+    "relacion": "reduce",
+    "valor": "incidencia de hemorragia"
+  },
+  {
+    "entidad": "Mortalidad materna",
+    "relacion": "ha disminuido en",
+    "valor": "Chile"
+  },
+  {
+    "entidad": "Mortalidad perinatal",
+    "relacion": "es mayor en",
+    "valor": "neonatos nacidos antes de las 32 semanas"
+  },
+  {
+    "entidad": "colecistectomías con cáncer",
+    "relacion": "se utilizan en",
+    "valor": "investigación"
+  },
+  {
+    "entidad": "calidad del ADN",
+    "relacion": "depende de",
+    "valor": "muestras de colecistectomías"
+  },
+  {
+    "entidad": "ADN",
+    "relacion": "es extraído de",
+    "valor": "muestras de cáncer vesicular"
+  },
+  {
+    "entidad": "muestras de cáncer vesicular",
+    "relacion": "provienen de",
+    "valor": "centros asistenciales públicos y privados"
+  },
+  {
+    "entidad": "servicios de Anatomía Patológica",
+    "relacion": "almacenan",
+    "valor": "muestras de cáncer"
+  },
+  {
+    "entidad": "muestras de hospitales públicos",
+    "relacion": "tienen",
+    "valor": "menor calidad de ADN"
+  },
+  {
+    "entidad": "muestras de clínicas privadas",
+    "relacion": "tienen",
+    "valor": "mayor calidad de ADN"
+  },
+  {
+    "entidad": "integridad del ADN",
+    "relacion": "se mide a través de",
+    "valor": "amplificación de productos de tamaño conocido"
+  },
+  {
+    "entidad": "proceso de extracción de ADN",
+    "relacion": "se realiza utilizando",
+    "valor": "kits comerciales"
+  },
+  {
+    "entidad": "técnicas de biología molecular",
+    "relacion": "se pueden aplicar a",
+    "valor": "muestras de colecistectomías con cáncer"
+  },
+  {
+    "entidad": "cáncer vesicular",
+    "relacion": "es un problema de",
+    "valor": "salud pública en Chile"
+  },
+  {
+    "entidad": "proyecto Fondecyt 1120208",
+    "relacion": "financia",
+    "valor": "la investigación"
+  },
+  {
+    "entidad": "ADN",
+    "relacion": "se degrada por",
+    "valor": "fijación en formalina"
+  },
+  {
+    "entidad": "muestras de ADN",
+    "relacion": "son potencialmente utilizables para",
+    "valor": "estudios de biología molecular"
+  },
+  {
+    "entidad": "muestras de ADN",
+    "relacion": "se ven afectadas por",
+    "valor": "factores pre-analíticos"
+  },
+  {
+    "entidad": "cáncer de vesícula biliar",
+    "relacion": "requiere",
+    "valor": "estudios genéticos y moleculares"
+  },
+  {
+    "entidad": "muestras de ADN",
+    "relacion": "se obtienen de",
+    "valor": "piezas quirúrgicas"
+  },
+  {
+    "entidad": "ADN",
+    "relacion": "se cuantifica mediante",
+    "valor": "espectrofotometría"
+  },
+  {
+    "entidad": "técnicas de biología molecular",
+    "relacion": "se utilizan para",
+    "valor": "estudiar el cáncer vesicular"
+  }
+]

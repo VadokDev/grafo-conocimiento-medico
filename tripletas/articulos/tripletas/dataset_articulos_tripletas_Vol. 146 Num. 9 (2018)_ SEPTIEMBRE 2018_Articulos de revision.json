@@ -1,0 +1,227 @@
+[
+  {
+    "entidad": "Síndrome de piernas inquietas",
+    "relacion": "es",
+    "valor": "un trastorno neurológico sensitivo-motor"
+  },
+  {
+    "entidad": "Síndrome de piernas inquietas",
+    "relacion": "causa",
+    "valor": "alteraciones del sueño"
+  },
+  {
+    "entidad": "Síndrome de piernas inquietas",
+    "relacion": "se caracteriza por",
+    "valor": "necesidad imperiosa de mover las piernas"
+  },
+  {
+    "entidad": "Síndrome de piernas inquietas",
+    "relacion": "se asocia con",
+    "valor": "sensaciones desagradables en las piernas"
+  },
+  {
+    "entidad": "Síndrome de piernas inquietas",
+    "relacion": "empeora en",
+    "valor": "reposo"
+  },
+  {
+    "entidad": "Síndrome de piernas inquietas",
+    "relacion": "se alivia con",
+    "valor": "movimiento"
+  },
+  {
+    "entidad": "Síndrome de piernas inquietas",
+    "relacion": "es diagnosticado por",
+    "valor": "criterios clínicos"
+  },
+  {
+    "entidad": "Dopamina",
+    "relacion": "es un",
+    "valor": "neurotransmisor relacionado con el SPI"
+  },
+  {
+    "entidad": "Antipsicóticos",
+    "relacion": "pueden empeorar",
+    "valor": "síntomas del SPI"
+  },
+  {
+    "entidad": "Antidepresivos",
+    "relacion": "pueden empeorar",
+    "valor": "síntomas del SPI"
+  },
+  {
+    "entidad": "Deficiencia de hierro",
+    "relacion": "se asocia con",
+    "valor": "síndrome de piernas inquietas"
+  },
+  {
+    "entidad": "Síndrome de piernas inquietas",
+    "relacion": "se presenta en",
+    "valor": "embarazo"
+  },
+  {
+    "entidad": "Síndrome de piernas inquietas",
+    "relacion": "es más frecuente en",
+    "valor": "mujeres"
+  },
+  {
+    "entidad": "Trastornos de ansiedad",
+    "relacion": "se asocian con",
+    "valor": "síndrome de piernas inquietas"
+  },
+  {
+    "entidad": "Trastornos depresivos",
+    "relacion": "se asocian con",
+    "valor": "síndrome de piernas inquietas"
+  },
+  {
+    "entidad": "Criterios diagnósticos del DSM-5",
+    "relacion": "incluyen",
+    "valor": "necesidad urgente de mover las piernas"
+  },
+  {
+    "entidad": "Criterios diagnósticos del IRLSSG",
+    "relacion": "incluyen",
+    "valor": "necesidad imperiosa de mover las piernas"
+  },
+  {
+    "entidad": "Gabapentina",
+    "relacion": "es un",
+    "valor": "tratamiento no dopaminérgico para SPI"
+  },
+  {
+    "entidad": "Pramipexol",
+    "relacion": "es un",
+    "valor": "agonista dopaminérgico utilizado en SPI"
+  },
+  {
+    "entidad": "Levodopa",
+    "relacion": "es un",
+    "valor": "tratamiento efectivo para SPI"
+  },
+  {
+    "entidad": "Mirtazapina",
+    "relacion": "puede empeorar",
+    "valor": "síntomas del SPI"
+  },
+  {
+    "entidad": "Bupropión",
+    "relacion": "puede mejorar",
+    "valor": "síntomas del SPI"
+  },
+  {
+    "entidad": "Síndrome de piernas inquietas",
+    "relacion": "es considerado",
+    "valor": "subdiagnosticado"
+  },
+  {
+    "entidad": "Epidemiología del SPI",
+    "relacion": "indica que",
+    "valor": "afecta entre 5 y 15% de la población general"
+  },
+  {
+    "entidad": "crio-tecnología",
+    "relacion": "utiliza",
+    "valor": "diagnóstico y terapéutico en neumología intervencionista"
+  },
+  {
+    "entidad": "crio-biopsia pulmonar transbronquial",
+    "relacion": "es un",
+    "valor": "método diagnóstico"
+  },
+  {
+    "entidad": "crio-biopsia pulmonar transbronquial",
+    "relacion": "tiene",
+    "valor": "alta rentabilidad diagnóstica"
+  },
+  {
+    "entidad": "crio-biopsia pulmonar transbronquial",
+    "relacion": "reduce",
+    "valor": "morbilidad y mortalidad"
+  },
+  {
+    "entidad": "crio-tecnología",
+    "relacion": "permite",
+    "valor": "manejo paliativo de obstrucciones bronquiales"
+  },
+  {
+    "entidad": "tumores",
+    "relacion": "causa",
+    "valor": "obstrucciones endobronquiales"
+  },
+  {
+    "entidad": "enfermedad pulmonar intersticial difusa (EPID)",
+    "relacion": "requiere",
+    "valor": "muestras de tejido para estudio histopatológico"
+  },
+  {
+    "entidad": "biopsia pulmonar quirúrgica (BPQ)",
+    "relacion": "es",
+    "valor": "el estándar de oro para diagnóstico"
+  },
+  {
+    "entidad": "crio-tecnología",
+    "relacion": "mejora",
+    "valor": "la obtención de muestras para diagnóstico"
+  },
+  {
+    "entidad": "crio-tecnología",
+    "relacion": "se aplica en",
+    "valor": "tratamiento de lesiones malignas"
+  },
+  {
+    "entidad": "crio-tecnología",
+    "relacion": "se utiliza para",
+    "valor": "remoción de cuerpos extraños"
+  },
+  {
+    "entidad": "crio-tecnología",
+    "relacion": "se aplica en",
+    "valor": "extracción de coágulos"
+  },
+  {
+    "entidad": "crio-tecnología",
+    "relacion": "se utiliza en",
+    "valor": "crio-recanalización"
+  },
+  {
+    "entidad": "sangrado",
+    "relacion": "es una",
+    "valor": "complicación de la crio-biopsia"
+  },
+  {
+    "entidad": "neumotórax",
+    "relacion": "es una",
+    "valor": "complicación de la crio-biopsia"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "es",
+    "valor": "menor en crio-biopsia que en BPQ"
+  },
+  {
+    "entidad": "crio-tecnología",
+    "relacion": "ofrece",
+    "valor": "un ahorro económico significativo"
+  },
+  {
+    "entidad": "comité multidisciplinario",
+    "relacion": "establece",
+    "valor": "diagnóstico consensuado en EPID"
+  },
+  {
+    "entidad": "histología",
+    "relacion": "es clave para",
+    "valor": "diagnóstico en EPID"
+  },
+  {
+    "entidad": "muestras de criobiopsia",
+    "relacion": "son",
+    "valor": "más grandes y con menos defectos que las obtenidas por fórceps"
+  },
+  {
+    "entidad": "crio-tecnología",
+    "relacion": "facilita",
+    "valor": "el diagnóstico de enfermedades pulmonares parenquimatosas difusas"
+  }
+]

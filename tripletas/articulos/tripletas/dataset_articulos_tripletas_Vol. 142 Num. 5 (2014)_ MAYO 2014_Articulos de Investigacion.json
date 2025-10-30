@@ -1,0 +1,577 @@
+[
+  {
+    "entidad": "sepsis",
+    "relacion": "causa",
+    "valor": "injuria renal aguda"
+  },
+  {
+    "entidad": "injuria renal aguda",
+    "relacion": "asociado con",
+    "valor": "aumento de mortalidad"
+  },
+  {
+    "entidad": "cambios macrohemodinámicos",
+    "relacion": "afectan",
+    "valor": "función renal"
+  },
+  {
+    "entidad": "cambios microcirculatorios",
+    "relacion": "afectan",
+    "valor": "función renal"
+  },
+  {
+    "entidad": "cerdos",
+    "relacion": "utilizados en",
+    "valor": "modelo experimental"
+  },
+  {
+    "entidad": "catéteres",
+    "relacion": "instalados para",
+    "valor": "medir parámetros hemodinámicos"
+  },
+  {
+    "entidad": "autologous feces",
+    "relacion": "administrado en",
+    "valor": "modelo de sepsis"
+  },
+  {
+    "entidad": "lactato",
+    "relacion": "aumenta en",
+    "valor": "animales sépticos"
+  },
+  {
+    "entidad": "creatinina",
+    "relacion": "aumenta en",
+    "valor": "animales con injuria renal aguda"
+  },
+  {
+    "entidad": "interleucina-6",
+    "relacion": "aumenta en",
+    "valor": "animales con injuria renal aguda"
+  },
+  {
+    "entidad": "flujo sanguíneo renal",
+    "relacion": "disminuye en",
+    "valor": "animales con injuria renal aguda"
+  },
+  {
+    "entidad": "presión de perfusión renal",
+    "relacion": "disminuye en",
+    "valor": "animales con injuria renal aguda"
+  },
+  {
+    "entidad": "respuesta inflamatoria",
+    "relacion": "contribuye a",
+    "valor": "injuria renal aguda"
+  },
+  {
+    "entidad": "vasoconstricción microvascular",
+    "relacion": "contribuye a",
+    "valor": "injuria renal aguda"
+  },
+  {
+    "entidad": "comité de ética y cuidado animal",
+    "relacion": "aprueba",
+    "valor": "estudio"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "afiliación de",
+    "valor": "investigadores"
+  },
+  {
+    "entidad": "Fondecyt 11100247",
+    "relacion": "fuente de",
+    "valor": "apoyo financiero"
+  },
+  {
+    "entidad": "Esclerosis múltiple recurrente remitente",
+    "relacion": "es un",
+    "valor": "tipo de enfermedad"
+  },
+  {
+    "entidad": "Servicio de neurología",
+    "relacion": "pertenece a",
+    "valor": "Complejo Asistencial Barros Luco Trudeau"
+  },
+  {
+    "entidad": "Departamento de neurología",
+    "relacion": "pertenece a",
+    "valor": "Facultad de Medicina Universidad de Chile"
+  },
+  {
+    "entidad": "Escuela de Fonoaudiología",
+    "relacion": "pertenece a",
+    "valor": "Universidad Autónoma de Chile"
+  },
+  {
+    "entidad": "Escuela de Fonoaudiología",
+    "relacion": "pertenece a",
+    "valor": "Universidad Andrés Bello"
+  },
+  {
+    "entidad": "Dr. Jorge Nogales-Gaete",
+    "relacion": "dirige",
+    "valor": "Servicio de neurología y centro de referencia nacional Minsal-GES para esclerosis múltiple"
+  },
+  {
+    "entidad": "Interferón β1a",
+    "relacion": "es un",
+    "valor": "fármaco inmunomodulador"
+  },
+  {
+    "entidad": "Interferón β1b",
+    "relacion": "es un",
+    "valor": "fármaco inmunomodulador"
+  },
+  {
+    "entidad": "Acetato de glatiramer",
+    "relacion": "es un",
+    "valor": "fármaco inmunomodulador"
+  },
+  {
+    "entidad": "Sistema público de salud de Chile",
+    "relacion": "ofrece",
+    "valor": "tratamientos para EM-RR desde 2008"
+  },
+  {
+    "entidad": "Criterios de Mac Donald",
+    "relacion": "se utilizan para",
+    "valor": "diagnosticar esclerosis múltiple"
+  },
+  {
+    "entidad": "Escala ampliada de discapacidad de Kurtzke (EDSS)",
+    "relacion": "evalúa",
+    "valor": "discapacidad en pacientes con EM"
+  },
+  {
+    "entidad": "Escala funcional compuesta (MSFC)",
+    "relacion": "evalúa",
+    "valor": "funcionalidad en pacientes con EM"
+  },
+  {
+    "entidad": "Escala de intensidad de fatiga de Krupp",
+    "relacion": "evalúa",
+    "valor": "fatiga en pacientes con EM"
+  },
+  {
+    "entidad": "Batería neuropsicológica repetible breve de Rao (BNR-R)",
+    "relacion": "evalúa",
+    "valor": "función cognitiva en pacientes con EM"
+  },
+  {
+    "entidad": "Cuestionarios de Hamilton y Beck",
+    "relacion": "evalúan",
+    "valor": "manifestaciones ansioso-depresivas"
+  },
+  {
+    "entidad": "Criterios de Barkhof-Tintoré",
+    "relacion": "se utilizan para",
+    "valor": "evaluar imágenes en RM en EM"
+  },
+  {
+    "entidad": "Falla de tratamiento",
+    "relacion": "se define como",
+    "valor": "presencia de brotes o deterioro en EDSS"
+  },
+  {
+    "entidad": "Género masculino",
+    "relacion": "es un predictor de",
+    "valor": "falla de tratamiento en EM"
+  },
+  {
+    "entidad": "Edad menor a 40 años",
+    "relacion": "es un predictor de",
+    "valor": "falla de tratamiento en EM"
+  },
+  {
+    "entidad": "Manifestaciones de tronco cerebral",
+    "relacion": "son un predictor de",
+    "valor": "falla de tratamiento en EM"
+  },
+  {
+    "entidad": "Cognición",
+    "relacion": "se evalúa mediante",
+    "valor": "BNR-R en pacientes con EM"
+  },
+  {
+    "entidad": "Alteraciones psiquiátricas",
+    "relacion": "se observan en",
+    "valor": "pacientes con EM"
+  },
+  {
+    "entidad": "Tratamientos inmunomoduladores",
+    "relacion": "se utilizan para",
+    "valor": "manejar EM-RR"
+  },
+  {
+    "entidad": "Equipo multidisciplinario",
+    "relacion": "es necesario para",
+    "valor": "manejo integral de pacientes con EM"
+  },
+  {
+    "entidad": "MTHFR",
+    "relacion": "es un",
+    "valor": "gen"
+  },
+  {
+    "entidad": "mielomeningocele",
+    "relacion": "es un",
+    "valor": "defecto de cierre del tubo neural"
+  },
+  {
+    "entidad": "ácido fólico",
+    "relacion": "afecta a",
+    "valor": "tasas de espina bífida"
+  },
+  {
+    "entidad": "fortificación con ácido fólico",
+    "relacion": "se implementó en",
+    "valor": "Chile en 2000"
+  },
+  {
+    "entidad": "espina bífida",
+    "relacion": "se reduce por",
+    "valor": "fortificación con ácido fólico"
+  },
+  {
+    "entidad": "polimorfismos c.C677T y c.A1298C",
+    "relacion": "no constituyen",
+    "valor": "factores de riesgo para mielomeningocele"
+  },
+  {
+    "entidad": "mielomeningocele",
+    "relacion": "se asocia con",
+    "valor": "factores genéticos y ambientales"
+  },
+  {
+    "entidad": "Hospital Clínico Universidad de Chile",
+    "relacion": "es un",
+    "valor": "centro de investigación"
+  },
+  {
+    "entidad": "Sociedad Pro Ayuda del Niño Lisiado",
+    "relacion": "es un",
+    "valor": "centro de atención"
+  },
+  {
+    "entidad": "Centro de Rehabilitación Infantil del Ejército de Chile",
+    "relacion": "es un",
+    "valor": "centro de atención"
+  },
+  {
+    "entidad": "progenitores",
+    "relacion": "se evalúa en",
+    "valor": "estudios de transmisión de alelos"
+  },
+  {
+    "entidad": "transmisión de alelos",
+    "relacion": "se evalúa mediante",
+    "valor": "test de desequilibrio de transmisión (TDT)"
+  },
+  {
+    "entidad": "maternidad",
+    "relacion": "afecta a",
+    "valor": "transmisión de alelos"
+  },
+  {
+    "entidad": "mielomeningocele",
+    "relacion": "es evaluado en",
+    "valor": "estudios de asociación familiar"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "fue dirigido por",
+    "valor": "Rosa Pardo"
+  },
+  {
+    "entidad": "mielomeningocele",
+    "relacion": "se clasifica en",
+    "valor": "tipos según el nivel anatómico"
+  },
+  {
+    "entidad": "mielomeningocele",
+    "relacion": "afecta a",
+    "valor": "niños en Chile"
+  },
+  {
+    "entidad": "genotipificación",
+    "relacion": "se realiza con",
+    "valor": "ensayos de discriminación alélica"
+  },
+  {
+    "entidad": "mielomeningocele",
+    "relacion": "se relaciona con",
+    "valor": "variantes del gen MTHFR"
+  },
+  {
+    "entidad": "mielomeningocele",
+    "relacion": "es un tipo de",
+    "valor": "espina bífida"
+  },
+  {
+    "entidad": "síndrome metabólico",
+    "relacion": "es un",
+    "valor": "factor de riesgo para enfermedades cardiovasculares y cáncer"
+  },
+  {
+    "entidad": "síndrome metabólico",
+    "relacion": "aumenta",
+    "valor": "frecuencia"
+  },
+  {
+    "entidad": "estudio de cohorte",
+    "relacion": "evalúa",
+    "valor": "prevalencia del síndrome metabólico en adultos"
+  },
+  {
+    "entidad": "Hospital de Limache",
+    "relacion": "es un",
+    "valor": "centro asistencial"
+  },
+  {
+    "entidad": "Universidad de Chile",
+    "relacion": "realiza",
+    "valor": "investigación en salud pública"
+  },
+  {
+    "entidad": "Fondecyt",
+    "relacion": "financia",
+    "valor": "proyecto de investigación"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen mayor prevalencia de",
+    "valor": "síndrome metabólico en la segunda evaluación"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "tienen mayor prevalencia de",
+    "valor": "triglicéridos altos y presión arterial elevada"
+  },
+  {
+    "entidad": "perímetro de cintura",
+    "relacion": "se considera",
+    "valor": "elevado en hombres y mujeres"
+  },
+  {
+    "entidad": "glicemia",
+    "relacion": "se mide",
+    "valor": "en ayuno"
+  },
+  {
+    "entidad": "HDL",
+    "relacion": "se considera",
+    "valor": "bajo en mujeres"
+  },
+  {
+    "entidad": "nivel socioeconómico",
+    "relacion": "influye en",
+    "valor": "prevalencia de obesidad y síndrome metabólico"
+  },
+  {
+    "entidad": "población adulta en Chile",
+    "relacion": "ha experimentado",
+    "valor": "aumento en obesidad y diabetes tipo 2"
+  },
+  {
+    "entidad": "comunidades de Limache y Olmué",
+    "relacion": "son",
+    "valor": "poblaciones con baja tasa de migración"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "fue aprobado por",
+    "valor": "Comité de Ética de la Facultad de Medicina"
+  },
+  {
+    "entidad": "método enzimático",
+    "relacion": "se utiliza para",
+    "valor": "evaluar glicemia y triglicéridos"
+  },
+  {
+    "entidad": "pérdidas en el seguimiento",
+    "relacion": "se manejan usando",
+    "valor": "el recíproco de la probabilidad de permanencia"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen mayor frecuencia de",
+    "valor": "perímetro de cintura elevado"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "tienen mayor frecuencia de",
+    "valor": "HDL bajos"
+  },
+  {
+    "entidad": "razón cintura estatura",
+    "relacion": "no varía con",
+    "valor": "género"
+  },
+  {
+    "entidad": "razón cintura estatura",
+    "relacion": "no varía con",
+    "valor": "edad"
+  },
+  {
+    "entidad": "razón cintura estatura",
+    "relacion": "no varía con",
+    "valor": "maduración puberal"
+  },
+  {
+    "entidad": "razón cintura estatura",
+    "relacion": "es un",
+    "valor": "indicador de riesgo cardiometabólico en niños"
+  },
+  {
+    "entidad": "escolares chilenos",
+    "relacion": "presentan",
+    "valor": "exceso de peso"
+  },
+  {
+    "entidad": "exceso de peso",
+    "relacion": "asociado con",
+    "valor": "factores de riesgo cardiometabólicos"
+  },
+  {
+    "entidad": "razón cintura estatura",
+    "relacion": "se utiliza para",
+    "valor": "identificar niños obesos con síndrome metabólico"
+  },
+  {
+    "entidad": "estudio transversal",
+    "relacion": "realizado en",
+    "valor": "escolares de 6 a 14 años"
+  },
+  {
+    "entidad": "medidas antropométricas",
+    "relacion": "incluyen",
+    "valor": "peso, altura y perímetro de cintura"
+  },
+  {
+    "entidad": "maduración puberal",
+    "relacion": "evaluada por",
+    "valor": "grados de Tanner"
+  },
+  {
+    "entidad": "pediatras",
+    "relacion": "evalúan",
+    "valor": "estadío puberal"
+  },
+  {
+    "entidad": "razón cintura estatura",
+    "relacion": "se calcula como",
+    "valor": "perímetro de cintura dividido por estatura"
+  },
+  {
+    "entidad": "proyecto",
+    "relacion": "financiado por",
+    "valor": "Universidad de los Andes"
+  },
+  {
+    "entidad": "comité de ética",
+    "relacion": "aprobó",
+    "valor": "el trabajo"
+  },
+  {
+    "entidad": "Hernán García",
+    "relacion": "es",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "Universidad de los Andes",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "Hospital El Pino",
+    "relacion": "pertenece a",
+    "valor": "Facultad de Ciencias Médicas, Universidad de Santiago de Chile"
+  },
+  {
+    "entidad": "Departamento de Medicina Respiratoria Infantil",
+    "relacion": "realiza",
+    "valor": "evaluación de niños asmáticos"
+  },
+  {
+    "entidad": "Javier Mallol",
+    "relacion": "dirige",
+    "valor": "estudio sobre sensibilización a aeroalérgenos"
+  },
+  {
+    "entidad": "asma",
+    "relacion": "afecta a",
+    "valor": "niños"
+  },
+  {
+    "entidad": "aeroalérgenos",
+    "relacion": "causa",
+    "valor": "sensibilización en niños asmáticos"
+  },
+  {
+    "entidad": "prueba de punción cutánea (SPT)",
+    "relacion": "se utiliza para",
+    "valor": "evaluar sensibilización a alérgenos"
+  },
+  {
+    "entidad": "atopia",
+    "relacion": "es un",
+    "valor": "factor de riesgo para la persistencia del asma"
+  },
+  {
+    "entidad": "sensibilización a alérgenos",
+    "relacion": "varía según",
+    "valor": "edad de los niños"
+  },
+  {
+    "entidad": "Dermatophagoides",
+    "relacion": "es el",
+    "valor": "alérgeno más comúnmente positivo"
+  },
+  {
+    "entidad": "gramíneas",
+    "relacion": "es un",
+    "valor": "alérgeno común en niños asmáticos"
+  },
+  {
+    "entidad": "malezas",
+    "relacion": "es un",
+    "valor": "alérgeno común en niños asmáticos"
+  },
+  {
+    "entidad": "epitelio de gato",
+    "relacion": "es un",
+    "valor": "alérgeno común en niños asmáticos"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "influye en",
+    "valor": "la prevalencia de sensibilización a alérgenos"
+  },
+  {
+    "entidad": "método de análisis estadístico",
+    "relacion": "se utiliza",
+    "valor": "para calcular la prevalencia de sensibilización"
+  },
+  {
+    "entidad": "rinovirus",
+    "relacion": "se asocia con",
+    "valor": "sensibilización alérgica en niños"
+  },
+  {
+    "entidad": "infecciones respiratorias virales",
+    "relacion": "pueden causar",
+    "valor": "activación del epitelio de las vías aéreas"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "aporta",
+    "valor": "datos sobre prevalencia de sensibilización alérgica en niños asmáticos"
+  }
+]

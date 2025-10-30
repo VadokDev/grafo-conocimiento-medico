@@ -1,0 +1,202 @@
+[
+  {
+    "entidad": "Aneurisma de aorta abdominal roto (AAAR)",
+    "relacion": "es",
+    "valor": "una urgencia arterial"
+  },
+  {
+    "entidad": "AAAR",
+    "relacion": "afecta a",
+    "valor": "pacientes mayores con comorbilidades significativas"
+  },
+  {
+    "entidad": "AAAR",
+    "relacion": "tiene una mortalidad global",
+    "valor": "80%-90%"
+  },
+  {
+    "entidad": "centros especializados calificados",
+    "relacion": "son necesarios para",
+    "valor": "el tratamiento de AAAR"
+  },
+  {
+    "entidad": "pacientes con AAAR",
+    "relacion": "deben ser trasladados a",
+    "valor": "centros de referencia calificados"
+  },
+  {
+    "entidad": "protocolo de traslado",
+    "relacion": "debe ser",
+    "valor": "seguido para el tratamiento de AAAR"
+  },
+  {
+    "entidad": "cirujanos vasculares",
+    "relacion": "deben tener",
+    "valor": "entrenamiento acreditado"
+  },
+  {
+    "entidad": "hospitales terciarios",
+    "relacion": "deben tener",
+    "valor": "capacidad de resolución endovascular"
+  },
+  {
+    "entidad": "centralización del tratamiento de AAAR",
+    "relacion": "mejora",
+    "valor": "la calidad de atención"
+  },
+  {
+    "entidad": "volumen de cirugías aórticas",
+    "relacion": "se asocia con",
+    "valor": "menor mortalidad"
+  },
+  {
+    "entidad": "cirugía endovascular",
+    "relacion": "tiene menor morbi-mortalidad que",
+    "valor": "cirugía abierta"
+  },
+  {
+    "entidad": "centros de referencia",
+    "relacion": "deben tener",
+    "valor": "infraestructura adecuada y personal especializado"
+  },
+  {
+    "entidad": "Sociedad Norteamericana de Cirugía Vascular (SVS)",
+    "relacion": "recomienda",
+    "valor": "traslado inmediato a centros regionales"
+  },
+  {
+    "entidad": "Sociedad Europea de Cirugía Vascular",
+    "relacion": "recomienda",
+    "valor": "traslado a centros especializados de alto volumen"
+  },
+  {
+    "entidad": "Unidad de Gestión Centralizada de Camas (UGCC)",
+    "relacion": "selecciona",
+    "valor": "centros terciarios en el sistema público"
+  },
+  {
+    "entidad": "costos de tratamiento",
+    "relacion": "deben ser",
+    "valor": "considerados en la selección de centros"
+  },
+  {
+    "entidad": "calidad de atención",
+    "relacion": "afecta",
+    "valor": "los resultados en cirugía arterial"
+  },
+  {
+    "entidad": "Vascular Quality Initiative (VQI)",
+    "relacion": "es una iniciativa para",
+    "valor": "mejorar la calidad de atención"
+  },
+  {
+    "entidad": "cirugía de AAAR",
+    "relacion": "debe ser realizada en",
+    "valor": "centros con alto volumen de cirugías"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "afecta a",
+    "valor": "funcionamiento cognitivo de personas mayores"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "causa",
+    "valor": "deterioro cognitivo clínicamente significativo"
+  },
+  {
+    "entidad": "deterioro cognitivo",
+    "relacion": "se relaciona con",
+    "valor": "aislamiento social"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "aumenta",
+    "valor": "síntomas de depresión y ansiedad"
+  },
+  {
+    "entidad": "aislamiento social",
+    "relacion": "es un",
+    "valor": "factor de riesgo para deterioro cognitivo"
+  },
+  {
+    "entidad": "resiliencia",
+    "relacion": "actúa como",
+    "valor": "factor protector frente a estrés"
+  },
+  {
+    "entidad": "estilos de afrontamiento",
+    "relacion": "moderan",
+    "valor": "impacto de la pandemia en salud mental"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "reduce",
+    "valor": "síntomas de depresión"
+  },
+  {
+    "entidad": "apoyo social",
+    "relacion": "es un",
+    "valor": "factor protector para la salud mental"
+  },
+  {
+    "entidad": "demencia",
+    "relacion": "se agrava por",
+    "valor": "medidas de confinamiento"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "incrementa",
+    "valor": "síntomas neuropsiquiátricos"
+  },
+  {
+    "entidad": "sintomatología depresiva",
+    "relacion": "se asocia con",
+    "valor": "soledad percibida"
+  },
+  {
+    "entidad": "funciones cognitivas",
+    "relacion": "se ven afectadas por",
+    "valor": "confinamiento prolongado"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "causa",
+    "valor": "deterioro funcional en personas mayores"
+  },
+  {
+    "entidad": "reservas cognitivas",
+    "relacion": "moderan",
+    "valor": "efectos negativos de la pandemia"
+  },
+  {
+    "entidad": "cognición",
+    "relacion": "se relaciona con",
+    "valor": "bienestar emocional"
+  },
+  {
+    "entidad": "estrés postraumático",
+    "relacion": "es un",
+    "valor": "síntoma común en sobrevivientes de COVID-19"
+  },
+  {
+    "entidad": "cognición",
+    "relacion": "se ve afectada por",
+    "valor": "aislamiento social"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "aumenta",
+    "valor": "riesgo de demencia"
+  },
+  {
+    "entidad": "apoyo social",
+    "relacion": "disminuye",
+    "valor": "niveles de soledad"
+  },
+  {
+    "entidad": "cognición",
+    "relacion": "se deteriora por",
+    "valor": "factores ambientales durante la pandemia"
+  }
+]

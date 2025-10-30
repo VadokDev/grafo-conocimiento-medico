@@ -1,0 +1,292 @@
+[
+  {
+    "entidad": "menopausia",
+    "relacion": "asocia con",
+    "valor": "síntomas climatericos"
+  },
+  {
+    "entidad": "síntomas climatericos",
+    "relacion": "afectan",
+    "valor": "calidad de vida"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "se deteriora por",
+    "valor": "síntomas severos"
+  },
+  {
+    "entidad": "terapia hormonal de la menopausia (THM)",
+    "relacion": "disminuye",
+    "valor": "síntomas menopáusicos"
+  },
+  {
+    "entidad": "THM",
+    "relacion": "mejora",
+    "valor": "calidad de vida"
+  },
+  {
+    "entidad": "mujeres con síntomas climatericos",
+    "relacion": "necesitan",
+    "valor": "THM"
+  },
+  {
+    "entidad": "sistemas de salud",
+    "relacion": "sobrecargan por",
+    "valor": "menopausia"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "deteriora",
+    "valor": "calidad de vida"
+  },
+  {
+    "entidad": "deficiencia de estrógenos",
+    "relacion": "asocia con",
+    "valor": "aumento de adiposidad"
+  },
+  {
+    "entidad": "síntomas vasomotores",
+    "relacion": "indican",
+    "valor": "mala calidad de vida"
+  },
+  {
+    "entidad": "disfunción sexual",
+    "relacion": "afecta",
+    "valor": "calidad de vida de la mujer"
+  },
+  {
+    "entidad": "trastornos del ánimo",
+    "relacion": "asocian con",
+    "valor": "síntomas menopáusicos"
+  },
+  {
+    "entidad": "estilo de vida sano",
+    "relacion": "contrarresta",
+    "valor": "efectos de la falencia estrogénica"
+  },
+  {
+    "entidad": "mujeres menopáusicas",
+    "relacion": "requieren",
+    "valor": "manejo clínico adecuado"
+  },
+  {
+    "entidad": "efecto placebo",
+    "relacion": "afecta a",
+    "valor": "práctica clínica"
+  },
+  {
+    "entidad": "efecto nocebo",
+    "relacion": "afecta a",
+    "valor": "práctica clínica"
+  },
+  {
+    "entidad": "mecanismos psicológicos",
+    "relacion": "involucra",
+    "valor": "efecto placebo"
+  },
+  {
+    "entidad": "polimorfismos genéticos",
+    "relacion": "afectan",
+    "valor": "susceptibilidad al efecto placebo"
+  },
+  {
+    "entidad": "corteza cingulada anterior",
+    "relacion": "involucrada en",
+    "valor": "efecto placebo"
+  },
+  {
+    "entidad": "núcleo accumbens",
+    "relacion": "involucrado en",
+    "valor": "efecto placebo"
+  },
+  {
+    "entidad": "corteza prefrontal dorsolateral",
+    "relacion": "involucrada en",
+    "valor": "efecto placebo"
+  },
+  {
+    "entidad": "corteza insular",
+    "relacion": "involucrada en",
+    "valor": "efecto placebo"
+  },
+  {
+    "entidad": "tálamo",
+    "relacion": "involucrado en",
+    "valor": "efecto placebo"
+  },
+  {
+    "entidad": "sistema opioide",
+    "relacion": "participa en",
+    "valor": "efecto placebo"
+  },
+  {
+    "entidad": "sistema dopaminérgico",
+    "relacion": "participa en",
+    "valor": "efecto placebo"
+  },
+  {
+    "entidad": "sistema cannabinoide",
+    "relacion": "participa en",
+    "valor": "efecto placebo"
+  },
+  {
+    "entidad": "sistema serotoninérgico",
+    "relacion": "participa en",
+    "valor": "efecto placebo"
+  },
+  {
+    "entidad": "corteza prefrontal dorsolateral",
+    "relacion": "correlaciona con",
+    "valor": "magnitud del efecto placebo"
+  },
+  {
+    "entidad": "polimorfismo A118G",
+    "relacion": "genera variaciones en",
+    "valor": "respuesta al efecto placebo"
+  },
+  {
+    "entidad": "proglumida",
+    "relacion": "potencia",
+    "valor": "analgesia placebo"
+  },
+  {
+    "entidad": "polimorfismo G-703T",
+    "relacion": "es predictor de",
+    "valor": "efecto placebo en fobia social"
+  },
+  {
+    "entidad": "expectativas y creencias",
+    "relacion": "gatillan",
+    "valor": "efecto placebo"
+  },
+  {
+    "entidad": "alivio de la ansiedad",
+    "relacion": "genera",
+    "valor": "analgesia placebo"
+  },
+  {
+    "entidad": "experiencias previas",
+    "relacion": "aprehende",
+    "valor": "respuestas al dolor"
+  },
+  {
+    "entidad": "respuesta apropiada a la sensación",
+    "relacion": "establece",
+    "valor": "evaluación preconsciente de estímulos"
+  },
+  {
+    "entidad": "circuitos del sistema nervioso central",
+    "relacion": "responden a",
+    "valor": "manipulación cognitiva"
+  },
+  {
+    "entidad": "naloxona",
+    "relacion": "reduce",
+    "valor": "respuesta placebo"
+  },
+  {
+    "entidad": "liquido cefalorraquídeo",
+    "relacion": "tiene mayor cantidad de",
+    "valor": "endorfinas en respondedores placebo"
+  },
+  {
+    "entidad": "polimorfismo rs4680",
+    "relacion": "genera mejores resultados en",
+    "valor": "analgesia placebo"
+  },
+  {
+    "entidad": "polimorfismo rs6323",
+    "relacion": "influye en",
+    "valor": "respuesta placebo de síntomas depresivos"
+  },
+  {
+    "entidad": "polimorfismo rs6280",
+    "relacion": "presenta inferencia en",
+    "valor": "mejoría clínica en esquizofrénicos tratados con placebo"
+  },
+  {
+    "entidad": "polimorfismo rs1048261",
+    "relacion": "genera mayor efecto placebo en",
+    "valor": "individuos con depresión"
+  },
+  {
+    "entidad": "polimorfismo rs6609257",
+    "relacion": "genera mayor efecto placebo en",
+    "valor": "individuos con depresión"
+  },
+  {
+    "entidad": "polimorfismo rs6265",
+    "relacion": "presenta mayor activación de",
+    "valor": "receptores D2 y D3 mediada por placebo"
+  },
+  {
+    "entidad": "ejercicio físico",
+    "relacion": "puede disminuir",
+    "valor": "peso corporal en sujetos con sobrepeso/obesidad"
+  },
+  {
+    "entidad": "sobrepeso/obesidad",
+    "relacion": "aumenta",
+    "valor": "riesgo de enfermedades crónicas no transmisibles"
+  },
+  {
+    "entidad": "pérdida de peso del 10%",
+    "relacion": "reduce",
+    "valor": "riesgo de mortalidad asociada a enfermedades metabólicas"
+  },
+  {
+    "entidad": "estrategias no farmacológicas",
+    "relacion": "incluyen",
+    "valor": "restricción calórica y ejercicio físico"
+  },
+  {
+    "entidad": "ejercicio físico",
+    "relacion": "tiene beneficios",
+    "valor": "independientes de su efecto en la reducción de peso"
+  },
+  {
+    "entidad": "inactividad física",
+    "relacion": "es responsable de",
+    "valor": "muertes causadas por obesidad"
+  },
+  {
+    "entidad": "ejercicio físico",
+    "relacion": "se utiliza para",
+    "valor": "controlar el peso corporal"
+  },
+  {
+    "entidad": "ejercicio continuo",
+    "relacion": "es efectivo en",
+    "valor": "protección cardio-metabólica"
+  },
+  {
+    "entidad": "ejercicio intermitente de alta intensidad",
+    "relacion": "mejora",
+    "valor": "sensibilidad a la insulina"
+  },
+  {
+    "entidad": "ejercicio de sobrecarga muscular",
+    "relacion": "contribuye a",
+    "valor": "mantener la masa muscular"
+  },
+  {
+    "entidad": "masa muscular esquelética",
+    "relacion": "es responsable de",
+    "valor": "captación de glucosa inducida por insulina"
+  },
+  {
+    "entidad": "ejercicio físico",
+    "relacion": "debe ser considerado en",
+    "valor": "programas de tratamiento y prevención de sobrepeso/obesidad"
+  },
+  {
+    "entidad": "ejercicio físico",
+    "relacion": "debe incluir",
+    "valor": "modelos de ejercicio para maximizar la pérdida de peso"
+  },
+  {
+    "entidad": "adherencia a programas de ejercicio",
+    "relacion": "es fundamental para",
+    "valor": "lograr objetivos a largo plazo en pacientes con sobrepeso/obesidad"
+  }
+]

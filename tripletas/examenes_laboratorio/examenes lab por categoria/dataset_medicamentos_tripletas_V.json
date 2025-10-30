@@ -1,0 +1,57 @@
+[
+  {
+    "entidad": "Videonistagmografía (VNG)",
+    "relacion": "mide",
+    "valor": "movimientos oculares (nistagmo)"
+  },
+  {
+    "entidad": "Videonistagmografía (VNG)",
+    "relacion": "diagnostica",
+    "valor": "trastornos del sistema vestibular"
+  },
+  {
+    "entidad": "Videonistagmografía (VNG)",
+    "relacion": "indicado_si_tiene",
+    "valor": "síntomas de un trastorno vestibular"
+  },
+  {
+    "entidad": "Videonistagmografía (VNG)",
+    "relacion": "alivia",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Videonistagmografía (VNG)",
+    "relacion": "tiene_riesgo",
+    "valor": "mareos, náuseas"
+  },
+  {
+    "entidad": "Videonistagmografía (VNG)",
+    "relacion": "realizado_por",
+    "valor": "audiólogo"
+  },
+  {
+    "entidad": "Videonistagmografía (VNG)",
+    "relacion": "realizado_por",
+    "valor": "otorrinolaringólogo"
+  },
+  {
+    "entidad": "Videonistagmografía (VNG)",
+    "relacion": "realizado_por",
+    "valor": "neurólogo"
+  },
+  {
+    "entidad": "Videonistagmografía (VNG)",
+    "relacion": "pertenece_a_categoria",
+    "valor": "exámenes de equilibrio"
+  },
+  {
+    "entidad": "Videonistagmografía (VNG)",
+    "relacion": "utiliza_equipo",
+    "valor": "cámara en lentes especiales"
+  },
+  {
+    "entidad": "Videonistagmografía (VNG)",
+    "relacion": "tiene_duracion",
+    "valor": "varía según la prueba"
+  }
+]

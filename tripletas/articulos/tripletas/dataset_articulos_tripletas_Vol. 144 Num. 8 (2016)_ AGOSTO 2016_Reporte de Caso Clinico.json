@@ -1,0 +1,277 @@
+[
+  {
+    "entidad": "Aspartato aminotransferasa (AST)",
+    "relacion": "es un",
+    "valor": "enzima utilizada en el estudio de enfermedades hepáticas"
+  },
+  {
+    "entidad": "macroenzimas",
+    "relacion": "son",
+    "valor": "complejos de alto peso molecular formados por múltiples moléculas enzimáticas unidas por inmunoglobulinas"
+  },
+  {
+    "entidad": "mujer de 23 años",
+    "relacion": "presenta",
+    "valor": "elevación aislada y sostenida de AST"
+  },
+  {
+    "entidad": "polietilenglicol (PEG)",
+    "relacion": "se utiliza para",
+    "valor": "precipitar macroenzimas"
+  },
+  {
+    "entidad": "macro-AST",
+    "relacion": "sugiere",
+    "valor": "presencia de macroenzimas en pacientes asintomáticos"
+  },
+  {
+    "entidad": "síndrome de ovario poliquístico",
+    "relacion": "es un",
+    "valor": "antecedente médico de la paciente"
+  },
+  {
+    "entidad": "anticonceptivos orales",
+    "relacion": "es un",
+    "valor": "tratamiento utilizado por la paciente"
+  },
+  {
+    "entidad": "síndrome de Gilbert",
+    "relacion": "es un",
+    "valor": "antecedente familiar del padre de la paciente"
+  },
+  {
+    "entidad": "mieloma múltiple",
+    "relacion": "es un",
+    "valor": "antecedente familiar del tío de la paciente"
+  },
+  {
+    "entidad": "elevación aislada de AST",
+    "relacion": "debe incluir",
+    "valor": "consideraciones sobre patología muscular, cardiaca y endocrina"
+  },
+  {
+    "entidad": "ecografía abdominal",
+    "relacion": "revela",
+    "valor": "resultados normales en la paciente"
+  },
+  {
+    "entidad": "actividad remanente en el sobrenadante",
+    "relacion": "se mide como",
+    "valor": "% recuperación o %PPA"
+  },
+  {
+    "entidad": "macro-AST",
+    "relacion": "se encuentra en",
+    "valor": "pacientes con carcinoma hepatocelular, hepatitis crónica y cirrosis"
+  },
+  {
+    "entidad": "precipitación con PEG",
+    "relacion": "es un método",
+    "valor": "sencillo para el diagnóstico de macroenzimas"
+  },
+  {
+    "entidad": "AST",
+    "relacion": "tiene",
+    "valor": "baja especificidad y puede originarse en distintos reservorios celulares"
+  },
+  {
+    "entidad": "elevación de AST",
+    "relacion": "puede ser causada por",
+    "valor": "hemólisis, ejercicio intenso y macroenzimas"
+  },
+  {
+    "entidad": "macroenzimas",
+    "relacion": "no producen",
+    "valor": "enfermedad, sino que son manifestaciones de patologías de base"
+  },
+  {
+    "entidad": "Colitis Linfocítica",
+    "relacion": "es un tipo de",
+    "valor": "Colitis Microscópica"
+  },
+  {
+    "entidad": "Colitis Ulcerosa",
+    "relacion": "es un tipo de",
+    "valor": "Enfermedad Inflamatoria Intestinal"
+  },
+  {
+    "entidad": "Colitis Linfocítica",
+    "relacion": "puede presentarse en",
+    "valor": "pacientes con Colitis Ulcerosa"
+  },
+  {
+    "entidad": "Budesonida",
+    "relacion": "es un tratamiento para",
+    "valor": "Colitis Linfocítica"
+  },
+  {
+    "entidad": "Colitis Ulcerosa",
+    "relacion": "puede preceder a",
+    "valor": "Colitis Linfocítica"
+  },
+  {
+    "entidad": "Colitis Microscópica",
+    "relacion": "se caracteriza por",
+    "valor": "diarrea líquida sin sangre"
+  },
+  {
+    "entidad": "Colitis Linfocítica",
+    "relacion": "se diagnostica mediante",
+    "valor": "biopsia"
+  },
+  {
+    "entidad": "Enfermedad Inflamatoria Intestinal",
+    "relacion": "incluye",
+    "valor": "Colitis Ulcerosa y Colitis Linfocítica"
+  },
+  {
+    "entidad": "Mujeres",
+    "relacion": "son más propensas a",
+    "valor": "Colitis Microscópica"
+  },
+  {
+    "entidad": "Colitis Ulcerosa",
+    "relacion": "puede tener",
+    "valor": "remisiones y recaídas"
+  },
+  {
+    "entidad": "Colitis Linfocítica",
+    "relacion": "presenta",
+    "valor": "más de 20 linfocitos intraepiteliales por cada 100 células epiteliales"
+  },
+  {
+    "entidad": "Colitis Ulcerosa",
+    "relacion": "puede ser tratada con",
+    "valor": "mesalazina"
+  },
+  {
+    "entidad": "Colitis Linfocítica",
+    "relacion": "puede ser tratada con",
+    "valor": "budesonida"
+  },
+  {
+    "entidad": "Colitis Linfocítica",
+    "relacion": "es más frecuente en",
+    "valor": "mujeres entre la quinta y sexta década de la vida"
+  },
+  {
+    "entidad": "Colitis Ulcerosa",
+    "relacion": "puede ser diagnosticada mediante",
+    "valor": "colonoscopy"
+  },
+  {
+    "entidad": "Colitis Linfocítica",
+    "relacion": "es parte de",
+    "valor": "un espectro más amplio de enfermedades"
+  },
+  {
+    "entidad": "Enfermedades autoinmunes",
+    "relacion": "están asociadas a",
+    "valor": "Colitis Linfocítica"
+  },
+  {
+    "entidad": "Calprotectina fecal",
+    "relacion": "se utiliza para",
+    "valor": "monitorear la remisión clínica"
+  },
+  {
+    "entidad": "Colitis Linfocítica",
+    "relacion": "puede tener",
+    "valor": "un curso benigno"
+  },
+  {
+    "entidad": "Colitis Ulcerosa",
+    "relacion": "puede presentar",
+    "valor": "distorsión de la arquitectura glandular"
+  },
+  {
+    "entidad": "Encefalopatía tóxica por isopropanol",
+    "relacion": "es un",
+    "valor": "tipo de encefalopatía"
+  },
+  {
+    "entidad": "isopropanol",
+    "relacion": "causa",
+    "valor": "encefalopatía tóxica"
+  },
+  {
+    "entidad": "gas propano",
+    "relacion": "puede causar",
+    "valor": "efectos deletéreos sobre el sistema nervioso central"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "coma y síntomas neurológicos"
+  },
+  {
+    "entidad": "Hospital del Salvador",
+    "relacion": "es un",
+    "valor": "hospital en Santiago, Chile"
+  },
+  {
+    "entidad": "Universidad de Chile",
+    "relacion": "es un",
+    "valor": "institución educativa"
+  },
+  {
+    "entidad": "Dr. Luis Cartier R.",
+    "relacion": "es el autor de",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "metabolismo de isopropanol",
+    "relacion": "sugiere",
+    "valor": "daño al sistema nervioso central"
+  },
+  {
+    "entidad": "gas licuado de petróleo",
+    "relacion": "es una mezcla de",
+    "valor": "hidrocarburos alifáticos"
+  },
+  {
+    "entidad": "hipocampo",
+    "relacion": "es afectado por",
+    "valor": "isopropanol"
+  },
+  {
+    "entidad": "acidosis metabólica",
+    "relacion": "es un síntoma de",
+    "valor": "intoxicación por isopropanol"
+  },
+  {
+    "entidad": "neuropsicológica",
+    "relacion": "evalúa",
+    "valor": "funciones cognitivas"
+  },
+  {
+    "entidad": "sistema nervioso central",
+    "relacion": "es afectado por",
+    "valor": "exposición a isopropanol"
+  },
+  {
+    "entidad": "saturación de oxígeno",
+    "relacion": "se mantiene",
+    "valor": "normal en la paciente"
+  },
+  {
+    "entidad": "RM (resonancia magnética)",
+    "relacion": "muestra",
+    "valor": "lesiones en hipocampos"
+  },
+  {
+    "entidad": "intoxicación por isopropanol",
+    "relacion": "puede causar",
+    "valor": "compromiso de la vía motora central"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "recupera",
+    "valor": "capacidad funcional tras intoxicación"
+  },
+  {
+    "entidad": "exposición a gas licuado",
+    "relacion": "puede resultar en",
+    "valor": "daño cerebral persistente"
+  }
+]

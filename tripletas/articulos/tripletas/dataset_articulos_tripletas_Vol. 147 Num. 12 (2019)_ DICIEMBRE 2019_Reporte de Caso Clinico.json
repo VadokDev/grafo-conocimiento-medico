@@ -1,0 +1,82 @@
+[
+  {
+    "entidad": "Arteria coronaria única",
+    "relacion": "es una",
+    "valor": "anomalía coronaria"
+  },
+  {
+    "entidad": "Arteria coronaria derecha",
+    "relacion": "nace desde",
+    "valor": "tercio medio de la arteria descendente anterior"
+  },
+  {
+    "entidad": "Enfermedad coronaria ateroesclerótica",
+    "relacion": "se asocia a",
+    "valor": "anomalía coronaria"
+  },
+  {
+    "entidad": "Coronariografía",
+    "relacion": "evidencia",
+    "valor": "anomalía en el origen de la arteria coronaria derecha"
+  },
+  {
+    "entidad": "Angioplastía",
+    "relacion": "se realiza en",
+    "valor": "pacientes con enfermedad coronaria"
+  },
+  {
+    "entidad": "Electrocardiograma",
+    "relacion": "muestra",
+    "valor": "hipertrofia ventricular izquierda e isquemia"
+  },
+  {
+    "entidad": "Biomarcadores de daño miocárdico",
+    "relacion": "no evidencian",
+    "valor": "alteración"
+  },
+  {
+    "entidad": "Ecocardiograma",
+    "relacion": "muestra",
+    "valor": "disfunción sistólica severa"
+  },
+  {
+    "entidad": "SPECT miocárdico",
+    "relacion": "informa",
+    "valor": "isquemia y necrosis"
+  },
+  {
+    "entidad": "Doble antiagregación plaquetaria",
+    "relacion": "se decide",
+    "valor": "tras angioplastía"
+  },
+  {
+    "entidad": "Capacidad funcional",
+    "relacion": "mejora en",
+    "valor": "pacientes tras tratamiento"
+  },
+  {
+    "entidad": "Muerte súbita",
+    "relacion": "puede ser causada por",
+    "valor": "anomalías coronarias"
+  },
+  {
+    "entidad": "Yamanaka y Hobbs",
+    "relacion": "publicaron",
+    "valor": "incidencia de anomalías coronarias"
+  },
+  {
+    "entidad": "Ugalde y cols.",
+    "relacion": "encontraron",
+    "valor": "anomalías en coronariografías"
+  },
+  {
+    "entidad": "Lipton y cols.",
+    "relacion": "propusieron",
+    "valor": "clasificación de anomalías coronarias"
+  },
+  {
+    "entidad": "Yurtdaş y cols.",
+    "relacion": "encontraron",
+    "valor": "casos de nacimiento anómalo de la arteria coronaria derecha"
+  }
+]

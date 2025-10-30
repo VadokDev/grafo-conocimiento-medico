@@ -1,0 +1,817 @@
+[
+  {
+    "entidad": "Escala de Adherencia Terapéutica en Diabetes Mellitus tipo 2 - EATDM-III",
+    "relacion": "fue creada en",
+    "valor": "Costa Rica"
+  },
+  {
+    "entidad": "EATDM-III",
+    "relacion": "evalúa",
+    "valor": "adherencia al tratamiento en pacientes con Diabetes Mellitus tipo 2"
+  },
+  {
+    "entidad": "Diabetes Mellitus tipo 2",
+    "relacion": "afecta",
+    "valor": "calidad de vida relacionada con la salud"
+  },
+  {
+    "entidad": "adherencia al tratamiento",
+    "relacion": "se define como",
+    "valor": "grado en que la conducta de una persona se corresponde con las recomendaciones de un prestador de salud"
+  },
+  {
+    "entidad": "adherencia al tratamiento",
+    "relacion": "se ve afectada por",
+    "valor": "factores culturales, cansancio, temor a punciones, insatisfacción con servicios de salud"
+  },
+  {
+    "entidad": "EATDM-III",
+    "relacion": "se adapta a",
+    "valor": "población chilena"
+  },
+  {
+    "entidad": "EATDM-III",
+    "relacion": "presenta",
+    "valor": "propiedades psicométricas confiables"
+  },
+  {
+    "entidad": "Universidad Católica del Norte",
+    "relacion": "evalúa",
+    "valor": "la escala EATDM-III"
+  },
+  {
+    "entidad": "Fondo Nacional de Salud (FONASA)",
+    "relacion": "beneficia a",
+    "valor": "pacientes con Diabetes Mellitus tipo 2"
+  },
+  {
+    "entidad": "escala de auto aplicación",
+    "relacion": "ofrece",
+    "valor": "tipos de respuesta tipo Likert"
+  },
+  {
+    "entidad": "análisis factorial",
+    "relacion": "se utiliza para",
+    "valor": "evaluar la estructura de la escala"
+  },
+  {
+    "entidad": "consistencia interna",
+    "relacion": "se mide con",
+    "valor": "alfa de Cronbach"
+  },
+  {
+    "entidad": "EATDM-III",
+    "relacion": "se compone de",
+    "valor": "30 ítems agrupados en seis dimensiones"
+  },
+  {
+    "entidad": "dimensiones de la EATDM-III",
+    "relacion": "incluyen",
+    "valor": "ejercicio físico, apoyo familiar, control médico, apoyo comunal, dieta, información"
+  },
+  {
+    "entidad": "pacientes con Diabetes Mellitus tipo 2",
+    "relacion": "son evaluados por",
+    "valor": "la escala EATDM-III"
+  },
+  {
+    "entidad": "adaptación de la escala",
+    "relacion": "considera",
+    "valor": "factores ambientales como cultura y situaciones sociales"
+  },
+  {
+    "entidad": "análisis de componentes principales",
+    "relacion": "se utiliza para",
+    "valor": "determinar la estructura factorial de la escala"
+  },
+  {
+    "entidad": "EATDM-III",
+    "relacion": "es un instrumento",
+    "valor": "para medir adherencia terapéutica"
+  },
+  {
+    "entidad": "Bullying",
+    "relacion": "afecta a",
+    "valor": "calidad de vida relacionada con la salud"
+  },
+  {
+    "entidad": "adolescentes escolares chilenos",
+    "relacion": "son",
+    "valor": "población objetivo del estudio"
+  },
+  {
+    "entidad": "calidad de vida relacionada con la salud (CVRS)",
+    "relacion": "se define como",
+    "valor": "salud física y mental percibida"
+  },
+  {
+    "entidad": "bullying",
+    "relacion": "se asocia con",
+    "valor": "percepción negativa de calidad de vida"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen",
+    "valor": "menor calidad de vida relacionada con la salud que hombres"
+  },
+  {
+    "entidad": "discapacidad",
+    "relacion": "se asocia con",
+    "valor": "menor puntuación en calidad de vida"
+  },
+  {
+    "entidad": "autopercepción",
+    "relacion": "influye en",
+    "valor": "calidad de vida relacionada con la salud"
+  },
+  {
+    "entidad": "tipo de colegio",
+    "relacion": "influye en",
+    "valor": "calidad de vida relacionada con la salud"
+  },
+  {
+    "entidad": "victimas de bullying",
+    "relacion": "tienen",
+    "valor": "mayor probabilidad de CVRS inferior"
+  },
+  {
+    "entidad": "estudiantes",
+    "relacion": "son evaluados con",
+    "valor": "KIDSCREEN-10"
+  },
+  {
+    "entidad": "programas de intervención",
+    "relacion": "son necesarios para",
+    "valor": "reducir bullying"
+  },
+  {
+    "entidad": "salud percibida",
+    "relacion": "se pregunta sobre",
+    "valor": "la percepción general de salud"
+  },
+  {
+    "entidad": "género",
+    "relacion": "se codifica como",
+    "valor": "hombre = 0, mujer = 1"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "se clasifica como",
+    "valor": "10-11 años = 0, 12-18 años = 1"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "se mide con",
+    "valor": "KIDSCREEN-10"
+  },
+  {
+    "entidad": "estudio observacional",
+    "relacion": "es un tipo de",
+    "valor": "metodología utilizada"
+  },
+  {
+    "entidad": "muestra",
+    "relacion": "se compone de",
+    "valor": "7,737 estudiantes"
+  },
+  {
+    "entidad": "programas de investigación Domeyko",
+    "relacion": "son",
+    "valor": "fuente de financiamiento"
+  },
+  {
+    "entidad": "cocaína",
+    "relacion": "es un",
+    "valor": "alcaloide utilizado como droga de abuso"
+  },
+  {
+    "entidad": "pacientes dependientes a cocaína",
+    "relacion": "presentan",
+    "valor": "alteraciones en el perfil lipídico y proteico"
+  },
+  {
+    "entidad": "perfil lipídico",
+    "relacion": "se asocia con",
+    "valor": "consumo de cocaína"
+  },
+  {
+    "entidad": "consumo de cocaína",
+    "relacion": "induce",
+    "valor": "vasoconstricción coronaria"
+  },
+  {
+    "entidad": "consumo de cocaína",
+    "relacion": "causa",
+    "valor": "taquicardia e hipertensión arterial"
+  },
+  {
+    "entidad": "cocaína",
+    "relacion": "afecta a",
+    "valor": "sistema nervioso central"
+  },
+  {
+    "entidad": "cocaína",
+    "relacion": "asocia con",
+    "valor": "aterosclerosis acelerada"
+  },
+  {
+    "entidad": "pacientes dependientes a cocaína",
+    "relacion": "tienen",
+    "valor": "mayor índice de masa corporal que controles"
+  },
+  {
+    "entidad": "mujeres dependientes a cocaína",
+    "relacion": "tienen",
+    "valor": "menor colesterol HDL"
+  },
+  {
+    "entidad": "hombres dependientes a cocaína",
+    "relacion": "tienen",
+    "valor": "mayor nivel de triglicéridos"
+  },
+  {
+    "entidad": "triglicéridos",
+    "relacion": "están",
+    "valor": "aumentados en dependientes a cocaína"
+  },
+  {
+    "entidad": "proteínas totales",
+    "relacion": "están",
+    "valor": "disminuidas en dependientes a cocaína"
+  },
+  {
+    "entidad": "albumina",
+    "relacion": "está",
+    "valor": "disminuida en dependientes a cocaína"
+  },
+  {
+    "entidad": "uremia",
+    "relacion": "está",
+    "valor": "disminuida en dependientes a cocaína"
+  },
+  {
+    "entidad": "cocaína",
+    "relacion": "se relaciona con",
+    "valor": "aumento de la relación colesterol total/HDL en mujeres"
+  },
+  {
+    "entidad": "cocaína",
+    "relacion": "afecta",
+    "valor": "metabolismo lipídico"
+  },
+  {
+    "entidad": "abstinencia de cocaína",
+    "relacion": "no revierte",
+    "valor": "alteraciones del perfil lipídico"
+  },
+  {
+    "entidad": "consumo de alcohol",
+    "relacion": "se asocia con",
+    "valor": "aumento de triglicéridos en dependientes a cocaína"
+  },
+  {
+    "entidad": "cocaína",
+    "relacion": "induce",
+    "valor": "insuficiencia cardíaca secundaria"
+  },
+  {
+    "entidad": "cocaína",
+    "relacion": "causa",
+    "valor": "alteraciones sistémicas como fiebre y eosinofilia"
+  },
+  {
+    "entidad": "cocaína",
+    "relacion": "se relaciona con",
+    "valor": "muerte súbita en dependientes"
+  },
+  {
+    "entidad": "cocaína",
+    "relacion": "afecta",
+    "valor": "metabolismo de proteínas"
+  },
+  {
+    "entidad": "cocaína",
+    "relacion": "se asocia con",
+    "valor": "aumento de plaquetas circulantes"
+  },
+  {
+    "entidad": "cocaína",
+    "relacion": "induce",
+    "valor": "cambios en la ingesta dietética"
+  },
+  {
+    "entidad": "cocaína",
+    "relacion": "se relaciona con",
+    "valor": "disminución de la liberación de insulina"
+  },
+  {
+    "entidad": "cocaína",
+    "relacion": "afecta",
+    "valor": "niveles de glicemia"
+  },
+  {
+    "entidad": "cocaína",
+    "relacion": "se asocia con",
+    "valor": "daño parenquimatoso en el cerebro"
+  },
+  {
+    "entidad": "cocaína",
+    "relacion": "induce",
+    "valor": "estado inflamatorio basal elevado"
+  },
+  {
+    "entidad": "juegos reducidos",
+    "relacion": "afectan",
+    "valor": "composición corporal y condición física aeróbica"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "contribuye a",
+    "valor": "control de peso y mejora de VO2max"
+  },
+  {
+    "entidad": "adolescentes escolares",
+    "relacion": "participan en",
+    "valor": "programas de intervención de actividad física"
+  },
+  {
+    "entidad": "grupo experimental",
+    "relacion": "realiza",
+    "valor": "juegos reducidos durante 11 semanas"
+  },
+  {
+    "entidad": "grupo control",
+    "relacion": "no recibe",
+    "valor": "intervención de actividad física"
+  },
+  {
+    "entidad": "composición corporal",
+    "relacion": "se mide mediante",
+    "valor": "bioimpedancia"
+  },
+  {
+    "entidad": "VO2max",
+    "relacion": "se calcula mediante",
+    "valor": "test de Course Navette"
+  },
+  {
+    "entidad": "bajos niveles de actividad física",
+    "relacion": "son un factor de riesgo de",
+    "valor": "enfermedades cardiovasculares y metabólicas"
+  },
+  {
+    "entidad": "sobrepeso",
+    "relacion": "aumenta en",
+    "valor": "adolescentes en Chile"
+  },
+  {
+    "entidad": "programas de intervención",
+    "relacion": "no han tenido",
+    "valor": "resultados esperados"
+  },
+  {
+    "entidad": "juegos reducidos",
+    "relacion": "son efectivos como",
+    "valor": "entrenamiento de alta intensidad"
+  },
+  {
+    "entidad": "frecuencia cardiaca máxima",
+    "relacion": "se alcanza en",
+    "valor": "juegos reducidos"
+  },
+  {
+    "entidad": "intervención de 11 semanas",
+    "relacion": "aumenta",
+    "valor": "VO2max y reduce masa grasa"
+  },
+  {
+    "entidad": "Universidad de Playa Ancha",
+    "relacion": "aprueba",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "comité de ética",
+    "relacion": "evalúa",
+    "valor": "la investigación"
+  },
+  {
+    "entidad": "adolescentes con sobrepeso",
+    "relacion": "mejoran",
+    "valor": "su condición física tras intervención"
+  },
+  {
+    "entidad": "juegos reducidos",
+    "relacion": "incrementan",
+    "valor": "número de decisiones en el juego"
+  },
+  {
+    "entidad": "Enfermedad inflamatoria intestinal",
+    "relacion": "afecta a",
+    "valor": "pacientes mayores de 60 años"
+  },
+  {
+    "entidad": "Enfermedad inflamatoria intestinal",
+    "relacion": "se diagnostica en",
+    "valor": "15% de los casos en mayores de 60 años"
+  },
+  {
+    "entidad": "Enfermedad de Crohn",
+    "relacion": "es un tipo de",
+    "valor": "enfermedad inflamatoria intestinal"
+  },
+  {
+    "entidad": "Colitis ulcerosa",
+    "relacion": "es un tipo de",
+    "valor": "enfermedad inflamatoria intestinal"
+  },
+  {
+    "entidad": "Grupo demográfico mayor de 65 años",
+    "relacion": "representa",
+    "valor": "20% de la población en 2030"
+  },
+  {
+    "entidad": "Población mayor de 60 años en Chile",
+    "relacion": "representa",
+    "valor": "11.4% de la población"
+  },
+  {
+    "entidad": "Pacientes mayores de 60 años",
+    "relacion": "tienen mayor frecuencia de",
+    "valor": "enfermedad de Crohn y enfermedad inflamatoria intestinal no clasificable"
+  },
+  {
+    "entidad": "Pacientes mayores de 60 años",
+    "relacion": "tienen menor frecuencia de",
+    "valor": "colitis ulcerosa"
+  },
+  {
+    "entidad": "Edad al diagnóstico de EII",
+    "relacion": "determina",
+    "valor": "fenotipo y extensión de la enfermedad"
+  },
+  {
+    "entidad": "Pacientes diagnosticados sobre los 60 años",
+    "relacion": "tienen un área comprometida de",
+    "valor": "menor extensión"
+  },
+  {
+    "entidad": "Pacientes mayores de 60 años",
+    "relacion": "presentan un curso",
+    "valor": "menos agresivo de la enfermedad"
+  },
+  {
+    "entidad": "Uso de inmunosupresores",
+    "relacion": "es similar en",
+    "valor": "pacientes mayores y menores de 60 años"
+  },
+  {
+    "entidad": "Eventos adversos a medicamentos",
+    "relacion": "no presentan diferencias significativas entre",
+    "valor": "pacientes mayores y menores de 60 años"
+  },
+  {
+    "entidad": "Terapia biológica",
+    "relacion": "es utilizada por",
+    "valor": "6.2% de pacientes mayores de 60 años"
+  },
+  {
+    "entidad": "Pacientes mayores de 60 años",
+    "relacion": "tienen mayor riesgo de",
+    "valor": "morbilidad postoperatoria y mortalidad hospitalaria"
+  },
+  {
+    "entidad": "Enfermedad inflamatoria intestinal",
+    "relacion": "debe ser considerada en",
+    "valor": "diagnóstico diferencial en pacientes mayores de 60 años"
+  },
+  {
+    "entidad": "Inmunohistoquímica convencional",
+    "relacion": "es un",
+    "valor": "método de predicción"
+  },
+  {
+    "entidad": "cáncer de mama",
+    "relacion": "es",
+    "valor": "una enfermedad"
+  },
+  {
+    "entidad": "quimioterapia neoadyuvante",
+    "relacion": "es un",
+    "valor": "tratamiento para cáncer de mama"
+  },
+  {
+    "entidad": "respuesta patológica completa (pCR)",
+    "relacion": "indica",
+    "valor": "buen pronóstico"
+  },
+  {
+    "entidad": "subtipo clínico-patológico",
+    "relacion": "predice",
+    "valor": "respuesta a quimioterapia"
+  },
+  {
+    "entidad": "subtipos moleculares de cáncer de mama",
+    "relacion": "muestran",
+    "valor": "diferentes sensibilidades a quimioterapia"
+  },
+  {
+    "entidad": "tumores triple negativos",
+    "relacion": "logran",
+    "valor": "mayor respuesta a quimioterapia"
+  },
+  {
+    "entidad": "receptor de estrógeno (RE)",
+    "relacion": "es un",
+    "valor": "marcador clásico"
+  },
+  {
+    "entidad": "HER-2",
+    "relacion": "es un",
+    "valor": "marcador clásico"
+  },
+  {
+    "entidad": "grado histológico (GH)",
+    "relacion": "es un",
+    "valor": "marcador clásico"
+  },
+  {
+    "entidad": "pacientes con cáncer de mama",
+    "relacion": "reciben",
+    "valor": "quimioterapia neoadyuvante"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "es un",
+    "valor": "centro de investigación"
+  },
+  {
+    "entidad": "Hospital Sótero del Río",
+    "relacion": "es un",
+    "valor": "centro de tratamiento"
+  },
+  {
+    "entidad": "César Sánchez",
+    "relacion": "es el",
+    "valor": "corresponsal del estudio"
+  },
+  {
+    "entidad": "sobrevida global (SG)",
+    "relacion": "se asocia con",
+    "valor": "respuesta patológica completa"
+  },
+  {
+    "entidad": "análisis univariado",
+    "relacion": "revela",
+    "valor": "factores significativos para pCR"
+  },
+  {
+    "entidad": "análisis multivariado",
+    "relacion": "no replicó",
+    "valor": "resultados del análisis univariado"
+  },
+  {
+    "entidad": "tamaño del tumor",
+    "relacion": "es un",
+    "valor": "predictor de pCR"
+  },
+  {
+    "entidad": "relación de metástasis a linfonodos",
+    "relacion": "es un",
+    "valor": "predictor de pCR"
+  },
+  {
+    "entidad": "ausencia de receptores hormonales",
+    "relacion": "es un",
+    "valor": "predictor de pCR"
+  },
+  {
+    "entidad": "tasa de respuesta patológica completa",
+    "relacion": "varía según",
+    "valor": "subtipo molecular"
+  },
+  {
+    "entidad": "marcadores patológicos convencionales",
+    "relacion": "proporcionan",
+    "valor": "información pronóstica"
+  },
+  {
+    "entidad": "Ki67",
+    "relacion": "es un",
+    "valor": "marcador de proliferación"
+  },
+  {
+    "entidad": "panel de marcadores de IHQ",
+    "relacion": "otorga",
+    "valor": "información pronóstica similar a Oncotype DX"
+  },
+  {
+    "entidad": "subtipos clínico-patológicos",
+    "relacion": "presentan",
+    "valor": "buena concordancia con perfiles genéticos"
+  },
+  {
+    "entidad": "Universidad de Chile",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "ADH1B",
+    "relacion": "codifica",
+    "valor": "Alcohol Deshidrogenasa"
+  },
+  {
+    "entidad": "ALDH2",
+    "relacion": "codifica",
+    "valor": "Aldehído Deshidrogenasa"
+  },
+  {
+    "entidad": "ADH1B*2",
+    "relacion": "presenta",
+    "valor": "alta frecuencia en poblaciones del Este de Asia"
+  },
+  {
+    "entidad": "ALDH2*2",
+    "relacion": "presenta",
+    "valor": "alta frecuencia en poblaciones del Este de Asia"
+  },
+  {
+    "entidad": "ADH4",
+    "relacion": "asociado con",
+    "valor": "riesgo-dependencia al alcohol"
+  },
+  {
+    "entidad": "AUDIT",
+    "relacion": "es un",
+    "valor": "cuestionario para detectar problemas de dependencia al alcohol"
+  },
+  {
+    "entidad": "alcoholismo",
+    "relacion": "es una",
+    "valor": "enfermedad compleja y multifactorial"
+  },
+  {
+    "entidad": "patrones de consumo de alcohol",
+    "relacion": "son evaluados por",
+    "valor": "cuestionario AUDIT"
+  },
+  {
+    "entidad": "genotipos protectores",
+    "relacion": "asociados con",
+    "valor": "variantes de protección contra el alcoholismo"
+  },
+  {
+    "entidad": "genotipos de riesgo",
+    "relacion": "asociados con",
+    "valor": "dependencia al alcohol"
+  },
+  {
+    "entidad": "patrones de consumo",
+    "relacion": "son influenciados por",
+    "valor": "factores socioculturales"
+  },
+  {
+    "entidad": "ADH1B*2",
+    "relacion": "posee",
+    "valor": "tasa metabólica elevada"
+  },
+  {
+    "entidad": "ALDH2*2",
+    "relacion": "codifica",
+    "valor": "enzima inactiva"
+  },
+  {
+    "entidad": "síndrome asiático de rubor facial",
+    "relacion": "es causado por",
+    "valor": "ALDH2*2"
+  },
+  {
+    "entidad": "ADH4 SNP6",
+    "relacion": "presenta",
+    "valor": "alta frecuencia en población europea y amerindia"
+  },
+  {
+    "entidad": "patrones de consumo de alcohol",
+    "relacion": "no están asociados con",
+    "valor": "genotipos protectores o de riesgo-dependencia"
+  },
+  {
+    "entidad": "muestra de estudiantes universitarios",
+    "relacion": "es analizada para",
+    "valor": "asociación entre genotipos y patrones de consumo"
+  },
+  {
+    "entidad": "políticas públicas",
+    "relacion": "deben considerar",
+    "valor": "diversidad y distribución poblacional de patrones de consumo"
+  },
+  {
+    "entidad": "Dermatitis alérgica de contacto",
+    "relacion": "es un",
+    "valor": "tipo de reacción de hipersensibilidad retardada"
+  },
+  {
+    "entidad": "test de parche",
+    "relacion": "es",
+    "valor": "prueba estándar para diagnóstico de dermatitis alérgica de contacto"
+  },
+  {
+    "entidad": "Santiago de Chile",
+    "relacion": "es un",
+    "valor": "lugar donde se realizó el estudio"
+  },
+  {
+    "entidad": "alérgenos",
+    "relacion": "son",
+    "valor": "sustancias que pueden causar dermatitis alérgica de contacto"
+  },
+  {
+    "entidad": "Níquel",
+    "relacion": "es el",
+    "valor": "alérgeno más frecuente en mujeres"
+  },
+  {
+    "entidad": "mezcla de fragancias",
+    "relacion": "es el",
+    "valor": "alérgeno más frecuente en hombres"
+  },
+  {
+    "entidad": "p-fenilenediamina",
+    "relacion": "es un",
+    "valor": "alérgeno utilizado en tinturas de pelo"
+  },
+  {
+    "entidad": "Clínica Alemana de Santiago",
+    "relacion": "es un",
+    "valor": "lugar donde se realizó el test de parche"
+  },
+  {
+    "entidad": "método estándar europeo",
+    "relacion": "es el",
+    "valor": "método utilizado para el test de parche"
+  },
+  {
+    "entidad": "reactividad",
+    "relacion": "varía",
+    "valor": "a lo largo del tiempo"
+  },
+  {
+    "entidad": "alérgenos emergentes",
+    "relacion": "afectan",
+    "valor": "la frecuencia de reactividad en la población"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "presentan",
+    "valor": "mayor reactividad a níquel"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "presentan",
+    "valor": "mayor reactividad a mezcla de fragancias"
+  },
+  {
+    "entidad": "frecuencia de reactividad",
+    "relacion": "se analiza",
+    "valor": "según género y evolución temporal"
+  },
+  {
+    "entidad": "sustancias químicas",
+    "relacion": "pueden causar",
+    "valor": "dermatitis alérgica de contacto"
+  },
+  {
+    "entidad": "comité de ética",
+    "relacion": "aprueba",
+    "valor": "el estudio realizado"
+  },
+  {
+    "entidad": "alérgenos de contacto",
+    "relacion": "son identificados como",
+    "valor": "haptenos"
+  },
+  {
+    "entidad": "células de Langerhans",
+    "relacion": "reconocen",
+    "valor": "haptenos en la epidermis"
+  },
+  {
+    "entidad": "reactividad a níquel",
+    "relacion": "ha aumentado",
+    "valor": "en la población chilena"
+  },
+  {
+    "entidad": "reactividad a mezcla de fragancias",
+    "relacion": "ha disminuido",
+    "valor": "en la población chilena"
+  },
+  {
+    "entidad": "población chilena",
+    "relacion": "presenta",
+    "valor": "una reactividad similar a la mundial"
+  },
+  {
+    "entidad": "baterías estándar de alérgenos",
+    "relacion": "deben incluir",
+    "valor": "nuevos alérgenos emergentes"
+  }
+]

@@ -1,0 +1,197 @@
+[
+  {
+    "entidad": "internación forzada",
+    "relacion": "es una",
+    "valor": "práctica común en psiquiatría"
+  },
+  {
+    "entidad": "internación forzada",
+    "relacion": "limita",
+    "valor": "libertad de movimiento del paciente"
+  },
+  {
+    "entidad": "internación forzada",
+    "relacion": "causa",
+    "valor": "estrés a la familia y red de apoyo"
+  },
+  {
+    "entidad": "internación forzada",
+    "relacion": "puede causar",
+    "valor": "violaciones a los derechos humanos"
+  },
+  {
+    "entidad": "Ley N.º 21.331",
+    "relacion": "establece",
+    "valor": "un estándar más exigente para la internación forzada"
+  },
+  {
+    "entidad": "Ley N.º 21.331",
+    "relacion": "aborda",
+    "valor": "los requisitos de la internación psiquiátrica"
+  },
+  {
+    "entidad": "médicos psiquiatras",
+    "relacion": "son responsables de",
+    "valor": "indicar internaciones forzadas"
+  },
+  {
+    "entidad": "Decreto N.º 570",
+    "relacion": "regula",
+    "valor": "la internación forzada en Chile"
+  },
+  {
+    "entidad": "Ley N.º 21.331",
+    "relacion": "requiere",
+    "valor": "revisión judicial de la internación involuntaria"
+  },
+  {
+    "entidad": "internación involuntaria",
+    "relacion": "debe ser",
+    "valor": "por el menor tiempo posible"
+  },
+  {
+    "entidad": "equipos clínicos",
+    "relacion": "deben",
+    "valor": "agotar instancias de tratamiento ambulatorio"
+  },
+  {
+    "entidad": "Ministerio de Salud",
+    "relacion": "debe elaborar",
+    "valor": "un reglamento para la internación forzada"
+  },
+  {
+    "entidad": "derechos humanos",
+    "relacion": "son garantizados por",
+    "valor": "convenciones internacionales"
+  },
+  {
+    "entidad": "Secretaría Regional Ministerial de Salud",
+    "relacion": "es responsable de",
+    "valor": "recibir denuncias sobre derechos humanos"
+  },
+  {
+    "entidad": "Ley N.º 21.331",
+    "relacion": "promueve",
+    "valor": "la inclusión de personas con discapacidad"
+  },
+  {
+    "entidad": "internación forzada",
+    "relacion": "puede generar",
+    "valor": "dificultades en la toma de decisiones familiares"
+  },
+  {
+    "entidad": "Ley N.º 21.331",
+    "relacion": "requiere",
+    "valor": "la participación de actores clave en su implementación"
+  },
+  {
+    "entidad": "Ley N.º 21.331",
+    "relacion": "implica",
+    "valor": "mayores exigencias para la internación involuntaria"
+  },
+  {
+    "entidad": "equipo de salud mental",
+    "relacion": "debe colaborar con",
+    "valor": "otros equipos de atención"
+  },
+  {
+    "entidad": "Ley N.º 21.331",
+    "relacion": "debe incluir",
+    "valor": "planes de acción con plazos claros"
+  },
+  {
+    "entidad": "pacientes con cirrosis",
+    "relacion": "tienen",
+    "valor": "mayor riesgo de infecciones, complicaciones y muerte"
+  },
+  {
+    "entidad": "vacunas",
+    "relacion": "se utilizan para",
+    "valor": "prevenir y reducir el riesgo de complicaciones de infecciones virales y bacterianas"
+  },
+  {
+    "entidad": "población con cirrosis",
+    "relacion": "debe ser evaluada para",
+    "valor": "inmunidad contra infecciones inmuno-preventables"
+  },
+  {
+    "entidad": "inmunizaciones",
+    "relacion": "deben ser actualizadas según",
+    "valor": "el programa nacional de vacunación"
+  },
+  {
+    "entidad": "estado de inmunización",
+    "relacion": "debe ser evaluado en",
+    "valor": "el estudio pre trasplante"
+  },
+  {
+    "entidad": "vacunas vivas atenuadas",
+    "relacion": "no están recomendadas",
+    "valor": "post trasplante hepático"
+  },
+  {
+    "entidad": "vacunas inactivas",
+    "relacion": "se recomiendan para",
+    "valor": "administrar hasta dos semanas previo al trasplante hepático"
+  },
+  {
+    "entidad": "vacuna anti influenza",
+    "relacion": "se recomienda administrar",
+    "valor": "desde el 1° mes post trasplante hepático"
+  },
+  {
+    "entidad": "pacientes con cirrosis hepática",
+    "relacion": "tienen",
+    "valor": "mayor riesgo de infección por neumococo"
+  },
+  {
+    "entidad": "vacuna neumocócica polisacárida (VNP-23)",
+    "relacion": "induce",
+    "valor": "respuesta IgG"
+  },
+  {
+    "entidad": "vacuna neumococo conjugada (VNC-13)",
+    "relacion": "induce",
+    "valor": "respuesta de LT y de memoria"
+  },
+  {
+    "entidad": "Neisseria meningitidis",
+    "relacion": "es responsable de",
+    "valor": "enfermedad invasora con morbimortalidad"
+  },
+  {
+    "entidad": "vacuna contra hepatitis A",
+    "relacion": "se recomienda en",
+    "valor": "pacientes con cirrosis sin antecedente de infección"
+  },
+  {
+    "entidad": "vacuna contra hepatitis B",
+    "relacion": "está recomendada en",
+    "valor": "pacientes con daño hepático crónico"
+  },
+  {
+    "entidad": "vacuna contra virus papiloma humano",
+    "relacion": "aumenta el riesgo de",
+    "valor": "cáncer cervicouterino, anogenital y orofaríngeo"
+  },
+  {
+    "entidad": "infección por SARS-CoV-2",
+    "relacion": "ha mostrado",
+    "valor": "mayor mortalidad en población cirrótica"
+  },
+  {
+    "entidad": "vacunas contra COVID-19",
+    "relacion": "inducen",
+    "valor": "anticuerpos contra la glicoproteína espiga del virus"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile (MINSAL)",
+    "relacion": "recomienda",
+    "valor": "vacunación para grupos especiales"
+  },
+  {
+    "entidad": "vacunas",
+    "relacion": "se utilizan para",
+    "valor": "estimular el sistema inmune"
+  }
+]

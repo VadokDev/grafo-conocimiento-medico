@@ -1,0 +1,3252 @@
+[
+  {
+    "entidad": "Safinamida",
+    "relacion": "trata",
+    "valor": "periodos de inmovilidad en personas con enfermedad de Parkinson"
+  },
+  {
+    "entidad": "Safinamida",
+    "relacion": "uso",
+    "valor": "tabletas para tomar por vía oral, una vez al día"
+  },
+  {
+    "entidad": "Safinamida",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Safinamida",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos concurrentes"
+  },
+  {
+    "entidad": "Safinamida",
+    "relacion": "dieta",
+    "valor": "evitar alimentos altos en tiramina"
+  },
+  {
+    "entidad": "Safinamida",
+    "relacion": "olvido",
+    "valor": "omitir la dosis y tomar la próxima a la hora usual"
+  },
+  {
+    "entidad": "Safinamida",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Safinamida",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para conciliar el sueño"
+  },
+  {
+    "entidad": "Safinamida",
+    "relacion": "efecto_secundario",
+    "valor": "movimientos corporales incontrolables"
+  },
+  {
+    "entidad": "Safinamida",
+    "relacion": "efecto_secundario",
+    "valor": "cambios en la vista"
+  },
+  {
+    "entidad": "Safinamida",
+    "relacion": "efecto_secundario",
+    "valor": "alucinaciones"
+  },
+  {
+    "entidad": "Safinamida",
+    "relacion": "efecto_secundario",
+    "valor": "creencias delirantes"
+  },
+  {
+    "entidad": "Safinamida",
+    "relacion": "efecto_secundario",
+    "valor": "agitación"
+  },
+  {
+    "entidad": "Safinamida",
+    "relacion": "almacenamiento",
+    "valor": "mantener en empaque original, a temperatura ambiente"
+  },
+  {
+    "entidad": "Safinamida",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Safinamida",
+    "relacion": "marca_comercial",
+    "valor": "Xadago"
+  },
+  {
+    "entidad": "Sareciclina",
+    "relacion": "trata",
+    "valor": "ciertos tipos de acné"
+  },
+  {
+    "entidad": "Sareciclina",
+    "relacion": "uso",
+    "valor": "tomar por vía oral, una vez al día, con o sin alimentos"
+  },
+  {
+    "entidad": "Sareciclina",
+    "relacion": "se_administra_via",
+    "valor": "vía oral"
+  },
+  {
+    "entidad": "Sareciclina",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Sareciclina",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias a sareciclina y otros antibióticos"
+  },
+  {
+    "entidad": "Sareciclina",
+    "relacion": "precaucion",
+    "valor": "informar sobre otros medicamentos que se están tomando"
+  },
+  {
+    "entidad": "Sareciclina",
+    "relacion": "precaucion",
+    "valor": "evitar antiácidos y productos con hierro que interfieren con su eficacia"
+  },
+  {
+    "entidad": "Sareciclina",
+    "relacion": "precaucion",
+    "valor": "evitar exposición prolongada a la luz solar"
+  },
+  {
+    "entidad": "Sareciclina",
+    "relacion": "precaucion",
+    "valor": "puede provocar mareos o vértigo"
+  },
+  {
+    "entidad": "Sareciclina",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Sareciclina",
+    "relacion": "olvido",
+    "valor": "tomar la dosis olvidada tan pronto como se recuerde"
+  },
+  {
+    "entidad": "Sareciclina",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Sareciclina",
+    "relacion": "efecto_secundario",
+    "valor": "prurito o flujo vaginal"
+  },
+  {
+    "entidad": "Sareciclina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza fuerte"
+  },
+  {
+    "entidad": "Sareciclina",
+    "relacion": "efecto_secundario",
+    "valor": "visión borrosa o doble"
+  },
+  {
+    "entidad": "Sareciclina",
+    "relacion": "efecto_secundario",
+    "valor": "heces líquidas o con sangre"
+  },
+  {
+    "entidad": "Sareciclina",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, cerrado y a temperatura ambiente"
+  },
+  {
+    "entidad": "Sareciclina",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Sareciclina",
+    "relacion": "marca_comercial",
+    "valor": "Seysara"
+  },
+  {
+    "entidad": "Secnidazol",
+    "relacion": "trata",
+    "valor": "vaginosis bacteriana"
+  },
+  {
+    "entidad": "Secnidazol",
+    "relacion": "trata",
+    "valor": "tricomoniasis"
+  },
+  {
+    "entidad": "Secnidazol",
+    "relacion": "uso",
+    "valor": "dosis única, con o sin comida"
+  },
+  {
+    "entidad": "Secnidazol",
+    "relacion": "se_administra_via",
+    "valor": "vía oral"
+  },
+  {
+    "entidad": "Secnidazol",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos"
+  },
+  {
+    "entidad": "Secnidazol",
+    "relacion": "precaucion",
+    "valor": "no amamantar durante 4 días después de la dosis"
+  },
+  {
+    "entidad": "Secnidazol",
+    "relacion": "precaucion",
+    "valor": "no consumir alcohol durante el tratamiento y 2 días después"
+  },
+  {
+    "entidad": "Secnidazol",
+    "relacion": "dieta",
+    "valor": "continuar con la dieta normal a menos que se indique lo contrario"
+  },
+  {
+    "entidad": "Secnidazol",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Secnidazol",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Secnidazol",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Secnidazol",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Secnidazol",
+    "relacion": "efecto_secundario",
+    "valor": "sabor desagradable o metálico"
+  },
+  {
+    "entidad": "Secnidazol",
+    "relacion": "efecto_secundario",
+    "valor": "mal olor vaginal o flujo vaginal anormal"
+  },
+  {
+    "entidad": "Secnidazol",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original, cerrado herméticamente y a temperatura ambiente"
+  },
+  {
+    "entidad": "Secnidazol",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Secnidazol",
+    "relacion": "marca_comercial",
+    "valor": "Solosec"
+  },
+  {
+    "entidad": "Selexipag",
+    "relacion": "trata",
+    "valor": "hipertensión arterial pulmonar"
+  },
+  {
+    "entidad": "Selexipag",
+    "relacion": "uso",
+    "valor": "tabletas para tomar por vía oral, dos veces al día con alimentos"
+  },
+  {
+    "entidad": "Selexipag",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Selexipag",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos concurrentes"
+  },
+  {
+    "entidad": "Selexipag",
+    "relacion": "dieta",
+    "valor": "continuar con dieta normal a menos que se indique lo contrario"
+  },
+  {
+    "entidad": "Selexipag",
+    "relacion": "olvido",
+    "valor": "tomar la dosis omitida tan pronto como lo recuerde, omitir si está cerca de la próxima dosis"
+  },
+  {
+    "entidad": "Selexipag",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Selexipag",
+    "relacion": "efecto_secundario",
+    "valor": "dolor en la mandíbula, articulaciones, músculos, brazos o piernas"
+  },
+  {
+    "entidad": "Selexipag",
+    "relacion": "efecto_secundario",
+    "valor": "disminución del apetito"
+  },
+  {
+    "entidad": "Selexipag",
+    "relacion": "efecto_secundario",
+    "valor": "náusea"
+  },
+  {
+    "entidad": "Selexipag",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Selexipag",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Selexipag",
+    "relacion": "efecto_secundario",
+    "valor": "enrojecimiento"
+  },
+  {
+    "entidad": "Selexipag",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Selexipag",
+    "relacion": "efecto_secundario",
+    "valor": "falta de aliento"
+  },
+  {
+    "entidad": "Selexipag",
+    "relacion": "efecto_secundario",
+    "valor": "respiración rápida"
+  },
+  {
+    "entidad": "Selexipag",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Selexipag",
+    "relacion": "efecto_secundario",
+    "valor": "debilidad"
+  },
+  {
+    "entidad": "Selexipag",
+    "relacion": "almacenamiento",
+    "valor": "mantener en empaque original, a temperatura ambiente, lejos del calor y la humedad"
+  },
+  {
+    "entidad": "Selexipag",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento o a servicios de emergencia"
+  },
+  {
+    "entidad": "Selexipag",
+    "relacion": "marca_comercial",
+    "valor": "Uptravi"
+  },
+  {
+    "entidad": "Selinexor",
+    "relacion": "trata",
+    "valor": "mieloma múltiple que ha reaparecido o no respondió a otros 4 tratamientos"
+  },
+  {
+    "entidad": "Selinexor",
+    "relacion": "trata",
+    "valor": "mieloma múltiple en pacientes tratados con al menos otro medicamento"
+  },
+  {
+    "entidad": "Selinexor",
+    "relacion": "trata",
+    "valor": "linfoma difuso de células B grandes (DLBCL) en adultos"
+  },
+  {
+    "entidad": "Selinexor",
+    "relacion": "uso",
+    "valor": "tabletas para tomar por vía oral"
+  },
+  {
+    "entidad": "Selinexor",
+    "relacion": "uso",
+    "valor": "tomar en días 1 y 3 de cada semana con dexametasona"
+  },
+  {
+    "entidad": "Selinexor",
+    "relacion": "uso",
+    "valor": "tomar una vez a la semana con bortezomib y dexametasona"
+  },
+  {
+    "entidad": "Selinexor",
+    "relacion": "uso",
+    "valor": "seguir las instrucciones de la etiqueta de la receta médica"
+  },
+  {
+    "entidad": "Selinexor",
+    "relacion": "uso",
+    "valor": "tragar las tabletas enteras con agua"
+  },
+  {
+    "entidad": "Selinexor",
+    "relacion": "otro_uso",
+    "valor": "otros usos bajo consulta médica"
+  },
+  {
+    "entidad": "Selinexor",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias a selinexor o ingredientes de las tabletas"
+  },
+  {
+    "entidad": "Selinexor",
+    "relacion": "precaucion",
+    "valor": "informar sobre otros medicamentos, vitaminas y suplementos"
+  },
+  {
+    "entidad": "Selinexor",
+    "relacion": "precaucion",
+    "valor": "informar sobre infecciones, problemas de hemorragia o cataratas"
+  },
+  {
+    "entidad": "Selinexor",
+    "relacion": "precaucion",
+    "valor": "no quedar embarazada durante el tratamiento y 1 semana después"
+  },
+  {
+    "entidad": "Selinexor",
+    "relacion": "precaucion",
+    "valor": "no amamantar durante el tratamiento y 1 semana después"
+  },
+  {
+    "entidad": "Selinexor",
+    "relacion": "precaucion",
+    "valor": "puede disminuir la fertilidad en hombres y mujeres"
+  },
+  {
+    "entidad": "Selinexor",
+    "relacion": "precaucion",
+    "valor": "puede causar somnolencia, no conducir ni operar maquinaria"
+  },
+  {
+    "entidad": "Selinexor",
+    "relacion": "dieta",
+    "valor": "continuar con dieta normal a menos que se indique lo contrario"
+  },
+  {
+    "entidad": "Selinexor",
+    "relacion": "dieta",
+    "valor": "beber suficientes líquidos y consumir suficientes calorías"
+  },
+  {
+    "entidad": "Selinexor",
+    "relacion": "olvido",
+    "valor": "no tomar dosis omitida, continuar con la próxima dosis programada"
+  },
+  {
+    "entidad": "Selinexor",
+    "relacion": "efecto_secundario",
+    "valor": "náusea"
+  },
+  {
+    "entidad": "Selinexor",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Selinexor",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Selinexor",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Selinexor",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de peso"
+  },
+  {
+    "entidad": "Selinexor",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de apetito"
+  },
+  {
+    "entidad": "Selinexor",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio extremo"
+  },
+  {
+    "entidad": "Selinexor",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para conciliar el sueño"
+  },
+  {
+    "entidad": "Selinexor",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Selinexor",
+    "relacion": "efecto_secundario",
+    "valor": "cambios en el gusto"
+  },
+  {
+    "entidad": "Selinexor",
+    "relacion": "efecto_secundario",
+    "valor": "sangrado o moretones que aparecen fácilmente"
+  },
+  {
+    "entidad": "Selinexor",
+    "relacion": "efecto_secundario",
+    "valor": "fatiga, piel pálida o dificultad para respirar"
+  },
+  {
+    "entidad": "Selinexor",
+    "relacion": "efecto_secundario",
+    "valor": "fiebre, tos, escalofríos u otros síntomas de infección"
+  },
+  {
+    "entidad": "Selinexor",
+    "relacion": "efecto_secundario",
+    "valor": "ver cosas o escuchar voces que no existen"
+  },
+  {
+    "entidad": "Selinexor",
+    "relacion": "efecto_secundario",
+    "valor": "confusión"
+  },
+  {
+    "entidad": "Selinexor",
+    "relacion": "efecto_secundario",
+    "valor": "visión borrosa o doble"
+  },
+  {
+    "entidad": "Selinexor",
+    "relacion": "efecto_secundario",
+    "valor": "mayor sensibilidad a la luz y el resplandor"
+  },
+  {
+    "entidad": "Selinexor",
+    "relacion": "almacenamiento",
+    "valor": "mantener en envase original, cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Selinexor",
+    "relacion": "almacenamiento",
+    "valor": "almacenar a temperatura ambiente, lejos del calor y la humedad"
+  },
+  {
+    "entidad": "Selinexor",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Selinexor",
+    "relacion": "sobredosis",
+    "valor": "llamar a servicios de emergencia si hay síntomas graves"
+  },
+  {
+    "entidad": "Selinexor",
+    "relacion": "marca_comercial",
+    "valor": "Xpovio"
+  },
+  {
+    "entidad": "Sertralina",
+    "relacion": "contraindicado_en",
+    "valor": "niños, adolescentes y adultos jóvenes (hasta 24 años) con tendencias suicidas"
+  },
+  {
+    "entidad": "Sertralina",
+    "relacion": "trata",
+    "valor": "depresión"
+  },
+  {
+    "entidad": "Sertralina",
+    "relacion": "trata",
+    "valor": "trastorno obsesivo-compulsivo"
+  },
+  {
+    "entidad": "Sertralina",
+    "relacion": "trata",
+    "valor": "ataques de pánico"
+  },
+  {
+    "entidad": "Sertralina",
+    "relacion": "trata",
+    "valor": "trastorno de estrés postraumático"
+  },
+  {
+    "entidad": "Sertralina",
+    "relacion": "trata",
+    "valor": "trastorno de ansiedad social"
+  },
+  {
+    "entidad": "Sertralina",
+    "relacion": "trata",
+    "valor": "trastorno disfórico premenstrual"
+  },
+  {
+    "entidad": "Sertralina",
+    "relacion": "uso",
+    "valor": "tomar una vez al día, en la mañana o en la tarde"
+  },
+  {
+    "entidad": "Sertralina",
+    "relacion": "uso",
+    "valor": "mezclar concentrado con 4 onzas de líquido antes de tomar"
+  },
+  {
+    "entidad": "Sertralina",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias a sertralina o látex"
+  },
+  {
+    "entidad": "Sertralina",
+    "relacion": "precaucion",
+    "valor": "no tomar disulfiram mientras se usa sertralina"
+  },
+  {
+    "entidad": "Sertralina",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Sertralina",
+    "relacion": "olvido",
+    "valor": "tomar la dosis olvidada tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Sertralina",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Sertralina",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Sertralina",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Sertralina",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Sertralina",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para conciliar el sueño"
+  },
+  {
+    "entidad": "Sertralina",
+    "relacion": "efecto_secundario",
+    "valor": "boca seca"
+  },
+  {
+    "entidad": "Sertralina",
+    "relacion": "efecto_secundario",
+    "valor": "acidez estomacal"
+  },
+  {
+    "entidad": "Sertralina",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de apetito"
+  },
+  {
+    "entidad": "Sertralina",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio excesivo"
+  },
+  {
+    "entidad": "Sertralina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Sertralina",
+    "relacion": "efecto_secundario",
+    "valor": "nerviosismo"
+  },
+  {
+    "entidad": "Sertralina",
+    "relacion": "efecto_secundario",
+    "valor": "temblor incontrolable"
+  },
+  {
+    "entidad": "Sertralina",
+    "relacion": "efecto_secundario",
+    "valor": "problemas sexuales en varones"
+  },
+  {
+    "entidad": "Sertralina",
+    "relacion": "efecto_secundario",
+    "valor": "problemas sexuales en mujeres"
+  },
+  {
+    "entidad": "Sertralina",
+    "relacion": "efecto_secundario",
+    "valor": "sudoración excesiva"
+  },
+  {
+    "entidad": "Sertralina",
+    "relacion": "efecto_secundario",
+    "valor": "convulsiones"
+  },
+  {
+    "entidad": "Sertralina",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, bien cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Sertralina",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente, lejos del calor y la humedad"
+  },
+  {
+    "entidad": "Sertralina",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Sertralina",
+    "relacion": "marca_comercial",
+    "valor": "Zoloft"
+  },
+  {
+    "entidad": "Sofosbuvir, velpatasvir y voxilaprevir",
+    "relacion": "contraindicado_en",
+    "valor": "infección por hepatitis B"
+  },
+  {
+    "entidad": "Sofosbuvir, velpatasvir y voxilaprevir",
+    "relacion": "trata",
+    "valor": "infección de hepatitis C crónica"
+  },
+  {
+    "entidad": "Sofosbuvir, velpatasvir y voxilaprevir",
+    "relacion": "uso",
+    "valor": "tableta para tomar por vía oral una vez al día con alimentos por 12 semanas"
+  },
+  {
+    "entidad": "Sofosbuvir, velpatasvir y voxilaprevir",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Sofosbuvir, velpatasvir y voxilaprevir",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos concurrentes"
+  },
+  {
+    "entidad": "Sofosbuvir, velpatasvir y voxilaprevir",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta a menos que lo indique el médico"
+  },
+  {
+    "entidad": "Sofosbuvir, velpatasvir y voxilaprevir",
+    "relacion": "olvido",
+    "valor": "tomar la dosis omitida con alimentos tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Sofosbuvir, velpatasvir y voxilaprevir",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Sofosbuvir, velpatasvir y voxilaprevir",
+    "relacion": "efecto_secundario",
+    "valor": "fatiga"
+  },
+  {
+    "entidad": "Sofosbuvir, velpatasvir y voxilaprevir",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Sofosbuvir, velpatasvir y voxilaprevir",
+    "relacion": "efecto_secundario",
+    "valor": "debilidad"
+  },
+  {
+    "entidad": "Sofosbuvir, velpatasvir y voxilaprevir",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para conciliar el sueño"
+  },
+  {
+    "entidad": "Sofosbuvir, velpatasvir y voxilaprevir",
+    "relacion": "efecto_secundario",
+    "valor": "depresión"
+  },
+  {
+    "entidad": "Sofosbuvir, velpatasvir y voxilaprevir",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Sofosbuvir, velpatasvir y voxilaprevir",
+    "relacion": "efecto_secundario",
+    "valor": "adormecimiento"
+  },
+  {
+    "entidad": "Sofosbuvir, velpatasvir y voxilaprevir",
+    "relacion": "efecto_secundario",
+    "valor": "confusión"
+  },
+  {
+    "entidad": "Sofosbuvir, velpatasvir y voxilaprevir",
+    "relacion": "efecto_secundario",
+    "valor": "inflamación de la zona del estómago"
+  },
+  {
+    "entidad": "Sofosbuvir, velpatasvir y voxilaprevir",
+    "relacion": "efecto_secundario",
+    "valor": "vomitar sangre"
+  },
+  {
+    "entidad": "Sofosbuvir, velpatasvir y voxilaprevir",
+    "relacion": "efecto_secundario",
+    "valor": "heces oscuras"
+  },
+  {
+    "entidad": "Sofosbuvir, velpatasvir y voxilaprevir",
+    "relacion": "almacenamiento",
+    "valor": "mantener en empaque original, a temperatura ambiente, lejos del calor y humedad"
+  },
+  {
+    "entidad": "Sofosbuvir, velpatasvir y voxilaprevir",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento o a servicios de emergencia"
+  },
+  {
+    "entidad": "Sofosbuvir, velpatasvir y voxilaprevir",
+    "relacion": "marca_comercial",
+    "valor": "Vosevi"
+  },
+  {
+    "entidad": "Sofosbuvir",
+    "relacion": "contraindicado_en",
+    "valor": "infección por hepatitis B"
+  },
+  {
+    "entidad": "Sofosbuvir",
+    "relacion": "trata",
+    "valor": "hepatitis C crónica"
+  },
+  {
+    "entidad": "Sofosbuvir",
+    "relacion": "uso",
+    "valor": "tomar una vez al día, con o sin alimentos"
+  },
+  {
+    "entidad": "Sofosbuvir",
+    "relacion": "se_administra_via",
+    "valor": "vía oral"
+  },
+  {
+    "entidad": "Sofosbuvir",
+    "relacion": "otro_uso",
+    "valor": "otros usos a consultar con el médico"
+  },
+  {
+    "entidad": "Sofosbuvir",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos"
+  },
+  {
+    "entidad": "Sofosbuvir",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Sofosbuvir",
+    "relacion": "olvido",
+    "valor": "tomar la dosis olvidada el mismo día, saltar si es al día siguiente"
+  },
+  {
+    "entidad": "Sofosbuvir",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Sofosbuvir",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Sofosbuvir",
+    "relacion": "efecto_secundario",
+    "valor": "dolor muscular"
+  },
+  {
+    "entidad": "Sofosbuvir",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para conciliar el sueño"
+  },
+  {
+    "entidad": "Sofosbuvir",
+    "relacion": "efecto_secundario",
+    "valor": "irritabilidad"
+  },
+  {
+    "entidad": "Sofosbuvir",
+    "relacion": "efecto_secundario",
+    "valor": "picazón"
+  },
+  {
+    "entidad": "Sofosbuvir",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Sofosbuvir",
+    "relacion": "efecto_secundario",
+    "valor": "piel pálida"
+  },
+  {
+    "entidad": "Sofosbuvir",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Sofosbuvir",
+    "relacion": "efecto_secundario",
+    "valor": "falta de aliento"
+  },
+  {
+    "entidad": "Sofosbuvir",
+    "relacion": "efecto_secundario",
+    "valor": "debilidad"
+  },
+  {
+    "entidad": "Sofosbuvir",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de garganta"
+  },
+  {
+    "entidad": "Sofosbuvir",
+    "relacion": "efecto_secundario",
+    "valor": "inflamación del rostro"
+  },
+  {
+    "entidad": "Sofosbuvir",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente, fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Sofosbuvir",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Sofpironio",
+    "relacion": "trata",
+    "valor": "sudoración excesiva de las axilas en adultos y niños mayores de 9 años"
+  },
+  {
+    "entidad": "Sofpironio",
+    "relacion": "uso",
+    "valor": "aplicar en gel sobre la piel de la axila una vez al día a la hora de dormir"
+  },
+  {
+    "entidad": "Sofpironio",
+    "relacion": "se_administra_via",
+    "valor": "aplicación tópica"
+  },
+  {
+    "entidad": "Sofpironio",
+    "relacion": "otro_uso",
+    "valor": "puede ser recetado para otros usos"
+  },
+  {
+    "entidad": "Sofpironio",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos que se estén tomando"
+  },
+  {
+    "entidad": "Sofpironio",
+    "relacion": "precaucion",
+    "valor": "no usar si se padece glaucoma, obstrucción digestiva, colitis ulcerosa, miastenia grave o síndrome de Sjogren"
+  },
+  {
+    "entidad": "Sofpironio",
+    "relacion": "precaucion",
+    "valor": "puede provocar visión borrosa"
+  },
+  {
+    "entidad": "Sofpironio",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Sofpironio",
+    "relacion": "olvido",
+    "valor": "aplicar la dosis olvidada tan pronto como se recuerde, omitir si es casi hora de la siguiente dosis"
+  },
+  {
+    "entidad": "Sofpironio",
+    "relacion": "efecto_secundario",
+    "valor": "boca seca"
+  },
+  {
+    "entidad": "Sofpironio",
+    "relacion": "efecto_secundario",
+    "valor": "visión borrosa"
+  },
+  {
+    "entidad": "Sofpironio",
+    "relacion": "efecto_secundario",
+    "valor": "pupilas dilatadas"
+  },
+  {
+    "entidad": "Sofpironio",
+    "relacion": "efecto_secundario",
+    "valor": "dolor, enrojecimiento, picazón, irritación o erupción en la axila"
+  },
+  {
+    "entidad": "Sofpironio",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para orinar"
+  },
+  {
+    "entidad": "Sofpironio",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original, cerrado herméticamente y a temperatura ambiente"
+  },
+  {
+    "entidad": "Sofpironio",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento o a los servicios de emergencia"
+  },
+  {
+    "entidad": "Sofpironio",
+    "relacion": "marca_comercial",
+    "valor": "Sofdra ®"
+  },
+  {
+    "entidad": "Solifenacina",
+    "relacion": "trata",
+    "valor": "vejiga urinaria hiperactiva"
+  },
+  {
+    "entidad": "Solifenacina",
+    "relacion": "trata",
+    "valor": "hiperactividad del detrusor neurogénico en niños de 2 años y mayores"
+  },
+  {
+    "entidad": "Solifenacina",
+    "relacion": "uso",
+    "valor": "tomar una vez al día, con o sin alimentos"
+  },
+  {
+    "entidad": "Solifenacina",
+    "relacion": "se_administra_via",
+    "valor": "vía oral"
+  },
+  {
+    "entidad": "Solifenacina",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Solifenacina",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias a la solifenacina o ingredientes"
+  },
+  {
+    "entidad": "Solifenacina",
+    "relacion": "precaucion",
+    "valor": "informar sobre medicamentos que toma"
+  },
+  {
+    "entidad": "Solifenacina",
+    "relacion": "precaucion",
+    "valor": "informar sobre condiciones médicas como glaucoma o retención urinaria"
+  },
+  {
+    "entidad": "Solifenacina",
+    "relacion": "precaucion",
+    "valor": "informar si está embarazada o amamantando"
+  },
+  {
+    "entidad": "Solifenacina",
+    "relacion": "precaucion",
+    "valor": "puede causar mareos o somnolencia"
+  },
+  {
+    "entidad": "Solifenacina",
+    "relacion": "dieta",
+    "valor": "consultar sobre jugo de toronja"
+  },
+  {
+    "entidad": "Solifenacina",
+    "relacion": "olvido",
+    "valor": "omitir dosis y tomar la siguiente a la hora habitual"
+  },
+  {
+    "entidad": "Solifenacina",
+    "relacion": "efecto_secundario",
+    "valor": "boca seca"
+  },
+  {
+    "entidad": "Solifenacina",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Solifenacina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago"
+  },
+  {
+    "entidad": "Solifenacina",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Solifenacina",
+    "relacion": "efecto_secundario",
+    "valor": "visión borrosa"
+  },
+  {
+    "entidad": "Solifenacina",
+    "relacion": "efecto_secundario",
+    "valor": "micción dolorosa o frecuente"
+  },
+  {
+    "entidad": "Solifenacina",
+    "relacion": "almacenamiento",
+    "valor": "mantener en empaque original, cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Solifenacina",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente, lejos del calor y la humedad"
+  },
+  {
+    "entidad": "Solifenacina",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Solifenacina",
+    "relacion": "marca_comercial",
+    "valor": "VESIcare"
+  },
+  {
+    "entidad": "Solifenacina",
+    "relacion": "marca_comercial",
+    "valor": "VESIcare LS"
+  },
+  {
+    "entidad": "Solriamfetol",
+    "relacion": "trata",
+    "valor": "somnolencia diurna excesiva causada por la narcolepsia"
+  },
+  {
+    "entidad": "Solriamfetol",
+    "relacion": "trata",
+    "valor": "somnolencia diurna excesiva causada por el síndrome de apnea/hipopnea obstructiva del sueño (SAHOS)"
+  },
+  {
+    "entidad": "Solriamfetol",
+    "relacion": "uso",
+    "valor": "tomar una vez al día, con o sin alimentos, por vía oral"
+  },
+  {
+    "entidad": "Solriamfetol",
+    "relacion": "se_administra_via",
+    "valor": "vía oral"
+  },
+  {
+    "entidad": "Solriamfetol",
+    "relacion": "precaucion",
+    "valor": "informe a su médico si es alérgico al solriamfetol o a otros medicamentos"
+  },
+  {
+    "entidad": "Solriamfetol",
+    "relacion": "precaucion",
+    "valor": "informe a su médico si está tomando inhibidores de la monoaminooxidasa (IMAO)"
+  },
+  {
+    "entidad": "Solriamfetol",
+    "relacion": "precaucion",
+    "valor": "informe a su médico si ha tenido problemas de salud como presión arterial alta o enfermedades mentales"
+  },
+  {
+    "entidad": "Solriamfetol",
+    "relacion": "precaucion",
+    "valor": "informe a su médico si está embarazada o amamantando"
+  },
+  {
+    "entidad": "Solriamfetol",
+    "relacion": "dieta",
+    "valor": "continuar con la dieta normal a menos que su médico indique lo contrario"
+  },
+  {
+    "entidad": "Solriamfetol",
+    "relacion": "olvido",
+    "valor": "tome la dosis que omitió tan pronto como lo recuerde, a menos que sea menos de 9 horas antes de acostarse"
+  },
+  {
+    "entidad": "Solriamfetol",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Solriamfetol",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Solriamfetol",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para conciliar el sueño o permanecer dormido"
+  },
+  {
+    "entidad": "Solriamfetol",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Solriamfetol",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Solriamfetol",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Solriamfetol",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de apetito"
+  },
+  {
+    "entidad": "Solriamfetol",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago"
+  },
+  {
+    "entidad": "Solriamfetol",
+    "relacion": "efecto_secundario",
+    "valor": "sudoración"
+  },
+  {
+    "entidad": "Solriamfetol",
+    "relacion": "efecto_secundario",
+    "valor": "dolor en el pecho"
+  },
+  {
+    "entidad": "Solriamfetol",
+    "relacion": "efecto_secundario",
+    "valor": "ritmo cardíaco rápido, fuerte o irregular"
+  },
+  {
+    "entidad": "Solriamfetol",
+    "relacion": "efecto_secundario",
+    "valor": "falta de aliento"
+  },
+  {
+    "entidad": "Solriamfetol",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para hablar o hablar lento"
+  },
+  {
+    "entidad": "Solriamfetol",
+    "relacion": "efecto_secundario",
+    "valor": "debilidad u hormigueo de un brazo o una pierna"
+  },
+  {
+    "entidad": "Solriamfetol",
+    "relacion": "efecto_secundario",
+    "valor": "cambios en la visión o visión borrosa"
+  },
+  {
+    "entidad": "Solriamfetol",
+    "relacion": "efecto_secundario",
+    "valor": "mayor cansancio"
+  },
+  {
+    "entidad": "Solriamfetol",
+    "relacion": "efecto_secundario",
+    "valor": "hinchazón de las manos, pies, tobillos o pantorrillas"
+  },
+  {
+    "entidad": "Solriamfetol",
+    "relacion": "efecto_secundario",
+    "valor": "ánimo frenético, anormalmente emocionado"
+  },
+  {
+    "entidad": "Solriamfetol",
+    "relacion": "efecto_secundario",
+    "valor": "ansiedad"
+  },
+  {
+    "entidad": "Solriamfetol",
+    "relacion": "efecto_secundario",
+    "valor": "irritabilidad"
+  },
+  {
+    "entidad": "Solriamfetol",
+    "relacion": "efecto_secundario",
+    "valor": "agitación"
+  },
+  {
+    "entidad": "Solriamfetol",
+    "relacion": "efecto_secundario",
+    "valor": "comportamiento agresivo"
+  },
+  {
+    "entidad": "Solriamfetol",
+    "relacion": "efecto_secundario",
+    "valor": "alucinaciones"
+  },
+  {
+    "entidad": "Solriamfetol",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, bien cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Solriamfetol",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente, lejos del calor y la humedad"
+  },
+  {
+    "entidad": "Solriamfetol",
+    "relacion": "sobredosis",
+    "valor": "llame a la línea de ayuda de control de envenenamiento o a los servicios de emergencia"
+  },
+  {
+    "entidad": "Solriamfetol",
+    "relacion": "marca_comercial",
+    "valor": "Sunosi"
+  },
+  {
+    "entidad": "Sulfadiazina de plata",
+    "relacion": "trata",
+    "valor": "infecciones por quemaduras de segundo y tercer grado"
+  },
+  {
+    "entidad": "Sulfadiazina de plata",
+    "relacion": "uso",
+    "valor": "aplicar 1 o 2 veces al día"
+  },
+  {
+    "entidad": "Sulfadiazina de plata",
+    "relacion": "precaucion",
+    "valor": "informar si es alérgico a la sulfadiazina de plata, sulfamidas o cualquier otro medicamento"
+  },
+  {
+    "entidad": "Sulfadiazina de plata",
+    "relacion": "precaucion",
+    "valor": "informar sobre otros medicamentos que toma"
+  },
+  {
+    "entidad": "Sulfadiazina de plata",
+    "relacion": "precaucion",
+    "valor": "informar si tiene enfermedad hepática o renal"
+  },
+  {
+    "entidad": "Sulfadiazina de plata",
+    "relacion": "precaucion",
+    "valor": "informar si está embarazada o amamantando"
+  },
+  {
+    "entidad": "Sulfadiazina de plata",
+    "relacion": "olvido",
+    "valor": "aplicar la dosis omitida tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Sulfadiazina de plata",
+    "relacion": "efecto_secundario",
+    "valor": "dolor"
+  },
+  {
+    "entidad": "Sulfadiazina de plata",
+    "relacion": "efecto_secundario",
+    "valor": "ardor"
+  },
+  {
+    "entidad": "Sulfadiazina de plata",
+    "relacion": "efecto_secundario",
+    "valor": "picazón"
+  },
+  {
+    "entidad": "Sulfadiazina de plata",
+    "relacion": "efecto_secundario",
+    "valor": "sangrado o moretones inusuales"
+  },
+  {
+    "entidad": "Sulfadiazina de plata",
+    "relacion": "efecto_secundario",
+    "valor": "fiebre"
+  },
+  {
+    "entidad": "Sulfadiazina de plata",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de garganta"
+  },
+  {
+    "entidad": "Sulfadiazina de plata",
+    "relacion": "efecto_secundario",
+    "valor": "coloración amarillenta en la piel y los ojos"
+  },
+  {
+    "entidad": "Sulfadiazina de plata",
+    "relacion": "efecto_secundario",
+    "valor": "sangre en la orina"
+  },
+  {
+    "entidad": "Sulfadiazina de plata",
+    "relacion": "efecto_secundario",
+    "valor": "articulaciones doloridas"
+  },
+  {
+    "entidad": "Sulfadiazina de plata",
+    "relacion": "efecto_secundario",
+    "valor": "debilidad o cansancio inusuales"
+  },
+  {
+    "entidad": "Sulfadiazina de plata",
+    "relacion": "efecto_secundario",
+    "valor": "erupción cutánea"
+  },
+  {
+    "entidad": "Sulfadiazina de plata",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, bien cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Sulfadiazina de plata",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente, lejos del calor excesivo y la humedad"
+  },
+  {
+    "entidad": "Sulfadiazina de plata",
+    "relacion": "marca_comercial",
+    "valor": "Silvadene ®"
+  },
+  {
+    "entidad": "Sulfadiazina de plata",
+    "relacion": "marca_comercial",
+    "valor": "SSD Cream ®"
+  },
+  {
+    "entidad": "Sulfadiazina de plata",
+    "relacion": "marca_comercial",
+    "valor": "Thermazene ®"
+  },
+  {
+    "entidad": "Sunitinib",
+    "relacion": "contraindicado_en",
+    "valor": "enfermedad hepática"
+  },
+  {
+    "entidad": "Sunitinib",
+    "relacion": "trata",
+    "valor": "tumores del estroma gastrointestinal (GIST)"
+  },
+  {
+    "entidad": "Sunitinib",
+    "relacion": "trata",
+    "valor": "carcinoma de células renales avanzado (CCR)"
+  },
+  {
+    "entidad": "Sunitinib",
+    "relacion": "trata",
+    "valor": "tumores neuroendocrinos pancreáticos (pNET)"
+  },
+  {
+    "entidad": "Sunitinib",
+    "relacion": "uso",
+    "valor": "cápsula para tomar por vía oral con o sin alimentos"
+  },
+  {
+    "entidad": "Sunitinib",
+    "relacion": "uso",
+    "valor": "una vez al día durante 4 semanas, seguido de 2 semanas de descanso"
+  },
+  {
+    "entidad": "Sunitinib",
+    "relacion": "uso",
+    "valor": "tomar aproximadamente a la misma hora todos los días"
+  },
+  {
+    "entidad": "Sunitinib",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias a sunitinib o ingredientes"
+  },
+  {
+    "entidad": "Sunitinib",
+    "relacion": "precaucion",
+    "valor": "informar sobre otros medicamentos que se están tomando"
+  },
+  {
+    "entidad": "Sunitinib",
+    "relacion": "precaucion",
+    "valor": "no amamantar durante el tratamiento ni 4 semanas después"
+  },
+  {
+    "entidad": "Sunitinib",
+    "relacion": "precaucion",
+    "valor": "dejar de tomar sunitinib al menos 3 semanas antes de cirugía"
+  },
+  {
+    "entidad": "Sunitinib",
+    "relacion": "dieta",
+    "valor": "no comer pomelo ni tomar jugo de pomelo"
+  },
+  {
+    "entidad": "Sunitinib",
+    "relacion": "olvido",
+    "valor": "si es menos de 12 horas, tomar la dosis omitida; si más, omitir"
+  },
+  {
+    "entidad": "Sunitinib",
+    "relacion": "efecto_secundario",
+    "valor": "debilidad"
+  },
+  {
+    "entidad": "Sunitinib",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Sunitinib",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Sunitinib",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Sunitinib",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Sunitinib",
+    "relacion": "efecto_secundario",
+    "valor": "acidez estomacal"
+  },
+  {
+    "entidad": "Sunitinib",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de apetito"
+  },
+  {
+    "entidad": "Sunitinib",
+    "relacion": "efecto_secundario",
+    "valor": "cambios en el peso"
+  },
+  {
+    "entidad": "Sunitinib",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida del cabello"
+  },
+  {
+    "entidad": "Sunitinib",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Sunitinib",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente, lejos del calor y la humedad"
+  },
+  {
+    "entidad": "Sunitinib",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Sunitinib",
+    "relacion": "marca_comercial",
+    "valor": "Sutent ®"
+  },
+  {
+    "entidad": "Sunvozertinib",
+    "relacion": "trata",
+    "valor": "cáncer de pulmón de células no pequeñas"
+  },
+  {
+    "entidad": "Sunvozertinib",
+    "relacion": "uso",
+    "valor": "tabletas para tomar por vía oral una vez al día con alimentos"
+  },
+  {
+    "entidad": "Sunvozertinib",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Sunvozertinib",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos concomitantes"
+  },
+  {
+    "entidad": "Sunvozertinib",
+    "relacion": "precaucion",
+    "valor": "puede disminuir la eficacia de anticonceptivos hormonales"
+  },
+  {
+    "entidad": "Sunvozertinib",
+    "relacion": "dieta",
+    "valor": "consultar sobre el consumo de toronja"
+  },
+  {
+    "entidad": "Sunvozertinib",
+    "relacion": "olvido",
+    "valor": "tomar la dosis olvidada si es menos de 12 horas, de lo contrario omitir"
+  },
+  {
+    "entidad": "Sunvozertinib",
+    "relacion": "efecto_secundario",
+    "valor": "problemas oculares nuevos o agravados"
+  },
+  {
+    "entidad": "Sunvozertinib",
+    "relacion": "efecto_secundario",
+    "valor": "disminución del apetito"
+  },
+  {
+    "entidad": "Sunvozertinib",
+    "relacion": "efecto_secundario",
+    "valor": "aftas en la boca"
+  },
+  {
+    "entidad": "Sunvozertinib",
+    "relacion": "efecto_secundario",
+    "valor": "sensación de cansancio"
+  },
+  {
+    "entidad": "Sunvozertinib",
+    "relacion": "efecto_secundario",
+    "valor": "piel seca o con picazón"
+  },
+  {
+    "entidad": "Sunvozertinib",
+    "relacion": "efecto_secundario",
+    "valor": "infección alrededor de la piel o la uña"
+  },
+  {
+    "entidad": "Sunvozertinib",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Sunvozertinib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor en músculos o articulaciones"
+  },
+  {
+    "entidad": "Sunvozertinib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor abdominal"
+  },
+  {
+    "entidad": "Sunvozertinib",
+    "relacion": "efecto_secundario",
+    "valor": "disminución del peso"
+  },
+  {
+    "entidad": "Sunvozertinib",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para respirar"
+  },
+  {
+    "entidad": "Sunvozertinib",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea, náuseas, vómitos"
+  },
+  {
+    "entidad": "Sunvozertinib",
+    "relacion": "efecto_secundario",
+    "valor": "erupción cutánea, acné"
+  },
+  {
+    "entidad": "Sunvozertinib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor o dificultad al orinar"
+  },
+  {
+    "entidad": "Sunvozertinib",
+    "relacion": "almacenamiento",
+    "valor": "mantener en envase original, cerrado y a temperatura ambiente"
+  },
+  {
+    "entidad": "Sunvozertinib",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento o a servicios de emergencia"
+  },
+  {
+    "entidad": "Sunvozertinib",
+    "relacion": "marca_comercial",
+    "valor": "Zegfrovy"
+  },
+  {
+    "entidad": "Talco (intrapleural)",
+    "relacion": "trata",
+    "valor": "prevención de la efusión pleural maligna"
+  },
+  {
+    "entidad": "Talco (intrapleural)",
+    "relacion": "uso",
+    "valor": "mezcla con líquido e introducir en la cavidad torácica por medio de un catéter torácico"
+  },
+  {
+    "entidad": "Talco (intrapleural)",
+    "relacion": "otro_uso",
+    "valor": "otros usos bajo consulta médica"
+  },
+  {
+    "entidad": "Talco (intrapleural)",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos"
+  },
+  {
+    "entidad": "Talco (intrapleural)",
+    "relacion": "dieta",
+    "valor": "continuar con la dieta normal a menos que se indique lo contrario"
+  },
+  {
+    "entidad": "Talco (intrapleural)",
+    "relacion": "efecto_secundario",
+    "valor": "dolor"
+  },
+  {
+    "entidad": "Talco (intrapleural)",
+    "relacion": "efecto_secundario",
+    "valor": "sangrado en el área donde se introdujo el tubo"
+  },
+  {
+    "entidad": "Talco (intrapleural)",
+    "relacion": "efecto_secundario",
+    "valor": "fiebre"
+  },
+  {
+    "entidad": "Talco (intrapleural)",
+    "relacion": "efecto_secundario",
+    "valor": "falta de aire"
+  },
+  {
+    "entidad": "Talco (intrapleural)",
+    "relacion": "efecto_secundario",
+    "valor": "expectoración de sangre al toser"
+  },
+  {
+    "entidad": "Talco (intrapleural)",
+    "relacion": "efecto_secundario",
+    "valor": "latidos rápidos del corazón"
+  },
+  {
+    "entidad": "Talco (intrapleural)",
+    "relacion": "efecto_secundario",
+    "valor": "dolor o presión en el pecho"
+  },
+  {
+    "entidad": "Talco (intrapleural)",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Talco (intrapleural)",
+    "relacion": "efecto_secundario",
+    "valor": "desvanecimiento"
+  },
+  {
+    "entidad": "Talco (intrapleural)",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Talco (intrapleural)",
+    "relacion": "marca_comercial",
+    "valor": "Sclerosal ®"
+  },
+  {
+    "entidad": "Tedizolid",
+    "relacion": "trata",
+    "valor": "infecciones de la piel causadas por ciertos tipos de bacterias"
+  },
+  {
+    "entidad": "Tedizolid",
+    "relacion": "uso",
+    "valor": "tabletas para tomar por vía oral una vez al día durante 6 días"
+  },
+  {
+    "entidad": "Tedizolid",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Tedizolid",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos que se están tomando"
+  },
+  {
+    "entidad": "Tedizolid",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta a menos que lo indique el médico"
+  },
+  {
+    "entidad": "Tedizolid",
+    "relacion": "olvido",
+    "valor": "tomar la dosis olvidada si se acuerda más de 8 horas antes de la siguiente dosis"
+  },
+  {
+    "entidad": "Tedizolid",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Tedizolid",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Tedizolid",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Tedizolid",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Tedizolid",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Tedizolid",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea intensa"
+  },
+  {
+    "entidad": "Tedizolid",
+    "relacion": "efecto_secundario",
+    "valor": "entumecimiento, hormigueo, ardor o dolor en manos o pies"
+  },
+  {
+    "entidad": "Tedizolid",
+    "relacion": "efecto_secundario",
+    "valor": "cambio o pérdida de la visión"
+  },
+  {
+    "entidad": "Tedizolid",
+    "relacion": "efecto_secundario",
+    "valor": "sangrado o moretones que se forman con facilidad"
+  },
+  {
+    "entidad": "Tedizolid",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, bien cerrado y a temperatura ambiente"
+  },
+  {
+    "entidad": "Tedizolid",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento o a los servicios de emergencia"
+  },
+  {
+    "entidad": "Tedizolid",
+    "relacion": "marca_comercial",
+    "valor": "Sivextro"
+  },
+  {
+    "entidad": "Testosterona bucal",
+    "relacion": "contraindicado_en",
+    "valor": "hombres con baja testosterona debido al envejecimiento"
+  },
+  {
+    "entidad": "Testosterona bucal",
+    "relacion": "trata",
+    "valor": "síntomas de un nivel bajo de testosterona en hombres adultos con hipogonadismo"
+  },
+  {
+    "entidad": "Testosterona bucal",
+    "relacion": "uso",
+    "valor": "aplicar en la encía superior dos veces al día"
+  },
+  {
+    "entidad": "Testosterona bucal",
+    "relacion": "se_administra_via",
+    "valor": "encía superior"
+  },
+  {
+    "entidad": "Testosterona bucal",
+    "relacion": "otro_uso",
+    "valor": "consultar al médico o farmacéutico"
+  },
+  {
+    "entidad": "Testosterona bucal",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos actuales"
+  },
+  {
+    "entidad": "Testosterona bucal",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Testosterona bucal",
+    "relacion": "olvido",
+    "valor": "retirar el sistema usado y aplicar uno nuevo tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Testosterona bucal",
+    "relacion": "efecto_secundario",
+    "valor": "disminución en la cantidad de esperma"
+  },
+  {
+    "entidad": "Testosterona bucal",
+    "relacion": "efecto_secundario",
+    "valor": "aumento del riesgo de cáncer de próstata"
+  },
+  {
+    "entidad": "Testosterona bucal",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original, cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Testosterona bucal",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Testosterona bucal",
+    "relacion": "marca_comercial",
+    "valor": "Striant"
+  },
+  {
+    "entidad": "Tezacaftor e ivacaftor",
+    "relacion": "trata",
+    "valor": "ciertos tipos de fibrosis quística"
+  },
+  {
+    "entidad": "Tezacaftor e ivacaftor",
+    "relacion": "uso",
+    "valor": "tomar con un alimento graso"
+  },
+  {
+    "entidad": "Tezacaftor e ivacaftor",
+    "relacion": "se_administra_via",
+    "valor": "vía oral"
+  },
+  {
+    "entidad": "Tezacaftor e ivacaftor",
+    "relacion": "dieta",
+    "valor": "no comer toronja ni tomar jugo de toronja"
+  },
+  {
+    "entidad": "Tezacaftor e ivacaftor",
+    "relacion": "olvido",
+    "valor": "tomar la dosis olvidada dentro de las 6 horas con un alimento graso"
+  },
+  {
+    "entidad": "Tezacaftor e ivacaftor",
+    "relacion": "efecto_secundario",
+    "valor": "cataratas en niños y adolescentes"
+  },
+  {
+    "entidad": "Tezacaftor e ivacaftor",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Tezacaftor e ivacaftor",
+    "relacion": "efecto_secundario",
+    "valor": "congestión nasal"
+  },
+  {
+    "entidad": "Tezacaftor e ivacaftor",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Tezacaftor e ivacaftor",
+    "relacion": "efecto_secundario",
+    "valor": "coloración amarillenta en la piel y los ojos"
+  },
+  {
+    "entidad": "Tezacaftor e ivacaftor",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de apetito"
+  },
+  {
+    "entidad": "Tezacaftor e ivacaftor",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Tezacaftor e ivacaftor",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Tezacaftor e ivacaftor",
+    "relacion": "efecto_secundario",
+    "valor": "heces pálidas"
+  },
+  {
+    "entidad": "Tezacaftor e ivacaftor",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago"
+  },
+  {
+    "entidad": "Tezacaftor e ivacaftor",
+    "relacion": "efecto_secundario",
+    "valor": "orina oscura"
+  },
+  {
+    "entidad": "Tezacaftor e ivacaftor",
+    "relacion": "efecto_secundario",
+    "valor": "erupción cutánea"
+  },
+  {
+    "entidad": "Tezacaftor e ivacaftor",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, bien cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Tezacaftor e ivacaftor",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente, lejos del calor excesivo y la humedad"
+  },
+  {
+    "entidad": "Tezacaftor e ivacaftor",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Tezacaftor e ivacaftor",
+    "relacion": "marca_comercial",
+    "valor": "Symdeko"
+  },
+  {
+    "entidad": "Tiludronato",
+    "relacion": "trata",
+    "valor": "enfermedad ósea de Paget"
+  },
+  {
+    "entidad": "Tiludronato",
+    "relacion": "uso",
+    "valor": "tableta para tomar por vía oral en ayunas una vez al día durante 3 meses"
+  },
+  {
+    "entidad": "Tiludronato",
+    "relacion": "otro_uso",
+    "valor": "puede recetarse para otros usos"
+  },
+  {
+    "entidad": "Tiludronato",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos"
+  },
+  {
+    "entidad": "Tiludronato",
+    "relacion": "precaucion",
+    "valor": "no puede permanecer de pie o sentado en posición erguida durante 30 minutos"
+  },
+  {
+    "entidad": "Tiludronato",
+    "relacion": "precaucion",
+    "valor": "informar si está embarazada o amamantando"
+  },
+  {
+    "entidad": "Tiludronato",
+    "relacion": "dieta",
+    "valor": "comer y beber alimentos ricos en calcio y vitamina D"
+  },
+  {
+    "entidad": "Tiludronato",
+    "relacion": "olvido",
+    "valor": "tomar la dosis que omitió tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Tiludronato",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Tiludronato",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Tiludronato",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Tiludronato",
+    "relacion": "efecto_secundario",
+    "valor": "gases"
+  },
+  {
+    "entidad": "Tiludronato",
+    "relacion": "efecto_secundario",
+    "valor": "hinchazón de brazos, manos, pies, tobillos o pantorrillas"
+  },
+  {
+    "entidad": "Tiludronato",
+    "relacion": "efecto_secundario",
+    "valor": "dolor, ardor, entumecimiento u hormigueo en manos o pies"
+  },
+  {
+    "entidad": "Tiludronato",
+    "relacion": "efecto_secundario",
+    "valor": "ojos rojos o irritados"
+  },
+  {
+    "entidad": "Tiludronato",
+    "relacion": "efecto_secundario",
+    "valor": "cambios en la visión"
+  },
+  {
+    "entidad": "Tiludronato",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Tiludronato",
+    "relacion": "efecto_secundario",
+    "valor": "aparición o empeoramiento de acidez estomacal"
+  },
+  {
+    "entidad": "Tiludronato",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para tragar"
+  },
+  {
+    "entidad": "Tiludronato",
+    "relacion": "efecto_secundario",
+    "valor": "dolor al tragar"
+  },
+  {
+    "entidad": "Tiludronato",
+    "relacion": "efecto_secundario",
+    "valor": "dolor en el pecho"
+  },
+  {
+    "entidad": "Tiludronato",
+    "relacion": "almacenamiento",
+    "valor": "mantener en empaque original, bien cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Tiludronato",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente y lejos del exceso de calor y humedad"
+  },
+  {
+    "entidad": "Tiludronato",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento o a los servicios de emergencia"
+  },
+  {
+    "entidad": "Tiludronato",
+    "relacion": "marca_comercial",
+    "valor": "Skelid"
+  },
+  {
+    "entidad": "Tolvaptán",
+    "relacion": "trata",
+    "valor": "hiponatremia (bajos niveles de sodio en la sangre)"
+  },
+  {
+    "entidad": "Tolvaptán",
+    "relacion": "trata",
+    "valor": "insuficiencia cardiaca"
+  },
+  {
+    "entidad": "Tolvaptán",
+    "relacion": "trata",
+    "valor": "síndrome de hormona antidiurética inapropiada (SIADH)"
+  },
+  {
+    "entidad": "Tolvaptán",
+    "relacion": "uso",
+    "valor": "tabletas para tomar por vía oral una vez al día"
+  },
+  {
+    "entidad": "Tolvaptán",
+    "relacion": "se_administra_via",
+    "valor": "oral"
+  },
+  {
+    "entidad": "Tolvaptán",
+    "relacion": "dieta",
+    "valor": "no comer pomelo ni tomar jugo de pomelo"
+  },
+  {
+    "entidad": "Tolvaptán",
+    "relacion": "olvido",
+    "valor": "tome la dosis que omitió tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Tolvaptán",
+    "relacion": "efecto_secundario",
+    "valor": "sed"
+  },
+  {
+    "entidad": "Tolvaptán",
+    "relacion": "efecto_secundario",
+    "valor": "boca seca"
+  },
+  {
+    "entidad": "Tolvaptán",
+    "relacion": "efecto_secundario",
+    "valor": "micción frecuente y excesiva"
+  },
+  {
+    "entidad": "Tolvaptán",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Tolvaptán",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de apetito"
+  },
+  {
+    "entidad": "Tolvaptán",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Tolvaptán",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Tolvaptán",
+    "relacion": "efecto_secundario",
+    "valor": "fiebre"
+  },
+  {
+    "entidad": "Tolvaptán",
+    "relacion": "efecto_secundario",
+    "valor": "malestar general"
+  },
+  {
+    "entidad": "Tolvaptán",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio o debilidad inusuales"
+  },
+  {
+    "entidad": "Tolvaptán",
+    "relacion": "efecto_secundario",
+    "valor": "picazón"
+  },
+  {
+    "entidad": "Tolvaptán",
+    "relacion": "efecto_secundario",
+    "valor": "coloración amarillenta en la piel y los ojos"
+  },
+  {
+    "entidad": "Tolvaptán",
+    "relacion": "efecto_secundario",
+    "valor": "orina oscura"
+  },
+  {
+    "entidad": "Tolvaptán",
+    "relacion": "efecto_secundario",
+    "valor": "dolor en la parte superior derecha del estómago"
+  },
+  {
+    "entidad": "Tolvaptán",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Tolvaptán",
+    "relacion": "efecto_secundario",
+    "valor": "incapacidad para beber normalmente"
+  },
+  {
+    "entidad": "Tolvaptán",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Tolvaptán",
+    "relacion": "efecto_secundario",
+    "valor": "desmayos"
+  },
+  {
+    "entidad": "Tolvaptán",
+    "relacion": "efecto_secundario",
+    "valor": "vómito con sangre o que se ve como café molido"
+  },
+  {
+    "entidad": "Tolvaptán",
+    "relacion": "efecto_secundario",
+    "valor": "heces negras, sanguinolentas y alquitranadas"
+  },
+  {
+    "entidad": "Tolvaptán",
+    "relacion": "efecto_secundario",
+    "valor": "inflamación del rostro, la garganta, la lengua, los labios, los ojos, las manos, los pies, los tobillos o las pantorrillas"
+  },
+  {
+    "entidad": "Tolvaptán",
+    "relacion": "efecto_secundario",
+    "valor": "ronquera"
+  },
+  {
+    "entidad": "Tolvaptán",
+    "relacion": "efecto_secundario",
+    "valor": "urticaria"
+  },
+  {
+    "entidad": "Tolvaptán",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Tolvaptán",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, bien cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Tolvaptán",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente y lejos del calor excesivo y la humedad"
+  },
+  {
+    "entidad": "Tolvaptán",
+    "relacion": "sobredosis",
+    "valor": "llame a la línea de ayuda de control de envenenamiento al 1-800-222-1222"
+  },
+  {
+    "entidad": "Tolvaptán",
+    "relacion": "marca_comercial",
+    "valor": "Samsca"
+  },
+  {
+    "entidad": "Trifluoperazina",
+    "relacion": "contraindicado_en",
+    "valor": "adultos mayores con demencia"
+  },
+  {
+    "entidad": "Trifluoperazina",
+    "relacion": "trata",
+    "valor": "síntomas de esquizofrenia"
+  },
+  {
+    "entidad": "Trifluoperazina",
+    "relacion": "trata",
+    "valor": "ansiedad en personas que no han respondido a otros medicamentos"
+  },
+  {
+    "entidad": "Trifluoperazina",
+    "relacion": "uso",
+    "valor": "tomar por vía oral, una o dos veces al día"
+  },
+  {
+    "entidad": "Trifluoperazina",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Trifluoperazina",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias a fenotiazinas"
+  },
+  {
+    "entidad": "Trifluoperazina",
+    "relacion": "precaucion",
+    "valor": "informar sobre medicamentos que toma"
+  },
+  {
+    "entidad": "Trifluoperazina",
+    "relacion": "precaucion",
+    "valor": "informar sobre enfermedades hepáticas o sanguíneas"
+  },
+  {
+    "entidad": "Trifluoperazina",
+    "relacion": "precaucion",
+    "valor": "informar sobre feocromocitoma, cáncer de mama, glaucoma"
+  },
+  {
+    "entidad": "Trifluoperazina",
+    "relacion": "precaucion",
+    "valor": "informar si está embarazada o amamantando"
+  },
+  {
+    "entidad": "Trifluoperazina",
+    "relacion": "precaucion",
+    "valor": "informar sobre cirugía o mielografía"
+  },
+  {
+    "entidad": "Trifluoperazina",
+    "relacion": "precaucion",
+    "valor": "no conducir ni operar maquinaria pesada"
+  },
+  {
+    "entidad": "Trifluoperazina",
+    "relacion": "precaucion",
+    "valor": "evitar exposición prolongada al sol"
+  },
+  {
+    "entidad": "Trifluoperazina",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Trifluoperazina",
+    "relacion": "olvido",
+    "valor": "tomar la dosis olvidada tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Trifluoperazina",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Trifluoperazina",
+    "relacion": "efecto_secundario",
+    "valor": "visión borrosa"
+  },
+  {
+    "entidad": "Trifluoperazina",
+    "relacion": "efecto_secundario",
+    "valor": "boca seca"
+  },
+  {
+    "entidad": "Trifluoperazina",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Trifluoperazina",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Trifluoperazina",
+    "relacion": "efecto_secundario",
+    "valor": "aumento de peso"
+  },
+  {
+    "entidad": "Trifluoperazina",
+    "relacion": "efecto_secundario",
+    "valor": "confusión"
+  },
+  {
+    "entidad": "Trifluoperazina",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, a temperatura ambiente"
+  },
+  {
+    "entidad": "Trifluoperazina",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Trifluoperazina",
+    "relacion": "marca_comercial",
+    "valor": "Stelazine"
+  },
+  {
+    "entidad": "Trimipramina",
+    "relacion": "trata",
+    "valor": "depresión"
+  },
+  {
+    "entidad": "Trimipramina",
+    "relacion": "uso",
+    "valor": "cápsulas, de una a tres veces al día"
+  },
+  {
+    "entidad": "Trimipramina",
+    "relacion": "se_administra_via",
+    "valor": "vía oral"
+  },
+  {
+    "entidad": "Trimipramina",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Trimipramina",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias a trimipramina y otros medicamentos"
+  },
+  {
+    "entidad": "Trimipramina",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Trimipramina",
+    "relacion": "olvido",
+    "valor": "tome la dosis que omitió tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Trimipramina",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Trimipramina",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Trimipramina",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Trimipramina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago"
+  },
+  {
+    "entidad": "Trimipramina",
+    "relacion": "efecto_secundario",
+    "valor": "somnolencia"
+  },
+  {
+    "entidad": "Trimipramina",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio o debilidad"
+  },
+  {
+    "entidad": "Trimipramina",
+    "relacion": "efecto_secundario",
+    "valor": "excitación o ansiedad"
+  },
+  {
+    "entidad": "Trimipramina",
+    "relacion": "efecto_secundario",
+    "valor": "confusión"
+  },
+  {
+    "entidad": "Trimipramina",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Trimipramina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Trimipramina",
+    "relacion": "efecto_secundario",
+    "valor": "pesadillas"
+  },
+  {
+    "entidad": "Trimipramina",
+    "relacion": "efecto_secundario",
+    "valor": "boca seca"
+  },
+  {
+    "entidad": "Trimipramina",
+    "relacion": "efecto_secundario",
+    "valor": "cambios en el apetito o peso"
+  },
+  {
+    "entidad": "Trimipramina",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Trimipramina",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para orinar"
+  },
+  {
+    "entidad": "Trimipramina",
+    "relacion": "efecto_secundario",
+    "valor": "micción frecuente"
+  },
+  {
+    "entidad": "Trimipramina",
+    "relacion": "efecto_secundario",
+    "valor": "cambios en el deseo o capacidad sexual"
+  },
+  {
+    "entidad": "Trimipramina",
+    "relacion": "efecto_secundario",
+    "valor": "sudoración excesiva"
+  },
+  {
+    "entidad": "Trimipramina",
+    "relacion": "efecto_secundario",
+    "valor": "zumbido en los oídos"
+  },
+  {
+    "entidad": "Trimipramina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor, ardor u hormigueo de las manos o los pies"
+  },
+  {
+    "entidad": "Trimipramina",
+    "relacion": "efecto_secundario",
+    "valor": "espasmos musculares de mandíbula, cuello y espalda"
+  },
+  {
+    "entidad": "Trimipramina",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para hablar o hablar lento"
+  },
+  {
+    "entidad": "Trimipramina",
+    "relacion": "efecto_secundario",
+    "valor": "caminar arrastrando los pies"
+  },
+  {
+    "entidad": "Trimipramina",
+    "relacion": "efecto_secundario",
+    "valor": "temblor incontrolable de una parte del cuerpo"
+  },
+  {
+    "entidad": "Trimipramina",
+    "relacion": "efecto_secundario",
+    "valor": "fiebre y dolor de garganta"
+  },
+  {
+    "entidad": "Trimipramina",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para respirar o tragar"
+  },
+  {
+    "entidad": "Trimipramina",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Trimipramina",
+    "relacion": "efecto_secundario",
+    "valor": "coloración amarillenta en la piel y los ojos"
+  },
+  {
+    "entidad": "Trimipramina",
+    "relacion": "efecto_secundario",
+    "valor": "convulsiones"
+  },
+  {
+    "entidad": "Trimipramina",
+    "relacion": "efecto_secundario",
+    "valor": "ver cosas o escuchar voces que no existen"
+  },
+  {
+    "entidad": "Trimipramina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor en el pecho"
+  },
+  {
+    "entidad": "Trimipramina",
+    "relacion": "efecto_secundario",
+    "valor": "ritmo cardiaco irregular o lento"
+  },
+  {
+    "entidad": "Trimipramina",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, bien cerrado, a temperatura ambiente"
+  },
+  {
+    "entidad": "Trimipramina",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Trospio",
+    "relacion": "trata",
+    "valor": "vejiga urinaria hiperactiva"
+  },
+  {
+    "entidad": "Trospio",
+    "relacion": "uso",
+    "valor": "tabletas y cápsulas de liberación prolongada por vía oral"
+  },
+  {
+    "entidad": "Trospio",
+    "relacion": "se_administra_via",
+    "valor": "vía oral"
+  },
+  {
+    "entidad": "Trospio",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Trospio",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos actuales"
+  },
+  {
+    "entidad": "Trospio",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Trospio",
+    "relacion": "olvido",
+    "valor": "tomar la dosis olvidada 1 hora antes de la siguiente comida"
+  },
+  {
+    "entidad": "Trospio",
+    "relacion": "efecto_secundario",
+    "valor": "sequedad en la boca"
+  },
+  {
+    "entidad": "Trospio",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Trospio",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Trospio",
+    "relacion": "efecto_secundario",
+    "valor": "confusión"
+  },
+  {
+    "entidad": "Trospio",
+    "relacion": "efecto_secundario",
+    "valor": "gases"
+  },
+  {
+    "entidad": "Trospio",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para orinar"
+  },
+  {
+    "entidad": "Trospio",
+    "relacion": "efecto_secundario",
+    "valor": "inflamación del rostro"
+  },
+  {
+    "entidad": "Trospio",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Trospio",
+    "relacion": "efecto_secundario",
+    "valor": "urticaria"
+  },
+  {
+    "entidad": "Trospio",
+    "relacion": "efecto_secundario",
+    "valor": "picazón"
+  },
+  {
+    "entidad": "Trospio",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para respirar"
+  },
+  {
+    "entidad": "Trospio",
+    "relacion": "efecto_secundario",
+    "valor": "alucinaciones"
+  },
+  {
+    "entidad": "Trospio",
+    "relacion": "almacenamiento",
+    "valor": "mantener en empaque original, a temperatura ambiente, lejos del calor y humedad"
+  },
+  {
+    "entidad": "Trospio",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Trospio",
+    "relacion": "marca_comercial",
+    "valor": "Sanctura ®"
+  },
+  {
+    "entidad": "Trospio",
+    "relacion": "marca_comercial",
+    "valor": "Sanctura ® XR"
+  },
+  {
+    "entidad": "Vacuna recombinante contra el zóster (culebrilla) (RZV)",
+    "relacion": "trata",
+    "valor": "prevención de la culebrilla"
+  },
+  {
+    "entidad": "Vacuna recombinante contra el zóster (culebrilla) (RZV)",
+    "relacion": "uso",
+    "valor": "administrar en una serie de dos dosis"
+  },
+  {
+    "entidad": "Vacuna recombinante contra el zóster (culebrilla) (RZV)",
+    "relacion": "se_administra_via",
+    "valor": "inyección"
+  },
+  {
+    "entidad": "Vacuna recombinante contra el zóster (culebrilla) (RZV)",
+    "relacion": "marca_comercial",
+    "valor": "Shingrix"
+  },
+  {
+    "entidad": "Vacuna recombinante contra el zóster (culebrilla) (RZV)",
+    "relacion": "precaucion",
+    "valor": "posponer la vacunación si se tiene una enfermedad grave"
+  },
+  {
+    "entidad": "Vacuna recombinante contra el zóster (culebrilla) (RZV)",
+    "relacion": "efecto_secundario",
+    "valor": "dolor leve o moderado en el brazo"
+  },
+  {
+    "entidad": "Vacuna recombinante contra el zóster (culebrilla) (RZV)",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio"
+  },
+  {
+    "entidad": "Vacuna recombinante contra el zóster (culebrilla) (RZV)",
+    "relacion": "efecto_secundario",
+    "valor": "dolor muscular"
+  },
+  {
+    "entidad": "Vacuna recombinante contra el zóster (culebrilla) (RZV)",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Vacuna recombinante contra el zóster (culebrilla) (RZV)",
+    "relacion": "efecto_secundario",
+    "valor": "escalofríos"
+  },
+  {
+    "entidad": "Vacuna recombinante contra el zóster (culebrilla) (RZV)",
+    "relacion": "efecto_secundario",
+    "valor": "fiebre"
+  },
+  {
+    "entidad": "Vacuna recombinante contra el zóster (culebrilla) (RZV)",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago"
+  },
+  {
+    "entidad": "Vacuna recombinante contra el zóster (culebrilla) (RZV)",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Vigabatrina",
+    "relacion": "contraindicado_en",
+    "valor": "daño permanente a la visión"
+  },
+  {
+    "entidad": "Vigabatrina",
+    "relacion": "trata",
+    "valor": "convulsiones en adultos y niños de 2 años o mayores"
+  },
+  {
+    "entidad": "Vigabatrina",
+    "relacion": "trata",
+    "valor": "espasmos infantiles en bebés de 1 mes a 2 años"
+  },
+  {
+    "entidad": "Vigabatrina",
+    "relacion": "uso",
+    "valor": "tomar dos veces al día, con o sin alimentos"
+  },
+  {
+    "entidad": "Vigabatrina",
+    "relacion": "se_administra_via",
+    "valor": "vía oral"
+  },
+  {
+    "entidad": "Vigabatrina",
+    "relacion": "precaucion",
+    "valor": "informar al médico si tiene problemas de visión"
+  },
+  {
+    "entidad": "Vigabatrina",
+    "relacion": "precaucion",
+    "valor": "no conducir hasta saber cómo le afecta"
+  },
+  {
+    "entidad": "Vigabatrina",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Vigabatrina",
+    "relacion": "olvido",
+    "valor": "tomar la dosis omitida tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Vigabatrina",
+    "relacion": "efecto_secundario",
+    "valor": "somnolencia"
+  },
+  {
+    "entidad": "Vigabatrina",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Vigabatrina",
+    "relacion": "efecto_secundario",
+    "valor": "temblor incontrolable"
+  },
+  {
+    "entidad": "Vigabatrina",
+    "relacion": "efecto_secundario",
+    "valor": "debilidad"
+  },
+  {
+    "entidad": "Vigabatrina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de articulaciones o músculos"
+  },
+  {
+    "entidad": "Vigabatrina",
+    "relacion": "efecto_secundario",
+    "valor": "problemas de memoria"
+  },
+  {
+    "entidad": "Vigabatrina",
+    "relacion": "efecto_secundario",
+    "valor": "aumento de peso"
+  },
+  {
+    "entidad": "Vigabatrina",
+    "relacion": "efecto_secundario",
+    "valor": "hinchazón de manos o pies"
+  },
+  {
+    "entidad": "Vigabatrina",
+    "relacion": "efecto_secundario",
+    "valor": "confusión"
+  },
+  {
+    "entidad": "Vigabatrina",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original, bien cerrado"
+  },
+  {
+    "entidad": "Vigabatrina",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Vigabatrina",
+    "relacion": "marca_comercial",
+    "valor": "Sabril"
+  },
+  {
+    "entidad": "Vigabatrina",
+    "relacion": "marca_comercial",
+    "valor": "Vigadrone"
+  },
+  {
+    "entidad": "Vigabatrina",
+    "relacion": "marca_comercial",
+    "valor": "Vigafyde"
+  },
+  {
+    "entidad": "Vigabatrina",
+    "relacion": "marca_comercial",
+    "valor": "Vigpoder"
+  },
+  {
+    "entidad": "Vinblastina",
+    "relacion": "se_administra_via",
+    "valor": "intravenosa"
+  },
+  {
+    "entidad": "Vinblastina",
+    "relacion": "trata",
+    "valor": "linfoma de Hodgkin"
+  },
+  {
+    "entidad": "Vinblastina",
+    "relacion": "trata",
+    "valor": "linfoma no de Hodgkin"
+  },
+  {
+    "entidad": "Vinblastina",
+    "relacion": "trata",
+    "valor": "cáncer de los testículos"
+  },
+  {
+    "entidad": "Vinblastina",
+    "relacion": "trata",
+    "valor": "histiocitosis de las células de Langerhans"
+  },
+  {
+    "entidad": "Vinblastina",
+    "relacion": "trata",
+    "valor": "cáncer de mama"
+  },
+  {
+    "entidad": "Vinblastina",
+    "relacion": "trata",
+    "valor": "tumores trofoblásticos gestacionales"
+  },
+  {
+    "entidad": "Vinblastina",
+    "relacion": "otro_uso",
+    "valor": "cáncer de vejiga"
+  },
+  {
+    "entidad": "Vinblastina",
+    "relacion": "otro_uso",
+    "valor": "cáncer de pulmón"
+  },
+  {
+    "entidad": "Vinblastina",
+    "relacion": "otro_uso",
+    "valor": "sarcoma de Kaposi"
+  },
+  {
+    "entidad": "Vinblastina",
+    "relacion": "otro_uso",
+    "valor": "tumores cerebrales"
+  },
+  {
+    "entidad": "Vinblastina",
+    "relacion": "uso",
+    "valor": "solución inyectable administrada por un médico o enfermero"
+  },
+  {
+    "entidad": "Vinblastina",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias a la vinblastina o ingredientes"
+  },
+  {
+    "entidad": "Vinblastina",
+    "relacion": "precaucion",
+    "valor": "informar sobre otros medicamentos que se están tomando"
+  },
+  {
+    "entidad": "Vinblastina",
+    "relacion": "precaucion",
+    "valor": "informar sobre infecciones"
+  },
+  {
+    "entidad": "Vinblastina",
+    "relacion": "precaucion",
+    "valor": "informar sobre enfermedades cardíacas o pulmonares"
+  },
+  {
+    "entidad": "Vinblastina",
+    "relacion": "precaucion",
+    "valor": "no quedar embarazada ni amamantar durante el tratamiento"
+  },
+  {
+    "entidad": "Vinblastina",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Vinblastina",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Vinblastina",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Vinblastina",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Vinblastina",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de apetito o peso"
+  },
+  {
+    "entidad": "Vinblastina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago"
+  },
+  {
+    "entidad": "Vinblastina",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Vinblastina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Vinblastina",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Vinblastina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de mandíbula"
+  },
+  {
+    "entidad": "Vinblastina",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida del cabello"
+  },
+  {
+    "entidad": "Vinblastina",
+    "relacion": "efecto_secundario",
+    "valor": "fiebre"
+  },
+  {
+    "entidad": "Vinblastina",
+    "relacion": "efecto_secundario",
+    "valor": "sangrado o moretones inusuales"
+  },
+  {
+    "entidad": "Vinblastina",
+    "relacion": "efecto_secundario",
+    "valor": "aftas en la boca"
+  },
+  {
+    "entidad": "Vinblastina",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio o debilidad inusuales"
+  },
+  {
+    "entidad": "Vinblastina",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad o inestabilidad al caminar"
+  },
+  {
+    "entidad": "Vinblastina",
+    "relacion": "efecto_secundario",
+    "valor": "falta de aliento"
+  },
+  {
+    "entidad": "Vinblastina",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de audición"
+  },
+  {
+    "entidad": "Vinblastina",
+    "relacion": "efecto_secundario",
+    "valor": "convulsiones"
+  },
+  {
+    "entidad": "Vinblastina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor en el pecho"
+  },
+  {
+    "entidad": "Vinblastina",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Vinblastina",
+    "relacion": "marca_comercial",
+    "valor": "Velban ®"
+  },
+  {
+    "entidad": "Zaleplón",
+    "relacion": "contraindicado_en",
+    "valor": "conductas de sueño graves"
+  },
+  {
+    "entidad": "Zaleplón",
+    "relacion": "trata",
+    "valor": "insomnio"
+  },
+  {
+    "entidad": "Zaleplón",
+    "relacion": "uso",
+    "valor": "tomar por vía oral a la hora de dormir"
+  },
+  {
+    "entidad": "Zaleplón",
+    "relacion": "se_administra_via",
+    "valor": "vía oral"
+  },
+  {
+    "entidad": "Zaleplón",
+    "relacion": "precaucion",
+    "valor": "no tomar con alcohol"
+  },
+  {
+    "entidad": "Zaleplón",
+    "relacion": "dieta",
+    "valor": "no tomar con comida pesada y rica en grasas"
+  },
+  {
+    "entidad": "Zaleplón",
+    "relacion": "olvido",
+    "valor": "tomar antes de dormir si no se ha tomado y puede quedarse en cama 8 horas"
+  },
+  {
+    "entidad": "Zaleplón",
+    "relacion": "efecto_secundario",
+    "valor": "somnolencia"
+  },
+  {
+    "entidad": "Zaleplón",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Zaleplón",
+    "relacion": "efecto_secundario",
+    "valor": "aturdimiento"
+  },
+  {
+    "entidad": "Zaleplón",
+    "relacion": "efecto_secundario",
+    "valor": "falta de coordinación"
+  },
+  {
+    "entidad": "Zaleplón",
+    "relacion": "efecto_secundario",
+    "valor": "problemas de memoria"
+  },
+  {
+    "entidad": "Zaleplón",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Zaleplón",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Zaleplón",
+    "relacion": "marca_comercial",
+    "valor": "Sonata"
+  }
+]

@@ -1,0 +1,187 @@
+[
+  {
+    "entidad": "hipertensión hiporreninémica",
+    "relacion": "es un tipo de",
+    "valor": "hipertensión arterial"
+  },
+  {
+    "entidad": "sistema renina-angiotensina-aldosterona",
+    "relacion": "modula",
+    "valor": "volumen, sodio y potasio"
+  },
+  {
+    "entidad": "hipertensión hiporreninémica",
+    "relacion": "afecta a",
+    "valor": "hasta 30% de pacientes hipertensos"
+  },
+  {
+    "entidad": "receptor mineralocorticoide (MR)",
+    "relacion": "está presente en",
+    "valor": "riñón, vasculatura, miocardio y adipocitos"
+  },
+  {
+    "entidad": "tratamiento de hipertensión hiporreninémica",
+    "relacion": "requiere",
+    "valor": "antagonizar MR"
+  },
+  {
+    "entidad": "renina",
+    "relacion": "se suprime por",
+    "valor": "hipervolemia"
+  },
+  {
+    "entidad": "hipertensión hiporreninémica",
+    "relacion": "se asocia con",
+    "valor": "mayor riesgo cardiovascular"
+  },
+  {
+    "entidad": "hiperaldosteronismo primario",
+    "relacion": "es la causa más frecuente de",
+    "valor": "hipertensión hiporreninémica"
+  },
+  {
+    "entidad": "aldosterona",
+    "relacion": "tiene secretagogos principales",
+    "valor": "angiotensina II e hiperkalemia"
+  },
+  {
+    "entidad": "síndrome de exceso aparente de mineralocorticoides (SEAM)",
+    "relacion": "causa",
+    "valor": "hipertensión hiporreninémica"
+  },
+  {
+    "entidad": "hipertensión hiporreninémica",
+    "relacion": "puede ser causada por",
+    "valor": "mutaciones en el canal epitelial de sodio (ENaC)"
+  },
+  {
+    "entidad": "hipertensión hiporreninémica",
+    "relacion": "se presenta con",
+    "valor": "renina baja y aldosterona baja"
+  },
+  {
+    "entidad": "espironolactona",
+    "relacion": "es un",
+    "valor": "antagonista del MR"
+  },
+  {
+    "entidad": "eplerenona",
+    "relacion": "es un",
+    "valor": "antagonista específico del MR"
+  },
+  {
+    "entidad": "finerenona",
+    "relacion": "es un",
+    "valor": "antagonista no esteroidal del MR"
+  },
+  {
+    "entidad": "hipertensión hiporreninémica",
+    "relacion": "debería ser tratada con",
+    "valor": "antagonistas del MR"
+  },
+  {
+    "entidad": "medición de renina",
+    "relacion": "debería ser realizada en",
+    "valor": "todos los pacientes hipertensos"
+  },
+  {
+    "entidad": "hipertensión hiporreninémica",
+    "relacion": "afecta a",
+    "valor": "más de 1 millón de personas en Chile"
+  },
+  {
+    "entidad": "Hemoglobina glicada",
+    "relacion": "se asocia con",
+    "valor": "ejercicio"
+  },
+  {
+    "entidad": "ejercicio",
+    "relacion": "se recomienda para",
+    "valor": "control de diabetes tipo 2"
+  },
+  {
+    "entidad": "diabetes tipo 2",
+    "relacion": "afecta a",
+    "valor": "personas mayores de 45 años"
+  },
+  {
+    "entidad": "diabetes tipo 2",
+    "relacion": "representa",
+    "valor": "90-95% de los casos de diabetes"
+  },
+  {
+    "entidad": "entrenamiento físico",
+    "relacion": "es un componente de",
+    "valor": "manejo de diabetes"
+  },
+  {
+    "entidad": "entrenamiento aeróbico",
+    "relacion": "mejora",
+    "valor": "capacidad aeróbica"
+  },
+  {
+    "entidad": "entrenamiento de resistencia",
+    "relacion": "mejora",
+    "valor": "fuerza muscular"
+  },
+  {
+    "entidad": "ejercicio",
+    "relacion": "reduce",
+    "valor": "niveles de HbA1c"
+  },
+  {
+    "entidad": "ejercicio",
+    "relacion": "previene",
+    "valor": "complicaciones relacionadas con diabetes"
+  },
+  {
+    "entidad": "ejercicio",
+    "relacion": "mejora",
+    "valor": "calidad de vida de diabéticos"
+  },
+  {
+    "entidad": "Asociación Americana de Diabetes (ADA)",
+    "relacion": "recomienda",
+    "valor": "150 min de ejercicio moderado por semana"
+  },
+  {
+    "entidad": "entrenamiento combinado",
+    "relacion": "incluye",
+    "valor": "entrenamiento aeróbico y de resistencia"
+  },
+  {
+    "entidad": "entrenamiento físico",
+    "relacion": "requiere",
+    "valor": "supervisión médica"
+  },
+  {
+    "entidad": "ejercicio",
+    "relacion": "debe ser",
+    "valor": "supervisado por personal especializado"
+  },
+  {
+    "entidad": "ejercicio",
+    "relacion": "monitorea",
+    "valor": "frecuencia cardíaca y glicemia"
+  },
+  {
+    "entidad": "entrenamiento físico",
+    "relacion": "es fundamental para",
+    "valor": "tratamiento de diabetes tipo 2"
+  },
+  {
+    "entidad": "programas de entrenamiento",
+    "relacion": "demuestran",
+    "valor": "reducción en HbA1c"
+  },
+  {
+    "entidad": "ejercicio",
+    "relacion": "aumenta",
+    "valor": "capacidad funcional"
+  },
+  {
+    "entidad": "ejercicio",
+    "relacion": "mejora",
+    "valor": "tolerancia al esfuerzo"
+  }
+]

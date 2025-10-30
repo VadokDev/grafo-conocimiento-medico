@@ -1,0 +1,307 @@
+[
+  {
+    "entidad": "Criptococosis cerebral",
+    "relacion": "es una",
+    "valor": "infección micótica"
+  },
+  {
+    "entidad": "Cryptococcus neoformans",
+    "relacion": "causa",
+    "valor": "criptococosis cerebral"
+  },
+  {
+    "entidad": "SIDA",
+    "relacion": "asocia a",
+    "valor": "criptococosis cerebral"
+  },
+  {
+    "entidad": "Voriconazol",
+    "relacion": "se utiliza para",
+    "valor": "tratar criptococosis cerebral"
+  },
+  {
+    "entidad": "anfotericina B deoxicolato",
+    "relacion": "se utiliza para",
+    "valor": "tratar criptococosis cerebral"
+  },
+  {
+    "entidad": "niveles plasmáticos de voriconazol",
+    "relacion": "son importantes para",
+    "valor": "ajustar la dosis"
+  },
+  {
+    "entidad": "síndrome de reconstitución inmune",
+    "relacion": "ocurre en",
+    "valor": "pacientes con SIDA"
+  },
+  {
+    "entidad": "TARV",
+    "relacion": "se inicia tras",
+    "valor": "el tratamiento con voriconazol"
+  },
+  {
+    "entidad": "dexametasona",
+    "relacion": "se utiliza para",
+    "valor": "tratar síndrome de reconstitución inmune"
+  },
+  {
+    "entidad": "carga viral",
+    "relacion": "disminuye con",
+    "valor": "TARV"
+  },
+  {
+    "entidad": "recuento de CD4",
+    "relacion": "aumenta con",
+    "valor": "TARV"
+  },
+  {
+    "entidad": "Hospital Base de Valdivia",
+    "relacion": "es un",
+    "valor": "centro de atención médica"
+  },
+  {
+    "entidad": "Universidad Austral de Chile",
+    "relacion": "es un",
+    "valor": "centro de formación académica"
+  },
+  {
+    "entidad": "corticoides",
+    "relacion": "se utilizan en",
+    "valor": "síndrome inflamatorio de reconstitución inmune"
+  },
+  {
+    "entidad": "lesiones nodulares",
+    "relacion": "pueden ser causadas por",
+    "valor": "C. neoformans"
+  },
+  {
+    "entidad": "monitorización de niveles plasmáticos",
+    "relacion": "se asocia a",
+    "valor": "menor tasa de efectos adversos"
+  },
+  {
+    "entidad": "voriconazol",
+    "relacion": "tiene",
+    "valor": "interacciones citocromales"
+  },
+  {
+    "entidad": "respuesta inmune",
+    "relacion": "es importante en",
+    "valor": "la génesis del síndrome de reconstitución inmune"
+  },
+  {
+    "entidad": "Enfermedad de Forestier",
+    "relacion": "también conocida como",
+    "valor": "hiperostosis esquelética idiopática difusa (DISH)"
+  },
+  {
+    "entidad": "DISH",
+    "relacion": "causa",
+    "valor": "ossificación del ligamento longitudinal anterior de la columna vertebral"
+  },
+  {
+    "entidad": "DISH",
+    "relacion": "puede causar",
+    "valor": "disfagia"
+  },
+  {
+    "entidad": "DISH",
+    "relacion": "puede causar",
+    "valor": "disfonía"
+  },
+  {
+    "entidad": "DISH",
+    "relacion": "puede causar",
+    "valor": "disnea"
+  },
+  {
+    "entidad": "DISH",
+    "relacion": "tiene un curso",
+    "valor": "benigno"
+  },
+  {
+    "entidad": "DISH",
+    "relacion": "requiere",
+    "valor": "tratamiento quirúrgico en casos progresivos"
+  },
+  {
+    "entidad": "paciente de 72 años",
+    "relacion": "presenta",
+    "valor": "dolor cervical crónico"
+  },
+  {
+    "entidad": "paciente de 72 años",
+    "relacion": "fue tratado con",
+    "valor": "manejo conservador"
+  },
+  {
+    "entidad": "manejo conservador",
+    "relacion": "incluye",
+    "valor": "antiinflamatorios"
+  },
+  {
+    "entidad": "manejo conservador",
+    "relacion": "incluye",
+    "valor": "relajantes musculares"
+  },
+  {
+    "entidad": "manejo conservador",
+    "relacion": "incluye",
+    "valor": "esteroides"
+  },
+  {
+    "entidad": "manejo conservador",
+    "relacion": "incluye",
+    "valor": "cambios posturales"
+  },
+  {
+    "entidad": "DISH",
+    "relacion": "afecta más a",
+    "valor": "hombres que a mujeres"
+  },
+  {
+    "entidad": "DISH",
+    "relacion": "afecta a",
+    "valor": "10-30% de la población general"
+  },
+  {
+    "entidad": "DISH",
+    "relacion": "se asocia con",
+    "valor": "factores de riesgo genéticos y metabólicos"
+  },
+  {
+    "entidad": "DISH",
+    "relacion": "se diagnostica mediante",
+    "valor": "criterios radiográficos de Resnick"
+  },
+  {
+    "entidad": "cirugía",
+    "relacion": "se reserva para",
+    "valor": "casos refractarios al manejo conservador"
+  },
+  {
+    "entidad": "osteofitos cervicales",
+    "relacion": "pueden causar",
+    "valor": "compresión del esófago"
+  },
+  {
+    "entidad": "disfagia",
+    "relacion": "se reporta en",
+    "valor": "hasta el 28% de los casos"
+  },
+  {
+    "entidad": "DISH",
+    "relacion": "debe ser considerado en",
+    "valor": "diagnósticos diferenciales de disfagia en mayores de 65 años"
+  },
+  {
+    "entidad": "Hipofisitis linfoplasmocitaria",
+    "relacion": "es un",
+    "valor": "tipo de hipofisitis"
+  },
+  {
+    "entidad": "Fibrosis retroperitoneal",
+    "relacion": "es un",
+    "valor": "patología infrecuente"
+  },
+  {
+    "entidad": "Síndrome poliglandular autoinmune",
+    "relacion": "asocia",
+    "valor": "hipofisitis linfoplasmocitaria"
+  },
+  {
+    "entidad": "Enfermedad relacionada con IgG4",
+    "relacion": "asocia",
+    "valor": "hipofisitis linfoplasmocitaria"
+  },
+  {
+    "entidad": "Mujer de 23 años",
+    "relacion": "presenta",
+    "valor": "síndrome nefrótico"
+  },
+  {
+    "entidad": "Síndrome nefrótico",
+    "relacion": "causa",
+    "valor": "nefrosis lipoídea"
+  },
+  {
+    "entidad": "Diabetes insípida",
+    "relacion": "diagnosticada en",
+    "valor": "mujer de 23 años"
+  },
+  {
+    "entidad": "Hipogonadismo hipergonadotrópico",
+    "relacion": "diagnosticado en",
+    "valor": "mujer de 34 años"
+  },
+  {
+    "entidad": "Prolactina elevada",
+    "relacion": "observada en",
+    "valor": "mujer de 34 años"
+  },
+  {
+    "entidad": "Resonancia magnética",
+    "relacion": "muestra",
+    "valor": "masa hipofisaria"
+  },
+  {
+    "entidad": "Biopsia",
+    "relacion": "confirma",
+    "valor": "hipofisitis linfoplasmocitaria"
+  },
+  {
+    "entidad": "Glucocorticoides",
+    "relacion": "utilizados para",
+    "valor": "tratar fibrosis retroperitoneal"
+  },
+  {
+    "entidad": "Colchicina",
+    "relacion": "utilizada para",
+    "valor": "tratar fibrosis retroperitoneal"
+  },
+  {
+    "entidad": "Células plasmáticas productoras de IgG4",
+    "relacion": "encontradas en",
+    "valor": "hipófisis y retroperitoneo"
+  },
+  {
+    "entidad": "Hipofisitis linfoplasmocitaria",
+    "relacion": "puede asociarse a",
+    "valor": "fibrosis retroperitoneal"
+  },
+  {
+    "entidad": "Corticoides",
+    "relacion": "son utilizados para",
+    "valor": "tratar fibrosis retroperitoneal"
+  },
+  {
+    "entidad": "Anticonceptivos hormonales combinados",
+    "relacion": "prescritos para",
+    "valor": "mujer de 34 años"
+  },
+  {
+    "entidad": "Radioterapia externa",
+    "relacion": "utilizada para",
+    "valor": "prevenir crecimiento hipofisario"
+  },
+  {
+    "entidad": "Síndrome poliglandular autoinmune",
+    "relacion": "puede incluir",
+    "valor": "diabetes mellitus tipo 1"
+  },
+  {
+    "entidad": "Hipofisitis linfoplasmocitaria",
+    "relacion": "es un",
+    "valor": "trastorno infrecuente"
+  },
+  {
+    "entidad": "IgG4-RD",
+    "relacion": "caracterizada por",
+    "valor": "infiltración por células plasmáticas"
+  },
+  {
+    "entidad": "Diagnóstico de IgG4-RD",
+    "relacion": "requiere",
+    "valor": "varios criterios establecidos"
+  }
+]

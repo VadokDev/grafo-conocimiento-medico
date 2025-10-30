@@ -1,0 +1,452 @@
+[
+  {
+    "entidad": "problemas de salud mental",
+    "relacion": "son",
+    "valor": "altamente prevalentes en estudiantes universitarios"
+  },
+  {
+    "entidad": "síntomas depresivos",
+    "relacion": "co-ocurren con",
+    "valor": "síntomas de ansiedad generalizada"
+  },
+  {
+    "entidad": "síntomas de ansiedad generalizada",
+    "relacion": "co-ocurren con",
+    "valor": "consumo problemático de sustancias"
+  },
+  {
+    "entidad": "factores sociodemográficos",
+    "relacion": "se asocian con",
+    "valor": "co-ocurrencia de problemas de salud mental"
+  },
+  {
+    "entidad": "estudiantes de sexo femenino",
+    "relacion": "tienen",
+    "valor": "mayores posibilidades de co-ocurrencia de problemas de salud mental"
+  },
+  {
+    "entidad": "estudiantes no heterosexuales",
+    "relacion": "tienen",
+    "valor": "mayores posibilidades de co-ocurrencia de problemas de salud mental"
+  },
+  {
+    "entidad": "estudiantes de nivel socioeconómico bajo y medio",
+    "relacion": "tienen",
+    "valor": "mayores posibilidades de co-ocurrencia de problemas de salud mental"
+  },
+  {
+    "entidad": "estudiantes que estudian y trabajan",
+    "relacion": "tienen",
+    "valor": "mayores posibilidades de co-ocurrencia de problemas de salud mental"
+  },
+  {
+    "entidad": "intervenciones preventivas y terapéuticas",
+    "relacion": "se desarrollan para",
+    "valor": "abordar problemas de salud mental"
+  },
+  {
+    "entidad": "co-ocurrencia de problemas de salud mental",
+    "relacion": "debe ser considerada en",
+    "valor": "diagnóstico y tratamiento"
+  },
+  {
+    "entidad": "iSGLT-2",
+    "relacion": "proporciona",
+    "valor": "protección renal"
+  },
+  {
+    "entidad": "insuficiencia cardíaca",
+    "relacion": "coexiste con",
+    "valor": "enfermedad renal crónica"
+  },
+  {
+    "entidad": "insuficiencia cardíaca",
+    "relacion": "se clasifica en",
+    "valor": "ICFER e ICFEP"
+  },
+  {
+    "entidad": "ICFER",
+    "relacion": "tiene",
+    "valor": "fracción de eyección ≤40%"
+  },
+  {
+    "entidad": "ICFEP",
+    "relacion": "tiene",
+    "valor": "fracción de eyección >40%"
+  },
+  {
+    "entidad": "iSGLT-2",
+    "relacion": "demuestra",
+    "valor": "beneficios renales y cardiovasculares"
+  },
+  {
+    "entidad": "función ventricular",
+    "relacion": "modula",
+    "valor": "efecto renal de iSGLT-2"
+  },
+  {
+    "entidad": "eventos renales mayores (MAKE)",
+    "relacion": "es un",
+    "valor": "desenlace primario"
+  },
+  {
+    "entidad": "metaanálisis",
+    "relacion": "evalúa",
+    "valor": "efecto de iSGLT-2 en insuficiencia cardíaca"
+  },
+  {
+    "entidad": "insuficiencia cardíaca",
+    "relacion": "complica",
+    "valor": "manejo clínico"
+  },
+  {
+    "entidad": "iSGLT-2",
+    "relacion": "reduce",
+    "valor": "MAKE en ICFER"
+  },
+  {
+    "entidad": "iSGLT-2",
+    "relacion": "no reduce",
+    "valor": "MAKE en ICFEP"
+  },
+  {
+    "entidad": "síndrome cardiorrenal",
+    "relacion": "es un",
+    "valor": "vínculo entre corazón y riñón"
+  },
+  {
+    "entidad": "metaanálisis",
+    "relacion": "incluye",
+    "valor": "cinco ensayos clínicos aleatorizados"
+  },
+  {
+    "entidad": "EPHPP",
+    "relacion": "evalúa",
+    "valor": "riesgo de sesgo"
+  },
+  {
+    "entidad": "iSGLT-2",
+    "relacion": "emerge como",
+    "valor": "clase terapéutica nueva"
+  },
+  {
+    "entidad": "iSGLT-2",
+    "relacion": "demuestra",
+    "valor": "efectos significativos en ICFER"
+  },
+  {
+    "entidad": "iSGLT-2",
+    "relacion": "no muestra",
+    "valor": "beneficios en ICFEP"
+  },
+  {
+    "entidad": "comorbilidades",
+    "relacion": "pueden limitar",
+    "valor": "beneficio de iSGLT-2 en ICFEP"
+  },
+  {
+    "entidad": "tiempo de seguimiento",
+    "relacion": "puede influir en",
+    "valor": "resultados de iSGLT-2"
+  },
+  {
+    "entidad": "investigaciones adicionales",
+    "relacion": "son necesarias para",
+    "valor": "comprender el rol de iSGLT-2 en ICFEP"
+  },
+  {
+    "entidad": "calidad de sueño",
+    "relacion": "afecta a",
+    "valor": "rendimiento académico"
+  },
+  {
+    "entidad": "adicción a smartphone",
+    "relacion": "afecta a",
+    "valor": "rendimiento académico"
+  },
+  {
+    "entidad": "privación del sueño",
+    "relacion": "disminuye",
+    "valor": "concentración"
+  },
+  {
+    "entidad": "uso de smartphones",
+    "relacion": "relacionado con",
+    "valor": "no planificar trabajos"
+  },
+  {
+    "entidad": "Índice de Calidad de Sueño de Pittsburgh (ICSP)",
+    "relacion": "evalúa",
+    "valor": "calidad de sueño"
+  },
+  {
+    "entidad": "Smartphone Addiction Scale - Short Version (SAS-SV)",
+    "relacion": "evalúa",
+    "valor": "adicción a smartphones"
+  },
+  {
+    "entidad": "promedio académico",
+    "relacion": "determinado por",
+    "valor": "promedio del último semestre"
+  },
+  {
+    "entidad": "estudiantes de medicina",
+    "relacion": "pertenece a",
+    "valor": "Facultad de Ciencias Médicas de la Universidad Nacional de Caaguazú"
+  },
+  {
+    "entidad": "estudiantes sin adicción al smartphone",
+    "relacion": "tienen",
+    "valor": "promedio académico superior"
+  },
+  {
+    "entidad": "estudiantes con adicción al smartphone",
+    "relacion": "tienen",
+    "valor": "promedio académico inferior"
+  },
+  {
+    "entidad": "calidad del sueño",
+    "relacion": "asociada con",
+    "valor": "adicción a smartphones"
+  },
+  {
+    "entidad": "uso de inteligencia artificial (IA)",
+    "relacion": "es utilizado por",
+    "valor": "estudiantes de medicina"
+  },
+  {
+    "entidad": "uso excesivo de smartphones",
+    "relacion": "relacionado con",
+    "valor": "mala calidad del sueño"
+  },
+  {
+    "entidad": "eficiencia del sueño",
+    "relacion": "es menor en",
+    "valor": "estudiantes con adicción al smartphone"
+  },
+  {
+    "entidad": "estrés",
+    "relacion": "afecta a",
+    "valor": "calidad del sueño"
+  },
+  {
+    "entidad": "ansiedad",
+    "relacion": "afecta a",
+    "valor": "calidad del sueño"
+  },
+  {
+    "entidad": "alta exigencia académica",
+    "relacion": "afecta a",
+    "valor": "calidad del sueño"
+  },
+  {
+    "entidad": "uso de pantallas antes de acostarse",
+    "relacion": "afecta a",
+    "valor": "calidad del sueño"
+  },
+  {
+    "entidad": "Meropenem",
+    "relacion": "es un",
+    "valor": "antibiótico"
+  },
+  {
+    "entidad": "Linezolid",
+    "relacion": "es un",
+    "valor": "antibiótico"
+  },
+  {
+    "entidad": "Quinolonas",
+    "relacion": "son",
+    "valor": "antibióticos"
+  },
+  {
+    "entidad": "Tuberculosis",
+    "relacion": "es una",
+    "valor": "enfermedad"
+  },
+  {
+    "entidad": "Tuberculosis no asociada a resistencia a drogas",
+    "relacion": "es un",
+    "valor": "tipo de tuberculosis"
+  },
+  {
+    "entidad": "pacientes hospitalizados",
+    "relacion": "son",
+    "valor": "grupo de estudio"
+  },
+  {
+    "entidad": "Programa de Control y Eliminación de la Tuberculosis (PROCET)",
+    "relacion": "colabora con",
+    "valor": "tratamiento de tuberculosis"
+  },
+  {
+    "entidad": "meropenem, linezolid y quinolonas",
+    "relacion": "se utilizan en",
+    "valor": "manejo de tuberculosis"
+  },
+  {
+    "entidad": "reacciones adversas a fármacos",
+    "relacion": "son una razón para",
+    "valor": "usar tratamientos alternativos"
+  },
+  {
+    "entidad": "insuficiencia orgánica",
+    "relacion": "es una condición que",
+    "valor": "limita el uso de tratamientos estándar"
+  },
+  {
+    "entidad": "vía oral",
+    "relacion": "no es viable en",
+    "valor": "pacientes críticos"
+  },
+  {
+    "entidad": "anemia secundaria a linezolid",
+    "relacion": "fue observada en",
+    "valor": "pacientes tratados"
+  },
+  {
+    "entidad": "WHO",
+    "relacion": "clasifica el resultado del tratamiento como",
+    "valor": "éxito o muerte"
+  },
+  {
+    "entidad": "meropenem",
+    "relacion": "se administra en",
+    "valor": "dosis diarias"
+  },
+  {
+    "entidad": "linezolid",
+    "relacion": "se administra en",
+    "valor": "dosis diarias"
+  },
+  {
+    "entidad": "levofloxacino",
+    "relacion": "se utiliza en",
+    "valor": "tratamiento de tuberculosis"
+  },
+  {
+    "entidad": "moxifloxacino",
+    "relacion": "se utiliza en",
+    "valor": "tratamiento de tuberculosis"
+  },
+  {
+    "entidad": "hospitalizados por tuberculosis",
+    "relacion": "requieren",
+    "valor": "tratamiento especializado"
+  },
+  {
+    "entidad": "hemoglobina",
+    "relacion": "se monitorea en",
+    "valor": "pacientes tratados con linezolid"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "es un riesgo asociado a",
+    "valor": "la falta de tratamiento adecuado"
+  },
+  {
+    "entidad": "hospital Base de Valdivia",
+    "relacion": "es un",
+    "valor": "centro de tratamiento"
+  },
+  {
+    "entidad": "Universidad Austral de Chile",
+    "relacion": "es un",
+    "valor": "centro de investigación"
+  },
+  {
+    "entidad": "FRAX®",
+    "relacion": "utiliza",
+    "valor": "herramienta para identificar mujeres menopáusicas"
+  },
+  {
+    "entidad": "mujeres menopáusicas menores de 65 años",
+    "relacion": "beneficiarias de",
+    "valor": "densitometría ósea"
+  },
+  {
+    "entidad": "osteoporosis",
+    "relacion": "corresponde a",
+    "valor": "disminución de resistencia ósea"
+  },
+  {
+    "entidad": "densitometría ósea",
+    "relacion": "permite detectar",
+    "valor": "densidad mineral y mujeres con osteoporosis"
+  },
+  {
+    "entidad": "FRAX",
+    "relacion": "combina",
+    "valor": "factores de riesgo"
+  },
+  {
+    "entidad": "FRAX",
+    "relacion": "calcula",
+    "valor": "riesgo alto de fractura mayores a 10 años"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "punto de corte",
+    "valor": "3,2%"
+  },
+  {
+    "entidad": "estudio retrospectivo",
+    "relacion": "realizado en",
+    "valor": "Clínica Santa María"
+  },
+  {
+    "entidad": "Clínica Santa María",
+    "relacion": "se encuentra en",
+    "valor": "Santiago, Chile"
+  },
+  {
+    "entidad": "osteoporosis",
+    "relacion": "predispone a",
+    "valor": "fracturas por fragilidad"
+  },
+  {
+    "entidad": "densitometría ósea",
+    "relacion": "no es",
+    "valor": "costo-efectiva como método de cribado poblacional"
+  },
+  {
+    "entidad": "Sociedad Chilena de Endocrinología y Diabetes",
+    "relacion": "recomienda",
+    "valor": "valoración de DMO en mujeres postmenopáusicas ≥65 años"
+  },
+  {
+    "entidad": "FRAX",
+    "relacion": "recomendada por",
+    "valor": "distintas sociedades especializadas"
+  },
+  {
+    "entidad": "mujeres de 50 a 64 años",
+    "relacion": "deben ser evaluadas por",
+    "valor": "criterios clínicos"
+  },
+  {
+    "entidad": "factores de riesgo clínico",
+    "relacion": "incluyen",
+    "valor": "IMC menor a 20 kg/m2"
+  },
+  {
+    "entidad": "antecedente de fractura familiar",
+    "relacion": "es un",
+    "valor": "factor de riesgo significativo para osteoporosis"
+  },
+  {
+    "entidad": "sensibilidad de FRAX",
+    "relacion": "varía entre",
+    "valor": "30-40%"
+  },
+  {
+    "entidad": "FRAX",
+    "relacion": "no logra identificar",
+    "valor": "la mayoría de las pacientes perimenopáusicas <65 años con osteoporosis"
+  },
+  {
+    "entidad": "osteoporosis",
+    "relacion": "requiere",
+    "valor": "más investigación para mejorar herramientas de detección"
+  }
+]

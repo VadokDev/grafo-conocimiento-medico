@@ -1,0 +1,52 @@
+[
+  {
+    "entidad": "17-hidroxiprogesterona",
+    "relacion": "mide",
+    "valor": "cantidad de 17-hidroxiprogesterona en sangre"
+  },
+  {
+    "entidad": "17-hidroxiprogesterona",
+    "relacion": "diagnostica",
+    "valor": "hiperplasia suprarrenal congénita"
+  },
+  {
+    "entidad": "17-hidroxiprogesterona",
+    "relacion": "indicado_si_tiene",
+    "valor": "síntomas de hiperplasia suprarrenal congénita"
+  },
+  {
+    "entidad": "17-hidroxiprogesterona",
+    "relacion": "requiere_muestra_de",
+    "valor": "sangre"
+  },
+  {
+    "entidad": "17-hidroxiprogesterona",
+    "relacion": "tiene_duracion",
+    "valor": "menos de cinco minutos"
+  },
+  {
+    "entidad": "17-hidroxiprogesterona",
+    "relacion": "tiene_riesgo",
+    "valor": "dolor o moretón en el lugar de la punción"
+  },
+  {
+    "entidad": "17-hidroxiprogesterona",
+    "relacion": "util_para",
+    "valor": "monitorear tratamiento para hiperplasia suprarrenal congénita"
+  },
+  {
+    "entidad": "17-hidroxiprogesterona",
+    "relacion": "ayuda_diagnosticar",
+    "valor": "deficiencia de 21-hidroxilasa"
+  },
+  {
+    "entidad": "17-hidroxiprogesterona",
+    "relacion": "sugiere_condicion",
+    "valor": "hiperplasia suprarrenal congénita con deficiencia de 21-hidroxilasa"
+  },
+  {
+    "entidad": "17-hidroxiprogesterona",
+    "relacion": "realizado_por",
+    "valor": "profesional de la salud"
+  }
+]

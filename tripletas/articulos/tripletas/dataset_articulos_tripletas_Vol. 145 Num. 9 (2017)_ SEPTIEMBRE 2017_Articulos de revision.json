@@ -1,0 +1,177 @@
+[
+  {
+    "entidad": "estigma de obesidad",
+    "relacion": "consiste en",
+    "valor": "devaluación de un individuo por ser obeso"
+  },
+  {
+    "entidad": "estigmatización",
+    "relacion": "afecta a",
+    "valor": "víctimas y equipos de salud"
+  },
+  {
+    "entidad": "víctimas del estigma",
+    "relacion": "reportan",
+    "valor": "pobres resultados en salud mental"
+  },
+  {
+    "entidad": "estigmatización",
+    "relacion": "contribuye a",
+    "valor": "aumento del peso"
+  },
+  {
+    "entidad": "pacientes obesos",
+    "relacion": "perciben",
+    "valor": "discriminación por parte de profesionales de salud"
+  },
+  {
+    "entidad": "estigmatización",
+    "relacion": "asocia con",
+    "valor": "baja adherencia a tratamientos"
+  },
+  {
+    "entidad": "estigmatización",
+    "relacion": "genera",
+    "valor": "comportamientos no saludables"
+  },
+  {
+    "entidad": "equipos de salud",
+    "relacion": "están expuestos a",
+    "valor": "mensajes negativos sobre obesidad"
+  },
+  {
+    "entidad": "actitudes desfavorables",
+    "relacion": "se presentan en",
+    "valor": "profesionales de salud"
+  },
+  {
+    "entidad": "profesionales de salud",
+    "relacion": "asocian obesidad con",
+    "valor": "estereotipos negativos"
+  },
+  {
+    "entidad": "estigmatización",
+    "relacion": "afecta",
+    "valor": "recomendaciones de tratamiento"
+  },
+  {
+    "entidad": "estigmatización",
+    "relacion": "puede tener consecuencias sobre",
+    "valor": "calidad de atención médica"
+  },
+  {
+    "entidad": "estigmatización",
+    "relacion": "contribuye a",
+    "valor": "baja motivación para el control de peso"
+  },
+  {
+    "entidad": "factores psicológicos y sociales",
+    "relacion": "tienen un rol",
+    "valor": "relevante en la obesidad"
+  },
+  {
+    "entidad": "intervenciones de salud",
+    "relacion": "deben ser",
+    "valor": "multidisciplinarias"
+  },
+  {
+    "entidad": "equipos médicos",
+    "relacion": "pueden ayudar a",
+    "valor": "disminuir la estigmatización"
+  },
+  {
+    "entidad": "estigmatización",
+    "relacion": "perpetúa",
+    "valor": "la enfermedad"
+  },
+  {
+    "entidad": "ultrasonido endobronquial",
+    "relacion": "es un",
+    "valor": "método diagnóstico"
+  },
+  {
+    "entidad": "cáncer pulmonar",
+    "relacion": "afecta a",
+    "valor": "pacientes"
+  },
+  {
+    "entidad": "EBUS-TBNA",
+    "relacion": "es un",
+    "valor": "procedimiento mínimamente invasivo"
+  },
+  {
+    "entidad": "EBUS-TBNA",
+    "relacion": "tiene",
+    "valor": "alto rendimiento diagnóstico"
+  },
+  {
+    "entidad": "mediastino",
+    "relacion": "es evaluado por",
+    "valor": "EBUS-TBNA"
+  },
+  {
+    "entidad": "cáncer pulmonar no células pequeñas (CPNCP)",
+    "relacion": "es un tipo de",
+    "valor": "cáncer pulmonar"
+  },
+  {
+    "entidad": "EBUS lineal",
+    "relacion": "es utilizado para",
+    "valor": "etapificación mediastínica"
+  },
+  {
+    "entidad": "EBUS radial",
+    "relacion": "es utilizado para",
+    "valor": "evaluar lesiones periféricas"
+  },
+  {
+    "entidad": "guías de ACCP",
+    "relacion": "recomiendan",
+    "valor": "EBUS-TBNA como método de elección"
+  },
+  {
+    "entidad": "muestras obtenidas mediante EBUS-TBNA",
+    "relacion": "son suficientes para",
+    "valor": "análisis de marcadores moleculares"
+  },
+  {
+    "entidad": "mutaciones EGFR, ALK y ROS1",
+    "relacion": "son evaluadas en",
+    "valor": "muestras de EBUS-TBNA"
+  },
+  {
+    "entidad": "EBUS-TBNA",
+    "relacion": "presenta",
+    "valor": "sensibilidad de 92%"
+  },
+  {
+    "entidad": "EBUS-TBNA",
+    "relacion": "presenta",
+    "valor": "especificidad de 100%"
+  },
+  {
+    "entidad": "técnicas mínimamente invasivas",
+    "relacion": "son alternativas para",
+    "valor": "diagnóstico y etapificación"
+  },
+  {
+    "entidad": "EBUS",
+    "relacion": "ofrece",
+    "valor": "sensibilidad diagnóstica comparable a métodos quirúrgicos"
+  },
+  {
+    "entidad": "complicaciones de EBUS",
+    "relacion": "son",
+    "valor": "sangrado auto limitado"
+  },
+  {
+    "entidad": "EBUS",
+    "relacion": "es recomendado por",
+    "valor": "sociedades médicas internacionales"
+  },
+  {
+    "entidad": "técnicas quirúrgicas",
+    "relacion": "son comparadas con",
+    "valor": "EBUS-TBNA en estudios clínicos"
+  }
+]

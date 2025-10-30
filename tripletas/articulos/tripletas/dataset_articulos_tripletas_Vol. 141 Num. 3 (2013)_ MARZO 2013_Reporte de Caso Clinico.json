@@ -1,0 +1,382 @@
+[
+  {
+    "entidad": "síndrome de Ehlers-Danlos tipo vascular",
+    "relacion": "es un",
+    "valor": "trastorno genético"
+  },
+  {
+    "entidad": "COL3A1",
+    "relacion": "es un",
+    "valor": "gen asociado al síndrome de Ehlers-Danlos tipo vascular"
+  },
+  {
+    "entidad": "colágeno tipo III",
+    "relacion": "es un",
+    "valor": "constituyente importante de la pared vascular"
+  },
+  {
+    "entidad": "disección carotídea",
+    "relacion": "asociada a",
+    "valor": "síndrome de Ehlers-Danlos tipo vascular"
+  },
+  {
+    "entidad": "infarto cerebral",
+    "relacion": "puede ser causado por",
+    "valor": "disección carotídea"
+  },
+  {
+    "entidad": "antiplaquetarios",
+    "relacion": "son utilizados en",
+    "valor": "manejo conservador de la disección carotídea"
+  },
+  {
+    "entidad": "mujer de 15 años",
+    "relacion": "presenta",
+    "valor": "síndrome de Ehlers-Danlos tipo vascular"
+  },
+  {
+    "entidad": "síndrome de Ehlers-Danlos tipo vascular",
+    "relacion": "se diagnostica mediante",
+    "valor": "estudio genético"
+  },
+  {
+    "entidad": "TAC cerebral",
+    "relacion": "es utilizado para",
+    "valor": "diagnosticar infartos cerebrales"
+  },
+  {
+    "entidad": "resonancia magnética",
+    "relacion": "es utilizada para",
+    "valor": "evaluar el compromiso vascular"
+  },
+  {
+    "entidad": "cirugía",
+    "relacion": "es el último recurso en",
+    "valor": "manejo del síndrome de Ehlers-Danlos tipo vascular"
+  },
+  {
+    "entidad": "betabloqueadores",
+    "relacion": "son utilizados como",
+    "valor": "tratamiento preventivo de disección arterial"
+  },
+  {
+    "entidad": "antiagregación plaquetaria",
+    "relacion": "fue el tratamiento utilizado en",
+    "valor": "la paciente con síndrome de Ehlers-Danlos tipo vascular"
+  },
+  {
+    "entidad": "angioresonancia magnética",
+    "relacion": "se utiliza para",
+    "valor": "evaluar la recanalización arterial"
+  },
+  {
+    "entidad": "mujer de 15 años",
+    "relacion": "presentó",
+    "valor": "hemiparesia y disartria"
+  },
+  {
+    "entidad": "infarto subcortical derecho",
+    "relacion": "fue evidenciado en",
+    "valor": "TAC cerebral"
+  },
+  {
+    "entidad": "mujer de 15 años",
+    "relacion": "fue dada de alta con",
+    "valor": "control en policlínico de fisiatría, neurología y cirugía vascular"
+  },
+  {
+    "entidad": "propanolol",
+    "relacion": "fue agregado a",
+    "valor": "tratamiento de la paciente"
+  },
+  {
+    "entidad": "drogas vasoactivas",
+    "relacion": "fueron utilizadas para",
+    "valor": "mejorar la presión arterial media"
+  },
+  {
+    "entidad": "síndrome de Ehlers-Danlos tipo vascular",
+    "relacion": "presenta",
+    "valor": "alta mortalidad por complicaciones arteriales"
+  },
+  {
+    "entidad": "disección carotídea",
+    "relacion": "es responsable de",
+    "valor": "accidentes cerebrovasculares en jóvenes"
+  },
+  {
+    "entidad": "Enfermedad renal por depósito idiopático de cadenas livianas",
+    "relacion": "es un",
+    "valor": "trastorno sistémico"
+  },
+  {
+    "entidad": "cadenas livianas de inmunoglobulinas monoclonales",
+    "relacion": "son producidas por",
+    "valor": "un clon anormal de células B"
+  },
+  {
+    "entidad": "Enfermedad renal por depósito idiopático de cadenas livianas",
+    "relacion": "se caracteriza por",
+    "valor": "depósito en diferentes órganos"
+  },
+  {
+    "entidad": "plasmaféresis",
+    "relacion": "se utiliza para",
+    "valor": "eliminar cadenas livianas"
+  },
+  {
+    "entidad": "methylprednisolone",
+    "relacion": "se utiliza como",
+    "valor": "tratamiento inicial"
+  },
+  {
+    "entidad": "ciclofosfamida",
+    "relacion": "se utiliza como",
+    "valor": "tratamiento adicional"
+  },
+  {
+    "entidad": "hemodiálisis",
+    "relacion": "se inicia para",
+    "valor": "manejar la insuficiencia renal"
+  },
+  {
+    "entidad": "biopsia renal",
+    "relacion": "confirma",
+    "valor": "glomérulopatía nodular"
+  },
+  {
+    "entidad": "síndrome nefrótico",
+    "relacion": "es causado por",
+    "valor": "enfermedad por cadenas livianas"
+  },
+  {
+    "entidad": "creatinina",
+    "relacion": "es un marcador de",
+    "valor": "función renal"
+  },
+  {
+    "entidad": "inmunofluorescencia",
+    "relacion": "es clave para",
+    "valor": "el diagnóstico"
+  },
+  {
+    "entidad": "enfermedad renal por cadenas livianas kappa",
+    "relacion": "tiene un mejor pronóstico que",
+    "valor": "lambda"
+  },
+  {
+    "entidad": "autotrasplante de células madre",
+    "relacion": "puede ser",
+    "valor": "una opción terapéutica"
+  },
+  {
+    "entidad": "plasmaféresis",
+    "relacion": "puede no ser útil en",
+    "valor": "manejo de enfermedad por depósitos de cadenas livianas"
+  },
+  {
+    "entidad": "cadenas livianas",
+    "relacion": "son filtradas por",
+    "valor": "glomérulos"
+  },
+  {
+    "entidad": "cadenas livianas",
+    "relacion": "inducen",
+    "valor": "activación de células mesangiales"
+  },
+  {
+    "entidad": "malnutrición-inflamación compleja",
+    "relacion": "es diagnosticada en",
+    "valor": "pacientes con enfermedad por cadenas livianas"
+  },
+  {
+    "entidad": "creatinina",
+    "relacion": "no es un marcador confiable de",
+    "valor": "función renal en todos los casos"
+  },
+  {
+    "entidad": "Síndrome nefrótico",
+    "relacion": "asociado con",
+    "valor": "enfermedad celíaca"
+  },
+  {
+    "entidad": "enfermedad celíaca",
+    "relacion": "puede asociarse a",
+    "valor": "otras enfermedades autoinmunes"
+  },
+  {
+    "entidad": "mujer de 63 años",
+    "relacion": "presentó",
+    "valor": "síndrome nefrótico masivo"
+  },
+  {
+    "entidad": "síndrome nefrótico",
+    "relacion": "causado por",
+    "valor": "malabsorción secundaria a enfermedad celíaca"
+  },
+  {
+    "entidad": "biopsia renal",
+    "relacion": "mostró",
+    "valor": "patrón membranoproliferativo"
+  },
+  {
+    "entidad": "microangiopatía trombótica",
+    "relacion": "causó",
+    "valor": "daño renal"
+  },
+  {
+    "entidad": "Klebsiella pneumoniae",
+    "relacion": "aislado en",
+    "valor": "hemocultivos"
+  },
+  {
+    "entidad": "terapia antibiótica",
+    "relacion": "incluyó",
+    "valor": "tazobactam y ertapenem"
+  },
+  {
+    "entidad": "diálisis peritoneal",
+    "relacion": "fue indicada para",
+    "valor": "insuficiencia renal"
+  },
+  {
+    "entidad": "prednisona",
+    "relacion": "utilizada para",
+    "valor": "síndrome nefrótico"
+  },
+  {
+    "entidad": "ciclofosfamida",
+    "relacion": "asociada con",
+    "valor": "prednisona para tratamiento"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "evolucionó a",
+    "valor": "buena salud general"
+  },
+  {
+    "entidad": "función renal",
+    "relacion": "recuperación parcial de",
+    "valor": "síndrome nefrótico"
+  },
+  {
+    "entidad": "síndrome nefrótico",
+    "relacion": "presentó",
+    "valor": "proteinuria masiva"
+  },
+  {
+    "entidad": "malnutrición severa",
+    "relacion": "complicó",
+    "valor": "miocardiopatía"
+  },
+  {
+    "entidad": "shock séptico",
+    "relacion": "fue causado por",
+    "valor": "infección"
+  },
+  {
+    "entidad": "enfermedad celíaca",
+    "relacion": "asociada a",
+    "valor": "glomerulonefritis"
+  },
+  {
+    "entidad": "microangiopatía trombótica",
+    "relacion": "no ha sido descrita en",
+    "valor": "pacientes con enfermedad celíaca"
+  },
+  {
+    "entidad": "dieta sin gluten",
+    "relacion": "recomendada para",
+    "valor": "enfermedad celíaca"
+  },
+  {
+    "entidad": "Trombolisis mecánica",
+    "relacion": "es un",
+    "valor": "tratamiento para accidente vascular encefálico"
+  },
+  {
+    "entidad": "Solitaire FR®",
+    "relacion": "es un",
+    "valor": "dispositivo de revascularización"
+  },
+  {
+    "entidad": "tronco basilar",
+    "relacion": "es un",
+    "valor": "sitio de trombosis"
+  },
+  {
+    "entidad": "accidente vascular encefálico (AVE)",
+    "relacion": "afecta a",
+    "valor": "pacientes con isquemia cerebral"
+  },
+  {
+    "entidad": "revascularización temprana",
+    "relacion": "es un",
+    "valor": "factor predictor de evolución clínica favorable"
+  },
+  {
+    "entidad": "trombolisis intravenosa",
+    "relacion": "ha demostrado",
+    "valor": "eficacia en revascularización"
+  },
+  {
+    "entidad": "trombolisis intraarterial",
+    "relacion": "ha demostrado",
+    "valor": "eficacia en revascularización"
+  },
+  {
+    "entidad": "trombos en vasos cerebrales grandes",
+    "relacion": "son",
+    "valor": "relativamente resistentes a activadores del plasminógeno"
+  },
+  {
+    "entidad": "dispositivos mecánicos para trombectomía",
+    "relacion": "son",
+    "valor": "una alternativa a la trombolisis"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "síntomas de cefalea, vértigo y hemiparesia"
+  },
+  {
+    "entidad": "angiografía cerebral",
+    "relacion": "se realiza junto a",
+    "valor": "trombolisis mecánica"
+  },
+  {
+    "entidad": "trombo",
+    "relacion": "se elimina con",
+    "valor": "dispositivo Solitaire FR®"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "evoluciona",
+    "valor": "de manera satisfactoria"
+  },
+  {
+    "entidad": "escala de Rankin modificada",
+    "relacion": "se utiliza para medir",
+    "valor": "resultados funcionales"
+  },
+  {
+    "entidad": "trombolisis endovenosa",
+    "relacion": "es el tratamiento de primera línea para",
+    "valor": "AVE isquémicos"
+  },
+  {
+    "entidad": "dispositivo Solitaire FR®",
+    "relacion": "ofrece",
+    "valor": "una alternativa prometedora para trombectomía"
+  },
+  {
+    "entidad": "evidencia sobre dispositivos mecánicos",
+    "relacion": "es",
+    "valor": "pobre e insuficiente"
+  },
+  {
+    "entidad": "tiempo de reperfusión",
+    "relacion": "es",
+    "valor": "predictivo en la sobrevida neuronal"
+  }
+]

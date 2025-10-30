@@ -1,0 +1,252 @@
+[
+  {
+    "entidad": "Supreme Court of Canada",
+    "relacion": "dicta",
+    "valor": "sentencias sobre el derecho a morir"
+  },
+  {
+    "entidad": "Supreme Court of the United States",
+    "relacion": "dicta",
+    "valor": "sentencias sobre el derecho a morir"
+  },
+  {
+    "entidad": "House of Lords",
+    "relacion": "dicta",
+    "valor": "sentencias sobre el derecho a morir"
+  },
+  {
+    "entidad": "Supreme Court of the United Kingdom",
+    "relacion": "dicta",
+    "valor": "sentencias sobre el derecho a morir"
+  },
+  {
+    "entidad": "European Human Rights Court",
+    "relacion": "dicta",
+    "valor": "sentencias sobre el derecho a morir"
+  },
+  {
+    "entidad": "derecho a morir",
+    "relacion": "reconocido por",
+    "valor": "consenso judicial"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "tienen derecho a",
+    "valor": "rechazar tratamientos médicos"
+  },
+  {
+    "entidad": "derecho a morir",
+    "relacion": "no incluye",
+    "valor": "auxilio médico para suicidio"
+  },
+  {
+    "entidad": "jurisprudencia de Canadá",
+    "relacion": "acepta",
+    "valor": "suicidio asistido médico"
+  },
+  {
+    "entidad": "jurisprudencia del Reino Unido",
+    "relacion": "acepta",
+    "valor": "suicidio asistido médico"
+  },
+  {
+    "entidad": "Corte Suprema de Canadá",
+    "relacion": "sostiene",
+    "valor": "derecho a decidir sobre la propia muerte"
+  },
+  {
+    "entidad": "Sue Rodríguez",
+    "relacion": "solicita",
+    "valor": "declaración de inconstitucionalidad del auxilio al suicidio"
+  },
+  {
+    "entidad": "Corte Suprema de Canadá",
+    "relacion": "declara",
+    "valor": "prohibición del auxilio al suicidio justificable"
+  },
+  {
+    "entidad": "Diane Pretty",
+    "relacion": "solicita",
+    "valor": "exención de responsabilidad penal para su marido"
+  },
+  {
+    "entidad": "UKHL",
+    "relacion": "rechaza",
+    "valor": "petición de Diane Pretty"
+  },
+  {
+    "entidad": "ECHR",
+    "relacion": "sostiene",
+    "valor": "interés en decidir sobre la propia muerte protegido"
+  },
+  {
+    "entidad": "Corte Suprema del Reino Unido",
+    "relacion": "rechaza",
+    "valor": "apelaciones sobre auxilio al suicidio"
+  },
+  {
+    "entidad": "Corte Suprema de la Columbia Británica",
+    "relacion": "afirma",
+    "valor": "derecho a decidir cuándo y cómo morir"
+  },
+  {
+    "entidad": "Carter v. Canada",
+    "relacion": "declara",
+    "valor": "prohibición del suicidio asistido inconstitucional"
+  },
+  {
+    "entidad": "legislador canadiense",
+    "relacion": "debe actuar para",
+    "valor": "evitar vacío legal sobre suicidio asistido"
+  },
+  {
+    "entidad": "jurisprudencia reciente",
+    "relacion": "implica",
+    "valor": "ajuste en distinciones morales y legales"
+  },
+  {
+    "entidad": "prohibición del auxilio al suicidio",
+    "relacion": "afecta",
+    "valor": "autonomía de pacientes competentes"
+  },
+  {
+    "entidad": "Enfermedad Inflamatoria Intestinal (EII)",
+    "relacion": "es un",
+    "valor": "trastorno inflamatorio crónico del tracto gastrointestinal"
+  },
+  {
+    "entidad": "Enfermedad de Crohn (EC)",
+    "relacion": "es un",
+    "valor": "tipo de EII"
+  },
+  {
+    "entidad": "Colitis Ulcerosa (CU)",
+    "relacion": "es un",
+    "valor": "tipo de EII"
+  },
+  {
+    "entidad": "EII",
+    "relacion": "presenta",
+    "valor": "complicaciones médicas y psicológicas"
+  },
+  {
+    "entidad": "calidad de atención",
+    "relacion": "no es",
+    "valor": "óptima para pacientes con EII"
+  },
+  {
+    "entidad": "equipos multidisciplinarios",
+    "relacion": "son necesarios para",
+    "valor": "el manejo de la EII"
+  },
+  {
+    "entidad": "objetivos del tratamiento de EII",
+    "relacion": "incluyen",
+    "valor": "prevenir daño intestinal y mejorar calidad de vida"
+  },
+  {
+    "entidad": "síntomas de EII",
+    "relacion": "incluyen",
+    "valor": "diarrea, hemorragia digestiva baja, dolor abdominal, fiebre, fatiga y pérdida de peso"
+  },
+  {
+    "entidad": "complicaciones de EC",
+    "relacion": "pueden incluir",
+    "valor": "fístulas, abscesos y enfermedad perianal"
+  },
+  {
+    "entidad": "manifestaciones extraintestinales",
+    "relacion": "pueden desarrollarse en",
+    "valor": "EC y CU"
+  },
+  {
+    "entidad": "corticoides",
+    "relacion": "tienen riesgo de",
+    "valor": "eventos adversos en el tratamiento de EII"
+  },
+  {
+    "entidad": "curación de la mucosa",
+    "relacion": "es un",
+    "valor": "objetivo terapéutico importante en EII"
+  },
+  {
+    "entidad": "terapia convencional",
+    "relacion": "incluye",
+    "valor": "mesalazina, azatioprina/6-mercaptopurina y metotrexato"
+  },
+  {
+    "entidad": "agentes biológicos",
+    "relacion": "pueden mejorar",
+    "valor": "la historia natural de la EII"
+  },
+  {
+    "entidad": "factores pronósticos",
+    "relacion": "incluyen",
+    "valor": "edad joven al diagnóstico y enfermedad extensa"
+  },
+  {
+    "entidad": "discapacidad",
+    "relacion": "es un",
+    "valor": "concepto complejo y multidimensional"
+  },
+  {
+    "entidad": "pacientes con EII",
+    "relacion": "tienen mayor riesgo de",
+    "valor": "discapacidad en comparación con la población general"
+  },
+  {
+    "entidad": "definición de discapacidad",
+    "relacion": "incluye",
+    "valor": "limitaciones en actividades diarias"
+  },
+  {
+    "entidad": "hábito tabáquico",
+    "relacion": "exacerba",
+    "valor": "el grado de discapacidad en pacientes con EC"
+  },
+  {
+    "entidad": "estrés psicológico",
+    "relacion": "se asocia con",
+    "valor": "discapacidad en pacientes con EII"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "se ve afectada en",
+    "valor": "pacientes con EII"
+  },
+  {
+    "entidad": "inflamación crónica",
+    "relacion": "puede causar",
+    "valor": "deterioro en la calidad de vida"
+  },
+  {
+    "entidad": "vitamina D",
+    "relacion": "deficiencia se asocia con",
+    "valor": "aumento en la actividad de CU y EC"
+  },
+  {
+    "entidad": "suplementación de vitamina D",
+    "relacion": "puede mejorar",
+    "valor": "la calidad de vida en pacientes con EII"
+  },
+  {
+    "entidad": "Infliximab",
+    "relacion": "mejora",
+    "valor": "la calidad de vida en pacientes con EII"
+  },
+  {
+    "entidad": "calidad de atención",
+    "relacion": "debe ser",
+    "valor": "continua y de calidad"
+  },
+  {
+    "entidad": "pacientes con EII",
+    "relacion": "necesitan",
+    "valor": "atención multidisciplinaria"
+  },
+  {
+    "entidad": "satisfacción del paciente",
+    "relacion": "afecta",
+    "valor": "la adherencia al tratamiento"
+  }
+]

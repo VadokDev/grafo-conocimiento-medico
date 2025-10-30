@@ -1,0 +1,177 @@
+[
+  {
+    "entidad": "enteritis lúpica",
+    "relacion": "es un",
+    "valor": "trastorno gastrointestinal"
+  },
+  {
+    "entidad": "lupus eritematoso sistémico (LES)",
+    "relacion": "es un",
+    "valor": "enfermedad autoinmune"
+  },
+  {
+    "entidad": "mujer de 24 años",
+    "relacion": "presenta",
+    "valor": "dolor abdominal"
+  },
+  {
+    "entidad": "dolor abdominal",
+    "relacion": "es un síntoma de",
+    "valor": "enteritis lúpica"
+  },
+  {
+    "entidad": "apendicitis",
+    "relacion": "es confundida con",
+    "valor": "enteritis lúpica"
+  },
+  {
+    "entidad": "exploratory laparotomy",
+    "relacion": "se realiza para",
+    "valor": "diagnosticar apendicitis"
+  },
+  {
+    "entidad": "methylprednisolone",
+    "relacion": "es un",
+    "valor": "tratamiento para enteritis lúpica"
+  },
+  {
+    "entidad": "estudios inmunológicos",
+    "relacion": "confirman",
+    "valor": "diagnóstico de LES"
+  },
+  {
+    "entidad": "tomografía axial computarizada (TAC)",
+    "relacion": "se utiliza para",
+    "valor": "evaluar abdomen"
+  },
+  {
+    "entidad": "signo de la diana",
+    "relacion": "es un hallazgo en",
+    "valor": "TAC de enteritis lúpica"
+  },
+  {
+    "entidad": "linfopenia",
+    "relacion": "es un hallazgo en",
+    "valor": "pacientes con LES"
+  },
+  {
+    "entidad": "histopatología",
+    "relacion": "se realiza para",
+    "valor": "analizar muestras de tejido"
+  },
+  {
+    "entidad": "mujer de 24 años",
+    "relacion": "es tratada con",
+    "valor": "pulsos de metilprednisolona"
+  },
+  {
+    "entidad": "morbimortalidad",
+    "relacion": "se relaciona con",
+    "valor": "demora en diagnóstico"
+  },
+  {
+    "entidad": "enteritis lúpica",
+    "relacion": "puede causar",
+    "valor": "abdomen agudo"
+  },
+  {
+    "entidad": "sistema inmunológico",
+    "relacion": "es afectado por",
+    "valor": "lupus eritematoso sistémico"
+  },
+  {
+    "entidad": "Pancreatitis aguda",
+    "relacion": "es causada por",
+    "valor": "hipercalcemia"
+  },
+  {
+    "entidad": "hipercalcemia",
+    "relacion": "es debida a",
+    "valor": "hiperparatiroidismo primario"
+  },
+  {
+    "entidad": "mujer de 24 años",
+    "relacion": "está en",
+    "valor": "embarazo de 32 semanas"
+  },
+  {
+    "entidad": "mujer de 24 años",
+    "relacion": "presenta",
+    "valor": "dolor abdominal, náuseas y vómitos"
+  },
+  {
+    "entidad": "lipasa",
+    "relacion": "está elevada en",
+    "valor": "mujer de 24 años"
+  },
+  {
+    "entidad": "amilasa",
+    "relacion": "está elevada en",
+    "valor": "mujer de 24 años"
+  },
+  {
+    "entidad": "calcio corregido",
+    "relacion": "es",
+    "valor": "13.1 mg/dl"
+  },
+  {
+    "entidad": "fósforo",
+    "relacion": "es",
+    "valor": "1.6 mg/dl"
+  },
+  {
+    "entidad": "colangioresonancia",
+    "relacion": "muestra",
+    "valor": "páncreas aumentado de tamaño con cambios inflamatorios"
+  },
+  {
+    "entidad": "nódulo paratiroideo",
+    "relacion": "es encontrado en",
+    "valor": "ultrasonido cervical"
+  },
+  {
+    "entidad": "cinacalcet",
+    "relacion": "es utilizado para",
+    "valor": "tratar hipercalcemia"
+  },
+  {
+    "entidad": "paratiroidectomía",
+    "relacion": "es realizada a",
+    "valor": "39 semanas de embarazo"
+  },
+  {
+    "entidad": "evolución materna y fetal",
+    "relacion": "es",
+    "valor": "buena"
+  },
+  {
+    "entidad": "hiperparatiroidismo primario",
+    "relacion": "tiene una prevalencia de",
+    "valor": "0.15%"
+  },
+  {
+    "entidad": "hiperparatiroidismo primario",
+    "relacion": "es la principal causa de",
+    "valor": "hipercalcemia durante el embarazo"
+  },
+  {
+    "entidad": "hipercalcemia",
+    "relacion": "puede causar",
+    "valor": "pancreatitis aguda"
+  },
+  {
+    "entidad": "diagnóstico de HPTP",
+    "relacion": "se realiza mediante",
+    "valor": "niveles elevados de calcio y PTH"
+  },
+  {
+    "entidad": "tratamiento de HPTP",
+    "relacion": "se basa en",
+    "valor": "hidratación parenteral"
+  },
+  {
+    "entidad": "paratiroidectomía",
+    "relacion": "es el tratamiento curativo de elección en",
+    "valor": "HPTP durante el embarazo"
+  }
+]

@@ -1,0 +1,832 @@
+[
+  {
+    "entidad": "obesidad",
+    "relacion": "es",
+    "valor": "una epidemia mundial"
+  },
+  {
+    "entidad": "Chilean society",
+    "relacion": "tiene",
+    "valor": "problemas de obesidad"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "afecta a",
+    "valor": "autoestima"
+  },
+  {
+    "entidad": "autoestima",
+    "relacion": "se relaciona con",
+    "valor": "estado de salud"
+  },
+  {
+    "entidad": "autoestima",
+    "relacion": "se asocia con",
+    "valor": "síntomas psicopatológicos"
+  },
+  {
+    "entidad": "autoestima",
+    "relacion": "se relaciona con",
+    "valor": "conductas agresivas"
+  },
+  {
+    "entidad": "autoestima",
+    "relacion": "se relaciona con",
+    "valor": "conductas antisociales"
+  },
+  {
+    "entidad": "autoestima",
+    "relacion": "se relaciona con",
+    "valor": "violencia escolar"
+  },
+  {
+    "entidad": "condición física",
+    "relacion": "ayuda a determinar",
+    "valor": "estado de salud"
+  },
+  {
+    "entidad": "capacidad aeróbica",
+    "relacion": "se asocia con",
+    "valor": "funcionamiento eficiente del organismo"
+  },
+  {
+    "entidad": "nivel de fuerza muscular",
+    "relacion": "representa",
+    "valor": "un factor de riesgo para enfermedades cardiovasculares"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "promueve",
+    "valor": "acciones de promoción de salud"
+  },
+  {
+    "entidad": "Estrategia Nacional de Salud",
+    "relacion": "tiene como objetivo",
+    "valor": "reducir factores de riesgo"
+  },
+  {
+    "entidad": "hábitos saludables",
+    "relacion": "son promovidos por",
+    "valor": "organismos de salud pública"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "es fundamental para",
+    "valor": "asegurar un estado adecuado de salud"
+  },
+  {
+    "entidad": "autoestima",
+    "relacion": "se relaciona con",
+    "valor": "práctica de actividad física"
+  },
+  {
+    "entidad": "modelo de ecuaciones estructurales",
+    "relacion": "se utiliza para",
+    "valor": "analizar relaciones entre variables"
+  },
+  {
+    "entidad": "Índice de Masa Corporal (IMC)",
+    "relacion": "se relaciona con",
+    "valor": "nivel de actividad física"
+  },
+  {
+    "entidad": "nivel de actividad física",
+    "relacion": "se relaciona con",
+    "valor": "autoestima"
+  },
+  {
+    "entidad": "autoestima",
+    "relacion": "se relaciona negativamente con",
+    "valor": "Índice de Masa Corporal (IMC)"
+  },
+  {
+    "entidad": "autoestima",
+    "relacion": "se relaciona negativamente con",
+    "valor": "horas de actividad física"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "puede prevenir",
+    "valor": "obesidad en niños y adolescentes"
+  },
+  {
+    "entidad": "trastorno depresivo mayor",
+    "relacion": "es",
+    "valor": "la segunda causa de discapacidad en el mundo"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud",
+    "relacion": "estima",
+    "valor": "carga de enfermedad del trastorno depresivo mayor"
+  },
+  {
+    "entidad": "trastorno depresivo mayor",
+    "relacion": "ocupa",
+    "valor": "el lugar número 11 como causa de discapacidad y mortalidad"
+  },
+  {
+    "entidad": "cobertura del tratamiento",
+    "relacion": "puede reducir",
+    "valor": "la carga de enfermedad causada por el trastorno depresivo mayor"
+  },
+  {
+    "entidad": "diagnóstico clínico adecuado",
+    "relacion": "es necesario para",
+    "valor": "un tratamiento efectivo"
+  },
+  {
+    "entidad": "Servicio de Salud de Ñuble",
+    "relacion": "realiza",
+    "valor": "atención secundaria"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "son tratados en",
+    "valor": "centros de atención secundaria"
+  },
+  {
+    "entidad": "episodio depresivo mayor",
+    "relacion": "es evaluado por",
+    "valor": "psiquiatras utilizando criterios DSM-IV"
+  },
+  {
+    "entidad": "Hamilton Depression Scale",
+    "relacion": "se utiliza para",
+    "valor": "evaluar la gravedad de la depresión"
+  },
+  {
+    "entidad": "remisión",
+    "relacion": "es evaluada por",
+    "valor": "psiquiatras"
+  },
+  {
+    "entidad": "pacientes con episodios recurrentes",
+    "relacion": "presentan",
+    "valor": "mayor gravedad en comparación con episodios únicos"
+  },
+  {
+    "entidad": "intentos suicidas",
+    "relacion": "son más frecuentes en",
+    "valor": "pacientes con primer episodio"
+  },
+  {
+    "entidad": "comorbilidad psiquiátrica",
+    "relacion": "es alta en",
+    "valor": "pacientes con trastorno depresivo mayor"
+  },
+  {
+    "entidad": "trastornos médicos",
+    "relacion": "son frecuentes en",
+    "valor": "pacientes con trastorno depresivo mayor"
+  },
+  {
+    "entidad": "antidepresivos",
+    "relacion": "son prescritos a",
+    "valor": "la mayoría de los pacientes"
+  },
+  {
+    "entidad": "intervenciones psicoterapéuticas",
+    "relacion": "son realizadas por",
+    "valor": "psicólogos"
+  },
+  {
+    "entidad": "remisión total",
+    "relacion": "alcanzan",
+    "valor": "27.5% de los pacientes"
+  },
+  {
+    "entidad": "duración del episodio depresivo mayor",
+    "relacion": "es mayor a",
+    "valor": "12 meses en la mayoría de los pacientes"
+  },
+  {
+    "entidad": "tiempo de derivación",
+    "relacion": "es prolongado",
+    "valor": "promedio de 10.8 meses"
+  },
+  {
+    "entidad": "estrategias de afrontamiento",
+    "relacion": "deben ser desplegadas en",
+    "valor": "todos los niveles de atención"
+  },
+  {
+    "entidad": "síndrome hemofagocítico",
+    "relacion": "es un",
+    "valor": "síndrome de activación inmune excesiva"
+  },
+  {
+    "entidad": "Hospital Italiano de Buenos Aires",
+    "relacion": "es un",
+    "valor": "centro de tercer nivel de alta complejidad"
+  },
+  {
+    "entidad": "hemofagocitosis",
+    "relacion": "es un",
+    "valor": "hallazgo diagnóstico en médula ósea"
+  },
+  {
+    "entidad": "insuficiencia renal",
+    "relacion": "es un",
+    "valor": "comorbilidad frecuente en pacientes con SHF"
+  },
+  {
+    "entidad": "cáncer",
+    "relacion": "es una",
+    "valor": "causa de síndrome hemofagocítico"
+  },
+  {
+    "entidad": "inmunosupresión",
+    "relacion": "es una",
+    "valor": "causa de síndrome hemofagocítico"
+  },
+  {
+    "entidad": "síndrome post-infeccioso",
+    "relacion": "es una",
+    "valor": "causa de síndrome hemofagocítico"
+  },
+  {
+    "entidad": "tratamiento de la enfermedad de base",
+    "relacion": "es",
+    "valor": "protector contra mortalidad en SHF"
+  },
+  {
+    "entidad": "gammaglobulina",
+    "relacion": "es un",
+    "valor": "tratamiento para síndrome hemofagocítico"
+  },
+  {
+    "entidad": "corticoides",
+    "relacion": "es un",
+    "valor": "tratamiento para síndrome hemofagocítico"
+  },
+  {
+    "entidad": "quimioterapia",
+    "relacion": "es un",
+    "valor": "tratamiento para síndrome hemofagocítico"
+  },
+  {
+    "entidad": "fiebre",
+    "relacion": "es un",
+    "valor": "síntoma común en síndrome hemofagocítico"
+  },
+  {
+    "entidad": "anemia",
+    "relacion": "es un",
+    "valor": "hallazgo frecuente en laboratorio en pacientes con SHF"
+  },
+  {
+    "entidad": "plaquetopenia",
+    "relacion": "es un",
+    "valor": "hallazgo frecuente en laboratorio en pacientes con SHF"
+  },
+  {
+    "entidad": "ferritina elevada",
+    "relacion": "es un",
+    "valor": "hallazgo frecuente en laboratorio en pacientes con SHF"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "es",
+    "valor": "alta en pacientes con síndrome hemofagocítico"
+  },
+  {
+    "entidad": "análisis de supervivencia",
+    "relacion": "es un",
+    "valor": "método utilizado para evaluar mortalidad"
+  },
+  {
+    "entidad": "Kaplan-Meier",
+    "relacion": "es un",
+    "valor": "método de análisis de supervivencia"
+  },
+  {
+    "entidad": "comité institucional de ética",
+    "relacion": "evalúa",
+    "valor": "protocolos de investigación"
+  },
+  {
+    "entidad": "historia clínica electrónica",
+    "relacion": "es un",
+    "valor": "repositorio de información de pacientes"
+  },
+  {
+    "entidad": "células natural killer",
+    "relacion": "tienen",
+    "valor": "baja actividad en pacientes con SHF"
+  },
+  {
+    "entidad": "IL-2",
+    "relacion": "es un",
+    "valor": "marcador considerado en diagnóstico de SHF"
+  },
+  {
+    "entidad": "Años de Vida Potencialmente Perdidos (AVPP)",
+    "relacion": "es un",
+    "valor": "indicador epidemiológico"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "estudia",
+    "valor": "muertes prematuras"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "publica",
+    "valor": "bases de datos de defunciones"
+  },
+  {
+    "entidad": "Organización para la Cooperación y el Desarrollo Económico (OECD)",
+    "relacion": "propone",
+    "valor": "método para calcular AVPP"
+  },
+  {
+    "entidad": "traumatismos",
+    "relacion": "causa",
+    "valor": "muertes prematuras en Chile"
+  },
+  {
+    "entidad": "neoplasias",
+    "relacion": "causa",
+    "valor": "muertes prematuras en Chile"
+  },
+  {
+    "entidad": "enfermedades del aparato circulatorio",
+    "relacion": "causa",
+    "valor": "muertes prematuras en Chile"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "tienen mayor riesgo de",
+    "valor": "muertes prematuras que mujeres"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen menor riesgo de",
+    "valor": "muertes prematuras que hombres"
+  },
+  {
+    "entidad": "regiones rurales",
+    "relacion": "tienen",
+    "valor": "mayores tasas de muertes prematuras"
+  },
+  {
+    "entidad": "regiones urbanas",
+    "relacion": "tienen",
+    "valor": "menores tasas de muertes prematuras"
+  },
+  {
+    "entidad": "Centro para el Control y Prevención de Enfermedades (CDC)",
+    "relacion": "propone",
+    "valor": "estrategias para reducir muertes prematuras"
+  },
+  {
+    "entidad": "políticas públicas",
+    "relacion": "deben ser",
+    "valor": "evaluadas para su impacto en salud"
+  },
+  {
+    "entidad": "factores de riesgo",
+    "relacion": "asociados a",
+    "valor": "enfermedades crónicas no transmisibles"
+  },
+  {
+    "entidad": "estudios de muertes prematuras",
+    "relacion": "se basan en",
+    "valor": "registros de defunciones"
+  },
+  {
+    "entidad": "integridad del registro",
+    "relacion": "determina",
+    "valor": "validez de investigaciones de mortalidad"
+  },
+  {
+    "entidad": "universitarios",
+    "relacion": "se encuentran en",
+    "valor": "una etapa crítica de estilo de vida"
+  },
+  {
+    "entidad": "enfermedades cardiovasculares",
+    "relacion": "son",
+    "valor": "la principal causa de muerte y discapacidad a nivel mundial"
+  },
+  {
+    "entidad": "factores de riesgo cardiovascular (FRCV)",
+    "relacion": "son",
+    "valor": "susceptibles de ser modificados"
+  },
+  {
+    "entidad": "hipertensión arterial",
+    "relacion": "es un",
+    "valor": "factor de riesgo cardiovascular modificable"
+  },
+  {
+    "entidad": "diabetes mellitus",
+    "relacion": "es un",
+    "valor": "factor de riesgo cardiovascular modificable"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "es un",
+    "valor": "factor de riesgo cardiovascular modificable"
+  },
+  {
+    "entidad": "sedentarismo",
+    "relacion": "es un",
+    "valor": "factor de riesgo cardiovascular modificable"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "es un",
+    "valor": "factor de riesgo cardiovascular modificable"
+  },
+  {
+    "entidad": "consumo de alcohol",
+    "relacion": "es un",
+    "valor": "factor de riesgo cardiovascular modificable"
+  },
+  {
+    "entidad": "estudiantes de primer año",
+    "relacion": "tienen",
+    "valor": "menor prevalencia de obesidad abdominal en comparación con estudiantes de tercer año"
+  },
+  {
+    "entidad": "estudiantes de tercer año",
+    "relacion": "tienen",
+    "valor": "mayor prevalencia de consumo de alcohol"
+  },
+  {
+    "entidad": "estudiantes de la Facultad de Educación",
+    "relacion": "tienen",
+    "valor": "mayor probabilidad de ser obesos en comparación con estudiantes de Medicina"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen",
+    "valor": "mayor prevalencia de estilos de vida sedentarios"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "tienen",
+    "valor": "mayor prevalencia de prehipertensión y tabaquismo"
+  },
+  {
+    "entidad": "programas educativos",
+    "relacion": "son requeridos para",
+    "valor": "promover estilos de vida saludables"
+  },
+  {
+    "entidad": "Universidad de La Frontera",
+    "relacion": "realiza",
+    "valor": "estudios sobre factores de riesgo cardiovascular"
+  },
+  {
+    "entidad": "insulinorresistencia",
+    "relacion": "es un",
+    "valor": "factor de riesgo cardiovascular"
+  },
+  {
+    "entidad": "síndrome metabólico",
+    "relacion": "es un",
+    "valor": "factor de riesgo cardiovascular"
+  },
+  {
+    "entidad": "estudiantes de Ciencias Sociales y Humanas",
+    "relacion": "tienen",
+    "valor": "mayor prevalencia de factores de riesgo cardiovascular"
+  },
+  {
+    "entidad": "estudiantes de la Facultad de Medicina",
+    "relacion": "tienen",
+    "valor": "menor prevalencia de consumo de tabaco y alcohol"
+  },
+  {
+    "entidad": "estudiantes de tercer año",
+    "relacion": "presentan",
+    "valor": "mayor prevalencia de dislipidemia"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "presentan",
+    "valor": "mayor prevalencia de hipertensión arterial"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "presentan",
+    "valor": "mayor prevalencia de dislipidemia"
+  },
+  {
+    "entidad": "cigarrillo tradicional",
+    "relacion": "es considerado",
+    "valor": "el problema más grande de salud pública prevenible en países desarrollados"
+  },
+  {
+    "entidad": "adolescentes escolarizados",
+    "relacion": "son el grupo",
+    "valor": "más afectado por el consumo de cigarrillos"
+  },
+  {
+    "entidad": "consumo de cigarrillos",
+    "relacion": "tiene consecuencias",
+    "valor": "en la salud y economía"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "es una",
+    "valor": "drogodependencia con características psicosociales y farmacológicas"
+  },
+  {
+    "entidad": "nicotina",
+    "relacion": "es el componente",
+    "valor": "del tabaco responsable de la adicción"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud de Colombia",
+    "relacion": "mostró",
+    "valor": "prevalencia de fumadores actuales de 2,4% entre adolescentes de 12 a 17 años"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "es un factor asociado",
+    "valor": "al consumo de cigarrillos"
+  },
+  {
+    "entidad": "madre fumadora",
+    "relacion": "es un factor asociado",
+    "valor": "al consumo de cigarrillos"
+  },
+  {
+    "entidad": "padre con educación técnica o tecnológica",
+    "relacion": "está asociado",
+    "valor": "al consumo de cigarrillos"
+  },
+  {
+    "entidad": "religión no cristiana o sin religión",
+    "relacion": "está asociada",
+    "valor": "al consumo de cigarrillos"
+  },
+  {
+    "entidad": "estrato social bajo",
+    "relacion": "está asociado",
+    "valor": "al consumo de cigarrillos"
+  },
+  {
+    "entidad": "nivel académico de los padres",
+    "relacion": "influye en",
+    "valor": "la prevalencia de consumo de cigarrillos"
+  },
+  {
+    "entidad": "círculo familiar",
+    "relacion": "es un factor relacionado",
+    "valor": "con el consumo de cigarrillos"
+  },
+  {
+    "entidad": "programas de intervención educativa",
+    "relacion": "podrían utilizarse para",
+    "valor": "ofrecer información sobre los riesgos del consumo de tabaco"
+  },
+  {
+    "entidad": "ACC/AHA 2013",
+    "relacion": "es un",
+    "valor": "puntaje de riesgo cardiovascular"
+  },
+  {
+    "entidad": "puntaje de Framingham",
+    "relacion": "es un",
+    "valor": "puntaje de riesgo cardiovascular"
+  },
+  {
+    "entidad": "Santiago",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "Mortalidad cardiovascular",
+    "relacion": "es un",
+    "valor": "resultado de salud"
+  },
+  {
+    "entidad": "enfermedad cardiovascular",
+    "relacion": "es la",
+    "valor": "primera causa de muerte en el mundo"
+  },
+  {
+    "entidad": "ACC",
+    "relacion": "pertenece a",
+    "valor": "American College of Cardiology"
+  },
+  {
+    "entidad": "AHA",
+    "relacion": "pertenece a",
+    "valor": "American Heart Association"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "es un",
+    "valor": "país en estudio"
+  },
+  {
+    "entidad": "población chilena",
+    "relacion": "es un",
+    "valor": "grupo de estudio"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen menor prevalencia de",
+    "valor": "obesidad"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen menor prevalencia de",
+    "valor": "diabetes mellitus"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen menor prevalencia de",
+    "valor": "dislipidemia"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "tienen mayor puntaje de",
+    "valor": "ACC/AHA"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "tienen mayor puntaje de",
+    "valor": "Framingham"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "tienen mayor puntaje de",
+    "valor": "Framingham Chileno"
+  },
+  {
+    "entidad": "mortalidad total",
+    "relacion": "fue determinada por",
+    "valor": "consulta al Registro Civil"
+  },
+  {
+    "entidad": "mortalidad cardiovascular",
+    "relacion": "fue determinada por",
+    "valor": "consulta al Registro Civil"
+  },
+  {
+    "entidad": "puntuación ACC/AHA",
+    "relacion": "es mejor que",
+    "valor": "puntaje de Framingham"
+  },
+  {
+    "entidad": "puntuación ACC/AHA",
+    "relacion": "es mejor que",
+    "valor": "puntaje de Framingham Chileno"
+  },
+  {
+    "entidad": "discriminación",
+    "relacion": "es la habilidad de",
+    "valor": "un modelo para asignar riesgo"
+  },
+  {
+    "entidad": "mortalidad cardiovascular",
+    "relacion": "es un",
+    "valor": "evento final en el estudio"
+  },
+  {
+    "entidad": "Comité de Ética",
+    "relacion": "aproba",
+    "valor": "consentimiento informado"
+  },
+  {
+    "entidad": "población de bajo riesgo cardiovascular",
+    "relacion": "es un",
+    "valor": "grupo de estudio"
+  },
+  {
+    "entidad": "población chilena",
+    "relacion": "es un",
+    "valor": "grupo de estudio para ACC/AHA"
+  },
+  {
+    "entidad": "mortalidad cardiovascular",
+    "relacion": "se relaciona con",
+    "valor": "edad"
+  },
+  {
+    "entidad": "capacidad aeróbica",
+    "relacion": "influye en",
+    "valor": "mortalidad cardiovascular"
+  },
+  {
+    "entidad": "Benzodiazepinas (BZD)",
+    "relacion": "son utilizadas en",
+    "valor": "adultos mayores"
+  },
+  {
+    "entidad": "adultos mayores",
+    "relacion": "presentan riesgo de",
+    "valor": "dependencia a benzodiazepinas"
+  },
+  {
+    "entidad": "Benzodiazepinas (BZD)",
+    "relacion": "asociadas a",
+    "valor": "efectos secundarios"
+  },
+  {
+    "entidad": "Criterios de Beers",
+    "relacion": "clasifican",
+    "valor": "medicamentos según seguridad"
+  },
+  {
+    "entidad": "Benzodiazepinas (BZD)",
+    "relacion": "son categorizadas como",
+    "valor": "drogas no recomendadas"
+  },
+  {
+    "entidad": "consumo crónico de BZD",
+    "relacion": "asociado a",
+    "valor": "aumento del riesgo de caídas"
+  },
+  {
+    "entidad": "consumo crónico de BZD",
+    "relacion": "asociado a",
+    "valor": "disfunciones cognitivas"
+  },
+  {
+    "entidad": "consumo crónico de BZD",
+    "relacion": "asociado a",
+    "valor": "desarrollo de demencia"
+  },
+  {
+    "entidad": "literatura científica",
+    "relacion": "sugiere que",
+    "valor": "uso de BZD en adultos mayores es frecuente"
+  },
+  {
+    "entidad": "población mayor de 60 años",
+    "relacion": "está creciendo en",
+    "valor": "América Latina"
+  },
+  {
+    "entidad": "Benzodiazepinas (BZD)",
+    "relacion": "deben ser utilizadas con",
+    "valor": "precaución en adultos mayores"
+  },
+  {
+    "entidad": "Benzodiazepinas (BZD)",
+    "relacion": "son utilizadas para",
+    "valor": "manejo de síntomas ansiosos"
+  },
+  {
+    "entidad": "Benzodiazepinas (BZD)",
+    "relacion": "son utilizadas para",
+    "valor": "tratamiento de insomnio"
+  },
+  {
+    "entidad": "Benzodiazepinas (BZD)",
+    "relacion": "son utilizadas para",
+    "valor": "trastornos conductuales"
+  },
+  {
+    "entidad": "género femenino",
+    "relacion": "asociado a",
+    "valor": "mayor consumo de BZD"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "asociada a",
+    "valor": "mayor uso de BZD"
+  },
+  {
+    "entidad": "nivel socioeconómico",
+    "relacion": "no mostró asociación significativa con",
+    "valor": "consumo de BZD"
+  },
+  {
+    "entidad": "nivel de escolaridad",
+    "relacion": "mostró relación inversa con",
+    "valor": "uso de BZD"
+  },
+  {
+    "entidad": "automedicación de BZD",
+    "relacion": "reportada en",
+    "valor": "adultos mayores"
+  },
+  {
+    "entidad": "dependencia a BZD",
+    "relacion": "reportada en",
+    "valor": "usuarios adultos mayores"
+  },
+  {
+    "entidad": "Benzodiazepinas (BZD)",
+    "relacion": "asociadas a",
+    "valor": "efectos adversos como caídas"
+  },
+  {
+    "entidad": "Benzodiazepinas (BZD)",
+    "relacion": "asociadas a",
+    "valor": "cefalea crónica"
+  },
+  {
+    "entidad": "Benzodiazepinas (BZD)",
+    "relacion": "asociadas a",
+    "valor": "insomnio"
+  }
+]

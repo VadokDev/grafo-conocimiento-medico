@@ -1,0 +1,792 @@
+[
+  {
+    "entidad": "sistema de alistamiento y priorización",
+    "relacion": "evalúa",
+    "valor": "efectividad para trasplante hepático en Chile"
+  },
+  {
+    "entidad": "MELD-Na score",
+    "relacion": "prioriza",
+    "valor": "asignación de órganos para trasplante hepático"
+  },
+  {
+    "entidad": "Hepatocellular Carcinoma (HCC)",
+    "relacion": "recibe",
+    "valor": "puntaje adicional en el sistema de priorización"
+  },
+  {
+    "entidad": "MELD operacional",
+    "relacion": "asigna",
+    "valor": "puntaje adicional en situaciones de excepción"
+  },
+  {
+    "entidad": "lista de espera (WL)",
+    "relacion": "crece",
+    "valor": "sostenidamente en los últimos años"
+  },
+  {
+    "entidad": "MELD",
+    "relacion": "se adopta",
+    "valor": "para la asignación de órganos en Chile"
+  },
+  {
+    "entidad": "MELD-Na",
+    "relacion": "modifica",
+    "valor": "el sistema de puntuación en diciembre de 2016"
+  },
+  {
+    "entidad": "Comité asesor para alistamiento y priorización",
+    "relacion": "asigna",
+    "valor": "puntajes operacionales basados en mortalidad esperada"
+  },
+  {
+    "entidad": "trasplante hepático",
+    "relacion": "considerado",
+    "valor": "terapia estándar para enfermedad hepática terminal"
+  },
+  {
+    "entidad": "donantes cadavéricos",
+    "relacion": "son",
+    "valor": "la principal fuente de órganos para trasplante hepático en Chile"
+  },
+  {
+    "entidad": "tasa de donación en Chile",
+    "relacion": "oscila",
+    "valor": "entre 7 y 10 donantes por millón de habitantes"
+  },
+  {
+    "entidad": "MELD-Na",
+    "relacion": "discrimina",
+    "valor": "pacientes con mayor riesgo de muerte"
+  },
+  {
+    "entidad": "supervivencia postrasplante",
+    "relacion": "es",
+    "valor": "86% a 1 año y 85% a 5 años"
+  },
+  {
+    "entidad": "MELD-Na ≥ 30",
+    "relacion": "tiene",
+    "valor": "menor supervivencia postrasplante en grupo CPM"
+  },
+  {
+    "entidad": "carcinoma hepatocelular (CHC)",
+    "relacion": "recibe",
+    "valor": "puntaje adicional en el sistema de priorización"
+  },
+  {
+    "entidad": "ascitis refractaria",
+    "relacion": "recibe",
+    "valor": "15 puntos más un punto cada 3 meses"
+  },
+  {
+    "entidad": "prurito refractario",
+    "relacion": "recibe",
+    "valor": "15 puntos más un punto cada 3 meses"
+  },
+  {
+    "entidad": "síndrome hepatopulmonar",
+    "relacion": "recibe",
+    "valor": "20 puntos más un punto cada 3 meses"
+  },
+  {
+    "entidad": "enfermedad hepática poliquística",
+    "relacion": "recibe",
+    "valor": "15 puntos más un punto cada 3 meses"
+  },
+  {
+    "entidad": "MELD",
+    "relacion": "utiliza",
+    "valor": "variables de laboratorio para predecir mortalidad"
+  },
+  {
+    "entidad": "MELD-Na",
+    "relacion": "agrega",
+    "valor": "sodio plasmático a la ecuación"
+  },
+  {
+    "entidad": "Instituto de Salud Pública",
+    "relacion": "procesa",
+    "valor": "datos de manera anónima"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "aprueba",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "mortalidad a 90 días",
+    "relacion": "tiene",
+    "valor": "correlación con MELD-Na al ingreso a la lista"
+  },
+  {
+    "entidad": "tasa de salida de lista de espera",
+    "relacion": "es",
+    "valor": "significativamente mayor en grupo CPM"
+  },
+  {
+    "entidad": "supervivencia postrasplante",
+    "relacion": "es",
+    "valor": "buena en todos los grupos evaluados"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "es causado por",
+    "valor": "SARS-CoV-2"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "se reportó por primera vez en",
+    "valor": "China"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "fue declarado pandemia por",
+    "valor": "OMS"
+  },
+  {
+    "entidad": "Hospital Regional de Valdivia",
+    "relacion": "es un",
+    "valor": "centro de referencia regional"
+  },
+  {
+    "entidad": "pacientes con COVID-19",
+    "relacion": "son admitidos en",
+    "valor": "Hospital Regional de Valdivia"
+  },
+  {
+    "entidad": "PCR",
+    "relacion": "es un método para",
+    "valor": "diagnosticar COVID-19"
+  },
+  {
+    "entidad": "serología",
+    "relacion": "es un método para",
+    "valor": "diagnosticar COVID-19"
+  },
+  {
+    "entidad": "hipertensión",
+    "relacion": "es una comorbilidad asociada a",
+    "valor": "COVID-19"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "es una comorbilidad asociada a",
+    "valor": "COVID-19"
+  },
+  {
+    "entidad": "diabetes mellitus tipo 2",
+    "relacion": "es una comorbilidad asociada a",
+    "valor": "COVID-19"
+  },
+  {
+    "entidad": "taquipnea",
+    "relacion": "se asocia con",
+    "valor": "admisión a UCI"
+  },
+  {
+    "entidad": "mortalidad hospitalaria",
+    "relacion": "se asocia con",
+    "valor": "inmunosupresión"
+  },
+  {
+    "entidad": "mortalidad hospitalaria",
+    "relacion": "se asocia con",
+    "valor": "admisión a UCI"
+  },
+  {
+    "entidad": "dexametasona",
+    "relacion": "es un tratamiento para",
+    "valor": "COVID-19"
+  },
+  {
+    "entidad": "plasma convaleciente",
+    "relacion": "es un tratamiento potencial para",
+    "valor": "COVID-19"
+  },
+  {
+    "entidad": "síntomas de COVID-19",
+    "relacion": "incluyen",
+    "valor": "tos, fiebre y mialgia"
+  },
+  {
+    "entidad": "imágenes torácicas",
+    "relacion": "demuestran",
+    "valor": "patrón clásico de COVID-19"
+  },
+  {
+    "entidad": "UCI",
+    "relacion": "es donde se transfieren",
+    "valor": "pacientes con COVID-19 severo"
+  },
+  {
+    "entidad": "Hospitalización",
+    "relacion": "ocurre tras",
+    "valor": "10 días de inicio de síntomas"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "se asocia con",
+    "valor": "edad avanzada"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "afecta a",
+    "valor": "mujeres embarazadas"
+  },
+  {
+    "entidad": "Hospital Base de Valdivia",
+    "relacion": "es parte de",
+    "valor": "red de atención de salud"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "se asocia a",
+    "valor": "factores de riesgo conocidos"
+  },
+  {
+    "entidad": "Escala de Calidad de Vida en Salud - SF-12",
+    "relacion": "evalúa",
+    "valor": "calidad de vida relacionada con la salud"
+  },
+  {
+    "entidad": "población chilena",
+    "relacion": "es objeto de estudio en",
+    "valor": "ENCAVI 2015-6"
+  },
+  {
+    "entidad": "ENCAVI 2015-6",
+    "relacion": "utiliza",
+    "valor": "cuestionario SF-12"
+  },
+  {
+    "entidad": "cuestionario SF-12",
+    "relacion": "mide",
+    "valor": "calidad de vida relacionada con la salud"
+  },
+  {
+    "entidad": "calidad de vida relacionada con la salud",
+    "relacion": "se relaciona con",
+    "valor": "mortalidad"
+  },
+  {
+    "entidad": "calidad de vida relacionada con la salud",
+    "relacion": "se relaciona con",
+    "valor": "hospitalización"
+  },
+  {
+    "entidad": "calidad de vida relacionada con la salud",
+    "relacion": "se relaciona con",
+    "valor": "baja adopción de conductas promotoras de salud"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile (MINSAL)",
+    "relacion": "suministra",
+    "valor": "base de datos para la investigación"
+  },
+  {
+    "entidad": "análisis factorial confirmatorio",
+    "relacion": "se utiliza para",
+    "valor": "evaluar la estructura del SF-12"
+  },
+  {
+    "entidad": "factores de salud mental y salud física",
+    "relacion": "son componentes de",
+    "valor": "SF-12"
+  },
+  {
+    "entidad": "estructura factorial",
+    "relacion": "se ve afectada por",
+    "valor": "decisiones metodológicas"
+  },
+  {
+    "entidad": "escala SF-36",
+    "relacion": "es una versión más completa de",
+    "valor": "SF-12"
+  },
+  {
+    "entidad": "análisis Bifactor",
+    "relacion": "se recomienda para",
+    "valor": "evaluar la estructura de la escala"
+  },
+  {
+    "entidad": "dimensiones físicas y mentales",
+    "relacion": "deben ser consideradas en",
+    "valor": "diagnóstico y tratamiento de enfermedades"
+  },
+  {
+    "entidad": "debilidad muscular",
+    "relacion": "afecta a",
+    "valor": "personas mayores chilenas"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud 2016-2017",
+    "relacion": "utiliza",
+    "valor": "datos para el estudio"
+  },
+  {
+    "entidad": "fuerza de prensión manual",
+    "relacion": "es un",
+    "valor": "indicador de debilidad muscular"
+  },
+  {
+    "entidad": "sarcopenia",
+    "relacion": "es un",
+    "valor": "resultado del envejecimiento"
+  },
+  {
+    "entidad": "citoquinas antiinflamatorias",
+    "relacion": "aumentan con",
+    "valor": "la edad"
+  },
+  {
+    "entidad": "debilidad muscular",
+    "relacion": "se relaciona con",
+    "valor": "deterioro funcional"
+  },
+  {
+    "entidad": "fuerza de prensión manual",
+    "relacion": "se asocia con",
+    "valor": "mortalidad por todas las causas"
+  },
+  {
+    "entidad": "hombres mayores de 65 años",
+    "relacion": "tienen",
+    "valor": "mayor prevalencia de debilidad muscular"
+  },
+  {
+    "entidad": "mujeres mayores de 65 años",
+    "relacion": "tienen",
+    "valor": "mayor prevalencia de debilidad muscular"
+  },
+  {
+    "entidad": "fuerza de prensión manual",
+    "relacion": "se mide con",
+    "valor": "un dinamómetro"
+  },
+  {
+    "entidad": "debido a la pérdida de masa muscular",
+    "relacion": "se produce",
+    "valor": "debilidad muscular"
+  },
+  {
+    "entidad": "debilidad muscular",
+    "relacion": "aumenta con",
+    "valor": "la edad"
+  },
+  {
+    "entidad": "debilidad muscular",
+    "relacion": "es un predictor de",
+    "valor": "funcionalidad en actividades diarias"
+  },
+  {
+    "entidad": "Grupo de Trabajo Europeo sobre Sarcopenia en Personas Mayores (EWGSOP2)",
+    "relacion": "establece",
+    "valor": "puntos de corte para debilidad muscular"
+  },
+  {
+    "entidad": "fuerza de prensión manual",
+    "relacion": "se considera",
+    "valor": "una prueba de fácil ejecución"
+  },
+  {
+    "entidad": "debilidad muscular",
+    "relacion": "se cuantifica mediante",
+    "valor": "la fuerza de prensión manual"
+  },
+  {
+    "entidad": "personas mayores en Chile",
+    "relacion": "presentan",
+    "valor": "debilidad muscular"
+  },
+  {
+    "entidad": "debilidad muscular",
+    "relacion": "se relaciona con",
+    "valor": "aumento de riesgo de mortalidad"
+  },
+  {
+    "entidad": "fuerza de prensión manual",
+    "relacion": "disminuye con",
+    "valor": "la edad"
+  },
+  {
+    "entidad": "Resistencia transmitida a drogas antirretrovirales",
+    "relacion": "ocurre en",
+    "valor": "pacientes con infección por VIH"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "realiza",
+    "valor": "estudios sobre resistencia transmitida a drogas antirretrovirales"
+  },
+  {
+    "entidad": "Hospital Clínico Universidad de Chile",
+    "relacion": "participa en",
+    "valor": "estudio sobre VIH"
+  },
+  {
+    "entidad": "Corporación SIDA Chile",
+    "relacion": "colabora con",
+    "valor": "Hospital Clínico Universidad de Chile"
+  },
+  {
+    "entidad": "HIVdb Program",
+    "relacion": "utiliza",
+    "valor": "para registrar mutaciones asociadas a resistencia"
+  },
+  {
+    "entidad": "World Health Organization (WHO)",
+    "relacion": "proporciona",
+    "valor": "lista de mutaciones de vigilancia de resistencia"
+  },
+  {
+    "entidad": "Terapia antirretroviral (TAR)",
+    "relacion": "tiene como objetivo",
+    "valor": "lograr indetectabilidad del virus"
+  },
+  {
+    "entidad": "Resistencia transmitida (RTD)",
+    "relacion": "es mayor en",
+    "valor": "regiones con acceso universal a antirretrovirales"
+  },
+  {
+    "entidad": "mutación K103N",
+    "relacion": "asocia con",
+    "valor": "alta resistencia a inhibidores no nucleosídicos de la transcriptasa reversa"
+  },
+  {
+    "entidad": "mutación E138A/K",
+    "relacion": "confiera",
+    "valor": "resistencia a rilpivirina"
+  },
+  {
+    "entidad": "morbimortalidad",
+    "relacion": "disminuye con",
+    "valor": "Terapia antirretroviral (TAR)"
+  },
+  {
+    "entidad": "pacientes con RTD",
+    "relacion": "presentan",
+    "valor": "mayor falla virológica"
+  },
+  {
+    "entidad": "genotipificación basal",
+    "relacion": "debería considerarse para",
+    "valor": "pacientes que inician TAR"
+  },
+  {
+    "entidad": "mutaciones asociadas a resistencia",
+    "relacion": "se registran en",
+    "valor": "pacientes con VIH"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "tiene",
+    "valor": "71,000 personas viviendo con VIH"
+  },
+  {
+    "entidad": "Hombres que tienen sexo con hombres",
+    "relacion": "son parte de",
+    "valor": "epidemia de VIH en Chile"
+  },
+  {
+    "entidad": "mutaciones M41L, L210W, D67N, K70E, M184V",
+    "relacion": "asociadas a",
+    "valor": "resistencia a inhibidores nucleosídicos de la transcriptasa reversa"
+  },
+  {
+    "entidad": "I84V",
+    "relacion": "asociada a",
+    "valor": "resistencia a inhibidores de proteasa"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "es causado por",
+    "valor": "SARS-CoV-2"
+  },
+  {
+    "entidad": "SARS-CoV-2",
+    "relacion": "se transmite a través de",
+    "valor": "gotitas, fomites, contacto directo, vía aérea y fecal"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud (OMS)",
+    "relacion": "declara",
+    "valor": "COVID-19 como pandemia"
+  },
+  {
+    "entidad": "Centros para el Control y la Prevención de Enfermedades (CDC)",
+    "relacion": "emite",
+    "valor": "recomendaciones para prevenir COVID-19"
+  },
+  {
+    "entidad": "personal de salud",
+    "relacion": "debe seguir",
+    "valor": "medidas de prevención para evitar contagios"
+  },
+  {
+    "entidad": "encuesta",
+    "relacion": "evalúa",
+    "valor": "adherencia a recomendaciones de prevención de COVID-19"
+  },
+  {
+    "entidad": "lavado de manos",
+    "relacion": "es una medida de",
+    "valor": "prevención de contagios"
+  },
+  {
+    "entidad": "personal de salud",
+    "relacion": "reporta",
+    "valor": "alta adherencia a lavado de manos"
+  },
+  {
+    "entidad": "uso de mascarilla",
+    "relacion": "es recomendado por",
+    "valor": "OMS"
+  },
+  {
+    "entidad": "uniforme clínico",
+    "relacion": "debe ser usado",
+    "valor": "dentro del centro de salud"
+  },
+  {
+    "entidad": "personal de salud",
+    "relacion": "tiene riesgo de",
+    "valor": "contagio por COVID-19"
+  },
+  {
+    "entidad": "medidas de prevención",
+    "relacion": "son promovidas por",
+    "valor": "organizaciones de salud"
+  },
+  {
+    "entidad": "adherencia a medidas de prevención",
+    "relacion": "es evaluada en",
+    "valor": "encuesta transversal"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "afecta a",
+    "valor": "más de 200 países"
+  },
+  {
+    "entidad": "personal de salud",
+    "relacion": "debe recibir",
+    "valor": "educación sobre autocuidado"
+  },
+  {
+    "entidad": "medidas de prevención extrahospitalaria",
+    "relacion": "son menos adheridas que",
+    "valor": "medidas intrahospitalarias"
+  },
+  {
+    "entidad": "cannabis",
+    "relacion": "asocia a",
+    "valor": "psicosis"
+  },
+  {
+    "entidad": "jovenes hospitalizados",
+    "relacion": "experimentan",
+    "valor": "primer episodio de psicosis"
+  },
+  {
+    "entidad": "Programa de Intervención Temprana",
+    "relacion": "pertenece a",
+    "valor": "Instituto Psiquiátrico Dr. José Horwitz Barak"
+  },
+  {
+    "entidad": "Instituto Psiquiátrico Dr. José Horwitz Barak",
+    "relacion": "se encuentra en",
+    "valor": "Santiago, Chile"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "es un",
+    "valor": "departamento de psiquiatría"
+  },
+  {
+    "entidad": "Universidad Finis Terrae",
+    "relacion": "es un",
+    "valor": "escuela de medicina"
+  },
+  {
+    "entidad": "Universidad Diego Portales",
+    "relacion": "es un",
+    "valor": "clínica psicológica"
+  },
+  {
+    "entidad": "Clínica Alemana",
+    "relacion": "pertenece a",
+    "valor": "Universidad del Desarrollo"
+  },
+  {
+    "entidad": "cannabis",
+    "relacion": "contiene",
+    "valor": "THC y CBD"
+  },
+  {
+    "entidad": "THC",
+    "relacion": "se relaciona con",
+    "valor": "síntomas psicóticos"
+  },
+  {
+    "entidad": "CBD",
+    "relacion": "se asocia a",
+    "valor": "efecto ansiolítico y antipsicótico"
+  },
+  {
+    "entidad": "consumo de cannabis",
+    "relacion": "aumenta",
+    "valor": "riesgo de psicosis"
+  },
+  {
+    "entidad": "edad de primera exposición a cannabis",
+    "relacion": "es menor en",
+    "valor": "pacientes con psicosis"
+  },
+  {
+    "entidad": "consumo regular de cannabis",
+    "relacion": "se relaciona con",
+    "valor": "mayor riesgo de psicosis"
+  },
+  {
+    "entidad": "SENDA",
+    "relacion": "reporta",
+    "valor": "consumo de drogas en jóvenes"
+  },
+  {
+    "entidad": "consumo de alcohol",
+    "relacion": "se evalúa junto a",
+    "valor": "consumo de cannabis"
+  },
+  {
+    "entidad": "composición de cannabis en Chile",
+    "relacion": "es reportada por",
+    "valor": "SENDA y el Observatorio de Narcotráfico"
+  },
+  {
+    "entidad": "cannabis de alta potencia",
+    "relacion": "se relaciona con",
+    "valor": "mayor riesgo de psicosis"
+  },
+  {
+    "entidad": "consumo de otras drogas",
+    "relacion": "se evalúa junto a",
+    "valor": "consumo de cannabis"
+  },
+  {
+    "entidad": "comité de ética",
+    "relacion": "aprueba",
+    "valor": "estudio"
+  },
+  {
+    "entidad": "estudio caso-control",
+    "relacion": "investiga",
+    "valor": "asociación entre psicosis y consumo de cannabis"
+  },
+  {
+    "entidad": "Linfoma no Hodgkin",
+    "relacion": "es un",
+    "valor": "grupo heterogéneo de neoplasias"
+  },
+  {
+    "entidad": "Linfoma no Hodgkin",
+    "relacion": "depende de",
+    "valor": "tipo de linfoma"
+  },
+  {
+    "entidad": "Linfoma no Hodgkin",
+    "relacion": "depende de",
+    "valor": "extensión de la enfermedad"
+  },
+  {
+    "entidad": "Linfoma no Hodgkin",
+    "relacion": "depende de",
+    "valor": "respuesta a terapia"
+  },
+  {
+    "entidad": "PET/CT interino",
+    "relacion": "evalúa",
+    "valor": "respuesta a terapia en Linfoma no Hodgkin"
+  },
+  {
+    "entidad": "PET/CT interino",
+    "relacion": "es el",
+    "valor": "factor pronóstico más poderoso en LNH"
+  },
+  {
+    "entidad": "Índice Pronóstico Internacional (IPI)",
+    "relacion": "es un",
+    "valor": "herramienta de evaluación pronóstica"
+  },
+  {
+    "entidad": "sarcopenia",
+    "relacion": "se asocia a",
+    "valor": "mal pronóstico en LNH"
+  },
+  {
+    "entidad": "lipopenia",
+    "relacion": "se asocia a",
+    "valor": "mal pronóstico en LNH"
+  },
+  {
+    "entidad": "respuesta a terapia",
+    "relacion": "es estimada por",
+    "valor": "imágenes o histopatología"
+  },
+  {
+    "entidad": "PET/CT",
+    "relacion": "permite",
+    "valor": "cuantificar la carga tumoral"
+  },
+  {
+    "entidad": "SUVmax",
+    "relacion": "estima",
+    "valor": "intensidad de captación"
+  },
+  {
+    "entidad": "VMT",
+    "relacion": "es",
+    "valor": "masa tumoral total"
+  },
+  {
+    "entidad": "MTG",
+    "relacion": "es",
+    "valor": "producto de SUV y VMT"
+  },
+  {
+    "entidad": "Deauville",
+    "relacion": "es el",
+    "valor": "criterio más utilizado para estimar respuesta precoz a terapia"
+  },
+  {
+    "entidad": "Linfoma no Hodgkin",
+    "relacion": "tiene una incidencia anual en Chile de",
+    "valor": "aproximadamente 5,6 casos por 100.000 habitantes"
+  },
+  {
+    "entidad": "Linfoma no Hodgkin",
+    "relacion": "tiene una mortalidad de",
+    "valor": "3-4 por 100.000 habitantes"
+  },
+  {
+    "entidad": "sobrevida global",
+    "relacion": "es",
+    "valor": "35% a 5 años para LNH"
+  },
+  {
+    "entidad": "sarcopenia",
+    "relacion": "es un",
+    "valor": "factor de riesgo en pacientes oncológicos"
+  },
+  {
+    "entidad": "PET/CT interino",
+    "relacion": "es útil en",
+    "valor": "el manejo del paciente"
+  },
+  {
+    "entidad": "Linfoma no Hodgkin",
+    "relacion": "requiere",
+    "valor": "estudios pronósticos específicos para cada subtipo"
+  }
+]

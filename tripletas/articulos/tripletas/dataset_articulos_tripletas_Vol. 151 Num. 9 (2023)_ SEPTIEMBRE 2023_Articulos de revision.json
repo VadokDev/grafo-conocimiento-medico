@@ -1,0 +1,267 @@
+[
+  {
+    "entidad": "Carcinoma escamoso de nasofaringe",
+    "relacion": "es responsable de",
+    "valor": "0.7% de todos los tumores malignos"
+  },
+  {
+    "entidad": "Carcinoma escamoso de nasofaringe",
+    "relacion": "tiene mayor incidencia en",
+    "valor": "población del sur de China y Sudeste Asiático"
+  },
+  {
+    "entidad": "Tratamiento estándar para carcinoma escamoso de nasofaringe localmente avanzado",
+    "relacion": "consiste en",
+    "valor": "combinación de radioterapia y quimioterapia"
+  },
+  {
+    "entidad": "Quimioterapia de inducción",
+    "relacion": "es una opción terapéutica estándar",
+    "valor": "con altas tasas de control locorregional y sobrevida global"
+  },
+  {
+    "entidad": "Quimioterapia de inducción",
+    "relacion": "se utiliza en",
+    "valor": "cáncer de nasofaringe"
+  },
+  {
+    "entidad": "Virus Epstein-Barr",
+    "relacion": "asociado como",
+    "valor": "importante factor etiopatogénico"
+  },
+  {
+    "entidad": "Radioterapia",
+    "relacion": "es la modalidad de tratamiento más importante para",
+    "valor": "carcinoma escamoso de nasofaringe"
+  },
+  {
+    "entidad": "Quimioterapia de inducción",
+    "relacion": "busca tratar",
+    "valor": "enfermedad micrometastásica a distancia"
+  },
+  {
+    "entidad": "Quimioterapia de inducción",
+    "relacion": "mejora",
+    "valor": "adherencia y tolerancia al tratamiento sistémico"
+  },
+  {
+    "entidad": "Quimioterapia de inducción",
+    "relacion": "se ha investigado con el objetivo de",
+    "valor": "mejorar la efectividad en comparación con quimioterapia adyuvante"
+  },
+  {
+    "entidad": "Esquema TPF",
+    "relacion": "ha mostrado mayor eficacia en",
+    "valor": "cáncer de nasofaringe"
+  },
+  {
+    "entidad": "Radioterapia con Intensidad Modulada (IMRT)",
+    "relacion": "es considerada como",
+    "valor": "técnica estándar en cáncer de nasofaringe"
+  },
+  {
+    "entidad": "Quimioterapia de inducción",
+    "relacion": "ha demostrado mejorar",
+    "valor": "control a distancia y supervivencia global"
+  },
+  {
+    "entidad": "Sociedad Europea de Oncología Médica (ESMO)",
+    "relacion": "ha incluido",
+    "valor": "quimioterapia de inducción como opción estándar"
+  },
+  {
+    "entidad": "Sociedad Americana de Oncología Médica (ASCO)",
+    "relacion": "ha incluido",
+    "valor": "quimioterapia de inducción como opción estándar"
+  },
+  {
+    "entidad": "Técnica IMRT",
+    "relacion": "ha demostrado",
+    "valor": "mejor resultado oncológico y menos efectos secundarios tardíos"
+  },
+  {
+    "entidad": "empatía médica",
+    "relacion": "es un",
+    "valor": "pilar fundamental en la relación médico-paciente"
+  },
+  {
+    "entidad": "creencias y percepciones de los pacientes",
+    "relacion": "guiadas por",
+    "valor": "entendimientos socioculturales"
+  },
+  {
+    "entidad": "actitudes empáticas de los médicos",
+    "relacion": "guiadas por",
+    "valor": "expectativas socioculturales"
+  },
+  {
+    "entidad": "médicos extranjeros",
+    "relacion": "caracterizan",
+    "valor": "diversidad sociodemográfica en sistemas de salud"
+  },
+  {
+    "entidad": "empatía médica",
+    "relacion": "afecta a",
+    "valor": "satisfacción del paciente"
+  },
+  {
+    "entidad": "empatía médica",
+    "relacion": "mejora",
+    "valor": "la comunicación en la relación médico-paciente"
+  },
+  {
+    "entidad": "médicos con alta empatía",
+    "relacion": "reportan",
+    "valor": "satisfacción profesional más alta"
+  },
+  {
+    "entidad": "migración de médicos",
+    "relacion": "influye en",
+    "valor": "actitudes empáticas hacia pacientes"
+  },
+  {
+    "entidad": "cambio cultural en la empatía médica",
+    "relacion": "ha ocurrido en",
+    "valor": "sistemas de salud debido a la migración"
+  },
+  {
+    "entidad": "escala de empatía médica de Jefferson",
+    "relacion": "es utilizada en",
+    "valor": "investigaciones sobre empatía médica"
+  },
+  {
+    "entidad": "investigaciones sobre empatía médica",
+    "relacion": "deben adoptar",
+    "valor": "una perspectiva intercultural"
+  },
+  {
+    "entidad": "perspectiva intercultural",
+    "relacion": "considera",
+    "valor": "la construcción psicocultural de la empatía médica"
+  },
+  {
+    "entidad": "estudios futuros",
+    "relacion": "deben enfocarse en",
+    "valor": "médicos en ejercicio"
+  },
+  {
+    "entidad": "médicos residentes",
+    "relacion": "muestran",
+    "valor": "diferencias significativas en empatía médica"
+  },
+  {
+    "entidad": "médicos de familia",
+    "relacion": "tienen mayor empatía que",
+    "valor": "cirujanos"
+  },
+  {
+    "entidad": "médicos mujeres",
+    "relacion": "muestran",
+    "valor": "mayores puntuaciones de empatía médica que médicos hombres"
+  },
+  {
+    "entidad": "edad de los médicos",
+    "relacion": "se asocia inversamente con",
+    "valor": "puntuaciones de empatía médica"
+  },
+  {
+    "entidad": "investigaciones sobre empatía médica",
+    "relacion": "deben incluir",
+    "valor": "perspectivas de los pacientes"
+  },
+  {
+    "entidad": "psicología intercultural",
+    "relacion": "ofrece",
+    "valor": "enfoques para estudiar la empatía médica"
+  },
+  {
+    "entidad": "síndrome metabólico",
+    "relacion": "asocia",
+    "valor": "hipoacusia"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "asocia",
+    "valor": "hipoacusia"
+  },
+  {
+    "entidad": "diabetes",
+    "relacion": "asocia",
+    "valor": "hipoacusia"
+  },
+  {
+    "entidad": "hipertensión",
+    "relacion": "asocia",
+    "valor": "hipoacusia"
+  },
+  {
+    "entidad": "colesterol alto",
+    "relacion": "asocia",
+    "valor": "hipoacusia"
+  },
+  {
+    "entidad": "estilo de vida sedentario",
+    "relacion": "afecta",
+    "valor": "función vascular"
+  },
+  {
+    "entidad": "hipertensión",
+    "relacion": "causa",
+    "valor": "hemorragias del oído interno"
+  },
+  {
+    "entidad": "diabetes",
+    "relacion": "causa",
+    "valor": "estrés oxidativo"
+  },
+  {
+    "entidad": "colesterol alto",
+    "relacion": "aumenta",
+    "valor": "viscosidad de la sangre"
+  },
+  {
+    "entidad": "síndrome metabólico",
+    "relacion": "incrementa",
+    "valor": "riesgo de hipoacusia"
+  },
+  {
+    "entidad": "audición normal",
+    "relacion": "definido por",
+    "valor": "OMS como umbrales de tonos puros de 25 dB HL o más"
+  },
+  {
+    "entidad": "metaanálisis",
+    "relacion": "realiza",
+    "valor": "revisión sistemática"
+  },
+  {
+    "entidad": "estudios observacionales",
+    "relacion": "evaluan",
+    "valor": "relación entre enfermedades metabólicas y hipoacusia"
+  },
+  {
+    "entidad": "células ciliadas del oído interno",
+    "relacion": "afectadas por",
+    "valor": "flujo sanguíneo alterado"
+  },
+  {
+    "entidad": "membrana basal",
+    "relacion": "se encuentra",
+    "valor": "engrosada en diabéticos"
+  },
+  {
+    "entidad": "hipoacusia súbita",
+    "relacion": "causada por",
+    "valor": "hemorragias del oído interno"
+  },
+  {
+    "entidad": "hipoxia tisular",
+    "relacion": "causada por",
+    "valor": "reducción del flujo sanguíneo"
+  },
+  {
+    "entidad": "diagnóstico y tratamiento de la PA",
+    "relacion": "debe incluir",
+    "valor": "participación de médicos generales y especialistas"
+  }
+]

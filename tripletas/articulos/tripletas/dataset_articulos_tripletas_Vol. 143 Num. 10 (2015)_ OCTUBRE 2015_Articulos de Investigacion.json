@@ -1,0 +1,942 @@
+[
+  {
+    "entidad": "Universidad de Chile",
+    "relacion": "fomenta",
+    "valor": "prácticas y valores en estudiantes"
+  },
+  {
+    "entidad": "Facultad de Medicina de la Universidad de Chile",
+    "relacion": "ha sido",
+    "valor": "pionera en formación de médicos"
+  },
+  {
+    "entidad": "médicos egresados",
+    "relacion": "tienen",
+    "valor": "alta empleabilidad"
+  },
+  {
+    "entidad": "médicos egresados",
+    "relacion": "ejercen",
+    "valor": "profesión en hospitales públicos"
+  },
+  {
+    "entidad": "médicos egresados",
+    "relacion": "ejercen",
+    "valor": "profesión en centros de atención primaria"
+  },
+  {
+    "entidad": "médicos egresados",
+    "relacion": "ejercen",
+    "valor": "profesión en clínicas privadas"
+  },
+  {
+    "entidad": "actividad laboral",
+    "relacion": "se asocia con",
+    "valor": "características del pregrado"
+  },
+  {
+    "entidad": "sede de egreso",
+    "relacion": "influye en",
+    "valor": "actividad laboral"
+  },
+  {
+    "entidad": "año de egreso",
+    "relacion": "influye en",
+    "valor": "actividad laboral"
+  },
+  {
+    "entidad": "sede norte",
+    "relacion": "muestra",
+    "valor": "menor proporción de médicos en atención pública"
+  },
+  {
+    "entidad": "sede oriente",
+    "relacion": "muestra",
+    "valor": "menor proporción de médicos en atención primaria"
+  },
+  {
+    "entidad": "gobierno",
+    "relacion": "fortalece",
+    "valor": "atención primaria de salud"
+  },
+  {
+    "entidad": "currículum innovado",
+    "relacion": "incorpora",
+    "valor": "formación en medicina en atención primaria"
+  },
+  {
+    "entidad": "generaciones más jóvenes",
+    "relacion": "tienen",
+    "valor": "mayor proporción de médicos en APS"
+  },
+  {
+    "entidad": "médicos egresados",
+    "relacion": "acceden rápidamente a",
+    "valor": "empleo"
+  },
+  {
+    "entidad": "médicos egresados",
+    "relacion": "realizan",
+    "valor": "especialidades médicas"
+  },
+  {
+    "entidad": "médicos egresados",
+    "relacion": "perciben",
+    "valor": "ingresos mensuales altos"
+  },
+  {
+    "entidad": "sede de egreso",
+    "relacion": "asocia inversamente con",
+    "valor": "actividad laboral en atención pública"
+  },
+  {
+    "entidad": "médicos egresados",
+    "relacion": "son",
+    "valor": "reflejo de una necesidad social en salud"
+  },
+  {
+    "entidad": "5HTTLPR",
+    "relacion": "es un",
+    "valor": "polimorfismo en el gen del transportador de serotonina"
+  },
+  {
+    "entidad": "uMAOA",
+    "relacion": "es un",
+    "valor": "polimorfismo en el gen de la monoamina oxidasa A"
+  },
+  {
+    "entidad": "depresión",
+    "relacion": "es un",
+    "valor": "trastorno del estado de ánimo"
+  },
+  {
+    "entidad": "serotonina",
+    "relacion": "regula",
+    "valor": "el estado de ánimo"
+  },
+  {
+    "entidad": "Proyecto FONDECYT Nº1110687",
+    "relacion": "financia",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "CIDI",
+    "relacion": "es un",
+    "valor": "entrevista diagnóstica para depresión"
+  },
+  {
+    "entidad": "maltrato psicológico",
+    "relacion": "es un",
+    "valor": "factor de riesgo para depresión"
+  },
+  {
+    "entidad": "eventos vitales",
+    "relacion": "son",
+    "valor": "predictores de depresión"
+  },
+  {
+    "entidad": "Universidad de Concepción",
+    "relacion": "es un",
+    "valor": "institución educativa"
+  },
+  {
+    "entidad": "saliva",
+    "relacion": "se utiliza para",
+    "valor": "la extracción de ADN"
+  },
+  {
+    "entidad": "ADN genómico",
+    "relacion": "se extrae de",
+    "valor": "muestras de saliva"
+  },
+  {
+    "entidad": "análisis estadístico",
+    "relacion": "se realiza mediante",
+    "valor": "regresión logística binaria"
+  },
+  {
+    "entidad": "muestra de pacientes",
+    "relacion": "se obtiene de",
+    "valor": "centros de atención primaria"
+  },
+  {
+    "entidad": "genotipos de riesgo",
+    "relacion": "no se asocian con",
+    "valor": "la presencia de depresión"
+  },
+  {
+    "entidad": "género femenino",
+    "relacion": "aumenta",
+    "valor": "el riesgo de depresión"
+  },
+  {
+    "entidad": "factores psicosociales",
+    "relacion": "se consideran",
+    "valor": "en el estudio de depresión"
+  },
+  {
+    "entidad": "PREDICT-GENE",
+    "relacion": "es un",
+    "valor": "estudio sobre factores psicosociales y depresión"
+  },
+  {
+    "entidad": "Centro de Información Toxicológica",
+    "relacion": "pertenece a",
+    "valor": "Pontificia Universidad Católica de Chile"
+  },
+  {
+    "entidad": "Departamento de Farmacia",
+    "relacion": "pertenece a",
+    "valor": "Pontificia Universidad Católica de Chile"
+  },
+  {
+    "entidad": "Departamento de Laboratorios Clínicos",
+    "relacion": "pertenece a",
+    "valor": "Pontificia Universidad Católica de Chile"
+  },
+  {
+    "entidad": "plaguicidas",
+    "relacion": "causan",
+    "valor": "toxicidad aguda y crónica"
+  },
+  {
+    "entidad": "Centro de Información Toxicológica",
+    "relacion": "recibe",
+    "valor": "reportes de exposiciones a plaguicidas"
+  },
+  {
+    "entidad": "exposiciones a plaguicidas",
+    "relacion": "ocurren en",
+    "valor": "preschoolers y adultos"
+  },
+  {
+    "entidad": "exposiciones accidentales",
+    "relacion": "representan",
+    "valor": "61% de los casos"
+  },
+  {
+    "entidad": "intentos de suicidio",
+    "relacion": "representan",
+    "valor": "24.8% de los casos"
+  },
+  {
+    "entidad": "inhibidores de la acetilcolinesterasa",
+    "relacion": "reportados en",
+    "valor": "29.3% de los casos"
+  },
+  {
+    "entidad": "rodenticidas superwarfarinicos",
+    "relacion": "reportados en",
+    "valor": "28.5% de los casos"
+  },
+  {
+    "entidad": "piretroides",
+    "relacion": "reportados en",
+    "valor": "24.0% de los casos"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen mayor riesgo de",
+    "valor": "intentos de suicidio con plaguicidas"
+  },
+  {
+    "entidad": "exposición crónica a plaguicidas",
+    "relacion": "considerada un",
+    "valor": "factor de riesgo para enfermedades neurodegenerativas"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud",
+    "relacion": "proporciona",
+    "valor": "información sobre seguridad química"
+  },
+  {
+    "entidad": "CITUC",
+    "relacion": "utiliza",
+    "valor": "programa INTOX Data Management System"
+  },
+  {
+    "entidad": "exposición a plaguicidas",
+    "relacion": "es un problema de",
+    "valor": "salud pública"
+  },
+  {
+    "entidad": "trabajadores",
+    "relacion": "deben ser educados sobre",
+    "valor": "manipulación segura de plaguicidas"
+  },
+  {
+    "entidad": "exposición a plaguicidas",
+    "relacion": "debe ser reportada a",
+    "valor": "autoridades sanitarias"
+  },
+  {
+    "entidad": "plaguicidas altamente tóxicos",
+    "relacion": "deben ser",
+    "valor": "restringidos"
+  },
+  {
+    "entidad": "estudios sobre exposición crónica",
+    "relacion": "son necesarios para determinar",
+    "valor": "impacto en enfermedades neurodegenerativas"
+  },
+  {
+    "entidad": "CEACLIN",
+    "relacion": "es un",
+    "valor": "instrumento para identificar estrategias de aprendizaje clínico"
+  },
+  {
+    "entidad": "estudiantes de medicina",
+    "relacion": "deben desarrollar",
+    "valor": "estrategias para aprender de la experiencia"
+  },
+  {
+    "entidad": "estrategias de aprendizaje",
+    "relacion": "mejoran",
+    "valor": "habilidades relacionales y de comunicación"
+  },
+  {
+    "entidad": "Delfi technique",
+    "relacion": "se utiliza para",
+    "valor": "alcanzar consenso"
+  },
+  {
+    "entidad": "panel nacional de estudiantes y docentes",
+    "relacion": "analiza",
+    "valor": "cuestionario de 80 ítems"
+  },
+  {
+    "entidad": "cuestionario",
+    "relacion": "se reduce a",
+    "valor": "48 ítems tras validación"
+  },
+  {
+    "entidad": "CEACLIN",
+    "relacion": "es altamente confiable",
+    "valor": "con un coeficiente α de 0.84"
+  },
+  {
+    "entidad": "factores del CEACLIN",
+    "relacion": "son",
+    "valor": "Autonomía, Resolver dudas y problemas, Buscar y organizar información, Proactividad, Recurrir a otros, Atender a las emociones, Buscar lo confiable, Evadirse del agobio, Enfrentar el agobio, Motivación, Postergar lo personal"
+  },
+  {
+    "entidad": "CEACLIN",
+    "relacion": "fue validado por",
+    "valor": "un panel Delfi representativo"
+  },
+  {
+    "entidad": "CEACLIN",
+    "relacion": "permite identificar",
+    "valor": "estrategias de aprendizaje de estudiantes chilenos"
+  },
+  {
+    "entidad": "estudiantes de medicina",
+    "relacion": "experimentan",
+    "valor": "ansiedad y estrés durante su formación"
+  },
+  {
+    "entidad": "estrategias de aprendizaje",
+    "relacion": "deben incluir",
+    "valor": "técnicas de estudio apropiadas y regulación emocional"
+  },
+  {
+    "entidad": "CEACLIN",
+    "relacion": "es culturalmente pertinente",
+    "valor": "para la formación de médicos en Chile"
+  },
+  {
+    "entidad": "investigación",
+    "relacion": "fue financiada por",
+    "valor": "Fondo Nacional de Desarrollo Científico y Tecnológico (FONDECYT)"
+  },
+  {
+    "entidad": "Universidad del Desarrollo",
+    "relacion": "tiene",
+    "valor": "Facultad de Psicología"
+  },
+  {
+    "entidad": "Universidad del Desarrollo",
+    "relacion": "tiene",
+    "valor": "Facultad de Gobierno"
+  },
+  {
+    "entidad": "Servicio Nacional para la Prevención y Rehabilitación del consumo de Drogas y Alcohol (SENDA)",
+    "relacion": "tiene",
+    "valor": "Departamento de Estudios"
+  },
+  {
+    "entidad": "Hospital del Salvador",
+    "relacion": "tiene",
+    "valor": "Servicio de Psiquiatría"
+  },
+  {
+    "entidad": "Thai Health",
+    "relacion": "financia",
+    "valor": "proyecto 'The Harm to Others from Drinking'"
+  },
+  {
+    "entidad": "Dirección de Investigación de la Universidad del Desarrollo",
+    "relacion": "financia",
+    "valor": "Fondo Interfacultades"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud (OMS)",
+    "relacion": "recomienda",
+    "valor": "estrategias para reducir el uso dañino del alcohol"
+  },
+  {
+    "entidad": "Estrategia Nacional sobre Alcohol",
+    "relacion": "fue aprobada por",
+    "valor": "Ministerio de Salud de Chile"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile (MINSAL)",
+    "relacion": "informa",
+    "valor": "gasto gubernamental total por alcoholismo"
+  },
+  {
+    "entidad": "consumo de alcohol",
+    "relacion": "asocia a",
+    "valor": "problemas sociales como delincuencia y violencia"
+  },
+  {
+    "entidad": "consumo de alcohol",
+    "relacion": "causa",
+    "valor": "daño a terceros"
+  },
+  {
+    "entidad": "violencia intrafamiliar (VIF)",
+    "relacion": "es un",
+    "valor": "factor de riesgo para problemas psiquiátricos"
+  },
+  {
+    "entidad": "alcoholismo",
+    "relacion": "predice",
+    "valor": "psicopatología y suicidalidad en la adultez"
+  },
+  {
+    "entidad": "SENDA",
+    "relacion": "estudia",
+    "valor": "relación entre consumo de alcohol y violencia comunitaria"
+  },
+  {
+    "entidad": "encuesta poblacional en Chile",
+    "relacion": "mide",
+    "valor": "daño a terceros producido por alcohol"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "reportan",
+    "valor": "mayor percepción de efectos negativos del alcohol"
+  },
+  {
+    "entidad": "jóvenes y adolescentes",
+    "relacion": "son priorizados en",
+    "valor": "recomendaciones de la Estrategia Nacional sobre Alcohol"
+  },
+  {
+    "entidad": "alcohol",
+    "relacion": "se asocia a",
+    "valor": "conductas riesgosas"
+  },
+  {
+    "entidad": "daño a terceros",
+    "relacion": "es un tema",
+    "valor": "relevante en la población general"
+  },
+  {
+    "entidad": "alcohol",
+    "relacion": "afecta a",
+    "valor": "familiares y amigos de los bebedores"
+  },
+  {
+    "entidad": "encuesta",
+    "relacion": "realiza",
+    "valor": "análisis de efectos del beber en terceros"
+  },
+  {
+    "entidad": "efectos negativos del alcohol",
+    "relacion": "son reportados por",
+    "valor": "más de 30% de los encuestados"
+  },
+  {
+    "entidad": "Hospital Clínico de la Pontificia Universidad Católica de Chile",
+    "relacion": "realiza",
+    "valor": "disección submucosa endoscópica"
+  },
+  {
+    "entidad": "disección submucosa endoscópica",
+    "relacion": "es un",
+    "valor": "procedimiento mínimamente invasivo"
+  },
+  {
+    "entidad": "cáncer gástrico incipiente",
+    "relacion": "tiene",
+    "valor": "excelente pronóstico"
+  },
+  {
+    "entidad": "cáncer gástrico",
+    "relacion": "es la",
+    "valor": "primera causa de muerte por cáncer en Chile"
+  },
+  {
+    "entidad": "cáncer gástrico",
+    "relacion": "es responsable de",
+    "valor": "cerca de 3.000 fallecimientos al año"
+  },
+  {
+    "entidad": "gastrectomía total o subtotal",
+    "relacion": "es",
+    "valor": "el pilar fundamental del tratamiento del cáncer gástrico"
+  },
+  {
+    "entidad": "disección submucosa endoscópica",
+    "relacion": "permite",
+    "valor": "resección completa y en bloque del tumor"
+  },
+  {
+    "entidad": "cáncer gástrico incipiente",
+    "relacion": "se define como",
+    "valor": "adenocarcinoma limitado a la mucosa o submucosa"
+  },
+  {
+    "entidad": "disección submucosa endoscópica",
+    "relacion": "se realiza desde",
+    "valor": "diciembre de 2011"
+  },
+  {
+    "entidad": "pacientes con cáncer gástrico incipiente",
+    "relacion": "son seleccionados de acuerdo a",
+    "valor": "criterios extendidos publicados por Gotoda"
+  },
+  {
+    "entidad": "disección submucosa endoscópica",
+    "relacion": "se considera",
+    "valor": "curativa en pacientes seleccionados"
+  },
+  {
+    "entidad": "resecciones R0",
+    "relacion": "son declaradas",
+    "valor": "curativas"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "son controlados con",
+    "valor": "endoscopia post-procedimiento"
+  },
+  {
+    "entidad": "adenocarcinoma mixto",
+    "relacion": "puede tener",
+    "valor": "peor pronóstico que adenocarcinomas poco diferenciados"
+  },
+  {
+    "entidad": "disección submucosa endoscópica",
+    "relacion": "presenta",
+    "valor": "importantes ventajas para los pacientes"
+  },
+  {
+    "entidad": "diagnóstico precoz del cáncer gástrico",
+    "relacion": "es importante para",
+    "valor": "aumentar la detección de lesiones incipientes"
+  },
+  {
+    "entidad": "cáncer gástrico",
+    "relacion": "debe ser tratado con",
+    "valor": "seguimiento estricto"
+  },
+  {
+    "entidad": "Reparación valvular mitral",
+    "relacion": "es un",
+    "valor": "tratamiento para insuficiencia mitral degenerativa"
+  },
+  {
+    "entidad": "Insuficiencia mitral degenerativa",
+    "relacion": "es causada por",
+    "valor": "prolapso valvular mitral"
+  },
+  {
+    "entidad": "Prolapso valvular mitral",
+    "relacion": "es un tipo de",
+    "valor": "insuficiencia mitral crónica primaria"
+  },
+  {
+    "entidad": "Degeneración mixomatosa",
+    "relacion": "es la etiología más frecuente de",
+    "valor": "prolapso valvular mitral"
+  },
+  {
+    "entidad": "Guías clínicas 2014 de AHA/ACC",
+    "relacion": "requieren conocer",
+    "valor": "probabilidad de éxito y mortalidad operatoria de MVR"
+  },
+  {
+    "entidad": "Mortalidad operatoria",
+    "relacion": "es menor a",
+    "valor": "1% en MVR"
+  },
+  {
+    "entidad": "MVR",
+    "relacion": "tiene una probabilidad de éxito de",
+    "valor": "97.5%"
+  },
+  {
+    "entidad": "Pacientes operados",
+    "relacion": "fueron identificados en",
+    "valor": "la base de datos del Servicio de Cirugía Cardiovascular"
+  },
+  {
+    "entidad": "Ecocardiograma transesofágico",
+    "relacion": "se utiliza para evaluar",
+    "valor": "resultados de MVR"
+  },
+  {
+    "entidad": "Cierre de la orejuela izquierda",
+    "relacion": "es un factor protector de",
+    "valor": "mortalidad alejada"
+  },
+  {
+    "entidad": "Seguimiento ecocardiográfico",
+    "relacion": "se completó en",
+    "valor": "75% de los casos"
+  },
+  {
+    "entidad": "Supervivencia promedio",
+    "relacion": "es de",
+    "valor": "16.9 años"
+  },
+  {
+    "entidad": "Reoperación mitral",
+    "relacion": "se realizó en",
+    "valor": "5% de los pacientes"
+  },
+  {
+    "entidad": "Anuloplastía mitral",
+    "relacion": "se realizó en",
+    "valor": "92% de los casos"
+  },
+  {
+    "entidad": "Cirugía de revascularización miocárdica",
+    "relacion": "se realizó en",
+    "valor": "17% de los pacientes"
+  },
+  {
+    "entidad": "Prolapse del velo posterior",
+    "relacion": "fue presente en",
+    "valor": "81% de los casos"
+  },
+  {
+    "entidad": "Dilatación del anillo mitral",
+    "relacion": "fue presente en",
+    "valor": "60% de los casos"
+  },
+  {
+    "entidad": "Mortalidad operatoria",
+    "relacion": "fue reportada como",
+    "valor": "0.8%"
+  },
+  {
+    "entidad": "Insuficiencia mitral residual",
+    "relacion": "fue leve en",
+    "valor": "9% de los casos postoperatorios"
+  },
+  {
+    "entidad": "Leucemia Mieloide Aguda (LMA)",
+    "relacion": "es",
+    "valor": "la leucemia más frecuente en adultos"
+  },
+  {
+    "entidad": "Hospital Clínico de la Pontificia Universidad Católica de Chile",
+    "relacion": "realiza",
+    "valor": "tratamiento de LMA"
+  },
+  {
+    "entidad": "quimioterapia de inducción",
+    "relacion": "se utiliza para",
+    "valor": "lograr remisión completa"
+  },
+  {
+    "entidad": "remisión completa (RC)",
+    "relacion": "se logra en",
+    "valor": "70-80% de los pacientes menores de 60 años"
+  },
+  {
+    "entidad": "quimioterapia de consolidación",
+    "relacion": "se indica para",
+    "valor": "prevenir recaídas"
+  },
+  {
+    "entidad": "células hematopoyéticas",
+    "relacion": "se utilizan en",
+    "valor": "trasplante"
+  },
+  {
+    "entidad": "mortalidad en inducción",
+    "relacion": "es",
+    "valor": "4.2%"
+  },
+  {
+    "entidad": "neutropenia febril",
+    "relacion": "es una complicación de",
+    "valor": "quimioterapia de inducción"
+  },
+  {
+    "entidad": "sobrevida global (SG)",
+    "relacion": "es",
+    "valor": "31% en pacientes tratados con quimioterapia"
+  },
+  {
+    "entidad": "sobrevida libre de recaída (SLR)",
+    "relacion": "es",
+    "valor": "25% en pacientes tratados con quimioterapia"
+  },
+  {
+    "entidad": "análisis multivariado",
+    "relacion": "demuestra que",
+    "valor": "lograr remisión completa influye en SLR y SG"
+  },
+  {
+    "entidad": "esquema 7+3",
+    "relacion": "es un tipo de",
+    "valor": "quimioterapia de inducción"
+  },
+  {
+    "entidad": "citarabina",
+    "relacion": "se utiliza en",
+    "valor": "quimioterapia de inducción y consolidación"
+  },
+  {
+    "entidad": "idarrubicina",
+    "relacion": "se utiliza en",
+    "valor": "quimioterapia de inducción"
+  },
+  {
+    "entidad": "azacitidina",
+    "relacion": "se utiliza en",
+    "valor": "quimioterapia de inducción"
+  },
+  {
+    "entidad": "cromosoma 16",
+    "relacion": "se asocia con",
+    "valor": "persistencia de enfermedad"
+  },
+  {
+    "entidad": "quimioterapia",
+    "relacion": "se divide en",
+    "valor": "inducción y consolidación"
+  },
+  {
+    "entidad": "pacientes mayores de 60 años",
+    "relacion": "deben recibir",
+    "valor": "tratamiento individualizado"
+  },
+  {
+    "entidad": "riesgo citogenético",
+    "relacion": "afecta",
+    "valor": "sobrevida en pacientes con LMA"
+  },
+  {
+    "entidad": "Composite Physical Function",
+    "relacion": "es un",
+    "valor": "cuestionario de independencia física"
+  },
+  {
+    "entidad": "Aging",
+    "relacion": "está relacionado con",
+    "valor": "pérdida de independencia física"
+  },
+  {
+    "entidad": "cuestionario Composite Physical Function",
+    "relacion": "evalúa",
+    "valor": "niveles de dependencia en adultos mayores"
+  },
+  {
+    "entidad": "metodología estandarizada",
+    "relacion": "se utiliza en",
+    "valor": "traducción y adaptación cultural"
+  },
+  {
+    "entidad": "versión en español del CPF",
+    "relacion": "fue obtenida para",
+    "valor": "uso en adultos mayores chilenos"
+  },
+  {
+    "entidad": "entrevistas cognitivas",
+    "relacion": "se utilizan para",
+    "valor": "evaluar comprensión y claridad"
+  },
+  {
+    "entidad": "adultos mayores chilenos",
+    "relacion": "evaluaron",
+    "valor": "el cuestionario como claro y comprensible"
+  },
+  {
+    "entidad": "cuestionario CPF",
+    "relacion": "es útil para",
+    "valor": "evaluación de la independencia en la práctica clínica"
+  },
+  {
+    "entidad": "cuestionario CPF",
+    "relacion": "permite",
+    "valor": "detección de problemas de dependencia física"
+  },
+  {
+    "entidad": "metodología de traducción",
+    "relacion": "asegura",
+    "valor": "equivalencia semántica en distintos idiomas"
+  },
+  {
+    "entidad": "adultos mayores",
+    "relacion": "son evaluados en",
+    "valor": "actividades de la vida diaria"
+  },
+  {
+    "entidad": "cuestionario CPF",
+    "relacion": "integra",
+    "valor": "actividades básicas, intermedias y avanzadas"
+  },
+  {
+    "entidad": "cuestionario CPF",
+    "relacion": "se diferencia de",
+    "valor": "otros instrumentos que solo evalúan AVD básicas"
+  },
+  {
+    "entidad": "cuestionario CPF",
+    "relacion": "es más efectivo en",
+    "valor": "adultos mayores viviendo en comunidad"
+  },
+  {
+    "entidad": "cuestionario CPF",
+    "relacion": "facilita",
+    "valor": "la medición de independencia funcional"
+  },
+  {
+    "entidad": "cuestionario CPF",
+    "relacion": "es comparado con",
+    "valor": "Índice de Barthel e Índice de Katz"
+  },
+  {
+    "entidad": "cuestionario CPF",
+    "relacion": "demostró ser",
+    "valor": "de fácil comprensión y adaptación cultural"
+  },
+  {
+    "entidad": "adultos mayores",
+    "relacion": "deben tener",
+    "valor": "participación activa en agrupaciones comunitarias"
+  },
+  {
+    "entidad": "cuestionario CPF",
+    "relacion": "se espera que sea útil para",
+    "valor": "valoración de la independencia física en población adulta chilena"
+  },
+  {
+    "entidad": "Hospital Militar Central",
+    "relacion": "ubicado en",
+    "valor": "Bogotá, Colombia"
+  },
+  {
+    "entidad": "Instituto de Referencia Andino",
+    "relacion": "ubicado en",
+    "valor": "Bogotá, Colombia"
+  },
+  {
+    "entidad": "Instituto de Genética Humana",
+    "relacion": "pertenece a",
+    "valor": "Pontificia Universidad Javeriana"
+  },
+  {
+    "entidad": "Unidad de Investigación Oral-UIbO",
+    "relacion": "pertenece a",
+    "valor": "Universidad El Bosque"
+  },
+  {
+    "entidad": "Comité de Investigaciones y Ética",
+    "relacion": "aprueba",
+    "valor": "proyectos de investigación"
+  },
+  {
+    "entidad": "hemoglobinopatías",
+    "relacion": "afecta a",
+    "valor": "transporte de oxígeno"
+  },
+  {
+    "entidad": "población andina",
+    "relacion": "estudia",
+    "valor": "distribución de hemoglobinopatías"
+  },
+  {
+    "entidad": "electroforesis capilar",
+    "relacion": "utiliza",
+    "valor": "para detectar variantes de hemoglobina"
+  },
+  {
+    "entidad": "hemoglobinopatías",
+    "relacion": "se clasifican en",
+    "valor": "cualitativas y cuantitativas"
+  },
+  {
+    "entidad": "hemoglobina S",
+    "relacion": "es una",
+    "valor": "variante de hemoglobina"
+  },
+  {
+    "entidad": "hemoglobina A",
+    "relacion": "es la",
+    "valor": "variante más frecuente"
+  },
+  {
+    "entidad": "rasgo falciforme",
+    "relacion": "es la",
+    "valor": "hemoglobinopatía estructural más común"
+  },
+  {
+    "entidad": "técnicas de detección",
+    "relacion": "incluyen",
+    "valor": "electroforesis en gel de agarosa y electroforesis capilar"
+  },
+  {
+    "entidad": "PCR",
+    "relacion": "se utiliza para",
+    "valor": "diagnosticar talasemia alfa"
+  },
+  {
+    "entidad": "hemoglobinopatías",
+    "relacion": "son un",
+    "valor": "problema de salud pública"
+  },
+  {
+    "entidad": "migración",
+    "relacion": "influye en",
+    "valor": "la frecuencia de hemoglobinopatías"
+  },
+  {
+    "entidad": "anemia de células falciformes",
+    "relacion": "es un tipo de",
+    "valor": "hemoglobinopatía"
+  },
+  {
+    "entidad": "anemia microcítica hipocrómica",
+    "relacion": "es un tipo de",
+    "valor": "hemoglobinopatía"
+  },
+  {
+    "entidad": "electroforesis en gel de agarosa",
+    "relacion": "se utiliza para",
+    "valor": "caracterizar hemoglobinas"
+  },
+  {
+    "entidad": "electroforesis capilar",
+    "relacion": "ofrece",
+    "valor": "ventajas operativas sobre otras técnicas"
+  },
+  {
+    "entidad": "hemoglobinopatías",
+    "relacion": "se distribuyen en",
+    "valor": "diferentes regiones de Colombia"
+  },
+  {
+    "entidad": "técnicas de separación",
+    "relacion": "se basan en",
+    "valor": "movilidad según tamaño o carga"
+  }
+]

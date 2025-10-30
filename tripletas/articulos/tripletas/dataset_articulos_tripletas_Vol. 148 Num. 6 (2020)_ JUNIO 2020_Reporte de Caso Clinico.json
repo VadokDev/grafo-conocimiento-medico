@@ -1,0 +1,182 @@
+[
+  {
+    "entidad": "Cetoacidosis por estrés",
+    "relacion": "es un",
+    "valor": "tipo de cetoacidosis"
+  },
+  {
+    "entidad": "Atrofia muscular espinal",
+    "relacion": "causa",
+    "valor": "cetoacidosis por estrés"
+  },
+  {
+    "entidad": "Atrofia muscular espinal",
+    "relacion": "es una",
+    "valor": "enfermedad neurodegenerativa"
+  },
+  {
+    "entidad": "Cetoacidosis por estrés",
+    "relacion": "afecta a",
+    "valor": "pacientes con atrofia muscular espinal"
+  },
+  {
+    "entidad": "Cetoacidosis por estrés",
+    "relacion": "se presenta con",
+    "valor": "acidosis metabólica"
+  },
+  {
+    "entidad": "Cetoacidosis por estrés",
+    "relacion": "requiere tratamiento con",
+    "valor": "glucosa, aminoácidos, vitaminas y oligoelementos"
+  },
+  {
+    "entidad": "Cetoacidosis por estrés",
+    "relacion": "es inducida por",
+    "valor": "estrés y ayuno"
+  },
+  {
+    "entidad": "Glucosa",
+    "relacion": "se utiliza para",
+    "valor": "reponer oxaloacetato intracelular"
+  },
+  {
+    "entidad": "Insulina",
+    "relacion": "puede ser",
+    "valor": "perjudicial en cetoacidosis no diabética"
+  },
+  {
+    "entidad": "Bicarbonato de sodio",
+    "relacion": "es controversial en",
+    "valor": "pacientes con cetoacidosis"
+  },
+  {
+    "entidad": "Cetoacidosis",
+    "relacion": "puede ser causada por",
+    "valor": "estrés, ayuno, etanol y fármacos"
+  },
+  {
+    "entidad": "Mujer de 26 años",
+    "relacion": "presenta",
+    "valor": "atrofia muscular espinal tipo III"
+  },
+  {
+    "entidad": "Atrofia muscular espinal tipo III",
+    "relacion": "se caracteriza por",
+    "valor": "debilidad muscular y atrofia musculoesquelética"
+  },
+  {
+    "entidad": "Cetoacidosis",
+    "relacion": "es un",
+    "valor": "cuadro grave de acidosis metabólica"
+  },
+  {
+    "entidad": "Cetoacidosis por estrés",
+    "relacion": "debe ser sospechada en",
+    "valor": "pacientes con atrofia muscular espinal"
+  },
+  {
+    "entidad": "Transposición congénitamente corregida de grandes arterias",
+    "relacion": "es un",
+    "valor": "anomalía cardíaca congénita rara"
+  },
+  {
+    "entidad": "Transposición congénitamente corregida de grandes arterias",
+    "relacion": "puede permanecer",
+    "valor": "asintomática hasta la adultez"
+  },
+  {
+    "entidad": "ecocardiografía",
+    "relacion": "diagnostica",
+    "valor": "transposición congénitamente corregida de grandes arterias"
+  },
+  {
+    "entidad": "tomografía cardíaca computada",
+    "relacion": "confirma",
+    "valor": "diagnóstico de transposición congénitamente corregida de grandes arterias"
+  },
+  {
+    "entidad": "ventrículo derecho",
+    "relacion": "funciona como",
+    "valor": "ventrículo sistémico"
+  },
+  {
+    "entidad": "ventrículo izquierdo",
+    "relacion": "funciona como",
+    "valor": "ventrículo pulmonar"
+  },
+  {
+    "entidad": "aurícula izquierda",
+    "relacion": "está conectada a",
+    "valor": "ventrículo derecho a través de la válvula tricúspide"
+  },
+  {
+    "entidad": "aurícula derecha",
+    "relacion": "está conectada a",
+    "valor": "ventrículo izquierdo a través de la válvula mitral"
+  },
+  {
+    "entidad": "sangre venosa sistémica desoxigenada",
+    "relacion": "llega a",
+    "valor": "circulación pulmonar a través de la aurícula derecha"
+  },
+  {
+    "entidad": "sangre venosa pulmonar oxigenada",
+    "relacion": "llega a",
+    "valor": "aurícula izquierda"
+  },
+  {
+    "entidad": "insuficiencia tricuspídea",
+    "relacion": "es una complicación tardía de",
+    "valor": "transposición de grandes arterias"
+  },
+  {
+    "entidad": "disfunción ventricular derecha",
+    "relacion": "es una complicación tardía de",
+    "valor": "transposición de grandes arterias"
+  },
+  {
+    "entidad": "insuficiencia cardiaca derecha",
+    "relacion": "es una complicación tardía de",
+    "valor": "transposición de grandes arterias"
+  },
+  {
+    "entidad": "bloqueo auriculoventricular completo",
+    "relacion": "es una complicación tardía de",
+    "valor": "transposición de grandes arterias"
+  },
+  {
+    "entidad": "TGACC",
+    "relacion": "puede ser diagnosticada",
+    "valor": "circunstancialmente por ecocardiografía"
+  },
+  {
+    "entidad": "TGACC",
+    "relacion": "es un tipo de",
+    "valor": "situs solitus"
+  },
+  {
+    "entidad": "pacientes con TGACC",
+    "relacion": "pueden vivir",
+    "valor": "asintomáticos hasta la sexta década de vida"
+  },
+  {
+    "entidad": "ecocardiograma transtorácico",
+    "relacion": "es la técnica diagnóstica",
+    "valor": "normalmente usada para TGACC"
+  },
+  {
+    "entidad": "tomografía cardíaca computada",
+    "relacion": "es complementaria cuando",
+    "valor": "la ecocardiografía presenta dificultades técnicas"
+  },
+  {
+    "entidad": "insuficiencia tricuspídea",
+    "relacion": "representa un riesgo para",
+    "valor": "desarrollo de insuficiencia tricuspídea progresiva"
+  },
+  {
+    "entidad": "insuficiencia tricuspídea",
+    "relacion": "es un factor independiente de",
+    "valor": "mortalidad en TGACC"
+  }
+]

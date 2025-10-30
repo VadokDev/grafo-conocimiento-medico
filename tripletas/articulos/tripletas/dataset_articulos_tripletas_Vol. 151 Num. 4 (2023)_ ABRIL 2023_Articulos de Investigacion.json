@@ -1,0 +1,917 @@
+[
+  {
+    "entidad": "Arica, Chile",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "bioacumulación de metales tóxicos",
+    "relacion": "asociada a",
+    "valor": "efectos adversos en la salud"
+  },
+  {
+    "entidad": "Arsénico Inorgánico (AsIn)",
+    "relacion": "se mide en",
+    "valor": "orina"
+  },
+  {
+    "entidad": "Cadmio (Cd)",
+    "relacion": "se mide en",
+    "valor": "orina"
+  },
+  {
+    "entidad": "Cromo (Cr)",
+    "relacion": "se mide en",
+    "valor": "orina"
+  },
+  {
+    "entidad": "Mercurio (Hg)",
+    "relacion": "se mide en",
+    "valor": "orina"
+  },
+  {
+    "entidad": "Plomo (Pb)",
+    "relacion": "se mide en",
+    "valor": "sangre"
+  },
+  {
+    "entidad": "Programa de Vigilancia de Salud de la Ley 20.590",
+    "relacion": "beneficia a",
+    "valor": "población en riesgo"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile (MINSAL)",
+    "relacion": "establece",
+    "valor": "niveles de referencia"
+  },
+  {
+    "entidad": "población de Arica",
+    "relacion": "presenta",
+    "valor": "exposición a metales tóxicos"
+  },
+  {
+    "entidad": "Arsénico",
+    "relacion": "causa",
+    "valor": "daños en la salud"
+  },
+  {
+    "entidad": "Mercurio",
+    "relacion": "causa",
+    "valor": "daños neurológicos"
+  },
+  {
+    "entidad": "Plomo",
+    "relacion": "asociado a",
+    "valor": "trastornos hematológicos"
+  },
+  {
+    "entidad": "Cromo",
+    "relacion": "aumenta",
+    "valor": "incidencia de cáncer"
+  },
+  {
+    "entidad": "Ley 20.590",
+    "relacion": "garantiza",
+    "valor": "acceso a tratamiento médico"
+  },
+  {
+    "entidad": "población beneficiaria",
+    "relacion": "requiere",
+    "valor": "monitoreo continuo"
+  },
+  {
+    "entidad": "exposición a metales",
+    "relacion": "puede generar",
+    "valor": "efectos nocivos en la salud"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "realiza",
+    "valor": "estudio descriptivo"
+  },
+  {
+    "entidad": "muestras biológicas",
+    "relacion": "se utilizan para medir",
+    "valor": "concentraciones de metales"
+  },
+  {
+    "entidad": "Arica",
+    "relacion": "ha sido expuesta a",
+    "valor": "contaminación por metales"
+  },
+  {
+    "entidad": "promedio de edad de la población estudiada",
+    "relacion": "es",
+    "valor": "40.5 años"
+  },
+  {
+    "entidad": "vitamina D",
+    "relacion": "asociación con",
+    "valor": "deterioro cognitivo"
+  },
+  {
+    "entidad": "personas mayores chilenas",
+    "relacion": "participan en",
+    "valor": "Encuesta Nacional de Salud 2016-2017"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud 2016-2017",
+    "relacion": "reporta",
+    "valor": "niveles de vitamina D"
+  },
+  {
+    "entidad": "vitamina D",
+    "relacion": "evaluada mediante",
+    "valor": "concentración sérica de 25-hidroxivitamina D"
+  },
+  {
+    "entidad": "deficiencia de vitamina D",
+    "relacion": "asociada con",
+    "valor": "mayor riesgo de deterioro cognitivo"
+  },
+  {
+    "entidad": "deterioro cognitivo",
+    "relacion": "evaluado mediante",
+    "valor": "Mini Mental State Examination (MMSE)"
+  },
+  {
+    "entidad": "vitamina D",
+    "relacion": "fuente principal de",
+    "valor": "producción endógena en la piel"
+  },
+  {
+    "entidad": "personas mayores",
+    "relacion": "tienen",
+    "valor": "menor capacidad de sintetizar vitamina D"
+  },
+  {
+    "entidad": "deficiencia grave de vitamina D",
+    "relacion": "asociada con",
+    "valor": "94% mayor probabilidad de deterioro cognitivo"
+  },
+  {
+    "entidad": "deficiencia grave de vitamina D",
+    "relacion": "asociada con",
+    "valor": "73% mayor probabilidad de deterioro cognitivo"
+  },
+  {
+    "entidad": "vitamina D",
+    "relacion": "juega un rol en",
+    "valor": "prevención de neurodegeneración"
+  },
+  {
+    "entidad": "vitamina D",
+    "relacion": "promueve",
+    "valor": "eliminación de placas amiloides"
+  },
+  {
+    "entidad": "fortificación de alimentos",
+    "relacion": "implementada para",
+    "valor": "corregir deficiencia de vitamina D"
+  },
+  {
+    "entidad": "OMS",
+    "relacion": "recomienda",
+    "valor": "fortificación de alimentos cuando la deficiencia supera el 2.5%"
+  },
+  {
+    "entidad": "vitamina D",
+    "relacion": "asociada con",
+    "valor": "metabolismo del calcio"
+  },
+  {
+    "entidad": "vitamina D",
+    "relacion": "tiene propiedades",
+    "valor": "antiinflamatorias y antioxidantes"
+  },
+  {
+    "entidad": "deterioro cognitivo",
+    "relacion": "incrementa con",
+    "valor": "la edad"
+  },
+  {
+    "entidad": "vitamina D",
+    "relacion": "evaluada en",
+    "valor": "muestra representativa de población mayor"
+  },
+  {
+    "entidad": "población migrante en Chile",
+    "relacion": "está creciendo",
+    "valor": "significativamente"
+  },
+  {
+    "entidad": "sistema de salud",
+    "relacion": "desafía",
+    "valor": "capacidad para proporcionar atención sensible y eficaz"
+  },
+  {
+    "entidad": "competencia cultural",
+    "relacion": "se evalúa en",
+    "valor": "trabajadores de salud primaria chilenos"
+  },
+  {
+    "entidad": "estudio de métodos mixtos",
+    "relacion": "utiliza",
+    "valor": "escala cuantitativa y entrevistas semiestructuradas"
+  },
+  {
+    "entidad": "variables específicas",
+    "relacion": "asociadas con",
+    "valor": "mayor competencia cultural"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "es una",
+    "valor": "variable asociada a la competencia cultural"
+  },
+  {
+    "entidad": "experiencias de vida interculturales",
+    "relacion": "son",
+    "valor": "variables asociadas a la competencia cultural"
+  },
+  {
+    "entidad": "capacitación",
+    "relacion": "es una",
+    "valor": "variable asociada a la competencia cultural"
+  },
+  {
+    "entidad": "dimensiones de competencia cultural",
+    "relacion": "tienen",
+    "valor": "puntuaciones más altas en la escala cuantitativa"
+  },
+  {
+    "entidad": "análisis cualitativo",
+    "relacion": "proporciona",
+    "valor": "una interpretación más profunda de los resultados cuantitativos"
+  },
+  {
+    "entidad": "formación formal",
+    "relacion": "se sugiere como",
+    "valor": "una dirección para fomentar la competencia transcultural en salud"
+  },
+  {
+    "entidad": "Grupo de Trabajo Migración y Salud",
+    "relacion": "financia",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "Universidad de Chile",
+    "relacion": "es la",
+    "valor": "institución que realiza el estudio"
+  },
+  {
+    "entidad": "cuidado de la salud",
+    "relacion": "debe fomentar",
+    "valor": "competencia cultural entre sus trabajadores"
+  },
+  {
+    "entidad": "trabajadores de salud",
+    "relacion": "pueden afectar",
+    "valor": "el acceso a la atención médica"
+  },
+  {
+    "entidad": "cultura diversa",
+    "relacion": "requiere",
+    "valor": "sensibilidad y habilidades culturales"
+  },
+  {
+    "entidad": "inmigrantes",
+    "relacion": "son percibidos como",
+    "valor": "un grupo que provoca respuestas y emociones distintas"
+  },
+  {
+    "entidad": "barreras de acceso",
+    "relacion": "han sido",
+    "valor": "resueltas por resoluciones administrativas"
+  },
+  {
+    "entidad": "cuidado de la salud",
+    "relacion": "se ve afectado por",
+    "valor": "la calidad del tratamiento proporcionado por los trabajadores de salud"
+  },
+  {
+    "entidad": "panel de enfermedades hepáticas autoinmunes",
+    "relacion": "es un",
+    "valor": "método diagnóstico"
+  },
+  {
+    "entidad": "Hospital Clínico Universidad de Chile",
+    "relacion": "dispone de",
+    "valor": "panel de enfermedades hepáticas autoinmunes"
+  },
+  {
+    "entidad": "autoanticuerpos",
+    "relacion": "se detectan en",
+    "valor": "enfermedades hepáticas autoinmunes"
+  },
+  {
+    "entidad": "hepatitis autoinmune",
+    "relacion": "es un tipo de",
+    "valor": "enfermedad hepática autoinmune"
+  },
+  {
+    "entidad": "colangitis biliar primaria",
+    "relacion": "es un tipo de",
+    "valor": "enfermedad hepática autoinmune"
+  },
+  {
+    "entidad": "síndrome de sobreposición",
+    "relacion": "incluye",
+    "valor": "hepatitis autoinmune y colangitis biliar primaria"
+  },
+  {
+    "entidad": "inmunoblot",
+    "relacion": "se utiliza para",
+    "valor": "detectar autoanticuerpos"
+  },
+  {
+    "entidad": "autoanticuerpos antinucleares (ANA)",
+    "relacion": "son un tipo de",
+    "valor": "autoanticuerpos"
+  },
+  {
+    "entidad": "anticuerpos anti mitocondriales (AMA)",
+    "relacion": "son un tipo de",
+    "valor": "autoanticuerpos"
+  },
+  {
+    "entidad": "anticuerpos anti músculo liso (AML)",
+    "relacion": "son un tipo de",
+    "valor": "autoanticuerpos"
+  },
+  {
+    "entidad": "anticuerpo microsomal hígado-riñón (Anti LKM1)",
+    "relacion": "es un tipo de",
+    "valor": "autoanticuerpo"
+  },
+  {
+    "entidad": "inmunofluorescencia (IFI)",
+    "relacion": "es un método para",
+    "valor": "detectar autoanticuerpos"
+  },
+  {
+    "entidad": "ELISA",
+    "relacion": "es un método para",
+    "valor": "detectar autoanticuerpos"
+  },
+  {
+    "entidad": "Carmen Hurtado",
+    "relacion": "es",
+    "valor": "autora del estudio"
+  },
+  {
+    "entidad": "autoanticuerpos específicos",
+    "relacion": "son útiles para",
+    "valor": "diagnóstico de CBP"
+  },
+  {
+    "entidad": "biopsia hepática",
+    "relacion": "se utiliza para",
+    "valor": "confirmar diagnóstico de hepatopatías autoinmunes"
+  },
+  {
+    "entidad": "ácido ursodeoxicólico",
+    "relacion": "se utiliza como",
+    "valor": "tratamiento para CBP"
+  },
+  {
+    "entidad": "Hiperferritinemia",
+    "relacion": "es un",
+    "valor": "síndrome"
+  },
+  {
+    "entidad": "Ferritina",
+    "relacion": "es una",
+    "valor": "proteína"
+  },
+  {
+    "entidad": "Hiperferritinemia",
+    "relacion": "se asocia con",
+    "valor": "múltiples enfermedades"
+  },
+  {
+    "entidad": "Enfermedades inflamatorias y autoinmunes",
+    "relacion": "son",
+    "valor": "categoría diagnóstica frecuente"
+  },
+  {
+    "entidad": "Neoplasias hematológicas",
+    "relacion": "son",
+    "valor": "categoría diagnóstica frecuente"
+  },
+  {
+    "entidad": "Ferritina",
+    "relacion": "cumple un rol en",
+    "valor": "metabolismo del hierro"
+  },
+  {
+    "entidad": "Ferritina",
+    "relacion": "es sintetizada en",
+    "valor": "hígado, bazo y médula ósea"
+  },
+  {
+    "entidad": "Ferritina",
+    "relacion": "se eleva en respuesta a",
+    "valor": "daño oxidativo e inflamación"
+  },
+  {
+    "entidad": "Hiperferritinemia",
+    "relacion": "puede ser causada por",
+    "valor": "hemocromatosis"
+  },
+  {
+    "entidad": "Hiperferritinemia",
+    "relacion": "puede ser causada por",
+    "valor": "neoplasias"
+  },
+  {
+    "entidad": "Hiperferritinemia",
+    "relacion": "puede ser causada por",
+    "valor": "hemofagocitosis linfohistocitaria"
+  },
+  {
+    "entidad": "Hiperferritinemia",
+    "relacion": "puede ser causada por",
+    "valor": "enfermedades autoinmunes"
+  },
+  {
+    "entidad": "Hiperferritinemia",
+    "relacion": "puede ser causada por",
+    "valor": "enfermedades infecciosas"
+  },
+  {
+    "entidad": "Hiperferritinemia",
+    "relacion": "puede ser causada por",
+    "valor": "enfermedades hepáticas"
+  },
+  {
+    "entidad": "Hiperferritinemia",
+    "relacion": "puede ser causada por",
+    "valor": "enfermedades renales"
+  },
+  {
+    "entidad": "Hiperferritinemia",
+    "relacion": "puede ser causada por",
+    "valor": "sobrecarga de hierro"
+  },
+  {
+    "entidad": "Hiperferritinemia",
+    "relacion": "puede ser causada por",
+    "valor": "causa desconocida"
+  },
+  {
+    "entidad": "Ferritina",
+    "relacion": "actúa como",
+    "valor": "marcador de actividad"
+  },
+  {
+    "entidad": "Ferritina",
+    "relacion": "se ha estudiado como",
+    "valor": "predictor de mal pronóstico"
+  },
+  {
+    "entidad": "Hiperferritinemia",
+    "relacion": "se define como",
+    "valor": "elevación de ferritina sérica sobre 3,000 ng/mL"
+  },
+  {
+    "entidad": "Estudio retrospectivo",
+    "relacion": "evalúa",
+    "valor": "asociación entre ferritina y mortalidad"
+  },
+  {
+    "entidad": "Grupo de pacientes mayores de 50 años",
+    "relacion": "presenta",
+    "valor": "neoplasias hematológicas e infecciones como causas frecuentes"
+  },
+  {
+    "entidad": "Grupo de pacientes menores de 50 años",
+    "relacion": "presenta",
+    "valor": "enfermedades inflamatorias y autoinmunes como causas frecuentes"
+  },
+  {
+    "entidad": "Hiperferritinemia",
+    "relacion": "no se asocia con",
+    "valor": "mayor mortalidad"
+  },
+  {
+    "entidad": "Comité Ético Científico de la Facultad de Medicina de la Pontificia Universidad Católica de Chile",
+    "relacion": "aproba",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "intoxicaciones",
+    "relacion": "son",
+    "valor": "un problema de salud pública prevenible"
+  },
+  {
+    "entidad": "benzodiacepinas",
+    "relacion": "poseen",
+    "valor": "propiedades sedativas, ansiolíticas e hipnóticas"
+  },
+  {
+    "entidad": "benzodiacepinas",
+    "relacion": "están clasificadas bajo",
+    "valor": "la categoría de psicotrópicos"
+  },
+  {
+    "entidad": "antidepresivos",
+    "relacion": "son",
+    "valor": "una de las causas más comunes de intoxicaciones fatales"
+  },
+  {
+    "entidad": "intoxicaciones por antidepresivos",
+    "relacion": "presentan",
+    "valor": "efectos a nivel cardiovascular"
+  },
+  {
+    "entidad": "suicidio",
+    "relacion": "era",
+    "valor": "la tercera causa de muerte entre personas de 15 a 24 años en EE. UU."
+  },
+  {
+    "entidad": "intoxicaciones por benzodiacepinas y antidepresivos",
+    "relacion": "fueron caracterizadas",
+    "valor": "epidemiológicamente en Chile entre 2002 y 2019"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "reporta",
+    "valor": "intoxicaciones en el sistema de egresos hospitalarios"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen mayor proporción de",
+    "valor": "intoxicaciones por benzodiacepinas y antidepresivos"
+  },
+  {
+    "entidad": "intoxicaciones accidentales",
+    "relacion": "se consideran",
+    "valor": "exposiciones inadvertidas"
+  },
+  {
+    "entidad": "intoxicaciones intencionales",
+    "relacion": "se catalogan como",
+    "valor": "episodios asociados a exposiciones autolesivas"
+  },
+  {
+    "entidad": "edad de 0 a 4 años",
+    "relacion": "presenta",
+    "valor": "la mayor tasa de intoxicaciones accidentales"
+  },
+  {
+    "entidad": "edad de 15 a 19 años",
+    "relacion": "presenta",
+    "valor": "la mayor tasa de intoxicaciones intencionales"
+  },
+  {
+    "entidad": "tiempo de estadía hospitalaria",
+    "relacion": "es",
+    "valor": "similar para intoxicaciones por benzodiacepinas y antidepresivos"
+  },
+  {
+    "entidad": "resultados al alta",
+    "relacion": "fueron",
+    "valor": "favorables para la mayoría de los pacientes"
+  },
+  {
+    "entidad": "intoxicaciones por benzodiacepinas y antidepresivos",
+    "relacion": "representaron",
+    "valor": "0.08% del total de hospitalizaciones"
+  },
+  {
+    "entidad": "campañas de prevención",
+    "relacion": "deben ser",
+    "valor": "enfocadas en grupos etarios"
+  },
+  {
+    "entidad": "Hepatocarcinoma",
+    "relacion": "es",
+    "valor": "el sexto cáncer más común en el mundo"
+  },
+  {
+    "entidad": "Hepatocarcinoma",
+    "relacion": "representa",
+    "valor": "la tercera causa de muerte por cáncer"
+  },
+  {
+    "entidad": "Hepatocarcinoma",
+    "relacion": "se desarrolla en",
+    "valor": "hígados con daño hepático crónico"
+  },
+  {
+    "entidad": "daño hepático crónico",
+    "relacion": "tiene como etiología principal",
+    "valor": "esteatohepatitis no alcohólica"
+  },
+  {
+    "entidad": "daño hepático crónico",
+    "relacion": "tiene como etiología",
+    "valor": "consumo de alcohol"
+  },
+  {
+    "entidad": "daño hepático crónico",
+    "relacion": "tiene como etiología",
+    "valor": "hepatitis viral"
+  },
+  {
+    "entidad": "daño hepático crónico",
+    "relacion": "tiene como etiología",
+    "valor": "enfermedades autoinmunes"
+  },
+  {
+    "entidad": "daño hepático crónico",
+    "relacion": "tiene como etiología",
+    "valor": "enfermedades colestásicas"
+  },
+  {
+    "entidad": "daño hepático crónico",
+    "relacion": "tiene como etiología",
+    "valor": "desórdenes metabólicos"
+  },
+  {
+    "entidad": "resección quirúrgica",
+    "relacion": "es",
+    "valor": "una medida terapéutica para el tratamiento del HCC"
+  },
+  {
+    "entidad": "trasplante hepático",
+    "relacion": "es",
+    "valor": "una medida terapéutica para el tratamiento del HCC"
+  },
+  {
+    "entidad": "Sorafenib",
+    "relacion": "es",
+    "valor": "una medida terapéutica para el tratamiento del HCC"
+  },
+  {
+    "entidad": "embolia",
+    "relacion": "es",
+    "valor": "una medida terapéutica para el tratamiento del HCC"
+  },
+  {
+    "entidad": "quimioembolización transearterial",
+    "relacion": "es",
+    "valor": "una medida terapéutica para el tratamiento del HCC"
+  },
+  {
+    "entidad": "cirugía",
+    "relacion": "es",
+    "valor": "el tratamiento de elección en estadíos 0 y A de la clasificación BCLC"
+  },
+  {
+    "entidad": "técnicas mínimamente invasivas",
+    "relacion": "han ido aumentando",
+    "valor": "en la cirugía hepática"
+  },
+  {
+    "entidad": "resección hepática laparoscópica",
+    "relacion": "es",
+    "valor": "una técnica segura y efectiva"
+  },
+  {
+    "entidad": "Hospital Clínico de la Pontificia Universidad Católica de Chile",
+    "relacion": "realiza",
+    "valor": "resecciones hepáticas laparoscópicas por HCC"
+  },
+  {
+    "entidad": "comité multidisciplinario",
+    "relacion": "toma decisiones sobre",
+    "valor": "el tipo de manejo para HCC"
+  },
+  {
+    "entidad": "resección hepática laparoscópica",
+    "relacion": "se realizó en",
+    "valor": "20 pacientes"
+  },
+  {
+    "entidad": "mortalidad a 30 días",
+    "relacion": "fue",
+    "valor": "cero"
+  },
+  {
+    "entidad": "complicaciones postoperatorias",
+    "relacion": "fueron",
+    "valor": "15%"
+  },
+  {
+    "entidad": "márgenes quirúrgicos negativos",
+    "relacion": "se lograron en",
+    "valor": "90% de los pacientes"
+  },
+  {
+    "entidad": "sobrevida libre de enfermedad",
+    "relacion": "fue",
+    "valor": "25 meses"
+  },
+  {
+    "entidad": "sobrevida global",
+    "relacion": "fue",
+    "valor": "40,5 meses"
+  },
+  {
+    "entidad": "resección laparoscópica",
+    "relacion": "es segura",
+    "valor": "en pacientes con hígado sano y cirrosis BCLC 0 y A"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "tiene",
+    "valor": "un comité de ética institucional"
+  },
+  {
+    "entidad": "Dr. Eduardo Briceño",
+    "relacion": "es",
+    "valor": "profesor asistente en cirugía digestiva"
+  },
+  {
+    "entidad": "Obesidad",
+    "relacion": "afecta a",
+    "valor": "estudiantes de primer año"
+  },
+  {
+    "entidad": "Inactividad Física",
+    "relacion": "afecta a",
+    "valor": "estudiantes de primer año"
+  },
+  {
+    "entidad": "Percepción de Estrés",
+    "relacion": "afecta a",
+    "valor": "estudiantes de primer año"
+  },
+  {
+    "entidad": "Universidad de Chile",
+    "relacion": "tiene",
+    "valor": "Facultad de Medicina y Odontología"
+  },
+  {
+    "entidad": "Estudiantes de primer año",
+    "relacion": "muestran",
+    "valor": "cambios en estilos de vida"
+  },
+  {
+    "entidad": "Estilos de vida saludables",
+    "relacion": "son promovidos por",
+    "valor": "profesionales de la salud"
+  },
+  {
+    "entidad": "Gobierno de Chile",
+    "relacion": "implementa",
+    "valor": "campañas de salud"
+  },
+  {
+    "entidad": "Obesidad",
+    "relacion": "se ha incrementado",
+    "valor": "en la población chilena"
+  },
+  {
+    "entidad": "Tabaquismo",
+    "relacion": "es un",
+    "valor": "factor de riesgo"
+  },
+  {
+    "entidad": "Consumo de alcohol",
+    "relacion": "es un",
+    "valor": "factor de riesgo"
+  },
+  {
+    "entidad": "Estrés",
+    "relacion": "influye en",
+    "valor": "autocuidado de estudiantes"
+  },
+  {
+    "entidad": "Intervenciones curriculares",
+    "relacion": "pueden ayudar a",
+    "valor": "ajustar estilos de vida"
+  },
+  {
+    "entidad": "Estudiantes de salud",
+    "relacion": "deben promover",
+    "valor": "estilos de vida saludables"
+  },
+  {
+    "entidad": "MINSAL",
+    "relacion": "proporciona",
+    "valor": "guías clínicas"
+  },
+  {
+    "entidad": "Estudio longitudinal",
+    "relacion": "evalúa",
+    "valor": "cambios en factores de riesgo"
+  },
+  {
+    "entidad": "Factores de riesgo",
+    "relacion": "incluyen",
+    "valor": "obesidad, inactividad física, estrés"
+  },
+  {
+    "entidad": "Five Facet Mindfulness Questionnaire",
+    "relacion": "es",
+    "valor": "una escala de medición"
+  },
+  {
+    "entidad": "Universidad Diego Portales",
+    "relacion": "tiene",
+    "valor": "Facultad de Medicina"
+  },
+  {
+    "entidad": "Colegio Médico de Chile",
+    "relacion": "apoya",
+    "valor": "financieramente la investigación"
+  },
+  {
+    "entidad": "FFMQ-24",
+    "relacion": "es una versión de",
+    "valor": "Five Facet Mindfulness Questionnaire"
+  },
+  {
+    "entidad": "FFMQ-15",
+    "relacion": "es una versión abreviada de",
+    "valor": "Five Facet Mindfulness Questionnaire"
+  },
+  {
+    "entidad": "FFMQ-24",
+    "relacion": "fue validada en",
+    "valor": "España"
+  },
+  {
+    "entidad": "FFMQ-15",
+    "relacion": "fue aplicada a",
+    "valor": "médicos en Chile"
+  },
+  {
+    "entidad": "FFMQ-15",
+    "relacion": "fue aplicada a",
+    "valor": "estudiantes de medicina en Chile"
+  },
+  {
+    "entidad": "validación",
+    "relacion": "es necesaria para",
+    "valor": "aplicación clínica y de investigación"
+  },
+  {
+    "entidad": "Mindfulness",
+    "relacion": "se define como",
+    "valor": "la habilidad de traer atención al momento presente"
+  },
+  {
+    "entidad": "intervenciones basadas en Mindfulness",
+    "relacion": "requieren",
+    "valor": "instrumentos de medición estandarizados"
+  },
+  {
+    "entidad": "MHC-14",
+    "relacion": "evalúa",
+    "valor": "la validez externa del FFMQ-15"
+  },
+  {
+    "entidad": "análisis factorial confirmatorio",
+    "relacion": "se utiliza para",
+    "valor": "examinar la estructura factorial"
+  },
+  {
+    "entidad": "escala de salud mental",
+    "relacion": "incluye",
+    "valor": "bienestar emocional, psicológico y social"
+  },
+  {
+    "entidad": "FFMQ-15",
+    "relacion": "tiene",
+    "valor": "consistencia interna aceptable"
+  },
+  {
+    "entidad": "estudio transversal descriptivo",
+    "relacion": "se realizó para",
+    "valor": "validar la escala FFMQ"
+  },
+  {
+    "entidad": "Francisco Villalón López",
+    "relacion": "es el autor de",
+    "valor": "la investigación"
+  },
+  {
+    "entidad": "Universidad de Chile",
+    "relacion": "tiene",
+    "valor": "Departamento de Psiquiatría y Salud Mental"
+  },
+  {
+    "entidad": "FFMQ",
+    "relacion": "se utiliza en",
+    "valor": "la medición de efectividad de intervenciones de mindfulness"
+  },
+  {
+    "entidad": "escala FFMQ",
+    "relacion": "permite",
+    "valor": "evaluar habilidades específicas de mindfulness"
+  },
+  {
+    "entidad": "muestra de médicos",
+    "relacion": "constó de",
+    "valor": "795 médicos"
+  },
+  {
+    "entidad": "muestra de estudiantes",
+    "relacion": "constó de",
+    "valor": "359 estudiantes de medicina"
+  }
+]

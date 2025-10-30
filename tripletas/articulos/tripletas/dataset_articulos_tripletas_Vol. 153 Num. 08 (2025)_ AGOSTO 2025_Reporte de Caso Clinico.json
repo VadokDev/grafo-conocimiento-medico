@@ -1,0 +1,167 @@
+[
+  {
+    "entidad": "síndrome de Reed",
+    "relacion": "es un",
+    "valor": "genodermatosis rara"
+  },
+  {
+    "entidad": "leiomiomas cutáneos",
+    "relacion": "son un",
+    "valor": "signo dermatológico del síndrome de Reed"
+  },
+  {
+    "entidad": "leiomiomas uterinos",
+    "relacion": "se asocian a",
+    "valor": "síndrome de Reed en mujeres"
+  },
+  {
+    "entidad": "mutaciones en el gen del fumarato hidratasa (FH)",
+    "relacion": "causan",
+    "valor": "síndrome de Reed"
+  },
+  {
+    "entidad": "fumarato hidratasa (FH)",
+    "relacion": "es un",
+    "valor": "supresor tumoral"
+  },
+  {
+    "entidad": "leiomiomas cutáneos múltiples",
+    "relacion": "son",
+    "valor": "principal sospecha clínica del síndrome de Reed"
+  },
+  {
+    "entidad": "carcinoma renal",
+    "relacion": "se asocia a",
+    "valor": "síndrome de Reed"
+  },
+  {
+    "entidad": "paciente masculino de 23 años",
+    "relacion": "presenta",
+    "valor": "leiomiomas cutáneos"
+  },
+  {
+    "entidad": "acné papulopustuloso",
+    "relacion": "es un",
+    "valor": "antecedente del paciente"
+  },
+  {
+    "entidad": "examen dermatoscópico",
+    "relacion": "confirma",
+    "valor": "diagnóstico de piloleiomiomas"
+  },
+  {
+    "entidad": "biopsia de piel",
+    "relacion": "informa",
+    "valor": "lesión nodular dérmica bien definida"
+  },
+  {
+    "entidad": "antecedente materno de leiomiomas cutáneos múltiples",
+    "relacion": "contribuye a",
+    "valor": "diagnóstico de síndrome de Reed"
+  },
+  {
+    "entidad": "diagnóstico clínico",
+    "relacion": "es importante para",
+    "valor": "identificar leiomiomas cutáneos"
+  },
+  {
+    "entidad": "excéresis de lesiones sintomáticas",
+    "relacion": "es el",
+    "valor": "tratamiento de elección para leiomiomas aislados"
+  },
+  {
+    "entidad": "síndrome de Reed",
+    "relacion": "requiere",
+    "valor": "manejo multidisciplinario"
+  },
+  {
+    "entidad": "nitratos",
+    "relacion": "son un",
+    "valor": "opción de tratamiento médico para lesiones múltiples"
+  },
+  {
+    "entidad": "toxina botulínica",
+    "relacion": "puede usarse como",
+    "valor": "opción de tratamiento complementario"
+  },
+  {
+    "entidad": "pruebas genéticas",
+    "relacion": "son el",
+    "valor": "método diagnóstico más específico para síndrome de Reed"
+  },
+  {
+    "entidad": "screening con ecografía abdominal",
+    "relacion": "descarta",
+    "valor": "malignidad en el paciente"
+  },
+  {
+    "entidad": "Lupus eritematoso sistémico",
+    "relacion": "es un",
+    "valor": "enfermedad inflamatoria crónica"
+  },
+  {
+    "entidad": "Lupus eritematoso sistémico",
+    "relacion": "asocia con",
+    "valor": "hepatitis autoinmune"
+  },
+  {
+    "entidad": "Pancitopenia",
+    "relacion": "es un",
+    "valor": "manifestación hematológica del lupus eritematoso sistémico"
+  },
+  {
+    "entidad": "Pancitopenia",
+    "relacion": "asocia con",
+    "valor": "mayor morbilidad"
+  },
+  {
+    "entidad": "Enteritis lúpica",
+    "relacion": "es un",
+    "valor": "manifestación gastrointestinal del lupus eritematoso sistémico"
+  },
+  {
+    "entidad": "Enteritis lúpica",
+    "relacion": "necesita",
+    "valor": "alta sospecha clínica para diagnóstico"
+  },
+  {
+    "entidad": "Paciente",
+    "relacion": "presenta",
+    "valor": "múltiples patologías autoinmunes"
+  },
+  {
+    "entidad": "Tratamiento inmunosupresor",
+    "relacion": "mejora",
+    "valor": "evolución clínica de la paciente"
+  },
+  {
+    "entidad": "Azatioprina",
+    "relacion": "es un",
+    "valor": "tratamiento para hepatitis autoinmune"
+  },
+  {
+    "entidad": "Dexametasona",
+    "relacion": "se utiliza en",
+    "valor": "tratamiento de pancitopenia"
+  },
+  {
+    "entidad": "Rituximab",
+    "relacion": "se utiliza en",
+    "valor": "tratamiento de pancitopenia"
+  },
+  {
+    "entidad": "Tomografía computarizada",
+    "relacion": "es",
+    "valor": "gold standard diagnóstico para enteritis lúpica"
+  },
+  {
+    "entidad": "Corticoides",
+    "relacion": "son",
+    "valor": "primera línea de tratamiento para enteritis lúpica"
+  },
+  {
+    "entidad": "Corticoides",
+    "relacion": "son",
+    "valor": "primera línea de tratamiento para pancitopenia secundaria a LES"
+  }
+]

@@ -1,0 +1,872 @@
+[
+  {
+    "entidad": "malos tratos en servicios de salud",
+    "relacion": "atribuidos a",
+    "valor": "discriminación"
+  },
+  {
+    "entidad": "pacientes diabéticos mapuche",
+    "relacion": "afectados por",
+    "valor": "malos tratos en servicios de salud"
+  },
+  {
+    "entidad": "discriminación",
+    "relacion": "asociada con",
+    "valor": "peores resultados en salud"
+  },
+  {
+    "entidad": "discriminación",
+    "relacion": "asociada con",
+    "valor": "menor búsqueda de atención"
+  },
+  {
+    "entidad": "discriminación",
+    "relacion": "asociada con",
+    "valor": "peor control metabólico"
+  },
+  {
+    "entidad": "discriminación",
+    "relacion": "asociada con",
+    "valor": "menor práctica de exámenes de HbA1c"
+  },
+  {
+    "entidad": "discriminación",
+    "relacion": "asociada con",
+    "valor": "mayor abandono del tratamiento"
+  },
+  {
+    "entidad": "etnia mapuche",
+    "relacion": "causa",
+    "valor": "mayor probabilidad de ser discriminados en salud"
+  },
+  {
+    "entidad": "nivel socioeconómico bajo",
+    "relacion": "causa",
+    "valor": "mayor probabilidad de ser discriminados en salud"
+  },
+  {
+    "entidad": "experiencia negativa en salud",
+    "relacion": "atribuidas a",
+    "valor": "discriminación étnica"
+  },
+  {
+    "entidad": "experiencia negativa en salud",
+    "relacion": "atribuidas a",
+    "valor": "discriminación socioeconómica"
+  },
+  {
+    "entidad": "discontinuidad del tratamiento de la diabetes",
+    "relacion": "asociada con",
+    "valor": "atribución de discriminación"
+  },
+  {
+    "entidad": "nivel educacional bajo",
+    "relacion": "asociado con",
+    "valor": "mayor atribución de discriminación étnica"
+  },
+  {
+    "entidad": "nivel de ingresos bajo",
+    "relacion": "asociado con",
+    "valor": "mayor atribución de discriminación étnica"
+  },
+  {
+    "entidad": "modelo Integrador de Betancourt",
+    "relacion": "utilizado para",
+    "valor": "investigar conductas en salud multicultural"
+  },
+  {
+    "entidad": "discontinuidad del tratamiento",
+    "relacion": "resulta en",
+    "valor": "mayor riesgo de complicaciones"
+  },
+  {
+    "entidad": "relación médico-paciente",
+    "relacion": "predictor de",
+    "valor": "continuidad de las atenciones en salud"
+  },
+  {
+    "entidad": "Unidad de Cuidados Intensivos",
+    "relacion": "pertenece a",
+    "valor": "Complejo Asistencial Dr. Sótero del Río"
+  },
+  {
+    "entidad": "Departamento de Medicina Intensiva",
+    "relacion": "pertenece a",
+    "valor": "Escuela de Medicina, Pontificia Universidad Católica de Chile"
+  },
+  {
+    "entidad": "Complejo Asistencial Dr. Sótero del Río",
+    "relacion": "se encuentra en",
+    "valor": "Santiago, Chile"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "no contó con",
+    "valor": "financiamiento, apoyo en equipos, insumos u otros"
+  },
+  {
+    "entidad": "epidemiología de pacientes críticos",
+    "relacion": "puede diferir de",
+    "valor": "estudios internacionales"
+  },
+  {
+    "entidad": "causas de ingreso",
+    "relacion": "se describen en",
+    "valor": "pacientes admitidos a la UCI"
+  },
+  {
+    "entidad": "APACHE II",
+    "relacion": "evalúa",
+    "valor": "gravedad de pacientes críticos"
+  },
+  {
+    "entidad": "ventilación mecánica",
+    "relacion": "es requerida por",
+    "valor": "92% de los pacientes"
+  },
+  {
+    "entidad": "mortalidad en UCI",
+    "relacion": "fue",
+    "valor": "19.4%"
+  },
+  {
+    "entidad": "mortalidad hospitalaria",
+    "relacion": "fue",
+    "valor": "31%"
+  },
+  {
+    "entidad": "diagnósticos de ingreso",
+    "relacion": "incluyen",
+    "valor": "sepsis severa, insuficiencia respiratoria, cuadros neurológicos críticos"
+  },
+  {
+    "entidad": "pacientes con sepsis severa",
+    "relacion": "tuvieron",
+    "valor": "la mayor mortalidad"
+  },
+  {
+    "entidad": "pacientes neurocríticos",
+    "relacion": "fueron",
+    "valor": "la principal causa de ingreso a UCI"
+  },
+  {
+    "entidad": "edad de pacientes",
+    "relacion": "promedio fue",
+    "valor": "54 años"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "fue aprobado por",
+    "valor": "Comité de Ética del Servicio de Salud Metropolitano Sur Oriente"
+  },
+  {
+    "entidad": "pacientes que sobrevivieron en UCI",
+    "relacion": "tuvieron",
+    "valor": "una mediana de estadía hospitalaria posterior de 16 días"
+  },
+  {
+    "entidad": "pacientes que fallecieron en hospital",
+    "relacion": "tuvieron",
+    "valor": "una mediana de estadía hospitalaria posterior de 16 días"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "destaca",
+    "valor": "alto porcentaje de pacientes con ventilación mecánica"
+  },
+  {
+    "entidad": "pacientes añosos",
+    "relacion": "aumentaron en",
+    "valor": "ingresos a UCI"
+  },
+  {
+    "entidad": "inmunosenescencia",
+    "relacion": "afecta a",
+    "valor": "pacientes mayores"
+  },
+  {
+    "entidad": "mortalidad post UCI",
+    "relacion": "fue",
+    "valor": "11.6%"
+  },
+  {
+    "entidad": "ejercicio físico intermitente de alta intensidad",
+    "relacion": "reduce",
+    "valor": "grasa corporal"
+  },
+  {
+    "entidad": "sujetos con sobrepeso u obesidad",
+    "relacion": "participan en",
+    "valor": "programa de ejercicio"
+  },
+  {
+    "entidad": "Centro de Investigación en Metabolismo, Ejercicio y Salud (CIEMETS)",
+    "relacion": "pertenece a",
+    "valor": "Universidad de La Frontera"
+  },
+  {
+    "entidad": "ejercicio de alta intensidad intermitente (HIIT)",
+    "relacion": "es una alternativa a",
+    "valor": "ejercicios de baja-moderada intensidad"
+  },
+  {
+    "entidad": "ejercicio intermitente",
+    "relacion": "induce",
+    "valor": "adaptaciones celulares en el músculo esquelético"
+  },
+  {
+    "entidad": "proteína sensora del estado energético celular (AMPK)",
+    "relacion": "es activada por",
+    "valor": "estrés energético inducido por el ejercicio"
+  },
+  {
+    "entidad": "ejercicio intermitente",
+    "relacion": "estimula",
+    "valor": "secreción de catecolaminas y péptido natriurético"
+  },
+  {
+    "entidad": "bioimpedancia",
+    "relacion": "se utiliza para medir",
+    "valor": "peso y grasa corporal"
+  },
+  {
+    "entidad": "nutricionista",
+    "relacion": "proporciona",
+    "valor": "asesoría nutricional"
+  },
+  {
+    "entidad": "ejercicio intermitente de alta intensidad",
+    "relacion": "asociado a",
+    "valor": "consejería nutricional"
+  },
+  {
+    "entidad": "masa grasa",
+    "relacion": "disminuye en",
+    "valor": "sujetos con sobrepeso u obesidad"
+  },
+  {
+    "entidad": "ejercicio físico regular",
+    "relacion": "es una estrategia para",
+    "valor": "reducción del peso y grasa corporal"
+  },
+  {
+    "entidad": "metodología de ejercicio intermitente de alta intensidad",
+    "relacion": "mejora",
+    "valor": "composición corporal"
+  },
+  {
+    "entidad": "ejercicio intermitente",
+    "relacion": "mejora",
+    "valor": "capacidad oxidativa de grasas"
+  },
+  {
+    "entidad": "ejercicio intermitente de alta intensidad",
+    "relacion": "produce",
+    "valor": "reducción significativa de masa grasa corporal"
+  },
+  {
+    "entidad": "hombres y mujeres",
+    "relacion": "experimentan",
+    "valor": "reducción de grasa corporal"
+  },
+  {
+    "entidad": "programa de ejercicio",
+    "relacion": "se desarrolla en",
+    "valor": "12 sesiones"
+  },
+  {
+    "entidad": "ejercicio intermitente",
+    "relacion": "es capaz de",
+    "valor": "restaurar funcionalidad alterada"
+  },
+  {
+    "entidad": "ejercicio intermitente",
+    "relacion": "incrementa",
+    "valor": "síntesis de proteínas"
+  },
+  {
+    "entidad": "ejercicio intermitente",
+    "relacion": "mejora",
+    "valor": "capacidad aeróbica"
+  },
+  {
+    "entidad": "ejercicio intermitente de alta intensidad",
+    "relacion": "asocia con",
+    "valor": "consejería nutricional"
+  },
+  {
+    "entidad": "Diabetes Mellitus tipo 2",
+    "relacion": "es",
+    "valor": "una enfermedad crónica no transmisible"
+  },
+  {
+    "entidad": "Departamento de Nutrición",
+    "relacion": "pertenece a",
+    "valor": "Facultad de Medicina, Universidad de Chile"
+  },
+  {
+    "entidad": "FONDECYT",
+    "relacion": "financia",
+    "valor": "el proyecto 1120323"
+  },
+  {
+    "entidad": "Tamara Leiva",
+    "relacion": "es",
+    "valor": "nutricionista"
+  },
+  {
+    "entidad": "Karen Basfi-fer",
+    "relacion": "es",
+    "valor": "nutricionista"
+  },
+  {
+    "entidad": "Pamela Rojas",
+    "relacion": "es",
+    "valor": "nutricionista"
+  },
+  {
+    "entidad": "Fernando Carrasco",
+    "relacion": "es",
+    "valor": "nutricionista"
+  },
+  {
+    "entidad": "Manuel Ruz",
+    "relacion": "es",
+    "valor": "tecnólogo médico"
+  },
+  {
+    "entidad": "fraccionamiento de la dieta",
+    "relacion": "afecta a",
+    "valor": "el control metabólico en pacientes con DM2"
+  },
+  {
+    "entidad": "ingesta de hidratos de carbono",
+    "relacion": "afecta a",
+    "valor": "el control metabólico en pacientes con DM2"
+  },
+  {
+    "entidad": "glicemia en ayuno",
+    "relacion": "es un",
+    "valor": "parámetro de control metabólico"
+  },
+  {
+    "entidad": "hemoglobina glicosilada (HbA1c)",
+    "relacion": "es un",
+    "valor": "parámetro de control metabólico"
+  },
+  {
+    "entidad": "ingesta energética",
+    "relacion": "se asocia con",
+    "valor": "frecuencia de comidas"
+  },
+  {
+    "entidad": "frecuencia de comidas",
+    "relacion": "se asocia con",
+    "valor": "ingesta energética"
+  },
+  {
+    "entidad": "glicemia en ayuno",
+    "relacion": "se correlaciona con",
+    "valor": "hemoglobina glicosilada (HbA1c)"
+  },
+  {
+    "entidad": "fraccionamiento de la dieta",
+    "relacion": "no se asocia con",
+    "valor": "mejor control metabólico"
+  },
+  {
+    "entidad": "ingesta de hidratos de carbono",
+    "relacion": "no se asocia con",
+    "valor": "mejor control metabólico"
+  },
+  {
+    "entidad": "glicemia en ayuno",
+    "relacion": "predice",
+    "valor": "cambios en hemoglobina glicosilada (HbA1c)"
+  },
+  {
+    "entidad": "American Diabetes Association (ADA)",
+    "relacion": "no presenta",
+    "valor": "recomendaciones sobre fraccionamiento de la dieta para DM2 no insulinorrequirientes"
+  },
+  {
+    "entidad": "guías canadienses",
+    "relacion": "recomiendan",
+    "valor": "mantener orden con los horarios de alimentación"
+  },
+  {
+    "entidad": "fraccionamiento",
+    "relacion": "se asocia con",
+    "valor": "mejoras en el perfil lipídico"
+  },
+  {
+    "entidad": "fraccionamiento",
+    "relacion": "se asocia con",
+    "valor": "concentraciones de insulina"
+  },
+  {
+    "entidad": "fraccionamiento",
+    "relacion": "no se asocia con",
+    "valor": "glicemia en ayuno"
+  },
+  {
+    "entidad": "fraccionamiento",
+    "relacion": "no se asocia con",
+    "valor": "hemoglobina glicosilada (HbA1c)"
+  },
+  {
+    "entidad": "bienestar psicológico",
+    "relacion": "está asociado con",
+    "valor": "participación en organizaciones"
+  },
+  {
+    "entidad": "adultos mayores",
+    "relacion": "se encuentran en",
+    "valor": "la región de Magallanes, Chile"
+  },
+  {
+    "entidad": "SENAMA",
+    "relacion": "impulsa",
+    "valor": "participación en organizaciones"
+  },
+  {
+    "entidad": "Escala de Bienestar Psicológico de Ryff",
+    "relacion": "se utiliza para evaluar",
+    "valor": "bienestar psicológico"
+  },
+  {
+    "entidad": "participación en organizaciones",
+    "relacion": "afecta a",
+    "valor": "relaciones positivas"
+  },
+  {
+    "entidad": "participación en organizaciones",
+    "relacion": "afecta a",
+    "valor": "crecimiento personal"
+  },
+  {
+    "entidad": "nivel de escolaridad",
+    "relacion": "se asocia con",
+    "valor": "crecimiento personal"
+  },
+  {
+    "entidad": "liderazgo en organizaciones",
+    "relacion": "está asociado con",
+    "valor": "mayor bienestar"
+  },
+  {
+    "entidad": "envejecimiento exitoso",
+    "relacion": "depende de",
+    "valor": "múltiples factores"
+  },
+  {
+    "entidad": "sociodemográficos",
+    "relacion": "incluyen",
+    "valor": "edad, estado civil, escolaridad"
+  },
+  {
+    "entidad": "bienestar",
+    "relacion": "se relaciona con",
+    "valor": "satisfacción general y felicidad"
+  },
+  {
+    "entidad": "actividades sociales",
+    "relacion": "mejoran",
+    "valor": "bienestar en la vejez"
+  },
+  {
+    "entidad": "redes sociales",
+    "relacion": "ofrecen",
+    "valor": "apoyo instrumental y emocional"
+  },
+  {
+    "entidad": "mujeres mayores",
+    "relacion": "tienen",
+    "valor": "menor percepción de bienestar que hombres"
+  },
+  {
+    "entidad": "participación social",
+    "relacion": "es un dominio",
+    "valor": "mejor evaluado en calidad de vida"
+  },
+  {
+    "entidad": "bienestar psicológico",
+    "relacion": "es influenciado por",
+    "valor": "participación en organizaciones"
+  },
+  {
+    "entidad": "personas mayores",
+    "relacion": "participan en",
+    "valor": "organizaciones comunitarias"
+  },
+  {
+    "entidad": "enfermedades",
+    "relacion": "no afectan",
+    "valor": "percepción de bienestar"
+  },
+  {
+    "entidad": "vivienda",
+    "relacion": "influye en",
+    "valor": "calidad de vida"
+  },
+  {
+    "entidad": "bienestar personal",
+    "relacion": "se relaciona con",
+    "valor": "gestión del tiempo libre"
+  },
+  {
+    "entidad": "CEMERA",
+    "relacion": "pertenece a",
+    "valor": "Facultad de Medicina de la Universidad de Chile"
+  },
+  {
+    "entidad": "Departamento de Medicina Legal",
+    "relacion": "pertenece a",
+    "valor": "Facultad de Medicina de la Universidad de Chile"
+  },
+  {
+    "entidad": "embarazo adolescente",
+    "relacion": "es un",
+    "valor": "problema psicosocial y multifactorial"
+  },
+  {
+    "entidad": "confidencialidad",
+    "relacion": "afecta a",
+    "valor": "continuidad y calidad de atención"
+  },
+  {
+    "entidad": "ley 20.418",
+    "relacion": "regula",
+    "valor": "información y prestaciones en regulación de la fertilidad"
+  },
+  {
+    "entidad": "profesionales de la salud",
+    "relacion": "experimenta",
+    "valor": "conflicto e inseguridad"
+  },
+  {
+    "entidad": "menores de 14 años",
+    "relacion": "requiere",
+    "valor": "atención en salud sexual y reproductiva"
+  },
+  {
+    "entidad": "denuncia de actividad sexual",
+    "relacion": "es un",
+    "valor": "situación compleja para profesionales"
+  },
+  {
+    "entidad": "atención de salud sexual y reproductiva",
+    "relacion": "es problemática debido a",
+    "valor": "marco legal confuso"
+  },
+  {
+    "entidad": "confidencialidad",
+    "relacion": "es un aspecto",
+    "valor": "esencial en la relación profesional-usuario"
+  },
+  {
+    "entidad": "miedo a represalias",
+    "relacion": "genera",
+    "valor": "inseguridad en el ejercicio profesional"
+  },
+  {
+    "entidad": "anticonceptivos",
+    "relacion": "deben ser entregados a",
+    "valor": "adolescentes"
+  },
+  {
+    "entidad": "profesionales de salud",
+    "relacion": "deben ser capacitados en",
+    "valor": "aspectos legales y técnicos"
+  },
+  {
+    "entidad": "marco legal",
+    "relacion": "impacta en",
+    "valor": "acceso a servicios de salud sexual y reproductiva"
+  },
+  {
+    "entidad": "confidencialidad",
+    "relacion": "facilita",
+    "valor": "acceso a centros de salud"
+  },
+  {
+    "entidad": "menores de 14 años",
+    "relacion": "son considerados",
+    "valor": "grupo vulnerable"
+  },
+  {
+    "entidad": "profesionales de salud",
+    "relacion": "deben evaluar",
+    "valor": "casos de abuso sexual"
+  },
+  {
+    "entidad": "confidencialidad",
+    "relacion": "puede ser vista como",
+    "valor": "encubrimiento de delito sexual infantil"
+  },
+  {
+    "entidad": "Síndrome metabólico",
+    "relacion": "es",
+    "valor": "una patología que agrupa distintos factores de riesgo cardiovascular"
+  },
+  {
+    "entidad": "Síndrome metabólico",
+    "relacion": "afecta a",
+    "valor": "27,5% de las personas entre 25 y 44 años en Chile"
+  },
+  {
+    "entidad": "obesidad central",
+    "relacion": "asocia a",
+    "valor": "un estado de inflamación crónica"
+  },
+  {
+    "entidad": "proteína C reactiva",
+    "relacion": "se sintetiza en",
+    "valor": "el hígado"
+  },
+  {
+    "entidad": "proteína C reactiva",
+    "relacion": "indica",
+    "valor": "inflamación"
+  },
+  {
+    "entidad": "síndrome metabólico",
+    "relacion": "se relaciona con",
+    "valor": "inflamación"
+  },
+  {
+    "entidad": "C reactive protein",
+    "relacion": "es un",
+    "valor": "marcador de inflamación"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen niveles de",
+    "valor": "PCR más altos que hombres"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "tienen una asociación significativa entre",
+    "valor": "síndrome metabólico y PCR elevada"
+  },
+  {
+    "entidad": "triglicéridos elevados",
+    "relacion": "asocian con",
+    "valor": "inflamación en hombres"
+  },
+  {
+    "entidad": "perímetro de cintura elevado",
+    "relacion": "asocia con",
+    "valor": "PCR elevada en hombres"
+  },
+  {
+    "entidad": "abdominal obesity",
+    "relacion": "asocia con",
+    "valor": "PCR muy alta en mujeres"
+  },
+  {
+    "entidad": "estudio poblacional",
+    "relacion": "fue realizado por",
+    "valor": "Dra. Patricia Bustos y colaboradores"
+  },
+  {
+    "entidad": "Fondecyt",
+    "relacion": "financia",
+    "valor": "el proyecto N° 1100414"
+  },
+  {
+    "entidad": "Universidad de Chile",
+    "relacion": "es",
+    "valor": "la institución donde se realizó el estudio"
+  },
+  {
+    "entidad": "Comité de Ética de la Facultad de Medicina de la Universidad de Chile",
+    "relacion": "aprueba",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "nivel socioeconómico",
+    "relacion": "se utiliza como",
+    "valor": "variable de ajuste"
+  },
+  {
+    "entidad": "encuestas socioeconómicas",
+    "relacion": "se utilizan para",
+    "valor": "obtener información sobre la población estudiada"
+  },
+  {
+    "entidad": "hombres adultos de mediana edad",
+    "relacion": "son el grupo en riesgo de",
+    "valor": "síndrome metabólico"
+  },
+  {
+    "entidad": "Trombolisis intravenosa (TIV)",
+    "relacion": "es",
+    "valor": "terapia aprobada para ataque cerebrovascular isquémico (ACVi) agudo"
+  },
+  {
+    "entidad": "Trombolisis intravenosa (TIV)",
+    "relacion": "aumenta",
+    "valor": "oportunidad de tener mínimas o ninguna secuela"
+  },
+  {
+    "entidad": "Trombolisis intravenosa (TIV)",
+    "relacion": "es",
+    "valor": "tiempo dependiente"
+  },
+  {
+    "entidad": "cuadros imitadores de isquemia cerebral (CIMIC)",
+    "relacion": "son",
+    "valor": "frecuentes en servicios de urgencia"
+  },
+  {
+    "entidad": "tiempo puerta aguja",
+    "relacion": "debe ser",
+    "valor": "menor a 60 minutos"
+  },
+  {
+    "entidad": "pacientes con CIMIC",
+    "relacion": "reciben",
+    "valor": "tratamiento TIV ocasionalmente"
+  },
+  {
+    "entidad": "tratamiento TIV",
+    "relacion": "no está asociado con",
+    "valor": "complicaciones hemorrágicas"
+  },
+  {
+    "entidad": "pronóstico de pacientes con CIMIC tratados con TIV",
+    "relacion": "es",
+    "valor": "favorable a los 3 meses"
+  },
+  {
+    "entidad": "Servicio de Neurología",
+    "relacion": "pertenece a",
+    "valor": "Clínica Alemana de Santiago"
+  },
+  {
+    "entidad": "Clínica Alemana de Santiago",
+    "relacion": "es parte de",
+    "valor": "Facultad de Medicina Clínica Alemana-Universidad del Desarrollo"
+  },
+  {
+    "entidad": "Registro de Enfermedades Cerebrovasculares de Clínica Alemana (RECCA)",
+    "relacion": "es",
+    "valor": "prospectivo"
+  },
+  {
+    "entidad": "hemorragia cerebral sintomática",
+    "relacion": "se define como",
+    "valor": "presencia de hemorragia cerebral asociada a deterioro clínico"
+  },
+  {
+    "entidad": "estado funcional del paciente",
+    "relacion": "se evalúa con",
+    "valor": "escala de Rankin modificada (mRS)"
+  },
+  {
+    "entidad": "pacientes independientes",
+    "relacion": "tienen",
+    "valor": "puntaje mRS de 0 a 2"
+  },
+  {
+    "entidad": "pacientes dependientes",
+    "relacion": "tienen",
+    "valor": "puntajes de 3 a 5"
+  },
+  {
+    "entidad": "CIMIC",
+    "relacion": "representan",
+    "valor": "entre 5 y 30% de pacientes inicialmente catalogados como ACVi"
+  },
+  {
+    "entidad": "tiempo puerta aguja",
+    "relacion": "es importante para",
+    "valor": "la efectividad de TIV"
+  },
+  {
+    "entidad": "CIMIC",
+    "relacion": "pueden ser explicados por",
+    "valor": "cuadro médico distinto a ACVi"
+  },
+  {
+    "entidad": "angiografía coronaria por tomografía computarizada",
+    "relacion": "es",
+    "valor": "método de diagnóstico no invasivo"
+  },
+  {
+    "entidad": "anomalías coronarias",
+    "relacion": "son",
+    "valor": "patologías cardiovasculares poco frecuentes"
+  },
+  {
+    "entidad": "anomalías coronarias",
+    "relacion": "pueden causar",
+    "valor": "muerte súbita"
+  },
+  {
+    "entidad": "angiografía coronaria por tomografía computarizada",
+    "relacion": "permite",
+    "valor": "diferenciación entre variantes benignas y malignas"
+  },
+  {
+    "entidad": "angiografía coronaria por tomografía computarizada",
+    "relacion": "es",
+    "valor": "técnica de elección para evaluación de anomalías coronarias"
+  },
+  {
+    "entidad": "angiografía coronaria invasiva",
+    "relacion": "era",
+    "valor": "método principal de diagnóstico de anomalías coronarias"
+  },
+  {
+    "entidad": "angiografía coronaria por tomografía computarizada",
+    "relacion": "tiene",
+    "valor": "alta precisión y eficacia diagnóstica"
+  },
+  {
+    "entidad": "pacientes con anomalías coronarias malignas",
+    "relacion": "requieren",
+    "valor": "tratamiento de revascularización coronaria quirúrgica"
+  },
+  {
+    "entidad": "angioplastía coronaria",
+    "relacion": "puede ser",
+    "valor": "alternativa a cirugía en ciertos casos"
+  },
+  {
+    "entidad": "anomalías coronarias",
+    "relacion": "se clasifican en",
+    "valor": "anomalía del origen, trayecto y terminación de arterias coronarias"
+  },
+  {
+    "entidad": "angiografía coronaria por tomografía computarizada",
+    "relacion": "es superior a",
+    "valor": "angiografía coronaria invasiva para determinar origen y trayecto del vaso anómalo"
+  },
+  {
+    "entidad": "pacientes jóvenes con sintomatología cardiaca",
+    "relacion": "son evaluados con",
+    "valor": "angiografía coronaria por tomografía computarizada"
+  },
+  {
+    "entidad": "angiografía coronaria por tomografía computarizada",
+    "relacion": "identifica",
+    "valor": "origen y trayecto del vaso anómalo"
+  },
+  {
+    "entidad": "anomalías coronarias benignas",
+    "relacion": "pueden ser",
+    "valor": "variantes de normalidad"
+  },
+  {
+    "entidad": "muerte súbita",
+    "relacion": "puede ser causada por",
+    "valor": "anomalías coronarias malignas"
+  },
+  {
+    "entidad": "angiografía coronaria por tomografía computarizada",
+    "relacion": "transforma en",
+    "valor": "método de diagnóstico ideal para anomalías coronarias"
+  }
+]

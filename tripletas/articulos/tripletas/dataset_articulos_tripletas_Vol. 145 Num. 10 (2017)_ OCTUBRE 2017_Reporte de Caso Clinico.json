@@ -1,0 +1,367 @@
+[
+  {
+    "entidad": "Endocarditis marántica",
+    "relacion": "es un tipo de",
+    "valor": "endocarditis no bacteriana"
+  },
+  {
+    "entidad": "Endocarditis marántica",
+    "relacion": "se caracteriza por",
+    "valor": "vegetaciones formadas por fibrina y material celular"
+  },
+  {
+    "entidad": "Endocarditis marántica",
+    "relacion": "está relacionada con",
+    "valor": "tumores y estados inflamatorios crónicos"
+  },
+  {
+    "entidad": "Cáncer de páncreas",
+    "relacion": "puede causar",
+    "valor": "endocarditis marántica"
+  },
+  {
+    "entidad": "Mujer de 49 años",
+    "relacion": "presenta",
+    "valor": "síntomas de endocarditis marántica"
+  },
+  {
+    "entidad": "Mujer de 49 años",
+    "relacion": "tiene antecedentes de",
+    "valor": "pérdida de peso y astenia"
+  },
+  {
+    "entidad": "Cerebro",
+    "relacion": "puede ser afectado por",
+    "valor": "infartos cerebrales múltiples"
+  },
+  {
+    "entidad": "Hemocultivos",
+    "relacion": "fueron",
+    "valor": "negativos"
+  },
+  {
+    "entidad": "Ecocardiografía transesofágica",
+    "relacion": "es el método de elección para",
+    "valor": "diagnóstico de vegetaciones en endocarditis"
+  },
+  {
+    "entidad": "Antibióticos",
+    "relacion": "no mejoraron",
+    "valor": "la condición clínica de la paciente"
+  },
+  {
+    "entidad": "Anticoagulación sistémica",
+    "relacion": "es parte del tratamiento para",
+    "valor": "endocarditis marántica"
+  },
+  {
+    "entidad": "Neoplasia maligna",
+    "relacion": "puede causar",
+    "valor": "estado de hipercoagulabilidad"
+  },
+  {
+    "entidad": "Endocarditis marántica",
+    "relacion": "puede ser mortal debido a",
+    "valor": "complicaciones como embolia cerebral"
+  },
+  {
+    "entidad": "Cáncer",
+    "relacion": "aumenta el riesgo de",
+    "valor": "eventos tromboembólicos"
+  },
+  {
+    "entidad": "Anticoagulantes",
+    "relacion": "no deben ser utilizados en",
+    "valor": "pacientes con endocarditis marántica y neoplasia"
+  },
+  {
+    "entidad": "Cirugía de recambio valvular",
+    "relacion": "puede ser indicada en",
+    "valor": "insuficiencia valvular grave"
+  },
+  {
+    "entidad": "Pronóstico",
+    "relacion": "depende de",
+    "valor": "la efectividad del tratamiento de la neoplasia primaria"
+  },
+  {
+    "entidad": "Enteritis lúpica",
+    "relacion": "es una",
+    "valor": "manifestación inicial de lupus eritematoso sistémico"
+  },
+  {
+    "entidad": "Lupus eritematoso sistémico",
+    "relacion": "es",
+    "valor": "una enfermedad inflamatoria autoinmune"
+  },
+  {
+    "entidad": "Enteritis lúpica",
+    "relacion": "provoca",
+    "valor": "inflamación de la pared intestinal"
+  },
+  {
+    "entidad": "Complejos inmunes",
+    "relacion": "provocan",
+    "valor": "activación del complemento"
+  },
+  {
+    "entidad": "Tomografía axial computada (TAC)",
+    "relacion": "es",
+    "valor": "la herramienta más útil para diagnosticar enteritis lúpica"
+  },
+  {
+    "entidad": "Enteritis lúpica",
+    "relacion": "requiere",
+    "valor": "alto índice de sospecha"
+  },
+  {
+    "entidad": "Metilprednisolona",
+    "relacion": "es un",
+    "valor": "tratamiento para enteritis lúpica"
+  },
+  {
+    "entidad": "Prednisona",
+    "relacion": "es un",
+    "valor": "tratamiento para enteritis lúpica"
+  },
+  {
+    "entidad": "Lupus eritematoso sistémico",
+    "relacion": "se presenta con",
+    "valor": "una variedad de manifestaciones clínicas"
+  },
+  {
+    "entidad": "Enteritis lúpica",
+    "relacion": "puede causar",
+    "valor": "complicaciones graves como infarto y perforación intestinal"
+  },
+  {
+    "entidad": "Factores predictores",
+    "relacion": "asocian con",
+    "valor": "mal pronóstico en enteritis lúpica"
+  },
+  {
+    "entidad": "Ciclofosfamida",
+    "relacion": "puede ser utilizada en",
+    "valor": "casos corticoide-resistentes"
+  },
+  {
+    "entidad": "Micofenolato",
+    "relacion": "tiene",
+    "valor": "mejor perfil de seguridad en enteritis lúpica"
+  },
+  {
+    "entidad": "Tacrolimus",
+    "relacion": "ha mostrado ser",
+    "valor": "eficaz en casos refractarios"
+  },
+  {
+    "entidad": "Pronóstico",
+    "relacion": "es",
+    "valor": "bueno en enteritis lúpica"
+  },
+  {
+    "entidad": "Enteritis lúpica",
+    "relacion": "es",
+    "valor": "una forma infrecuente de presentación de LES"
+  },
+  {
+    "entidad": "Diagnóstico",
+    "relacion": "requiere",
+    "valor": "un alto índice de sospecha"
+  },
+  {
+    "entidad": "Escleroterapia endoscópica asistida mediante balón oclusivo",
+    "relacion": "es un",
+    "valor": "tratamiento de varices gástricas cardiofúndicas"
+  },
+  {
+    "entidad": "varices gástricas cardiofúndicas",
+    "relacion": "causa",
+    "valor": "hemorragia digestiva alta"
+  },
+  {
+    "entidad": "cirrosis",
+    "relacion": "induce",
+    "valor": "desarrollo de colaterales porto-sistémicas"
+  },
+  {
+    "entidad": "varices gastroesofágicas",
+    "relacion": "son tratadas mediante",
+    "valor": "ligadura a nivel esofágico"
+  },
+  {
+    "entidad": "varices cardiofúndicas",
+    "relacion": "pueden sangrar a",
+    "valor": "presiones portales inferiores"
+  },
+  {
+    "entidad": "obliteración retrógrada con balón (BRTO)",
+    "relacion": "es una",
+    "valor": "técnica endovascular para tratar varices gástricas"
+  },
+  {
+    "entidad": "cianoacrilato",
+    "relacion": "es un",
+    "valor": "esclerosante utilizado en varices gástricas"
+  },
+  {
+    "entidad": "TIPS",
+    "relacion": "es una",
+    "valor": "opción de tratamiento para hemorragia digestiva"
+  },
+  {
+    "entidad": "BO-EIS",
+    "relacion": "es equivalente a",
+    "valor": "BRTO en términos de eficacia"
+  },
+  {
+    "entidad": "varices esofágicas",
+    "relacion": "tienen mayor riesgo de",
+    "valor": "sangrado que varices gástricas cardiofúndicas"
+  },
+  {
+    "entidad": "ascitis",
+    "relacion": "es una",
+    "valor": "complicación asociada a cirrosis"
+  },
+  {
+    "entidad": "encefalopatía hepática",
+    "relacion": "es una",
+    "valor": "complicación de la cirrosis"
+  },
+  {
+    "entidad": "Hospital Clínico Universidad de Chile",
+    "relacion": "es un",
+    "valor": "centro de tratamiento"
+  },
+  {
+    "entidad": "Clínica Santa María",
+    "relacion": "es un",
+    "valor": "centro de tratamiento"
+  },
+  {
+    "entidad": "Jaime Poniachik Teller",
+    "relacion": "es el",
+    "valor": "autor de correspondencia"
+  },
+  {
+    "entidad": "gastro-renal shunt",
+    "relacion": "es un",
+    "valor": "tipo de colateral en hipertensión portal"
+  },
+  {
+    "entidad": "endoscopia digestiva alta",
+    "relacion": "es un",
+    "valor": "procedimiento diagnóstico"
+  },
+  {
+    "entidad": "terlipresina",
+    "relacion": "es un",
+    "valor": "tratamiento para hemorragia digestiva"
+  },
+  {
+    "entidad": "endosonografía",
+    "relacion": "es un",
+    "valor": "procedimiento de seguimiento post-tratamiento"
+  },
+  {
+    "entidad": "cianoacrilato",
+    "relacion": "presenta complicaciones como",
+    "valor": "embolia cerebral y pulmonar"
+  },
+  {
+    "entidad": "BO-EIS",
+    "relacion": "utiliza",
+    "valor": "menor volumen de esclerosante que BRTO"
+  },
+  {
+    "entidad": "BO-EIS",
+    "relacion": "no produce",
+    "valor": "progresión de varices esofágicas"
+  },
+  {
+    "entidad": "BO-EIS",
+    "relacion": "puede realizarse en",
+    "valor": "ausencia de shunt gastrorrenal"
+  },
+  {
+    "entidad": "Linfoma difuso de células grandes B",
+    "relacion": "aparece en",
+    "valor": "paciente con colitis ulcerosa"
+  },
+  {
+    "entidad": "Colitis ulcerosa",
+    "relacion": "es una",
+    "valor": "enfermedad inflamatoria intestinal"
+  },
+  {
+    "entidad": "Azatioprina",
+    "relacion": "es un",
+    "valor": "tratamiento para colitis ulcerosa"
+  },
+  {
+    "entidad": "Infliximab",
+    "relacion": "es un",
+    "valor": "tratamiento para colitis ulcerosa"
+  },
+  {
+    "entidad": "Linfoma no-Hodgkin",
+    "relacion": "es un tipo de",
+    "valor": "linfoma"
+  },
+  {
+    "entidad": "RCHOP",
+    "relacion": "es un",
+    "valor": "esquema de quimioterapia"
+  },
+  {
+    "entidad": "Virus de Epstein Barr",
+    "relacion": "está presente en",
+    "valor": "células tumorales"
+  },
+  {
+    "entidad": "Linfoma primario colorrectal",
+    "relacion": "es",
+    "valor": "poco frecuente"
+  },
+  {
+    "entidad": "Quimioterapia",
+    "relacion": "se utiliza para",
+    "valor": "tratar linfoma"
+  },
+  {
+    "entidad": "Mesalazina",
+    "relacion": "es un",
+    "valor": "tratamiento para colitis ulcerosa"
+  },
+  {
+    "entidad": "PET/CT",
+    "relacion": "se utiliza para",
+    "valor": "evaluar linfoma"
+  },
+  {
+    "entidad": "Colonoscopía",
+    "relacion": "se utiliza para",
+    "valor": "diagnosticar linfoma"
+  },
+  {
+    "entidad": "Inflamación crónica",
+    "relacion": "puede promover",
+    "valor": "células precursoras del linfoma"
+  },
+  {
+    "entidad": "Inmunosupresión",
+    "relacion": "es un factor de riesgo para",
+    "valor": "desarrollo de linfoma"
+  },
+  {
+    "entidad": "Tratamiento con tiopurínicos",
+    "relacion": "se asocia a",
+    "valor": "riesgo de linfoma"
+  },
+  {
+    "entidad": "Estadio del linfoma",
+    "relacion": "determina",
+    "valor": "pronóstico y sobrevida del paciente"
+  }
+]

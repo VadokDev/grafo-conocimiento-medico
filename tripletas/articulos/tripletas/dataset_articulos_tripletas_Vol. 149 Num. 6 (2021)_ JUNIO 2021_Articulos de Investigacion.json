@@ -1,0 +1,702 @@
+[
+  {
+    "entidad": "cesárea",
+    "relacion": "aumenta",
+    "valor": "riesgo de tromboembolismo venoso"
+  },
+  {
+    "entidad": "Royal College of Obstetricians and Gynecologists",
+    "relacion": "proporciona",
+    "valor": "guías de tromboprofilaxis"
+  },
+  {
+    "entidad": "alerta escrita",
+    "relacion": "mejora",
+    "valor": "adherencia a tromboprofilaxis"
+  },
+  {
+    "entidad": "tromboprofilaxis",
+    "relacion": "es recomendada para",
+    "valor": "pacientes con alto riesgo"
+  },
+  {
+    "entidad": "tromboprofilaxis",
+    "relacion": "es un tema de",
+    "valor": "controversia"
+  },
+  {
+    "entidad": "tromboprofilaxis farmacológica",
+    "relacion": "debe ser considerada para",
+    "valor": "mujeres con cesárea de emergencia"
+  },
+  {
+    "entidad": "tromboprofilaxis",
+    "relacion": "se basa en",
+    "valor": "opinión de expertos"
+  },
+  {
+    "entidad": "mujeres sometidas a cesárea",
+    "relacion": "tienen",
+    "valor": "baja adherencia a guías de tromboprofilaxis"
+  },
+  {
+    "entidad": "tromboprofilaxis farmacológica",
+    "relacion": "puede reducir",
+    "valor": "incidencia de tromboembolismo venoso"
+  },
+  {
+    "entidad": "tromboprofilaxis",
+    "relacion": "se asocia con",
+    "valor": "mayor tasa de complicaciones trombóticas"
+  },
+  {
+    "entidad": "tromboprofilaxis",
+    "relacion": "es utilizada en",
+    "valor": "embarazo y puerperio"
+  },
+  {
+    "entidad": "cesárea de emergencia",
+    "relacion": "es considerada",
+    "valor": "factor de riesgo intermedio"
+  },
+  {
+    "entidad": "tromboprofilaxis",
+    "relacion": "se sugiere en",
+    "valor": "guías del ACOG"
+  },
+  {
+    "entidad": "tromboprofilaxis",
+    "relacion": "debe ser evaluada en",
+    "valor": "mujeres con factores de riesgo"
+  },
+  {
+    "entidad": "alerta escrita",
+    "relacion": "aumenta",
+    "valor": "proporción de pacientes que reciben tromboprofilaxis"
+  },
+  {
+    "entidad": "tromboprofilaxis",
+    "relacion": "debe ser implementada en",
+    "valor": "todas las cesáreas"
+  },
+  {
+    "entidad": "tromboprofilaxis",
+    "relacion": "es recomendada por",
+    "valor": "guías del RCOG"
+  },
+  {
+    "entidad": "tromboprofilaxis",
+    "relacion": "es discutida en",
+    "valor": "la literatura médica"
+  },
+  {
+    "entidad": "tromboprofilaxis",
+    "relacion": "se asocia con",
+    "valor": "mejor calidad de vida"
+  },
+  {
+    "entidad": "tromboprofilaxis",
+    "relacion": "es un tema de",
+    "valor": "interés en la salud materna"
+  },
+  {
+    "entidad": "gestión de episodios críticos",
+    "relacion": "contribuye a",
+    "valor": "reducción de enfermedades respiratorias"
+  },
+  {
+    "entidad": "Los Ángeles",
+    "relacion": "tiene",
+    "valor": "alta concentración de material particulado respirable (MP10)"
+  },
+  {
+    "entidad": "Chillán",
+    "relacion": "tiene",
+    "valor": "alta concentración de material particulado respirable (MP10)"
+  },
+  {
+    "entidad": "emisiones de MP2,5",
+    "relacion": "son causadas por",
+    "valor": "combustión de leña residencial"
+  },
+  {
+    "entidad": "Ministerio del Medio Ambiente",
+    "relacion": "reporta",
+    "valor": "85,2% de las emisiones de MP2,5 en 2017"
+  },
+  {
+    "entidad": "planes de descontaminación",
+    "relacion": "implementan",
+    "valor": "gestión de episodios críticos"
+  },
+  {
+    "entidad": "gestión de episodios críticos",
+    "relacion": "permite",
+    "valor": "pronosticar concentraciones de contaminantes"
+  },
+  {
+    "entidad": "alerta ambiental",
+    "relacion": "prohíbe",
+    "valor": "funcionamiento de calderas con alta emisión de MP"
+  },
+  {
+    "entidad": "pre-emergencia ambiental",
+    "relacion": "prohíbe",
+    "valor": "funcionamiento de calderas industriales con alta emisión de MP"
+  },
+  {
+    "entidad": "emergencia ambiental",
+    "relacion": "prohíbe",
+    "valor": "uso de leña para calefacción residencial"
+  },
+  {
+    "entidad": "gestión de episodios críticos",
+    "relacion": "reduce",
+    "valor": "atenciones de urgencia por enfermedades respiratorias"
+  },
+  {
+    "entidad": "MP10",
+    "relacion": "aumenta",
+    "valor": "atenciones de urgencia por IRA Alta"
+  },
+  {
+    "entidad": "MP10",
+    "relacion": "aumenta",
+    "valor": "atenciones de urgencia por crisis obstructiva bronquial (COB)"
+  },
+  {
+    "entidad": "MP10",
+    "relacion": "aumenta",
+    "valor": "atenciones de urgencia por otras causas respiratorias (OCR)"
+  },
+  {
+    "entidad": "Los Ángeles",
+    "relacion": "registra",
+    "valor": "más atenciones de urgencia por enfermedades respiratorias que Chillán"
+  },
+  {
+    "entidad": "emergencia ambiental",
+    "relacion": "reduce",
+    "valor": "atenciones de urgencia por IRA Alta"
+  },
+  {
+    "entidad": "emergencia ambiental",
+    "relacion": "reduce",
+    "valor": "atenciones de urgencia por OCR"
+  },
+  {
+    "entidad": "alerta ambiental",
+    "relacion": "reduce",
+    "valor": "atenciones de urgencia por COB en Chillán"
+  },
+  {
+    "entidad": "contaminación intradomiciliaria",
+    "relacion": "puede afectar",
+    "valor": "resultados de salud respiratoria"
+  },
+  {
+    "entidad": "composición del MP10",
+    "relacion": "puede variar entre",
+    "valor": "ciudades"
+  },
+  {
+    "entidad": "adiposidad",
+    "relacion": "es un",
+    "valor": "factor de riesgo para diabetes mellitus tipo 2"
+  },
+  {
+    "entidad": "nivel educacional",
+    "relacion": "es un",
+    "valor": "factor de riesgo para diabetes mellitus tipo 2"
+  },
+  {
+    "entidad": "diabetes mellitus tipo 2",
+    "relacion": "afecta a",
+    "valor": "población chilena"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud 2016-2017",
+    "relacion": "proporciona",
+    "valor": "datos sobre salud en Chile"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "aumenta",
+    "valor": "probabilidad de diabetes mellitus tipo 2"
+  },
+  {
+    "entidad": "bajo nivel educacional",
+    "relacion": "aumenta",
+    "valor": "probabilidad de diabetes mellitus tipo 2"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "son más vulnerables a",
+    "valor": "diabetes mellitus tipo 2 en comparación con hombres"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "presentan",
+    "valor": "mayor probabilidad de diabetes mellitus tipo 2 asociada a obesidad"
+  },
+  {
+    "entidad": "obesidad central",
+    "relacion": "aumenta",
+    "valor": "probabilidad de diabetes mellitus tipo 2 en mujeres"
+  },
+  {
+    "entidad": "población chilena",
+    "relacion": "presenta",
+    "valor": "alta prevalencia de diabetes mellitus tipo 2"
+  },
+  {
+    "entidad": "estrategias de prevención",
+    "relacion": "deben incluir",
+    "valor": "educación para personas de bajo nivel educacional"
+  },
+  {
+    "entidad": "inequidad en educación",
+    "relacion": "es un",
+    "valor": "factor relevante para diabetes mellitus tipo 2"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "puede ser atribuida a",
+    "valor": "desigualdades económicas"
+  },
+  {
+    "entidad": "mujeres con bajo nivel educacional",
+    "relacion": "tienen",
+    "valor": "mayor riesgo de diabetes mellitus tipo 2"
+  },
+  {
+    "entidad": "políticas públicas",
+    "relacion": "deben enfocarse en",
+    "valor": "reducción de obesidad y sedentarismo"
+  },
+  {
+    "entidad": "carga académica",
+    "relacion": "afecta a",
+    "valor": "desempeño académico de estudiantes"
+  },
+  {
+    "entidad": "carga académica",
+    "relacion": "causa",
+    "valor": "rezago académico"
+  },
+  {
+    "entidad": "carga académica",
+    "relacion": "causa",
+    "valor": "problemas de salud mental"
+  },
+  {
+    "entidad": "estudiantes de carreras de la salud",
+    "relacion": "son propensos a",
+    "valor": "afecciones asociadas a la carga académica"
+  },
+  {
+    "entidad": "carga académica",
+    "relacion": "se mide mediante",
+    "valor": "instrumento de medición"
+  },
+  {
+    "entidad": "instrumento de medición",
+    "relacion": "diseñado para",
+    "valor": "medir carga académica real y percibida"
+  },
+  {
+    "entidad": "Facultad de Medicina de la Universidad de Chile",
+    "relacion": "contextualiza",
+    "valor": "proceso de revisión y actualización curricular"
+  },
+  {
+    "entidad": "Sistema de Créditos Transferibles (SCT)",
+    "relacion": "implementado en",
+    "valor": "2006"
+  },
+  {
+    "entidad": "carga académica real",
+    "relacion": "refleja",
+    "valor": "discrepancia con carga académica declarada"
+  },
+  {
+    "entidad": "carga académica percibida",
+    "relacion": "influenciada por",
+    "valor": "factores interrelacionados"
+  },
+  {
+    "entidad": "instrumento de medición",
+    "relacion": "valido por",
+    "valor": "14 expertos"
+  },
+  {
+    "entidad": "carga académica",
+    "relacion": "se considera relevante para",
+    "valor": "gestión de planes de formación"
+  },
+  {
+    "entidad": "carga académica",
+    "relacion": "se mide a través de",
+    "valor": "cuestionario autoaplicado"
+  },
+  {
+    "entidad": "cuestionario",
+    "relacion": "consta de",
+    "valor": "dos secciones"
+  },
+  {
+    "entidad": "carga académica",
+    "relacion": "contribuye a",
+    "valor": "toma de decisiones en educación en salud"
+  },
+  {
+    "entidad": "carga académica",
+    "relacion": "se relaciona con",
+    "valor": "sobre carga académica"
+  },
+  {
+    "entidad": "carga académica percibida",
+    "relacion": "debe ser considerada en",
+    "valor": "evaluación de aprendizaje"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "causa",
+    "valor": "disminución de funcionalidad del miembro superior"
+  },
+  {
+    "entidad": "estudiantes universitarios chilenos",
+    "relacion": "presentan",
+    "valor": "disminución de funcionalidad del miembro superior"
+  },
+  {
+    "entidad": "dolor",
+    "relacion": "asociado a",
+    "valor": "menor funcionalidad del miembro superior"
+  },
+  {
+    "entidad": "lesión",
+    "relacion": "asociado a",
+    "valor": "menor funcionalidad del miembro superior"
+  },
+  {
+    "entidad": "bajo peso",
+    "relacion": "asociado a",
+    "valor": "menor funcionalidad del miembro superior"
+  },
+  {
+    "entidad": "cuarentena de 5 o más semanas",
+    "relacion": "asociado a",
+    "valor": "menor funcionalidad del miembro superior"
+  },
+  {
+    "entidad": "lesión de columna",
+    "relacion": "asociado a",
+    "valor": "menor funcionalidad del miembro superior"
+  },
+  {
+    "entidad": "sexo masculino",
+    "relacion": "asociado a",
+    "valor": "menor probabilidad de disminución de funcionalidad del miembro superior"
+  },
+  {
+    "entidad": "condición muscular moderada/alta",
+    "relacion": "asociado a",
+    "valor": "menor probabilidad de disminución de funcionalidad del miembro superior"
+  },
+  {
+    "entidad": "Núcleo de Investigación Interdisciplinario en Salud (NIIS)",
+    "relacion": "desarrolla",
+    "valor": "instrumentos de evaluación"
+  },
+  {
+    "entidad": "Universidad Santo Tomás",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "funcionalidad del miembro superior",
+    "relacion": "indicador de",
+    "valor": "discapacidad y limitaciones de actividad"
+  },
+  {
+    "entidad": "estilos de vida no saludables",
+    "relacion": "promovidos por",
+    "valor": "uso excesivo de pantallas"
+  },
+  {
+    "entidad": "evaluación de funcionalidad",
+    "relacion": "puede ser",
+    "valor": "un buen indicador de discapacidad"
+  },
+  {
+    "entidad": "auto-reporte de calidad de sueño",
+    "relacion": "medido por",
+    "valor": "cuestionario Sleep Self-Report"
+  },
+  {
+    "entidad": "estado nutricional",
+    "relacion": "calculado a partir de",
+    "valor": "índice de masa corporal (IMC)"
+  },
+  {
+    "entidad": "analgesia",
+    "relacion": "asociada con",
+    "valor": "mejores resultados en pacientes críticos"
+  },
+  {
+    "entidad": "sedación",
+    "relacion": "asociada con",
+    "valor": "mejores resultados en pacientes críticos"
+  },
+  {
+    "entidad": "bloqueadores neuromusculares",
+    "relacion": "asociada con",
+    "valor": "mejores resultados en pacientes críticos"
+  },
+  {
+    "entidad": "delirium",
+    "relacion": "impacta en",
+    "valor": "pronóstico cognitivo y funcional"
+  },
+  {
+    "entidad": "estrategias farmacológicas y no farmacológicas",
+    "relacion": "pueden reducir",
+    "valor": "riesgos y complicaciones del delirium"
+  },
+  {
+    "entidad": "Sociedad Chilena de Medicina Intensiva (SOCHIMI)",
+    "relacion": "lidera",
+    "valor": "proyecto para recomendaciones nacionales"
+  },
+  {
+    "entidad": "encuesta electrónica",
+    "relacion": "aplicada a",
+    "valor": "profesionales de salud en UCI de adultos en Chile"
+  },
+  {
+    "entidad": "delirium",
+    "relacion": "evaluado por",
+    "valor": "48% de los encuestados"
+  },
+  {
+    "entidad": "escala CAM-ICU",
+    "relacion": "usada para",
+    "valor": "evaluar delirium"
+  },
+  {
+    "entidad": "protocolos de sedación",
+    "relacion": "existen en",
+    "valor": "73% de las unidades"
+  },
+  {
+    "entidad": "fármacos para manejo de delirium",
+    "relacion": "incluyen",
+    "valor": "antipsicóticos atípicos, dexmedetomidina, haloperidol"
+  },
+  {
+    "entidad": "médicos",
+    "relacion": "tienen mayor percepción de",
+    "valor": "implementación de protocolos"
+  },
+  {
+    "entidad": "enfermeras",
+    "relacion": "participan mayoritariamente en",
+    "valor": "visitas interprofesionales"
+  },
+  {
+    "entidad": "protocolo escrito",
+    "relacion": "favorecería",
+    "valor": "cumplimiento de prácticas"
+  },
+  {
+    "entidad": "conocimiento sobre delirium",
+    "relacion": "es considerado como",
+    "valor": "subdiagnosticado por 90% de los encuestados"
+  },
+  {
+    "entidad": "barreras para implementación de PNFD",
+    "relacion": "incluyen",
+    "valor": "poca conciencia y escaso conocimiento"
+  },
+  {
+    "entidad": "años de práctica profesional",
+    "relacion": "asociados con",
+    "valor": "nivel de confianza para evaluar delirium"
+  },
+  {
+    "entidad": "estudiantes de medicina",
+    "relacion": "experimentan",
+    "valor": "altos niveles de estrés psicológico"
+  },
+  {
+    "entidad": "programa de autocuidado",
+    "relacion": "implementado en",
+    "valor": "currículo médico"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "afecta",
+    "valor": "educación médica"
+  },
+  {
+    "entidad": "programa multifacético basado en mindfulness",
+    "relacion": "reduce",
+    "valor": "burnout en estudiantes de medicina"
+  },
+  {
+    "entidad": "burnout",
+    "relacion": "se caracteriza por",
+    "valor": "agotamiento emocional y actitud cínica"
+  },
+  {
+    "entidad": "intervención educativa",
+    "relacion": "promueve",
+    "valor": "bienestar de los estudiantes"
+  },
+  {
+    "entidad": "autocuidado",
+    "relacion": "es una",
+    "valor": "competencia esencial del médico"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "es un",
+    "valor": "centro de educación médica"
+  },
+  {
+    "entidad": "estrategias de afrontamiento",
+    "relacion": "aumentan",
+    "valor": "después del programa"
+  },
+  {
+    "entidad": "resiliencia",
+    "relacion": "mejora",
+    "valor": "tras el programa de autocuidado"
+  },
+  {
+    "entidad": "programa de autocuidado",
+    "relacion": "incluye",
+    "valor": "sesiones remotas y módulos en línea"
+  },
+  {
+    "entidad": "evaluación de estudiantes",
+    "relacion": "se realiza mediante",
+    "valor": "pruebas validadas"
+  },
+  {
+    "entidad": "autoconciencia y autorregulación",
+    "relacion": "son habilidades",
+    "valor": "enseñadas en el programa"
+  },
+  {
+    "entidad": "estrés percibido",
+    "relacion": "disminuye",
+    "valor": "después del programa"
+  },
+  {
+    "entidad": "mindfulness disposicional",
+    "relacion": "aumenta",
+    "valor": "tras el programa"
+  },
+  {
+    "entidad": "programa de autocuidado",
+    "relacion": "se implementó durante",
+    "valor": "la pandemia de COVID-19"
+  },
+  {
+    "entidad": "estudiantes de medicina",
+    "relacion": "reportan",
+    "valor": "niveles más bajos de estrés tras el programa"
+  },
+  {
+    "entidad": "intervenciones organizacionales e individuales",
+    "relacion": "son necesarias para",
+    "valor": "reducir el burnout"
+  },
+  {
+    "entidad": "autocuidado",
+    "relacion": "es crucial para",
+    "valor": "afrontar los efectos adversos de la pandemia"
+  },
+  {
+    "entidad": "Técnico en Enfermería de Nivel Superior (TENS)",
+    "relacion": "es",
+    "valor": "carrera técnica con mayor número de estudiantes en Chile"
+  },
+  {
+    "entidad": "Instituciones de educación superior",
+    "relacion": "enseñan",
+    "valor": "Técnico en Enfermería de Nivel Superior (TENS)"
+  },
+  {
+    "entidad": "perfiles de egreso",
+    "relacion": "declaran",
+    "valor": "competencias"
+  },
+  {
+    "entidad": "competencias procedimentales",
+    "relacion": "son",
+    "valor": "predominantes en los perfiles de egreso"
+  },
+  {
+    "entidad": "competencias cognitivas y éticas",
+    "relacion": "son",
+    "valor": "las menos declaradas en los perfiles de egreso"
+  },
+  {
+    "entidad": "Instituciones de educación superior acreditadas",
+    "relacion": "declaran",
+    "valor": "más competencias cognitivas y éticas que las no acreditadas"
+  },
+  {
+    "entidad": "Técnicos en Enfermería (TENS)",
+    "relacion": "contribuyen a",
+    "valor": "promoción, prevención, diagnóstico, tratamiento y rehabilitación"
+  },
+  {
+    "entidad": "Código Sanitario",
+    "relacion": "considera",
+    "valor": "enfermeras, médicos, odontólogos y químicos farmacéuticos como profesionales de salud"
+  },
+  {
+    "entidad": "Técnicos en Enfermería (TENS)",
+    "relacion": "son considerados",
+    "valor": "profesionales auxiliares"
+  },
+  {
+    "entidad": "acreditación",
+    "relacion": "es un",
+    "valor": "mecanismo de control de calidad en educación"
+  },
+  {
+    "entidad": "perfiles de egreso sintéticos",
+    "relacion": "difieren",
+    "valor": "por tipo de institución de educación superior"
+  },
+  {
+    "entidad": "Instituciones de educación superior",
+    "relacion": "deben asegurar",
+    "valor": "un balance entre necesidades de la población y oferta educativa"
+  },
+  {
+    "entidad": "Técnicos en Enfermería (TENS)",
+    "relacion": "deben poseer",
+    "valor": "conocimientos, habilidades y actitudes para resolver problemas"
+  },
+  {
+    "entidad": "contextos de trabajo de TENS",
+    "relacion": "son",
+    "valor": "diversos, desde postas rurales hasta hospitales de alta complejidad"
+  },
+  {
+    "entidad": "competencias éticas/bioéticas",
+    "relacion": "son",
+    "valor": "fundamentales para el juicio técnico en situaciones complejas"
+  },
+  {
+    "entidad": "vacío regulatorio",
+    "relacion": "presenta",
+    "valor": "definiciones de ámbitos específicos de ejercicio profesional en salud"
+  }
+]

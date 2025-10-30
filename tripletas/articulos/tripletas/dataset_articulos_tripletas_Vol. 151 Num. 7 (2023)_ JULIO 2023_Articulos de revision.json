@@ -1,0 +1,387 @@
+[
+  {
+    "entidad": "Clostridioides difficile",
+    "relacion": "es",
+    "valor": "una de las principales causas de infección asociada a la atención de salud"
+  },
+  {
+    "entidad": "Clostridioides difficile",
+    "relacion": "causa",
+    "valor": "alta morbimortalidad en adultos mayores hospitalizados"
+  },
+  {
+    "entidad": "uso de antibióticos",
+    "relacion": "asociado a",
+    "valor": "mayor número de casos de C. difficile"
+  },
+  {
+    "entidad": "C. difficile",
+    "relacion": "puede producir",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "C. difficile",
+    "relacion": "se presenta como",
+    "valor": "portadores asintomáticos o megacolon tóxico"
+  },
+  {
+    "entidad": "exámenes de deposiciones",
+    "relacion": "incluyen",
+    "valor": "glutamato deshidrogenasa, toxinas A y B, técnicas de amplificación ácidos nucleares"
+  },
+  {
+    "entidad": "fidaxomicina",
+    "relacion": "es",
+    "valor": "una terapia incorporada al arsenal terapéutico"
+  },
+  {
+    "entidad": "trasplante de microbiota fecal",
+    "relacion": "es",
+    "valor": "una terapia nueva para C. difficile"
+  },
+  {
+    "entidad": "anticuerpos monoclonales",
+    "relacion": "son",
+    "valor": "nuevas terapias para C. difficile"
+  },
+  {
+    "entidad": "C. difficile",
+    "relacion": "afecta a",
+    "valor": "pacientes con comorbilidades"
+  },
+  {
+    "entidad": "recurrencia de C. difficile",
+    "relacion": "es",
+    "valor": "un riesgo en pacientes tratados"
+  },
+  {
+    "entidad": "Sociedades Chilenas de Gastroenterología e Infectología",
+    "relacion": "publicaron",
+    "valor": "guías en 2016"
+  },
+  {
+    "entidad": "C. difficile",
+    "relacion": "se define como",
+    "valor": "grave cuando se asocia a leucocitosis o creatinina elevada"
+  },
+  {
+    "entidad": "C. difficile",
+    "relacion": "puede ser",
+    "valor": "fulminante en casos severos"
+  },
+  {
+    "entidad": "metronidazol",
+    "relacion": "es",
+    "valor": "una opción de tratamiento para C. difficile"
+  },
+  {
+    "entidad": "vancomicina",
+    "relacion": "es",
+    "valor": "el antibiótico de primera línea en el tratamiento de C. difficile"
+  },
+  {
+    "entidad": "trasplante de microbiota fecal",
+    "relacion": "se utiliza para",
+    "valor": "restaurar la disbiosis en C. difficile"
+  },
+  {
+    "entidad": "bezlotoxumab",
+    "relacion": "reduce",
+    "valor": "la recurrencia de C. difficile"
+  },
+  {
+    "entidad": "profilaxis primaria",
+    "relacion": "se basa en",
+    "valor": "uso racional de antibióticos"
+  },
+  {
+    "entidad": "IBP",
+    "relacion": "aumenta",
+    "valor": "el riesgo de C. difficile"
+  },
+  {
+    "entidad": "S. boulardii",
+    "relacion": "reduce",
+    "valor": "el riesgo de C. difficile intrahospitalario"
+  },
+  {
+    "entidad": "C. difficile",
+    "relacion": "es",
+    "valor": "el patógeno más frecuente de diarrea nosocomial"
+  },
+  {
+    "entidad": "C. difficile",
+    "relacion": "se asocia a",
+    "valor": "elevada morbimortalidad y consumo de recursos sanitarios"
+  },
+  {
+    "entidad": "Biopsia endomiocárdica",
+    "relacion": "es un",
+    "valor": "procedimiento invasivo"
+  },
+  {
+    "entidad": "Biopsia endomiocárdica",
+    "relacion": "se utiliza en",
+    "valor": "diagnóstico de enfermedades con compromiso miocárdico"
+  },
+  {
+    "entidad": "Biopsia endomiocárdica",
+    "relacion": "juega un rol en",
+    "valor": "seguimiento del rechazo post trasplante cardíaco"
+  },
+  {
+    "entidad": "Biopsia endomiocárdica",
+    "relacion": "se realiza a través de",
+    "valor": "acceso venoso al ventrículo derecho"
+  },
+  {
+    "entidad": "Riesgo de complicaciones",
+    "relacion": "es cercano a",
+    "valor": "1% en centros de alto volumen"
+  },
+  {
+    "entidad": "Análisis anatomo-patológico",
+    "relacion": "ha mejorado con",
+    "valor": "avances en la técnica"
+  },
+  {
+    "entidad": "Biopsia endomiocárdica",
+    "relacion": "contribuye a",
+    "valor": "guía del tratamiento y pronóstico"
+  },
+  {
+    "entidad": "Biótomo",
+    "relacion": "es un",
+    "valor": "dispositivo desechable para biopsia"
+  },
+  {
+    "entidad": "Biótomo",
+    "relacion": "permite",
+    "valor": "obtención de muestras de tejido cardíaco"
+  },
+  {
+    "entidad": "Biopsia endomiocárdica",
+    "relacion": "debe realizarse en",
+    "valor": "pabellón de cirugía menor o hemodinamia"
+  },
+  {
+    "entidad": "Complicaciones de la biopsia endomiocárdica",
+    "relacion": "incluyen",
+    "valor": "taponamiento cardíaco, neumotórax, arritmias"
+  },
+  {
+    "entidad": "Miocarditis",
+    "relacion": "es una",
+    "valor": "miocardiopatía inflamatoria"
+  },
+  {
+    "entidad": "Miocardiopatías infiltrativas",
+    "relacion": "son un grupo de",
+    "valor": "trastornos cardíacos"
+  },
+  {
+    "entidad": "Inmunoterapia",
+    "relacion": "puede provocar",
+    "valor": "toxicidad cardíaca"
+  },
+  {
+    "entidad": "Análisis tisular de la biopsia",
+    "relacion": "incluye",
+    "valor": "examen microscópico y detección molecular"
+  },
+  {
+    "entidad": "PCR",
+    "relacion": "se utiliza para",
+    "valor": "detección de virus en miocarditis"
+  },
+  {
+    "entidad": "Biopsia endomiocárdica",
+    "relacion": "es estándar de oro para",
+    "valor": "diagnóstico y seguimiento de trasplante cardíaco"
+  },
+  {
+    "entidad": "Sociedad Chilena de Trasplantes",
+    "relacion": "realiza recomendaciones sobre",
+    "valor": "vigilancia y control de rechazo post trasplante"
+  },
+  {
+    "entidad": "trasplante de corazón",
+    "relacion": "es una",
+    "valor": "alternativa terapéutica"
+  },
+  {
+    "entidad": "calidad de vida relacionada con la salud",
+    "relacion": "es un",
+    "valor": "concepto multidimensional"
+  },
+  {
+    "entidad": "pacientes trasplantados de corazón",
+    "relacion": "experimentan",
+    "valor": "cambios en la calidad de vida"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "fue financiado por",
+    "valor": "FONDECYT Regular 2021"
+  },
+  {
+    "entidad": "Ministerio de Salud",
+    "relacion": "está ligado a",
+    "valor": "estructura formal de trasplante"
+  },
+  {
+    "entidad": "apoyo familiar y social",
+    "relacion": "son",
+    "valor": "elementos cruciales"
+  },
+  {
+    "entidad": "trasplante de corazón",
+    "relacion": "prolonga",
+    "valor": "vida"
+  },
+  {
+    "entidad": "trasplante de corazón",
+    "relacion": "mejora",
+    "valor": "calidad de vida"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "se evalúa mediante",
+    "valor": "escalas como SF-36 y WHOQoL-BREF"
+  },
+  {
+    "entidad": "trastornos psiquiátricos",
+    "relacion": "son comunes en",
+    "valor": "candidatos a trasplante"
+  },
+  {
+    "entidad": "estrategias de afrontamiento",
+    "relacion": "incluyen",
+    "valor": "aceptación y optimismo"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "es superior en",
+    "valor": "pacientes trasplantados comparado con etapa de espera"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "se mantiene",
+    "valor": "incluso después de 20 años"
+  },
+  {
+    "entidad": "depresión",
+    "relacion": "afecta",
+    "valor": "calidad de vida global"
+  },
+  {
+    "entidad": "soporte social",
+    "relacion": "es un",
+    "valor": "predictor de calidad de vida"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "se asocia con",
+    "valor": "satisfacción con soporte social"
+  },
+  {
+    "entidad": "trasplante de corazón",
+    "relacion": "impacta en",
+    "valor": "ajuste psicológico"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "es evaluada en",
+    "valor": "diferentes dominios"
+  },
+  {
+    "entidad": "pacientes trasplantados",
+    "relacion": "reportan",
+    "valor": "nueva vida"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "es comparable a",
+    "valor": "población general"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "se ve afectada por",
+    "valor": "disfunción sexual"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "es influenciada por",
+    "valor": "apoyo familiar"
+  },
+  {
+    "entidad": "Centro Internacional de Investigaciones sobre el Cáncer",
+    "relacion": "incluye",
+    "valor": "exposición ocupacional y ambiental de bomberos en listado de carcinógenos"
+  },
+  {
+    "entidad": "bomberos",
+    "relacion": "están expuestos a",
+    "valor": "sustancias tóxicas y cancerígenas"
+  },
+  {
+    "entidad": "extinción de incendios",
+    "relacion": "se asocia con",
+    "valor": "tipos de cáncer"
+  },
+  {
+    "entidad": "exposición ocupacional de bomberos",
+    "relacion": "es clasificada como",
+    "valor": "carcinogénica para humanos"
+  },
+  {
+    "entidad": "IARC",
+    "relacion": "concluye que existe",
+    "valor": "evidencia suficiente de asociación causal con mesotelioma"
+  },
+  {
+    "entidad": "exposición a hidrocarburos aromáticos policíclicos",
+    "relacion": "se relaciona con",
+    "valor": "riesgo de cáncer"
+  },
+  {
+    "entidad": "cáncer de vejiga",
+    "relacion": "se relaciona con",
+    "valor": "exposición a aminas aromáticas"
+  },
+  {
+    "entidad": "cáncer de próstata",
+    "relacion": "se relaciona con",
+    "valor": "disruptores endocrinos"
+  },
+  {
+    "entidad": "cáncer de testículo",
+    "relacion": "se relaciona con",
+    "valor": "disruptores endocrinos"
+  },
+  {
+    "entidad": "exposición dérmica",
+    "relacion": "aumenta",
+    "valor": "riesgo de cáncer en bomberos"
+  },
+  {
+    "entidad": "hombres bomberos",
+    "relacion": "tienen riesgo elevado de",
+    "valor": "cáncer"
+  },
+  {
+    "entidad": "mujeres bomberos",
+    "relacion": "tienen riesgo elevado de",
+    "valor": "cáncer de cerebro y tiroides"
+  },
+  {
+    "entidad": "medidas preventivas",
+    "relacion": "disminuyen",
+    "valor": "exposición a agentes cancerígenos"
+  },
+  {
+    "entidad": "programa de Prevención de Cáncer del Cuerpo de Bomberos de Santiago",
+    "relacion": "fue implementado a partir de",
+    "valor": "esta investigación"
+  }
+]

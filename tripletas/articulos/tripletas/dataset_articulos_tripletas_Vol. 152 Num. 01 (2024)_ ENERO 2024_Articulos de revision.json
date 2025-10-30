@@ -1,0 +1,182 @@
+[
+  {
+    "entidad": "cuidados paliativos",
+    "relacion": "definido por",
+    "valor": "Organización Mundial de la Salud"
+  },
+  {
+    "entidad": "cuidados paliativos",
+    "relacion": "tiene como objetivo",
+    "valor": "controlar el dolor y otros síntomas"
+  },
+  {
+    "entidad": "cuidados paliativos",
+    "relacion": "afecta a",
+    "valor": "personas con enfermedades no curativas"
+  },
+  {
+    "entidad": "Dra. Cecily Saunders",
+    "relacion": "profesionalizó",
+    "valor": "cuidados paliativos"
+  },
+  {
+    "entidad": "cuidados paliativos",
+    "relacion": "deben ser integrados",
+    "valor": "tempranamente"
+  },
+  {
+    "entidad": "cuidados paliativos",
+    "relacion": "se aplica a",
+    "valor": "personas con enfermedades crónicas avanzadas"
+  },
+  {
+    "entidad": "enfermedades crónicas",
+    "relacion": "requieren",
+    "valor": "cuidados paliativos"
+  },
+  {
+    "entidad": "cuidados paliativos",
+    "relacion": "mejoran",
+    "valor": "calidad de vida"
+  },
+  {
+    "entidad": "equipo de salud",
+    "relacion": "debe ser",
+    "valor": "capacitado y coordinado"
+  },
+  {
+    "entidad": "voluntades anticipadas",
+    "relacion": "favorecen",
+    "valor": "mejor disposición del paciente"
+  },
+  {
+    "entidad": "reuniones familiares",
+    "relacion": "permiten",
+    "valor": "intercambiar información eficazmente"
+  },
+  {
+    "entidad": "pregunta sorpresa",
+    "relacion": "ayuda a",
+    "valor": "identificar pacientes que requieren cuidados paliativos"
+  },
+  {
+    "entidad": "cuidados paliativos",
+    "relacion": "disminuyen",
+    "valor": "hospitalizaciones"
+  },
+  {
+    "entidad": "cuidados paliativos",
+    "relacion": "mejoran",
+    "valor": "estado mental de los cuidadores"
+  },
+  {
+    "entidad": "cuidados paliativos",
+    "relacion": "deben ser",
+    "valor": "universales y tempranos"
+  },
+  {
+    "entidad": "formación en cuidados paliativos",
+    "relacion": "debe ser",
+    "valor": "obligatoria en currículos"
+  },
+  {
+    "entidad": "cuidados paliativos",
+    "relacion": "son una estrategia de atención",
+    "valor": "para personas con patologías crónicas"
+  },
+  {
+    "entidad": "Programa de Salud Cardiovascular (PSCV)",
+    "relacion": "fue creado por",
+    "valor": "Ministerio de Salud de Chile"
+  },
+  {
+    "entidad": "PSCV",
+    "relacion": "está enfocado en",
+    "valor": "riesgo cardiovascular global"
+  },
+  {
+    "entidad": "prevención cuaternaria",
+    "relacion": "se define como",
+    "valor": "acción para proteger a individuos de intervenciones médicas que causan más daño que beneficio"
+  },
+  {
+    "entidad": "PSCV",
+    "relacion": "busca prevenir y reducir",
+    "valor": "morbilidad, discapacidad y mortalidad prematura por enfermedades cardiovasculares"
+  },
+  {
+    "entidad": "PSCV",
+    "relacion": "establece",
+    "valor": "una batería de 11 exámenes complementarios"
+  },
+  {
+    "entidad": "exámenes complementarios",
+    "relacion": "se solicitan al ingreso de",
+    "valor": "PSCV"
+  },
+  {
+    "entidad": "revisión narrativa",
+    "relacion": "evalúa",
+    "valor": "racionalidad de la solicitud de exámenes"
+  },
+  {
+    "entidad": "exámenes complementarios",
+    "relacion": "se basan en",
+    "valor": "evidencia actualizada"
+  },
+  {
+    "entidad": "recomendaciones",
+    "relacion": "se realizaron según",
+    "valor": "sistema GRADE"
+  },
+  {
+    "entidad": "costo de exámenes complementarios",
+    "relacion": "podría ser disminuido mediante",
+    "valor": "uso más eficiente"
+  },
+  {
+    "entidad": "prevención cuaternaria",
+    "relacion": "promueve",
+    "valor": "atención centrada en la persona"
+  },
+  {
+    "entidad": "prevención cuaternaria",
+    "relacion": "evita",
+    "valor": "sobrediagnóstico y daños"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile (MINSAL)",
+    "relacion": "creó",
+    "valor": "Programa de Salud Cardiovascular en 2002"
+  },
+  {
+    "entidad": "Diabetes Mellitus tipo 2 (DM2)",
+    "relacion": "es una condición que",
+    "valor": "requiere seguimiento en PSCV"
+  },
+  {
+    "entidad": "hipertensión arterial (HTA)",
+    "relacion": "es una condición que",
+    "valor": "requiere seguimiento en PSCV"
+  },
+  {
+    "entidad": "exámenes complementarios",
+    "relacion": "incluyen",
+    "valor": "hematocrito, glicemia, perfil lipídico, creatinina plasmática, uricemia, electrolitos plasmáticos, orina completa, electrocardiograma, razón albuminuria/creatininuria, hemoglobina glicada, fondo de ojo"
+  },
+  {
+    "entidad": "recomendaciones",
+    "relacion": "se clasifican como",
+    "valor": "fuerte o débil"
+  },
+  {
+    "entidad": "costo de exámenes sin evidencia",
+    "relacion": "asciende a",
+    "valor": "75 mil millones de pesos chilenos"
+  },
+  {
+    "entidad": "análisis de costo-efectividad",
+    "relacion": "es necesario para",
+    "valor": "justificar la solicitud de exámenes"
+  }
+]

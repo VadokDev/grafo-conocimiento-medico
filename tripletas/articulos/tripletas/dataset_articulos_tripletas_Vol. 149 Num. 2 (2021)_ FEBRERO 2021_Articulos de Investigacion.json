@@ -1,0 +1,747 @@
+[
+  {
+    "entidad": "cáncer de mama",
+    "relacion": "es",
+    "valor": "el tipo de neoplasia que más afecta a las mujeres"
+  },
+  {
+    "entidad": "cáncer de mama",
+    "relacion": "tiene",
+    "valor": "una alta tasa de mortalidad en países en desarrollo"
+  },
+  {
+    "entidad": "mamografía",
+    "relacion": "es",
+    "valor": "el procedimiento de tamizaje de elección para el diagnóstico oportuno del cáncer de mama"
+  },
+  {
+    "entidad": "mamografía",
+    "relacion": "está incluida en",
+    "valor": "las Garantías Explícitas en Salud (GES)"
+  },
+  {
+    "entidad": "mujeres entre 50 y 59 años",
+    "relacion": "deben realizar",
+    "valor": "mamografías"
+  },
+  {
+    "entidad": "cáncer de mama",
+    "relacion": "es",
+    "valor": "la primera causa de muerte por tumores malignos en mujeres en Chile"
+  },
+  {
+    "entidad": "cobertura de mamografía",
+    "relacion": "es",
+    "valor": "insuficiente en Chile"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "deben comprender",
+    "valor": "su propio riesgo de padecer cáncer de mama"
+  },
+  {
+    "entidad": "profesionales de salud",
+    "relacion": "deben tener",
+    "valor": "la capacidad para transmitir el riesgo de cáncer de mama"
+  },
+  {
+    "entidad": "comunicación de riesgo",
+    "relacion": "implica",
+    "valor": "proporcionar síntesis de evidencia sobre beneficios y contingencias"
+  },
+  {
+    "entidad": "decisión informada",
+    "relacion": "debe ser",
+    "valor": "respetada y promovida en mujeres"
+  },
+  {
+    "entidad": "miedo",
+    "relacion": "es",
+    "valor": "una barrera para la comprensión de la información sobre mamografía"
+  },
+  {
+    "entidad": "autonomía de la mujer",
+    "relacion": "debe ser",
+    "valor": "respetada en la toma de decisiones sobre mamografía"
+  },
+  {
+    "entidad": "Fondo Nacional de Investigación en Salud (FONIS)",
+    "relacion": "financia",
+    "valor": "proyectos de investigación en salud"
+  },
+  {
+    "entidad": "Grupo de expertos",
+    "relacion": "realizó",
+    "valor": "grupos focales para discutir la comunicación de riesgos"
+  },
+  {
+    "entidad": "cáncer de mama",
+    "relacion": "debe ser evaluado",
+    "valor": "en el contexto de la mamografía"
+  },
+  {
+    "entidad": "información",
+    "relacion": "debe ser",
+    "valor": "clara y honesta para las usuarias"
+  },
+  {
+    "entidad": "decisión sobre mamografía",
+    "relacion": "debe ser",
+    "valor": "basada en la mejor evidencia disponible"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "es una",
+    "valor": "enfermedad"
+  },
+  {
+    "entidad": "SARS-CoV-2",
+    "relacion": "causa",
+    "valor": "COVID-19"
+  },
+  {
+    "entidad": "protocolo STAR",
+    "relacion": "puede ayudar a",
+    "valor": "pacientes oncológicos"
+  },
+  {
+    "entidad": "pacientes oncológicos",
+    "relacion": "requieren",
+    "valor": "tratamiento quirúrgico"
+  },
+  {
+    "entidad": "Hospital del Salvador",
+    "relacion": "implementa",
+    "valor": "protocolo STAR"
+  },
+  {
+    "entidad": "protocolo STAR",
+    "relacion": "incluye",
+    "valor": "intervenciones perioperatorias"
+  },
+  {
+    "entidad": "intervenciones perioperatorias",
+    "relacion": "son",
+    "valor": "24"
+  },
+  {
+    "entidad": "protocolo STAR",
+    "relacion": "reduce",
+    "valor": "estadía hospitalaria"
+  },
+  {
+    "entidad": "estadía hospitalaria",
+    "relacion": "es",
+    "valor": "4 días"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "no aumenta en",
+    "valor": "pacientes operados"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "aumenta",
+    "valor": "riesgo de complicaciones en pacientes oncológicos"
+  },
+  {
+    "entidad": "protocolo ErAS",
+    "relacion": "es conocido como",
+    "valor": "Enhanced Recovery After Surgery"
+  },
+  {
+    "entidad": "protocolo STAR",
+    "relacion": "es una",
+    "valor": "estrategia de recuperación avanzada"
+  },
+  {
+    "entidad": "pacientes con cáncer",
+    "relacion": "tienen",
+    "valor": "mayor susceptibilidad a infecciones"
+  },
+  {
+    "entidad": "camas críticas",
+    "relacion": "han aumentado en",
+    "valor": "hospitales durante la pandemia"
+  },
+  {
+    "entidad": "estrategias de recuperación",
+    "relacion": "deben ser",
+    "valor": "estándar a seguir"
+  },
+  {
+    "entidad": "protocolo STAR",
+    "relacion": "facilita",
+    "valor": "trabajo multidisciplinario"
+  },
+  {
+    "entidad": "pacientes oncológicos",
+    "relacion": "requieren",
+    "valor": "atención urgente"
+  },
+  {
+    "entidad": "morbimortalidad",
+    "relacion": "se mantiene baja en",
+    "valor": "pacientes tratados con protocolo STAR"
+  },
+  {
+    "entidad": "cirugía bariátrica",
+    "relacion": "es",
+    "valor": "procedimiento efectivo en el manejo de la obesidad"
+  },
+  {
+    "entidad": "bypass gástrico (GBP)",
+    "relacion": "es un",
+    "valor": "tipo de cirugía bariátrica"
+  },
+  {
+    "entidad": "gastrectomía en manga (SG)",
+    "relacion": "es un",
+    "valor": "tipo de cirugía bariátrica"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "son sometidos a",
+    "valor": "cirugía bariátrica"
+  },
+  {
+    "entidad": "ingesta calórica",
+    "relacion": "se mide en",
+    "valor": "pacientes post cirugía bariátrica"
+  },
+  {
+    "entidad": "nutricionistas",
+    "relacion": "aplican",
+    "valor": "encuesta de frecuencia de consumo"
+  },
+  {
+    "entidad": "estado nutricional",
+    "relacion": "se evalúa en",
+    "valor": "pacientes post cirugía bariátrica"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "es un",
+    "valor": "problema de salud pública"
+  },
+  {
+    "entidad": "técnicas quirúrgicas",
+    "relacion": "son",
+    "valor": "bypass gástrico y gastrectomía en manga"
+  },
+  {
+    "entidad": "ingesta de proteínas",
+    "relacion": "debería ser",
+    "valor": "60 a 120 g al día"
+  },
+  {
+    "entidad": "ingesta inadecuada de proteínas",
+    "relacion": "se asocia a",
+    "valor": "pérdida de cabello y riesgo de desnutrición"
+  },
+  {
+    "entidad": "pacientes con GBP",
+    "relacion": "tienen",
+    "valor": "mayor índice de masa corporal al primer mes"
+  },
+  {
+    "entidad": "pérdida de peso",
+    "relacion": "es negativa y débilmente correlacionada con",
+    "valor": "ingesta calórica"
+  },
+  {
+    "entidad": "etapas iniciales de la cirugía bariátrica",
+    "relacion": "son cruciales para",
+    "valor": "lograr pérdida de peso significativa"
+  },
+  {
+    "entidad": "suplementación proteica",
+    "relacion": "podría contribuir a",
+    "valor": "alcanzar la ingesta diaria recomendada de proteínas"
+  },
+  {
+    "entidad": "intolerancia alimentaria",
+    "relacion": "limita",
+    "valor": "el consumo de ciertos alimentos post cirugía"
+  },
+  {
+    "entidad": "cambio en preferencias alimentarias",
+    "relacion": "se atribuye a",
+    "valor": "cambios en gusto y disfrute hedónico"
+  },
+  {
+    "entidad": "metabolismo",
+    "relacion": "se adapta después de",
+    "valor": "cirugía bariátrica"
+  },
+  {
+    "entidad": "Rodrigo Sepúlveda Palamara",
+    "relacion": "es el autor de",
+    "valor": "la investigación"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "tiene un departamento de",
+    "valor": "Nefrología"
+  },
+  {
+    "entidad": "natriuresis diaria",
+    "relacion": "se estima a partir de",
+    "valor": "parámetros en plasma y orina aislada"
+  },
+  {
+    "entidad": "población chilena",
+    "relacion": "es el enfoque de",
+    "valor": "la investigación"
+  },
+  {
+    "entidad": "sodio (Na+)",
+    "relacion": "es el componente principal para",
+    "valor": "la regulación del volumen extracelular"
+  },
+  {
+    "entidad": "sobre carga crónica de Na+",
+    "relacion": "provoca",
+    "valor": "hipervolemia"
+  },
+  {
+    "entidad": "hipertensión arterial (HTA)",
+    "relacion": "es causada por",
+    "valor": "la ingesta excesiva de Na+"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud",
+    "relacion": "recomienda",
+    "valor": "una ingesta diaria de Na+ < 2 g"
+  },
+  {
+    "entidad": "fórmulas existentes",
+    "relacion": "tienen",
+    "valor": "concordancia insuficiente"
+  },
+  {
+    "entidad": "nueva ecuación",
+    "relacion": "predice",
+    "valor": "24-hour urine sodium"
+  },
+  {
+    "entidad": "métodos estandarizados",
+    "relacion": "se utilizan para",
+    "valor": "recolección de orina de 24 h"
+  },
+  {
+    "entidad": "FENa",
+    "relacion": "afecta",
+    "valor": "la precisión en la estimación de Nau24 h"
+  },
+  {
+    "entidad": "muestra de plasma",
+    "relacion": "se mide junto con",
+    "valor": "muestras de orina aislada"
+  },
+  {
+    "entidad": "modelo predictivo",
+    "relacion": "incluye",
+    "valor": "edad, sexo, peso, talla, TFGe, Ku, AGu, FENa y FECl"
+  },
+  {
+    "entidad": "coeficiente de correlación de Lin",
+    "relacion": "mide",
+    "valor": "la concordancia entre fórmulas"
+  },
+  {
+    "entidad": "fórmula desarrollada",
+    "relacion": "es superior a",
+    "valor": "las ecuaciones existentes"
+  },
+  {
+    "entidad": "morbimortalidad cardiovascular",
+    "relacion": "se puede reducir mediante",
+    "valor": "restricción dietética de Na+"
+  },
+  {
+    "entidad": "hiperglicemia",
+    "relacion": "asociada a",
+    "valor": "desenlaces adversos"
+  },
+  {
+    "entidad": "hiperglicemia",
+    "relacion": "afecta a",
+    "valor": "pacientes hospitalizados"
+  },
+  {
+    "entidad": "tiempo de estadía hospitalaria",
+    "relacion": "correlacionado con",
+    "valor": "hiperglicemia"
+  },
+  {
+    "entidad": "diabetes mellitus (DM)",
+    "relacion": "antecedente de",
+    "valor": "hiperglicemia"
+  },
+  {
+    "entidad": "hormonas contrarreguladoras",
+    "relacion": "secretadas en relación a",
+    "valor": "estrés derivado de enfermedades"
+  },
+  {
+    "entidad": "glucosa en sangre",
+    "relacion": "disminuye",
+    "valor": "función de neutrófilos"
+  },
+  {
+    "entidad": "hiperglicemia",
+    "relacion": "aumenta",
+    "valor": "producción de radicales libres"
+  },
+  {
+    "entidad": "nivel de glicemia",
+    "relacion": "asociado a",
+    "valor": "hospitalizaciones prolongadas"
+  },
+  {
+    "entidad": "hiperglicemia",
+    "relacion": "asociada a",
+    "valor": "mayor mortalidad"
+  },
+  {
+    "entidad": "protocolos de manejo intensivo",
+    "relacion": "evaluados en",
+    "valor": "pacientes críticos"
+  },
+  {
+    "entidad": "glicemias promedio menores a 110 mg/dL",
+    "relacion": "comparadas con",
+    "valor": "tratamiento convencional"
+  },
+  {
+    "entidad": "grupo con tratamiento intensivo",
+    "relacion": "mostró",
+    "valor": "reducción en tiempos de estadía"
+  },
+  {
+    "entidad": "glicemias entre 140 y 180 mg/dL",
+    "relacion": "asociadas a",
+    "valor": "mayor sobrevida"
+  },
+  {
+    "entidad": "hipoglicemia",
+    "relacion": "asociada a",
+    "valor": "mayores estadías hospitalarias"
+  },
+  {
+    "entidad": "glicemia mayor a 140 mg/dL",
+    "relacion": "definida como",
+    "valor": "hiperglicemia"
+  },
+  {
+    "entidad": "guías clínicas internacionales",
+    "relacion": "recomiendan",
+    "valor": "control glicémico"
+  },
+  {
+    "entidad": "hiperglicemia",
+    "relacion": "caracterizada en",
+    "valor": "pacientes ingresados"
+  },
+  {
+    "entidad": "tiempo de estadía hospitalaria",
+    "relacion": "más largo en",
+    "valor": "pacientes con hiperglicemia"
+  },
+  {
+    "entidad": "hiperglicemia > 140 mg/dL",
+    "relacion": "asociada a",
+    "valor": "prolongación del tiempo de estadía"
+  },
+  {
+    "entidad": "población chilena",
+    "relacion": "tiene",
+    "valor": "alta prevalencia de sobrepeso u obesidad"
+  },
+  {
+    "entidad": "encuesta ACTION-IO",
+    "relacion": "identifica",
+    "valor": "percepciones, actitudes y barreras para el manejo de la obesidad"
+  },
+  {
+    "entidad": "personas con obesidad (PwO)",
+    "relacion": "asumen",
+    "valor": "responsabilidad total en la pérdida de peso"
+  },
+  {
+    "entidad": "profesionales de la salud (HCPs)",
+    "relacion": "consideran",
+    "valor": "que la pérdida de peso es responsabilidad exclusiva de los pacientes"
+  },
+  {
+    "entidad": "PwO",
+    "relacion": "cree",
+    "valor": "que la falta de ejercicio es una barrera clave para la pérdida de peso"
+  },
+  {
+    "entidad": "HCPs",
+    "relacion": "cree",
+    "valor": "que la falta de ejercicio es una barrera clave para la pérdida de peso"
+  },
+  {
+    "entidad": "PwO",
+    "relacion": "reporta",
+    "valor": "motivación para perder peso"
+  },
+  {
+    "entidad": "HCPs",
+    "relacion": "reporta",
+    "valor": "poca motivación de sus pacientes para perder peso"
+  },
+  {
+    "entidad": "PwO",
+    "relacion": "desea",
+    "valor": "que HCPs inicien conversaciones sobre el peso"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "es",
+    "valor": "una enfermedad crónica"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "causa",
+    "valor": "complicaciones como diabetes tipo 2, hipertensión y enfermedades cardiovasculares"
+  },
+  {
+    "entidad": "intervenciones de salud pública en Chile",
+    "relacion": "incluyen",
+    "valor": "etiquetado de alimentos y programas de salud escolar"
+  },
+  {
+    "entidad": "PwO",
+    "relacion": "considera",
+    "valor": "que factores genéticos dificultan la pérdida de peso"
+  },
+  {
+    "entidad": "HCPs",
+    "relacion": "considera",
+    "valor": "que factores genéticos dificultan la pérdida de peso"
+  },
+  {
+    "entidad": "HCPs",
+    "relacion": "informa",
+    "valor": "diagnóstico de obesidad a sus pacientes"
+  },
+  {
+    "entidad": "PwO",
+    "relacion": "reporta",
+    "valor": "discusiones sobre el peso con HCPs"
+  },
+  {
+    "entidad": "HCPs",
+    "relacion": "reporta",
+    "valor": "discusiones sobre el peso con sus pacientes"
+  },
+  {
+    "entidad": "HCPs",
+    "relacion": "siente",
+    "valor": "que la falta de interés del paciente es una barrera para discutir la obesidad"
+  },
+  {
+    "entidad": "PwO",
+    "relacion": "considera",
+    "valor": "que el costo de alimentos saludables es una barrera para la pérdida de peso"
+  },
+  {
+    "entidad": "HCPs",
+    "relacion": "considera",
+    "valor": "que hábitos alimenticios poco saludables son una barrera para la pérdida de peso"
+  },
+  {
+    "entidad": "medicación para la pérdida de peso",
+    "relacion": "es",
+    "valor": "considerada efectiva por PwO"
+  },
+  {
+    "entidad": "HCPs",
+    "relacion": "cree",
+    "valor": "que la medicación para la pérdida de peso tiene preocupaciones de seguridad a largo plazo"
+  },
+  {
+    "entidad": "educación sobre obesidad",
+    "relacion": "es necesaria",
+    "valor": "para mejorar el manejo clínico"
+  },
+  {
+    "entidad": "trasplante pulmonar",
+    "relacion": "es",
+    "valor": "opción de tratamiento para enfermedades pulmonares en etapa terminal"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "tiene",
+    "valor": "una de las tasas de donación más bajas de América"
+  },
+  {
+    "entidad": "ex vivo lung perfusion",
+    "relacion": "es",
+    "valor": "una técnica para evaluar y recondicionar pulmones donados"
+  },
+  {
+    "entidad": "Clínica Las Condes",
+    "relacion": "realiza",
+    "valor": "trasplantes pulmonares con ex vivo lung perfusion"
+  },
+  {
+    "entidad": "Toronto Protocol",
+    "relacion": "es utilizado en",
+    "valor": "ex vivo lung perfusion"
+  },
+  {
+    "entidad": "pulmones marginales",
+    "relacion": "son",
+    "valor": "pulmones rechazados por problemas logísticos o categorizados como marginales"
+  },
+  {
+    "entidad": "mortalidad en lista de espera",
+    "relacion": "es",
+    "valor": "alrededor del 30%"
+  },
+  {
+    "entidad": "técnica de perfusión pulmonar ex vivo (EVLP)",
+    "relacion": "permite",
+    "valor": "evaluar y optimizar pulmones donados"
+  },
+  {
+    "entidad": "pacientes trasplantados",
+    "relacion": "presentan",
+    "valor": "complicaciones postoperatorias"
+  },
+  {
+    "entidad": "rechazo crónico",
+    "relacion": "es",
+    "valor": "una complicación que puede desarrollarse tras el trasplante"
+  },
+  {
+    "entidad": "ECMO",
+    "relacion": "es utilizado en",
+    "valor": "el postoperatorio de pacientes trasplantados"
+  },
+  {
+    "entidad": "supervivencia a corto plazo",
+    "relacion": "no presenta diferencias",
+    "valor": "entre EVLP y trasplante convencional"
+  },
+  {
+    "entidad": "pulmones donados",
+    "relacion": "son",
+    "valor": "evaluados y tratados durante la EVLP"
+  },
+  {
+    "entidad": "fibrosis pulmonar",
+    "relacion": "es",
+    "valor": "un diagnóstico predominante en pacientes trasplantados"
+  },
+  {
+    "entidad": "SARS-CoV-2",
+    "relacion": "causa",
+    "valor": "fibrosis pulmonar en algunos pacientes"
+  },
+  {
+    "entidad": "técnica de EVLP",
+    "relacion": "se presenta como",
+    "valor": "herramienta válida y segura para pulmones marginales"
+  },
+  {
+    "entidad": "equipo multidisciplinario",
+    "relacion": "es necesario para",
+    "valor": "implementar un programa de ex vivo en Chile"
+  },
+  {
+    "entidad": "función renal",
+    "relacion": "es estimada por",
+    "valor": "velocidad de filtración glomerular (VFG)"
+  },
+  {
+    "entidad": "creatinina plasmática",
+    "relacion": "se utiliza para",
+    "valor": "estimar la VFG"
+  },
+  {
+    "entidad": "MDRD",
+    "relacion": "es un",
+    "valor": "método para estimar la VFG"
+  },
+  {
+    "entidad": "CKD-EPI",
+    "relacion": "es un",
+    "valor": "método para estimar la VFG"
+  },
+  {
+    "entidad": "BIS-1",
+    "relacion": "es un",
+    "valor": "método para estimar la VFG"
+  },
+  {
+    "entidad": "FAS",
+    "relacion": "es un",
+    "valor": "método para estimar la VFG"
+  },
+  {
+    "entidad": "clearance de creatinina (ClCr)",
+    "relacion": "es un",
+    "valor": "método para medir la función renal"
+  },
+  {
+    "entidad": "ClCr medido",
+    "relacion": "clasifica a",
+    "valor": "47.2% de los pacientes con función renal > 60 mL/min/1.73 m2"
+  },
+  {
+    "entidad": "MDRD y CKD-EPI",
+    "relacion": "clasifican a",
+    "valor": "poco más de un tercio de los pacientes con función renal > 60 mL/min/1.73 m2"
+  },
+  {
+    "entidad": "BIS-1 y FAS",
+    "relacion": "clasifican a",
+    "valor": "alrededor de 20% de los pacientes con función renal > 60 mL/min/1.73 m2"
+  },
+  {
+    "entidad": "fórmulas creatinina",
+    "relacion": "deben ser",
+    "valor": "reconsideradas en adultos mayores"
+  },
+  {
+    "entidad": "insuficiencia renal crónica",
+    "relacion": "puede ser diagnosticada erróneamente por",
+    "valor": "subestimación de la VFG"
+  },
+  {
+    "entidad": "métodos de estimación de VFG",
+    "relacion": "tienen diferencias significativas en",
+    "valor": "resultados entre ellos"
+  },
+  {
+    "entidad": "fórmula de Cockcroft-Gault",
+    "relacion": "subestima",
+    "valor": "el ClCr medido en adultos mayores"
+  },
+  {
+    "entidad": "CKD-EPI",
+    "relacion": "es recomendada por",
+    "valor": "guías KDIGO para estimar la VFG"
+  },
+  {
+    "entidad": "BIS-1",
+    "relacion": "es una fórmula",
+    "valor": "desarrollada para adultos mayores"
+  },
+  {
+    "entidad": "FAS",
+    "relacion": "es una fórmula",
+    "valor": "nueva para estimar la VFG"
+  },
+  {
+    "entidad": "diferencias entre métodos",
+    "relacion": "son",
+    "valor": "amplias en adultos mayores"
+  }
+]

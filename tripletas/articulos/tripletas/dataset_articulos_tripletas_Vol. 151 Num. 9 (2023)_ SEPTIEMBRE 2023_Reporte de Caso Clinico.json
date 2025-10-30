@@ -1,0 +1,202 @@
+[
+  {
+    "entidad": "Infarto de miocardio",
+    "relacion": "es un",
+    "valor": "tipo de patología"
+  },
+  {
+    "entidad": "Elevación del segmento ST",
+    "relacion": "indica",
+    "valor": "infarto de miocardio"
+  },
+  {
+    "entidad": "Aorta",
+    "relacion": "puede sufrir",
+    "valor": "disección"
+  },
+  {
+    "entidad": "Síndrome de malperfusión",
+    "relacion": "asocia con",
+    "valor": "mayor mortalidad"
+  },
+  {
+    "entidad": "Angioplastia primaria",
+    "relacion": "es un",
+    "valor": "tratamiento para infarto de miocardio"
+  },
+  {
+    "entidad": "Electrocardiograma",
+    "relacion": "se utiliza para",
+    "valor": "diagnosticar infarto de miocardio"
+  },
+  {
+    "entidad": "Hombre de 59 años",
+    "relacion": "presenta",
+    "valor": "dolor torácico"
+  },
+  {
+    "entidad": "Disección aórtica aguda",
+    "relacion": "puede causar",
+    "valor": "infarto de miocardio"
+  },
+  {
+    "entidad": "Reemplazo de raíz de aorta",
+    "relacion": "es un",
+    "valor": "tratamiento quirúrgico"
+  },
+  {
+    "entidad": "Síndrome coronario agudo",
+    "relacion": "es un",
+    "valor": "espectro de causas de infarto"
+  },
+  {
+    "entidad": "Factores de riesgo de DAA",
+    "relacion": "incluyen",
+    "valor": "hipertensión y aterosclerosis"
+  },
+  {
+    "entidad": "Aortic Dissection Detection Risk Score (ADD-RS)",
+    "relacion": "es una",
+    "valor": "herramienta clínica para detección de DAA"
+  },
+  {
+    "entidad": "Malperfusion espinal",
+    "relacion": "puede causar",
+    "valor": "secuelas neurológicas"
+  },
+  {
+    "entidad": "Tabaquismo activo",
+    "relacion": "es un",
+    "valor": "factor de riesgo"
+  },
+  {
+    "entidad": "Angiotomografía computada",
+    "relacion": "confirma",
+    "valor": "diagnóstico de disección aórtica"
+  },
+  {
+    "entidad": "CK total",
+    "relacion": "es un",
+    "valor": "marcador de daño cardíaco"
+  },
+  {
+    "entidad": "CK MB",
+    "relacion": "es un",
+    "valor": "marcador de daño cardíaco específico"
+  },
+  {
+    "entidad": "Rehabilitación",
+    "relacion": "es un",
+    "valor": "proceso postoperatorio"
+  },
+  {
+    "entidad": "Intervenciones oportunas",
+    "relacion": "son esenciales para",
+    "valor": "reestablecer perfusión"
+  },
+  {
+    "entidad": "Pseudotumor inflamatorio hepático",
+    "relacion": "es un",
+    "valor": "entidad poco frecuente"
+  },
+  {
+    "entidad": "Pseudotumor inflamatorio hepático",
+    "relacion": "tiene un",
+    "valor": "comportamiento benigno"
+  },
+  {
+    "entidad": "Hombre de 49 años",
+    "relacion": "presenta",
+    "valor": "síntomas constitucionales y gastrointestinales"
+  },
+  {
+    "entidad": "Pseudotumor inflamatorio hepático",
+    "relacion": "puede imitar",
+    "valor": "colangiocarcinoma intrahepático"
+  },
+  {
+    "entidad": "Segmentectomía",
+    "relacion": "es un",
+    "valor": "tratamiento realizado"
+  },
+  {
+    "entidad": "Linfadenectomía regional",
+    "relacion": "es un",
+    "valor": "tratamiento realizado"
+  },
+  {
+    "entidad": "Histopatología",
+    "relacion": "revela",
+    "valor": "proceso inflamatorio linfoplasmocitario"
+  },
+  {
+    "entidad": "Células plasmáticas IgG4 positivas",
+    "relacion": "son compatibles con",
+    "valor": "enfermedad asociada a IgG4"
+  },
+  {
+    "entidad": "Manejo expectante",
+    "relacion": "fue decidido tras",
+    "valor": "resección del tumor"
+  },
+  {
+    "entidad": "Pseudotumor inflamatorio hepático",
+    "relacion": "puede regresar",
+    "valor": "espontáneamente o tras manejo médico"
+  },
+  {
+    "entidad": "Tratamiento médico",
+    "relacion": "incluye",
+    "valor": "antibióticos y esteroides"
+  },
+  {
+    "entidad": "Cirugía",
+    "relacion": "se reserva para",
+    "valor": "pacientes sintomáticos o con sospecha de malignidad"
+  },
+  {
+    "entidad": "Pseudotumor inflamatorio hepático",
+    "relacion": "fue descrito por",
+    "valor": "Pack y Baker en 1953"
+  },
+  {
+    "entidad": "Etiología del pseudotumor inflamatorio hepático",
+    "relacion": "es",
+    "valor": "indeterminada"
+  },
+  {
+    "entidad": "Subtipo linfoplasmocítico",
+    "relacion": "se asocia a",
+    "valor": "enfermedad sistémica por IgG4"
+  },
+  {
+    "entidad": "Subtipo fibrohistiocítico",
+    "relacion": "se caracteriza por",
+    "valor": "inflamación xantogranulomatosa"
+  },
+  {
+    "entidad": "Hallazgos clínicos",
+    "relacion": "son",
+    "valor": "inespecíficos"
+  },
+  {
+    "entidad": "Niveles de alfa-fetoproteína (AFP)",
+    "relacion": "menores a",
+    "valor": "40 ng/ml se consideran negativos"
+  },
+  {
+    "entidad": "Niveles de antígeno carcinoembrionario (ACE)",
+    "relacion": "menores a",
+    "valor": "0,5 ng/ml se consideran negativos"
+  },
+  {
+    "entidad": "Diagnóstico definitivo",
+    "relacion": "suele ser",
+    "valor": "histológico"
+  },
+  {
+    "entidad": "Muestra para estudio anatomo-patológico",
+    "relacion": "puede ser obtenida mediante",
+    "valor": "biopsia percutánea o excisional"
+  }
+]

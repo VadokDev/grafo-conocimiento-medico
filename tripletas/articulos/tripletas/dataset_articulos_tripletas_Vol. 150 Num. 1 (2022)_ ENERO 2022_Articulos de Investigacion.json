@@ -1,0 +1,822 @@
+[
+  {
+    "entidad": "Cáncer pulmonar",
+    "relacion": "es",
+    "valor": "la principal causa de muerte por neoplasia maligna a nivel mundial"
+  },
+  {
+    "entidad": "Cáncer pulmonar",
+    "relacion": "provoca",
+    "valor": "aproximadamente 1,8 millones de defunciones cada año"
+  },
+  {
+    "entidad": "Cáncer pulmonar",
+    "relacion": "es",
+    "valor": "la tercera causa de muerte por cáncer en hombres en Chile"
+  },
+  {
+    "entidad": "Cáncer pulmonar",
+    "relacion": "es",
+    "valor": "la segunda causa de muerte por cáncer en mujeres en Chile"
+  },
+  {
+    "entidad": "Incidencia de cáncer pulmonar",
+    "relacion": "continúa en aumento",
+    "valor": "en Chile"
+  },
+  {
+    "entidad": "Consumo de tabaco",
+    "relacion": "afecta a",
+    "valor": "la incidencia de cáncer pulmonar en mujeres y jóvenes"
+  },
+  {
+    "entidad": "Cáncer pulmonar",
+    "relacion": "es",
+    "valor": "una enfermedad heterogénea con numerosas variables clínicas"
+  },
+  {
+    "entidad": "Estadios avanzados",
+    "relacion": "son",
+    "valor": "frecuentes en el diagnóstico de cáncer pulmonar"
+  },
+  {
+    "entidad": "Tratamiento",
+    "relacion": "es",
+    "valor": "principalmente paliativo en cáncer pulmonar"
+  },
+  {
+    "entidad": "Intervención quirúrgica",
+    "relacion": "es",
+    "valor": "oportunidad para el 10-25% de los pacientes con cáncer pulmonar"
+  },
+  {
+    "entidad": "Hospital Clínico Regional de Concepción",
+    "relacion": "realiza",
+    "valor": "cirugías resectivas en cáncer pulmonar"
+  },
+  {
+    "entidad": "Cáncer pulmonar",
+    "relacion": "se diagnostica en",
+    "valor": "estadios avanzados en más del 90% de los casos"
+  },
+  {
+    "entidad": "Cáncer pulmonar",
+    "relacion": "presenta",
+    "valor": "síntomas y/o signos al momento del diagnóstico"
+  },
+  {
+    "entidad": "Cáncer pulmonar",
+    "relacion": "se asocia a",
+    "valor": "metástasis al momento del diagnóstico"
+  },
+  {
+    "entidad": "Cáncer pulmonar de células no pequeñas (CPCNP)",
+    "relacion": "se clasifica según",
+    "valor": "el sistema TNM"
+  },
+  {
+    "entidad": "Mutaciones del gen EGFR",
+    "relacion": "se pesquisan en",
+    "valor": "histología de adenocarcinoma"
+  },
+  {
+    "entidad": "Terapia target",
+    "relacion": "se utiliza en",
+    "valor": "pacientes con mutaciones conductoras en cáncer pulmonar"
+  },
+  {
+    "entidad": "Supervivencia estimada a cinco años",
+    "relacion": "es",
+    "valor": "17,7% para cáncer pulmonar"
+  },
+  {
+    "entidad": "Supervivencia estimada a cinco años",
+    "relacion": "es",
+    "valor": "20,1% para cáncer pulmonar de células no pequeñas"
+  },
+  {
+    "entidad": "Adenocarcinoma",
+    "relacion": "es",
+    "valor": "el tipo histológico más frecuente en cáncer pulmonar"
+  },
+  {
+    "entidad": "Cáncer pulmonar",
+    "relacion": "se presenta principalmente en",
+    "valor": "hombres en la séptima década de la vida"
+  },
+  {
+    "entidad": "Plan Nacional de Cáncer",
+    "relacion": "es",
+    "valor": "una iniciativa del sistema de salud en Chile"
+  },
+  {
+    "entidad": "Comité Ético Científico del Servicio de Salud Concepción",
+    "relacion": "aprueba",
+    "valor": "el estudio y análisis del cáncer pulmonar"
+  },
+  {
+    "entidad": "pacientes diabéticos",
+    "relacion": "pertenece a",
+    "valor": "programa de salud cardiovascular"
+  },
+  {
+    "entidad": "pacientes hipertensos",
+    "relacion": "pertenece a",
+    "valor": "programa de salud cardiovascular"
+  },
+  {
+    "entidad": "hipertensión arterial (HTA)",
+    "relacion": "es un",
+    "valor": "factor de riesgo cardiovascular"
+  },
+  {
+    "entidad": "diabetes mellitus (DM)",
+    "relacion": "es un",
+    "valor": "factor de riesgo cardiovascular"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "es un",
+    "valor": "factor de riesgo cardiovascular"
+  },
+  {
+    "entidad": "dislipidemia",
+    "relacion": "es un",
+    "valor": "factor de riesgo cardiovascular"
+  },
+  {
+    "entidad": "enfermedad renal crónica",
+    "relacion": "es una",
+    "valor": "complicación asociada"
+  },
+  {
+    "entidad": "retinopatía diabética",
+    "relacion": "es una",
+    "valor": "complicación asociada"
+  },
+  {
+    "entidad": "infarto agudo al miocardio",
+    "relacion": "es una",
+    "valor": "complicación asociada"
+  },
+  {
+    "entidad": "accidente vascular encefálico",
+    "relacion": "es una",
+    "valor": "complicación asociada"
+  },
+  {
+    "entidad": "pie diabético",
+    "relacion": "es una",
+    "valor": "complicación asociada"
+  },
+  {
+    "entidad": "amputación",
+    "relacion": "es una",
+    "valor": "complicación asociada"
+  },
+  {
+    "entidad": "Centro de Salud Familiar (CESFAM) Garín",
+    "relacion": "ubicado en",
+    "valor": "Quinta Normal, Santiago, Chile"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile (MINSAL)",
+    "relacion": "proporciona",
+    "valor": "guías clínicas"
+  },
+  {
+    "entidad": "estrategias de salud pública",
+    "relacion": "enfocadas en",
+    "valor": "control de factores de riesgo modificables"
+  },
+  {
+    "entidad": "población adulta en Chile",
+    "relacion": "afectada por",
+    "valor": "hipertensión y diabetes"
+  },
+  {
+    "entidad": "población de adultos mayores",
+    "relacion": "es principalmente",
+    "valor": "afectada por riesgo cardiovascular elevado"
+  },
+  {
+    "entidad": "Plan GES",
+    "relacion": "es un",
+    "valor": "programa de garantías explícitas de salud en Chile"
+  },
+  {
+    "entidad": "CASEN 2017",
+    "relacion": "es un",
+    "valor": "fuente de datos para el estudio"
+  },
+  {
+    "entidad": "determinantes sociales de la salud",
+    "relacion": "influyen en",
+    "valor": "acceso al Plan GES"
+  },
+  {
+    "entidad": "FONASA",
+    "relacion": "es un",
+    "valor": "sistema de salud pública en Chile"
+  },
+  {
+    "entidad": "nacionalidad chilena",
+    "relacion": "aumenta",
+    "valor": "probabilidad de acceso al Plan GES"
+  },
+  {
+    "entidad": "nivel educacional básico o medio",
+    "relacion": "aumenta",
+    "valor": "probabilidad de acceso al Plan GES"
+  },
+  {
+    "entidad": "quintiles de ingresos bajos",
+    "relacion": "aumenta",
+    "valor": "probabilidad de acceso al Plan GES"
+  },
+  {
+    "entidad": "tramo de edad mayor de 60 años",
+    "relacion": "aumenta",
+    "valor": "probabilidad de acceso al Plan GES"
+  },
+  {
+    "entidad": "tramo de edad 0-18 años",
+    "relacion": "disminuye",
+    "valor": "probabilidad de acceso al Plan GES"
+  },
+  {
+    "entidad": "residencia rural",
+    "relacion": "disminuye",
+    "valor": "probabilidad de acceso al Plan GES"
+  },
+  {
+    "entidad": "quintil más alto de ingresos",
+    "relacion": "disminuye",
+    "valor": "probabilidad de acceso al Plan GES"
+  },
+  {
+    "entidad": "zona norte de Chile",
+    "relacion": "disminuye",
+    "valor": "probabilidad de acceso al Plan GES"
+  },
+  {
+    "entidad": "buena autopercepción de salud",
+    "relacion": "disminuye",
+    "valor": "probabilidad de acceso al Plan GES"
+  },
+  {
+    "entidad": "cáncer de mama",
+    "relacion": "tiene mayor probabilidad de ser atendido con",
+    "valor": "Plan GES"
+  },
+  {
+    "entidad": "diabetes mellitus 1 y 2",
+    "relacion": "tiene mayor probabilidad de ser atendido con",
+    "valor": "Plan GES"
+  },
+  {
+    "entidad": "infarto agudo al miocardio",
+    "relacion": "tiene mayor probabilidad de ser atendido con",
+    "valor": "Plan GES"
+  },
+  {
+    "entidad": "urgencia odontológica ambulatoria",
+    "relacion": "tiene menor probabilidad de ser atendido con",
+    "valor": "Plan GES"
+  },
+  {
+    "entidad": "cataratas",
+    "relacion": "tiene menor probabilidad de ser atendido con",
+    "valor": "Plan GES"
+  },
+  {
+    "entidad": "depresión",
+    "relacion": "tiene menor probabilidad de ser atendido con",
+    "valor": "Plan GES"
+  },
+  {
+    "entidad": "Sistema de Salud en Chile",
+    "relacion": "requiere",
+    "valor": "alineación de recursos humanos y financieros"
+  },
+  {
+    "entidad": "determinantes sociales",
+    "relacion": "afectan",
+    "valor": "desigualdades en salud"
+  },
+  {
+    "entidad": "Ley 19.966",
+    "relacion": "introdujo",
+    "valor": "derechos exigibles a servicios de salud"
+  },
+  {
+    "entidad": "Organización Panamericana de la Salud (OPS)",
+    "relacion": "apoya",
+    "valor": "cobertura sanitaria universal"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud (OMS)",
+    "relacion": "apoya",
+    "valor": "cobertura sanitaria universal"
+  },
+  {
+    "entidad": "programa multidimensional",
+    "relacion": "evalúa",
+    "valor": "efectividad en personas mayores"
+  },
+  {
+    "entidad": "personas mayores",
+    "relacion": "asisten a",
+    "valor": "centros diurnos en Chile"
+  },
+  {
+    "entidad": "centros diurnos",
+    "relacion": "tienen como objetivo",
+    "valor": "mantener a personas mayores en su entorno familiar"
+  },
+  {
+    "entidad": "Centro Integral para el Envejecimiento Feliz (CIEF)",
+    "relacion": "desarrolla",
+    "valor": "estudios sobre envejecimiento"
+  },
+  {
+    "entidad": "intervención multidimensional",
+    "relacion": "incluye",
+    "valor": "ejercicios guiados y actividades educativas"
+  },
+  {
+    "entidad": "evaluación integral",
+    "relacion": "es parte de",
+    "valor": "metodología de intervención"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "se mide mediante",
+    "valor": "examen EQ-5D"
+  },
+  {
+    "entidad": "síntomas de depresión",
+    "relacion": "se miden con",
+    "valor": "índice Yesavage"
+  },
+  {
+    "entidad": "alfabetización en salud",
+    "relacion": "se mide por",
+    "valor": "índice SAHLSA"
+  },
+  {
+    "entidad": "funcionalidad",
+    "relacion": "se mide mediante",
+    "valor": "Índice Barthel"
+  },
+  {
+    "entidad": "intervención multidimensional",
+    "relacion": "mejora",
+    "valor": "salud física y literacidad"
+  },
+  {
+    "entidad": "población mayor de 60 años",
+    "relacion": "representa",
+    "valor": "16.2% de la población chilena según censo 2017"
+  },
+  {
+    "entidad": "población mundial",
+    "relacion": "se espera que supere",
+    "valor": "1.5 billones de personas mayores para 2050"
+  },
+  {
+    "entidad": "programa CEDIAM",
+    "relacion": "inició en",
+    "valor": "2013 en Chile"
+  },
+  {
+    "entidad": "programas multidimensionales",
+    "relacion": "podrían ser",
+    "valor": "una política exitosa y de bajo costo"
+  },
+  {
+    "entidad": "intervención multidimensional",
+    "relacion": "es factible y medible",
+    "valor": "en el contexto de personas mayores"
+  },
+  {
+    "entidad": "envejecimiento activo",
+    "relacion": "es promovido por",
+    "valor": "centros diurnos en Chile"
+  },
+  {
+    "entidad": "intervención multidimensional",
+    "relacion": "debe mantenerse",
+    "valor": "en el tiempo con actividades semanales"
+  },
+  {
+    "entidad": "telesalud",
+    "relacion": "es un",
+    "valor": "sistema sanitario"
+  },
+  {
+    "entidad": "programa de ejercicio físico terapéutico (PEFT)",
+    "relacion": "se basa en",
+    "valor": "telesalud"
+  },
+  {
+    "entidad": "osteoporosis",
+    "relacion": "es una",
+    "valor": "patología articular degenerativa"
+  },
+  {
+    "entidad": "osteoporosis",
+    "relacion": "afecta a",
+    "valor": "más de 250 millones de personas mundialmente"
+  },
+  {
+    "entidad": "osteoporosis",
+    "relacion": "presenta manifestaciones clínicas de",
+    "valor": "dolor articular y restricción de la movilidad"
+  },
+  {
+    "entidad": "ejercicio multicomponente (EMC)",
+    "relacion": "es un",
+    "valor": "tratamiento utilizado en personas con osteoartritis"
+  },
+  {
+    "entidad": "ejercicio multicomponente (EMC)",
+    "relacion": "combina",
+    "valor": "ejercicios aeróbicos, de fuerza muscular, flexibilidad, equilibrio y marcha"
+  },
+  {
+    "entidad": "telesalud",
+    "relacion": "facilita",
+    "valor": "atención en salud"
+  },
+  {
+    "entidad": "WhatsApp",
+    "relacion": "es una",
+    "valor": "herramienta de comunicación en salud"
+  },
+  {
+    "entidad": "programa de ejercicio físico terapéutico (PEFT)",
+    "relacion": "mejora",
+    "valor": "capacidad funcional en pacientes con osteoartritis"
+  },
+  {
+    "entidad": "grupo experimental (GE)",
+    "relacion": "recibe",
+    "valor": "PEFT a distancia"
+  },
+  {
+    "entidad": "grupo control (GC)",
+    "relacion": "recibe",
+    "valor": "instrucciones de ejercicios impresas"
+  },
+  {
+    "entidad": "escala visual análoga (EVA)",
+    "relacion": "evalúa",
+    "valor": "percepción del dolor"
+  },
+  {
+    "entidad": "índice de Barthel (IB)",
+    "relacion": "evalúa",
+    "valor": "nivel de independencia"
+  },
+  {
+    "entidad": "Short Physical Performance Battery (SPPB)",
+    "relacion": "evalúa",
+    "valor": "capacidad funcional"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "garantiza",
+    "valor": "tratamiento médico en personas con artrosis"
+  },
+  {
+    "entidad": "telesalud",
+    "relacion": "es una",
+    "valor": "alternativa terapéutica"
+  },
+  {
+    "entidad": "autocuidado",
+    "relacion": "es parte de",
+    "valor": "tratamiento no farmacológico en osteoartritis"
+  },
+  {
+    "entidad": "programa Vivifrail",
+    "relacion": "es un",
+    "valor": "programa utilizado para implementar el EMC"
+  },
+  {
+    "entidad": "telesalud",
+    "relacion": "disminuye",
+    "valor": "barreras de distancia, tiempo y costo en salud"
+  },
+  {
+    "entidad": "ejercicio físico",
+    "relacion": "promueve",
+    "valor": "autocuidado en pacientes con osteoartritis"
+  },
+  {
+    "entidad": "menopausia",
+    "relacion": "define como",
+    "valor": "cese definitivo de la menstruación"
+  },
+  {
+    "entidad": "mujeres chilenas",
+    "relacion": "asisten a",
+    "valor": "centros de atención primaria de salud"
+  },
+  {
+    "entidad": "menopausia",
+    "relacion": "conecta con",
+    "valor": "representaciones sociales relacionadas con el envejecimiento"
+  },
+  {
+    "entidad": "menopausia",
+    "relacion": "divide",
+    "valor": "ciclo vital de las mujeres en dos etapas"
+  },
+  {
+    "entidad": "cultura",
+    "relacion": "influye en",
+    "valor": "percepción de la menopausia"
+  },
+  {
+    "entidad": "síntomas de menopausia",
+    "relacion": "incluyen",
+    "valor": "disminución del deseo sexual, sequedad vaginal, bochornos, dolor de cabeza, irritabilidad y sensación de debilidad"
+  },
+  {
+    "entidad": "menopausia",
+    "relacion": "es percibida como",
+    "valor": "etapa natural y final de la reproducción"
+  },
+  {
+    "entidad": "cultura",
+    "relacion": "transmite",
+    "valor": "creencias negativas sobre la menopausia"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "viven la menopausia como",
+    "valor": "experiencia solitaria"
+  },
+  {
+    "entidad": "menopausia",
+    "relacion": "asociada a",
+    "valor": "envejecimiento y aparición de enfermedades"
+  },
+  {
+    "entidad": "profesionales de la salud",
+    "relacion": "deben enfocarse en",
+    "valor": "necesidades de las mujeres durante la menopausia"
+  },
+  {
+    "entidad": "menopausia",
+    "relacion": "debe ser abordada con",
+    "valor": "normalidad"
+  },
+  {
+    "entidad": "menopausia",
+    "relacion": "se considera un",
+    "valor": "proceso doloroso y de sufrimiento"
+  },
+  {
+    "entidad": "mujeres chilenas",
+    "relacion": "informan que",
+    "valor": "la menopausia es una etapa normal"
+  },
+  {
+    "entidad": "menopausia",
+    "relacion": "se relaciona con",
+    "valor": "pérdida de la capacidad reproductiva"
+  },
+  {
+    "entidad": "menopausia",
+    "relacion": "es vista como",
+    "valor": "señal de envejecimiento"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "buscan",
+    "valor": "apoyo en su entorno social durante la menopausia"
+  },
+  {
+    "entidad": "menopausia",
+    "relacion": "afecta",
+    "valor": "la sexualidad y la percepción de la pareja"
+  },
+  {
+    "entidad": "menopausia",
+    "relacion": "es un tema",
+    "valor": "poco discutido entre mujeres"
+  },
+  {
+    "entidad": "menopausia",
+    "relacion": "debe ser entendida como",
+    "valor": "parte del ciclo vital femenino"
+  },
+  {
+    "entidad": "artrosis",
+    "relacion": "es un",
+    "valor": "problema de salud"
+  },
+  {
+    "entidad": "mujeres chilenas de mediana edad",
+    "relacion": "presentan",
+    "valor": "factores de riesgo para artrosis"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "es un",
+    "valor": "factor de riesgo para artrosis"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "es un",
+    "valor": "factor de riesgo para artrosis"
+  },
+  {
+    "entidad": "trabajo no calificado",
+    "relacion": "es un",
+    "valor": "factor de riesgo para artrosis"
+  },
+  {
+    "entidad": "diabetes mellitus tipo 2",
+    "relacion": "se asocia con",
+    "valor": "artrosis"
+  },
+  {
+    "entidad": "hipertensión crónica",
+    "relacion": "se asocia con",
+    "valor": "artrosis"
+  },
+  {
+    "entidad": "mujeres de 40 a 59 años",
+    "relacion": "fueron evaluadas en",
+    "valor": "un estudio de cohorte"
+  },
+  {
+    "entidad": "Cox regression",
+    "relacion": "se utilizó para evaluar",
+    "valor": "factores de riesgo de artrosis"
+  },
+  {
+    "entidad": "Servicio de Salud Metropolitano Sur",
+    "relacion": "realizó",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "Colegio Americano de Reumatología",
+    "relacion": "define",
+    "valor": "artrosis como la forma más común de artritis"
+  },
+  {
+    "entidad": "costo anual por dolor musculoesquelético en Chile",
+    "relacion": "es",
+    "valor": "1.387,2 millones de dólares"
+  },
+  {
+    "entidad": "artrosis de rodilla",
+    "relacion": "explica",
+    "valor": "27,1% del costo anual por dolor musculoesquelético"
+  },
+  {
+    "entidad": "mujeres mayores de 65 años",
+    "relacion": "tienen una prevalencia de",
+    "valor": "artrosis de 19,5%"
+  },
+  {
+    "entidad": "estilo de vida sedentario",
+    "relacion": "es un",
+    "valor": "factor de riesgo para artrosis"
+  },
+  {
+    "entidad": "artrosis",
+    "relacion": "se considera un",
+    "valor": "marcador de multimorbilidad"
+  },
+  {
+    "entidad": "artrosis",
+    "relacion": "se asocia con",
+    "valor": "diabetes mellitus y depresión"
+  },
+  {
+    "entidad": "mujeres con artrosis",
+    "relacion": "son",
+    "valor": "mayores y tienen IMC más alto que las que no tienen artrosis"
+  },
+  {
+    "entidad": "regresión de Cox",
+    "relacion": "mostró",
+    "valor": "factores de riesgo de artrosis"
+  },
+  {
+    "entidad": "artrosis",
+    "relacion": "puede ser",
+    "valor": "modificada con cuidado adecuado"
+  },
+  {
+    "entidad": "Inteligencia emocional",
+    "relacion": "se relaciona con",
+    "valor": "bienestar físico y psicológico"
+  },
+  {
+    "entidad": "Inteligencia emocional",
+    "relacion": "se relaciona con",
+    "valor": "satisfacción personal"
+  },
+  {
+    "entidad": "Inteligencia emocional",
+    "relacion": "se relaciona con",
+    "valor": "mejor rendimiento académico"
+  },
+  {
+    "entidad": "estudiantes de salud",
+    "relacion": "requieren",
+    "valor": "adaptarse a nuevas exigencias académicas"
+  },
+  {
+    "entidad": "inteligencia emocional",
+    "relacion": "es susceptible de",
+    "valor": "entrenamiento"
+  },
+  {
+    "entidad": "universidades",
+    "relacion": "incorporan",
+    "valor": "estrategias para favorecer rendimiento académico"
+  },
+  {
+    "entidad": "Universidad de La Frontera",
+    "relacion": "ofrece",
+    "valor": "acompañamiento académico y psicoeducativo"
+  },
+  {
+    "entidad": "inteligencia emocional",
+    "relacion": "predice",
+    "valor": "progresión del curso"
+  },
+  {
+    "entidad": "inteligencia emocional",
+    "relacion": "predice",
+    "valor": "rendimiento en la práctica clínica"
+  },
+  {
+    "entidad": "inteligencia emocional",
+    "relacion": "predice",
+    "valor": "rendimiento académico general"
+  },
+  {
+    "entidad": "estudiantes universitarios",
+    "relacion": "presentan",
+    "valor": "menos ansiedad social"
+  },
+  {
+    "entidad": "estudiantes universitarios",
+    "relacion": "presentan",
+    "valor": "menos depresión"
+  },
+  {
+    "entidad": "estudiantes universitarios",
+    "relacion": "mejoran",
+    "valor": "calidad de relaciones sociales"
+  },
+  {
+    "entidad": "inteligencia emocional",
+    "relacion": "se relaciona con",
+    "valor": "bienestar psicológico"
+  },
+  {
+    "entidad": "inteligencia emocional",
+    "relacion": "actúa como",
+    "valor": "predictora de adaptación social"
+  },
+  {
+    "entidad": "inteligencia emocional",
+    "relacion": "facilita",
+    "valor": "interacciones sociales"
+  },
+  {
+    "entidad": "estudiantes de primer año",
+    "relacion": "se evalúa",
+    "valor": "inteligencia emocional al inicio y final del año académico"
+  },
+  {
+    "entidad": "inteligencia emocional",
+    "relacion": "se mide a través de",
+    "valor": "cuestionarios sociodemográficos y de EI"
+  },
+  {
+    "entidad": "inteligencia emocional",
+    "relacion": "se considera",
+    "valor": "un factor relevante en habilidades personales"
+  },
+  {
+    "entidad": "estudiantes con gratuidad",
+    "relacion": "tienen",
+    "valor": "niveles más bajos de inteligencia emocional"
+  },
+  {
+    "entidad": "inteligencia emocional",
+    "relacion": "es un aspecto a considerar en",
+    "valor": "habilidades y facultades de los individuos"
+  }
+]

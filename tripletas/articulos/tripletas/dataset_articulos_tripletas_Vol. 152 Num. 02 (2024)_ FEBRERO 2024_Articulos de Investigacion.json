@@ -1,0 +1,412 @@
+[
+  {
+    "entidad": "EULAT eCollect",
+    "relacion": "es una",
+    "valor": "aplicación para el registro electrónico de datos"
+  },
+  {
+    "entidad": "Consorcio Europeo-Latinoamericano contra el Cáncer de Vesícula Biliar",
+    "relacion": "tiene como objetivo",
+    "valor": "erradicar el cáncer de vesícula biliar"
+  },
+  {
+    "entidad": "Horizon2020",
+    "relacion": "financia",
+    "valor": "el desarrollo de EULAT eCollect"
+  },
+  {
+    "entidad": "EULAT Eradicate GBC",
+    "relacion": "recopila",
+    "valor": "datos y muestras de alta calidad"
+  },
+  {
+    "entidad": "Argentina",
+    "relacion": "es un",
+    "valor": "país participante en el estudio"
+  },
+  {
+    "entidad": "Bolivia",
+    "relacion": "es un",
+    "valor": "país participante en el estudio"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "es un",
+    "valor": "país participante en el estudio"
+  },
+  {
+    "entidad": "Perú",
+    "relacion": "es un",
+    "valor": "país participante en el estudio"
+  },
+  {
+    "entidad": "biorepositorio",
+    "relacion": "es un",
+    "valor": "objetivo del consorcio"
+  },
+  {
+    "entidad": "biomarcadores de riesgo",
+    "relacion": "son",
+    "valor": "nuevos objetivos de investigación"
+  },
+  {
+    "entidad": "modelos predictivos",
+    "relacion": "se desarrollan para",
+    "valor": "integrar factores de riesgo"
+  },
+  {
+    "entidad": "EULAT eCollect",
+    "relacion": "facilita",
+    "valor": "la recolección de datos sociodemográficos y clínicos"
+  },
+  {
+    "entidad": "Open Data Kit",
+    "relacion": "es el software utilizado para",
+    "valor": "implementar EULAT eCollect"
+  },
+  {
+    "entidad": "cáncer de vesícula biliar",
+    "relacion": "es una",
+    "valor": "neoplasia común en Sudamérica"
+  },
+  {
+    "entidad": "factores de riesgo",
+    "relacion": "incluyen",
+    "valor": "sexo femenino, edad, colelitiasis, obesidad"
+  },
+  {
+    "entidad": "Consorcio EULAT Eradicate GBC",
+    "relacion": "requiere",
+    "valor": "colaboración entre investigadores"
+  },
+  {
+    "entidad": "EULAT eCollect",
+    "relacion": "reduce",
+    "valor": "el uso de papel y tinta"
+  },
+  {
+    "entidad": "EULAT eCollect",
+    "relacion": "minimiza",
+    "valor": "costes y errores en la recopilación de datos"
+  },
+  {
+    "entidad": "módulos de EULAT eCollect",
+    "relacion": "incluyen",
+    "valor": "entrevista sociodemográfica, información sobre muestras, formulario de informe de casos, cuestionario de hábitos alimenticios"
+  },
+  {
+    "entidad": "Comité de Ética de la Investigación en Seres Humanos",
+    "relacion": "aprobó",
+    "valor": "el presente trabajo"
+  },
+  {
+    "entidad": "código de barras",
+    "relacion": "se utiliza para",
+    "valor": "identificar muestras en el estudio"
+  },
+  {
+    "entidad": "Hospital Herminda Martín de Chillán",
+    "relacion": "realiza",
+    "valor": "estudio de caso-control"
+  },
+  {
+    "entidad": "factores de riesgo",
+    "relacion": "asociados a",
+    "valor": "infarto cerebral"
+  },
+  {
+    "entidad": "hipertensión",
+    "relacion": "es un",
+    "valor": "factor de riesgo"
+  },
+  {
+    "entidad": "diabetes mellitus tipo 2",
+    "relacion": "es un",
+    "valor": "factor de riesgo"
+  },
+  {
+    "entidad": "malnutrición por exceso",
+    "relacion": "es un",
+    "valor": "factor de riesgo"
+  },
+  {
+    "entidad": "consumo de tabaco",
+    "relacion": "es un",
+    "valor": "factor de riesgo"
+  },
+  {
+    "entidad": "exposición a humo de tabaco",
+    "relacion": "es un",
+    "valor": "factor de riesgo"
+  },
+  {
+    "entidad": "consumo de alcohol",
+    "relacion": "es un",
+    "valor": "factor de riesgo"
+  },
+  {
+    "entidad": "sedentarismo",
+    "relacion": "es un",
+    "valor": "factor de riesgo"
+  },
+  {
+    "entidad": "inasistencia a controles de salud",
+    "relacion": "es un",
+    "valor": "factor de riesgo"
+  },
+  {
+    "entidad": "baja adherencia a dieta mediterránea",
+    "relacion": "es un",
+    "valor": "factor de riesgo"
+  },
+  {
+    "entidad": "Patricia Caro",
+    "relacion": "es un",
+    "valor": "investigador principal"
+  },
+  {
+    "entidad": "Universidad Católica del Uruguay",
+    "relacion": "pertenece a",
+    "valor": "Patricia Caro"
+  },
+  {
+    "entidad": "Instituto de Salud Pública",
+    "relacion": "pertenece a",
+    "valor": "Lorena Hoffmeister"
+  },
+  {
+    "entidad": "Centro de Epidemiología y Políticas de Salud",
+    "relacion": "pertenece a",
+    "valor": "Pablo Lavados"
+  },
+  {
+    "entidad": "Clínica Alemana de Santiago",
+    "relacion": "pertenece a",
+    "valor": "Pablo Lavados"
+  },
+  {
+    "entidad": "Región de Ñuble",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "Beca Doctorado Nacional/2014",
+    "relacion": "financia",
+    "valor": "estudio"
+  },
+  {
+    "entidad": "Fondo de investigación con foco productivo",
+    "relacion": "financia",
+    "valor": "estudio"
+  },
+  {
+    "entidad": "políticas públicas",
+    "relacion": "modifican",
+    "valor": "factores de riesgo"
+  },
+  {
+    "entidad": "sistema de salud",
+    "relacion": "debe fortalecer",
+    "valor": "prevención primaria del infarto cerebral"
+  },
+  {
+    "entidad": "diabesidad",
+    "relacion": "se define como",
+    "valor": "coexistencia de obesidad y diabetes mellitus tipo 2 (DMT2)"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud 2016-2017",
+    "relacion": "utiliza",
+    "valor": "datos para determinar prevalencia"
+  },
+  {
+    "entidad": "prediabesidad",
+    "relacion": "es un tipo de",
+    "valor": "fenotipo relacionado con DMT2"
+  },
+  {
+    "entidad": "diabesidad",
+    "relacion": "es un problema de",
+    "valor": "salud a nivel mundial"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "es un factor de riesgo para",
+    "valor": "enfermedades crónicas"
+  },
+  {
+    "entidad": "DMT2",
+    "relacion": "es un trastorno",
+    "valor": "metabólico crónico"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud (OMS)",
+    "relacion": "reporta",
+    "valor": "prevalencia de obesidad mundial"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "presenta",
+    "valor": "alta carga de diabesidad y obesidad"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen mayor prevalencia de",
+    "valor": "diabesidad"
+  },
+  {
+    "entidad": "nivel educacional",
+    "relacion": "es un factor protector de",
+    "valor": "DMT2"
+  },
+  {
+    "entidad": "ingreso económico bajo",
+    "relacion": "se asocia a",
+    "valor": "mayor riesgo de DMT2 y obesidad"
+  },
+  {
+    "entidad": "edad promedio de diagnóstico de DMT2",
+    "relacion": "es menor en",
+    "valor": "personas con sobrepeso u obesidad"
+  },
+  {
+    "entidad": "estilos de vida saludables",
+    "relacion": "son necesarios para",
+    "valor": "prevenir diabesidad"
+  },
+  {
+    "entidad": "porcentaje de grasa corporal",
+    "relacion": "es un marcador",
+    "valor": "temprano de diabesidad"
+  },
+  {
+    "entidad": "Comité de Ética de la Escuela de Medicina de la Pontificia Universidad Católica de Chile",
+    "relacion": "aprueba",
+    "valor": "protocolo de la ENS"
+  },
+  {
+    "entidad": "Grupo de investigación ELHOC",
+    "relacion": "contribuye a",
+    "valor": "la investigación"
+  },
+  {
+    "entidad": "Esteatosis Hepática",
+    "relacion": "es",
+    "valor": "la enfermedad hepática crónica más frecuente a nivel mundial"
+  },
+  {
+    "entidad": "Esteatosis Hepática",
+    "relacion": "asocia a",
+    "valor": "esteatohepatitis"
+  },
+  {
+    "entidad": "Esteatosis Hepática",
+    "relacion": "asocia a",
+    "valor": "fibrosis"
+  },
+  {
+    "entidad": "Esteatosis Hepática",
+    "relacion": "asocia a",
+    "valor": "cirrosis"
+  },
+  {
+    "entidad": "Esteatosis Hepática",
+    "relacion": "asocia a",
+    "valor": "hepatocarcinoma"
+  },
+  {
+    "entidad": "Unidad de Medicina Preventiva",
+    "relacion": "evalúa",
+    "valor": "prevalencia de Esteatosis Hepática"
+  },
+  {
+    "entidad": "ecografía abdominal",
+    "relacion": "se utiliza para",
+    "valor": "diagnosticar esteatosis hepática"
+  },
+  {
+    "entidad": "pacientes con esteatosis hepática",
+    "relacion": "presentan",
+    "valor": "mayor edad"
+  },
+  {
+    "entidad": "pacientes con esteatosis hepática",
+    "relacion": "tienen",
+    "valor": "mayor proporción de sexo masculino"
+  },
+  {
+    "entidad": "Esteatosis Hepática Metabólica",
+    "relacion": "es",
+    "valor": "la causa más frecuente de esteatosis hepática"
+  },
+  {
+    "entidad": "Asociación Americana de Estudio del Hígado (AASLD)",
+    "relacion": "colabora en",
+    "valor": "diseño de nueva nomenclatura"
+  },
+  {
+    "entidad": "nueva nomenclatura",
+    "relacion": "clasifica",
+    "valor": "esteatosis hepática en 5 grupos"
+  },
+  {
+    "entidad": "intervenciones en estilo de vida",
+    "relacion": "demuestran",
+    "valor": "mejoría de la histología hepática"
+  },
+  {
+    "entidad": "pérdida de peso de 3-5%",
+    "relacion": "demuestra",
+    "valor": "mejoría de la esteatosis hepática"
+  },
+  {
+    "entidad": "Unidad de Medicina Preventiva",
+    "relacion": "realiza",
+    "valor": "evaluación médica completa"
+  },
+  {
+    "entidad": "evaluación médica completa",
+    "relacion": "es efectuada por",
+    "valor": "especialistas"
+  },
+  {
+    "entidad": "diagnóstico temprano de esteatosis hepática",
+    "relacion": "es importante para",
+    "valor": "detener la progresión de la enfermedad"
+  },
+  {
+    "entidad": "pacientes con fibrosis hepática avanzada",
+    "relacion": "tienen",
+    "valor": "aumento en costos de salud"
+  },
+  {
+    "entidad": "ecografía abdominal",
+    "relacion": "es",
+    "valor": "el método más utilizado para diagnóstico"
+  },
+  {
+    "entidad": "ecografía abdominal",
+    "relacion": "tiene",
+    "valor": "sensibilidad y especificidad de aproximadamente 85 y 94%"
+  },
+  {
+    "entidad": "nueva nomenclatura",
+    "relacion": "da cuenta de",
+    "valor": "que el alcohol es un contribuyente en la patogenia de la enfermedad"
+  },
+  {
+    "entidad": "esteatosis hepática",
+    "relacion": "presenta",
+    "valor": "una relación bidireccional con enfermedad cardiovascular"
+  },
+  {
+    "entidad": "esteatosis hepática",
+    "relacion": "es considerada",
+    "valor": "una de las principales causas de cirrosis"
+  },
+  {
+    "entidad": "esteatosis hepática",
+    "relacion": "es considerada",
+    "valor": "una de las principales causas de hepatocarcinoma"
+  }
+]

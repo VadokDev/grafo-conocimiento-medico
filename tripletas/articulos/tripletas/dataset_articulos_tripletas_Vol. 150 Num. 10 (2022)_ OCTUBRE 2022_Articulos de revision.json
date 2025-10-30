@@ -1,0 +1,177 @@
+[
+  {
+    "entidad": "oxígeno",
+    "relacion": "tiene efectos",
+    "valor": "beneficiosos y perjudiciales"
+  },
+  {
+    "entidad": "hipoxia hipobárica",
+    "relacion": "afecta a",
+    "valor": "función ventricular"
+  },
+  {
+    "entidad": "oxígeno hiperbárico",
+    "relacion": "se utiliza en",
+    "valor": "curación de heridas"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "aprueba",
+    "valor": "protocolo de vigilancia para trabajadores expuestos a condiciones hiperbáricas"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "es un",
+    "valor": "laboratorio natural para estudiar respuestas a hipobaria y hiperbaria"
+  },
+  {
+    "entidad": "hipoxia hipobárica intermitente",
+    "relacion": "induce",
+    "valor": "protección cardiovascular"
+  },
+  {
+    "entidad": "oxígeno hiperbárico",
+    "relacion": "se utiliza en",
+    "valor": "tratamiento de lesiones inducidas por radioterapia"
+  },
+  {
+    "entidad": "oxigenoterapia hiperbárica",
+    "relacion": "reduce",
+    "valor": "tasa de amputación en pacientes con pie diabético"
+  },
+  {
+    "entidad": "oxígeno",
+    "relacion": "salva",
+    "valor": "vidas"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "motiva",
+    "valor": "investigaciones sobre oxigenoterapia hiperbárica"
+  },
+  {
+    "entidad": "oxígeno hiperbárico",
+    "relacion": "mejora",
+    "valor": "funciones cognitivas en pacientes post-COVID"
+  },
+  {
+    "entidad": "hipoxia intermitente subletal",
+    "relacion": "induce",
+    "valor": "protección contra hipoxias letales"
+  },
+  {
+    "entidad": "mineros chilenos",
+    "relacion": "experimentan",
+    "valor": "exposición a hipoxia hipobárica intermitente"
+  },
+  {
+    "entidad": "oxígeno hiperbárico",
+    "relacion": "se utiliza en",
+    "valor": "tratamiento de osteonecrosis"
+  },
+  {
+    "entidad": "oxígeno",
+    "relacion": "afecta a",
+    "valor": "metabolismo de carbohidratos"
+  },
+  {
+    "entidad": "oxígeno hiperbárico",
+    "relacion": "provoca",
+    "valor": "vasoconstricción"
+  },
+  {
+    "entidad": "sistema Nitrox",
+    "relacion": "se utiliza en",
+    "valor": "buceo comercial"
+  },
+  {
+    "entidad": "cámara hiperbárica",
+    "relacion": "se utiliza para",
+    "valor": "tratamiento de diversas patologías"
+  },
+  {
+    "entidad": "oxígeno hiperbárico",
+    "relacion": "se asocia con",
+    "valor": "mejoría en cicatrización de úlceras"
+  },
+  {
+    "entidad": "lesiones inducidas por radioterapia",
+    "relacion": "se tratan con",
+    "valor": "oxigenoterapia hiperbárica"
+  },
+  {
+    "entidad": "tumores musculoesqueléticos",
+    "relacion": "son",
+    "valor": "poco frecuentes"
+  },
+  {
+    "entidad": "diagnóstico de sarcomas",
+    "relacion": "es",
+    "valor": "frecuentemente erróneo o retrasado"
+  },
+  {
+    "entidad": "evaluación clínica y radiológica",
+    "relacion": "son",
+    "valor": "críticos para diagnóstico y tratamiento"
+  },
+  {
+    "entidad": "tumores benignos",
+    "relacion": "superan",
+    "valor": "en frecuencia a tumores malignos"
+  },
+  {
+    "entidad": "sarcomas de partes blandas",
+    "relacion": "tienen",
+    "valor": "más de 70 subtipos"
+  },
+  {
+    "entidad": "neoplasias malignas",
+    "relacion": "se estima que aumenten",
+    "valor": "entre 60% y 77% para el año 2040"
+  },
+  {
+    "entidad": "diagnóstico precoz",
+    "relacion": "mejora",
+    "valor": "resultados en cánceres"
+  },
+  {
+    "entidad": "tumores musculoesqueléticos",
+    "relacion": "pueden presentar",
+    "valor": "síntomas variados"
+  },
+  {
+    "entidad": "ecografía",
+    "relacion": "es",
+    "valor": "una técnica de bajo costo para tumores de partes blandas"
+  },
+  {
+    "entidad": "resonancia magnética",
+    "relacion": "es",
+    "valor": "el método principal para tumores malignos"
+  },
+  {
+    "entidad": "biopsia",
+    "relacion": "debe realizarse",
+    "valor": "con criterios oncológicos claros"
+  },
+  {
+    "entidad": "sarcomas",
+    "relacion": "serán tratados con",
+    "valor": "resección, radioterapia, quimioterapia o terapias dirigidas"
+  },
+  {
+    "entidad": "tumores musculoesqueléticos",
+    "relacion": "son",
+    "valor": "un grupo heterogéneo de lesiones"
+  },
+  {
+    "entidad": "médico no especialista",
+    "relacion": "debe realizar",
+    "valor": "una correcta evaluación clínica"
+  },
+  {
+    "entidad": "derivación a especialista",
+    "relacion": "es",
+    "valor": "fundamental para mejorar pronóstico"
+  }
+]

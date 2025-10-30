@@ -1,0 +1,77 @@
+[
+  {
+    "entidad": "Erysipelothrix rhusiopathiae",
+    "relacion": "es un",
+    "valor": "bacilo gram positivo"
+  },
+  {
+    "entidad": "Erysipelothrix rhusiopathiae",
+    "relacion": "causa",
+    "valor": "endocarditis infecciosa"
+  },
+  {
+    "entidad": "hombre",
+    "relacion": "es un",
+    "valor": "huésped accidental"
+  },
+  {
+    "entidad": "infección",
+    "relacion": "se adquiere a través de",
+    "valor": "contacto con animales enfermos"
+  },
+  {
+    "entidad": "endocarditis infecciosa",
+    "relacion": "tiene una mortalidad",
+    "valor": "cercana al 40%"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "fiebre de un mes"
+  },
+  {
+    "entidad": "ecocardiograma",
+    "relacion": "muestra",
+    "valor": "vegetación y perforación de la válvula aórtica"
+  },
+  {
+    "entidad": "hemocultivos",
+    "relacion": "desarrollan",
+    "valor": "E. rhusiopathiae"
+  },
+  {
+    "entidad": "tratamiento",
+    "relacion": "es con",
+    "valor": "penicilina"
+  },
+  {
+    "entidad": "reemplazo valvular aórtico",
+    "relacion": "se realiza después de",
+    "valor": "tres semanas de tratamiento"
+  },
+  {
+    "entidad": "Erysipelothrix rhusiopathiae",
+    "relacion": "es resistente a",
+    "valor": "vancomicina"
+  },
+  {
+    "entidad": "Erysipelothrix rhusiopathiae",
+    "relacion": "es sensible a",
+    "valor": "penicilina y ampicilina"
+  },
+  {
+    "entidad": "tratamiento antibiótico",
+    "relacion": "es exitoso en",
+    "valor": "el caso descrito"
+  },
+  {
+    "entidad": "prevención",
+    "relacion": "incluye",
+    "valor": "lavado de manos y uso de guantes"
+  },
+  {
+    "entidad": "endocarditis infecciosa",
+    "relacion": "debe ser considerada en",
+    "valor": "hemocultivos con bacilos gram positivos"
+  }
+]

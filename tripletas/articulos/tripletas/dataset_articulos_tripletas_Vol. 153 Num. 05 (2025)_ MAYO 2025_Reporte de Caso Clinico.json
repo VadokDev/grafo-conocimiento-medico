@@ -1,0 +1,172 @@
+[
+  {
+    "entidad": "Angioedema adquirido",
+    "relacion": "es un",
+    "valor": "síndrome poco frecuente"
+  },
+  {
+    "entidad": "deficiencia del inhibidor de C1",
+    "relacion": "causa",
+    "valor": "angioedema adquirido"
+  },
+  {
+    "entidad": "angioedema adquirido",
+    "relacion": "se caracteriza por",
+    "valor": "episodios de edema agudo facial"
+  },
+  {
+    "entidad": "linfoma de zona marginal",
+    "relacion": "es un",
+    "valor": "subtipo de linfoma no Hodgkin"
+  },
+  {
+    "entidad": "linfoma de zona marginal",
+    "relacion": "asocia con",
+    "valor": "déficit adquirido del inhibidor de C1"
+  },
+  {
+    "entidad": "mujer de 75 años",
+    "relacion": "presenta",
+    "valor": "episodios de angioedema adquirido"
+  },
+  {
+    "entidad": "angioedema adquirido",
+    "relacion": "puede comprometer",
+    "valor": "vía aérea"
+  },
+  {
+    "entidad": "linfoma de zona marginal",
+    "relacion": "requiere",
+    "valor": "terapia específica"
+  },
+  {
+    "entidad": "rituximab",
+    "relacion": "es un",
+    "valor": "tratamiento para linfomas"
+  },
+  {
+    "entidad": "angioedema adquirido",
+    "relacion": "puede ser tratado con",
+    "valor": "inhibidor de C1 esterasa"
+  },
+  {
+    "entidad": "angioedema adquirido",
+    "relacion": "puede ser secundario a",
+    "valor": "recaída de linfoma"
+  },
+  {
+    "entidad": "diagnóstico de angioedema adquirido",
+    "relacion": "debe ser confirmado por",
+    "valor": "análisis de laboratorio"
+  },
+  {
+    "entidad": "terapia de segunda línea",
+    "relacion": "incluye",
+    "valor": "R-COP"
+  },
+  {
+    "entidad": "angioedema adquirido",
+    "relacion": "requiere",
+    "valor": "diagnóstico precoz"
+  },
+  {
+    "entidad": "episodios de angioedema",
+    "relacion": "deben ser considerados como",
+    "valor": "marcadores indirectos de actividad tumoral"
+  },
+  {
+    "entidad": "Proctitis",
+    "relacion": "es un tipo de",
+    "valor": "inflamación de la mucosa del recto"
+  },
+  {
+    "entidad": "Colitis ulcerosa",
+    "relacion": "es una causa de",
+    "valor": "proctitis"
+  },
+  {
+    "entidad": "Infecciones de transmisión sexual (ITS)",
+    "relacion": "pueden comenzar como",
+    "valor": "proctitis"
+  },
+  {
+    "entidad": "Chlamydia trachomatis",
+    "relacion": "es un patógeno que causa",
+    "valor": "proctitis"
+  },
+  {
+    "entidad": "Hombre de 34 años",
+    "relacion": "tiene",
+    "valor": "infección por VIH"
+  },
+  {
+    "entidad": "Tratamiento antirretroviral",
+    "relacion": "es administrado con",
+    "valor": "Truvada (Emtricitabina/tenofovir)"
+  },
+  {
+    "entidad": "Colitis ulcerosa",
+    "relacion": "es diagnosticada en",
+    "valor": "el paciente"
+  },
+  {
+    "entidad": "Mesalazina",
+    "relacion": "es un tratamiento para",
+    "valor": "Colitis ulcerosa"
+  },
+  {
+    "entidad": "Prednisona",
+    "relacion": "es un tratamiento para",
+    "valor": "crisis de Colitis ulcerosa"
+  },
+  {
+    "entidad": "Proctitis infecciosa",
+    "relacion": "es causada por",
+    "valor": "patógenos como Chlamydia trachomatis"
+  },
+  {
+    "entidad": "Linfogranuloma venéreo (LGV)",
+    "relacion": "es una enfermedad causada por",
+    "valor": "serotipos de Chlamydia"
+  },
+  {
+    "entidad": "PCR",
+    "relacion": "confirma",
+    "valor": "etiología infecciosa secundaria a Chlamydia trachomatis"
+  },
+  {
+    "entidad": "Antibióticos",
+    "relacion": "son utilizados para",
+    "valor": "tratar proctitis por Chlamydia"
+  },
+  {
+    "entidad": "Doxiciclina",
+    "relacion": "es un tratamiento para",
+    "valor": "proctitis por Chlamydia"
+  },
+  {
+    "entidad": "Examen físico",
+    "relacion": "ayuda a distinguir",
+    "valor": "etiologías de proctitis"
+  },
+  {
+    "entidad": "Equipo de gastroenterología",
+    "relacion": "colabora con",
+    "valor": "manejo del paciente"
+  },
+  {
+    "entidad": "Chlamydia trachomatis",
+    "relacion": "es detectada mediante",
+    "valor": "Técnica de Amplificación de Ácidos Nucleicos (TAAN)"
+  },
+  {
+    "entidad": "Proctitis",
+    "relacion": "puede ser",
+    "valor": "aguda o crónica"
+  },
+  {
+    "entidad": "Síntomas de proctitis",
+    "relacion": "incluyen",
+    "valor": "dolor anorrectal, descarga mucopurulenta, rectorragia, tenesmo y urgencia fecal"
+  }
+]

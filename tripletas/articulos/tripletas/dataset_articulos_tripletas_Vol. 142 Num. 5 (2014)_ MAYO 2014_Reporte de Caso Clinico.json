@@ -1,0 +1,417 @@
+[
+  {
+    "entidad": "Enfermedad relacionada a IgG4",
+    "relacion": "es",
+    "valor": "un nuevo gran simulador"
+  },
+  {
+    "entidad": "Enfermedad relacionada a IgG4",
+    "relacion": "afecta a",
+    "valor": "sistemas múltiples"
+  },
+  {
+    "entidad": "Enfermedad relacionada a IgG4",
+    "relacion": "simula",
+    "valor": "linfadenopatías"
+  },
+  {
+    "entidad": "Enfermedad relacionada a IgG4",
+    "relacion": "simula",
+    "valor": "aortitis"
+  },
+  {
+    "entidad": "Enfermedad relacionada a IgG4",
+    "relacion": "simula",
+    "valor": "serositis"
+  },
+  {
+    "entidad": "Enfermedad relacionada a IgG4",
+    "relacion": "simula",
+    "valor": "fibrosis retroperitoneal"
+  },
+  {
+    "entidad": "Enfermedad relacionada a IgG4",
+    "relacion": "comparte características con",
+    "valor": "sífilis"
+  },
+  {
+    "entidad": "Enfermedad relacionada a IgG4",
+    "relacion": "comparte características con",
+    "valor": "tuberculosis"
+  },
+  {
+    "entidad": "Enfermedad relacionada a IgG4",
+    "relacion": "comparte características con",
+    "valor": "sarcoidosis"
+  },
+  {
+    "entidad": "Enfermedad relacionada a IgG4",
+    "relacion": "comparte características con",
+    "valor": "lupus eritematoso sistémico"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "es",
+    "valor": "un varón de 40 años"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "edema de extremidades inferiores"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "compromiso escrotal"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "fue tratado con",
+    "valor": "prednisona 40 mg/día"
+  },
+  {
+    "entidad": "prednisona",
+    "relacion": "produce",
+    "valor": "una excelente respuesta"
+  },
+  {
+    "entidad": "IgG4",
+    "relacion": "es",
+    "valor": "una subclase de inmunoglobulina"
+  },
+  {
+    "entidad": "IgG4",
+    "relacion": "es producida por",
+    "valor": "células Th2"
+  },
+  {
+    "entidad": "IgG4",
+    "relacion": "no activa",
+    "valor": "el complemento de manera efectiva"
+  },
+  {
+    "entidad": "diagnóstico de ER-IgG4",
+    "relacion": "se basa en",
+    "valor": "criterios clínico-radiológicos, serológicos e histológicos"
+  },
+  {
+    "entidad": "terapia para ER-IgG4",
+    "relacion": "incluye",
+    "valor": "prednisona y otros medicamentos"
+  },
+  {
+    "entidad": "tasa de recaída",
+    "relacion": "ha sido descrita en",
+    "valor": "hasta 50%"
+  },
+  {
+    "entidad": "compromiso aórtico",
+    "relacion": "puede ser",
+    "valor": "difícil de diagnosticar"
+  },
+  {
+    "entidad": "compromiso pericárdico",
+    "relacion": "se presenta como",
+    "valor": "derrame pericárdico y pericarditis constrictiva"
+  },
+  {
+    "entidad": "biopsia de ganglio mediastínico",
+    "relacion": "fue informada como",
+    "valor": "plasmocitosis ganglionar"
+  },
+  {
+    "entidad": "IgG4",
+    "relacion": "puede estar en",
+    "valor": "rango normal en hasta 30% de los casos"
+  },
+  {
+    "entidad": "Microlitiasis alveolar pulmonar",
+    "relacion": "es un",
+    "valor": "enfermedad rara"
+  },
+  {
+    "entidad": "Microlitiasis alveolar pulmonar",
+    "relacion": "se caracteriza por",
+    "valor": "acumulación intra-alveolar de microlitos"
+  },
+  {
+    "entidad": "microlitos",
+    "relacion": "son",
+    "valor": "partículas calcificadas esféricas"
+  },
+  {
+    "entidad": "mutación del gen SLC34A2",
+    "relacion": "causa",
+    "valor": "microlitiasis alveolar pulmonar"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "son",
+    "valor": "asintomáticos al diagnóstico"
+  },
+  {
+    "entidad": "enfermedad",
+    "relacion": "tiene un curso",
+    "valor": "lento y progresivo"
+  },
+  {
+    "entidad": "fibrosis pulmonar",
+    "relacion": "es una complicación de",
+    "valor": "microlitiasis alveolar pulmonar"
+  },
+  {
+    "entidad": "disnea progresiva",
+    "relacion": "es un síntoma de",
+    "valor": "microlitiasis alveolar pulmonar"
+  },
+  {
+    "entidad": "radiografía de tórax",
+    "relacion": "muestra",
+    "valor": "micronódulos pulmonares calcificados"
+  },
+  {
+    "entidad": "tomografía computada de alta resolución",
+    "relacion": "es el examen de elección para",
+    "valor": "microlitiasis alveolar pulmonar"
+  },
+  {
+    "entidad": "biopsia pulmonar",
+    "relacion": "confirma",
+    "valor": "diagnóstico de microlitiasis alveolar pulmonar"
+  },
+  {
+    "entidad": "alendronato",
+    "relacion": "es un tratamiento para",
+    "valor": "microlitiasis alveolar pulmonar"
+  },
+  {
+    "entidad": "trasplante pulmonar",
+    "relacion": "es la única opción en",
+    "valor": "casos avanzados de microlitiasis alveolar pulmonar"
+  },
+  {
+    "entidad": "Instituto Nacional del Tórax",
+    "relacion": "es un",
+    "valor": "centro de evaluación médica"
+  },
+  {
+    "entidad": "Hospital Clínico Universidad de Chile",
+    "relacion": "es un",
+    "valor": "hospital asociado a la investigación"
+  },
+  {
+    "entidad": "Dr. Mauricio Salinas F.",
+    "relacion": "es el autor de",
+    "valor": "el caso clínico"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "es una",
+    "valor": "mujer de 39 años"
+  },
+  {
+    "entidad": "exámenes de función pulmonar",
+    "relacion": "muestran",
+    "valor": "capacidad vital forzada y capacidad de difusión pulmonar"
+  },
+  {
+    "entidad": "corticoides",
+    "relacion": "fueron utilizados en",
+    "valor": "el tratamiento inicial del paciente"
+  },
+  {
+    "entidad": "nivel de calcio, fósforo y albúmina plasmáticos",
+    "relacion": "fueron",
+    "valor": "normales en el estudio"
+  },
+  {
+    "entidad": "microlitos",
+    "relacion": "se componen de",
+    "valor": "fosfato de calcio y hidroxiapatita"
+  },
+  {
+    "entidad": "enfermedades pulmonares difusas",
+    "relacion": "son un desafío para",
+    "valor": "el diagnóstico clínico"
+  },
+  {
+    "entidad": "sintomatología",
+    "relacion": "puede ser",
+    "valor": "disociada de los hallazgos radiológicos"
+  },
+  {
+    "entidad": "Rabdomiolisis",
+    "relacion": "resulta de",
+    "valor": "necrosis aguda de fibras musculares esqueléticas"
+  },
+  {
+    "entidad": "Rabdomiolisis",
+    "relacion": "asociada con",
+    "valor": "elevaciones extremas en creatina quinasa"
+  },
+  {
+    "entidad": "Rabdomiolisis",
+    "relacion": "asociada con",
+    "valor": "insuficiencia renal aguda"
+  },
+  {
+    "entidad": "Hipopotasemia",
+    "relacion": "causa",
+    "valor": "rabdomiolisis"
+  },
+  {
+    "entidad": "Rabdomiolisis",
+    "relacion": "puede ser",
+    "valor": "subdiagnosticada en hipopotasemia"
+  },
+  {
+    "entidad": "Creatina quinasa",
+    "relacion": "es un",
+    "valor": "marcador de daño muscular"
+  },
+  {
+    "entidad": "Diuréticos de asa",
+    "relacion": "causa",
+    "valor": "hipopotasemia"
+  },
+  {
+    "entidad": "Síndrome de Gitelman",
+    "relacion": "causa",
+    "valor": "hipopotasemia"
+  },
+  {
+    "entidad": "Pérdidas digestivas",
+    "relacion": "causa",
+    "valor": "hipopotasemia"
+  },
+  {
+    "entidad": "Rabdomiolisis",
+    "relacion": "se presenta con",
+    "valor": "fatiga muscular, calambres, mialgias"
+  },
+  {
+    "entidad": "Rabdomiolisis",
+    "relacion": "puede ser causada por",
+    "valor": "trauma muscular, ejercicio extenuante, infecciones"
+  },
+  {
+    "entidad": "Hipopotasemia",
+    "relacion": "afecta a",
+    "valor": "función neuromuscular"
+  },
+  {
+    "entidad": "Potassium",
+    "relacion": "es un",
+    "valor": "vasodilatador"
+  },
+  {
+    "entidad": "Hipopotasemia",
+    "relacion": "genera",
+    "valor": "isquemia muscular"
+  },
+  {
+    "entidad": "Rabdomiolisis",
+    "relacion": "puede ser",
+    "valor": "resultado de alteraciones en el equilibrio ácido-base"
+  },
+  {
+    "entidad": "Hipopotasemia",
+    "relacion": "puede ser causada por",
+    "valor": "alteraciones en el balance interno y externo"
+  },
+  {
+    "entidad": "Síndrome carcinoide",
+    "relacion": "es un",
+    "valor": "tumor neuroendocrino raro"
+  },
+  {
+    "entidad": "Síndrome carcinoide",
+    "relacion": "puede causar",
+    "valor": "compromiso valvular cardíaco"
+  },
+  {
+    "entidad": "Carcinoide",
+    "relacion": "se origina en",
+    "valor": "gastrointestinal tract"
+  },
+  {
+    "entidad": "Carcinoide",
+    "relacion": "se presenta con",
+    "valor": "fatiga y pérdida de peso"
+  },
+  {
+    "entidad": "Carcinoide",
+    "relacion": "se diagnostica mediante",
+    "valor": "biopsia"
+  },
+  {
+    "entidad": "Ecocardiograma transesofágico",
+    "relacion": "muestra",
+    "valor": "compromiso de válvulas"
+  },
+  {
+    "entidad": "Válvula tricúspide",
+    "relacion": "presenta",
+    "valor": "insuficiencia y estenosis severa"
+  },
+  {
+    "entidad": "Válvula pulmonar",
+    "relacion": "presenta",
+    "valor": "insuficiencia y estenosis severa"
+  },
+  {
+    "entidad": "Tratamiento con Sandostatin LAR®",
+    "relacion": "se utiliza para",
+    "valor": "manejo del síndrome carcinoide"
+  },
+  {
+    "entidad": "Reemplazo valvular",
+    "relacion": "es la opción de",
+    "valor": "tratamiento más efectiva para enfermedad valvular carcinoide"
+  },
+  {
+    "entidad": "Manejo médico y tratamiento quirúrgico",
+    "relacion": "mejoran",
+    "valor": "pronóstico del síndrome carcinoide"
+  },
+  {
+    "entidad": "Ecocardiografía transtorácica",
+    "relacion": "es",
+    "valor": "herramienta imagenológica importante"
+  },
+  {
+    "entidad": "Prosthesis mecánicas",
+    "relacion": "se recomiendan por",
+    "valor": "menor riesgo de degeneración"
+  },
+  {
+    "entidad": "Prosthesis biológicas",
+    "relacion": "tienen",
+    "valor": "menor riesgo de sangrado"
+  },
+  {
+    "entidad": "Compromiso valvular izquierdo",
+    "relacion": "es",
+    "valor": "menos frecuente"
+  },
+  {
+    "entidad": "Compromiso valvular carcinoide",
+    "relacion": "aumenta",
+    "valor": "morbimortalidad"
+  },
+  {
+    "entidad": "Serotonina",
+    "relacion": "se libera de",
+    "valor": "metástasis hepáticas o tumores primarios"
+  },
+  {
+    "entidad": "Criterios de derivación para cirugía",
+    "relacion": "incluyen",
+    "valor": "disfunción valvular severa"
+  },
+  {
+    "entidad": "Mortalidad perioperatoria",
+    "relacion": "ha disminuido de",
+    "valor": "25% a 9% en los últimos años"
+  }
+]

@@ -1,0 +1,557 @@
+[
+  {
+    "entidad": "donación de órganos",
+    "relacion": "es un",
+    "valor": "proceso complejo"
+  },
+  {
+    "entidad": "familia del donante potencial",
+    "relacion": "depende de",
+    "valor": "consentimiento"
+  },
+  {
+    "entidad": "intención de donación",
+    "relacion": "predice",
+    "valor": "comportamiento futuro"
+  },
+  {
+    "entidad": "creencias",
+    "relacion": "afectan",
+    "valor": "intención de donación"
+  },
+  {
+    "entidad": "preocupaciones",
+    "relacion": "afectan",
+    "valor": "intención de donación"
+  },
+  {
+    "entidad": "conocimientos",
+    "relacion": "afectan",
+    "valor": "intención de donación"
+  },
+  {
+    "entidad": "actitudes",
+    "relacion": "afectan",
+    "valor": "intención de donación"
+  },
+  {
+    "entidad": "actitud hacia la donación de órganos",
+    "relacion": "es el",
+    "valor": "principal predictor"
+  },
+  {
+    "entidad": "aprensiones corporales",
+    "relacion": "tienen un efecto",
+    "valor": "negativo en la intención de donación"
+  },
+  {
+    "entidad": "conocimiento sobre muerte encefálica",
+    "relacion": "tiene un efecto",
+    "valor": "positivo en la intención de donación"
+  },
+  {
+    "entidad": "discusión familiar",
+    "relacion": "es un",
+    "valor": "aspecto integral en la toma de decisiones"
+  },
+  {
+    "entidad": "tabú sobre la muerte",
+    "relacion": "afecta",
+    "valor": "discusión familiar"
+  },
+  {
+    "entidad": "Ley 20.143 del 'Donante Universal'",
+    "relacion": "muestra",
+    "valor": "necesidad de comprensión psicosocial"
+  },
+  {
+    "entidad": "teoría de la acción razonada (TRA)",
+    "relacion": "es un",
+    "valor": "modelo teórico para explicar intenciones de donación"
+  },
+  {
+    "entidad": "muerte encefálica",
+    "relacion": "representa",
+    "valor": "cambio radical en la concepción de muerte"
+  },
+  {
+    "entidad": "negativa familiar",
+    "relacion": "es una de las principales causas",
+    "valor": "rechazo a la donación"
+  },
+  {
+    "entidad": "conocimientos claros sobre ME",
+    "relacion": "promueven",
+    "valor": "actitud favorable hacia la donación"
+  },
+  {
+    "entidad": "estrategias de intervención",
+    "relacion": "deben estar orientadas a",
+    "valor": "aumentar el índice de donación"
+  },
+  {
+    "entidad": "vitamina C",
+    "relacion": "afecta a",
+    "valor": "formación de cálculos biliares de colesterol"
+  },
+  {
+    "entidad": "cálculos biliares de colesterol",
+    "relacion": "se relaciona con",
+    "valor": "colelitiasis"
+  },
+  {
+    "entidad": "deficiencia de vitamina C",
+    "relacion": "causa",
+    "valor": "formación de cálculos biliares"
+  },
+  {
+    "entidad": "vitamina C",
+    "relacion": "se administra a",
+    "valor": "pacientes con cálculos biliares"
+  },
+  {
+    "entidad": "pacientes con cálculos biliares",
+    "relacion": "son tratados en",
+    "valor": "Hospital Herminda Martin"
+  },
+  {
+    "entidad": "Universidad Católica de la Santísima Concepción",
+    "relacion": "financia",
+    "valor": "investigación sobre vitamina C"
+  },
+  {
+    "entidad": "vitamina C",
+    "relacion": "modifica",
+    "valor": "proceso de cristalización del colesterol"
+  },
+  {
+    "entidad": "bile",
+    "relacion": "contiene",
+    "valor": "colesterol y fosfolípidos"
+  },
+  {
+    "entidad": "transportadores vesiculares",
+    "relacion": "transportan",
+    "valor": "colesterol biliar"
+  },
+  {
+    "entidad": "micelas",
+    "relacion": "formadas por",
+    "valor": "colesterol, fosfolípidos y sales biliares"
+  },
+  {
+    "entidad": "colelitiasis",
+    "relacion": "es una",
+    "valor": "patología de alta prevalencia en Chile"
+  },
+  {
+    "entidad": "ácido ascórbico",
+    "relacion": "es un sinónimo de",
+    "valor": "vitamina C"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "investiga",
+    "valor": "relación entre vitamina C y lípidos biliares"
+  },
+  {
+    "entidad": "saturación de colesterol",
+    "relacion": "se mide en",
+    "valor": "bile"
+  },
+  {
+    "entidad": "tiempo de cristalización",
+    "relacion": "es un indicador de",
+    "valor": "formación de cálculos biliares"
+  },
+  {
+    "entidad": "Dieter Jüngst",
+    "relacion": "es un",
+    "valor": "profesor homenajeado en la investigación"
+  },
+  {
+    "entidad": "Ejercicio físico interválico de alta intensidad (HIIT)",
+    "relacion": "mejora",
+    "valor": "control glicémico"
+  },
+  {
+    "entidad": "Ejercicio físico interválico de alta intensidad (HIIT)",
+    "relacion": "mejora",
+    "valor": "capacidad aeróbica"
+  },
+  {
+    "entidad": "pacientes con intolerancia a la glucosa",
+    "relacion": "participan en",
+    "valor": "programa de HIIT"
+  },
+  {
+    "entidad": "Centro de Investigación en Metabolismo, Ejercicio y Salud (CIEMETS)",
+    "relacion": "realiza",
+    "valor": "intervención de ejercicio"
+  },
+  {
+    "entidad": "Universidad de la Frontera",
+    "relacion": "financia",
+    "valor": "Proyecto DIUFRO DI12-007"
+  },
+  {
+    "entidad": "glicemia",
+    "relacion": "se mide en",
+    "valor": "prueba de tolerancia a la glucosa oral (PTGO)"
+  },
+  {
+    "entidad": "ejercicio HIIT",
+    "relacion": "induce",
+    "valor": "biogénesis mitocondrial"
+  },
+  {
+    "entidad": "ejercicio HIIT",
+    "relacion": "incrementa",
+    "valor": "función endotelial"
+  },
+  {
+    "entidad": "ejercicio HIIT",
+    "relacion": "reduce",
+    "valor": "grasa corporal"
+  },
+  {
+    "entidad": "pacientes intolerantes a la glucosa",
+    "relacion": "presentan",
+    "valor": "sobrepeso u obesidad"
+  },
+  {
+    "entidad": "metformina",
+    "relacion": "suspende",
+    "valor": "antes de la intervención"
+  },
+  {
+    "entidad": "glicemia post carga",
+    "relacion": "normaliza en",
+    "valor": "pacientes del grupo adherente"
+  },
+  {
+    "entidad": "grupo adherente (GA)",
+    "relacion": "muestra",
+    "valor": "mejoras significativas en VO2MAX"
+  },
+  {
+    "entidad": "grupo no-adherente (GNA)",
+    "relacion": "no muestra",
+    "valor": "mejoras significativas en VO2MAX"
+  },
+  {
+    "entidad": "glicemia",
+    "relacion": "se determina mediante",
+    "valor": "punción venosa"
+  },
+  {
+    "entidad": "nutricionista",
+    "relacion": "proporciona",
+    "valor": "consejería nutricional"
+  },
+  {
+    "entidad": "ejercicio HIIT",
+    "relacion": "es",
+    "valor": "tiempo-eficiente"
+  },
+  {
+    "entidad": "ejercicio HIIT",
+    "relacion": "remodela",
+    "valor": "metabólicamente el miocito"
+  },
+  {
+    "entidad": "ejercicio HIIT",
+    "relacion": "genera",
+    "valor": "estímulo adrenérgico"
+  },
+  {
+    "entidad": "IL-6",
+    "relacion": "se libera durante",
+    "valor": "ejercicio HIIT"
+  },
+  {
+    "entidad": "proyecto de intervención",
+    "relacion": "incluye",
+    "valor": "ejercicio físico y consejería nutricional"
+  },
+  {
+    "entidad": "gen BRAF",
+    "relacion": "presenta",
+    "valor": "mutación V600E"
+  },
+  {
+    "entidad": "cáncer de colon y recto",
+    "relacion": "es un tipo de",
+    "valor": "neoplasia maligna"
+  },
+  {
+    "entidad": "mutación KRAS",
+    "relacion": "es un",
+    "valor": "factor pronóstico independiente"
+  },
+  {
+    "entidad": "mutación BRAF",
+    "relacion": "es un",
+    "valor": "factor pronóstico independiente"
+  },
+  {
+    "entidad": "mutación BRAF",
+    "relacion": "es mutuamente excluyente con",
+    "valor": "mutación KRAS"
+  },
+  {
+    "entidad": "anticuerpos monoclonales",
+    "relacion": "son utilizados para",
+    "valor": "tratamiento de cáncer de colon y recto metastásico"
+  },
+  {
+    "entidad": "cetuximab",
+    "relacion": "es un tipo de",
+    "valor": "anticuerpo monoclonal"
+  },
+  {
+    "entidad": "panitumumab",
+    "relacion": "es un tipo de",
+    "valor": "anticuerpo monoclonal"
+  },
+  {
+    "entidad": "mutación KRAS",
+    "relacion": "determina",
+    "valor": "resistencia a anticuerpos anti-EGFR"
+  },
+  {
+    "entidad": "mutación BRAF",
+    "relacion": "disminuye",
+    "valor": "respuesta a cetuximab o panitumumab"
+  },
+  {
+    "entidad": "método RFLP",
+    "relacion": "es utilizado para",
+    "valor": "estudio de mutación BRAF"
+  },
+  {
+    "entidad": "secuenciación directa",
+    "relacion": "es utilizada para",
+    "valor": "verificación de mutación BRAF"
+  },
+  {
+    "entidad": "inestabilidad microsatelital",
+    "relacion": "está asociada con",
+    "valor": "mutación BRAF"
+  },
+  {
+    "entidad": "cáncer de colon y recto",
+    "relacion": "ocupa",
+    "valor": "tercer lugar en cánceres digestivos en Chile"
+  },
+  {
+    "entidad": "cáncer de colon y recto",
+    "relacion": "es la tercera causa de",
+    "valor": "mortalidad por tumores malignos en hombres"
+  },
+  {
+    "entidad": "cáncer de colon y recto",
+    "relacion": "es la quinta causa de",
+    "valor": "mortalidad por tumores malignos en mujeres"
+  },
+  {
+    "entidad": "mortalidad por cáncer de colon y recto",
+    "relacion": "es alrededor de",
+    "valor": "8 por 10^6 habitantes en Chile"
+  },
+  {
+    "entidad": "mutación BRAF",
+    "relacion": "ha sido reportada en",
+    "valor": "5-15% de carcinomas de colon y recto"
+  },
+  {
+    "entidad": "mutación BRAF",
+    "relacion": "se observa en",
+    "valor": "tumores esporádicos"
+  },
+  {
+    "entidad": "mutación BRAF",
+    "relacion": "está asociada con",
+    "valor": "metilación del promotor del gen MLH1"
+  },
+  {
+    "entidad": "KRAS",
+    "relacion": "se encuentra presente en",
+    "valor": "alrededor de 40% de cánceres de colon y recto"
+  },
+  {
+    "entidad": "mutación V600E de BRAF",
+    "relacion": "se ha demostrado que",
+    "valor": "disminuye la respuesta a terapias anti-EGFR"
+  },
+  {
+    "entidad": "frecuencia acumulativa de mutación de KRAS y BRAF",
+    "relacion": "es de",
+    "valor": "54% en pacientes con cáncer de colon y recto"
+  },
+  {
+    "entidad": "endometriosis",
+    "relacion": "es",
+    "valor": "una enfermedad caracterizada por la presencia de mucosa endometrial en localizaciones anormales"
+  },
+  {
+    "entidad": "endometriosis",
+    "relacion": "causa",
+    "valor": "30-50% de los casos de infertilidad"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "son afectadas por",
+    "valor": "endometriosis"
+  },
+  {
+    "entidad": "endometriosis",
+    "relacion": "se presenta en",
+    "valor": "10% de las mujeres a lo largo de la vida reproductiva"
+  },
+  {
+    "entidad": "endometriosis",
+    "relacion": "asocia con",
+    "valor": "dolor pélvico crónico"
+  },
+  {
+    "entidad": "endometriosis",
+    "relacion": "puede causar",
+    "valor": "fatiga, fibromialgia, colon irritable, compromiso de la sexualidad"
+  },
+  {
+    "entidad": "herencia",
+    "relacion": "afecta",
+    "valor": "la probabilidad de desarrollar endometriosis"
+  },
+  {
+    "entidad": "mujeres con antecedentes familiares de endometriosis",
+    "relacion": "tienen",
+    "valor": "seis veces más probabilidad de presentar la enfermedad"
+  },
+  {
+    "entidad": "diagnóstico de endometriosis",
+    "relacion": "es",
+    "valor": "quirúrgico"
+  },
+  {
+    "entidad": "laparoscopia",
+    "relacion": "tiene un rol",
+    "valor": "preponderante en el diagnóstico de endometriosis"
+  },
+  {
+    "entidad": "endometriosis",
+    "relacion": "puede ser",
+    "valor": "asintomática"
+  },
+  {
+    "entidad": "endometriosis severa",
+    "relacion": "se clasifica por",
+    "valor": "la presencia de al menos un endometrioma"
+  },
+  {
+    "entidad": "Hospital Clínico San Borja Arriarán",
+    "relacion": "es",
+    "valor": "un lugar donde se realizó el estudio"
+  },
+  {
+    "entidad": "Instituto de Investigaciones Materno Infantil (IDIMI)",
+    "relacion": "es",
+    "valor": "la institución que financió el estudio"
+  },
+  {
+    "entidad": "FONDECYT",
+    "relacion": "financia",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "mujeres sometidas a esterilización quirúrgica",
+    "relacion": "tienen una prevalencia de",
+    "valor": "4,9% de endometriosis"
+  },
+  {
+    "entidad": "implantes endometriósicos",
+    "relacion": "se localizan en",
+    "valor": "ovarios, peritoneo, fondo de saco posterior y ligamentos úterosacros"
+  },
+  {
+    "entidad": "endometriosis no asociada a infertilidad",
+    "relacion": "es",
+    "valor": "frecuente en la población estudiada"
+  },
+  {
+    "entidad": "Fibrosis Pulmonar Idiopática",
+    "relacion": "es",
+    "valor": "una enfermedad de baja prevalencia"
+  },
+  {
+    "entidad": "Instituto Nacional del Tórax",
+    "relacion": "realiza",
+    "valor": "diagnóstico de fibrosis pulmonar idiopática"
+  },
+  {
+    "entidad": "biopsia quirúrgica",
+    "relacion": "es",
+    "valor": "método diagnóstico para fibrosis pulmonar idiopática"
+  },
+  {
+    "entidad": "neumonía intersticial usual",
+    "relacion": "es",
+    "valor": "patrón histológico asociado a fibrosis pulmonar idiopática"
+  },
+  {
+    "entidad": "tomografía computada de alta resolución",
+    "relacion": "es",
+    "valor": "herramienta diagnóstica para fibrosis pulmonar idiopática"
+  },
+  {
+    "entidad": "DLCO menor a 40%",
+    "relacion": "es",
+    "valor": "predictor de mortalidad en fibrosis pulmonar idiopática"
+  },
+  {
+    "entidad": "saturación de oxígeno menor a 89%",
+    "relacion": "es",
+    "valor": "predictor de mortalidad en fibrosis pulmonar idiopática"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "afecta",
+    "valor": "la supervivencia en fibrosis pulmonar idiopática"
+  },
+  {
+    "entidad": "hábito de fumar",
+    "relacion": "afecta",
+    "valor": "la supervivencia en fibrosis pulmonar idiopática"
+  },
+  {
+    "entidad": "Instituto Nacional del Tórax",
+    "relacion": "realiza",
+    "valor": "análisis de supervivencia en pacientes con fibrosis pulmonar idiopática"
+  },
+  {
+    "entidad": "prednisona y azatioprina",
+    "relacion": "son",
+    "valor": "tratamientos cuestionados para fibrosis pulmonar idiopática"
+  },
+  {
+    "entidad": "antecedentes familiares de fibrosis pulmonar",
+    "relacion": "son",
+    "valor": "más comunes en la cohorte estudiada"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "son",
+    "valor": "más prevalentes en la cohorte estudiada"
+  },
+  {
+    "entidad": "sobrevida",
+    "relacion": "es",
+    "valor": "mejor que lo reportado en la literatura"
+  },
+  {
+    "entidad": "análisis univariado de supervivencia",
+    "relacion": "muestra",
+    "valor": "asociación con DLCO y desaturación en prueba de caminata"
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "entidad": "Nivel de salicilatos",
+    "relacion": "mide",
+    "valor": "nivel de salicilatos en la sangre"
+  },
+  {
+    "entidad": "Nivel de salicilatos",
+    "relacion": "indicado_si_tiene",
+    "valor": "intoxicación aguda por aspirina u otros salicilatos"
+  },
+  {
+    "entidad": "Nivel de salicilatos",
+    "relacion": "alivia",
+    "valor": "dolor"
+  },
+  {
+    "entidad": "Nivel de salicilatos",
+    "relacion": "alivia",
+    "valor": "fiebre"
+  },
+  {
+    "entidad": "Nivel de salicilatos",
+    "relacion": "alivia",
+    "valor": "inflamación"
+  },
+  {
+    "entidad": "Nivel de salicilatos",
+    "relacion": "diagnostica",
+    "valor": "intoxicación aguda por aspirina"
+  },
+  {
+    "entidad": "Nivel de salicilatos",
+    "relacion": "diagnostica",
+    "valor": "intoxicación gradual por aspirina"
+  },
+  {
+    "entidad": "Nivel de salicilatos",
+    "relacion": "requiere_muestra_de",
+    "valor": "sangre de una vena del brazo"
+  },
+  {
+    "entidad": "Nivel de salicilatos",
+    "relacion": "tiene_duracion",
+    "valor": "menos de cinco minutos"
+  },
+  {
+    "entidad": "Nivel de salicilatos",
+    "relacion": "tiene_riesgo",
+    "valor": "dolor leve o moretón en el lugar de la punción"
+  },
+  {
+    "entidad": "Nivel de salicilatos",
+    "relacion": "realizado_por",
+    "valor": "profesional de la salud"
+  },
+  {
+    "entidad": "Nivel de acetaminofén",
+    "relacion": "mide",
+    "valor": "nivel de acetaminofén en la sangre"
+  },
+  {
+    "entidad": "Nivel de acetaminofén",
+    "relacion": "alivia",
+    "valor": "dolor"
+  },
+  {
+    "entidad": "Nivel de acetaminofén",
+    "relacion": "alivia",
+    "valor": "fiebre"
+  },
+  {
+    "entidad": "Nivel de acetaminofén",
+    "relacion": "requiere_muestra_de",
+    "valor": "sangre de una vena del brazo"
+  },
+  {
+    "entidad": "Nivel de acetaminofén",
+    "relacion": "indicado_si_tiene",
+    "valor": "síntomas de sobredosis"
+  },
+  {
+    "entidad": "Nivel de acetaminofén",
+    "relacion": "tiene_duracion",
+    "valor": "menos de cinco minutos"
+  },
+  {
+    "entidad": "Nivel de acetaminofén",
+    "relacion": "tiene_riesgo",
+    "valor": "daño hepático grave"
+  },
+  {
+    "entidad": "Nivel de acetaminofén",
+    "relacion": "tiene_riesgo",
+    "valor": "moretones en el lugar de la punción"
+  },
+  {
+    "entidad": "Nivel de acetaminofén",
+    "relacion": "util_para",
+    "valor": "monitorear tratamiento por sobredosis"
+  },
+  {
+    "entidad": "Nivel de acetaminofén",
+    "relacion": "sugiere_condicion",
+    "valor": "sobredosis de acetaminofén"
+  },
+  {
+    "entidad": "Nivel de acetaminofén",
+    "relacion": "realizado_por",
+    "valor": "profesional de la salud"
+  },
+  {
+    "entidad": "Niveles de colesterol",
+    "relacion": "mide",
+    "valor": "cantidad de colesterol y triglicéridos en la sangre"
+  },
+  {
+    "entidad": "Niveles de colesterol",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "enfermedades cardíacas"
+  },
+  {
+    "entidad": "Niveles de colesterol",
+    "relacion": "requiere_muestra_de",
+    "valor": "sangre de una vena del brazo"
+  },
+  {
+    "entidad": "Niveles de colesterol",
+    "relacion": "tiene_duracion",
+    "valor": "menos de cinco minutos"
+  },
+  {
+    "entidad": "Niveles de colesterol",
+    "relacion": "tiene_riesgo",
+    "valor": "dolor leve o moretón en el lugar de la punción"
+  },
+  {
+    "entidad": "Niveles de colesterol",
+    "relacion": "util_para",
+    "valor": "evaluar riesgo de enfermedades cardíacas"
+  },
+  {
+    "entidad": "Niveles de colesterol",
+    "relacion": "es_tipo_de",
+    "valor": "análisis de sangre"
+  },
+  {
+    "entidad": "Niveles de colesterol",
+    "relacion": "diagnostica",
+    "valor": "enfermedad de las arterias coronarias"
+  },
+  {
+    "entidad": "Niveles de colesterol",
+    "relacion": "diagnostica",
+    "valor": "aterosclerosis"
+  },
+  {
+    "entidad": "Niveles de colesterol",
+    "relacion": "sugiere_condicion",
+    "valor": "colesterol alto"
+  },
+  {
+    "entidad": "Niveles de prolactina",
+    "relacion": "mide",
+    "valor": "niveles de prolactina (PRL) en sangre"
+  },
+  {
+    "entidad": "Niveles de prolactina",
+    "relacion": "requiere_muestra_de",
+    "valor": "sangre"
+  },
+  {
+    "entidad": "Niveles de prolactina",
+    "relacion": "diagnostica",
+    "valor": "prolactinoma"
+  },
+  {
+    "entidad": "Niveles de prolactina",
+    "relacion": "diagnostica",
+    "valor": "infertilidad"
+  },
+  {
+    "entidad": "Niveles de prolactina",
+    "relacion": "diagnostica",
+    "valor": "períodos menstruales irregulares"
+  },
+  {
+    "entidad": "Niveles de prolactina",
+    "relacion": "diagnostica",
+    "valor": "bajo deseo sexual"
+  },
+  {
+    "entidad": "Niveles de prolactina",
+    "relacion": "indicado_si_tiene",
+    "valor": "síntomas de hiperprolactinemia"
+  },
+  {
+    "entidad": "Niveles de prolactina",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "producción de leche materna no deseada"
+  },
+  {
+    "entidad": "Niveles de prolactina",
+    "relacion": "tiene_duracion",
+    "valor": "menos de cinco minutos"
+  },
+  {
+    "entidad": "Niveles de prolactina",
+    "relacion": "tiene_riesgo",
+    "valor": "dolor leve o moretón en el lugar de la punción"
+  },
+  {
+    "entidad": "Niveles de prolactina",
+    "relacion": "realizado_por",
+    "valor": "profesional de la salud"
+  },
+  {
+    "entidad": "Niveles de amoníaco",
+    "relacion": "mide",
+    "valor": "cantidad de amoníaco en la sangre"
+  },
+  {
+    "entidad": "Niveles de amoníaco",
+    "relacion": "requiere_muestra_de",
+    "valor": "sangre"
+  },
+  {
+    "entidad": "Niveles de amoníaco",
+    "relacion": "diagnostica",
+    "valor": "hiperamonemia"
+  },
+  {
+    "entidad": "Niveles de amoníaco",
+    "relacion": "diagnostica",
+    "valor": "encefalopatía hepática"
+  },
+  {
+    "entidad": "Niveles de amoníaco",
+    "relacion": "diagnostica",
+    "valor": "síndrome de Reye"
+  },
+  {
+    "entidad": "Niveles de amoníaco",
+    "relacion": "diagnostica",
+    "valor": "trastornos del ciclo de la urea"
+  },
+  {
+    "entidad": "Niveles de amoníaco",
+    "relacion": "indicado_si_tiene",
+    "valor": "síntomas de niveles altos de amoníaco"
+  },
+  {
+    "entidad": "Niveles de amoníaco",
+    "relacion": "util_para",
+    "valor": "monitorear condiciones que causan niveles altos de amoníaco"
+  },
+  {
+    "entidad": "Niveles de amoníaco",
+    "relacion": "tiene_duracion",
+    "valor": "menos de cinco minutos"
+  },
+  {
+    "entidad": "Niveles de amoníaco",
+    "relacion": "tiene_riesgo",
+    "valor": "dolor leve o moretón en el lugar de la punción"
+  },
+  {
+    "entidad": "Niveles de amoníaco",
+    "relacion": "realizado_por",
+    "valor": "profesional de la salud"
+  }
+]

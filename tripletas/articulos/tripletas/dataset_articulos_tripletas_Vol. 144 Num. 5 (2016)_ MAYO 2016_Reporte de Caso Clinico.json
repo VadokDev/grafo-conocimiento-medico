@@ -1,0 +1,177 @@
+[
+  {
+    "entidad": "Leucopatía reversible de la protuberancia",
+    "relacion": "es un",
+    "valor": "síndrome neurológico"
+  },
+  {
+    "entidad": "SIDA",
+    "relacion": "afecta a",
+    "valor": "pacientes"
+  },
+  {
+    "entidad": "Tratamiento retroviral",
+    "relacion": "utiliza",
+    "valor": "HAART"
+  },
+  {
+    "entidad": "HAART",
+    "relacion": "asocia con",
+    "valor": "leucopatía reversible de la protuberancia"
+  },
+  {
+    "entidad": "Resonancia magnética (RM)",
+    "relacion": "es un",
+    "valor": "método de diagnóstico"
+  },
+  {
+    "entidad": "Leucoencefalopatía posterior reversible (LPR)",
+    "relacion": "es un",
+    "valor": "síndrome relacionado"
+  },
+  {
+    "entidad": "Mielinolisis central pontina (MCP)",
+    "relacion": "es un",
+    "valor": "síndrome relacionado"
+  },
+  {
+    "entidad": "Paciente",
+    "relacion": "presenta",
+    "valor": "sintomatología neurológica"
+  },
+  {
+    "entidad": "Zidovudina",
+    "relacion": "es un",
+    "valor": "medicamento antirretroviral"
+  },
+  {
+    "entidad": "Lamivudina",
+    "relacion": "es un",
+    "valor": "medicamento antirretroviral"
+  },
+  {
+    "entidad": "Lopinavir",
+    "relacion": "es un",
+    "valor": "medicamento antirretroviral"
+  },
+  {
+    "entidad": "Ritonavir",
+    "relacion": "es un",
+    "valor": "medicamento antirretroviral"
+  },
+  {
+    "entidad": "Emtricitabina",
+    "relacion": "es un",
+    "valor": "medicamento antirretroviral"
+  },
+  {
+    "entidad": "Tenofovir",
+    "relacion": "es un",
+    "valor": "medicamento antirretroviral"
+  },
+  {
+    "entidad": "MRI",
+    "relacion": "muestra",
+    "valor": "hiperintensidad central pontina"
+  },
+  {
+    "entidad": "Paciente",
+    "relacion": "evoluciona sin",
+    "valor": "contratiempos"
+  },
+  {
+    "entidad": "Leucopatía reversible de la protuberancia",
+    "relacion": "podría ser",
+    "valor": "una nueva entidad clínico-imagenológica"
+  },
+  {
+    "entidad": "Antirretrovirales",
+    "relacion": "pueden causar",
+    "valor": "efectos neurotóxicos"
+  },
+  {
+    "entidad": "Efectos neurotóxicos",
+    "relacion": "asociados a",
+    "valor": "estrés oxidativo"
+  },
+  {
+    "entidad": "Barrera hematoencefálica",
+    "relacion": "puede ser afectada por",
+    "valor": "tratamientos antirretrovirales"
+  },
+  {
+    "entidad": "síndrome de Laugier-Hunziker",
+    "relacion": "es un",
+    "valor": "síndrome raro y benigno"
+  },
+  {
+    "entidad": "síndrome de Sjögren",
+    "relacion": "es un",
+    "valor": "trastorno autoinmune"
+  },
+  {
+    "entidad": "síndrome de Laugier-Hunziker",
+    "relacion": "caracterizado por",
+    "valor": "pigmentación macular adquirida"
+  },
+  {
+    "entidad": "síndrome de Laugier-Hunziker",
+    "relacion": "puede estar asociado a",
+    "valor": "mecanismo autoinmune"
+  },
+  {
+    "entidad": "histopatología",
+    "relacion": "confirma",
+    "valor": "diagnóstico de síndrome de Laugier-Hunziker"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "melanonychia y hiperpigmentación en mucosa bucal"
+  },
+  {
+    "entidad": "síndrome de Laugier-Hunziker",
+    "relacion": "requiere descartar",
+    "valor": "síndrome de Peutz-Jeghers"
+  },
+  {
+    "entidad": "síndrome de Laugier-Hunziker",
+    "relacion": "no requiere",
+    "valor": "tratamiento"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "es",
+    "valor": "no fumadora"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "tiene",
+    "valor": "historia familiar de síndrome de Sjögren"
+  },
+  {
+    "entidad": "síndrome de Sjögren",
+    "relacion": "se asocia con",
+    "valor": "autoinmunidad"
+  },
+  {
+    "entidad": "exámenes de laboratorio",
+    "relacion": "muestran",
+    "valor": "leucopenia leve"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "continúa en",
+    "valor": "seguimiento clínico"
+  },
+  {
+    "entidad": "síndrome de Laugier-Hunziker",
+    "relacion": "es",
+    "valor": "entidad subdiagnosticada"
+  },
+  {
+    "entidad": "patogénesis del síndrome de Laugier-Hunziker",
+    "relacion": "es desconocida",
+    "valor": "posible estímulo crónico"
+  }
+]

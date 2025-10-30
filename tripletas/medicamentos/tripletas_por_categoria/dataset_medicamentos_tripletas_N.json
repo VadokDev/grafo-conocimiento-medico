@@ -1,0 +1,4027 @@
+[
+  {
+    "entidad": "Nabumetona",
+    "relacion": "contraindicado_en",
+    "valor": "personas con ataque cardíaco reciente"
+  },
+  {
+    "entidad": "Nabumetona",
+    "relacion": "trata",
+    "valor": "dolor, sensibilidad, inflamación y rigidez por osteoartritis"
+  },
+  {
+    "entidad": "Nabumetona",
+    "relacion": "trata",
+    "valor": "artritis reumatoide"
+  },
+  {
+    "entidad": "Nabumetona",
+    "relacion": "uso",
+    "valor": "tomar una o dos veces al día con o sin alimentos"
+  },
+  {
+    "entidad": "Nabumetona",
+    "relacion": "se_administra_via",
+    "valor": "vía oral"
+  },
+  {
+    "entidad": "Nabumetona",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Nabumetona",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias a AINE y otros medicamentos"
+  },
+  {
+    "entidad": "Nabumetona",
+    "relacion": "precaucion",
+    "valor": "informar sobre condiciones de salud previas como asma o enfermedad cardíaca"
+  },
+  {
+    "entidad": "Nabumetona",
+    "relacion": "precaucion",
+    "valor": "evitar exposición prolongada al sol"
+  },
+  {
+    "entidad": "Nabumetona",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Nabumetona",
+    "relacion": "olvido",
+    "valor": "tomar la dosis omitida tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Nabumetona",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Nabumetona",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Nabumetona",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Nabumetona",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Nabumetona",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Nabumetona",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original, cerrado y a temperatura ambiente"
+  },
+  {
+    "entidad": "Nabumetona",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Nabumetona",
+    "relacion": "marca_comercial",
+    "valor": "Relafen ®"
+  },
+  {
+    "entidad": "Naftifina tópica",
+    "relacion": "trata",
+    "valor": "infecciones de la piel como el pie de atleta, la sarna y la tiña"
+  },
+  {
+    "entidad": "Naftifina tópica",
+    "relacion": "uso",
+    "valor": "aplicar sobre la piel en forma de crema 1 vez al día o gel 2 veces al día"
+  },
+  {
+    "entidad": "Naftifina tópica",
+    "relacion": "precaucion",
+    "valor": "informar a su médico si es alérgico a la naftifina o a otros fármacos"
+  },
+  {
+    "entidad": "Naftifina tópica",
+    "relacion": "precaucion",
+    "valor": "informar sobre otros medicamentos, vitaminas y suplementos que toma"
+  },
+  {
+    "entidad": "Naftifina tópica",
+    "relacion": "precaucion",
+    "valor": "informar si está embarazada o amamantando"
+  },
+  {
+    "entidad": "Naftifina tópica",
+    "relacion": "olvido",
+    "valor": "aplicar la dosis omitida tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Naftifina tópica",
+    "relacion": "efecto_secundario",
+    "valor": "picazón"
+  },
+  {
+    "entidad": "Naftifina tópica",
+    "relacion": "efecto_secundario",
+    "valor": "ardor"
+  },
+  {
+    "entidad": "Naftifina tópica",
+    "relacion": "efecto_secundario",
+    "valor": "irritación o escozor"
+  },
+  {
+    "entidad": "Naftifina tópica",
+    "relacion": "efecto_secundario",
+    "valor": "enrojecimiento"
+  },
+  {
+    "entidad": "Naftifina tópica",
+    "relacion": "efecto_secundario",
+    "valor": "resequedad"
+  },
+  {
+    "entidad": "Naftifina tópica",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Naftifina tópica",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, bien cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Naftifina tópica",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente, lejos del calor y la humedad"
+  },
+  {
+    "entidad": "Naftifina tópica",
+    "relacion": "marca_comercial",
+    "valor": "Naftin ®"
+  },
+  {
+    "entidad": "Naldemedina",
+    "relacion": "trata",
+    "valor": "estreñimiento causado por analgésicos opioides en adultos con dolor crónico no causado por cáncer"
+  },
+  {
+    "entidad": "Naldemedina",
+    "relacion": "uso",
+    "valor": "tabletas para tomar por vía oral, una vez al día, con o sin alimentos"
+  },
+  {
+    "entidad": "Naldemedina",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Naldemedina",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos actuales"
+  },
+  {
+    "entidad": "Naldemedina",
+    "relacion": "dieta",
+    "valor": "continuar con dieta normal a menos que se indique lo contrario"
+  },
+  {
+    "entidad": "Naldemedina",
+    "relacion": "olvido",
+    "valor": "tomar la dosis omitida tan pronto como lo recuerde, omitir si es cerca de la próxima dosis"
+  },
+  {
+    "entidad": "Naldemedina",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Naldemedina",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Naldemedina",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Naldemedina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago"
+  },
+  {
+    "entidad": "Naldemedina",
+    "relacion": "efecto_secundario",
+    "valor": "sudoración"
+  },
+  {
+    "entidad": "Naldemedina",
+    "relacion": "efecto_secundario",
+    "valor": "escalofríos"
+  },
+  {
+    "entidad": "Naldemedina",
+    "relacion": "efecto_secundario",
+    "valor": "sensación de frío"
+  },
+  {
+    "entidad": "Naldemedina",
+    "relacion": "efecto_secundario",
+    "valor": "rubor"
+  },
+  {
+    "entidad": "Naldemedina",
+    "relacion": "efecto_secundario",
+    "valor": "fiebre"
+  },
+  {
+    "entidad": "Naldemedina",
+    "relacion": "efecto_secundario",
+    "valor": "ojos llorosos"
+  },
+  {
+    "entidad": "Naldemedina",
+    "relacion": "efecto_secundario",
+    "valor": "secreción nasal"
+  },
+  {
+    "entidad": "Naldemedina",
+    "relacion": "efecto_secundario",
+    "valor": "estornudos"
+  },
+  {
+    "entidad": "Naldemedina",
+    "relacion": "efecto_secundario",
+    "valor": "ansiedad"
+  },
+  {
+    "entidad": "Naldemedina",
+    "relacion": "efecto_secundario",
+    "valor": "irritabilidad"
+  },
+  {
+    "entidad": "Naldemedina",
+    "relacion": "efecto_secundario",
+    "valor": "temblor incontrolable"
+  },
+  {
+    "entidad": "Naldemedina",
+    "relacion": "efecto_secundario",
+    "valor": "ritmo cardíaco rápido"
+  },
+  {
+    "entidad": "Naldemedina",
+    "relacion": "efecto_secundario",
+    "valor": "bostezos"
+  },
+  {
+    "entidad": "Naldemedina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago intenso"
+  },
+  {
+    "entidad": "Naldemedina",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para respirar"
+  },
+  {
+    "entidad": "Naldemedina",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Naldemedina",
+    "relacion": "almacenamiento",
+    "valor": "mantener en empaque original, a temperatura ambiente, lejos de luz y humedad"
+  },
+  {
+    "entidad": "Naldemedina",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento o a servicios de emergencia"
+  },
+  {
+    "entidad": "Naldemedina",
+    "relacion": "marca_comercial",
+    "valor": "Symproic"
+  },
+  {
+    "entidad": "Naltrexona",
+    "relacion": "contraindicado_en",
+    "valor": "consumo de drogas ilegales o alcohol en grandes cantidades"
+  },
+  {
+    "entidad": "Naltrexona",
+    "relacion": "trata",
+    "valor": "ayuda a las personas que dejaron de consumir alcohol y drogas ilegales a seguir evitando su consumo"
+  },
+  {
+    "entidad": "Naltrexona",
+    "relacion": "uso",
+    "valor": "tomar una vez al día, con o sin alimentos"
+  },
+  {
+    "entidad": "Naltrexona",
+    "relacion": "se_administra_via",
+    "valor": "vía oral"
+  },
+  {
+    "entidad": "Naltrexona",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Naltrexona",
+    "relacion": "precaucion",
+    "valor": "no tomar medicamentos opioides durante el tratamiento"
+  },
+  {
+    "entidad": "Naltrexona",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Naltrexona",
+    "relacion": "olvido",
+    "valor": "tomar la dosis que omitió tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Naltrexona",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Naltrexona",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Naltrexona",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago o calambres"
+  },
+  {
+    "entidad": "Naltrexona",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Naltrexona",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Naltrexona",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de apetito"
+  },
+  {
+    "entidad": "Naltrexona",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Naltrexona",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Naltrexona",
+    "relacion": "efecto_secundario",
+    "valor": "ansiedad"
+  },
+  {
+    "entidad": "Naltrexona",
+    "relacion": "efecto_secundario",
+    "valor": "nerviosismo"
+  },
+  {
+    "entidad": "Naltrexona",
+    "relacion": "efecto_secundario",
+    "valor": "irritabilidad"
+  },
+  {
+    "entidad": "Naltrexona",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para conciliar el sueño"
+  },
+  {
+    "entidad": "Naltrexona",
+    "relacion": "efecto_secundario",
+    "valor": "somnolencia"
+  },
+  {
+    "entidad": "Naltrexona",
+    "relacion": "efecto_secundario",
+    "valor": "confusión"
+  },
+  {
+    "entidad": "Naltrexona",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original, cerrado herméticamente y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Naltrexona",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Nateglinida",
+    "relacion": "trata",
+    "valor": "diabetes tipo 2"
+  },
+  {
+    "entidad": "Nateglinida",
+    "relacion": "uso",
+    "valor": "tabletas, 3 veces al día, antes de las comidas"
+  },
+  {
+    "entidad": "Nateglinida",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Nateglinida",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos"
+  },
+  {
+    "entidad": "Nateglinida",
+    "relacion": "dieta",
+    "valor": "seguir recomendaciones de dieta y ejercicio"
+  },
+  {
+    "entidad": "Nateglinida",
+    "relacion": "olvido",
+    "valor": "tomar dosis olvidada si se acuerda antes de la comida"
+  },
+  {
+    "entidad": "Nateglinida",
+    "relacion": "efecto_secundario",
+    "valor": "temblores"
+  },
+  {
+    "entidad": "Nateglinida",
+    "relacion": "efecto_secundario",
+    "valor": "mareos o aturdimiento"
+  },
+  {
+    "entidad": "Nateglinida",
+    "relacion": "efecto_secundario",
+    "valor": "sudoración"
+  },
+  {
+    "entidad": "Nateglinida",
+    "relacion": "efecto_secundario",
+    "valor": "nerviosismo o irritabilidad"
+  },
+  {
+    "entidad": "Nateglinida",
+    "relacion": "efecto_secundario",
+    "valor": "cambios repentinos de comportamiento o de humor"
+  },
+  {
+    "entidad": "Nateglinida",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Nateglinida",
+    "relacion": "efecto_secundario",
+    "valor": "entumecimiento u hormigueo alrededor de la boca"
+  },
+  {
+    "entidad": "Nateglinida",
+    "relacion": "efecto_secundario",
+    "valor": "debilidad"
+  },
+  {
+    "entidad": "Nateglinida",
+    "relacion": "efecto_secundario",
+    "valor": "visión borrosa"
+  },
+  {
+    "entidad": "Nateglinida",
+    "relacion": "almacenamiento",
+    "valor": "mantener en envase original, cerrado, a temperatura ambiente"
+  },
+  {
+    "entidad": "Nateglinida",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Nefazodona",
+    "relacion": "contraindicado_en",
+    "valor": "niños menores de 18 años"
+  },
+  {
+    "entidad": "Nefazodona",
+    "relacion": "trata",
+    "valor": "depresión"
+  },
+  {
+    "entidad": "Nefazodona",
+    "relacion": "uso",
+    "valor": "tabletas para tomar por vía oral, dos veces al día, con o sin alimentos"
+  },
+  {
+    "entidad": "Nefazodona",
+    "relacion": "se_administra_via",
+    "valor": "oral"
+  },
+  {
+    "entidad": "Nefazodona",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Nefazodona",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos concurrentes"
+  },
+  {
+    "entidad": "Nefazodona",
+    "relacion": "precaucion",
+    "valor": "no ingerir alcohol"
+  },
+  {
+    "entidad": "Nefazodona",
+    "relacion": "dieta",
+    "valor": "no se menciona dieta especial"
+  },
+  {
+    "entidad": "Nefazodona",
+    "relacion": "olvido",
+    "valor": "tomar la dosis olvidada tan pronto como lo recuerde, omitir si es cerca de la próxima dosis"
+  },
+  {
+    "entidad": "Nefazodona",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Nefazodona",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para concentrarse"
+  },
+  {
+    "entidad": "Nefazodona",
+    "relacion": "efecto_secundario",
+    "valor": "boca seca"
+  },
+  {
+    "entidad": "Nefazodona",
+    "relacion": "efecto_secundario",
+    "valor": "acidez estomacal"
+  },
+  {
+    "entidad": "Nefazodona",
+    "relacion": "efecto_secundario",
+    "valor": "enrojecimiento o sensación de calor"
+  },
+  {
+    "entidad": "Nefazodona",
+    "relacion": "efecto_secundario",
+    "valor": "dolor, ardor, entumecimiento u hormigueo en manos o pies"
+  },
+  {
+    "entidad": "Nefazodona",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Nefazodona",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Nefazodona",
+    "relacion": "efecto_secundario",
+    "valor": "urticaria"
+  },
+  {
+    "entidad": "Nefazodona",
+    "relacion": "efecto_secundario",
+    "valor": "picazón"
+  },
+  {
+    "entidad": "Nefazodona",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para respirar o tragar"
+  },
+  {
+    "entidad": "Nefazodona",
+    "relacion": "efecto_secundario",
+    "valor": "inflamación del rostro, garganta, lengua, labios, ojos, manos, pies, tobillos o pantorrillas"
+  },
+  {
+    "entidad": "Nefazodona",
+    "relacion": "efecto_secundario",
+    "valor": "ronquera"
+  },
+  {
+    "entidad": "Nefazodona",
+    "relacion": "efecto_secundario",
+    "valor": "ritmo cardíaco lento"
+  },
+  {
+    "entidad": "Nefazodona",
+    "relacion": "efecto_secundario",
+    "valor": "problemas de memoria"
+  },
+  {
+    "entidad": "Nefazodona",
+    "relacion": "efecto_secundario",
+    "valor": "visión borrosa o cambios en la visión"
+  },
+  {
+    "entidad": "Nefazodona",
+    "relacion": "efecto_secundario",
+    "valor": "confusión"
+  },
+  {
+    "entidad": "Nefazodona",
+    "relacion": "efecto_secundario",
+    "valor": "convulsiones"
+  },
+  {
+    "entidad": "Nefazodona",
+    "relacion": "efecto_secundario",
+    "valor": "erección dolorosa del pene de más de 4 horas"
+  },
+  {
+    "entidad": "Nefazodona",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original, cerrado herméticamente, a temperatura ambiente y lejos del calor y la humedad"
+  },
+  {
+    "entidad": "Nefazodona",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento o a los servicios de emergencia"
+  },
+  {
+    "entidad": "Nefazodona",
+    "relacion": "marca_comercial",
+    "valor": "Serzone"
+  },
+  {
+    "entidad": "Nelfinavir",
+    "relacion": "trata",
+    "valor": "infección por el virus de inmunodeficiencia humana (VIH)"
+  },
+  {
+    "entidad": "Nelfinavir",
+    "relacion": "uso",
+    "valor": "tabletas y polvo para tomar por vía oral, de dos a tres veces al día con alimentos"
+  },
+  {
+    "entidad": "Nelfinavir",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Nelfinavir",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos concurrentes"
+  },
+  {
+    "entidad": "Nelfinavir",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta a menos que el médico lo indique"
+  },
+  {
+    "entidad": "Nelfinavir",
+    "relacion": "olvido",
+    "valor": "tomar la dosis omitida tan pronto como lo recuerde, omitir si es casi hora de la siguiente dosis"
+  },
+  {
+    "entidad": "Nelfinavir",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Nelfinavir",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Nelfinavir",
+    "relacion": "efecto_secundario",
+    "valor": "gases"
+  },
+  {
+    "entidad": "Nelfinavir",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago"
+  },
+  {
+    "entidad": "Nelfinavir",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de apetito"
+  },
+  {
+    "entidad": "Nelfinavir",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Nelfinavir",
+    "relacion": "efecto_secundario",
+    "valor": "urticaria"
+  },
+  {
+    "entidad": "Nelfinavir",
+    "relacion": "efecto_secundario",
+    "valor": "picazón"
+  },
+  {
+    "entidad": "Nelfinavir",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para respirar o tragar"
+  },
+  {
+    "entidad": "Nelfinavir",
+    "relacion": "almacenamiento",
+    "valor": "mantener en empaque original, a temperatura ambiente, lejos del calor y la humedad"
+  },
+  {
+    "entidad": "Nelfinavir",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento o a servicios de emergencia"
+  },
+  {
+    "entidad": "Nelfinavir",
+    "relacion": "marca_comercial",
+    "valor": "Viracept ®"
+  },
+  {
+    "entidad": "Neomicina, polimixina e hidrocortisona ótica",
+    "relacion": "trata",
+    "valor": "infecciones del oído externo causadas por ciertas bacterias"
+  },
+  {
+    "entidad": "Neomicina, polimixina e hidrocortisona ótica",
+    "relacion": "trata",
+    "valor": "infecciones del oído externo después de cirugía del oído"
+  },
+  {
+    "entidad": "Neomicina, polimixina e hidrocortisona ótica",
+    "relacion": "uso",
+    "valor": "solución y suspensión para colocar en el oído, tres a cuatro veces al día"
+  },
+  {
+    "entidad": "Neomicina, polimixina e hidrocortisona ótica",
+    "relacion": "se_administra_via",
+    "valor": "vía ótica"
+  },
+  {
+    "entidad": "Neomicina, polimixina e hidrocortisona ótica",
+    "relacion": "otro_uso",
+    "valor": "consultar al médico o farmacéutico"
+  },
+  {
+    "entidad": "Neomicina, polimixina e hidrocortisona ótica",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias a neomicina, polimixina, hidrocortisona y otros medicamentos"
+  },
+  {
+    "entidad": "Neomicina, polimixina e hidrocortisona ótica",
+    "relacion": "precaucion",
+    "valor": "informar si tiene un orificio o rotura en el tambor del oído"
+  },
+  {
+    "entidad": "Neomicina, polimixina e hidrocortisona ótica",
+    "relacion": "dieta",
+    "valor": "continuar con la dieta normal a menos que el médico indique lo contrario"
+  },
+  {
+    "entidad": "Neomicina, polimixina e hidrocortisona ótica",
+    "relacion": "olvido",
+    "valor": "usar la dosis omitida tan pronto como la recuerde"
+  },
+  {
+    "entidad": "Neomicina, polimixina e hidrocortisona ótica",
+    "relacion": "efecto_secundario",
+    "valor": "ardor o escozor"
+  },
+  {
+    "entidad": "Neomicina, polimixina e hidrocortisona ótica",
+    "relacion": "efecto_secundario",
+    "valor": "adelgazamiento de la piel"
+  },
+  {
+    "entidad": "Neomicina, polimixina e hidrocortisona ótica",
+    "relacion": "efecto_secundario",
+    "valor": "pequeños bultos blancos o rojos en la piel"
+  },
+  {
+    "entidad": "Neomicina, polimixina e hidrocortisona ótica",
+    "relacion": "efecto_secundario",
+    "valor": "acné"
+  },
+  {
+    "entidad": "Neomicina, polimixina e hidrocortisona ótica",
+    "relacion": "efecto_secundario",
+    "valor": "crecimiento de vello no deseado"
+  },
+  {
+    "entidad": "Neomicina, polimixina e hidrocortisona ótica",
+    "relacion": "efecto_secundario",
+    "valor": "cambios en el color de la piel"
+  },
+  {
+    "entidad": "Neomicina, polimixina e hidrocortisona ótica",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida auditiva"
+  },
+  {
+    "entidad": "Neomicina, polimixina e hidrocortisona ótica",
+    "relacion": "efecto_secundario",
+    "valor": "enrojecimiento, hinchazón o picazón en la piel"
+  },
+  {
+    "entidad": "Neomicina, polimixina e hidrocortisona ótica",
+    "relacion": "efecto_secundario",
+    "valor": "descamación o resequedad de la piel"
+  },
+  {
+    "entidad": "Neomicina, polimixina e hidrocortisona ótica",
+    "relacion": "efecto_secundario",
+    "valor": "micción menos frecuente"
+  },
+  {
+    "entidad": "Neomicina, polimixina e hidrocortisona ótica",
+    "relacion": "efecto_secundario",
+    "valor": "hinchazón de las piernas, los tobillos o los pies"
+  },
+  {
+    "entidad": "Neomicina, polimixina e hidrocortisona ótica",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio o debilidad inusuales"
+  },
+  {
+    "entidad": "Neomicina, polimixina e hidrocortisona ótica",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original, cerrado herméticamente y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Neomicina, polimixina e hidrocortisona ótica",
+    "relacion": "almacenamiento",
+    "valor": "almacenar a temperatura ambiente, lejos del exceso de calor y humedad"
+  },
+  {
+    "entidad": "Neomicina, polimixina e hidrocortisona ótica",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Neomicina, polimixina, bacitracina e hidrocortisona oftálmica",
+    "relacion": "trata",
+    "valor": "infecciones de los ojos causadas por ciertas bacterias"
+  },
+  {
+    "entidad": "Neomicina, polimixina, bacitracina e hidrocortisona oftálmica",
+    "relacion": "trata",
+    "valor": "irritación, enrojecimiento, ardor e hinchazón de la inflamación de los ojos"
+  },
+  {
+    "entidad": "Neomicina, polimixina, bacitracina e hidrocortisona oftálmica",
+    "relacion": "uso",
+    "valor": "aplicar en el ojo como ungüento o suspensión"
+  },
+  {
+    "entidad": "Neomicina, polimixina, bacitracina e hidrocortisona oftálmica",
+    "relacion": "se_administra_via",
+    "valor": "vía oftálmica"
+  },
+  {
+    "entidad": "Neomicina, polimixina, bacitracina e hidrocortisona oftálmica",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias a neomicina, polimixina, bacitracina, hidrocortisona y otros medicamentos"
+  },
+  {
+    "entidad": "Neomicina, polimixina, bacitracina e hidrocortisona oftálmica",
+    "relacion": "dieta",
+    "valor": "continuar con dieta normal a menos que se indique lo contrario"
+  },
+  {
+    "entidad": "Neomicina, polimixina, bacitracina e hidrocortisona oftálmica",
+    "relacion": "olvido",
+    "valor": "aplicar la dosis omitida tan pronto como la recuerde"
+  },
+  {
+    "entidad": "Neomicina, polimixina, bacitracina e hidrocortisona oftálmica",
+    "relacion": "efecto_secundario",
+    "valor": "ardor o escozor luego de aplicar el medicamento"
+  },
+  {
+    "entidad": "Neomicina, polimixina, bacitracina e hidrocortisona oftálmica",
+    "relacion": "efecto_secundario",
+    "valor": "visión borrosa o disminuida"
+  },
+  {
+    "entidad": "Neomicina, polimixina, bacitracina e hidrocortisona oftálmica",
+    "relacion": "efecto_secundario",
+    "valor": "picazón, enrojecimiento o hinchazón del ojo o el párpado"
+  },
+  {
+    "entidad": "Neomicina, polimixina, bacitracina e hidrocortisona oftálmica",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original, cerrado herméticamente y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Neomicina, polimixina, bacitracina e hidrocortisona oftálmica",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Nepafenaco oftálmico",
+    "relacion": "trata",
+    "valor": "dolor, enrojecimiento e hinchazón de los ojos tras cirugía de cataratas"
+  },
+  {
+    "entidad": "Nepafenaco oftálmico",
+    "relacion": "uso",
+    "valor": "aplicar tres veces comenzando un día antes de la cirugía y durante 14 días después"
+  },
+  {
+    "entidad": "Nepafenaco oftálmico",
+    "relacion": "se_administra_via",
+    "valor": "gotas oftálmicas"
+  },
+  {
+    "entidad": "Nepafenaco oftálmico",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Nepafenaco oftálmico",
+    "relacion": "precaucion",
+    "valor": "informar alergias a AINEs y otros medicamentos"
+  },
+  {
+    "entidad": "Nepafenaco oftálmico",
+    "relacion": "dieta",
+    "valor": "continuar con dieta normal a menos que se indique lo contrario"
+  },
+  {
+    "entidad": "Nepafenaco oftálmico",
+    "relacion": "olvido",
+    "valor": "aplicar la dosis olvidada tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Nepafenaco oftálmico",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Nepafenaco oftálmico",
+    "relacion": "efecto_secundario",
+    "valor": "secreción nasal"
+  },
+  {
+    "entidad": "Nepafenaco oftálmico",
+    "relacion": "efecto_secundario",
+    "valor": "dolor o presión en la cara"
+  },
+  {
+    "entidad": "Nepafenaco oftálmico",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Nepafenaco oftálmico",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Nepafenaco oftálmico",
+    "relacion": "efecto_secundario",
+    "valor": "ojos secos, con picazón o pegajosos"
+  },
+  {
+    "entidad": "Nepafenaco oftálmico",
+    "relacion": "efecto_secundario",
+    "valor": "ojos rojos o sanguinolentos"
+  },
+  {
+    "entidad": "Nepafenaco oftálmico",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de ojos"
+  },
+  {
+    "entidad": "Nepafenaco oftálmico",
+    "relacion": "efecto_secundario",
+    "valor": "sensación de tener algo en el ojo"
+  },
+  {
+    "entidad": "Nepafenaco oftálmico",
+    "relacion": "efecto_secundario",
+    "valor": "sensibilidad a la luz"
+  },
+  {
+    "entidad": "Nepafenaco oftálmico",
+    "relacion": "efecto_secundario",
+    "valor": "visión borrosa o disminuida"
+  },
+  {
+    "entidad": "Nepafenaco oftálmico",
+    "relacion": "efecto_secundario",
+    "valor": "ver motas o manchas"
+  },
+  {
+    "entidad": "Nepafenaco oftálmico",
+    "relacion": "efecto_secundario",
+    "valor": "ojos llorosos"
+  },
+  {
+    "entidad": "Nepafenaco oftálmico",
+    "relacion": "efecto_secundario",
+    "valor": "secreción ocular o formación de costras"
+  },
+  {
+    "entidad": "Nepafenaco oftálmico",
+    "relacion": "almacenamiento",
+    "valor": "mantener en empaque original, cerrado y a temperatura ambiente"
+  },
+  {
+    "entidad": "Nepafenaco oftálmico",
+    "relacion": "marca_comercial",
+    "valor": "Nevanac ®"
+  },
+  {
+    "entidad": "Neratinib",
+    "relacion": "trata",
+    "valor": "cáncer de seno con receptores de hormonas positivos"
+  },
+  {
+    "entidad": "Neratinib",
+    "relacion": "uso",
+    "valor": "tabletas para tomar por vía oral una vez al día con alimentos"
+  },
+  {
+    "entidad": "Neratinib",
+    "relacion": "otro_uso",
+    "valor": "otros usos según lo prescrito por el médico"
+  },
+  {
+    "entidad": "Neratinib",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos"
+  },
+  {
+    "entidad": "Neratinib",
+    "relacion": "dieta",
+    "valor": "no comer pomelo ni tomar jugo de pomelo"
+  },
+  {
+    "entidad": "Neratinib",
+    "relacion": "olvido",
+    "valor": "omitir la dosis y continuar con el programa habitual"
+  },
+  {
+    "entidad": "Neratinib",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Neratinib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago"
+  },
+  {
+    "entidad": "Neratinib",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Neratinib",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, cerrado y a temperatura ambiente"
+  },
+  {
+    "entidad": "Neratinib",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Netarsudil oftálmico",
+    "relacion": "trata",
+    "valor": "glaucoma"
+  },
+  {
+    "entidad": "Netarsudil oftálmico",
+    "relacion": "trata",
+    "valor": "hipertensión ocular"
+  },
+  {
+    "entidad": "Netarsudil oftálmico",
+    "relacion": "uso",
+    "valor": "aplicar en el ojo afectado una vez al día por la noche"
+  },
+  {
+    "entidad": "Netarsudil oftálmico",
+    "relacion": "precaucion",
+    "valor": "informar al médico si es alérgico al netarsudil o a otros medicamentos"
+  },
+  {
+    "entidad": "Netarsudil oftálmico",
+    "relacion": "precaucion",
+    "valor": "informar al médico sobre otros medicamentos que esté tomando"
+  },
+  {
+    "entidad": "Netarsudil oftálmico",
+    "relacion": "precaucion",
+    "valor": "quitar lentes de contacto antes de aplicar el medicamento"
+  },
+  {
+    "entidad": "Netarsudil oftálmico",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Netarsudil oftálmico",
+    "relacion": "olvido",
+    "valor": "omitir la dosis olvidada y continuar con la dosificación habitual"
+  },
+  {
+    "entidad": "Netarsudil oftálmico",
+    "relacion": "efecto_secundario",
+    "valor": "ardor, escozor o dolor ocular"
+  },
+  {
+    "entidad": "Netarsudil oftálmico",
+    "relacion": "efecto_secundario",
+    "valor": "decoloración del ojo"
+  },
+  {
+    "entidad": "Netarsudil oftálmico",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de ojos"
+  },
+  {
+    "entidad": "Netarsudil oftálmico",
+    "relacion": "efecto_secundario",
+    "valor": "cambios en la visión"
+  },
+  {
+    "entidad": "Netarsudil oftálmico",
+    "relacion": "efecto_secundario",
+    "valor": "sensibilidad a la luz"
+  },
+  {
+    "entidad": "Netarsudil oftálmico",
+    "relacion": "efecto_secundario",
+    "valor": "ojos llorosos"
+  },
+  {
+    "entidad": "Netarsudil oftálmico",
+    "relacion": "efecto_secundario",
+    "valor": "enrojecimiento del ojo o del párpado"
+  },
+  {
+    "entidad": "Netarsudil oftálmico",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su frasco original, cerrado herméticamente y lejos del alcance de los niños"
+  },
+  {
+    "entidad": "Netarsudil oftálmico",
+    "relacion": "almacenamiento",
+    "valor": "guardar frascos sin abrir en el refrigerador"
+  },
+  {
+    "entidad": "Netarsudil oftálmico",
+    "relacion": "almacenamiento",
+    "valor": "guardar frascos abiertos a temperatura ambiente durante un máximo de 6 semanas"
+  },
+  {
+    "entidad": "Netarsudil oftálmico",
+    "relacion": "marca_comercial",
+    "valor": "Rhopressa ®"
+  },
+  {
+    "entidad": "Netarsudil oftálmico",
+    "relacion": "marca_comercial",
+    "valor": "Rocklatan ®"
+  },
+  {
+    "entidad": "Nevirapina",
+    "relacion": "contraindicado_en",
+    "valor": "enfermedad hepática"
+  },
+  {
+    "entidad": "Nevirapina",
+    "relacion": "trata",
+    "valor": "infección por el virus de la inmunodeficiencia humana (VIH)"
+  },
+  {
+    "entidad": "Nevirapina",
+    "relacion": "uso",
+    "valor": "tableta, tableta de liberación prolongada y suspensión para tomar por vía oral con o sin alimentos"
+  },
+  {
+    "entidad": "Nevirapina",
+    "relacion": "se_administra_via",
+    "valor": "oral"
+  },
+  {
+    "entidad": "Nevirapina",
+    "relacion": "otro_uso",
+    "valor": "evitar que los fetos cuyas madres tienen VIH o SIDA se infecten durante el parto"
+  },
+  {
+    "entidad": "Nevirapina",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos actuales"
+  },
+  {
+    "entidad": "Nevirapina",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Nevirapina",
+    "relacion": "olvido",
+    "valor": "tome la dosis que omitió tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Nevirapina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Nevirapina",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Nevirapina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago"
+  },
+  {
+    "entidad": "Nevirapina",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original, cerrado herméticamente y a temperatura ambiente"
+  },
+  {
+    "entidad": "Nevirapina",
+    "relacion": "sobredosis",
+    "valor": "llame a la línea de ayuda de control de envenenamiento o a los servicios de emergencia"
+  },
+  {
+    "entidad": "Nevirapina",
+    "relacion": "marca_comercial",
+    "valor": "Viramune"
+  },
+  {
+    "entidad": "Nevirapina",
+    "relacion": "marca_comercial",
+    "valor": "Viramune XR"
+  },
+  {
+    "entidad": "Nilutamida",
+    "relacion": "contraindicado_en",
+    "valor": "enfermedad pulmonar grave"
+  },
+  {
+    "entidad": "Nilutamida",
+    "relacion": "trata",
+    "valor": "cáncer de próstata"
+  },
+  {
+    "entidad": "Nilutamida",
+    "relacion": "uso",
+    "valor": "tomar una vez al día, con o sin alimentos"
+  },
+  {
+    "entidad": "Nilutamida",
+    "relacion": "se_administra_via",
+    "valor": "vía oral"
+  },
+  {
+    "entidad": "Nilutamida",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Nilutamida",
+    "relacion": "precaucion",
+    "valor": "no usar en mujeres embarazadas o en lactancia"
+  },
+  {
+    "entidad": "Nilutamida",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Nilutamida",
+    "relacion": "olvido",
+    "valor": "tomar la dosis olvidada tan pronto como se recuerde"
+  },
+  {
+    "entidad": "Nilutamida",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Nilutamida",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Nilutamida",
+    "relacion": "efecto_secundario",
+    "valor": "sofocos"
+  },
+  {
+    "entidad": "Nilutamida",
+    "relacion": "efecto_secundario",
+    "valor": "cambios en la visión"
+  },
+  {
+    "entidad": "Nilutamida",
+    "relacion": "efecto_secundario",
+    "valor": "coloración amarillenta en la piel y los ojos"
+  },
+  {
+    "entidad": "Nilutamida",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Nilutamida",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Nilutamida",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago"
+  },
+  {
+    "entidad": "Nilutamida",
+    "relacion": "efecto_secundario",
+    "valor": "dolor en la parte superior derecha del estómago"
+  },
+  {
+    "entidad": "Nilutamida",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio extremo"
+  },
+  {
+    "entidad": "Nilutamida",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de apetito"
+  },
+  {
+    "entidad": "Nilutamida",
+    "relacion": "efecto_secundario",
+    "valor": "síntomas similares a los de la gripe"
+  },
+  {
+    "entidad": "Nilutamida",
+    "relacion": "efecto_secundario",
+    "valor": "orina oscura"
+  },
+  {
+    "entidad": "Nilutamida",
+    "relacion": "almacenamiento",
+    "valor": "mantener en envase original, cerrado y a temperatura ambiente"
+  },
+  {
+    "entidad": "Nilutamida",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Nimodipina",
+    "relacion": "se_administra_via",
+    "valor": "por vía oral o a través de una sonda"
+  },
+  {
+    "entidad": "Nimodipina",
+    "relacion": "trata",
+    "valor": "daño cerebral por hemorragia subaracnoidea"
+  },
+  {
+    "entidad": "Nimodipina",
+    "relacion": "uso",
+    "valor": "cada 4 horas durante 21 días, con el estómago vacío"
+  },
+  {
+    "entidad": "Nimodipina",
+    "relacion": "otro_uso",
+    "valor": "puede recetarse para otros usos"
+  },
+  {
+    "entidad": "Nimodipina",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos actuales"
+  },
+  {
+    "entidad": "Nimodipina",
+    "relacion": "dieta",
+    "valor": "no tomar jugo de toronja ni comer toronja"
+  },
+  {
+    "entidad": "Nimodipina",
+    "relacion": "olvido",
+    "valor": "tomar la dosis omitida tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Nimodipina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Nimodipina",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Nimodipina",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Nimodipina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor muscular"
+  },
+  {
+    "entidad": "Nimodipina",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Nimodipina",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Nimodipina",
+    "relacion": "efecto_secundario",
+    "valor": "aturdimiento"
+  },
+  {
+    "entidad": "Nimodipina",
+    "relacion": "efecto_secundario",
+    "valor": "ritmo cardíaco lento o acelerado"
+  },
+  {
+    "entidad": "Nimodipina",
+    "relacion": "efecto_secundario",
+    "valor": "hinchazón de brazos, manos, pies o piernas"
+  },
+  {
+    "entidad": "Nimodipina",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original, cerrado herméticamente"
+  },
+  {
+    "entidad": "Nimodipina",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Nimodipina",
+    "relacion": "marca_comercial",
+    "valor": "Nimotop"
+  },
+  {
+    "entidad": "Nimodipina",
+    "relacion": "marca_comercial",
+    "valor": "Nymalize"
+  },
+  {
+    "entidad": "Nintedanib",
+    "relacion": "trata",
+    "valor": "fibrosis pulmonar idiopática"
+  },
+  {
+    "entidad": "Nintedanib",
+    "relacion": "trata",
+    "valor": "enfermedades intersticiales fibrosantes pulmonares crónicas"
+  },
+  {
+    "entidad": "Nintedanib",
+    "relacion": "trata",
+    "valor": "enfermedad pulmonar intersticial asociada a la esclerosis sistémica"
+  },
+  {
+    "entidad": "Nintedanib",
+    "relacion": "uso",
+    "valor": "cápsulas para tomar por vía oral"
+  },
+  {
+    "entidad": "Nintedanib",
+    "relacion": "uso",
+    "valor": "tomar con alimentos cada 12 horas"
+  },
+  {
+    "entidad": "Nintedanib",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias a nintedanib o ingredientes de las cápsulas"
+  },
+  {
+    "entidad": "Nintedanib",
+    "relacion": "precaucion",
+    "valor": "informar sobre otros medicamentos, vitaminas y suplementos"
+  },
+  {
+    "entidad": "Nintedanib",
+    "relacion": "precaucion",
+    "valor": "no empezar a tomar sin consultar con el médico"
+  },
+  {
+    "entidad": "Nintedanib",
+    "relacion": "precaucion",
+    "valor": "informar sobre problemas de sangrado, enfermedades hepáticas o cardiacas"
+  },
+  {
+    "entidad": "Nintedanib",
+    "relacion": "precaucion",
+    "valor": "no quedar embarazada mientras se toma el medicamento"
+  },
+  {
+    "entidad": "Nintedanib",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta a menos que el médico lo indique"
+  },
+  {
+    "entidad": "Nintedanib",
+    "relacion": "olvido",
+    "valor": "omitir la dosis que faltó y seguir con la dosis normal"
+  },
+  {
+    "entidad": "Nintedanib",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Nintedanib",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Nintedanib",
+    "relacion": "efecto_secundario",
+    "valor": "disminución del apetito"
+  },
+  {
+    "entidad": "Nintedanib",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de peso"
+  },
+  {
+    "entidad": "Nintedanib",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Nintedanib",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio extremo"
+  },
+  {
+    "entidad": "Nintedanib",
+    "relacion": "efecto_secundario",
+    "valor": "sangrado o moretones inusuales"
+  },
+  {
+    "entidad": "Nintedanib",
+    "relacion": "efecto_secundario",
+    "valor": "falta de energía"
+  },
+  {
+    "entidad": "Nintedanib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor en la parte superior derecha del estómago"
+  },
+  {
+    "entidad": "Nintedanib",
+    "relacion": "efecto_secundario",
+    "valor": "coloración amarillenta en la piel y los ojos"
+  },
+  {
+    "entidad": "Nintedanib",
+    "relacion": "efecto_secundario",
+    "valor": "orina oscura o café"
+  },
+  {
+    "entidad": "Nintedanib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor en el pecho"
+  },
+  {
+    "entidad": "Nintedanib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor en los brazos, espalda, cuello o quijada"
+  },
+  {
+    "entidad": "Nintedanib",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para respirar"
+  },
+  {
+    "entidad": "Nintedanib",
+    "relacion": "efecto_secundario",
+    "valor": "adormecimiento o debilidad en un lado del cuerpo"
+  },
+  {
+    "entidad": "Nintedanib",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para hablar"
+  },
+  {
+    "entidad": "Nintedanib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Nintedanib",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Nintedanib",
+    "relacion": "efecto_secundario",
+    "valor": "heridas que no sanan"
+  },
+  {
+    "entidad": "Nintedanib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor o inflamación en el área del estómago"
+  },
+  {
+    "entidad": "Nintedanib",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, bien cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Nintedanib",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente, lejos del calor y la humedad"
+  },
+  {
+    "entidad": "Nintedanib",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Nintedanib",
+    "relacion": "marca_comercial",
+    "valor": "Ofev"
+  },
+  {
+    "entidad": "Niraparib",
+    "relacion": "trata",
+    "valor": "cáncer de ovarios, trompa de Falopio y peritoneal"
+  },
+  {
+    "entidad": "Niraparib",
+    "relacion": "uso",
+    "valor": "cápsulas para tomar por vía oral una vez al día"
+  },
+  {
+    "entidad": "Niraparib",
+    "relacion": "se_administra_via",
+    "valor": "oral"
+  },
+  {
+    "entidad": "Niraparib",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos"
+  },
+  {
+    "entidad": "Niraparib",
+    "relacion": "precaucion",
+    "valor": "no amamantar durante el tratamiento y 1 mes después"
+  },
+  {
+    "entidad": "Niraparib",
+    "relacion": "dieta",
+    "valor": "continuar con la dieta normal a menos que se indique lo contrario"
+  },
+  {
+    "entidad": "Niraparib",
+    "relacion": "olvido",
+    "valor": "omitir la dosis que faltó y seguir con la dosis normal"
+  },
+  {
+    "entidad": "Niraparib",
+    "relacion": "efecto_secundario",
+    "valor": "náusea"
+  },
+  {
+    "entidad": "Niraparib",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Niraparib",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Niraparib",
+    "relacion": "efecto_secundario",
+    "valor": "acidez estomacal"
+  },
+  {
+    "entidad": "Niraparib",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida del apetito"
+  },
+  {
+    "entidad": "Niraparib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de espalda"
+  },
+  {
+    "entidad": "Niraparib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Niraparib",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Niraparib",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio"
+  },
+  {
+    "entidad": "Niraparib",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original, cerrado y a temperatura ambiente"
+  },
+  {
+    "entidad": "Niraparib",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Niraparib",
+    "relacion": "marca_comercial",
+    "valor": "Zejula ®"
+  },
+  {
+    "entidad": "Nirmatrelvir y Ritonavir",
+    "relacion": "contraindicado_en",
+    "valor": "interacciones con otros medicamentos"
+  },
+  {
+    "entidad": "Nirmatrelvir y Ritonavir",
+    "relacion": "trata",
+    "valor": "enfermedad por coronavirus 2019 (COVID-19)"
+  },
+  {
+    "entidad": "Nirmatrelvir y Ritonavir",
+    "relacion": "uso",
+    "valor": "tomar dos veces al día durante 5 días"
+  },
+  {
+    "entidad": "Nirmatrelvir y Ritonavir",
+    "relacion": "se_administra_via",
+    "valor": "vía oral"
+  },
+  {
+    "entidad": "Nirmatrelvir y Ritonavir",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos actuales"
+  },
+  {
+    "entidad": "Nirmatrelvir y Ritonavir",
+    "relacion": "dieta",
+    "valor": "continuar con dieta normal a menos que se indique lo contrario"
+  },
+  {
+    "entidad": "Nirmatrelvir y Ritonavir",
+    "relacion": "olvido",
+    "valor": "tomar la dosis olvidada dentro de 8 horas"
+  },
+  {
+    "entidad": "Nirmatrelvir y Ritonavir",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Nirmatrelvir y Ritonavir",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas o vómitos"
+  },
+  {
+    "entidad": "Nirmatrelvir y Ritonavir",
+    "relacion": "efecto_secundario",
+    "valor": "malestar general"
+  },
+  {
+    "entidad": "Nirmatrelvir y Ritonavir",
+    "relacion": "efecto_secundario",
+    "valor": "dolor abdominal"
+  },
+  {
+    "entidad": "Nirmatrelvir y Ritonavir",
+    "relacion": "efecto_secundario",
+    "valor": "gusto alterado"
+  },
+  {
+    "entidad": "Nirmatrelvir y Ritonavir",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Nirmatrelvir y Ritonavir",
+    "relacion": "efecto_secundario",
+    "valor": "dolores musculares"
+  },
+  {
+    "entidad": "Nirmatrelvir y Ritonavir",
+    "relacion": "efecto_secundario",
+    "valor": "erupción cutánea"
+  },
+  {
+    "entidad": "Nirmatrelvir y Ritonavir",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para respirar"
+  },
+  {
+    "entidad": "Nirmatrelvir y Ritonavir",
+    "relacion": "efecto_secundario",
+    "valor": "hinchazón de la lengua"
+  },
+  {
+    "entidad": "Nirmatrelvir y Ritonavir",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de apetito"
+  },
+  {
+    "entidad": "Nirmatrelvir y Ritonavir",
+    "relacion": "efecto_secundario",
+    "valor": "amarillamiento de la piel"
+  },
+  {
+    "entidad": "Nirmatrelvir y Ritonavir",
+    "relacion": "efecto_secundario",
+    "valor": "orina oscura"
+  },
+  {
+    "entidad": "Nirmatrelvir y Ritonavir",
+    "relacion": "efecto_secundario",
+    "valor": "heces de color pálido"
+  },
+  {
+    "entidad": "Nirmatrelvir y Ritonavir",
+    "relacion": "almacenamiento",
+    "valor": "mantener en empaque original, a temperatura ambiente"
+  },
+  {
+    "entidad": "Nirmatrelvir y Ritonavir",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Nirmatrelvir y Ritonavir",
+    "relacion": "marca_comercial",
+    "valor": "Paxlovid"
+  },
+  {
+    "entidad": "Nirogacestat",
+    "relacion": "trata",
+    "valor": "tumores desmoides"
+  },
+  {
+    "entidad": "Nirogacestat",
+    "relacion": "uso",
+    "valor": "tabletas para tomar por vía oral, dos veces al día"
+  },
+  {
+    "entidad": "Nirogacestat",
+    "relacion": "se_administra_via",
+    "valor": "oral"
+  },
+  {
+    "entidad": "Nirogacestat",
+    "relacion": "otro_uso",
+    "valor": "otros usos según recomendación médica"
+  },
+  {
+    "entidad": "Nirogacestat",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos"
+  },
+  {
+    "entidad": "Nirogacestat",
+    "relacion": "precaucion",
+    "valor": "no tomar antiácidos 2 horas antes o después"
+  },
+  {
+    "entidad": "Nirogacestat",
+    "relacion": "precaucion",
+    "valor": "puede interferir con el ciclo menstrual y fertilidad"
+  },
+  {
+    "entidad": "Nirogacestat",
+    "relacion": "dieta",
+    "valor": "no comer toronja, carambola ni naranjas de Sevilla"
+  },
+  {
+    "entidad": "Nirogacestat",
+    "relacion": "olvido",
+    "valor": "tome la dosis omitida tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Nirogacestat",
+    "relacion": "efecto_secundario",
+    "valor": "aumento del riesgo de cáncer de piel"
+  },
+  {
+    "entidad": "Nirogacestat",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Nirogacestat",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago"
+  },
+  {
+    "entidad": "Nirogacestat",
+    "relacion": "efecto_secundario",
+    "valor": "aftas en la boca"
+  },
+  {
+    "entidad": "Nirogacestat",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Nirogacestat",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida del cabello"
+  },
+  {
+    "entidad": "Nirogacestat",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Nirogacestat",
+    "relacion": "efecto_secundario",
+    "valor": "secreción nasal"
+  },
+  {
+    "entidad": "Nirogacestat",
+    "relacion": "efecto_secundario",
+    "valor": "tos"
+  },
+  {
+    "entidad": "Nirogacestat",
+    "relacion": "efecto_secundario",
+    "valor": "falta de aliento"
+  },
+  {
+    "entidad": "Nirogacestat",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio"
+  },
+  {
+    "entidad": "Nirogacestat",
+    "relacion": "efecto_secundario",
+    "valor": "cambios en el ciclo menstrual"
+  },
+  {
+    "entidad": "Nirogacestat",
+    "relacion": "efecto_secundario",
+    "valor": "sofocos"
+  },
+  {
+    "entidad": "Nirogacestat",
+    "relacion": "efecto_secundario",
+    "valor": "sudoración nocturna"
+  },
+  {
+    "entidad": "Nirogacestat",
+    "relacion": "efecto_secundario",
+    "valor": "sequedad vaginal"
+  },
+  {
+    "entidad": "Nirogacestat",
+    "relacion": "efecto_secundario",
+    "valor": "dolor muscular o debilidad"
+  },
+  {
+    "entidad": "Nirogacestat",
+    "relacion": "efecto_secundario",
+    "valor": "lesiones cutáneas nuevas o cambiantes"
+  },
+  {
+    "entidad": "Nirogacestat",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, a temperatura ambiente"
+  },
+  {
+    "entidad": "Nirogacestat",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Nirogacestat",
+    "relacion": "marca_comercial",
+    "valor": "Ogsiveo"
+  },
+  {
+    "entidad": "Nisoldipina",
+    "relacion": "trata",
+    "valor": "presión arterial alta"
+  },
+  {
+    "entidad": "Nisoldipina",
+    "relacion": "uso",
+    "valor": "tabletas de liberación prolongada, una vez al día"
+  },
+  {
+    "entidad": "Nisoldipina",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Nisoldipina",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos actuales"
+  },
+  {
+    "entidad": "Nisoldipina",
+    "relacion": "dieta",
+    "valor": "evitar alimentos altos en grasa y toronjas"
+  },
+  {
+    "entidad": "Nisoldipina",
+    "relacion": "olvido",
+    "valor": "tomar la dosis olvidada tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Nisoldipina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Nisoldipina",
+    "relacion": "efecto_secundario",
+    "valor": "molestias estomacales"
+  },
+  {
+    "entidad": "Nisoldipina",
+    "relacion": "efecto_secundario",
+    "valor": "mareos o aturdimiento"
+  },
+  {
+    "entidad": "Nisoldipina",
+    "relacion": "efecto_secundario",
+    "valor": "enrojecimiento"
+  },
+  {
+    "entidad": "Nisoldipina",
+    "relacion": "efecto_secundario",
+    "valor": "ritmo cardíaco acelerado"
+  },
+  {
+    "entidad": "Nisoldipina",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio excesivo"
+  },
+  {
+    "entidad": "Nisoldipina",
+    "relacion": "efecto_secundario",
+    "valor": "congestión nasal"
+  },
+  {
+    "entidad": "Nisoldipina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de garganta"
+  },
+  {
+    "entidad": "Nisoldipina",
+    "relacion": "efecto_secundario",
+    "valor": "hinchazón de la cara, ojos, labios, lengua, brazos o piernas"
+  },
+  {
+    "entidad": "Nisoldipina",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para respirar o tragar"
+  },
+  {
+    "entidad": "Nisoldipina",
+    "relacion": "efecto_secundario",
+    "valor": "desmayos"
+  },
+  {
+    "entidad": "Nisoldipina",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Nisoldipina",
+    "relacion": "almacenamiento",
+    "valor": "mantener en empaque original, a temperatura ambiente, fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Nisoldipina",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento o a servicios de emergencia"
+  },
+  {
+    "entidad": "Nisoldipina",
+    "relacion": "marca_comercial",
+    "valor": "Sular ®"
+  },
+  {
+    "entidad": "Nitroglicerina sublingual",
+    "relacion": "trata",
+    "valor": "episodios de angina (dolor de pecho)"
+  },
+  {
+    "entidad": "Nitroglicerina sublingual",
+    "relacion": "uso",
+    "valor": "tableta sublingual para colocar debajo de la lengua"
+  },
+  {
+    "entidad": "Nitroglicerina sublingual",
+    "relacion": "se_administra_via",
+    "valor": "sublingual"
+  },
+  {
+    "entidad": "Nitroglicerina sublingual",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Nitroglicerina sublingual",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias a nitroglicerina y otros medicamentos"
+  },
+  {
+    "entidad": "Nitroglicerina sublingual",
+    "relacion": "precaucion",
+    "valor": "evitar medicamentos que causen sequedad en la boca"
+  },
+  {
+    "entidad": "Nitroglicerina sublingual",
+    "relacion": "precaucion",
+    "valor": "informar sobre condiciones médicas como insuficiencia cardíaca o presión arterial baja"
+  },
+  {
+    "entidad": "Nitroglicerina sublingual",
+    "relacion": "precaucion",
+    "valor": "consultar sobre el consumo de alcohol"
+  },
+  {
+    "entidad": "Nitroglicerina sublingual",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Nitroglicerina sublingual",
+    "relacion": "olvido",
+    "valor": "tomar según sea necesario, no de forma regular"
+  },
+  {
+    "entidad": "Nitroglicerina sublingual",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Nitroglicerina sublingual",
+    "relacion": "efecto_secundario",
+    "valor": "dolores de cabeza"
+  },
+  {
+    "entidad": "Nitroglicerina sublingual",
+    "relacion": "almacenamiento",
+    "valor": "mantener en empaque original, cerrado y a temperatura ambiente"
+  },
+  {
+    "entidad": "Nitroglicerina sublingual",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Nitroglicerina sublingual",
+    "relacion": "marca_comercial",
+    "valor": "Nitrostat"
+  },
+  {
+    "entidad": "Nitroglicerina tópica",
+    "relacion": "trata",
+    "valor": "episodios de angina"
+  },
+  {
+    "entidad": "Nitroglicerina tópica",
+    "relacion": "trata",
+    "valor": "dolor por fisura en el ano"
+  },
+  {
+    "entidad": "Nitroglicerina tópica",
+    "relacion": "uso",
+    "valor": "aplicar sobre la piel"
+  },
+  {
+    "entidad": "Nitroglicerina tópica",
+    "relacion": "se_administra_via",
+    "valor": "tópica"
+  },
+  {
+    "entidad": "Nitroglicerina tópica",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias a nitroglicerina y otros medicamentos"
+  },
+  {
+    "entidad": "Nitroglicerina tópica",
+    "relacion": "precaucion",
+    "valor": "consultar sobre otros medicamentos que se estén tomando"
+  },
+  {
+    "entidad": "Nitroglicerina tópica",
+    "relacion": "precaucion",
+    "valor": "informar si tiene anemia o presión arterial baja"
+  },
+  {
+    "entidad": "Nitroglicerina tópica",
+    "relacion": "precaucion",
+    "valor": "no conducir ni operar maquinaria pesada si causa mareos"
+  },
+  {
+    "entidad": "Nitroglicerina tópica",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Nitroglicerina tópica",
+    "relacion": "olvido",
+    "valor": "aplicar la dosis omitida tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Nitroglicerina tópica",
+    "relacion": "efecto_secundario",
+    "valor": "aturdimiento"
+  },
+  {
+    "entidad": "Nitroglicerina tópica",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Nitroglicerina tópica",
+    "relacion": "efecto_secundario",
+    "valor": "enrojecimiento o irritación de la piel"
+  },
+  {
+    "entidad": "Nitroglicerina tópica",
+    "relacion": "efecto_secundario",
+    "valor": "ritmo cardíaco lento"
+  },
+  {
+    "entidad": "Nitroglicerina tópica",
+    "relacion": "efecto_secundario",
+    "valor": "desmayos"
+  },
+  {
+    "entidad": "Nitroglicerina tópica",
+    "relacion": "almacenamiento",
+    "valor": "mantener fuera del alcance de los niños y a temperatura ambiente"
+  },
+  {
+    "entidad": "Nitroglicerina tópica",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Nitroglicerina tópica",
+    "relacion": "marca_comercial",
+    "valor": "Nitro-Bid"
+  },
+  {
+    "entidad": "Nitroglicerina tópica",
+    "relacion": "marca_comercial",
+    "valor": "Rectiv"
+  },
+  {
+    "entidad": "Nivolumab y relatlimab",
+    "relacion": "trata",
+    "valor": "ciertos tipos de melanoma"
+  },
+  {
+    "entidad": "Nivolumab y relatlimab",
+    "relacion": "uso",
+    "valor": "administrar por vía intravenosa durante 30 minutos cada 4 semanas"
+  },
+  {
+    "entidad": "Nivolumab y relatlimab",
+    "relacion": "otro_uso",
+    "valor": "otros usos según recomendación médica"
+  },
+  {
+    "entidad": "Nivolumab y relatlimab",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos actuales"
+  },
+  {
+    "entidad": "Nivolumab y relatlimab",
+    "relacion": "precaucion",
+    "valor": "informar sobre trasplantes de órganos y enfermedades autoinmunes"
+  },
+  {
+    "entidad": "Nivolumab y relatlimab",
+    "relacion": "precaucion",
+    "valor": "realizar prueba de embarazo antes del tratamiento"
+  },
+  {
+    "entidad": "Nivolumab y relatlimab",
+    "relacion": "precaucion",
+    "valor": "no quedar embarazada durante el tratamiento y 5 meses después"
+  },
+  {
+    "entidad": "Nivolumab y relatlimab",
+    "relacion": "precaucion",
+    "valor": "no amamantar durante el tratamiento y 5 meses después"
+  },
+  {
+    "entidad": "Nivolumab y relatlimab",
+    "relacion": "dieta",
+    "valor": "continuar con la dieta normal a menos que se indique lo contrario"
+  },
+  {
+    "entidad": "Nivolumab y relatlimab",
+    "relacion": "efecto_secundario",
+    "valor": "dolor muscular o debilidad"
+  },
+  {
+    "entidad": "Nivolumab y relatlimab",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Nivolumab y relatlimab",
+    "relacion": "efecto_secundario",
+    "valor": "disminución del apetito"
+  },
+  {
+    "entidad": "Nivolumab y relatlimab",
+    "relacion": "efecto_secundario",
+    "valor": "falta de aliento"
+  },
+  {
+    "entidad": "Nivolumab y relatlimab",
+    "relacion": "efecto_secundario",
+    "valor": "tos nueva o que empeora"
+  },
+  {
+    "entidad": "Nivolumab y relatlimab",
+    "relacion": "efecto_secundario",
+    "valor": "tos con sangre"
+  },
+  {
+    "entidad": "Nivolumab y relatlimab",
+    "relacion": "efecto_secundario",
+    "valor": "dolor en el pecho"
+  },
+  {
+    "entidad": "Nivolumab y relatlimab",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Nivolumab y relatlimab",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio o debilidad"
+  },
+  {
+    "entidad": "Nivolumab y relatlimab",
+    "relacion": "efecto_secundario",
+    "valor": "fiebre"
+  },
+  {
+    "entidad": "Nivolumab y relatlimab",
+    "relacion": "efecto_secundario",
+    "valor": "picazón, sarpullido, urticaria o ampollas en la piel"
+  },
+  {
+    "entidad": "Nivolumab y relatlimab",
+    "relacion": "marca_comercial",
+    "valor": "Opdualag"
+  },
+  {
+    "entidad": "Omadaciclina",
+    "relacion": "trata",
+    "valor": "infecciones causadas por bacterias, incluidas la neumonía y algunas infecciones de la piel"
+  },
+  {
+    "entidad": "Omadaciclina",
+    "relacion": "uso",
+    "valor": "tabletas para tomar por vía oral una vez al día por 7 a 14 días"
+  },
+  {
+    "entidad": "Omadaciclina",
+    "relacion": "se_administra_via",
+    "valor": "vía oral"
+  },
+  {
+    "entidad": "Omadaciclina",
+    "relacion": "precaucion",
+    "valor": "informe a su médico si es alérgico a la omadaciclina o a otros antibióticos de tetraciclina"
+  },
+  {
+    "entidad": "Omadaciclina",
+    "relacion": "precaucion",
+    "valor": "evite la exposición innecesaria o prolongada a la luz solar"
+  },
+  {
+    "entidad": "Omadaciclina",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta a menos que su médico lo indique"
+  },
+  {
+    "entidad": "Omadaciclina",
+    "relacion": "olvido",
+    "valor": "tome la dosis que omitió tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Omadaciclina",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Omadaciclina",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Omadaciclina",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Omadaciclina",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Omadaciclina",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para conciliar el sueño"
+  },
+  {
+    "entidad": "Omadaciclina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Omadaciclina",
+    "relacion": "efecto_secundario",
+    "valor": "urticaria"
+  },
+  {
+    "entidad": "Omadaciclina",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Omadaciclina",
+    "relacion": "efecto_secundario",
+    "valor": "picazón"
+  },
+  {
+    "entidad": "Omadaciclina",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para respirar o tragar"
+  },
+  {
+    "entidad": "Omadaciclina",
+    "relacion": "efecto_secundario",
+    "valor": "heces líquidas o con sangre"
+  },
+  {
+    "entidad": "Omadaciclina",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, bien cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Omadaciclina",
+    "relacion": "sobredosis",
+    "valor": "llame a la línea de ayuda de control de envenenamiento al 1-800-222-1222"
+  },
+  {
+    "entidad": "Omadaciclina",
+    "relacion": "marca_comercial",
+    "valor": "Nuzyra"
+  },
+  {
+    "entidad": "Parche transdérmico de nicotina",
+    "relacion": "trata",
+    "valor": "ayudar a las personas a dejar de fumar"
+  },
+  {
+    "entidad": "Parche transdérmico de nicotina",
+    "relacion": "uso",
+    "valor": "aplicar directamente sobre la piel una vez al día"
+  },
+  {
+    "entidad": "Parche transdérmico de nicotina",
+    "relacion": "se_administra_via",
+    "valor": "transdérmica"
+  },
+  {
+    "entidad": "Parche transdérmico de nicotina",
+    "relacion": "precaucion",
+    "valor": "informar a su médico si es alérgico a la cinta adhesiva o a otros medicamentos"
+  },
+  {
+    "entidad": "Parche transdérmico de nicotina",
+    "relacion": "precaucion",
+    "valor": "no fumar ni usar otros productos con nicotina mientras usa el parche"
+  },
+  {
+    "entidad": "Parche transdérmico de nicotina",
+    "relacion": "olvido",
+    "valor": "aplicar la dosis que omitió tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Parche transdérmico de nicotina",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Parche transdérmico de nicotina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Parche transdérmico de nicotina",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Parche transdérmico de nicotina",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Parche transdérmico de nicotina",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Parche transdérmico de nicotina",
+    "relacion": "efecto_secundario",
+    "valor": "enrojecimiento o hinchazón en el sitio del parche"
+  },
+  {
+    "entidad": "Parche transdérmico de nicotina",
+    "relacion": "efecto_secundario",
+    "valor": "erupción o hinchazón"
+  },
+  {
+    "entidad": "Parche transdérmico de nicotina",
+    "relacion": "efecto_secundario",
+    "valor": "convulsiones"
+  },
+  {
+    "entidad": "Parche transdérmico de nicotina",
+    "relacion": "efecto_secundario",
+    "valor": "latidos o ritmo cardíaco anormales"
+  },
+  {
+    "entidad": "Parche transdérmico de nicotina",
+    "relacion": "efecto_secundario",
+    "valor": "falta de aliento"
+  },
+  {
+    "entidad": "Parche transdérmico de nicotina",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, bien cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Parche transdérmico de nicotina",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Parche transdérmico de nicotina",
+    "relacion": "marca_comercial",
+    "valor": "Nicoderm ® Parche CQ"
+  },
+  {
+    "entidad": "Parche transdérmico de nicotina",
+    "relacion": "marca_comercial",
+    "valor": "Nicotrol ® Parche"
+  },
+  {
+    "entidad": "Parche transdérmico de rotigotina",
+    "relacion": "trata",
+    "valor": "enfermedad de Parkinson"
+  },
+  {
+    "entidad": "Parche transdérmico de rotigotina",
+    "relacion": "trata",
+    "valor": "síndrome de piernas inquietas"
+  },
+  {
+    "entidad": "Parche transdérmico de rotigotina",
+    "relacion": "uso",
+    "valor": "aplicar una vez al día"
+  },
+  {
+    "entidad": "Parche transdérmico de rotigotina",
+    "relacion": "se_administra_via",
+    "valor": "transdérmica"
+  },
+  {
+    "entidad": "Parche transdérmico de rotigotina",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos"
+  },
+  {
+    "entidad": "Parche transdérmico de rotigotina",
+    "relacion": "precaucion",
+    "valor": "no conducir ni operar maquinaria hasta conocer efectos"
+  },
+  {
+    "entidad": "Parche transdérmico de rotigotina",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Parche transdérmico de rotigotina",
+    "relacion": "olvido",
+    "valor": "aplicar la dosis olvidada tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Parche transdérmico de rotigotina",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Parche transdérmico de rotigotina",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Parche transdérmico de rotigotina",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Parche transdérmico de rotigotina",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Parche transdérmico de rotigotina",
+    "relacion": "efecto_secundario",
+    "valor": "somnolencia"
+  },
+  {
+    "entidad": "Parche transdérmico de rotigotina",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Parche transdérmico de rotigotina",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente, lejos del calor y la humedad"
+  },
+  {
+    "entidad": "Parche transdérmico de rotigotina",
+    "relacion": "sobredosis",
+    "valor": "quitar los parches y llamar al centro de control de intoxicaciones"
+  },
+  {
+    "entidad": "Parche transdérmico de rotigotina",
+    "relacion": "marca_comercial",
+    "valor": "Neupro ®"
+  },
+  {
+    "entidad": "Pimavanserina",
+    "relacion": "contraindicado_en",
+    "valor": "pacientes con psicosis relacionada con la demencia sin relación con alucinaciones y delirios asociados a la psicosis de la enfermedad de Parkinson"
+  },
+  {
+    "entidad": "Pimavanserina",
+    "relacion": "trata",
+    "valor": "alucinaciones y delirios en personas con psicosis debida a la enfermedad de Parkinson"
+  },
+  {
+    "entidad": "Pimavanserina",
+    "relacion": "uso",
+    "valor": "tomar una vez al día con o sin alimentos, siguiendo las instrucciones del prospecto"
+  },
+  {
+    "entidad": "Pimavanserina",
+    "relacion": "se_administra_via",
+    "valor": "vía oral en tabletas y cápsulas"
+  },
+  {
+    "entidad": "Pimavanserina",
+    "relacion": "otro_uso",
+    "valor": "puede ser recetada para otros usos"
+  },
+  {
+    "entidad": "Pimavanserina",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos que se están tomando"
+  },
+  {
+    "entidad": "Pimavanserina",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta a menos que el médico lo indique"
+  },
+  {
+    "entidad": "Pimavanserina",
+    "relacion": "olvido",
+    "valor": "tomar la dosis que omitió tan pronto como lo recuerde, omitir si se acerca la próxima dosis"
+  },
+  {
+    "entidad": "Pimavanserina",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Pimavanserina",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Pimavanserina",
+    "relacion": "efecto_secundario",
+    "valor": "hinchazón de manos, tobillos o pies"
+  },
+  {
+    "entidad": "Pimavanserina",
+    "relacion": "efecto_secundario",
+    "valor": "somnolencia"
+  },
+  {
+    "entidad": "Pimavanserina",
+    "relacion": "efecto_secundario",
+    "valor": "alucinaciones"
+  },
+  {
+    "entidad": "Pimavanserina",
+    "relacion": "efecto_secundario",
+    "valor": "confusión"
+  },
+  {
+    "entidad": "Pimavanserina",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para caminar normalmente"
+  },
+  {
+    "entidad": "Pimavanserina",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Pimavanserina",
+    "relacion": "efecto_secundario",
+    "valor": "urticaria"
+  },
+  {
+    "entidad": "Pimavanserina",
+    "relacion": "efecto_secundario",
+    "valor": "hinchazón de la cara, ojos, párpados, labios o lengua"
+  },
+  {
+    "entidad": "Pimavanserina",
+    "relacion": "efecto_secundario",
+    "valor": "sensación de estrechez en la garganta"
+  },
+  {
+    "entidad": "Pimavanserina",
+    "relacion": "efecto_secundario",
+    "valor": "falta de aliento"
+  },
+  {
+    "entidad": "Pimavanserina",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, bien cerrado y fuera del alcance de los niños, a temperatura ambiente"
+  },
+  {
+    "entidad": "Pimavanserina",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento o a los servicios de emergencia"
+  },
+  {
+    "entidad": "Pimavanserina",
+    "relacion": "marca_comercial",
+    "valor": "Nuplazid ®"
+  },
+  {
+    "entidad": "Posaconazol",
+    "relacion": "trata",
+    "valor": "prevención de infecciones fúngicas graves en adultos y niños de 2 años o más"
+  },
+  {
+    "entidad": "Posaconazol",
+    "relacion": "trata",
+    "valor": "aspergilosis invasiva en adultos y adolescentes de 13 años o más"
+  },
+  {
+    "entidad": "Posaconazol",
+    "relacion": "trata",
+    "valor": "infecciones micóticas de la boca y la garganta en adultos y adolescentes mayores de 13 años"
+  },
+  {
+    "entidad": "Posaconazol",
+    "relacion": "uso",
+    "valor": "suspensión oral de liberación inmediata, tableta de liberación retardada, suspensión oral de liberación retardada"
+  },
+  {
+    "entidad": "Posaconazol",
+    "relacion": "se_administra_via",
+    "valor": "vía oral"
+  },
+  {
+    "entidad": "Posaconazol",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias a posaconazol y otros antimicóticos"
+  },
+  {
+    "entidad": "Posaconazol",
+    "relacion": "precaucion",
+    "valor": "informar sobre medicamentos que se están tomando o se planea tomar"
+  },
+  {
+    "entidad": "Posaconazol",
+    "relacion": "precaucion",
+    "valor": "informar sobre intolerancia a la fructosa"
+  },
+  {
+    "entidad": "Posaconazol",
+    "relacion": "precaucion",
+    "valor": "informar sobre problemas cardíacos o de circulación"
+  },
+  {
+    "entidad": "Posaconazol",
+    "relacion": "precaucion",
+    "valor": "informar si está embarazada o amamantando"
+  },
+  {
+    "entidad": "Posaconazol",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta a menos que el médico lo indique"
+  },
+  {
+    "entidad": "Posaconazol",
+    "relacion": "olvido",
+    "valor": "tomar la dosis olvidada tan pronto como se recuerde, omitir si es casi hora de la siguiente dosis"
+  },
+  {
+    "entidad": "Posaconazol",
+    "relacion": "efecto_secundario",
+    "valor": "fiebre"
+  },
+  {
+    "entidad": "Posaconazol",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Posaconazol",
+    "relacion": "efecto_secundario",
+    "valor": "escalofríos o temblor"
+  },
+  {
+    "entidad": "Posaconazol",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Posaconazol",
+    "relacion": "efecto_secundario",
+    "valor": "debilidad"
+  },
+  {
+    "entidad": "Posaconazol",
+    "relacion": "efecto_secundario",
+    "valor": "hinchazón de manos, pies, tobillos o pantorrillas"
+  },
+  {
+    "entidad": "Posaconazol",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Posaconazol",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Posaconazol",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago"
+  },
+  {
+    "entidad": "Posaconazol",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Posaconazol",
+    "relacion": "efecto_secundario",
+    "valor": "acidez estomacal"
+  },
+  {
+    "entidad": "Posaconazol",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Posaconazol",
+    "relacion": "efecto_secundario",
+    "valor": "picazón"
+  },
+  {
+    "entidad": "Posaconazol",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de espalda o músculos"
+  },
+  {
+    "entidad": "Posaconazol",
+    "relacion": "efecto_secundario",
+    "valor": "llagas en los labios, boca o garganta"
+  },
+  {
+    "entidad": "Posaconazol",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para conciliar el sueño"
+  },
+  {
+    "entidad": "Posaconazol",
+    "relacion": "efecto_secundario",
+    "valor": "mayor sudoración"
+  },
+  {
+    "entidad": "Posaconazol",
+    "relacion": "efecto_secundario",
+    "valor": "sangrado de nariz"
+  },
+  {
+    "entidad": "Posaconazol",
+    "relacion": "efecto_secundario",
+    "valor": "tos"
+  },
+  {
+    "entidad": "Posaconazol",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de garganta"
+  },
+  {
+    "entidad": "Posaconazol",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio extremo"
+  },
+  {
+    "entidad": "Posaconazol",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de apetito"
+  },
+  {
+    "entidad": "Posaconazol",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Posaconazol",
+    "relacion": "efecto_secundario",
+    "valor": "coloración amarillenta de piel o ojos"
+  },
+  {
+    "entidad": "Posaconazol",
+    "relacion": "efecto_secundario",
+    "valor": "orina oscura"
+  },
+  {
+    "entidad": "Posaconazol",
+    "relacion": "efecto_secundario",
+    "valor": "heces pálidas"
+  },
+  {
+    "entidad": "Posaconazol",
+    "relacion": "efecto_secundario",
+    "valor": "síntomas similares a los de la gripe"
+  },
+  {
+    "entidad": "Posaconazol",
+    "relacion": "efecto_secundario",
+    "valor": "sangrado o moretones inusuales"
+  },
+  {
+    "entidad": "Posaconazol",
+    "relacion": "efecto_secundario",
+    "valor": "ritmo cardíaco rápido o irregular"
+  },
+  {
+    "entidad": "Posaconazol",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida del conocimiento"
+  },
+  {
+    "entidad": "Posaconazol",
+    "relacion": "efecto_secundario",
+    "valor": "falta de aire"
+  },
+  {
+    "entidad": "Posaconazol",
+    "relacion": "efecto_secundario",
+    "valor": "dolores de cabeza"
+  },
+  {
+    "entidad": "Posaconazol",
+    "relacion": "efecto_secundario",
+    "valor": "visión borrosa"
+  },
+  {
+    "entidad": "Posaconazol",
+    "relacion": "efecto_secundario",
+    "valor": "dolor torácico"
+  },
+  {
+    "entidad": "Posaconazol",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Posaconazol",
+    "relacion": "efecto_secundario",
+    "valor": "ansiedad"
+  },
+  {
+    "entidad": "Posaconazol",
+    "relacion": "efecto_secundario",
+    "valor": "debilidad muscular"
+  },
+  {
+    "entidad": "Posaconazol",
+    "relacion": "efecto_secundario",
+    "valor": "espasmos o calambres"
+  },
+  {
+    "entidad": "Posaconazol",
+    "relacion": "efecto_secundario",
+    "valor": "palpitaciones"
+  },
+  {
+    "entidad": "Posaconazol",
+    "relacion": "efecto_secundario",
+    "valor": "hormigueo o entumecimiento"
+  },
+  {
+    "entidad": "Posaconazol",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original, cerrado herméticamente y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Posaconazol",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente, lejos del calor y la humedad"
+  },
+  {
+    "entidad": "Posaconazol",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento o a los servicios de emergencia"
+  },
+  {
+    "entidad": "Rimegepant",
+    "relacion": "trata",
+    "valor": "prevención y tratamiento de los síntomas de migraña"
+  },
+  {
+    "entidad": "Rimegepant",
+    "relacion": "uso",
+    "valor": "tableta de desintegración oral, cada dos días para prevención, dosis única a la primera señal de migraña"
+  },
+  {
+    "entidad": "Rimegepant",
+    "relacion": "se_administra_via",
+    "valor": "vía oral"
+  },
+  {
+    "entidad": "Rimegepant",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Rimegepant",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos"
+  },
+  {
+    "entidad": "Rimegepant",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta a menos que lo indique el médico"
+  },
+  {
+    "entidad": "Rimegepant",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Rimegepant",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para respirar"
+  },
+  {
+    "entidad": "Rimegepant",
+    "relacion": "efecto_secundario",
+    "valor": "falta de aliento"
+  },
+  {
+    "entidad": "Rimegepant",
+    "relacion": "efecto_secundario",
+    "valor": "inflamación del rostro, ojos, boca, garganta, lengua o labios"
+  },
+  {
+    "entidad": "Rimegepant",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Rimegepant",
+    "relacion": "efecto_secundario",
+    "valor": "urticaria"
+  },
+  {
+    "entidad": "Rimegepant",
+    "relacion": "efecto_secundario",
+    "valor": "picazón"
+  },
+  {
+    "entidad": "Rimegepant",
+    "relacion": "almacenamiento",
+    "valor": "mantener en empaque original, a temperatura ambiente, lejos del calor y la humedad"
+  },
+  {
+    "entidad": "Rimegepant",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento o a servicios de emergencia"
+  },
+  {
+    "entidad": "Rimegepant",
+    "relacion": "marca_comercial",
+    "valor": "Nurtec ODT"
+  },
+  {
+    "entidad": "Ritonavir",
+    "relacion": "contraindicado_en",
+    "valor": "administración con ciertos medicamentos puede generar efectos adversos severos"
+  },
+  {
+    "entidad": "Ritonavir",
+    "relacion": "trata",
+    "valor": "infección por el virus de la inmunodeficiencia humana (VIH)"
+  },
+  {
+    "entidad": "Ritonavir",
+    "relacion": "uso",
+    "valor": "tomar dos veces al día con alimentos"
+  },
+  {
+    "entidad": "Ritonavir",
+    "relacion": "se_administra_via",
+    "valor": "tabletas y polvo para mezclar con alimentos o líquidos"
+  },
+  {
+    "entidad": "Ritonavir",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos que se están tomando"
+  },
+  {
+    "entidad": "Ritonavir",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta a menos que el médico lo indique"
+  },
+  {
+    "entidad": "Ritonavir",
+    "relacion": "olvido",
+    "valor": "tomar la dosis olvidada tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Ritonavir",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Ritonavir",
+    "relacion": "efecto_secundario",
+    "valor": "entumecimiento, ardor u hormigueo en manos y pies"
+  },
+  {
+    "entidad": "Ritonavir",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio"
+  },
+  {
+    "entidad": "Ritonavir",
+    "relacion": "efecto_secundario",
+    "valor": "erupción cutánea"
+  },
+  {
+    "entidad": "Ritonavir",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas y vómitos"
+  },
+  {
+    "entidad": "Ritonavir",
+    "relacion": "efecto_secundario",
+    "valor": "dolor abdominal"
+  },
+  {
+    "entidad": "Ritonavir",
+    "relacion": "efecto_secundario",
+    "valor": "mareos y aturdimiento"
+  },
+  {
+    "entidad": "Ritonavir",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original, cerrado herméticamente y a temperatura ambiente"
+  },
+  {
+    "entidad": "Ritonavir",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Ritonavir",
+    "relacion": "marca_comercial",
+    "valor": "Norvir ®"
+  },
+  {
+    "entidad": "Romiplostim inyectable",
+    "relacion": "trata",
+    "valor": "trombocitopenia inmune (PTI)"
+  },
+  {
+    "entidad": "Romiplostim inyectable",
+    "relacion": "uso",
+    "valor": "inyección subcutánea una vez a la semana"
+  },
+  {
+    "entidad": "Romiplostim inyectable",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos actuales"
+  },
+  {
+    "entidad": "Romiplostim inyectable",
+    "relacion": "dieta",
+    "valor": "continuar con dieta normal a menos que se indique lo contrario"
+  },
+  {
+    "entidad": "Romiplostim inyectable",
+    "relacion": "olvido",
+    "valor": "llamar al médico si no puede acudir a la cita"
+  },
+  {
+    "entidad": "Romiplostim inyectable",
+    "relacion": "efecto_secundario",
+    "valor": "cambios en la médula ósea"
+  },
+  {
+    "entidad": "Romiplostim inyectable",
+    "relacion": "efecto_secundario",
+    "valor": "aumento del recuento de plaquetas"
+  },
+  {
+    "entidad": "Romiplostim inyectable",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Romiplostim inyectable",
+    "relacion": "efecto_secundario",
+    "valor": "dolor en las articulaciones o músculos"
+  },
+  {
+    "entidad": "Romiplostim inyectable",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Romiplostim inyectable",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Romiplostim inyectable",
+    "relacion": "marca_comercial",
+    "valor": "Nplate ®"
+  },
+  {
+    "entidad": "Romiplostim inyectable",
+    "relacion": "contraindicado_en",
+    "valor": "síndrome mielodisplásico"
+  },
+  {
+    "entidad": "Solución nasal de cromolín sódico",
+    "relacion": "trata",
+    "valor": "congestión nasal, estornudos, rinorrea y síntomas provocados por alergias"
+  },
+  {
+    "entidad": "Solución nasal de cromolín sódico",
+    "relacion": "uso",
+    "valor": "inhala entre 3 y 6 veces al día"
+  },
+  {
+    "entidad": "Solución nasal de cromolín sódico",
+    "relacion": "se_administra_via",
+    "valor": "aplicador nasal especial"
+  },
+  {
+    "entidad": "Solución nasal de cromolín sódico",
+    "relacion": "precaucion",
+    "valor": "informe a su médico si es alérgico al cromolín o a otros fármacos"
+  },
+  {
+    "entidad": "Solución nasal de cromolín sódico",
+    "relacion": "precaucion",
+    "valor": "informe a su médico qué medicamentos toma o planea tomar"
+  },
+  {
+    "entidad": "Solución nasal de cromolín sódico",
+    "relacion": "precaucion",
+    "valor": "informe a su médico si tiene enfermedad hepática o renal"
+  },
+  {
+    "entidad": "Solución nasal de cromolín sódico",
+    "relacion": "precaucion",
+    "valor": "informe a su médico si está embarazada o amamantando"
+  },
+  {
+    "entidad": "Solución nasal de cromolín sódico",
+    "relacion": "olvido",
+    "valor": "use la dosis que omitió tan pronto como se acuerde"
+  },
+  {
+    "entidad": "Solución nasal de cromolín sódico",
+    "relacion": "efecto_secundario",
+    "valor": "picazón o ardor en las fosas nasales"
+  },
+  {
+    "entidad": "Solución nasal de cromolín sódico",
+    "relacion": "efecto_secundario",
+    "valor": "estornudos"
+  },
+  {
+    "entidad": "Solución nasal de cromolín sódico",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Solución nasal de cromolín sódico",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago"
+  },
+  {
+    "entidad": "Solución nasal de cromolín sódico",
+    "relacion": "efecto_secundario",
+    "valor": "sibilancias"
+  },
+  {
+    "entidad": "Solución nasal de cromolín sódico",
+    "relacion": "efecto_secundario",
+    "valor": "mayor dificultad para respirar"
+  },
+  {
+    "entidad": "Solución nasal de cromolín sódico",
+    "relacion": "almacenamiento",
+    "valor": "mantener en empaque original, bien cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Solución nasal de cromolín sódico",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente, lejos del calor y la humedad"
+  },
+  {
+    "entidad": "Solución nasal de cromolín sódico",
+    "relacion": "marca_comercial",
+    "valor": "Nasalcrom ®"
+  },
+  {
+    "entidad": "Sorafenib",
+    "relacion": "trata",
+    "valor": "carcinoma de células renales avanzado"
+  },
+  {
+    "entidad": "Sorafenib",
+    "relacion": "trata",
+    "valor": "carcinoma hepatocelular"
+  },
+  {
+    "entidad": "Sorafenib",
+    "relacion": "trata",
+    "valor": "cáncer de tiroides diseminado"
+  },
+  {
+    "entidad": "Sorafenib",
+    "relacion": "uso",
+    "valor": "tableta para administrarse por vía oral, dos veces al día"
+  },
+  {
+    "entidad": "Sorafenib",
+    "relacion": "uso",
+    "valor": "tomar con o sin alimentos, 1 hora antes o 2 horas después de una comida"
+  },
+  {
+    "entidad": "Sorafenib",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias al sorafenib y otros medicamentos"
+  },
+  {
+    "entidad": "Sorafenib",
+    "relacion": "precaucion",
+    "valor": "informar si se tiene cáncer de pulmón y está recibiendo ciertos tratamientos"
+  },
+  {
+    "entidad": "Sorafenib",
+    "relacion": "precaucion",
+    "valor": "no tomar ciertos medicamentos sin consultar al médico"
+  },
+  {
+    "entidad": "Sorafenib",
+    "relacion": "precaucion",
+    "valor": "informar sobre condiciones médicas preexistentes"
+  },
+  {
+    "entidad": "Sorafenib",
+    "relacion": "precaucion",
+    "valor": "usar métodos anticonceptivos durante el tratamiento"
+  },
+  {
+    "entidad": "Sorafenib",
+    "relacion": "dieta",
+    "valor": "continuar con la dieta normal a menos que se indique lo contrario"
+  },
+  {
+    "entidad": "Sorafenib",
+    "relacion": "olvido",
+    "valor": "omitir la dosis y continuar con el programa habitual"
+  },
+  {
+    "entidad": "Sorafenib",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio"
+  },
+  {
+    "entidad": "Sorafenib",
+    "relacion": "efecto_secundario",
+    "valor": "debilidad"
+  },
+  {
+    "entidad": "Sorafenib",
+    "relacion": "efecto_secundario",
+    "valor": "enrojecimiento de la piel"
+  },
+  {
+    "entidad": "Sorafenib",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida del cabello"
+  },
+  {
+    "entidad": "Sorafenib",
+    "relacion": "efecto_secundario",
+    "valor": "picazón"
+  },
+  {
+    "entidad": "Sorafenib",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de apetito"
+  },
+  {
+    "entidad": "Sorafenib",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Sorafenib",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Sorafenib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor en las articulaciones"
+  },
+  {
+    "entidad": "Sorafenib",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, bien cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Sorafenib",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente, lejos del calor y la humedad"
+  },
+  {
+    "entidad": "Sorafenib",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Sorafenib",
+    "relacion": "marca_comercial",
+    "valor": "Nexavar"
+  },
+  {
+    "entidad": "Spinosad tópico",
+    "relacion": "trata",
+    "valor": "pediculosis (piojos de la cabeza)"
+  },
+  {
+    "entidad": "Spinosad tópico",
+    "relacion": "trata",
+    "valor": "sarna (ácaros que se adhieren a la piel)"
+  },
+  {
+    "entidad": "Spinosad tópico",
+    "relacion": "uso",
+    "valor": "aplicarse en el cuero cabelludo, el cabello y la piel"
+  },
+  {
+    "entidad": "Spinosad tópico",
+    "relacion": "se_administra_via",
+    "valor": "tópica"
+  },
+  {
+    "entidad": "Spinosad tópico",
+    "relacion": "otro_uso",
+    "valor": "consultar al médico o farmacéutico"
+  },
+  {
+    "entidad": "Spinosad tópico",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos"
+  },
+  {
+    "entidad": "Spinosad tópico",
+    "relacion": "dieta",
+    "valor": "continuar con la dieta normal"
+  },
+  {
+    "entidad": "Spinosad tópico",
+    "relacion": "efecto_secundario",
+    "valor": "enrojecimiento del área del cuero cabelludo"
+  },
+  {
+    "entidad": "Spinosad tópico",
+    "relacion": "efecto_secundario",
+    "valor": "piel seca"
+  },
+  {
+    "entidad": "Spinosad tópico",
+    "relacion": "efecto_secundario",
+    "valor": "irritación del área del cuero cabelludo"
+  },
+  {
+    "entidad": "Spinosad tópico",
+    "relacion": "efecto_secundario",
+    "valor": "dolor, ardor, irritación del área de piel"
+  },
+  {
+    "entidad": "Spinosad tópico",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original, cerrado herméticamente y a temperatura ambiente"
+  },
+  {
+    "entidad": "Spinosad tópico",
+    "relacion": "sobredosis",
+    "valor": "llamar al centro local de control de envenenamiento"
+  },
+  {
+    "entidad": "Spinosad tópico",
+    "relacion": "marca_comercial",
+    "valor": "Natroba ®"
+  },
+  {
+    "entidad": "Tamoxifeno",
+    "relacion": "contraindicado_en",
+    "valor": "cáncer de útero, derrames cerebrales, coágulos de sangre en los pulmones"
+  },
+  {
+    "entidad": "Tamoxifeno",
+    "relacion": "trata",
+    "valor": "cáncer de mama que se ha extendido a otras partes del cuerpo"
+  },
+  {
+    "entidad": "Tamoxifeno",
+    "relacion": "trata",
+    "valor": "cáncer de mama precoz en mujeres tratadas con cirugía, radiación y/o quimioterapia"
+  },
+  {
+    "entidad": "Tamoxifeno",
+    "relacion": "trata",
+    "valor": "reducir el riesgo de cáncer de mama en mujeres con alto riesgo"
+  },
+  {
+    "entidad": "Tamoxifeno",
+    "relacion": "uso",
+    "valor": "tomar tabletas por vía oral, una o dos veces al día"
+  },
+  {
+    "entidad": "Tamoxifeno",
+    "relacion": "se_administra_via",
+    "valor": "oral"
+  },
+  {
+    "entidad": "Tamoxifeno",
+    "relacion": "olvido",
+    "valor": "tome la dosis que olvidó tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Tamoxifeno",
+    "relacion": "otro_uso",
+    "valor": "inducir la ovulación en mujeres que no producen óvulos"
+  },
+  {
+    "entidad": "Tamoxifeno",
+    "relacion": "otro_uso",
+    "valor": "tratar el síndrome de McCune-Albright"
+  },
+  {
+    "entidad": "Tamoxifeno",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos que toma"
+  },
+  {
+    "entidad": "Tamoxifeno",
+    "relacion": "precaucion",
+    "valor": "no planear quedar embarazada durante el tratamiento"
+  },
+  {
+    "entidad": "Tamoxifeno",
+    "relacion": "precaucion",
+    "valor": "no amamantar durante el tratamiento"
+  },
+  {
+    "entidad": "Tamoxifeno",
+    "relacion": "efecto_secundario",
+    "valor": "aumento del riesgo de otros tipos de cáncer"
+  },
+  {
+    "entidad": "Tamoxifeno",
+    "relacion": "efecto_secundario",
+    "valor": "aumento del riesgo de cataratas"
+  },
+  {
+    "entidad": "Tamoxifeno",
+    "relacion": "efecto_secundario",
+    "valor": "dolor óseo o tumoral"
+  },
+  {
+    "entidad": "Tamoxifeno",
+    "relacion": "efecto_secundario",
+    "valor": "sofocos"
+  },
+  {
+    "entidad": "Tamoxifeno",
+    "relacion": "efecto_secundario",
+    "valor": "náusea"
+  },
+  {
+    "entidad": "Tamoxifeno",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio excesivo"
+  },
+  {
+    "entidad": "Tamoxifeno",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Tamoxifeno",
+    "relacion": "efecto_secundario",
+    "valor": "depresión"
+  },
+  {
+    "entidad": "Tamoxifeno",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Tamoxifeno",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de peso"
+  },
+  {
+    "entidad": "Tamoxifeno",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Tamoxifeno",
+    "relacion": "efecto_secundario",
+    "valor": "ictericia en piel u ojos"
+  },
+  {
+    "entidad": "Tamoxifeno",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original, cerrado herméticamente"
+  },
+  {
+    "entidad": "Tamoxifeno",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente, lejos del calor y la humedad"
+  },
+  {
+    "entidad": "Tamoxifeno",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Tamoxifeno",
+    "relacion": "marca_comercial",
+    "valor": "Nolvadex"
+  },
+  {
+    "entidad": "Tamoxifeno",
+    "relacion": "marca_comercial",
+    "valor": "Soltamox"
+  },
+  {
+    "entidad": "Tapentadol",
+    "relacion": "contraindicado_en",
+    "valor": "adictivo, riesgo de problemas respiratorios graves"
+  },
+  {
+    "entidad": "Tapentadol",
+    "relacion": "trata",
+    "valor": "dolor agudo intenso, dolor intenso y persistente, dolor neuropático"
+  },
+  {
+    "entidad": "Tapentadol",
+    "relacion": "uso",
+    "valor": "tabletas de liberación inmediata y prolongada por vía oral"
+  },
+  {
+    "entidad": "Tapentadol",
+    "relacion": "se_administra_via",
+    "valor": "oral"
+  },
+  {
+    "entidad": "Tapentadol",
+    "relacion": "precaucion",
+    "valor": "no tomar con alcohol ni drogas ilícitas"
+  },
+  {
+    "entidad": "Tapentadol",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Tapentadol",
+    "relacion": "olvido",
+    "valor": "omita la dosis olvidada y siga con la dosificación habitual"
+  },
+  {
+    "entidad": "Tapentadol",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Tapentadol",
+    "relacion": "efecto_secundario",
+    "valor": "acidez estomacal"
+  },
+  {
+    "entidad": "Tapentadol",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio excesivo"
+  },
+  {
+    "entidad": "Tapentadol",
+    "relacion": "efecto_secundario",
+    "valor": "somnolencia"
+  },
+  {
+    "entidad": "Tapentadol",
+    "relacion": "almacenamiento",
+    "valor": "mantener en empaque original, a temperatura ambiente, fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Tapentadol",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento o al 911"
+  },
+  {
+    "entidad": "Tapentadol",
+    "relacion": "marca_comercial",
+    "valor": "Nucynta"
+  },
+  {
+    "entidad": "Tapentadol",
+    "relacion": "marca_comercial",
+    "valor": "Nucynta ER"
+  },
+  {
+    "entidad": "Tiotixeno",
+    "relacion": "contraindicado_en",
+    "valor": "adultos mayores con demencia"
+  },
+  {
+    "entidad": "Tiotixeno",
+    "relacion": "trata",
+    "valor": "síntomas de esquizofrenia"
+  },
+  {
+    "entidad": "Tiotixeno",
+    "relacion": "uso",
+    "valor": "tomar de una a tres veces al día, a la misma hora"
+  },
+  {
+    "entidad": "Tiotixeno",
+    "relacion": "se_administra_via",
+    "valor": "vía oral"
+  },
+  {
+    "entidad": "Tiotixeno",
+    "relacion": "otro_uso",
+    "valor": "otros usos bajo prescripción médica"
+  },
+  {
+    "entidad": "Tiotixeno",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos actuales"
+  },
+  {
+    "entidad": "Tiotixeno",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Tiotixeno",
+    "relacion": "olvido",
+    "valor": "tomar la dosis olvidada tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Tiotixeno",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Tiotixeno",
+    "relacion": "efecto_secundario",
+    "valor": "visión borrosa"
+  },
+  {
+    "entidad": "Tiotixeno",
+    "relacion": "efecto_secundario",
+    "valor": "boca seca"
+  },
+  {
+    "entidad": "Tiotixeno",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Tiotixeno",
+    "relacion": "efecto_secundario",
+    "valor": "aumento de peso"
+  },
+  {
+    "entidad": "Tiotixeno",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, a temperatura ambiente"
+  },
+  {
+    "entidad": "Tiotixeno",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Tiotixeno",
+    "relacion": "marca_comercial",
+    "valor": "Navane ®"
+  },
+  {
+    "entidad": "Vacuna contra la COVID-19, adyuvada",
+    "relacion": "trata",
+    "valor": "prevención de la COVID-19"
+  },
+  {
+    "entidad": "Vacuna contra la COVID-19, adyuvada",
+    "relacion": "se_administra_via",
+    "valor": "inyección en el músculo"
+  },
+  {
+    "entidad": "Vacuna contra la COVID-19, adyuvada",
+    "relacion": "uso",
+    "valor": "dos dosis con un intervalo de 3 a 8 semanas"
+  },
+  {
+    "entidad": "Vacuna contra la COVID-19, adyuvada",
+    "relacion": "efecto_secundario",
+    "valor": "reacción alérgica grave"
+  },
+  {
+    "entidad": "Vacuna contra la COVID-19, adyuvada",
+    "relacion": "efecto_secundario",
+    "valor": "miocarditis"
+  },
+  {
+    "entidad": "Vacuna contra la COVID-19, adyuvada",
+    "relacion": "efecto_secundario",
+    "valor": "pericarditis"
+  },
+  {
+    "entidad": "Vacuna contra la COVID-19, adyuvada",
+    "relacion": "efecto_secundario",
+    "valor": "dolor, hinchazón y enrojecimiento en el sitio de la inyección"
+  },
+  {
+    "entidad": "Vacuna contra la COVID-19, adyuvada",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Vacuna contra la COVID-19, adyuvada",
+    "relacion": "efecto_secundario",
+    "valor": "sensación de mucho cansancio"
+  },
+  {
+    "entidad": "Vacuna contra la COVID-19, adyuvada",
+    "relacion": "efecto_secundario",
+    "valor": "dolores musculares"
+  },
+  {
+    "entidad": "Vacuna contra la COVID-19, adyuvada",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Vacuna contra la COVID-19, adyuvada",
+    "relacion": "efecto_secundario",
+    "valor": "fiebre"
+  },
+  {
+    "entidad": "Vacuna contra la COVID-19, adyuvada",
+    "relacion": "efecto_secundario",
+    "valor": "inflamación en los ganglios linfáticos"
+  },
+  {
+    "entidad": "Vacuna contra la COVID-19, adyuvada",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para respirar"
+  },
+  {
+    "entidad": "Vacuna contra la COVID-19, adyuvada",
+    "relacion": "efecto_secundario",
+    "valor": "inflamación del rostro y la garganta"
+  },
+  {
+    "entidad": "Vacuna contra la COVID-19, adyuvada",
+    "relacion": "efecto_secundario",
+    "valor": "ritmo cardíaco acelerado"
+  },
+  {
+    "entidad": "Vacuna contra la COVID-19, adyuvada",
+    "relacion": "efecto_secundario",
+    "valor": "erupción grave en todo el cuerpo"
+  },
+  {
+    "entidad": "Vacuna contra la COVID-19, adyuvada",
+    "relacion": "efecto_secundario",
+    "valor": "mareos y debilidad"
+  },
+  {
+    "entidad": "Vacuna contra la COVID-19, adyuvada",
+    "relacion": "efecto_secundario",
+    "valor": "dolor en el pecho"
+  },
+  {
+    "entidad": "Vacuna contra la COVID-19, adyuvada",
+    "relacion": "efecto_secundario",
+    "valor": "falta de aliento"
+  },
+  {
+    "entidad": "Vacuna contra la COVID-19, adyuvada",
+    "relacion": "marca_comercial",
+    "valor": "NVX-CoV2373"
+  },
+  {
+    "entidad": "Vacuna contra la COVID-19, adyuvada",
+    "relacion": "marca_comercial",
+    "valor": "Vacuna contra la COVID-19 de Novavax"
+  }
+]

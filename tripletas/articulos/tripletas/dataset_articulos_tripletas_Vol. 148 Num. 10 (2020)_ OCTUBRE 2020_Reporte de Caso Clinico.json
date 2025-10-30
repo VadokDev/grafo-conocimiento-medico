@@ -1,0 +1,292 @@
+[
+  {
+    "entidad": "PET/CT",
+    "relacion": "se utiliza para",
+    "valor": "etapificación del sarcoma de Ewing"
+  },
+  {
+    "entidad": "sarcoma de Ewing",
+    "relacion": "es un",
+    "valor": "tumor pediátrico maligno"
+  },
+  {
+    "entidad": "18F-FDG",
+    "relacion": "es un",
+    "valor": "trazador utilizado en PET/CT"
+  },
+  {
+    "entidad": "PET/CT",
+    "relacion": "demuestra mayor sensibilidad que",
+    "valor": "cintigrafía en la evaluación de metástasis óseas"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "es de género",
+    "valor": "femenino"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "tiene edad de",
+    "valor": "13 años"
+  },
+  {
+    "entidad": "cintigrafía ósea",
+    "relacion": "detecta",
+    "valor": "actividad osteoblástica"
+  },
+  {
+    "entidad": "biopsia de médula ósea",
+    "relacion": "no logra identificar",
+    "valor": "infiltración medular"
+  },
+  {
+    "entidad": "PET/CT",
+    "relacion": "es un método para",
+    "valor": "guiar biopsia de médula ósea"
+  },
+  {
+    "entidad": "National Comprehensive Cancer Network (NCCN)",
+    "relacion": "recomienda",
+    "valor": "uso de PET-CT en sarcoma de Ewing"
+  },
+  {
+    "entidad": "PET/CT FDG-F18",
+    "relacion": "es recomendado para",
+    "valor": "evaluación de respuesta a tratamiento del sarcoma de Ewing"
+  },
+  {
+    "entidad": "metástasis",
+    "relacion": "afecta a",
+    "valor": "25% de los pacientes al diagnóstico"
+  },
+  {
+    "entidad": "diseminación hematógena",
+    "relacion": "es la forma más habitual de",
+    "valor": "diseminación del sarcoma de Ewing"
+  },
+  {
+    "entidad": "PET/CT",
+    "relacion": "detecta",
+    "valor": "lesiones osteolíticas y focos hipermetabólicos"
+  },
+  {
+    "entidad": "quimioterapia",
+    "relacion": "se utiliza para",
+    "valor": "tratamiento del sarcoma de Ewing"
+  },
+  {
+    "entidad": "respuesta metabólica completa",
+    "relacion": "se observa en",
+    "valor": "PET/CT tras tratamiento"
+  },
+  {
+    "entidad": "electrocardiograma",
+    "relacion": "es",
+    "valor": "herramienta útil para diagnóstico"
+  },
+  {
+    "entidad": "infarto agudo al miocardio",
+    "relacion": "es causado por",
+    "valor": "obstrucción del tronco común de arteria coronaria izquierda"
+  },
+  {
+    "entidad": "obstrucción del tronco común de arteria coronaria izquierda",
+    "relacion": "genera",
+    "valor": "falla cardíaca aguda"
+  },
+  {
+    "entidad": "obstrucción del tronco común de arteria coronaria izquierda",
+    "relacion": "genera",
+    "valor": "shock cardiogénico"
+  },
+  {
+    "entidad": "obstrucción del tronco común de arteria coronaria izquierda",
+    "relacion": "genera",
+    "valor": "muerte"
+  },
+  {
+    "entidad": "electrocardiograma",
+    "relacion": "muestra",
+    "valor": "elevación del ST"
+  },
+  {
+    "entidad": "elevación del ST",
+    "relacion": "se presenta en",
+    "valor": "derivaciones aVR o V1"
+  },
+  {
+    "entidad": "elevación del ST",
+    "relacion": "se presenta con",
+    "valor": "depresión en otras derivaciones"
+  },
+  {
+    "entidad": "coronariografía",
+    "relacion": "es recomendada para",
+    "valor": "diagnóstico urgente"
+  },
+  {
+    "entidad": "angioplastia percutánea",
+    "relacion": "es utilizada con",
+    "valor": "stents liberadores de fármacos"
+  },
+  {
+    "entidad": "infarto agudo al miocardio",
+    "relacion": "se caracteriza por",
+    "valor": "daño miocárdico"
+  },
+  {
+    "entidad": "daño miocárdico",
+    "relacion": "es definido por",
+    "valor": "elevación de Troponinas cardiacas"
+  },
+  {
+    "entidad": "obstrucción trombótica aguda",
+    "relacion": "debe ser planteada en",
+    "valor": "IAM asociado a compromiso hemodinámico"
+  },
+  {
+    "entidad": "reconocimiento clínico y por ECG",
+    "relacion": "es fundamental para",
+    "valor": "manejo adecuado del IAM"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "se estima en",
+    "valor": "4-12% para IAMCEST"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "se estima en",
+    "valor": "10% para IAMSEST"
+  },
+  {
+    "entidad": "ateroesclerosis coronaria",
+    "relacion": "es",
+    "valor": "la causa más común del IAM"
+  },
+  {
+    "entidad": "derivación aVR",
+    "relacion": "es importante para",
+    "valor": "diagnóstico de taquicardia ventricular"
+  },
+  {
+    "entidad": "BCRD",
+    "relacion": "es un marcador de",
+    "valor": "severa isquemia miocárdica"
+  },
+  {
+    "entidad": "edad > 65 años",
+    "relacion": "es un predictor de",
+    "valor": "obstrucción angiográficamente significativa del TCI"
+  },
+  {
+    "entidad": "diabetes mellitus",
+    "relacion": "es un predictor de",
+    "valor": "obstrucción angiográficamente significativa del TCI"
+  },
+  {
+    "entidad": "insuficiencia renal",
+    "relacion": "es un predictor de",
+    "valor": "obstrucción angiográficamente significativa del TCI"
+  },
+  {
+    "entidad": "shock cardiogénico",
+    "relacion": "es un predictor de",
+    "valor": "obstrucción angiográficamente significativa del TCI"
+  },
+  {
+    "entidad": "estrategia invasiva",
+    "relacion": "es el tratamiento estándar para",
+    "valor": "pacientes con alto riesgo de IAM"
+  },
+  {
+    "entidad": "BCPA",
+    "relacion": "no modifica",
+    "valor": "pronóstico y sobrevida del IAM complicado de shock cardiogénico"
+  },
+  {
+    "entidad": "Isquemia de extremidades inferiores",
+    "relacion": "secundaria a",
+    "valor": "arteritis de la arteria temporal"
+  },
+  {
+    "entidad": "Arteritis de la arteria temporal",
+    "relacion": "pertenece a",
+    "valor": "arteritis de células gigantes"
+  },
+  {
+    "entidad": "Arteritis de la arteria temporal",
+    "relacion": "afecta principalmente a",
+    "valor": "mujeres mayores de 50 años"
+  },
+  {
+    "entidad": "Arteritis de la arteria temporal",
+    "relacion": "asociada con",
+    "valor": "síntomas de inflamación sistémica"
+  },
+  {
+    "entidad": "Arteritis de la arteria temporal",
+    "relacion": "involucra principalmente",
+    "valor": "arterias del arco aórtico y arterias craneales"
+  },
+  {
+    "entidad": "Paciente",
+    "relacion": "presenta",
+    "valor": "claudicación intermitente"
+  },
+  {
+    "entidad": "Paciente",
+    "relacion": "tiene",
+    "valor": "antecedentes de artrosis de manos, hipotiroidismo y meningioma"
+  },
+  {
+    "entidad": "Estudio vascular no invasivo",
+    "relacion": "muestra",
+    "valor": "enfermedad arterial fémoro poplítea moderada"
+  },
+  {
+    "entidad": "Biopsia de arteria temporal",
+    "relacion": "confirma",
+    "valor": "arteritis de células gigantes"
+  },
+  {
+    "entidad": "Tratamiento esteroidal",
+    "relacion": "iniciado",
+    "valor": "para la arteritis de células gigantes"
+  },
+  {
+    "entidad": "Tocilizumab",
+    "relacion": "utilizado para",
+    "valor": "exacerbación serológica"
+  },
+  {
+    "entidad": "Tocilizumab",
+    "relacion": "obtenido",
+    "valor": "remisión a largo plazo"
+  },
+  {
+    "entidad": "Corticoides",
+    "relacion": "inician",
+    "valor": "tratamiento para evitar progresión de la enfermedad"
+  },
+  {
+    "entidad": "Tratamiento quirúrgico con puentes arteriales",
+    "relacion": "presenta",
+    "valor": "alta tasa de oclusión precoz"
+  },
+  {
+    "entidad": "Angioplastia con balón",
+    "relacion": "descrita como",
+    "valor": "terapia adyuvante al pulso de corticoides"
+  },
+  {
+    "entidad": "Isquemia de extremidades inferiores",
+    "relacion": "requiere",
+    "valor": "alta sospecha en pacientes con claudicación intermitente aguda"
+  },
+  {
+    "entidad": "Corticoides",
+    "relacion": "logran",
+    "valor": "revertir estenosis y síntomas"
+  }
+]

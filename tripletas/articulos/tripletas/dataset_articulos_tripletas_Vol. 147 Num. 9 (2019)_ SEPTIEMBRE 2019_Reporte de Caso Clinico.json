@@ -1,0 +1,162 @@
+[
+  {
+    "entidad": "Enfermedad quística adventicial de la arteria poplítea",
+    "relacion": "es una",
+    "valor": "causa rara de claudicación intermitente"
+  },
+  {
+    "entidad": "claudicación intermitente",
+    "relacion": "afecta a",
+    "valor": "pacientes de mediana edad"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "tiene",
+    "valor": "44 años"
+  },
+  {
+    "entidad": "ecografía Doppler arterial",
+    "relacion": "muestra",
+    "valor": "suboclusión de la arteria poplítea"
+  },
+  {
+    "entidad": "resonancia magnética",
+    "relacion": "se utiliza para",
+    "valor": "mejor caracterización de los hallazgos"
+  },
+  {
+    "entidad": "cirugía de reparación",
+    "relacion": "se realiza para",
+    "valor": "resección del segmento afectado"
+  },
+  {
+    "entidad": "injerto venoso",
+    "relacion": "se utiliza en",
+    "valor": "reconstrucción de la arteria poplítea"
+  },
+  {
+    "entidad": "análisis histopatológico",
+    "relacion": "demuestra",
+    "valor": "degeneración mixoide y formación de cavidades"
+  },
+  {
+    "entidad": "ultrasonido",
+    "relacion": "puede mostrar",
+    "valor": "lesiones anecoicas o hipoecoicas"
+  },
+  {
+    "entidad": "angiografía",
+    "relacion": "demuestra",
+    "valor": "estenosis del vaso comprometido"
+  },
+  {
+    "entidad": "síndrome de atrapamiento poplíteo",
+    "relacion": "es un diagnóstico diferencial de",
+    "valor": "claudicación intermitente"
+  },
+  {
+    "entidad": "tratamiento",
+    "relacion": "varía desde",
+    "valor": "aspiración del quiste hasta resección abierta"
+  },
+  {
+    "entidad": "enfermedad quística adventicial de la arteria poplítea",
+    "relacion": "debe ser sospechada en",
+    "valor": "pacientes jóvenes sin factores de riesgo para ateroesclerosis"
+  },
+  {
+    "entidad": "nimodipino",
+    "relacion": "es un",
+    "valor": "bloqueador de canales de calcio"
+  },
+  {
+    "entidad": "vasoespasmo",
+    "relacion": "es un",
+    "valor": "fenómeno asociado a hemorragia subaracnoidea"
+  },
+  {
+    "entidad": "hemorragia subaracnoidea aneurismática",
+    "relacion": "causa",
+    "valor": "daño isquémico tardío"
+  },
+  {
+    "entidad": "vasoespasmo",
+    "relacion": "puede causar",
+    "valor": "mortalidad"
+  },
+  {
+    "entidad": "nimodipino intra-arterial",
+    "relacion": "se utiliza para",
+    "valor": "tratamiento de vasoespasmo refractario"
+  },
+  {
+    "entidad": "angioplastía mecánica",
+    "relacion": "es un",
+    "valor": "método de tratamiento para vasoespasmo"
+  },
+  {
+    "entidad": "monitorización neurológica",
+    "relacion": "es esencial para",
+    "valor": "evaluar la oxigenación cerebral"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "es un",
+    "valor": "hombre de 39 años"
+  },
+  {
+    "entidad": "drenaje espinal",
+    "relacion": "se utiliza para",
+    "valor": "prevención de vasoespasmo"
+  },
+  {
+    "entidad": "micro-catéteres",
+    "relacion": "se instalan para",
+    "valor": "infusión continua de nimodipino"
+  },
+  {
+    "entidad": "infusión continua de nimodipino",
+    "relacion": "mantiene",
+    "valor": "normal neuromonitoring"
+  },
+  {
+    "entidad": "hemodinámica",
+    "relacion": "se maximiza para",
+    "valor": "mejorar la oxigenación cerebral"
+  },
+  {
+    "entidad": "drenaje ventricular externo",
+    "relacion": "se instala para",
+    "valor": "manejo de hipertensión intracraneana"
+  },
+  {
+    "entidad": "dosis de nimodipino",
+    "relacion": "se ajusta para",
+    "valor": "mantener oxigenación cerebral"
+  },
+  {
+    "entidad": "cultivo de punta del introductor arterial",
+    "relacion": "resulta positivo para",
+    "valor": "enterococo faecium"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "se da de alta con",
+    "valor": "escala mRS de 3"
+  },
+  {
+    "entidad": "escala mRS",
+    "relacion": "indica",
+    "valor": "discapacidad significativa"
+  },
+  {
+    "entidad": "monitorización multimodal",
+    "relacion": "es fundamental para",
+    "valor": "ajustar terapias invasivas"
+  },
+  {
+    "entidad": "hemorragia subaracnoidea",
+    "relacion": "asocia a",
+    "valor": "vasoespasmo y daño isquémico tardío"
+  }
+]

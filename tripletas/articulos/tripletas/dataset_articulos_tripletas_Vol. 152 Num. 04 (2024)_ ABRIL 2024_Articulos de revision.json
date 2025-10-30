@@ -1,0 +1,267 @@
+[
+  {
+    "entidad": "carbonato de litio",
+    "relacion": "es un",
+    "valor": "fármaco"
+  },
+  {
+    "entidad": "trastorno afectivo bipolar (TAB)",
+    "relacion": "es tratado con",
+    "valor": "carbonato de litio"
+  },
+  {
+    "entidad": "carbonato de litio",
+    "relacion": "produce",
+    "valor": "efectos adversos"
+  },
+  {
+    "entidad": "efectos adversos",
+    "relacion": "incluyen",
+    "valor": "hipotiroidismo"
+  },
+  {
+    "entidad": "efectos adversos",
+    "relacion": "incluyen",
+    "valor": "hipertiroidismo"
+  },
+  {
+    "entidad": "efectos adversos",
+    "relacion": "incluyen",
+    "valor": "hipercalcemia"
+  },
+  {
+    "entidad": "efectos adversos",
+    "relacion": "incluyen",
+    "valor": "hiperparatiroidismo"
+  },
+  {
+    "entidad": "efectos adversos",
+    "relacion": "incluyen",
+    "valor": "diabetes insípida nefrogénica"
+  },
+  {
+    "entidad": "adherencia a recomendaciones de monitoreo",
+    "relacion": "es",
+    "valor": "baja"
+  },
+  {
+    "entidad": "mecanismos fisiopatológicos",
+    "relacion": "son",
+    "valor": "explicaciones de efectos endocrinos del litio"
+  },
+  {
+    "entidad": "litio",
+    "relacion": "interfiere con",
+    "valor": "vías de señalización intracelular"
+  },
+  {
+    "entidad": "litio",
+    "relacion": "se concentra en",
+    "valor": "la tiroides"
+  },
+  {
+    "entidad": "litio",
+    "relacion": "inhibe",
+    "valor": "sintesis de hormonas tiroideas"
+  },
+  {
+    "entidad": "litio",
+    "relacion": "produce",
+    "valor": "elevación de TSH"
+  },
+  {
+    "entidad": "litio",
+    "relacion": "favorece",
+    "valor": "liberación de parathormona (PTH)"
+  },
+  {
+    "entidad": "litio",
+    "relacion": "puede producir",
+    "valor": "hiperparatiroidismo"
+  },
+  {
+    "entidad": "litio",
+    "relacion": "puede producir",
+    "valor": "hipercalcemia"
+  },
+  {
+    "entidad": "litio",
+    "relacion": "induce",
+    "valor": "diabetes insípida nefrogénica"
+  },
+  {
+    "entidad": "diabetes insípida nefrogénica",
+    "relacion": "es",
+    "valor": "la alteración renal más frecuente en usuarios de litio"
+  },
+  {
+    "entidad": "hipotiroidismo",
+    "relacion": "es asociado a",
+    "valor": "uso de litio"
+  },
+  {
+    "entidad": "hipertiroidismo",
+    "relacion": "es asociado a",
+    "valor": "uso de litio"
+  },
+  {
+    "entidad": "hipercalcemia",
+    "relacion": "es asociado a",
+    "valor": "uso de litio"
+  },
+  {
+    "entidad": "hiperparatiroidismo",
+    "relacion": "es asociado a",
+    "valor": "uso de litio"
+  },
+  {
+    "entidad": "recomendaciones de monitoreo",
+    "relacion": "deben ser",
+    "valor": "realizadas cada 6 a 12 meses"
+  },
+  {
+    "entidad": "levotiroxina",
+    "relacion": "es un tratamiento para",
+    "valor": "hipotiroidismo asociado a litio"
+  },
+  {
+    "entidad": "betabloqueo",
+    "relacion": "es un tratamiento para",
+    "valor": "hipertiroidismo asociado a litio"
+  },
+  {
+    "entidad": "calcimimético",
+    "relacion": "puede ser considerado para",
+    "valor": "hiperparatiroidismo asociado a litio"
+  },
+  {
+    "entidad": "equipos hospitalarios",
+    "relacion": "toman decisiones sobre",
+    "valor": "acceso y uso de tecnología de soporte vital"
+  },
+  {
+    "entidad": "tecnología de soporte vital",
+    "relacion": "afecta a",
+    "valor": "procesos de muerte en pacientes críticos adultos"
+  },
+  {
+    "entidad": "pandemia por COVID-19",
+    "relacion": "exponía",
+    "valor": "falta de criterios unificados para una muerte digna"
+  },
+  {
+    "entidad": "toma de decisiones",
+    "relacion": "debe ser",
+    "valor": "reflexiva, dinámica, flexible e individualizada"
+  },
+  {
+    "entidad": "preferencias del paciente",
+    "relacion": "deben ser consideradas en",
+    "valor": "la toma de decisiones"
+  },
+  {
+    "entidad": "juicio clínico",
+    "relacion": "es un factor en",
+    "valor": "la toma de decisiones"
+  },
+  {
+    "entidad": "pronóstico",
+    "relacion": "influye en",
+    "valor": "la toma de decisiones"
+  },
+  {
+    "entidad": "recursos disponibles",
+    "relacion": "son considerados en",
+    "valor": "la toma de decisiones"
+  },
+  {
+    "entidad": "comunicación",
+    "relacion": "es crucial en",
+    "valor": "el proceso de toma de decisiones"
+  },
+  {
+    "entidad": "planificación anticipada de cuidados",
+    "relacion": "es recomendada para",
+    "valor": "mejorar la toma de decisiones"
+  },
+  {
+    "entidad": "debates interdisciplinarios",
+    "relacion": "son importantes en",
+    "valor": "la toma de decisiones"
+  },
+  {
+    "entidad": "consultas externas",
+    "relacion": "son recomendadas en",
+    "valor": "la toma de decisiones"
+  },
+  {
+    "entidad": "comités éticos",
+    "relacion": "deben participar en",
+    "valor": "la toma de decisiones"
+  },
+  {
+    "entidad": "decisiones autónomas",
+    "relacion": "deben estar alineadas con",
+    "valor": "el criterio médico"
+  },
+  {
+    "entidad": "estado clínico del paciente",
+    "relacion": "afecta",
+    "valor": "la variabilidad en la toma de decisiones"
+  },
+  {
+    "entidad": "criterio del profesional médico",
+    "relacion": "influye en",
+    "valor": "la variabilidad en la toma de decisiones"
+  },
+  {
+    "entidad": "elementos estructurales del sistema sanitario",
+    "relacion": "impactan en",
+    "valor": "la toma de decisiones"
+  },
+  {
+    "entidad": "aspectos político-legales",
+    "relacion": "son relevantes en",
+    "valor": "la toma de decisiones"
+  },
+  {
+    "entidad": "testamento vital",
+    "relacion": "es una herramienta para",
+    "valor": "el ejercicio de la autonomía"
+  },
+  {
+    "entidad": "directivas anticipadas",
+    "relacion": "facilitan",
+    "valor": "la toma de decisiones en pacientes incompetentes"
+  },
+  {
+    "entidad": "cuidados paliativos",
+    "relacion": "son parte de",
+    "valor": "los cuidados al final de la vida"
+  },
+  {
+    "entidad": "intervenciones específicas",
+    "relacion": "varían según",
+    "valor": "el estado del paciente y sus preferencias"
+  },
+  {
+    "entidad": "asignación de recursos",
+    "relacion": "debe ser",
+    "valor": "justa y ética durante pandemias"
+  },
+  {
+    "entidad": "comunicación eficaz",
+    "relacion": "mejora",
+    "valor": "la alineación de preferencias del paciente"
+  },
+  {
+    "entidad": "familiares de pacientes",
+    "relacion": "deben ser incluidos en",
+    "valor": "la toma de decisiones"
+  },
+  {
+    "entidad": "decisiones subrogadas",
+    "relacion": "se basan en",
+    "valor": "los deseos del paciente o su mejor interés"
+  }
+]

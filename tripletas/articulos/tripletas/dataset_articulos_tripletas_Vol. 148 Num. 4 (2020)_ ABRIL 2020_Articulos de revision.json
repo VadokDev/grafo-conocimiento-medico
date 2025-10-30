@@ -1,0 +1,127 @@
+[
+  {
+    "entidad": "Test cardiopulmonar (CPET)",
+    "relacion": "es",
+    "valor": "una herramienta de utilidad diagnóstica y pronóstica"
+  },
+  {
+    "entidad": "CPET",
+    "relacion": "evalúa",
+    "valor": "función cardíaca, respiratoria, metabólica y neuromuscular"
+  },
+  {
+    "entidad": "CPET",
+    "relacion": "mide",
+    "valor": "consumo máximo de oxígeno (VO2 peak)"
+  },
+  {
+    "entidad": "CPET",
+    "relacion": "mide",
+    "valor": "umbral anaeróbico (UA)"
+  },
+  {
+    "entidad": "CPET",
+    "relacion": "mide",
+    "valor": "reserva cardiorrespiratoria"
+  },
+  {
+    "entidad": "CPET",
+    "relacion": "es útil para",
+    "valor": "evaluación de riesgo en cirugía cardiotorácica"
+  },
+  {
+    "entidad": "CPET",
+    "relacion": "es indicado para",
+    "valor": "evaluación dinámica de atletas y pacientes con enfermedades"
+  },
+  {
+    "entidad": "disnea",
+    "relacion": "es un síntoma de",
+    "valor": "enfermedades cardíacas, pulmonares y neuromusculares"
+  },
+  {
+    "entidad": "bajos niveles de aptitud cardiorrespiratoria (ACR)",
+    "relacion": "están asociados a",
+    "valor": "alto riesgo de enfermedad cardiovascular y mortalidad"
+  },
+  {
+    "entidad": "Asociación Americana para el Corazón (AHA)",
+    "relacion": "cataloga",
+    "valor": "ACR como un signo clínico vital"
+  },
+  {
+    "entidad": "CPET",
+    "relacion": "se utiliza en",
+    "valor": "evaluación inicial y seguimiento de pacientes"
+  },
+  {
+    "entidad": "CPET",
+    "relacion": "ha sido utilizado en",
+    "valor": "valoración de resultados de terapias"
+  },
+  {
+    "entidad": "CPET",
+    "relacion": "es un examen",
+    "valor": "no invasivo y breve"
+  },
+  {
+    "entidad": "CPET",
+    "relacion": "permite evaluar",
+    "valor": "parámetros oxihemodinámicos"
+  },
+  {
+    "entidad": "CPET",
+    "relacion": "es recomendado por",
+    "valor": "AHA como práctica clínica de rutina"
+  },
+  {
+    "entidad": "CPET",
+    "relacion": "es subutilizado en",
+    "valor": "Chile"
+  },
+  {
+    "entidad": "CPET",
+    "relacion": "proporciona información sobre",
+    "valor": "consumo de oxígeno y eficiencia cardiorrespiratoria"
+  },
+  {
+    "entidad": "VO2 peak",
+    "relacion": "es un indicador de",
+    "valor": "tolerancia al esfuerzo"
+  },
+  {
+    "entidad": "RER (Cociente Respiratorio)",
+    "relacion": "indica",
+    "valor": "tipo de sustrato energético metabolizado"
+  },
+  {
+    "entidad": "VE/VCO2",
+    "relacion": "es un predictor de",
+    "valor": "mortalidad en diversas condiciones"
+  },
+  {
+    "entidad": "CPET",
+    "relacion": "es útil en",
+    "valor": "evaluación preoperatoria para cirugía resectiva"
+  },
+  {
+    "entidad": "CPET",
+    "relacion": "ha demostrado ser útil en",
+    "valor": "evaluación de insuficiencia cardíaca"
+  },
+  {
+    "entidad": "CPET",
+    "relacion": "ha mostrado ser útil en",
+    "valor": "diagnóstico de asma inducida por ejercicio"
+  },
+  {
+    "entidad": "CPET",
+    "relacion": "ofrece información más precisa que",
+    "valor": "TC6m en enfermedad pulmonar difusa"
+  },
+  {
+    "entidad": "CPET",
+    "relacion": "es utilizado con fines",
+    "valor": "médico-legales y laborales"
+  }
+]

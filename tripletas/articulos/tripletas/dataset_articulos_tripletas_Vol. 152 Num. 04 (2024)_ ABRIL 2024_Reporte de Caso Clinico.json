@@ -1,0 +1,392 @@
+[
+  {
+    "entidad": "Epidermodisplasia verruciforme adquirida",
+    "relacion": "es una",
+    "valor": "condición poco frecuente"
+  },
+  {
+    "entidad": "Epidermodisplasia verruciforme adquirida",
+    "relacion": "es secundaria a",
+    "valor": "inmunosupresión adquirida"
+  },
+  {
+    "entidad": "Epidermodisplasia verruciforme adquirida",
+    "relacion": "caracterizada por",
+    "valor": "susceptibilidad a infección por virus del papiloma humano del género beta"
+  },
+  {
+    "entidad": "Epidermodisplasia verruciforme adquirida",
+    "relacion": "aumenta el riesgo de",
+    "valor": "cáncer de piel no melanoma"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "es",
+    "valor": "mujer de 39 años"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "recibió",
+    "valor": "trasplante renal"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "estaba en tratamiento con",
+    "valor": "prednisona y tacrolimus"
+  },
+  {
+    "entidad": "terapia inmunosupresora",
+    "relacion": "fue ajustada a",
+    "valor": "everolimus"
+  },
+  {
+    "entidad": "everolimus",
+    "relacion": "logró",
+    "valor": "disminución de las lesiones"
+  },
+  {
+    "entidad": "Epidermodisplasia verruciforme adquirida",
+    "relacion": "ha sido reportada en",
+    "valor": "13 casos en receptores de trasplante renal"
+  },
+  {
+    "entidad": "Epidermodisplasia verruciforme adquirida",
+    "relacion": "es el primer caso reportado en",
+    "valor": "Chile"
+  },
+  {
+    "entidad": "terapia inmunosupresora",
+    "relacion": "incluye",
+    "valor": "inhibidores de calcineurina"
+  },
+  {
+    "entidad": "virus del papiloma humano",
+    "relacion": "asociado a",
+    "valor": "Epidermodisplasia verruciforme"
+  },
+  {
+    "entidad": "Epidermodisplasia verruciforme",
+    "relacion": "se manifiesta como",
+    "valor": "pápulas y placas verrucosas"
+  },
+  {
+    "entidad": "biopsia de piel",
+    "relacion": "resultó en",
+    "valor": "diagnóstico de epidermodisplasia verruciforme"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "se encuentra en",
+    "valor": "seguimiento periódico por dermatología y nefrología"
+  },
+  {
+    "entidad": "Epidermodisplasia verruciforme adquirida",
+    "relacion": "requiere",
+    "valor": "correlación clínica, anatomopatológica y tipificación viral"
+  },
+  {
+    "entidad": "tratamiento",
+    "relacion": "no está estandarizado",
+    "valor": "alternativas basadas en reportes de casos clínicos"
+  },
+  {
+    "entidad": "pacientes con EVA",
+    "relacion": "pueden ser",
+    "valor": "portadores heterocigotos de mutaciones asociadas a EV genéticas"
+  },
+  {
+    "entidad": "estenosis aórtica severa (EAoS)",
+    "relacion": "afecta a",
+    "valor": "pacientes con alto riesgo quirúrgico"
+  },
+  {
+    "entidad": "implante de válvula aórtica transcatéter (TAVI)",
+    "relacion": "es un",
+    "valor": "tratamiento para EAoS"
+  },
+  {
+    "entidad": "anillo aórtico grande",
+    "relacion": "presenta",
+    "valor": "desafío técnico en TAVI"
+  },
+  {
+    "entidad": "válvula Myval #32",
+    "relacion": "es un",
+    "valor": "dispositivo utilizado en TAVI"
+  },
+  {
+    "entidad": "Pabla Cataldo",
+    "relacion": "es un",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "Instituto Nacional del Tórax",
+    "relacion": "es un",
+    "valor": "institución donde se realizó el estudio"
+  },
+  {
+    "entidad": "Universidad de Chile",
+    "relacion": "ofrece",
+    "valor": "programa de formación en cateterismo cardiaco"
+  },
+  {
+    "entidad": "daño hepático crónico",
+    "relacion": "es una",
+    "valor": "condición médica del paciente"
+  },
+  {
+    "entidad": "síncope",
+    "relacion": "es un",
+    "valor": "síntoma del paciente"
+  },
+  {
+    "entidad": "anatomía adecuada",
+    "relacion": "es un",
+    "valor": "factor para el éxito de TAVI"
+  },
+  {
+    "entidad": "calcificación de la válvula",
+    "relacion": "afecta a",
+    "valor": "la elección del tamaño de la válvula"
+  },
+  {
+    "entidad": "Heart Team",
+    "relacion": "define",
+    "valor": "tratamiento percutáneo con TAVI"
+  },
+  {
+    "entidad": "anestesia local",
+    "relacion": "es un",
+    "valor": "tipo de anestesia utilizada en el procedimiento"
+  },
+  {
+    "entidad": "alta precoz",
+    "relacion": "es un",
+    "valor": "resultado positivo del procedimiento"
+  },
+  {
+    "entidad": "fuga paravalvular",
+    "relacion": "es un",
+    "valor": "riesgo asociado a la sobreexpansión de válvulas"
+  },
+  {
+    "entidad": "válvula bicúspide tipo Sievers 1",
+    "relacion": "es un",
+    "valor": "tipo de válvula en el paciente"
+  },
+  {
+    "entidad": "técnica de implante",
+    "relacion": "es crucial para",
+    "valor": "reducir complicaciones en TAVI"
+  },
+  {
+    "entidad": "Corynebacterium urealyticum",
+    "relacion": "es un",
+    "valor": "bacilo gram positivo"
+  },
+  {
+    "entidad": "Corynebacterium urealyticum",
+    "relacion": "causa",
+    "valor": "infección urinaria"
+  },
+  {
+    "entidad": "Corynebacterium urealyticum",
+    "relacion": "causa",
+    "valor": "nefrolitiasis"
+  },
+  {
+    "entidad": "Corynebacterium urealyticum",
+    "relacion": "causa",
+    "valor": "pielitis incrustada"
+  },
+  {
+    "entidad": "Corynebacterium urealyticum",
+    "relacion": "causa",
+    "valor": "cistitis incrustada"
+  },
+  {
+    "entidad": "infección urinaria",
+    "relacion": "puede ocasionar",
+    "valor": "pielitis incrustada"
+  },
+  {
+    "entidad": "pielitis incrustada",
+    "relacion": "es una",
+    "valor": "complicación grave"
+  },
+  {
+    "entidad": "Corynebacterium urealyticum",
+    "relacion": "se encuentra como",
+    "valor": "colonizador en la piel"
+  },
+  {
+    "entidad": "pacientes susceptibles",
+    "relacion": "presentan",
+    "valor": "rol patógeno de C. urealyticum"
+  },
+  {
+    "entidad": "factores de riesgo",
+    "relacion": "incluyen",
+    "valor": "terapia antibiótica prolongada"
+  },
+  {
+    "entidad": "factores de riesgo",
+    "relacion": "incluyen",
+    "valor": "inmunosupresión"
+  },
+  {
+    "entidad": "factores de riesgo",
+    "relacion": "incluyen",
+    "valor": "trasplante renal"
+  },
+  {
+    "entidad": "factores de riesgo",
+    "relacion": "incluyen",
+    "valor": "vía urinaria instrumentalizada"
+  },
+  {
+    "entidad": "factores de riesgo",
+    "relacion": "incluyen",
+    "valor": "largas estadías hospitalarias"
+  },
+  {
+    "entidad": "exámenes de orina",
+    "relacion": "presentan",
+    "valor": "cristales de fosfato triple"
+  },
+  {
+    "entidad": "exámenes de orina",
+    "relacion": "presentan",
+    "valor": "pH alcalino"
+  },
+  {
+    "entidad": "pH alcalino",
+    "relacion": "es característico de",
+    "valor": "pielitis incrustada"
+  },
+  {
+    "entidad": "Corynebacterium urealyticum",
+    "relacion": "puede causar",
+    "valor": "alcalinización de la orina"
+  },
+  {
+    "entidad": "alcalinización de la orina",
+    "relacion": "conduce a",
+    "valor": "formación de cálculos tipo estruvitas"
+  },
+  {
+    "entidad": "pielitis incrustada",
+    "relacion": "se asocia a",
+    "valor": "terapia más prolongada"
+  },
+  {
+    "entidad": "Corynebacterium urealyticum",
+    "relacion": "promueve",
+    "valor": "desarrollo de biofilm"
+  },
+  {
+    "entidad": "biofilm",
+    "relacion": "se desarrolla en",
+    "valor": "epitelio y materiales protésicos"
+  },
+  {
+    "entidad": "tratamiento antibiótico",
+    "relacion": "se realiza de manera",
+    "valor": "empírica"
+  },
+  {
+    "entidad": "Corynebacterium urealyticum",
+    "relacion": "puede originar",
+    "valor": "complicaciones graves"
+  },
+  {
+    "entidad": "linfoma folicular",
+    "relacion": "es un",
+    "valor": "linfoma de células B"
+  },
+  {
+    "entidad": "linfoma folicular",
+    "relacion": "tiene un riesgo de",
+    "valor": "transformación histológica del 30% a 10 años"
+  },
+  {
+    "entidad": "linfoma de Hodgkin",
+    "relacion": "es un",
+    "valor": "linfoma raro que puede aparecer después del linfoma folicular"
+  },
+  {
+    "entidad": "linfoma compuesto",
+    "relacion": "es una asociación de",
+    "valor": "linfoma de Hodgkin y linfoma no Hodgkin"
+  },
+  {
+    "entidad": "Instituto Nacional de Cancerología",
+    "relacion": "es parte de",
+    "valor": "los departamentos de Patología y Hematología"
+  },
+  {
+    "entidad": "quimioterapia R-CHOP",
+    "relacion": "es un tratamiento para",
+    "valor": "linfoma folicular"
+  },
+  {
+    "entidad": "radioterapia",
+    "relacion": "es un tratamiento para",
+    "valor": "linfoma compuesto"
+  },
+  {
+    "entidad": "paciente masculino de 79 años",
+    "relacion": "fue diagnosticado con",
+    "valor": "linfoma folicular"
+  },
+  {
+    "entidad": "linfoma compuesto",
+    "relacion": "consiste en",
+    "valor": "linfoma folicular y linfoma de Hodgkin"
+  },
+  {
+    "entidad": "linfoma folicular grado 2",
+    "relacion": "es diagnosticado por",
+    "valor": "inmunohistoquímica positiva para CD10, CD20, BCL-2, BCL-6 y Ki-67"
+  },
+  {
+    "entidad": "linfoma folicular grado 3a",
+    "relacion": "es diagnosticado por",
+    "valor": "inmunohistoquímica positiva para CD10, CD20, BCL-2, BCL-6 y Ki-67"
+  },
+  {
+    "entidad": "células neoplásicas de linfoma de Hodgkin",
+    "relacion": "son positivas para",
+    "valor": "EBER y CD30"
+  },
+  {
+    "entidad": "células neoplásicas de linfoma de Hodgkin",
+    "relacion": "son negativas para",
+    "valor": "CD10, CD15, BCL-2, BCL-6 y ALK-1"
+  },
+  {
+    "entidad": "t(14;18)",
+    "relacion": "está presente en",
+    "valor": "80% de los casos de linfoma folicular"
+  },
+  {
+    "entidad": "tratamiento óptimo para linfoma compuesto",
+    "relacion": "debería buscar",
+    "valor": "curar el componente más agresivo"
+  },
+  {
+    "entidad": "componente de linfoma de Hodgkin",
+    "relacion": "tiende a ser",
+    "valor": "más quimiosensible que el linfoma folicular"
+  },
+  {
+    "entidad": "diagnóstico de linfoma compuesto",
+    "relacion": "representa un",
+    "valor": "reto diagnóstico"
+  },
+  {
+    "entidad": "células tipo Reed-Sternberg",
+    "relacion": "se encuentran en",
+    "valor": "linfoma de Hodgkin y otros trastornos linfoproliferativos"
+  }
+]

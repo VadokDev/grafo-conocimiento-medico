@@ -1,0 +1,97 @@
+[
+  {
+    "entidad": "Diabetes Pancreatogénica",
+    "relacion": "es un",
+    "valor": "tipo específico de diabetes secundaria a enfermedades del páncreas exocrino"
+  },
+  {
+    "entidad": "Diabetes Pancreatogénica",
+    "relacion": "requiere",
+    "valor": "seguimiento clínico estrecho"
+  },
+  {
+    "entidad": "Diabetes Pancreatogénica",
+    "relacion": "asocia a",
+    "valor": "mayor riesgo de hipoglicemia"
+  },
+  {
+    "entidad": "páncreas exocrino",
+    "relacion": "interactúa con",
+    "valor": "páncreas endocrino"
+  },
+  {
+    "entidad": "insulina",
+    "relacion": "aumenta",
+    "valor": "secreción de enzimas digestivas"
+  },
+  {
+    "entidad": "amilasa",
+    "relacion": "interfiere con",
+    "valor": "secreción de insulina y glucagón"
+  },
+  {
+    "entidad": "deficiencia en la producción de insulina",
+    "relacion": "es un mecanismo patológico de",
+    "valor": "DM3c"
+  },
+  {
+    "entidad": "Diabetes Mellitus tipo 3c (DM3c)",
+    "relacion": "es confundida con",
+    "valor": "otros tipos de diabetes"
+  },
+  {
+    "entidad": "pancreatitis crónica",
+    "relacion": "puede provocar",
+    "valor": "insuficiencia endocrina y DM3c"
+  },
+  {
+    "entidad": "insulinoterapia",
+    "relacion": "es el tratamiento de elección para",
+    "valor": "Diabetes Pancreatogénica"
+  },
+  {
+    "entidad": "monitorización glicémica",
+    "relacion": "es mandatoria en",
+    "valor": "pacientes con pancreatitis autoinmune"
+  },
+  {
+    "entidad": "Fibrosis Quística",
+    "relacion": "asocia con",
+    "valor": "diabetes mellitus en 40-50% de los casos"
+  },
+  {
+    "entidad": "hemocromatosis hereditaria",
+    "relacion": "presenta diabetes en",
+    "valor": "50-60% de los casos"
+  },
+  {
+    "entidad": "cáncer de páncreas",
+    "relacion": "puede ser precedido por",
+    "valor": "diagnóstico de diabetes mellitus"
+  },
+  {
+    "entidad": "Diabetes Pancreatogénica",
+    "relacion": "debe ser manejada de forma",
+    "valor": "multidisciplinaria e individualizada"
+  },
+  {
+    "entidad": "enzimas pancreáticas",
+    "relacion": "son necesarias para",
+    "valor": "absorción adecuada de nutrientes"
+  },
+  {
+    "entidad": "metformina",
+    "relacion": "puede ser considerada en",
+    "valor": "pacientes con diabetes mixta"
+  },
+  {
+    "entidad": "insulina",
+    "relacion": "debe ser administrada de forma",
+    "valor": "individualizada"
+  },
+  {
+    "entidad": "pacientes con DM3c",
+    "relacion": "deben contar con",
+    "valor": "monitoreo continuo de glucosa"
+  }
+]

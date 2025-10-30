@@ -1,0 +1,907 @@
+[
+  {
+    "entidad": "Nuevo Signo Vital (NVS)",
+    "relacion": "evalúa",
+    "valor": "alfabetización en salud"
+  },
+  {
+    "entidad": "alfabetización en salud",
+    "relacion": "es un",
+    "valor": "determinante de la salud"
+  },
+  {
+    "entidad": "NVS",
+    "relacion": "mide",
+    "valor": "capacidad de entender información nutricional"
+  },
+  {
+    "entidad": "NVS",
+    "relacion": "se aplica en",
+    "valor": "pacientes de atención primaria en Chile"
+  },
+  {
+    "entidad": "Cardiovascular Health Program",
+    "relacion": "incluye",
+    "valor": "pacientes que respondieron al NVS"
+  },
+  {
+    "entidad": "TOFHLA",
+    "relacion": "es un",
+    "valor": "test de alfabetización en salud"
+  },
+  {
+    "entidad": "HLS-EU-32",
+    "relacion": "es un",
+    "valor": "cuestionario de alfabetización en salud"
+  },
+  {
+    "entidad": "Kuder-Richardson-20",
+    "relacion": "mide",
+    "valor": "confiabilidad del NVS"
+  },
+  {
+    "entidad": "NVS",
+    "relacion": "tiene",
+    "valor": "validez constructiva"
+  },
+  {
+    "entidad": "NVS",
+    "relacion": "recomendada para",
+    "valor": "medir nivel de alfabetización en salud"
+  },
+  {
+    "entidad": "Comisión Nacional de Investigación Científica y Tecnológica - CONICYT",
+    "relacion": "financia",
+    "valor": "proyecto FONIS SA15I20193"
+  },
+  {
+    "entidad": "Universidad de Concepción",
+    "relacion": "es un",
+    "valor": "centro de investigación"
+  },
+  {
+    "entidad": "Universidad Autónoma de Madrid",
+    "relacion": "colabora con",
+    "valor": "investigación en salud"
+  },
+  {
+    "entidad": "Universidad Católica de la Santísima Concepción",
+    "relacion": "es un",
+    "valor": "centro de educación"
+  },
+  {
+    "entidad": "Universidad Andres Bello",
+    "relacion": "es un",
+    "valor": "centro de educación"
+  },
+  {
+    "entidad": "Ministerio de Educación del Gobierno de Chile",
+    "relacion": "supervisa",
+    "valor": "investigación educativa"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "afecta a",
+    "valor": "la población en Chile"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "cambia",
+    "valor": "con el tiempo y entre regiones"
+  },
+  {
+    "entidad": "Olas de COVID-19",
+    "relacion": "se identifican en",
+    "valor": "16 regiones de Chile"
+  },
+  {
+    "entidad": "Segunda ola",
+    "relacion": "es",
+    "valor": "la de mayor impacto"
+  },
+  {
+    "entidad": "Ñuble",
+    "relacion": "tiene",
+    "valor": "alta tasa de vacunación y baja letalidad"
+  },
+  {
+    "entidad": "Atacama",
+    "relacion": "presenta",
+    "valor": "baja letalidad y baja tasa de defunciones"
+  },
+  {
+    "entidad": "O'Higgins",
+    "relacion": "tiene",
+    "valor": "alto porcentaje de vacunación"
+  },
+  {
+    "entidad": "Regiones del norte",
+    "relacion": "presentan",
+    "valor": "altas tasas de ocupación UCI"
+  },
+  {
+    "entidad": "Regiones del centro",
+    "relacion": "tienen",
+    "valor": "altas tasas de letalidad y positividad"
+  },
+  {
+    "entidad": "Regiones del sur",
+    "relacion": "se caracterizan por",
+    "valor": "olas más extensas"
+  },
+  {
+    "entidad": "Aysén",
+    "relacion": "tiene",
+    "valor": "bajas tasas de letalidad y defunciones"
+  },
+  {
+    "entidad": "Sistema de salud",
+    "relacion": "es impactado por",
+    "valor": "la segunda ola"
+  },
+  {
+    "entidad": "Vacunación",
+    "relacion": "influye en",
+    "valor": "la reducción de letalidad en olas posteriores"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile (MINSAL)",
+    "relacion": "suministra",
+    "valor": "datos sobre COVID-19"
+  },
+  {
+    "entidad": "Universidad de Santiago de Chile",
+    "relacion": "realiza",
+    "valor": "análisis sobre COVID-19"
+  },
+  {
+    "entidad": "Plan Paso a Paso",
+    "relacion": "contiene",
+    "valor": "medidas de prevención para COVID-19"
+  },
+  {
+    "entidad": "Datos abiertos",
+    "relacion": "son utilizados por",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "Comité de Ética Institucional",
+    "relacion": "aprueba",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "cáncer",
+    "relacion": "es",
+    "valor": "una de las principales causas de muerte a nivel mundial"
+  },
+  {
+    "entidad": "GLOBOCAN",
+    "relacion": "estima",
+    "valor": "incidencia de cáncer"
+  },
+  {
+    "entidad": "cáncer",
+    "relacion": "ocupa",
+    "valor": "la segunda causa de mortalidad en Chile"
+  },
+  {
+    "entidad": "cáncer",
+    "relacion": "es",
+    "valor": "la primera fuente de carga de enfermedad en Chile"
+  },
+  {
+    "entidad": "Instituto Oncológico Fundación Arturo López Pérez (FALP)",
+    "relacion": "crea",
+    "valor": "la Unidad de Registro Hospitalario de Tumores"
+  },
+  {
+    "entidad": "Unidad de Registro Hospitalario de Tumores",
+    "relacion": "desarrolla",
+    "valor": "un proceso estandarizado de recolección de información"
+  },
+  {
+    "entidad": "cáncer de mama",
+    "relacion": "tiene",
+    "valor": "mayor incidencia en la Región Metropolitana"
+  },
+  {
+    "entidad": "cáncer de pulmón",
+    "relacion": "tiene",
+    "valor": "mayor incidencia en hombres en la Región de Antofagasta"
+  },
+  {
+    "entidad": "cáncer de tiroides",
+    "relacion": "requiere",
+    "valor": "más estudios en la Región de Los Ríos"
+  },
+  {
+    "entidad": "IDH",
+    "relacion": "es un",
+    "valor": "parámetro utilizado para clasificar países socioeconómicamente"
+  },
+  {
+    "entidad": "contaminación ambiental",
+    "relacion": "afecta",
+    "valor": "el riesgo de cáncer"
+  },
+  {
+    "entidad": "cáncer de piel",
+    "relacion": "está asociado a",
+    "valor": "exposición solar"
+  },
+  {
+    "entidad": "cáncer",
+    "relacion": "requiere",
+    "valor": "identificación de factores de exposición"
+  },
+  {
+    "entidad": "cáncer",
+    "relacion": "se relaciona con",
+    "valor": "la transición epidemiológica en América Latina"
+  },
+  {
+    "entidad": "cáncer",
+    "relacion": "se estima que aumentará",
+    "valor": "91% en incidencia y 106% en mortalidad en América Latina"
+  },
+  {
+    "entidad": "cáncer",
+    "relacion": "se relaciona con",
+    "valor": "desarrollo económico"
+  },
+  {
+    "entidad": "cáncer",
+    "relacion": "se basa en",
+    "valor": "datos de solo 2,2% de la población en Chile"
+  },
+  {
+    "entidad": "moxifloxacino intracameral",
+    "relacion": "se utiliza para",
+    "valor": "reducir endoftalmitis posterior a cirugía de cataratas"
+  },
+  {
+    "entidad": "endoftalmitis",
+    "relacion": "es una complicación de",
+    "valor": "cirugía de cataratas"
+  },
+  {
+    "entidad": "cirugía de cataratas",
+    "relacion": "es tratada con",
+    "valor": "facoemulsificación"
+  },
+  {
+    "entidad": "Hospital Dr. Sótero del Río",
+    "relacion": "realiza",
+    "valor": "cirugías de cataratas"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "publica",
+    "valor": "norma de prevención de endoftalmitis postquirúrgica"
+  },
+  {
+    "entidad": "población chilena",
+    "relacion": "es objeto de estudio en",
+    "valor": "efectividad del moxifloxacino intracameral"
+  },
+  {
+    "entidad": "diabetes mellitus tipo 2",
+    "relacion": "es un factor de riesgo para",
+    "valor": "endoftalmitis postoperatoria"
+  },
+  {
+    "entidad": "povidona yodada",
+    "relacion": "es utilizada como",
+    "valor": "medida profiláctica preoperatoria"
+  },
+  {
+    "entidad": "moxifloxacino",
+    "relacion": "es un tipo de",
+    "valor": "antibiótico de amplio espectro"
+  },
+  {
+    "entidad": "facoemulsificación",
+    "relacion": "es un tipo de",
+    "valor": "procedimiento quirúrgico"
+  },
+  {
+    "entidad": "cirugía de cataratas",
+    "relacion": "puede llevar a",
+    "valor": "pérdida de visión"
+  },
+  {
+    "entidad": "Hospital Dr. Sótero del Río",
+    "relacion": "es un centro con",
+    "valor": "alto volumen de cirugía de cataratas"
+  },
+  {
+    "entidad": "moxifloxacino intracameral",
+    "relacion": "ha mostrado tendencia a",
+    "valor": "disminuir la incidencia de endoftalmitis"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "evalúa",
+    "valor": "efectividad del moxifloxacino intracameral"
+  },
+  {
+    "entidad": "cirugía de cataratas",
+    "relacion": "puede presentar",
+    "valor": "complicaciones postoperatorias"
+  },
+  {
+    "entidad": "moxifloxacino intracameral",
+    "relacion": "se ha implementado en",
+    "valor": "cirugía de cataratas en algunos centros"
+  },
+  {
+    "entidad": "moxifloxacino",
+    "relacion": "inhibe",
+    "valor": "replicación microbiana"
+  },
+  {
+    "entidad": "cirugía de cataratas",
+    "relacion": "es realizada por",
+    "valor": "distintos cirujanos"
+  },
+  {
+    "entidad": "moxifloxacino intracameral",
+    "relacion": "se comenzó a usar en",
+    "valor": "2014"
+  },
+  {
+    "entidad": "endophthalmitis",
+    "relacion": "se presenta en",
+    "valor": "0,004%-0,06% de los pacientes"
+  },
+  {
+    "entidad": "moxifloxacino intracameral",
+    "relacion": "no mostró",
+    "valor": "disminución estadísticamente significativa de endoftalmitis"
+  },
+  {
+    "entidad": "estilos de vida",
+    "relacion": "afectan",
+    "valor": "calidad de sueño"
+  },
+  {
+    "entidad": "calidad de sueño",
+    "relacion": "influye en",
+    "valor": "salud mental"
+  },
+  {
+    "entidad": "calidad de sueño",
+    "relacion": "asociada a",
+    "valor": "calidad de vida"
+  },
+  {
+    "entidad": "universitarios",
+    "relacion": "reportan",
+    "valor": "mala calidad de sueño"
+  },
+  {
+    "entidad": "consumo de alcohol",
+    "relacion": "aumenta",
+    "valor": "probabilidad de mala calidad de sueño"
+  },
+  {
+    "entidad": "sedentarismo",
+    "relacion": "asociado a",
+    "valor": "mala calidad de sueño"
+  },
+  {
+    "entidad": "horas de sueño",
+    "relacion": "recomendadas para adultos",
+    "valor": "7 a 9 horas"
+  },
+  {
+    "entidad": "horas de sueño",
+    "relacion": "recomendadas para adolescentes",
+    "valor": "8 a 10 horas"
+  },
+  {
+    "entidad": "sueño reparador",
+    "relacion": "controlado por",
+    "valor": "ritmo circadiano"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "mejora con",
+    "valor": "buen sueño"
+  },
+  {
+    "entidad": "dolor corporal",
+    "relacion": "aumenta",
+    "valor": "probabilidad de mala calidad de sueño"
+  },
+  {
+    "entidad": "función social",
+    "relacion": "disminuye con",
+    "valor": "mala calidad de sueño"
+  },
+  {
+    "entidad": "universidad Santo Tomás",
+    "relacion": "realiza",
+    "valor": "investigación sobre calidad de sueño"
+  },
+  {
+    "entidad": "Núcleo de Investigación en Kinesiología (NIK)",
+    "relacion": "representa",
+    "valor": "investigadores en kinesiología"
+  },
+  {
+    "entidad": "cuestionario Sleep Self-Report (SSR)",
+    "relacion": "evalúa",
+    "valor": "calidad de sueño"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud de Chile 2016-2017",
+    "relacion": "proporciona",
+    "valor": "variables sociodemográficas"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "mejora",
+    "valor": "calidad de sueño"
+  },
+  {
+    "entidad": "sueño",
+    "relacion": "condicionado por",
+    "valor": "factores genéticos, alimentarios, ambientales y de comportamiento"
+  },
+  {
+    "entidad": "universitarios",
+    "relacion": "experimentan",
+    "valor": "cambios en su estilo de vida"
+  },
+  {
+    "entidad": "mala calidad de sueño",
+    "relacion": "asociada a",
+    "valor": "bajo rendimiento académico"
+  },
+  {
+    "entidad": "mala calidad de sueño",
+    "relacion": "vinculada a",
+    "valor": "enfermedades crónicas"
+  },
+  {
+    "entidad": "SARS-CoV-2",
+    "relacion": "causa",
+    "valor": "COVID-19"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "afecta a",
+    "valor": "pacientes hospitalizados"
+  },
+  {
+    "entidad": "Complejo Asistencial Dr. Sótero del Río",
+    "relacion": "es un",
+    "valor": "centro hospitalario de alta complejidad"
+  },
+  {
+    "entidad": "Servicio de Salud Metropolitano Sur Oriente",
+    "relacion": "pertenece a",
+    "valor": "Complejo Asistencial Dr. Sótero del Río"
+  },
+  {
+    "entidad": "pacientes con COVID-19",
+    "relacion": "requieren",
+    "valor": "soporte ventilatorio"
+  },
+  {
+    "entidad": "soporte ventilatorio",
+    "relacion": "incluye",
+    "valor": "ventilación mecánica invasiva y no invasiva"
+  },
+  {
+    "entidad": "diabetes mellitus",
+    "relacion": "es una comorbilidad de",
+    "valor": "pacientes con COVID-19"
+  },
+  {
+    "entidad": "insuficiencia renal crónica",
+    "relacion": "es una comorbilidad de",
+    "valor": "pacientes con COVID-19"
+  },
+  {
+    "entidad": "daño hepático crónico",
+    "relacion": "es una comorbilidad de",
+    "valor": "pacientes con COVID-19"
+  },
+  {
+    "entidad": "letalidad intrahospitalaria",
+    "relacion": "es",
+    "valor": "18%"
+  },
+  {
+    "entidad": "letalidad a 30 días",
+    "relacion": "es",
+    "valor": "25.8%"
+  },
+  {
+    "entidad": "hospitalización por COVID-19",
+    "relacion": "aumenta",
+    "valor": "demanda asistencial"
+  },
+  {
+    "entidad": "red integrada de salud",
+    "relacion": "desarrolla",
+    "valor": "respuesta a la pandemia"
+  },
+  {
+    "entidad": "camas críticas",
+    "relacion": "aumenta",
+    "valor": "disponibilidad en hospitales"
+  },
+  {
+    "entidad": "pacientes hospitalizados",
+    "relacion": "requieren",
+    "valor": "atención médica"
+  },
+  {
+    "entidad": "mortalidad asociada a COVID-19",
+    "relacion": "es similar a",
+    "valor": "tasas reportadas en literatura internacional"
+  },
+  {
+    "entidad": "tasa de rehospitalización",
+    "relacion": "es",
+    "valor": "3.2%"
+  },
+  {
+    "entidad": "comorbilidades",
+    "relacion": "aumentan",
+    "valor": "susceptibilidad a un peor pronóstico clínico"
+  },
+  {
+    "entidad": "vacuna inactivada de SARS-CoV-2 (CoronaVac®)",
+    "relacion": "reduce",
+    "valor": "muertes por COVID-19"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "es un factor asociado a",
+    "valor": "letalidad en pacientes con COVID-19"
+  },
+  {
+    "entidad": "insuficiencia renal crónica",
+    "relacion": "es un factor asociado a",
+    "valor": "letalidad en pacientes con COVID-19"
+  },
+  {
+    "entidad": "cirrosis hepática",
+    "relacion": "es un factor asociado a",
+    "valor": "letalidad en pacientes con COVID-19"
+  },
+  {
+    "entidad": "inseguridad alimentaria",
+    "relacion": "afecta a",
+    "valor": "estudiantes universitarios chilenos"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "aumenta",
+    "valor": "niveles de inseguridad alimentaria"
+  },
+  {
+    "entidad": "estudiantes universitarios",
+    "relacion": "son",
+    "valor": "grupo de riesgo para inseguridad alimentaria"
+  },
+  {
+    "entidad": "cierre de establecimientos educativos",
+    "relacion": "causa",
+    "valor": "inseguridad alimentaria en estudiantes"
+  },
+  {
+    "entidad": "FAO Food Insecurity Experience Scale",
+    "relacion": "es utilizado en",
+    "valor": "cuestionario sobre inseguridad alimentaria"
+  },
+  {
+    "entidad": "estudiantes",
+    "relacion": "responden a",
+    "valor": "encuesta sobre inseguridad alimentaria"
+  },
+  {
+    "entidad": "gobierno chileno",
+    "relacion": "implementa",
+    "valor": "medidas para mitigar inseguridad alimentaria"
+  },
+  {
+    "entidad": "becas de alimentación",
+    "relacion": "benefician a",
+    "valor": "estudiantes universitarios"
+  },
+  {
+    "entidad": "pandemia",
+    "relacion": "cambia",
+    "valor": "patrones de consumo alimentario"
+  },
+  {
+    "entidad": "estudiantes",
+    "relacion": "reportan",
+    "valor": "cambios en su situación alimentaria durante la pandemia"
+  },
+  {
+    "entidad": "inseguridad alimentaria moderada/severa",
+    "relacion": "aumenta de",
+    "valor": "9.5% a 14.3%"
+  },
+  {
+    "entidad": "hogares estudiantiles",
+    "relacion": "se vuelven",
+    "valor": "inseguros durante la crisis sanitaria"
+  },
+  {
+    "entidad": "estudiantes",
+    "relacion": "comentan sobre",
+    "valor": "aspectos positivos y negativos de la pandemia en su alimentación"
+  },
+  {
+    "entidad": "universidades",
+    "relacion": "deben diseñar",
+    "valor": "programas de monitoreo de seguridad alimentaria"
+  },
+  {
+    "entidad": "estudiantes",
+    "relacion": "experimentan",
+    "valor": "inseguridad alimentaria durante la pandemia"
+  },
+  {
+    "entidad": "medidas de mitigación",
+    "relacion": "deben ser",
+    "valor": "implementadas durante el cierre de universidades"
+  },
+  {
+    "entidad": "adultos mayores",
+    "relacion": "son",
+    "valor": "población en aumento"
+  },
+  {
+    "entidad": "planta medicinal",
+    "relacion": "es utilizada por",
+    "valor": "adultos mayores"
+  },
+  {
+    "entidad": "Centros de Atención Primaria de Salud",
+    "relacion": "introducen",
+    "valor": "uso de plantas medicinales"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "tiene como objetivo",
+    "valor": "determinar plantas medicinales consumidas"
+  },
+  {
+    "entidad": "puente Alto",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "método de estudio",
+    "relacion": "es",
+    "valor": "observacional, descriptivo y transversal"
+  },
+  {
+    "entidad": "cuestionario",
+    "relacion": "se aplica a",
+    "valor": "usuarios adultos mayores"
+  },
+  {
+    "entidad": "plantas medicinales",
+    "relacion": "son consumidas para",
+    "valor": "tratar problemas de salud"
+  },
+  {
+    "entidad": "gastrointestinal",
+    "relacion": "es un problema tratado con",
+    "valor": "plantas medicinales"
+  },
+  {
+    "entidad": "infusión",
+    "relacion": "es la forma de preparación más común de",
+    "valor": "plantas medicinales"
+  },
+  {
+    "entidad": "interacciones medicamentosas",
+    "relacion": "son un riesgo asociado a",
+    "valor": "uso de plantas medicinales"
+  },
+  {
+    "entidad": "Corporación Municipal de Puente Alto",
+    "relacion": "administra",
+    "valor": "Centros de Atención Primaria de Salud"
+  },
+  {
+    "entidad": "menta",
+    "relacion": "es una de las plantas más utilizadas por",
+    "valor": "adultos mayores"
+  },
+  {
+    "entidad": "manzanilla",
+    "relacion": "es una de las plantas más utilizadas por",
+    "valor": "adultos mayores"
+  },
+  {
+    "entidad": "ruda",
+    "relacion": "es una de las plantas más utilizadas por",
+    "valor": "adultos mayores"
+  },
+  {
+    "entidad": "matico",
+    "relacion": "es una de las plantas más utilizadas por",
+    "valor": "adultos mayores"
+  },
+  {
+    "entidad": "llantén",
+    "relacion": "es una de las plantas más utilizadas por",
+    "valor": "adultos mayores"
+  },
+  {
+    "entidad": "boldo",
+    "relacion": "es una de las plantas más utilizadas por",
+    "valor": "adultos mayores"
+  },
+  {
+    "entidad": "melisa",
+    "relacion": "es una de las plantas más utilizadas por",
+    "valor": "adultos mayores"
+  },
+  {
+    "entidad": "poleo",
+    "relacion": "es una de las plantas más utilizadas por",
+    "valor": "adultos mayores"
+  },
+  {
+    "entidad": "paico",
+    "relacion": "es una de las plantas más utilizadas por",
+    "valor": "adultos mayores"
+  },
+  {
+    "entidad": "cedrón",
+    "relacion": "es una de las plantas más utilizadas por",
+    "valor": "adultos mayores"
+  },
+  {
+    "entidad": "problemas del sistema nervioso",
+    "relacion": "son tratados con",
+    "valor": "plantas medicinales"
+  },
+  {
+    "entidad": "problemas dérmicos",
+    "relacion": "son tratados con",
+    "valor": "plantas medicinales"
+  },
+  {
+    "entidad": "problemas respiratorios",
+    "relacion": "son tratados con",
+    "valor": "plantas medicinales"
+  },
+  {
+    "entidad": "problemas metabólicos",
+    "relacion": "son tratados con",
+    "valor": "plantas medicinales"
+  },
+  {
+    "entidad": "problemas genitourinarios",
+    "relacion": "son tratados con",
+    "valor": "plantas medicinales"
+  },
+  {
+    "entidad": "efectos adversos",
+    "relacion": "son un riesgo asociado a",
+    "valor": "uso de plantas medicinales"
+  },
+  {
+    "entidad": "colitis ulcerosa",
+    "relacion": "es un",
+    "valor": "enfermedad inflamatoria intestinal"
+  },
+  {
+    "entidad": "colectomía",
+    "relacion": "es un",
+    "valor": "procedimiento quirúrgico"
+  },
+  {
+    "entidad": "corticoides",
+    "relacion": "se utiliza en",
+    "valor": "tratamiento de colitis ulcerosa"
+  },
+  {
+    "entidad": "terapia biológica",
+    "relacion": "se utiliza en",
+    "valor": "tratamiento de colitis ulcerosa"
+  },
+  {
+    "entidad": "Hospital Clínico de la Pontificia Universidad Católica de Chile",
+    "relacion": "realiza",
+    "valor": "estudio de cohorte no concurrente"
+  },
+  {
+    "entidad": "pacientes con colitis ulcerosa",
+    "relacion": "requieren",
+    "valor": "colectomía total de urgencia"
+  },
+  {
+    "entidad": "colectomía total de urgencia",
+    "relacion": "ha disminuido en",
+    "valor": "la última década"
+  },
+  {
+    "entidad": "infecciones concomitantes",
+    "relacion": "asociadas a",
+    "valor": "crisis de colitis ulcerosa"
+  },
+  {
+    "entidad": "Clostridioides difficile",
+    "relacion": "es un",
+    "valor": "patógeno asociado a crisis de colitis ulcerosa"
+  },
+  {
+    "entidad": "citomegalovirus",
+    "relacion": "es un",
+    "valor": "patógeno asociado a crisis de colitis ulcerosa"
+  },
+  {
+    "entidad": "algoritmo de tratamiento",
+    "relacion": "se basa en",
+    "valor": "publicación previa del equipo"
+  },
+  {
+    "entidad": "Dr. Felipe Bellolio Roth",
+    "relacion": "es el",
+    "valor": "autor principal del estudio"
+  },
+  {
+    "entidad": "colectomía electiva",
+    "relacion": "se requiere en",
+    "valor": "un pequeño porcentaje de pacientes"
+  },
+  {
+    "entidad": "éxito del tratamiento médico",
+    "relacion": "es del",
+    "valor": "86.3%"
+  },
+  {
+    "entidad": "colectomía de urgencia",
+    "relacion": "se realizó en",
+    "valor": "18.3% de los pacientes"
+  },
+  {
+    "entidad": "colectomía electiva",
+    "relacion": "se realizó en",
+    "valor": "6.7% de los pacientes"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "es la",
+    "valor": "institución donde se realizó el estudio"
+  },
+  {
+    "entidad": "corticoides",
+    "relacion": "se administran en",
+    "valor": "todas las crisis"
+  },
+  {
+    "entidad": "infliximab",
+    "relacion": "es un",
+    "valor": "tratamiento biológico para colitis ulcerosa"
+  },
+  {
+    "entidad": "pacientes con crisis grave",
+    "relacion": "no responden a",
+    "valor": "tratamiento con corticoides en 20%-30% de los casos"
+  },
+  {
+    "entidad": "tratamiento médico",
+    "relacion": "ha mejorado",
+    "valor": "la respuesta en crisis de colitis ulcerosa"
+  },
+  {
+    "entidad": "Ley de protección financiera",
+    "relacion": "incluye",
+    "valor": "uso de biológicos en crisis de colitis ulcerosa"
+  }
+]

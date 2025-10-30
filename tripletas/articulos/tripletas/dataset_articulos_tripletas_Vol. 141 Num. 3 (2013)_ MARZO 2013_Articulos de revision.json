@@ -1,0 +1,162 @@
+[
+  {
+    "entidad": "Red neural por defecto",
+    "relacion": "afecta a",
+    "valor": "enfermedad de Alzheimer"
+  },
+  {
+    "entidad": "Enfermedad de Alzheimer",
+    "relacion": "presenta",
+    "valor": "deposición de amiloide"
+  },
+  {
+    "entidad": "Red neural por defecto",
+    "relacion": "se caracteriza por",
+    "valor": "alta actividad intrínseca"
+  },
+  {
+    "entidad": "Red neural por defecto",
+    "relacion": "se inactiva durante",
+    "valor": "actividades que demandan atención"
+  },
+  {
+    "entidad": "Glicólisis aeróbica",
+    "relacion": "es utilizada por",
+    "valor": "neuronas"
+  },
+  {
+    "entidad": "Enfermedad de Alzheimer",
+    "relacion": "se asocia con",
+    "valor": "disrupción de la red neural por defecto"
+  },
+  {
+    "entidad": "Conectividad del hipocampo",
+    "relacion": "está reducida en",
+    "valor": "pacientes con enfermedad de Alzheimer"
+  },
+  {
+    "entidad": "Depósito de Aβ",
+    "relacion": "coincide con",
+    "valor": "regiones de la red neural por defecto"
+  },
+  {
+    "entidad": "Gliceraldehido-3-fosfato deshidrogenasa",
+    "relacion": "es un factor predisponente de",
+    "valor": "enfermedad de Alzheimer"
+  },
+  {
+    "entidad": "Actividad neuronal",
+    "relacion": "controla",
+    "valor": "niveles intersticiales de Aβ"
+  },
+  {
+    "entidad": "Metabolismo de glucosa",
+    "relacion": "se reduce en",
+    "valor": "etapas precoces de la enfermedad de Alzheimer"
+  },
+  {
+    "entidad": "Red neural por defecto",
+    "relacion": "es vulnerable a",
+    "valor": "alteraciones metabólicas"
+  },
+  {
+    "entidad": "Glicólisis aeróbica",
+    "relacion": "es crítica para",
+    "valor": "sobrevida de las neuronas"
+  },
+  {
+    "entidad": "Enfermedad de Alzheimer",
+    "relacion": "se relaciona con",
+    "valor": "menor deactivación de la red neural por defecto"
+  },
+  {
+    "entidad": "Actividad intrínseca del cerebro",
+    "relacion": "consume",
+    "valor": "20% de la energía del cuerpo humano"
+  },
+  {
+    "entidad": "Red neural por defecto",
+    "relacion": "permite",
+    "valor": "estudio de la integridad funcional en demencias avanzadas"
+  },
+  {
+    "entidad": "cáncer de mama",
+    "relacion": "es",
+    "valor": "la primera causa de muerte por neoplasias en mujeres chilenas"
+  },
+  {
+    "entidad": "métodos de screening",
+    "relacion": "mejoran",
+    "valor": "las tasas de diagnóstico precoz del cáncer de mama"
+  },
+  {
+    "entidad": "quimioterapia (QT)",
+    "relacion": "aumenta",
+    "valor": "la posibilidad de conservación de la mama"
+  },
+  {
+    "entidad": "terapia endocrina (TE)",
+    "relacion": "disminuye",
+    "valor": "la recurrencia de la enfermedad en tumores RE+"
+  },
+  {
+    "entidad": "tamoxifeno",
+    "relacion": "logra",
+    "valor": "excelente respuesta clínica en adultos mayores frágiles"
+  },
+  {
+    "entidad": "resistencia al tratamiento",
+    "relacion": "es",
+    "valor": "frecuente en pacientes con cáncer de mama"
+  },
+  {
+    "entidad": "respuesta patológica (PR)",
+    "relacion": "se utiliza para",
+    "valor": "predecir la sobrevida global (SG) de pacientes con cáncer de mama"
+  },
+  {
+    "entidad": "terapia endocrina neoadyuvante",
+    "relacion": "es",
+    "valor": "una alternativa de tratamiento e investigación"
+  },
+  {
+    "entidad": "receptor estrogénico (RE)",
+    "relacion": "es",
+    "valor": "el factor clínico-patológico más importante para predecir la respuesta a TE"
+  },
+  {
+    "entidad": "inhibidores de aromatasa (IA)",
+    "relacion": "muestran",
+    "valor": "niveles de efectividad similares o superiores al tamoxifeno"
+  },
+  {
+    "entidad": "bio-marcadores",
+    "relacion": "ayudan a",
+    "valor": "determinar sensibilidad a terapia endocrina"
+  },
+  {
+    "entidad": "Ki67",
+    "relacion": "refleja",
+    "valor": "la proporción de células en proliferación"
+  },
+  {
+    "entidad": "Oncotype DX",
+    "relacion": "calcula",
+    "valor": "un score de recurrencia basado en la expresión de 16 genes relacionados a cáncer de mama RE+"
+  },
+  {
+    "entidad": "terapia endocrina neoadyuvante",
+    "relacion": "posibilita",
+    "valor": "la evaluación dinámica de los efectos inducidos por la deprivación estrogénica"
+  },
+  {
+    "entidad": "cáncer de mama RE+",
+    "relacion": "se beneficia de",
+    "valor": "la terapia endocrina neoadyuvante"
+  },
+  {
+    "entidad": "cáncer de mama",
+    "relacion": "requiere",
+    "valor": "nuevos bio-marcadores para personalizar el tratamiento"
+  }
+]

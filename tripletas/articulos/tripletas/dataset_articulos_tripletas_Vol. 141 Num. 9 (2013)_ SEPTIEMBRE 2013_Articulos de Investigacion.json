@@ -1,0 +1,842 @@
+[
+  {
+    "entidad": "Universidad de Concepción",
+    "relacion": "ofrece",
+    "valor": "carrera de medicina"
+  },
+  {
+    "entidad": "aprendizaje autodirigido",
+    "relacion": "se asocia con",
+    "valor": "perfil sociodemográfico y académico"
+  },
+  {
+    "entidad": "estudiantes de medicina",
+    "relacion": "provienen de",
+    "valor": "establecimientos educativos"
+  },
+  {
+    "entidad": "establecimientos municipalizados",
+    "relacion": "tienen",
+    "valor": "mayor deseo por aprender"
+  },
+  {
+    "entidad": "notas de enseñanza media (NEM)",
+    "relacion": "se relaciona con",
+    "valor": "aprendizaje autodirigido"
+  },
+  {
+    "entidad": "puntaje PSU",
+    "relacion": "no se relaciona con",
+    "valor": "aprendizaje autodirigido"
+  },
+  {
+    "entidad": "sexo",
+    "relacion": "no tiene relación con",
+    "valor": "aprendizaje autodirigido"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "no tiene relación con",
+    "valor": "aprendizaje autodirigido"
+  },
+  {
+    "entidad": "escala de preparación al aprendizaje independiente",
+    "relacion": "evalúa",
+    "valor": "autonomía en el aprendizaje"
+  },
+  {
+    "entidad": "autonomía",
+    "relacion": "se desarrolla en",
+    "valor": "interacción con otros"
+  },
+  {
+    "entidad": "educadores",
+    "relacion": "deben fomentar",
+    "valor": "alianza con estudiantes"
+  },
+  {
+    "entidad": "estudiantes autónomos",
+    "relacion": "se distinguen por",
+    "valor": "motivación y compromiso efectivo"
+  },
+  {
+    "entidad": "escala general de aprendizaje autodirigido",
+    "relacion": "presenta",
+    "valor": "dimensiones como planificación y autoevaluación"
+  },
+  {
+    "entidad": "análisis bivariado",
+    "relacion": "muestra",
+    "valor": "diferencias significativas en deseo por aprender"
+  },
+  {
+    "entidad": "análisis multivariado",
+    "relacion": "evalúa",
+    "valor": "relaciones entre variables sociodemográficas y aprendizaje autodirigido"
+  },
+  {
+    "entidad": "NEM",
+    "relacion": "es un predictor de",
+    "valor": "desempeño académico"
+  },
+  {
+    "entidad": "estudiantes de establecimientos particulares",
+    "relacion": "tienen",
+    "valor": "menor deseo por aprender que estudiantes municipalizados"
+  },
+  {
+    "entidad": "lupeol",
+    "relacion": "es un",
+    "valor": "triterpeno"
+  },
+  {
+    "entidad": "casearina G",
+    "relacion": "es un",
+    "valor": "diterpeno"
+  },
+  {
+    "entidad": "Zanthoxylum monophyllum",
+    "relacion": "es fuente de",
+    "valor": "lupeol"
+  },
+  {
+    "entidad": "Casearia sylvestris",
+    "relacion": "es fuente de",
+    "valor": "casearina G"
+  },
+  {
+    "entidad": "lupeol",
+    "relacion": "muestra actividad",
+    "valor": "supresora sobre células T"
+  },
+  {
+    "entidad": "lupeol",
+    "relacion": "inhibe",
+    "valor": "producción de interleucina 2 (IL-2)"
+  },
+  {
+    "entidad": "lupeol",
+    "relacion": "disminuye",
+    "valor": "secreción de TNF-α"
+  },
+  {
+    "entidad": "lupeol",
+    "relacion": "disminuye",
+    "valor": "secreción de IFN-γ"
+  },
+  {
+    "entidad": "lupeol",
+    "relacion": "reduce",
+    "valor": "fagocitosis"
+  },
+  {
+    "entidad": "casearina G",
+    "relacion": "muestra actividad",
+    "valor": "antitumoral"
+  },
+  {
+    "entidad": "lupeol",
+    "relacion": "muestra actividad",
+    "valor": "antitumoral"
+  },
+  {
+    "entidad": "lupeol",
+    "relacion": "reduce",
+    "valor": "producción de óxido nítrico (NO)"
+  },
+  {
+    "entidad": "casearina G",
+    "relacion": "reduce",
+    "valor": "producción de óxido nítrico (NO)"
+  },
+  {
+    "entidad": "lupeol",
+    "relacion": "no tiene",
+    "valor": "efectos citotóxicos sobre PBMC"
+  },
+  {
+    "entidad": "casearina G",
+    "relacion": "muestra efectos",
+    "valor": "citotóxicos y citostáticos contra células tumorales"
+  },
+  {
+    "entidad": "PC-3",
+    "relacion": "es un",
+    "valor": "cáncer de próstata humano"
+  },
+  {
+    "entidad": "MCF-7",
+    "relacion": "es un",
+    "valor": "adenocarcinoma de mama humano"
+  },
+  {
+    "entidad": "SENACYT",
+    "relacion": "financia",
+    "valor": "investigación"
+  },
+  {
+    "entidad": "células mononucleares de sangre periférica (CMSP)",
+    "relacion": "son obtenidas de",
+    "valor": "voluntarios sanos"
+  },
+  {
+    "entidad": "Bacillus subtilis",
+    "relacion": "es utilizado para evaluar",
+    "valor": "actividad fagocítica"
+  },
+  {
+    "entidad": "lupeol",
+    "relacion": "causa disminución de",
+    "valor": "actividad fagocítica"
+  },
+  {
+    "entidad": "casearina G",
+    "relacion": "puede ser útil en",
+    "valor": "elaboración de fármacos antitumorales"
+  },
+  {
+    "entidad": "lupeol",
+    "relacion": "puede ser útil en",
+    "valor": "elaboración de fármacos antiinflamatorios"
+  },
+  {
+    "entidad": "Universidad de Concepción",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "aprendizaje autodirigido",
+    "relacion": "afecta a",
+    "valor": "estudiantes de medicina"
+  },
+  {
+    "entidad": "perfil sociodemográfico",
+    "relacion": "influye en",
+    "valor": "aprendizaje autodirigido"
+  },
+  {
+    "entidad": "variables académicas",
+    "relacion": "se asocian con",
+    "valor": "aprendizaje autodirigido"
+  },
+  {
+    "entidad": "estudiantes de municipalizados",
+    "relacion": "tienen",
+    "valor": "mayor deseo por aprender"
+  },
+  {
+    "entidad": "notas de enseñanza media (NEM)",
+    "relacion": "se relaciona con",
+    "valor": "aprendizaje autodirigido"
+  },
+  {
+    "entidad": "puntaje PSU",
+    "relacion": "no tiene relación significativa con",
+    "valor": "aprendizaje autodirigido"
+  },
+  {
+    "entidad": "escala de preparación al aprendizaje independiente (EPAI)",
+    "relacion": "evalúa",
+    "valor": "autodirección en el aprendizaje"
+  },
+  {
+    "entidad": "estudiantes de medicina",
+    "relacion": "provienen de",
+    "valor": "establecimientos educativos"
+  },
+  {
+    "entidad": "metodologías adecuadas",
+    "relacion": "potencian",
+    "valor": "pensamiento crítico-reflexivo"
+  },
+  {
+    "entidad": "educadores",
+    "relacion": "fomentan",
+    "valor": "alianza con estudiantes"
+  },
+  {
+    "entidad": "estudiantes",
+    "relacion": "deben evaluar",
+    "valor": "sus necesidades de aprendizaje"
+  },
+  {
+    "entidad": "estudiantes de medicina",
+    "relacion": "presentan",
+    "valor": "variables personales que los distinguen"
+  },
+  {
+    "entidad": "autonomía",
+    "relacion": "se desarrolla en",
+    "valor": "interacción con otros"
+  },
+  {
+    "entidad": "estudiantes de establecimientos particulares pagados",
+    "relacion": "tienen",
+    "valor": "menor deseo por aprender"
+  },
+  {
+    "entidad": "análisis bivariado",
+    "relacion": "muestra",
+    "valor": "diferencias significativas en aprendizaje autodirigido"
+  },
+  {
+    "entidad": "análisis multivariado",
+    "relacion": "evalúa",
+    "valor": "relación conjunta de variables sobre aprendizaje autodirigido"
+  },
+  {
+    "entidad": "gen KRAS",
+    "relacion": "está involucrado en",
+    "valor": "carcinogénesis colorrectal"
+  },
+  {
+    "entidad": "cáncer de colon y recto",
+    "relacion": "es una causa de",
+    "valor": "mortalidad por tumor maligno en Chile"
+  },
+  {
+    "entidad": "mutaciones del gen KRAS",
+    "relacion": "se encuentran en",
+    "valor": "30 a 50% de los casos de cáncer colorrectal"
+  },
+  {
+    "entidad": "anticuerpos monoclonales",
+    "relacion": "se utilizan en",
+    "valor": "terapia para cáncer colorrectal"
+  },
+  {
+    "entidad": "vía del EGFr",
+    "relacion": "es bloqueada por",
+    "valor": "anticuerpos monoclonales como panitumumab y cetuximab"
+  },
+  {
+    "entidad": "mutación G12V",
+    "relacion": "se asocia con",
+    "valor": "un pronóstico más adverso en cáncer colorrectal"
+  },
+  {
+    "entidad": "método RFLP",
+    "relacion": "se utiliza para",
+    "valor": "estudio de mutaciones del gen KRAS"
+  },
+  {
+    "entidad": "muestras de tejido",
+    "relacion": "se evalúan en",
+    "valor": "el Servicio de Anatomía Patológica de Clínica Alemana de Santiago"
+  },
+  {
+    "entidad": "mutaciones del gen KRAS",
+    "relacion": "se determinan para",
+    "valor": "predecir la respuesta al tratamiento con inhibidores del EGFr"
+  },
+  {
+    "entidad": "cáncer colorrectal",
+    "relacion": "es mejor caracterizado desde",
+    "valor": "el punto de vista genético-molecular"
+  },
+  {
+    "entidad": "familia de genes RAS",
+    "relacion": "incluye",
+    "valor": "HRAS, NRAS y KRAS"
+  },
+  {
+    "entidad": "gen KRAS",
+    "relacion": "se localiza en",
+    "valor": "el cromosoma 12"
+  },
+  {
+    "entidad": "mutación del gen KRAS",
+    "relacion": "es el evento genético más común en",
+    "valor": "el desarrollo de tumores en humanos"
+  },
+  {
+    "entidad": "estado del gen KRAS",
+    "relacion": "es clínicamente útil para",
+    "valor": "predecir la respuesta a tratamientos"
+  },
+  {
+    "entidad": "mutaciones G12D y G12V",
+    "relacion": "representan",
+    "valor": "la mayoría de las mutaciones del gen KRAS en cáncer colorrectal"
+  },
+  {
+    "entidad": "método de secuenciación",
+    "relacion": "se utiliza para",
+    "valor": "confirmar mutaciones del gen KRAS"
+  },
+  {
+    "entidad": "frecuencia de mutaciones KRAS",
+    "relacion": "es similar a",
+    "valor": "lo reportado en la literatura"
+  },
+  {
+    "entidad": "método de análisis estadístico",
+    "relacion": "se aplica en",
+    "valor": "la evaluación de datos de mutaciones"
+  },
+  {
+    "entidad": "nivel sérico de folato",
+    "relacion": "se mide en",
+    "valor": "µg/L"
+  },
+  {
+    "entidad": "nivel sérico de vitamina B12",
+    "relacion": "se mide en",
+    "valor": "pg/ml"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud 2009-2010",
+    "relacion": "evalúa",
+    "valor": "niveles de folato y vitamina B12 en adultos mayores chilenos"
+  },
+  {
+    "entidad": "fortificación de harina de trigo con ácido fólico",
+    "relacion": "inició en",
+    "valor": "2002"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "financia",
+    "valor": "la Encuesta Nacional de Salud 2009-2010"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "realiza",
+    "valor": "análisis de muestras biológicas"
+  },
+  {
+    "entidad": "folato sérico",
+    "relacion": "categorías definidas como",
+    "valor": "< 4.4 (déficit), 4.41-20 (normal), > 20 (suprafisiológicos)"
+  },
+  {
+    "entidad": "vitamina B12",
+    "relacion": "categorías definidas como",
+    "valor": "≤ 200 (déficit), 200.1-299.5 (déficit marginal), > 299.5 (normal)"
+  },
+  {
+    "entidad": "niveles suprafisiológicos de folato",
+    "relacion": "asociados con",
+    "valor": "deficiencia de vitamina B12"
+  },
+  {
+    "entidad": "deficiencia de folato",
+    "relacion": "es",
+    "valor": "prácticamente inexistente en la población estudiada"
+  },
+  {
+    "entidad": "deficiencia de vitamina B12",
+    "relacion": "se presenta en",
+    "valor": "8.1% de los participantes"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "tienen",
+    "valor": "menor prevalencia de niveles suprafisiológicos de folato que mujeres"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen",
+    "valor": "mayor prevalencia de niveles suprafisiológicos de folato que hombres"
+  },
+  {
+    "entidad": "acido fólico",
+    "relacion": "puede causar",
+    "valor": "efectos adversos en salud"
+  },
+  {
+    "entidad": "deficiencia de vitamina B12",
+    "relacion": "asociada con",
+    "valor": "disminución de la función cognitiva"
+  },
+  {
+    "entidad": "sistema de vigilancia",
+    "relacion": "debe establecerse para",
+    "valor": "evaluar y limitar riesgos en salud por niveles de folato"
+  },
+  {
+    "entidad": "SPECT cardiaco",
+    "relacion": "utiliza",
+    "valor": "evaluación de perfusión y función ventricular"
+  },
+  {
+    "entidad": "enfermedad coronaria",
+    "relacion": "se manifiesta en",
+    "valor": "procesos agudos y crónicos"
+  },
+  {
+    "entidad": "Hospital Clínico Universidad de Chile",
+    "relacion": "financia",
+    "valor": "proyecto de investigación"
+  },
+  {
+    "entidad": "coronariografía",
+    "relacion": "se compara con",
+    "valor": "SPECT cardiaco"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "requieren",
+    "valor": "coronariografía"
+  },
+  {
+    "entidad": "SPECT",
+    "relacion": "detecta",
+    "valor": "lesiones coronarias"
+  },
+  {
+    "entidad": "visualización de perfusión",
+    "relacion": "es",
+    "valor": "altamente confiable para diagnóstico"
+  },
+  {
+    "entidad": "fracción de eyección",
+    "relacion": "se determina en",
+    "valor": "estrés y reposo"
+  },
+  {
+    "entidad": "insuficiencia cardiaca",
+    "relacion": "no es",
+    "valor": "contraindicación para SPECT"
+  },
+  {
+    "entidad": "angioplastía",
+    "relacion": "es el tratamiento para",
+    "valor": "enfermedad de un vaso"
+  },
+  {
+    "entidad": "parámetros cuantitativos",
+    "relacion": "deben ser considerados como",
+    "valor": "referencia"
+  },
+  {
+    "entidad": "métodos de imágenes",
+    "relacion": "juegan un rol importante en",
+    "valor": "detección de enfermedad coronaria"
+  },
+  {
+    "entidad": "comités de ética",
+    "relacion": "aprueban",
+    "valor": "protocolos de investigación"
+  },
+  {
+    "entidad": "SPECT",
+    "relacion": "se correlaciona con",
+    "valor": "coronariografía"
+  },
+  {
+    "entidad": "mujeres con lesiones significativas",
+    "relacion": "son",
+    "valor": "falsos negativos en SPECT"
+  },
+  {
+    "entidad": "análisis visual",
+    "relacion": "es fundamental para",
+    "valor": "detección de enfermedad coronaria"
+  },
+  {
+    "entidad": "dipiridamol",
+    "relacion": "se utiliza en",
+    "valor": "SPECT cardiaco"
+  },
+  {
+    "entidad": "enfermedad coronaria de un vaso",
+    "relacion": "es evaluada mediante",
+    "valor": "análisis segmentario"
+  },
+  {
+    "entidad": "Infliximab",
+    "relacion": "es un",
+    "valor": "anticuerpo monoclonal quimérico"
+  },
+  {
+    "entidad": "Infliximab",
+    "relacion": "está indicado en",
+    "valor": "pacientes con enfermedad inflamatoria intestinal (EII)"
+  },
+  {
+    "entidad": "enfermedad inflamatoria intestinal (EII)",
+    "relacion": "incluye",
+    "valor": "enfermedad de Crohn (EC)"
+  },
+  {
+    "entidad": "enfermedad inflamatoria intestinal (EII)",
+    "relacion": "incluye",
+    "valor": "colitis ulcerosa (CU)"
+  },
+  {
+    "entidad": "enfermedad inflamatoria intestinal (EII)",
+    "relacion": "es",
+    "valor": "una enfermedad crónica idiopática"
+  },
+  {
+    "entidad": "Infliximab",
+    "relacion": "se utiliza para",
+    "valor": "inducir y mantener la remisión en EII"
+  },
+  {
+    "entidad": "Clínica Las Condes",
+    "relacion": "realizó",
+    "valor": "un estudio sobre infliximab en EII"
+  },
+  {
+    "entidad": "pacientes con EII",
+    "relacion": "fueron tratados con",
+    "valor": "infliximab"
+  },
+  {
+    "entidad": "respuesta clínica favorable",
+    "relacion": "se observó en",
+    "valor": "88% de los pacientes después de la segunda dosis"
+  },
+  {
+    "entidad": "remisión endoscópica o radiológica",
+    "relacion": "se observó en",
+    "valor": "64% de los pacientes después de 3-6 meses"
+  },
+  {
+    "entidad": "eventos adversos",
+    "relacion": "incluyeron",
+    "valor": "herpes zoster y sinusitis"
+  },
+  {
+    "entidad": "terapia biológica",
+    "relacion": "juega un rol",
+    "valor": "fundamental en el control de factores proinflamatorios"
+  },
+  {
+    "entidad": "terapia convencional",
+    "relacion": "logra",
+    "valor": "controlar la inflamación"
+  },
+  {
+    "entidad": "terapia biológica",
+    "relacion": "se utiliza para",
+    "valor": "obtener remisión rápida y efectiva"
+  },
+  {
+    "entidad": "pacientes con EII",
+    "relacion": "pueden presentar",
+    "valor": "pérdida de respuesta a infliximab"
+  },
+  {
+    "entidad": "dosis de infliximab",
+    "relacion": "puede ser aumentada para",
+    "valor": "mantener la remisión"
+  },
+  {
+    "entidad": "efectos adversos",
+    "relacion": "no motivaron",
+    "valor": "la suspensión del tratamiento"
+  },
+  {
+    "entidad": "población con EII",
+    "relacion": "puede beneficiarse de",
+    "valor": "estrategias de tratamiento precoz"
+  },
+  {
+    "entidad": "pioderma gangrenoso",
+    "relacion": "es una manifestación",
+    "valor": "extraintestinal asociada a EII"
+  },
+  {
+    "entidad": "Infliximab",
+    "relacion": "ha demostrado ser efectivo en",
+    "valor": "pacientes con CU severa refractaria a esteroides"
+  },
+  {
+    "entidad": "cobertura sanitaria universal (CSU)",
+    "relacion": "es un",
+    "valor": "objetivo de salud pública"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "implementa",
+    "valor": "reforma de salud"
+  },
+  {
+    "entidad": "Encuestas CASEN",
+    "relacion": "se utilizan para",
+    "valor": "evaluar la cobertura sanitaria"
+  },
+  {
+    "entidad": "sistema GES",
+    "relacion": "es un",
+    "valor": "sistema de atención garantizada"
+  },
+  {
+    "entidad": "Fondo Nacional de Salud (FONASA)",
+    "relacion": "concentra",
+    "valor": "individuos de menor ingreso"
+  },
+  {
+    "entidad": "reforma de salud chilena",
+    "relacion": "se realizó entre",
+    "valor": "2000 y 2005"
+  },
+  {
+    "entidad": "población adulta",
+    "relacion": "es objeto de estudio en",
+    "valor": "las Encuestas CASEN"
+  },
+  {
+    "entidad": "necesidad no atendida",
+    "relacion": "disminuyó",
+    "valor": "entre 2000 y 2011"
+  },
+  {
+    "entidad": "población no adscrita al sistema de salud",
+    "relacion": "disminuyó",
+    "valor": "de 11.0% a 3.0%"
+  },
+  {
+    "entidad": "direct payments for services",
+    "relacion": "aumentaron",
+    "valor": "para indigentes afiliados a FONASA"
+  },
+  {
+    "entidad": "Dra. Margaret Chan",
+    "relacion": "afirma que",
+    "valor": "la CSU es la idea más poderosa en salud pública"
+  },
+  {
+    "entidad": "sistema de salud en Chile",
+    "relacion": "es dual",
+    "valor": "público-privado"
+  },
+  {
+    "entidad": "población de 65 años y más",
+    "relacion": "reportó",
+    "valor": "alta adscripción a FONASA"
+  },
+  {
+    "entidad": "pobreza",
+    "relacion": "se relaciona con",
+    "valor": "menor acceso a servicios de salud"
+  },
+  {
+    "entidad": "educación",
+    "relacion": "afecta",
+    "valor": "la adscripción al sistema de salud"
+  },
+  {
+    "entidad": "sistema ISAPRES",
+    "relacion": "es comparado con",
+    "valor": "FONASA en términos de atención de salud"
+  },
+  {
+    "entidad": "Ministerio de Desarrollo Social",
+    "relacion": "es propietario de",
+    "valor": "la Encuesta CASEN"
+  },
+  {
+    "entidad": "desigualdades en salud",
+    "relacion": "se intentan reducir mediante",
+    "valor": "la CSU"
+  },
+  {
+    "entidad": "reforma de salud",
+    "relacion": "busca aumentar",
+    "valor": "la equidad en el acceso a la salud"
+  },
+  {
+    "entidad": "población indigente",
+    "relacion": "reporta",
+    "valor": "mayor necesidad no atendida"
+  },
+  {
+    "entidad": "población adulta de 20 años o más",
+    "relacion": "es analizada en",
+    "valor": "las Encuestas CASEN"
+  },
+  {
+    "entidad": "hipertrofia mamaria",
+    "relacion": "afecta",
+    "valor": "calidad de vida"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "es medida por",
+    "valor": "cuestionario BRS"
+  },
+  {
+    "entidad": "cuestionario BRS",
+    "relacion": "es validado para",
+    "valor": "mujeres chilenas"
+  },
+  {
+    "entidad": "mujeres chilenas",
+    "relacion": "tienen",
+    "valor": "hipertrofia mamaria sintomática"
+  },
+  {
+    "entidad": "reducción mamaria",
+    "relacion": "es un",
+    "valor": "tratamiento para hipertrofia mamaria"
+  },
+  {
+    "entidad": "cuestionario BRS",
+    "relacion": "evalúa",
+    "valor": "síntomas relacionados con hipertrofia mamaria"
+  },
+  {
+    "entidad": "mujeres con hipertrofia mamaria",
+    "relacion": "reportan",
+    "valor": "síntomas como dolor cervical y dorsal"
+  },
+  {
+    "entidad": "cuestionario BRS",
+    "relacion": "mide",
+    "valor": "impacto de la enfermedad en calidad de vida"
+  },
+  {
+    "entidad": "validación del cuestionario BRS",
+    "relacion": "incluye",
+    "valor": "consistencia interna y confiabilidad"
+  },
+  {
+    "entidad": "cirugía de reducción mamaria",
+    "relacion": "mejora",
+    "valor": "calidad de vida postoperatoria"
+  },
+  {
+    "entidad": "mujeres con hipertrofia mamaria",
+    "relacion": "tienen",
+    "valor": "dificultades para encontrar ropa adecuada"
+  },
+  {
+    "entidad": "cuestionario BRS",
+    "relacion": "es un",
+    "valor": "instrumento confiable y válido"
+  },
+  {
+    "entidad": "síntomas de hipertrofia mamaria",
+    "relacion": "incluyen",
+    "valor": "cefalea y dolor lumbar"
+  },
+  {
+    "entidad": "cuestionario BRS",
+    "relacion": "se aplica a",
+    "valor": "pacientes antes y después de la cirugía"
+  },
+  {
+    "entidad": "mujeres sin hipertrofia mamaria",
+    "relacion": "sirven como",
+    "valor": "grupo control"
+  },
+  {
+    "entidad": "mujeres con hipertrofia mamaria",
+    "relacion": "son evaluadas para",
+    "valor": "detectar cambios en calidad de vida"
+  },
+  {
+    "entidad": "cuestionario BRS",
+    "relacion": "utiliza",
+    "valor": "escala de Likert para puntuar síntomas"
+  },
+  {
+    "entidad": "validación del cuestionario BRS",
+    "relacion": "se realiza mediante",
+    "valor": "análisis estadístico"
+  }
+]

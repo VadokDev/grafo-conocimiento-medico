@@ -1,0 +1,847 @@
+[
+  {
+    "entidad": "Aprendizaje autodirigido",
+    "relacion": "se relaciona con",
+    "valor": "perfil valórico"
+  },
+  {
+    "entidad": "estudiantes de medicina",
+    "relacion": "son",
+    "valor": "participantes del estudio"
+  },
+  {
+    "entidad": "Universidad de Concepción",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "Escala de Aprendizaje Autodirigido",
+    "relacion": "evalúa",
+    "valor": "autodirección en el aprendizaje"
+  },
+  {
+    "entidad": "Cuestionario de Descripciones Valóricas de Schwartz",
+    "relacion": "evalúa",
+    "valor": "perfil valórico"
+  },
+  {
+    "entidad": "Autodirección",
+    "relacion": "correlaciona con",
+    "valor": "aprendizaje autodirigido"
+  },
+  {
+    "entidad": "Seguridad",
+    "relacion": "correlaciona con",
+    "valor": "aprendizaje autodirigido"
+  },
+  {
+    "entidad": "Autodirección",
+    "relacion": "es un predictor de",
+    "valor": "aprendizaje autodirigido"
+  },
+  {
+    "entidad": "Seguridad",
+    "relacion": "es un predictor de",
+    "valor": "aprendizaje autodirigido"
+  },
+  {
+    "entidad": "Universalismo",
+    "relacion": "es un predictor de",
+    "valor": "Deseo de Aprender"
+  },
+  {
+    "entidad": "Benevolencia",
+    "relacion": "es un predictor de",
+    "valor": "Autoconfianza"
+  },
+  {
+    "entidad": "Conformidad",
+    "relacion": "es un predictor de",
+    "valor": "Autoconfianza"
+  },
+  {
+    "entidad": "Conformidad",
+    "relacion": "es un predictor de",
+    "valor": "Autoevaluación"
+  },
+  {
+    "entidad": "Autodirección",
+    "relacion": "es un predictor de",
+    "valor": "Autogestión"
+  },
+  {
+    "entidad": "Seguridad",
+    "relacion": "es un predictor de",
+    "valor": "Autoevaluación"
+  },
+  {
+    "entidad": "estudiantes de medicina",
+    "relacion": "deben desarrollar",
+    "valor": "autonomía en su aprendizaje"
+  },
+  {
+    "entidad": "políticas educacionales",
+    "relacion": "promueven",
+    "valor": "aprendizaje autodirigido"
+  },
+  {
+    "entidad": "Asociación de Facultades de Medicina de Chile",
+    "relacion": "considera",
+    "valor": "aprendizaje autodirigido como competencia necesaria"
+  },
+  {
+    "entidad": "Ley Orgánica Constitucional de Enseñanza",
+    "relacion": "promueve",
+    "valor": "formación valórica"
+  },
+  {
+    "entidad": "Calidad de Vida",
+    "relacion": "se evalúa en",
+    "valor": "adultos mayores"
+  },
+  {
+    "entidad": "WHOQoL-Old",
+    "relacion": "es un",
+    "valor": "cuestionario de calidad de vida"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud (OMS)",
+    "relacion": "desarrolla",
+    "valor": "WHOQoL-Old"
+  },
+  {
+    "entidad": "población chilena",
+    "relacion": "se investiga en",
+    "valor": "calidad de vida"
+  },
+  {
+    "entidad": "Comisión Nacional de Investigación Científica y Tecnológica (CONICYT)",
+    "relacion": "financia",
+    "valor": "proyecto FondecYT 11100090"
+  },
+  {
+    "entidad": "escuela de Psicología, Universidad Católica del Norte",
+    "relacion": "realiza",
+    "valor": "investigación sobre calidad de vida"
+  },
+  {
+    "entidad": "adultos mayores",
+    "relacion": "aumenta en",
+    "valor": "Chile"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "afecta a",
+    "valor": "estado de salud"
+  },
+  {
+    "entidad": "WHOQoL-Old",
+    "relacion": "se utiliza para",
+    "valor": "medir calidad de vida en adultos mayores"
+  },
+  {
+    "entidad": "propuesta unifactorial C",
+    "relacion": "presenta",
+    "valor": "ajuste aceptable en indicadores de bondad de ajuste"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "se define como",
+    "valor": "percepción individual de la posición en la vida"
+  },
+  {
+    "entidad": "WHOQoL-Old",
+    "relacion": "incluye",
+    "valor": "aspectos específicos del envejecimiento"
+  },
+  {
+    "entidad": "muestra de 804 adultos mayores",
+    "relacion": "se utiliza para",
+    "valor": "análisis factorial"
+  },
+  {
+    "entidad": "Alfa de Cronbach",
+    "relacion": "evalúa",
+    "valor": "confiabilidad del instrumento"
+  },
+  {
+    "entidad": "modelo original de 6 factores",
+    "relacion": "se compara con",
+    "valor": "versiones abreviadas del WHOQoL-Old"
+  },
+  {
+    "entidad": "población adulta mayor",
+    "relacion": "requiere",
+    "valor": "nuevas medidas de salud"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "se relaciona con",
+    "valor": "bienestar psicológico"
+  },
+  {
+    "entidad": "escuela de Psicología",
+    "relacion": "pertenece a",
+    "valor": "Universidad Católica del Norte"
+  },
+  {
+    "entidad": "hábito de fumar",
+    "relacion": "asocia a",
+    "valor": "baja concentración plasmática de hormona antimülleriana"
+  },
+  {
+    "entidad": "hormona antimülleriana (AMH)",
+    "relacion": "es un",
+    "valor": "marcador de reserva ovárica"
+  },
+  {
+    "entidad": "mujeres infértiles",
+    "relacion": "se estudian en",
+    "valor": "cohorte de 141 mujeres"
+  },
+  {
+    "entidad": "cigarrillos",
+    "relacion": "afectan",
+    "valor": "concentraciones de AMH"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "afecta",
+    "valor": "concentraciones de AMH"
+  },
+  {
+    "entidad": "hormona folículo estimulante (FSH)",
+    "relacion": "se relaciona con",
+    "valor": "reserva ovárica"
+  },
+  {
+    "entidad": "Instituto de Investigaciones Materno Infantil (IDI Mi)",
+    "relacion": "es un",
+    "valor": "centro de estudio"
+  },
+  {
+    "entidad": "Universidad de Chile",
+    "relacion": "es un",
+    "valor": "institución educativa"
+  },
+  {
+    "entidad": "Hospital Clínico San Borja Arriarán",
+    "relacion": "es un",
+    "valor": "hospital"
+  },
+  {
+    "entidad": "cigarrillos",
+    "relacion": "no muestran relación",
+    "valor": "dosis respuesta con AMH"
+  },
+  {
+    "entidad": "humo de cigarrillo",
+    "relacion": "puede inducir",
+    "valor": "caída en niveles de AMH"
+  },
+  {
+    "entidad": "mujeres fumadoras",
+    "relacion": "tienen",
+    "valor": "menopausia adelantada"
+  },
+  {
+    "entidad": "AMH",
+    "relacion": "no varía significativamente",
+    "valor": "a lo largo del ciclo menstrual"
+  },
+  {
+    "entidad": "cigarrillo",
+    "relacion": "aumenta",
+    "valor": "niveles de FSH"
+  },
+  {
+    "entidad": "cigarrillos",
+    "relacion": "se asocian a",
+    "valor": "concentraciones disminuidas de AMH"
+  },
+  {
+    "entidad": "mujeres fumadoras",
+    "relacion": "consumen",
+    "valor": "más cigarrillos que no fumadoras"
+  },
+  {
+    "entidad": "Hipertensión arterial pulmonar",
+    "relacion": "es una",
+    "valor": "causa de morbilidad y mortalidad en pacientes con enfermedades de tejido conectivo"
+  },
+  {
+    "entidad": "Enfermedades de tejido conectivo",
+    "relacion": "asocia a",
+    "valor": "hipertensión arterial pulmonar"
+  },
+  {
+    "entidad": "Ecocardiografía",
+    "relacion": "se utiliza para",
+    "valor": "diagnosticar hipertensión arterial pulmonar"
+  },
+  {
+    "entidad": "Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán",
+    "relacion": "realiza",
+    "valor": "estudios sobre hipertensión arterial pulmonar"
+  },
+  {
+    "entidad": "Dilatación del ventrículo derecho",
+    "relacion": "se asocia a",
+    "valor": "hipertensión arterial pulmonar grave"
+  },
+  {
+    "entidad": "Hipertrofia del ventrículo derecho",
+    "relacion": "se asocia a",
+    "valor": "hipertensión arterial pulmonar grave"
+  },
+  {
+    "entidad": "Hipocinesia del ventrículo derecho",
+    "relacion": "se asocia a",
+    "valor": "hipertensión arterial pulmonar grave"
+  },
+  {
+    "entidad": "Escleroderma difusa",
+    "relacion": "es la enfermedad más comúnmente asociada a",
+    "valor": "hipertensión arterial pulmonar"
+  },
+  {
+    "entidad": "Ecocardiograma Doppler",
+    "relacion": "es un método",
+    "valor": "no invasivo para detectar hipertensión arterial pulmonar"
+  },
+  {
+    "entidad": "Mujeres",
+    "relacion": "son más frecuentemente afectadas por",
+    "valor": "hipertensión arterial pulmonar asociada a enfermedades de tejido conectivo"
+  },
+  {
+    "entidad": "Tiempo de evolución de la hipertensión arterial pulmonar",
+    "relacion": "promedio",
+    "valor": "18.8 meses"
+  },
+  {
+    "entidad": "Sensibilidad del ecocardiograma Doppler",
+    "relacion": "es",
+    "valor": "90%"
+  },
+  {
+    "entidad": "Especificidad del ecocardiograma Doppler",
+    "relacion": "es",
+    "valor": "75%"
+  },
+  {
+    "entidad": "Derrame pericárdico recurrente",
+    "relacion": "es un predictor de",
+    "valor": "mal pronóstico en pacientes con hipertensión arterial pulmonar"
+  },
+  {
+    "entidad": "Dilatación auricular y ventricular derecha",
+    "relacion": "son predictores de",
+    "valor": "mal pronóstico en pacientes con hipertensión arterial pulmonar"
+  },
+  {
+    "entidad": "Índice de esfericidad del ventrículo izquierdo",
+    "relacion": "mayor a",
+    "valor": "1.2 es un predictor de mal pronóstico"
+  },
+  {
+    "entidad": "Índice de rendimiento miocárdico del ventrículo derecho",
+    "relacion": "mayor a",
+    "valor": "1.4 es un predictor de mal pronóstico"
+  },
+  {
+    "entidad": "Dilatación de la vena cava inferior",
+    "relacion": "es un predictor de",
+    "valor": "mal pronóstico en pacientes con hipertensión arterial pulmonar"
+  },
+  {
+    "entidad": "Excursión sistólica del anillo tricuspídeo",
+    "relacion": "menor a",
+    "valor": "1.8 cm es un predictor de mal pronóstico"
+  },
+  {
+    "entidad": "Implante valvular aórtico transarterial (TAVI)",
+    "relacion": "es un",
+    "valor": "tratamiento para estenosis aórtica severa"
+  },
+  {
+    "entidad": "estenosis aórtica",
+    "relacion": "es",
+    "valor": "la enfermedad valvular más frecuente en países desarrollados"
+  },
+  {
+    "entidad": "reemplazo valvular quirúrgico",
+    "relacion": "es",
+    "valor": "el tratamiento de elección para pacientes con estenosis aórtica severa sintomática"
+  },
+  {
+    "entidad": "TAVI",
+    "relacion": "ha sido introducido en",
+    "valor": "pacientes mayores y de alto riesgo quirúrgico"
+  },
+  {
+    "entidad": "TAVI",
+    "relacion": "tiene un",
+    "valor": "alto éxito técnico"
+  },
+  {
+    "entidad": "TAVI",
+    "relacion": "requiere",
+    "valor": "una selección adecuada de pacientes"
+  },
+  {
+    "entidad": "TAVI",
+    "relacion": "es realizado por",
+    "valor": "un equipo multidisciplinario"
+  },
+  {
+    "entidad": "CoreValve",
+    "relacion": "es un",
+    "valor": "dispositivo utilizado en TAVI"
+  },
+  {
+    "entidad": "hospital",
+    "relacion": "realiza",
+    "valor": "TAVI"
+  },
+  {
+    "entidad": "mortalidad intra-hospitalaria",
+    "relacion": "es",
+    "valor": "5,88%"
+  },
+  {
+    "entidad": "insuficiencia aórtica",
+    "relacion": "es una",
+    "valor": "complicación común en TAVI"
+  },
+  {
+    "entidad": "marcapasos",
+    "relacion": "es implantado en",
+    "valor": "35,2% de los pacientes"
+  },
+  {
+    "entidad": "hospitalización",
+    "relacion": "promedio es de",
+    "valor": "6 días"
+  },
+  {
+    "entidad": "ecocardiografía transesofágica",
+    "relacion": "es utilizada para",
+    "valor": "evaluar el tamaño de la válvula"
+  },
+  {
+    "entidad": "TAVI",
+    "relacion": "se considera",
+    "valor": "una opción para pacientes no candidatos a cirugía"
+  },
+  {
+    "entidad": "insuficiencia mitral",
+    "relacion": "se observa en",
+    "valor": "58,8% de los pacientes"
+  },
+  {
+    "entidad": "TAVI",
+    "relacion": "ha mostrado",
+    "valor": "resultados prometedores a nivel mundial"
+  },
+  {
+    "entidad": "hospital clínico san Borja Arriarán",
+    "relacion": "es un",
+    "valor": "centro que realiza TAVI"
+  },
+  {
+    "entidad": "TAVI",
+    "relacion": "se basa en",
+    "valor": "la técnica de implante valvular aórtico por catéter"
+  },
+  {
+    "entidad": "cardiólogos",
+    "relacion": "se encuentran en",
+    "valor": "Argentina"
+  },
+  {
+    "entidad": "innovaciones en salud",
+    "relacion": "son adoptadas por",
+    "valor": "médicos"
+  },
+  {
+    "entidad": "médicos",
+    "relacion": "tienen opiniones sobre",
+    "valor": "adopción de innovaciones"
+  },
+  {
+    "entidad": "actitud hacia innovaciones",
+    "relacion": "varía entre",
+    "valor": "médicos"
+  },
+  {
+    "entidad": "red social de influencia",
+    "relacion": "es construida por",
+    "valor": "líderes de opinión"
+  },
+  {
+    "entidad": "líderes de opinión",
+    "relacion": "influencian",
+    "valor": "adopción de innovaciones"
+  },
+  {
+    "entidad": "Sociedad Argentina de Cardiología",
+    "relacion": "es un",
+    "valor": "organización de cardiólogos"
+  },
+  {
+    "entidad": "nuevas tecnologías",
+    "relacion": "deben ser",
+    "valor": "evaluadas y adoptadas"
+  },
+  {
+    "entidad": "adopción de innovaciones",
+    "relacion": "depende de",
+    "valor": "factores individuales y sociales"
+  },
+  {
+    "entidad": "médicos",
+    "relacion": "prefieren",
+    "valor": "utilidad comprobada antes de adoptar innovaciones"
+  },
+  {
+    "entidad": "componente gigante de la red",
+    "relacion": "incluye",
+    "valor": "41% de médicos encuestados"
+  },
+  {
+    "entidad": "red independiente de escala",
+    "relacion": "es característica de",
+    "valor": "la red social de influencia"
+  },
+  {
+    "entidad": "ANMAT",
+    "relacion": "evalúa y aprueba",
+    "valor": "eficacia y seguridad de tratamientos"
+  },
+  {
+    "entidad": "sistema de salud argentino",
+    "relacion": "carece de",
+    "valor": "regulación en incorporación de tecnologías"
+  },
+  {
+    "entidad": "innovaciones médicas",
+    "relacion": "deben ser",
+    "valor": "apoyadas por evidencia científica"
+  },
+  {
+    "entidad": "médicos",
+    "relacion": "son influenciados por",
+    "valor": "intereses de la industria"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "participan en",
+    "valor": "evaluación de beneficios de innovaciones"
+  },
+  {
+    "entidad": "nuevas tecnologías",
+    "relacion": "pueden aumentar",
+    "valor": "inequidad en acceso a salud"
+  },
+  {
+    "entidad": "Clínica Dávila",
+    "relacion": "realiza",
+    "valor": "cirugías en nonagenarios"
+  },
+  {
+    "entidad": "nonagenarios",
+    "relacion": "presentan",
+    "valor": "alta prevalencia de patologías degenerativas"
+  },
+  {
+    "entidad": "sobrevida postoperatoria",
+    "relacion": "es evaluada en",
+    "valor": "pacientes nonagenarios"
+  },
+  {
+    "entidad": "anestesiología",
+    "relacion": "pertenece a",
+    "valor": "Clínica Dávila"
+  },
+  {
+    "entidad": "pacientes nonagenarios",
+    "relacion": "son sometidos a",
+    "valor": "procedimientos quirúrgicos"
+  },
+  {
+    "entidad": "mortalidad postoperatoria",
+    "relacion": "se observa en",
+    "valor": "pacientes nonagenarios"
+  },
+  {
+    "entidad": "factores pronósticos",
+    "relacion": "incluyen",
+    "valor": "patología cardiaca"
+  },
+  {
+    "entidad": "factores pronósticos",
+    "relacion": "incluyen",
+    "valor": "cognición alterada"
+  },
+  {
+    "entidad": "factores pronósticos",
+    "relacion": "incluyen",
+    "valor": "cáncer"
+  },
+  {
+    "entidad": "factores pronósticos",
+    "relacion": "incluyen",
+    "valor": "transfusión"
+  },
+  {
+    "entidad": "factores pronósticos",
+    "relacion": "incluyen",
+    "valor": "clasificación ASA III"
+  },
+  {
+    "entidad": "análisis de supervivencia",
+    "relacion": "se realiza mediante",
+    "valor": "métodos estadísticos como Kaplan-Meier"
+  },
+  {
+    "entidad": "Clínica Dávila",
+    "relacion": "financia",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "mortalidad a 30 días",
+    "relacion": "es",
+    "valor": "5%"
+  },
+  {
+    "entidad": "sobrevida máxima postoperatoria",
+    "relacion": "es",
+    "valor": "7 años y 7 meses"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "constituyen",
+    "valor": "64% de la cohorte"
+  },
+  {
+    "entidad": "hipertensión arterial",
+    "relacion": "afecta a",
+    "valor": "63% de los pacientes"
+  },
+  {
+    "entidad": "demencia senil",
+    "relacion": "afecta a",
+    "valor": "37% de los pacientes"
+  },
+  {
+    "entidad": "fractura de cadera",
+    "relacion": "es el procedimiento más común en",
+    "valor": "pacientes nonagenarios"
+  },
+  {
+    "entidad": "anestesia regional",
+    "relacion": "es utilizada en",
+    "valor": "50% de los pacientes"
+  },
+  {
+    "entidad": "anestesia general",
+    "relacion": "no afecta",
+    "valor": "la sobrevida de los pacientes"
+  },
+  {
+    "entidad": "Clínica Dávila",
+    "relacion": "atiende a",
+    "valor": "un segmento socioeconómico intermedio"
+  },
+  {
+    "entidad": "estado nutricional",
+    "relacion": "no fue investigado en",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "mortalidad en pacientes nonagenarios",
+    "relacion": "es reportada como",
+    "valor": "75,5% a 5 años en otros estudios"
+  },
+  {
+    "entidad": "sobrevida postoperatoria",
+    "relacion": "se ajusta a",
+    "valor": "distribución de Gompertz"
+  },
+  {
+    "entidad": "PET/CT",
+    "relacion": "es un",
+    "valor": "método de imagen híbrido"
+  },
+  {
+    "entidad": "PET/CT",
+    "relacion": "se utiliza para",
+    "valor": "etapificación en cáncer pulmonar"
+  },
+  {
+    "entidad": "cáncer pulmonar",
+    "relacion": "es causado por",
+    "valor": "factores de riesgo como el tabaquismo"
+  },
+  {
+    "entidad": "F18-FDG",
+    "relacion": "es un",
+    "valor": "radiofármaco utilizado en PET/CT"
+  },
+  {
+    "entidad": "SUVmax",
+    "relacion": "mide",
+    "valor": "la captación de glucosa en tumores"
+  },
+  {
+    "entidad": "metástasis",
+    "relacion": "afecta a",
+    "valor": "la sobrevida en pacientes con cáncer pulmonar"
+  },
+  {
+    "entidad": "tumor primario",
+    "relacion": "tiene un diámetro",
+    "valor": "≥ 3 cm"
+  },
+  {
+    "entidad": "tumor primario",
+    "relacion": "se asocia con",
+    "valor": "compromiso ganglionar regional"
+  },
+  {
+    "entidad": "tumor primario",
+    "relacion": "se asocia con",
+    "valor": "mayor mortalidad"
+  },
+  {
+    "entidad": "cáncer pulmonar células no pequeñas (CPCNP)",
+    "relacion": "tiene menor sobrevida que",
+    "valor": "cáncer pulmonar células pequeñas (CPCP)"
+  },
+  {
+    "entidad": "PET/CT",
+    "relacion": "proporciona",
+    "valor": "información pronóstica en cáncer pulmonar"
+  },
+  {
+    "entidad": "tamaño tumoral",
+    "relacion": "se correlaciona con",
+    "valor": "captación tumoral"
+  },
+  {
+    "entidad": "captación tumoral",
+    "relacion": "indica",
+    "valor": "agresividad del tumor"
+  },
+  {
+    "entidad": "cáncer pulmonar",
+    "relacion": "se caracteriza por",
+    "valor": "alta captación de F18-FDG"
+  },
+  {
+    "entidad": "compromiso ganglionar",
+    "relacion": "se asocia con",
+    "valor": "diseminación de cáncer pulmonar"
+  },
+  {
+    "entidad": "sobrevida",
+    "relacion": "se ve afectada por",
+    "valor": "la presencia de metástasis"
+  },
+  {
+    "entidad": "PET/CT",
+    "relacion": "es el método de elección para",
+    "valor": "etapificar el cáncer pulmonar"
+  },
+  {
+    "entidad": "gafas plomadas",
+    "relacion": "otorgan",
+    "valor": "protección contra radiación ionizante"
+  },
+  {
+    "entidad": "cardiología intervencionista",
+    "relacion": "utiliza",
+    "valor": "gafas plomadas"
+  },
+  {
+    "entidad": "Comisión Internacional de Protección Radiológica (ICRP)",
+    "relacion": "emite",
+    "valor": "recomendaciones sobre dosis de radiación"
+  },
+  {
+    "entidad": "dosis equivalente máxima",
+    "relacion": "sugiere",
+    "valor": "20 mSv/año para el cristalino"
+  },
+  {
+    "entidad": "personal expuesto ocupacionalmente (POE)",
+    "relacion": "recibe",
+    "valor": "radiación ionizante secundaria"
+  },
+  {
+    "entidad": "dosis acumulativa promedio mensual",
+    "relacion": "varía entre",
+    "valor": "1.1 y 6.5 mSv"
+  },
+  {
+    "entidad": "dosis equivalente acumulativa promedio mensual en gafas",
+    "relacion": "varía entre",
+    "valor": "1.1 y 6.5 mSv"
+  },
+  {
+    "entidad": "grado de atenuación de los Rayos-X",
+    "relacion": "fluctúa entre",
+    "valor": "40% y 57.7%"
+  },
+  {
+    "entidad": "cataratas",
+    "relacion": "se relacionan con",
+    "valor": "exposición a radiación ionizante"
+  },
+  {
+    "entidad": "tecnólogos médicos",
+    "relacion": "tienen",
+    "valor": "mayor dosis que enfermeras y técnicos paramédicos"
+  },
+  {
+    "entidad": "dosis promedio anual",
+    "relacion": "excede",
+    "valor": "78 mSv para cardiólogos"
+  },
+  {
+    "entidad": "gafas plomadas de 0.25 mm Pb",
+    "relacion": "logran",
+    "valor": "atenuar radiación a 33 mSv"
+  },
+  {
+    "entidad": "Comisión Chilena de Energía Nuclear",
+    "relacion": "financia",
+    "valor": "estudio"
+  },
+  {
+    "entidad": "hospital Dr. Gustavo Fricke",
+    "relacion": "realiza",
+    "valor": "estudio prospectivo"
+  },
+  {
+    "entidad": "dosímetros termoluminiscentes (TLD)",
+    "relacion": "miden",
+    "valor": "dosis de radiación"
+  },
+  {
+    "entidad": "angiógrafo marca Siemens",
+    "relacion": "se utiliza en",
+    "valor": "procedimientos cardiológicos"
+  },
+  {
+    "entidad": "exposición ocupacional",
+    "relacion": "debe ser",
+    "valor": "controlada para evitar daños"
+  },
+  {
+    "entidad": "dosis absorbida",
+    "relacion": "debe ser",
+    "valor": "verificada para cumplir recomendaciones"
+  }
+]

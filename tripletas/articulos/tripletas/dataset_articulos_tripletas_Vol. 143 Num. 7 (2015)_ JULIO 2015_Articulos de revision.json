@@ -1,0 +1,202 @@
+[
+  {
+    "entidad": "Depresión Postparto (DPP)",
+    "relacion": "es",
+    "valor": "una condición común"
+  },
+  {
+    "entidad": "DPP",
+    "relacion": "afecta a",
+    "valor": "madres y bebés"
+  },
+  {
+    "entidad": "factores psicosociales",
+    "relacion": "son",
+    "valor": "predictores en la génesis de DPP"
+  },
+  {
+    "entidad": "estrategias de detección temprana",
+    "relacion": "son",
+    "valor": "importantes para el manejo de DPP"
+  },
+  {
+    "entidad": "intervenciones psicosociales",
+    "relacion": "son",
+    "valor": "alternativas recomendadas para la prevención de DPP"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "recomienda",
+    "valor": "uso de la Escala de Depresión Postparto de Edimburgo (EDPE)"
+  },
+  {
+    "entidad": "EDPE",
+    "relacion": "es",
+    "valor": "un instrumento de tamizaje para la depresión"
+  },
+  {
+    "entidad": "DPP",
+    "relacion": "puede causar",
+    "valor": "suicidio e infanticidio"
+  },
+  {
+    "entidad": "sintomatología depresiva",
+    "relacion": "interfiere con",
+    "valor": "el bienestar familiar"
+  },
+  {
+    "entidad": "antecedentes personales de depresión",
+    "relacion": "son",
+    "valor": "un factor de riesgo significativo para DPP"
+  },
+  {
+    "entidad": "apoyo social y familiar",
+    "relacion": "es",
+    "valor": "un factor protector contra DPP"
+  },
+  {
+    "entidad": "intervenciones psicoterapéuticas",
+    "relacion": "son",
+    "valor": "el tratamiento de primera línea para DPP"
+  },
+  {
+    "entidad": "antidepresivos",
+    "relacion": "deben ser",
+    "valor": "evaluados individualmente en mujeres lactantes"
+  },
+  {
+    "entidad": "Programa de Madres y Bebés",
+    "relacion": "utiliza",
+    "valor": "psicoterapia cognitivo-conductual"
+  },
+  {
+    "entidad": "intervenciones psicosociales",
+    "relacion": "han mostrado",
+    "valor": "resultados favorables en la prevención de DPP"
+  },
+  {
+    "entidad": "DPP",
+    "relacion": "se asocia con",
+    "valor": "bajo nivel socioeconómico"
+  },
+  {
+    "entidad": "DPP",
+    "relacion": "puede aumentar",
+    "valor": "la probabilidad de depresión no ligada al postparto"
+  },
+  {
+    "entidad": "sintomatología depresiva",
+    "relacion": "afecta",
+    "valor": "el desarrollo emocional y cognitivo del bebé"
+  },
+  {
+    "entidad": "Terapia trombolítica",
+    "relacion": "se utiliza para",
+    "valor": "TEP submasivo/riesgo intermedio"
+  },
+  {
+    "entidad": "Pulmonary Embolism Thrombolysis (PEITHO)",
+    "relacion": "es un",
+    "valor": "estudio importante"
+  },
+  {
+    "entidad": "TEP submasivo",
+    "relacion": "tiene riesgo de",
+    "valor": "mortalidad por recurrencia"
+  },
+  {
+    "entidad": "TEP submasivo",
+    "relacion": "puede desarrollar",
+    "valor": "hipertensión pulmonar tromboembólica crónica (HPTC)"
+  },
+  {
+    "entidad": "trombolisis",
+    "relacion": "disminuye",
+    "valor": "riesgo de HPTC"
+  },
+  {
+    "entidad": "disfunción ventricular derecha (VD)",
+    "relacion": "se asocia con",
+    "valor": "mortalidad en TEP"
+  },
+  {
+    "entidad": "American Heart Association",
+    "relacion": "clasifica",
+    "valor": "TEP en tres categorías"
+  },
+  {
+    "entidad": "European Society of Cardiology",
+    "relacion": "clasifica",
+    "valor": "TEP en alto riesgo, riesgo intermedio y bajo riesgo"
+  },
+  {
+    "entidad": "trombolíticos",
+    "relacion": "tienen efectos adversos",
+    "valor": "hemorragias"
+  },
+  {
+    "entidad": "alteplase",
+    "relacion": "es un",
+    "valor": "agente fibrino-selectivo"
+  },
+  {
+    "entidad": "reteplase",
+    "relacion": "posee",
+    "valor": "mayor rapidez y duración de acción"
+  },
+  {
+    "entidad": "tenecteplase",
+    "relacion": "tiene",
+    "valor": "bajo clearance y mayor especificidad por fibrina"
+  },
+  {
+    "entidad": "desmoteplase",
+    "relacion": "posee",
+    "valor": "vida media más larga y es más potente"
+  },
+  {
+    "entidad": "ecocardiografía",
+    "relacion": "se utiliza para",
+    "valor": "evaluar disfunción VD"
+  },
+  {
+    "entidad": "biomarcadores",
+    "relacion": "mejoran",
+    "valor": "la sensibilidad de imágenes"
+  },
+  {
+    "entidad": "score de PESI",
+    "relacion": "se recomienda para",
+    "valor": "estratificación inicial"
+  },
+  {
+    "entidad": "trombolisis",
+    "relacion": "puede ser útil en",
+    "valor": "pacientes con disfunción VD"
+  },
+  {
+    "entidad": "tenecteplase",
+    "relacion": "se compara con",
+    "valor": "anticoagulación con heparina no fraccionada (HNF)"
+  },
+  {
+    "entidad": "mortalidad intrahospitalaria del TEP submasivo",
+    "relacion": "es cercana a",
+    "valor": "2,5%"
+  },
+  {
+    "entidad": "trombolíticos",
+    "relacion": "se prefieren en",
+    "valor": "pacientes hemodinámicamente inestables"
+  },
+  {
+    "entidad": "trombolisis acelerada con ultrasonido (UAT)",
+    "relacion": "requiere",
+    "valor": "menos fibrinolíticos"
+  },
+  {
+    "entidad": "trombolisis",
+    "relacion": "debe ser considerada en",
+    "valor": "pacientes con TEP submasivo de riesgo intermedio alto"
+  }
+]

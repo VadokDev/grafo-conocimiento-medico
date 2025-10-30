@@ -1,0 +1,157 @@
+[
+  {
+    "entidad": "Hiperglicemia de estrés",
+    "relacion": "es un",
+    "valor": "fenómeno en pacientes críticos"
+  },
+  {
+    "entidad": "Sepsis",
+    "relacion": "induce",
+    "valor": "estado hipermetabólico"
+  },
+  {
+    "entidad": "Hormonas contrarreguladoras",
+    "relacion": "causan",
+    "valor": "aumento de gluconeogénesis hepática"
+  },
+  {
+    "entidad": "Citoquinas proinflamatorias",
+    "relacion": "participan en",
+    "valor": "la patogénesis de la hiperglicemia"
+  },
+  {
+    "entidad": "Insulina",
+    "relacion": "bloquea",
+    "valor": "producción hepática de glucosa"
+  },
+  {
+    "entidad": "GLUT-4",
+    "relacion": "es transportador de",
+    "valor": "glucosa en tejidos dependientes de insulina"
+  },
+  {
+    "entidad": "Cortisol",
+    "relacion": "conlleva a",
+    "valor": "estado de hiperglicemia"
+  },
+  {
+    "entidad": "Catecolaminas",
+    "relacion": "inducen",
+    "valor": "gluconeogénesis"
+  },
+  {
+    "entidad": "IRS-1",
+    "relacion": "es un",
+    "valor": "sustrato del receptor de insulina"
+  },
+  {
+    "entidad": "Mortalidad",
+    "relacion": "se asocia con",
+    "valor": "hiperglicemia en pacientes críticos"
+  },
+  {
+    "entidad": "Control agresivo de glicemia",
+    "relacion": "es recomendado para",
+    "valor": "reducir mortalidad"
+  },
+  {
+    "entidad": "Protocolo de infusión de insulina",
+    "relacion": "disminuye",
+    "valor": "eventos de hipoglicemia"
+  },
+  {
+    "entidad": "Diabetes mellitus",
+    "relacion": "no es un",
+    "valor": "factor de riesgo independiente en sepsis"
+  },
+  {
+    "entidad": "Variabilidad de la glicemia",
+    "relacion": "se asocia con",
+    "valor": "aumento de mortalidad"
+  },
+  {
+    "entidad": "Monitorización continua de glicemia",
+    "relacion": "mejora",
+    "valor": "resultados clínicos en pacientes críticos"
+  },
+  {
+    "entidad": "Licencia médica psiquiátrica",
+    "relacion": "evalúa",
+    "valor": "efectos positivos y negativos del reposo"
+  },
+  {
+    "entidad": "reposo médico",
+    "relacion": "disminuye",
+    "valor": "presentismo asociado a un trastorno psiquiátrico"
+  },
+  {
+    "entidad": "reposo médico prolongado",
+    "relacion": "causa",
+    "valor": "aumento de morbilidad y mortalidad"
+  },
+  {
+    "entidad": "presentismo",
+    "relacion": "afecta a",
+    "valor": "salud general y productividad"
+  },
+  {
+    "entidad": "patología mental",
+    "relacion": "es",
+    "valor": "principal causa de discapacidad"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "ha aumentado",
+    "valor": "gasto en licencias médicas"
+  },
+  {
+    "entidad": "diagnóstico de depresión",
+    "relacion": "es",
+    "valor": "constructo heterogéneo"
+  },
+  {
+    "entidad": "plan de Garantías Explícitas en Salud (GES)",
+    "relacion": "ha incrementado",
+    "valor": "consultas psiquiátricas"
+  },
+  {
+    "entidad": "reposo médico",
+    "relacion": "puede provocar",
+    "valor": "fobia al lugar de trabajo"
+  },
+  {
+    "entidad": "licencias psiquiátricas",
+    "relacion": "concentran",
+    "valor": "mayor número de rechazos"
+  },
+  {
+    "entidad": "reposo médico prolongado",
+    "relacion": "tiene efectos negativos en",
+    "valor": "salud, proyección laboral, relaciones interpersonales y economía"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "se asocia con",
+    "valor": "cuadros psiquiátricos"
+  },
+  {
+    "entidad": "médicos",
+    "relacion": "encuentran problemática",
+    "valor": "indicación de reposo laboral"
+  },
+  {
+    "entidad": "licencia médica",
+    "relacion": "puede ser",
+    "valor": "respuesta médica válida"
+  },
+  {
+    "entidad": "reacciones vivenciales normales y anormales",
+    "relacion": "se solapan con",
+    "valor": "diagnósticos psiquiátricos"
+  },
+  {
+    "entidad": "estrategias de políticas públicas",
+    "relacion": "deben considerar",
+    "valor": "factores psicosociales"
+  }
+]

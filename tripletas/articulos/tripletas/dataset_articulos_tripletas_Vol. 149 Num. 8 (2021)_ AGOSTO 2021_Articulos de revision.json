@@ -1,0 +1,207 @@
+[
+  {
+    "entidad": "Cirugía de revascularización miocárdica (CABG)",
+    "relacion": "es un",
+    "valor": "tratamiento para enfermedad coronaria"
+  },
+  {
+    "entidad": "Angioplastía (PCI)",
+    "relacion": "es un",
+    "valor": "tratamiento para enfermedad coronaria"
+  },
+  {
+    "entidad": "enfermedad coronaria de tres vasos",
+    "relacion": "afecta a",
+    "valor": "pacientes con enfermedad coronaria"
+  },
+  {
+    "entidad": "tronco de la coronaria izquierda (TCI)",
+    "relacion": "afecta a",
+    "valor": "pacientes con enfermedad coronaria"
+  },
+  {
+    "entidad": "estudios aleatorizados controlados",
+    "relacion": "confirman",
+    "valor": "resultados beneficiosos de CABG sobre PCI"
+  },
+  {
+    "entidad": "CABG",
+    "relacion": "asocia con",
+    "valor": "aumento en la supervivencia a largo plazo"
+  },
+  {
+    "entidad": "CABG",
+    "relacion": "previene",
+    "valor": "eventos futuros en pacientes"
+  },
+  {
+    "entidad": "equipo cardíaco",
+    "relacion": "debe formular",
+    "valor": "recomendaciones de tratamiento"
+  },
+  {
+    "entidad": "enfermedades del sistema circulatorio",
+    "relacion": "son la",
+    "valor": "primera causa de muerte en Chile"
+  },
+  {
+    "entidad": "mortalidad anual en pacientes con enfermedad coronaria de tres vasos",
+    "relacion": "es",
+    "valor": "6,6 a 8,2 %"
+  },
+  {
+    "entidad": "estudio SYNTAX",
+    "relacion": "compara",
+    "valor": "PCI con CABG"
+  },
+  {
+    "entidad": "estudio EXCEL",
+    "relacion": "compara",
+    "valor": "PCI con CABG en pacientes con enfermedad del TCI"
+  },
+  {
+    "entidad": "estudio NOBLE",
+    "relacion": "compara",
+    "valor": "PCI con CABG en pacientes con enfermedad del TCI"
+  },
+  {
+    "entidad": "FREEDOM",
+    "relacion": "compara",
+    "valor": "PCI con CABG en pacientes diabéticos"
+  },
+  {
+    "entidad": "infartos miocárdicos (IM)",
+    "relacion": "son mayores en",
+    "valor": "grupo PCI comparado con CABG"
+  },
+  {
+    "entidad": "repetición de revascularización",
+    "relacion": "es menor con",
+    "valor": "CABG comparado con PCI"
+  },
+  {
+    "entidad": "revascularización completa",
+    "relacion": "es mayor con",
+    "valor": "CABG comparado con PCI"
+  },
+  {
+    "entidad": "Heart Team",
+    "relacion": "incluye",
+    "valor": "cardiólogo clínico, cardiólogo intervencionista y cirujano cardíaco"
+  },
+  {
+    "entidad": "CABG",
+    "relacion": "disminuye",
+    "valor": "la ocurrencia de IM y repetición de revascularización"
+  },
+  {
+    "entidad": "CABG",
+    "relacion": "disminuye",
+    "valor": "la mortalidad en pacientes con enfermedad de tres vasos y TCI"
+  },
+  {
+    "entidad": "injertos arteriales",
+    "relacion": "mejoran",
+    "valor": "la supervivencia en revascularización"
+  },
+  {
+    "entidad": "PCI",
+    "relacion": "requiere",
+    "valor": "menos cuidados postoperatorios que CABG"
+  },
+  {
+    "entidad": "Fracción de óxido nítrico exhalado (FeNO)",
+    "relacion": "es un",
+    "valor": "método para la evaluación de enfermedades respiratorias"
+  },
+  {
+    "entidad": "FeNO",
+    "relacion": "correlaciona con",
+    "valor": "inflamación de las vías respiratorias"
+  },
+  {
+    "entidad": "FeNO",
+    "relacion": "disminuye con",
+    "valor": "administración de corticosteroides"
+  },
+  {
+    "entidad": "FeNO",
+    "relacion": "es útil para",
+    "valor": "diagnóstico de asma"
+  },
+  {
+    "entidad": "FeNO",
+    "relacion": "es útil para",
+    "valor": "diagnóstico de Enfermedad Pulmonar Obstructiva Crónica (EPOC)"
+  },
+  {
+    "entidad": "FeNO",
+    "relacion": "es útil para",
+    "valor": "diagnóstico de Fibrosis Quística"
+  },
+  {
+    "entidad": "FeNO",
+    "relacion": "es útil para",
+    "valor": "diagnóstico de Disquinesia Ciliar Primaria"
+  },
+  {
+    "entidad": "FeNO",
+    "relacion": "es un biomarcador de",
+    "valor": "inflamación"
+  },
+  {
+    "entidad": "Óxido Nítrico (NO)",
+    "relacion": "es producido por",
+    "valor": "Óxido Nítrico Sintasa (NOS)"
+  },
+  {
+    "entidad": "NOS",
+    "relacion": "tiene isoformas",
+    "valor": "NOS endotelial, NOS neuronal, NOS inducible"
+  },
+  {
+    "entidad": "glucocorticoides",
+    "relacion": "inhiben",
+    "valor": "activación transcripcional de NOS2"
+  },
+  {
+    "entidad": "FeNO",
+    "relacion": "puede ser utilizado para",
+    "valor": "monitorear el curso clínico de patologías respiratorias"
+  },
+  {
+    "entidad": "FeNO",
+    "relacion": "es considerado",
+    "valor": "un biomarcador no invasivo"
+  },
+  {
+    "entidad": "EPOC",
+    "relacion": "es caracterizada por",
+    "valor": "obstrucción crónica al flujo de aire"
+  },
+  {
+    "entidad": "Fibrosis Quística",
+    "relacion": "es causada por",
+    "valor": "mutación de la proteína CFTR"
+  },
+  {
+    "entidad": "Disquinesia Ciliar Primaria",
+    "relacion": "es una enfermedad de",
+    "valor": "movilidad anormal de cilios"
+  },
+  {
+    "entidad": "ATS",
+    "relacion": "recomienda",
+    "valor": "uso de FeNO en diagnóstico de inflamación de vías respiratorias"
+  },
+  {
+    "entidad": "FeNO",
+    "relacion": "refleja",
+    "valor": "integración entre inflamación de vías respiratorias y función pulmonar"
+  },
+  {
+    "entidad": "FeNO",
+    "relacion": "puede ayudar a",
+    "valor": "generar algoritmos de tratamiento personalizados"
+  }
+]

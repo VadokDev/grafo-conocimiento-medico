@@ -1,0 +1,147 @@
+[
+  {
+    "entidad": "Crisis hipercalcémica",
+    "relacion": "causa",
+    "valor": "pancreatitis aguda"
+  },
+  {
+    "entidad": "Hipoparatiroidismo primario (HPP)",
+    "relacion": "es un",
+    "valor": "trastorno del metabolismo del calcio"
+  },
+  {
+    "entidad": "Paratohormona (PTH)",
+    "relacion": "aumenta",
+    "valor": "calcio sérico"
+  },
+  {
+    "entidad": "Pancreatitis aguda (PA)",
+    "relacion": "es una",
+    "valor": "enfermedad frecuente"
+  },
+  {
+    "entidad": "Hipercalcemia",
+    "relacion": "aumenta",
+    "valor": "riesgo de pancreatitis aguda"
+  },
+  {
+    "entidad": "Tumor paratiroideo",
+    "relacion": "es un",
+    "valor": "tipo de adenoma"
+  },
+  {
+    "entidad": "Pamidronato",
+    "relacion": "es un",
+    "valor": "bifosfonato utilizado en hipercalcemia"
+  },
+  {
+    "entidad": "Calcitonina",
+    "relacion": "es un",
+    "valor": "opción terapéutica para hipercalcemia"
+  },
+  {
+    "entidad": "Hemodiálisis",
+    "relacion": "es un",
+    "valor": "tratamiento para hipercalcemia refractaria"
+  },
+  {
+    "entidad": "Disfunción orgánica múltiple (DOM)",
+    "relacion": "es un",
+    "valor": "síntoma de crisis hipercalcémica"
+  },
+  {
+    "entidad": "Aporte de fluidos",
+    "relacion": "es un",
+    "valor": "tratamiento para hipercalcemia"
+  },
+  {
+    "entidad": "Diuréticos de asa",
+    "relacion": "promueven",
+    "valor": "calciuresis"
+  },
+  {
+    "entidad": "Adenoma de paratiroides",
+    "relacion": "es la",
+    "valor": "causa más frecuente de HPP"
+  },
+  {
+    "entidad": "Pancreatitis aguda",
+    "relacion": "puede ser causada por",
+    "valor": "hipercalcemia"
+  },
+  {
+    "entidad": "Tumores malignos de glándulas paratiroides",
+    "relacion": "son",
+    "valor": "raros"
+  },
+  {
+    "entidad": "Síndrome de hipersecreción de lipasa",
+    "relacion": "es un",
+    "valor": "síndrome paraneoplásico"
+  },
+  {
+    "entidad": "Cáncer de células acinares del páncreas",
+    "relacion": "asocia con",
+    "valor": "síndrome de hipersecreción de lipasa"
+  },
+  {
+    "entidad": "Síndrome de hipersecreción de lipasa",
+    "relacion": "se manifiesta con",
+    "valor": "nódulos subcutáneos"
+  },
+  {
+    "entidad": "Síndrome de hipersecreción de lipasa",
+    "relacion": "se manifiesta con",
+    "valor": "poliartralgias"
+  },
+  {
+    "entidad": "Síndrome de hipersecreción de lipasa",
+    "relacion": "se caracteriza por",
+    "valor": "niveles séricos de lipasa elevados"
+  },
+  {
+    "entidad": "Cáncer de células acinares del páncreas",
+    "relacion": "representa",
+    "valor": "1-2% de los tumores pancreáticos exocrinos"
+  },
+  {
+    "entidad": "Cáncer de células acinares del páncreas",
+    "relacion": "tiene una sobrevida promedio de",
+    "valor": "18 meses"
+  },
+  {
+    "entidad": "Capecitabina",
+    "relacion": "se utiliza como",
+    "valor": "tratamiento para el cáncer de células acinares del páncreas"
+  },
+  {
+    "entidad": "Cáncer de células acinares del páncreas",
+    "relacion": "puede ser tratado con",
+    "valor": "cirugía y quimioterapia"
+  },
+  {
+    "entidad": "Síndrome de hipersecreción de lipasa",
+    "relacion": "puede causar",
+    "valor": "necrosis grasa en el tejido subcutáneo"
+  },
+  {
+    "entidad": "Síndrome de hipersecreción de lipasa",
+    "relacion": "puede causar",
+    "valor": "necrosis grasa en el componente graso de la médula ósea"
+  },
+  {
+    "entidad": "Artralgias",
+    "relacion": "afectan típicamente",
+    "valor": "rodillas y tobillos"
+  },
+  {
+    "entidad": "Cáncer de células acinares del páncreas",
+    "relacion": "puede presentar",
+    "valor": "metástasis hepáticas"
+  },
+  {
+    "entidad": "Tratamiento del cáncer de células acinares del páncreas",
+    "relacion": "puede incluir",
+    "valor": "embolización selectiva de metástasis hepáticas"
+  }
+]

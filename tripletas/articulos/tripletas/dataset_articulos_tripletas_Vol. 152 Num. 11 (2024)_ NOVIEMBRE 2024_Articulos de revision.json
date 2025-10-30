@@ -1,0 +1,242 @@
+[
+  {
+    "entidad": "Unidad de Paciente Crítico",
+    "relacion": "pertenece a",
+    "valor": "Hospital del Salvador"
+  },
+  {
+    "entidad": "Unidad de Paciente Crítico",
+    "relacion": "es un",
+    "valor": "entorno multidisciplinario"
+  },
+  {
+    "entidad": "Bioética",
+    "relacion": "provee",
+    "valor": "herramientas para resolución de casos clínicos complejos"
+  },
+  {
+    "entidad": "Principialismo",
+    "relacion": "es una herramienta de",
+    "valor": "bioética"
+  },
+  {
+    "entidad": "Método Deliberativo",
+    "relacion": "es una herramienta de",
+    "valor": "bioética"
+  },
+  {
+    "entidad": "Jonsen, Siegel y Winslade",
+    "relacion": "es una herramienta de",
+    "valor": "bioética"
+  },
+  {
+    "entidad": "Diego Gracia",
+    "relacion": "es una herramienta de",
+    "valor": "bioética"
+  },
+  {
+    "entidad": "Bioética",
+    "relacion": "aborda",
+    "valor": "problemas de las ciencias biológicas"
+  },
+  {
+    "entidad": "Comité de Ética Asistencial",
+    "relacion": "evalúa",
+    "valor": "conflictos ético-clínicos"
+  },
+  {
+    "entidad": "Ley 20.120",
+    "relacion": "establece",
+    "valor": "obligatoriedad de Comités ético-científicos"
+  },
+  {
+    "entidad": "Ley 20.581",
+    "relacion": "regula",
+    "valor": "derechos y deberes de los pacientes"
+  },
+  {
+    "entidad": "Adecuación del esfuerzo terapéutico",
+    "relacion": "se refiere a",
+    "valor": "ajuste de tratamientos a la situación clínica"
+  },
+  {
+    "entidad": "Limitación del esfuerzo terapéutico",
+    "relacion": "se refiere a",
+    "valor": "decisión de no implementar o retirar terapias"
+  },
+  {
+    "entidad": "Futilidad terapéutica",
+    "relacion": "se define como",
+    "valor": "actuación médica sin utilidad para el paciente"
+  },
+  {
+    "entidad": "Cuidados de fin de vida",
+    "relacion": "se refieren a",
+    "valor": "necesidades físicas y psicosociales del paciente"
+  },
+  {
+    "entidad": "Eutanasia",
+    "relacion": "se define como",
+    "valor": "acción para provocar la muerte consentida de un paciente"
+  },
+  {
+    "entidad": "Iatrogenia",
+    "relacion": "es",
+    "valor": "daño ocasionado por el profesional de la salud"
+  },
+  {
+    "entidad": "Ensañamiento terapéutico",
+    "relacion": "se refiere a",
+    "valor": "aplicación de métodos extraordinarios en enfermos terminales"
+  },
+  {
+    "entidad": "Principio de beneficencia",
+    "relacion": "se relaciona con",
+    "valor": "la pregunta sobre la indicación de la terapia"
+  },
+  {
+    "entidad": "Principio de no maleficencia",
+    "relacion": "se relaciona con",
+    "valor": "la pregunta sobre las contraindicaciones de la terapia"
+  },
+  {
+    "entidad": "Principio de autonomía",
+    "relacion": "se relaciona con",
+    "valor": "el acuerdo del paciente sobre la terapia"
+  },
+  {
+    "entidad": "Justicia",
+    "relacion": "involucra",
+    "valor": "costo-efectividad de las terapias"
+  },
+  {
+    "entidad": "Método deliberativo",
+    "relacion": "se basa en",
+    "valor": "análisis reflexivo de principios y valores"
+  },
+  {
+    "entidad": "Comité de Ética Asistencial",
+    "relacion": "debe incluir",
+    "valor": "todas las partes involucradas en la atención del paciente"
+  },
+  {
+    "entidad": "Pauta DOPS",
+    "relacion": "es un",
+    "valor": "instrumento evaluativo"
+  },
+  {
+    "entidad": "Pauta DOPS",
+    "relacion": "está diseñada para",
+    "valor": "evaluar habilidades procedimentales"
+  },
+  {
+    "entidad": "Pauta DOPS",
+    "relacion": "se utiliza en",
+    "valor": "la carrera de enfermería"
+  },
+  {
+    "entidad": "Pauta DOPS",
+    "relacion": "facilita",
+    "valor": "la adquisición de competencias"
+  },
+  {
+    "entidad": "Pauta DOPS",
+    "relacion": "depende de",
+    "valor": "conocimiento y recursos disponibles"
+  },
+  {
+    "entidad": "evaluación formativa",
+    "relacion": "es un",
+    "valor": "método de evaluación"
+  },
+  {
+    "entidad": "evaluación formativa",
+    "relacion": "se utiliza para",
+    "valor": "la adquisición de habilidades procedimentales"
+  },
+  {
+    "entidad": "escuelas de enfermería en Chile",
+    "relacion": "utilizan",
+    "valor": "pautas de cotejo dicotómicas"
+  },
+  {
+    "entidad": "pautas de cotejo dicotómicas",
+    "relacion": "son",
+    "valor": "subjetivas"
+  },
+  {
+    "entidad": "evaluación de competencias",
+    "relacion": "es un",
+    "valor": "desafío en entornos clínicos"
+  },
+  {
+    "entidad": "evaluación de competencias",
+    "relacion": "debe incluir",
+    "valor": "observación directa"
+  },
+  {
+    "entidad": "evaluación de competencias",
+    "relacion": "se basa en",
+    "valor": "evaluación subjetiva"
+  },
+  {
+    "entidad": "DOPS",
+    "relacion": "es efectivo para",
+    "valor": "adquirir habilidades procedimentales"
+  },
+  {
+    "entidad": "DOPS",
+    "relacion": "mejora",
+    "valor": "la confianza de los estudiantes"
+  },
+  {
+    "entidad": "DOPS",
+    "relacion": "requiere",
+    "valor": "diseño y planificación adecuada"
+  },
+  {
+    "entidad": "investigación en enfermería",
+    "relacion": "presenta",
+    "valor": "brechas en el uso de DOPS"
+  },
+  {
+    "entidad": "evaluadores",
+    "relacion": "deben ser",
+    "valor": "capacitados"
+  },
+  {
+    "entidad": "evaluación de habilidades",
+    "relacion": "se realiza mediante",
+    "valor": "múltiples observaciones"
+  },
+  {
+    "entidad": "satisfacción con DOPS",
+    "relacion": "depende de",
+    "valor": "ambiente clínico y retroalimentación"
+  },
+  {
+    "entidad": "DOPS",
+    "relacion": "se compara con",
+    "valor": "métodos tradicionales de evaluación"
+  },
+  {
+    "entidad": "DOPS",
+    "relacion": "promueve",
+    "valor": "independencia y habilidades prácticas"
+  },
+  {
+    "entidad": "DOPS",
+    "relacion": "tiene",
+    "valor": "efectos positivos en el desempeño"
+  },
+  {
+    "entidad": "DOPS",
+    "relacion": "se aplica en",
+    "valor": "entornos clínicos reales"
+  },
+  {
+    "entidad": "DOPS",
+    "relacion": "es utilizado en",
+    "valor": "Reino Unido, Canadá, Irlanda y Australia"
+  }
+]

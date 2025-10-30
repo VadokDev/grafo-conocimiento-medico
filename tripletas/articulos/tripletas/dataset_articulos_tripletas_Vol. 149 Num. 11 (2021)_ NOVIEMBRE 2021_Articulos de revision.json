@@ -1,0 +1,97 @@
+[
+  {
+    "entidad": "Coaching",
+    "relacion": "se utiliza para",
+    "valor": "el tratamiento de la obesidad y sobrepeso"
+  },
+  {
+    "entidad": "obesidad y sobrepeso",
+    "relacion": "aumentan",
+    "valor": "proporciones epidémicas"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "tiene",
+    "valor": "34% de la población sobre 15 años con obesidad"
+  },
+  {
+    "entidad": "intervenciones basadas en actividad física y selección de alimentos",
+    "relacion": "muestran",
+    "valor": "pobres resultados y baja adherencia"
+  },
+  {
+    "entidad": "fármacos para bajar de peso",
+    "relacion": "pueden inducir",
+    "valor": "efectos colaterales indeseables"
+  },
+  {
+    "entidad": "cirugía bariátrica",
+    "relacion": "requiere",
+    "valor": "cautela en adolescentes"
+  },
+  {
+    "entidad": "población con obesidad y sobrepeso",
+    "relacion": "presenta",
+    "valor": "altos niveles de problemas psicosociales y patologías mentales"
+  },
+  {
+    "entidad": "intervenciones psicoterapéuticas",
+    "relacion": "han sido incluidas en",
+    "valor": "diferentes guías internacionales"
+  },
+  {
+    "entidad": "coaching",
+    "relacion": "es una práctica de",
+    "valor": "cambio conductual"
+  },
+  {
+    "entidad": "International Coach Federation",
+    "relacion": "define",
+    "valor": "coaching como una asociación entre profesional y cliente"
+  },
+  {
+    "entidad": "coach",
+    "relacion": "facilita",
+    "valor": "la identificación y disolución de obstáculos"
+  },
+  {
+    "entidad": "intervenciones de coaching",
+    "relacion": "incluyen",
+    "valor": "sesiones individuales y grupales"
+  },
+  {
+    "entidad": "duración de intervenciones",
+    "relacion": "oscila entre",
+    "valor": "3 meses y 2 años"
+  },
+  {
+    "entidad": "intervenciones",
+    "relacion": "tienen como meta",
+    "valor": "disminución del peso"
+  },
+  {
+    "entidad": "estrategias de coaching",
+    "relacion": "incluyen",
+    "valor": "aumento de actividad física y mejora de hábitos alimentarios"
+  },
+  {
+    "entidad": "calidad de los estudios",
+    "relacion": "fue",
+    "valor": "media"
+  },
+  {
+    "entidad": "coaching",
+    "relacion": "puede ser",
+    "valor": "una estrategia terapéutica eficaz"
+  },
+  {
+    "entidad": "estudios sobre coaching en obesidad",
+    "relacion": "son",
+    "valor": "escasos en Chile"
+  },
+  {
+    "entidad": "coaching",
+    "relacion": "se considera",
+    "valor": "una alternativa pertinente para el tratamiento de obesidad"
+  }
+]

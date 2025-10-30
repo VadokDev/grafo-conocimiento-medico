@@ -1,0 +1,172 @@
+[
+  {
+    "entidad": "Neurofibromatosis tipo I",
+    "relacion": "es un",
+    "valor": "trastorno neurocutáneo autosómico dominante"
+  },
+  {
+    "entidad": "Neurofibromatosis tipo I",
+    "relacion": "causa",
+    "valor": "mutaciones en el gen neurofibromina"
+  },
+  {
+    "entidad": "Neurofibromatosis tipo I",
+    "relacion": "se asocia con",
+    "valor": "síndrome antifosfolípidos"
+  },
+  {
+    "entidad": "síndrome antifosfolípidos",
+    "relacion": "es un",
+    "valor": "trastorno autoinmunitario de coagulación"
+  },
+  {
+    "entidad": "síndrome antifosfolípidos",
+    "relacion": "se caracteriza por",
+    "valor": "formación de trombos en arterias y venas"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "desarrolló",
+    "valor": "cáncer cervicouterino"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "fue tratada con",
+    "valor": "conización"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "tuvo",
+    "valor": "dos abortos espontáneos"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "fue diagnosticada con",
+    "valor": "síndrome antifosfolípidos"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "experimentó",
+    "valor": "infarto agudo de miocardio"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "requiere",
+    "valor": "stenting coronario"
+  },
+  {
+    "entidad": "aspirina",
+    "relacion": "fue indicada junto con",
+    "valor": "clopidogrel"
+  },
+  {
+    "entidad": "mutaciones en el gen neurofibromina",
+    "relacion": "no se asocian con",
+    "valor": "defectos de coagulación"
+  },
+  {
+    "entidad": "síndrome antifosfolípidos",
+    "relacion": "puede ser",
+    "valor": "primario o secundario"
+  },
+  {
+    "entidad": "diagnóstico de síndrome antifosfolípidos",
+    "relacion": "se basa en",
+    "valor": "historia de abortos espontáneos y pruebas positivas de anticoagulante lúpico"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presentó",
+    "valor": "hiperlipidemia y trombocitopenia"
+  },
+  {
+    "entidad": "familia de la paciente",
+    "relacion": "tiene antecedentes de",
+    "valor": "abortos recurrentes y cáncer de páncreas"
+  },
+  {
+    "entidad": "neurofibromatosis tipo I",
+    "relacion": "se diagnostica por",
+    "valor": "presencia de múltiples criterios clínicos"
+  },
+  {
+    "entidad": "Banco de sangre de cordón umbilical",
+    "relacion": "es un",
+    "valor": "recurso para trasplante de células madre hematopoyéticas"
+  },
+  {
+    "entidad": "Sangre de cordón umbilical",
+    "relacion": "se obtiene de",
+    "valor": "donantes no emparentados"
+  },
+  {
+    "entidad": "Pacientes con enfermedades hematológicas",
+    "relacion": "necesitan",
+    "valor": "trasplante alogénico"
+  },
+  {
+    "entidad": "Banco público chileno de células de cordón",
+    "relacion": "fue implementado en",
+    "valor": "2007"
+  },
+  {
+    "entidad": "Maternidades en Santiago, Chile",
+    "relacion": "donan",
+    "valor": "sangre de cordón umbilical"
+  },
+  {
+    "entidad": "Unidades de sangre de cordón",
+    "relacion": "son recolectadas durante",
+    "valor": "el alumbramiento"
+  },
+  {
+    "entidad": "Unidades de sangre de cordón",
+    "relacion": "son criopreservadas en",
+    "valor": "nitrógeno líquido"
+  },
+  {
+    "entidad": "Pacientes",
+    "relacion": "reciben",
+    "valor": "cuidado de soporte habitual"
+  },
+  {
+    "entidad": "Quimerismo",
+    "relacion": "se evalúa mediante",
+    "valor": "análisis de ADN post trasplante"
+  },
+  {
+    "entidad": "Trasplante de células madre hematopoyéticas",
+    "relacion": "puede ser complicado por",
+    "valor": "infecciones virales"
+  },
+  {
+    "entidad": "Epstein Barr virus",
+    "relacion": "es una complicación de",
+    "valor": "trasplante de células madre"
+  },
+  {
+    "entidad": "Anemia Blackfan Diamond",
+    "relacion": "es una condición tratada con",
+    "valor": "trasplante de sangre de cordón umbilical"
+  },
+  {
+    "entidad": "Leucemia linfoblástica aguda",
+    "relacion": "es una condición tratada con",
+    "valor": "trasplante de sangre de cordón umbilical"
+  },
+  {
+    "entidad": "Banco de sangre de cordón umbilical",
+    "relacion": "mejora",
+    "valor": "oportunidades de trasplante"
+  },
+  {
+    "entidad": "Fundación Genómika",
+    "relacion": "financia",
+    "valor": "proyectos de investigación"
+  },
+  {
+    "entidad": "Innova Chile",
+    "relacion": "financia",
+    "valor": "proyectos de investigación"
+  }
+]

@@ -1,0 +1,317 @@
+[
+  {
+    "entidad": "Image-Guided BrachyAblation (IGBA)",
+    "relacion": "es un",
+    "valor": "tratamiento para hepatocarcinoma"
+  },
+  {
+    "entidad": "hepatocarcinoma",
+    "relacion": "es un",
+    "valor": "tipo de cáncer"
+  },
+  {
+    "entidad": "Instituto Nacional del Cáncer",
+    "relacion": "ofrece",
+    "valor": "tratamientos oncológicos"
+  },
+  {
+    "entidad": "Universidad de Chile",
+    "relacion": "es un",
+    "valor": "centro de formación de especialistas en Radioterapia Oncológica"
+  },
+  {
+    "entidad": "trasplante hepático",
+    "relacion": "es el",
+    "valor": "tratamiento de elección para hepatocarcinoma irresecable"
+  },
+  {
+    "entidad": "radioterapia estereotáxica",
+    "relacion": "es un",
+    "valor": "tipo de tratamiento local"
+  },
+  {
+    "entidad": "ablación térmica (RFA)",
+    "relacion": "es un",
+    "valor": "tratamiento local para hepatocarcinoma"
+  },
+  {
+    "entidad": "braquiterapia de alta tasa (BT HDR)",
+    "relacion": "es un",
+    "valor": "tipo de tratamiento local"
+  },
+  {
+    "entidad": "dosis de 15 Gy",
+    "relacion": "es administrada por",
+    "valor": "fuente de Iridio-192"
+  },
+  {
+    "entidad": "paciente de 76 años",
+    "relacion": "fue diagnosticado con",
+    "valor": "hepatocarcinoma"
+  },
+  {
+    "entidad": "dano hepático crónico",
+    "relacion": "es una",
+    "valor": "comorbilidad del paciente"
+  },
+  {
+    "entidad": "ecografía abdominal",
+    "relacion": "reveló",
+    "valor": "nódulo hepático sugerente de hepatocarcinoma"
+  },
+  {
+    "entidad": "tomografía computada",
+    "relacion": "se utiliza para",
+    "valor": "guiar la inserción de la aguja en IGBA"
+  },
+  {
+    "entidad": "equipo multidisciplinario",
+    "relacion": "evaluó",
+    "valor": "el caso del paciente"
+  },
+  {
+    "entidad": "técnica IGBA",
+    "relacion": "es considerada",
+    "valor": "una opción para pacientes con HCC irresecable"
+  },
+  {
+    "entidad": "profesionales capacitados",
+    "relacion": "son necesarios para",
+    "valor": "implementar la técnica IGBA"
+  },
+  {
+    "entidad": "sistema de salud chileno",
+    "relacion": "tiene recursos",
+    "valor": "limitados"
+  },
+  {
+    "entidad": "técnica IGBA",
+    "relacion": "tiene un",
+    "valor": "buen perfil de seguridad"
+  },
+  {
+    "entidad": "técnica IGBA",
+    "relacion": "es",
+    "valor": "costo-efectiva"
+  },
+  {
+    "entidad": "Meningitis crónica autoinmune",
+    "relacion": "es secundaria a",
+    "valor": "meningitis aguda por neumococo"
+  },
+  {
+    "entidad": "meningitis aguda por neumococo",
+    "relacion": "produce",
+    "valor": "trastornos inflamatorios"
+  },
+  {
+    "entidad": "esteroides",
+    "relacion": "controlan",
+    "valor": "complicaciones inflamatorias"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "es",
+    "valor": "mujer de 53 años"
+  },
+  {
+    "entidad": "meningitis neumocócica",
+    "relacion": "es confirmada por",
+    "valor": "hemocultivos y cultivo del líquido cefalorraquídeo"
+  },
+  {
+    "entidad": "tratamiento",
+    "relacion": "incluye",
+    "valor": "ceftriaxona, ampicilina y dexametasona"
+  },
+  {
+    "entidad": "dexametasona",
+    "relacion": "es suspendida después de",
+    "valor": "cuatro días"
+  },
+  {
+    "entidad": "vasculitis",
+    "relacion": "es interpretada como",
+    "valor": "complicación de meningitis neumocócica"
+  },
+  {
+    "entidad": "prednisona",
+    "relacion": "es iniciada a",
+    "valor": "60 mg diarios"
+  },
+  {
+    "entidad": "meningitis crónica",
+    "relacion": "responde a",
+    "valor": "corticoides"
+  },
+  {
+    "entidad": "meningitis neumocócica",
+    "relacion": "puede generar",
+    "valor": "respuestas inmunitarias extendidas"
+  },
+  {
+    "entidad": "reacción inflamatoria",
+    "relacion": "es consecuencia de",
+    "valor": "suspensión de esteroides"
+  },
+  {
+    "entidad": "meningitis crónica",
+    "relacion": "es generada por",
+    "valor": "mecanismo autoinmune"
+  },
+  {
+    "entidad": "colitis ulcerosa",
+    "relacion": "es un antecedente de",
+    "valor": "terreno inmunológico propicio"
+  },
+  {
+    "entidad": "hidrocefalia",
+    "relacion": "es una complicación de",
+    "valor": "meningitis neumocócica"
+  },
+  {
+    "entidad": "corticoides",
+    "relacion": "mejoran",
+    "valor": "síntomas de meningitis crónica"
+  },
+  {
+    "entidad": "Comité de Ética Científico",
+    "relacion": "aprueba",
+    "valor": "el trabajo"
+  },
+  {
+    "entidad": "Hospital del Salvador",
+    "relacion": "es un",
+    "valor": "centro de atención médica"
+  },
+  {
+    "entidad": "Universidad de Chile",
+    "relacion": "es un",
+    "valor": "institución educativa"
+  },
+  {
+    "entidad": "Servicio de Salud Metropolitano Oriente",
+    "relacion": "es parte de",
+    "valor": "la red de salud pública"
+  },
+  {
+    "entidad": "Síndrome de persona rígida",
+    "relacion": "es caracterizado por",
+    "valor": "espasmos musculares persistentes"
+  },
+  {
+    "entidad": "Síndrome de persona rígida",
+    "relacion": "afecta a",
+    "valor": "musculatura agonista y antagonista"
+  },
+  {
+    "entidad": "Síndrome de persona rígida",
+    "relacion": "se presenta en",
+    "valor": "la cuarta a sexta década de la vida"
+  },
+  {
+    "entidad": "Síndrome de persona rígida",
+    "relacion": "se asocia con",
+    "valor": "autoanticuerpos anti-GAD"
+  },
+  {
+    "entidad": "trastorno conversivo",
+    "relacion": "es confundido con",
+    "valor": "síndrome de persona rígida"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "fue diagnosticada con",
+    "valor": "trastorno conversivo"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "fue tratada con",
+    "valor": "sertralina"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presentó",
+    "valor": "dificultad para caminar"
+  },
+  {
+    "entidad": "Hospital San Camilo",
+    "relacion": "realizó",
+    "valor": "evaluación neurológica"
+  },
+  {
+    "entidad": "evaluación neurológica",
+    "relacion": "no mostró",
+    "valor": "signos motores"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "fue hospitalizada por",
+    "valor": "dificultad para caminar"
+  },
+  {
+    "entidad": "electromiografía",
+    "relacion": "reveló",
+    "valor": "actividad motora espontánea persistente"
+  },
+  {
+    "entidad": "anticuerpos anti-GAD",
+    "relacion": "fueron detectados en",
+    "valor": "sangre"
+  },
+  {
+    "entidad": "tratamiento",
+    "relacion": "incluyó",
+    "valor": "inmunoglobulina endovenosa"
+  },
+  {
+    "entidad": "inmunoglobulina endovenosa",
+    "relacion": "mejoró",
+    "valor": "movilidad de piernas y tronco"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "recibió",
+    "valor": "micofenolato mofetil"
+  },
+  {
+    "entidad": "micofenolato mofetil",
+    "relacion": "es un",
+    "valor": "inmunosupresor"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "logró",
+    "valor": "caminar con andador"
+  },
+  {
+    "entidad": "síndrome de persona rígida",
+    "relacion": "ha sido asociado con",
+    "valor": "otras enfermedades autoinmunes"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presentó",
+    "valor": "hipotiroidismo"
+  },
+  {
+    "entidad": "diagnóstico de SPS",
+    "relacion": "es difícil debido a",
+    "valor": "síntomas psiquiátricos"
+  },
+  {
+    "entidad": "plasmaféresis",
+    "relacion": "es recomendada como",
+    "valor": "tratamiento"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "está estable con",
+    "valor": "micofenolato y prednisona"
+  },
+  {
+    "entidad": "prednisona",
+    "relacion": "es un",
+    "valor": "corticosteroide"
+  }
+]

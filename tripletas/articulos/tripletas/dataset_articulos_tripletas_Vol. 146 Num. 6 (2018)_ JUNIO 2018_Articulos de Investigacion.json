@@ -1,0 +1,942 @@
+[
+  {
+    "entidad": "gen FTO",
+    "relacion": "asocia con",
+    "valor": "marcadores de adiposidad"
+  },
+  {
+    "entidad": "polimorfismo rs9939609",
+    "relacion": "es un",
+    "valor": "tipo de variante genética"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "es una",
+    "valor": "enfermedad crónica"
+  },
+  {
+    "entidad": "población adulta chilena",
+    "relacion": "es objeto de estudio en",
+    "valor": "la investigación"
+  },
+  {
+    "entidad": "estudio GENA-DIO",
+    "relacion": "evalúa",
+    "valor": "factores de riesgo de enfermedades cardiovasculares"
+  },
+  {
+    "entidad": "FTO",
+    "relacion": "influye en",
+    "valor": "el desarrollo de obesidad"
+  },
+  {
+    "entidad": "adiposidad",
+    "relacion": "se mide a través de",
+    "valor": "marcadores como IMC y perímetro de cintura"
+  },
+  {
+    "entidad": "marcadores de adiposidad",
+    "relacion": "incluyen",
+    "valor": "peso corporal, IMC, masa grasa"
+  },
+  {
+    "entidad": "población chilena",
+    "relacion": "presenta",
+    "valor": "alta prevalencia de obesidad"
+  },
+  {
+    "entidad": "genotipo FTO",
+    "relacion": "se relaciona con",
+    "valor": "incremento en peso corporal"
+  },
+  {
+    "entidad": "modelo genético aditivo",
+    "relacion": "utiliza",
+    "valor": "análisis de regresión"
+  },
+  {
+    "entidad": "intervenciones personalizadas",
+    "relacion": "se proponen para",
+    "valor": "reducir el riesgo de obesidad"
+  },
+  {
+    "entidad": "estudio Food4Me",
+    "relacion": "demuestra que",
+    "valor": "recomendaciones personalizadas ayudan a perder peso"
+  },
+  {
+    "entidad": "factores de confusión",
+    "relacion": "son considerados en",
+    "valor": "el análisis estadístico"
+  },
+  {
+    "entidad": "gen FTO",
+    "relacion": "ha sido estudiado en",
+    "valor": "poblaciones de diferentes etnias"
+  },
+  {
+    "entidad": "población mapuche",
+    "relacion": "es parte de",
+    "valor": "la muestra estudiada"
+  },
+  {
+    "entidad": "sociodemográficos",
+    "relacion": "se recolectan mediante",
+    "valor": "encuestas validadas"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "se mide a través de",
+    "valor": "acelerometría"
+  },
+  {
+    "entidad": "genotipo AA",
+    "relacion": "se asocia con",
+    "valor": "mayor peso corporal"
+  },
+  {
+    "entidad": "genotipo TT",
+    "relacion": "se considera",
+    "valor": "protector contra obesidad"
+  },
+  {
+    "entidad": "ataxia",
+    "relacion": "puede ser clasificada como",
+    "valor": "genética, esporádica o adquirida"
+  },
+  {
+    "entidad": "Centro de Trastornos del Movimiento (CETRAM)",
+    "relacion": "es un",
+    "valor": "centro especializado en trastornos del movimiento"
+  },
+  {
+    "entidad": "CETRAM",
+    "relacion": "realiza",
+    "valor": "investigación y docencia"
+  },
+  {
+    "entidad": "ataxia",
+    "relacion": "es un",
+    "valor": "síndrome caracterizado por incoordinación y dismetría"
+  },
+  {
+    "entidad": "ataxia",
+    "relacion": "es un",
+    "valor": "grupo de enfermedades neurodegenerativas"
+  },
+  {
+    "entidad": "ataxias neurodegenerativas",
+    "relacion": "son un",
+    "valor": "motivo poco frecuente de consulta"
+  },
+  {
+    "entidad": "atención de personas con trastornos del movimiento",
+    "relacion": "es un",
+    "valor": "objetivo del CETRAM"
+  },
+  {
+    "entidad": "ataxia esporádica",
+    "relacion": "es el tipo más frecuente de",
+    "valor": "ataxia no hereditaria"
+  },
+  {
+    "entidad": "ataxia de Friedreich",
+    "relacion": "es la forma más común de",
+    "valor": "ataxia autosómica recesiva"
+  },
+  {
+    "entidad": "SCA3",
+    "relacion": "es el tipo más prevalente de",
+    "valor": "ataxia autosómica dominante"
+  },
+  {
+    "entidad": "síntomas de ataxia",
+    "relacion": "incluyen",
+    "valor": "parkinsonismo y compromiso autonómico"
+  },
+  {
+    "entidad": "estudio retrospectivo",
+    "relacion": "se realizó en",
+    "valor": "CETRAM"
+  },
+  {
+    "entidad": "diagnóstico etiológico",
+    "relacion": "no se logró en",
+    "valor": "31,7% de los pacientes"
+  },
+  {
+    "entidad": "estudio genético",
+    "relacion": "es difícil de acceder en",
+    "valor": "Chile"
+  },
+  {
+    "entidad": "síntomas de ataxia",
+    "relacion": "pueden ser",
+    "valor": "de gran ayuda para el diagnóstico"
+  },
+  {
+    "entidad": "diagnóstico de ataxia",
+    "relacion": "debe considerar",
+    "valor": "antecedentes familiares y perfil temporal"
+  },
+  {
+    "entidad": "mutaciones no descritas",
+    "relacion": "podrían existir en",
+    "valor": "la población chilena"
+  },
+  {
+    "entidad": "estudios epidemiológicos",
+    "relacion": "son necesarios para",
+    "valor": "caracterizar la epidemiología de las ataxias en Chile"
+  },
+  {
+    "entidad": "Xantomatosis cerebrotendinosa",
+    "relacion": "es un",
+    "valor": "enfermedad genética rara"
+  },
+  {
+    "entidad": "CYP27A1",
+    "relacion": "causa",
+    "valor": "mutaciones que producen Xantomatosis cerebrotendinosa"
+  },
+  {
+    "entidad": "ácidos biliares",
+    "relacion": "disminuye",
+    "valor": "sintetización debido a mutaciones en CYP27A1"
+  },
+  {
+    "entidad": "diagnóstico temprano",
+    "relacion": "reduce",
+    "valor": "complicaciones a largo plazo de Xantomatosis cerebrotendinosa"
+  },
+  {
+    "entidad": "signos clínicos",
+    "relacion": "se identifican",
+    "valor": "para diagnóstico temprano de Xantomatosis cerebrotendinosa"
+  },
+  {
+    "entidad": "diarrea crónica",
+    "relacion": "es un",
+    "valor": "signo clínico temprano de Xantomatosis cerebrotendinosa"
+  },
+  {
+    "entidad": "cataratas juveniles",
+    "relacion": "es un",
+    "valor": "signo clínico temprano de Xantomatosis cerebrotendinosa"
+  },
+  {
+    "entidad": "epilepsia",
+    "relacion": "es un",
+    "valor": "signo clínico temprano de Xantomatosis cerebrotendinosa"
+  },
+  {
+    "entidad": "retraso en el desarrollo psicomotor",
+    "relacion": "es un",
+    "valor": "signo clínico temprano de Xantomatosis cerebrotendinosa"
+  },
+  {
+    "entidad": "consanguinidad",
+    "relacion": "aumenta",
+    "valor": "la probabilidad de Xantomatosis cerebrotendinosa"
+  },
+  {
+    "entidad": "tratamiento con ácido quenodeoxicólico",
+    "relacion": "evita",
+    "valor": "progresión de Xantomatosis cerebrotendinosa"
+  },
+  {
+    "entidad": "Xantomatosis cerebrotendinosa",
+    "relacion": "se diagnostica",
+    "valor": "frecuentemente en etapas avanzadas"
+  },
+  {
+    "entidad": "Xantomatosis cerebrotendinosa",
+    "relacion": "presenta",
+    "valor": "subdiagnóstico en población chilena"
+  },
+  {
+    "entidad": "niveles de colestanol plasmático",
+    "relacion": "se utilizan para",
+    "valor": "confirmar diagnóstico de Xantomatosis cerebrotendinosa"
+  },
+  {
+    "entidad": "Xantomatosis cerebrotendinosa",
+    "relacion": "se relaciona con",
+    "valor": "síntomas neurológicos"
+  },
+  {
+    "entidad": "Xantomatosis cerebrotendinosa",
+    "relacion": "puede ser diagnosticada",
+    "valor": "mediante análisis genético"
+  },
+  {
+    "entidad": "Xantomatosis cerebrotendinosa",
+    "relacion": "se asocia con",
+    "valor": "alteraciones en la síntesis de ácidos biliares"
+  },
+  {
+    "entidad": "Ejercicio físico",
+    "relacion": "mejora",
+    "valor": "factores de riesgo cardiometabólicos"
+  },
+  {
+    "entidad": "Diabetes mellitus tipo 2",
+    "relacion": "es",
+    "valor": "una enfermedad"
+  },
+  {
+    "entidad": "Hipertensión arterial",
+    "relacion": "es",
+    "valor": "una enfermedad"
+  },
+  {
+    "entidad": "Ejercicio intermitente de alta intensidad (HIIT)",
+    "relacion": "es",
+    "valor": "una metodología de ejercicio"
+  },
+  {
+    "entidad": "Adherencia al ejercicio",
+    "relacion": "es",
+    "valor": "un factor clave para el efecto terapéutico"
+  },
+  {
+    "entidad": "Respondedores (Rs)",
+    "relacion": "son",
+    "valor": "individuos que presentan efectos benéficos tras el ejercicio"
+  },
+  {
+    "entidad": "No respondedores (NRs)",
+    "relacion": "son",
+    "valor": "individuos que no presentan cambios tras el ejercicio"
+  },
+  {
+    "entidad": "Composición corporal",
+    "relacion": "se evalúa en",
+    "valor": "pacientes con diabetes e hipertensión"
+  },
+  {
+    "entidad": "Presión arterial",
+    "relacion": "se evalúa en",
+    "valor": "pacientes con diabetes e hipertensión"
+  },
+  {
+    "entidad": "Triglicéridos plasmáticos",
+    "relacion": "se evalúan en",
+    "valor": "pacientes con diabetes e hipertensión"
+  },
+  {
+    "entidad": "Programa de ejercicio de 6 semanas",
+    "relacion": "se compara",
+    "valor": "con efectos en variables de salud"
+  },
+  {
+    "entidad": "Variabilidad interindividual",
+    "relacion": "afecta",
+    "valor": "respuesta al ejercicio"
+  },
+  {
+    "entidad": "Factores genéticos",
+    "relacion": "han sido",
+    "valor": "explorados en relación a la respuesta al ejercicio"
+  },
+  {
+    "entidad": "Factores ambientales",
+    "relacion": "no han sido",
+    "valor": "identificados como influyentes en la respuesta al ejercicio"
+  },
+  {
+    "entidad": "Centro de Salud Familiar Tomás Rojas",
+    "relacion": "es",
+    "valor": "el lugar donde se realizó el estudio"
+  },
+  {
+    "entidad": "Universidad de los Lagos",
+    "relacion": "es",
+    "valor": "la institución donde trabaja uno de los autores"
+  },
+  {
+    "entidad": "Universidad Austral de Chile",
+    "relacion": "es",
+    "valor": "la institución donde trabaja uno de los autores"
+  },
+  {
+    "entidad": "Universidad Pública de Navarra",
+    "relacion": "es",
+    "valor": "la institución donde trabaja uno de los autores"
+  },
+  {
+    "entidad": "Revista Médica de Chile",
+    "relacion": "publica",
+    "valor": "el artículo"
+  },
+  {
+    "entidad": "Ejercicio físico",
+    "relacion": "se asocia a",
+    "valor": "menores niveles de grasa corporal"
+  },
+  {
+    "entidad": "Ejercicio físico",
+    "relacion": "se asocia a",
+    "valor": "presión arterial normal"
+  },
+  {
+    "entidad": "Ejercicio físico",
+    "relacion": "se asocia a",
+    "valor": "salud metabólica normal"
+  },
+  {
+    "entidad": "accidente cerebrovascular isquémico agudo",
+    "relacion": "es un",
+    "valor": "problema de salud pública en Chile"
+  },
+  {
+    "entidad": "alteplase endovenoso",
+    "relacion": "se utiliza como",
+    "valor": "tratamiento del ACVi en fase aguda"
+  },
+  {
+    "entidad": "Clínica Santa María",
+    "relacion": "es un",
+    "valor": "centro pionero en tratamiento del ACVi en Chile"
+  },
+  {
+    "entidad": "trombolisis endovenosa",
+    "relacion": "fue el",
+    "valor": "principal tratamiento del ACVi aprobado por la FDA"
+  },
+  {
+    "entidad": "tratamiento endovascular",
+    "relacion": "demostró ser",
+    "valor": "superior a la trombolisis endovenosa"
+  },
+  {
+    "entidad": "escala de NIH",
+    "relacion": "se utiliza para evaluar",
+    "valor": "severidad del ACVi"
+  },
+  {
+    "entidad": "mRankin",
+    "relacion": "se utiliza para estimar",
+    "valor": "grado de discapacidad al alta"
+  },
+  {
+    "entidad": "neuro-interventional team",
+    "relacion": "es necesario para",
+    "valor": "buenos resultados en tratamiento endovascular"
+  },
+  {
+    "entidad": "stent retrievers",
+    "relacion": "se utilizan en",
+    "valor": "tratamiento endovascular"
+  },
+  {
+    "entidad": "trombectomía mecánica",
+    "relacion": "es un tipo de",
+    "valor": "tratamiento endovascular"
+  },
+  {
+    "entidad": "angiografía digital",
+    "relacion": "se utiliza para evaluar",
+    "valor": "flujos arteriales post tratamiento endovascular"
+  },
+  {
+    "entidad": "Comité de Ética local",
+    "relacion": "aproba",
+    "valor": "estudio de tratamiento endovascular"
+  },
+  {
+    "entidad": "Clínica Santa María",
+    "relacion": "realiza",
+    "valor": "tratamiento endovascular entre 2009 y 2017"
+  },
+  {
+    "entidad": "pacientes con ACVi",
+    "relacion": "reciben",
+    "valor": "tratamiento endovascular"
+  },
+  {
+    "entidad": "trombolisis mixta",
+    "relacion": "se utiliza en",
+    "valor": "pacientes con ACVi en menos de 4,5 horas"
+  },
+  {
+    "entidad": "trombolisis endovenosa",
+    "relacion": "se utiliza en",
+    "valor": "pacientes con ACVi en menos de 4,5 horas"
+  },
+  {
+    "entidad": "ACVi",
+    "relacion": "tiene una etiología",
+    "valor": "embólica, indeterminada, otra causa determinada o aterotrombótica"
+  },
+  {
+    "entidad": "transformación hemorrágica",
+    "relacion": "es una complicación",
+    "valor": "durante la hospitalización"
+  },
+  {
+    "entidad": "neumonía",
+    "relacion": "es una complicación",
+    "valor": "durante la hospitalización"
+  },
+  {
+    "entidad": "infección urinaria baja",
+    "relacion": "es una complicación",
+    "valor": "durante la hospitalización"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "fue del",
+    "valor": "9,6% en pacientes tratados"
+  },
+  {
+    "entidad": "días de hospitalización",
+    "relacion": "fue de",
+    "valor": "7 días en promedio"
+  },
+  {
+    "entidad": "Hematoma subcapsular hepático",
+    "relacion": "es una complicación de",
+    "valor": "síndrome HELLP"
+  },
+  {
+    "entidad": "síndrome HELLP",
+    "relacion": "se caracteriza por",
+    "valor": "hemólisis, enzimas hepáticas elevadas y plaquetopenia"
+  },
+  {
+    "entidad": "síndrome HELLP",
+    "relacion": "suele asociarse a",
+    "valor": "síndromes hipertensivos del embarazo"
+  },
+  {
+    "entidad": "Hematoma subcapsular hepático",
+    "relacion": "tiene una incidencia de",
+    "valor": "1/45.000 a 1/225.000 embarazos"
+  },
+  {
+    "entidad": "Hematoma subcapsular hepático roto",
+    "relacion": "es tratado mediante",
+    "valor": "cesárea"
+  },
+  {
+    "entidad": "cesárea",
+    "relacion": "es el único tratamiento definitivo para",
+    "valor": "hematoma subcapsular hepático roto"
+  },
+  {
+    "entidad": "pacientes con síndrome HELLP",
+    "relacion": "presentan",
+    "valor": "hipertensión y proteinuria en aproximadamente 85% de los casos"
+  },
+  {
+    "entidad": "Hematoma subcapsular hepático roto",
+    "relacion": "requiere",
+    "valor": "un alto índice de sospecha para diagnóstico"
+  },
+  {
+    "entidad": "TAC y RM",
+    "relacion": "son más sensibles que",
+    "valor": "ecografía abdominal"
+  },
+  {
+    "entidad": "factor VII recombinante",
+    "relacion": "se utiliza como",
+    "valor": "alternativa terapéutica en hemorragias"
+  },
+  {
+    "entidad": "Hematoma subcapsular hepático",
+    "relacion": "puede causar",
+    "valor": "mortalidad materna y perinatal"
+  },
+  {
+    "entidad": "mortalidad por HELLP",
+    "relacion": "es de",
+    "valor": "2-3%"
+  },
+  {
+    "entidad": "Hematoma subcapsular hepático roto",
+    "relacion": "puede evolucionar a",
+    "valor": "falla multiorgánica"
+  },
+  {
+    "entidad": "mortalidad en casos de HSCH",
+    "relacion": "puede aumentar a",
+    "valor": "59%-62%"
+  },
+  {
+    "entidad": "Hematoma subcapsular hepático",
+    "relacion": "se presenta en",
+    "valor": "1-2% de los síndromes HELLP o preeclampsia"
+  },
+  {
+    "entidad": "interrupción del embarazo",
+    "relacion": "es necesaria en",
+    "valor": "pacientes hemodinámicamente inestables"
+  },
+  {
+    "entidad": "taponamiento con compresas",
+    "relacion": "es el tratamiento de entrada para",
+    "valor": "hematoma subcapsular hepático roto"
+  },
+  {
+    "entidad": "Hematoma subcapsular hepático roto",
+    "relacion": "requiere manejo",
+    "valor": "multidisciplinario"
+  },
+  {
+    "entidad": "violencia física",
+    "relacion": "es un tipo de",
+    "valor": "violencia en el trabajo"
+  },
+  {
+    "entidad": "abuso verbal",
+    "relacion": "es un tipo de",
+    "valor": "violencia en el trabajo"
+  },
+  {
+    "entidad": "trabajadores/as de servicios de emergencia",
+    "relacion": "son afectados por",
+    "valor": "violencia física y abuso verbal"
+  },
+  {
+    "entidad": "establecimientos de salud públicos y privados",
+    "relacion": "son lugares donde ocurre",
+    "valor": "violencia física y abuso verbal"
+  },
+  {
+    "entidad": "provincia de Concepción, Chile",
+    "relacion": "es el lugar de estudio de",
+    "valor": "la investigación"
+  },
+  {
+    "entidad": "paramédicos",
+    "relacion": "tienen mayor riesgo de",
+    "valor": "percepción de violencia física"
+  },
+  {
+    "entidad": "enfermeras y personal administrativo",
+    "relacion": "tienen mayor riesgo de",
+    "valor": "percepción de abuso verbal"
+  },
+  {
+    "entidad": "pacientes y familiares",
+    "relacion": "son los principales agresores de",
+    "valor": "violencia física y abuso verbal"
+  },
+  {
+    "entidad": "cultura de no violencia",
+    "relacion": "es un objetivo en",
+    "valor": "espacios de sanación"
+  },
+  {
+    "entidad": "violencia en el sector salud",
+    "relacion": "es un problema",
+    "valor": "de salud pública"
+  },
+  {
+    "entidad": "violencia física",
+    "relacion": "puede incluir",
+    "valor": "daños físicos, sexuales o psicológicos"
+  },
+  {
+    "entidad": "abuso verbal",
+    "relacion": "incluye",
+    "valor": "insultos, gritos y humillaciones"
+  },
+  {
+    "entidad": "investigación",
+    "relacion": "es financiada por",
+    "valor": "FUCYT y otros organismos"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud (OMS)",
+    "relacion": "recomienda",
+    "valor": "el cuestionario de violencia laboral"
+  },
+  {
+    "entidad": "violencia laboral",
+    "relacion": "es un fenómeno",
+    "valor": "subnotificado en el sector salud"
+  },
+  {
+    "entidad": "trabajadores temporales",
+    "relacion": "presentan mayor prevalencia de",
+    "valor": "violencia física"
+  },
+  {
+    "entidad": "experiencia laboral en emergencias",
+    "relacion": "afecta la percepción de",
+    "valor": "abuso verbal"
+  },
+  {
+    "entidad": "violencia física y abuso verbal",
+    "relacion": "requieren medidas para",
+    "valor": "lograr tolerancia cero"
+  },
+  {
+    "entidad": "Programa multicéntrico de cribado de cáncer colorrectal",
+    "relacion": "se implementa en",
+    "valor": "Chile"
+  },
+  {
+    "entidad": "cáncer colorrectal",
+    "relacion": "es una",
+    "valor": "causa frecuente de mortalidad"
+  },
+  {
+    "entidad": "factores genéticos y medioambientales",
+    "relacion": "se asocian a",
+    "valor": "desarrollo de cáncer colorrectal"
+  },
+  {
+    "entidad": "dieta rica en proteínas y grasas",
+    "relacion": "afecta a",
+    "valor": "riesgo de cáncer colorrectal"
+  },
+  {
+    "entidad": "baja ingesta de fibras",
+    "relacion": "afecta a",
+    "valor": "riesgo de cáncer colorrectal"
+  },
+  {
+    "entidad": "estilo de vida sedentario",
+    "relacion": "afecta a",
+    "valor": "riesgo de cáncer colorrectal"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "afecta a",
+    "valor": "riesgo de cáncer colorrectal"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "afecta a",
+    "valor": "riesgo de cáncer colorrectal"
+  },
+  {
+    "entidad": "mortalidad por cáncer colorrectal",
+    "relacion": "se ha incrementado en",
+    "valor": "América del Sur"
+  },
+  {
+    "entidad": "test de sangre oculta en deposiciones",
+    "relacion": "es la estrategia más utilizada para",
+    "valor": "cribado de cáncer colorrectal"
+  },
+  {
+    "entidad": "test de sangre oculta en deposiciones inmunológico",
+    "relacion": "incrementa",
+    "valor": "adherencia al cribado"
+  },
+  {
+    "entidad": "Programa de cribado prospectivo",
+    "relacion": "se diseñó en",
+    "valor": "2011"
+  },
+  {
+    "entidad": "tres ciudades",
+    "relacion": "se implementó en",
+    "valor": "Santiago, Punta Arenas y Valparaíso"
+  },
+  {
+    "entidad": "personal de salud",
+    "relacion": "recibe",
+    "valor": "capacitación sobre logística y protocolos"
+  },
+  {
+    "entidad": "enfermera coordinadora",
+    "relacion": "es responsable de",
+    "valor": "cada centro"
+  },
+  {
+    "entidad": "población asintomática",
+    "relacion": "se selecciona para",
+    "valor": "cribado de cáncer colorrectal"
+  },
+  {
+    "entidad": "test inmunológico de sangre oculta",
+    "relacion": "se ofrece a",
+    "valor": "todos los participantes"
+  },
+  {
+    "entidad": "pacientes con FIT positivo",
+    "relacion": "se someten a",
+    "valor": "colonoscopy"
+  },
+  {
+    "entidad": "cáncer colorrectal",
+    "relacion": "es tratado principalmente por",
+    "valor": "resección endoscópica"
+  },
+  {
+    "entidad": "programa de cribado",
+    "relacion": "demuestra",
+    "valor": "factibilidad en un país en desarrollo"
+  },
+  {
+    "entidad": "teleconferencia multicéntrica",
+    "relacion": "se implementa para",
+    "valor": "retroalimentación y análisis de casos"
+  },
+  {
+    "entidad": "educación a la comunidad",
+    "relacion": "es parte de",
+    "valor": "programa de cribado"
+  },
+  {
+    "entidad": "protocolos de trabajo",
+    "relacion": "se estandarizan en",
+    "valor": "programa de cribado"
+  },
+  {
+    "entidad": "consentimiento informado",
+    "relacion": "se entrega a",
+    "valor": "cada centro"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "reciben",
+    "valor": "explicación del programa"
+  },
+  {
+    "entidad": "base de datos centralizada",
+    "relacion": "se desarrolla para",
+    "valor": "registro de información"
+  },
+  {
+    "entidad": "criterios de ingreso para PRENEC",
+    "relacion": "incluyen",
+    "valor": "individuos asintomáticos"
+  },
+  {
+    "entidad": "enfermera asistente",
+    "relacion": "realiza",
+    "valor": "encuesta de salud y factores de riesgo"
+  },
+  {
+    "entidad": "calidad de la colonoscopía",
+    "relacion": "se evalúa según",
+    "valor": "escala de Boston"
+  },
+  {
+    "entidad": "mortalidad derivada de procedimientos del cribado",
+    "relacion": "no se reporta en",
+    "valor": "estudio"
+  },
+  {
+    "entidad": "programa de cribado",
+    "relacion": "muestra",
+    "valor": "alta adherencia al TSODi"
+  },
+  {
+    "entidad": "FONASA",
+    "relacion": "asegura",
+    "valor": "75.2% de la población"
+  },
+  {
+    "entidad": "ISAPRE",
+    "relacion": "atiende",
+    "valor": "18.5% de la población"
+  },
+  {
+    "entidad": "FONASA",
+    "relacion": "proporciona",
+    "valor": "régimen solidario público"
+  },
+  {
+    "entidad": "ISAPRE",
+    "relacion": "proporciona",
+    "valor": "régimen individual privado"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud (OMS)",
+    "relacion": "promueve",
+    "valor": "cobertura universal"
+  },
+  {
+    "entidad": "Banco Mundial",
+    "relacion": "propone",
+    "valor": "indicadores de impacto para seguros de salud"
+  },
+  {
+    "entidad": "gasto de bolsillo",
+    "relacion": "incrementa",
+    "valor": "14.12%"
+  },
+  {
+    "entidad": "gasto de bolsillo",
+    "relacion": "crece",
+    "valor": "de 5.6% a 6.2% del gasto total"
+  },
+  {
+    "entidad": "coeficiente de Gini",
+    "relacion": "disminuye",
+    "valor": "entre 2007 y 2012"
+  },
+  {
+    "entidad": "gasto de bolsillo",
+    "relacion": "es mayor",
+    "valor": "en ISAPRE que en FONASA"
+  },
+  {
+    "entidad": "gasto de bolsillo",
+    "relacion": "aumenta",
+    "valor": "en todos los grupos de ingresos"
+  },
+  {
+    "entidad": "gasto de bolsillo",
+    "relacion": "es menor",
+    "valor": "en el sistema público que en el privado"
+  },
+  {
+    "entidad": "gasto de bolsillo per cápita",
+    "relacion": "es mayor",
+    "valor": "en ISAPRE"
+  },
+  {
+    "entidad": "gasto de bolsillo por hogar",
+    "relacion": "es mayor",
+    "valor": "en el Resto de Capitales Regionales que en Gran Santiago"
+  },
+  {
+    "entidad": "gasto de bolsillo por hogar",
+    "relacion": "es menor",
+    "valor": "en el sistema público que en el privado"
+  },
+  {
+    "entidad": "gasto de bolsillo por hogar",
+    "relacion": "aumenta",
+    "valor": "en el quinto quintil"
+  },
+  {
+    "entidad": "gasto de bolsillo por hogar",
+    "relacion": "aumenta",
+    "valor": "en el segundo quintil en Gran Santiago"
+  },
+  {
+    "entidad": "gasto de bolsillo por hogar",
+    "relacion": "aumenta",
+    "valor": "en los quintiles 1, 3 y 5 en Resto de Capitales Regionales"
+  },
+  {
+    "entidad": "gasto de bolsillo",
+    "relacion": "es mayor",
+    "valor": "en hogares con jefas de hogar mujeres"
+  },
+  {
+    "entidad": "gasto de bolsillo",
+    "relacion": "es menor",
+    "valor": "en hogares con jefes de hogar hombres"
+  },
+  {
+    "entidad": "gasto de bolsillo",
+    "relacion": "es mayor",
+    "valor": "en el quintil de mayores ingresos"
+  },
+  {
+    "entidad": "gasto de bolsillo",
+    "relacion": "es menor",
+    "valor": "en el quintil de menores ingresos"
+  }
+]

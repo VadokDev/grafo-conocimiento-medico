@@ -1,0 +1,377 @@
+[
+  {
+    "entidad": "enfermedad renal crónica terminal",
+    "relacion": "afecta a",
+    "valor": "pacientes"
+  },
+  {
+    "entidad": "manejo médico conservador",
+    "relacion": "compara con",
+    "valor": "hemodiálisis"
+  },
+  {
+    "entidad": "hemodiálisis",
+    "relacion": "afecta a",
+    "valor": "desempeño cognitivo"
+  },
+  {
+    "entidad": "INECO Frontal Screening",
+    "relacion": "evalúa",
+    "valor": "desempeño cognitivo"
+  },
+  {
+    "entidad": "pacientes con ERC terminal",
+    "relacion": "muestran",
+    "valor": "deterioro en funciones ejecutivas"
+  },
+  {
+    "entidad": "deterioro cognitivo",
+    "relacion": "es una",
+    "valor": "comorbilidad en pacientes con ERC"
+  },
+  {
+    "entidad": "disfunción cognitiva",
+    "relacion": "se define como",
+    "valor": "desviación en desempeño cognitivo"
+  },
+  {
+    "entidad": "enfermedad cerebrovascular",
+    "relacion": "contribuye a",
+    "valor": "disfunción cognitiva"
+  },
+  {
+    "entidad": "depresión",
+    "relacion": "contribuye a",
+    "valor": "disfunción cognitiva"
+  },
+  {
+    "entidad": "polifarmacia",
+    "relacion": "contribuye a",
+    "valor": "disfunción cognitiva"
+  },
+  {
+    "entidad": "nivel educacional bajo",
+    "relacion": "se asocia con",
+    "valor": "disfunción cognitiva"
+  },
+  {
+    "entidad": "deterioro cognitivo",
+    "relacion": "se asocia con",
+    "valor": "mala calidad de vida"
+  },
+  {
+    "entidad": "lesiones de sustancia blanca",
+    "relacion": "se encuentran en",
+    "valor": "pacientes en hemodiálisis"
+  },
+  {
+    "entidad": "fisiopatología del deterioro cognitivo",
+    "relacion": "involucra",
+    "valor": "anomalías metabólicas"
+  },
+  {
+    "entidad": "fisiopatología del deterioro cognitivo",
+    "relacion": "involucra",
+    "valor": "inflamación crónica"
+  },
+  {
+    "entidad": "fisiopatología del deterioro cognitivo",
+    "relacion": "involucra",
+    "valor": "estresores hemodinámicos"
+  },
+  {
+    "entidad": "fisiopatología del deterioro cognitivo",
+    "relacion": "involucra",
+    "valor": "daño cerebral directo"
+  },
+  {
+    "entidad": "hemorragia cerebral",
+    "relacion": "es un",
+    "valor": "factor de riesgo para deterioro cognitivo"
+  },
+  {
+    "entidad": "pacientes con ERC",
+    "relacion": "tienen",
+    "valor": "alto riesgo vascular"
+  },
+  {
+    "entidad": "terapia de sustitución renal",
+    "relacion": "puede atenuar",
+    "valor": "consecuencias de la ERC terminal"
+  },
+  {
+    "entidad": "deterioro en funciones ejecutivas",
+    "relacion": "es observado en",
+    "valor": "pacientes en hemodiálisis"
+  },
+  {
+    "entidad": "evaluaciones con resonancia magnética funcional",
+    "relacion": "podrían ayudar a",
+    "valor": "dilucidar fisiopatología del deterioro cognitivo"
+  },
+  {
+    "entidad": "consumo combinado de alcohol y medicamentos sin prescripción médica",
+    "relacion": "es un",
+    "valor": "problema de salud pública"
+  },
+  {
+    "entidad": "personas mayores",
+    "relacion": "son",
+    "valor": "grupo vulnerable"
+  },
+  {
+    "entidad": "Universidad del Desarrollo",
+    "relacion": "es un",
+    "valor": "centro de investigación"
+  },
+  {
+    "entidad": "SENDA",
+    "relacion": "realiza",
+    "valor": "encuesta sobre consumo de drogas y alcohol"
+  },
+  {
+    "entidad": "apoyo social",
+    "relacion": "afecta",
+    "valor": "consumo de alcohol y medicamentos"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "tienen",
+    "valor": "mayor probabilidad de combinar consumo"
+  },
+  {
+    "entidad": "educación superior",
+    "relacion": "disminuye",
+    "valor": "consumo de alcohol y medicamentos"
+  },
+  {
+    "entidad": "situación laboral",
+    "relacion": "influye en",
+    "valor": "consumo de alcohol y medicamentos"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "no afecta",
+    "valor": "consumo combinado"
+  },
+  {
+    "entidad": "combinación de alcohol y medicamentos",
+    "relacion": "produce",
+    "valor": "efectos nocivos sobre la salud"
+  },
+  {
+    "entidad": "epidemia silenciosa",
+    "relacion": "se refiere a",
+    "valor": "consumo problemático de alcohol en personas mayores"
+  },
+  {
+    "entidad": "modelo estadístico multivariado",
+    "relacion": "se utiliza para",
+    "valor": "identificar factores de consumo"
+  },
+  {
+    "entidad": "población envejeciendo",
+    "relacion": "incrementa",
+    "valor": "desafíos para la salud pública"
+  },
+  {
+    "entidad": "hospitalizaciones",
+    "relacion": "asociadas con",
+    "valor": "uso indebido de medicamentos"
+  },
+  {
+    "entidad": "efectos sobre la salud cognitiva",
+    "relacion": "son causados por",
+    "valor": "consumo problemático de alcohol"
+  },
+  {
+    "entidad": "factores sociales",
+    "relacion": "son determinantes de",
+    "valor": "consumo de alcohol y medicamentos"
+  },
+  {
+    "entidad": "Universidad de Concepción",
+    "relacion": "es un",
+    "valor": "institución educativa"
+  },
+  {
+    "entidad": "ciencias de la salud",
+    "relacion": "requiere",
+    "valor": "formación integral"
+  },
+  {
+    "entidad": "diversidad",
+    "relacion": "afecta a",
+    "valor": "estudiantes de la salud"
+  },
+  {
+    "entidad": "instituciones educativas",
+    "relacion": "deben garantizar",
+    "valor": "acceso y participación plena"
+  },
+  {
+    "entidad": "cultura institucional",
+    "relacion": "valora",
+    "valor": "diversidad"
+  },
+  {
+    "entidad": "políticas institucionales",
+    "relacion": "deben promover",
+    "valor": "inclusión educativa"
+  },
+  {
+    "entidad": "estudiantes",
+    "relacion": "necesitan",
+    "valor": "acompañamientos necesarios"
+  },
+  {
+    "entidad": "docentes",
+    "relacion": "realizan",
+    "valor": "entrevistas semi-estructuradas"
+  },
+  {
+    "entidad": "método de comparación constante",
+    "relacion": "se utiliza en",
+    "valor": "análisis de datos"
+  },
+  {
+    "entidad": "diversidad",
+    "relacion": "requiere",
+    "valor": "lineamientos institucionales"
+  },
+  {
+    "entidad": "estudiantes de ciencias de la salud",
+    "relacion": "tienen",
+    "valor": "características homogéneas y heterogéneas"
+  },
+  {
+    "entidad": "discapacidad",
+    "relacion": "puede ser",
+    "valor": "obstáculo para adquirir competencias"
+  },
+  {
+    "entidad": "expectativas de los docentes",
+    "relacion": "influyen en",
+    "valor": "rendimiento académico de los estudiantes"
+  },
+  {
+    "entidad": "estrategias institucionales",
+    "relacion": "incluyen",
+    "valor": "protocolos para atención a la diversidad"
+  },
+  {
+    "entidad": "estudiantes",
+    "relacion": "reportan",
+    "valor": "comentarios inapropiados de docentes"
+  },
+  {
+    "entidad": "movimientos por derechos humanos",
+    "relacion": "han aumentado",
+    "valor": "visibilidad de grupos sociales diversos"
+  },
+  {
+    "entidad": "prácticas institucionales",
+    "relacion": "están orientadas por",
+    "valor": "valores culturales"
+  },
+  {
+    "entidad": "educación superior",
+    "relacion": "ha visto un aumento en",
+    "valor": "heterogeneidad estudiantil"
+  },
+  {
+    "entidad": "estrategias de acción",
+    "relacion": "deben ser",
+    "valor": "protocolizadas y estandarizadas"
+  },
+  {
+    "entidad": "necesidades de apoyo",
+    "relacion": "incluyen",
+    "valor": "protocolos para atender a la diversidad"
+  },
+  {
+    "entidad": "salud mental",
+    "relacion": "afecta a",
+    "valor": "trabajadores de la salud"
+  },
+  {
+    "entidad": "apoyo social de superiores",
+    "relacion": "protege",
+    "valor": "salud mental"
+  },
+  {
+    "entidad": "sintomatología ansiosa",
+    "relacion": "asociada a",
+    "valor": "condiciones laborales"
+  },
+  {
+    "entidad": "sintomatología depresiva",
+    "relacion": "asociada a",
+    "valor": "apoyo social"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "presentan",
+    "valor": "mayor sintomatología ansiosa"
+  },
+  {
+    "entidad": "desconfianza en la gestión gubernamental",
+    "relacion": "aumenta",
+    "valor": "sintomatología depresiva"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "incrementa",
+    "valor": "sintomatología ansiosa y depresiva"
+  },
+  {
+    "entidad": "apoyo organizacional",
+    "relacion": "prioriza",
+    "valor": "salud mental"
+  },
+  {
+    "entidad": "mascarillas insuficientes",
+    "relacion": "constituyen",
+    "valor": "factor de riesgo"
+  },
+  {
+    "entidad": "liderazgo en salud",
+    "relacion": "influye en",
+    "valor": "apoyo social"
+  },
+  {
+    "entidad": "trabajadores de la salud",
+    "relacion": "requieren",
+    "valor": "apoyo social"
+  },
+  {
+    "entidad": "estudio observacional",
+    "relacion": "evalúa",
+    "valor": "sintomatología ansiosa y depresiva"
+  },
+  {
+    "entidad": "Universidad Diego Portales",
+    "relacion": "realiza",
+    "valor": "investigación sobre salud mental"
+  },
+  {
+    "entidad": "Centro de Investigación Sociedad y Salud",
+    "relacion": "colabora con",
+    "valor": "estudio sobre salud mental"
+  },
+  {
+    "entidad": "Acción Salud UDP",
+    "relacion": "financia",
+    "valor": "proyecto de salud mental"
+  },
+  {
+    "entidad": "trabajadores de la salud en Chile",
+    "relacion": "reportan",
+    "valor": "sintomatología ansiosa y depresiva"
+  },
+  {
+    "entidad": "apoyo social",
+    "relacion": "reduce",
+    "valor": "sintomatología ansiosa y depresiva"
+  }
+]

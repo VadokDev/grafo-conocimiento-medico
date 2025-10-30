@@ -1,0 +1,237 @@
+[
+  {
+    "entidad": "Síndrome de POEMS",
+    "relacion": "es caracterizado por",
+    "valor": "polineuropatía, organomegalia, endocrinopatía, proteína monoclonal y cambios en la piel"
+  },
+  {
+    "entidad": "mujer",
+    "relacion": "presenta",
+    "valor": "neuropatía periférica"
+  },
+  {
+    "entidad": "mujer",
+    "relacion": "tiene",
+    "valor": "mieloma osteoesclerótico"
+  },
+  {
+    "entidad": "mujer",
+    "relacion": "tiene",
+    "valor": "elevación de IgA monoclonal"
+  },
+  {
+    "entidad": "mujer",
+    "relacion": "tiene",
+    "valor": "hipotiroidismo"
+  },
+  {
+    "entidad": "mujer",
+    "relacion": "tiene",
+    "valor": "hipogonadismo hipogonadotrófico"
+  },
+  {
+    "entidad": "mujer",
+    "relacion": "tiene",
+    "valor": "hiperprolactinemia"
+  },
+  {
+    "entidad": "mujer",
+    "relacion": "tiene",
+    "valor": "insuficiencia adrenal"
+  },
+  {
+    "entidad": "mujer",
+    "relacion": "tiene",
+    "valor": "hepatosplenomegalia"
+  },
+  {
+    "entidad": "mujer",
+    "relacion": "tiene",
+    "valor": "linfadenopatía"
+  },
+  {
+    "entidad": "mujer",
+    "relacion": "tiene",
+    "valor": "aumento de tiroides y parótida"
+  },
+  {
+    "entidad": "mujer",
+    "relacion": "tiene",
+    "valor": "enfermedad de Castleman"
+  },
+  {
+    "entidad": "mujer",
+    "relacion": "tiene",
+    "valor": "papiledema"
+  },
+  {
+    "entidad": "mujer",
+    "relacion": "tiene",
+    "valor": "piel rígida y hiperpigmentada"
+  },
+  {
+    "entidad": "mujer",
+    "relacion": "tiene",
+    "valor": "uñas blancas"
+  },
+  {
+    "entidad": "mujer",
+    "relacion": "tiene",
+    "valor": "clubbing"
+  },
+  {
+    "entidad": "mujer",
+    "relacion": "tiene",
+    "valor": "ascitis"
+  },
+  {
+    "entidad": "mujer",
+    "relacion": "tiene",
+    "valor": "diarrea crónica"
+  },
+  {
+    "entidad": "mujer",
+    "relacion": "tiene",
+    "valor": "nefropatía"
+  },
+  {
+    "entidad": "nefropatía",
+    "relacion": "es caracterizada por",
+    "valor": "hematuria microscópica, proteinuria, insuficiencia renal y retracción unilateral del riñón"
+  },
+  {
+    "entidad": "mujer",
+    "relacion": "es tratada con",
+    "valor": "melfalan y prednisona"
+  },
+  {
+    "entidad": "mujer",
+    "relacion": "logra",
+    "valor": "remisión de la enfermedad y nefropatía"
+  },
+  {
+    "entidad": "mujer",
+    "relacion": "sobrevive",
+    "valor": "doce años"
+  },
+  {
+    "entidad": "mujer",
+    "relacion": "fallece debido a",
+    "valor": "infarto agudo de miocardio"
+  },
+  {
+    "entidad": "Síndrome de POEMS",
+    "relacion": "puede comprometer",
+    "valor": "los riñones"
+  },
+  {
+    "entidad": "compromiso renal",
+    "relacion": "puede manifestarse como",
+    "valor": "hematuria y/o proteinuria"
+  },
+  {
+    "entidad": "biopsias renales",
+    "relacion": "muestran",
+    "valor": "características morfológicas por acción de citoquinas y factores de crecimiento"
+  },
+  {
+    "entidad": "tratamiento del Síndrome de POEMS",
+    "relacion": "incluye",
+    "valor": "corticosteroides y drogas alquilantes"
+  },
+  {
+    "entidad": "melfalan y prednisona",
+    "relacion": "logran",
+    "valor": "estabilizar la enfermedad"
+  },
+  {
+    "entidad": "Síndrome de POEMS",
+    "relacion": "tiene un curso clínico de",
+    "valor": "enfermedad crónica"
+  },
+  {
+    "entidad": "mujer",
+    "relacion": "presenta",
+    "valor": "eventos cardiovasculares"
+  },
+  {
+    "entidad": "hemangioblastoma cerebeloso",
+    "relacion": "asocia con",
+    "valor": "trombocitopenia"
+  },
+  {
+    "entidad": "Kasabach-Merritt Syndrome",
+    "relacion": "caracteriza por",
+    "valor": "hemangiomas y trombocitopenia"
+  },
+  {
+    "entidad": "hombre de 42 años",
+    "relacion": "presenta",
+    "valor": "hemangioblastoma cerebeloso y trombocitopenia"
+  },
+  {
+    "entidad": "hemorragia subaracnoidea",
+    "relacion": "se presenta con",
+    "valor": "hemangioblastoma cerebeloso"
+  },
+  {
+    "entidad": "esplenectomía",
+    "relacion": "se utiliza para",
+    "valor": "manejar la trombocitopenia"
+  },
+  {
+    "entidad": "subdural hematoma",
+    "relacion": "se desarrolla tras",
+    "valor": "esplenectomía"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "muere tras",
+    "valor": "tratamiento quirúrgico"
+  },
+  {
+    "entidad": "cefalea",
+    "relacion": "es un motivo de",
+    "valor": "consulta frecuente"
+  },
+  {
+    "entidad": "hemangioblastomas",
+    "relacion": "son tumores",
+    "valor": "benignos de bajo grado"
+  },
+  {
+    "entidad": "síndrome de Von Hippel-Lindau",
+    "relacion": "asocia con",
+    "valor": "hemangioblastomas"
+  },
+  {
+    "entidad": "trombocitopenia",
+    "relacion": "puede ser causada por",
+    "valor": "autoanticuerpos plaquetarios"
+  },
+  {
+    "entidad": "inmunoglobulina IV",
+    "relacion": "se aplica como",
+    "valor": "terapia para trombocitopenia"
+  },
+  {
+    "entidad": "esplenectomía laparoscópica",
+    "relacion": "normaliza",
+    "valor": "recuentos plaquetarios"
+  },
+  {
+    "entidad": "eventos isquémicos cerebrales",
+    "relacion": "se reportan como",
+    "valor": "complicación de esplenectomía"
+  },
+  {
+    "entidad": "hemangioblastoma",
+    "relacion": "puede predisponer a",
+    "valor": "desarrollo de autoanticuerpos plaquetarios"
+  },
+  {
+    "entidad": "muerte encefálica",
+    "relacion": "se declara tras",
+    "valor": "deterioro neurológico"
+  }
+]

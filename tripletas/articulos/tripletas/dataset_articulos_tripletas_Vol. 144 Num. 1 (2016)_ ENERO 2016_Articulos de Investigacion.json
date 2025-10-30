@@ -1,0 +1,787 @@
+[
+  {
+    "entidad": "Charing Cross Venous Ulcer Questionnaire (CCVUQ)",
+    "relacion": "es un",
+    "valor": "cuestionario de calidad de vida"
+  },
+  {
+    "entidad": "úceras venosas crónicas (UVC)",
+    "relacion": "afecta a",
+    "valor": "calidad de vida de los pacientes"
+  },
+  {
+    "entidad": "Universidad de la República",
+    "relacion": "pertenece a",
+    "valor": "Uruguay"
+  },
+  {
+    "entidad": "Hospital de Clínicas",
+    "relacion": "es un",
+    "valor": "centro de atención médica"
+  },
+  {
+    "entidad": "Dra. Gabriela Tafernaberry",
+    "relacion": "dirige",
+    "valor": "la investigación"
+  },
+  {
+    "entidad": "PROMIS Global Health Survey",
+    "relacion": "se utiliza junto con",
+    "valor": "CCVUQ"
+  },
+  {
+    "entidad": "CCVUQ",
+    "relacion": "mide",
+    "valor": "calidad de vida relacionada con la salud"
+  },
+  {
+    "entidad": "pacientes con UVC",
+    "relacion": "son evaluados por",
+    "valor": "CCVUQ"
+  },
+  {
+    "entidad": "calidad de vida relacionada con la salud (CVRS)",
+    "relacion": "es un concepto",
+    "valor": "multidimensional"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "influye en",
+    "valor": "la calidad de vida de pacientes con UVC"
+  },
+  {
+    "entidad": "ingreso familiar",
+    "relacion": "afecta",
+    "valor": "el bienestar emocional de los pacientes"
+  },
+  {
+    "entidad": "validez convergente",
+    "relacion": "es demostrada por",
+    "valor": "correlaciones altas entre CCVUQ y PROMIS"
+  },
+  {
+    "entidad": "muestra de pacientes",
+    "relacion": "es",
+    "valor": "homogénea en variables estudiadas"
+  },
+  {
+    "entidad": "comorbilidades",
+    "relacion": "son comunes en",
+    "valor": "pacientes con UVC"
+  },
+  {
+    "entidad": "proceso de adaptación transcultural",
+    "relacion": "culmina en",
+    "valor": "una versión fácil de comprender del CCVUQ"
+  },
+  {
+    "entidad": "coeficiente alfa de Cronbach",
+    "relacion": "evalúa",
+    "valor": "la confiabilidad de CCVUQ"
+  },
+  {
+    "entidad": "pacientes jóvenes",
+    "relacion": "reportan",
+    "valor": "peor calidad de vida emocional"
+  },
+  {
+    "entidad": "CCVUQ",
+    "relacion": "proporciona",
+    "valor": "información complementaria sobre CVRS"
+  },
+  {
+    "entidad": "síntomas de insuficiencia venosa crónica (IVC)",
+    "relacion": "son reportados por",
+    "valor": "pacientes con UVC"
+  },
+  {
+    "entidad": "muestra de conveniencia",
+    "relacion": "se selecciona de",
+    "valor": "pacientes con UVC"
+  },
+  {
+    "entidad": "Comité de Ética de la Investigación",
+    "relacion": "aprueba",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "Ateroesclerosis subclínica",
+    "relacion": "se presenta en",
+    "valor": "población asintomática"
+  },
+  {
+    "entidad": "Framingham risk score (FRS)",
+    "relacion": "tiene",
+    "valor": "limitaciones"
+  },
+  {
+    "entidad": "ecografía carotídea",
+    "relacion": "se utiliza para",
+    "valor": "evaluar riesgo cardiovascular"
+  },
+  {
+    "entidad": "grosor íntima-media carotídea (GIM)",
+    "relacion": "es un indicador de",
+    "valor": "ateroesclerosis subclínica"
+  },
+  {
+    "entidad": "población chilena",
+    "relacion": "se estudia en",
+    "valor": "contexto de riesgo cardiovascular"
+  },
+  {
+    "entidad": "Dra. Paola Varleta",
+    "relacion": "es",
+    "valor": "autora del estudio"
+  },
+  {
+    "entidad": "Hospital DIPRECA",
+    "relacion": "es un",
+    "valor": "centro de investigación"
+  },
+  {
+    "entidad": "Hospital de Carabineros",
+    "relacion": "es un",
+    "valor": "centro de investigación"
+  },
+  {
+    "entidad": "Universidad de la Serena",
+    "relacion": "es un",
+    "valor": "centro de investigación"
+  },
+  {
+    "entidad": "puntuación de riesgo de Framingham adaptada a Chile (PRF-AdCh)",
+    "relacion": "subestima",
+    "valor": "riesgo cardiovascular en mujeres"
+  },
+  {
+    "entidad": "puntuación de riesgo cardiovascular general (PRF-CVG)",
+    "relacion": "se utiliza para",
+    "valor": "evaluar riesgo cardiovascular"
+  },
+  {
+    "entidad": "ecografía carotídea",
+    "relacion": "se recomienda para",
+    "valor": "intervención precoz en ateroesclerosis"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "presentan mayor",
+    "valor": "prevalencia de ateroesclerosis subclínica"
+  },
+  {
+    "entidad": "tratamiento antihipertensivo",
+    "relacion": "se asocia con",
+    "valor": "presencia de placa carotídea"
+  },
+  {
+    "entidad": "dislipidemia",
+    "relacion": "se asocia con",
+    "valor": "presencia de placa carotídea"
+  },
+  {
+    "entidad": "GIM elevado",
+    "relacion": "se define como",
+    "valor": "valor medio superior al percentil 75"
+  },
+  {
+    "entidad": "población asintomática",
+    "relacion": "es un desafío para",
+    "valor": "estimación de riesgo cardiovascular"
+  },
+  {
+    "entidad": "ecografía carotídea",
+    "relacion": "se considera",
+    "valor": "parte del estudio del paciente hipertenso"
+  },
+  {
+    "entidad": "población de riesgo moderado",
+    "relacion": "debe ser evaluada con",
+    "valor": "imágenes o biomarcadores"
+  },
+  {
+    "entidad": "envejecimiento normal",
+    "relacion": "asocia",
+    "valor": "cambios en los parámetros angulares de la marcha"
+  },
+  {
+    "entidad": "adultos mayores (AM)",
+    "relacion": "reducen",
+    "valor": "velocidad de marcha"
+  },
+  {
+    "entidad": "adultos jóvenes (AJ)",
+    "relacion": "se comparan con",
+    "valor": "adultos mayores (AM)"
+  },
+  {
+    "entidad": "cámara VICON Bonita",
+    "relacion": "se utiliza para",
+    "valor": "captura de datos cinemáticos"
+  },
+  {
+    "entidad": "parámetros cinemáticos de marcha",
+    "relacion": "se analizan en",
+    "valor": "adultos mayores y jóvenes"
+  },
+  {
+    "entidad": "pelvis",
+    "relacion": "reduce",
+    "valor": "movimientos de oblicuidad en adultos mayores"
+  },
+  {
+    "entidad": "cadera",
+    "relacion": "aumenta",
+    "valor": "abducción en adultos mayores"
+  },
+  {
+    "entidad": "rodilla",
+    "relacion": "reduce",
+    "valor": "movimientos en el plano frontal durante la marcha"
+  },
+  {
+    "entidad": "tobillo",
+    "relacion": "disminuye",
+    "valor": "rangos máximos de flexión plantar en adultos mayores"
+  },
+  {
+    "entidad": "estabilidad dinámica",
+    "relacion": "se mantiene mediante",
+    "valor": "cambios en los parámetros de marcha"
+  },
+  {
+    "entidad": "sarcopenia",
+    "relacion": "afecta",
+    "valor": "funcionalidad de los sistemas de control postural"
+  },
+  {
+    "entidad": "variabilidad angular",
+    "relacion": "es un predictor de",
+    "valor": "riesgo de caídas en adultos mayores"
+  },
+  {
+    "entidad": "ciclo de marcha",
+    "relacion": "se normaliza a",
+    "valor": "100% para análisis"
+  },
+  {
+    "entidad": "Universidad Santo Tomás",
+    "relacion": "financia",
+    "valor": "proyecto de investigación"
+  },
+  {
+    "entidad": "Asociación Cristiana de Jóvenes (YMCA)",
+    "relacion": "recluta",
+    "valor": "adultos mayores para el estudio"
+  },
+  {
+    "entidad": "comité de ética de la UST",
+    "relacion": "aprueba",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "programa Nexus 2.0",
+    "relacion": "se utiliza para",
+    "valor": "obtener el ciclo de marcha"
+  },
+  {
+    "entidad": "software Polygon 4.1",
+    "relacion": "se utiliza para",
+    "valor": "analizar datos cinemáticos"
+  },
+  {
+    "entidad": "cambios en la marcha",
+    "relacion": "se relacionan con",
+    "valor": "estabilidad dinámica en adultos mayores"
+  },
+  {
+    "entidad": "drogas ilícitas",
+    "relacion": "asocia",
+    "valor": "aumento del riesgo de infarto agudo del miocardio"
+  },
+  {
+    "entidad": "Registro Chileno de Infarto (GEMI)",
+    "relacion": "utiliza",
+    "valor": "para evaluar pacientes con infarto agudo del miocardio"
+  },
+  {
+    "entidad": "usuarios de drogas ilícitas",
+    "relacion": "presentan",
+    "valor": "mayor frecuencia de supradesnivel del segmento ST"
+  },
+  {
+    "entidad": "usuarios de drogas ilícitas",
+    "relacion": "son",
+    "valor": "más jóvenes"
+  },
+  {
+    "entidad": "usuarios de drogas ilícitas",
+    "relacion": "tienen",
+    "valor": "menor carga de factores de riesgo cardiovascular"
+  },
+  {
+    "entidad": "infarto agudo del miocardio",
+    "relacion": "se asocia con",
+    "valor": "consumo de cocaína"
+  },
+  {
+    "entidad": "infarto agudo del miocardio",
+    "relacion": "se asocia con",
+    "valor": "consumo de cannabis"
+  },
+  {
+    "entidad": "angioplastia primaria",
+    "relacion": "es más accesible para",
+    "valor": "usuarios de drogas ilícitas"
+  },
+  {
+    "entidad": "mortalidad intrahospitalaria",
+    "relacion": "es menor en",
+    "valor": "usuarios de drogas ilícitas"
+  },
+  {
+    "entidad": "mortalidad intrahospitalaria",
+    "relacion": "no se asocia con",
+    "valor": "consumo de drogas ilícitas"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "es un factor de riesgo",
+    "valor": "en usuarios de drogas ilícitas"
+  },
+  {
+    "entidad": "Hospital Clínico Universidad de Chile",
+    "relacion": "es un",
+    "valor": "centro de salud"
+  },
+  {
+    "entidad": "Facultad de Medicina, Universidad de los Andes",
+    "relacion": "es un",
+    "valor": "centro de investigación"
+  },
+  {
+    "entidad": "Sociedad Chilena de Cardiología y Cirugía Cardiovascular",
+    "relacion": "es una",
+    "valor": "organización profesional"
+  },
+  {
+    "entidad": "Facultad de Medicina, Pontificia Universidad Católica de Chile",
+    "relacion": "es un",
+    "valor": "centro de estudio"
+  },
+  {
+    "entidad": "mortalidad intrahospitalaria",
+    "relacion": "no muestra diferencias en",
+    "valor": "pacientes estratificados por edad"
+  },
+  {
+    "entidad": "médicos generales",
+    "relacion": "manejan",
+    "valor": "trastornos depresivos"
+  },
+  {
+    "entidad": "Santiago de Chile",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "trastornos depresivos",
+    "relacion": "afectan a",
+    "valor": "pacientes en Atención Primaria de Salud"
+  },
+  {
+    "entidad": "Habilidades clínicas",
+    "relacion": "son evaluadas en",
+    "valor": "médicos generales"
+  },
+  {
+    "entidad": "conocimientos teóricos",
+    "relacion": "son un tipo de",
+    "valor": "habilidad clínica"
+  },
+  {
+    "entidad": "habilidades diagnósticas",
+    "relacion": "son un tipo de",
+    "valor": "habilidad clínica"
+  },
+  {
+    "entidad": "habilidades terapéuticas",
+    "relacion": "son un tipo de",
+    "valor": "habilidad clínica"
+  },
+  {
+    "entidad": "Programa de Tratamiento de la Depresión",
+    "relacion": "es parte de",
+    "valor": "Garantías Explícitas de Salud (GES)"
+  },
+  {
+    "entidad": "Universidad de Chile",
+    "relacion": "es una",
+    "valor": "institución educativa"
+  },
+  {
+    "entidad": "Fondo Nacional de Investigación y Desarrollo en Salud (FONIS)",
+    "relacion": "financia",
+    "valor": "proyectos de investigación"
+  },
+  {
+    "entidad": "médicos chilenos",
+    "relacion": "tienen mejores niveles de",
+    "valor": "conocimientos teóricos que médicos extranjeros"
+  },
+  {
+    "entidad": "médicos adultos jóvenes",
+    "relacion": "tienen mejores niveles de",
+    "valor": "conocimientos teóricos que médicos adultos"
+  },
+  {
+    "entidad": "nivel primario de salud",
+    "relacion": "es el",
+    "valor": "eje central de los servicios sanitarios"
+  },
+  {
+    "entidad": "estrategias de capacitación",
+    "relacion": "se utilizan para",
+    "valor": "mejorar habilidades clínicas"
+  },
+  {
+    "entidad": "evaluación de habilidades clínicas",
+    "relacion": "es un indicador de",
+    "valor": "calidad en atención de salud mental"
+  },
+  {
+    "entidad": "métodos de enseñanza-aprendizaje",
+    "relacion": "deben ser revisados para",
+    "valor": "mejorar la formación en salud mental"
+  },
+  {
+    "entidad": "Comité de Ética de Investigación",
+    "relacion": "aprueba",
+    "valor": "proyectos de investigación"
+  },
+  {
+    "entidad": "muestra de médicos",
+    "relacion": "es",
+    "valor": "voluntaria"
+  },
+  {
+    "entidad": "método de evaluación",
+    "relacion": "debe incluir",
+    "valor": "diversas mediciones y formatos"
+  },
+  {
+    "entidad": "Linfonodo centinela",
+    "relacion": "se utiliza en",
+    "valor": "cáncer de mama"
+  },
+  {
+    "entidad": "detección isotópica",
+    "relacion": "correlaciona con",
+    "valor": "detección quirúrgica"
+  },
+  {
+    "entidad": "Clínica Santa María",
+    "relacion": "realiza",
+    "valor": "estudios de cáncer de mama"
+  },
+  {
+    "entidad": "cáncer de mama",
+    "relacion": "afecta a",
+    "valor": "mujeres"
+  },
+  {
+    "entidad": "disección de linfonodo axilar (DLA)",
+    "relacion": "puede causar",
+    "valor": "linfedema"
+  },
+  {
+    "entidad": "linfedema",
+    "relacion": "afecta a",
+    "valor": "calidad de vida"
+  },
+  {
+    "entidad": "Sociedad Americana de Cirujanos de Mama (SACM)",
+    "relacion": "recomienda",
+    "valor": "documentar experiencia de cirujanos"
+  },
+  {
+    "entidad": "biopsia de linfonodo centinela",
+    "relacion": "puede predecir",
+    "valor": "compromiso metastásico axilar"
+  },
+  {
+    "entidad": "metástasis",
+    "relacion": "se observa en",
+    "valor": "linfonodos axilares"
+  },
+  {
+    "entidad": "técnica de detección del linfonodo centinela",
+    "relacion": "fue descrita por",
+    "valor": "Morton en 1992"
+  },
+  {
+    "entidad": "azul de isosulfán",
+    "relacion": "se utiliza en",
+    "valor": "detección de linfonodo centinela"
+  },
+  {
+    "entidad": "radiotrazadores",
+    "relacion": "son efectivos en",
+    "valor": "localizar linfonodo centinela"
+  },
+  {
+    "entidad": "tasa de detección de linfonodo centinela",
+    "relacion": "es variable",
+    "valor": "en la literatura"
+  },
+  {
+    "entidad": "técnica isotópica",
+    "relacion": "se utiliza en",
+    "valor": "detección prequirúrgica"
+  },
+  {
+    "entidad": "gamma probe",
+    "relacion": "se utiliza en",
+    "valor": "detección intraoperatoria"
+  },
+  {
+    "entidad": "biopsia rápida",
+    "relacion": "se realiza en",
+    "valor": "linfonodos centinela"
+  },
+  {
+    "entidad": "coeficiente kappa",
+    "relacion": "evalúa",
+    "valor": "concordancia entre biopsias"
+  },
+  {
+    "entidad": "pacientes con axila clínicamente negativa",
+    "relacion": "se benefician de",
+    "valor": "detección de linfonodo centinela"
+  },
+  {
+    "entidad": "técnica de linfonodo centinela",
+    "relacion": "es un método",
+    "valor": "útil en estadificación axilar"
+  },
+  {
+    "entidad": "Comité de Ética",
+    "relacion": "pertenece a",
+    "valor": "Sociedad Chilena de Nefrología"
+  },
+  {
+    "entidad": "Facultad de Medicina",
+    "relacion": "pertenece a",
+    "valor": "Universidad de los Andes"
+  },
+  {
+    "entidad": "Escuela de Enfermería",
+    "relacion": "pertenece a",
+    "valor": "Pontificia Universidad Católica de Chile"
+  },
+  {
+    "entidad": "Facultad de Medicina",
+    "relacion": "pertenece a",
+    "valor": "Universidad Diego Portales"
+  },
+  {
+    "entidad": "Facultad de Medicina",
+    "relacion": "pertenece a",
+    "valor": "Pontificia Universidad Católica de Chile"
+  },
+  {
+    "entidad": "Facultad de Medicina",
+    "relacion": "pertenece a",
+    "valor": "Clínica Alemana-Universidad del Desarrollo"
+  },
+  {
+    "entidad": "Comité Ético-Científico Pediátrico",
+    "relacion": "pertenece a",
+    "valor": "Servicio de Salud Metropolitano Sur y Mideplan"
+  },
+  {
+    "entidad": "Sociedad Chilena de Nefrología",
+    "relacion": "financia",
+    "valor": "estudio"
+  },
+  {
+    "entidad": "F. Browne",
+    "relacion": "recibió",
+    "valor": "honorarios de la Sociedad Chilena de Nefrología"
+  },
+  {
+    "entidad": "hemodiálisis crónica",
+    "relacion": "afecta a",
+    "valor": "pacientes con enfermedad renal crónica terminal"
+  },
+  {
+    "entidad": "centros de hemodiálisis crónica",
+    "relacion": "enfrentan",
+    "valor": "problemas ético-clínicos"
+  },
+  {
+    "entidad": "médicos y enfermeras",
+    "relacion": "perciben",
+    "valor": "problemas ético-clínicos"
+  },
+  {
+    "entidad": "problemas ético-clínicos",
+    "relacion": "incluyen",
+    "valor": "falta de comunicación"
+  },
+  {
+    "entidad": "problemas ético-clínicos",
+    "relacion": "incluyen",
+    "valor": "conflictos de intereses"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "deben firmar",
+    "valor": "consentimiento informado"
+  },
+  {
+    "entidad": "directivas anticipadas",
+    "relacion": "son apoyadas por",
+    "valor": "87% de los encuestados"
+  },
+  {
+    "entidad": "pacientes con ERCT",
+    "relacion": "pueden experimentar",
+    "valor": "dificultades en la toma de decisiones"
+  },
+  {
+    "entidad": "comunicación",
+    "relacion": "es necesaria para",
+    "valor": "compartir decisiones"
+  },
+  {
+    "entidad": "conflictos de intereses",
+    "relacion": "pueden surgir de",
+    "valor": "beneficios económicos"
+  },
+  {
+    "entidad": "médicos y enfermeras",
+    "relacion": "deben mejorar",
+    "valor": "su capacitación en ética clínica"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "tienen derecho a",
+    "valor": "rechazar tratamiento"
+  },
+  {
+    "entidad": "hemodiálisis crónica",
+    "relacion": "no es un fin en sí misma",
+    "valor": "debe ser evaluada en términos de calidad de vida"
+  },
+  {
+    "entidad": "trasplante renal",
+    "relacion": "es un",
+    "valor": "tratamiento para enfermedad renal crónica"
+  },
+  {
+    "entidad": "donantes con criterios expandidos (DCE)",
+    "relacion": "tienen",
+    "valor": "menor sobrevida a largo plazo"
+  },
+  {
+    "entidad": "donantes con criterios estándar (DCS)",
+    "relacion": "tienen",
+    "valor": "mejor sobrevida a largo plazo"
+  },
+  {
+    "entidad": "Hospital del Salvador",
+    "relacion": "realiza",
+    "valor": "trasplantes renales"
+  },
+  {
+    "entidad": "pacientes en diálisis",
+    "relacion": "se benefician de",
+    "valor": "trasplante renal de DCE"
+  },
+  {
+    "entidad": "criterios de selección de donantes",
+    "relacion": "incluyen",
+    "valor": "edad y condiciones médicas"
+  },
+  {
+    "entidad": "receptores de DCE",
+    "relacion": "presentan",
+    "valor": "mayor frecuencia de complicaciones quirúrgicas"
+  },
+  {
+    "entidad": "receptores de DCE",
+    "relacion": "presentan",
+    "valor": "mayor tasa de hospitalizaciones"
+  },
+  {
+    "entidad": "receptores de DCE",
+    "relacion": "tienen",
+    "valor": "mayor incidencia de rechazo agudo"
+  },
+  {
+    "entidad": "función renal",
+    "relacion": "es evaluada en",
+    "valor": "receptores de DCE y DCS"
+  },
+  {
+    "entidad": "creatinina sérica",
+    "relacion": "es mayor en",
+    "valor": "receptores de DCE"
+  },
+  {
+    "entidad": "velocidad de filtración glomerular (VFG)",
+    "relacion": "es menor en",
+    "valor": "receptores de DCE"
+  },
+  {
+    "entidad": "hospitalizaciones",
+    "relacion": "son más frecuentes en",
+    "valor": "receptores de DCE"
+  },
+  {
+    "entidad": "donantes añosos",
+    "relacion": "son considerados",
+    "valor": "donantes con criterios expandidos"
+  },
+  {
+    "entidad": "estrategias para mejorar resultados",
+    "relacion": "incluyen",
+    "valor": "selección de receptores adecuados"
+  },
+  {
+    "entidad": "inmunosupresores",
+    "relacion": "son utilizados en",
+    "valor": "pacientes trasplantados"
+  },
+  {
+    "entidad": "receptor de DCE",
+    "relacion": "recibe",
+    "valor": "doble trasplante renal en algunas circunstancias"
+  },
+  {
+    "entidad": "creatinina",
+    "relacion": "es un indicador de",
+    "valor": "función renal post-trasplante"
+  },
+  {
+    "entidad": "complicaciones vasculares",
+    "relacion": "son más comunes en",
+    "valor": "receptores de DCE"
+  },
+  {
+    "entidad": "muerte con injerto funcionante",
+    "relacion": "ocurre en",
+    "valor": "receptores de DCE y DCS"
+  },
+  {
+    "entidad": "sobrevida de los pacientes",
+    "relacion": "es menor en",
+    "valor": "receptores de DCE"
+  },
+  {
+    "entidad": "diferencias en función renal",
+    "relacion": "se manifiestan desde",
+    "valor": "el primer mes post-trasplante"
+  }
+]

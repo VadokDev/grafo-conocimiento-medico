@@ -1,0 +1,172 @@
+[
+  {
+    "entidad": "Organización Mundial de la Salud (WHO)",
+    "relacion": "define",
+    "valor": "salud como un estado de completo bienestar físico, mental y social"
+  },
+  {
+    "entidad": "gratitud",
+    "relacion": "asociado con",
+    "valor": "bienestar"
+  },
+  {
+    "entidad": "gratitud",
+    "relacion": "medida por",
+    "valor": "Gratitude Questionnaire-6 item (GQ-6)"
+  },
+  {
+    "entidad": "gratitud",
+    "relacion": "relacionada con",
+    "valor": "corteza prefrontal medial"
+  },
+  {
+    "entidad": "gratitud",
+    "relacion": "asociada con",
+    "valor": "oxitocina"
+  },
+  {
+    "entidad": "gratitud",
+    "relacion": "mejorada por",
+    "valor": "ejercicios como carta de gratitud y diario de gratitud"
+  },
+  {
+    "entidad": "gratitud",
+    "relacion": "asociada a",
+    "valor": "mejores parámetros de salud física y mental"
+  },
+  {
+    "entidad": "salud física",
+    "relacion": "mejorada por",
+    "valor": "gratitud"
+  },
+  {
+    "entidad": "salud mental",
+    "relacion": "mejorada por",
+    "valor": "gratitud"
+  },
+  {
+    "entidad": "intervenciones de gratitud",
+    "relacion": "potencialmente útiles en",
+    "valor": "pacientes suicidas"
+  },
+  {
+    "entidad": "intervenciones de gratitud",
+    "relacion": "pueden ser",
+    "valor": "autoaplicadas y costo-efectivas"
+  },
+  {
+    "entidad": "psicología positiva",
+    "relacion": "aportada por",
+    "valor": "bienestar y emociones positivas"
+  },
+  {
+    "entidad": "gratitud",
+    "relacion": "puede ser sentida, expresada o reforzada por",
+    "valor": "diversas formas como palabras, abrazos y psicoeducación"
+  },
+  {
+    "entidad": "ejercicios de gratitud",
+    "relacion": "pueden causar",
+    "valor": "incomodidad o culpa en algunas personas"
+  },
+  {
+    "entidad": "gratitud",
+    "relacion": "asociada a",
+    "valor": "mejor calidad de vida"
+  },
+  {
+    "entidad": "gratitud",
+    "relacion": "promueve",
+    "valor": "mejores relaciones interpersonales"
+  },
+  {
+    "entidad": "intervenciones en gratitud",
+    "relacion": "pueden ser",
+    "valor": "efectivas en reducir síntomas de depresión"
+  },
+  {
+    "entidad": "oxitocina",
+    "relacion": "asociada con",
+    "valor": "mayor gratitud"
+  },
+  {
+    "entidad": "gratitud",
+    "relacion": "puede ser utilizada como",
+    "valor": "complemento a la psicoterapia"
+  },
+  {
+    "entidad": "Periodontitis crónica",
+    "relacion": "modifica",
+    "valor": "morbilidad de la artritis reumatoide"
+  },
+  {
+    "entidad": "Artritis reumatoide",
+    "relacion": "afecta a",
+    "valor": "articulaciones sinoviales"
+  },
+  {
+    "entidad": "Periodontitis crónica",
+    "relacion": "aumenta",
+    "valor": "prevalencia en pacientes con artritis reumatoide"
+  },
+  {
+    "entidad": "Pacientes con artritis reumatoide",
+    "relacion": "presentan",
+    "valor": "mayores valores de parámetros clínicos periodontales"
+  },
+  {
+    "entidad": "Actividad de artritis",
+    "relacion": "es mayor en",
+    "valor": "pacientes con periodontitis crónica"
+  },
+  {
+    "entidad": "Tratamiento periodontal no quirúrgico",
+    "relacion": "disminuye",
+    "valor": "actividad de artritis"
+  },
+  {
+    "entidad": "Severidad de periodontitis crónica",
+    "relacion": "se correlaciona con",
+    "valor": "actividad de artritis reumatoide"
+  },
+  {
+    "entidad": "Anticuerpos contra P. gingivalis",
+    "relacion": "aumentan en",
+    "valor": "pacientes con artritis reumatoide"
+  },
+  {
+    "entidad": "Niveles de anticuerpos anti-CCP",
+    "relacion": "se correlacionan con",
+    "valor": "periodontitis crónica"
+  },
+  {
+    "entidad": "Periodontitis crónica",
+    "relacion": "asocia con",
+    "valor": "aumento de factores de riesgo en artritis reumatoide"
+  },
+  {
+    "entidad": "Terapia periodontal",
+    "relacion": "mejora",
+    "valor": "condición periodontal y actividad de la enfermedad en artritis reumatoide"
+  },
+  {
+    "entidad": "Anticuerpos anti-PPAD",
+    "relacion": "se elevan en",
+    "valor": "pacientes con artritis reumatoide"
+  },
+  {
+    "entidad": "Inflamación periodontal",
+    "relacion": "se asocia con",
+    "valor": "niveles de VHS y ACPA"
+  },
+  {
+    "entidad": "Estudios sistemáticos",
+    "relacion": "indican",
+    "valor": "asociación entre artritis reumatoide y periodontitis crónica"
+  },
+  {
+    "entidad": "Factores comunes",
+    "relacion": "pueden influir en",
+    "valor": "relación entre artritis reumatoide y periodontitis crónica"
+  }
+]

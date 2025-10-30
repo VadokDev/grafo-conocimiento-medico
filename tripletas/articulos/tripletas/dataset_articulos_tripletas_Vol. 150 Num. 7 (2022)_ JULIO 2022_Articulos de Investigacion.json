@@ -1,0 +1,742 @@
+[
+  {
+    "entidad": "cáncer diferenciado de tiroides (CDT)",
+    "relacion": "tiene",
+    "valor": "excelente pronóstico"
+  },
+  {
+    "entidad": "cáncer diferenciado de tiroides (CDT)",
+    "relacion": "presenta",
+    "valor": "tasa de sobrevida de 85%-93% a diez años"
+  },
+  {
+    "entidad": "tratamiento de primera línea",
+    "relacion": "es",
+    "valor": "cirugía"
+  },
+  {
+    "entidad": "cirugía",
+    "relacion": "es seguida de",
+    "valor": "ablación del remanente tiroideo mediante radioyodo"
+  },
+  {
+    "entidad": "tiroglobulina (Tg)",
+    "relacion": "es",
+    "valor": "marcador clave para la identificación de recurrencia o persistencia de enfermedad"
+  },
+  {
+    "entidad": "niveles bajos de Tg",
+    "relacion": "se asocian a",
+    "valor": "ausencia de enfermedad"
+  },
+  {
+    "entidad": "niveles altos de Tg",
+    "relacion": "se asocian a",
+    "valor": "persistencia de enfermedad"
+  },
+  {
+    "entidad": "Tg",
+    "relacion": "corresponde a",
+    "valor": "un precursor proteico de las hormonas tiroideas"
+  },
+  {
+    "entidad": "vida media de la Tg sérica",
+    "relacion": "varía entre",
+    "valor": "uno a seis días"
+  },
+  {
+    "entidad": "Tg preablativa (pTg)",
+    "relacion": "es",
+    "valor": "medición importante antes de la ablación con radioyodo"
+  },
+  {
+    "entidad": "Tg estimulada (sTg)",
+    "relacion": "tiene",
+    "valor": "mejor sensibilidad"
+  },
+  {
+    "entidad": "pTg",
+    "relacion": "se relaciona con",
+    "valor": "cantidad de enfermedad preoperatoria"
+  },
+  {
+    "entidad": "pTg",
+    "relacion": "se relaciona con",
+    "valor": "metástasis linfonodales"
+  },
+  {
+    "entidad": "pTg",
+    "relacion": "se relaciona con",
+    "valor": "tratamiento"
+  },
+  {
+    "entidad": "pTg",
+    "relacion": "se relaciona con",
+    "valor": "presencia de captación en rastreo sistémico"
+  },
+  {
+    "entidad": "remanente cervical",
+    "relacion": "se asocia a",
+    "valor": "valores mayores de pTg"
+  },
+  {
+    "entidad": "número de tumores",
+    "relacion": "se asocia a",
+    "valor": "valores menores de pTg"
+  },
+  {
+    "entidad": "tamaño de tumor",
+    "relacion": "se asocia a",
+    "valor": "valores menores de pTg"
+  },
+  {
+    "entidad": "análisis estadístico",
+    "relacion": "utiliza",
+    "valor": "programa GraphPad (prism 6)"
+  },
+  {
+    "entidad": "procedimientos",
+    "relacion": "respetan",
+    "valor": "normas éticas concordantes con la Declaración de Helsinki"
+  },
+  {
+    "entidad": "Hospital Clínico de la Universidad de Chile",
+    "relacion": "realiza",
+    "valor": "análisis de datos"
+  },
+  {
+    "entidad": "pTg",
+    "relacion": "se mide",
+    "valor": "en el primer control post operatorio"
+  },
+  {
+    "entidad": "remanente cervical",
+    "relacion": "puede indicar",
+    "valor": "micrometástasis no evidenciadas"
+  },
+  {
+    "entidad": "valores de pTg",
+    "relacion": "no presentan",
+    "valor": "diferencias significativas según el momento de la toma de muestra"
+  },
+  {
+    "entidad": "reconstrucción de vía biliar",
+    "relacion": "es un",
+    "valor": "procedimiento quirúrgico"
+  },
+  {
+    "entidad": "lesión de vía biliar",
+    "relacion": "es causada por",
+    "valor": "colecistectomía"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "es evaluada por",
+    "valor": "cuestionario SF-36"
+  },
+  {
+    "entidad": "cohorte de pacientes",
+    "relacion": "está compuesta por",
+    "valor": "32 pacientes"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "no presenta diferencias significativas con",
+    "valor": "pacientes sometidos a colecistectomía sin incidentes"
+  },
+  {
+    "entidad": "técnica Hepp-Couinaud",
+    "relacion": "es",
+    "valor": "una técnica de reconstrucción de vía biliar"
+  },
+  {
+    "entidad": "experiencia del centro y del cirujano",
+    "relacion": "influye en",
+    "valor": "pronóstico de la reconstrucción de vía biliar"
+  },
+  {
+    "entidad": "Hospital Regional de Temuco",
+    "relacion": "es un",
+    "valor": "centro de cirugía biliopancreática"
+  },
+  {
+    "entidad": "Universidad de La Frontera",
+    "relacion": "es un",
+    "valor": "institución de investigación"
+  },
+  {
+    "entidad": "Society of American Gastrointestinal and Endoscopic Surgeons (SAGES)",
+    "relacion": "publicó",
+    "valor": "guía sobre colecistectomía segura"
+  },
+  {
+    "entidad": "seguimiento clínico",
+    "relacion": "es importante para",
+    "valor": "diagnosticar y tratar complicaciones"
+  },
+  {
+    "entidad": "metaanálisis",
+    "relacion": "incluyó",
+    "valor": "32 estudios sobre lesiones de vía biliar"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "es afectada por",
+    "valor": "complicaciones postoperatorias"
+  },
+  {
+    "entidad": "Región de La Araucanía",
+    "relacion": "tiene una población de aproximadamente",
+    "valor": "870.000 habitantes"
+  },
+  {
+    "entidad": "Colangitis biliar primaria",
+    "relacion": "es un",
+    "valor": "enfermedad colestásica autoinmune crónica"
+  },
+  {
+    "entidad": "Colangitis biliar primaria",
+    "relacion": "afecta a",
+    "valor": "mujeres de mediana edad"
+  },
+  {
+    "entidad": "Colangitis biliar primaria",
+    "relacion": "se presenta como",
+    "valor": "asintomática con colestasis bioquímica"
+  },
+  {
+    "entidad": "Colangitis biliar primaria",
+    "relacion": "se asocia con",
+    "valor": "anticuerpos antimitochondriales (AMA)"
+  },
+  {
+    "entidad": "Hospital Clínico de la Universidad de Chile",
+    "relacion": "realiza",
+    "valor": "estudio descriptivo sobre colangitis biliar primaria"
+  },
+  {
+    "entidad": "Ursodeoxycholic acid (UDCA)",
+    "relacion": "es el",
+    "valor": "tratamiento de primera línea para colangitis biliar primaria"
+  },
+  {
+    "entidad": "Colangitis biliar primaria",
+    "relacion": "se asocia con",
+    "valor": "síndrome de Sjögren"
+  },
+  {
+    "entidad": "Colangitis biliar primaria",
+    "relacion": "se asocia con",
+    "valor": "hipotiroidismo"
+  },
+  {
+    "entidad": "Colangitis biliar primaria",
+    "relacion": "se asocia con",
+    "valor": "osteoporosis"
+  },
+  {
+    "entidad": "Colangitis biliar primaria",
+    "relacion": "se asocia con",
+    "valor": "esclerodermia"
+  },
+  {
+    "entidad": "Colangitis biliar primaria",
+    "relacion": "se manifiesta por",
+    "valor": "colangitis destructiva crónica no supurativa"
+  },
+  {
+    "entidad": "Colangitis biliar primaria",
+    "relacion": "requiere",
+    "valor": "evaluación de respuesta bioquímica"
+  },
+  {
+    "entidad": "Colangitis biliar primaria",
+    "relacion": "puede progresar a",
+    "valor": "cirrosis"
+  },
+  {
+    "entidad": "Hospital Clínico de la Universidad de Chile",
+    "relacion": "es un",
+    "valor": "centro de referencia nacional en hepatología"
+  },
+  {
+    "entidad": "Colangitis biliar primaria",
+    "relacion": "se diagnostica mediante",
+    "valor": "colestasis bioquímica y presencia de AMA"
+  },
+  {
+    "entidad": "Colangitis biliar primaria",
+    "relacion": "puede requerir",
+    "valor": "trasplante hepático"
+  },
+  {
+    "entidad": "Colangitis biliar primaria",
+    "relacion": "se asocia con",
+    "valor": "fatiga y prurito"
+  },
+  {
+    "entidad": "Colangitis biliar primaria",
+    "relacion": "se presenta en",
+    "valor": "pacientes asintomáticos"
+  },
+  {
+    "entidad": "Colangitis biliar primaria",
+    "relacion": "puede tener",
+    "valor": "recurrencia post-trasplante"
+  },
+  {
+    "entidad": "Trastorno Depresivo Mayor (TDM)",
+    "relacion": "es un",
+    "valor": "problema de salud pública"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud (ENS) 2016/17",
+    "relacion": "combina",
+    "valor": "notificaciones GES de depresión"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "implementa",
+    "valor": "Programa Nacional de Detección, Diagnóstico y Tratamiento de la Depresión (PSDCTD)"
+  },
+  {
+    "entidad": "PSDCTD",
+    "relacion": "garantiza",
+    "valor": "diagnóstico y tratamiento del TDM"
+  },
+  {
+    "entidad": "CIDI",
+    "relacion": "es utilizado por",
+    "valor": "la ENS para diagnóstico de TDM"
+  },
+  {
+    "entidad": "CIDI",
+    "relacion": "ha sido validado para",
+    "valor": "medición de prevalencia de desórdenes mentales en Chile"
+  },
+  {
+    "entidad": "Superintendencia de Salud",
+    "relacion": "recibe",
+    "valor": "notificaciones GES de depresión"
+  },
+  {
+    "entidad": "notificaciones GES",
+    "relacion": "son obligatorias para",
+    "valor": "usuarios del programa GES"
+  },
+  {
+    "entidad": "Censo 2017",
+    "relacion": "provee",
+    "valor": "tamaños de segmentos de la población"
+  },
+  {
+    "entidad": "ENS 2016/17",
+    "relacion": "informa sobre",
+    "valor": "acceso al programa GES"
+  },
+  {
+    "entidad": "TDM",
+    "relacion": "es una causa de",
+    "valor": "años de vida ajustados por discapacidad (AVAD)"
+  },
+  {
+    "entidad": "TDM",
+    "relacion": "afecta a",
+    "valor": "la calidad de vida de los afectados"
+  },
+  {
+    "entidad": "TDM",
+    "relacion": "genera",
+    "valor": "ausentismo laboral"
+  },
+  {
+    "entidad": "Markkula et al.",
+    "relacion": "realizó",
+    "valor": "primer estudio representativo nacional de prevalencia de TDM"
+  },
+  {
+    "entidad": "ENS 2016/17",
+    "relacion": "reporta",
+    "valor": "prevalencia de 6,2% de TDM"
+  },
+  {
+    "entidad": "análisis de combinación de fuentes",
+    "relacion": "aumenta",
+    "valor": "prevalencia de TDM a 6,65%"
+  },
+  {
+    "entidad": "TDM",
+    "relacion": "se estima que hay",
+    "valor": "63,474 casos adicionales por año"
+  },
+  {
+    "entidad": "programa GES",
+    "relacion": "tiene",
+    "valor": "baja cobertura según ENS 2016/17"
+  },
+  {
+    "entidad": "CIDI-SF",
+    "relacion": "no está validado en",
+    "valor": "Chile"
+  },
+  {
+    "entidad": "CIDI completo",
+    "relacion": "es utilizado en",
+    "valor": "ENS 2016/17"
+  },
+  {
+    "entidad": "muestra de la ENS",
+    "relacion": "es representativa de",
+    "valor": "la población nacional, regional, urbana y rural"
+  },
+  {
+    "entidad": "Embolización de colaterales portosistémicas espontáneas",
+    "relacion": "es un",
+    "valor": "tratamiento de la encefalopatía hepática refractaria"
+  },
+  {
+    "entidad": "Encefalopatía hepática (EH)",
+    "relacion": "es un",
+    "valor": "síndrome neuropsiquiátrico"
+  },
+  {
+    "entidad": "Cirrhosis",
+    "relacion": "asocia con",
+    "valor": "encefalopatía hepática"
+  },
+  {
+    "entidad": "Embolización de colaterales portosistémicas espontáneas",
+    "relacion": "mejora",
+    "valor": "funcionalidad de pacientes con EH"
+  },
+  {
+    "entidad": "MELD",
+    "relacion": "es un",
+    "valor": "puntaje que estima la supervivencia en pacientes con cirrosis"
+  },
+  {
+    "entidad": "Child-Pugh",
+    "relacion": "es un",
+    "valor": "sistema de clasificación de la función hepática"
+  },
+  {
+    "entidad": "Ammonia",
+    "relacion": "afecta a",
+    "valor": "la función cerebral en encefalopatía hepática"
+  },
+  {
+    "entidad": "Técnicas de embolización",
+    "relacion": "se utilizan en",
+    "valor": "el tratamiento de la encefalopatía hepática refractaria"
+  },
+  {
+    "entidad": "Hospital Clínico UC-Christus",
+    "relacion": "realiza",
+    "valor": "emboliciones de colaterales portosistémicas"
+  },
+  {
+    "entidad": "Hospital Clínico de la Universidad de Chile",
+    "relacion": "realiza",
+    "valor": "emboliciones de colaterales portosistémicas"
+  },
+  {
+    "entidad": "Técnica endovascular",
+    "relacion": "se emplea en",
+    "valor": "el tratamiento de la encefalopatía hepática refractaria"
+  },
+  {
+    "entidad": "Rifaximina",
+    "relacion": "es un",
+    "valor": "tratamiento médico para encefalopatía hepática"
+  },
+  {
+    "entidad": "Lactulosa",
+    "relacion": "es un",
+    "valor": "tratamiento médico para encefalopatía hepática"
+  },
+  {
+    "entidad": "Polietilenglicol",
+    "relacion": "es un",
+    "valor": "tratamiento médico para encefalopatía hepática"
+  },
+  {
+    "entidad": "Colaterales portosistémicas",
+    "relacion": "pueden causar",
+    "valor": "encefalopatía hepática"
+  },
+  {
+    "entidad": "Mortalidad",
+    "relacion": "es mayor en",
+    "valor": "pacientes con encefalopatía hepática"
+  },
+  {
+    "entidad": "Supervivencia a 1, 6 y 12 meses",
+    "relacion": "es",
+    "valor": "100%, 81.8%, 63.6% respectivamente"
+  },
+  {
+    "entidad": "Eventos adversos",
+    "relacion": "se presentan en",
+    "valor": "pacientes tras embolización"
+  },
+  {
+    "entidad": "Klebsiella pneumoniae",
+    "relacion": "causa",
+    "valor": "bacteremia en paciente post-embolización"
+  },
+  {
+    "entidad": "neoplasias mieloproliferativas Philadelphia negativas",
+    "relacion": "son",
+    "valor": "trastornos clonales"
+  },
+  {
+    "entidad": "JAK2",
+    "relacion": "es un",
+    "valor": "gen asociado a mutaciones en neoplasias mieloproliferativas"
+  },
+  {
+    "entidad": "CALR",
+    "relacion": "es un",
+    "valor": "gen asociado a mutaciones en neoplasias mieloproliferativas"
+  },
+  {
+    "entidad": "MPL",
+    "relacion": "es un",
+    "valor": "gen asociado a mutaciones en neoplasias mieloproliferativas"
+  },
+  {
+    "entidad": "Hospital Base Valdivia",
+    "relacion": "realiza",
+    "valor": "estudio de mutaciones"
+  },
+  {
+    "entidad": "Isabel Jaramillo",
+    "relacion": "es autor de",
+    "valor": "estudio sobre mutaciones en neoplasias mieloproliferativas"
+  },
+  {
+    "entidad": "hidroxicarbamida",
+    "relacion": "es un",
+    "valor": "tratamiento utilizado en pacientes"
+  },
+  {
+    "entidad": "mutación JAK2 V617F",
+    "relacion": "se encuentra en",
+    "valor": "más del 95% de los pacientes con policitemia vera"
+  },
+  {
+    "entidad": "mutaciones en CALR",
+    "relacion": "se encuentran en",
+    "valor": "25-35% de los pacientes con trombocitemia esencial"
+  },
+  {
+    "entidad": "mutaciones en MPL",
+    "relacion": "se encuentran en",
+    "valor": "2% de los pacientes con trombocitemia esencial"
+  },
+  {
+    "entidad": "trombosis",
+    "relacion": "es un",
+    "valor": "síntoma frecuente en neoplasias mieloproliferativas"
+  },
+  {
+    "entidad": "supervivencia",
+    "relacion": "es similar en",
+    "valor": "los tres tipos de neoplasias mieloproliferativas"
+  },
+  {
+    "entidad": "comité de ética de investigación",
+    "relacion": "aprueba",
+    "valor": "consentimiento informado"
+  },
+  {
+    "entidad": "muestras de sangre periférica",
+    "relacion": "son extraídas mediante",
+    "valor": "kit comercial"
+  },
+  {
+    "entidad": "análisis de datos",
+    "relacion": "se realiza con",
+    "valor": "programa Graphpad Prism 8.0"
+  },
+  {
+    "entidad": "complicaciones trombóticas",
+    "relacion": "son la",
+    "valor": "primera causa de muerte en pacientes"
+  },
+  {
+    "entidad": "progresión de la enfermedad",
+    "relacion": "es una",
+    "valor": "causa de muerte en pacientes"
+  },
+  {
+    "entidad": "infección",
+    "relacion": "es una",
+    "valor": "causa de muerte en pacientes"
+  },
+  {
+    "entidad": "neoplasias mieloproliferativas",
+    "relacion": "son diagnosticadas según",
+    "valor": "criterios de la OMS"
+  },
+  {
+    "entidad": "Malnutrición por exceso",
+    "relacion": "afecta a",
+    "valor": "mujeres durante la gestación"
+  },
+  {
+    "entidad": "Región de La Araucanía",
+    "relacion": "presenta",
+    "valor": "alta prevalencia de malnutrición por exceso"
+  },
+  {
+    "entidad": "Universidad de La Frontera",
+    "relacion": "es un",
+    "valor": "centro de investigación"
+  },
+  {
+    "entidad": "Agencia Nacional de Investigación y Desarrollo (ANID)",
+    "relacion": "financia",
+    "valor": "proyectos de investigación"
+  },
+  {
+    "entidad": "Fondo Nacional de Investigación y Desarrollo en Salud",
+    "relacion": "financia",
+    "valor": "proyectos de salud"
+  },
+  {
+    "entidad": "Sistema público de salud",
+    "relacion": "atiende a",
+    "valor": "gestantes en Temuco y Padre Las Casas"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "aumenta",
+    "valor": "riesgo de morbimortalidad"
+  },
+  {
+    "entidad": "exceso de peso durante la gestación",
+    "relacion": "asocia con",
+    "valor": "antecedentes de obesidad"
+  },
+  {
+    "entidad": "adolescentes",
+    "relacion": "tienen",
+    "valor": "mayor riesgo de retención de peso"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "recomienda",
+    "valor": "ganancia de peso adecuada durante el embarazo"
+  },
+  {
+    "entidad": "malnutrición por exceso femenina",
+    "relacion": "ha aumentado",
+    "valor": "10 puntos porcentuales entre 2009 y 2016"
+  },
+  {
+    "entidad": "educación baja",
+    "relacion": "se relaciona con",
+    "valor": "mayor obesidad en mujeres"
+  },
+  {
+    "entidad": "socioeconómico bajo",
+    "relacion": "se relaciona con",
+    "valor": "mayor obesidad en mujeres"
+  },
+  {
+    "entidad": "control prenatal",
+    "relacion": "ofrece",
+    "valor": "oportunidad de intervención"
+  },
+  {
+    "entidad": "malnutrición por exceso",
+    "relacion": "es un problema",
+    "valor": "que requiere políticas públicas robustas"
+  },
+  {
+    "entidad": "intervenciones comunitarias",
+    "relacion": "deben ser",
+    "valor": "implementadas para abordar la malnutrición"
+  },
+  {
+    "entidad": "ciclo intergeneracional de obesidad",
+    "relacion": "es causado por",
+    "valor": "malnutrición por exceso y aumento de peso gestacional"
+  },
+  {
+    "entidad": "sistema de salud",
+    "relacion": "debe potenciar",
+    "valor": "la atención primaria de salud"
+  },
+  {
+    "entidad": "abuso infantil",
+    "relacion": "influye en",
+    "valor": "victimización y perpetración en violencia de pareja"
+  },
+  {
+    "entidad": "violencia de pareja",
+    "relacion": "se define como",
+    "valor": "violencia psicológica, física, sexual o acoso"
+  },
+  {
+    "entidad": "adolescentes chilenos",
+    "relacion": "reportan",
+    "valor": "victimización psicológica, sexual y física"
+  },
+  {
+    "entidad": "maltrato infantil",
+    "relacion": "aumenta la probabilidad de",
+    "valor": "perpetrar y ser víctima de violencia de pareja"
+  },
+  {
+    "entidad": "abuso emocional infantil",
+    "relacion": "predice",
+    "valor": "victimización en violencia de pareja"
+  },
+  {
+    "entidad": "abuso físico infantil",
+    "relacion": "predice",
+    "valor": "perpetración en violencia de pareja"
+  },
+  {
+    "entidad": "abuso sexual infantil",
+    "relacion": "es un predictor de",
+    "valor": "victimización y perpetración en violencia de pareja"
+  },
+  {
+    "entidad": "teoría de los sistemas familiares",
+    "relacion": "propone que",
+    "valor": "la dinámica relacional familiar influye en el desarrollo de la personalidad"
+  },
+  {
+    "entidad": "exposición a violencia familiar de origen",
+    "relacion": "se asocia con",
+    "valor": "violencia de pareja"
+  },
+  {
+    "entidad": "programas de violencia de pareja",
+    "relacion": "buscan",
+    "valor": "reducir conductas violentas en adolescentes"
+  },
+  {
+    "entidad": "género",
+    "relacion": "influye en",
+    "valor": "victimización y perpetración en violencia de pareja"
+  },
+  {
+    "entidad": "estudios longitudinales",
+    "relacion": "muestran que",
+    "valor": "la violencia de pareja aumenta la probabilidad de maltrato infantil"
+  },
+  {
+    "entidad": "mecanismos de regulación emocional",
+    "relacion": "pueden explicar",
+    "valor": "la victimización en violencia de pareja"
+  },
+  {
+    "entidad": "intervenciones familiares",
+    "relacion": "son necesarias para",
+    "valor": "el desarrollo infanto-juvenil en el contexto de violencia de pareja"
+  }
+]

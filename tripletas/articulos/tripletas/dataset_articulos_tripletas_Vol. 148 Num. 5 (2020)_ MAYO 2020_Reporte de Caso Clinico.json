@@ -1,0 +1,192 @@
+[
+  {
+    "entidad": "C1q nephropathy",
+    "relacion": "es un",
+    "valor": "tipo de glomerulopatía"
+  },
+  {
+    "entidad": "C1q nephropathy",
+    "relacion": "se caracteriza por",
+    "valor": "deposición mesangial del componente del complemento C1q"
+  },
+  {
+    "entidad": "C1q nephropathy",
+    "relacion": "se presenta como",
+    "valor": "síndrome nefrótico"
+  },
+  {
+    "entidad": "síndrome nefrótico",
+    "relacion": "puede incluir",
+    "valor": "proteinuria y/o hematuria"
+  },
+  {
+    "entidad": "C1q nephropathy",
+    "relacion": "puede ser",
+    "valor": "resistente a esteroides"
+  },
+  {
+    "entidad": "C1q nephropathy",
+    "relacion": "requiere",
+    "valor": "inmunosupresores para obtener remisión"
+  },
+  {
+    "entidad": "biopsia renal",
+    "relacion": "es utilizada para",
+    "valor": "diagnosticar C1q nephropathy"
+  },
+  {
+    "entidad": "C1q nephropathy",
+    "relacion": "se asocia con",
+    "valor": "depósitos densos mesangiales"
+  },
+  {
+    "entidad": "C1q nephropathy",
+    "relacion": "puede manifestarse por",
+    "valor": "hematuria macroscópica o síndrome nefrítico"
+  },
+  {
+    "entidad": "C1q nephropathy",
+    "relacion": "se diagnostica mediante",
+    "valor": "inmunofluorescencia"
+  },
+  {
+    "entidad": "inmunofluorescencia",
+    "relacion": "detecta",
+    "valor": "depósitos de C1q"
+  },
+  {
+    "entidad": "C1q nephropathy",
+    "relacion": "es un diagnóstico diferencial importante para",
+    "valor": "síndrome nefrótico de evolución tórpida"
+  },
+  {
+    "entidad": "corticoides",
+    "relacion": "son utilizados para",
+    "valor": "tratar síndrome nefrótico"
+  },
+  {
+    "entidad": "ciclofosfamida",
+    "relacion": "se utiliza para",
+    "valor": "reducir efectos secundarios de corticoides"
+  },
+  {
+    "entidad": "micofenolato mofetil",
+    "relacion": "se utiliza para",
+    "valor": "mantener remisión en pacientes con C1q nephropathy"
+  },
+  {
+    "entidad": "ciclosporina",
+    "relacion": "se utiliza para",
+    "valor": "obtener remisión completa en pacientes con C1q nephropathy"
+  },
+  {
+    "entidad": "C1q nephropathy",
+    "relacion": "tiene una prevalencia",
+    "valor": "muy baja"
+  },
+  {
+    "entidad": "C1q nephropathy",
+    "relacion": "puede ser confundida con",
+    "valor": "podocitopatías difusas"
+  },
+  {
+    "entidad": "hipertiroidismo",
+    "relacion": "causa",
+    "valor": "colestasis"
+  },
+  {
+    "entidad": "enfermedad de Graves",
+    "relacion": "causa",
+    "valor": "hipertiroidismo"
+  },
+  {
+    "entidad": "colestasis",
+    "relacion": "se presenta en",
+    "valor": "paciente con hipertiroidismo"
+  },
+  {
+    "entidad": "glucocorticoides",
+    "relacion": "se utiliza para",
+    "valor": "tratar hipertiroidismo"
+  },
+  {
+    "entidad": "colestiramina",
+    "relacion": "se utiliza para",
+    "valor": "tratar hipertiroidismo"
+  },
+  {
+    "entidad": "propranolol",
+    "relacion": "se utiliza para",
+    "valor": "tratar hipertiroidismo"
+  },
+  {
+    "entidad": "yodo radiactivo",
+    "relacion": "se utiliza para",
+    "valor": "tratar hipertiroidismo"
+  },
+  {
+    "entidad": "bilirrubina sérica",
+    "relacion": "se normaliza tras",
+    "valor": "tratamiento con yodo radiactivo"
+  },
+  {
+    "entidad": "biopsia hepática",
+    "relacion": "muestra",
+    "valor": "hepatitis portal con colestasis canalicular"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "jaundice y picazón progresiva"
+  },
+  {
+    "entidad": "función hepática",
+    "relacion": "se altera en",
+    "valor": "pacientes con hipertiroidismo"
+  },
+  {
+    "entidad": "hormonas tiroideas",
+    "relacion": "causan",
+    "valor": "aceleración del metabolismo"
+  },
+  {
+    "entidad": "TSH",
+    "relacion": "se encuentra en",
+    "valor": "niveles bajos en hipertiroidismo"
+  },
+  {
+    "entidad": "T4",
+    "relacion": "se encuentra en",
+    "valor": "niveles altos en hipertiroidismo"
+  },
+  {
+    "entidad": "T3",
+    "relacion": "se encuentra en",
+    "valor": "niveles altos en hipertiroidismo"
+  },
+  {
+    "entidad": "antibodies anti-TSH",
+    "relacion": "se asocian con",
+    "valor": "anomalías en función hepática"
+  },
+  {
+    "entidad": "enfermedad autoinmune hepática",
+    "relacion": "puede coexistir con",
+    "valor": "hipertiroidismo"
+  },
+  {
+    "entidad": "prednisona",
+    "relacion": "se utiliza para",
+    "valor": "tratar hipertiroidismo"
+  },
+  {
+    "entidad": "tasa de mortalidad",
+    "relacion": "se asocia con",
+    "valor": "hipertiroidismo severo"
+  },
+  {
+    "entidad": "mecanismos fisiopatológicos",
+    "relacion": "son",
+    "valor": "múltiples y no completamente entendidos"
+  }
+]

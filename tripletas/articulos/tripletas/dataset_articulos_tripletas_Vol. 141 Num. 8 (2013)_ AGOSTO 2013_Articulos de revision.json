@@ -1,0 +1,202 @@
+[
+  {
+    "entidad": "síndrome antifosfolípido",
+    "relacion": "es una",
+    "valor": "enfermedad autoinmune"
+  },
+  {
+    "entidad": "síndrome antifosfolípido",
+    "relacion": "caracterizado por",
+    "valor": "trombosis y/o pérdidas fetales recurrentes"
+  },
+  {
+    "entidad": "anticuerpos antifosfolípidos",
+    "relacion": "asociado con",
+    "valor": "síndrome antifosfolípido"
+  },
+  {
+    "entidad": "anticoagulación",
+    "relacion": "es un",
+    "valor": "tratamiento principal del síndrome antifosfolípido"
+  },
+  {
+    "entidad": "terapia antiplatelet",
+    "relacion": "es un",
+    "valor": "tratamiento principal del síndrome antifosfolípido"
+  },
+  {
+    "entidad": "nuevas estrategias terapéuticas",
+    "relacion": "inhiben",
+    "valor": "la cascada de eventos pro-trombóticos"
+  },
+  {
+    "entidad": "B2GPI",
+    "relacion": "es un",
+    "valor": "inhibidor natural de la coagulación"
+  },
+  {
+    "entidad": "B2GPI",
+    "relacion": "inhibe",
+    "valor": "la activación de la cascada de coagulación"
+  },
+  {
+    "entidad": "B2GPI",
+    "relacion": "es el",
+    "valor": "principal blanco de los anticuerpos antifosfolípidos"
+  },
+  {
+    "entidad": "estatinas",
+    "relacion": "pueden afectar",
+    "valor": "la proliferación y migración del músculo liso"
+  },
+  {
+    "entidad": "fluvastatina",
+    "relacion": "inhibe",
+    "valor": "la activación endotelial mediada por aPL"
+  },
+  {
+    "entidad": "rituximab",
+    "relacion": "se ha propuesto que",
+    "valor": "las células B están involucradas en el SAF"
+  },
+  {
+    "entidad": "hidroxicloroquina",
+    "relacion": "fue utilizada como",
+    "valor": "profilaxis de trombosis venosa profunda"
+  },
+  {
+    "entidad": "hidroxicloroquina",
+    "relacion": "reduce",
+    "valor": "el tamaño del trombo en modelos animales"
+  },
+  {
+    "entidad": "factor tisular",
+    "relacion": "es mayor en",
+    "valor": "pacientes con SAF y trombosis"
+  },
+  {
+    "entidad": "inhibidores de complemento",
+    "relacion": "son un área de",
+    "valor": "investigación interesante para terapias futuras"
+  },
+  {
+    "entidad": "TNF-α",
+    "relacion": "tiene rol patogénico en",
+    "valor": "síndrome antifosfolípido"
+  },
+  {
+    "entidad": "p38 MAPK",
+    "relacion": "es clave en",
+    "valor": "la activación de plaquetas por aPL"
+  },
+  {
+    "entidad": "NF-κB",
+    "relacion": "es parte de",
+    "valor": "la cascada de transducción intracelular que lleva al aumento de FT"
+  },
+  {
+    "entidad": "anexina A2",
+    "relacion": "es receptor de",
+    "valor": "B2GPI"
+  },
+  {
+    "entidad": "bloqueo de receptores de B2GPI",
+    "relacion": "pararía",
+    "valor": "la cascada que lleva a trombosis"
+  },
+  {
+    "entidad": "glucocorticoides",
+    "relacion": "tienen resultados variables en",
+    "valor": "síndrome antifosfolípido"
+  },
+  {
+    "entidad": "células madre",
+    "relacion": "tienen potencial para",
+    "valor": "generar terapias efectivas para enfermedades incurables"
+  },
+  {
+    "entidad": "células madre embrionarias",
+    "relacion": "implican",
+    "valor": "destrucción de embriones humanos"
+  },
+  {
+    "entidad": "células madre adultas",
+    "relacion": "se encuentran en",
+    "valor": "diversos tejidos del organismo"
+  },
+  {
+    "entidad": "células madre inducidas",
+    "relacion": "evitan",
+    "valor": "el problema ético de las células madre embrionarias"
+  },
+  {
+    "entidad": "turismo con células madre",
+    "relacion": "es causado por",
+    "valor": "grandes expectativas de tratamientos"
+  },
+  {
+    "entidad": "clínicas no reguladas",
+    "relacion": "ofrecen",
+    "valor": "tratamientos con células madre"
+  },
+  {
+    "entidad": "International Society for Stem Cell Research (ISSCR)",
+    "relacion": "ha establecido",
+    "valor": "orientaciones éticas para ensayos clínicos"
+  },
+  {
+    "entidad": "ensayos clínicos",
+    "relacion": "son necesarios para",
+    "valor": "la aprobación de nuevos tratamientos"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "buscan",
+    "valor": "tratamientos con células madre"
+  },
+  {
+    "entidad": "bioética",
+    "relacion": "aborda",
+    "valor": "desafíos éticos en el uso de células madre"
+  },
+  {
+    "entidad": "células madre hematopoyéticas",
+    "relacion": "se utilizan en",
+    "valor": "el tratamiento de leucemia"
+  },
+  {
+    "entidad": "células madre epiteliales",
+    "relacion": "se utilizan en",
+    "valor": "el tratamiento de quemaduras"
+  },
+  {
+    "entidad": "células madre",
+    "relacion": "deben ser claramente explicitadas en",
+    "valor": "el consentimiento informado"
+  },
+  {
+    "entidad": "turismo con células madre",
+    "relacion": "puede llevar a",
+    "valor": "explotación económica de pacientes"
+  },
+  {
+    "entidad": "regulaciones",
+    "relacion": "son necesarias para",
+    "valor": "proteger a los pacientes"
+  },
+  {
+    "entidad": "Comisión Nacional de Bioética",
+    "relacion": "debe ser implementada en",
+    "valor": "Chile"
+  },
+  {
+    "entidad": "investigación preclínica",
+    "relacion": "debe ser rigurosa en",
+    "valor": "el uso de células madre"
+  },
+  {
+    "entidad": "células madre",
+    "relacion": "pueden causar",
+    "valor": "tumores en tratamientos no regulados"
+  }
+]

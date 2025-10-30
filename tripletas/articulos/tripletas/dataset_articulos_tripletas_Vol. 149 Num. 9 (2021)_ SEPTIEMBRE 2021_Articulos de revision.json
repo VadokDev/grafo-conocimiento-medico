@@ -1,0 +1,202 @@
+[
+  {
+    "entidad": "Anemia falciforme",
+    "relacion": "es un tipo de",
+    "valor": "hemoglobinopatía"
+  },
+  {
+    "entidad": "hemoglobina S",
+    "relacion": "es producida por",
+    "valor": "una mutación en el gen HBB"
+  },
+  {
+    "entidad": "mutación en el gen HBB",
+    "relacion": "causa",
+    "valor": "hemoglobina inestable"
+  },
+  {
+    "entidad": "hemoglobina inestable",
+    "relacion": "provoca",
+    "valor": "vaso-oclusión"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud (OMS)",
+    "relacion": "considera",
+    "valor": "la anemia como un problema de salud pública"
+  },
+  {
+    "entidad": "anemia falciforme",
+    "relacion": "ha generado",
+    "valor": "interés en la comunidad científica"
+  },
+  {
+    "entidad": "hemoglobinopatías",
+    "relacion": "son enfermedades de",
+    "valor": "origen genético"
+  },
+  {
+    "entidad": "herencia de la anemia falciforme",
+    "relacion": "es de tipo",
+    "valor": "autosómica recesiva"
+  },
+  {
+    "entidad": "rasgo falciforme",
+    "relacion": "ofrece",
+    "valor": "resistencia a la malaria"
+  },
+  {
+    "entidad": "Plasmodium falciparum",
+    "relacion": "es un",
+    "valor": "parásito"
+  },
+  {
+    "entidad": "estrés oxidativo",
+    "relacion": "participa en",
+    "valor": "la fisiopatología de la anemia falciforme"
+  },
+  {
+    "entidad": "hidroxicarbamida (hidroxiurea)",
+    "relacion": "fue aprobada por",
+    "valor": "la FDA para el tratamiento de anemia falciforme"
+  },
+  {
+    "entidad": "L-glutamina",
+    "relacion": "fue aprobada por",
+    "valor": "la FDA para pacientes con anemia falciforme"
+  },
+  {
+    "entidad": "ley 1980",
+    "relacion": "crea",
+    "valor": "el programa de Tamizaje Neonatal en Colombia"
+  },
+  {
+    "entidad": "terapia génica",
+    "relacion": "es un enfoque",
+    "valor": "para el tratamiento de la anemia falciforme"
+  },
+  {
+    "entidad": "CRISPR/Cas9",
+    "relacion": "es una técnica",
+    "valor": "para la edición de genes"
+  },
+  {
+    "entidad": "hemoglobina fetal",
+    "relacion": "presenta",
+    "valor": "alta afinidad por el oxígeno"
+  },
+  {
+    "entidad": "haplotipos",
+    "relacion": "se definen como",
+    "valor": "combinaciones de sitios polimórficos"
+  },
+  {
+    "entidad": "técnica de isoelectroenfoque",
+    "relacion": "ha sido utilizada para",
+    "valor": "la detección de hemoglobinopatías"
+  },
+  {
+    "entidad": "Cromatografía Líquida de Alto Rendimiento Desnaturalizante (DHPLC)",
+    "relacion": "es una técnica",
+    "valor": "para el análisis de hemoglobinopatías"
+  },
+  {
+    "entidad": "electroforesis en gel de agarosa",
+    "relacion": "es una técnica",
+    "valor": "para la evaluación electroforética"
+  },
+  {
+    "entidad": "estrategia alterna",
+    "relacion": "tiene como objetivo",
+    "valor": "reactivar la síntesis de hemoglobina fetal"
+  },
+  {
+    "entidad": "Cáncer cervicouterino (CaCu)",
+    "relacion": "es",
+    "valor": "la tercera causa de mortalidad oncológica femenina en el mundo"
+  },
+  {
+    "entidad": "Virus Papiloma Humano (VPH)",
+    "relacion": "es",
+    "valor": "el agente causal del cáncer cervicouterino"
+  },
+  {
+    "entidad": "vacunación contra el VPH",
+    "relacion": "es",
+    "valor": "una política pública en Chile"
+  },
+  {
+    "entidad": "tamizaje con Papanicolau (PAP)",
+    "relacion": "permitió",
+    "valor": "una reducción en la mortalidad del cáncer cervicouterino"
+  },
+  {
+    "entidad": "prueba molecular del VPH",
+    "relacion": "aumenta",
+    "valor": "la sensibilidad de detección entre 30 y 40%"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud (OMS)",
+    "relacion": "promueve",
+    "valor": "el control del cáncer cervicouterino"
+  },
+  {
+    "entidad": "sistema de salud chileno",
+    "relacion": "implementa",
+    "valor": "la prueba molecular del VPH"
+  },
+  {
+    "entidad": "cobertura de tamizaje",
+    "relacion": "promedia",
+    "valor": "58,5% en los últimos 5 años"
+  },
+  {
+    "entidad": "Ley Nº 19.966",
+    "relacion": "garantiza",
+    "valor": "prestaciones de salud"
+  },
+  {
+    "entidad": "prueba de VPH",
+    "relacion": "se realiza",
+    "valor": "en modalidad cotest"
+  },
+  {
+    "entidad": "cobertura geográfica de implementación",
+    "relacion": "representa",
+    "valor": "90% en 133 de 148 comunas"
+  },
+  {
+    "entidad": "cobertura recomendada de tamizaje",
+    "relacion": "es",
+    "valor": "80% de las mujeres de 25 a 64 años"
+  },
+  {
+    "entidad": "cáncer cervicouterino",
+    "relacion": "se espera erradicar",
+    "valor": "para el año 2100"
+  },
+  {
+    "entidad": "Australia",
+    "relacion": "es un modelo",
+    "valor": "exitoso en la implementación de tecnología VPH"
+  },
+  {
+    "entidad": "Estados Unidos",
+    "relacion": "no posee",
+    "valor": "una estrategia nacional de tamizaje de CaCu"
+  },
+  {
+    "entidad": "México",
+    "relacion": "introdujo",
+    "valor": "la prueba de VPH con captura híbrida en 2008"
+  },
+  {
+    "entidad": "cobertura de tamizaje en Chile",
+    "relacion": "no alcanza",
+    "valor": "la cobertura recomendada"
+  },
+  {
+    "entidad": "mortalidad del cáncer cervicouterino",
+    "relacion": "ha tendido a estabilizarse",
+    "valor": "en los últimos 5 años"
+  }
+]

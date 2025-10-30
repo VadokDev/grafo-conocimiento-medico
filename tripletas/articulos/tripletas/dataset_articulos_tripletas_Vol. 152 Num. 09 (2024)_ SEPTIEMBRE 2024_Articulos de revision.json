@@ -1,0 +1,342 @@
+[
+  {
+    "entidad": "hipersensibilidad a β-lactámicos",
+    "relacion": "es",
+    "valor": "la reacción de hipersensibilidad a fármacos más frecuentemente autorreportada"
+  },
+  {
+    "entidad": "etiqueta de alergia a β-lactámicos",
+    "relacion": "asocia a",
+    "valor": "múltiples desenlaces negativos"
+  },
+  {
+    "entidad": "etiqueta de alergia a β-lactámicos",
+    "relacion": "incluye",
+    "valor": "mortalidad"
+  },
+  {
+    "entidad": "etiqueta de alergia a β-lactámicos",
+    "relacion": "incluye",
+    "valor": "aumento de costos"
+  },
+  {
+    "entidad": "etiqueta de alergia a β-lactámicos",
+    "relacion": "incluye",
+    "valor": "estadía hospitalaria"
+  },
+  {
+    "entidad": "equipo de salud",
+    "relacion": "debe intentar",
+    "valor": "eliminar o confirmar la etiqueta de alergia"
+  },
+  {
+    "entidad": "alternativas antibióticas seguras",
+    "relacion": "deben ser conocidas por",
+    "valor": "el equipo de salud"
+  },
+  {
+    "entidad": "β-lactámicos",
+    "relacion": "son",
+    "valor": "un grupo de moléculas con un anillo β-lactámico"
+  },
+  {
+    "entidad": "reacción cruzada",
+    "relacion": "está determinada por",
+    "valor": "similitud estructural"
+  },
+  {
+    "entidad": "pruebas cutáneas",
+    "relacion": "tienen",
+    "valor": "una sensibilidad y especificidad del 30% y 97%"
+  },
+  {
+    "entidad": "score PEN-FAST",
+    "relacion": "logra distinguir",
+    "valor": "pacientes de bajo riesgo"
+  },
+  {
+    "entidad": "pacientes de bajo riesgo",
+    "relacion": "son candidatos a",
+    "valor": "una prueba de provocación controlada"
+  },
+  {
+    "entidad": "desensibilización",
+    "relacion": "es un procedimiento para",
+    "valor": "inducir tolerancia a un fármaco"
+  },
+  {
+    "entidad": "pacientes etiquetados como alérgicos a la penicilina",
+    "relacion": "están expuestos a",
+    "valor": "mayor riesgo de desenlaces intrahospitalarios negativos"
+  },
+  {
+    "entidad": "programas de optimización de antimicrobianos (PROA)",
+    "relacion": "deben incluir",
+    "valor": "la tarea de des-etiquetar alergias"
+  },
+  {
+    "entidad": "estudio alergológico",
+    "relacion": "debe realizarse",
+    "valor": "en pacientes de alto riesgo"
+  },
+  {
+    "entidad": "reacciones de hipersensibilidad graves",
+    "relacion": "incluyen",
+    "valor": "anafilaxia y reacciones adversas cutáneas severas"
+  },
+  {
+    "entidad": "prueba de provocación",
+    "relacion": "es el",
+    "valor": "gold standard del diagnóstico de alergia a fármacos"
+  },
+  {
+    "entidad": "historia de alergia",
+    "relacion": "puede ser",
+    "valor": "a cualquier edad"
+  },
+  {
+    "entidad": "pacientes de riesgo intermedio",
+    "relacion": "deben realizar",
+    "valor": "pruebas cutáneas con los fármacos sospechosos"
+  },
+  {
+    "entidad": "reacciones de hipersensibilidad inmediata (RHSI)",
+    "relacion": "se deben manejar con",
+    "valor": "pruebas cutáneas"
+  },
+  {
+    "entidad": "reacciones de hipersensibilidad retardada (RHSR)",
+    "relacion": "se pueden evaluar con",
+    "valor": "test de parche o IDR de lectura retardada"
+  },
+  {
+    "entidad": "evaluación diagnóstica",
+    "relacion": "tiene como objetivo",
+    "valor": "distinguir qué pacientes pueden recibir β-lactámicos"
+  },
+  {
+    "entidad": "pacientes con historia no sugerente de RHS",
+    "relacion": "se consideran",
+    "valor": "de bajo riesgo"
+  },
+  {
+    "entidad": "pacientes con reacciones de hipersensibilidad leves",
+    "relacion": "se consideran",
+    "valor": "de riesgo intermedio"
+  },
+  {
+    "entidad": "pacientes con reacciones de hipersensibilidad graves",
+    "relacion": "se consideran",
+    "valor": "de alto riesgo"
+  },
+  {
+    "entidad": "reacciones adversas severas viscerales",
+    "relacion": "no han demostrado utilidad en",
+    "valor": "el estudio alergológico"
+  },
+  {
+    "entidad": "pruebas cutáneas",
+    "relacion": "se negativizan en",
+    "valor": "pacientes con alergia demostrada"
+  },
+  {
+    "entidad": "historia de anafilaxia",
+    "relacion": "es una contraindicación",
+    "valor": "relativa para el estudio alergológico"
+  },
+  {
+    "entidad": "Raquitismo hipofosfatémico",
+    "relacion": "es un",
+    "valor": "signo clave para el diagnóstico de tirosinemia hereditaria tipo 1"
+  },
+  {
+    "entidad": "Tirosinemia hereditaria tipo 1 (HT-1)",
+    "relacion": "es un",
+    "valor": "error innato del metabolismo"
+  },
+  {
+    "entidad": "Defecto en la degradación de tirosina",
+    "relacion": "causa",
+    "valor": "acumulación de succinilacetona"
+  },
+  {
+    "entidad": "Succinilacetona",
+    "relacion": "causa",
+    "valor": "insuficiencia hepática"
+  },
+  {
+    "entidad": "Insuficiencia hepática",
+    "relacion": "aumenta el riesgo de",
+    "valor": "carcinoma hepatocelular"
+  },
+  {
+    "entidad": "Insuficiencia hepática",
+    "relacion": "causa",
+    "valor": "daño renal"
+  },
+  {
+    "entidad": "Daño renal",
+    "relacion": "conduce a",
+    "valor": "síndrome de Fanconi"
+  },
+  {
+    "entidad": "Síndrome de Fanconi",
+    "relacion": "causa",
+    "valor": "pérdida urinaria de fosfato"
+  },
+  {
+    "entidad": "Pérdida urinaria de fosfato",
+    "relacion": "causa",
+    "valor": "raquitismo hipofosfatémico"
+  },
+  {
+    "entidad": "Diagnóstico de HT-1",
+    "relacion": "se realiza en",
+    "valor": "bebés con insuficiencia hepática aguda o crónica"
+  },
+  {
+    "entidad": "Terapia convencional para HR",
+    "relacion": "incluye",
+    "valor": "calcitriol y fosfato oral"
+  },
+  {
+    "entidad": "Espectrometría de masas",
+    "relacion": "se utiliza para",
+    "valor": "confirmar diagnóstico de HT-1"
+  },
+  {
+    "entidad": "Nitisinona",
+    "relacion": "se utiliza en el tratamiento de",
+    "valor": "tirosinemia hereditaria tipo 1"
+  },
+  {
+    "entidad": "Dieta específica",
+    "relacion": "se utiliza en el tratamiento de",
+    "valor": "tirosinemia hereditaria tipo 1"
+  },
+  {
+    "entidad": "Tratamiento con NTBC",
+    "relacion": "mejora",
+    "valor": "función hepática y renal"
+  },
+  {
+    "entidad": "NTBC",
+    "relacion": "previene",
+    "valor": "cirrosis y carcinoma hepatocelular"
+  },
+  {
+    "entidad": "NTBC",
+    "relacion": "corrige",
+    "valor": "acidosis tubular renal"
+  },
+  {
+    "entidad": "NTBC",
+    "relacion": "revierte",
+    "valor": "raquitismo secundario"
+  },
+  {
+    "entidad": "Neonatal screening",
+    "relacion": "se realiza para",
+    "valor": "detección de HT-1"
+  },
+  {
+    "entidad": "Ley Ricarte Soto",
+    "relacion": "garantiza",
+    "valor": "diagnóstico y tratamiento de enfermedades de alto costo"
+  },
+  {
+    "entidad": "Hospital de Niños Dr. Roberto del Río",
+    "relacion": "es un",
+    "valor": "centro de atención médica"
+  },
+  {
+    "entidad": "Hospital Clínico San Borja Arriarán",
+    "relacion": "es un",
+    "valor": "centro de atención médica"
+  },
+  {
+    "entidad": "Instituto de Nutrición y Tecnología de los Alimentos (INTA)",
+    "relacion": "es un",
+    "valor": "centro de diagnóstico y tratamiento"
+  },
+  {
+    "entidad": "endocarditis infecciosa",
+    "relacion": "es una",
+    "valor": "infección que afecta a las válvulas cardíacas"
+  },
+  {
+    "entidad": "endocarditis infecciosa",
+    "relacion": "tiene una tasa de",
+    "valor": "mortalidad de aproximadamente 30% al año"
+  },
+  {
+    "entidad": "diagnóstico precoz",
+    "relacion": "es esencial para",
+    "valor": "disminuir la morbi-mortalidad"
+  },
+  {
+    "entidad": "Angio-TC cardiaco",
+    "relacion": "ha sido considerado en",
+    "valor": "las guías de manejo de EI"
+  },
+  {
+    "entidad": "Angio-TC cardiaco",
+    "relacion": "ofrece",
+    "valor": "alta resolución espacial"
+  },
+  {
+    "entidad": "Angio-TC cardiaco",
+    "relacion": "aporta en",
+    "valor": "el diagnóstico y evaluación de complicaciones"
+  },
+  {
+    "entidad": "ecocardiografía transesofágica",
+    "relacion": "tiene mayor",
+    "valor": "sensibilidad y especificidad que la ecocardiografía transtorácica"
+  },
+  {
+    "entidad": "Angio-TC cardiaco",
+    "relacion": "permite",
+    "valor": "una mejor evaluación de las estructuras cardíacas"
+  },
+  {
+    "entidad": "Angio-TC cardiaco",
+    "relacion": "ha demostrado mejorar",
+    "valor": "la sensibilidad de detección de vegetaciones"
+  },
+  {
+    "entidad": "insuficiencia valvular",
+    "relacion": "es una",
+    "valor": "complicación común de la EI"
+  },
+  {
+    "entidad": "Angio-TC cardiaco",
+    "relacion": "se ha reportado con mayor",
+    "valor": "sensibilidad frente a la ETE para la evaluación de lesiones paravalvulares"
+  },
+  {
+    "entidad": "pseudoaneurisma",
+    "relacion": "se observa como",
+    "valor": "un defecto anatómico que determina una cavidad perivalvular"
+  },
+  {
+    "entidad": "abscesos perivalvulares",
+    "relacion": "se observan como",
+    "valor": "un área de baja atenuación central o de densidad heterogénea"
+  },
+  {
+    "entidad": "Angio-TC cardiaco",
+    "relacion": "ha adquirido relevancia en",
+    "valor": "la evaluación de complicaciones perivalvulares"
+  },
+  {
+    "entidad": "Angio-TC cardiaco",
+    "relacion": "es una",
+    "valor": "herramienta complementaria a los estudios ecocardiográficos"
+  },
+  {
+    "entidad": "Angio-TC cardiaco",
+    "relacion": "permite evaluar",
+    "valor": "complicaciones más allá del corazón"
+  }
+]

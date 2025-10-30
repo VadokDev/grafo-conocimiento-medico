@@ -1,0 +1,312 @@
+[
+  {
+    "entidad": "Cerebritis bifrontal",
+    "relacion": "es un tipo de",
+    "valor": "enfermedad cerebral"
+  },
+  {
+    "entidad": "Absceso cerebral",
+    "relacion": "es un tipo de",
+    "valor": "complicación de cerebritis"
+  },
+  {
+    "entidad": "Streptococcus del grupo anginosus",
+    "relacion": "causa",
+    "valor": "cerebritis bifrontal"
+  },
+  {
+    "entidad": "Streptococcus intermedius",
+    "relacion": "es un tipo de",
+    "valor": "bacteria del grupo anginosus"
+  },
+  {
+    "entidad": "Paciente previamente sano",
+    "relacion": "presenta",
+    "valor": "cerebritis bifrontal"
+  },
+  {
+    "entidad": "Cerebritis bifrontal",
+    "relacion": "desarrolla",
+    "valor": "absceso cerebral"
+  },
+  {
+    "entidad": "Absceso cerebral",
+    "relacion": "se relaciona con",
+    "valor": "hipertensión intracraneana"
+  },
+  {
+    "entidad": "Diagnóstico etiológico",
+    "relacion": "se realiza mediante",
+    "valor": "cultivo del material subdural"
+  },
+  {
+    "entidad": "Tratamiento antibiótico",
+    "relacion": "incluye",
+    "valor": "ceftriaxona, clindamicina, vancomicina y betametasona"
+  },
+  {
+    "entidad": "Cerebritis bifrontal",
+    "relacion": "puede evolucionar hacia",
+    "valor": "necrosis"
+  },
+  {
+    "entidad": "Cefalea",
+    "relacion": "es un síntoma de",
+    "valor": "absceso cerebral"
+  },
+  {
+    "entidad": "Fiebre",
+    "relacion": "es un síntoma de",
+    "valor": "absceso cerebral"
+  },
+  {
+    "entidad": "Signos focales",
+    "relacion": "son síntomas asociados a",
+    "valor": "absceso cerebral"
+  },
+  {
+    "entidad": "Streptococcus anginosus",
+    "relacion": "es un agente patógeno común en",
+    "valor": "abscesos cerebrales"
+  },
+  {
+    "entidad": "Neurocirugía",
+    "relacion": "ha permitido reducir",
+    "valor": "morbimortalidad de abscesos cerebrales"
+  },
+  {
+    "entidad": "Tomografía computada",
+    "relacion": "es un método utilizado para",
+    "valor": "diagnosticar abscesos cerebrales"
+  },
+  {
+    "entidad": "Resonancia magnética",
+    "relacion": "se utiliza para",
+    "valor": "evaluar abscesos cerebrales"
+  },
+  {
+    "entidad": "Cerebritis bifrontal",
+    "relacion": "se presenta en",
+    "valor": "pacientes sin antecedentes infecciosos"
+  },
+  {
+    "entidad": "Streptococcus anginosus",
+    "relacion": "es un organismo",
+    "valor": "habitualmente comensal"
+  },
+  {
+    "entidad": "Absceso cerebral",
+    "relacion": "puede ser causado por",
+    "valor": "bacterias anaerobias"
+  },
+  {
+    "entidad": "Ceftriaxona",
+    "relacion": "es un tipo de",
+    "valor": "antibiótico utilizado en tratamiento"
+  },
+  {
+    "entidad": "Clindamicina",
+    "relacion": "es un tipo de",
+    "valor": "antibiótico utilizado en tratamiento"
+  },
+  {
+    "entidad": "Vancomicina",
+    "relacion": "es un tipo de",
+    "valor": "antibiótico utilizado en tratamiento"
+  },
+  {
+    "entidad": "Betametasona",
+    "relacion": "es un tipo de",
+    "valor": "medicación utilizada en tratamiento"
+  },
+  {
+    "entidad": "Encefalopatía perdedora de sal",
+    "relacion": "es un",
+    "valor": "síndrome asociado a enfermedades neurológicas"
+  },
+  {
+    "entidad": "Listeria monocytogenes",
+    "relacion": "causa",
+    "valor": "romboencefalitis"
+  },
+  {
+    "entidad": "romboencefalitis",
+    "relacion": "afecta a",
+    "valor": "sistema nervioso central"
+  },
+  {
+    "entidad": "hiponatremia",
+    "relacion": "es un",
+    "valor": "síntoma común en enfermedades neurológicas severas"
+  },
+  {
+    "entidad": "síndrome de secreción inadecuada de hormona antidiurética (SIADH)",
+    "relacion": "es un",
+    "valor": "trastorno que puede causar hiponatremia"
+  },
+  {
+    "entidad": "síndrome de pérdida de sal cerebral (CSWS)",
+    "relacion": "es un",
+    "valor": "trastorno que puede causar hiponatremia"
+  },
+  {
+    "entidad": "tratamientos de SIADH y CSWS",
+    "relacion": "son",
+    "valor": "opuestos"
+  },
+  {
+    "entidad": "paciente de 52 años",
+    "relacion": "presenta",
+    "valor": "romboencefalitis por Listeria monocytogenes"
+  },
+  {
+    "entidad": "hiponatremia",
+    "relacion": "asociada a",
+    "valor": "ventriculitis y abscesos en cerebelo y tronco encefálico"
+  },
+  {
+    "entidad": "poliuria",
+    "relacion": "es un",
+    "valor": "síntoma asociado a EPS"
+  },
+  {
+    "entidad": "natriuresis",
+    "relacion": "es un",
+    "valor": "síntoma asociado a EPS"
+  },
+  {
+    "entidad": "hipotensión arterial",
+    "relacion": "es un",
+    "valor": "síntoma asociado a EPS"
+  },
+  {
+    "entidad": "ácido úrico",
+    "relacion": "es",
+    "valor": "bajo en EPS"
+  },
+  {
+    "entidad": "péptidos natriuréticos",
+    "relacion": "tienen efecto",
+    "valor": "inhibidor en la reabsorción de sodio"
+  },
+  {
+    "entidad": "sistema nervioso simpático",
+    "relacion": "afecta",
+    "valor": "reabsorción de sodio en el riñón"
+  },
+  {
+    "entidad": "tratamiento de EPS",
+    "relacion": "incluye",
+    "valor": "aumento de sodio oral y endovenoso"
+  },
+  {
+    "entidad": "función renal",
+    "relacion": "se mantiene",
+    "valor": "normal durante la evolución de EPS"
+  },
+  {
+    "entidad": "queso de cabra artesanal",
+    "relacion": "puede ser",
+    "valor": "fuente de contagio de Listeria monocytogenes"
+  },
+  {
+    "entidad": "Enfermedad de Behçet",
+    "relacion": "es un",
+    "valor": "perivasculitis sistémica inflamatoria"
+  },
+  {
+    "entidad": "Enfermedad de Behçet",
+    "relacion": "se caracteriza por",
+    "valor": "úceras orales y genitales"
+  },
+  {
+    "entidad": "Enfermedad de Behçet",
+    "relacion": "afecta a",
+    "valor": "5 a 10% de los casos con compromiso neurológico"
+  },
+  {
+    "entidad": "Compromiso meníngeo aislado",
+    "relacion": "es",
+    "valor": "muy poco común"
+  },
+  {
+    "entidad": "Hombre de 21 años",
+    "relacion": "tiene",
+    "valor": "enfermedad de Behçet"
+  },
+  {
+    "entidad": "Hombre de 21 años",
+    "relacion": "presenta",
+    "valor": "síndrome meníngeo agudo"
+  },
+  {
+    "entidad": "Síndrome meníngeo",
+    "relacion": "ocurre en",
+    "valor": "dos crisis previas"
+  },
+  {
+    "entidad": "Meningoencefalitis",
+    "relacion": "ocurre en",
+    "valor": "tres episodios"
+  },
+  {
+    "entidad": "Lesiones aftosas",
+    "relacion": "se encuentran en",
+    "valor": "examen físico"
+  },
+  {
+    "entidad": "Edema macular",
+    "relacion": "se encuentra en",
+    "valor": "examen físico"
+  },
+  {
+    "entidad": "Células polimorfonucleares",
+    "relacion": "predominan en",
+    "valor": "líquido cefalorraquídeo"
+  },
+  {
+    "entidad": "Resonancia magnética",
+    "relacion": "muestra",
+    "valor": "lesiones en ganglios basales y tronco encefálico"
+  },
+  {
+    "entidad": "Terapia con esteroides intravenosos",
+    "relacion": "mejora",
+    "valor": "condición del paciente"
+  },
+  {
+    "entidad": "Corticosteroides",
+    "relacion": "son",
+    "valor": "primeros medicamentos utilizados"
+  },
+  {
+    "entidad": "Azatioprina",
+    "relacion": "es un",
+    "valor": "medicamento inmunosupresor"
+  },
+  {
+    "entidad": "Neuro-Behçet",
+    "relacion": "requiere",
+    "valor": "alto grado de sospecha para diagnóstico"
+  },
+  {
+    "entidad": "Signos y síntomas de Neuro-Behçet",
+    "relacion": "son",
+    "valor": "importantes para intervención temprana"
+  },
+  {
+    "entidad": "Aneurismas cerebrales",
+    "relacion": "son",
+    "valor": "raros en condiciones neurológicas asociadas con Behçet"
+  },
+  {
+    "entidad": "Cerebro",
+    "relacion": "muestra",
+    "valor": "lesiones hiperintensas en T2/FLAIR en Neuro-Behçet"
+  },
+  {
+    "entidad": "Meningitis",
+    "relacion": "debe ser diferenciada de",
+    "valor": "Neuro-Behçet"
+  }
+]

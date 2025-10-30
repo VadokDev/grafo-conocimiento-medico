@@ -1,0 +1,222 @@
+[
+  {
+    "entidad": "Diabetes Mellitus tipo 1A (DM1A)",
+    "relacion": "es un",
+    "valor": "enfermedad autoinmune"
+  },
+  {
+    "entidad": "DM1A",
+    "relacion": "representa",
+    "valor": "10% de los pacientes con diabetes mellitus"
+  },
+  {
+    "entidad": "DM1A",
+    "relacion": "asocia con",
+    "valor": "hipotiroidismo"
+  },
+  {
+    "entidad": "DM1A",
+    "relacion": "asocia con",
+    "valor": "enfermedad de Addison"
+  },
+  {
+    "entidad": "DM1A",
+    "relacion": "asocia con",
+    "valor": "enfermedad celíaca"
+  },
+  {
+    "entidad": "DM1A",
+    "relacion": "asocia con",
+    "valor": "síndromes poliglandulares"
+  },
+  {
+    "entidad": "HLA",
+    "relacion": "induce",
+    "valor": "tolerancia inmunológica"
+  },
+  {
+    "entidad": "CTLA-4",
+    "relacion": "regula",
+    "valor": "respuesta inmune"
+  },
+  {
+    "entidad": "PTPN22",
+    "relacion": "asocia con",
+    "valor": "enfermedades autoinmunitarias"
+  },
+  {
+    "entidad": "enfermedades autoinmunitarias",
+    "relacion": "tienen una prevalencia de",
+    "valor": "10 a 20% del total de enfermedades crónicas"
+  },
+  {
+    "entidad": "DM1A",
+    "relacion": "incrementa",
+    "valor": "riesgo de enfermedades autoinmunitarias"
+  },
+  {
+    "entidad": "autoanticuerpos",
+    "relacion": "se utilizan para",
+    "valor": "diagnóstico de enfermedades autoinmunitarias"
+  },
+  {
+    "entidad": "enfermedad celíaca",
+    "relacion": "se asocia con",
+    "valor": "autoanticuerpos IgA antitransglutaminasa"
+  },
+  {
+    "entidad": "enfermedad de Addison",
+    "relacion": "se asocia con",
+    "valor": "autoanticuerpos anti-21 hidroxilasa"
+  },
+  {
+    "entidad": "síndromes poliglandulares autoinmunes",
+    "relacion": "comprenden",
+    "valor": "varias enfermedades autoinmunitarias"
+  },
+  {
+    "entidad": "HLA-DR3",
+    "relacion": "incrementa",
+    "valor": "riesgo de enfermedades autoinmunitarias"
+  },
+  {
+    "entidad": "AIRE",
+    "relacion": "se asocia con",
+    "valor": "síndrome IPEX"
+  },
+  {
+    "entidad": "DM1A",
+    "relacion": "se relaciona con",
+    "valor": "alteraciones en la tolerancia inmunológica"
+  },
+  {
+    "entidad": "Orbitopatía de Graves",
+    "relacion": "es",
+    "valor": "una enfermedad inflamatoria autoinmune"
+  },
+  {
+    "entidad": "Graves' disease",
+    "relacion": "causa",
+    "valor": "Orbitopatía de Graves"
+  },
+  {
+    "entidad": "Graves' orbitopathy",
+    "relacion": "es",
+    "valor": "la manifestación extratiroidea más común de Graves' disease"
+  },
+  {
+    "entidad": "Graves' orbitopathy",
+    "relacion": "se presenta en",
+    "valor": "30-67% de los pacientes con Graves' disease"
+  },
+  {
+    "entidad": "Graves' orbitopathy",
+    "relacion": "involucra",
+    "valor": "tejidos conectivos y grasos orbitarios, músculos extraoculares"
+  },
+  {
+    "entidad": "Graves' orbitopathy",
+    "relacion": "es menos común y menos severa en",
+    "valor": "niños que en adultos"
+  },
+  {
+    "entidad": "síntomas comunes",
+    "relacion": "incluyen",
+    "valor": "retracción del párpado superior, inyección conjuntival, proptosis, edema periorbital"
+  },
+  {
+    "entidad": "complicaciones severas",
+    "relacion": "incluyen",
+    "valor": "neuropatía óptica distiroidea, ulceración corneal, subluxación del globo ocular"
+  },
+  {
+    "entidad": "diagnóstico",
+    "relacion": "se establece por",
+    "valor": "hallazgos clínicos, de laboratorio e imágenes"
+  },
+  {
+    "entidad": "Graves' orbitopathy",
+    "relacion": "no tiene",
+    "valor": "guías de manejo en niños"
+  },
+  {
+    "entidad": "terapias de soporte",
+    "relacion": "tienen como objetivo",
+    "valor": "aliviar síntomas y prevenir daño corneal"
+  },
+  {
+    "entidad": "exposición al tabaco",
+    "relacion": "debe ser",
+    "valor": "evitada"
+  },
+  {
+    "entidad": "corticosteroides sistémicos",
+    "relacion": "son",
+    "valor": "el tratamiento de primera línea en casos activos y severos"
+  },
+  {
+    "entidad": "Graves' orbitopathy",
+    "relacion": "se asocia a",
+    "valor": "hipertiroidismo autoinmune en 80-90% de los casos"
+  },
+  {
+    "entidad": "Graves' orbitopathy",
+    "relacion": "puede desarrollarse",
+    "valor": "antes o después de la aparición del hipertiroidismo"
+  },
+  {
+    "entidad": "linfocitos T CD8+",
+    "relacion": "reconocen",
+    "valor": "fibroblastos orbitarios"
+  },
+  {
+    "entidad": "fibroblastos orbitarios",
+    "relacion": "son",
+    "valor": "las células diana en la Orbitopatía de Graves"
+  },
+  {
+    "entidad": "Glicosaminoglicanos",
+    "relacion": "producen",
+    "valor": "aumento de volumen de los músculos extraoculares y del tejido adiposo orbitario"
+  },
+  {
+    "entidad": "TSH-R",
+    "relacion": "actúa como",
+    "valor": "autoantígeno en la enfermedad de Graves"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "es",
+    "valor": "el factor de riesgo más importante para la progresión de la Orbitopatía de Graves"
+  },
+  {
+    "entidad": "hipertiroidismo",
+    "relacion": "tiene efectos negativos en",
+    "valor": "el curso de la Orbitopatía de Graves"
+  },
+  {
+    "entidad": "radioyodo",
+    "relacion": "se asocia a",
+    "valor": "mayor riesgo de progresión de la Orbitopatía de Graves"
+  },
+  {
+    "entidad": "medidas generales",
+    "relacion": "se utilizan para",
+    "valor": "aliviar síntomas y prevenir el deterioro de la Orbitopatía de Graves"
+  },
+  {
+    "entidad": "glucocorticoides",
+    "relacion": "son",
+    "valor": "el tratamiento de elección en Orbitopatía de Graves moderada y severa"
+  },
+  {
+    "entidad": "cirugía descompresiva",
+    "relacion": "se utiliza en",
+    "valor": "casos activos donde falla la terapia médica"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "se ve afectada por",
+    "valor": "alteraciones en la función visual y apariencia física"
+  }
+]

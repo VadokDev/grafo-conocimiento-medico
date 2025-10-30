@@ -1,0 +1,282 @@
+[
+  {
+    "entidad": "Neisseria meningitidis",
+    "relacion": "causa",
+    "valor": "neumonía bacterémica"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "reporta",
+    "valor": "primer caso de neumonía por Neisseria meningitidis"
+  },
+  {
+    "entidad": "paciente masculino de 17 años",
+    "relacion": "presenta",
+    "valor": "neumonía bacterémica"
+  },
+  {
+    "entidad": "neumonía bacterémica",
+    "relacion": "asociada a",
+    "valor": "septicemia"
+  },
+  {
+    "entidad": "septicemia",
+    "relacion": "requiere",
+    "valor": "ventilación mecánica invasiva"
+  },
+  {
+    "entidad": "ceftriaxona",
+    "relacion": "utilizada para",
+    "valor": "tratamiento de Neisseria meningitidis"
+  },
+  {
+    "entidad": "Hospital Clínico Universidad de Chile",
+    "relacion": "es un",
+    "valor": "centro de atención médica"
+  },
+  {
+    "entidad": "Rodrigo Cornejo",
+    "relacion": "es",
+    "valor": "profesor asociado en Universidad de Chile"
+  },
+  {
+    "entidad": "Instituto de Salud Pública",
+    "relacion": "confirma",
+    "valor": "serogrupo W-135 de Neisseria meningitidis"
+  },
+  {
+    "entidad": "neumonía bacterémica",
+    "relacion": "se presenta en",
+    "valor": "pacientes con comorbilidades"
+  },
+  {
+    "entidad": "neumonía bacterémica",
+    "relacion": "asociada a",
+    "valor": "mayor mortalidad en pacientes mayores"
+  },
+  {
+    "entidad": "neumonía bacterémica",
+    "relacion": "puede ser",
+    "valor": "diagnóstico erróneo"
+  },
+  {
+    "entidad": "profilaxis con rifampicina",
+    "relacion": "indicado a",
+    "valor": "contactos expuestos"
+  },
+  {
+    "entidad": "neumonía bacterémica",
+    "relacion": "caracterizada por",
+    "valor": "síntomas indistinguibles de otras neumonías"
+  },
+  {
+    "entidad": "neumonía por Neisseria meningitidis",
+    "relacion": "es un",
+    "valor": "evento raro en Chile"
+  },
+  {
+    "entidad": "delirium hiperactivo",
+    "relacion": "desarrollado en",
+    "valor": "paciente durante tratamiento"
+  },
+  {
+    "entidad": "neumonía bacterémica",
+    "relacion": "requiere",
+    "valor": "notificación obligatoria de meningococcemia"
+  },
+  {
+    "entidad": "Reanimación cardiopulmonar extracorpórea",
+    "relacion": "es un",
+    "valor": "método de resucitación"
+  },
+  {
+    "entidad": "paro cardíaco extrahospitalario",
+    "relacion": "es un",
+    "valor": "problema de salud pública"
+  },
+  {
+    "entidad": "ECMO",
+    "relacion": "es un",
+    "valor": "soporte extracorpóreo"
+  },
+  {
+    "entidad": "ECMO",
+    "relacion": "se utiliza en",
+    "valor": "reanimación cardiopulmonar avanzada"
+  },
+  {
+    "entidad": "ECPR",
+    "relacion": "permite",
+    "valor": "reestablecer la entrega de oxígeno sistémico"
+  },
+  {
+    "entidad": "ECPR",
+    "relacion": "disminuye",
+    "valor": "mortalidad"
+  },
+  {
+    "entidad": "ECPR",
+    "relacion": "mejora",
+    "valor": "pronóstico neurológico"
+  },
+  {
+    "entidad": "cadena de supervivencia",
+    "relacion": "requiere",
+    "valor": "intervenciones secuenciales"
+  },
+  {
+    "entidad": "reanimación básica",
+    "relacion": "es limitada en",
+    "valor": "la comunidad en Chile"
+  },
+  {
+    "entidad": "tromboembolismo pulmonar",
+    "relacion": "es un",
+    "valor": "trastorno que afecta la circulación"
+  },
+  {
+    "entidad": "insuficiencia valvular aórtica",
+    "relacion": "es un",
+    "valor": "antecedente médico"
+  },
+  {
+    "entidad": "ventilación mecánica invasiva",
+    "relacion": "es un",
+    "valor": "tratamiento requerido"
+  },
+  {
+    "entidad": "desfibrilador automático implantable",
+    "relacion": "se instala por",
+    "valor": "disfunción sistólica severa"
+  },
+  {
+    "entidad": "Dr. Rodrigo Díaz",
+    "relacion": "es",
+    "valor": "autor del artículo"
+  },
+  {
+    "entidad": "Unidad de ECMO",
+    "relacion": "pertenece a",
+    "valor": "Departamento de Anestesiología Clínica Las Condes"
+  },
+  {
+    "entidad": "Santiago, Chile",
+    "relacion": "es",
+    "valor": "ubicación de las instituciones"
+  },
+  {
+    "entidad": "Cardiac Arrest Registry to Enhance Survival (CARES)",
+    "relacion": "es un",
+    "valor": "registro de paro cardíaco"
+  },
+  {
+    "entidad": "fibrilación ventricular",
+    "relacion": "es un",
+    "valor": "ritmo cardíaco inicial en paro"
+  },
+  {
+    "entidad": "hipokalemia",
+    "relacion": "es un",
+    "valor": "trastorno que puede facilitar arritmias"
+  },
+  {
+    "entidad": "unidad coronaria",
+    "relacion": "es un",
+    "valor": "lugar de tratamiento"
+  },
+  {
+    "entidad": "reemplazo valvular con prótesis mecánicas",
+    "relacion": "es un",
+    "valor": "procedimiento realizado"
+  },
+  {
+    "entidad": "Síndrome hemolítico urémico atípico",
+    "relacion": "es un",
+    "valor": "tipo de microangiopatía trombótica"
+  },
+  {
+    "entidad": "Síndrome hemolítico urémico atípico",
+    "relacion": "afecta a",
+    "valor": "jóvenes adultos"
+  },
+  {
+    "entidad": "Síndrome hemolítico urémico atípico",
+    "relacion": "causa",
+    "valor": "falla renal crónica terminal"
+  },
+  {
+    "entidad": "Eculizumab",
+    "relacion": "es un",
+    "valor": "anticuerpo monoclonal"
+  },
+  {
+    "entidad": "Eculizumab",
+    "relacion": "se utiliza para",
+    "valor": "tratar el síndrome hemolítico urémico atípico"
+  },
+  {
+    "entidad": "Eculizumab",
+    "relacion": "inhibe",
+    "valor": "la actividad del complemento"
+  },
+  {
+    "entidad": "Eculizumab",
+    "relacion": "previene",
+    "valor": "el desarrollo de enfermedad renal terminal"
+  },
+  {
+    "entidad": "Eculizumab",
+    "relacion": "mejora",
+    "valor": "la tasa de éxito en trasplante renal"
+  },
+  {
+    "entidad": "Mujer de 17 años",
+    "relacion": "presenta",
+    "valor": "síndrome hemolítico urémico atípico"
+  },
+  {
+    "entidad": "Mujer de 25 años",
+    "relacion": "presenta",
+    "valor": "síndrome hemolítico urémico atípico"
+  },
+  {
+    "entidad": "Mujer de 17 años",
+    "relacion": "requiere",
+    "valor": "hemodiálisis"
+  },
+  {
+    "entidad": "Mujer de 25 años",
+    "relacion": "requiere",
+    "valor": "hemodiálisis"
+  },
+  {
+    "entidad": "Infecciones",
+    "relacion": "son factores que amplifican",
+    "valor": "la actividad del complemento"
+  },
+  {
+    "entidad": "Mutaciones en CFH",
+    "relacion": "tienen",
+    "valor": "el peor pronóstico en SHUa"
+  },
+  {
+    "entidad": "Eculizumab",
+    "relacion": "fue aprobado por",
+    "valor": "la FDA"
+  },
+  {
+    "entidad": "Eculizumab",
+    "relacion": "cambia",
+    "valor": "la historia natural del síndrome hemolítico urémico atípico"
+  },
+  {
+    "entidad": "SHUa",
+    "relacion": "se presenta con",
+    "valor": "trombocitopenia, anemia hemolítica microangiopática y falla renal"
+  },
+  {
+    "entidad": "Eculizumab",
+    "relacion": "se administra junto con",
+    "valor": "vacunas contra Neisseria meningitidis y Streptococcus pneumoniae"
+  }
+]

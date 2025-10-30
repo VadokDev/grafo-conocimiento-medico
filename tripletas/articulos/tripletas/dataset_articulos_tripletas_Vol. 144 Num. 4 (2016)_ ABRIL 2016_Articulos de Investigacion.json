@@ -1,0 +1,852 @@
+[
+  {
+    "entidad": "tabaco",
+    "relacion": "es un",
+    "valor": "comportamiento de riesgo"
+  },
+  {
+    "entidad": "alcohol",
+    "relacion": "es un",
+    "valor": "comportamiento de riesgo"
+  },
+  {
+    "entidad": "adolescentes de 10 a 14 años",
+    "relacion": "se encuentra en",
+    "valor": "San Felipe, Chile"
+  },
+  {
+    "entidad": "Jorge Gaete",
+    "relacion": "es el autor de",
+    "valor": "estudio sobre consumo de tabaco y alcohol"
+  },
+  {
+    "entidad": "Universidad de los Andes",
+    "relacion": "es la institución de",
+    "valor": "Jorge Gaete"
+  },
+  {
+    "entidad": "Universidad de Valparaíso",
+    "relacion": "es la institución de",
+    "valor": "Leticia Lepe"
+  },
+  {
+    "entidad": "Universidad de Londres",
+    "relacion": "es la institución de",
+    "valor": "Cristian A. Rojas-Barahona"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud (OMS)",
+    "relacion": "define",
+    "valor": "adolescencia como el período de 10 a 19 años"
+  },
+  {
+    "entidad": "consumo de tabaco",
+    "relacion": "está asociado con",
+    "valor": "edad y problemas de conducta"
+  },
+  {
+    "entidad": "consumo de alcohol",
+    "relacion": "está asociado con",
+    "valor": "edad y problemas de conducta"
+  },
+  {
+    "entidad": "madres fumadoras",
+    "relacion": "aumentan",
+    "valor": "la probabilidad de consumo de tabaco en hijos"
+  },
+  {
+    "entidad": "consumo de alcohol por padres",
+    "relacion": "aumenta",
+    "valor": "la probabilidad de consumo de alcohol en hijos"
+  },
+  {
+    "entidad": "apoyo familiar",
+    "relacion": "disminuye",
+    "valor": "la probabilidad de consumo de alcohol"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "investiga",
+    "valor": "factores asociados al consumo de tabaco y alcohol"
+  },
+  {
+    "entidad": "factores de riesgo",
+    "relacion": "se agrupan en",
+    "valor": "individuales, familiares, escolares, de pares y del entorno social"
+  },
+  {
+    "entidad": "estrategias preventivas",
+    "relacion": "deben incluir",
+    "valor": "necesidades de la comunidad"
+  },
+  {
+    "entidad": "consumo de sustancias de abuso",
+    "relacion": "comienza a edades",
+    "valor": "cada vez más tempranas"
+  },
+  {
+    "entidad": "dificultades en el desarrollo",
+    "relacion": "pueden ser observadas en",
+    "valor": "algunos adolescentes"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "es uno de los primeros en",
+    "valor": "explorar el consumo de sustancias en adolescentes de 10 a 14 años"
+  },
+  {
+    "entidad": "Programa de rehabilitación cardiovascular",
+    "relacion": "es un",
+    "valor": "programa de prevención secundaria"
+  },
+  {
+    "entidad": "infarto agudo al miocardio",
+    "relacion": "afecta a",
+    "valor": "pacientes con enfermedad cardiovascular"
+  },
+  {
+    "entidad": "Servicio de Salud Metropolitano Norte",
+    "relacion": "implementa",
+    "valor": "programa de rehabilitación cardiovascular"
+  },
+  {
+    "entidad": "Paulina López-Montecinos",
+    "relacion": "es un",
+    "valor": "investigador"
+  },
+  {
+    "entidad": "costo-efectividad",
+    "relacion": "evalúa",
+    "valor": "programa de rehabilitación cardiovascular"
+  },
+  {
+    "entidad": "Guías clínicas de la American Heart Association",
+    "relacion": "recomienda",
+    "valor": "programas de rehabilitación cardiovascular"
+  },
+  {
+    "entidad": "Grupo de Estudios Multicéntricos del Infarto (GEMI)",
+    "relacion": "recomienda",
+    "valor": "implementación de PRC secundarios"
+  },
+  {
+    "entidad": "ejercicio físico",
+    "relacion": "es un",
+    "valor": "tratamiento recomendado post IAM"
+  },
+  {
+    "entidad": "mortalidad tardía",
+    "relacion": "se reduce con",
+    "valor": "participación en PRC"
+  },
+  {
+    "entidad": "costo anual del centro de rehabilitación cardíaca",
+    "relacion": "es",
+    "valor": "64.407.065 CLP"
+  },
+  {
+    "entidad": "Razón Costo Efectividad Incremental (ICER)",
+    "relacion": "es",
+    "valor": "475.209,7 CLP por año de vida ganado"
+  },
+  {
+    "entidad": "programa de rehabilitación cardiovascular",
+    "relacion": "incluye",
+    "valor": "ejercicio físico y consejerías"
+  },
+  {
+    "entidad": "pacientes con riesgo cardiovascular alto",
+    "relacion": "se benefician de",
+    "valor": "programas de rehabilitación cardiovascular"
+  },
+  {
+    "entidad": "MINSAL",
+    "relacion": "proporciona",
+    "valor": "guía de evaluación económica"
+  },
+  {
+    "entidad": "análisis de sensibilidad",
+    "relacion": "evalúa",
+    "valor": "incertidumbre en estimaciones"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "mejora con",
+    "valor": "programas de rehabilitación cardiovascular"
+  },
+  {
+    "entidad": "kinesiólogos",
+    "relacion": "son",
+    "valor": "profesionales involucrados en la rehabilitación cardiovascular"
+  },
+  {
+    "entidad": "Facultad de Medicina, Universidad Diego Portales",
+    "relacion": "pertenece a",
+    "valor": "Santiago de Chile"
+  },
+  {
+    "entidad": "Departamento de Didáctica y Organización Educativa",
+    "relacion": "pertenece a",
+    "valor": "Universitat de Barcelona"
+  },
+  {
+    "entidad": "Servicio de Salud Reloncaví",
+    "relacion": "es un",
+    "valor": "organismo de salud en Chile"
+  },
+  {
+    "entidad": "National Institute for Health and Welfare",
+    "relacion": "es un",
+    "valor": "instituto en Finlandia"
+  },
+  {
+    "entidad": "Facultad de Medicina, Universidad de Chile",
+    "relacion": "pertenece a",
+    "valor": "Santiago de Chile"
+  },
+  {
+    "entidad": "Chilean Rural Practitioner Program",
+    "relacion": "es un",
+    "valor": "programa de reclutamiento y retención de médicos"
+  },
+  {
+    "entidad": "médicos generales",
+    "relacion": "evaluan",
+    "valor": "experiencia en zonas rurales"
+  },
+  {
+    "entidad": "zonas rurales",
+    "relacion": "tienen",
+    "valor": "escasos recursos médicos"
+  },
+  {
+    "entidad": "evaluación de la experiencia",
+    "relacion": "es",
+    "valor": "positiva"
+  },
+  {
+    "entidad": "relaciones sociales",
+    "relacion": "afectan",
+    "valor": "evaluación general de la experiencia"
+  },
+  {
+    "entidad": "infraestructura",
+    "relacion": "es",
+    "valor": "un factor evaluado negativamente"
+  },
+  {
+    "entidad": "ingreso económico",
+    "relacion": "es",
+    "valor": "un factor evaluado positivamente"
+  },
+  {
+    "entidad": "médicos generales de zona (MGZ)",
+    "relacion": "trabajan",
+    "valor": "en hospitales de baja complejidad"
+  },
+  {
+    "entidad": "médicos generales de zona (MGZ)",
+    "relacion": "acceden a",
+    "valor": "especialización tras concurso"
+  },
+  {
+    "entidad": "políticas de salud",
+    "relacion": "deben considerar",
+    "valor": "fortalecer relaciones sociales"
+  },
+  {
+    "entidad": "programa MGZ",
+    "relacion": "ha sido considerado",
+    "valor": "exitoso"
+  },
+  {
+    "entidad": "médicos",
+    "relacion": "tienen",
+    "valor": "mayor tasa de reclutamiento en años recientes"
+  },
+  {
+    "entidad": "médicos",
+    "relacion": "declaran",
+    "valor": "disposición a volver como especialistas"
+  },
+  {
+    "entidad": "Cocaína",
+    "relacion": "afecta a",
+    "valor": "comportamientos de riesgo"
+  },
+  {
+    "entidad": "Cocaína Base Paste (CBP)",
+    "relacion": "tiene mayor frecuencia de",
+    "valor": "heridas auto-inferidas"
+  },
+  {
+    "entidad": "Cocaína Base Paste (CBP)",
+    "relacion": "tiene mayor frecuencia de",
+    "valor": "intentos de suicidio"
+  },
+  {
+    "entidad": "Cocaína Hydrochloride (CH)",
+    "relacion": "tiene menor frecuencia de",
+    "valor": "heridas auto-inferidas"
+  },
+  {
+    "entidad": "Cocaína Hydrochloride (CH)",
+    "relacion": "tiene menor frecuencia de",
+    "valor": "intentos de suicidio"
+  },
+  {
+    "entidad": "Entrevista de Acceso Privilegiado (EAP)",
+    "relacion": "es una",
+    "valor": "metodología para estudiar poblaciones ocultas"
+  },
+  {
+    "entidad": "SENDA",
+    "relacion": "proporciona",
+    "valor": "información sobre consumo de drogas"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "es un",
+    "valor": "centro de investigación"
+  },
+  {
+    "entidad": "Comité de Ética",
+    "relacion": "aprueba",
+    "valor": "investigaciones en salud"
+  },
+  {
+    "entidad": "FONDECYT",
+    "relacion": "financia",
+    "valor": "proyectos de investigación"
+  },
+  {
+    "entidad": "poblaciones vulnerables",
+    "relacion": "son afectadas por",
+    "valor": "consumo de cocaína"
+  },
+  {
+    "entidad": "familias disfuncionales",
+    "relacion": "aumentan el riesgo de",
+    "valor": "consumo de sustancias"
+  },
+  {
+    "entidad": "deserción escolar",
+    "relacion": "aumenta la probabilidad de",
+    "valor": "consumo de sustancias"
+  },
+  {
+    "entidad": "conductas de riesgo",
+    "relacion": "incluyen",
+    "valor": "delitos y conductas sexuales de riesgo"
+  },
+  {
+    "entidad": "consumidores de PBC",
+    "relacion": "presentan",
+    "valor": "mayor severidad de dependencia"
+  },
+  {
+    "entidad": "consumidores de CC",
+    "relacion": "presentan",
+    "valor": "menor severidad de dependencia"
+  },
+  {
+    "entidad": "Obesidad",
+    "relacion": "es un",
+    "valor": "factor de riesgo de infección bacteriana ascendente durante el embarazo"
+  },
+  {
+    "entidad": "Infección bacteriana ascendente",
+    "relacion": "afecta a",
+    "valor": "embarazadas"
+  },
+  {
+    "entidad": "Obesidad",
+    "relacion": "asocia con",
+    "valor": "aumento del riesgo de resultados adversos del embarazo"
+  },
+  {
+    "entidad": "Resultados adversos del embarazo",
+    "relacion": "incluyen",
+    "valor": "diabetes gestacional"
+  },
+  {
+    "entidad": "Resultados adversos del embarazo",
+    "relacion": "incluyen",
+    "valor": "hipertensión arterial"
+  },
+  {
+    "entidad": "Resultados adversos del embarazo",
+    "relacion": "incluyen",
+    "valor": "incremento de cesáreas"
+  },
+  {
+    "entidad": "Resultados adversos del embarazo",
+    "relacion": "incluyen",
+    "valor": "hemorragias del postparto"
+  },
+  {
+    "entidad": "Resultados adversos del embarazo",
+    "relacion": "incluyen",
+    "valor": "macrosomía"
+  },
+  {
+    "entidad": "Resultados adversos del embarazo",
+    "relacion": "incluyen",
+    "valor": "malformaciones congénitas"
+  },
+  {
+    "entidad": "Resultados adversos del embarazo",
+    "relacion": "incluyen",
+    "valor": "muerte fetal"
+  },
+  {
+    "entidad": "Hijos de madres obesas",
+    "relacion": "tienen mayor riesgo de",
+    "valor": "resultados perinatales adversos"
+  },
+  {
+    "entidad": "Obesidad",
+    "relacion": "es un",
+    "valor": "factor de riesgo importante para cistitis y pielonefritis"
+  },
+  {
+    "entidad": "Obesidad",
+    "relacion": "asocia con",
+    "valor": "mayor riesgo de parto prematuro"
+  },
+  {
+    "entidad": "Obesidad",
+    "relacion": "asocia con",
+    "valor": "mayor riesgo de endometritis puerperal"
+  },
+  {
+    "entidad": "Obesidad",
+    "relacion": "es un",
+    "valor": "factor de riesgo independiente para aborto de segundo trimestre"
+  },
+  {
+    "entidad": "Obesidad",
+    "relacion": "es un",
+    "valor": "factor de riesgo independiente para parto prematuro"
+  },
+  {
+    "entidad": "Obesidad",
+    "relacion": "es un",
+    "valor": "factor de riesgo independiente para infecciones del parto y puerperio"
+  },
+  {
+    "entidad": "Comité de Ética Científico del Servicio de Salud Metropolitano Central",
+    "relacion": "aprueba",
+    "valor": "la realización del estudio"
+  },
+  {
+    "entidad": "Hospital Clínico San Borja Arriarán",
+    "relacion": "proporciona",
+    "valor": "datos clínicos y microbiológicos"
+  },
+  {
+    "entidad": "IMC",
+    "relacion": "se calcula en",
+    "valor": "la primera visita prenatal"
+  },
+  {
+    "entidad": "Obesidad",
+    "relacion": "conduce a",
+    "valor": "estado proinflamatorio"
+  },
+  {
+    "entidad": "Sistema inmune innato vaginal",
+    "relacion": "representa",
+    "valor": "la primera línea de defensa contra patógenos"
+  },
+  {
+    "entidad": "Obesidad",
+    "relacion": "deteriora",
+    "valor": "la respuesta inmune innata en embarazadas"
+  },
+  {
+    "entidad": "Obesidad",
+    "relacion": "permite",
+    "valor": "intervenciones oportunas en el embarazo"
+  },
+  {
+    "entidad": "Benzodiazepinas",
+    "relacion": "tienen",
+    "valor": "efecto broncodilatador directo"
+  },
+  {
+    "entidad": "Methacholine",
+    "relacion": "causa",
+    "valor": "bronchoconstricción"
+  },
+  {
+    "entidad": "Diazepam",
+    "relacion": "modula",
+    "valor": "bronchoconstricción inducida por methacholine"
+  },
+  {
+    "entidad": "Pacientes con asma",
+    "relacion": "son",
+    "valor": "sujetos del estudio"
+  },
+  {
+    "entidad": "Benzodiazepinas",
+    "relacion": "reducen",
+    "valor": "bronchoconstricción tras inhalación de methacholine"
+  },
+  {
+    "entidad": "GABA",
+    "relacion": "modula",
+    "valor": "tono colinérgico en las vías respiratorias"
+  },
+  {
+    "entidad": "Diazepam",
+    "relacion": "aumenta",
+    "valor": "actividad de GABA"
+  },
+  {
+    "entidad": "Sistema nervioso autónomo",
+    "relacion": "regula",
+    "valor": "función de las vías respiratorias"
+  },
+  {
+    "entidad": "Musculatura bronquial",
+    "relacion": "es controlada por",
+    "valor": "fibras eferentes del sistema nervioso autónomo"
+  },
+  {
+    "entidad": "Estudio",
+    "relacion": "fue llevado a cabo en",
+    "valor": "el Departamento de fisiología patológica"
+  },
+  {
+    "entidad": "Comité de Ética Local",
+    "relacion": "aprobó",
+    "valor": "el protocolo del estudio"
+  },
+  {
+    "entidad": "Benzodiazepinas",
+    "relacion": "son utilizados como",
+    "valor": "relajantes musculares, anticonvulsivos y ansiolíticos"
+  },
+  {
+    "entidad": "Prueba de inhalación de methacholine",
+    "relacion": "se utiliza para",
+    "valor": "diagnosticar hiperreactividad bronquial"
+  },
+  {
+    "entidad": "Efectos broncoconstrictores de methacholine",
+    "relacion": "son reducidos si",
+    "valor": "se inhala diazepam previamente"
+  },
+  {
+    "entidad": "Trombolisis intravenosa",
+    "relacion": "es un",
+    "valor": "tratamiento para accidente cerebrovascular isquémico"
+  },
+  {
+    "entidad": "activador del plasminógeno tisular recombinante (rt-PA)",
+    "relacion": "se utiliza en",
+    "valor": "trombolisis intravenosa"
+  },
+  {
+    "entidad": "accidente cerebrovascular isquémico",
+    "relacion": "es",
+    "valor": "la primera causa de mortalidad en la población chilena"
+  },
+  {
+    "entidad": "Hospital San Juan de Dios",
+    "relacion": "es un",
+    "valor": "hospital público en Chile"
+  },
+  {
+    "entidad": "protocolo de trombolisis intravenosa",
+    "relacion": "fue implementado en",
+    "valor": "el servicio de urgencia del Hospital San Juan de Dios"
+  },
+  {
+    "entidad": "escala NIHSS",
+    "relacion": "se utiliza para medir",
+    "valor": "la severidad del compromiso neurológico"
+  },
+  {
+    "entidad": "escala de Rankin modificada (mRS)",
+    "relacion": "se utiliza para evaluar",
+    "valor": "la discapacidad"
+  },
+  {
+    "entidad": "tasa de mortalidad",
+    "relacion": "fue",
+    "valor": "14.8%"
+  },
+  {
+    "entidad": "hemorragia intracerebral",
+    "relacion": "se asocia a",
+    "valor": "trombolisis intravenosa"
+  },
+  {
+    "entidad": "tasa de trombolisis intravenosa",
+    "relacion": "fue",
+    "valor": "3.8% en el año 2013"
+  },
+  {
+    "entidad": "Hospital San Juan de Dios",
+    "relacion": "atiende",
+    "valor": "7.6% de la población chilena"
+  },
+  {
+    "entidad": "trombolisis intravenosa",
+    "relacion": "reduce",
+    "valor": "discapacidad en pacientes con accidente cerebrovascular isquémico"
+  },
+  {
+    "entidad": "trombolisis intravenosa",
+    "relacion": "fue evaluada en",
+    "valor": "54 pacientes"
+  },
+  {
+    "entidad": "trombolisis intravenosa",
+    "relacion": "se asocia a",
+    "valor": "aumento del riesgo de hemorragias"
+  },
+  {
+    "entidad": "protocolo de trombolisis intravenosa",
+    "relacion": "se basa en",
+    "valor": "estudio del National Institute of Neurological Disorders and Stroke (NINDS)"
+  },
+  {
+    "entidad": "tasa de hemorragia intracerebral sintomática",
+    "relacion": "fue",
+    "valor": "5.5%"
+  },
+  {
+    "entidad": "tasa de hemorragia intracerebral",
+    "relacion": "fue",
+    "valor": "11.1%"
+  },
+  {
+    "entidad": "trombolisis intravenosa",
+    "relacion": "se realizó en",
+    "valor": "pacientes menores de 45 años"
+  },
+  {
+    "entidad": "trombolisis intravenosa",
+    "relacion": "fue segura y efectiva en",
+    "valor": "pacientes jóvenes"
+  },
+  {
+    "entidad": "tiempo inicio-aguja",
+    "relacion": "fue",
+    "valor": "194.4 minutos"
+  },
+  {
+    "entidad": "tiempo puerta-TAC",
+    "relacion": "fue",
+    "valor": "42.7 minutos"
+  },
+  {
+    "entidad": "tiempo puerta-aguja",
+    "relacion": "fue",
+    "valor": "87.0 minutos"
+  },
+  {
+    "entidad": "trombolisis intravenosa",
+    "relacion": "se asocia a",
+    "valor": "menor duración de hospitalización"
+  },
+  {
+    "entidad": "trombolisis intravenosa",
+    "relacion": "fue administrada en",
+    "valor": "60 minutos"
+  },
+  {
+    "entidad": "trombolisis intravenosa",
+    "relacion": "se realizó en",
+    "valor": "pacientes con NIHSS entre 5 y 23"
+  },
+  {
+    "entidad": "trombolisis intravenosa",
+    "relacion": "se considera",
+    "valor": "costo-efectiva"
+  },
+  {
+    "entidad": "Uso inapropiado de medicamentos",
+    "relacion": "es un",
+    "valor": "problema de salud"
+  },
+  {
+    "entidad": "adultos mayores",
+    "relacion": "afecta a",
+    "valor": "uso inapropiado de medicamentos"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud 2010",
+    "relacion": "es parte de",
+    "valor": "estudio sobre salud en Chile"
+  },
+  {
+    "entidad": "criterio de Beers",
+    "relacion": "es utilizado para",
+    "valor": "definir uso inapropiado de medicamentos"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "realiza",
+    "valor": "adaptación del criterio de Beers"
+  },
+  {
+    "entidad": "polifarmacia",
+    "relacion": "es un",
+    "valor": "factor de riesgo para uso inapropiado de medicamentos"
+  },
+  {
+    "entidad": "sexo femenino",
+    "relacion": "es un",
+    "valor": "factor de riesgo para uso inapropiado de medicamentos"
+  },
+  {
+    "entidad": "autopercepción del estado de salud",
+    "relacion": "influye en",
+    "valor": "uso inapropiado de medicamentos"
+  },
+  {
+    "entidad": "medicamentos",
+    "relacion": "son clasificados como",
+    "valor": "nivel 1, 2, 3 y 4 de uso inapropiado"
+  },
+  {
+    "entidad": "nivel 1",
+    "relacion": "indica",
+    "valor": "no se debe usar"
+  },
+  {
+    "entidad": "nivel 2",
+    "relacion": "indica",
+    "valor": "tiene excepcionales indicaciones"
+  },
+  {
+    "entidad": "nivel 3",
+    "relacion": "indica",
+    "valor": "se puede usar solo en cierto grupo de adultos mayores"
+  },
+  {
+    "entidad": "nivel 4",
+    "relacion": "indica",
+    "valor": "se puede usar sin problemas"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen mayor prevalencia de",
+    "valor": "uso inapropiado de medicamentos"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "tienen menor prevalencia de",
+    "valor": "uso inapropiado de medicamentos"
+  },
+  {
+    "entidad": "método Delphi",
+    "relacion": "es utilizado para",
+    "valor": "adaptar criterios de Beers"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud 2003",
+    "relacion": "es un estudio previo sobre",
+    "valor": "uso inapropiado de medicamentos"
+  },
+  {
+    "entidad": "sistema de salud",
+    "relacion": "se ve afectado por",
+    "valor": "uso inapropiado de medicamentos"
+  },
+  {
+    "entidad": "medicamentos de nivel 1",
+    "relacion": "incluyen",
+    "valor": "clorfenamina, amitriptilina, diazepam"
+  },
+  {
+    "entidad": "clorfenamina",
+    "relacion": "es un",
+    "valor": "medicamento de nivel 1"
+  },
+  {
+    "entidad": "amitriptilina",
+    "relacion": "es un",
+    "valor": "medicamento de nivel 1"
+  },
+  {
+    "entidad": "diazepam",
+    "relacion": "es un",
+    "valor": "medicamento de nivel 1"
+  },
+  {
+    "entidad": "política pública de medicamentos",
+    "relacion": "debe evaluar",
+    "valor": "impacto del uso inapropiado de medicamentos"
+  },
+  {
+    "entidad": "cirugía bariátrica",
+    "relacion": "causa",
+    "valor": "filtración postoperatoria"
+  },
+  {
+    "entidad": "estudio contrastado del tracto digestivo superior (ECTDS)",
+    "relacion": "se utiliza para",
+    "valor": "evaluar filtración postoperatoria"
+  },
+  {
+    "entidad": "filtración postoperatoria",
+    "relacion": "es una",
+    "valor": "complicación de cirugía bariátrica"
+  },
+  {
+    "entidad": "agua-soluble yodado",
+    "relacion": "es un",
+    "valor": "medio de contraste utilizado en ECTDS"
+  },
+  {
+    "entidad": "sensibilidad del ECTDS",
+    "relacion": "es",
+    "valor": "0%"
+  },
+  {
+    "entidad": "valor predictivo negativo del ECTDS",
+    "relacion": "es",
+    "valor": "99%"
+  },
+  {
+    "entidad": "American College of Radiology",
+    "relacion": "sugiere",
+    "valor": "tomografía computada en lugar de ECTDS"
+  },
+  {
+    "entidad": "incidencia de filtración",
+    "relacion": "es",
+    "valor": "0.6%"
+  },
+  {
+    "entidad": "Clínica Santa María",
+    "relacion": "realiza",
+    "valor": "cirugías bariátricas"
+  },
+  {
+    "entidad": "bypass gástrico",
+    "relacion": "es un tipo de",
+    "valor": "cirugía bariátrica"
+  },
+  {
+    "entidad": "gastrectomía vertical en manga",
+    "relacion": "es un tipo de",
+    "valor": "cirugía bariátrica"
+  },
+  {
+    "entidad": "edema de bordes anastomóticos",
+    "relacion": "impide",
+    "valor": "manifestación radiológica de filtraciones"
+  },
+  {
+    "entidad": "filtraciones",
+    "relacion": "son más frecuentes en",
+    "valor": "días intermedios y tardíos postoperatorios"
+  }
+]

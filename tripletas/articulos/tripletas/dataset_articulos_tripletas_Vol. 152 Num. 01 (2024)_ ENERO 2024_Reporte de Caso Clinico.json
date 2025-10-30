@@ -1,0 +1,277 @@
+[
+  {
+    "entidad": "urolitiasis",
+    "relacion": "corresponde a",
+    "valor": "formación de cálculos en la vía urinaria"
+  },
+  {
+    "entidad": "urolitiasis",
+    "relacion": "está relacionada con",
+    "valor": "estrés oxidativo"
+  },
+  {
+    "entidad": "urolitiasis",
+    "relacion": "está relacionada con",
+    "valor": "procesos inflamatorios"
+  },
+  {
+    "entidad": "mitocondria",
+    "relacion": "cumple un rol en",
+    "valor": "regulación del estrés oxidativo intracelular"
+  },
+  {
+    "entidad": "mitocondria",
+    "relacion": "cumple un rol en",
+    "valor": "homeostasis del calcio intracelular"
+  },
+  {
+    "entidad": "enfermedades mitocondriales",
+    "relacion": "son",
+    "valor": "patologías diversas"
+  },
+  {
+    "entidad": "enfermedades mitocondriales",
+    "relacion": "comprometen",
+    "valor": "distintos órganos"
+  },
+  {
+    "entidad": "enfermedades mitocondriales",
+    "relacion": "se presentan con",
+    "valor": "síntomas urinarios"
+  },
+  {
+    "entidad": "mitocondria disfuncional",
+    "relacion": "actúa en",
+    "valor": "formación de urolitiasis"
+  },
+  {
+    "entidad": "enfermedades mitocondriales",
+    "relacion": "son responsables de",
+    "valor": "litiasis"
+  },
+  {
+    "entidad": "síndrome de Fanconi",
+    "relacion": "se ha asociado a",
+    "valor": "enfermedades mitocondriales"
+  },
+  {
+    "entidad": "acidosis tubular renal",
+    "relacion": "se ha asociado a",
+    "valor": "enfermedades mitocondriales"
+  },
+  {
+    "entidad": "hipomagnesemia",
+    "relacion": "ha sido descrita en",
+    "valor": "pacientes con enfermedades mitocondriales"
+  },
+  {
+    "entidad": "hipercalciuria",
+    "relacion": "es un factor de riesgo de",
+    "valor": "urolitiasis"
+  },
+  {
+    "entidad": "enfermedades mitocondriales",
+    "relacion": "pueden generar",
+    "valor": "hipercalciuria"
+  },
+  {
+    "entidad": "síndrome de Bartter",
+    "relacion": "se presenta en",
+    "valor": "pacientes con síndrome de Kearns-Sayre"
+  },
+  {
+    "entidad": "estrés oxidativo",
+    "relacion": "puede generar",
+    "valor": "daño directo sobre células tubulares renales"
+  },
+  {
+    "entidad": "cálculos de oxalato de calcio",
+    "relacion": "se forman por",
+    "valor": "acumulación de cristales"
+  },
+  {
+    "entidad": "mitocondrias",
+    "relacion": "son ricas en",
+    "valor": "células tubulares renales"
+  },
+  {
+    "entidad": "tratamientos",
+    "relacion": "podrían incluir",
+    "valor": "antioxidantes como vitamina E y N-acetilsisteina"
+  },
+  {
+    "entidad": "Eosinofilia",
+    "relacion": "es un",
+    "valor": "aumento de eosinófilos en tejidos y/o sangre"
+  },
+  {
+    "entidad": "Carbapenems",
+    "relacion": "induce",
+    "valor": "eosinofilia"
+  },
+  {
+    "entidad": "Eosinofilia",
+    "relacion": "es causada por",
+    "valor": "hipersensibilidad a fármacos"
+  },
+  {
+    "entidad": "Eosinofilia",
+    "relacion": "afecta a",
+    "valor": "pacientes hospitalizados con complicaciones"
+  },
+  {
+    "entidad": "Meropenem",
+    "relacion": "causa",
+    "valor": "exantema y eosinofilia"
+  },
+  {
+    "entidad": "Imipenem",
+    "relacion": "causa",
+    "valor": "exantema y eosinofilia"
+  },
+  {
+    "entidad": "Eosinofilia",
+    "relacion": "desaparece tras",
+    "valor": "suspensión del carbapenem"
+  },
+  {
+    "entidad": "Pruebas de alergia",
+    "relacion": "no siempre son",
+    "valor": "útiles en el diagnóstico"
+  },
+  {
+    "entidad": "Carbapenems",
+    "relacion": "son",
+    "valor": "antibióticos betalactámicos"
+  },
+  {
+    "entidad": "Paciente",
+    "relacion": "presenta",
+    "valor": "dos episodios clínicos de eosinofilia"
+  },
+  {
+    "entidad": "Eosinofilia",
+    "relacion": "se relaciona con",
+    "valor": "reacciones cutáneas"
+  },
+  {
+    "entidad": "Pruebas cutáneas",
+    "relacion": "fueron",
+    "valor": "negativas para carbapenems"
+  },
+  {
+    "entidad": "Historia clínica",
+    "relacion": "debe ser considerada en",
+    "valor": "diagnóstico de reacciones alérgicas"
+  },
+  {
+    "entidad": "Eosinofilia",
+    "relacion": "es un reto en",
+    "valor": "la práctica clínica diaria"
+  },
+  {
+    "entidad": "Corticoides",
+    "relacion": "pueden ser necesarios en",
+    "valor": "casos de patología cutánea o sistémica difícil"
+  },
+  {
+    "entidad": "Factor VII",
+    "relacion": "forma parte de",
+    "valor": "complejo con Factor Tisular"
+  },
+  {
+    "entidad": "déficit de Factor VII congénito",
+    "relacion": "es",
+    "valor": "trastorno raro"
+  },
+  {
+    "entidad": "déficit de Factor VII congénito",
+    "relacion": "se hereda de manera",
+    "valor": "autosómica recesiva"
+  },
+  {
+    "entidad": "fenotipos clínicos",
+    "relacion": "varían desde",
+    "valor": "asintomáticos hasta enfermedad grave"
+  },
+  {
+    "entidad": "tratamientos disponibles",
+    "relacion": "incluyen",
+    "valor": "concentrados de Factor VII, Factor VII activado recombinante, Plasma Fresco Congelado"
+  },
+  {
+    "entidad": "embarazo",
+    "relacion": "aumenta",
+    "valor": "niveles de Factor VII en deficiencias leves y moderadas"
+  },
+  {
+    "entidad": "equipo multidisciplinario",
+    "relacion": "debe incluir",
+    "valor": "ginecoobstetras, anestesistas y hematólogos"
+  },
+  {
+    "entidad": "mujer de 31 años",
+    "relacion": "es diagnosticada con",
+    "valor": "déficit de Factor VII"
+  },
+  {
+    "entidad": "Tiempo de Protrombina",
+    "relacion": "es un",
+    "valor": "factor en el manejo obstétrico"
+  },
+  {
+    "entidad": "sangrados mucocutáneos",
+    "relacion": "son",
+    "valor": "manifestaciones comunes en mujeres embarazadas con deficiencia de FVII"
+  },
+  {
+    "entidad": "profilaxis con FVII",
+    "relacion": "debe considerarse en",
+    "valor": "mujeres con déficit severo o historia de sangrados significativos"
+  },
+  {
+    "entidad": "anestesia epidural",
+    "relacion": "puede usarse en",
+    "valor": "pacientes con déficit leve a moderado asintomáticas"
+  },
+  {
+    "entidad": "profilaxis durante el parto",
+    "relacion": "se recomienda en",
+    "valor": "pacientes sintomáticas o con déficit severo"
+  },
+  {
+    "entidad": "concentrado de FVII plasmático",
+    "relacion": "es preferido sobre",
+    "valor": "Plasma Fresco Congelado por riesgos asociados"
+  },
+  {
+    "entidad": "mujer haitiana de 31 años",
+    "relacion": "presenta antecedentes de",
+    "valor": "sangrados gingivales, epistaxis, metrorragias, anemia ferropénica"
+  },
+  {
+    "entidad": "gen FVII",
+    "relacion": "se encuentra en",
+    "valor": "el cromosoma 13q34"
+  },
+  {
+    "entidad": "embarazo",
+    "relacion": "es un estado de",
+    "valor": "hipercoagulabilidad"
+  },
+  {
+    "entidad": "sangrado post operatorio",
+    "relacion": "puede ocurrir en",
+    "valor": "pacientes con déficit de FVII"
+  },
+  {
+    "entidad": "profilaxis con rFVIIa",
+    "relacion": "se realiza",
+    "valor": "cada 4 a 6 horas hasta que el sangrado cese"
+  },
+  {
+    "entidad": "mujer embarazada",
+    "relacion": "evoluciona favorablemente",
+    "valor": "sin complicaciones hemorrágicas"
+  }
+]

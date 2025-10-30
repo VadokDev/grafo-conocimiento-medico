@@ -1,0 +1,167 @@
+[
+  {
+    "entidad": "Linfoma de células T/NK primario de testículo",
+    "relacion": "es un",
+    "valor": "tipo de linfoma no Hodgkin"
+  },
+  {
+    "entidad": "Linfoma de células T/NK primario de testículo",
+    "relacion": "afecta a",
+    "valor": "testículos"
+  },
+  {
+    "entidad": "paciente masculino de 36 años",
+    "relacion": "presenta",
+    "valor": "aumento de volumen del testículo derecho"
+  },
+  {
+    "entidad": "histología del tumor",
+    "relacion": "muestra",
+    "valor": "infiltrado difuso de células linfoides atípicas"
+  },
+  {
+    "entidad": "CD3",
+    "relacion": "es positivo en",
+    "valor": "células tumorales"
+  },
+  {
+    "entidad": "Epstein-Barr virus",
+    "relacion": "es detectado por",
+    "valor": "hibridación in situ"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "recibe",
+    "valor": "irradiación a testículo contralateral"
+  },
+  {
+    "entidad": "tratamiento",
+    "relacion": "incluye",
+    "valor": "quimioterapia sistémica con L-asparaginasa, metotrexato y dexametasona"
+  },
+  {
+    "entidad": "Linfoma de células T/NK primario de testículo",
+    "relacion": "tiene",
+    "valor": "mal pronóstico"
+  },
+  {
+    "entidad": "Linfoma de células T/NK primario de testículo",
+    "relacion": "es más frecuente en",
+    "valor": "Asia, México, Centroamérica y América del Sur"
+  },
+  {
+    "entidad": "recurrencia",
+    "relacion": "ocurre en",
+    "valor": "80% de los pacientes"
+  },
+  {
+    "entidad": "supervivencia global",
+    "relacion": "ha sido reportada entre",
+    "valor": "23% y 34% a 2 años"
+  },
+  {
+    "entidad": "Linfoma de células T/NK",
+    "relacion": "se asocia con",
+    "valor": "Epstein-Barr virus"
+  },
+  {
+    "entidad": "orquiectomía radical",
+    "relacion": "es un",
+    "valor": "tratamiento común para linfomas testiculares"
+  },
+  {
+    "entidad": "Linfoma de células T/NK primario de testículo",
+    "relacion": "se caracteriza por",
+    "valor": "patrón angiocéntrico y necrosis extensa"
+  },
+  {
+    "entidad": "Síndrome de Hipertensión Intracraneana",
+    "relacion": "es una manifestación",
+    "valor": "del síndrome de Sjögren"
+  },
+  {
+    "entidad": "Síndrome de Sjögren",
+    "relacion": "es una",
+    "valor": "patología autoinmune sistémica"
+  },
+  {
+    "entidad": "glándulas exocrinas",
+    "relacion": "son afectadas por",
+    "valor": "el síndrome de Sjögren"
+  },
+  {
+    "entidad": "mujer de 46 años",
+    "relacion": "presenta",
+    "valor": "síndrome de Sjögren y antecedentes de tiroiditis autoinmune"
+  },
+  {
+    "entidad": "cefalea holocránea",
+    "relacion": "es un síntoma de",
+    "valor": "síndrome de Hipertensión Intracraneana"
+  },
+  {
+    "entidad": "vómitos explosivos",
+    "relacion": "son un síntoma de",
+    "valor": "síndrome de Hipertensión Intracraneana"
+  },
+  {
+    "entidad": "papiledema bilateral",
+    "relacion": "es un hallazgo en",
+    "valor": "examen de fondo de ojo"
+  },
+  {
+    "entidad": "tomografía computarizada",
+    "relacion": "muestra",
+    "valor": "edema encefálico difuso"
+  },
+  {
+    "entidad": "punción lumbar",
+    "relacion": "revela",
+    "valor": "aumento de presión de líquido cefalorraquídeo"
+  },
+  {
+    "entidad": "corticoides",
+    "relacion": "son utilizados en",
+    "valor": "el manejo del síndrome de Hipertensión Intracraneana"
+  },
+  {
+    "entidad": "azatioprina",
+    "relacion": "se utiliza como",
+    "valor": "terapia inmunosupresora de mantención"
+  },
+  {
+    "entidad": "síndrome de Sjögren",
+    "relacion": "puede causar",
+    "valor": "compromiso del sistema nervioso central"
+  },
+  {
+    "entidad": "pseudotumor cerebri",
+    "relacion": "es un diagnóstico diferencial de",
+    "valor": "síndrome de Hipertensión Intracraneana"
+  },
+  {
+    "entidad": "corticoides endovenosos",
+    "relacion": "se administran como",
+    "valor": "prueba terapéutica"
+  },
+  {
+    "entidad": "síndrome de Sjögren",
+    "relacion": "se asocia con",
+    "valor": "vasculitis y procesos vasculopáticos"
+  },
+  {
+    "entidad": "SHTIC",
+    "relacion": "requiere estudio diagnóstico para",
+    "valor": "descartar causas de efecto de masa"
+  },
+  {
+    "entidad": "síndrome de Sjögren",
+    "relacion": "puede presentar",
+    "valor": "manifestaciones neurológicas"
+  },
+  {
+    "entidad": "mujer de 46 años",
+    "relacion": "evoluciona favorablemente con",
+    "valor": "tratamiento adecuado"
+  }
+]

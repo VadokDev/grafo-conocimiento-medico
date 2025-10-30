@@ -1,0 +1,302 @@
+[
+  {
+    "entidad": "COVID-19",
+    "relacion": "afecta a",
+    "valor": "comportamiento psicológico"
+  },
+  {
+    "entidad": "pandemias del siglo XXI",
+    "relacion": "incluye",
+    "valor": "H1N1 y COVID-19"
+  },
+  {
+    "entidad": "revisión sistemática",
+    "relacion": "realiza",
+    "valor": "análisis de estudios sobre comportamiento psicológico"
+  },
+  {
+    "entidad": "impacto psicológico",
+    "relacion": "se clasifica en",
+    "valor": "emocional, cognitivo, conductual, salud mental, organizacional, psicosocial"
+  },
+  {
+    "entidad": "grupos sociales",
+    "relacion": "experimentan",
+    "valor": "impacto psicológico crítico"
+  },
+  {
+    "entidad": "psicología de la pandemia",
+    "relacion": "describe",
+    "valor": "reacciones cognitivas, emocionales y conductuales ante pandemias"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud",
+    "relacion": "declara",
+    "valor": "estado de pandemia por COVID-19"
+  },
+  {
+    "entidad": "medidas de aislamiento",
+    "relacion": "causan",
+    "valor": "deterioro social y salud poblacional"
+  },
+  {
+    "entidad": "trastornos psicológicos",
+    "relacion": "aumentan debido a",
+    "valor": "pandemias"
+  },
+  {
+    "entidad": "teoría del sistema inmune conductual",
+    "relacion": "explica",
+    "valor": "mecanismos de afrontamiento ante enfermedades contagiosas"
+  },
+  {
+    "entidad": "adherencia a medidas de prevención",
+    "relacion": "depende de",
+    "valor": "condiciones psicosociales"
+  },
+  {
+    "entidad": "estudios revisados",
+    "relacion": "muestran",
+    "valor": "efectos psicológicos significativos"
+  },
+  {
+    "entidad": "intervenciones psicológicas",
+    "relacion": "deben ser",
+    "valor": "diseñadas y validadas para grupos vulnerables"
+  },
+  {
+    "entidad": "personal de salud",
+    "relacion": "es un grupo",
+    "valor": "altamente expuesto durante pandemias"
+  },
+  {
+    "entidad": "vacuna COVID-19",
+    "relacion": "percepción de la población sobre",
+    "valor": "variaciones respecto a la vacuna H1N1"
+  },
+  {
+    "entidad": "estudios longitudinales",
+    "relacion": "son necesarios para",
+    "valor": "identificar variables psicosociales que afectan adherencia"
+  },
+  {
+    "entidad": "comunidad científica",
+    "relacion": "debe convocar",
+    "valor": "esfuerzos para comprender comportamiento en pandemias"
+  },
+  {
+    "entidad": "Hipoacusia",
+    "relacion": "es un",
+    "valor": "factor de riesgo para demencia"
+  },
+  {
+    "entidad": "Demencia",
+    "relacion": "afecta a",
+    "valor": "calidad de vida"
+  },
+  {
+    "entidad": "Hipoacusia",
+    "relacion": "aumenta",
+    "valor": "con la edad"
+  },
+  {
+    "entidad": "Hipoacusia",
+    "relacion": "se asocia a",
+    "valor": "deterioro cognitivo"
+  },
+  {
+    "entidad": "Aislamiento social",
+    "relacion": "es un",
+    "valor": "factor de riesgo para demencia"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud",
+    "relacion": "define",
+    "valor": "hipoacusia como disminución de la audición"
+  },
+  {
+    "entidad": "Hipoacusia",
+    "relacion": "puede causar",
+    "valor": "dificultades en la comprensión del habla"
+  },
+  {
+    "entidad": "Hipoacusia",
+    "relacion": "se clasifica en",
+    "valor": "leve, moderada, severa y profunda"
+  },
+  {
+    "entidad": "Demencia",
+    "relacion": "se proyecta que aumentará",
+    "valor": "en la población mundial"
+  },
+  {
+    "entidad": "Hipoacusia",
+    "relacion": "es un",
+    "valor": "factor modificable en el desarrollo de demencia"
+  },
+  {
+    "entidad": "Estrategias de prevención",
+    "relacion": "incluyen",
+    "valor": "detección y tratamiento de hipoacusia"
+  },
+  {
+    "entidad": "Hipoacusia",
+    "relacion": "afecta a",
+    "valor": "52% de las personas mayores de 65 años en Chile"
+  },
+  {
+    "entidad": "Hipoacusia",
+    "relacion": "se asocia a",
+    "valor": "trastornos ansiosos y depresión"
+  },
+  {
+    "entidad": "Hipoacusia",
+    "relacion": "precede a",
+    "valor": "demencia por más de 9 años"
+  },
+  {
+    "entidad": "Tratamiento de hipoacusia",
+    "relacion": "incluye",
+    "valor": "audífonos y dispositivos de asistencia auditiva"
+  },
+  {
+    "entidad": "Políticas públicas",
+    "relacion": "pueden prevenir",
+    "valor": "50% de los casos de hipoacusia"
+  },
+  {
+    "entidad": "Audiometría tonal",
+    "relacion": "es el",
+    "valor": "método de elección para diagnóstico de hipoacusia"
+  },
+  {
+    "entidad": "Hipoacusia",
+    "relacion": "se relaciona con",
+    "valor": "cambios estructurales en el cerebro"
+  },
+  {
+    "entidad": "Hipoacusia",
+    "relacion": "es un",
+    "valor": "blanco terapéutico interesante"
+  },
+  {
+    "entidad": "medicamentos biológicos",
+    "relacion": "son efectivos para",
+    "valor": "tratamiento de cáncer y enfermedades inflamatorias"
+  },
+  {
+    "entidad": "pacientes con cáncer",
+    "relacion": "tienen riesgo de",
+    "valor": "infecciones"
+  },
+  {
+    "entidad": "psoriasis",
+    "relacion": "presenta riesgo de",
+    "valor": "infecciones no serias"
+  },
+  {
+    "entidad": "artritis",
+    "relacion": "presenta riesgo de",
+    "valor": "infecciones serias"
+  },
+  {
+    "entidad": "enfermedad inflamatoria intestinal",
+    "relacion": "presenta riesgo de",
+    "valor": "infecciones oportunistas"
+  },
+  {
+    "entidad": "FDA",
+    "relacion": "aprueba",
+    "valor": "medicamentos biológicos para tratamiento"
+  },
+  {
+    "entidad": "anticuerpos monoclonales",
+    "relacion": "se utilizan en",
+    "valor": "tratamiento de cáncer"
+  },
+  {
+    "entidad": "trastuzumab",
+    "relacion": "se dirige contra",
+    "valor": "receptor HER-2"
+  },
+  {
+    "entidad": "bevacizumab",
+    "relacion": "se dirige contra",
+    "valor": "factor de crecimiento endotelial vascular"
+  },
+  {
+    "entidad": "cetuximab",
+    "relacion": "se une a",
+    "valor": "receptor EGFR"
+  },
+  {
+    "entidad": "rituximab",
+    "relacion": "se dirige a",
+    "valor": "antígeno CD20"
+  },
+  {
+    "entidad": "anti TNF α",
+    "relacion": "incluye",
+    "valor": "infliximab, etanercept, adalimumab"
+  },
+  {
+    "entidad": "infecciones serias",
+    "relacion": "aumentan con",
+    "valor": "uso de biológicos"
+  },
+  {
+    "entidad": "tuberculosis",
+    "relacion": "es un riesgo en",
+    "valor": "pacientes que usan terapia biológica"
+  },
+  {
+    "entidad": "herpes zoster",
+    "relacion": "aumenta con",
+    "valor": "uso de anti-TNF alfa"
+  },
+  {
+    "entidad": "neumonía por Pneumocystis jirovecii",
+    "relacion": "aumenta en",
+    "valor": "pacientes con linfoma tratados con anti CD20"
+  },
+  {
+    "entidad": "hepatitis B",
+    "relacion": "se reactiva en",
+    "valor": "pacientes con linfoma que usan rituximab"
+  },
+  {
+    "entidad": "Sociedad Chilena de Infectología",
+    "relacion": "realiza",
+    "valor": "consenso sobre manejo de complicaciones infecciosas"
+  },
+  {
+    "entidad": "pacientes con artritis reumatoide",
+    "relacion": "tienen riesgo de",
+    "valor": "infecciones serias"
+  },
+  {
+    "entidad": "enfermedades autoinmunes",
+    "relacion": "pueden presentar",
+    "valor": "riesgo de infecciones"
+  },
+  {
+    "entidad": "estudios observacionales",
+    "relacion": "muestran",
+    "valor": "aumento de incidencia de infecciones"
+  },
+  {
+    "entidad": "biológicos",
+    "relacion": "pueden causar",
+    "valor": "eventos adversos secundarios"
+  },
+  {
+    "entidad": "calidad de la evidencia",
+    "relacion": "se evalúa con",
+    "valor": "AMSTAR"
+  },
+  {
+    "entidad": "metaanálisis",
+    "relacion": "incluyen",
+    "valor": "estudios clínicos controlados"
+  }
+]

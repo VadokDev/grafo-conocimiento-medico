@@ -1,0 +1,377 @@
+[
+  {
+    "entidad": "Hormona adrenocorticotrópica (ACTH)",
+    "relacion": "mide",
+    "valor": "nivel de la hormona adrenocorticotrópica en sangre"
+  },
+  {
+    "entidad": "Hormona adrenocorticotrópica (ACTH)",
+    "relacion": "requiere_muestra_de",
+    "valor": "sangre"
+  },
+  {
+    "entidad": "Hormona adrenocorticotrópica (ACTH)",
+    "relacion": "diagnostica",
+    "valor": "enfermedad de Cushing"
+  },
+  {
+    "entidad": "Hormona adrenocorticotrópica (ACTH)",
+    "relacion": "diagnostica",
+    "valor": "síndrome de Cushing"
+  },
+  {
+    "entidad": "Hormona adrenocorticotrópica (ACTH)",
+    "relacion": "diagnostica",
+    "valor": "enfermedad de Addison"
+  },
+  {
+    "entidad": "Hormona adrenocorticotrópica (ACTH)",
+    "relacion": "diagnostica",
+    "valor": "hipopituitarismo"
+  },
+  {
+    "entidad": "Hormona adrenocorticotrópica (ACTH)",
+    "relacion": "indicado_si_tiene",
+    "valor": "síntomas de exceso o defecto de cortisol"
+  },
+  {
+    "entidad": "Hormona adrenocorticotrópica (ACTH)",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "aumento de peso"
+  },
+  {
+    "entidad": "Hormona adrenocorticotrópica (ACTH)",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "piernas y brazos delgados"
+  },
+  {
+    "entidad": "Hormona adrenocorticotrópica (ACTH)",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "cara redonda"
+  },
+  {
+    "entidad": "Hormona adrenocorticotrópica (ACTH)",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "aumento de grasa alrededor del cuello"
+  },
+  {
+    "entidad": "Hormona adrenocorticotrópica (ACTH)",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "moretones fáciles"
+  },
+  {
+    "entidad": "Hormona adrenocorticotrópica (ACTH)",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "rayas púrpuras en el abdomen"
+  },
+  {
+    "entidad": "Hormona adrenocorticotrópica (ACTH)",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "debilidad muscular"
+  },
+  {
+    "entidad": "Hormona adrenocorticotrópica (ACTH)",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "fatiga duradera"
+  },
+  {
+    "entidad": "Hormona adrenocorticotrópica (ACTH)",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "pérdida de apetito"
+  },
+  {
+    "entidad": "Hormona adrenocorticotrópica (ACTH)",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "pérdida de peso"
+  },
+  {
+    "entidad": "Hormona adrenocorticotrópica (ACTH)",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "dolor abdominal"
+  },
+  {
+    "entidad": "Hormona adrenocorticotrópica (ACTH)",
+    "relacion": "tiene_duracion",
+    "valor": "menos de cinco minutos"
+  },
+  {
+    "entidad": "Hormona adrenocorticotrópica (ACTH)",
+    "relacion": "tiene_riesgo",
+    "valor": "dolor leve o moretón en el lugar de la punción"
+  },
+  {
+    "entidad": "Hormona adrenocorticotrópica (ACTH)",
+    "relacion": "realizado_por",
+    "valor": "profesional de la salud"
+  },
+  {
+    "entidad": "Hematocrito",
+    "relacion": "mide",
+    "valor": "porcentaje de glóbulos rojos en la sangre"
+  },
+  {
+    "entidad": "Hematocrito",
+    "relacion": "requiere_muestra_de",
+    "valor": "sangre de una vena del brazo"
+  },
+  {
+    "entidad": "Hematocrito",
+    "relacion": "diagnostica",
+    "valor": "anemia"
+  },
+  {
+    "entidad": "Hematocrito",
+    "relacion": "diagnostica",
+    "valor": "policitemia"
+  },
+  {
+    "entidad": "Hematocrito",
+    "relacion": "es_parte_de",
+    "valor": "conteo sanguíneo completo"
+  },
+  {
+    "entidad": "Hematocrito",
+    "relacion": "tiene_duracion",
+    "valor": "menos de cinco minutos"
+  },
+  {
+    "entidad": "Hematocrito",
+    "relacion": "tiene_riesgo",
+    "valor": "dolor leve o moretón en el lugar de la punción"
+  },
+  {
+    "entidad": "Hematocrito",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "falta de aire"
+  },
+  {
+    "entidad": "Hematocrito",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "debilidad o fatiga"
+  },
+  {
+    "entidad": "Hematocrito",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Hematocrito",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Hematocrito",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "arritmia"
+  },
+  {
+    "entidad": "Hematocrito",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "síntomas en la piel"
+  },
+  {
+    "entidad": "Hematocrito",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "sudor excesivo"
+  },
+  {
+    "entidad": "Hematocrito",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "vista borrosa"
+  },
+  {
+    "entidad": "Hematocrito",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "sangrado inusual"
+  },
+  {
+    "entidad": "Hisopado nasal",
+    "relacion": "analiza",
+    "valor": "virus y bacterias"
+  },
+  {
+    "entidad": "Hisopado nasal",
+    "relacion": "alivia",
+    "valor": "síntomas de infección respiratoria"
+  },
+  {
+    "entidad": "Hisopado nasal",
+    "relacion": "requiere_muestra_de",
+    "valor": "células del interior de las fosas nasales o nasofaringe"
+  },
+  {
+    "entidad": "Hisopado nasal",
+    "relacion": "indicado_si_tiene",
+    "valor": "síntomas de infección respiratoria"
+  },
+  {
+    "entidad": "Hisopado nasal",
+    "relacion": "diagnostica",
+    "valor": "gripe"
+  },
+  {
+    "entidad": "Hisopado nasal",
+    "relacion": "diagnostica",
+    "valor": "COVID-19"
+  },
+  {
+    "entidad": "Hisopado nasal",
+    "relacion": "diagnostica",
+    "valor": "virus sincicial respiratorio (VSR)"
+  },
+  {
+    "entidad": "Hisopado nasal",
+    "relacion": "diagnostica",
+    "valor": "tos ferina"
+  },
+  {
+    "entidad": "Hisopado nasal",
+    "relacion": "diagnostica",
+    "valor": "meningitis"
+  },
+  {
+    "entidad": "Hisopado nasal",
+    "relacion": "diagnostica",
+    "valor": "SARM"
+  },
+  {
+    "entidad": "Hisopado nasal",
+    "relacion": "tiene_riesgo",
+    "valor": "cosquillas en la garganta"
+  },
+  {
+    "entidad": "Hisopado nasal",
+    "relacion": "tiene_riesgo",
+    "valor": "tos"
+  },
+  {
+    "entidad": "Hisopado nasal",
+    "relacion": "tiene_riesgo",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Hisopado nasal",
+    "relacion": "es_tipo_de",
+    "valor": "prueba de laboratorio"
+  },
+  {
+    "entidad": "Hisopado nasal",
+    "relacion": "util_para",
+    "valor": "diagnosticar infecciones respiratorias"
+  },
+  {
+    "entidad": "Hisopado nasal",
+    "relacion": "realizado_por",
+    "valor": "profesional de la salud"
+  },
+  {
+    "entidad": "Histeroscopia",
+    "relacion": "diagnostica",
+    "valor": "sangrado uterino anormal"
+  },
+  {
+    "entidad": "Histeroscopia",
+    "relacion": "diagnostica",
+    "valor": "infertilidad"
+  },
+  {
+    "entidad": "Histeroscopia",
+    "relacion": "diagnostica",
+    "valor": "abortos espontáneos repetidos"
+  },
+  {
+    "entidad": "Histeroscopia",
+    "relacion": "diagnostica",
+    "valor": "fibromas"
+  },
+  {
+    "entidad": "Histeroscopia",
+    "relacion": "diagnostica",
+    "valor": "pólipos"
+  },
+  {
+    "entidad": "Histeroscopia",
+    "relacion": "diagnostica",
+    "valor": "tejido cicatricial"
+  },
+  {
+    "entidad": "Histeroscopia",
+    "relacion": "indicado_si_tiene",
+    "valor": "períodos menstruales abundantes"
+  },
+  {
+    "entidad": "Histeroscopia",
+    "relacion": "indicado_si_tiene",
+    "valor": "sangrado entre períodos"
+  },
+  {
+    "entidad": "Histeroscopia",
+    "relacion": "indicado_si_tiene",
+    "valor": "sangrado después de la menopausia"
+  },
+  {
+    "entidad": "Histeroscopia",
+    "relacion": "indicado_si_tiene",
+    "valor": "dificultad para quedar embarazada"
+  },
+  {
+    "entidad": "Histeroscopia",
+    "relacion": "indicado_si_tiene",
+    "valor": "deseo de retirar un DIU"
+  },
+  {
+    "entidad": "Histeroscopia",
+    "relacion": "tiene_duracion",
+    "valor": "15 minutos a una hora"
+  },
+  {
+    "entidad": "Histeroscopia",
+    "relacion": "tiene_riesgo",
+    "valor": "cólicos leves"
+  },
+  {
+    "entidad": "Histeroscopia",
+    "relacion": "tiene_riesgo",
+    "valor": "secreción con sangre"
+  },
+  {
+    "entidad": "Histeroscopia",
+    "relacion": "tiene_riesgo",
+    "valor": "sangrado abundante"
+  },
+  {
+    "entidad": "Histeroscopia",
+    "relacion": "tiene_riesgo",
+    "valor": "infección"
+  },
+  {
+    "entidad": "Histeroscopia",
+    "relacion": "tiene_riesgo",
+    "valor": "desgarros en el útero"
+  },
+  {
+    "entidad": "Histeroscopia",
+    "relacion": "utiliza_equipo",
+    "valor": "histeroscopio"
+  },
+  {
+    "entidad": "Histeroscopia",
+    "relacion": "se_realiza_en",
+    "valor": "hospital"
+  },
+  {
+    "entidad": "Histeroscopia",
+    "relacion": "se_realiza_en",
+    "valor": "centro de cirugía ambulatoria"
+  },
+  {
+    "entidad": "Histeroscopia",
+    "relacion": "es_tipo_de",
+    "valor": "procedimiento diagnóstico"
+  },
+  {
+    "entidad": "Histeroscopia",
+    "relacion": "es_tipo_de",
+    "valor": "procedimiento quirúrgico"
+  }
+]

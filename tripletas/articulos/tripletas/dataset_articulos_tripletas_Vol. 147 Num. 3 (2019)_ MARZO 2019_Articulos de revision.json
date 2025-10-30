@@ -1,0 +1,247 @@
+[
+  {
+    "entidad": "hemofilia A adquirida",
+    "relacion": "es un",
+    "valor": "trastorno hemorrágico autoinmune"
+  },
+  {
+    "entidad": "factor VIII",
+    "relacion": "es atacado por",
+    "valor": "autoanticuerpos"
+  },
+  {
+    "entidad": "diagnóstico temprano",
+    "relacion": "es",
+    "valor": "necesario para reducir morbilidad y mortalidad"
+  },
+  {
+    "entidad": "hemofilia A adquirida",
+    "relacion": "presenta",
+    "valor": "sangrados potencialmente mortales"
+  },
+  {
+    "entidad": "tiempo de tromboplastina parcial activada (TTPa)",
+    "relacion": "es",
+    "valor": "prolongado en HAA"
+  },
+  {
+    "entidad": "factor VIII",
+    "relacion": "tiene niveles",
+    "valor": "disminuidos en HAA"
+  },
+  {
+    "entidad": "pruebas diagnósticas",
+    "relacion": "pueden ser afectadas por",
+    "valor": "errores pre y analíticos"
+  },
+  {
+    "entidad": "pacientes ancianos",
+    "relacion": "deben ser considerados para",
+    "valor": "sospecha de HAA"
+  },
+  {
+    "entidad": "mujeres en período postparto",
+    "relacion": "deben ser consideradas para",
+    "valor": "sospecha de HAA"
+  },
+  {
+    "entidad": "prueba de mezclas",
+    "relacion": "es un",
+    "valor": "método de laboratorio para investigar HAA"
+  },
+  {
+    "entidad": "errores pre-analíticos",
+    "relacion": "conducen a",
+    "valor": "resultados inexactos"
+  },
+  {
+    "entidad": "heparina",
+    "relacion": "actúa como",
+    "valor": "inhibidor de factores de coagulación"
+  },
+  {
+    "entidad": "hemofilia A adquirida",
+    "relacion": "es poco frecuente con una incidencia de",
+    "valor": "1-1.5 casos por millón de personas por año"
+  },
+  {
+    "entidad": "factores genéticos",
+    "relacion": "están asociados a",
+    "valor": "la incidencia de HAA"
+  },
+  {
+    "entidad": "autoanticuerpos tipo inmunoglobulinas G",
+    "relacion": "son",
+    "valor": "inhibitorios contra el factor VIII"
+  },
+  {
+    "entidad": "muestras sanguíneas",
+    "relacion": "deben ser manipuladas",
+    "valor": "adecuadamente para evitar errores"
+  },
+  {
+    "entidad": "laboratorios de procesamiento de muestras",
+    "relacion": "deben seguir",
+    "valor": "protocolos estandarizados"
+  },
+  {
+    "entidad": "errores de identificación del paciente",
+    "relacion": "resultan en",
+    "valor": "diagnósticos erróneos"
+  },
+  {
+    "entidad": "niveles de factores VIII y IX",
+    "relacion": "pueden estar",
+    "valor": "bajos en pacientes bajo terapia anticoagulante"
+  },
+  {
+    "entidad": "miopatías inflamatorias idiopáticas",
+    "relacion": "es un",
+    "valor": "grupo de enfermedades inmunomediadas"
+  },
+  {
+    "entidad": "miopatías inflamatorias idiopáticas",
+    "relacion": "afecta a",
+    "valor": "músculo esquelético"
+  },
+  {
+    "entidad": "miopatías inflamatorias idiopáticas",
+    "relacion": "se caracteriza por",
+    "valor": "debilidad muscular proximal"
+  },
+  {
+    "entidad": "miopatías inflamatorias idiopáticas",
+    "relacion": "se caracteriza por",
+    "valor": "elevación de enzimas musculares"
+  },
+  {
+    "entidad": "miopatías inflamatorias idiopáticas",
+    "relacion": "se caracteriza por",
+    "valor": "cambios miopáticos en electromiografía"
+  },
+  {
+    "entidad": "miopatías inflamatorias idiopáticas",
+    "relacion": "se caracteriza por",
+    "valor": "biopsia muscular anormal"
+  },
+  {
+    "entidad": "dermatomiositis",
+    "relacion": "es un tipo de",
+    "valor": "miopatía inflamatoria idiopática"
+  },
+  {
+    "entidad": "polimiositis",
+    "relacion": "es un tipo de",
+    "valor": "miopatía inflamatoria idiopática"
+  },
+  {
+    "entidad": "miositis por cuerpos de inclusión",
+    "relacion": "es un tipo de",
+    "valor": "miopatía inflamatoria idiopática"
+  },
+  {
+    "entidad": "miopatía necrotizante inmunomediada",
+    "relacion": "es un tipo de",
+    "valor": "miopatía inflamatoria idiopática"
+  },
+  {
+    "entidad": "tratamiento de DM, PM y MNIM",
+    "relacion": "se basa en",
+    "valor": "inmunosupresión"
+  },
+  {
+    "entidad": "IBM",
+    "relacion": "tiene",
+    "valor": "tratamientos sintomáticos"
+  },
+  {
+    "entidad": "corticoides",
+    "relacion": "son",
+    "valor": "la primera línea de tratamiento"
+  },
+  {
+    "entidad": "miopatías inflamatorias idiopáticas",
+    "relacion": "tienen",
+    "valor": "una incidencia anual entre 0,1 a 5,8 por 100.000 personas"
+  },
+  {
+    "entidad": "dermatomiositis",
+    "relacion": "tiene",
+    "valor": "una incidencia de aproximadamente 0,8 a 1,2 por 100.000"
+  },
+  {
+    "entidad": "polimiositis",
+    "relacion": "tiene",
+    "valor": "una incidencia de 0,1 a 3,2 por 100.000 personas"
+  },
+  {
+    "entidad": "miopatía necrotizante inmunomediada",
+    "relacion": "representa",
+    "valor": "un 19% de las MII"
+  },
+  {
+    "entidad": "miositis no específicas",
+    "relacion": "representa",
+    "valor": "un 39% de las MII"
+  },
+  {
+    "entidad": "miositis",
+    "relacion": "puede ser parte de",
+    "valor": "síndromes de sobreposición"
+  },
+  {
+    "entidad": "síndrome antisintetasa",
+    "relacion": "se caracteriza por",
+    "valor": "enfermedad intersticial pulmonar"
+  },
+  {
+    "entidad": "síndrome antisintetasa",
+    "relacion": "se caracteriza por",
+    "valor": "lesiones hiperqueratósicas en las manos"
+  },
+  {
+    "entidad": "síndrome antisintetasa",
+    "relacion": "se caracteriza por",
+    "valor": "fenómeno de Raynaud"
+  },
+  {
+    "entidad": "síndrome antisintetasa",
+    "relacion": "se caracteriza por",
+    "valor": "fiebre"
+  },
+  {
+    "entidad": "síndrome antisintetasa",
+    "relacion": "se caracteriza por",
+    "valor": "poliartritis"
+  },
+  {
+    "entidad": "anticuerpos asociados a miositis",
+    "relacion": "se relacionan con",
+    "valor": "diferentes fenotipos de MII"
+  },
+  {
+    "entidad": "anticuerpos anti Jo-1",
+    "relacion": "se encuentran en",
+    "valor": "más de un 20% de las MII"
+  },
+  {
+    "entidad": "anticuerpos anti TIF-1 gamma",
+    "relacion": "se asocian a",
+    "valor": "neoplasias en adultos"
+  },
+  {
+    "entidad": "miopatías inflamatorias idiopáticas",
+    "relacion": "tienen",
+    "valor": "una supervivencia de 62% a 90% a 10 años"
+  },
+  {
+    "entidad": "causas de muerte en MII",
+    "relacion": "son",
+    "valor": "complicaciones cardiacas y pulmonares"
+  },
+  {
+    "entidad": "miopatía por cuerpos de inclusión",
+    "relacion": "no reduce",
+    "valor": "la expectativa de vida"
+  }
+]

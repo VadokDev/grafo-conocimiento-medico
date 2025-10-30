@@ -1,0 +1,82 @@
+[
+  {
+    "entidad": "Prurito crónico",
+    "relacion": "se define como",
+    "valor": "una sensación somática displacentera que persiste por más de 6 semanas"
+  },
+  {
+    "entidad": "Prurito crónico",
+    "relacion": "es el",
+    "valor": "síntoma cutáneo más frecuente"
+  },
+  {
+    "entidad": "Prurito crónico",
+    "relacion": "afecta a",
+    "valor": "diversas esferas como sueño, salud mental e interacciones sociales"
+  },
+  {
+    "entidad": "Prurito crónico",
+    "relacion": "causa",
+    "valor": "impacto negativo significativo en la calidad de vida"
+  },
+  {
+    "entidad": "Interleuquinas 4, 13, 21",
+    "relacion": "desempeñan un papel",
+    "valor": "crucial en la fisiopatología del prurito"
+  },
+  {
+    "entidad": "Manejo del prurito crónico",
+    "relacion": "debe ser",
+    "valor": "holístico y multidisciplinario"
+  },
+  {
+    "entidad": "Tratamiento tópico",
+    "relacion": "se sugiere para",
+    "valor": "prurito localizado"
+  },
+  {
+    "entidad": "Terapia sistémica",
+    "relacion": "se recomienda para",
+    "valor": "prurito generalizado o localizado refractario a tópicos"
+  },
+  {
+    "entidad": "Dupilumab",
+    "relacion": "ha demostrado eficacia en",
+    "valor": "dermatitis atópica"
+  },
+  {
+    "entidad": "Nemolizumab",
+    "relacion": "se muestra como",
+    "valor": "alternativa prometedora en el manejo del prurito crónico"
+  },
+  {
+    "entidad": "Prurito crónico",
+    "relacion": "requiere",
+    "valor": "mayor estudio epidemiológico nacional"
+  },
+  {
+    "entidad": "Prurito crónico",
+    "relacion": "se clasifica en",
+    "valor": "tres categorías: localizado, localizado refractario y generalizado"
+  },
+  {
+    "entidad": "Corticoesteroides",
+    "relacion": "son el pilar de",
+    "valor": "tratamiento en prurito inflamatorio"
+  },
+  {
+    "entidad": "Higiene no abrasiva de la piel",
+    "relacion": "es parte de",
+    "valor": "terapia no farmacológica"
+  },
+  {
+    "entidad": "Prurito psicógeno",
+    "relacion": "es un diagnóstico de",
+    "valor": "exclusión"
+  },
+  {
+    "entidad": "Prurito Crónico de Origen Desconocido (CPUO)",
+    "relacion": "puede o no acompañarse de",
+    "valor": "eosinofilia en sangre"
+  }
+]

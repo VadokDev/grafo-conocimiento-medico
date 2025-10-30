@@ -1,0 +1,277 @@
+[
+  {
+    "entidad": "Linfoma anaplásico de células grandes",
+    "relacion": "asociado a",
+    "valor": "implantes mamarios"
+  },
+  {
+    "entidad": "Linfoma anaplásico de células grandes",
+    "relacion": "diagnosticado mediante",
+    "valor": "punción por aguja fina"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud",
+    "relacion": "describe",
+    "valor": "linfoma anaplásico de células grandes asociado a implantes mamarios"
+  },
+  {
+    "entidad": "implantes texturizados",
+    "relacion": "aumenta la frecuencia de",
+    "valor": "linfoma anaplásico de células grandes"
+  },
+  {
+    "entidad": "seroma",
+    "relacion": "presenta como",
+    "valor": "una colección líquida"
+  },
+  {
+    "entidad": "punción por aguja fina",
+    "relacion": "es un método para",
+    "valor": "diagnosticar linfoma anaplásico de células grandes"
+  },
+  {
+    "entidad": "silicona procesada",
+    "relacion": "contiene",
+    "valor": "componentes biológicamente activos"
+  },
+  {
+    "entidad": "remoción del implante",
+    "relacion": "es parte del",
+    "valor": "manejo de linfoma anaplásico de células grandes"
+  },
+  {
+    "entidad": "células neoplásicas",
+    "relacion": "se disponen en",
+    "valor": "la cara interna de la cápsula"
+  },
+  {
+    "entidad": "seromas periprotésicos tardíos",
+    "relacion": "deben ser considerados en",
+    "valor": "el diagnóstico diferencial de linfoma anaplásico de células grandes"
+  },
+  {
+    "entidad": "estudio citológico",
+    "relacion": "es una herramienta para",
+    "valor": "diagnóstico precoz de linfoma anaplásico de células grandes"
+  },
+  {
+    "entidad": "Síndrome de DRESS",
+    "relacion": "es un",
+    "valor": "síndrome de hipersensibilidad a drogas"
+  },
+  {
+    "entidad": "sulfasalazina",
+    "relacion": "induce",
+    "valor": "síndrome de DRESS"
+  },
+  {
+    "entidad": "mujer de 24 años",
+    "relacion": "presenta",
+    "valor": "síndrome de DRESS"
+  },
+  {
+    "entidad": "colitis ulcerosa",
+    "relacion": "es un",
+    "valor": "antecedente médico"
+  },
+  {
+    "entidad": "infliximab",
+    "relacion": "es un",
+    "valor": "tratamiento previo"
+  },
+  {
+    "entidad": "sulfasalazina",
+    "relacion": "se indica",
+    "valor": "para colitis ulcerosa"
+  },
+  {
+    "entidad": "sulfasalazina",
+    "relacion": "causa",
+    "valor": "adenopatías cervicales"
+  },
+  {
+    "entidad": "sulfasalazina",
+    "relacion": "causa",
+    "valor": "fiebre"
+  },
+  {
+    "entidad": "sulfasalazina",
+    "relacion": "causa",
+    "valor": "exantema"
+  },
+  {
+    "entidad": "sulfasalazina",
+    "relacion": "causa",
+    "valor": "prurito"
+  },
+  {
+    "entidad": "sulfasalazina",
+    "relacion": "requiere",
+    "valor": "suspensión inmediata"
+  },
+  {
+    "entidad": "corticosteroides",
+    "relacion": "son",
+    "valor": "tratamiento de primera línea"
+  },
+  {
+    "entidad": "sulfasalazina",
+    "relacion": "es un",
+    "valor": "fármaco de la familia de las sulfonamidas"
+  },
+  {
+    "entidad": "sulfasalazina",
+    "relacion": "se asocia con",
+    "valor": "síndrome de DRESS"
+  },
+  {
+    "entidad": "mujer de 24 años",
+    "relacion": "evoluciona con",
+    "valor": "desaparición de síntomas tras suspensión de sulfasalazina"
+  },
+  {
+    "entidad": "sulfasalazina",
+    "relacion": "se utiliza en",
+    "valor": "enfermedad inflamatoria intestinal"
+  },
+  {
+    "entidad": "DRESS",
+    "relacion": "requiere",
+    "valor": "alta sospecha clínica"
+  },
+  {
+    "entidad": "sulfasalazina",
+    "relacion": "debe considerarse",
+    "valor": "al inicio del tratamiento"
+  },
+  {
+    "entidad": "sulfasalazina",
+    "relacion": "puede causar",
+    "valor": "reacciones idiosincráticas"
+  },
+  {
+    "entidad": "sulfasalazina",
+    "relacion": "se asocia con",
+    "valor": "alteraciones hepáticas"
+  },
+  {
+    "entidad": "sulfasalazina",
+    "relacion": "se asocia con",
+    "valor": "eosinofilia"
+  },
+  {
+    "entidad": "sulfasalazina",
+    "relacion": "se asocia con",
+    "valor": "linfocitos atípicos"
+  },
+  {
+    "entidad": "Chylous Ascites (CA)",
+    "relacion": "asociado a",
+    "valor": "obstrucción del sistema linfático"
+  },
+  {
+    "entidad": "chylothorax (CTx)",
+    "relacion": "asociado a",
+    "valor": "disrupción del sistema linfático"
+  },
+  {
+    "entidad": "cirrosis alcohólica",
+    "relacion": "causa",
+    "valor": "recurrentes eventos de CTx y CA"
+  },
+  {
+    "entidad": "portal hypertension",
+    "relacion": "causa",
+    "valor": "CA y CTx"
+  },
+  {
+    "entidad": "diuréticos",
+    "relacion": "no alivia",
+    "valor": "síntomas de CA y CTx"
+  },
+  {
+    "entidad": "transjugular intrahepatic portosystemic shunt (TIPS)",
+    "relacion": "colocado",
+    "valor": "con éxito"
+  },
+  {
+    "entidad": "pleural effusion",
+    "relacion": "subsidiado por",
+    "valor": "TIPS"
+  },
+  {
+    "entidad": "nutrición parenteral (NPT)",
+    "relacion": "apoyado por",
+    "valor": "octreótide"
+  },
+  {
+    "entidad": "octreótide",
+    "relacion": "asociado a",
+    "valor": "nutrición enteral con fórmula rica en MCT"
+  },
+  {
+    "entidad": "cirrosis",
+    "relacion": "asociado a",
+    "valor": "hidrotórax"
+  },
+  {
+    "entidad": "hidrotórax",
+    "relacion": "desarrolla en",
+    "valor": "5%-12% de pacientes con cirrosis"
+  },
+  {
+    "entidad": "TIPS",
+    "relacion": "mejora",
+    "valor": "calidad de vida del paciente"
+  },
+  {
+    "entidad": "mecanismo fisiopatológico",
+    "relacion": "asociado a",
+    "valor": "aumento del flujo linfático"
+  },
+  {
+    "entidad": "triglicéridos de cadena media (MCT)",
+    "relacion": "empleados en",
+    "valor": "suplementación nutricional"
+  },
+  {
+    "entidad": "drenaje pleural",
+    "relacion": "instalado en",
+    "valor": "emergencia"
+  },
+  {
+    "entidad": "dieta hipograsa",
+    "relacion": "indicada en",
+    "valor": "alta del paciente"
+  },
+  {
+    "entidad": "cirugía",
+    "relacion": "incluida en",
+    "valor": "enfoques de tratamiento"
+  },
+  {
+    "entidad": "nutrición enteral",
+    "relacion": "progresando desde",
+    "valor": "nutrición parenteral"
+  },
+  {
+    "entidad": "falla respiratoria",
+    "relacion": "secundaria a",
+    "valor": "QT masivo"
+  },
+  {
+    "entidad": "drenaje pleural",
+    "relacion": "utilizado en",
+    "valor": "casos de QT"
+  },
+  {
+    "entidad": "cirrosis",
+    "relacion": "frecuencia de",
+    "valor": "QA baja"
+  },
+  {
+    "entidad": "QA/QT",
+    "relacion": "diagnóstico en",
+    "valor": "pacientes con cirrosis"
+  }
+]

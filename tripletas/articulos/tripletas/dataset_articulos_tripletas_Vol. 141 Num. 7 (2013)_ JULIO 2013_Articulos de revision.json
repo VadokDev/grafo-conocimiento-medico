@@ -1,0 +1,242 @@
+[
+  {
+    "entidad": "Anemia de las enfermedades crónicas",
+    "relacion": "asociada a",
+    "valor": "obesidad"
+  },
+  {
+    "entidad": "Hepcidina",
+    "relacion": "es un",
+    "valor": "mediador central de la anemia de las enfermedades crónicas"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "causa",
+    "valor": "inflamación crónica"
+  },
+  {
+    "entidad": "Hepcidina",
+    "relacion": "regula",
+    "valor": "homeostasis del hierro"
+  },
+  {
+    "entidad": "Hepcidina",
+    "relacion": "aumenta en",
+    "valor": "obesidad"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "asocia con",
+    "valor": "bajas concentraciones de hierro sérico"
+  },
+  {
+    "entidad": "Hepcidina",
+    "relacion": "inducida por",
+    "valor": "reservas de hierro y la inflamación"
+  },
+  {
+    "entidad": "Hepcidina",
+    "relacion": "se suprime por",
+    "valor": "hipoxia y anemia"
+  },
+  {
+    "entidad": "interleuquina-6 (IL-6)",
+    "relacion": "estimula",
+    "valor": "producción de Hepcidina"
+  },
+  {
+    "entidad": "Hepcidina",
+    "relacion": "interfiere con",
+    "valor": "absorción de hierro"
+  },
+  {
+    "entidad": "síndrome metabólico",
+    "relacion": "asociado con",
+    "valor": "niveles elevados de ferritina sérica"
+  },
+  {
+    "entidad": "leptina",
+    "relacion": "regula",
+    "valor": "expresión hepática de Hepcidina"
+  },
+  {
+    "entidad": "adiponectina",
+    "relacion": "es un",
+    "valor": "adipoquina antiinflamatoria"
+  },
+  {
+    "entidad": "anemia de las enfermedades crónicas (AEC)",
+    "relacion": "caracterizada por",
+    "valor": "bajo hierro plasmático"
+  },
+  {
+    "entidad": "Hepcidina",
+    "relacion": "asociada con",
+    "valor": "desarrollo de AEC"
+  },
+  {
+    "entidad": "Hepcidina",
+    "relacion": "se correlaciona inversamente con",
+    "valor": "expresión de Ferroportina (Fpn)"
+  },
+  {
+    "entidad": "Ferroportina (Fpn)",
+    "relacion": "es un",
+    "valor": "exportador celular de hierro"
+  },
+  {
+    "entidad": "Hepcidina",
+    "relacion": "induce",
+    "valor": "internalización de Ferroportina"
+  },
+  {
+    "entidad": "insulina",
+    "relacion": "estimula",
+    "valor": "absorción de hierro"
+  },
+  {
+    "entidad": "inflamación crónica",
+    "relacion": "contribuye a",
+    "valor": "resistencia a la insulina"
+  },
+  {
+    "entidad": "Hepcidina",
+    "relacion": "es un",
+    "valor": "regulador negativo de la absorción de hierro"
+  },
+  {
+    "entidad": "anemia de la inflamación",
+    "relacion": "es un tipo de",
+    "valor": "anemia de las enfermedades crónicas"
+  },
+  {
+    "entidad": "ácido úrico",
+    "relacion": "es el",
+    "valor": "metabolito final de las purinas"
+  },
+  {
+    "entidad": "purinas",
+    "relacion": "se asocian a",
+    "valor": "disfunción placentaria en pre-eclampsia"
+  },
+  {
+    "entidad": "pre-eclampsia",
+    "relacion": "afecta a",
+    "valor": "7% de los embarazos"
+  },
+  {
+    "entidad": "pre-eclampsia",
+    "relacion": "es la",
+    "valor": "principal causa de morbi-mortalidad materna y fetal"
+  },
+  {
+    "entidad": "ácido úrico",
+    "relacion": "se utiliza como",
+    "valor": "marcador de daño renal"
+  },
+  {
+    "entidad": "mujeres hipertensas e hiperuricémicas",
+    "relacion": "tienen mayor riesgo de",
+    "valor": "parto pretermino"
+  },
+  {
+    "entidad": "mujeres hipertensas e hiperuricémicas",
+    "relacion": "tienen mayor riesgo de",
+    "valor": "retardo de crecimiento intrauterino"
+  },
+  {
+    "entidad": "mujeres hipertensas e hiperuricémicas",
+    "relacion": "tienen mayor riesgo de",
+    "valor": "pre-eclampsia de origen temprano"
+  },
+  {
+    "entidad": "pre-eclampsia",
+    "relacion": "se asocia a",
+    "valor": "aumento en la liberación de micropartículas"
+  },
+  {
+    "entidad": "micropartículas",
+    "relacion": "son el sustrato para",
+    "valor": "metabolismo de purinas"
+  },
+  {
+    "entidad": "ácido úrico",
+    "relacion": "es un marcador de",
+    "valor": "disfunción placentaria"
+  },
+  {
+    "entidad": "purinas y ácido úrico",
+    "relacion": "son parte de",
+    "valor": "un fenómeno fisiopatológico en pre-eclampsia"
+  },
+  {
+    "entidad": "aumento de ácido úrico",
+    "relacion": "se asocia a",
+    "valor": "mayor riesgo cardiovascular en madre y descendencia"
+  },
+  {
+    "entidad": "placenta",
+    "relacion": "expresa",
+    "valor": "xantina oxidasa"
+  },
+  {
+    "entidad": "xantina oxidasa",
+    "relacion": "aumenta en",
+    "valor": "placentas de mujeres con pre-eclampsia"
+  },
+  {
+    "entidad": "fragmentos celulares",
+    "relacion": "llevan elementos nocivos como",
+    "valor": "purinas"
+  },
+  {
+    "entidad": "aumento de ácido úrico",
+    "relacion": "no se asocia a",
+    "valor": "alteración renal"
+  },
+  {
+    "entidad": "hiperuricemia",
+    "relacion": "es un biomarcador para",
+    "valor": "identificar mujeres y fetos en riesgo de eventos adversos perinatales"
+  },
+  {
+    "entidad": "ADN fetal libre",
+    "relacion": "se correlaciona con",
+    "valor": "alteración de la perfusión placentaria"
+  },
+  {
+    "entidad": "niveles de ácido úrico",
+    "relacion": "se correlacionan con",
+    "valor": "niveles en cordón umbilical"
+  },
+  {
+    "entidad": "elevación de ácido úrico",
+    "relacion": "constituye un factor de riesgo para",
+    "valor": "hipertensión en la adolescencia"
+  },
+  {
+    "entidad": "ácido úrico",
+    "relacion": "es un factor de riesgo para",
+    "valor": "muerte por enfermedad coronaria"
+  },
+  {
+    "entidad": "aumento de purinas",
+    "relacion": "se asocia a",
+    "valor": "mayor metabolismo de ATP"
+  },
+  {
+    "entidad": "purinas",
+    "relacion": "pueden generar cambios en",
+    "valor": "biodisponibilidad de sustancias vasomoduladoras"
+  },
+  {
+    "entidad": "ácido úrico",
+    "relacion": "puede mejorar",
+    "valor": "sobrevida de células endoteliales"
+  },
+  {
+    "entidad": "hiperuricemia",
+    "relacion": "está asociada a",
+    "valor": "pobres resultados perinatales"
+  }
+]

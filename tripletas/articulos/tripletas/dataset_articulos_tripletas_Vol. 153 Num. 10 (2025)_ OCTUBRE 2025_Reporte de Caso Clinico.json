@@ -1,0 +1,237 @@
+[
+  {
+    "entidad": "actinomicosis amigdalina",
+    "relacion": "es",
+    "valor": "una patología crónica infrecuente"
+  },
+  {
+    "entidad": "actinomicosis amigdalina",
+    "relacion": "compromete",
+    "valor": "el tejido tonsilar"
+  },
+  {
+    "entidad": "actinomicosis amigdalina",
+    "relacion": "es causada por",
+    "valor": "bacterias anaeróbicas"
+  },
+  {
+    "entidad": "actinomicosis amigdalina",
+    "relacion": "puede simular",
+    "valor": "neoplasia maligna"
+  },
+  {
+    "entidad": "diagnóstico definitivo",
+    "relacion": "se realiza mediante",
+    "valor": "biopsia escisional y estudio histopatológico"
+  },
+  {
+    "entidad": "tratamiento complementario",
+    "relacion": "incluye",
+    "valor": "antibióticos derivados de penicilina"
+  },
+  {
+    "entidad": "actinomicosis",
+    "relacion": "es causada por",
+    "valor": "Actinomyces spp."
+  },
+  {
+    "entidad": "Actinomyces spp.",
+    "relacion": "son",
+    "valor": "bacterias grampositivas anaerobias"
+  },
+  {
+    "entidad": "actinomicosis tonsilar",
+    "relacion": "afecta principalmente a",
+    "valor": "pacientes entre 20-50 años"
+  },
+  {
+    "entidad": "actinomicosis tonsilar",
+    "relacion": "tiene una prevalencia variable entre",
+    "valor": "0.8% a 61.6%"
+  },
+  {
+    "entidad": "actinomicosis",
+    "relacion": "puede invadir",
+    "valor": "tejidos profundos"
+  },
+  {
+    "entidad": "actinomicosis tonsilar",
+    "relacion": "se presenta como",
+    "valor": "asimetría tonsilar unilateral"
+  },
+  {
+    "entidad": "diagnóstico de actinomicosis amigdaliana",
+    "relacion": "se establece mediante",
+    "valor": "estudio histopatológico"
+  },
+  {
+    "entidad": "cultivo anaerobio",
+    "relacion": "tiene",
+    "valor": "bajo rendimiento"
+  },
+  {
+    "entidad": "tratamiento",
+    "relacion": "incluye",
+    "valor": "resección completa del tejido tonsilar"
+  },
+  {
+    "entidad": "penicilina G sódica",
+    "relacion": "es",
+    "valor": "el antibiótico de elección"
+  },
+  {
+    "entidad": "amigdalitis crónica",
+    "relacion": "es secundaria a",
+    "valor": "infección por Actinomyces"
+  },
+  {
+    "entidad": "asimetría tonsilar",
+    "relacion": "es un",
+    "valor": "predictor insuficiente para estimar riesgo de patología maligna"
+  },
+  {
+    "entidad": "actinomicosis tonsilar",
+    "relacion": "es",
+    "valor": "una infección crónica benigna"
+  },
+  {
+    "entidad": "tratamiento de elección",
+    "relacion": "es",
+    "valor": "resección quirúrgica asociado a terapia antibiótica prolongada"
+  },
+  {
+    "entidad": "Mieloma múltiple",
+    "relacion": "es un",
+    "valor": "neoplasia de células plasmáticas"
+  },
+  {
+    "entidad": "Mieloma múltiple no secretor",
+    "relacion": "es un",
+    "valor": "subtipo de mieloma múltiple"
+  },
+  {
+    "entidad": "Mieloma múltiple no productor",
+    "relacion": "es un",
+    "valor": "subtipo de mieloma múltiple no secretor"
+  },
+  {
+    "entidad": "Mieloma múltiple no secretor",
+    "relacion": "incluye",
+    "valor": "oligosecretores"
+  },
+  {
+    "entidad": "Mieloma múltiple no secretor",
+    "relacion": "incluye",
+    "valor": "verdaderos no secretor"
+  },
+  {
+    "entidad": "Mieloma múltiple no productor",
+    "relacion": "se caracteriza por",
+    "valor": "ausencia completa de producción de paraproteína"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "es un",
+    "valor": "hombre de 66 años"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "dolor lumbar y lesiones líticas vertebrales"
+  },
+  {
+    "entidad": "analítica sanguínea",
+    "relacion": "muestra",
+    "valor": "hipogammaglobulinemia"
+  },
+  {
+    "entidad": "biopsia vertebral",
+    "relacion": "identifica",
+    "valor": "tumor de células plasmáticas"
+  },
+  {
+    "entidad": "médula ósea",
+    "relacion": "muestra",
+    "valor": "células plasmáticas patológicas"
+  },
+  {
+    "entidad": "diagnóstico",
+    "relacion": "es",
+    "valor": "Mieloma múltiple no secretor no productor"
+  },
+  {
+    "entidad": "terapia",
+    "relacion": "sigue",
+    "valor": "lineamientos generales en mieloma múltiple"
+  },
+  {
+    "entidad": "seguimiento",
+    "relacion": "considera",
+    "valor": "mielograma y PET-CT"
+  },
+  {
+    "entidad": "Mieloma múltiple no secretor",
+    "relacion": "presenta",
+    "valor": "mayor incidencia de lesiones óseas"
+  },
+  {
+    "entidad": "translocación t(11;14)",
+    "relacion": "es más frecuente en",
+    "valor": "Mieloma múltiple no secretor"
+  },
+  {
+    "entidad": "International Myeloma Working Group",
+    "relacion": "define",
+    "valor": "mieloma múltiple no secretor como ausencia de componente monoclonal"
+  },
+  {
+    "entidad": "mielograma",
+    "relacion": "se utiliza para",
+    "valor": "monitorear daño orgánico"
+  },
+  {
+    "entidad": "PET-CT",
+    "relacion": "se utiliza para",
+    "valor": "monitorear daño orgánico"
+  },
+  {
+    "entidad": "lenalidomida",
+    "relacion": "es un",
+    "valor": "tratamiento utilizado"
+  },
+  {
+    "entidad": "bortezomib",
+    "relacion": "es un",
+    "valor": "tratamiento utilizado"
+  },
+  {
+    "entidad": "dexametasona",
+    "relacion": "es un",
+    "valor": "tratamiento utilizado"
+  },
+  {
+    "entidad": "remisión completa",
+    "relacion": "es el resultado de",
+    "valor": "terapia administrada"
+  },
+  {
+    "entidad": "hipogammaglobulinemia",
+    "relacion": "es un",
+    "valor": "hallazgo común en mieloma múltiple no secretor"
+  },
+  {
+    "entidad": "lesiones óseas",
+    "relacion": "son más frecuentes en",
+    "valor": "mieloma múltiple no secretor"
+  },
+  {
+    "entidad": "ciclina D1",
+    "relacion": "es un marcador de",
+    "valor": "translocación t(11;14)"
+  },
+  {
+    "entidad": "mieloma múltiple no secretor",
+    "relacion": "es un desafío para",
+    "valor": "diagnóstico y seguimiento"
+  }
+]

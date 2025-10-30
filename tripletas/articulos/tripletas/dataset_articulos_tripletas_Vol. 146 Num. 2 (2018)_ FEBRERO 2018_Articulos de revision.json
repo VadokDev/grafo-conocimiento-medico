@@ -1,0 +1,312 @@
+[
+  {
+    "entidad": "nitratos",
+    "relacion": "se encuentra en",
+    "valor": "agua de consumo humano"
+  },
+  {
+    "entidad": "nitratos",
+    "relacion": "provienen de",
+    "valor": "fertilizantes agrícolas"
+  },
+  {
+    "entidad": "nitratos",
+    "relacion": "provienen de",
+    "valor": "pesticidas"
+  },
+  {
+    "entidad": "nitratos",
+    "relacion": "provienen de",
+    "valor": "residuos animales"
+  },
+  {
+    "entidad": "nitratos",
+    "relacion": "provienen de",
+    "valor": "siembras de legumbres"
+  },
+  {
+    "entidad": "exposición a nitratos",
+    "relacion": "asociada con",
+    "valor": "disfunción de la glándula tiroides"
+  },
+  {
+    "entidad": "nitratos",
+    "relacion": "causa",
+    "valor": "cambios patológicos en la glándula tiroides"
+  },
+  {
+    "entidad": "nitratos",
+    "relacion": "relacionados con",
+    "valor": "subclinical hypothyroidism"
+  },
+  {
+    "entidad": "nitratos",
+    "relacion": "relacionados con",
+    "valor": "cáncer de tiroides"
+  },
+  {
+    "entidad": "nitratos",
+    "relacion": "no es considerado",
+    "valor": "contaminante crítico en Chile"
+  },
+  {
+    "entidad": "nitratos",
+    "relacion": "requiere",
+    "valor": "medición y control"
+  },
+  {
+    "entidad": "metahemoglobinemia",
+    "relacion": "asociada con",
+    "valor": "exposición a nitratos en lactantes"
+  },
+  {
+    "entidad": "nitratos",
+    "relacion": "interfieren con",
+    "valor": "captación de yodo por la tiroides"
+  },
+  {
+    "entidad": "nitratos",
+    "relacion": "causan",
+    "valor": "bocio en modelos animales"
+  },
+  {
+    "entidad": "exposición a nitratos",
+    "relacion": "aumenta el riesgo de",
+    "valor": "disfunción tiroidea"
+  },
+  {
+    "entidad": "nitratos",
+    "relacion": "afectan",
+    "valor": "hormonas tiroideas"
+  },
+  {
+    "entidad": "nitratos",
+    "relacion": "se relacionan con",
+    "valor": "hipotiroidismo subclínico"
+  },
+  {
+    "entidad": "nitratos",
+    "relacion": "se relacionan con",
+    "valor": "cáncer tiroideo"
+  },
+  {
+    "entidad": "Academia Americana de Pediatría",
+    "relacion": "recomienda",
+    "valor": "evitar consumo de aguas de pozo privados"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "tiene",
+    "valor": "alta variabilidad meteorológica"
+  },
+  {
+    "entidad": "nitratos",
+    "relacion": "pueden representar",
+    "valor": "riesgo para la salud humana"
+  },
+  {
+    "entidad": "nitratos",
+    "relacion": "requieren",
+    "valor": "regulación y monitorización"
+  },
+  {
+    "entidad": "nitratos",
+    "relacion": "afectan",
+    "valor": "neurodesarrollo en población infantil"
+  },
+  {
+    "entidad": "Movimiento de Acceso Abierto",
+    "relacion": "comenzó",
+    "valor": "a finales de la década de 1990"
+  },
+  {
+    "entidad": "Movimiento de Acceso Abierto",
+    "relacion": "promueve",
+    "valor": "acceso libre a la producción científica"
+  },
+  {
+    "entidad": "revistas depredadoras",
+    "relacion": "son",
+    "valor": "publicaciones que no cumplen con estándares de calidad"
+  },
+  {
+    "entidad": "revistas depredadoras",
+    "relacion": "explotan",
+    "valor": "modelo de acceso abierto"
+  },
+  {
+    "entidad": "investigadores de ciencias biomédicas",
+    "relacion": "deben adquirir",
+    "valor": "habilidades para identificar revistas depredadoras"
+  },
+  {
+    "entidad": "Jeffrey Beall",
+    "relacion": "acuñó",
+    "valor": "término 'Predatory Journals'"
+  },
+  {
+    "entidad": "Asociación Mundial de Editores de Revistas Médicas (WAME)",
+    "relacion": "difunde",
+    "valor": "información para identificar revistas depredadoras"
+  },
+  {
+    "entidad": "Comité de Ética en Publicaciones (COPE)",
+    "relacion": "difunde",
+    "valor": "códigos de conducta y buenas prácticas"
+  },
+  {
+    "entidad": "Asociación de Editores Académicos de Acceso Abierto (OASPA)",
+    "relacion": "creó",
+    "valor": "modelos de negocio apropiados para acceso abierto"
+  },
+  {
+    "entidad": "Director de Revistas de Acceso Abierto (DOAJ)",
+    "relacion": "alberga",
+    "valor": "revistas que cumplen con altos estándares éticos"
+  },
+  {
+    "entidad": "publicaciones depredadoras",
+    "relacion": "afectan",
+    "valor": "reputación del movimiento Open Access"
+  },
+  {
+    "entidad": "universidades",
+    "relacion": "deben revisar",
+    "valor": "buenas prácticas de publicación"
+  },
+  {
+    "entidad": "investigadores",
+    "relacion": "deben desarrollar",
+    "valor": "habilidades para reconocer fraudes en publicación"
+  },
+  {
+    "entidad": "artículos científicos de dudosa calidad",
+    "relacion": "pueden generar",
+    "valor": "confusión en instituciones estatales"
+  },
+  {
+    "entidad": "revistas depredadoras",
+    "relacion": "utilizan",
+    "valor": "tácticas agresivas de marketing"
+  },
+  {
+    "entidad": "investigadores jóvenes",
+    "relacion": "son objetivos de",
+    "valor": "invitaciones a publicar en revistas depredadoras"
+  },
+  {
+    "entidad": "revistas depredadoras",
+    "relacion": "prometen",
+    "valor": "publicación rápida"
+  },
+  {
+    "entidad": "revistas depredadoras",
+    "relacion": "simulan",
+    "valor": "nombres de revistas legítimas"
+  },
+  {
+    "entidad": "investigadores",
+    "relacion": "reciben",
+    "valor": "invitaciones para publicar en revistas depredadoras"
+  },
+  {
+    "entidad": "artículos",
+    "relacion": "no son indexados",
+    "valor": "en bases de datos respetables"
+  },
+  {
+    "entidad": "Violencia Laboral",
+    "relacion": "afecta a",
+    "valor": "trabajadores del sector salud"
+  },
+  {
+    "entidad": "trabajadores del sector salud",
+    "relacion": "experimentan",
+    "valor": "violencia laboral"
+  },
+  {
+    "entidad": "Organización Internacional del Trabajo (OIT)",
+    "relacion": "define",
+    "valor": "violencia laboral como comportamientos no razonables que perjudican a alguien en el contexto laboral"
+  },
+  {
+    "entidad": "violencia laboral",
+    "relacion": "se clasifica en",
+    "valor": "física, psicológica y sexual"
+  },
+  {
+    "entidad": "violencia laboral",
+    "relacion": "proviene de",
+    "valor": "dimensiones organizacionales"
+  },
+  {
+    "entidad": "consecuencias de la violencia laboral",
+    "relacion": "incluyen",
+    "valor": "trastorno de estrés postraumático (TEPT)"
+  },
+  {
+    "entidad": "consecuencias de la violencia laboral",
+    "relacion": "incluyen",
+    "valor": "depresión"
+  },
+  {
+    "entidad": "consecuencias de la violencia laboral",
+    "relacion": "incluyen",
+    "valor": "estrés laboral"
+  },
+  {
+    "entidad": "trabajadores de salud",
+    "relacion": "tienen mayor riesgo de",
+    "valor": "exposición a violencia laboral"
+  },
+  {
+    "entidad": "buen trato",
+    "relacion": "es un concepto relacionado con",
+    "valor": "violencia laboral"
+  },
+  {
+    "entidad": "estudios sobre violencia laboral",
+    "relacion": "son",
+    "valor": "mayoritariamente empíricos y cuantitativos"
+  },
+  {
+    "entidad": "proyecto FONDECYT Regular 2017 N° 1170239",
+    "relacion": "financia",
+    "valor": "la investigación sobre violencia laboral"
+  },
+  {
+    "entidad": "salud mental",
+    "relacion": "se ve afectada por",
+    "valor": "violencia laboral"
+  },
+  {
+    "entidad": "estrés laboral",
+    "relacion": "es una consecuencia de",
+    "valor": "violencia laboral"
+  },
+  {
+    "entidad": "personal de enfermería",
+    "relacion": "presenta mayor prevalencia de",
+    "valor": "violencia laboral psicológica"
+  },
+  {
+    "entidad": "naturaleza del trabajo",
+    "relacion": "es un facilitador de",
+    "valor": "violencia laboral"
+  },
+  {
+    "entidad": "riesgos psicosociales laborales",
+    "relacion": "son mencionados en",
+    "valor": "estudios sobre violencia laboral"
+  },
+  {
+    "entidad": "consecuencias organizacionales de la violencia laboral",
+    "relacion": "incluyen",
+    "valor": "disminución de la calidad de atención"
+  },
+  {
+    "entidad": "consecuencias organizacionales de la violencia laboral",
+    "relacion": "incluyen",
+    "valor": "disminución de productividad"
+  }
+]

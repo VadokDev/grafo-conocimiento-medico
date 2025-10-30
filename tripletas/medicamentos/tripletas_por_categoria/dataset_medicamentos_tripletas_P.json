@@ -1,0 +1,4357 @@
+[
+  {
+    "entidad": "Pacritinib",
+    "relacion": "trata",
+    "valor": "mielofibrosis"
+  },
+  {
+    "entidad": "Pacritinib",
+    "relacion": "uso",
+    "valor": "cápsulas para tomar por vía oral, dos veces al día"
+  },
+  {
+    "entidad": "Pacritinib",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Pacritinib",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos actuales"
+  },
+  {
+    "entidad": "Pacritinib",
+    "relacion": "precaucion",
+    "valor": "puede disminuir la eficacia de anticonceptivos hormonales"
+  },
+  {
+    "entidad": "Pacritinib",
+    "relacion": "precaucion",
+    "valor": "no amamantar durante el tratamiento y 2 semanas después"
+  },
+  {
+    "entidad": "Pacritinib",
+    "relacion": "dieta",
+    "valor": "consultar sobre comer toronja y tomar jugo de toronja"
+  },
+  {
+    "entidad": "Pacritinib",
+    "relacion": "olvido",
+    "valor": "omitir la dosis y continuar con el programa habitual"
+  },
+  {
+    "entidad": "Pacritinib",
+    "relacion": "efecto_secundario",
+    "valor": "aumento del riesgo de otros tipos de cáncer"
+  },
+  {
+    "entidad": "Pacritinib",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Pacritinib",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Pacritinib",
+    "relacion": "efecto_secundario",
+    "valor": "hinchazón de manos, pies, tobillos o pantorrillas"
+  },
+  {
+    "entidad": "Pacritinib",
+    "relacion": "efecto_secundario",
+    "valor": "hemorragias nasales o de encías"
+  },
+  {
+    "entidad": "Pacritinib",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Pacritinib",
+    "relacion": "almacenamiento",
+    "valor": "mantener en envase original, cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Pacritinib",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Pacritinib",
+    "relacion": "marca_comercial",
+    "valor": "Vonjo"
+  },
+  {
+    "entidad": "Palovaroteno",
+    "relacion": "contraindicado_en",
+    "valor": "embarazo"
+  },
+  {
+    "entidad": "Palovaroteno",
+    "relacion": "trata",
+    "valor": "fibrodisplasia osificante progresiva (FOP)"
+  },
+  {
+    "entidad": "Palovaroteno",
+    "relacion": "uso",
+    "valor": "cápsulas para tomar por vía oral una vez al día con alimentos"
+  },
+  {
+    "entidad": "Palovaroteno",
+    "relacion": "se_administra_via",
+    "valor": "oral"
+  },
+  {
+    "entidad": "Palovaroteno",
+    "relacion": "dieta",
+    "valor": "no tomar con pomelo o toronja"
+  },
+  {
+    "entidad": "Palovaroteno",
+    "relacion": "olvido",
+    "valor": "tomar la dosis que omitió tan pronto como lo recuerde, omitir si han pasado casi 6 horas"
+  },
+  {
+    "entidad": "Palovaroteno",
+    "relacion": "efecto_secundario",
+    "valor": "piel seca, enrojecida o con picazón"
+  },
+  {
+    "entidad": "Palovaroteno",
+    "relacion": "efecto_secundario",
+    "valor": "dolor articular, dolor en brazos o piernas"
+  },
+  {
+    "entidad": "Palovaroteno",
+    "relacion": "efecto_secundario",
+    "valor": "calvicie"
+  },
+  {
+    "entidad": "Palovaroteno",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Palovaroteno",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Palovaroteno",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio"
+  },
+  {
+    "entidad": "Palovaroteno",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, a temperatura ambiente, lejos del calor y la humedad"
+  },
+  {
+    "entidad": "Palovaroteno",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Palovaroteno",
+    "relacion": "marca_comercial",
+    "valor": "Sohonos ®"
+  },
+  {
+    "entidad": "Pantoprazol",
+    "relacion": "trata",
+    "valor": "daño causado por la enfermedad por reflujo gastroesofágico (ERGE)"
+  },
+  {
+    "entidad": "Pantoprazol",
+    "relacion": "trata",
+    "valor": "síndrome de Zollinger-Ellison"
+  },
+  {
+    "entidad": "Pantoprazol",
+    "relacion": "uso",
+    "valor": "tabletas de liberación retardada o gránulos de liberación retardada"
+  },
+  {
+    "entidad": "Pantoprazol",
+    "relacion": "uso",
+    "valor": "tomar una vez al día para ERGE"
+  },
+  {
+    "entidad": "Pantoprazol",
+    "relacion": "uso",
+    "valor": "tomar dos veces al día para exceso de ácido estomacal"
+  },
+  {
+    "entidad": "Pantoprazol",
+    "relacion": "se_administra_via",
+    "valor": "vía oral"
+  },
+  {
+    "entidad": "Pantoprazol",
+    "relacion": "otro_uso",
+    "valor": "otros usos según prescripción médica"
+  },
+  {
+    "entidad": "Pantoprazol",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias a pantoprazol y otros inhibidores de la bomba de protones"
+  },
+  {
+    "entidad": "Pantoprazol",
+    "relacion": "precaucion",
+    "valor": "consultar sobre interacciones con otros medicamentos"
+  },
+  {
+    "entidad": "Pantoprazol",
+    "relacion": "precaucion",
+    "valor": "informar si tiene niveles bajos de magnesio, calcio o potasio"
+  },
+  {
+    "entidad": "Pantoprazol",
+    "relacion": "precaucion",
+    "valor": "consultar riesgos si tiene 70 años o más"
+  },
+  {
+    "entidad": "Pantoprazol",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta a menos que el médico lo indique"
+  },
+  {
+    "entidad": "Pantoprazol",
+    "relacion": "olvido",
+    "valor": "tomar la dosis olvidada tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Pantoprazol",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Pantoprazol",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Pantoprazol",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Pantoprazol",
+    "relacion": "efecto_secundario",
+    "valor": "gases"
+  },
+  {
+    "entidad": "Pantoprazol",
+    "relacion": "efecto_secundario",
+    "valor": "dolor en las articulaciones"
+  },
+  {
+    "entidad": "Pantoprazol",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Pantoprazol",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Pantoprazol",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para lograr o mantener una erección"
+  },
+  {
+    "entidad": "Pantoprazol",
+    "relacion": "efecto_secundario",
+    "valor": "ampollas, descamación o sangrado de la piel"
+  },
+  {
+    "entidad": "Pantoprazol",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido, urticaria, picazón"
+  },
+  {
+    "entidad": "Pantoprazol",
+    "relacion": "efecto_secundario",
+    "valor": "ritmo cardíaco irregular"
+  },
+  {
+    "entidad": "Pantoprazol",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea grave con heces acuosas"
+  },
+  {
+    "entidad": "Pantoprazol",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, bien cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Pantoprazol",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente, lejos del calor y la humedad"
+  },
+  {
+    "entidad": "Pantoprazol",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Pantoprazol",
+    "relacion": "marca_comercial",
+    "valor": "Protonix"
+  },
+  {
+    "entidad": "Papaverina",
+    "relacion": "trata",
+    "valor": "mejorar el flujo sanguíneo en problemas de circulación"
+  },
+  {
+    "entidad": "Papaverina",
+    "relacion": "trata",
+    "valor": "impotencia en los hombres"
+  },
+  {
+    "entidad": "Papaverina",
+    "relacion": "uso",
+    "valor": "tabletas y cápsulas de liberación prolongada por vía oral"
+  },
+  {
+    "entidad": "Papaverina",
+    "relacion": "uso",
+    "valor": "tomar de tres a cinco veces al día a intervalos uniformemente espaciados"
+  },
+  {
+    "entidad": "Papaverina",
+    "relacion": "uso",
+    "valor": "cápsula cada 8 a 12 horas"
+  },
+  {
+    "entidad": "Papaverina",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias a la papaverina o a otros fármacos"
+  },
+  {
+    "entidad": "Papaverina",
+    "relacion": "precaucion",
+    "valor": "informar sobre otros medicamentos que se tomen"
+  },
+  {
+    "entidad": "Papaverina",
+    "relacion": "precaucion",
+    "valor": "informar si se padece enfermedad cardíaca, bloqueo AV o glaucoma"
+  },
+  {
+    "entidad": "Papaverina",
+    "relacion": "precaucion",
+    "valor": "informar si está embarazada o amamantando"
+  },
+  {
+    "entidad": "Papaverina",
+    "relacion": "precaucion",
+    "valor": "no conducir ni operar maquinaria si se siente somnoliento o mareado"
+  },
+  {
+    "entidad": "Papaverina",
+    "relacion": "dieta",
+    "valor": "consultar sobre el consumo seguro de alcohol"
+  },
+  {
+    "entidad": "Papaverina",
+    "relacion": "olvido",
+    "valor": "tomar la dosis omitida tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Papaverina",
+    "relacion": "olvido",
+    "valor": "omitir la dosis olvidada si es casi hora de la siguiente"
+  },
+  {
+    "entidad": "Papaverina",
+    "relacion": "efecto_secundario",
+    "valor": "rubor"
+  },
+  {
+    "entidad": "Papaverina",
+    "relacion": "efecto_secundario",
+    "valor": "sudoración"
+  },
+  {
+    "entidad": "Papaverina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Papaverina",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio"
+  },
+  {
+    "entidad": "Papaverina",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Papaverina",
+    "relacion": "efecto_secundario",
+    "valor": "erupción cutánea"
+  },
+  {
+    "entidad": "Papaverina",
+    "relacion": "efecto_secundario",
+    "valor": "molestias estomacales"
+  },
+  {
+    "entidad": "Papaverina",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de apetito"
+  },
+  {
+    "entidad": "Papaverina",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Papaverina",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Papaverina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago"
+  },
+  {
+    "entidad": "Papaverina",
+    "relacion": "efecto_secundario",
+    "valor": "coloración amarillenta en la piel y los ojos"
+  },
+  {
+    "entidad": "Papaverina",
+    "relacion": "efecto_secundario",
+    "valor": "ritmo cardíaco irregular"
+  },
+  {
+    "entidad": "Papaverina",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, bien cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Papaverina",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente, lejos del calor y la humedad"
+  },
+  {
+    "entidad": "Papaverina",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Papaverina",
+    "relacion": "sobredosis",
+    "valor": "llamar a servicios de emergencia si hay síntomas graves"
+  },
+  {
+    "entidad": "Papaverina",
+    "relacion": "marca_comercial",
+    "valor": "Pavacot ®"
+  },
+  {
+    "entidad": "Parche transdérmico de asenapina",
+    "relacion": "contraindicado_en",
+    "valor": "adultos mayores con demencia"
+  },
+  {
+    "entidad": "Parche transdérmico de asenapina",
+    "relacion": "trata",
+    "valor": "síntomas de esquizofrenia"
+  },
+  {
+    "entidad": "Parche transdérmico de asenapina",
+    "relacion": "uso",
+    "valor": "aplicar una vez al día sobre la piel limpia y seca"
+  },
+  {
+    "entidad": "Parche transdérmico de asenapina",
+    "relacion": "se_administra_via",
+    "valor": "transdérmica"
+  },
+  {
+    "entidad": "Parche transdérmico de asenapina",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Parche transdérmico de asenapina",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos concurrentes"
+  },
+  {
+    "entidad": "Parche transdérmico de asenapina",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Parche transdérmico de asenapina",
+    "relacion": "olvido",
+    "valor": "aplicar el parche olvidado tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Parche transdérmico de asenapina",
+    "relacion": "efecto_secundario",
+    "valor": "sequedad, enrojecimiento, picazón en el sitio de aplicación"
+  },
+  {
+    "entidad": "Parche transdérmico de asenapina",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, a temperatura ambiente"
+  },
+  {
+    "entidad": "Parche transdérmico de asenapina",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Parche transdérmico de asenapina",
+    "relacion": "marca_comercial",
+    "valor": "Secuado ®"
+  },
+  {
+    "entidad": "Parche transdérmico de diclofenaco",
+    "relacion": "trata",
+    "valor": "dolor a corto plazo debido a pequeñas distensiones, esguinces y contusiones en adultos y niños a partir de 6 años"
+  },
+  {
+    "entidad": "Parche transdérmico de diclofenaco",
+    "relacion": "uso",
+    "valor": "aplicar sobre la piel en la zona del cuerpo donde sienta más dolor"
+  },
+  {
+    "entidad": "Parche transdérmico de diclofenaco",
+    "relacion": "se_administra_via",
+    "valor": "transdérmica"
+  },
+  {
+    "entidad": "Parche transdérmico de diclofenaco",
+    "relacion": "precaucion",
+    "valor": "informe a su médico si es alérgico al diclofenaco, aspirina o AINE"
+  },
+  {
+    "entidad": "Parche transdérmico de diclofenaco",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta a menos que su médico lo indique"
+  },
+  {
+    "entidad": "Parche transdérmico de diclofenaco",
+    "relacion": "olvido",
+    "valor": "aplique un nuevo parche tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Parche transdérmico de diclofenaco",
+    "relacion": "efecto_secundario",
+    "valor": "sequedad, enrojecimiento, picazón, inflamación, irritación o entumecimiento en el sitio de aplicación"
+  },
+  {
+    "entidad": "Parche transdérmico de diclofenaco",
+    "relacion": "almacenamiento",
+    "valor": "mantener en el envase original, cerrado herméticamente y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Parche transdérmico de diclofenaco",
+    "relacion": "sobredosis",
+    "valor": "llame a su centro de control de envenenamiento local o al 911 si la víctima pierde el conocimiento"
+  },
+  {
+    "entidad": "Parche transdérmico de diclofenaco",
+    "relacion": "marca_comercial",
+    "valor": "Parche Flector ®"
+  },
+  {
+    "entidad": "Parche transdérmico de diclofenaco",
+    "relacion": "marca_comercial",
+    "valor": "Sistema tópico Licart ®"
+  },
+  {
+    "entidad": "Parche transdérmico de granisetrón",
+    "relacion": "trata",
+    "valor": "prevención de náuseas y vómitos provocados por la quimioterapia"
+  },
+  {
+    "entidad": "Parche transdérmico de granisetrón",
+    "relacion": "uso",
+    "valor": "aplicarse entre 24 y 48 horas antes de la quimioterapia y dejarlo colocado al menos 24 horas después"
+  },
+  {
+    "entidad": "Parche transdérmico de granisetrón",
+    "relacion": "se_administra_via",
+    "valor": "transdérmica"
+  },
+  {
+    "entidad": "Parche transdérmico de granisetrón",
+    "relacion": "precaucion",
+    "valor": "no usar tabletas o solución de granisetrón mientras usa el parche"
+  },
+  {
+    "entidad": "Parche transdérmico de granisetrón",
+    "relacion": "dieta",
+    "valor": "continuar con la dieta normal a menos que el médico indique lo contrario"
+  },
+  {
+    "entidad": "Parche transdérmico de granisetrón",
+    "relacion": "olvido",
+    "valor": "llamar al médico al menos 24 horas antes de comenzar la quimioterapia si se olvida aplicarse el parche"
+  },
+  {
+    "entidad": "Parche transdérmico de granisetrón",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Parche transdérmico de granisetrón",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Parche transdérmico de granisetrón",
+    "relacion": "efecto_secundario",
+    "valor": "enrojecimiento de la piel"
+  },
+  {
+    "entidad": "Parche transdérmico de granisetrón",
+    "relacion": "efecto_secundario",
+    "valor": "urticaria"
+  },
+  {
+    "entidad": "Parche transdérmico de granisetrón",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para respirar o tragar"
+  },
+  {
+    "entidad": "Parche transdérmico de granisetrón",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Parche transdérmico de granisetrón",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, bien cerrado y a temperatura ambiente"
+  },
+  {
+    "entidad": "Parche transdérmico de granisetrón",
+    "relacion": "sobredosis",
+    "valor": "llamar al centro de control de intoxicaciones si se aplican demasiados parches"
+  },
+  {
+    "entidad": "Parche transdérmico de granisetrón",
+    "relacion": "marca_comercial",
+    "valor": "Sancuso"
+  },
+  {
+    "entidad": "Patiromer",
+    "relacion": "trata",
+    "valor": "hiperpotasemia"
+  },
+  {
+    "entidad": "Patiromer",
+    "relacion": "uso",
+    "valor": "mezclar en polvo con agua y tomar por vía oral una vez al día con alimentos"
+  },
+  {
+    "entidad": "Patiromer",
+    "relacion": "otro_uso",
+    "valor": "otros usos según prescripción médica"
+  },
+  {
+    "entidad": "Patiromer",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos que se toman"
+  },
+  {
+    "entidad": "Patiromer",
+    "relacion": "dieta",
+    "valor": "limitar el consumo de potasio en la dieta"
+  },
+  {
+    "entidad": "Patiromer",
+    "relacion": "olvido",
+    "valor": "tomar la dosis omitida tan pronto como lo recuerde, o seguir con el horario habitual"
+  },
+  {
+    "entidad": "Patiromer",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Patiromer",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Patiromer",
+    "relacion": "efecto_secundario",
+    "valor": "gases"
+  },
+  {
+    "entidad": "Patiromer",
+    "relacion": "efecto_secundario",
+    "valor": "malestar estomacal"
+  },
+  {
+    "entidad": "Patiromer",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Patiromer",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original, cerrado, en refrigerador o a temperatura ambiente, lejos del calor y humedad"
+  },
+  {
+    "entidad": "Patiromer",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento o a los servicios de emergencia"
+  },
+  {
+    "entidad": "Patiromer",
+    "relacion": "marca_comercial",
+    "valor": "Veltassa"
+  },
+  {
+    "entidad": "Pazopanib",
+    "relacion": "contraindicado_en",
+    "valor": "daños en el hígado graves"
+  },
+  {
+    "entidad": "Pazopanib",
+    "relacion": "trata",
+    "valor": "carcinoma avanzado de células renales"
+  },
+  {
+    "entidad": "Pazopanib",
+    "relacion": "uso",
+    "valor": "tabletas por vía oral, con el estómago vacío una vez al día"
+  },
+  {
+    "entidad": "Pazopanib",
+    "relacion": "se_administra_via",
+    "valor": "oral"
+  },
+  {
+    "entidad": "Pazopanib",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Pazopanib",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos"
+  },
+  {
+    "entidad": "Pazopanib",
+    "relacion": "dieta",
+    "valor": "no comer pomelo ni tomar jugo de pomelo"
+  },
+  {
+    "entidad": "Pazopanib",
+    "relacion": "olvido",
+    "valor": "tomar la dosis omitida tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Pazopanib",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Pazopanib",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Pazopanib",
+    "relacion": "efecto_secundario",
+    "valor": "acidez estomacal"
+  },
+  {
+    "entidad": "Pazopanib",
+    "relacion": "efecto_secundario",
+    "valor": "cambio en la capacidad para saborear los alimentos"
+  },
+  {
+    "entidad": "Pazopanib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de articulaciones o músculos"
+  },
+  {
+    "entidad": "Pazopanib",
+    "relacion": "efecto_secundario",
+    "valor": "inflamación del rostro"
+  },
+  {
+    "entidad": "Pazopanib",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida del cabello"
+  },
+  {
+    "entidad": "Pazopanib",
+    "relacion": "efecto_secundario",
+    "valor": "depresión"
+  },
+  {
+    "entidad": "Pazopanib",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, a temperatura ambiente y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Pazopanib",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Peginterferón Alfa-2b",
+    "relacion": "trata",
+    "valor": "infección crónica de hepatitis C"
+  },
+  {
+    "entidad": "Peginterferón Alfa-2b",
+    "relacion": "uso",
+    "valor": "inyectar subcutáneamente una vez a la semana"
+  },
+  {
+    "entidad": "Peginterferón Alfa-2b",
+    "relacion": "se_administra_via",
+    "valor": "subcutánea"
+  },
+  {
+    "entidad": "Peginterferón Alfa-2b",
+    "relacion": "precaucion",
+    "valor": "no conducir ni operar maquinaria pesada hasta saber cómo lo afecta"
+  },
+  {
+    "entidad": "Peginterferón Alfa-2b",
+    "relacion": "dieta",
+    "valor": "beber al menos 10 vasos de agua o jugos claros sin cafeína y sin alcohol"
+  },
+  {
+    "entidad": "Peginterferón Alfa-2b",
+    "relacion": "olvido",
+    "valor": "inyectar la dosis perdida tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Peginterferón Alfa-2b",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Peginterferón Alfa-2b",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Peginterferón Alfa-2b",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de apetito"
+  },
+  {
+    "entidad": "Peginterferón Alfa-2b",
+    "relacion": "efecto_secundario",
+    "valor": "cambio en el sabor de las cosas"
+  },
+  {
+    "entidad": "Peginterferón Alfa-2b",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Peginterferón Alfa-2b",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Peginterferón Alfa-2b",
+    "relacion": "efecto_secundario",
+    "valor": "acidez estomacal"
+  },
+  {
+    "entidad": "Peginterferón Alfa-2b",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de peso"
+  },
+  {
+    "entidad": "Peginterferón Alfa-2b",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Peginterferón Alfa-2b",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Peginterferón Alfa-2b",
+    "relacion": "efecto_secundario",
+    "valor": "confusión"
+  },
+  {
+    "entidad": "Peginterferón Alfa-2b",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida o adelgazamiento del cabello"
+  },
+  {
+    "entidad": "Peginterferón Alfa-2b",
+    "relacion": "efecto_secundario",
+    "valor": "picazón"
+  },
+  {
+    "entidad": "Peginterferón Alfa-2b",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para concentrarse"
+  },
+  {
+    "entidad": "Peginterferón Alfa-2b",
+    "relacion": "efecto_secundario",
+    "valor": "síntomas parecidos a los de la gripe"
+  },
+  {
+    "entidad": "Peginterferón Alfa-2b",
+    "relacion": "almacenamiento",
+    "valor": "almacenar en el refrigerador y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Peginterferón Alfa-2b",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Pemigatinib",
+    "relacion": "trata",
+    "valor": "colangiocarcinoma (cáncer de vías biliares)"
+  },
+  {
+    "entidad": "Pemigatinib",
+    "relacion": "trata",
+    "valor": "neoplasias mieloides/linfoides (NML)"
+  },
+  {
+    "entidad": "Pemigatinib",
+    "relacion": "uso",
+    "valor": "tableta para tomar por vía oral una vez al día"
+  },
+  {
+    "entidad": "Pemigatinib",
+    "relacion": "dieta",
+    "valor": "no comer grandes cantidades de toronja ni tomar jugo de toronja"
+  },
+  {
+    "entidad": "Pemigatinib",
+    "relacion": "olvido",
+    "valor": "si omite una dosis por menos de 4 horas, tómela tan pronto como lo recuerde; si son 4 horas o más, omita la dosis"
+  },
+  {
+    "entidad": "Pemigatinib",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Pemigatinib",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Pemigatinib",
+    "relacion": "efecto_secundario",
+    "valor": "cambios en el gusto"
+  },
+  {
+    "entidad": "Pemigatinib",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Pemigatinib",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de apetito"
+  },
+  {
+    "entidad": "Pemigatinib",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de peso"
+  },
+  {
+    "entidad": "Pemigatinib",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Pemigatinib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago"
+  },
+  {
+    "entidad": "Pemigatinib",
+    "relacion": "efecto_secundario",
+    "valor": "llagas en los labios, boca o garganta"
+  },
+  {
+    "entidad": "Pemigatinib",
+    "relacion": "efecto_secundario",
+    "valor": "sequedad de boca y/o piel"
+  },
+  {
+    "entidad": "Pemigatinib",
+    "relacion": "efecto_secundario",
+    "valor": "disminución de la micción"
+  },
+  {
+    "entidad": "Pemigatinib",
+    "relacion": "efecto_secundario",
+    "valor": "ritmo cardiaco acelerado"
+  },
+  {
+    "entidad": "Pemigatinib",
+    "relacion": "efecto_secundario",
+    "valor": "trastornos de las uñas"
+  },
+  {
+    "entidad": "Pemigatinib",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida del cabello"
+  },
+  {
+    "entidad": "Pemigatinib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Pemigatinib",
+    "relacion": "efecto_secundario",
+    "valor": "fatiga"
+  },
+  {
+    "entidad": "Pemigatinib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor en las articulaciones o de espalda"
+  },
+  {
+    "entidad": "Pemigatinib",
+    "relacion": "efecto_secundario",
+    "valor": "ardor o dolor al orinar"
+  },
+  {
+    "entidad": "Pemigatinib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor o hinchazón de manos, pies, piernas o tobillos"
+  },
+  {
+    "entidad": "Pemigatinib",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Pemigatinib",
+    "relacion": "efecto_secundario",
+    "valor": "sangrado de nariz"
+  },
+  {
+    "entidad": "Pemigatinib",
+    "relacion": "efecto_secundario",
+    "valor": "visión borrosa"
+  },
+  {
+    "entidad": "Pemigatinib",
+    "relacion": "efecto_secundario",
+    "valor": "flóculos en el ojo"
+  },
+  {
+    "entidad": "Pemigatinib",
+    "relacion": "efecto_secundario",
+    "valor": "ver destellos de luz"
+  },
+  {
+    "entidad": "Pemigatinib",
+    "relacion": "efecto_secundario",
+    "valor": "calambres musculares"
+  },
+  {
+    "entidad": "Pemigatinib",
+    "relacion": "efecto_secundario",
+    "valor": "entumecimiento u hormigueo alrededor de la boca"
+  },
+  {
+    "entidad": "Pemigatinib",
+    "relacion": "efecto_secundario",
+    "valor": "piel pálida"
+  },
+  {
+    "entidad": "Pemigatinib",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para respirar"
+  },
+  {
+    "entidad": "Pemigatinib",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Pemigatinib",
+    "relacion": "efecto_secundario",
+    "valor": "debilidad"
+  },
+  {
+    "entidad": "Pemigatinib",
+    "relacion": "efecto_secundario",
+    "valor": "enrojecimiento, hinchazón y ampollas en las manos y los pies"
+  },
+  {
+    "entidad": "Pemigatinib",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, cerrado herméticamente y lejos del alcance de los niños"
+  },
+  {
+    "entidad": "Pemigatinib",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente y lejos del calor excesivo y la humedad"
+  },
+  {
+    "entidad": "Pemigatinib",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento al 1-800-222-1222"
+  },
+  {
+    "entidad": "Pemigatinib",
+    "relacion": "marca_comercial",
+    "valor": "Pemazyre ®"
+  },
+  {
+    "entidad": "Pentazocina",
+    "relacion": "contraindicado_en",
+    "valor": "adictiva, especialmente con uso prolongado"
+  },
+  {
+    "entidad": "Pentazocina",
+    "relacion": "trata",
+    "valor": "aliviar el dolor intenso"
+  },
+  {
+    "entidad": "Pentazocina",
+    "relacion": "uso",
+    "valor": "tomar cada 3 a 4 horas según sea necesario"
+  },
+  {
+    "entidad": "Pentazocina",
+    "relacion": "se_administra_via",
+    "valor": "vía oral"
+  },
+  {
+    "entidad": "Pentazocina",
+    "relacion": "precaucion",
+    "valor": "no tomar con alcohol ni drogas ilícitas"
+  },
+  {
+    "entidad": "Pentazocina",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Pentazocina",
+    "relacion": "olvido",
+    "valor": "tomar la dosis omitida tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Pentazocina",
+    "relacion": "efecto_secundario",
+    "valor": "somnolencia"
+  },
+  {
+    "entidad": "Pentazocina",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original, bien cerrado, fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Pentazocina",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento al 1-800-222-1222"
+  },
+  {
+    "entidad": "Pentazocina",
+    "relacion": "marca_comercial",
+    "valor": "Talwin ® NX"
+  },
+  {
+    "entidad": "Pentazocina",
+    "relacion": "marca_comercial",
+    "valor": "Talacen ®"
+  },
+  {
+    "entidad": "Pentoxifilina",
+    "relacion": "trata",
+    "valor": "mejorar el flujo sanguíneo en problemas de circulación"
+  },
+  {
+    "entidad": "Pentoxifilina",
+    "relacion": "trata",
+    "valor": "reducción del dolor, calambres y cansancio en manos y pies"
+  },
+  {
+    "entidad": "Pentoxifilina",
+    "relacion": "trata",
+    "valor": "úlceras en las piernas"
+  },
+  {
+    "entidad": "Pentoxifilina",
+    "relacion": "trata",
+    "valor": "accidentes cerebrovasculares"
+  },
+  {
+    "entidad": "Pentoxifilina",
+    "relacion": "trata",
+    "valor": "mal de montaña"
+  },
+  {
+    "entidad": "Pentoxifilina",
+    "relacion": "trata",
+    "valor": "enfermedades a los ojos y al oído"
+  },
+  {
+    "entidad": "Pentoxifilina",
+    "relacion": "trata",
+    "valor": "anemia de células falciformes"
+  },
+  {
+    "entidad": "Pentoxifilina",
+    "relacion": "trata",
+    "valor": "dolor de la neuropatía diabética"
+  },
+  {
+    "entidad": "Pentoxifilina",
+    "relacion": "uso",
+    "valor": "tabletas de liberación prolongada por vía oral, tres veces al día"
+  },
+  {
+    "entidad": "Pentoxifilina",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias a cafeína, pentoxifilina y otros medicamentos"
+  },
+  {
+    "entidad": "Pentoxifilina",
+    "relacion": "precaucion",
+    "valor": "informar sobre otros medicamentos que se están tomando"
+  },
+  {
+    "entidad": "Pentoxifilina",
+    "relacion": "precaucion",
+    "valor": "informar si tiene enfermedad renal"
+  },
+  {
+    "entidad": "Pentoxifilina",
+    "relacion": "precaucion",
+    "valor": "informar si está embarazada o amamantando"
+  },
+  {
+    "entidad": "Pentoxifilina",
+    "relacion": "precaucion",
+    "valor": "informar antes de cirugía"
+  },
+  {
+    "entidad": "Pentoxifilina",
+    "relacion": "dieta",
+    "valor": "tomar con las comidas para evitar molestias estomacales"
+  },
+  {
+    "entidad": "Pentoxifilina",
+    "relacion": "olvido",
+    "valor": "tomar la dosis olvidada tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Pentoxifilina",
+    "relacion": "olvido",
+    "valor": "si es casi hora de la siguiente dosis, omitir la olvidada"
+  },
+  {
+    "entidad": "Pentoxifilina",
+    "relacion": "efecto_secundario",
+    "valor": "molestias estomacales"
+  },
+  {
+    "entidad": "Pentoxifilina",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Pentoxifilina",
+    "relacion": "efecto_secundario",
+    "valor": "gases"
+  },
+  {
+    "entidad": "Pentoxifilina",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Pentoxifilina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Pentoxifilina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor en el pecho"
+  },
+  {
+    "entidad": "Pentoxifilina",
+    "relacion": "efecto_secundario",
+    "valor": "ritmo cardíaco acelerado"
+  },
+  {
+    "entidad": "Pentoxifilina",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original, cerrado herméticamente"
+  },
+  {
+    "entidad": "Pentoxifilina",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente, lejos del calor y la humedad"
+  },
+  {
+    "entidad": "Pentoxifilina",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Pentoxifilina",
+    "relacion": "sobredosis",
+    "valor": "llamar a servicios de emergencia si hay síntomas graves"
+  },
+  {
+    "entidad": "Pentoxifilina",
+    "relacion": "marca_comercial",
+    "valor": "Pentoxil ®"
+  },
+  {
+    "entidad": "Pentoxifilina",
+    "relacion": "marca_comercial",
+    "valor": "Trental ®"
+  },
+  {
+    "entidad": "Pexidartinib",
+    "relacion": "contraindicado_en",
+    "valor": "lesiones hepáticas graves"
+  },
+  {
+    "entidad": "Pexidartinib",
+    "relacion": "trata",
+    "valor": "tumores tenosinoviales de células gigantes"
+  },
+  {
+    "entidad": "Pexidartinib",
+    "relacion": "uso",
+    "valor": "cápsula para tomar por vía oral, dos veces al día con comida baja en grasas"
+  },
+  {
+    "entidad": "Pexidartinib",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Pexidartinib",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos concurrentes"
+  },
+  {
+    "entidad": "Pexidartinib",
+    "relacion": "dieta",
+    "valor": "no comer pomelo ni tomar jugo de pomelo"
+  },
+  {
+    "entidad": "Pexidartinib",
+    "relacion": "olvido",
+    "valor": "omitir la dosis y continuar con el programa habitual"
+  },
+  {
+    "entidad": "Pexidartinib",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio o debilidad"
+  },
+  {
+    "entidad": "Pexidartinib",
+    "relacion": "efecto_secundario",
+    "valor": "cambios en el color del cabello"
+  },
+  {
+    "entidad": "Pexidartinib",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Pexidartinib",
+    "relacion": "efecto_secundario",
+    "valor": "urticaria, piel enrojecida, acné"
+  },
+  {
+    "entidad": "Pexidartinib",
+    "relacion": "efecto_secundario",
+    "valor": "hinchazón de manos, pies, piernas o tobillos"
+  },
+  {
+    "entidad": "Pexidartinib",
+    "relacion": "efecto_secundario",
+    "valor": "entumecimiento, ardor u hormigueo en extremidades"
+  },
+  {
+    "entidad": "Pexidartinib",
+    "relacion": "almacenamiento",
+    "valor": "mantener en envase original, cerrado y a temperatura ambiente"
+  },
+  {
+    "entidad": "Pexidartinib",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Pexidartinib",
+    "relacion": "marca_comercial",
+    "valor": "Turalio"
+  },
+  {
+    "entidad": "Pilocarpina",
+    "relacion": "trata",
+    "valor": "resequedad en la boca ocasionada por la radioterapia en cáncer de cabeza y cuello"
+  },
+  {
+    "entidad": "Pilocarpina",
+    "relacion": "trata",
+    "valor": "resequedad en la boca del síndrome de Sjogren"
+  },
+  {
+    "entidad": "Pilocarpina",
+    "relacion": "uso",
+    "valor": "tabletas para administrarse por vía oral"
+  },
+  {
+    "entidad": "Pilocarpina",
+    "relacion": "uso",
+    "valor": "tres veces al día para radioterapia en cáncer de cabeza y cuello"
+  },
+  {
+    "entidad": "Pilocarpina",
+    "relacion": "uso",
+    "valor": "cuatro veces al día para síndrome de Sjogren"
+  },
+  {
+    "entidad": "Pilocarpina",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Pilocarpina",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias a pilocarpina o otros medicamentos"
+  },
+  {
+    "entidad": "Pilocarpina",
+    "relacion": "precaucion",
+    "valor": "informar sobre otros medicamentos que se están tomando"
+  },
+  {
+    "entidad": "Pilocarpina",
+    "relacion": "precaucion",
+    "valor": "informar si padece asma, iritis aguda o glaucoma"
+  },
+  {
+    "entidad": "Pilocarpina",
+    "relacion": "precaucion",
+    "valor": "informar si padece enfermedades pulmonares, renales o del hígado"
+  },
+  {
+    "entidad": "Pilocarpina",
+    "relacion": "precaucion",
+    "valor": "informar si está embarazada o amamantando"
+  },
+  {
+    "entidad": "Pilocarpina",
+    "relacion": "precaucion",
+    "valor": "puede causar disminución de la fertilidad"
+  },
+  {
+    "entidad": "Pilocarpina",
+    "relacion": "precaucion",
+    "valor": "informar al médico antes de cualquier cirugía"
+  },
+  {
+    "entidad": "Pilocarpina",
+    "relacion": "precaucion",
+    "valor": "puede provocar cambios en la visión"
+  },
+  {
+    "entidad": "Pilocarpina",
+    "relacion": "precaucion",
+    "valor": "puede causar sudoración excesiva y deshidratación"
+  },
+  {
+    "entidad": "Pilocarpina",
+    "relacion": "dieta",
+    "valor": "continuar con la dieta normal a menos que se indique lo contrario"
+  },
+  {
+    "entidad": "Pilocarpina",
+    "relacion": "olvido",
+    "valor": "tomar la dosis olvidada tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Pilocarpina",
+    "relacion": "olvido",
+    "valor": "si es hora de la siguiente dosis, saltar la olvidada"
+  },
+  {
+    "entidad": "Pilocarpina",
+    "relacion": "efecto_secundario",
+    "valor": "sudoración"
+  },
+  {
+    "entidad": "Pilocarpina",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Pilocarpina",
+    "relacion": "efecto_secundario",
+    "valor": "secreción nasal"
+  },
+  {
+    "entidad": "Pilocarpina",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Pilocarpina",
+    "relacion": "efecto_secundario",
+    "valor": "escalofríos"
+  },
+  {
+    "entidad": "Pilocarpina",
+    "relacion": "efecto_secundario",
+    "valor": "enrojecimiento"
+  },
+  {
+    "entidad": "Pilocarpina",
+    "relacion": "efecto_secundario",
+    "valor": "micción frecuente"
+  },
+  {
+    "entidad": "Pilocarpina",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Pilocarpina",
+    "relacion": "efecto_secundario",
+    "valor": "debilidad"
+  },
+  {
+    "entidad": "Pilocarpina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Pilocarpina",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Pilocarpina",
+    "relacion": "efecto_secundario",
+    "valor": "acidez estomacal"
+  },
+  {
+    "entidad": "Pilocarpina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago"
+  },
+  {
+    "entidad": "Pilocarpina",
+    "relacion": "efecto_secundario",
+    "valor": "inflamación de extremidades"
+  },
+  {
+    "entidad": "Pilocarpina",
+    "relacion": "efecto_secundario",
+    "valor": "cambios en la visión"
+  },
+  {
+    "entidad": "Pilocarpina",
+    "relacion": "efecto_secundario",
+    "valor": "ritmo cardiaco irregular"
+  },
+  {
+    "entidad": "Pilocarpina",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original y cerrado"
+  },
+  {
+    "entidad": "Pilocarpina",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente, lejos del calor y la humedad"
+  },
+  {
+    "entidad": "Pilocarpina",
+    "relacion": "almacenamiento",
+    "valor": "no tirar por el inodoro, usar programas de devolución"
+  },
+  {
+    "entidad": "Pilocarpina",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Pilocarpina",
+    "relacion": "sobredosis",
+    "valor": "llamar a servicios de emergencia si hay síntomas graves"
+  },
+  {
+    "entidad": "Pilocarpina",
+    "relacion": "marca_comercial",
+    "valor": "Salagen"
+  },
+  {
+    "entidad": "Pindolol",
+    "relacion": "trata",
+    "valor": "presión arterial alta"
+  },
+  {
+    "entidad": "Pindolol",
+    "relacion": "uso",
+    "valor": "tableta para tomar por vía oral, generalmente dos veces al día"
+  },
+  {
+    "entidad": "Pindolol",
+    "relacion": "otro_uso",
+    "valor": "prevenir la angina"
+  },
+  {
+    "entidad": "Pindolol",
+    "relacion": "precaucion",
+    "valor": "informe a su médico si es alérgico al pindolol o a otros medicamentos"
+  },
+  {
+    "entidad": "Pindolol",
+    "relacion": "precaucion",
+    "valor": "informe a su médico si tiene ritmo cardíaco lento o irregular, insuficiencia cardíaca, asma u otra enfermedad pulmonar"
+  },
+  {
+    "entidad": "Pindolol",
+    "relacion": "precaucion",
+    "valor": "informe a su médico si está embarazada o amamantando"
+  },
+  {
+    "entidad": "Pindolol",
+    "relacion": "dieta",
+    "valor": "continúe con su dieta normal a menos que su médico indique lo contrario"
+  },
+  {
+    "entidad": "Pindolol",
+    "relacion": "olvido",
+    "valor": "tome la dosis que omitió tan pronto como lo recuerde, a menos que se acerque la próxima dosis"
+  },
+  {
+    "entidad": "Pindolol",
+    "relacion": "efecto_secundario",
+    "valor": "mareos o aturdimiento"
+  },
+  {
+    "entidad": "Pindolol",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio excesivo"
+  },
+  {
+    "entidad": "Pindolol",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para dormir"
+  },
+  {
+    "entidad": "Pindolol",
+    "relacion": "efecto_secundario",
+    "valor": "sueños inusuales"
+  },
+  {
+    "entidad": "Pindolol",
+    "relacion": "efecto_secundario",
+    "valor": "nerviosismo"
+  },
+  {
+    "entidad": "Pindolol",
+    "relacion": "efecto_secundario",
+    "valor": "debilidad"
+  },
+  {
+    "entidad": "Pindolol",
+    "relacion": "efecto_secundario",
+    "valor": "molestias estomacales"
+  },
+  {
+    "entidad": "Pindolol",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Pindolol",
+    "relacion": "efecto_secundario",
+    "valor": "manos o pies fríos"
+  },
+  {
+    "entidad": "Pindolol",
+    "relacion": "efecto_secundario",
+    "valor": "dolor muscular o articular"
+  },
+  {
+    "entidad": "Pindolol",
+    "relacion": "efecto_secundario",
+    "valor": "entumecimiento, ardor o adormecimiento de las extremidades"
+  },
+  {
+    "entidad": "Pindolol",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para respirar"
+  },
+  {
+    "entidad": "Pindolol",
+    "relacion": "efecto_secundario",
+    "valor": "falta de aliento"
+  },
+  {
+    "entidad": "Pindolol",
+    "relacion": "efecto_secundario",
+    "valor": "hinchazón de las extremidades"
+  },
+  {
+    "entidad": "Pindolol",
+    "relacion": "efecto_secundario",
+    "valor": "aumento de peso inusual"
+  },
+  {
+    "entidad": "Pindolol",
+    "relacion": "efecto_secundario",
+    "valor": "dolor en el pecho"
+  },
+  {
+    "entidad": "Pindolol",
+    "relacion": "efecto_secundario",
+    "valor": "ritmo cardiaco irregular"
+  },
+  {
+    "entidad": "Pindolol",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, bien cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Pindolol",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente, lejos del calor y la humedad"
+  },
+  {
+    "entidad": "Pindolol",
+    "relacion": "sobredosis",
+    "valor": "llame a la línea de ayuda de control de envenenamiento o a los servicios de emergencia"
+  },
+  {
+    "entidad": "Pindolol",
+    "relacion": "marca_comercial",
+    "valor": "Visken"
+  },
+  {
+    "entidad": "Pirazinamida",
+    "relacion": "trata",
+    "valor": "tuberculosis (TB)"
+  },
+  {
+    "entidad": "Pirazinamida",
+    "relacion": "uso",
+    "valor": "tabletas para administrarse por vía oral, 1 vez al día o 2 veces a la semana"
+  },
+  {
+    "entidad": "Pirazinamida",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias a pirazinamida, niacina, etionamida y otros medicamentos"
+  },
+  {
+    "entidad": "Pirazinamida",
+    "relacion": "precaucion",
+    "valor": "informar sobre medicamentos, vitaminas y suplementos que se están tomando"
+  },
+  {
+    "entidad": "Pirazinamida",
+    "relacion": "precaucion",
+    "valor": "informar si padece gota, enfermedad hepática o renal, o diabetes"
+  },
+  {
+    "entidad": "Pirazinamida",
+    "relacion": "precaucion",
+    "valor": "informar si está embarazada o amamantando"
+  },
+  {
+    "entidad": "Pirazinamida",
+    "relacion": "precaucion",
+    "valor": "evitar exposición prolongada a la luz solar"
+  },
+  {
+    "entidad": "Pirazinamida",
+    "relacion": "olvido",
+    "valor": "tomar la dosis olvidada tan pronto como lo recuerde, omitir si es casi la hora de la siguiente dosis"
+  },
+  {
+    "entidad": "Pirazinamida",
+    "relacion": "efecto_secundario",
+    "valor": "molestias estomacales"
+  },
+  {
+    "entidad": "Pirazinamida",
+    "relacion": "efecto_secundario",
+    "valor": "fatiga"
+  },
+  {
+    "entidad": "Pirazinamida",
+    "relacion": "efecto_secundario",
+    "valor": "erupción cutánea"
+  },
+  {
+    "entidad": "Pirazinamida",
+    "relacion": "efecto_secundario",
+    "valor": "fiebre"
+  },
+  {
+    "entidad": "Pirazinamida",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Pirazinamida",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de apetito"
+  },
+  {
+    "entidad": "Pirazinamida",
+    "relacion": "efecto_secundario",
+    "valor": "ictericia en la piel o los ojos"
+  },
+  {
+    "entidad": "Pirazinamida",
+    "relacion": "efecto_secundario",
+    "valor": "orina oscurecida"
+  },
+  {
+    "entidad": "Pirazinamida",
+    "relacion": "efecto_secundario",
+    "valor": "dolor e hinchazón en las articulaciones"
+  },
+  {
+    "entidad": "Pirazinamida",
+    "relacion": "efecto_secundario",
+    "valor": "sangrado o moretones inusuales"
+  },
+  {
+    "entidad": "Pirazinamida",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para orinar"
+  },
+  {
+    "entidad": "Pirazinamida",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, bien cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Pirazinamida",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente, lejos del calor y la humedad"
+  },
+  {
+    "entidad": "Pirazinamida",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento o a los servicios de emergencia"
+  },
+  {
+    "entidad": "Pirazinamida",
+    "relacion": "marca_comercial",
+    "valor": "Zinamide ®"
+  },
+  {
+    "entidad": "Pirazinamida",
+    "relacion": "otro_uso",
+    "valor": "otros usos a consultar con el médico o farmacéutico"
+  },
+  {
+    "entidad": "Pitolisant",
+    "relacion": "trata",
+    "valor": "somnolencia diurna excesiva causada por la narcolepsia"
+  },
+  {
+    "entidad": "Pitolisant",
+    "relacion": "trata",
+    "valor": "cataplejía en adultos con narcolepsia"
+  },
+  {
+    "entidad": "Pitolisant",
+    "relacion": "uso",
+    "valor": "tabletas para tomar por vía oral una vez al día"
+  },
+  {
+    "entidad": "Pitolisant",
+    "relacion": "se_administra_via",
+    "valor": "oral"
+  },
+  {
+    "entidad": "Pitolisant",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos actuales"
+  },
+  {
+    "entidad": "Pitolisant",
+    "relacion": "precaucion",
+    "valor": "informar sobre enfermedad hepática"
+  },
+  {
+    "entidad": "Pitolisant",
+    "relacion": "precaucion",
+    "valor": "informar sobre problemas de ritmo cardiaco"
+  },
+  {
+    "entidad": "Pitolisant",
+    "relacion": "precaucion",
+    "valor": "usar otro método anticonceptivo durante el tratamiento"
+  },
+  {
+    "entidad": "Pitolisant",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Pitolisant",
+    "relacion": "olvido",
+    "valor": "omita la dosis y continúe con el programa habitual"
+  },
+  {
+    "entidad": "Pitolisant",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Pitolisant",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para conciliar el sueño"
+  },
+  {
+    "entidad": "Pitolisant",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Pitolisant",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago"
+  },
+  {
+    "entidad": "Pitolisant",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de apetito"
+  },
+  {
+    "entidad": "Pitolisant",
+    "relacion": "efecto_secundario",
+    "valor": "infección de las vías respiratorias superiores"
+  },
+  {
+    "entidad": "Pitolisant",
+    "relacion": "efecto_secundario",
+    "valor": "dolor muscular o articular"
+  },
+  {
+    "entidad": "Pitolisant",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Pitolisant",
+    "relacion": "efecto_secundario",
+    "valor": "boca seca"
+  },
+  {
+    "entidad": "Pitolisant",
+    "relacion": "efecto_secundario",
+    "valor": "ansiedad"
+  },
+  {
+    "entidad": "Pitolisant",
+    "relacion": "efecto_secundario",
+    "valor": "irritabilidad"
+  },
+  {
+    "entidad": "Pitolisant",
+    "relacion": "efecto_secundario",
+    "valor": "ritmo cardíaco rápido o irregular"
+  },
+  {
+    "entidad": "Pitolisant",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para respirar o tragar"
+  },
+  {
+    "entidad": "Pitolisant",
+    "relacion": "efecto_secundario",
+    "valor": "desmayos"
+  },
+  {
+    "entidad": "Pitolisant",
+    "relacion": "efecto_secundario",
+    "valor": "alucinaciones"
+  },
+  {
+    "entidad": "Pitolisant",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original, cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Pitolisant",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente, lejos del calor y la humedad"
+  },
+  {
+    "entidad": "Pitolisant",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Pitolisant",
+    "relacion": "marca_comercial",
+    "valor": "Wakix"
+  },
+  {
+    "entidad": "Pivmecilinam",
+    "relacion": "trata",
+    "valor": "infecciones del tracto urinario"
+  },
+  {
+    "entidad": "Pivmecilinam",
+    "relacion": "uso",
+    "valor": "tabletas para tomar por vía oral, tres veces al día durante 3 a 7 días"
+  },
+  {
+    "entidad": "Pivmecilinam",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Pivmecilinam",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias a penicilinas y otros medicamentos"
+  },
+  {
+    "entidad": "Pivmecilinam",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Pivmecilinam",
+    "relacion": "olvido",
+    "valor": "tomar la dosis omitida tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Pivmecilinam",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Pivmecilinam",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Pivmecilinam",
+    "relacion": "efecto_secundario",
+    "valor": "picazón"
+  },
+  {
+    "entidad": "Pivmecilinam",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Pivmecilinam",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea intensa"
+  },
+  {
+    "entidad": "Pivmecilinam",
+    "relacion": "efecto_secundario",
+    "valor": "picor vaginal"
+  },
+  {
+    "entidad": "Pivmecilinam",
+    "relacion": "efecto_secundario",
+    "valor": "erupción cutánea"
+  },
+  {
+    "entidad": "Pivmecilinam",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Pivmecilinam",
+    "relacion": "almacenamiento",
+    "valor": "mantener en el blíster, a temperatura ambiente, lejos del calor y la humedad"
+  },
+  {
+    "entidad": "Pivmecilinam",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Plecanatida",
+    "relacion": "contraindicado_en",
+    "valor": "niños menores de 6 años"
+  },
+  {
+    "entidad": "Plecanatida",
+    "relacion": "contraindicado_en",
+    "valor": "niños de 6 a 17 años"
+  },
+  {
+    "entidad": "Plecanatida",
+    "relacion": "trata",
+    "valor": "estreñimiento idiopático crónico"
+  },
+  {
+    "entidad": "Plecanatida",
+    "relacion": "trata",
+    "valor": "síndrome de intestino irritable con estreñimiento"
+  },
+  {
+    "entidad": "Plecanatida",
+    "relacion": "uso",
+    "valor": "tomar una tableta por vía oral una vez al día"
+  },
+  {
+    "entidad": "Plecanatida",
+    "relacion": "se_administra_via",
+    "valor": "vía oral"
+  },
+  {
+    "entidad": "Plecanatida",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias a la plecanatida"
+  },
+  {
+    "entidad": "Plecanatida",
+    "relacion": "precaucion",
+    "valor": "informar sobre otros medicamentos que se están tomando"
+  },
+  {
+    "entidad": "Plecanatida",
+    "relacion": "precaucion",
+    "valor": "informar sobre obstrucciones en el estómago o intestino"
+  },
+  {
+    "entidad": "Plecanatida",
+    "relacion": "dieta",
+    "valor": "continuar con la dieta normal a menos que se indique lo contrario"
+  },
+  {
+    "entidad": "Plecanatida",
+    "relacion": "olvido",
+    "valor": "omitir la dosis y continuar con el programa normal"
+  },
+  {
+    "entidad": "Plecanatida",
+    "relacion": "efecto_secundario",
+    "valor": "distensión o sensibilidad en el estómago"
+  },
+  {
+    "entidad": "Plecanatida",
+    "relacion": "efecto_secundario",
+    "valor": "gases"
+  },
+  {
+    "entidad": "Plecanatida",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea leve"
+  },
+  {
+    "entidad": "Plecanatida",
+    "relacion": "efecto_secundario",
+    "valor": "náusea"
+  },
+  {
+    "entidad": "Plecanatida",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Plecanatida",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea intensa"
+  },
+  {
+    "entidad": "Plecanatida",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original, cerrado herméticamente"
+  },
+  {
+    "entidad": "Plecanatida",
+    "relacion": "almacenamiento",
+    "valor": "almacenar a temperatura ambiente, lejos del calor y humedad"
+  },
+  {
+    "entidad": "Plecanatida",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Plecanatida",
+    "relacion": "marca_comercial",
+    "valor": "Trulance"
+  },
+  {
+    "entidad": "Polimixina B y trimetoprima oftálmica",
+    "relacion": "trata",
+    "valor": "infecciones bacterianas del ojo, como la conjuntivitis y blefaroconjuntivitis"
+  },
+  {
+    "entidad": "Polimixina B y trimetoprima oftálmica",
+    "relacion": "uso",
+    "valor": "solución para colocar en el ojo cada tres horas durante 7 a 10 días"
+  },
+  {
+    "entidad": "Polimixina B y trimetoprima oftálmica",
+    "relacion": "se_administra_via",
+    "valor": "vía oftálmica"
+  },
+  {
+    "entidad": "Polimixina B y trimetoprima oftálmica",
+    "relacion": "precaucion",
+    "valor": "informar a su médico si es alérgico a la polimixina B y trimetoprima"
+  },
+  {
+    "entidad": "Polimixina B y trimetoprima oftálmica",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Polimixina B y trimetoprima oftálmica",
+    "relacion": "olvido",
+    "valor": "colocar la dosis omitida tan pronto como lo recuerde, omitir si es casi hora de la siguiente dosis"
+  },
+  {
+    "entidad": "Polimixina B y trimetoprima oftálmica",
+    "relacion": "efecto_secundario",
+    "valor": "ardor en los ojos, enrojecimiento, irritación, lagrimeo, sarpullido, picazón, inflamación de los párpados"
+  },
+  {
+    "entidad": "Polimixina B y trimetoprima oftálmica",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original, cerrado herméticamente y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Polimixina B y trimetoprima oftálmica",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento al 1-800-222-1222"
+  },
+  {
+    "entidad": "Polimixina B y trimetoprima oftálmica",
+    "relacion": "marca_comercial",
+    "valor": "Polytrim ®"
+  },
+  {
+    "entidad": "Polvo alérgeno de maní-dnfp (Arachis hypogaea)",
+    "relacion": "contraindicado_en",
+    "valor": "reacciones alérgicas graves o potencialmente mortales"
+  },
+  {
+    "entidad": "Polvo alérgeno de maní-dnfp (Arachis hypogaea)",
+    "relacion": "trata",
+    "valor": "reacciones alérgicas graves al maní"
+  },
+  {
+    "entidad": "Polvo alérgeno de maní-dnfp (Arachis hypogaea)",
+    "relacion": "uso",
+    "valor": "una vez al día con la comida, preferiblemente por la noche"
+  },
+  {
+    "entidad": "Polvo alérgeno de maní-dnfp (Arachis hypogaea)",
+    "relacion": "se_administra_via",
+    "valor": "vía oral"
+  },
+  {
+    "entidad": "Polvo alérgeno de maní-dnfp (Arachis hypogaea)",
+    "relacion": "dieta",
+    "valor": "no comer maní ni sus derivados"
+  },
+  {
+    "entidad": "Polvo alérgeno de maní-dnfp (Arachis hypogaea)",
+    "relacion": "olvido",
+    "valor": "contactar al médico inmediatamente"
+  },
+  {
+    "entidad": "Polvo alérgeno de maní-dnfp (Arachis hypogaea)",
+    "relacion": "efecto_secundario",
+    "valor": "secreción nasal"
+  },
+  {
+    "entidad": "Polvo alérgeno de maní-dnfp (Arachis hypogaea)",
+    "relacion": "efecto_secundario",
+    "valor": "tos"
+  },
+  {
+    "entidad": "Polvo alérgeno de maní-dnfp (Arachis hypogaea)",
+    "relacion": "efecto_secundario",
+    "valor": "estornudos"
+  },
+  {
+    "entidad": "Polvo alérgeno de maní-dnfp (Arachis hypogaea)",
+    "relacion": "efecto_secundario",
+    "valor": "picazón en los oídos"
+  },
+  {
+    "entidad": "Polvo alérgeno de maní-dnfp (Arachis hypogaea)",
+    "relacion": "efecto_secundario",
+    "valor": "picazón, ardor u hormigueo en la boca"
+  },
+  {
+    "entidad": "Polvo alérgeno de maní-dnfp (Arachis hypogaea)",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Polvo alérgeno de maní-dnfp (Arachis hypogaea)",
+    "relacion": "almacenamiento",
+    "valor": "conservar en el refrigerador, en su envase original y cerrado herméticamente"
+  },
+  {
+    "entidad": "Polvo alérgeno de maní-dnfp (Arachis hypogaea)",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Polvo alérgeno de maní-dnfp (Arachis hypogaea)",
+    "relacion": "marca_comercial",
+    "valor": "Palforzia"
+  },
+  {
+    "entidad": "Pomalidomida",
+    "relacion": "contraindicado_en",
+    "valor": "mujeres embarazadas o que pueden quedar embarazadas"
+  },
+  {
+    "entidad": "Pomalidomida",
+    "relacion": "trata",
+    "valor": "mieloma múltiple"
+  },
+  {
+    "entidad": "Pomalidomida",
+    "relacion": "trata",
+    "valor": "sarcoma de Kaposi relacionado al SIDA"
+  },
+  {
+    "entidad": "Pomalidomida",
+    "relacion": "uso",
+    "valor": "cápsula para administrarse por vía oral una vez al día"
+  },
+  {
+    "entidad": "Pomalidomida",
+    "relacion": "se_administra_via",
+    "valor": "oral"
+  },
+  {
+    "entidad": "Pomalidomida",
+    "relacion": "precaucion",
+    "valor": "no amamantar mientras se toma pomalidomida"
+  },
+  {
+    "entidad": "Pomalidomida",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Pomalidomida",
+    "relacion": "olvido",
+    "valor": "tome la dosis que omitió tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Pomalidomida",
+    "relacion": "efecto_secundario",
+    "valor": "aumento del riesgo de otros tipos de cáncer"
+  },
+  {
+    "entidad": "Pomalidomida",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Pomalidomida",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Pomalidomida",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Pomalidomida",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Pomalidomida",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de apetito"
+  },
+  {
+    "entidad": "Pomalidomida",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio o debilidad inusuales"
+  },
+  {
+    "entidad": "Pomalidomida",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, bien cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Pomalidomida",
+    "relacion": "sobredosis",
+    "valor": "llame a la línea de ayuda de control de envenenamiento al 1-800-222-1222"
+  },
+  {
+    "entidad": "Pomalidomida",
+    "relacion": "marca_comercial",
+    "valor": "Pomalyst"
+  },
+  {
+    "entidad": "Ponesimod",
+    "relacion": "trata",
+    "valor": "prevención de episodios de síntomas y retraso del empeoramiento de la discapacidad en esclerosis múltiple"
+  },
+  {
+    "entidad": "Ponesimod",
+    "relacion": "uso",
+    "valor": "tabletas para tomar por vía oral, una vez al día"
+  },
+  {
+    "entidad": "Ponesimod",
+    "relacion": "se_administra_via",
+    "valor": "vía oral"
+  },
+  {
+    "entidad": "Ponesimod",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Ponesimod",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos"
+  },
+  {
+    "entidad": "Ponesimod",
+    "relacion": "precaucion",
+    "valor": "informar sobre afecciones cardíacas y otros problemas de salud"
+  },
+  {
+    "entidad": "Ponesimod",
+    "relacion": "precaucion",
+    "valor": "usar anticonceptivos durante el tratamiento"
+  },
+  {
+    "entidad": "Ponesimod",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Ponesimod",
+    "relacion": "olvido",
+    "valor": "tomar la tableta olvidada tan pronto como se acuerde"
+  },
+  {
+    "entidad": "Ponesimod",
+    "relacion": "efecto_secundario",
+    "valor": "aumento del riesgo de cáncer de piel"
+  },
+  {
+    "entidad": "Ponesimod",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Ponesimod",
+    "relacion": "efecto_secundario",
+    "valor": "dolor en manos o pies"
+  },
+  {
+    "entidad": "Ponesimod",
+    "relacion": "efecto_secundario",
+    "valor": "ritmo cardíaco lento"
+  },
+  {
+    "entidad": "Ponesimod",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para respirar"
+  },
+  {
+    "entidad": "Ponesimod",
+    "relacion": "almacenamiento",
+    "valor": "mantener en empaque original, a temperatura ambiente, lejos del calor y la humedad"
+  },
+  {
+    "entidad": "Ponesimod",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento o a servicios de emergencia"
+  },
+  {
+    "entidad": "Ponesimod",
+    "relacion": "marca_comercial",
+    "valor": "Ponvory ®"
+  },
+  {
+    "entidad": "Prademagene zamikeracel tópico",
+    "relacion": "trata",
+    "valor": "heridas cutáneas en personas con epidermólisis bullosa distrófica"
+  },
+  {
+    "entidad": "Prademagene zamikeracel tópico",
+    "relacion": "uso",
+    "valor": "aplicación quirúrgica de láminas elaboradas a partir de células cutáneas"
+  },
+  {
+    "entidad": "Prademagene zamikeracel tópico",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Prademagene zamikeracel tópico",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos actuales"
+  },
+  {
+    "entidad": "Prademagene zamikeracel tópico",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Prademagene zamikeracel tópico",
+    "relacion": "efecto_secundario",
+    "valor": "aumento del riesgo de desarrollar cáncer"
+  },
+  {
+    "entidad": "Prademagene zamikeracel tópico",
+    "relacion": "efecto_secundario",
+    "valor": "dolor o picazón en los sitios de tratamiento"
+  },
+  {
+    "entidad": "Prademagene zamikeracel tópico",
+    "relacion": "marca_comercial",
+    "valor": "Zevaskyn ®"
+  },
+  {
+    "entidad": "Pravastatina",
+    "relacion": "trata",
+    "valor": "reduce el riesgo de infarto de miocardio y accidente cardiovascular"
+  },
+  {
+    "entidad": "Pravastatina",
+    "relacion": "trata",
+    "valor": "disminuye la probabilidad de cirugía cardíaca en personas con enfermedad cardíaca"
+  },
+  {
+    "entidad": "Pravastatina",
+    "relacion": "trata",
+    "valor": "reduce el colesterol LDL y triglicéridos en la sangre"
+  },
+  {
+    "entidad": "Pravastatina",
+    "relacion": "trata",
+    "valor": "aumenta el colesterol HDL en la sangre"
+  },
+  {
+    "entidad": "Pravastatina",
+    "relacion": "uso",
+    "valor": "tomar una vez al día con o sin alimentos"
+  },
+  {
+    "entidad": "Pravastatina",
+    "relacion": "uso",
+    "valor": "seguir las instrucciones en la etiqueta del medicamento"
+  },
+  {
+    "entidad": "Pravastatina",
+    "relacion": "uso",
+    "valor": "no tomar más de lo indicado por el médico"
+  },
+  {
+    "entidad": "Pravastatina",
+    "relacion": "otro_uso",
+    "valor": "puede ser recetada para otros usos"
+  },
+  {
+    "entidad": "Pravastatina",
+    "relacion": "precaucion",
+    "valor": "informar si es alérgico a la pravastatina o a otros medicamentos"
+  },
+  {
+    "entidad": "Pravastatina",
+    "relacion": "precaucion",
+    "valor": "informar sobre medicamentos, vitaminas y suplementos que está tomando"
+  },
+  {
+    "entidad": "Pravastatina",
+    "relacion": "precaucion",
+    "valor": "no amamantar mientras esté tomando este medicamento"
+  },
+  {
+    "entidad": "Pravastatina",
+    "relacion": "dieta",
+    "valor": "seguir una dieta baja en grasa y colesterol"
+  },
+  {
+    "entidad": "Pravastatina",
+    "relacion": "olvido",
+    "valor": "tomar la dosis omitida tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Pravastatina",
+    "relacion": "efecto_secundario",
+    "valor": "acidez estomacal"
+  },
+  {
+    "entidad": "Pravastatina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Pravastatina",
+    "relacion": "efecto_secundario",
+    "valor": "falta o pérdida de la memoria"
+  },
+  {
+    "entidad": "Pravastatina",
+    "relacion": "efecto_secundario",
+    "valor": "confusión"
+  },
+  {
+    "entidad": "Pravastatina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor, sensibilidad o debilidad muscular"
+  },
+  {
+    "entidad": "Pravastatina",
+    "relacion": "efecto_secundario",
+    "valor": "falta de energía"
+  },
+  {
+    "entidad": "Pravastatina",
+    "relacion": "efecto_secundario",
+    "valor": "fiebre"
+  },
+  {
+    "entidad": "Pravastatina",
+    "relacion": "efecto_secundario",
+    "valor": "coloración amarillenta en la piel y los ojos"
+  },
+  {
+    "entidad": "Pravastatina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor en la parte superior derecha del estómago"
+  },
+  {
+    "entidad": "Pravastatina",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Pravastatina",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio extremo"
+  },
+  {
+    "entidad": "Pravastatina",
+    "relacion": "efecto_secundario",
+    "valor": "debilidad"
+  },
+  {
+    "entidad": "Pravastatina",
+    "relacion": "efecto_secundario",
+    "valor": "sangrado o moretones inusuales"
+  },
+  {
+    "entidad": "Pravastatina",
+    "relacion": "efecto_secundario",
+    "valor": "orina de color oscuro"
+  },
+  {
+    "entidad": "Pravastatina",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de apetito"
+  },
+  {
+    "entidad": "Pravastatina",
+    "relacion": "efecto_secundario",
+    "valor": "síntomas similares a los de la gripe"
+  },
+  {
+    "entidad": "Pravastatina",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Pravastatina",
+    "relacion": "efecto_secundario",
+    "valor": "urticaria"
+  },
+  {
+    "entidad": "Pravastatina",
+    "relacion": "efecto_secundario",
+    "valor": "picazón"
+  },
+  {
+    "entidad": "Pravastatina",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para respirar o tragar"
+  },
+  {
+    "entidad": "Pravastatina",
+    "relacion": "efecto_secundario",
+    "valor": "inflamación del rostro, la garganta, la lengua, los labios, los ojos, las manos, los pies, los tobillos o las pantorrillas"
+  },
+  {
+    "entidad": "Pravastatina",
+    "relacion": "efecto_secundario",
+    "valor": "ronquera"
+  },
+  {
+    "entidad": "Pravastatina",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original, cerrado herméticamente y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Pravastatina",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente y lejos del calor excesivo y la humedad"
+  },
+  {
+    "entidad": "Pravastatina",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Pravastatina",
+    "relacion": "marca_comercial",
+    "valor": "Pravachol"
+  },
+  {
+    "entidad": "Pretomanida",
+    "relacion": "trata",
+    "valor": "tuberculosis multirresistente (MDR-TB)"
+  },
+  {
+    "entidad": "Pretomanida",
+    "relacion": "uso",
+    "valor": "tableta para tomar por vía oral, una vez al día con los alimentos por 26 semanas o más"
+  },
+  {
+    "entidad": "Pretomanida",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Pretomanida",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos que se están tomando"
+  },
+  {
+    "entidad": "Pretomanida",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta a menos que el médico lo indique"
+  },
+  {
+    "entidad": "Pretomanida",
+    "relacion": "olvido",
+    "valor": "tomar la dosis omitida tan pronto como se recuerde, no duplicar"
+  },
+  {
+    "entidad": "Pretomanida",
+    "relacion": "efecto_secundario",
+    "valor": "acné"
+  },
+  {
+    "entidad": "Pretomanida",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Pretomanida",
+    "relacion": "efecto_secundario",
+    "valor": "acidez estomacal"
+  },
+  {
+    "entidad": "Pretomanida",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de apetito"
+  },
+  {
+    "entidad": "Pretomanida",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de peso"
+  },
+  {
+    "entidad": "Pretomanida",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Pretomanida",
+    "relacion": "efecto_secundario",
+    "valor": "picazón"
+  },
+  {
+    "entidad": "Pretomanida",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago"
+  },
+  {
+    "entidad": "Pretomanida",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Pretomanida",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Pretomanida",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Pretomanida",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Pretomanida",
+    "relacion": "efecto_secundario",
+    "valor": "piel seca"
+  },
+  {
+    "entidad": "Pretomanida",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para conciliar el sueño"
+  },
+  {
+    "entidad": "Pretomanida",
+    "relacion": "efecto_secundario",
+    "valor": "cambios en la vista"
+  },
+  {
+    "entidad": "Pretomanida",
+    "relacion": "efecto_secundario",
+    "valor": "ritmo cardiaco irregular o rápido"
+  },
+  {
+    "entidad": "Pretomanida",
+    "relacion": "almacenamiento",
+    "valor": "mantener en empaque original, a temperatura ambiente, lejos del calor y la humedad"
+  },
+  {
+    "entidad": "Pretomanida",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento o a servicios de emergencia"
+  },
+  {
+    "entidad": "Procainamida",
+    "relacion": "contraindicado_en",
+    "valor": "aumento del riesgo de muerte tras un ataque cardíaco"
+  },
+  {
+    "entidad": "Procainamida",
+    "relacion": "trata",
+    "valor": "frecuencia cardíaca anormal"
+  },
+  {
+    "entidad": "Procainamida",
+    "relacion": "uso",
+    "valor": "tomar cada 3 o 4 horas para acción inmediata; cada 6 o 12 horas para acción gradual"
+  },
+  {
+    "entidad": "Procainamida",
+    "relacion": "se_administra_via",
+    "valor": "vía oral"
+  },
+  {
+    "entidad": "Procainamida",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos"
+  },
+  {
+    "entidad": "Procainamida",
+    "relacion": "precaucion",
+    "valor": "no conducir hasta saber cómo le afecta"
+  },
+  {
+    "entidad": "Procainamida",
+    "relacion": "olvido",
+    "valor": "tomar la dosis olvidada tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Procainamida",
+    "relacion": "efecto_secundario",
+    "valor": "mareos o aturdimiento"
+  },
+  {
+    "entidad": "Procainamida",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de apetito"
+  },
+  {
+    "entidad": "Procainamida",
+    "relacion": "efecto_secundario",
+    "valor": "molestias estomacales"
+  },
+  {
+    "entidad": "Procainamida",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Procainamida",
+    "relacion": "efecto_secundario",
+    "valor": "sabor amargo"
+  },
+  {
+    "entidad": "Procainamida",
+    "relacion": "efecto_secundario",
+    "valor": "ritmo cardíaco irregular"
+  },
+  {
+    "entidad": "Procainamida",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, a temperatura ambiente y lejos del calor y la humedad"
+  },
+  {
+    "entidad": "Procainamida",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Procainamida",
+    "relacion": "marca_comercial",
+    "valor": "Procan"
+  },
+  {
+    "entidad": "Procainamida",
+    "relacion": "marca_comercial",
+    "valor": "Procanbid"
+  },
+  {
+    "entidad": "Procainamida",
+    "relacion": "marca_comercial",
+    "valor": "Procapan"
+  },
+  {
+    "entidad": "Procainamida",
+    "relacion": "marca_comercial",
+    "valor": "Pronestyl"
+  },
+  {
+    "entidad": "Progesterona",
+    "relacion": "trata",
+    "valor": "terapia de reemplazo hormonal en mujeres postmenopáusicas sin histerectomía"
+  },
+  {
+    "entidad": "Progesterona",
+    "relacion": "trata",
+    "valor": "producir la menstruación en mujeres en edad fecunda que han dejado de menstruar"
+  },
+  {
+    "entidad": "Progesterona",
+    "relacion": "uso",
+    "valor": "cápsulas para tomar por vía oral una vez al día por la noche"
+  },
+  {
+    "entidad": "Progesterona",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias a progesterona y otros medicamentos"
+  },
+  {
+    "entidad": "Progesterona",
+    "relacion": "precaucion",
+    "valor": "informar sobre otros medicamentos, vitaminas y suplementos que se están tomando"
+  },
+  {
+    "entidad": "Progesterona",
+    "relacion": "precaucion",
+    "valor": "informar si se padece de hemorragias vaginales inexplicables o condiciones médicas graves"
+  },
+  {
+    "entidad": "Progesterona",
+    "relacion": "precaucion",
+    "valor": "no conducir ni operar maquinaria si causa mareos o somnolencia"
+  },
+  {
+    "entidad": "Progesterona",
+    "relacion": "dieta",
+    "valor": "hablar con el médico sobre tomar jugo de toronja"
+  },
+  {
+    "entidad": "Progesterona",
+    "relacion": "olvido",
+    "valor": "tomar la dosis omitida tan pronto como se recuerde, omitir si es casi hora de la siguiente dosis"
+  },
+  {
+    "entidad": "Progesterona",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Progesterona",
+    "relacion": "efecto_secundario",
+    "valor": "sensibilidad o dolor mamario"
+  },
+  {
+    "entidad": "Progesterona",
+    "relacion": "efecto_secundario",
+    "valor": "molestias estomacales"
+  },
+  {
+    "entidad": "Progesterona",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Progesterona",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Progesterona",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Progesterona",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio"
+  },
+  {
+    "entidad": "Progesterona",
+    "relacion": "efecto_secundario",
+    "valor": "cambios en el estado de ánimo"
+  },
+  {
+    "entidad": "Progesterona",
+    "relacion": "efecto_secundario",
+    "valor": "mareos o desmayos intensos"
+  },
+  {
+    "entidad": "Progesterona",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, bien cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Progesterona",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente y lejos del calor excesivo y la humedad"
+  },
+  {
+    "entidad": "Progesterona",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento o a los servicios de emergencia"
+  },
+  {
+    "entidad": "Prometazina",
+    "relacion": "contraindicado_en",
+    "valor": "niños menores de 2 años"
+  },
+  {
+    "entidad": "Prometazina",
+    "relacion": "contraindicado_en",
+    "valor": "niños menores de 16 años (en productos combinados con codeína)"
+  },
+  {
+    "entidad": "Prometazina",
+    "relacion": "trata",
+    "valor": "síntomas de reacciones alérgicas"
+  },
+  {
+    "entidad": "Prometazina",
+    "relacion": "trata",
+    "valor": "anafilaxia"
+  },
+  {
+    "entidad": "Prometazina",
+    "relacion": "trata",
+    "valor": "síntomas del resfriado común"
+  },
+  {
+    "entidad": "Prometazina",
+    "relacion": "trata",
+    "valor": "náuseas y vómitos postquirúrgicos"
+  },
+  {
+    "entidad": "Prometazina",
+    "relacion": "trata",
+    "valor": "mareo por movimiento"
+  },
+  {
+    "entidad": "Prometazina",
+    "relacion": "uso",
+    "valor": "tabletas y jarabe por vía oral, supositorios rectales"
+  },
+  {
+    "entidad": "Prometazina",
+    "relacion": "uso",
+    "valor": "tomar de 1 a 4 veces al día antes de las comidas y/o a la hora de acostarse"
+  },
+  {
+    "entidad": "Prometazina",
+    "relacion": "uso",
+    "valor": "tomar cada 4 a 6 horas según sea necesario para el resfriado"
+  },
+  {
+    "entidad": "Prometazina",
+    "relacion": "uso",
+    "valor": "tomar 30 a 60 minutos antes del viaje para mareo por movimiento"
+  },
+  {
+    "entidad": "Prometazina",
+    "relacion": "uso",
+    "valor": "no tragar supositorios, uso rectal"
+  },
+  {
+    "entidad": "Prometazina",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias a fenotiazinas"
+  },
+  {
+    "entidad": "Prometazina",
+    "relacion": "precaucion",
+    "valor": "informar sobre otros medicamentos que se están tomando"
+  },
+  {
+    "entidad": "Prometazina",
+    "relacion": "precaucion",
+    "valor": "informar sobre condiciones médicas preexistentes"
+  },
+  {
+    "entidad": "Prometazina",
+    "relacion": "precaucion",
+    "valor": "no conducir hasta conocer efectos del medicamento"
+  },
+  {
+    "entidad": "Prometazina",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Prometazina",
+    "relacion": "olvido",
+    "valor": "tomar la dosis olvidada tan pronto como se recuerde"
+  },
+  {
+    "entidad": "Prometazina",
+    "relacion": "efecto_secundario",
+    "valor": "somnolencia"
+  },
+  {
+    "entidad": "Prometazina",
+    "relacion": "efecto_secundario",
+    "valor": "boca seca"
+  },
+  {
+    "entidad": "Prometazina",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Prometazina",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Prometazina",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente, alejado del calor y humedad"
+  },
+  {
+    "entidad": "Prometazina",
+    "relacion": "almacenamiento",
+    "valor": "guardar supositorios en el refrigerador"
+  },
+  {
+    "entidad": "Prometazina",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Prometazina",
+    "relacion": "marca_comercial",
+    "valor": "Phenergan"
+  },
+  {
+    "entidad": "Prometazina",
+    "relacion": "marca_comercial",
+    "valor": "Promethegan"
+  },
+  {
+    "entidad": "Prometazina",
+    "relacion": "marca_comercial",
+    "valor": "Remsed"
+  },
+  {
+    "entidad": "Prometazina",
+    "relacion": "otro_uso",
+    "valor": "otros usos bajo consulta médica"
+  },
+  {
+    "entidad": "Propafenona",
+    "relacion": "contraindicado_en",
+    "valor": "personas que tuvieron recientemente un ataque cardíaco"
+  },
+  {
+    "entidad": "Propafenona",
+    "relacion": "trata",
+    "valor": "arritmia (latidos cardíacos irregulares)"
+  },
+  {
+    "entidad": "Propafenona",
+    "relacion": "uso",
+    "valor": "tabletas y cápsulas de liberación prolongada por vía oral"
+  },
+  {
+    "entidad": "Propafenona",
+    "relacion": "se_administra_via",
+    "valor": "oral"
+  },
+  {
+    "entidad": "Propafenona",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias a la propafenona y otros medicamentos"
+  },
+  {
+    "entidad": "Propafenona",
+    "relacion": "precaucion",
+    "valor": "informar sobre otros medicamentos que se están tomando"
+  },
+  {
+    "entidad": "Propafenona",
+    "relacion": "precaucion",
+    "valor": "informar si tiene diarrea excesiva, sudoración, vómitos, etc."
+  },
+  {
+    "entidad": "Propafenona",
+    "relacion": "precaucion",
+    "valor": "informar si está embarazada o amamantando"
+  },
+  {
+    "entidad": "Propafenona",
+    "relacion": "dieta",
+    "valor": "hablar sobre el consumo de alimentos y sustitutos de la sal que contengan potasio"
+  },
+  {
+    "entidad": "Propafenona",
+    "relacion": "dieta",
+    "valor": "hablar sobre comer toronja y tomar jugo de toronja"
+  },
+  {
+    "entidad": "Propafenona",
+    "relacion": "olvido",
+    "valor": "tomar la dosis que omitió tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Propafenona",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Propafenona",
+    "relacion": "efecto_secundario",
+    "valor": "boca seca"
+  },
+  {
+    "entidad": "Propafenona",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Propafenona",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Propafenona",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Propafenona",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Propafenona",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Propafenona",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de apetito"
+  },
+  {
+    "entidad": "Propafenona",
+    "relacion": "efecto_secundario",
+    "valor": "sabor inusual en la boca"
+  },
+  {
+    "entidad": "Propafenona",
+    "relacion": "efecto_secundario",
+    "valor": "gases"
+  },
+  {
+    "entidad": "Propafenona",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio"
+  },
+  {
+    "entidad": "Propafenona",
+    "relacion": "efecto_secundario",
+    "valor": "ansiedad"
+  },
+  {
+    "entidad": "Propafenona",
+    "relacion": "efecto_secundario",
+    "valor": "visión borrosa"
+  },
+  {
+    "entidad": "Propafenona",
+    "relacion": "efecto_secundario",
+    "valor": "temblor de una parte del cuerpo"
+  },
+  {
+    "entidad": "Propafenona",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para conciliar el sueño"
+  },
+  {
+    "entidad": "Propafenona",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad de coordinación"
+  },
+  {
+    "entidad": "Propafenona",
+    "relacion": "efecto_secundario",
+    "valor": "falta de aliento"
+  },
+  {
+    "entidad": "Propafenona",
+    "relacion": "efecto_secundario",
+    "valor": "sibilancias"
+  },
+  {
+    "entidad": "Propafenona",
+    "relacion": "efecto_secundario",
+    "valor": "dolor en el pecho"
+  },
+  {
+    "entidad": "Propafenona",
+    "relacion": "efecto_secundario",
+    "valor": "latidos irregulares nuevos o que empeoran"
+  },
+  {
+    "entidad": "Propafenona",
+    "relacion": "efecto_secundario",
+    "valor": "ritmo cardíaco lento, rápido o fuerte"
+  },
+  {
+    "entidad": "Propafenona",
+    "relacion": "efecto_secundario",
+    "valor": "hinchazón de las manos, pies, tobillos o pantorrillas"
+  },
+  {
+    "entidad": "Propafenona",
+    "relacion": "efecto_secundario",
+    "valor": "aumento de peso repentino sin explicación"
+  },
+  {
+    "entidad": "Propafenona",
+    "relacion": "efecto_secundario",
+    "valor": "desvanecimiento"
+  },
+  {
+    "entidad": "Propafenona",
+    "relacion": "efecto_secundario",
+    "valor": "erupción cutánea"
+  },
+  {
+    "entidad": "Propafenona",
+    "relacion": "efecto_secundario",
+    "valor": "fiebre, escalofríos, debilidad o dolor de garganta inexplicables"
+  },
+  {
+    "entidad": "Propafenona",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original, cerrado herméticamente y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Propafenona",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente y lejos del calor excesivo y la humedad"
+  },
+  {
+    "entidad": "Propafenona",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Propafenona",
+    "relacion": "marca_comercial",
+    "valor": "Rythmol"
+  },
+  {
+    "entidad": "Propafenona",
+    "relacion": "marca_comercial",
+    "valor": "Rythmol SR"
+  },
+  {
+    "entidad": "Propantelina",
+    "relacion": "trata",
+    "valor": "úlceras"
+  },
+  {
+    "entidad": "Propantelina",
+    "relacion": "uso",
+    "valor": "4 veces al día, 30 minutos antes de las comidas y a la hora de acostarse"
+  },
+  {
+    "entidad": "Propantelina",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Propantelina",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos actuales"
+  },
+  {
+    "entidad": "Propantelina",
+    "relacion": "precaucion",
+    "valor": "consultar si está embarazada o amamantando"
+  },
+  {
+    "entidad": "Propantelina",
+    "relacion": "precaucion",
+    "valor": "no conducir hasta saber cómo le afecta"
+  },
+  {
+    "entidad": "Propantelina",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta a menos que lo indique el médico"
+  },
+  {
+    "entidad": "Propantelina",
+    "relacion": "olvido",
+    "valor": "tome la dosis olvidada tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Propantelina",
+    "relacion": "efecto_secundario",
+    "valor": "boca seca"
+  },
+  {
+    "entidad": "Propantelina",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Propantelina",
+    "relacion": "efecto_secundario",
+    "valor": "nerviosismo"
+  },
+  {
+    "entidad": "Propantelina",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para dormir"
+  },
+  {
+    "entidad": "Propantelina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Propantelina",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Propantelina",
+    "relacion": "efecto_secundario",
+    "valor": "confusión"
+  },
+  {
+    "entidad": "Propantelina",
+    "relacion": "almacenamiento",
+    "valor": "mantener en empaque original, bien cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Propantelina",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente, lejos del calor y la humedad"
+  },
+  {
+    "entidad": "Propantelina",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Propantelina",
+    "relacion": "marca_comercial",
+    "valor": "Pro-Banthine ®"
+  },
+  {
+    "entidad": "Propiltiouracilo",
+    "relacion": "contraindicado_en",
+    "valor": "daños graves en el hígado"
+  },
+  {
+    "entidad": "Propiltiouracilo",
+    "relacion": "trata",
+    "valor": "hipertiroidismo"
+  },
+  {
+    "entidad": "Propiltiouracilo",
+    "relacion": "uso",
+    "valor": "tomar tres veces al día, cada 8 horas"
+  },
+  {
+    "entidad": "Propiltiouracilo",
+    "relacion": "se_administra_via",
+    "valor": "vía oral"
+  },
+  {
+    "entidad": "Propiltiouracilo",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Propiltiouracilo",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos"
+  },
+  {
+    "entidad": "Propiltiouracilo",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Propiltiouracilo",
+    "relacion": "olvido",
+    "valor": "tomar la dosis olvidada tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Propiltiouracilo",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida del cabello"
+  },
+  {
+    "entidad": "Propiltiouracilo",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para saborear los alimentos"
+  },
+  {
+    "entidad": "Propiltiouracilo",
+    "relacion": "efecto_secundario",
+    "valor": "hormigueo, ardor o adormecimiento de manos o pies"
+  },
+  {
+    "entidad": "Propiltiouracilo",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de articulaciones o músculos"
+  },
+  {
+    "entidad": "Propiltiouracilo",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Propiltiouracilo",
+    "relacion": "efecto_secundario",
+    "valor": "inflamación del cuello"
+  },
+  {
+    "entidad": "Propiltiouracilo",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de garganta, fiebre, escalofríos"
+  },
+  {
+    "entidad": "Propiltiouracilo",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Propiltiouracilo",
+    "relacion": "efecto_secundario",
+    "valor": "erupción cutánea"
+  },
+  {
+    "entidad": "Propiltiouracilo",
+    "relacion": "efecto_secundario",
+    "valor": "orina oscura"
+  },
+  {
+    "entidad": "Propiltiouracilo",
+    "relacion": "efecto_secundario",
+    "valor": "inflamación del rostro"
+  },
+  {
+    "entidad": "Propiltiouracilo",
+    "relacion": "efecto_secundario",
+    "valor": "dolor en el pecho"
+  },
+  {
+    "entidad": "Propiltiouracilo",
+    "relacion": "efecto_secundario",
+    "valor": "falta de aliento"
+  },
+  {
+    "entidad": "Propiltiouracilo",
+    "relacion": "almacenamiento",
+    "valor": "mantener en empaque original, a temperatura ambiente"
+  },
+  {
+    "entidad": "Propiltiouracilo",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Propiltiouracilo",
+    "relacion": "marca_comercial",
+    "valor": "Propycil"
+  },
+  {
+    "entidad": "Protriptilina",
+    "relacion": "trata",
+    "valor": "depresión"
+  },
+  {
+    "entidad": "Protriptilina",
+    "relacion": "uso",
+    "valor": "tabletas para tomar por vía oral, tres o cuatro veces al día"
+  },
+  {
+    "entidad": "Protriptilina",
+    "relacion": "precaucion",
+    "valor": "informar si es alérgico a la protriptilina o a cualquier otro medicamento"
+  },
+  {
+    "entidad": "Protriptilina",
+    "relacion": "precaucion",
+    "valor": "informar si está tomando ciertos medicamentos como IMAO o cisaprida"
+  },
+  {
+    "entidad": "Protriptilina",
+    "relacion": "precaucion",
+    "valor": "informar si ha sufrido recientemente un ataque cardíaco"
+  },
+  {
+    "entidad": "Protriptilina",
+    "relacion": "precaucion",
+    "valor": "informar si bebe grandes cantidades de alcohol o tiene ciertas condiciones médicas"
+  },
+  {
+    "entidad": "Protriptilina",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta a menos que el médico lo indique"
+  },
+  {
+    "entidad": "Protriptilina",
+    "relacion": "olvido",
+    "valor": "tome la dosis que omitió tan pronto como lo recuerde, pero no duplique la dosis"
+  },
+  {
+    "entidad": "Protriptilina",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Protriptilina",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Protriptilina",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Protriptilina",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de apetito"
+  },
+  {
+    "entidad": "Protriptilina",
+    "relacion": "efecto_secundario",
+    "valor": "somnolencia"
+  },
+  {
+    "entidad": "Protriptilina",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Protriptilina",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original, cerrado herméticamente y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Protriptilina",
+    "relacion": "sobredosis",
+    "valor": "llame a la línea de ayuda de control de envenenamiento o a los servicios de emergencia"
+  },
+  {
+    "entidad": "Protriptilina",
+    "relacion": "marca_comercial",
+    "valor": "Vivactil"
+  },
+  {
+    "entidad": "Repaglinida",
+    "relacion": "trata",
+    "valor": "diabetes tipo 2"
+  },
+  {
+    "entidad": "Repaglinida",
+    "relacion": "uso",
+    "valor": "tabletas para tomar por vía oral antes de las comidas"
+  },
+  {
+    "entidad": "Repaglinida",
+    "relacion": "precaucion",
+    "valor": "informar al médico si es alérgico o si está tomando gemfibrozil"
+  },
+  {
+    "entidad": "Repaglinida",
+    "relacion": "dieta",
+    "valor": "seguir recomendaciones de alimentación y ejercicios del doctor"
+  },
+  {
+    "entidad": "Repaglinida",
+    "relacion": "olvido",
+    "valor": "tomar la dosis olvidada tan pronto como lo recuerde antes de comer"
+  },
+  {
+    "entidad": "Repaglinida",
+    "relacion": "efecto_secundario",
+    "valor": "temblores"
+  },
+  {
+    "entidad": "Repaglinida",
+    "relacion": "efecto_secundario",
+    "valor": "mareos o vahídos"
+  },
+  {
+    "entidad": "Repaglinida",
+    "relacion": "efecto_secundario",
+    "valor": "transpiración"
+  },
+  {
+    "entidad": "Repaglinida",
+    "relacion": "efecto_secundario",
+    "valor": "nerviosismo o irritabilidad"
+  },
+  {
+    "entidad": "Repaglinida",
+    "relacion": "efecto_secundario",
+    "valor": "cambios repentinos de conducta o estado de ánimo"
+  },
+  {
+    "entidad": "Repaglinida",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Repaglinida",
+    "relacion": "efecto_secundario",
+    "valor": "adormecimiento o cosquilleo en la boca"
+  },
+  {
+    "entidad": "Repaglinida",
+    "relacion": "efecto_secundario",
+    "valor": "debilidad"
+  },
+  {
+    "entidad": "Repaglinida",
+    "relacion": "efecto_secundario",
+    "valor": "palidez"
+  },
+  {
+    "entidad": "Repaglinida",
+    "relacion": "efecto_secundario",
+    "valor": "hambre"
+  },
+  {
+    "entidad": "Repaglinida",
+    "relacion": "efecto_secundario",
+    "valor": "confusión"
+  },
+  {
+    "entidad": "Repaglinida",
+    "relacion": "efecto_secundario",
+    "valor": "crisis convulsivas"
+  },
+  {
+    "entidad": "Repaglinida",
+    "relacion": "efecto_secundario",
+    "valor": "sed extrema"
+  },
+  {
+    "entidad": "Repaglinida",
+    "relacion": "efecto_secundario",
+    "valor": "visión borrosa"
+  },
+  {
+    "entidad": "Repaglinida",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase, bien cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Repaglinida",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Repaglinida",
+    "relacion": "marca_comercial",
+    "valor": "Prandin"
+  },
+  {
+    "entidad": "Repaglinida",
+    "relacion": "marca_comercial",
+    "valor": "Prandimet"
+  },
+  {
+    "entidad": "Rifapentina",
+    "relacion": "trata",
+    "valor": "tuberculosis activa"
+  },
+  {
+    "entidad": "Rifapentina",
+    "relacion": "trata",
+    "valor": "tuberculosis latente"
+  },
+  {
+    "entidad": "Rifapentina",
+    "relacion": "uso",
+    "valor": "tableta para tomar por vía oral"
+  },
+  {
+    "entidad": "Rifapentina",
+    "relacion": "uso",
+    "valor": "tomar con comida dos veces a la semana"
+  },
+  {
+    "entidad": "Rifapentina",
+    "relacion": "uso",
+    "valor": "tomar con comida una vez cada semana para TB latente"
+  },
+  {
+    "entidad": "Rifapentina",
+    "relacion": "olvido",
+    "valor": "tomar la dosis que omitió tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Rifapentina",
+    "relacion": "efecto_secundario",
+    "valor": "discoloración temporal de piel, dientes, saliva, orina"
+  },
+  {
+    "entidad": "Rifapentina",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Rifapentina",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Rifapentina",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Rifapentina",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Rifapentina",
+    "relacion": "almacenamiento",
+    "valor": "mantener en empaque original, bien cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Rifapentina",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente, lejos del calor y la humedad"
+  },
+  {
+    "entidad": "Rifapentina",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Rifapentina",
+    "relacion": "marca_comercial",
+    "valor": "Priftin ®"
+  },
+  {
+    "entidad": "Tacrolimús tópico",
+    "relacion": "contraindicado_en",
+    "valor": "cáncer de piel o linfoma"
+  },
+  {
+    "entidad": "Tacrolimús tópico",
+    "relacion": "trata",
+    "valor": "síntomas del eczema"
+  },
+  {
+    "entidad": "Tacrolimús tópico",
+    "relacion": "uso",
+    "valor": "aplicarse en la piel, dos veces al día"
+  },
+  {
+    "entidad": "Tacrolimús tópico",
+    "relacion": "se_administra_via",
+    "valor": "tópica"
+  },
+  {
+    "entidad": "Tacrolimús tópico",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos concurrentes"
+  },
+  {
+    "entidad": "Tacrolimús tópico",
+    "relacion": "dieta",
+    "valor": "consultar sobre el consumo de toronja"
+  },
+  {
+    "entidad": "Tacrolimús tópico",
+    "relacion": "olvido",
+    "valor": "aplicar la dosis olvidada tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Tacrolimús tópico",
+    "relacion": "efecto_secundario",
+    "valor": "ardor, escozor, enrojecimiento, picazón"
+  },
+  {
+    "entidad": "Tacrolimús tópico",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, a temperatura ambiente"
+  },
+  {
+    "entidad": "Tacrolimús tópico",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Tacrolimús tópico",
+    "relacion": "marca_comercial",
+    "valor": "Protopic ®"
+  },
+  {
+    "entidad": "Tranilcipromina",
+    "relacion": "contraindicado_en",
+    "valor": "niños menores de 18 años"
+  },
+  {
+    "entidad": "Tranilcipromina",
+    "relacion": "trata",
+    "valor": "depresión en personas donde otros medicamentos no han dado resultado"
+  },
+  {
+    "entidad": "Tranilcipromina",
+    "relacion": "uso",
+    "valor": "tomar tabletas por vía oral, dos veces al día"
+  },
+  {
+    "entidad": "Tranilcipromina",
+    "relacion": "se_administra_via",
+    "valor": "oral"
+  },
+  {
+    "entidad": "Tranilcipromina",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Tranilcipromina",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos actuales"
+  },
+  {
+    "entidad": "Tranilcipromina",
+    "relacion": "dieta",
+    "valor": "evitar alimentos altos en tiramina y cafeína"
+  },
+  {
+    "entidad": "Tranilcipromina",
+    "relacion": "olvido",
+    "valor": "tomar la dosis olvidada tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Tranilcipromina",
+    "relacion": "efecto_secundario",
+    "valor": "somnolencia"
+  },
+  {
+    "entidad": "Tranilcipromina",
+    "relacion": "efecto_secundario",
+    "valor": "debilidad"
+  },
+  {
+    "entidad": "Tranilcipromina",
+    "relacion": "efecto_secundario",
+    "valor": "boca seca"
+  },
+  {
+    "entidad": "Tranilcipromina",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de apetito"
+  },
+  {
+    "entidad": "Tranilcipromina",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Tranilcipromina",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Tranilcipromina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago"
+  },
+  {
+    "entidad": "Tranilcipromina",
+    "relacion": "efecto_secundario",
+    "valor": "visión borrosa"
+  },
+  {
+    "entidad": "Tranilcipromina",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Tranilcipromina",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, a temperatura ambiente y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Tranilcipromina",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento o a los servicios de emergencia"
+  },
+  {
+    "entidad": "Trimetoprima",
+    "relacion": "trata",
+    "valor": "infecciones en las vías urinarias"
+  },
+  {
+    "entidad": "Trimetoprima",
+    "relacion": "trata",
+    "valor": "ciertos tipos de neumonía"
+  },
+  {
+    "entidad": "Trimetoprima",
+    "relacion": "trata",
+    "valor": "diarrea del viajero"
+  },
+  {
+    "entidad": "Trimetoprima",
+    "relacion": "uso",
+    "valor": "tabletas para administrarse por vía oral"
+  },
+  {
+    "entidad": "Trimetoprima",
+    "relacion": "uso",
+    "valor": "una o dos veces al día"
+  },
+  {
+    "entidad": "Trimetoprima",
+    "relacion": "uso",
+    "valor": "con o sin alimentos"
+  },
+  {
+    "entidad": "Trimetoprima",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias a trimetoprima, sulfamidas, diuréticos, medicamentos orales para la diabetes"
+  },
+  {
+    "entidad": "Trimetoprima",
+    "relacion": "precaucion",
+    "valor": "informar sobre otros medicamentos, vitaminas y suplementos que se están tomando"
+  },
+  {
+    "entidad": "Trimetoprima",
+    "relacion": "precaucion",
+    "valor": "informar sobre antecedentes de anemia, enfermedades hepáticas o renales"
+  },
+  {
+    "entidad": "Trimetoprima",
+    "relacion": "precaucion",
+    "valor": "informar si está embarazada o amamantando"
+  },
+  {
+    "entidad": "Trimetoprima",
+    "relacion": "dieta",
+    "valor": "tomar con el estómago vacío, 1 hora antes o 2 horas después de las comidas"
+  },
+  {
+    "entidad": "Trimetoprima",
+    "relacion": "dieta",
+    "valor": "tomar al menos ocho vasos de líquidos diarios"
+  },
+  {
+    "entidad": "Trimetoprima",
+    "relacion": "olvido",
+    "valor": "tomar la dosis omitida tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Trimetoprima",
+    "relacion": "olvido",
+    "valor": "si se acerca la hora de la próxima dosis, omitir la dosis no tomada"
+  },
+  {
+    "entidad": "Trimetoprima",
+    "relacion": "efecto_secundario",
+    "valor": "molestias estomacales"
+  },
+  {
+    "entidad": "Trimetoprima",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Trimetoprima",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Trimetoprima",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido (urticaria)"
+  },
+  {
+    "entidad": "Trimetoprima",
+    "relacion": "efecto_secundario",
+    "valor": "picazón"
+  },
+  {
+    "entidad": "Trimetoprima",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para respirar o tragar"
+  },
+  {
+    "entidad": "Trimetoprima",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de garganta"
+  },
+  {
+    "entidad": "Trimetoprima",
+    "relacion": "efecto_secundario",
+    "valor": "fiebre o escalofríos"
+  },
+  {
+    "entidad": "Trimetoprima",
+    "relacion": "efecto_secundario",
+    "valor": "aftas en la boca"
+  },
+  {
+    "entidad": "Trimetoprima",
+    "relacion": "efecto_secundario",
+    "valor": "sangrado o moretones inusuales"
+  },
+  {
+    "entidad": "Trimetoprima",
+    "relacion": "efecto_secundario",
+    "valor": "coloración amarillenta en la piel y los ojos"
+  },
+  {
+    "entidad": "Trimetoprima",
+    "relacion": "efecto_secundario",
+    "valor": "palidez"
+  },
+  {
+    "entidad": "Trimetoprima",
+    "relacion": "efecto_secundario",
+    "valor": "dolores articulares"
+  },
+  {
+    "entidad": "Trimetoprima",
+    "relacion": "efecto_secundario",
+    "valor": "uñas, labios o piel de color azulado"
+  },
+  {
+    "entidad": "Trimetoprima",
+    "relacion": "almacenamiento",
+    "valor": "mantener en empaque original, bien cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Trimetoprima",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente, lejos del calor y la humedad"
+  },
+  {
+    "entidad": "Trimetoprima",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Trimetoprima",
+    "relacion": "sobredosis",
+    "valor": "llamar a servicios de emergencia si hay síntomas graves"
+  },
+  {
+    "entidad": "Trimetoprima",
+    "relacion": "marca_comercial",
+    "valor": "Primsol"
+  },
+  {
+    "entidad": "Trimetoprima",
+    "relacion": "marca_comercial",
+    "valor": "Proloprim"
+  },
+  {
+    "entidad": "Trimetoprima",
+    "relacion": "marca_comercial",
+    "valor": "Trimpex"
+  },
+  {
+    "entidad": "Vacuna antineumocócica de polisacáridos",
+    "relacion": "trata",
+    "valor": "enfermedad neumocócica"
+  },
+  {
+    "entidad": "Vacuna antineumocócica de polisacáridos",
+    "relacion": "se_administra_via",
+    "valor": "inyección"
+  },
+  {
+    "entidad": "Vacuna antineumocócica de polisacáridos",
+    "relacion": "marca_comercial",
+    "valor": "Pneumovax ® 23"
+  },
+  {
+    "entidad": "Vacuna antineumocócica de polisacáridos",
+    "relacion": "efecto_secundario",
+    "valor": "enrojecimiento o dolor en el lugar de la inyección"
+  },
+  {
+    "entidad": "Vacuna antineumocócica de polisacáridos",
+    "relacion": "efecto_secundario",
+    "valor": "sensación de cansancio"
+  },
+  {
+    "entidad": "Vacuna antineumocócica de polisacáridos",
+    "relacion": "efecto_secundario",
+    "valor": "fiebre"
+  },
+  {
+    "entidad": "Vacuna antineumocócica de polisacáridos",
+    "relacion": "efecto_secundario",
+    "valor": "dolores musculares"
+  },
+  {
+    "entidad": "Vacuna antineumocócica de polisacáridos",
+    "relacion": "precaucion",
+    "valor": "posponer la vacunación si hay enfermedades menores"
+  },
+  {
+    "entidad": "Vacuna antineumocócica de polisacáridos",
+    "relacion": "olvido",
+    "valor": "consultar con el proveedor de atención médica"
+  },
+  {
+    "entidad": "Vacuna antineumocócica de polisacáridos",
+    "relacion": "sobredosis",
+    "valor": "llamar al 9-1-1 y llevar a la persona al hospital más cercano"
+  },
+  {
+    "entidad": "Vacuna contra la varicela",
+    "relacion": "trata",
+    "valor": "prevención de la varicela"
+  },
+  {
+    "entidad": "Vacuna contra la varicela",
+    "relacion": "se_administra_via",
+    "valor": "inyección"
+  },
+  {
+    "entidad": "Vacuna contra la varicela",
+    "relacion": "uso",
+    "valor": "2 dosis: primera de 12 a 15 meses, segunda de 4 a 6 años"
+  },
+  {
+    "entidad": "Vacuna contra la varicela",
+    "relacion": "contraindicado_en",
+    "valor": "mujeres embarazadas"
+  },
+  {
+    "entidad": "Vacuna contra la varicela",
+    "relacion": "contraindicado_en",
+    "valor": "personas con sistema inmunitario debilitado"
+  },
+  {
+    "entidad": "Vacuna contra la varicela",
+    "relacion": "contraindicado_en",
+    "valor": "personas con alergias graves"
+  },
+  {
+    "entidad": "Vacuna contra la varicela",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Vacuna contra la varicela",
+    "relacion": "efecto_secundario",
+    "valor": "fiebre"
+  },
+  {
+    "entidad": "Vacuna contra la varicela",
+    "relacion": "efecto_secundario",
+    "valor": "dolor en el brazo por la inyección"
+  },
+  {
+    "entidad": "Vacuna contra la varicela",
+    "relacion": "efecto_secundario",
+    "valor": "enrojecimiento en el lugar de la inyección"
+  },
+  {
+    "entidad": "Vacuna contra la varicela",
+    "relacion": "efecto_secundario",
+    "valor": "neumonía"
+  },
+  {
+    "entidad": "Vacuna contra la varicela",
+    "relacion": "efecto_secundario",
+    "valor": "infección del cerebro"
+  },
+  {
+    "entidad": "Vacuna contra la varicela",
+    "relacion": "marca_comercial",
+    "valor": "Varivax"
+  },
+  {
+    "entidad": "Vacuna contra la varicela",
+    "relacion": "otro_uso",
+    "valor": "vacuna combinada ProQuad"
+  }
+]

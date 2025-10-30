@@ -1,0 +1,377 @@
+[
+  {
+    "entidad": "Tasa de sedimentación eritrocítica",
+    "relacion": "mide",
+    "valor": "velocidad de sedimentación de glóbulos rojos"
+  },
+  {
+    "entidad": "Tasa de sedimentación eritrocítica",
+    "relacion": "requiere_muestra_de",
+    "valor": "sangre"
+  },
+  {
+    "entidad": "Tasa de sedimentación eritrocítica",
+    "relacion": "diagnostica",
+    "valor": "inflamación"
+  },
+  {
+    "entidad": "Tasa de sedimentación eritrocítica",
+    "relacion": "indicado_si_tiene",
+    "valor": "síntomas de inflamación"
+  },
+  {
+    "entidad": "Tasa de sedimentación eritrocítica",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "dolores de cabeza"
+  },
+  {
+    "entidad": "Tasa de sedimentación eritrocítica",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "fiebre sin causa aparente"
+  },
+  {
+    "entidad": "Tasa de sedimentación eritrocítica",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "pérdida de peso sin explicación"
+  },
+  {
+    "entidad": "Tasa de sedimentación eritrocítica",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "rigidez de las articulaciones"
+  },
+  {
+    "entidad": "Tasa de sedimentación eritrocítica",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "dolor en el cuello o el hombro"
+  },
+  {
+    "entidad": "Tasa de sedimentación eritrocítica",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "falta de apetito"
+  },
+  {
+    "entidad": "Tasa de sedimentación eritrocítica",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "anemia"
+  },
+  {
+    "entidad": "Tasa de sedimentación eritrocítica",
+    "relacion": "tiene_duracion",
+    "valor": "menos de cinco minutos"
+  },
+  {
+    "entidad": "Tasa de sedimentación eritrocítica",
+    "relacion": "tiene_riesgo",
+    "valor": "dolor leve en el lugar de la punción"
+  },
+  {
+    "entidad": "Tasa de sedimentación eritrocítica",
+    "relacion": "tiene_riesgo",
+    "valor": "formación de moretón"
+  },
+  {
+    "entidad": "Tasa de sedimentación eritrocítica",
+    "relacion": "es_tipo_de",
+    "valor": "prueba de laboratorio"
+  },
+  {
+    "entidad": "Tasa de sedimentación eritrocítica",
+    "relacion": "utiliza_equipo",
+    "valor": "tubo de ensayo"
+  },
+  {
+    "entidad": "Tasa de sedimentación eritrocítica",
+    "relacion": "realizado_por",
+    "valor": "profesional de la salud"
+  },
+  {
+    "entidad": "Tránsito esofagogastroduodenal",
+    "relacion": "diagnostica",
+    "valor": "enfermedades de la garganta"
+  },
+  {
+    "entidad": "Tránsito esofagogastroduodenal",
+    "relacion": "diagnostica",
+    "valor": "enfermedades del esófago"
+  },
+  {
+    "entidad": "Tránsito esofagogastroduodenal",
+    "relacion": "diagnostica",
+    "valor": "enfermedades del estómago"
+  },
+  {
+    "entidad": "Tránsito esofagogastroduodenal",
+    "relacion": "diagnostica",
+    "valor": "enfermedades del intestino delgado"
+  },
+  {
+    "entidad": "Tránsito esofagogastroduodenal",
+    "relacion": "indicado_si_tiene",
+    "valor": "síntomas de un trastorno gastrointestinal superior"
+  },
+  {
+    "entidad": "Tránsito esofagogastroduodenal",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "problemas para tragar"
+  },
+  {
+    "entidad": "Tránsito esofagogastroduodenal",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "dolor abdominal"
+  },
+  {
+    "entidad": "Tránsito esofagogastroduodenal",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Tránsito esofagogastroduodenal",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "distensión abdominal"
+  },
+  {
+    "entidad": "Tránsito esofagogastroduodenal",
+    "relacion": "tiene_duracion",
+    "valor": "entre 30 minutos a una hora"
+  },
+  {
+    "entidad": "Tránsito esofagogastroduodenal",
+    "relacion": "tiene_riesgo",
+    "valor": "radiación puede ser perjudicial para el feto"
+  },
+  {
+    "entidad": "Tránsito esofagogastroduodenal",
+    "relacion": "tiene_riesgo",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Tránsito esofagogastroduodenal",
+    "relacion": "realizado_por",
+    "valor": "radiólogo"
+  },
+  {
+    "entidad": "Tránsito esofagogastroduodenal",
+    "relacion": "pertenece_a_categoria",
+    "valor": "examen de diagnóstico por imagen"
+  },
+  {
+    "entidad": "Tránsito esofagogastroduodenal",
+    "relacion": "utiliza_equipo",
+    "valor": "fluoroscopia"
+  },
+  {
+    "entidad": "Tránsito esofagogastroduodenal",
+    "relacion": "util_para",
+    "valor": "comprobar funcionamiento del tracto gastrointestinal superior"
+  },
+  {
+    "entidad": "Tomografía por emisión de positrones",
+    "relacion": "analiza",
+    "valor": "funcionamiento de tejidos y órganos"
+  },
+  {
+    "entidad": "Tomografía por emisión de positrones",
+    "relacion": "detecta",
+    "valor": "signos de cáncer"
+  },
+  {
+    "entidad": "Tomografía por emisión de positrones",
+    "relacion": "mide",
+    "valor": "flujo sanguíneo"
+  },
+  {
+    "entidad": "Tomografía por emisión de positrones",
+    "relacion": "mide",
+    "valor": "uso de oxígeno"
+  },
+  {
+    "entidad": "Tomografía por emisión de positrones",
+    "relacion": "mide",
+    "valor": "cambios en el metabolismo"
+  },
+  {
+    "entidad": "Tomografía por emisión de positrones",
+    "relacion": "diagnostica",
+    "valor": "cáncer"
+  },
+  {
+    "entidad": "Tomografía por emisión de positrones",
+    "relacion": "diagnostica",
+    "valor": "enfermedades del corazón"
+  },
+  {
+    "entidad": "Tomografía por emisión de positrones",
+    "relacion": "diagnostica",
+    "valor": "trastornos cerebrales"
+  },
+  {
+    "entidad": "Tomografía por emisión de positrones",
+    "relacion": "indicado_si_tiene",
+    "valor": "cáncer"
+  },
+  {
+    "entidad": "Tomografía por emisión de positrones",
+    "relacion": "indicado_si_tiene",
+    "valor": "enfermedades del corazón"
+  },
+  {
+    "entidad": "Tomografía por emisión de positrones",
+    "relacion": "indicado_si_tiene",
+    "valor": "síntomas de enfermedad cerebral"
+  },
+  {
+    "entidad": "Tomografía por emisión de positrones",
+    "relacion": "tiene_duracion",
+    "valor": "dos horas"
+  },
+  {
+    "entidad": "Tomografía por emisión de positrones",
+    "relacion": "se_realiza_en",
+    "valor": "hospital"
+  },
+  {
+    "entidad": "Tomografía por emisión de positrones",
+    "relacion": "realizado_por",
+    "valor": "profesional de la salud"
+  },
+  {
+    "entidad": "Tomografía por emisión de positrones",
+    "relacion": "tiene_riesgo",
+    "valor": "exposición a radiación"
+  },
+  {
+    "entidad": "Tomografía por emisión de positrones",
+    "relacion": "tiene_riesgo",
+    "valor": "reacciones alérgicas al marcador"
+  },
+  {
+    "entidad": "Tinción de Gram",
+    "relacion": "requiere_muestra_de",
+    "valor": "muestra del lugar de una posible infección"
+  },
+  {
+    "entidad": "Tinción de Gram",
+    "relacion": "requiere_muestra_de",
+    "valor": "sangre"
+  },
+  {
+    "entidad": "Tinción de Gram",
+    "relacion": "requiere_muestra_de",
+    "valor": "orina"
+  },
+  {
+    "entidad": "Tinción de Gram",
+    "relacion": "requiere_muestra_de",
+    "valor": "secreción de una herida"
+  },
+  {
+    "entidad": "Tinción de Gram",
+    "relacion": "requiere_muestra_de",
+    "valor": "cultivo de garganta"
+  },
+  {
+    "entidad": "Tinción de Gram",
+    "relacion": "requiere_muestra_de",
+    "valor": "cultivo de esputo"
+  },
+  {
+    "entidad": "Tinción de Gram",
+    "relacion": "diagnostica",
+    "valor": "infecciones bacterianas"
+  },
+  {
+    "entidad": "Tinción de Gram",
+    "relacion": "diagnostica",
+    "valor": "infecciones por hongos"
+  },
+  {
+    "entidad": "Tinción de Gram",
+    "relacion": "alivia",
+    "valor": "síntomas de infección bacteriana"
+  },
+  {
+    "entidad": "Tinción de Gram",
+    "relacion": "indicado_si_tiene",
+    "valor": "síntomas de infección bacteriana"
+  },
+  {
+    "entidad": "Tinción de Gram",
+    "relacion": "ayuda_diagnosticar",
+    "valor": "tipo de infección"
+  },
+  {
+    "entidad": "Tinción de Gram",
+    "relacion": "es_tipo_de",
+    "valor": "prueba de laboratorio"
+  },
+  {
+    "entidad": "Tinción de Gram",
+    "relacion": "tiene_riesgo",
+    "valor": "dolor leve o moretón en análisis de sangre"
+  },
+  {
+    "entidad": "Tinción de Gram",
+    "relacion": "tiene_riesgo",
+    "valor": "sin riesgos en pruebas con hisopo, esputo y orina"
+  },
+  {
+    "entidad": "Tiroglobulina",
+    "relacion": "mide",
+    "valor": "nivel de tiroglobulina en sangre"
+  },
+  {
+    "entidad": "Tiroglobulina",
+    "relacion": "indicado_si_tiene",
+    "valor": "cáncer de tiroides"
+  },
+  {
+    "entidad": "Tiroglobulina",
+    "relacion": "indicado_si_tiene",
+    "valor": "hipertiroidismo"
+  },
+  {
+    "entidad": "Tiroglobulina",
+    "relacion": "indicado_si_tiene",
+    "valor": "hipotiroidismo"
+  },
+  {
+    "entidad": "Tiroglobulina",
+    "relacion": "util_para",
+    "valor": "ver si el tratamiento del cáncer de tiroides fue exitoso"
+  },
+  {
+    "entidad": "Tiroglobulina",
+    "relacion": "util_para",
+    "valor": "predecir comportamiento del cáncer"
+  },
+  {
+    "entidad": "Tiroglobulina",
+    "relacion": "util_para",
+    "valor": "ver si el cáncer ha vuelto"
+  },
+  {
+    "entidad": "Tiroglobulina",
+    "relacion": "requiere_muestra_de",
+    "valor": "sangre"
+  },
+  {
+    "entidad": "Tiroglobulina",
+    "relacion": "realizado_por",
+    "valor": "profesional de la salud"
+  },
+  {
+    "entidad": "Tiroglobulina",
+    "relacion": "tiene_duracion",
+    "valor": "menos de cinco minutos"
+  },
+  {
+    "entidad": "Tiroglobulina",
+    "relacion": "tiene_riesgo",
+    "valor": "dolor leve en el lugar de la punción"
+  },
+  {
+    "entidad": "Tiroglobulina",
+    "relacion": "tiene_riesgo",
+    "valor": "formación de moretón"
+  }
+]

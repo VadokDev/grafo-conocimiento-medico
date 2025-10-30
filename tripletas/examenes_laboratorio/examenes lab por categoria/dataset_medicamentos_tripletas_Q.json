@@ -1,0 +1,57 @@
+[
+  {
+    "entidad": "Quimotripsina en heces",
+    "relacion": "mide",
+    "valor": "cantidad de quimotripsina en una muestra de heces"
+  },
+  {
+    "entidad": "Quimotripsina en heces",
+    "relacion": "detecta",
+    "valor": "insuficiencia pancreática"
+  },
+  {
+    "entidad": "Quimotripsina en heces",
+    "relacion": "indicado_si_tiene",
+    "valor": "insuficiencia pancreática"
+  },
+  {
+    "entidad": "Quimotripsina en heces",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "diarrea crónica"
+  },
+  {
+    "entidad": "Quimotripsina en heces",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "dolor abdominal"
+  },
+  {
+    "entidad": "Quimotripsina en heces",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "hinchazón y gases"
+  },
+  {
+    "entidad": "Quimotripsina en heces",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "heces blandas, malolientes y grasosas"
+  },
+  {
+    "entidad": "Quimotripsina en heces",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "pérdida de peso"
+  },
+  {
+    "entidad": "Quimotripsina en heces",
+    "relacion": "requiere_muestra_de",
+    "valor": "muestra de heces"
+  },
+  {
+    "entidad": "Quimotripsina en heces",
+    "relacion": "tiene_riesgo",
+    "valor": "ninguno conocido"
+  },
+  {
+    "entidad": "Quimotripsina en heces",
+    "relacion": "realizado_por",
+    "valor": "profesional de la salud"
+  }
+]

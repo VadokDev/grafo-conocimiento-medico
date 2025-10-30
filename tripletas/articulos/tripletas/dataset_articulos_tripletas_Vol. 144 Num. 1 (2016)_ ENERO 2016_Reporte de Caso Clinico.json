@@ -1,0 +1,197 @@
+[
+  {
+    "entidad": "Hipoglicemia",
+    "relacion": "es",
+    "valor": "una emergencia endocrina"
+  },
+  {
+    "entidad": "Hipoglicemia",
+    "relacion": "se define como",
+    "valor": "glicemia inferior de 55 mg/dl en pacientes sin diabetes mellitus"
+  },
+  {
+    "entidad": "Hipoglicemia",
+    "relacion": "asociada con",
+    "valor": "signos y síntomas que revierten con glucosa oral o alimentos"
+  },
+  {
+    "entidad": "Tumor fibroso solitario",
+    "relacion": "es",
+    "valor": "una neoplasia rara"
+  },
+  {
+    "entidad": "Tumor fibroso solitario",
+    "relacion": "causa",
+    "valor": "hipoglicemia paraneoplásica"
+  },
+  {
+    "entidad": "Síndrome de Doege-Potter",
+    "relacion": "es conocido como",
+    "valor": "la asociación de tumor fibroso solitario y paraneoplastic hypoglycemia"
+  },
+  {
+    "entidad": "NICTH",
+    "relacion": "es",
+    "valor": "un síndrome paraneoplásico poco frecuente"
+  },
+  {
+    "entidad": "NICTH",
+    "relacion": "se caracteriza por",
+    "valor": "tumor sólido e hipoglicemia grave en ayunas"
+  },
+  {
+    "entidad": "Tumor fibroso solitario",
+    "relacion": "tiene origen",
+    "valor": "mesenquimático"
+  },
+  {
+    "entidad": "Tumor fibroso solitario",
+    "relacion": "representa",
+    "valor": "menos de 10% de los tumores pleurales"
+  },
+  {
+    "entidad": "Tumor fibroso solitario",
+    "relacion": "es",
+    "valor": "benigno en su mayoría"
+  },
+  {
+    "entidad": "Hipoglicemia paraneoplásica",
+    "relacion": "ocurre en",
+    "valor": "menos de 5% de todos los casos de tumor fibroso solitario"
+  },
+  {
+    "entidad": "Tratamiento",
+    "relacion": "es",
+    "valor": "resección quirúrgica del tumor productor de IGF-2"
+  },
+  {
+    "entidad": "Síndrome de Doege-Potter",
+    "relacion": "es poco frecuente",
+    "valor": "con una incidencia similar para ambos géneros"
+  },
+  {
+    "entidad": "Tumor fibroso solitario",
+    "relacion": "puede mostrar",
+    "valor": "comportamiento maligno"
+  },
+  {
+    "entidad": "Diagnóstico",
+    "relacion": "es crucial para",
+    "valor": "el tratamiento correcto y seguimiento multidisciplinario"
+  },
+  {
+    "entidad": "Hipoglicemia hipoinsulinémica",
+    "relacion": "debe investigar",
+    "valor": "antecedente o presencia de patología oncológica"
+  },
+  {
+    "entidad": "Leucemia prolinfocítica T",
+    "relacion": "es un",
+    "valor": "tipo de leucemia"
+  },
+  {
+    "entidad": "Leucemia prolinfocítica T",
+    "relacion": "es",
+    "valor": "rara y agresiva"
+  },
+  {
+    "entidad": "variante de células cerebriformes",
+    "relacion": "es una",
+    "valor": "subtipo de leucemia prolinfocítica T"
+  },
+  {
+    "entidad": "T-PLL",
+    "relacion": "se presenta como",
+    "valor": "una leucemia de linfocitos T maduros"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "tiene",
+    "valor": "58 años"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "leucocitosis severa"
+  },
+  {
+    "entidad": "leucocitos",
+    "relacion": "son",
+    "valor": "cerebriformes"
+  },
+  {
+    "entidad": "diagnóstico",
+    "relacion": "se realiza por",
+    "valor": "morfología y estudio de inmunofenotipo"
+  },
+  {
+    "entidad": "quimioterapia",
+    "relacion": "fue",
+    "valor": "refractaria"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "falleció",
+    "valor": "dos meses después del diagnóstico"
+  },
+  {
+    "entidad": "LPL-T",
+    "relacion": "tiene",
+    "valor": "una incidencia de 2/1.000.000 individuos"
+  },
+  {
+    "entidad": "LPL-T",
+    "relacion": "es la",
+    "valor": "leucemia crónica T más frecuente en el mundo"
+  },
+  {
+    "entidad": "variante de células pequeñas",
+    "relacion": "representa",
+    "valor": "25% de los casos de LPL-T"
+  },
+  {
+    "entidad": "LPL-T",
+    "relacion": "se caracteriza por",
+    "valor": "hiperleucocitosis progresiva"
+  },
+  {
+    "entidad": "LPL-T",
+    "relacion": "conlleva",
+    "valor": "mal pronóstico"
+  },
+  {
+    "entidad": "sobrevida promedio",
+    "relacion": "es de",
+    "valor": "7 meses con tratamientos convencionales"
+  },
+  {
+    "entidad": "inmunofenotipo",
+    "relacion": "se caracteriza por",
+    "valor": "expresar marcadores de células T maduras"
+  },
+  {
+    "entidad": "quimioterapia CHOP",
+    "relacion": "logra",
+    "valor": "desaparición transitoria de lesiones"
+  },
+  {
+    "entidad": "quimioterapia ESHAP",
+    "relacion": "no tuvo",
+    "valor": "respuesta clínica"
+  },
+  {
+    "entidad": "alemtuzumab",
+    "relacion": "es un",
+    "valor": "anticuerpo monoclonal anti CD52"
+  },
+  {
+    "entidad": "trasplante de progenitores hematopoyéticos",
+    "relacion": "se ha reportado en",
+    "valor": "casos de remisión"
+  },
+  {
+    "entidad": "LPL-T",
+    "relacion": "no tiene",
+    "valor": "tratamiento efectivo actualmente"
+  }
+]

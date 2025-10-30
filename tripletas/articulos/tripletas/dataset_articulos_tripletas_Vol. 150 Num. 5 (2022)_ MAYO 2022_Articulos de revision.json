@@ -1,0 +1,217 @@
+[
+  {
+    "entidad": "Cuidado de transición",
+    "relacion": "afecta a",
+    "valor": "personas con condiciones crónicas de salud"
+  },
+  {
+    "entidad": "Cuidado de transición",
+    "relacion": "incluye",
+    "valor": "coordinación y seguimiento de usuarios"
+  },
+  {
+    "entidad": "Cuidado de transición",
+    "relacion": "reduce",
+    "valor": "re-hospitalizaciones"
+  },
+  {
+    "entidad": "Cuidado de transición",
+    "relacion": "aumenta",
+    "valor": "calidad de vida"
+  },
+  {
+    "entidad": "Cuidado de transición",
+    "relacion": "mejora",
+    "valor": "satisfacción del usuario con el sistema de salud"
+  },
+  {
+    "entidad": "Cuidado de transición",
+    "relacion": "se basa en",
+    "valor": "modelos de atención integrados"
+  },
+  {
+    "entidad": "Modelo de Cuidado de Transición (TCM)",
+    "relacion": "desarrollado por",
+    "valor": "Naylor"
+  },
+  {
+    "entidad": "Modelo de Cuidado de Transición (TCM)",
+    "relacion": "gestiona",
+    "valor": "atención de adultos mayores con condiciones crónicas"
+  },
+  {
+    "entidad": "enfermera de cuidado de transición (TCN)",
+    "relacion": "cautela",
+    "valor": "continuidad del cuidado"
+  },
+  {
+    "entidad": "Intervenciones de Cuidado de Transición (CTI)",
+    "relacion": "desarrollado por",
+    "valor": "Coleman"
+  },
+  {
+    "entidad": "Intervenciones de Cuidado de Transición (CTI)",
+    "relacion": "establece",
+    "valor": "compromiso del usuario en el automanejo"
+  },
+  {
+    "entidad": "Better Outcomes for Older Adults through Safe Transitions (BOOST)",
+    "relacion": "desarrollado por",
+    "valor": "Sociedad de Médicos Hospitalistas de EE. UU."
+  },
+  {
+    "entidad": "INTERACT",
+    "relacion": "implementado en",
+    "valor": "hogares de adultos mayores"
+  },
+  {
+    "entidad": "National Transitions of Care Coalition (NTOCC)",
+    "relacion": "identifica",
+    "valor": "elementos esenciales para un CT"
+  },
+  {
+    "entidad": "planificación de la transición",
+    "relacion": "es un",
+    "valor": "elemento esencial del CT"
+  },
+  {
+    "entidad": "gestión de medicamentos",
+    "relacion": "es un",
+    "valor": "elemento esencial del CT"
+  },
+  {
+    "entidad": "educación",
+    "relacion": "es un",
+    "valor": "elemento esencial del CT"
+  },
+  {
+    "entidad": "seguimiento",
+    "relacion": "es un",
+    "valor": "elemento esencial del CT"
+  },
+  {
+    "entidad": "falta de participación en el cuidado",
+    "relacion": "impacta negativamente en",
+    "valor": "personas con condiciones crónicas"
+  },
+  {
+    "entidad": "mala comunicación",
+    "relacion": "impacta negativamente en",
+    "valor": "personas con condiciones crónicas"
+  },
+  {
+    "entidad": "falta de coordinación del equipo de salud",
+    "relacion": "impacta negativamente en",
+    "valor": "personas con condiciones crónicas"
+  },
+  {
+    "entidad": "escaso seguimiento y monitoreo",
+    "relacion": "impacta negativamente en",
+    "valor": "personas con condiciones crónicas"
+  },
+  {
+    "entidad": "falta de continuidad de la atención",
+    "relacion": "impacta negativamente en",
+    "valor": "personas con condiciones crónicas"
+  },
+  {
+    "entidad": "presencia de vacíos en la prestación de servicios",
+    "relacion": "impacta negativamente en",
+    "valor": "personas con condiciones crónicas"
+  },
+  {
+    "entidad": "visita domiciliaria",
+    "relacion": "es la intervención más impactante en",
+    "valor": "reducción de rehospitalizaciones"
+  },
+  {
+    "entidad": "intervenciones del CT",
+    "relacion": "mejoran",
+    "valor": "calidad de vida"
+  },
+  {
+    "entidad": "enfermera de cuidados de transición",
+    "relacion": "garantiza",
+    "valor": "integralidad y continuidad del cuidado"
+  },
+  {
+    "entidad": "cáncer colorrectal",
+    "relacion": "ocupa",
+    "valor": "tercer lugar en incidencia en Chile"
+  },
+  {
+    "entidad": "metástasis hepáticas",
+    "relacion": "afecta a",
+    "valor": "50% de los pacientes con cáncer colorrectal al diagnóstico"
+  },
+  {
+    "entidad": "trasplante hepático",
+    "relacion": "es una alternativa para",
+    "valor": "tratar metástasis hepáticas irresecables de cáncer colorrectal"
+  },
+  {
+    "entidad": "técnicas de resección",
+    "relacion": "tienen",
+    "valor": "baja supervivencia a largo plazo"
+  },
+  {
+    "entidad": "inmunosupresión",
+    "relacion": "no aumenta",
+    "valor": "recurrencia en pacientes trasplantados"
+  },
+  {
+    "entidad": "biología tumoral",
+    "relacion": "mejora",
+    "valor": "supervivencia global y libre de enfermedad tras trasplante"
+  },
+  {
+    "entidad": "criterios de selección",
+    "relacion": "son necesarios para",
+    "valor": "trasplante hepático en pacientes con metástasis irresecables"
+  },
+  {
+    "entidad": "donantes vivos",
+    "relacion": "evitan",
+    "valor": "competencia con la lista de espera nacional"
+  },
+  {
+    "entidad": "quimioterapia",
+    "relacion": "puede transformar",
+    "valor": "pacientes irresecables en resecables"
+  },
+  {
+    "entidad": "tumores neuroendocrinos",
+    "relacion": "tienen",
+    "valor": "mejor supervivencia a 5 años tras trasplante"
+  },
+  {
+    "entidad": "volumen metabólico tumoral",
+    "relacion": "es un predictor de",
+    "valor": "mal pronóstico en pacientes trasplantados"
+  },
+  {
+    "entidad": "Tumor Burden Score",
+    "relacion": "evalúa",
+    "valor": "tamaño y número de lesiones metastásicas"
+  },
+  {
+    "entidad": "inmunosupresores",
+    "relacion": "tienen",
+    "valor": "efectos antiproliferativos"
+  },
+  {
+    "entidad": "trasplante hepático",
+    "relacion": "ofrece",
+    "valor": "una buena alternativa para pacientes con metástasis hepáticas irresecables"
+  },
+  {
+    "entidad": "comité asesor de alistamiento",
+    "relacion": "aprueba",
+    "valor": "trasplante hepático con donante vivo"
+  },
+  {
+    "entidad": "estudios prospectivos",
+    "relacion": "son fundamentales para",
+    "valor": "entender qué pacientes se beneficiarán del trasplante hepático"
+  }
+]

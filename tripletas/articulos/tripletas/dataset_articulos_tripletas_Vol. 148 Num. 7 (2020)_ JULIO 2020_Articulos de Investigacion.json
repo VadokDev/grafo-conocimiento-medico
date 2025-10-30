@@ -1,0 +1,787 @@
+[
+  {
+    "entidad": "azúcares totales",
+    "relacion": "asociación con",
+    "valor": "obesidad en población chilena"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "es un",
+    "valor": "factor de riesgo para enfermedades crónicas no transmisibles"
+  },
+  {
+    "entidad": "estudio GENADIO",
+    "relacion": "incluyó",
+    "valor": "396 participantes"
+  },
+  {
+    "entidad": "consumo de azúcares",
+    "relacion": "se determina a partir de",
+    "valor": "un registro de 7 días"
+  },
+  {
+    "entidad": "azúcares simples",
+    "relacion": "provocan",
+    "valor": "aumentos agudos de glicemia e insulinemia"
+  },
+  {
+    "entidad": "Food and Drug Administration (FDA)",
+    "relacion": "recomienda",
+    "valor": "50 g/día de azúcares totales"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "tiene un consumo promedio de",
+    "valor": "158,6 g/día de azúcares totales"
+  },
+  {
+    "entidad": "políticas públicas",
+    "relacion": "implementadas para",
+    "valor": "disminuir el consumo de azúcares"
+  },
+  {
+    "entidad": "Ley 20.606",
+    "relacion": "establece",
+    "valor": "etiquetado de alimentos con alto contenido de azúcares"
+  },
+  {
+    "entidad": "impuesto a bebidas azucaradas",
+    "relacion": "aumentó de",
+    "valor": "13% a 18%"
+  },
+  {
+    "entidad": "consumo de bebidas azucaradas",
+    "relacion": "se ha reducido en",
+    "valor": "21% en Chile"
+  },
+  {
+    "entidad": "consumo de azúcares totales",
+    "relacion": "asociado con",
+    "valor": "mayor nivel de peso corporal y adiposidad"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "evidencia",
+    "valor": "asociación entre azúcares y marcadores de obesidad"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud (OMS)",
+    "relacion": "recomienda",
+    "valor": "reducir el consumo de azúcares libres"
+  },
+  {
+    "entidad": "población chilena",
+    "relacion": "supera",
+    "valor": "50% en consumo de azúcares libres"
+  },
+  {
+    "entidad": "intervenciones",
+    "relacion": "podrían provocar",
+    "valor": "disminución en el consumo de azúcares simples"
+  },
+  {
+    "entidad": "depresión",
+    "relacion": "asocia a",
+    "valor": "deterioro cognitivo"
+  },
+  {
+    "entidad": "adultos mayores",
+    "relacion": "presentan",
+    "valor": "sospecha de deterioro cognitivo"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "investiga",
+    "valor": "asociación entre depresión y deterioro cognitivo"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud 2009-2010",
+    "relacion": "proporciona",
+    "valor": "datos sobre adultos mayores"
+  },
+  {
+    "entidad": "Mini Mental State Examination",
+    "relacion": "evalúa",
+    "valor": "funcionamiento cognitivo"
+  },
+  {
+    "entidad": "diagnóstico médico de depresión",
+    "relacion": "es",
+    "valor": "auto-reporte"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "tienen mayor asociación",
+    "valor": "con deterioro cognitivo"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen mayor prevalencia",
+    "valor": "de depresión"
+  },
+  {
+    "entidad": "edad de diagnóstico de depresión",
+    "relacion": "afecta",
+    "valor": "sospecha de deterioro cognitivo"
+  },
+  {
+    "entidad": "estilo de vida",
+    "relacion": "influye en",
+    "valor": "salud mental"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "se asocia con",
+    "valor": "sospecha de depresión"
+  },
+  {
+    "entidad": "inactividad física",
+    "relacion": "aumenta en",
+    "valor": "personas con sospecha de deterioro cognitivo"
+  },
+  {
+    "entidad": "sueño",
+    "relacion": "afecta",
+    "valor": "funcionamiento cognitivo"
+  },
+  {
+    "entidad": "depresión",
+    "relacion": "puede ser",
+    "valor": "precursor de deterioro cognitivo"
+  },
+  {
+    "entidad": "adultos mayores",
+    "relacion": "son vulnerables a",
+    "valor": "trastornos del ánimo"
+  },
+  {
+    "entidad": "diagnóstico y manejo oportuno",
+    "relacion": "son necesarios para",
+    "valor": "prevenir deterioro cognitivo"
+  },
+  {
+    "entidad": "sífilis",
+    "relacion": "es producida por",
+    "valor": "Treponema Pallidum"
+  },
+  {
+    "entidad": "sífilis",
+    "relacion": "es una",
+    "valor": "Infección de Transmisión Sexual (ITS)"
+  },
+  {
+    "entidad": "sífilis",
+    "relacion": "se presenta con",
+    "valor": "variedad de cuadros clínicos"
+  },
+  {
+    "entidad": "sífilis congénita",
+    "relacion": "origina",
+    "valor": "secuelas en recién nacidos"
+  },
+  {
+    "entidad": "sífilis",
+    "relacion": "es un",
+    "valor": "problema de salud pública"
+  },
+  {
+    "entidad": "sífilis",
+    "relacion": "es de",
+    "valor": "notificación obligatoria en Chile"
+  },
+  {
+    "entidad": "programas de control y prevención",
+    "relacion": "existen para",
+    "valor": "sífilis"
+  },
+  {
+    "entidad": "co-infección con VIH",
+    "relacion": "aumenta el riesgo de",
+    "valor": "adquirir otras ITS"
+  },
+  {
+    "entidad": "Hombres jóvenes",
+    "relacion": "son afectados por",
+    "valor": "morbilidad de sífilis"
+  },
+  {
+    "entidad": "Hospital de La Serena",
+    "relacion": "es el",
+    "valor": "lugar de estudio del caso"
+  },
+  {
+    "entidad": "pacientes con sífilis",
+    "relacion": "consultan en",
+    "valor": "clínica de ITS"
+  },
+  {
+    "entidad": "adherencia al tratamiento",
+    "relacion": "es",
+    "valor": "baja"
+  },
+  {
+    "entidad": "uso de preservativo",
+    "relacion": "es",
+    "valor": "insuficiente"
+  },
+  {
+    "entidad": "sífilis gestacional",
+    "relacion": "se presenta en",
+    "valor": "mujeres embarazadas"
+  },
+  {
+    "entidad": "resultados perinatales",
+    "relacion": "son",
+    "valor": "normales en el 70% de los casos"
+  },
+  {
+    "entidad": "prematurez",
+    "relacion": "es un",
+    "valor": "resultado perinatal desfavorable"
+  },
+  {
+    "entidad": "muerte neonatal",
+    "relacion": "ocurre en",
+    "valor": "algunos casos de sífilis gestacional"
+  },
+  {
+    "entidad": "sistema de atención",
+    "relacion": "tiene",
+    "valor": "deficiencias en la prevención de ITS"
+  },
+  {
+    "entidad": "uso de condón",
+    "relacion": "debe ser",
+    "valor": "promovido masivamente"
+  },
+  {
+    "entidad": "diagnóstico de sífilis",
+    "relacion": "es",
+    "valor": "tardío en muchos casos"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "reportan",
+    "valor": "menor uso de preservativos que hombres"
+  },
+  {
+    "entidad": "estrategias de control",
+    "relacion": "deben ser",
+    "valor": "optimizadas para la transmisión de sífilis"
+  },
+  {
+    "entidad": "síndrome de apneas obstructivas del sueño",
+    "relacion": "afecta a",
+    "valor": "población adulta chilena"
+  },
+  {
+    "entidad": "síndrome de apneas obstructivas del sueño",
+    "relacion": "asociado con",
+    "valor": "obesidad"
+  },
+  {
+    "entidad": "síndrome de apneas obstructivas del sueño",
+    "relacion": "asociado con",
+    "valor": "hipertensión"
+  },
+  {
+    "entidad": "síndrome de apneas obstructivas del sueño",
+    "relacion": "asociado con",
+    "valor": "síndrome metabólico"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud 2016/17",
+    "relacion": "realiza",
+    "valor": "evaluación de la prevalencia de SAHOS"
+  },
+  {
+    "entidad": "población adulta chilena",
+    "relacion": "reside en",
+    "valor": "Región Metropolitana"
+  },
+  {
+    "entidad": "cuestionario de sueño estandarizado",
+    "relacion": "utiliza",
+    "valor": "evaluar trastornos respiratorios del sueño"
+  },
+  {
+    "entidad": "poligrafía respiratoria",
+    "relacion": "realiza",
+    "valor": "en el hogar"
+  },
+  {
+    "entidad": "población adulta",
+    "relacion": "presenta",
+    "valor": "trastornos respiratorios del sueño"
+  },
+  {
+    "entidad": "trastornos respiratorios del sueño",
+    "relacion": "aumenta con",
+    "valor": "edad"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "presenta aumento significativo en",
+    "valor": "prevalencia de SAHOS después de la menopausia"
+  },
+  {
+    "entidad": "factores de riesgo",
+    "relacion": "incluyen",
+    "valor": "edad, género, IMC, circunferencia cervical y de cintura"
+  },
+  {
+    "entidad": "cuestionarios STOP y STOP-Bang",
+    "relacion": "asociados con",
+    "valor": "riesgo de SAHOS"
+  },
+  {
+    "entidad": "síndrome de apneas obstructivas del sueño",
+    "relacion": "mejora con",
+    "valor": "diagnóstico y tratamiento oportuno"
+  },
+  {
+    "entidad": "síndrome de apneas obstructivas del sueño",
+    "relacion": "causa",
+    "valor": "deterioro en la calidad de vida"
+  },
+  {
+    "entidad": "síndrome de apneas obstructivas del sueño",
+    "relacion": "aumenta el riesgo de",
+    "valor": "enfermedades cardiovasculares"
+  },
+  {
+    "entidad": "adolescencia",
+    "relacion": "es un",
+    "valor": "período nutricionalmente vulnerable"
+  },
+  {
+    "entidad": "hábitos alimentarios",
+    "relacion": "afectan",
+    "valor": "consumo de alimentos no nutritivos"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "es causada por",
+    "valor": "desequilibrio entre ingesta alimentaria y actividad física"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud (OMS)",
+    "relacion": "reporta",
+    "valor": "340 millones de niños y adolescentes con sobrepeso u obesidad"
+  },
+  {
+    "entidad": "aumento de adiposidad",
+    "relacion": "se relaciona con",
+    "valor": "factores de riesgo cardiometabólicos"
+  },
+  {
+    "entidad": "Asociación Americana del Corazón (AHA)",
+    "relacion": "aconseja",
+    "valor": "dieta a base de frutas y verduras"
+  },
+  {
+    "entidad": "Guías Alimentarias de Chile",
+    "relacion": "recomiendan",
+    "valor": "ingesta de lácteos, frutas y verduras"
+  },
+  {
+    "entidad": "Encuesta Mundial de Salud Escolar",
+    "relacion": "indica",
+    "valor": "baja adherencia a recomendaciones dietéticas"
+  },
+  {
+    "entidad": "calidad de vida relacionada con la salud (CVRS)",
+    "relacion": "se refiere a",
+    "valor": "percepción individual de salud y bienestar"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "asocia negativamente con",
+    "valor": "CVRS en niños y adolescentes"
+  },
+  {
+    "entidad": "consumo inadecuado de frutas",
+    "relacion": "se asocia con",
+    "valor": "peor percepción de bienestar físico"
+  },
+  {
+    "entidad": "consumo inadecuado de desayuno",
+    "relacion": "se asocia con",
+    "valor": "peor percepción de bienestar psicológico"
+  },
+  {
+    "entidad": "peso corporal",
+    "relacion": "se relaciona con",
+    "valor": "peor percepción de bienestar físico"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "financiado por",
+    "valor": "Convenio de Desempeño uPA 1301"
+  },
+  {
+    "entidad": "Universidad de Playa Ancha",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "CEMERA",
+    "relacion": "es un",
+    "valor": "centro de medicina reproductiva"
+  },
+  {
+    "entidad": "Instituto de Investigación sobre Calidad de Vida",
+    "relacion": "es un",
+    "valor": "instituto de investigación"
+  },
+  {
+    "entidad": "adolescentes chilenos",
+    "relacion": "presentan",
+    "valor": "baja adherencia a directrices dietéticas"
+  },
+  {
+    "entidad": "comida rápida",
+    "relacion": "se asocia con",
+    "valor": "peor percepción de CVRS"
+  },
+  {
+    "entidad": "conflicto familiar",
+    "relacion": "se asocia con",
+    "valor": "dieta no saludable"
+  },
+  {
+    "entidad": "estudio transversal",
+    "relacion": "no permite inferir",
+    "valor": "causalidad entre variables"
+  },
+  {
+    "entidad": "Síndrome de Stevens-Johnson",
+    "relacion": "es un",
+    "valor": "enfermedad mucocutánea"
+  },
+  {
+    "entidad": "Necrólisis epidérmica tóxica",
+    "relacion": "es un",
+    "valor": "enfermedad mucocutánea"
+  },
+  {
+    "entidad": "Síndrome de Stevens-Johnson",
+    "relacion": "ocurre como",
+    "valor": "reacción adversa a medicamentos"
+  },
+  {
+    "entidad": "Necrólisis epidérmica tóxica",
+    "relacion": "ocurre como",
+    "valor": "reacción adversa a medicamentos"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "tiene",
+    "valor": "diversas regiones"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "proporciona",
+    "valor": "bases de datos de egresos hospitalarios"
+  },
+  {
+    "entidad": "CIE-10",
+    "relacion": "es un",
+    "valor": "sistema de clasificación de enfermedades"
+  },
+  {
+    "entidad": "latitud",
+    "relacion": "afecta a",
+    "valor": "incidencia de SSJ y NET"
+  },
+  {
+    "entidad": "vitamina D",
+    "relacion": "correlaciona con",
+    "valor": "latitud y exposición a radiación UV"
+  },
+  {
+    "entidad": "SSJ",
+    "relacion": "tiene",
+    "valor": "mortalidad estimada de 10%"
+  },
+  {
+    "entidad": "NET",
+    "relacion": "tiene",
+    "valor": "mortalidad estimada de 30-40%"
+  },
+  {
+    "entidad": "SSJ",
+    "relacion": "requiere",
+    "valor": "atención médica inmediata"
+  },
+  {
+    "entidad": "NET",
+    "relacion": "requiere",
+    "valor": "atención médica inmediata"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "realiza",
+    "valor": "registro de diagnósticos de egreso"
+  },
+  {
+    "entidad": "SSJ",
+    "relacion": "presenta",
+    "valor": "menor desprendimiento epidérmico que NET"
+  },
+  {
+    "entidad": "NET",
+    "relacion": "presenta",
+    "valor": "mayor desprendimiento epidérmico que SSJ"
+  },
+  {
+    "entidad": "estudios observacionales",
+    "relacion": "han identificado",
+    "valor": "medicamentos de alto riesgo para SSJ y NET"
+  },
+  {
+    "entidad": "déficit de vitamina D",
+    "relacion": "es un",
+    "valor": "factor de riesgo en enfermedades inmunomediadas"
+  },
+  {
+    "entidad": "SSJ y NET",
+    "relacion": "son",
+    "valor": "urgencias dermatológicas con alta mortalidad"
+  },
+  {
+    "entidad": "egresos hospitalarios",
+    "relacion": "son un",
+    "valor": "indicador de incidencia"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "se extiende entre",
+    "valor": "17º y 56º de latitud"
+  },
+  {
+    "entidad": "Región de Magallanes",
+    "relacion": "tiene",
+    "valor": "la mayor incidencia de SSJ"
+  },
+  {
+    "entidad": "Región de Atacama",
+    "relacion": "tiene",
+    "valor": "la menor incidencia de SSJ"
+  },
+  {
+    "entidad": "Región de Los Lagos",
+    "relacion": "tiene",
+    "valor": "la mayor incidencia de NET"
+  },
+  {
+    "entidad": "Región de Magallanes",
+    "relacion": "tiene",
+    "valor": "la menor incidencia de NET"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "es un",
+    "valor": "factor de riesgo para la salud"
+  },
+  {
+    "entidad": "adulto mayor",
+    "relacion": "es definido como",
+    "valor": "individuo de 60 años o más"
+  },
+  {
+    "entidad": "población chilena",
+    "relacion": "presenta",
+    "valor": "alta prevalencia de tabaquismo"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "afecta a",
+    "valor": "envejecimiento saludable"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "causa",
+    "valor": "morbimortalidad"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "repercute sobre",
+    "valor": "calidad de vida"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "genera",
+    "valor": "costo económico para el sistema de salud"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "lidera",
+    "valor": "consumo de tabaco en Latinoamérica"
+  },
+  {
+    "entidad": "fumadores actuales",
+    "relacion": "reportan",
+    "valor": "intención de dejar de fumar"
+  },
+  {
+    "entidad": "fumadores actuales",
+    "relacion": "presentan",
+    "valor": "alta dependencia a la nicotina"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud 2009-10",
+    "relacion": "utiliza",
+    "valor": "para caracterizar tabaquismo en adultos mayores"
+  },
+  {
+    "entidad": "Dra. Claudia Bambs",
+    "relacion": "recibe financiamiento de",
+    "valor": "Centro Avanzado de Enfermedades Crónicas"
+  },
+  {
+    "entidad": "Sistema público FONASA",
+    "relacion": "es un tipo de",
+    "valor": "previsión de salud"
+  },
+  {
+    "entidad": "ISAPRE",
+    "relacion": "es un tipo de",
+    "valor": "previsión de salud"
+  },
+  {
+    "entidad": "nivel educacional",
+    "relacion": "se clasifica en",
+    "valor": "bajo, medio y alto"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "es responsable de",
+    "valor": "18,5% de las muertes anuales en Chile"
+  },
+  {
+    "entidad": "fumadores",
+    "relacion": "reportan",
+    "valor": "mayor consumo diario en estratos sociales bajos"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "requiere",
+    "valor": "medidas de prevención"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "afecta a",
+    "valor": "la salud de los adultos mayores"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "se relaciona con",
+    "valor": "comorbilidades en adultos mayores"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "es un problema de",
+    "valor": "salud pública en Chile"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "definen",
+    "valor": "buen médico"
+  },
+  {
+    "entidad": "médicos",
+    "relacion": "definen",
+    "valor": "buen paciente"
+  },
+  {
+    "entidad": "médico ideal",
+    "relacion": "tiene",
+    "valor": "cualidades personales, habilidades técnicas y buenas intenciones"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "priorizan",
+    "valor": "cualidades personales sobre habilidades técnicas"
+  },
+  {
+    "entidad": "médicos",
+    "relacion": "prefieren",
+    "valor": "pacientes con características de personalidad positivas"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "deben",
+    "valor": "confiar en el médico"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "deben",
+    "valor": "evitar conflictos decisionales"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "deben",
+    "valor": "adherir al tratamiento"
+  },
+  {
+    "entidad": "algoritmo de minería de texto",
+    "relacion": "clasifica",
+    "valor": "opiniones de pacientes y médicos"
+  },
+  {
+    "entidad": "médico",
+    "relacion": "debe ser",
+    "valor": "sensible a las emociones"
+  },
+  {
+    "entidad": "médico",
+    "relacion": "debe ser",
+    "valor": "científicamente competente"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "debe ser",
+    "valor": "obediente a las indicaciones del médico"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "debe tener",
+    "valor": "una actitud no conflictiva"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "debe ser",
+    "valor": "comunicativo"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "debe tener",
+    "valor": "una relación de confianza con el médico"
+  },
+  {
+    "entidad": "médico",
+    "relacion": "debe evitar",
+    "valor": "interesarse solo en el dinero"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "consideran",
+    "valor": "que las características de personalidad son importantes"
+  },
+  {
+    "entidad": "médicos",
+    "relacion": "consideran",
+    "valor": "que la obediencia es clave en un buen paciente"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "son",
+    "valor": "más críticos con médicos que no cumplen sus expectativas"
+  },
+  {
+    "entidad": "médicos",
+    "relacion": "deben manejar",
+    "valor": "sus opiniones para evitar estigmatizar a ciertos pacientes"
+  }
+]

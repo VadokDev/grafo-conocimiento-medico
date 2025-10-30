@@ -1,0 +1,342 @@
+[
+  {
+    "entidad": "Fibroxantoma Atípico",
+    "relacion": "es un",
+    "valor": "tumor mesenquimal dérmico"
+  },
+  {
+    "entidad": "Fibroxantoma Atípico",
+    "relacion": "afecta a",
+    "valor": "adultos mayores"
+  },
+  {
+    "entidad": "Fibroxantoma Atípico",
+    "relacion": "ocurre en",
+    "valor": "áreas de exposición solar"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "tiene",
+    "valor": "75 años"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "nódulo en cuero cabelludo"
+  },
+  {
+    "entidad": "biopsia incisional",
+    "relacion": "muestra",
+    "valor": "fibroxantoma atípico"
+  },
+  {
+    "entidad": "tumor",
+    "relacion": "fue",
+    "valor": "completamente excisado"
+  },
+  {
+    "entidad": "tumor",
+    "relacion": "recidivó",
+    "valor": "en dos ocasiones"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "fue tratado con",
+    "valor": "radioterapia adyuvante"
+  },
+  {
+    "entidad": "radioterapia adyuvante",
+    "relacion": "evita",
+    "valor": "nuevas recidivas"
+  },
+  {
+    "entidad": "exposición solar",
+    "relacion": "tiene un rol",
+    "valor": "preponderante en la patogenia del FXA"
+  },
+  {
+    "entidad": "Fibroxantoma Atípico",
+    "relacion": "presenta",
+    "valor": "mutación de P53 inducida por radiación UV"
+  },
+  {
+    "entidad": "histopatología del FXA",
+    "relacion": "está compuesta por",
+    "valor": "células fusadas y células fibro-histiocíticas pleomórficas"
+  },
+  {
+    "entidad": "radioterapia",
+    "relacion": "es el",
+    "valor": "principal tratamiento adyuvante para FXA"
+  },
+  {
+    "entidad": "márgenes quirúrgicos comprometidos",
+    "relacion": "se asocian a",
+    "valor": "mayor riesgo de recidiva y metástasis"
+  },
+  {
+    "entidad": "controles de seguimiento",
+    "relacion": "deben realizarse cada",
+    "valor": "3 a 6 meses en los 3 primeros años"
+  },
+  {
+    "entidad": "MitraClip",
+    "relacion": "es un",
+    "valor": "dispositivo para reparación mitral percutánea"
+  },
+  {
+    "entidad": "orejuela izquierda",
+    "relacion": "es un",
+    "valor": "estructura del corazón"
+  },
+  {
+    "entidad": "fibrilación auricular",
+    "relacion": "afecta a",
+    "valor": "pacientes con alto riesgo de eventos isquémicos"
+  },
+  {
+    "entidad": "punción transeptal",
+    "relacion": "es necesaria para",
+    "valor": "realizar implantes concomitantes"
+  },
+  {
+    "entidad": "Amplatzer Amulet",
+    "relacion": "es un",
+    "valor": "dispositivo para cierre de orejuela izquierda"
+  },
+  {
+    "entidad": "insuficiencia mitral",
+    "relacion": "se asocia a",
+    "valor": "fibrilación auricular en estados avanzados"
+  },
+  {
+    "entidad": "ecocardiografía transesofágica",
+    "relacion": "se utiliza para",
+    "valor": "guiar procedimientos percutáneos"
+  },
+  {
+    "entidad": "paciente de 65 años",
+    "relacion": "presenta",
+    "valor": "historia de fibrilación auricular y falla cardíaca"
+  },
+  {
+    "entidad": "procedimiento combinado",
+    "relacion": "ofrece",
+    "valor": "menor riesgo de complicaciones"
+  },
+  {
+    "entidad": "alta hospitalaria",
+    "relacion": "se realiza con",
+    "valor": "aspirina y clopidogrel"
+  },
+  {
+    "entidad": "insuficiencia mitral residual",
+    "relacion": "se observa en",
+    "valor": "seguimiento post-procedimiento"
+  },
+  {
+    "entidad": "técnica de implante",
+    "relacion": "es",
+    "valor": "factible y segura en pacientes seleccionados"
+  },
+  {
+    "entidad": "selección de pacientes",
+    "relacion": "es fundamental para",
+    "valor": "resultados exitosos"
+  },
+  {
+    "entidad": "anestesia general",
+    "relacion": "se utiliza durante",
+    "valor": "el procedimiento"
+  },
+  {
+    "entidad": "hemostasia femoral",
+    "relacion": "se realiza con",
+    "valor": "cierre de Perclose Proglide"
+  },
+  {
+    "entidad": "ecocardiograma",
+    "relacion": "evidencia",
+    "valor": "dilatación del ventrículo izquierdo"
+  },
+  {
+    "entidad": "terapia anticoagulante",
+    "relacion": "es",
+    "valor": "requerida para pacientes con fibrilación auricular"
+  },
+  {
+    "entidad": "procedimiento de cierre de orejuela",
+    "relacion": "se recomienda realizar",
+    "valor": "en pacientes con contraindicación para anticoagulación"
+  },
+  {
+    "entidad": "Bartonella species",
+    "relacion": "causa",
+    "valor": "endocarditis infecciosa"
+  },
+  {
+    "entidad": "endocarditis infecciosa",
+    "relacion": "es un",
+    "valor": "problema emergente"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "pacientes masculinos",
+    "relacion": "afecta a",
+    "valor": "endocarditis infecciosa por Bartonella"
+  },
+  {
+    "entidad": "historia de consumo de alcohol",
+    "relacion": "asociado a",
+    "valor": "pacientes con endocarditis infecciosa"
+  },
+  {
+    "entidad": "pancitopenia",
+    "relacion": "es un",
+    "valor": "síntoma de endocarditis infecciosa"
+  },
+  {
+    "entidad": "hemorragias",
+    "relacion": "es un",
+    "valor": "síntoma de endocarditis infecciosa"
+  },
+  {
+    "entidad": "accidente cerebrovascular",
+    "relacion": "es un",
+    "valor": "síntoma de endocarditis infecciosa"
+  },
+  {
+    "entidad": "cultivos de sangre",
+    "relacion": "son",
+    "valor": "negativos en endocarditis infecciosa"
+  },
+  {
+    "entidad": "IgG por inmunofluorescencia indirecta",
+    "relacion": "detecta",
+    "valor": "B. henselae/B. quintana"
+  },
+  {
+    "entidad": "B. quintana",
+    "relacion": "es un",
+    "valor": "agente etiológico confirmado"
+  },
+  {
+    "entidad": "reemplazo valvular aórtico",
+    "relacion": "es un",
+    "valor": "tratamiento para un paciente"
+  },
+  {
+    "entidad": "técnicas de PCR",
+    "relacion": "ayudan a",
+    "valor": "elucidar el agente causante"
+  },
+  {
+    "entidad": "Bartonella-associated IE",
+    "relacion": "es un",
+    "valor": "problema emergente en Chile"
+  },
+  {
+    "entidad": "IFA",
+    "relacion": "no discrimina entre",
+    "valor": "B. henselae y B. quintana"
+  },
+  {
+    "entidad": "títulos altos de IgG",
+    "relacion": "sugieren",
+    "valor": "endocarditis infecciosa"
+  },
+  {
+    "entidad": "Bartonella species",
+    "relacion": "son",
+    "valor": "patógenos emergentes"
+  },
+  {
+    "entidad": "pacientes con cultivos negativos",
+    "relacion": "deben ser",
+    "valor": "sospechados de endocarditis infecciosa"
+  },
+  {
+    "entidad": "Síndrome de Parsonage-Turner",
+    "relacion": "es un",
+    "valor": "trastorno inflamatorio del plexo braquial"
+  },
+  {
+    "entidad": "cirugía de revascularización miocárdica",
+    "relacion": "puede causar",
+    "valor": "complicaciones neurológicas"
+  },
+  {
+    "entidad": "complicaciones neurológicas",
+    "relacion": "afectan a",
+    "valor": "pacientes post-cirugía de revascularización miocárdica"
+  },
+  {
+    "entidad": "neuralgic amyotrophy",
+    "relacion": "es un tipo de",
+    "valor": "síndrome de Parsonage-Turner"
+  },
+  {
+    "entidad": "paciente de 59 años",
+    "relacion": "presenta",
+    "valor": "dolor intenso en extremidad superior izquierda"
+  },
+  {
+    "entidad": "electromiografía",
+    "relacion": "muestra",
+    "valor": "daño axonal severo del nervio radial"
+  },
+  {
+    "entidad": "neuralgic amyotrophy",
+    "relacion": "puede ser desencadenado por",
+    "valor": "trauma, cirugía, parto"
+  },
+  {
+    "entidad": "síntomas",
+    "relacion": "incluyen",
+    "valor": "dolor agudo, paresia, atrofia muscular"
+  },
+  {
+    "entidad": "diagnóstico",
+    "relacion": "es",
+    "valor": "clínico"
+  },
+  {
+    "entidad": "tratamiento",
+    "relacion": "incluye",
+    "valor": "analgesia y antiinflamatorios"
+  },
+  {
+    "entidad": "recuperación funcional",
+    "relacion": "puede ser",
+    "valor": "limitada en pacientes con neuralgic amyotrophy"
+  },
+  {
+    "entidad": "Hospital San José",
+    "relacion": "es un",
+    "valor": "centro de atención neurológica"
+  },
+  {
+    "entidad": "Clínica Indisa",
+    "relacion": "es un",
+    "valor": "centro de atención cardiológica"
+  },
+  {
+    "entidad": "Universidad de Chile",
+    "relacion": "es un",
+    "valor": "institución educativa"
+  },
+  {
+    "entidad": "Dr. Hernán Ruiz Pulido",
+    "relacion": "es",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "Dr. Gabriel Castillo Rozas",
+    "relacion": "es",
+    "valor": "autor del estudio"
+  }
+]

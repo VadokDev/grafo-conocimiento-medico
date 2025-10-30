@@ -1,0 +1,402 @@
+[
+  {
+    "entidad": "enfermedad coronaria",
+    "relacion": "asocia",
+    "valor": "depresión"
+  },
+  {
+    "entidad": "inflamación",
+    "relacion": "es un",
+    "valor": "factor patogénico común"
+  },
+  {
+    "entidad": "ejercicio",
+    "relacion": "beneficia",
+    "valor": "enfermedad coronaria y depresión"
+  },
+  {
+    "entidad": "modificaciones dietéticas",
+    "relacion": "benefician",
+    "valor": "enfermedad coronaria y depresión"
+  },
+  {
+    "entidad": "inhibidores selectivos de la recaptura de serotonina",
+    "relacion": "mejoran",
+    "valor": "función endotelial"
+  },
+  {
+    "entidad": "depresión",
+    "relacion": "aumenta",
+    "valor": "riesgo de eventos coronarios"
+  },
+  {
+    "entidad": "factores de riesgo",
+    "relacion": "comparten",
+    "valor": "trastorno depresivo y enfermedad coronaria"
+  },
+  {
+    "entidad": "cortisol",
+    "relacion": "aumenta",
+    "valor": "en personas con depresión"
+  },
+  {
+    "entidad": "microbiota intestinal",
+    "relacion": "interactúa con",
+    "valor": "sistema inmune"
+  },
+  {
+    "entidad": "estrés psicosocial",
+    "relacion": "estimula",
+    "valor": "respuesta proinflamatoria"
+  },
+  {
+    "entidad": "células inmunes del cerebro",
+    "relacion": "liberan",
+    "valor": "mediadores inflamatorios"
+  },
+  {
+    "entidad": "citokinas proinflamatorias",
+    "relacion": "interfieren con",
+    "valor": "eje hipotálamo-hipófisis"
+  },
+  {
+    "entidad": "sedentarismo",
+    "relacion": "es un",
+    "valor": "factor de riesgo"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "es un",
+    "valor": "factor de riesgo"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "es un",
+    "valor": "factor de riesgo"
+  },
+  {
+    "entidad": "diabetes",
+    "relacion": "es un",
+    "valor": "factor de riesgo"
+  },
+  {
+    "entidad": "hipertensión",
+    "relacion": "es un",
+    "valor": "factor de riesgo"
+  },
+  {
+    "entidad": "dieta mediterránea",
+    "relacion": "disminuye",
+    "valor": "niveles de mediadores inflamatorios"
+  },
+  {
+    "entidad": "sertralina",
+    "relacion": "se asocia a",
+    "valor": "menores tasas de rehospitalización"
+  },
+  {
+    "entidad": "depresión",
+    "relacion": "se relaciona con",
+    "valor": "mayor severidad de síntomas"
+  },
+  {
+    "entidad": "traumas tempranos",
+    "relacion": "aumentan",
+    "valor": "probabilidad de depresión"
+  },
+  {
+    "entidad": "glucocorticoides",
+    "relacion": "revierten",
+    "valor": "efectos de la inflamación"
+  },
+  {
+    "entidad": "actividad glutamatérgica",
+    "relacion": "afecta",
+    "valor": "funcionamiento de ganglios basales"
+  },
+  {
+    "entidad": "sickness behavior",
+    "relacion": "incluye",
+    "valor": "fatiga y letargo"
+  },
+  {
+    "entidad": "alteraciones inflamatorias",
+    "relacion": "no están presentes en",
+    "valor": "todas las personas con depresión"
+  },
+  {
+    "entidad": "sedentarismo",
+    "relacion": "aumenta el riesgo de",
+    "valor": "enfermedades no transmisibles"
+  },
+  {
+    "entidad": "inactividad física",
+    "relacion": "es un problema de",
+    "valor": "salud pública en Chile"
+  },
+  {
+    "entidad": "factores asociados al sedentarismo",
+    "relacion": "incluyen",
+    "valor": "sexo femenino"
+  },
+  {
+    "entidad": "factores asociados al sedentarismo",
+    "relacion": "incluyen",
+    "valor": "vivir en zona urbana"
+  },
+  {
+    "entidad": "factores asociados al sedentarismo",
+    "relacion": "incluyen",
+    "valor": "alto nivel de ingreso"
+  },
+  {
+    "entidad": "factores asociados al sedentarismo",
+    "relacion": "incluyen",
+    "valor": "ser ex fumadores o fumadores"
+  },
+  {
+    "entidad": "factores asociados al sedentarismo",
+    "relacion": "incluyen",
+    "valor": "obesidad"
+  },
+  {
+    "entidad": "factores asociados al sedentarismo",
+    "relacion": "incluyen",
+    "valor": "inactividad"
+  },
+  {
+    "entidad": "factores asociados al sedentarismo",
+    "relacion": "incluyen",
+    "valor": "tener DVD, PC o notebook en casa"
+  },
+  {
+    "entidad": "factores asociados al sedentarismo",
+    "relacion": "incluyen",
+    "valor": "auto reporte de salud y bienestar malo"
+  },
+  {
+    "entidad": "factores asociados al sedentarismo",
+    "relacion": "incluyen",
+    "valor": "diabetes mellitus 2"
+  },
+  {
+    "entidad": "factores asociados al sedentarismo",
+    "relacion": "incluyen",
+    "valor": "síndrome metabólico"
+  },
+  {
+    "entidad": "inactividad física",
+    "relacion": "asociada con",
+    "valor": "sexo femenino"
+  },
+  {
+    "entidad": "inactividad física",
+    "relacion": "asociada con",
+    "valor": "edad mayor o igual a 65 años"
+  },
+  {
+    "entidad": "inactividad física",
+    "relacion": "asociada con",
+    "valor": "obesidad"
+  },
+  {
+    "entidad": "inactividad física",
+    "relacion": "asociada con",
+    "valor": "auto reporte de salud regular o mala"
+  },
+  {
+    "entidad": "inactividad física",
+    "relacion": "asociada con",
+    "valor": "diabetes mellitus 2"
+  },
+  {
+    "entidad": "inactividad física",
+    "relacion": "asociada con",
+    "valor": "hipertensión arterial"
+  },
+  {
+    "entidad": "inactividad física",
+    "relacion": "asociada con",
+    "valor": "síndrome metabólico"
+  },
+  {
+    "entidad": "inactividad física",
+    "relacion": "asociada con",
+    "valor": "niveles de sedentarismo medio y alto"
+  },
+  {
+    "entidad": "estudiantes universitarios",
+    "relacion": "asociados con",
+    "valor": "bajo nivel de actividad física"
+  },
+  {
+    "entidad": "sedentarismo",
+    "relacion": "asociado con",
+    "valor": "enfermedades crónicas no transmisibles"
+  },
+  {
+    "entidad": "sedentarismo",
+    "relacion": "asociado con",
+    "valor": "mortalidad"
+  },
+  {
+    "entidad": "actividad física regular",
+    "relacion": "favorece",
+    "valor": "reducción de factores de riesgo generales"
+  },
+  {
+    "entidad": "sedentarismo",
+    "relacion": "asociado con",
+    "valor": "mayor riesgo de enfermedades cardiovasculares"
+  },
+  {
+    "entidad": "población chilena",
+    "relacion": "muestra",
+    "valor": "prevalencia de inactividad física"
+  },
+  {
+    "entidad": "prevalencia de inactividad física",
+    "relacion": "es",
+    "valor": "más baja que la estimada en todo el mundo"
+  },
+  {
+    "entidad": "sedentarismo",
+    "relacion": "asociado con",
+    "valor": "educación y nivel de ingresos"
+  },
+  {
+    "entidad": "Enfermedad de Alzheimer",
+    "relacion": "es un",
+    "valor": "trastorno neurodegenerativo"
+  },
+  {
+    "entidad": "Enfermedad de Alzheimer",
+    "relacion": "afecta a",
+    "valor": "10% de las personas mayores a 65 años"
+  },
+  {
+    "entidad": "Enfermedad de Alzheimer",
+    "relacion": "causa",
+    "valor": "pérdida de memoria"
+  },
+  {
+    "entidad": "pérdida de memoria",
+    "relacion": "es consecuencia de",
+    "valor": "pérdida neuronal y disfunción sináptica"
+  },
+  {
+    "entidad": "proteínas mal plegadas",
+    "relacion": "causa",
+    "valor": "estrés celular"
+  },
+  {
+    "entidad": "estrés celular",
+    "relacion": "afecta a",
+    "valor": "homeostasis proteica"
+  },
+  {
+    "entidad": "retículo endoplasmático",
+    "relacion": "es un",
+    "valor": "compartimento clave en el plegamiento de proteínas"
+  },
+  {
+    "entidad": "respuesta a proteínas mal plegadas (UPR)",
+    "relacion": "tiene como objetivo",
+    "valor": "restablecer la homeostasis del retículo endoplasmático"
+  },
+  {
+    "entidad": "UPR",
+    "relacion": "se activa por",
+    "valor": "estrés de retículo endoplasmático"
+  },
+  {
+    "entidad": "XBP1",
+    "relacion": "regula",
+    "valor": "genes relacionados con la UPR"
+  },
+  {
+    "entidad": "XBP1",
+    "relacion": "promueve",
+    "valor": "regeneración axonal"
+  },
+  {
+    "entidad": "chaperonas químicas",
+    "relacion": "son",
+    "valor": "potenciales tratamientos para el estrés de retículo"
+  },
+  {
+    "entidad": "ácido 4-fenilbutírico",
+    "relacion": "mejora",
+    "valor": "disminución cognitiva en ratones"
+  },
+  {
+    "entidad": "trehalosa",
+    "relacion": "protege contra",
+    "valor": "deterioro cognitivo en modelos de EA"
+  },
+  {
+    "entidad": "terapia génica",
+    "relacion": "es una",
+    "valor": "estrategia para corregir eventos patológicos"
+  },
+  {
+    "entidad": "virus adeno-asociados (AAVs)",
+    "relacion": "se utilizan para",
+    "valor": "terapia génica en desórdenes neurológicos"
+  },
+  {
+    "entidad": "estrategias terapéuticas",
+    "relacion": "buscan",
+    "valor": "reducir el estrés de retículo"
+  },
+  {
+    "entidad": "proteostasis",
+    "relacion": "tiene un rol en",
+    "valor": "patogénesis de la enfermedad de Alzheimer"
+  },
+  {
+    "entidad": "estrés de retículo endoplasmático",
+    "relacion": "es un factor",
+    "valor": "patológico en la EA"
+  },
+  {
+    "entidad": "IRE1",
+    "relacion": "correlaciona con",
+    "valor": "estadios Braak en cerebros de pacientes con EA"
+  },
+  {
+    "entidad": "XBP1",
+    "relacion": "es un",
+    "valor": "factor neuroprotector"
+  },
+  {
+    "entidad": "XBP1",
+    "relacion": "controla",
+    "valor": "expresión de genes relacionados con la EA"
+  },
+  {
+    "entidad": "XBP1s",
+    "relacion": "protege contra",
+    "valor": "neurotoxicidad del péptido beta amiloide"
+  },
+  {
+    "entidad": "XBP1s",
+    "relacion": "aumenta",
+    "valor": "rendimiento en paradigmas de memoria y aprendizaje"
+  },
+  {
+    "entidad": "XBP1s",
+    "relacion": "activa",
+    "valor": "kalirina-7, importante en formación de sinapsis"
+  },
+  {
+    "entidad": "estrategias terapéuticas",
+    "relacion": "se dirigen a",
+    "valor": "aumentar la capacidad proteostática"
+  },
+  {
+    "entidad": "estrategias terapéuticas",
+    "relacion": "buscan",
+    "valor": "disminuir características de la patología"
+  }
+]

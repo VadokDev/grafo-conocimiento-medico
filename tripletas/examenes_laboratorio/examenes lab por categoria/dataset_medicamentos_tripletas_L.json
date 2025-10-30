@@ -1,0 +1,212 @@
+[
+  {
+    "entidad": "análisis de sangre",
+    "relacion": "analiza",
+    "valor": "células, sustancias químicas, proteínas y otros componentes de la sangre"
+  },
+  {
+    "entidad": "análisis de sangre",
+    "relacion": "diagnostica",
+    "valor": "afecciones y enfermedades"
+  },
+  {
+    "entidad": "análisis de sangre",
+    "relacion": "diagnostica",
+    "valor": "trastornos hemorrágicos o de la coagulación"
+  },
+  {
+    "entidad": "análisis de sangre",
+    "relacion": "util_para",
+    "valor": "vigilar una afección o enfermedad crónica"
+  },
+  {
+    "entidad": "análisis de sangre",
+    "relacion": "util_para",
+    "valor": "evaluar el funcionamiento de diferentes órganos"
+  },
+  {
+    "entidad": "análisis de sangre",
+    "relacion": "requiere_muestra_de",
+    "valor": "sangre"
+  },
+  {
+    "entidad": "venopunción",
+    "relacion": "es_tipo_de",
+    "valor": "análisis de sangre"
+  },
+  {
+    "entidad": "análisis de sangre",
+    "relacion": "tiene_duracion",
+    "valor": "menos de cinco minutos"
+  },
+  {
+    "entidad": "análisis de sangre",
+    "relacion": "tiene_riesgo",
+    "valor": "dolor leve o moretón en el lugar de la punción"
+  },
+  {
+    "entidad": "análisis de sangre",
+    "relacion": "realizado_por",
+    "valor": "profesional de la salud"
+  },
+  {
+    "entidad": "análisis de sangre",
+    "relacion": "realizado_por",
+    "valor": "flebotomista"
+  },
+  {
+    "entidad": "análisis de sangre arterial",
+    "relacion": "mide",
+    "valor": "niveles de oxígeno"
+  },
+  {
+    "entidad": "análisis de sangre",
+    "relacion": "es_parte_de",
+    "valor": "chequeos médicos de rutina"
+  },
+  {
+    "entidad": "análisis de sangre",
+    "relacion": "sugiere_condicion",
+    "valor": "problemas en el sistema inmunitario"
+  },
+  {
+    "entidad": "Laparoscopia",
+    "relacion": "diagnostica",
+    "valor": "trastornos digestivos"
+  },
+  {
+    "entidad": "Laparoscopia",
+    "relacion": "diagnostica",
+    "valor": "trastornos urinarios"
+  },
+  {
+    "entidad": "Laparoscopia",
+    "relacion": "diagnostica",
+    "valor": "trastornos del sistema reproductor femenino"
+  },
+  {
+    "entidad": "Laparoscopia",
+    "relacion": "diagnostica",
+    "valor": "crecimientos anormales"
+  },
+  {
+    "entidad": "Laparoscopia",
+    "relacion": "diagnostica",
+    "valor": "tejido cicatricial y adherencias"
+  },
+  {
+    "entidad": "Laparoscopia",
+    "relacion": "diagnostica",
+    "valor": "sangrado"
+  },
+  {
+    "entidad": "Laparoscopia",
+    "relacion": "diagnostica",
+    "valor": "infecciones"
+  },
+  {
+    "entidad": "Laparoscopia",
+    "relacion": "indicado_si_tiene",
+    "valor": "dolor en el abdomen o pelvis"
+  },
+  {
+    "entidad": "Laparoscopia",
+    "relacion": "indicado_si_tiene",
+    "valor": "lesiones en los órganos"
+  },
+  {
+    "entidad": "Laparoscopia",
+    "relacion": "indicado_si_tiene",
+    "valor": "cáncer"
+  },
+  {
+    "entidad": "Laparoscopia",
+    "relacion": "indicado_si_tiene",
+    "valor": "resultados anormales en una prueba del hígado"
+  },
+  {
+    "entidad": "Laparoscopia",
+    "relacion": "indicado_si_tiene",
+    "valor": "problemas para embarazarse"
+  },
+  {
+    "entidad": "Laparoscopia",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "enfermedad inflamatoria pélvica"
+  },
+  {
+    "entidad": "Laparoscopia",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "endometriosis"
+  },
+  {
+    "entidad": "Laparoscopia",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "embarazo ectópico"
+  },
+  {
+    "entidad": "Laparoscopia",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "fibromas uterinos"
+  },
+  {
+    "entidad": "Laparoscopia",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "quistes en los ovarios"
+  },
+  {
+    "entidad": "Laparoscopia",
+    "relacion": "requiere_muestra_de",
+    "valor": "muestras de tejido"
+  },
+  {
+    "entidad": "Laparoscopia",
+    "relacion": "tiene_duracion",
+    "valor": "pocas horas"
+  },
+  {
+    "entidad": "Laparoscopia",
+    "relacion": "tiene_riesgo",
+    "valor": "dolor abdominal"
+  },
+  {
+    "entidad": "Laparoscopia",
+    "relacion": "tiene_riesgo",
+    "valor": "infección"
+  },
+  {
+    "entidad": "Laparoscopia",
+    "relacion": "tiene_riesgo",
+    "valor": "coágulos sanguíneos"
+  },
+  {
+    "entidad": "Laparoscopia",
+    "relacion": "tiene_riesgo",
+    "valor": "daño a un órgano"
+  },
+  {
+    "entidad": "Laparoscopia",
+    "relacion": "tiene_riesgo",
+    "valor": "problemas por anestesia"
+  },
+  {
+    "entidad": "Laparoscopia",
+    "relacion": "utiliza_equipo",
+    "valor": "laparoscopio"
+  },
+  {
+    "entidad": "Laparoscopia",
+    "relacion": "se_realiza_en",
+    "valor": "hospital o clínica ambulatoria"
+  },
+  {
+    "entidad": "Laparoscopia",
+    "relacion": "es_tipo_de",
+    "valor": "cirugía mínimamente invasiva"
+  },
+  {
+    "entidad": "Laparoscopia",
+    "relacion": "ayuda_diagnosticar",
+    "valor": "causa de síntomas en el abdomen o pelvis"
+  }
+]

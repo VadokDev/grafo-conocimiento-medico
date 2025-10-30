@@ -1,0 +1,747 @@
+[
+  {
+    "entidad": "cáncer colorrectal",
+    "relacion": "es un",
+    "valor": "enfermedad heterogénea"
+  },
+  {
+    "entidad": "microsatellite instability (MSI)",
+    "relacion": "es un",
+    "valor": "perfil molecular"
+  },
+  {
+    "entidad": "chromosomal instability (CIN)",
+    "relacion": "es un",
+    "valor": "perfil molecular"
+  },
+  {
+    "entidad": "CpG island methylator phenotype (CIMP)",
+    "relacion": "es un",
+    "valor": "perfil molecular"
+  },
+  {
+    "entidad": "subclasificación molecular",
+    "relacion": "contribuye a",
+    "valor": "entender la heterogeneidad de tumores"
+  },
+  {
+    "entidad": "pacientes chilenos",
+    "relacion": "son clasificados en",
+    "valor": "subtipos moleculares"
+  },
+  {
+    "entidad": "CMS1",
+    "relacion": "es un",
+    "valor": "subtipo molecular"
+  },
+  {
+    "entidad": "CMS2",
+    "relacion": "es un",
+    "valor": "subtipo molecular"
+  },
+  {
+    "entidad": "CMS3",
+    "relacion": "es un",
+    "valor": "subtipo molecular"
+  },
+  {
+    "entidad": "CMS4",
+    "relacion": "es un",
+    "valor": "subtipo molecular"
+  },
+  {
+    "entidad": "The Colorectal Cancer Subtyping Consortium (CRCSC)",
+    "relacion": "estableció",
+    "valor": "4 subtipos moleculares"
+  },
+  {
+    "entidad": "tumores CMS1",
+    "relacion": "tienen",
+    "valor": "alta prevalencia de mutaciones en BRAF"
+  },
+  {
+    "entidad": "tumores CMS2",
+    "relacion": "se localizan en",
+    "valor": "lado izquierdo del colon"
+  },
+  {
+    "entidad": "tumores CMS3",
+    "relacion": "presentan",
+    "valor": "mayor tasa de mutación en KRAS"
+  },
+  {
+    "entidad": "tumores CMS4",
+    "relacion": "tienen",
+    "valor": "peor pronóstico"
+  },
+  {
+    "entidad": "CIN",
+    "relacion": "se asocia a",
+    "valor": "marcador predictivo en pacientes"
+  },
+  {
+    "entidad": "MSI",
+    "relacion": "se asocia a",
+    "valor": "buen pronóstico"
+  },
+  {
+    "entidad": "CIMP",
+    "relacion": "se asocia a",
+    "valor": "mal pronóstico"
+  },
+  {
+    "entidad": "Clínica Las Condes",
+    "relacion": "realizó",
+    "valor": "estudio exploratorio"
+  },
+  {
+    "entidad": "ADN tumoral",
+    "relacion": "se extrae mediante",
+    "valor": "kit de extracción QIAmp DNA FFPE Tissue"
+  },
+  {
+    "entidad": "análisis de mutaciones",
+    "relacion": "se realiza en",
+    "valor": "genes KRAS, BRAF y PIK3CA"
+  },
+  {
+    "entidad": "inmunohistoquímica",
+    "relacion": "evalúa",
+    "valor": "expresión de proteínas del complejo MMR"
+  },
+  {
+    "entidad": "proyecto Fondecyt 1140012",
+    "relacion": "es un",
+    "valor": "fuente de apoyo financiero"
+  },
+  {
+    "entidad": "Enfermedad de Basedow Graves",
+    "relacion": "es",
+    "valor": "la principal causa de hipertiroidismo"
+  },
+  {
+    "entidad": "Hospital Clínico de la Universidad de Chile",
+    "relacion": "es",
+    "valor": "un centro universitario"
+  },
+  {
+    "entidad": "pacientes con EBG",
+    "relacion": "presentan",
+    "valor": "mayor frecuencia de oftalmopatía severa"
+  },
+  {
+    "entidad": "tratamiento con radioyodo",
+    "relacion": "asocia",
+    "valor": "incremento en el riesgo de orbitopatía"
+  },
+  {
+    "entidad": "fármacos antitiroideos",
+    "relacion": "son",
+    "valor": "una alternativa terapéutica para EBG"
+  },
+  {
+    "entidad": "tiroidectomía",
+    "relacion": "se reserva",
+    "valor": "para casos específicos"
+  },
+  {
+    "entidad": "Dra. Alejandra Lanas",
+    "relacion": "es",
+    "valor": "la autora principal del estudio"
+  },
+  {
+    "entidad": "Comité de Ética del Hospital Clínico de la Universidad de Chile",
+    "relacion": "aproba",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "cáncer diferenciado de tiroides",
+    "relacion": "se diagnostica",
+    "valor": "en 6.6% de los pacientes"
+  },
+  {
+    "entidad": "orbitopatía distiroidea",
+    "relacion": "es",
+    "valor": "una condición asociada a EBG"
+  },
+  {
+    "entidad": "metilprednisolona",
+    "relacion": "es",
+    "valor": "el tratamiento de primera línea para OD activa"
+  },
+  {
+    "entidad": "corticoesteroides",
+    "relacion": "previenen",
+    "valor": "la OD posterior al tratamiento con radioyodo"
+  },
+  {
+    "entidad": "grupo de oftalmólogos expertos",
+    "relacion": "evalúa y trata",
+    "valor": "pacientes con OD"
+  },
+  {
+    "entidad": "Hospital Clínico de la Universidad de Chile",
+    "relacion": "realiza",
+    "valor": "manejo multidisciplinario de EBG"
+  },
+  {
+    "entidad": "pacientes con EBG",
+    "relacion": "son",
+    "valor": "en su mayoría mujeres"
+  },
+  {
+    "entidad": "TSH",
+    "relacion": "es",
+    "valor": "inferior a 0.1 mIU/L en todos los pacientes con EBG"
+  },
+  {
+    "entidad": "antibodies antireceptor de TSH (TRAb)",
+    "relacion": "son positivos",
+    "valor": "en 98.5% de los pacientes con EBG"
+  },
+  {
+    "entidad": "antibodies antitiroperoxidasa (ATPO)",
+    "relacion": "son positivos",
+    "valor": "en 87.5% de los pacientes con EBG"
+  },
+  {
+    "entidad": "anestesia",
+    "relacion": "es un",
+    "valor": "campo de estudio"
+  },
+  {
+    "entidad": "seguridad del paciente",
+    "relacion": "es un",
+    "valor": "objetivo de la atención médica"
+  },
+  {
+    "entidad": "hospital universitario",
+    "relacion": "realiza",
+    "valor": "análisis de reportes de incidentes"
+  },
+  {
+    "entidad": "División de Anestesiología",
+    "relacion": "pertenece a",
+    "valor": "Hospital Clínico de la Pontificia Universidad Católica de Chile"
+  },
+  {
+    "entidad": "reportes de incidentes",
+    "relacion": "son",
+    "valor": "estrategia para mejorar la seguridad del paciente"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud (OMS)",
+    "relacion": "propone",
+    "valor": "sistema de clasificación de incidentes"
+  },
+  {
+    "entidad": "incidentes",
+    "relacion": "pueden causar",
+    "valor": "daño al paciente"
+  },
+  {
+    "entidad": "análisis de causa raíz",
+    "relacion": "se utiliza para",
+    "valor": "identificar barreras del sistema"
+  },
+  {
+    "entidad": "cultura de seguridad",
+    "relacion": "es fundamental para",
+    "valor": "prevenir eventos adversos"
+  },
+  {
+    "entidad": "errores de gestión",
+    "relacion": "son",
+    "valor": "una causa común de incidentes"
+  },
+  {
+    "entidad": "reportes de incidentes",
+    "relacion": "deben ser",
+    "valor": "mejorados en Chile"
+  },
+  {
+    "entidad": "mortalidad atribuida a la anestesia",
+    "relacion": "ha disminuido",
+    "valor": "más de 100 veces desde 1950"
+  },
+  {
+    "entidad": "eventos adversos",
+    "relacion": "son",
+    "valor": "incidentes que causan daño grave o muerte"
+  },
+  {
+    "entidad": "tasa de reporte de incidentes",
+    "relacion": "es",
+    "valor": "baja en Chile"
+  },
+  {
+    "entidad": "estrategias de prevención de riesgos",
+    "relacion": "han permitido",
+    "valor": "disminuir la mortalidad en anestesia"
+  },
+  {
+    "entidad": "notificación de incidentes",
+    "relacion": "es una",
+    "valor": "estrategia efectiva para identificar fallas"
+  },
+  {
+    "entidad": "hospitales con más incidentes comunicados",
+    "relacion": "son",
+    "valor": "más seguros"
+  },
+  {
+    "entidad": "liderazgo médico",
+    "relacion": "impulsa",
+    "valor": "la notificación de incidentes"
+  },
+  {
+    "entidad": "subreporte de eventos adversos",
+    "relacion": "es un",
+    "valor": "problema en la notificación"
+  },
+  {
+    "entidad": "Diabetes Gestacional",
+    "relacion": "asociación con",
+    "valor": "grupo ABO"
+  },
+  {
+    "entidad": "grupo ABO",
+    "relacion": "asociado con",
+    "valor": "Diabetes Mellitus tipo 2"
+  },
+  {
+    "entidad": "Diabetes Gestacional",
+    "relacion": "modelo para estudiar",
+    "valor": "Diabetes Mellitus tipo 2"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "diagnosticadas con",
+    "valor": "Diabetes Gestacional"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "asociada con",
+    "valor": "Diabetes Gestacional"
+  },
+  {
+    "entidad": "índice de masa corporal",
+    "relacion": "asociado con",
+    "valor": "Diabetes Gestacional"
+  },
+  {
+    "entidad": "grupo sanguíneo B",
+    "relacion": "protegido contra",
+    "valor": "Diabetes Gestacional"
+  },
+  {
+    "entidad": "grupo sanguíneo A",
+    "relacion": "sugerido como",
+    "valor": "factor de riesgo para Diabetes Gestacional"
+  },
+  {
+    "entidad": "grupo sanguíneo O",
+    "relacion": "sugerido como",
+    "valor": "factor de riesgo para Diabetes Gestacional"
+  },
+  {
+    "entidad": "Diabetes Gestacional",
+    "relacion": "definida como",
+    "valor": "intolerancia a la glucosa durante el embarazo"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "factor de riesgo para",
+    "valor": "Diabetes Gestacional"
+  },
+  {
+    "entidad": "índice de masa corporal",
+    "relacion": "factor de riesgo para",
+    "valor": "Diabetes Gestacional"
+  },
+  {
+    "entidad": "mujeres embarazadas",
+    "relacion": "sujetas a",
+    "valor": "tamizaje universal de Diabetes Gestacional"
+  },
+  {
+    "entidad": "grupo sanguíneo B",
+    "relacion": "asociado negativamente a",
+    "valor": "Diabetes Gestacional"
+  },
+  {
+    "entidad": "Diabetes Gestacional",
+    "relacion": "relacionada con",
+    "valor": "pronóstico adverso para madre y feto"
+  },
+  {
+    "entidad": "sedentarismo",
+    "relacion": "asocia a",
+    "valor": "incremento de factores de riesgo cardiovascular y metabólicos"
+  },
+  {
+    "entidad": "sedentarismo",
+    "relacion": "es un",
+    "valor": "factor de riesgo para enfermedades cardiovasculares y metabólicas"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "es medida por",
+    "valor": "acelerómetros"
+  },
+  {
+    "entidad": "sedentarismo",
+    "relacion": "se define como",
+    "valor": "actividades con gasto energético < 1,5 METs"
+  },
+  {
+    "entidad": "población chilena",
+    "relacion": "experimenta",
+    "valor": "cambios en estilos de vida"
+  },
+  {
+    "entidad": "población chilena",
+    "relacion": "tiene",
+    "valor": "19,8% físicamente inactiva"
+  },
+  {
+    "entidad": "población chilena",
+    "relacion": "destina",
+    "valor": "> 4 h al día a estar sentado"
+  },
+  {
+    "entidad": "sedentarismo",
+    "relacion": "afecta",
+    "valor": "salud cardiovascular"
+  },
+  {
+    "entidad": "sedentarismo",
+    "relacion": "incrementa",
+    "valor": "prevalencia de obesidad y diabetes mellitus tipo 2"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "investiga",
+    "valor": "asociación entre sedentarismo y factores de riesgo"
+  },
+  {
+    "entidad": "acelerometría",
+    "relacion": "se utiliza para medir",
+    "valor": "sedentarismo y actividad física"
+  },
+  {
+    "entidad": "HOMA-IR",
+    "relacion": "es un marcador de",
+    "valor": "resistencia a la insulina"
+  },
+  {
+    "entidad": "sedentarismo",
+    "relacion": "se correlaciona con",
+    "valor": "aumento en factores de riesgo cardiovascular"
+  },
+  {
+    "entidad": "intervenciones y políticas públicas",
+    "relacion": "deben centrarse en",
+    "valor": "reducir sedentarismo e incrementar actividad física"
+  },
+  {
+    "entidad": "Hospital Dr. Hernán Henríquez Aravena",
+    "relacion": "realiza",
+    "valor": "trombolisis endovenosa"
+  },
+  {
+    "entidad": "trombolisis endovenosa",
+    "relacion": "es",
+    "valor": "tratamiento farmacológico de referencia en ACVi"
+  },
+  {
+    "entidad": "alteplase",
+    "relacion": "es",
+    "valor": "activador del plasminógeno tisular"
+  },
+  {
+    "entidad": "ACVi",
+    "relacion": "es",
+    "valor": "causa más frecuente de ECV en Chile"
+  },
+  {
+    "entidad": "trombolisis endovenosa",
+    "relacion": "reduce",
+    "valor": "dependencia en pacientes"
+  },
+  {
+    "entidad": "Servicio de Urgencia Adultos",
+    "relacion": "atiende",
+    "valor": "30,7% de consultas neurológicas"
+  },
+  {
+    "entidad": "Unidad de Neurología",
+    "relacion": "depende de",
+    "valor": "Servicio de Medicina Interna"
+  },
+  {
+    "entidad": "trombolisis endovenosa",
+    "relacion": "se realiza desde",
+    "valor": "mayo de 2012"
+  },
+  {
+    "entidad": "Hospital Dr. Hernán Henríquez Aravena",
+    "relacion": "cuenta con",
+    "valor": "730 camas"
+  },
+  {
+    "entidad": "trombolisis endovenosa",
+    "relacion": "se basa en",
+    "valor": "estudios NINDS y ECASS III"
+  },
+  {
+    "entidad": "escala NIHSS",
+    "relacion": "evalúa",
+    "valor": "severidad del compromiso neurológico"
+  },
+  {
+    "entidad": "trombolisis endovenosa",
+    "relacion": "se administra hasta",
+    "valor": "4,5 h desde el inicio de síntomas"
+  },
+  {
+    "entidad": "tasa de trombolisis",
+    "relacion": "aumentó de",
+    "valor": "0,7% en 2012 a 6% en 2016"
+  },
+  {
+    "entidad": "tasa de mortalidad",
+    "relacion": "fue",
+    "valor": "13,1%"
+  },
+  {
+    "entidad": "hemorragias intracerebrales sintomáticas",
+    "relacion": "fueron",
+    "valor": "12,3%"
+  },
+  {
+    "entidad": "trombolisis endovenosa",
+    "relacion": "es factible en",
+    "valor": "hospitales públicos"
+  },
+  {
+    "entidad": "neurólogos 24/7",
+    "relacion": "aumentan",
+    "valor": "cantidad y calidad de TEV"
+  },
+  {
+    "entidad": "escala de Rankin modificada",
+    "relacion": "mide",
+    "valor": "discapacidad"
+  },
+  {
+    "entidad": "ACVi",
+    "relacion": "es",
+    "valor": "urgencia neurológica más frecuente"
+  },
+  {
+    "entidad": "trombolisis endovenosa",
+    "relacion": "se realizó en",
+    "valor": "106 pacientes"
+  },
+  {
+    "entidad": "tasa de trombolisis",
+    "relacion": "es comparable a",
+    "valor": "hospitales públicos chilenos"
+  },
+  {
+    "entidad": "Hospital Universitario San Ignacio",
+    "relacion": "pertenece a",
+    "valor": "Pontificia Universidad Javeriana"
+  },
+  {
+    "entidad": "Escala de Tamizado para Desnutrición (MST)",
+    "relacion": "evalúa",
+    "valor": "riesgo de desnutrición"
+  },
+  {
+    "entidad": "MST",
+    "relacion": "es",
+    "valor": "herramienta de tamizado"
+  },
+  {
+    "entidad": "pacientes hospitalizados",
+    "relacion": "presentan",
+    "valor": "riesgo de desnutrición"
+  },
+  {
+    "entidad": "malnutrición",
+    "relacion": "asocia con",
+    "valor": "mayor estancia hospitalaria"
+  },
+  {
+    "entidad": "malnutrición",
+    "relacion": "asocia con",
+    "valor": "mayor mortalidad"
+  },
+  {
+    "entidad": "MST",
+    "relacion": "debe complementarse con",
+    "valor": "valoración nutricional profesional"
+  },
+  {
+    "entidad": "pacientes con VIH",
+    "relacion": "tienen",
+    "valor": "alta prevalencia de riesgo de desnutrición"
+  },
+  {
+    "entidad": "pacientes con cáncer",
+    "relacion": "tienen",
+    "valor": "alta prevalencia de riesgo de desnutrición"
+  },
+  {
+    "entidad": "MST",
+    "relacion": "demuestra",
+    "valor": "buen rendimiento diagnóstico"
+  },
+  {
+    "entidad": "MST",
+    "relacion": "requiere",
+    "valor": "poco tiempo para aplicación"
+  },
+  {
+    "entidad": "MST",
+    "relacion": "puede ser aplicada por",
+    "valor": "cualquier persona"
+  },
+  {
+    "entidad": "índice de Charlson",
+    "relacion": "mide",
+    "valor": "carga de comorbilidad"
+  },
+  {
+    "entidad": "carga de comorbilidad",
+    "relacion": "asocia con",
+    "valor": "mortalidad"
+  },
+  {
+    "entidad": "estancia hospitalaria",
+    "relacion": "aumenta con",
+    "valor": "resultado positivo de MST"
+  },
+  {
+    "entidad": "MST",
+    "relacion": "es",
+    "valor": "rápida y de bajo costo"
+  },
+  {
+    "entidad": "desnutrición",
+    "relacion": "afecta a",
+    "valor": "pacientes hospitalizados"
+  },
+  {
+    "entidad": "evaluación nutricional",
+    "relacion": "debe ser realizada en",
+    "valor": "pacientes con riesgo de desnutrición"
+  },
+  {
+    "entidad": "estudio observacional",
+    "relacion": "evalúa",
+    "valor": "frecuencia de uso de MST"
+  },
+  {
+    "entidad": "MST",
+    "relacion": "se desarrolló en",
+    "valor": "1999"
+  },
+  {
+    "entidad": "MST",
+    "relacion": "se basa en",
+    "valor": "pérdida de peso y apetito"
+  },
+  {
+    "entidad": "MST",
+    "relacion": "es útil para",
+    "valor": "intervenciones nutricionales tempranas"
+  },
+  {
+    "entidad": "Mindfulness",
+    "relacion": "se define como",
+    "valor": "pagar atención al momento presente de manera no evaluativa"
+  },
+  {
+    "entidad": "Mindfulness",
+    "relacion": "se utiliza en",
+    "valor": "intervenciones educativas"
+  },
+  {
+    "entidad": "intervención basada en mindfulness",
+    "relacion": "afecta a",
+    "valor": "estados emocionales negativos como ansiedad, estrés y depresión"
+  },
+  {
+    "entidad": "adolescentes",
+    "relacion": "se caracterizan por",
+    "valor": "cambios fisiológicos, físicos y psicológicos"
+  },
+  {
+    "entidad": "estrés",
+    "relacion": "asocia con",
+    "valor": "desajuste emocional"
+  },
+  {
+    "entidad": "escuelas",
+    "relacion": "son un contexto para",
+    "valor": "implementar estrategias psicoterapéuticas"
+  },
+  {
+    "entidad": "intervenciones basadas en mindfulness",
+    "relacion": "tienen respaldo empírico en",
+    "valor": "prevención de problemas de salud mental"
+  },
+  {
+    "entidad": "mindfulness",
+    "relacion": "promueve",
+    "valor": "regulación emocional y auto-regulación"
+  },
+  {
+    "entidad": "DASS-21",
+    "relacion": "mide",
+    "valor": "estados emocionales negativos como depresión, ansiedad y estrés"
+  },
+  {
+    "entidad": "intervención de mindfulness",
+    "relacion": "se espera que",
+    "valor": "disminuya estados emocionales negativos"
+  },
+  {
+    "entidad": "Ministerio de Economía, Fomento y Turismo",
+    "relacion": "financia",
+    "valor": "proyectos de investigación"
+  },
+  {
+    "entidad": "CONICYT/PAI",
+    "relacion": "apoya",
+    "valor": "retorno de investigadores desde el extranjero"
+  },
+  {
+    "entidad": "adolescentes",
+    "relacion": "enfrentan",
+    "valor": "demandas de adaptación y rendimiento"
+  },
+  {
+    "entidad": "mindfulness",
+    "relacion": "se aplica en",
+    "valor": "contextos escolares"
+  },
+  {
+    "entidad": "intervención de mindfulness",
+    "relacion": "se evalúa en",
+    "valor": "diferencias de género en resultados"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "es el primero en",
+    "valor": "Chile y Sudamérica sobre mindfulness en educación"
+  },
+  {
+    "entidad": "mindfulness",
+    "relacion": "puede ser",
+    "valor": "una estrategia para la prevención de problemas psicológicos"
+  }
+]

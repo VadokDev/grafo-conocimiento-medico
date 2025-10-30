@@ -1,0 +1,737 @@
+[
+  {
+    "entidad": "Prueba de Caminata de Seis Minutos (PC6M)",
+    "relacion": "es",
+    "valor": "una prueba no invasiva y estandarizada"
+  },
+  {
+    "entidad": "PC6M",
+    "relacion": "mide",
+    "valor": "distancia recorrida"
+  },
+  {
+    "entidad": "consumo máximo de oxígeno (VO2 max)",
+    "relacion": "se estima a partir de",
+    "valor": "los resultados de la PC6M"
+  },
+  {
+    "entidad": "VO2 max",
+    "relacion": "se relaciona con",
+    "valor": "distancia recorrida"
+  },
+  {
+    "entidad": "VO2 max",
+    "relacion": "se relaciona con",
+    "valor": "índice de masa corporal (IMC)"
+  },
+  {
+    "entidad": "VO2 max",
+    "relacion": "se relaciona con",
+    "valor": "frecuencia cardíaca de recuperación (RhR)"
+  },
+  {
+    "entidad": "seis-minute walk test (SMWT)",
+    "relacion": "es",
+    "valor": "una prueba fácil de usar"
+  },
+  {
+    "entidad": "modelo predictivo",
+    "relacion": "se justifica",
+    "valor": "para estimar el VO2 max en universitarios chilenos"
+  },
+  {
+    "entidad": "sexo",
+    "relacion": "es un predictor de",
+    "valor": "VO2 max"
+  },
+  {
+    "entidad": "frecuencia cardíaca de recuperación (RhR)",
+    "relacion": "es un predictor de",
+    "valor": "VO2 max"
+  },
+  {
+    "entidad": "distancia recorrida",
+    "relacion": "es un predictor de",
+    "valor": "VO2 max"
+  },
+  {
+    "entidad": "índice de masa corporal (IMC)",
+    "relacion": "es un predictor de",
+    "valor": "VO2 max"
+  },
+  {
+    "entidad": "modelo predictivo",
+    "relacion": "se basa en",
+    "valor": "distancia, IMC, sexo y RhR"
+  },
+  {
+    "entidad": "Universidad Católica del Maule",
+    "relacion": "es",
+    "valor": "la institución que realizó el estudio"
+  },
+  {
+    "entidad": "Rodrigo Ramírez-Campillo",
+    "relacion": "es",
+    "valor": "el autor correspondiente del estudio"
+  },
+  {
+    "entidad": "Bland-Altman",
+    "relacion": "se utiliza para verificar",
+    "valor": "la concordancia entre VO2 max observado y predicho"
+  },
+  {
+    "entidad": "muestra de 80 estudiantes",
+    "relacion": "incluye",
+    "valor": "40 hombres y 40 mujeres"
+  },
+  {
+    "entidad": "PC6M",
+    "relacion": "puede predecir",
+    "valor": "VO2 max en hombres y mujeres universitarios"
+  },
+  {
+    "entidad": "modelo predictivo",
+    "relacion": "es válido",
+    "valor": "según supuestos de normalidad, independencia y homocedasticidad"
+  },
+  {
+    "entidad": "metformina",
+    "relacion": "afecta a",
+    "valor": "leucemia aguda linfoblástica"
+  },
+  {
+    "entidad": "metformina",
+    "relacion": "mejora",
+    "valor": "supervivencia en pacientes"
+  },
+  {
+    "entidad": "metformina",
+    "relacion": "induce",
+    "valor": "apoptosis"
+  },
+  {
+    "entidad": "metformina",
+    "relacion": "bloquea",
+    "valor": "vía de proliferación PI3K-AKT-mTOR"
+  },
+  {
+    "entidad": "metformina",
+    "relacion": "activa",
+    "valor": "AMPK"
+  },
+  {
+    "entidad": "pacientes con leucemia aguda linfoblástica",
+    "relacion": "reciben",
+    "valor": "quimioterapia"
+  },
+  {
+    "entidad": "quimioterapia",
+    "relacion": "incluye",
+    "valor": "antraciclinas, alcaloides de la vinca, esteroides"
+  },
+  {
+    "entidad": "Hospital General de México",
+    "relacion": "realiza",
+    "valor": "investigación sobre leucemia"
+  },
+  {
+    "entidad": "proyecto de investigación",
+    "relacion": "apoyado por",
+    "valor": "Dirección de Investigación Hospital General México"
+  },
+  {
+    "entidad": "leucemia aguda linfoblástica",
+    "relacion": "tiene",
+    "valor": "mal pronóstico en adultos"
+  },
+  {
+    "entidad": "metformina",
+    "relacion": "reduce",
+    "valor": "tasa de recaídas"
+  },
+  {
+    "entidad": "metformina",
+    "relacion": "asocia con",
+    "valor": "mejoría en remisiones completas"
+  },
+  {
+    "entidad": "metformina",
+    "relacion": "se utiliza en",
+    "valor": "tratamiento de leucemia"
+  },
+  {
+    "entidad": "pacientes adultos",
+    "relacion": "tienen",
+    "valor": "30-40% de supervivencia a largo plazo"
+  },
+  {
+    "entidad": "metformina",
+    "relacion": "se considera",
+    "valor": "fármaco de bajo costo"
+  },
+  {
+    "entidad": "metformina",
+    "relacion": "se estudia en",
+    "valor": "ensayos clínicos"
+  },
+  {
+    "entidad": "polimorfismo rs12979860 C>T",
+    "relacion": "no está asociado a",
+    "valor": "riesgo de fibrosis hepática"
+  },
+  {
+    "entidad": "Interferon lambda 4",
+    "relacion": "es un",
+    "valor": "gen"
+  },
+  {
+    "entidad": "hepatitis crónica por virus C",
+    "relacion": "es una",
+    "valor": "enfermedad"
+  },
+  {
+    "entidad": "pacientes chilenos",
+    "relacion": "son",
+    "valor": "sujeto de estudio"
+  },
+  {
+    "entidad": "Hospital Clínico Universidad de Chile",
+    "relacion": "realiza",
+    "valor": "biopsias hepáticas"
+  },
+  {
+    "entidad": "fibrosis hepática",
+    "relacion": "puede ser causada por",
+    "valor": "factores genéticos"
+  },
+  {
+    "entidad": "IFNL4 rs12979860",
+    "relacion": "se evalúa en",
+    "valor": "pacientes con hepatitis C"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "es un",
+    "valor": "factor de riesgo para fibrosis"
+  },
+  {
+    "entidad": "esteatosis hepática",
+    "relacion": "es un",
+    "valor": "factor de riesgo para fibrosis"
+  },
+  {
+    "entidad": "diabetes",
+    "relacion": "es un",
+    "valor": "factor de riesgo para fibrosis"
+  },
+  {
+    "entidad": "genotipo 1 de VHC",
+    "relacion": "se asocia con",
+    "valor": "fibrosis hepática"
+  },
+  {
+    "entidad": "polimorfismos en genes PNPLA3 y TM6SF2",
+    "relacion": "son",
+    "valor": "variantes genéticas asociadas a fibrosis"
+  },
+  {
+    "entidad": "proyecto OAIC 394/10",
+    "relacion": "financia",
+    "valor": "la investigación"
+  },
+  {
+    "entidad": "Comité de Ética del Hospital Clínico Universidad de Chile",
+    "relacion": "aprueba",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "CEACLIN",
+    "relacion": "es un",
+    "valor": "cuestionario de estrategias de aprendizaje clínico"
+  },
+  {
+    "entidad": "estudiantes de medicina",
+    "relacion": "utilizan",
+    "valor": "estrategias de aprendizaje clínico"
+  },
+  {
+    "entidad": "estrategias de aprendizaje",
+    "relacion": "se clasifican en",
+    "valor": "teóricas, prácticas, integración teórico-práctica, evaluación"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "es un",
+    "valor": "centro de educación médica"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "reportan mayor uso de",
+    "valor": "estrategias de aprendizaje"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "reportan mayor uso de",
+    "valor": "estrategia de evadir el agobio"
+  },
+  {
+    "entidad": "sexto año",
+    "relacion": "reporta mayor uso de",
+    "valor": "resolver dudas"
+  },
+  {
+    "entidad": "cuarto año",
+    "relacion": "reporta mayor uso de",
+    "valor": "observar a otros"
+  },
+  {
+    "entidad": "estrategias de aprendizaje",
+    "relacion": "se asocian con",
+    "valor": "desarrollo de competencias clínicas"
+  },
+  {
+    "entidad": "estrategias de manejo del agobio",
+    "relacion": "son indicadores de",
+    "valor": "salud mental"
+  },
+  {
+    "entidad": "análisis de conglomerados",
+    "relacion": "identifica",
+    "valor": "grupos de estudiantes según uso de estrategias"
+  },
+  {
+    "entidad": "Fondo Nacional de Desarrollo Científico y Tecnológico",
+    "relacion": "financia",
+    "valor": "la investigación"
+  },
+  {
+    "entidad": "estrategias de aprendizaje",
+    "relacion": "se evalúan según",
+    "valor": "sexo y año de estudio"
+  },
+  {
+    "entidad": "autonomía y confianza",
+    "relacion": "son promovidas por",
+    "valor": "prácticas de aprendizaje"
+  },
+  {
+    "entidad": "estrategias de aprendizaje",
+    "relacion": "se consideran",
+    "valor": "acciones académicas contextualizadas"
+  },
+  {
+    "entidad": "estudiantes de medicina",
+    "relacion": "experimentan",
+    "valor": "estrés, ansiedad y depresión"
+  },
+  {
+    "entidad": "estrategias de aprendizaje",
+    "relacion": "son necesarias para",
+    "valor": "la transición a la clínica"
+  },
+  {
+    "entidad": "metoclopramida",
+    "relacion": "es un",
+    "valor": "neuroléptico"
+  },
+  {
+    "entidad": "metoclopramida",
+    "relacion": "se utiliza en",
+    "valor": "tratamiento de náuseas y vómitos"
+  },
+  {
+    "entidad": "metoclopramida",
+    "relacion": "puede causar",
+    "valor": "reacciones adversas extrapiramidales"
+  },
+  {
+    "entidad": "reacciones adversas extrapiramidales",
+    "relacion": "se presentan en",
+    "valor": "pacientes con diabetes mellitus tipo 2"
+  },
+  {
+    "entidad": "reacciones adversas extrapiramidales",
+    "relacion": "se presentan en",
+    "valor": "pacientes en cuidados paliativos"
+  },
+  {
+    "entidad": "Instituto de Salud Pública de Chile (ISP)",
+    "relacion": "emitió",
+    "valor": "alerta sanitaria sobre metoclopramida"
+  },
+  {
+    "entidad": "Servicio de Salud Viña del Mar-Quillota (SSVQ)",
+    "relacion": "utiliza",
+    "valor": "metoclopramida en pacientes de cuidados paliativos"
+  },
+  {
+    "entidad": "Farmacovigilancia",
+    "relacion": "es una disciplina que",
+    "valor": "evalúa efectos adversos de medicamentos"
+  },
+  {
+    "entidad": "Centro Internacional de Monitoreo de Seguridad de Medicamentos",
+    "relacion": "fue creado en",
+    "valor": "1968"
+  },
+  {
+    "entidad": "metoclopramida",
+    "relacion": "forma parte de",
+    "valor": "Formulario Nacional de Medicamentos"
+  },
+  {
+    "entidad": "Programa de Alivio del Dolor y Cuidados Paliativos",
+    "relacion": "incluye",
+    "valor": "pacientes que utilizan metoclopramida"
+  },
+  {
+    "entidad": "dosis de metoclopramida",
+    "relacion": "debe ajustarse según",
+    "valor": "peso corporal"
+  },
+  {
+    "entidad": "químicos farmacéuticos del SSVQ",
+    "relacion": "decidieron estudiar",
+    "valor": "reacciones adversas a metoclopramida"
+  },
+  {
+    "entidad": "movimientos involuntarios",
+    "relacion": "pueden ser causados por",
+    "valor": "metoclopramida"
+  },
+  {
+    "entidad": "dosis máxima de metoclopramida",
+    "relacion": "es",
+    "valor": "0,5 mg/kg/día"
+  },
+  {
+    "entidad": "farmacovigilancia activa",
+    "relacion": "busca",
+    "valor": "detectar reacciones adversas en pacientes"
+  },
+  {
+    "entidad": "pacientes adultos",
+    "relacion": "fueron incluidos en",
+    "valor": "estudio de farmacovigilancia"
+  },
+  {
+    "entidad": "dosis de metoclopramida",
+    "relacion": "se encontró que",
+    "valor": "excede recomendaciones en algunos casos"
+  },
+  {
+    "entidad": "movimientos involuntarios",
+    "relacion": "se clasifican según",
+    "valor": "algoritmo de Naranjo"
+  },
+  {
+    "entidad": "Mieloma múltiple",
+    "relacion": "es un",
+    "valor": "tipo de neoplasia"
+  },
+  {
+    "entidad": "Mieloma múltiple",
+    "relacion": "se caracteriza por",
+    "valor": "secreción de una proteína monoclonal y síntomas como anemia, hipercalcemia, falla renal y lesiones óseas"
+  },
+  {
+    "entidad": "Programa Nacional de Drogas Antineoplásicas (PANDA)",
+    "relacion": "pertenece a",
+    "valor": "Ministerio de Salud de Chile"
+  },
+  {
+    "entidad": "PANDA",
+    "relacion": "es responsable de",
+    "valor": "crear protocolos de diagnóstico, tratamiento y seguimiento de neoplasias hematológicas"
+  },
+  {
+    "entidad": "PANDA",
+    "relacion": "realiza",
+    "valor": "revisión y actualización continua de protocolos"
+  },
+  {
+    "entidad": "talidomida",
+    "relacion": "fue incorporada en",
+    "valor": "2007 como parte del tratamiento"
+  },
+  {
+    "entidad": "ciclofosfamida, talidomida y dexametasona",
+    "relacion": "es un",
+    "valor": "régimen de tratamiento introducido en 2013"
+  },
+  {
+    "entidad": "trasplante autólogo de progenitores hematopoyéticos (TAPH)",
+    "relacion": "se realiza en",
+    "valor": "pacientes menores de 60 años sin comorbilidades importantes"
+  },
+  {
+    "entidad": "sobrevida",
+    "relacion": "ha mejorado con",
+    "valor": "la introducción de nuevas drogas"
+  },
+  {
+    "entidad": "Mieloma múltiple",
+    "relacion": "es una de las",
+    "valor": "neoplasias más frecuentes en hematología"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "estima",
+    "valor": "una incidencia de mieloma múltiple de 3,3/100.000 habitantes entre 2003 y 2007"
+  },
+  {
+    "entidad": "PANDA",
+    "relacion": "evalúa",
+    "valor": "la sobrevida de pacientes con mieloma múltiple"
+  },
+  {
+    "entidad": "autologous transplantation (AT)",
+    "relacion": "se realizó en",
+    "valor": "18% de los pacientes elegibles"
+  },
+  {
+    "entidad": "sobrevida media",
+    "relacion": "de pacientes tratados con talidomida",
+    "valor": "46 meses"
+  },
+  {
+    "entidad": "sobrevida media",
+    "relacion": "de pacientes no tratados con talidomida",
+    "valor": "30 meses"
+  },
+  {
+    "entidad": "sobrevida media",
+    "relacion": "de pacientes tratados antes de 2007",
+    "valor": "36 meses"
+  },
+  {
+    "entidad": "sobrevida media",
+    "relacion": "de pacientes tratados entre 2007 y 2012",
+    "valor": "48 meses"
+  },
+  {
+    "entidad": "sobrevida media",
+    "relacion": "de pacientes tratados desde 2013",
+    "valor": "no alcanzada"
+  },
+  {
+    "entidad": "sobrevida media",
+    "relacion": "de pacientes que recibieron TAPH",
+    "valor": "no alcanzada a 48 meses"
+  },
+  {
+    "entidad": "sobrevida media",
+    "relacion": "de pacientes sin TAPH",
+    "valor": "36 meses"
+  },
+  {
+    "entidad": "Neumonía neumocócica bacteriémica",
+    "relacion": "es un",
+    "valor": "tipo de enfermedad"
+  },
+  {
+    "entidad": "Streptococcus pneumoniae",
+    "relacion": "causa",
+    "valor": "neumonía neumocócica bacteriémica"
+  },
+  {
+    "entidad": "Hospital Puerto Montt",
+    "relacion": "es un",
+    "valor": "hospital general en Chile"
+  },
+  {
+    "entidad": "María Luisa Rioseco Z.",
+    "relacion": "es un",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "pacientes adultos",
+    "relacion": "son",
+    "valor": "grupo de estudio"
+  },
+  {
+    "entidad": "comorbilidades",
+    "relacion": "afectan a",
+    "valor": "mortalidad en neumonía neumocócica bacteriémica"
+  },
+  {
+    "entidad": "edad > 65 años",
+    "relacion": "asocia con",
+    "valor": "mayor mortalidad"
+  },
+  {
+    "entidad": "vacuna antineumocócica (Pn23)",
+    "relacion": "es administrada a",
+    "valor": "adultos ≥ 65 años"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "es asociada con",
+    "valor": "comorbilidades y complicaciones de neumonía"
+  },
+  {
+    "entidad": "serotipos de S. pneumoniae",
+    "relacion": "son identificados en",
+    "valor": "pacientes con neumonía neumocócica bacteriémica"
+  },
+  {
+    "entidad": "Programa Nacional de Inmunizaciones (PNI)",
+    "relacion": "incluye",
+    "valor": "vacuna antineumocócica"
+  },
+  {
+    "entidad": "factores socioeconómicos",
+    "relacion": "condicionan",
+    "valor": "acceso tardío a atención médica"
+  },
+  {
+    "entidad": "CURB-65",
+    "relacion": "es un",
+    "valor": "índice de severidad para neumonía"
+  },
+  {
+    "entidad": "antimicrobianos",
+    "relacion": "son utilizados en",
+    "valor": "tratamiento de neumonía neumocócica bacteriémica"
+  },
+  {
+    "entidad": "Instituto de Salud Pública (ISP)",
+    "relacion": "realiza",
+    "valor": "serotipificación de cepas"
+  },
+  {
+    "entidad": "mortalidad atribuible a neumonía",
+    "relacion": "es reportada como",
+    "valor": "83% en pacientes"
+  },
+  {
+    "entidad": "factores sociales",
+    "relacion": "pueden influir en",
+    "valor": "pronóstico de neumonía neumocócica bacteriémica"
+  },
+  {
+    "entidad": "alcoholismo",
+    "relacion": "es un",
+    "valor": "factor de riesgo en pacientes"
+  },
+  {
+    "entidad": "mortalidad real",
+    "relacion": "es comparada con",
+    "valor": "mortalidad teórica según CURB-65"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "tienen",
+    "valor": "alto riesgo de caídas"
+  },
+  {
+    "entidad": "hospital universitario",
+    "relacion": "realiza",
+    "valor": "evaluación de riesgo de caídas"
+  },
+  {
+    "entidad": "escala de valoración de riesgo de caídas",
+    "relacion": "utiliza",
+    "valor": "para identificar pacientes en riesgo"
+  },
+  {
+    "entidad": "déficit sensorial",
+    "relacion": "es un",
+    "valor": "factor de riesgo de caídas"
+  },
+  {
+    "entidad": "marcha inestable",
+    "relacion": "es un",
+    "valor": "factor de riesgo de caídas"
+  },
+  {
+    "entidad": "fármacos de alto riesgo",
+    "relacion": "aumentan",
+    "valor": "el riesgo de caídas"
+  },
+  {
+    "entidad": "delirium",
+    "relacion": "es un",
+    "valor": "factor de riesgo de caídas"
+  },
+  {
+    "entidad": "cuidadores",
+    "relacion": "disminuyen",
+    "valor": "el riesgo de caídas"
+  },
+  {
+    "entidad": "medidas de prevención",
+    "relacion": "son necesarias para",
+    "valor": "reducir caídas"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "es parte de",
+    "valor": "la investigación"
+  },
+  {
+    "entidad": "comité de ética",
+    "relacion": "autoriza",
+    "valor": "la revisión de registros clínicos"
+  },
+  {
+    "entidad": "pacientes hospitalizados",
+    "relacion": "sufren",
+    "valor": "caídas"
+  },
+  {
+    "entidad": "estrategias de prevención",
+    "relacion": "deben ser",
+    "valor": "implementadas"
+  },
+  {
+    "entidad": "servicio médico-quirúrgico",
+    "relacion": "evalúa",
+    "valor": "el riesgo de caídas"
+  },
+  {
+    "entidad": "escala de Morse",
+    "relacion": "es un",
+    "valor": "método para evaluar riesgo de caídas"
+  },
+  {
+    "entidad": "escala de Downton",
+    "relacion": "es un",
+    "valor": "método para evaluar riesgo de caídas"
+  },
+  {
+    "entidad": "modelo de riesgo de caída de Hendrich",
+    "relacion": "es un",
+    "valor": "método para evaluar riesgo de caídas"
+  },
+  {
+    "entidad": "escala estratificada de Oliver",
+    "relacion": "es un",
+    "valor": "método para evaluar riesgo de caídas"
+  },
+  {
+    "entidad": "medidas de contención física",
+    "relacion": "son",
+    "valor": "controversiales en pacientes con alto riesgo"
+  },
+  {
+    "entidad": "intervenciones para prevenir caídas",
+    "relacion": "deben ser",
+    "valor": "evaluadas"
+  },
+  {
+    "entidad": "carga a los cuidadores",
+    "relacion": "es",
+    "valor": "significativa en pacientes con alto riesgo"
+  },
+  {
+    "entidad": "delirium",
+    "relacion": "aumenta",
+    "valor": "el riesgo de caídas"
+  },
+  {
+    "entidad": "estrategias de detección de PARC",
+    "relacion": "deben ser",
+    "valor": "mejoradas"
+  }
+]

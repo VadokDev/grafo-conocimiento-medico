@@ -1,0 +1,207 @@
+[
+  {
+    "entidad": "Ubrogepante",
+    "relacion": "trata",
+    "valor": "síntomas de las migrañas"
+  },
+  {
+    "entidad": "Ubrogepante",
+    "relacion": "uso",
+    "valor": "tomar por vía oral ante la primera señal de un dolor de cabeza por migraña"
+  },
+  {
+    "entidad": "Ubrogepante",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Ubrogepante",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos concurrentes"
+  },
+  {
+    "entidad": "Ubrogepante",
+    "relacion": "dieta",
+    "valor": "no tomar segunda tableta antes de 24 horas si consume jugo de toronja"
+  },
+  {
+    "entidad": "Ubrogepante",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Ubrogepante",
+    "relacion": "efecto_secundario",
+    "valor": "somnolencia"
+  },
+  {
+    "entidad": "Ubrogepante",
+    "relacion": "efecto_secundario",
+    "valor": "boca seca"
+  },
+  {
+    "entidad": "Ubrogepante",
+    "relacion": "efecto_secundario",
+    "valor": "hinchazón de la cara, la garganta o alrededor de la boca o los ojos"
+  },
+  {
+    "entidad": "Ubrogepante",
+    "relacion": "efecto_secundario",
+    "valor": "urticaria"
+  },
+  {
+    "entidad": "Ubrogepante",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Ubrogepante",
+    "relacion": "efecto_secundario",
+    "valor": "picazón"
+  },
+  {
+    "entidad": "Ubrogepante",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para tragar o respirar"
+  },
+  {
+    "entidad": "Ubrogepante",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Ubrogepante",
+    "relacion": "efecto_secundario",
+    "valor": "ritmo cardíaco acelerado"
+  },
+  {
+    "entidad": "Ubrogepante",
+    "relacion": "efecto_secundario",
+    "valor": "dedos de las manos o los pies entumecidos, fríos, dolorosos o descoloridos"
+  },
+  {
+    "entidad": "Ubrogepante",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original, cerrado herméticamente y a temperatura ambiente"
+  },
+  {
+    "entidad": "Ubrogepante",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento o a los servicios de emergencia"
+  },
+  {
+    "entidad": "Ubrogepante",
+    "relacion": "marca_comercial",
+    "valor": "Ubrelvy"
+  },
+  {
+    "entidad": "Umbralisib",
+    "relacion": "contraindicado_en",
+    "valor": "aumento del riesgo de muerte"
+  },
+  {
+    "entidad": "Umbralisib",
+    "relacion": "trata",
+    "valor": "linfoma de la zona marginal"
+  },
+  {
+    "entidad": "Umbralisib",
+    "relacion": "trata",
+    "valor": "linfoma folicular"
+  },
+  {
+    "entidad": "Umbralisib",
+    "relacion": "uso",
+    "valor": "tomar una vez al día con alimentos"
+  },
+  {
+    "entidad": "Umbralisib",
+    "relacion": "se_administra_via",
+    "valor": "vía oral"
+  },
+  {
+    "entidad": "Umbralisib",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Umbralisib",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos"
+  },
+  {
+    "entidad": "Umbralisib",
+    "relacion": "dieta",
+    "valor": "continuar con dieta normal"
+  },
+  {
+    "entidad": "Umbralisib",
+    "relacion": "olvido",
+    "valor": "tomar dosis omitida si es menos de 12 horas"
+  },
+  {
+    "entidad": "Umbralisib",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Umbralisib",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Umbralisib",
+    "relacion": "efecto_secundario",
+    "valor": "náusea"
+  },
+  {
+    "entidad": "Umbralisib",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de apetito"
+  },
+  {
+    "entidad": "Umbralisib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago"
+  },
+  {
+    "entidad": "Umbralisib",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio"
+  },
+  {
+    "entidad": "Umbralisib",
+    "relacion": "efecto_secundario",
+    "valor": "hinchazón de la cara, manos o pies"
+  },
+  {
+    "entidad": "Umbralisib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor muscular, de espalda, de cuello o de huesos"
+  },
+  {
+    "entidad": "Umbralisib",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para conciliar el sueño"
+  },
+  {
+    "entidad": "Umbralisib",
+    "relacion": "efecto_secundario",
+    "valor": "fiebre, dolor de garganta, tos, dificultad para respirar"
+  },
+  {
+    "entidad": "Umbralisib",
+    "relacion": "efecto_secundario",
+    "valor": "ictericia en ojos o piel"
+  },
+  {
+    "entidad": "Umbralisib",
+    "relacion": "almacenamiento",
+    "valor": "mantener en envase original, cerrado y lejos del calor y humedad"
+  },
+  {
+    "entidad": "Umbralisib",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  }
+]

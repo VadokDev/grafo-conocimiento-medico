@@ -1,0 +1,382 @@
+[
+  {
+    "entidad": "Diabetes Mellitus",
+    "relacion": "causada por",
+    "valor": "mutación en el gen de glucokinasa"
+  },
+  {
+    "entidad": "mutación en el gen de glucokinasa",
+    "relacion": "se presenta en",
+    "valor": "MODY 2"
+  },
+  {
+    "entidad": "MODY 2",
+    "relacion": "es un tipo de",
+    "valor": "diabetes monogénica"
+  },
+  {
+    "entidad": "glucokinasa (GCK)",
+    "relacion": "es",
+    "valor": "el primer enzima de la vía glucolítica"
+  },
+  {
+    "entidad": "familia chilena",
+    "relacion": "presenta",
+    "valor": "múltiples casos de MODY 2"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presentó",
+    "valor": "hiperglicemia neonatal severa"
+  },
+  {
+    "entidad": "insulina",
+    "relacion": "fue requerida para",
+    "valor": "controlar hiperglicemia"
+  },
+  {
+    "entidad": "análisis genético",
+    "relacion": "reveló",
+    "valor": "mutación en el gen GCK"
+  },
+  {
+    "entidad": "mutación c.148C>T; p.His50Tyr",
+    "relacion": "fue identificada en",
+    "valor": "más de un familiar afectado"
+  },
+  {
+    "entidad": "patrón de transmisión",
+    "relacion": "sugiere",
+    "valor": "herencia dominante"
+  },
+  {
+    "entidad": "diagnóstico molecular",
+    "relacion": "permitió",
+    "valor": "tratamiento médico adecuado"
+  },
+  {
+    "entidad": "glucokinasa",
+    "relacion": "cataliza",
+    "valor": "fosforilación de glucosa a glucosa-6-fosfato"
+  },
+  {
+    "entidad": "disminución de función en GCK",
+    "relacion": "produce",
+    "valor": "elevación del umbral glicémico"
+  },
+  {
+    "entidad": "hiperglicemia neonatal",
+    "relacion": "puede presentarse en",
+    "valor": "estado homocigoto"
+  },
+  {
+    "entidad": "HbA1c",
+    "relacion": "rara vez sobrepasa",
+    "valor": "7.5% en MODY 2"
+  },
+  {
+    "entidad": "estudio genético",
+    "relacion": "se justifica para",
+    "valor": "diagnóstico diferencial y manejo clínico"
+  },
+  {
+    "entidad": "familia estudiada",
+    "relacion": "presenta",
+    "valor": "antecedentes de diabetes"
+  },
+  {
+    "entidad": "método de diagnóstico genético",
+    "relacion": "fue implementado por",
+    "valor": "especialistas en Diabetología y Endocrinología pediátrica"
+  },
+  {
+    "entidad": "Laboratorio de Biología Molecular",
+    "relacion": "realizó",
+    "valor": "estudio genético del gen GCK"
+  },
+  {
+    "entidad": "variante c.148C>T",
+    "relacion": "tiene",
+    "valor": "carácter patogénico"
+  },
+  {
+    "entidad": "Neoplasia blástica de células dendríticas plasmocitoides",
+    "relacion": "es un",
+    "valor": "tipo de neoplasia hematológica"
+  },
+  {
+    "entidad": "células dendríticas plasmocitoides",
+    "relacion": "deriva de",
+    "valor": "células madre hematopoyéticas"
+  },
+  {
+    "entidad": "diagnóstico",
+    "relacion": "se basa en",
+    "valor": "expresión de CD4, CD56 y CD123"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "afecta a",
+    "valor": "adultos mayores"
+  },
+  {
+    "entidad": "relación hombre-mujer",
+    "relacion": "es aproximadamente",
+    "valor": "3:1"
+  },
+  {
+    "entidad": "presentación común",
+    "relacion": "incluye",
+    "valor": "lesiones cutáneas"
+  },
+  {
+    "entidad": "tratamiento convencional",
+    "relacion": "es",
+    "valor": "ineficaz"
+  },
+  {
+    "entidad": "trasplante alogénico de células madre hematopoyéticas",
+    "relacion": "es requerido para",
+    "valor": "alcanzar remisión"
+  },
+  {
+    "entidad": "Instituto Nacional de Cancerología",
+    "relacion": "realiza",
+    "valor": "diagnóstico de NBCDP"
+  },
+  {
+    "entidad": "estudio histopatológico",
+    "relacion": "se utiliza para",
+    "valor": "diagnosticar NBCDP"
+  },
+  {
+    "entidad": "HiperCVAD",
+    "relacion": "es un",
+    "valor": "esquema de tratamiento"
+  },
+  {
+    "entidad": "NBCDP",
+    "relacion": "tiene un pronóstico",
+    "valor": "pobre"
+  },
+  {
+    "entidad": "monosomía del cromosoma 13",
+    "relacion": "es un hallazgo",
+    "valor": "asociado a mal pronóstico"
+  },
+  {
+    "entidad": "estudios citogenéticos",
+    "relacion": "informan",
+    "valor": "pérdidas genéticas"
+  },
+  {
+    "entidad": "pacientes con NBCDP",
+    "relacion": "requieren",
+    "valor": "más estudios clínicos"
+  },
+  {
+    "entidad": "diagnóstico diferencial",
+    "relacion": "incluye",
+    "valor": "sarcoma mieloide y linfoma de células T/NK"
+  },
+  {
+    "entidad": "Polirradiculoneuritis aguda",
+    "relacion": "asociada a",
+    "valor": "infección por Virus Herpes Humano 7"
+  },
+  {
+    "entidad": "Virus Herpes Humano 7",
+    "relacion": "causa",
+    "valor": "encefalitis"
+  },
+  {
+    "entidad": "Virus Herpes Humano 7",
+    "relacion": "causa",
+    "valor": "meningitis"
+  },
+  {
+    "entidad": "Virus Herpes Humano 7",
+    "relacion": "causa",
+    "valor": "mielorradiculoneuropatía"
+  },
+  {
+    "entidad": "Virus Herpes Humano 7",
+    "relacion": "se presenta en",
+    "valor": "96 a 100% de la población adulta"
+  },
+  {
+    "entidad": "Virus Herpes Humano 7",
+    "relacion": "se transmite por",
+    "valor": "vía oral"
+  },
+  {
+    "entidad": "Virus Herpes Humano 7",
+    "relacion": "se mantiene latente en",
+    "valor": "linfocitos T CD4+"
+  },
+  {
+    "entidad": "Virus Herpes Humano 7",
+    "relacion": "se mantiene latente en",
+    "valor": "células epiteliales de glándulas salivales"
+  },
+  {
+    "entidad": "infección primaria",
+    "relacion": "asociada a",
+    "valor": "exantema súbito"
+  },
+  {
+    "entidad": "infección primaria",
+    "relacion": "asociada a",
+    "valor": "pitiriasis rosada"
+  },
+  {
+    "entidad": "infección primaria",
+    "relacion": "asociada a",
+    "valor": "crisis febriles"
+  },
+  {
+    "entidad": "paciente adulto inmunocompetente",
+    "relacion": "presentó",
+    "valor": "polirradiculitis aguda"
+  },
+  {
+    "entidad": "Virus Herpes Humano 7",
+    "relacion": "fue positivo en",
+    "valor": "líquido cefalorraquídeo"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "recibió",
+    "valor": "tratamiento sintomático para el dolor"
+  },
+  {
+    "entidad": "Virus Herpes Humano 7",
+    "relacion": "asociado a",
+    "valor": "compromiso neurológico"
+  },
+  {
+    "entidad": "infección por VHH-7",
+    "relacion": "puede manifestarse en",
+    "valor": "diferentes etapas de la vida"
+  },
+  {
+    "entidad": "VHH-7",
+    "relacion": "causa",
+    "valor": "polirradiculitis leve sin mielitis"
+  },
+  {
+    "entidad": "VHH-7",
+    "relacion": "asociado a",
+    "valor": "enfermedades neurológicas en adultos inmunocomprometidos"
+  },
+  {
+    "entidad": "metilprednisolona",
+    "relacion": "usado en",
+    "valor": "mielitis"
+  },
+  {
+    "entidad": "Aciclovir",
+    "relacion": "usado en",
+    "valor": "encefalitis severa"
+  },
+  {
+    "entidad": "Foscarnet",
+    "relacion": "usado en",
+    "valor": "encefalitis severa"
+  },
+  {
+    "entidad": "dexametasona",
+    "relacion": "usado en",
+    "valor": "mielitis"
+  },
+  {
+    "entidad": "inmunoglobulinas",
+    "relacion": "usado en",
+    "valor": "mielitis"
+  },
+  {
+    "entidad": "Rivaroxaban",
+    "relacion": "es un",
+    "valor": "anticoagulante"
+  },
+  {
+    "entidad": "Trombocitopenia inducida por Heparina (HIT)",
+    "relacion": "es un",
+    "valor": "trastorno médico"
+  },
+  {
+    "entidad": "Heparina",
+    "relacion": "causa",
+    "valor": "trombocitopenia inducida"
+  },
+  {
+    "entidad": "Enoxaparina",
+    "relacion": "es un",
+    "valor": "tipo de heparina"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "trombocitopenia inducida por heparina"
+  },
+  {
+    "entidad": "Rivaroxaban",
+    "relacion": "se utiliza para",
+    "valor": "tratar trombocitopenia inducida por heparina"
+  },
+  {
+    "entidad": "Hospital Dr. Sótero del Río",
+    "relacion": "es un",
+    "valor": "centro médico"
+  },
+  {
+    "entidad": "Anticuerpos anti heparina-PF4",
+    "relacion": "son",
+    "valor": "indicadores de HIT"
+  },
+  {
+    "entidad": "4T SCORE",
+    "relacion": "se utiliza para",
+    "valor": "evaluar riesgo de HIT"
+  },
+  {
+    "entidad": "Argatroban",
+    "relacion": "es un",
+    "valor": "anticoagulante recomendado para HIT"
+  },
+  {
+    "entidad": "Lepirudin",
+    "relacion": "es un",
+    "valor": "anticoagulante recomendado para HIT"
+  },
+  {
+    "entidad": "Danaparoid",
+    "relacion": "es un",
+    "valor": "anticoagulante recomendado para HIT"
+  },
+  {
+    "entidad": "Dabigatran",
+    "relacion": "es un",
+    "valor": "anticoagulante alternativo"
+  },
+  {
+    "entidad": "Trombosis venosa profunda",
+    "relacion": "es una",
+    "valor": "complicación de HIT"
+  },
+  {
+    "entidad": "Tromboembolismo pulmonar",
+    "relacion": "es una",
+    "valor": "complicación de HIT"
+  },
+  {
+    "entidad": "Rivaroxaban",
+    "relacion": "se considera como",
+    "valor": "terapia novedosa para HIT"
+  },
+  {
+    "entidad": "Anticoagulantes orales de acción directa",
+    "relacion": "son",
+    "valor": "alternativas terapéuticas para HIT"
+  }
+]

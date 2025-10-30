@@ -1,0 +1,742 @@
+[
+  {
+    "entidad": "banco de tejido óseo",
+    "relacion": "implementación en",
+    "valor": "servicio de salud de Chile"
+  },
+  {
+    "entidad": "Servicio Salud Concepción",
+    "relacion": "realiza",
+    "valor": "procedimientos de injerto óseo"
+  },
+  {
+    "entidad": "injerto óseo",
+    "relacion": "tiene un costo de",
+    "valor": "USD $156,000 por año"
+  },
+  {
+    "entidad": "cabezas femorales",
+    "relacion": "pueden ser recuperadas de",
+    "valor": "procedimientos de reemplazo total de cadera"
+  },
+  {
+    "entidad": "banco de tejido óseo",
+    "relacion": "puede generar un ahorro de",
+    "valor": "USD $145,000 en costos hospitalarios anuales"
+  },
+  {
+    "entidad": "Ministerio de Salud (MINSAL)",
+    "relacion": "coordina",
+    "valor": "Sistema Nacional de Servicios de Salud (SNSS)"
+  },
+  {
+    "entidad": "FONASA",
+    "relacion": "cubre",
+    "valor": "78% de la población"
+  },
+  {
+    "entidad": "autoinjertos",
+    "relacion": "son una fuente de",
+    "valor": "injertos óseos"
+  },
+  {
+    "entidad": "injertos óseos",
+    "relacion": "pueden ser obtenidos de",
+    "valor": "donantes vivos, donantes fallecidos, o ser sintéticos"
+  },
+  {
+    "entidad": "banco de tejido óseo",
+    "relacion": "suministra",
+    "valor": "injertos óseos de manera sostenible"
+  },
+  {
+    "entidad": "costo de investigación de infección",
+    "relacion": "es",
+    "valor": "USD $292 por paciente"
+  },
+  {
+    "entidad": "cabezas femorales",
+    "relacion": "son la donación de tejido más común",
+    "valor": "en injertos óseos"
+  },
+  {
+    "entidad": "Sistema Nacional de Servicios de Salud (SNSS)",
+    "relacion": "no tiene datos disponibles para",
+    "valor": "costeo de injerto óseo"
+  },
+  {
+    "entidad": "análisis de impacto presupuestario",
+    "relacion": "compara",
+    "valor": "costo actual de injerto óseo versus obtención desde un BTE"
+  },
+  {
+    "entidad": "banco de tejido óseo",
+    "relacion": "puede mejorar",
+    "valor": "calidad de vida de los pacientes"
+  },
+  {
+    "entidad": "análisis de sensibilidad",
+    "relacion": "evalúa",
+    "valor": "impacto de variables en el AIP"
+  },
+  {
+    "entidad": "banco de tejido óseo",
+    "relacion": "disminuye",
+    "valor": "dependencia de injertos importados"
+  },
+  {
+    "entidad": "costo total por donación de cabeza femoral",
+    "relacion": "es",
+    "valor": "USD $84.44"
+  },
+  {
+    "entidad": "costo de injerto óseo fresco congelado",
+    "relacion": "es",
+    "valor": "USD $1.64 por cc"
+  },
+  {
+    "entidad": "Ototoxicidad",
+    "relacion": "es un",
+    "valor": "efecto secundario de medicamentos"
+  },
+  {
+    "entidad": "Inmunosupresores inhibidores de calcineurina",
+    "relacion": "pueden causar",
+    "valor": "efectos ototóxicos"
+  },
+  {
+    "entidad": "Tacrolimus",
+    "relacion": "no causa",
+    "valor": "pérdida auditiva en rango terapéutico"
+  },
+  {
+    "entidad": "Pacientes trasplantados",
+    "relacion": "reciben",
+    "valor": "tratamiento con inhibidores de calcineurina"
+  },
+  {
+    "entidad": "Estudio",
+    "relacion": "evalúa",
+    "valor": "cambios audiológicos en pacientes trasplantados"
+  },
+  {
+    "entidad": "Audiometría tonal",
+    "relacion": "es un",
+    "valor": "método de evaluación auditiva"
+  },
+  {
+    "entidad": "Emisiones otoacústicas por producto de distorsión",
+    "relacion": "se utilizan para",
+    "valor": "evaluar la función auditiva"
+  },
+  {
+    "entidad": "Cuestionario Tinnitus Handicap Inventory",
+    "relacion": "evalúa",
+    "valor": "el impacto del tinnitus"
+  },
+  {
+    "entidad": "Concentraciones plasmáticas de inhibidores de calcineurina",
+    "relacion": "se correlacionan con",
+    "valor": "umbrales auditivos"
+  },
+  {
+    "entidad": "Cohorte prospectiva",
+    "relacion": "es un",
+    "valor": "tipo de estudio realizado"
+  },
+  {
+    "entidad": "Pacientes adultos",
+    "relacion": "son incluidos en",
+    "valor": "el estudio de trasplante"
+  },
+  {
+    "entidad": "Plasma",
+    "relacion": "se monitorean",
+    "valor": "concentraciones de inmunosupresores"
+  },
+  {
+    "entidad": "Cytomegalovirus (CMV)",
+    "relacion": "puede causar",
+    "valor": "pérdida auditiva en pacientes inmunocomprometidos"
+  },
+  {
+    "entidad": "Fondo Nacional de Desarrollo Científico y Tecnológico (FONDECYT-ANID)",
+    "relacion": "financia",
+    "valor": "la investigación"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "es la institución",
+    "valor": "donde se realizó el estudio"
+  },
+  {
+    "entidad": "pruebas funcionales",
+    "relacion": "son",
+    "valor": "fundamental en la evaluación del riesgo de caídas en adultos mayores"
+  },
+  {
+    "entidad": "adultos mayores",
+    "relacion": "tienen",
+    "valor": "antecedentes de caídas"
+  },
+  {
+    "entidad": "adultos mayores",
+    "relacion": "no tienen",
+    "valor": "antecedentes de caídas"
+  },
+  {
+    "entidad": "estudio transversal",
+    "relacion": "evalúa",
+    "valor": "pruebas funcionales y fuerza de prensión"
+  },
+  {
+    "entidad": "Timed Up & Go",
+    "relacion": "es",
+    "valor": "una prueba funcional"
+  },
+  {
+    "entidad": "Five Times Sit to Stand Test",
+    "relacion": "es",
+    "valor": "una prueba funcional"
+  },
+  {
+    "entidad": "Prueba de Estación Unipodal",
+    "relacion": "es",
+    "valor": "una prueba funcional"
+  },
+  {
+    "entidad": "fuerza de prensión",
+    "relacion": "tiene",
+    "valor": "correlación estadísticamente significativa entre grupos"
+  },
+  {
+    "entidad": "adultos mayores caedores",
+    "relacion": "presentan",
+    "valor": "valores asociativos en pruebas funcionales"
+  },
+  {
+    "entidad": "fuerza de prensión",
+    "relacion": "se asocia con",
+    "valor": "diversos parámetros fisiológicos"
+  },
+  {
+    "entidad": "SENAMA",
+    "relacion": "es",
+    "valor": "el Servicio Nacional del Adulto Mayor en Chile"
+  },
+  {
+    "entidad": "Universidad Católica Silva Henríquez",
+    "relacion": "autorizó",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "evaluación funcional",
+    "relacion": "debe incluir",
+    "valor": "tareas motoras y cognitivas"
+  },
+  {
+    "entidad": "riesgo de caídas",
+    "relacion": "es determinado por",
+    "valor": "factores intrínsecos y extrínsecos"
+  },
+  {
+    "entidad": "caídas accidentales",
+    "relacion": "ocurren",
+    "valor": "al deambular o tropezar"
+  },
+  {
+    "entidad": "evaluación del riesgo de caídas",
+    "relacion": "puede ser mejorada por",
+    "valor": "la combinación de múltiples pruebas"
+  },
+  {
+    "entidad": "adultos mayores",
+    "relacion": "pueden ser",
+    "valor": "evaluados en Centros de Día"
+  },
+  {
+    "entidad": "fuerza de prensión",
+    "relacion": "es un",
+    "valor": "importante predictor de salud en adultos mayores"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "constituyen",
+    "valor": "el 85% de la muestra"
+  },
+  {
+    "entidad": "muestra",
+    "relacion": "incluye",
+    "valor": "adultos mayores independientes"
+  },
+  {
+    "entidad": "evaluación funcional",
+    "relacion": "debe considerar",
+    "valor": "historial de caídas y comorbilidades"
+  },
+  {
+    "entidad": "estudiantes universitarios chilenos",
+    "relacion": "son",
+    "valor": "población en estudio"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "cambia",
+    "valor": "al ingresar a la educación superior"
+  },
+  {
+    "entidad": "calidad de la dieta",
+    "relacion": "cambia",
+    "valor": "al ingresar a la educación superior"
+  },
+  {
+    "entidad": "peso",
+    "relacion": "cambia",
+    "valor": "al ingresar a la educación superior"
+  },
+  {
+    "entidad": "Universidad de Las Américas",
+    "relacion": "financia",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "Healthy Eating Index (HEI)",
+    "relacion": "evalúa",
+    "valor": "calidad de la dieta"
+  },
+  {
+    "entidad": "Global Physical Activity Questionnaire (GPAQ)",
+    "relacion": "evalúa",
+    "valor": "nivel de actividad física"
+  },
+  {
+    "entidad": "IMC",
+    "relacion": "se calcula a partir de",
+    "valor": "peso y altura"
+  },
+  {
+    "entidad": "sedentarismo",
+    "relacion": "aumenta",
+    "valor": "en estudiantes universitarios"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "disminuye",
+    "valor": "en estudiantes universitarios"
+  },
+  {
+    "entidad": "calidad de la dieta",
+    "relacion": "disminuye",
+    "valor": "en estudiantes universitarios"
+  },
+  {
+    "entidad": "peso",
+    "relacion": "aumenta",
+    "valor": "en estudiantes universitarios"
+  },
+  {
+    "entidad": "IMC",
+    "relacion": "aumenta",
+    "valor": "en estudiantes universitarios"
+  },
+  {
+    "entidad": "sedentarismo",
+    "relacion": "asocia",
+    "valor": "con problemas de salud"
+  },
+  {
+    "entidad": "universidad",
+    "relacion": "influye en",
+    "valor": "hábitos alimentarios"
+  },
+  {
+    "entidad": "estilo de vida saludable",
+    "relacion": "incluye",
+    "valor": "ejercicio físico y alimentación saludable"
+  },
+  {
+    "entidad": "cambio de hábitos",
+    "relacion": "es causado por",
+    "valor": "nuevas responsabilidades en la universidad"
+  },
+  {
+    "entidad": "motivaciones",
+    "relacion": "cambian",
+    "valor": "en el contexto universitario"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "es un problema",
+    "valor": "en Chile"
+  },
+  {
+    "entidad": "estudiantes universitarios",
+    "relacion": "son un grupo",
+    "valor": "en riesgo nutricional"
+  },
+  {
+    "entidad": "cáncer de próstata",
+    "relacion": "es un",
+    "valor": "enfermedad con alta prevalencia e incidencia"
+  },
+  {
+    "entidad": "tamizaje",
+    "relacion": "persigue",
+    "valor": "diagnóstico precoz del cáncer de próstata"
+  },
+  {
+    "entidad": "Hospital Naval Almirante Nef",
+    "relacion": "realiza",
+    "valor": "análisis retrospectivo de pacientes con cáncer de próstata"
+  },
+  {
+    "entidad": "PSA",
+    "relacion": "es un",
+    "valor": "marcador utilizado en el diagnóstico del cáncer de próstata"
+  },
+  {
+    "entidad": "MRI",
+    "relacion": "se utiliza en",
+    "valor": "etapificación del cáncer de próstata"
+  },
+  {
+    "entidad": "PET-CT PSMA",
+    "relacion": "se utiliza principalmente en",
+    "valor": "pacientes de alto riesgo"
+  },
+  {
+    "entidad": "etapificación",
+    "relacion": "se realiza mediante",
+    "valor": "imagenología convencional y PET-CT PSMA"
+  },
+  {
+    "entidad": "clasificación ISUP",
+    "relacion": "se utiliza para",
+    "valor": "determinar el grado histológico del cáncer de próstata"
+  },
+  {
+    "entidad": "cáncer de próstata",
+    "relacion": "es la segunda causa de",
+    "valor": "mortalidad por cáncer en hombres en Chile"
+  },
+  {
+    "entidad": "protocolos de tamizaje",
+    "relacion": "son necesarios para",
+    "valor": "disminuir casos diagnosticados en etapas avanzadas"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "ha disminuido",
+    "valor": "el acceso a salud de pacientes"
+  },
+  {
+    "entidad": "análisis retrospectivo",
+    "relacion": "se llevó a cabo en",
+    "valor": "pacientes diagnosticados entre 2018 y 2020"
+  },
+  {
+    "entidad": "Hospital Naval Almirante Nef",
+    "relacion": "es un",
+    "valor": "hospital institucional en Chile"
+  },
+  {
+    "entidad": "cáncer de próstata",
+    "relacion": "presenta variaciones en",
+    "valor": "etapa al diagnóstico según el país"
+  },
+  {
+    "entidad": "medicina preventiva anual",
+    "relacion": "se realiza en",
+    "valor": "personal en servicio activo"
+  },
+  {
+    "entidad": "cáncer de próstata",
+    "relacion": "requiere",
+    "valor": "tratamientos que prolongan la vida en casos metastásicos"
+  },
+  {
+    "entidad": "Índice de obesidad ABSI",
+    "relacion": "asociación con",
+    "valor": "diabetes mellitus tipo 2"
+  },
+  {
+    "entidad": "diabetes mellitus tipo 2",
+    "relacion": "es un",
+    "valor": "desafío de salud pública"
+  },
+  {
+    "entidad": "ABSI",
+    "relacion": "evalúa",
+    "valor": "distribución del volumen corporal"
+  },
+  {
+    "entidad": "glicemia",
+    "relacion": "asociación con",
+    "valor": "ABSI"
+  },
+  {
+    "entidad": "hemoglobina glicosilada (HbAc1)",
+    "relacion": "asociación con",
+    "valor": "ABSI"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud 2016-2017",
+    "relacion": "proporciona",
+    "valor": "datos sobre salud en Chile"
+  },
+  {
+    "entidad": "ABSI",
+    "relacion": "predice",
+    "valor": "riesgo de enfermedades crónicas"
+  },
+  {
+    "entidad": "IMC",
+    "relacion": "es un",
+    "valor": "criterio de diagnóstico de obesidad"
+  },
+  {
+    "entidad": "perímetro de cintura (PC)",
+    "relacion": "es un",
+    "valor": "indicador de riesgo cardiovascular"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "causa",
+    "valor": "resistencia a la insulina"
+  },
+  {
+    "entidad": "ABSI",
+    "relacion": "complementa",
+    "valor": "evaluación de riesgo metabólico"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "presentan",
+    "valor": "aumento de glicemia por ABSI"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "presentan",
+    "valor": "aumento significativo de glicemia por ABSI"
+  },
+  {
+    "entidad": "ABSI",
+    "relacion": "asociación con",
+    "valor": "probabilidad de desarrollar DMT2"
+  },
+  {
+    "entidad": "factores de confusión",
+    "relacion": "ajustan",
+    "valor": "análisis de ABSI"
+  },
+  {
+    "entidad": "diabetes mellitus tipo 2",
+    "relacion": "aumenta",
+    "valor": "con el incremento de ABSI"
+  },
+  {
+    "entidad": "ABSI",
+    "relacion": "es un",
+    "valor": "indicador útil para riesgo metabólico"
+  },
+  {
+    "entidad": "tuberculosis (TB)",
+    "relacion": "es una",
+    "valor": "enfermedad re-emergente"
+  },
+  {
+    "entidad": "Hospital Base de Valdivia",
+    "relacion": "es un",
+    "valor": "centro de referencia regional"
+  },
+  {
+    "entidad": "Alberto Fica",
+    "relacion": "es el",
+    "valor": "autor principal del estudio"
+  },
+  {
+    "entidad": "diabetes mellitus",
+    "relacion": "afecta a",
+    "valor": "pacientes con tuberculosis"
+  },
+  {
+    "entidad": "localización pulmonar",
+    "relacion": "es la",
+    "valor": "forma más frecuente de tuberculosis"
+  },
+  {
+    "entidad": "microscopía de tinción",
+    "relacion": "tiene una sensibilidad de",
+    "valor": "78.8% en TB pulmonar"
+  },
+  {
+    "entidad": "PCR",
+    "relacion": "es aplicada",
+    "valor": "ocasionalmente en menos del 10% de los casos"
+  },
+  {
+    "entidad": "PCR",
+    "relacion": "tiene una sensibilidad de",
+    "valor": "100% en muestras de esputo"
+  },
+  {
+    "entidad": "tiempo entre inicio de síntomas y diagnóstico",
+    "relacion": "es",
+    "valor": "prolongado (9 semanas)"
+  },
+  {
+    "entidad": "letalidad",
+    "relacion": "alcanzó",
+    "valor": "19%"
+  },
+  {
+    "entidad": "shock",
+    "relacion": "está asociado con",
+    "valor": "un desenlace fatal"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "es alta en",
+    "valor": "pacientes con tuberculosis"
+  },
+  {
+    "entidad": "tuberculosis",
+    "relacion": "requiere",
+    "valor": "hospitalización en un gran porcentaje de casos"
+  },
+  {
+    "entidad": "corticoides",
+    "relacion": "son utilizados en",
+    "valor": "25% de los casos"
+  },
+  {
+    "entidad": "ajustes de dosis",
+    "relacion": "son frecuentes en",
+    "valor": "22.1% de los casos"
+  },
+  {
+    "entidad": "interrupciones del tratamiento",
+    "relacion": "ocurren en",
+    "valor": "11% de los casos"
+  },
+  {
+    "entidad": "tuberculosis",
+    "relacion": "es diagnosticada",
+    "valor": "en un 32.5% de los eventos en el hospital"
+  },
+  {
+    "entidad": "métodos moleculares",
+    "relacion": "son infrecuentemente utilizados para",
+    "valor": "diagnóstico de tuberculosis"
+  },
+  {
+    "entidad": "tuberculosis",
+    "relacion": "es un problema",
+    "valor": "en el contexto de recortes presupuestarios"
+  },
+  {
+    "entidad": "HIV/AIDS",
+    "relacion": "tiene una incidencia",
+    "valor": "aumentada en la población"
+  },
+  {
+    "entidad": "admisiones por tuberculosis",
+    "relacion": "son analizadas en",
+    "valor": "un hospital regional"
+  },
+  {
+    "entidad": "diagnóstico de tuberculosis",
+    "relacion": "es tardío en",
+    "valor": "la mayoría de los casos"
+  },
+  {
+    "entidad": "tuberculosis",
+    "relacion": "requiere",
+    "valor": "manejo intensivo en pacientes hospitalizados"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "afecta a",
+    "valor": "millones de vidas"
+  },
+  {
+    "entidad": "plasma de convalecientes",
+    "relacion": "se utiliza en",
+    "valor": "pacientes hospitalizados por COVID-19"
+  },
+  {
+    "entidad": "SARS-CoV-2",
+    "relacion": "es el agente causante de",
+    "valor": "COVID-19"
+  },
+  {
+    "entidad": "plasma de convalecientes",
+    "relacion": "se evalúa en",
+    "valor": "pacientes con COVID-19 de moderada gravedad"
+  },
+  {
+    "entidad": "Hospital Base de Valdivia",
+    "relacion": "es un",
+    "valor": "centro de estudio"
+  },
+  {
+    "entidad": "Clínica Alemana de Valdivia",
+    "relacion": "es un",
+    "valor": "centro de estudio"
+  },
+  {
+    "entidad": "plasma de convalecientes",
+    "relacion": "es donado por",
+    "valor": "sobrevivientes de COVID-19"
+  },
+  {
+    "entidad": "plasma de convalecientes",
+    "relacion": "no se asocia con",
+    "valor": "menor mortalidad"
+  },
+  {
+    "entidad": "plasma de convalecientes",
+    "relacion": "no se asocia con",
+    "valor": "necesidad de ventilación mecánica"
+  },
+  {
+    "entidad": "plasma de convalecientes",
+    "relacion": "no se asocia con",
+    "valor": "cambios en la estadía hospitalaria"
+  },
+  {
+    "entidad": "cardiopatía",
+    "relacion": "es un factor",
+    "valor": "independiente de mortalidad"
+  },
+  {
+    "entidad": "necesidad de ventilación mecánica",
+    "relacion": "es un factor",
+    "valor": "independiente de mortalidad"
+  },
+  {
+    "entidad": "Fondo de Innovación para la Competitividad (FIC)",
+    "relacion": "financia",
+    "valor": "tratamiento COVID-19 con plasma inmune"
+  },
+  {
+    "entidad": "Universidad Austral de Chile",
+    "relacion": "es un",
+    "valor": "instituto de medicina"
+  },
+  {
+    "entidad": "CALL score",
+    "relacion": "se utiliza para",
+    "valor": "predecir la progresión de la enfermedad"
+  },
+  {
+    "entidad": "plasma de convalecientes",
+    "relacion": "se obtiene de",
+    "valor": "donantes hombres o mujeres nuligestas"
+  },
+  {
+    "entidad": "plasma de convalecientes",
+    "relacion": "se busca",
+    "valor": "IgG anti-SARS-CoV-2"
+  }
+]

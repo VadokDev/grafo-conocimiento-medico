@@ -1,0 +1,297 @@
+[
+  {
+    "entidad": "Paraquat",
+    "relacion": "es un",
+    "valor": "herbicida bipiridilo no selectivo"
+  },
+  {
+    "entidad": "Paraquat",
+    "relacion": "causa",
+    "valor": "intoxicación"
+  },
+  {
+    "entidad": "intoxicación por Paraquat",
+    "relacion": "afecta a",
+    "valor": "riñones, pulmones y hígado"
+  },
+  {
+    "entidad": "intoxicación por Paraquat",
+    "relacion": "genera",
+    "valor": "toxicidad por liberación de radicales superóxido"
+  },
+  {
+    "entidad": "paciente masculino de 31 años",
+    "relacion": "ingirió",
+    "valor": "Paraquat con intención suicida"
+  },
+  {
+    "entidad": "Paraquat",
+    "relacion": "no tiene",
+    "valor": "antídoto disponible"
+  },
+  {
+    "entidad": "ingestión de Paraquat",
+    "relacion": "resulta en",
+    "valor": "falla renal y hepática aguda"
+  },
+  {
+    "entidad": "falla respiratoria",
+    "relacion": "es un",
+    "valor": "efecto de la intoxicación por Paraquat"
+  },
+  {
+    "entidad": "terapia inmunosupresora",
+    "relacion": "se utiliza para",
+    "valor": "tratar el proceso inflamatorio agudo"
+  },
+  {
+    "entidad": "ciclofosfamida",
+    "relacion": "se asocia con",
+    "valor": "glucocorticoides para reducir riesgo de muerte"
+  },
+  {
+    "entidad": "glucocorticoides",
+    "relacion": "se utilizan en",
+    "valor": "pacientes con fibrosis pulmonar inducida por Paraquat"
+  },
+  {
+    "entidad": "Paraquat",
+    "relacion": "se utiliza en",
+    "valor": "agricultura"
+  },
+  {
+    "entidad": "intoxicación por Paraquat",
+    "relacion": "se reporta en",
+    "valor": "intentos suicidas"
+  },
+  {
+    "entidad": "mecanismo de acción de Paraquat",
+    "relacion": "está en",
+    "valor": "investigación"
+  },
+  {
+    "entidad": "oxigenoterapia",
+    "relacion": "no está indicada en",
+    "valor": "intoxicación por Paraquat"
+  },
+  {
+    "entidad": "tratamiento de soporte",
+    "relacion": "incluye",
+    "valor": "monitorización de función renal y hepática"
+  },
+  {
+    "entidad": "ciclofosfamida",
+    "relacion": "ha sido estudiada en",
+    "valor": "pacientes con fibrosis pulmonar inducida por Paraquat"
+  },
+  {
+    "entidad": "mujer de 21 años",
+    "relacion": "diagnosticada con",
+    "valor": "diabetes mellitus"
+  },
+  {
+    "entidad": "diabetes mellitus",
+    "relacion": "diagnosticada a los",
+    "valor": "17 años"
+  },
+  {
+    "entidad": "diabetes mellitus",
+    "relacion": "sin",
+    "valor": "cetoacidosis"
+  },
+  {
+    "entidad": "diabetes mellitus",
+    "relacion": "sin",
+    "valor": "pérdida de peso"
+  },
+  {
+    "entidad": "índice de masa corporal",
+    "relacion": "es",
+    "valor": "18 kg/m2"
+  },
+  {
+    "entidad": "C péptido",
+    "relacion": "es",
+    "valor": "normal"
+  },
+  {
+    "entidad": "diabetes mellitus tipo 1",
+    "relacion": "autoanticuerpos son",
+    "valor": "negativos"
+  },
+  {
+    "entidad": "diabetes monogénica",
+    "relacion": "propuesta como",
+    "valor": "MODY"
+  },
+  {
+    "entidad": "padre",
+    "relacion": "es",
+    "valor": "diabético"
+  },
+  {
+    "entidad": "hermano",
+    "relacion": "presenta",
+    "valor": "glucosa alterada en ayuno"
+  },
+  {
+    "entidad": "Universidad de Exeter",
+    "relacion": "calcula",
+    "valor": "probabilidad de MODY2"
+  },
+  {
+    "entidad": "mutación en el gen glucocinasa",
+    "relacion": "encontrada en",
+    "valor": "posición 1343 del exón 10"
+  },
+  {
+    "entidad": "mutación",
+    "relacion": "es",
+    "valor": "heterocigota"
+  },
+  {
+    "entidad": "mutación",
+    "relacion": "es heredada por",
+    "valor": "línea paterna"
+  },
+  {
+    "entidad": "MODY2",
+    "relacion": "confirmado en",
+    "valor": "paciente y padre"
+  },
+  {
+    "entidad": "mutación",
+    "relacion": "es diferente de",
+    "valor": "las descritas en la literatura"
+  },
+  {
+    "entidad": "glucocinasa",
+    "relacion": "cataliza",
+    "valor": "conversión de glucosa a glucosa-6-fosfato"
+  },
+  {
+    "entidad": "MODY",
+    "relacion": "se clasifica según",
+    "valor": "presentaciones clínicas y genes afectados"
+  },
+  {
+    "entidad": "pacientes MODY",
+    "relacion": "diagnosticados como",
+    "valor": "tipo 2"
+  },
+  {
+    "entidad": "estudio genético",
+    "relacion": "realizado en",
+    "valor": "familia"
+  },
+  {
+    "entidad": "Hospital San Juan de Dios",
+    "relacion": "es",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "Comité de Ética",
+    "relacion": "aprueba",
+    "valor": "estudio genético familiar"
+  },
+  {
+    "entidad": "mutación",
+    "relacion": "probablemente es",
+    "valor": "patogénica"
+  },
+  {
+    "entidad": "mujer de 21 años",
+    "relacion": "recibe tratamiento",
+    "valor": "metformina"
+  },
+  {
+    "entidad": "metformina",
+    "relacion": "suspendida por",
+    "valor": "intolerancia gástrica"
+  },
+  {
+    "entidad": "mujer de 21 años",
+    "relacion": "mantiene",
+    "valor": "HbA1c entre 6-7%"
+  },
+  {
+    "entidad": "acromegalia",
+    "relacion": "es una",
+    "valor": "patología hipofisaria"
+  },
+  {
+    "entidad": "enfermedad de Cushing",
+    "relacion": "es una",
+    "valor": "patología hipofisaria"
+  },
+  {
+    "entidad": "tumor productor de hormona de crecimiento",
+    "relacion": "causa",
+    "valor": "acromegalia"
+  },
+  {
+    "entidad": "tumor productor de ACTH",
+    "relacion": "causa",
+    "valor": "enfermedad de Cushing"
+  },
+  {
+    "entidad": "apoplejía hipofisiaria",
+    "relacion": "asociada a",
+    "valor": "remisión espontánea de hipersecreción hormonal"
+  },
+  {
+    "entidad": "pacientes mayores de 70 años",
+    "relacion": "presentan",
+    "valor": "remisión espontánea de acromegalia y enfermedad de Cushing"
+  },
+  {
+    "entidad": "microadenomas",
+    "relacion": "son",
+    "valor": "tumores hipofisiarios"
+  },
+  {
+    "entidad": "Dra. Verónica Araya",
+    "relacion": "es",
+    "valor": "autora del estudio"
+  },
+  {
+    "entidad": "Hospital Clínico de la Universidad de Chile",
+    "relacion": "es un",
+    "valor": "centro de salud"
+  },
+  {
+    "entidad": "senescencia celular",
+    "relacion": "puede favorecer",
+    "valor": "remisión espontánea de hiperfunción"
+  },
+  {
+    "entidad": "adenomas hipofisiarios",
+    "relacion": "presentan",
+    "valor": "alteraciones en el gen Pttg"
+  },
+  {
+    "entidad": "Pttg",
+    "relacion": "facilita",
+    "valor": "expresión de proteínas que promueven envejecimiento celular"
+  },
+  {
+    "entidad": "enfermedad de Cushing",
+    "relacion": "generalmente ocurre por",
+    "valor": "presencia de microadenomas"
+  },
+  {
+    "entidad": "hipopituitarismo",
+    "relacion": "puede ser causado por",
+    "valor": "apoplejía hipofisiaria"
+  },
+  {
+    "entidad": "mecanismos de senescencia",
+    "relacion": "pueden ser potenciados por",
+    "valor": "envejecimiento fisiológico"
+  },
+  {
+    "entidad": "opciones de terapia médica",
+    "relacion": "existen",
+    "valor": "con efectividad comprobada"
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "entidad": "leucemia mieloblástica aguda",
+    "relacion": "es un tipo de",
+    "valor": "neoplasia"
+  },
+  {
+    "entidad": "translocación (8;21)",
+    "relacion": "involucra",
+    "valor": "genes RUNX1/RUNX1T1"
+  },
+  {
+    "entidad": "Hospital Base Valdivia",
+    "relacion": "realiza",
+    "valor": "manejo de leucemia mieloblástica aguda"
+  },
+  {
+    "entidad": "citarabina",
+    "relacion": "es un tratamiento",
+    "valor": "para leucemia mieloblástica aguda"
+  },
+  {
+    "entidad": "antraciclina",
+    "relacion": "es un tratamiento",
+    "valor": "para leucemia mieloblástica aguda"
+  },
+  {
+    "entidad": "enfermedad mínima residual",
+    "relacion": "es un concepto",
+    "valor": "en el seguimiento de leucemia"
+  },
+  {
+    "entidad": "paciente de 20 años",
+    "relacion": "presenta",
+    "valor": "leucemia mieloblástica aguda con translocación (8;21)"
+  },
+  {
+    "entidad": "quimioterapia de inducción",
+    "relacion": "inicia",
+    "valor": "con citarabina y daunorrubicina"
+  },
+  {
+    "entidad": "esquema FLAG-IDA",
+    "relacion": "se utiliza",
+    "valor": "para tratamiento de recaída"
+  },
+  {
+    "entidad": "trasplante de progenitores hematopoyéticos alogénico",
+    "relacion": "se define",
+    "valor": "como tratamiento en segunda remisión completa"
+  },
+  {
+    "entidad": "c-KIT",
+    "relacion": "es una mutación",
+    "valor": "que confiere mal pronóstico"
+  },
+  {
+    "entidad": "esquema 7 + 3",
+    "relacion": "es un tratamiento estándar",
+    "valor": "en Chile para leucemia mieloblástica aguda"
+  },
+  {
+    "entidad": "gemtuzumab ozogamicin",
+    "relacion": "es un anticuerpo monoclonal",
+    "valor": "para leucemia mieloblástica aguda"
+  },
+  {
+    "entidad": "European Leukemia Network",
+    "relacion": "publica",
+    "valor": "documento de consenso sobre MRD"
+  },
+  {
+    "entidad": "RUNX1/RUNX1T1",
+    "relacion": "es un marcador",
+    "valor": "en el seguimiento de leucemia mieloblástica aguda"
+  },
+  {
+    "entidad": "Muerte súbita",
+    "relacion": "es un tipo de",
+    "valor": "evento cardíaco"
+  },
+  {
+    "entidad": "Fibrilación ventricular",
+    "relacion": "es un tipo de",
+    "valor": "arritmia"
+  },
+  {
+    "entidad": "Síndrome de Brugada",
+    "relacion": "es un tipo de",
+    "valor": "canalopatía"
+  },
+  {
+    "entidad": "Atleta",
+    "relacion": "es un",
+    "valor": "individuo que realiza ejercicio regularmente"
+  },
+  {
+    "entidad": "Ejercicio extremo",
+    "relacion": "puede causar",
+    "valor": "muerte súbita"
+  },
+  {
+    "entidad": "Desfibrilador externo automático",
+    "relacion": "es un",
+    "valor": "dispositivo para reanimación"
+  },
+  {
+    "entidad": "Implante de desfibrilador automático",
+    "relacion": "es un tratamiento para",
+    "valor": "prevención secundaria de muerte súbita"
+  },
+  {
+    "entidad": "Prueba con Ajmalina",
+    "relacion": "se utiliza para",
+    "valor": "diagnosticar el Síndrome de Brugada"
+  },
+  {
+    "entidad": "Gen SCN5A",
+    "relacion": "es responsable de",
+    "valor": "disfunción de los canales de sodio"
+  },
+  {
+    "entidad": "Muerte súbita cardíaca",
+    "relacion": "ocurre en",
+    "valor": "sujetos con o sin cardiopatía conocida"
+  },
+  {
+    "entidad": "Fibrilación ventricular",
+    "relacion": "es la arritmia más frecuente en",
+    "valor": "muerte súbita en atletas"
+  },
+  {
+    "entidad": "DAI Sbc",
+    "relacion": "es una alternativa a",
+    "valor": "DAI intracardíaco"
+  },
+  {
+    "entidad": "Ejercicio físico",
+    "relacion": "mejora",
+    "valor": "calidad de vida"
+  },
+  {
+    "entidad": "Ejercicio extremo",
+    "relacion": "puede inducir",
+    "valor": "sustrato arritmogénico"
+  },
+  {
+    "entidad": "Muerte súbita en atletas",
+    "relacion": "es más frecuente en",
+    "valor": "hombres durante ejercicio recreacional"
+  },
+  {
+    "entidad": "Test de esfuerzo",
+    "relacion": "puede evidenciar",
+    "valor": "pBr tipo I"
+  },
+  {
+    "entidad": "DAI",
+    "relacion": "no es contraindicación para",
+    "valor": "práctica deportiva sin impacto"
+  },
+  {
+    "entidad": "Muerte súbita",
+    "relacion": "tiene una incidencia superior a",
+    "valor": "350.000 casos/año en EE.UU."
+  },
+  {
+    "entidad": "Nefropatía aguda por fosfatos",
+    "relacion": "es un tipo de",
+    "valor": "falla renal aguda"
+  },
+  {
+    "entidad": "laxantes de fosfato de sodio",
+    "relacion": "causa",
+    "valor": "nefropatía aguda por fosfatos"
+  },
+  {
+    "entidad": "enfermedad mixta del tejido conectivo",
+    "relacion": "afecta a",
+    "valor": "mujer de 60 años"
+  },
+  {
+    "entidad": "creatinina plasmática",
+    "relacion": "aumenta hasta",
+    "valor": "2.0 mg/dL"
+  },
+  {
+    "entidad": "biopsia renal",
+    "relacion": "confirma",
+    "valor": "nefropatía aguda por fosfatos"
+  },
+  {
+    "entidad": "laxantes de fosfato de sodio",
+    "relacion": "deben ser evitados en",
+    "valor": "pacientes de alto riesgo"
+  },
+  {
+    "entidad": "FDA",
+    "relacion": "publica alerta sobre",
+    "valor": "falla renal asociada a laxantes de fosfato de sodio"
+  },
+  {
+    "entidad": "falla renal aguda",
+    "relacion": "puede evolucionar a",
+    "valor": "enfermedad renal crónica"
+  },
+  {
+    "entidad": "uso de laxantes de fosfato de sodio",
+    "relacion": "asociado a",
+    "valor": "daño renal"
+  },
+  {
+    "entidad": "mujer de 60 años",
+    "relacion": "recibe tratamiento con",
+    "valor": "micofenolato, hidroxicloroquina y valsartán"
+  },
+  {
+    "entidad": "examen de orina",
+    "relacion": "muestra",
+    "valor": "sin proteinuria"
+  },
+  {
+    "entidad": "biopsia renal",
+    "relacion": "muestra",
+    "valor": "depósitos de fosfato cálcico"
+  },
+  {
+    "entidad": "laxantes de fosfato de sodio",
+    "relacion": "requieren",
+    "valor": "poca cantidad para limpieza del colon"
+  },
+  {
+    "entidad": "Nefropatía aguda por fosfatos",
+    "relacion": "se diagnostica por",
+    "valor": "asociación temporal con uso de laxantes"
+  },
+  {
+    "entidad": "pacientes con NAP",
+    "relacion": "presentan",
+    "valor": "sedimento de orina anodino"
+  },
+  {
+    "entidad": "creatinina",
+    "relacion": "puede aumentar a",
+    "valor": "3.9 mg/dL"
+  },
+  {
+    "entidad": "uso de laxantes de fosfato de sodio",
+    "relacion": "asociado a",
+    "valor": "mayor riesgo de IRA"
+  },
+  {
+    "entidad": "estrategia principal",
+    "relacion": "es",
+    "valor": "prevención de NAP"
+  },
+  {
+    "entidad": "laxantes osmóticos como PEG",
+    "relacion": "tienen menor riesgo de",
+    "valor": "falla renal comparado con FSO"
+  }
+]

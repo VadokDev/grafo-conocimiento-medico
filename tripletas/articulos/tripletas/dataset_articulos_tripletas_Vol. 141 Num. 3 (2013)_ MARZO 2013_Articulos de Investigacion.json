@@ -1,0 +1,967 @@
+[
+  {
+    "entidad": "Cobre",
+    "relacion": "tiene",
+    "valor": "actividad bactericida"
+  },
+  {
+    "entidad": "Bacterias nosocomiales",
+    "relacion": "causan",
+    "valor": "infecciones nosocomiales"
+  },
+  {
+    "entidad": "Superficies de cobre",
+    "relacion": "representan",
+    "valor": "opción para reducir contaminación bacteriana"
+  },
+  {
+    "entidad": "Staphylococcus aureus resistente a meticilina (SAMR)",
+    "relacion": "no adhiere a",
+    "valor": "superficies de cobre"
+  },
+  {
+    "entidad": "Klebsiella pneumoniae",
+    "relacion": "no adhiere a",
+    "valor": "superficies de cobre"
+  },
+  {
+    "entidad": "Acinetobacter baumannii",
+    "relacion": "no adhiere a",
+    "valor": "superficies de cobre"
+  },
+  {
+    "entidad": "Pseudomonas aeruginosa",
+    "relacion": "adhiere a",
+    "valor": "superficies de cobre"
+  },
+  {
+    "entidad": "Instituto de Ciencias Biomédicas",
+    "relacion": "pertenece a",
+    "valor": "Universidad de Chile"
+  },
+  {
+    "entidad": "Facultad de Medicina",
+    "relacion": "pertenece a",
+    "valor": "Universidad de Chile"
+  },
+  {
+    "entidad": "Universidad de Antofagasta",
+    "relacion": "tiene",
+    "valor": "laboratorio de BioMinería"
+  },
+  {
+    "entidad": "Grant Innovachile 08cM01-19",
+    "relacion": "financia",
+    "valor": "desarrollo de plataforma de conocimiento sobre cobre"
+  },
+  {
+    "entidad": "Bacterias planctónicas",
+    "relacion": "son afectadas por",
+    "valor": "superficies de cobre"
+  },
+  {
+    "entidad": "Infecciones nosocomiales",
+    "relacion": "son un problema",
+    "valor": "global"
+  },
+  {
+    "entidad": "Patógenos bacterianos",
+    "relacion": "pueden colonizar",
+    "valor": "superficies hospitalarias"
+  },
+  {
+    "entidad": "Cobre",
+    "relacion": "libera",
+    "valor": "cationes que inhiben bacterias"
+  },
+  {
+    "entidad": "Superficies de acero inoxidable",
+    "relacion": "son",
+    "valor": "material óptimo para infraestructura sanitaria"
+  },
+  {
+    "entidad": "Cobre metálico",
+    "relacion": "es",
+    "valor": "alternativa para recubrir superficies de alto contacto"
+  },
+  {
+    "entidad": "Ministerio de Salud",
+    "relacion": "desarrolla",
+    "valor": "análisis de eficiencia técnica hospitalaria"
+  },
+  {
+    "entidad": "eficiencia técnica",
+    "relacion": "evalúa",
+    "valor": "28 hospitales en Chile"
+  },
+  {
+    "entidad": "Data Envelopment Analysis",
+    "relacion": "es una técnica",
+    "valor": "para evaluar eficiencia"
+  },
+  {
+    "entidad": "gastos en salud",
+    "relacion": "aumenta debido a",
+    "valor": "cambios epidemiológicos y envejecimiento"
+  },
+  {
+    "entidad": "hospitales",
+    "relacion": "consumen",
+    "valor": "recursos en salud"
+  },
+  {
+    "entidad": "eficiencia técnica",
+    "relacion": "permite",
+    "valor": "optimizar prácticas de gestión"
+  },
+  {
+    "entidad": "hospitales",
+    "relacion": "deben reducir",
+    "valor": "insumos de producción para ser eficientes"
+  },
+  {
+    "entidad": "personal de leyes médicas",
+    "relacion": "incluye",
+    "valor": "médicos, odontólogos, químicos farmacéuticos"
+  },
+  {
+    "entidad": "camas hospitalarias",
+    "relacion": "son un insumo",
+    "valor": "en la producción hospitalaria"
+  },
+  {
+    "entidad": "egreso hospitalario",
+    "relacion": "es un producto",
+    "valor": "del proceso hospitalario"
+  },
+  {
+    "entidad": "eficiencia técnica",
+    "relacion": "se mide a través de",
+    "valor": "índices de eficiencia"
+  },
+  {
+    "entidad": "hospitales",
+    "relacion": "pueden aumentar",
+    "valor": "producción manteniendo insumos constantes"
+  },
+  {
+    "entidad": "eficiencia a escala",
+    "relacion": "es afectada por",
+    "valor": "tamaño de los hospitales"
+  },
+  {
+    "entidad": "egresos ponderados",
+    "relacion": "son un indicador",
+    "valor": "de productividad hospitalaria"
+  },
+  {
+    "entidad": "hospitales en la frontera de eficiencia",
+    "relacion": "tienen",
+    "valor": "menor costo de egreso"
+  },
+  {
+    "entidad": "toma de decisiones",
+    "relacion": "se beneficia de",
+    "valor": "análisis de eficiencia hospitalaria"
+  },
+  {
+    "entidad": "Programa multidisciplinario",
+    "relacion": "controla",
+    "valor": "hábito tabáquico"
+  },
+  {
+    "entidad": "hábito tabáquico",
+    "relacion": "es un",
+    "valor": "problema de salud pública"
+  },
+  {
+    "entidad": "Clínica Santa María",
+    "relacion": "instituye",
+    "valor": "programa antitabaco"
+  },
+  {
+    "entidad": "terapia psicológica",
+    "relacion": "es parte de",
+    "valor": "tratamiento para dejar de fumar"
+  },
+  {
+    "entidad": "terapia de reemplazo de nicotina",
+    "relacion": "es un tipo de",
+    "valor": "tratamiento para dejar de fumar"
+  },
+  {
+    "entidad": "bupropión",
+    "relacion": "es un",
+    "valor": "fármaco para dejar de fumar"
+  },
+  {
+    "entidad": "vareniclina",
+    "relacion": "es un",
+    "valor": "fármaco para dejar de fumar"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "son evaluados por",
+    "valor": "seguimiento telefónico"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "son excluidos si tienen",
+    "valor": "enfermedades psiquiátricas inestables"
+  },
+  {
+    "entidad": "antecedente de depresión",
+    "relacion": "afecta",
+    "valor": "éxito del tratamiento"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "causa",
+    "valor": "muerte evitable"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud (OMS)",
+    "relacion": "denomina",
+    "valor": "tabaquismo como epidemia moderna"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "es factor causal de",
+    "valor": "neoplasias de pulmón"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "es factor causal de",
+    "valor": "enfermedad pulmonar obstructiva crónica (EPOC)"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "es factor causal de",
+    "valor": "patología coronaria"
+  },
+  {
+    "entidad": "programa antitabaco",
+    "relacion": "logra",
+    "valor": "abstinencia en pacientes"
+  },
+  {
+    "entidad": "efectos adversos",
+    "relacion": "son reportados para",
+    "valor": "vareniclina y bupropión"
+  },
+  {
+    "entidad": "incremento de peso",
+    "relacion": "es un motivo de",
+    "valor": "recaídas en el tabaquismo"
+  },
+  {
+    "entidad": "equipo multidisciplinario",
+    "relacion": "debe abordar",
+    "valor": "tratamiento de la adicción nicotínica"
+  },
+  {
+    "entidad": "estrategias multidisciplinarias",
+    "relacion": "son recomendadas para",
+    "valor": "atención del paciente con adicción nicotínica"
+  },
+  {
+    "entidad": "Salmonella enterica",
+    "relacion": "es un",
+    "valor": "bacteria"
+  },
+  {
+    "entidad": "Laboratorio de Microbiología Veterinaria",
+    "relacion": "pertenece a",
+    "valor": "Universidad de Concepción"
+  },
+  {
+    "entidad": "susceptibilidad antimicrobiana",
+    "relacion": "evalúa",
+    "valor": "cepas de Salmonella enterica"
+  },
+  {
+    "entidad": "muestras de origen animal y alimentario",
+    "relacion": "son",
+    "valor": "fuentes de aislamiento"
+  },
+  {
+    "entidad": "método Kirby-Bauer",
+    "relacion": "utiliza",
+    "valor": "para determinar resistencia"
+  },
+  {
+    "entidad": "Clinical and Laboratory Standards Institute",
+    "relacion": "proporciona",
+    "valor": "recomendaciones"
+  },
+  {
+    "entidad": "serotipos",
+    "relacion": "son",
+    "valor": "variantes de Salmonella enterica"
+  },
+  {
+    "entidad": "resistencia a antibióticos",
+    "relacion": "afecta a",
+    "valor": "salud pública"
+  },
+  {
+    "entidad": "uso indiscriminado de antibióticos",
+    "relacion": "aumenta",
+    "valor": "resistencia bacteriana"
+  },
+  {
+    "entidad": "Salmonella enterica",
+    "relacion": "presenta",
+    "valor": "multidrug resistance (MDR)"
+  },
+  {
+    "entidad": "S. Derby",
+    "relacion": "es un",
+    "valor": "serovar de Salmonella"
+  },
+  {
+    "entidad": "S. infantis",
+    "relacion": "tiene",
+    "valor": "menor probabilidad de resistencia a sulfa-trimetoprim"
+  },
+  {
+    "entidad": "S. grupo E (3,9;-;-)",
+    "relacion": "tiene",
+    "valor": "mayor riesgo de resistencia a ampicilina"
+  },
+  {
+    "entidad": "cepas de Salmonella",
+    "relacion": "se agrupan",
+    "valor": "según su origen"
+  },
+  {
+    "entidad": "serovares no tifoideos",
+    "relacion": "son considerados",
+    "valor": "zoonóticos"
+  },
+  {
+    "entidad": "S. Worthington",
+    "relacion": "es un",
+    "valor": "patógeno emergente"
+  },
+  {
+    "entidad": "resistencia a oxitetraciclina",
+    "relacion": "es",
+    "valor": "alta en cepas aisladas"
+  },
+  {
+    "entidad": "programas de vigilancia de la resistencia antibiótica",
+    "relacion": "están orientados a",
+    "valor": "patógenos humanos"
+  },
+  {
+    "entidad": "método de macro dilución",
+    "relacion": "se utiliza para",
+    "valor": "determinar concentración mínima inhibitoria (CMI)"
+  },
+  {
+    "entidad": "análisis de correspondencias múltiples (MCA)",
+    "relacion": "explora",
+    "valor": "relación entre resistencia y origen de cepas"
+  },
+  {
+    "entidad": "enfermedad de Parkinson",
+    "relacion": "afecta a",
+    "valor": "cuidadores"
+  },
+  {
+    "entidad": "cuidadores",
+    "relacion": "experimentan",
+    "valor": "disminución en calidad de vida"
+  },
+  {
+    "entidad": "cuidadores",
+    "relacion": "presentan",
+    "valor": "sobrecarga"
+  },
+  {
+    "entidad": "depresión",
+    "relacion": "es un",
+    "valor": "factor determinante de sobrecarga"
+  },
+  {
+    "entidad": "trastornos motores",
+    "relacion": "aumentan",
+    "valor": "sobrecarga del cuidador"
+  },
+  {
+    "entidad": "deterioro cognitivo",
+    "relacion": "aumenta",
+    "valor": "sobrecarga del cuidador"
+  },
+  {
+    "entidad": "carga del cuidador",
+    "relacion": "se relaciona con",
+    "valor": "síntomas depresivos del paciente"
+  },
+  {
+    "entidad": "cuidadores",
+    "relacion": "dedican",
+    "valor": "más tiempo a pacientes con sobrecarga intensa"
+  },
+  {
+    "entidad": "escala de sobrecarga de Zarit",
+    "relacion": "evalúa",
+    "valor": "impacto en cuidadores"
+  },
+  {
+    "entidad": "cuidadores",
+    "relacion": "son",
+    "valor": "familiares de los pacientes"
+  },
+  {
+    "entidad": "universidad de Santiago de Chile",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "Centro de Trastornos del Movimiento (cetraM)",
+    "relacion": "es un",
+    "valor": "centro de investigación"
+  },
+  {
+    "entidad": "pacientes con enfermedad de Parkinson",
+    "relacion": "requieren",
+    "valor": "asistencia de cuidadores"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "se ve afectada por",
+    "valor": "la carga del cuidador"
+  },
+  {
+    "entidad": "soporte social",
+    "relacion": "reduce",
+    "valor": "estrés del cuidador"
+  },
+  {
+    "entidad": "cuidadores",
+    "relacion": "son",
+    "valor": "reconocidos como cuidadores principales"
+  },
+  {
+    "entidad": "evaluación clínica",
+    "relacion": "incluye",
+    "valor": "examen físico y neurológico"
+  },
+  {
+    "entidad": "escala de sobrecarga del cuidador de Zarit",
+    "relacion": "mide",
+    "valor": "sentimientos negativos y tensión"
+  },
+  {
+    "entidad": "pacientes con EPI",
+    "relacion": "desarrollan",
+    "valor": "depresión"
+  },
+  {
+    "entidad": "carga del cuidador",
+    "relacion": "es un",
+    "valor": "problema de salud pública"
+  },
+  {
+    "entidad": "adolescentes",
+    "relacion": "inician",
+    "valor": "actividad sexual temprano"
+  },
+  {
+    "entidad": "factores familiares",
+    "relacion": "asociados a",
+    "valor": "inicio sexual temprano"
+  },
+  {
+    "entidad": "CEMERA",
+    "relacion": "es",
+    "valor": "centro de salud sexual y reproductiva"
+  },
+  {
+    "entidad": "familias numerosas",
+    "relacion": "aumentan",
+    "valor": "riesgo de inicio sexual temprano"
+  },
+  {
+    "entidad": "mejor comunicación entre padres e hijos",
+    "relacion": "asocia a",
+    "valor": "menor actividad sexual"
+  },
+  {
+    "entidad": "madres solteras",
+    "relacion": "aumentan",
+    "valor": "riesgo de inicio sexual temprano"
+  },
+  {
+    "entidad": "divorcio o separación de los padres",
+    "relacion": "influye en",
+    "valor": "inicio temprano de actividad sexual"
+  },
+  {
+    "entidad": "padres educados",
+    "relacion": "disminuyen",
+    "valor": "riesgo de inicio sexual temprano"
+  },
+  {
+    "entidad": "empleo maternal fuera del hogar",
+    "relacion": "aumenta",
+    "valor": "riesgo de actividad sexual temprana"
+  },
+  {
+    "entidad": "nivel socioeconómico bajo",
+    "relacion": "aumenta",
+    "valor": "tasas de actividad sexual y embarazo adolescente"
+  },
+  {
+    "entidad": "filiación no matrimonial",
+    "relacion": "aumenta",
+    "valor": "riesgo de inicio sexual temprano en mujeres"
+  },
+  {
+    "entidad": "antecedente de paternidad adolescente",
+    "relacion": "aumenta",
+    "valor": "riesgo de inicio sexual temprano en mujeres"
+  },
+  {
+    "entidad": "sanción al quebrantamiento de normas familiares",
+    "relacion": "aumenta",
+    "valor": "riesgo de inicio sexual temprano en hombres"
+  },
+  {
+    "entidad": "permisos sin restricción",
+    "relacion": "aumenta",
+    "valor": "riesgo de inicio sexual temprano en hombres"
+  },
+  {
+    "entidad": "mala relación con los padres",
+    "relacion": "asocia a",
+    "valor": "inicio sexual temprano"
+  },
+  {
+    "entidad": "disfunción familiar",
+    "relacion": "asocia a",
+    "valor": "inicio sexual temprano"
+  },
+  {
+    "entidad": "m.3243A>G",
+    "relacion": "causa",
+    "valor": "Maternally Inherited Diabetes and Deafness (MIDD)"
+  },
+  {
+    "entidad": "Maternally Inherited Diabetes and Deafness (MIDD)",
+    "relacion": "afecta a",
+    "valor": "pacientes con diabetes y sordera"
+  },
+  {
+    "entidad": "mitocondrial DNA (mtDNA)",
+    "relacion": "contiene",
+    "valor": "mutaciones"
+  },
+  {
+    "entidad": "mutación m.3243A>G",
+    "relacion": "se ubica en",
+    "valor": "gen MT-TL1"
+  },
+  {
+    "entidad": "MT-TL1",
+    "relacion": "codifica para",
+    "valor": "tRNA para la leucina"
+  },
+  {
+    "entidad": "mutación m.3243A>G",
+    "relacion": "promueve",
+    "valor": "modificación en la estructura del tRNA"
+  },
+  {
+    "entidad": "cadena transportadora de electrones",
+    "relacion": "es alterada por",
+    "valor": "mutación en MT-TL1"
+  },
+  {
+    "entidad": "síntesis de ATP",
+    "relacion": "es esencial para",
+    "valor": "secreción de insulina"
+  },
+  {
+    "entidad": "insulina",
+    "relacion": "es secretada por",
+    "valor": "células β-pancreáticas"
+  },
+  {
+    "entidad": "heteroplasmia",
+    "relacion": "determina",
+    "valor": "proporción de ADN mitocondrial mutado"
+  },
+  {
+    "entidad": "saliva",
+    "relacion": "representa",
+    "valor": "una forma no invasiva para evaluar mutaciones"
+  },
+  {
+    "entidad": "músculo",
+    "relacion": "presenta",
+    "valor": "mayor grado de heteroplasmia"
+  },
+  {
+    "entidad": "sangre",
+    "relacion": "presenta",
+    "valor": "menor grado de heteroplasmia"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "diagnosticada con",
+    "valor": "diabetes a los 40 años"
+  },
+  {
+    "entidad": "familia de la paciente",
+    "relacion": "presenta",
+    "valor": "agregación inusual de diabetes y sordera"
+  },
+  {
+    "entidad": "técnica de PCR-RFLP",
+    "relacion": "se utiliza para",
+    "valor": "identificar mutaciones"
+  },
+  {
+    "entidad": "técnica de qPCR",
+    "relacion": "se utiliza para",
+    "valor": "cuantificar heteroplasmia"
+  },
+  {
+    "entidad": "haplogrupo D",
+    "relacion": "es encontrado en",
+    "valor": "paciente con mutación m.3243A>G"
+  },
+  {
+    "entidad": "metformina",
+    "relacion": "puede causar",
+    "valor": "aumento de ácido láctico en MIDD"
+  },
+  {
+    "entidad": "MIDD",
+    "relacion": "puede incluir",
+    "valor": "síntomas de MELAS"
+  },
+  {
+    "entidad": "ADN mitocondrial",
+    "relacion": "se utiliza para",
+    "valor": "diagnóstico genético"
+  },
+  {
+    "entidad": "técnicas de secuenciación masiva-paralela",
+    "relacion": "pueden incrementar",
+    "valor": "capacidad de detección de mutaciones"
+  },
+  {
+    "entidad": "Enfermedad de Parkinson",
+    "relacion": "es",
+    "valor": "una condición neurodegenerativa"
+  },
+  {
+    "entidad": "Enfermedad de Parkinson",
+    "relacion": "determina",
+    "valor": "pérdida de calidad de vida"
+  },
+  {
+    "entidad": "Enfermedad de Parkinson",
+    "relacion": "aumenta",
+    "valor": "la mortalidad en afectados"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "tiene",
+    "valor": "tasas de mortalidad por enfermedad de Parkinson"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "suministra",
+    "valor": "datos de mortalidad"
+  },
+  {
+    "entidad": "Datos de mortalidad",
+    "relacion": "se obtienen de",
+    "valor": "certificados de defunción"
+  },
+  {
+    "entidad": "Mortalidad por enfermedad de Parkinson",
+    "relacion": "ha aumentado",
+    "valor": "progresivamente"
+  },
+  {
+    "entidad": "Mortalidad",
+    "relacion": "es mayor en",
+    "valor": "hombres"
+  },
+  {
+    "entidad": "Mortalidad",
+    "relacion": "es mayor en",
+    "valor": "personas mayores de 80 años"
+  },
+  {
+    "entidad": "Región de Valparaíso",
+    "relacion": "tiene",
+    "valor": "la tasa de mortalidad más alta"
+  },
+  {
+    "entidad": "Región de Antofagasta",
+    "relacion": "tiene",
+    "valor": "la tasa de mortalidad más baja"
+  },
+  {
+    "entidad": "Mortalidad por enfermedad de Parkinson",
+    "relacion": "se relaciona con",
+    "valor": "aumento de la prevalencia"
+  },
+  {
+    "entidad": "Estudio",
+    "relacion": "evalúa",
+    "valor": "tendencia de mortalidad por enfermedad de Parkinson"
+  },
+  {
+    "entidad": "Tendencia de mortalidad",
+    "relacion": "se analiza por",
+    "valor": "edad, sexo y región geográfica"
+  },
+  {
+    "entidad": "Tasa de mortalidad",
+    "relacion": "se calcula por",
+    "valor": "cada 100,000 habitantes"
+  },
+  {
+    "entidad": "Clasificación Internacional de Enfermedades",
+    "relacion": "se utiliza para",
+    "valor": "diagnosticar enfermedad de Parkinson"
+  },
+  {
+    "entidad": "Hombres con enfermedad de Parkinson",
+    "relacion": "mueren",
+    "valor": "1.5 años antes que mujeres"
+  },
+  {
+    "entidad": "Mortalidad por enfermedad de Parkinson",
+    "relacion": "varía entre",
+    "valor": "diferentes regiones de Chile"
+  },
+  {
+    "entidad": "Estudios epidemiológicos",
+    "relacion": "son necesarios para",
+    "valor": "determinar incidencia de enfermedad de Parkinson"
+  },
+  {
+    "entidad": "cirugía coronaria sin circulación extracorpórea",
+    "relacion": "es un",
+    "valor": "método de revascularización miocárdica"
+  },
+  {
+    "entidad": "cirugía coronaria con circulación extracorpórea",
+    "relacion": "es un",
+    "valor": "método estándar para enfermedad coronaria"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "tienen",
+    "valor": "factores de riesgo cardiovascular"
+  },
+  {
+    "entidad": "hipertensión",
+    "relacion": "afecta a",
+    "valor": "80% de los pacientes"
+  },
+  {
+    "entidad": "diabetes",
+    "relacion": "afecta a",
+    "valor": "26.8% de los pacientes"
+  },
+  {
+    "entidad": "dislipidemia",
+    "relacion": "afecta a",
+    "valor": "39% de los pacientes"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "afecta a",
+    "valor": "38.6% de los pacientes"
+  },
+  {
+    "entidad": "angina estable",
+    "relacion": "afecta a",
+    "valor": "64.1% de los pacientes"
+  },
+  {
+    "entidad": "infarto reciente",
+    "relacion": "afecta a",
+    "valor": "24.5% de los pacientes"
+  },
+  {
+    "entidad": "angioplastía previa",
+    "relacion": "afecta a",
+    "valor": "20.9% de los pacientes"
+  },
+  {
+    "entidad": "fracción de eyección del ventrículo izquierdo",
+    "relacion": "se clasifica en",
+    "valor": "< 30%, 30%-50%, > 50%"
+  },
+  {
+    "entidad": "EuroSCORE aditivo",
+    "relacion": "es",
+    "valor": "3.32"
+  },
+  {
+    "entidad": "EuroSCORE logístico",
+    "relacion": "es",
+    "valor": "3.55%"
+  },
+  {
+    "entidad": "complicaciones postoperatorias",
+    "relacion": "ocurren en",
+    "valor": "19.1% de los pacientes"
+  },
+  {
+    "entidad": "mortalidad operatoria",
+    "relacion": "es",
+    "valor": "1.36%"
+  },
+  {
+    "entidad": "sobrevida global a 4 años",
+    "relacion": "es",
+    "valor": "92.3%"
+  },
+  {
+    "entidad": "sobrevida libre de infarto",
+    "relacion": "es",
+    "valor": "96.8%"
+  },
+  {
+    "entidad": "sobrevida libre de accidente vascular encefálico",
+    "relacion": "es",
+    "valor": "96.8%"
+  },
+  {
+    "entidad": "sobrevida libre de reintervención",
+    "relacion": "es",
+    "valor": "95.9%"
+  },
+  {
+    "entidad": "cirugía coronaria sin CEC",
+    "relacion": "tiene resultados comparables a",
+    "valor": "cirugía tradicional"
+  },
+  {
+    "entidad": "técnicas de revascularización",
+    "relacion": "se desarrollan con",
+    "valor": "corazón batiente"
+  },
+  {
+    "entidad": "Society of Thoracic Surgeons",
+    "relacion": "reporta",
+    "valor": "21% de cirugías sin CEC en EE.UU."
+  },
+  {
+    "entidad": "Asociación Europea de Cirugía Cardio Torácica",
+    "relacion": "reporta",
+    "valor": "21% de cirugías sin CEC en Europa"
+  },
+  {
+    "entidad": "Terremoto en Chile",
+    "relacion": "causa",
+    "valor": "estrés agudo y estrés post-traumático"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "en tratamiento por",
+    "valor": "depresión severa"
+  },
+  {
+    "entidad": "Hospital de Curicó",
+    "relacion": "fue",
+    "valor": "destruido por el terremoto"
+  },
+  {
+    "entidad": "estrés agudo",
+    "relacion": "se asocia con",
+    "valor": "bajo nivel educativo"
+  },
+  {
+    "entidad": "estrés post-traumático",
+    "relacion": "se asocia con",
+    "valor": "antecedentes de trauma infantil"
+  },
+  {
+    "entidad": "depresión",
+    "relacion": "es un",
+    "valor": "factor de riesgo para TEPT"
+  },
+  {
+    "entidad": "mujeres en tratamiento por depresión severa",
+    "relacion": "presentan",
+    "valor": "alta frecuencia de TEPT"
+  },
+  {
+    "entidad": "estrés agudo",
+    "relacion": "se presenta en",
+    "valor": "mujeres tras el terremoto"
+  },
+  {
+    "entidad": "antecedentes traumáticos infantiles",
+    "relacion": "aumentan",
+    "valor": "la gravedad de la depresión"
+  },
+  {
+    "entidad": "Guías Clínicas ministeriales",
+    "relacion": "son utilizadas para",
+    "valor": "el tratamiento de la depresión"
+  },
+  {
+    "entidad": "Unidad de Salud Mental",
+    "relacion": "reorganizó",
+    "valor": "la atención de pacientes tras el terremoto"
+  },
+  {
+    "entidad": "mujeres con depresión severa",
+    "relacion": "fueron evaluadas por",
+    "valor": "su psiquiatra tratante"
+  },
+  {
+    "entidad": "estrés post-traumático",
+    "relacion": "se desarrolla tras",
+    "valor": "experiencias traumáticas"
+  },
+  {
+    "entidad": "depresión severa",
+    "relacion": "requiere",
+    "valor": "intervenciones específicas tras desastres"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "es un país",
+    "valor": "altamente sísmico"
+  },
+  {
+    "entidad": "Hospital de Curicó",
+    "relacion": "colapsó durante",
+    "valor": "el terremoto"
+  },
+  {
+    "entidad": "estrés agudo",
+    "relacion": "se manifiesta como",
+    "valor": "distress subclínico"
+  },
+  {
+    "entidad": "estrés post-traumático",
+    "relacion": "es una",
+    "valor": "patología común tras desastres naturales"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "son más vulnerables a",
+    "valor": "TEPT"
+  },
+  {
+    "entidad": "depresión",
+    "relacion": "se asocia con",
+    "valor": "mayor gasto en salud"
+  }
+]

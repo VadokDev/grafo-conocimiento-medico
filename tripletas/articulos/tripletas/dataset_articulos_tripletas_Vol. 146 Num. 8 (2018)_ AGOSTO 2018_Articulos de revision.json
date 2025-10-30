@@ -1,0 +1,207 @@
+[
+  {
+    "entidad": "Enfermedad Hepática Grasa No Alcohólica (EHGNA)",
+    "relacion": "es",
+    "valor": "principal causa de daño hepático crónico a nivel mundial"
+  },
+  {
+    "entidad": "EHGNA",
+    "relacion": "se correlaciona con",
+    "valor": "obesidad"
+  },
+  {
+    "entidad": "EHGNA",
+    "relacion": "se correlaciona con",
+    "valor": "síndrome metabólico (SM)"
+  },
+  {
+    "entidad": "EHGNA",
+    "relacion": "se correlaciona con",
+    "valor": "diabetes tipo 2 (DM2)"
+  },
+  {
+    "entidad": "EHGNA",
+    "relacion": "se correlaciona con",
+    "valor": "dislipidemia"
+  },
+  {
+    "entidad": "Inactividad física",
+    "relacion": "juega un rol clave en",
+    "valor": "patogenia del EHGNA"
+  },
+  {
+    "entidad": "Dieta hipercalórica y desequilibrada",
+    "relacion": "juega un rol clave en",
+    "valor": "patogenia del EHGNA"
+  },
+  {
+    "entidad": "Envejecimiento",
+    "relacion": "juega un rol clave en",
+    "valor": "patogenia del EHGNA"
+  },
+  {
+    "entidad": "Pérdida de peso",
+    "relacion": "es la intervención más eficaz para",
+    "valor": "revertir EHGNA"
+  },
+  {
+    "entidad": "Dieta hipocalórica",
+    "relacion": "es recomendada para",
+    "valor": "reducir peso corporal"
+  },
+  {
+    "entidad": "Ejercicio físico",
+    "relacion": "contribuye a",
+    "valor": "pérdida de peso"
+  },
+  {
+    "entidad": "Ejercicio aeróbico",
+    "relacion": "mejora",
+    "valor": "capacidad cardiorrespiratoria"
+  },
+  {
+    "entidad": "Ejercicio de resistencia",
+    "relacion": "mejora",
+    "valor": "masa libre de grasa"
+  },
+  {
+    "entidad": "Metformina",
+    "relacion": "es un",
+    "valor": "fármaco propuesto para el tratamiento de EHGNA"
+  },
+  {
+    "entidad": "Tiazolidinedionas",
+    "relacion": "aumentan",
+    "valor": "sensibilidad a la insulina"
+  },
+  {
+    "entidad": "Vitamina E",
+    "relacion": "reduce",
+    "valor": "niveles séricos de transaminasas"
+  },
+  {
+    "entidad": "Ácidos grasos n-3",
+    "relacion": "reduce",
+    "valor": "nivel sérico de transaminasas"
+  },
+  {
+    "entidad": "Probióticos",
+    "relacion": "podrían ser beneficiosos para",
+    "valor": "tratamiento de EHGNA"
+  },
+  {
+    "entidad": "Pentoxifilina",
+    "relacion": "reduce",
+    "valor": "niveles séricos de transaminasas"
+  },
+  {
+    "entidad": "Ezetimibe",
+    "relacion": "reduce",
+    "valor": "niveles de transaminasas"
+  },
+  {
+    "entidad": "Ejercicio físico",
+    "relacion": "es clave para",
+    "valor": "prevenir y mejorar enfermedades relacionadas con la obesidad"
+  },
+  {
+    "entidad": "Dieta",
+    "relacion": "es un componente fundamental en",
+    "valor": "prevención y tratamiento de EHGNA"
+  },
+  {
+    "entidad": "Muerte súbita en epilepsia",
+    "relacion": "se define como",
+    "valor": "muerte súbita, inesperada, no traumática ni por asfixia en pacientes con epilepsia"
+  },
+  {
+    "entidad": "SUDEP",
+    "relacion": "es un tipo de",
+    "valor": "muerte súbita en epilepsia"
+  },
+  {
+    "entidad": "Hipócrates",
+    "relacion": "atribuye la primera descripción de",
+    "valor": "muerte súbita"
+  },
+  {
+    "entidad": "Louis Delasiauve",
+    "relacion": "realiza la primera descripción formal de",
+    "valor": "SUDEP"
+  },
+  {
+    "entidad": "William Spratling",
+    "relacion": "describe casos de",
+    "valor": "muerte súbita en pacientes con epilepsia institucionalizados"
+  },
+  {
+    "entidad": "SUDEP",
+    "relacion": "representa",
+    "valor": "causa de muerte en 2-18% de los casos"
+  },
+  {
+    "entidad": "epilepsia",
+    "relacion": "tiene una mortalidad global",
+    "valor": "2 a 3 veces mayor que en la población general"
+  },
+  {
+    "entidad": "SUDEP",
+    "relacion": "aumenta el riesgo de muerte súbita",
+    "valor": "20 a 25 veces en pacientes con epilepsia"
+  },
+  {
+    "entidad": "crisis epilépticas",
+    "relacion": "son un factor de riesgo para",
+    "valor": "SUDEP"
+  },
+  {
+    "entidad": "crisis tónico clónicas generalizadas",
+    "relacion": "son el tipo de crisis más importante para",
+    "valor": "SUDEP"
+  },
+  {
+    "entidad": "fisiopatología de SUDEP",
+    "relacion": "no está completamente entendida",
+    "valor": "mecanismos involucrados"
+  },
+  {
+    "entidad": "alteraciones cardiovasculares",
+    "relacion": "se han observado en",
+    "valor": "pacientes con SUDEP"
+  },
+  {
+    "entidad": "apnea central",
+    "relacion": "es un mecanismo propuesto para",
+    "valor": "SUDEP"
+  },
+  {
+    "entidad": "tratamiento de SUDEP",
+    "relacion": "se centra en",
+    "valor": "prevención y manejo de factores de riesgo"
+  },
+  {
+    "entidad": "supervisión nocturna",
+    "relacion": "presenta evidencia a favor de",
+    "valor": "prevención de SUDEP"
+  },
+  {
+    "entidad": "cirugía de la epilepsia",
+    "relacion": "puede reducir la mortalidad asociada a",
+    "valor": "SUDEP"
+  },
+  {
+    "entidad": "educación al paciente",
+    "relacion": "es importante para mejorar",
+    "valor": "adherencia al tratamiento"
+  },
+  {
+    "entidad": "intervenciones comunitarias",
+    "relacion": "podrían ser útiles para",
+    "valor": "reducir la mortalidad asociada a la epilepsia"
+  },
+  {
+    "entidad": "SUDEP",
+    "relacion": "afecta principalmente a",
+    "valor": "pacientes jóvenes entre 20 y 40 años"
+  }
+]

@@ -1,0 +1,712 @@
+[
+  {
+    "entidad": "paracetamol",
+    "relacion": "es un",
+    "valor": "analgésico y antipirético"
+  },
+  {
+    "entidad": "paracetamol",
+    "relacion": "causa",
+    "valor": "intoxicaciones accidentales e intencionales"
+  },
+  {
+    "entidad": "intoxicaciones intencionales por paracetamol",
+    "relacion": "aumenta",
+    "valor": "en Chile (2019-2023)"
+  },
+  {
+    "entidad": "Centro de Información Toxicológica UC (CITUC)",
+    "relacion": "registra",
+    "valor": "casos de intoxicación por paracetamol"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "afecta",
+    "valor": "aumentar las intoxicaciones intencionales por paracetamol"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "representan",
+    "valor": "80,3% de los casos de ingesta de paracetamol con fines suicidas"
+  },
+  {
+    "entidad": "dosis hepatotóxicas de paracetamol",
+    "relacion": "se alcanzan en",
+    "valor": "56,6% de los casos de ideación suicida"
+  },
+  {
+    "entidad": "intoxicación por paracetamol",
+    "relacion": "es la",
+    "valor": "segunda causa más habitual de trasplante hepático en el mundo"
+  },
+  {
+    "entidad": "Reino Unido",
+    "relacion": "implementa",
+    "valor": "medidas restrictivas sobre la venta de paracetamol"
+  },
+  {
+    "entidad": "FDA",
+    "relacion": "reduce",
+    "valor": "dosis de paracetamol en combinación con opioides"
+  },
+  {
+    "entidad": "N-Acetilcisteína (NAC)",
+    "relacion": "es un",
+    "valor": "antídoto para la intoxicación por paracetamol"
+  },
+  {
+    "entidad": "Centro Nacional de Farmacovigilancia del Instituto de Salud Pública (ISP)",
+    "relacion": "reporta",
+    "valor": "paracetamol como uno de los fármacos más involucrados en reacciones adversas"
+  },
+  {
+    "entidad": "Ministerio de Salud (MINSAL)",
+    "relacion": "reconoce",
+    "valor": "CITUC como centro de referencia para el manejo de intoxicaciones"
+  },
+  {
+    "entidad": "intoxicaciones por paracetamol",
+    "relacion": "aumentan",
+    "valor": "significativamente desde 2009 hasta 2023"
+  },
+  {
+    "entidad": "adolescentes",
+    "relacion": "representan",
+    "valor": "48,5% de los casos de ideación suicida"
+  },
+  {
+    "entidad": "intoxicaciones accidentales",
+    "relacion": "se mantienen",
+    "valor": "estables durante el período de estudio"
+  },
+  {
+    "entidad": "intoxicación por paracetamol",
+    "relacion": "requiere",
+    "valor": "intervención médica oportuna"
+  },
+  {
+    "entidad": "co-ingesta de paracetamol",
+    "relacion": "ocurre en",
+    "valor": "53% de los casos registrados"
+  },
+  {
+    "entidad": "paracetamol",
+    "relacion": "es el",
+    "valor": "agente más frecuente en intoxicaciones farmacológicas"
+  },
+  {
+    "entidad": "intoxicaciones por paracetamol",
+    "relacion": "se relacionan con",
+    "valor": "ideación suicida en un 68,8% de los casos"
+  },
+  {
+    "entidad": "personas mayores",
+    "relacion": "representarán",
+    "valor": "32% de la población de Chile para 2050"
+  },
+  {
+    "entidad": "personas mayores",
+    "relacion": "presentan",
+    "valor": "desafíos asociados a enfermedades crónicas y dependencia"
+  },
+  {
+    "entidad": "tercera edad",
+    "relacion": "definida como",
+    "valor": "65-79 años"
+  },
+  {
+    "entidad": "cuarta edad",
+    "relacion": "definida como",
+    "valor": "80 años y más"
+  },
+  {
+    "entidad": "enfermedades crónicas no transmisibles (ECNT)",
+    "relacion": "caracteriza",
+    "valor": "la funcionalidad de las personas mayores"
+  },
+  {
+    "entidad": "Centros de Atención Primaria (APS)",
+    "relacion": "ofrecen",
+    "valor": "acceso al programa del adulto mayor"
+  },
+  {
+    "entidad": "programa del adulto mayor",
+    "relacion": "evalúa",
+    "valor": "la funcionalidad de sus inscritos"
+  },
+  {
+    "entidad": "dependencia",
+    "relacion": "aumenta",
+    "valor": "con el envejecimiento"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud (OMS)",
+    "relacion": "proyecta",
+    "valor": "426 millones de mayores de 80 años a nivel mundial para 2050"
+  },
+  {
+    "entidad": "enfermedades cardiovasculares",
+    "relacion": "contribuyen",
+    "valor": "30,3% a la carga de enfermedad"
+  },
+  {
+    "entidad": "neoplasias malignas",
+    "relacion": "contribuyen",
+    "valor": "15,1% a la carga de enfermedad"
+  },
+  {
+    "entidad": "enfermedades respiratorias crónicas",
+    "relacion": "contribuyen",
+    "valor": "9,5% a la carga de enfermedad"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "contribuye",
+    "valor": "al desarrollo de enfermedades crónicas"
+  },
+  {
+    "entidad": "sedentarismo",
+    "relacion": "contribuye",
+    "valor": "al desarrollo de enfermedades crónicas"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "contribuye",
+    "valor": "al desarrollo de enfermedades crónicas"
+  },
+  {
+    "entidad": "Ley 21.144",
+    "relacion": "oficializa",
+    "valor": "la cuarta edad como las personas mayores de 80 años y más"
+  },
+  {
+    "entidad": "FONASA",
+    "relacion": "afilia",
+    "valor": "90,37% de los mayores de 65 años al sistema público de salud"
+  },
+  {
+    "entidad": "población de mayores de 60 años",
+    "relacion": "representa",
+    "valor": "18% de la población en Chile"
+  },
+  {
+    "entidad": "población de mayores de 80 años",
+    "relacion": "incrementó",
+    "valor": "162% en los últimos 20 años"
+  },
+  {
+    "entidad": "dependencia funcional",
+    "relacion": "es más prevalente",
+    "valor": "en la cuarta edad"
+  },
+  {
+    "entidad": "mujeres de tercera edad",
+    "relacion": "tienen",
+    "valor": "mayor dependencia que hombres"
+  },
+  {
+    "entidad": "enfermedades crónicas",
+    "relacion": "aumentan",
+    "valor": "su prevalencia entre tercera y cuarta edad"
+  },
+  {
+    "entidad": "Riesgo Cardiovascular (RCV)",
+    "relacion": "es alto",
+    "valor": "en más de la mitad de las personas mayores"
+  },
+  {
+    "entidad": "programas preventivos",
+    "relacion": "ofrecen",
+    "valor": "exámenes médicos preventivos y estrategias de vida saludable"
+  },
+  {
+    "entidad": "dependencia",
+    "relacion": "es más prevalente",
+    "valor": "en la cuarta edad y en mujeres"
+  },
+  {
+    "entidad": "diabetes",
+    "relacion": "aumenta",
+    "valor": "el riesgo de discapacidad"
+  },
+  {
+    "entidad": "enfermedad renal crónica (ERC)",
+    "relacion": "aumenta",
+    "valor": "significativamente en mayores de 80 años"
+  },
+  {
+    "entidad": "intervenciones preventivas",
+    "relacion": "son esenciales",
+    "valor": "para preservar la capacidad funcional"
+  },
+  {
+    "entidad": "proyecto Alexandros",
+    "relacion": "destaca",
+    "valor": "que disminuir la brecha educativa es un factor protector"
+  },
+  {
+    "entidad": "sarcoidosis",
+    "relacion": "es un",
+    "valor": "enfermedad inflamatoria multisistémica"
+  },
+  {
+    "entidad": "sarcoidosis",
+    "relacion": "se caracteriza por",
+    "valor": "formación de granulomas"
+  },
+  {
+    "entidad": "compromiso ocular",
+    "relacion": "es un",
+    "valor": "síntoma frecuente de sarcoidosis"
+  },
+  {
+    "entidad": "uveítis bilateral",
+    "relacion": "es un",
+    "valor": "tipo de compromiso ocular en sarcoidosis"
+  },
+  {
+    "entidad": "Panuveítis (PU)",
+    "relacion": "es un",
+    "valor": "subtipo de uveítis"
+  },
+  {
+    "entidad": "Uveítis Anterior (UA)",
+    "relacion": "es un",
+    "valor": "subtipo de uveítis"
+  },
+  {
+    "entidad": "compromiso del polo posterior",
+    "relacion": "se asocia con",
+    "valor": "mayor riesgo de ceguera"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "se asocia con",
+    "valor": "subtipo de uveítis"
+  },
+  {
+    "entidad": "pacientes mayores de 70 años",
+    "relacion": "presentan",
+    "valor": "disminución de agudeza visual moderada o severa"
+  },
+  {
+    "entidad": "pulmón",
+    "relacion": "es el",
+    "valor": "órgano más frecuentemente comprometido en sarcoidosis"
+  },
+  {
+    "entidad": "sarcoidosis ocular",
+    "relacion": "es",
+    "valor": "una causa de ceguera"
+  },
+  {
+    "entidad": "diagnóstico de sarcoidosis",
+    "relacion": "es",
+    "valor": "complejo"
+  },
+  {
+    "entidad": "criterios WASOG",
+    "relacion": "se utilizan para",
+    "valor": "diagnosticar sarcoidosis"
+  },
+  {
+    "entidad": "criterios IWOS",
+    "relacion": "se utilizan para",
+    "valor": "diagnosticar sarcoidosis ocular"
+  },
+  {
+    "entidad": "membrana neovascular coroidea",
+    "relacion": "es una complicación de",
+    "valor": "sarcoidosis que puede afectar la visión"
+  },
+  {
+    "entidad": "trabajo colaborativo entre especialidades",
+    "relacion": "es necesario para",
+    "valor": "manejar el compromiso ocular en sarcoidosis"
+  },
+  {
+    "entidad": "cáncer de mama",
+    "relacion": "es",
+    "valor": "la principal causa de muerte por cáncer en mujeres"
+  },
+  {
+    "entidad": "espacios verdes urbanos",
+    "relacion": "se asocia con",
+    "valor": "efectos beneficiosos en la salud"
+  },
+  {
+    "entidad": "cáncer de mama",
+    "relacion": "se asocia con",
+    "valor": "factores biológicos, genéticos y socioambientales"
+  },
+  {
+    "entidad": "disponibilidad a espacios verdes urbanos",
+    "relacion": "se evalúa en",
+    "valor": "un estudio ecológico a nivel comunal"
+  },
+  {
+    "entidad": "espacios verdes urbanos",
+    "relacion": "se mide por",
+    "valor": "métricas como NDVI y superficie de áreas verdes"
+  },
+  {
+    "entidad": "cáncer de mama",
+    "relacion": "tiene una asociación negativa con",
+    "valor": "áreas verdes"
+  },
+  {
+    "entidad": "índice de vegetación NDVI",
+    "relacion": "se asocia con",
+    "valor": "mayor riesgo de cáncer de mama"
+  },
+  {
+    "entidad": "estándar de áreas verdes",
+    "relacion": "es un factor",
+    "valor": "protector para el cáncer de mama"
+  },
+  {
+    "entidad": "índice de calidad de plazas y parques públicos",
+    "relacion": "se asocia con",
+    "valor": "mayor riesgo de cáncer de mama"
+  },
+  {
+    "entidad": "índice de vejez",
+    "relacion": "se asocia con",
+    "valor": "mayor riesgo de cáncer de mama"
+  },
+  {
+    "entidad": "índice de pobreza por ingresos",
+    "relacion": "se asocia con",
+    "valor": "mayor riesgo de cáncer de mama"
+  },
+  {
+    "entidad": "población urbana",
+    "relacion": "no se asocia con",
+    "valor": "tasa de incidencia de cáncer de mama"
+  },
+  {
+    "entidad": "diseño ecológico",
+    "relacion": "limita",
+    "valor": "la validez externa del estudio"
+  },
+  {
+    "entidad": "espacios verdes urbanos",
+    "relacion": "requieren",
+    "valor": "mediciones más precisas para evaluar su impacto en la salud"
+  },
+  {
+    "entidad": "enajenación mental",
+    "relacion": "es un",
+    "valor": "trastorno mental"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "tiene",
+    "valor": "instituciones de salud mental"
+  },
+  {
+    "entidad": "Casa de Orates de Santiago",
+    "relacion": "es",
+    "valor": "la primera institución en Chile para el tratamiento de enfermedades mentales"
+  },
+  {
+    "entidad": "Gobierno de Chile",
+    "relacion": "fundó",
+    "valor": "la Casa de Orates de Santiago en 1852"
+  },
+  {
+    "entidad": "Philippe Pinel",
+    "relacion": "influenció",
+    "valor": "la reforma psiquiátrica en Chile"
+  },
+  {
+    "entidad": "Casa de Orates de Concepción",
+    "relacion": "fue fundada",
+    "valor": "en 1895"
+  },
+  {
+    "entidad": "Open Door El Peral",
+    "relacion": "fue fundado",
+    "valor": "en 1928"
+  },
+  {
+    "entidad": "enfermedades mentales",
+    "relacion": "aumentaron",
+    "valor": "progresivamente en Chile"
+  },
+  {
+    "entidad": "Gobierno",
+    "relacion": "promulgó",
+    "valor": "leyes para favorecer a personas con enfermedades mentales"
+  },
+  {
+    "entidad": "métodos de tratamiento",
+    "relacion": "evolucionaron",
+    "valor": "en el cuidado de enfermedades mentales"
+  },
+  {
+    "entidad": "población con trastornos mentales",
+    "relacion": "cambió",
+    "valor": "de una consideración punitiva a una humanitaria"
+  },
+  {
+    "entidad": "Casa de Orates de Santiago",
+    "relacion": "proporcionó",
+    "valor": "atención médica a enajenados"
+  },
+  {
+    "entidad": "enajenados",
+    "relacion": "recibieron",
+    "valor": "atención médica en la Casa de Orates"
+  },
+  {
+    "entidad": "psiquiatría",
+    "relacion": "se desarrolló",
+    "valor": "en Chile durante el siglo XIX y XX"
+  },
+  {
+    "entidad": "enajenados",
+    "relacion": "fueron considerados",
+    "valor": "sujetos con derechos"
+  },
+  {
+    "entidad": "hospitales psiquiátricos",
+    "relacion": "son",
+    "valor": "instituciones para el tratamiento de trastornos mentales"
+  },
+  {
+    "entidad": "Francisco Ramírez",
+    "relacion": "visitó",
+    "valor": "la Casa de Locos de San Andrés en Lima"
+  },
+  {
+    "entidad": "Casa de Orates de Santiago",
+    "relacion": "fue reconocida por",
+    "valor": "su infraestructura y atención a enfermos"
+  },
+  {
+    "entidad": "tratamientos",
+    "relacion": "incluyeron",
+    "valor": "actividades recreativas y laborales"
+  },
+  {
+    "entidad": "enajenados",
+    "relacion": "fueron atendidos",
+    "valor": "en condiciones inadecuadas"
+  },
+  {
+    "entidad": "enfermos",
+    "relacion": "fueron clasificados",
+    "valor": "según sus patologías"
+  },
+  {
+    "entidad": "Casa de Orates de Santiago",
+    "relacion": "fue un espacio",
+    "valor": "para la investigación sobre enfermedades mentales"
+  },
+  {
+    "entidad": "Gobierno",
+    "relacion": "buscó mejorar",
+    "valor": "las condiciones de los enfermos mentales"
+  },
+  {
+    "entidad": "enajenados",
+    "relacion": "fueron vistos como",
+    "valor": "focos de caridad"
+  },
+  {
+    "entidad": "Casa de Orates de Concepción",
+    "relacion": "ayudó a reducir",
+    "valor": "la saturación de enfermos en Santiago"
+  },
+  {
+    "entidad": "Adecuación Terapéutica (AT)",
+    "relacion": "busca",
+    "valor": "evitar obstinación terapéutica"
+  },
+  {
+    "entidad": "Servicios de Urgencia (SU)",
+    "relacion": "realizan",
+    "valor": "Adecuación Terapéutica (AT)"
+  },
+  {
+    "entidad": "médicos",
+    "relacion": "utilizan",
+    "valor": "criterios para indicar AT"
+  },
+  {
+    "entidad": "pacientes con enfermedades terminales o graves",
+    "relacion": "priorizan",
+    "valor": "calidad de vida"
+  },
+  {
+    "entidad": "Ley 20.584 de Derechos y Deberes del Paciente",
+    "relacion": "reconoce",
+    "valor": "derecho a rechazar intervenciones extraordinarias"
+  },
+  {
+    "entidad": "encuesta cerrada",
+    "relacion": "fue distribuida a",
+    "valor": "médicos de 9 SU de alta complejidad"
+  },
+  {
+    "entidad": "funcionalidad del paciente",
+    "relacion": "es un criterio considerado",
+    "valor": "97%"
+  },
+  {
+    "entidad": "patologías crónicas",
+    "relacion": "es un criterio considerado",
+    "valor": "84%"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "es un criterio considerado",
+    "valor": "69%"
+  },
+  {
+    "entidad": "no realizar reanimación",
+    "relacion": "es una medida frecuente",
+    "valor": "97%"
+  },
+  {
+    "entidad": "no iniciar ventilación mecánica",
+    "relacion": "es una medida frecuente",
+    "valor": "94%"
+  },
+  {
+    "entidad": "médicos",
+    "relacion": "se sienten",
+    "valor": "preparados para tomar decisiones sobre AT"
+  },
+  {
+    "entidad": "especialistas en urgencia",
+    "relacion": "se sienten",
+    "valor": "más preparados para tomar decisiones sobre AT"
+  },
+  {
+    "entidad": "médicos",
+    "relacion": "reportan",
+    "valor": "no tener formación formal en bioética"
+  },
+  {
+    "entidad": "médicos",
+    "relacion": "reportan",
+    "valor": "incomodidad al retirar medidas terapéuticas"
+  },
+  {
+    "entidad": "formación en bioética",
+    "relacion": "debe ser fortalecida",
+    "valor": "para mejorar la toma de decisiones"
+  },
+  {
+    "entidad": "protocolos hospitalarios",
+    "relacion": "deben ser desarrollados",
+    "valor": "para integrar a pacientes y familias"
+  },
+  {
+    "entidad": "decisiones individuales",
+    "relacion": "predominan en",
+    "valor": "la práctica de AT"
+  },
+  {
+    "entidad": "cáncer pulmonar",
+    "relacion": "es",
+    "valor": "la principal causa de muerte por cáncer en el mundo"
+  },
+  {
+    "entidad": "cáncer pulmonar",
+    "relacion": "es",
+    "valor": "la principal causa de muerte por cáncer en Chile"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "aumenta",
+    "valor": "el riesgo de cáncer pulmonar"
+  },
+  {
+    "entidad": "mujeres jóvenes",
+    "relacion": "son afectadas por",
+    "valor": "el aumento del consumo de tabaco"
+  },
+  {
+    "entidad": "Hospital Regional de Temuco",
+    "relacion": "realiza",
+    "valor": "estudio sobre cáncer pulmonar"
+  },
+  {
+    "entidad": "pacientes adultos",
+    "relacion": "tienen",
+    "valor": "cáncer pulmonar confirmado histológicamente"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "es un",
+    "valor": "factor de riesgo principal"
+  },
+  {
+    "entidad": "exposición a biomasa",
+    "relacion": "contribuye a",
+    "valor": "el riesgo de cáncer pulmonar"
+  },
+  {
+    "entidad": "síntomas al diagnóstico",
+    "relacion": "incluyen",
+    "valor": "tos, disnea, hemoptisis, dolor torácico"
+  },
+  {
+    "entidad": "etapas avanzadas",
+    "relacion": "son diagnosticadas en",
+    "valor": "la mayoría de los casos"
+  },
+  {
+    "entidad": "adenocarcinoma",
+    "relacion": "es",
+    "valor": "el tipo más frecuente de cáncer pulmonar"
+  },
+  {
+    "entidad": "mutaciones EGFR",
+    "relacion": "se encuentran en",
+    "valor": "un porcentaje de pacientes"
+  },
+  {
+    "entidad": "mutaciones ALK",
+    "relacion": "se encuentran en",
+    "valor": "un porcentaje de pacientes"
+  },
+  {
+    "entidad": "expresión PDL-1",
+    "relacion": "se encuentra en",
+    "valor": "un porcentaje de casos"
+  },
+  {
+    "entidad": "cáncer pulmonar",
+    "relacion": "afecta principalmente a",
+    "valor": "hombres"
+  },
+  {
+    "entidad": "edad media de diagnóstico",
+    "relacion": "es",
+    "valor": "similar a otras series"
+  },
+  {
+    "entidad": "cáncer pulmonar",
+    "relacion": "es diagnosticado en",
+    "valor": "etapas avanzadas"
+  },
+  {
+    "entidad": "mutaciones EGFR y ALK",
+    "relacion": "son predominantes en",
+    "valor": "pacientes no fumadores"
+  },
+  {
+    "entidad": "expresión PDL-1",
+    "relacion": "muestra asociación con",
+    "valor": "exposición a biomasa"
+  },
+  {
+    "entidad": "cáncer pulmonar",
+    "relacion": "se caracteriza por",
+    "valor": "un alto porcentaje de síntomas al diagnóstico"
+  }
+]

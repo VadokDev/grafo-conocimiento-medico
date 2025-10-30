@@ -1,0 +1,542 @@
+[
+  {
+    "entidad": "Enfermedad de Parkinson",
+    "relacion": "es una",
+    "valor": "condición neurodegenerativa"
+  },
+  {
+    "entidad": "Enfermedad de Parkinson",
+    "relacion": "afecta a",
+    "valor": "sistema nervioso central"
+  },
+  {
+    "entidad": "Enfermedad de Parkinson",
+    "relacion": "causa",
+    "valor": "problemas motores"
+  },
+  {
+    "entidad": "Enfermedad de Parkinson",
+    "relacion": "asocia con",
+    "valor": "limitaciones funcionales"
+  },
+  {
+    "entidad": "personas mayores",
+    "relacion": "tienen",
+    "valor": "mayor riesgo de limitación funcional"
+  },
+  {
+    "entidad": "Centro de Salud Familiar Presidenta Michelle Bachelet",
+    "relacion": "es un",
+    "valor": "centro de salud en Maipú, Chile"
+  },
+  {
+    "entidad": "Núcleo de Envejecimiento de la Unidad de Nutrición Pública del INTA",
+    "relacion": "pertenece a",
+    "valor": "Universidad de Chile"
+  },
+  {
+    "entidad": "estudio cuantitativo",
+    "relacion": "utiliza",
+    "valor": "diseño observacional"
+  },
+  {
+    "entidad": "muestra de 4.843 personas mayores",
+    "relacion": "pertenece a",
+    "valor": "Centro de Salud Familiar M. Bachelet"
+  },
+  {
+    "entidad": "personas con EP",
+    "relacion": "tienen",
+    "valor": "3,3 veces mayor riesgo de limitación funcional"
+  },
+  {
+    "entidad": "sexo masculino",
+    "relacion": "presenta",
+    "valor": "mayor riesgo de limitación funcional"
+  },
+  {
+    "entidad": "edad avanzada",
+    "relacion": "presenta",
+    "valor": "mayor riesgo de limitación funcional"
+  },
+  {
+    "entidad": "baja escolaridad",
+    "relacion": "presenta",
+    "valor": "mayor riesgo de limitación funcional"
+  },
+  {
+    "entidad": "tramos A-B de FONASA",
+    "relacion": "presenta",
+    "valor": "mayor riesgo de limitación funcional"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "muestra",
+    "valor": "asociación significativa entre EP y limitaciones funcionales"
+  },
+  {
+    "entidad": "estrategias e intervenciones",
+    "relacion": "pueden ayudar a",
+    "valor": "mejorar la calidad de vida de personas con Parkinson"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "es un",
+    "valor": "país con alta prevalencia de EP"
+  },
+  {
+    "entidad": "Instituto Nacional de Estadísticas (INE)",
+    "relacion": "proyecta",
+    "valor": "aumento de población mayor de 60 años"
+  },
+  {
+    "entidad": "personas mayores con EP",
+    "relacion": "requieren",
+    "valor": "apoyo externo"
+  },
+  {
+    "entidad": "políticas públicas",
+    "relacion": "pueden ser formuladas para",
+    "valor": "mejorar la calidad de vida de personas mayores"
+  },
+  {
+    "entidad": "fibromialgia",
+    "relacion": "es un",
+    "valor": "síndrome de dolor crónico generalizado"
+  },
+  {
+    "entidad": "trastornos del equilibrio",
+    "relacion": "son una",
+    "valor": "queja frecuente en fibromialgia"
+  },
+  {
+    "entidad": "Hospital Clínico Universidad de Chile",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "Escala de Berg (BBS)",
+    "relacion": "se utiliza para",
+    "valor": "evaluar trastornos del equilibrio"
+  },
+  {
+    "entidad": "Fibromyalgia Impact Questionnaire (FIQ)",
+    "relacion": "se utiliza para",
+    "valor": "medir la severidad de la fibromialgia"
+  },
+  {
+    "entidad": "Activities Specific Balance Confidence (ABC-16)",
+    "relacion": "se utiliza para",
+    "valor": "evaluar la confianza en el equilibrio"
+  },
+  {
+    "entidad": "trastornos del equilibrio",
+    "relacion": "afectan",
+    "valor": "la calidad de vida"
+  },
+  {
+    "entidad": "fibromialgia",
+    "relacion": "se asocia con",
+    "valor": "fatiga y trastornos del sueño"
+  },
+  {
+    "entidad": "debilidad muscular",
+    "relacion": "mediada por",
+    "valor": "fatiga en fibromialgia"
+  },
+  {
+    "entidad": "medicamentos utilizados en fibromialgia",
+    "relacion": "pueden causar",
+    "valor": "mareos y somnolencia"
+  },
+  {
+    "entidad": "caídas",
+    "relacion": "son reportadas por",
+    "valor": "pacientes con fibromialgia"
+  },
+  {
+    "entidad": "confianza en el equilibrio",
+    "relacion": "se correlaciona con",
+    "valor": "los puntajes de la Escala de Berg"
+  },
+  {
+    "entidad": "severidad de la fibromialgia",
+    "relacion": "se correlaciona negativamente con",
+    "valor": "trastornos del equilibrio"
+  },
+  {
+    "entidad": "interferencia en actividades",
+    "relacion": "muestra mayor correlación con",
+    "valor": "trastornos del equilibrio"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "es fundamental para",
+    "valor": "el tratamiento de fibromialgia"
+  },
+  {
+    "entidad": "evaluación de trastornos de equilibrio",
+    "relacion": "debe ser parte de",
+    "valor": "la atención médica en fibromialgia"
+  },
+  {
+    "entidad": "esclerosis múltiple",
+    "relacion": "es una",
+    "valor": "patología que afecta mayoritariamente a población joven"
+  },
+  {
+    "entidad": "programa nacional de EM",
+    "relacion": "mejora",
+    "valor": "acceso al diagnóstico, tratamiento y pronóstico de pacientes"
+  },
+  {
+    "entidad": "pacientes con esclerosis múltiple remitente-recurrente (EMRR)",
+    "relacion": "son",
+    "valor": "beneficiarios del sistema público de salud chileno"
+  },
+  {
+    "entidad": "Ministerio de Salud (MINSAL)",
+    "relacion": "incorpora",
+    "valor": "la esclerosis múltiple al programa de garantías explícitas en salud (GES)"
+  },
+  {
+    "entidad": "oportunidad diagnóstica",
+    "relacion": "se analiza",
+    "valor": "tiempo entre el primer brote y el ingreso al programa"
+  },
+  {
+    "entidad": "EDSS (expanded disability status scale)",
+    "relacion": "evalúa",
+    "valor": "la evolución clínica de los pacientes"
+  },
+  {
+    "entidad": "educación mayor o igual a 12 años",
+    "relacion": "es un",
+    "valor": "factor protector en la progresión de discapacidad"
+  },
+  {
+    "entidad": "nivel socioeconómico",
+    "relacion": "impacta",
+    "valor": "en opciones laborales presentes y futuras"
+  },
+  {
+    "entidad": "programa GES de EMRR",
+    "relacion": "garantiza",
+    "valor": "acceso universal sin discriminación a pacientes"
+  },
+  {
+    "entidad": "Ley Ricarte Soto",
+    "relacion": "incorpora",
+    "valor": "nuevas terapias de alto costo"
+  },
+  {
+    "entidad": "sistema de salud chileno",
+    "relacion": "presenta",
+    "valor": "limitaciones en rehabilitación y manejo integral"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "es una",
+    "valor": "comorbilidad frecuente en pacientes con EM"
+  },
+  {
+    "entidad": "programa piloto para pacientes con EMRR",
+    "relacion": "se implementa",
+    "valor": "en 2008"
+  },
+  {
+    "entidad": "complejo asistencial Barros Luco Trudeau (CABL)",
+    "relacion": "es un",
+    "valor": "centro de referencia nacional para EM"
+  },
+  {
+    "entidad": "acceso a tecnologías diagnósticas",
+    "relacion": "se concentra",
+    "valor": "en capitales regionales"
+  },
+  {
+    "entidad": "analfabetismo",
+    "relacion": "asocia",
+    "valor": "al retraso diagnóstico de EM"
+  },
+  {
+    "entidad": "programa de EM",
+    "relacion": "ha permitido",
+    "valor": "mayor equidad en el acceso a diagnóstico y tratamiento"
+  },
+  {
+    "entidad": "endometriosis",
+    "relacion": "es una",
+    "valor": "enfermedad crónica"
+  },
+  {
+    "entidad": "endometriosis",
+    "relacion": "afecta a",
+    "valor": "mujeres en edad reproductiva"
+  },
+  {
+    "entidad": "endometriosis",
+    "relacion": "causa",
+    "valor": "dolor pélvico e infertilidad"
+  },
+  {
+    "entidad": "progesterona",
+    "relacion": "es un",
+    "valor": "tratamiento farmacológico utilizado"
+  },
+  {
+    "entidad": "progesterona",
+    "relacion": "reduce",
+    "valor": "síntomas de endometriosis"
+  },
+  {
+    "entidad": "resistencia al tratamiento",
+    "relacion": "desarrolla",
+    "valor": "aproximadamente un tercio de las pacientes"
+  },
+  {
+    "entidad": "niveles de receptores de progesterona",
+    "relacion": "se encuentran",
+    "valor": "disminuidos en zonas invasivas"
+  },
+  {
+    "entidad": "biopsias de nódulos recto-vaginales",
+    "relacion": "se utilizan para",
+    "valor": "determinar niveles de expresión de receptores de progesterona"
+  },
+  {
+    "entidad": "glándulas del centro",
+    "relacion": "poseen",
+    "valor": "mayor grosor y niveles de expresión de ECad y RP"
+  },
+  {
+    "entidad": "zonas invasivas",
+    "relacion": "son más",
+    "valor": "proliferativas y expresan menos RP"
+  },
+  {
+    "entidad": "estrógeno",
+    "relacion": "induce",
+    "valor": "proliferación en células del endometrio ectópico"
+  },
+  {
+    "entidad": "endometriosis profunda",
+    "relacion": "representa",
+    "valor": "la forma más severa de la enfermedad"
+  },
+  {
+    "entidad": "cirugía",
+    "relacion": "es el",
+    "valor": "mejor tratamiento contra la sintomatología de endometriosis"
+  },
+  {
+    "entidad": "niveles de receptores de progesterona",
+    "relacion": "se vinculan con",
+    "valor": "la capacidad de responder al tratamiento con progesterona"
+  },
+  {
+    "entidad": "tuberculosis (TB)",
+    "relacion": "es",
+    "valor": "principal causa de muerte por agente infeccioso"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "reporta",
+    "valor": "incidencia de tuberculosis"
+  },
+  {
+    "entidad": "migración",
+    "relacion": "influye en",
+    "valor": "incidencia de tuberculosis"
+  },
+  {
+    "entidad": "hacinamiento",
+    "relacion": "influye en",
+    "valor": "incidencia de tuberculosis"
+  },
+  {
+    "entidad": "ingreso socioeconómico",
+    "relacion": "impacta en",
+    "valor": "riesgo de morbilidad por tuberculosis"
+  },
+  {
+    "entidad": "población extranjera",
+    "relacion": "representa",
+    "valor": "mayor proporción de casos de tuberculosis"
+  },
+  {
+    "entidad": "población migrante",
+    "relacion": "presenta",
+    "valor": "perfil demográfico más joven"
+  },
+  {
+    "entidad": "población migrante",
+    "relacion": "tiene",
+    "valor": "mayor proporción de coinfección por VIH"
+  },
+  {
+    "entidad": "Razón de Morbilidad Estandarizada (RME)",
+    "relacion": "se utiliza para",
+    "valor": "evaluar el efecto de factores en tuberculosis"
+  },
+  {
+    "entidad": "intervenciones personalizadas",
+    "relacion": "son",
+    "valor": "esenciales para estrategias de control efectivas"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "debería ser explorado en",
+    "valor": "dinámica de la tuberculosis"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile (MINSAL)",
+    "relacion": "suministra",
+    "valor": "datos sobre casos de tuberculosis"
+  },
+  {
+    "entidad": "Encuesta de Caracterización Socioeconómica Nacional (CASEN)",
+    "relacion": "proporciona",
+    "valor": "variables socioeconómicas"
+  },
+  {
+    "entidad": "población chilena",
+    "relacion": "tiene",
+    "valor": "edad promedio mayor que la población extranjera"
+  },
+  {
+    "entidad": "población extranjera",
+    "relacion": "diagnosticada en",
+    "valor": "atención terciaria de salud"
+  },
+  {
+    "entidad": "factores de riesgo",
+    "relacion": "incluyen",
+    "valor": "situación de calle, coinfección retroviral, alcoholismo"
+  },
+  {
+    "entidad": "población extranjera",
+    "relacion": "reporta",
+    "valor": "mayor porcentaje de coinfección por VIH"
+  },
+  {
+    "entidad": "estrategias de control",
+    "relacion": "deben ser",
+    "valor": "dirigidas a grupos de alto riesgo"
+  },
+  {
+    "entidad": "desigualdades socioeconómicas",
+    "relacion": "afectan",
+    "valor": "incidencia de tuberculosis"
+  },
+  {
+    "entidad": "hacinamiento crítico",
+    "relacion": "se asocia con",
+    "valor": "aumento en la RME"
+  },
+  {
+    "entidad": "ingreso promedio por hogar",
+    "relacion": "se asocia con",
+    "valor": "disminución en la RME"
+  },
+  {
+    "entidad": "población migrante",
+    "relacion": "incrementa",
+    "valor": "importancia relativa en casos de tuberculosis"
+  },
+  {
+    "entidad": "condiciones de vida",
+    "relacion": "son",
+    "valor": "factores de riesgo para tuberculosis"
+  },
+  {
+    "entidad": "asma",
+    "relacion": "es un",
+    "valor": "enfermedad crónica no transmisible"
+  },
+  {
+    "entidad": "modelo de atención crónica",
+    "relacion": "promueve",
+    "valor": "automanejo de pacientes"
+  },
+  {
+    "entidad": "profesionales de salud",
+    "relacion": "requieren",
+    "valor": "compromiso activo para educar a los pacientes"
+  },
+  {
+    "entidad": "educación de pacientes",
+    "relacion": "busca",
+    "valor": "mejorar el manejo de la enfermedad"
+  },
+  {
+    "entidad": "centros de atención primaria",
+    "relacion": "realizan",
+    "valor": "entrevistas grupales"
+  },
+  {
+    "entidad": "perfil del paciente",
+    "relacion": "se construye a partir de",
+    "valor": "edad y nivel educativo"
+  },
+  {
+    "entidad": "educación",
+    "relacion": "se centra en",
+    "valor": "tratamiento farmacológico y técnicas de inhalación"
+  },
+  {
+    "entidad": "estrategias educativas",
+    "relacion": "incluyen",
+    "valor": "instrucción directa y sesiones individuales"
+  },
+  {
+    "entidad": "autoconciencia",
+    "relacion": "es un objetivo de",
+    "valor": "educación sanitaria"
+  },
+  {
+    "entidad": "guías de la autoridad sanitaria",
+    "relacion": "promueven",
+    "valor": "automanejo del paciente"
+  },
+  {
+    "entidad": "educación sanitaria",
+    "relacion": "debe considerar",
+    "valor": "emociones, creencias y valores de los pacientes"
+  },
+  {
+    "entidad": "técnica de inhalación",
+    "relacion": "es parte de",
+    "valor": "la educación sobre el tratamiento"
+  },
+  {
+    "entidad": "técnicas de enseñanza",
+    "relacion": "incluyen",
+    "valor": "modelado y técnicas de enseñanza recíproca"
+  },
+  {
+    "entidad": "talleres para pacientes",
+    "relacion": "son organizados por",
+    "valor": "el personal de salud"
+  },
+  {
+    "entidad": "material visual",
+    "relacion": "se utiliza para",
+    "valor": "facilitar la instrucción"
+  },
+  {
+    "entidad": "comunicación",
+    "relacion": "debe adaptarse a",
+    "valor": "el perfil del paciente"
+  },
+  {
+    "entidad": "proceso de educación",
+    "relacion": "debe ser",
+    "valor": "continuo y adaptativo"
+  },
+  {
+    "entidad": "autoridades de salud",
+    "relacion": "promueven",
+    "valor": "cuidado centrado en el usuario"
+  }
+]

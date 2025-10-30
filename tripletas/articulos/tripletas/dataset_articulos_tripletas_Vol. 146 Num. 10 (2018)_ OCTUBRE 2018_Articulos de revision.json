@@ -1,0 +1,77 @@
+[
+  {
+    "entidad": "Raúl J. Domenech",
+    "relacion": "es autor de",
+    "valor": "La incertidumbre de la significación estadística"
+  },
+  {
+    "entidad": "Instituto de Ciencias Biomédicas",
+    "relacion": "pertenece a",
+    "valor": "Facultad de Medicina, Universidad de Chile"
+  },
+  {
+    "entidad": "American Statistical Association",
+    "relacion": "declara",
+    "valor": "P values no proporcionan una buena medida de evidencia para una hipótesis"
+  },
+  {
+    "entidad": "valor de P",
+    "relacion": "indica",
+    "valor": "probabilidad de obtener un resultado por azar"
+  },
+  {
+    "entidad": "hipótesis de nulidad",
+    "relacion": "es rechazada si",
+    "valor": "P es bajo (P < 0.05)"
+  },
+  {
+    "entidad": "tests de significación",
+    "relacion": "son criticados por",
+    "valor": "alto error en la determinación de significación"
+  },
+  {
+    "entidad": "droga A",
+    "relacion": "se compara con",
+    "valor": "droga B"
+  },
+  {
+    "entidad": "mujeres con hipertensión arterial esencial",
+    "relacion": "son el grupo de estudio para",
+    "valor": "comparar efectos de drogas"
+  },
+  {
+    "entidad": "error Tipo I",
+    "relacion": "es la probabilidad de",
+    "valor": "rechazar falsamente la hipótesis de nulidad"
+  },
+  {
+    "entidad": "poder del test",
+    "relacion": "aumenta al",
+    "valor": "incrementar el tamaño del efecto o tamaño de la muestra"
+  },
+  {
+    "entidad": "valor crítico de t",
+    "relacion": "se elige",
+    "valor": "arbitrariamente para rechazar la hipótesis de nulidad"
+  },
+  {
+    "entidad": "Cumming",
+    "relacion": "demuestra que",
+    "valor": "un valor de P de 0.05 tiene 80% de probabilidad de variar en repeticiones"
+  },
+  {
+    "entidad": "significación estadística",
+    "relacion": "no mide",
+    "valor": "tamaño de un efecto ni importancia de un resultado"
+  },
+  {
+    "entidad": "investigadores",
+    "relacion": "deben comunicar",
+    "valor": "el valor de P exacto y el tamaño del efecto"
+  },
+  {
+    "entidad": "valor de P < 0.001",
+    "relacion": "es considerado",
+    "valor": "muy probable verdadero positivo"
+  }
+]

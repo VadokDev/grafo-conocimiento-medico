@@ -1,0 +1,682 @@
+[
+  {
+    "entidad": "Diabetes mellitus tipo 2 (DMT2)",
+    "relacion": "es un",
+    "valor": "factor de riesgo para deterioro cognitivo"
+  },
+  {
+    "entidad": "historia familiar de diabetes mellitus",
+    "relacion": "aumenta",
+    "valor": "riesgo de deterioro cognitivo"
+  },
+  {
+    "entidad": "adultos mayores chilenos",
+    "relacion": "presentan",
+    "valor": "deterioro cognitivo"
+  },
+  {
+    "entidad": "Mini Mental State Examination (MMSE)",
+    "relacion": "se utiliza para",
+    "valor": "evaluar deterioro cognitivo"
+  },
+  {
+    "entidad": "deterioro cognitivo",
+    "relacion": "aumenta con",
+    "valor": "la edad"
+  },
+  {
+    "entidad": "diabetes mellitus tipo 2 (DMT2)",
+    "relacion": "incrementa",
+    "valor": "susceptibilidad al deterioro cognitivo"
+  },
+  {
+    "entidad": "deterioro cognitivo",
+    "relacion": "se asocia con",
+    "valor": "mayor riesgo de demencia"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "tiene",
+    "valor": "alta prevalencia de enfermedades crónicas no transmisibles"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud 2017",
+    "relacion": "reporta",
+    "valor": "alta prevalencia de sobrepeso y obesidad en adultos mayores"
+  },
+  {
+    "entidad": "deterioro cognitivo",
+    "relacion": "se evalúa mediante",
+    "valor": "MMSE"
+  },
+  {
+    "entidad": "adultos mayores diabéticos",
+    "relacion": "son más susceptibles a",
+    "valor": "desarrollar enfermedad de Alzheimer"
+  },
+  {
+    "entidad": "deterioro cognitivo",
+    "relacion": "se relaciona con",
+    "valor": "mal control de la diabetes"
+  },
+  {
+    "entidad": "políticas públicas",
+    "relacion": "deben implementarse para",
+    "valor": "diagnóstico precoz del deterioro cognitivo"
+  },
+  {
+    "entidad": "deterioro cognitivo",
+    "relacion": "puede ser un",
+    "valor": "efecto sinérgico de la DMT2"
+  },
+  {
+    "entidad": "deterioro cognitivo",
+    "relacion": "se asocia con",
+    "valor": "estado nutricional deficiente"
+  },
+  {
+    "entidad": "esperanza de vida",
+    "relacion": "ha aumentado en",
+    "valor": "Chile"
+  },
+  {
+    "entidad": "diabetes mellitus tipo 2 (DMT2)",
+    "relacion": "es considerada",
+    "valor": "una enfermedad metabólica progresiva"
+  },
+  {
+    "entidad": "deterioro cognitivo",
+    "relacion": "se evalúa en",
+    "valor": "adultos mayores con MMSE alterado"
+  },
+  {
+    "entidad": "Dipiridamol",
+    "relacion": "es un",
+    "valor": "estimulante farmacológico utilizado en SPECT"
+  },
+  {
+    "entidad": "SPECT",
+    "relacion": "se utiliza para",
+    "valor": "evaluar la perfusión miocárdica"
+  },
+  {
+    "entidad": "enfermedad coronaria",
+    "relacion": "es un",
+    "valor": "problema de salud pública"
+  },
+  {
+    "entidad": "Hospital Clínico Universidad de Chile",
+    "relacion": "es un",
+    "valor": "centro de investigación médica"
+  },
+  {
+    "entidad": "Dipiridamol",
+    "relacion": "aumenta",
+    "valor": "niveles tisulares de adenosina"
+  },
+  {
+    "entidad": "SPECT",
+    "relacion": "permite determinar",
+    "valor": "presencia de isquemia, necrosis y tejido viable"
+  },
+  {
+    "entidad": "anormalidades en SPECT",
+    "relacion": "son predictores de",
+    "valor": "mortalidad cardíaca"
+  },
+  {
+    "entidad": "edad mayor de 46 años",
+    "relacion": "aumenta",
+    "valor": "riesgo de muerte"
+  },
+  {
+    "entidad": "sexo femenino",
+    "relacion": "es un factor protector de",
+    "valor": "mortalidad"
+  },
+  {
+    "entidad": "isquemia",
+    "relacion": "se asocia con",
+    "valor": "mayor riesgo de muerte cardíaca"
+  },
+  {
+    "entidad": "función sistólica izquierda",
+    "relacion": "se asocia con",
+    "valor": "menor riesgo de muerte cardíaca"
+  },
+  {
+    "entidad": "ECG",
+    "relacion": "se utiliza para",
+    "valor": "evaluar la salud cardíaca"
+  },
+  {
+    "entidad": "aminofilina",
+    "relacion": "se utiliza para",
+    "valor": "bloquear efectos adversos del dipiridamol"
+  },
+  {
+    "entidad": "mortalidad por causas cardíacas",
+    "relacion": "es mayor en",
+    "valor": "pacientes con SPECT anormal"
+  },
+  {
+    "entidad": "mortalidad por causas cardíacas",
+    "relacion": "es mayor en",
+    "valor": "pacientes con isquemia"
+  },
+  {
+    "entidad": "tasa de mortalidad",
+    "relacion": "es menor a",
+    "valor": "1% en pacientes con SPECT normal"
+  },
+  {
+    "entidad": "estrés farmacológico",
+    "relacion": "es indicado en",
+    "valor": "pacientes incapaces de realizar ejercicio"
+  },
+  {
+    "entidad": "SPECT",
+    "relacion": "se compara con",
+    "valor": "angiografía coronaria para diagnóstico"
+  },
+  {
+    "entidad": "DIP",
+    "relacion": "es un",
+    "valor": "vasodilatador utilizado en pruebas de estrés"
+  },
+  {
+    "entidad": "mortalidad global",
+    "relacion": "se analiza mediante",
+    "valor": "regresión de Cox"
+  },
+  {
+    "entidad": "personas mayores",
+    "relacion": "asisten a",
+    "valor": "centros de día"
+  },
+  {
+    "entidad": "centros de día",
+    "relacion": "realizan",
+    "valor": "intervenciones para personas mayores"
+  },
+  {
+    "entidad": "Servicio Nacional del Adulto Mayor",
+    "relacion": "implementa",
+    "valor": "centros de día en Chile"
+  },
+  {
+    "entidad": "Modelo del Envejecimiento Activo",
+    "relacion": "es promovido por",
+    "valor": "OMS"
+  },
+  {
+    "entidad": "centros de día",
+    "relacion": "aumentan",
+    "valor": "funcionamiento psicosocial"
+  },
+  {
+    "entidad": "centros de día",
+    "relacion": "disminuyen",
+    "valor": "sentimientos de soledad"
+  },
+  {
+    "entidad": "centros de día",
+    "relacion": "disminuyen",
+    "valor": "institucionalización"
+  },
+  {
+    "entidad": "centros de día",
+    "relacion": "disminuyen",
+    "valor": "riesgo de mortalidad"
+  },
+  {
+    "entidad": "evaluación geriátrica integral",
+    "relacion": "mide",
+    "valor": "fragilidad de personas mayores"
+  },
+  {
+    "entidad": "fragilidad",
+    "relacion": "afecta a",
+    "valor": "personas mayores"
+  },
+  {
+    "entidad": "centros de día",
+    "relacion": "mejoran",
+    "valor": "percepción de apoyo social"
+  },
+  {
+    "entidad": "centros de día",
+    "relacion": "disminuyen",
+    "valor": "puntuaciones de depresión"
+  },
+  {
+    "entidad": "fragilidad física",
+    "relacion": "disminuye en",
+    "valor": "personas mayores después de 5 meses"
+  },
+  {
+    "entidad": "fragilidad total",
+    "relacion": "disminuye en",
+    "valor": "personas mayores después de 5 meses"
+  },
+  {
+    "entidad": "evaluación geriátrica integral",
+    "relacion": "no muestra cambios en",
+    "valor": "funcionalidad"
+  },
+  {
+    "entidad": "centros de día",
+    "relacion": "son una alternativa para",
+    "valor": "personas mayores que requieren apoyo"
+  },
+  {
+    "entidad": "centros de día",
+    "relacion": "contribuyen a",
+    "valor": "recuperar personas mayores frágiles"
+  },
+  {
+    "entidad": "Clostridium difficile",
+    "relacion": "causa",
+    "valor": "infección recurrente"
+  },
+  {
+    "entidad": "infección por Clostridium difficile",
+    "relacion": "se trata con",
+    "valor": "trasplante de microbiota fecal"
+  },
+  {
+    "entidad": "trasplante de microbiota fecal",
+    "relacion": "se realiza a través de",
+    "valor": "colonoscopía"
+  },
+  {
+    "entidad": "trasplante de microbiota fecal",
+    "relacion": "es",
+    "valor": "una alternativa terapéutica"
+  },
+  {
+    "entidad": "trasplante de microbiota fecal",
+    "relacion": "restaura",
+    "valor": "microbiota intestinal protectora"
+  },
+  {
+    "entidad": "Clostridium difficile",
+    "relacion": "se asocia con",
+    "valor": "alta tasa de recurrencia"
+  },
+  {
+    "entidad": "trasplante de microbiota fecal",
+    "relacion": "demuestra ser",
+    "valor": "un procedimiento seguro"
+  },
+  {
+    "entidad": "trasplante de microbiota fecal",
+    "relacion": "tiene efectividad entre",
+    "valor": "81% y 100%"
+  },
+  {
+    "entidad": "administración vía colonoscopía",
+    "relacion": "es más",
+    "valor": "eficaz y segura"
+  },
+  {
+    "entidad": "pacientes con infección por Clostridium difficile",
+    "relacion": "reciben",
+    "valor": "tratamientos antibióticos previos"
+  },
+  {
+    "entidad": "eficacia del trasplante de microbiota fecal",
+    "relacion": "es",
+    "valor": "alta"
+  },
+  {
+    "entidad": "eventos adversos",
+    "relacion": "son",
+    "valor": "generalmente leves y autolimitados"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "prefieren",
+    "valor": "trasplante de microbiota fecal como tratamiento"
+  },
+  {
+    "entidad": "donantes relacionados",
+    "relacion": "pueden ser",
+    "valor": "más efectivos que donantes no relacionados"
+  },
+  {
+    "entidad": "Clínica Las Condes",
+    "relacion": "realiza",
+    "valor": "trasplante de microbiota fecal"
+  },
+  {
+    "entidad": "pacientes con enfermedad de Crohn",
+    "relacion": "pueden experimentar",
+    "valor": "bacteremia post-trasplante"
+  },
+  {
+    "entidad": "trasplante de microbiota fecal",
+    "relacion": "es",
+    "valor": "una opción válida en tratamiento de ICD refractaria"
+  },
+  {
+    "entidad": "estudiantes universitarios",
+    "relacion": "son un",
+    "valor": "grupo vulnerable"
+  },
+  {
+    "entidad": "bajo nivel de actividad física",
+    "relacion": "asociado a",
+    "valor": "exceso de peso corporal"
+  },
+  {
+    "entidad": "exceso de peso corporal",
+    "relacion": "es un",
+    "valor": "problema multifactorial"
+  },
+  {
+    "entidad": "inactividad física",
+    "relacion": "causa",
+    "valor": "exceso de peso corporal"
+  },
+  {
+    "entidad": "hábito tabáquico",
+    "relacion": "asociado a",
+    "valor": "exceso de peso corporal"
+  },
+  {
+    "entidad": "lesiones músculo-esqueléticas",
+    "relacion": "asociadas a",
+    "valor": "exceso de peso corporal"
+  },
+  {
+    "entidad": "consumo de comida chatarra",
+    "relacion": "asociado a",
+    "valor": "bajo nivel de actividad física"
+  },
+  {
+    "entidad": "conducta sedentaria",
+    "relacion": "asociada a",
+    "valor": "bajo nivel de actividad física"
+  },
+  {
+    "entidad": "horas dedicadas al estudio",
+    "relacion": "asociadas a",
+    "valor": "bajo nivel de actividad física"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "tienen mayor probabilidad de",
+    "valor": "exceso de peso corporal"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen mayor probabilidad de",
+    "valor": "bajo nivel de actividad física"
+  },
+  {
+    "entidad": "promoción de estilos de vida saludables",
+    "relacion": "debe ser",
+    "valor": "implementada en la población universitaria"
+  },
+  {
+    "entidad": "Universidad Santo Tomás",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud 2016-2017",
+    "relacion": "muestra",
+    "valor": "prevalencia de sobrepeso y obesidad en jóvenes"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "es",
+    "valor": "líder en obesidad en Latinoamérica"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "debe ser",
+    "valor": "promovida para mejorar la salud"
+  },
+  {
+    "entidad": "factores de riesgo",
+    "relacion": "son",
+    "valor": "modificables en su mayoría"
+  },
+  {
+    "entidad": "ptosis cerebral",
+    "relacion": "es un",
+    "valor": "trastorno de elevación de párpados"
+  },
+  {
+    "entidad": "ptosis cerebral",
+    "relacion": "está vinculada a",
+    "valor": "infartos o hemorragias del territorio de la arteria cerebral media"
+  },
+  {
+    "entidad": "arteria cerebral media",
+    "relacion": "afecta a",
+    "valor": "hemisferio no dominante"
+  },
+  {
+    "entidad": "ptosis cerebral",
+    "relacion": "se presenta en",
+    "valor": "pacientes con accidente cerebrovascular"
+  },
+  {
+    "entidad": "Luis Cartier",
+    "relacion": "es autor de",
+    "valor": "investigación sobre ptosis cerebral"
+  },
+  {
+    "entidad": "Universidad de Chile",
+    "relacion": "pertenece a",
+    "valor": "Departamento de Ciencias Neurológicas"
+  },
+  {
+    "entidad": "ptosis cerebral",
+    "relacion": "se manifiesta como",
+    "valor": "parálisis bilateral de elevación de párpados"
+  },
+  {
+    "entidad": "hemisferio derecho",
+    "relacion": "es el más afectado en",
+    "valor": "casos de ptosis cerebral"
+  },
+  {
+    "entidad": "ptosis cerebral",
+    "relacion": "se recupera",
+    "valor": "después del décimo día"
+  },
+  {
+    "entidad": "hemiplejia",
+    "relacion": "coexiste con",
+    "valor": "ptosis cerebral"
+  },
+  {
+    "entidad": "trombectomía mecánica",
+    "relacion": "se utiliza en",
+    "valor": "pacientes con oclusión de arteria cerebral media"
+  },
+  {
+    "entidad": "electromiografía",
+    "relacion": "se utiliza para",
+    "valor": "diferenciar entre tipos de ptosis"
+  },
+  {
+    "entidad": "diasquisis",
+    "relacion": "es un fenómeno de",
+    "valor": "disfunción mimética transitoria"
+  },
+  {
+    "entidad": "ptosis cerebral",
+    "relacion": "es un signo de",
+    "valor": "lesión en el hemisferio no dominante"
+  },
+  {
+    "entidad": "Enfermedades isquémicas del corazón",
+    "relacion": "es",
+    "valor": "la primera causa de mortalidad en Ecuador"
+  },
+  {
+    "entidad": "Ecuador",
+    "relacion": "analiza",
+    "valor": "la mortalidad por enfermedades isquémicas del corazón de 2001 a 2016"
+  },
+  {
+    "entidad": "Instituto Nacional de Estadística y Censos",
+    "relacion": "elabora",
+    "valor": "registros de defunciones"
+  },
+  {
+    "entidad": "mortalidad por enfermedades isquémicas del corazón",
+    "relacion": "incrementa",
+    "valor": "en Ecuador entre 2001 y 2016"
+  },
+  {
+    "entidad": "mortalidad por enfermedades isquémicas del corazón",
+    "relacion": "afecta a",
+    "valor": "hombres y mujeres por igual"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud",
+    "relacion": "propone",
+    "valor": "reducir 25% de muertes prematuras por enfermedades crónicas no transmisibles"
+  },
+  {
+    "entidad": "mortalidad por enfermedades isquémicas del corazón",
+    "relacion": "reporta",
+    "valor": "tendencia creciente en Ecuador"
+  },
+  {
+    "entidad": "Ecuador",
+    "relacion": "implementa",
+    "valor": "estrategias para contrarrestar factores de riesgo cardiovascular"
+  },
+  {
+    "entidad": "mortalidad por enfermedades isquémicas del corazón",
+    "relacion": "se registra",
+    "valor": "en la región litoral y áreas urbanas"
+  },
+  {
+    "entidad": "Ecuador",
+    "relacion": "observa",
+    "valor": "un marcado descenso en tasas de mortalidad entre 2001 y 2012"
+  },
+  {
+    "entidad": "Ecuador",
+    "relacion": "experimenta",
+    "valor": "un aumento en tasas de mortalidad a partir de 2012"
+  },
+  {
+    "entidad": "mortalidad por enfermedades isquémicas del corazón",
+    "relacion": "se estima",
+    "valor": "a través de modelos de regresión joinpoint"
+  },
+  {
+    "entidad": "mortalidad por enfermedades isquémicas del corazón",
+    "relacion": "se distribuye",
+    "valor": "según grupos etarios y sexo"
+  },
+  {
+    "entidad": "Ecuador",
+    "relacion": "registra",
+    "valor": "46,133 defunciones por enfermedades isquémicas del corazón entre 2001 y 2016"
+  },
+  {
+    "entidad": "mortalidad por enfermedades isquémicas del corazón",
+    "relacion": "se asocia con",
+    "valor": "cambios en el PIB y crisis económicas"
+  },
+  {
+    "entidad": "mortalidad por enfermedades isquémicas del corazón",
+    "relacion": "se relaciona con",
+    "valor": "estrategias de salud pública"
+  },
+  {
+    "entidad": "mujeres chilenas de bajos recursos",
+    "relacion": "tienen",
+    "valor": "conductas alimentarias menos saludables"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "afecta a",
+    "valor": "mujeres más que hombres"
+  },
+  {
+    "entidad": "familia",
+    "relacion": "influye en",
+    "valor": "conductas alimentarias"
+  },
+  {
+    "entidad": "preferencias alimentarias",
+    "relacion": "determinan",
+    "valor": "selección de alimentos"
+  },
+  {
+    "entidad": "temporalidad",
+    "relacion": "cambia",
+    "valor": "conductas alimentarias según el día y la estación"
+  },
+  {
+    "entidad": "asuntos financieros",
+    "relacion": "limitan",
+    "valor": "compra de alimentos"
+  },
+  {
+    "entidad": "ocasiones especiales",
+    "relacion": "modifican",
+    "valor": "conductas alimentarias"
+  },
+  {
+    "entidad": "disponibilidad de alimentos",
+    "relacion": "afecta",
+    "valor": "consumo de alimentos"
+  },
+  {
+    "entidad": "photo-elicitation",
+    "relacion": "es un",
+    "valor": "método participativo"
+  },
+  {
+    "entidad": "Comité de Ética de la Facultad de Medicina de la Universidad de Chile",
+    "relacion": "aprueba",
+    "valor": "protocolo del estudio"
+  },
+  {
+    "entidad": "Universidad de Illinois de Urbana Champaign",
+    "relacion": "aprueba",
+    "valor": "protocolo del estudio"
+  },
+  {
+    "entidad": "conductas alimentarias",
+    "relacion": "son influenciadas por",
+    "valor": "factores personales y ambientales"
+  },
+  {
+    "entidad": "mujeres chilenas",
+    "relacion": "viven en",
+    "valor": "zonas urbanas vulnerables"
+  },
+  {
+    "entidad": "investigadores",
+    "relacion": "utilizan",
+    "valor": "enfoque inductivo para análisis"
+  },
+  {
+    "entidad": "familismo",
+    "relacion": "describe",
+    "valor": "importancia de la familia en la alimentación"
+  },
+  {
+    "entidad": "cambio de disponibilidad de alimentos",
+    "relacion": "se relaciona con",
+    "valor": "temporalidad"
+  },
+  {
+    "entidad": "intervenciones",
+    "relacion": "deben incluir",
+    "valor": "familias para promover alimentación saludable"
+  }
+]

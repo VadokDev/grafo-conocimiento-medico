@@ -1,0 +1,317 @@
+[
+  {
+    "entidad": "Dupilumab",
+    "relacion": "es un",
+    "valor": "anticuerpo monoclonal"
+  },
+  {
+    "entidad": "Dermatitis Atópica",
+    "relacion": "es una",
+    "valor": "enfermedad inflamatoria crónica"
+  },
+  {
+    "entidad": "FDA",
+    "relacion": "aprueba",
+    "valor": "Dupilumab para tratamiento de DA severa"
+  },
+  {
+    "entidad": "pacientes pediátricos",
+    "relacion": "son tratados con",
+    "valor": "Dupilumab"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "es un",
+    "valor": "país donde se estudia Dupilumab"
+  },
+  {
+    "entidad": "Facultad de Medicina Clínica Alemana",
+    "relacion": "es parte de",
+    "valor": "la investigación"
+  },
+  {
+    "entidad": "Hospital de niños Exequiel González Cortés",
+    "relacion": "es parte de",
+    "valor": "la investigación"
+  },
+  {
+    "entidad": "estudio observacional",
+    "relacion": "es un",
+    "valor": "método de investigación"
+  },
+  {
+    "entidad": "Eczema Area and Severity Index (EASI)",
+    "relacion": "se utiliza para evaluar",
+    "valor": "la eficacia del tratamiento"
+  },
+  {
+    "entidad": "comorbilidades",
+    "relacion": "incluyen",
+    "valor": "alergias alimentarias, rinitis alérgica, asma"
+  },
+  {
+    "entidad": "Dupilumab",
+    "relacion": "inhibe",
+    "valor": "la acción de IL-4 e IL-13"
+  },
+  {
+    "entidad": "DA moderada a severa",
+    "relacion": "es tratada con",
+    "valor": "Dupilumab"
+  },
+  {
+    "entidad": "efectos adversos",
+    "relacion": "son",
+    "valor": "menores y transitorios"
+  },
+  {
+    "entidad": "Dra. María Trinidad Hasbún Zegpi",
+    "relacion": "es un",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "Instituto de Salud Pública de Chile",
+    "relacion": "proporciona",
+    "valor": "información sobre Dupilumab"
+  },
+  {
+    "entidad": "vacunas vivas",
+    "relacion": "deben ser evitadas durante",
+    "valor": "el tratamiento con Dupilumab"
+  },
+  {
+    "entidad": "Dupilumab",
+    "relacion": "ha demostrado",
+    "valor": "eficacia y seguridad en pacientes pediátricos"
+  },
+  {
+    "entidad": "estudios prospectivos",
+    "relacion": "son necesarios para",
+    "valor": "respaldar hallazgos sobre Dupilumab"
+  },
+  {
+    "entidad": "modelo hospitalista",
+    "relacion": "implementa",
+    "valor": "en hospitales públicos de América Latina"
+  },
+  {
+    "entidad": "Grupos Relacionados por Diagnóstico (GRD)",
+    "relacion": "permite",
+    "valor": "análisis estandarizado del desempeño hospitalario"
+  },
+  {
+    "entidad": "Servicio de Medicina Interna (SMI)",
+    "relacion": "pertenece a",
+    "valor": "Hospital Las Higueras de Talcahuano (HHT)"
+  },
+  {
+    "entidad": "Hospital Las Higueras de Talcahuano (HHT)",
+    "relacion": "atiende",
+    "valor": "aproximadamente 365.000 personas"
+  },
+  {
+    "entidad": "FONASA",
+    "relacion": "aplica",
+    "valor": "financiamiento por GRD en hospitales públicos"
+  },
+  {
+    "entidad": "modelo hospitalista",
+    "relacion": "mejora",
+    "valor": "la experiencia de los estudiantes"
+  },
+  {
+    "entidad": "modelo hospitalista",
+    "relacion": "reduce",
+    "valor": "la estadía hospitalaria"
+  },
+  {
+    "entidad": "modelo hospitalista",
+    "relacion": "reduce",
+    "valor": "los costos de hospitalización"
+  },
+  {
+    "entidad": "modelo hospitalista",
+    "relacion": "reduce",
+    "valor": "la mortalidad a 30 y 90 días"
+  },
+  {
+    "entidad": "Hospital Las Higueras de Talcahuano (HHT)",
+    "relacion": "incluye",
+    "valor": "Unidad de Análisis de Gestión Clínica por GRD"
+  },
+  {
+    "entidad": "Unidad de Análisis de Gestión Clínica por GRD",
+    "relacion": "analiza",
+    "valor": "indicadores de productividad y morbimortalidad"
+  },
+  {
+    "entidad": "indicadores GRD",
+    "relacion": "miden",
+    "valor": "productividad y morbimortalidad"
+  },
+  {
+    "entidad": "mortalidad hospitalaria",
+    "relacion": "disminuye",
+    "valor": "durante la implementación del modelo hospitalista"
+  },
+  {
+    "entidad": "reingresos urgentes",
+    "relacion": "disminuyen",
+    "valor": "durante la implementación del modelo hospitalista"
+  },
+  {
+    "entidad": "peso medio GRD",
+    "relacion": "aumenta",
+    "valor": "durante la implementación del modelo hospitalista"
+  },
+  {
+    "entidad": "índice de estancia media ajustada (IEMA)",
+    "relacion": "aumenta",
+    "valor": "inicialmente y luego disminuye"
+  },
+  {
+    "entidad": "Servicio de Medicina Interna (SMI)",
+    "relacion": "atendió",
+    "valor": "pacientes de mayor complejidad clínica"
+  },
+  {
+    "entidad": "mortalidad hospitalaria",
+    "relacion": "disminuye",
+    "valor": "de 10,9% a 8,8%"
+  },
+  {
+    "entidad": "estancias evitables",
+    "relacion": "aumentan",
+    "valor": "un 18% en P2"
+  },
+  {
+    "entidad": "Unidades de Producción Hospitalaria (UPH)",
+    "relacion": "se mantienen",
+    "valor": "estables en torno a 13.400 unidades anuales"
+  },
+  {
+    "entidad": "médico internista",
+    "relacion": "coordinador",
+    "valor": "apoya a los médicos de sala"
+  },
+  {
+    "entidad": "modelo hospitalista",
+    "relacion": "requiere",
+    "valor": "una evaluación integral"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "realiza",
+    "valor": "análisis descriptivo retrospectivo"
+  },
+  {
+    "entidad": "medicina gráfica",
+    "relacion": "se define como",
+    "valor": "la intersección entre cómics, ilustración y medicina"
+  },
+  {
+    "entidad": "Ian Williams",
+    "relacion": "acuñó",
+    "valor": "el término medicina gráfica en 2007"
+  },
+  {
+    "entidad": "medicina gráfica",
+    "relacion": "ha impactado",
+    "valor": "los cuidados sanitarios y la educación de profesionales de la salud"
+  },
+  {
+    "entidad": "medicina narrativa",
+    "relacion": "incorpora",
+    "valor": "la medicina gráfica como herramienta"
+  },
+  {
+    "entidad": "medicina gráfica",
+    "relacion": "promueve",
+    "valor": "la empatía, reflexión crítica y comprensión holística del paciente"
+  },
+  {
+    "entidad": "medicina gráfica",
+    "relacion": "representa",
+    "valor": "una vía efectiva para formar profesionales más integrales"
+  },
+  {
+    "entidad": "medicina gráfica",
+    "relacion": "educa en",
+    "valor": "dimensiones esenciales del cuidado"
+  },
+  {
+    "entidad": "Universidad de Valparaíso",
+    "relacion": "tiene",
+    "valor": "un laboratorio de medicina narrativa"
+  },
+  {
+    "entidad": "medicina gráfica",
+    "relacion": "se utiliza en",
+    "valor": "la formación de profesionales de la salud en Chile"
+  },
+  {
+    "entidad": "cómics",
+    "relacion": "se han usado en",
+    "valor": "educación médica"
+  },
+  {
+    "entidad": "cómics",
+    "relacion": "favorecen",
+    "valor": "el razonamiento clínico y desarrollo de habilidades de observación"
+  },
+  {
+    "entidad": "cómics",
+    "relacion": "son útiles para",
+    "valor": "abordar temas complejos"
+  },
+  {
+    "entidad": "medicina gráfica",
+    "relacion": "permite",
+    "valor": "expresar vivencias relacionadas al padecimiento"
+  },
+  {
+    "entidad": "patografía gráfica",
+    "relacion": "trata sobre",
+    "valor": "la enfermedad y el padecimiento"
+  },
+  {
+    "entidad": "Mónica Lalanda",
+    "relacion": "introdujo",
+    "valor": "la medicina gráfica en el mundo hispanoparlante"
+  },
+  {
+    "entidad": "medicina gráfica",
+    "relacion": "ha sido utilizada por",
+    "valor": "artistas y académicos en el ámbito de la salud"
+  },
+  {
+    "entidad": "Universidad de Valparaíso",
+    "relacion": "creó",
+    "valor": "el 'Rincón de Medicina Gráfica'"
+  },
+  {
+    "entidad": "medicina gráfica",
+    "relacion": "se considera",
+    "valor": "una herramienta fundamental en la educación médica"
+  },
+  {
+    "entidad": "cómics",
+    "relacion": "se utilizan para",
+    "valor": "educar a pacientes y su entorno sobre patologías"
+  },
+  {
+    "entidad": "cómics",
+    "relacion": "acompañan",
+    "valor": "a personas que sufren una condición"
+  },
+  {
+    "entidad": "Inmuno",
+    "relacion": "es una novela gráfica",
+    "valor": "que describe el sistema inmunológico"
+  },
+  {
+    "entidad": "Diario de un derrame cerebral",
+    "relacion": "narra",
+    "valor": "experiencias de una madre con un hijo que sufrió una hemorragia perinatal"
+  }
+]

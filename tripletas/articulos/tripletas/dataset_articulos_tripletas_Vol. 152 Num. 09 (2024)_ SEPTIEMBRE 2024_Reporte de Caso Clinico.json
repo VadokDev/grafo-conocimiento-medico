@@ -1,0 +1,97 @@
+[
+  {
+    "entidad": "Anfotericina B liposomal lock therapy",
+    "relacion": "se utiliza en",
+    "valor": "peritonitis fúngica"
+  },
+  {
+    "entidad": "peritonitis fúngica",
+    "relacion": "es una complicación de",
+    "valor": "diálisis peritoneal"
+  },
+  {
+    "entidad": "terapia antifúngica sistémica",
+    "relacion": "es el manejo estándar de",
+    "valor": "peritonitis fúngica"
+  },
+  {
+    "entidad": "catéter de diálisis peritoneal",
+    "relacion": "debe ser retirado en caso de",
+    "valor": "peritonitis candidiásica"
+  },
+  {
+    "entidad": "fluconazol",
+    "relacion": "se utiliza junto con",
+    "valor": "anfotericina B liposomal"
+  },
+  {
+    "entidad": "paciente con síndrome de Down",
+    "relacion": "presenta",
+    "valor": "enfermedad renal crónica"
+  },
+  {
+    "entidad": "diálisis peritoneal automatizada",
+    "relacion": "se utiliza por",
+    "valor": "mala tolerancia a hemodiálisis"
+  },
+  {
+    "entidad": "Cándida Parapsilosis",
+    "relacion": "es el agente causante de",
+    "valor": "peritonitis fúngica"
+  },
+  {
+    "entidad": "lock therapy",
+    "relacion": "se aplica cada",
+    "valor": "24 horas"
+  },
+  {
+    "entidad": "terapia antifúngica estándar",
+    "relacion": "se combina con",
+    "valor": "lock therapy"
+  },
+  {
+    "entidad": "Sociedad Internacional de Diálisis Peritoneal",
+    "relacion": "recomienda",
+    "valor": "extracción inmediata del catéter en peritonitis candidiásica"
+  },
+  {
+    "entidad": "biofilm",
+    "relacion": "reduce la efectividad de",
+    "valor": "terapia antifúngica"
+  },
+  {
+    "entidad": "terapia de sustitución renal",
+    "relacion": "se mantiene a través de",
+    "valor": "diálisis peritoneal"
+  },
+  {
+    "entidad": "terapia antifúngica sistémica",
+    "relacion": "se agrega a",
+    "valor": "fluconazol intraperitoneal"
+  },
+  {
+    "entidad": "anfotericina B liposomal",
+    "relacion": "se utiliza para erradicar",
+    "valor": "biofilm de Cándida"
+  },
+  {
+    "entidad": "reunión multidisciplinaria",
+    "relacion": "se realiza entre",
+    "valor": "infectología y farmacología clínica"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "evoluciona favorablemente tras",
+    "valor": "4 semanas de lock therapy"
+  },
+  {
+    "entidad": "peritonitis fúngica",
+    "relacion": "puede ser tratada con",
+    "valor": "lock therapy en casos específicos"
+  },
+  {
+    "entidad": "catéter de diálisis peritoneal",
+    "relacion": "puede ser mantenido en caso de",
+    "valor": "peritonitis fúngica bajo ciertas condiciones"
+  }
+]

@@ -1,0 +1,842 @@
+[
+  {
+    "entidad": "velocidad de marcha",
+    "relacion": "es un",
+    "valor": "predictor de enfermedades no transmisibles y mortalidad"
+  },
+  {
+    "entidad": "auto-reporte de velocidad de marcha",
+    "relacion": "asocia con",
+    "valor": "adiposidad"
+  },
+  {
+    "entidad": "auto-reporte de velocidad de marcha",
+    "relacion": "asocia con",
+    "valor": "marcadores cardiovasculares"
+  },
+  {
+    "entidad": "población chilena",
+    "relacion": "participa en",
+    "valor": "Encuesta Nacional de Salud 2009-2010"
+  },
+  {
+    "entidad": "caminata regular",
+    "relacion": "ofrece",
+    "valor": "beneficios en la salud"
+  },
+  {
+    "entidad": "velocidad de marcha lenta",
+    "relacion": "asocia con",
+    "valor": "mayores niveles de adiposidad"
+  },
+  {
+    "entidad": "velocidad de marcha lenta",
+    "relacion": "asocia con",
+    "valor": "mayor probabilidad de ser obeso"
+  },
+  {
+    "entidad": "velocidad de marcha lenta",
+    "relacion": "asocia con",
+    "valor": "diabetes mellitus"
+  },
+  {
+    "entidad": "velocidad de marcha lenta",
+    "relacion": "asocia con",
+    "valor": "síndrome metabólico"
+  },
+  {
+    "entidad": "Grupo de investigación elhoC",
+    "relacion": "representado por",
+    "valor": "autores del estudio"
+  },
+  {
+    "entidad": "Universidad Católica del Maule",
+    "relacion": "es un",
+    "valor": "centro de investigación"
+  },
+  {
+    "entidad": "Universidad de Antofagasta",
+    "relacion": "apoya",
+    "valor": "Semillero de Investigación"
+  },
+  {
+    "entidad": "métodos estandarizados",
+    "relacion": "son utilizados para",
+    "valor": "mediciones metabólicas"
+  },
+  {
+    "entidad": "auto-reporte de velocidad de marcha",
+    "relacion": "se determina a través de",
+    "valor": "pregunta sobre dificultad para caminar"
+  },
+  {
+    "entidad": "análisis estadísticos",
+    "relacion": "se realizan con",
+    "valor": "software STATA"
+  },
+  {
+    "entidad": "velocidad de marcha rápida",
+    "relacion": "reduce",
+    "valor": "riesgo de enfermedades cardiovasculares"
+  },
+  {
+    "entidad": "población chilena",
+    "relacion": "destina tiempo a",
+    "valor": "actividades físicas asociadas al transporte"
+  },
+  {
+    "entidad": "velocidad de marcha",
+    "relacion": "debería ser",
+    "valor": "de al menos 100 pasos por minuto para beneficios de salud"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "es de",
+    "valor": "corte transversal"
+  },
+  {
+    "entidad": "velocidad de marcha",
+    "relacion": "se asocia con",
+    "valor": "factores de riesgo cardiovascular"
+  },
+  {
+    "entidad": "Ejercicio",
+    "relacion": "afecta a",
+    "valor": "salud en mujeres inactivas con malnutrición por exceso"
+  },
+  {
+    "entidad": "Prescripción dietética",
+    "relacion": "afecta a",
+    "valor": "salud en mujeres inactivas con malnutrición por exceso"
+  },
+  {
+    "entidad": "Mujeres inactivas",
+    "relacion": "presentan",
+    "valor": "malnutrición por exceso"
+  },
+  {
+    "entidad": "Malnutrición por exceso",
+    "relacion": "es considerada",
+    "valor": "enfermedad crónica"
+  },
+  {
+    "entidad": "Actividad física",
+    "relacion": "es",
+    "valor": "fundamental para el manejo de sobrepeso y obesidad"
+  },
+  {
+    "entidad": "Prescripción dietética",
+    "relacion": "es",
+    "valor": "fundamental para el manejo de sobrepeso y obesidad"
+  },
+  {
+    "entidad": "Grupo de ejercicio",
+    "relacion": "realiza",
+    "valor": "entrenamiento en circuito"
+  },
+  {
+    "entidad": "Grupo de prescripción dietética",
+    "relacion": "sigue",
+    "valor": "régimen hipocalórico"
+  },
+  {
+    "entidad": "Grupo control",
+    "relacion": "sirve como",
+    "valor": "grupo de comparación"
+  },
+  {
+    "entidad": "Composición corporal",
+    "relacion": "se evalúa mediante",
+    "valor": "bioimpedancia y dinamometría"
+  },
+  {
+    "entidad": "Presión arterial",
+    "relacion": "se mide en",
+    "valor": "mujeres con sobrepeso u obesidad"
+  },
+  {
+    "entidad": "Intervención",
+    "relacion": "dura",
+    "valor": "12 semanas"
+  },
+  {
+    "entidad": "Universidad Tecnológica de Chile INACAP",
+    "relacion": "es",
+    "valor": "institución donde se realizó el estudio"
+  },
+  {
+    "entidad": "Comité de Bioética de la Pontificia Universidad Católica de Valparaíso",
+    "relacion": "aprueba",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "Mujeres adultas",
+    "relacion": "son",
+    "valor": "participantes del estudio"
+  },
+  {
+    "entidad": "Dieta hipocalórica",
+    "relacion": "induce",
+    "valor": "reducción de peso corporal"
+  },
+  {
+    "entidad": "Ejercicio físico",
+    "relacion": "aumenta",
+    "valor": "masa muscular"
+  },
+  {
+    "entidad": "Prescripción dietética",
+    "relacion": "reduce",
+    "valor": "masa grasa"
+  },
+  {
+    "entidad": "Intervención combinada",
+    "relacion": "maximiza",
+    "valor": "efectos positivos sobre la salud"
+  },
+  {
+    "entidad": "tacrolimus innovador",
+    "relacion": "es reemplazado por",
+    "valor": "tacrolimus genérico"
+  },
+  {
+    "entidad": "tacrolimus genérico",
+    "relacion": "se utiliza en",
+    "valor": "trasplante renal"
+  },
+  {
+    "entidad": "trasplante renal",
+    "relacion": "afecta a",
+    "valor": "pacientes con enfermedad renal terminal"
+  },
+  {
+    "entidad": "Universidad de Chile",
+    "relacion": "realiza",
+    "valor": "investigación sobre inmunosupresores"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "instruye",
+    "valor": "reemplazo de tacrolimus innovador por genérico"
+  },
+  {
+    "entidad": "Fonasa",
+    "relacion": "financia",
+    "valor": "trasplantes renales en hospitales públicos"
+  },
+  {
+    "entidad": "inmunosupresores",
+    "relacion": "causan",
+    "valor": "rechazos agudos"
+  },
+  {
+    "entidad": "rechazo agudo",
+    "relacion": "es una complicación de",
+    "valor": "trasplante renal"
+  },
+  {
+    "entidad": "costos asociados",
+    "relacion": "incluyen",
+    "valor": "controles médicos y tratamientos"
+  },
+  {
+    "entidad": "Cenabast",
+    "relacion": "centraliza",
+    "valor": "compras de medicamentos"
+  },
+  {
+    "entidad": "análisis de costos",
+    "relacion": "evalúa",
+    "valor": "impacto económico del reemplazo de medicamentos"
+  },
+  {
+    "entidad": "episodios infecciosos",
+    "relacion": "ocurren en",
+    "valor": "pacientes trasplantados"
+  },
+  {
+    "entidad": "biopsias del injerto",
+    "relacion": "se realizan para",
+    "valor": "diagnosticar rechazo agudo"
+  },
+  {
+    "entidad": "costos de hospitalización",
+    "relacion": "aumentan por",
+    "valor": "infecciones y rechazos agudos"
+  },
+  {
+    "entidad": "análisis económico",
+    "relacion": "concluye que",
+    "valor": "el reemplazo de inmunosupresores puede no ser conveniente"
+  },
+  {
+    "entidad": "creatinina",
+    "relacion": "se utiliza para",
+    "valor": "evaluar función renal"
+  },
+  {
+    "entidad": "simulaciones",
+    "relacion": "permiten",
+    "valor": "explorar resultados de cambios en tratamientos"
+  },
+  {
+    "entidad": "rechazo agudo",
+    "relacion": "es el principal impulsor de",
+    "valor": "costos en trasplantes renales"
+  },
+  {
+    "entidad": "Mini Mental State Examination (MMSE)",
+    "relacion": "evalúa",
+    "valor": "funcionamiento cognitivo"
+  },
+  {
+    "entidad": "Montreal Cognitive Assessment (MoCA)",
+    "relacion": "evalúa",
+    "valor": "funcionamiento cognitivo"
+  },
+  {
+    "entidad": "Addenbrooke’s Cognitive Examination (ACE-R)",
+    "relacion": "evalúa",
+    "valor": "funcionamiento cognitivo"
+  },
+  {
+    "entidad": "MMSE",
+    "relacion": "es utilizado por",
+    "valor": "profesionales de la salud en Chile"
+  },
+  {
+    "entidad": "MoCA",
+    "relacion": "es utilizado por",
+    "valor": "profesionales de la salud en Chile"
+  },
+  {
+    "entidad": "ACE-R",
+    "relacion": "es utilizado por",
+    "valor": "profesionales de la salud en Chile"
+  },
+  {
+    "entidad": "MMSE",
+    "relacion": "tiene limitaciones en",
+    "valor": "identificación de demencia inicial"
+  },
+  {
+    "entidad": "MoCA",
+    "relacion": "tiene buena",
+    "valor": "confiabilidad"
+  },
+  {
+    "entidad": "ACE-R",
+    "relacion": "tiene buena",
+    "valor": "consistencia interna"
+  },
+  {
+    "entidad": "MMSE",
+    "relacion": "detecta",
+    "valor": "menor cantidad de sujetos con demencia"
+  },
+  {
+    "entidad": "MoCA",
+    "relacion": "detecta",
+    "valor": "mayor cantidad de sujetos con demencia"
+  },
+  {
+    "entidad": "ACE-R",
+    "relacion": "detecta",
+    "valor": "mayor cantidad de sujetos con demencia"
+  },
+  {
+    "entidad": "Deterioro Cognitivo Leve (DCL)",
+    "relacion": "es considerado",
+    "valor": "un estadio previo a la demencia"
+  },
+  {
+    "entidad": "Comisión Nacional de Investigación Científica y Tecnológica (CONICYT)",
+    "relacion": "financia",
+    "valor": "proyectos de investigación en Chile"
+  },
+  {
+    "entidad": "Dra. Margarita Cancino",
+    "relacion": "es responsable de",
+    "valor": "proyecto FONDECYT POSTDOCTORADO N° 3180534"
+  },
+  {
+    "entidad": "Dr. Manuel S. Ortiz",
+    "relacion": "es investigador principal de",
+    "valor": "proyecto FONDECYT REGULAR 1180463"
+  },
+  {
+    "entidad": "Universidad de La Frontera",
+    "relacion": "es una",
+    "valor": "institución educativa en Chile"
+  },
+  {
+    "entidad": "Comité Ético Científico de la Universidad de La Frontera",
+    "relacion": "aprueba",
+    "valor": "estudios de investigación"
+  },
+  {
+    "entidad": "Team-Based Learning (TBL)",
+    "relacion": "es utilizado en",
+    "valor": "enseñanza de medicina"
+  },
+  {
+    "entidad": "TBL",
+    "relacion": "se compara con",
+    "valor": "modalidad de clase magistral"
+  },
+  {
+    "entidad": "estudiantes de medicina",
+    "relacion": "son evaluados en",
+    "valor": "cursos de estadística"
+  },
+  {
+    "entidad": "Universidad Católica del Norte",
+    "relacion": "ofrece",
+    "valor": "cursos de estadística"
+  },
+  {
+    "entidad": "Comité Ético Científico",
+    "relacion": "aprueba",
+    "valor": "manuscrito"
+  },
+  {
+    "entidad": "TBL",
+    "relacion": "mejora",
+    "valor": "rendimiento del estudiante"
+  },
+  {
+    "entidad": "TBL",
+    "relacion": "promueve",
+    "valor": "aprendizaje colaborativo"
+  },
+  {
+    "entidad": "TBL",
+    "relacion": "mejora",
+    "valor": "pensamiento crítico"
+  },
+  {
+    "entidad": "estudiantes",
+    "relacion": "evalúan",
+    "valor": "metodología TBL positivamente"
+  },
+  {
+    "entidad": "material de lectura",
+    "relacion": "es preparado por",
+    "valor": "profesor"
+  },
+  {
+    "entidad": "TBL",
+    "relacion": "incluye",
+    "valor": "prueba individual y grupal"
+  },
+  {
+    "entidad": "TBL",
+    "relacion": "fue desarrollado por",
+    "valor": "Larry Michaelsen"
+  },
+  {
+    "entidad": "TBL",
+    "relacion": "es comparado con",
+    "valor": "Aprendizaje Basado en Problemas (ABP)"
+  },
+  {
+    "entidad": "estudiantes",
+    "relacion": "realizan",
+    "valor": "encuesta sobre metodología TBL"
+  },
+  {
+    "entidad": "TBL",
+    "relacion": "se implementa en",
+    "valor": "asignaturas Metodología de la Investigación I y II"
+  },
+  {
+    "entidad": "TBL",
+    "relacion": "reemplaza",
+    "valor": "clase magistral"
+  },
+  {
+    "entidad": "TBL",
+    "relacion": "aumenta",
+    "valor": "porcentaje de respuestas correctas"
+  },
+  {
+    "entidad": "TBL",
+    "relacion": "disminuye",
+    "valor": "notas por debajo del umbral de aprobación"
+  },
+  {
+    "entidad": "estudiantes",
+    "relacion": "son encuestados sobre",
+    "valor": "satisfacción con TBL"
+  },
+  {
+    "entidad": "TBL",
+    "relacion": "fomenta",
+    "valor": "estudio constante"
+  },
+  {
+    "entidad": "TBL",
+    "relacion": "facilita",
+    "valor": "aprendizaje"
+  },
+  {
+    "entidad": "TBL",
+    "relacion": "es considerado",
+    "valor": "entretenido y facilitador del aprendizaje"
+  },
+  {
+    "entidad": "TBL",
+    "relacion": "mejora",
+    "valor": "comprensión de conceptos estadísticos"
+  },
+  {
+    "entidad": "Universidad de Concepción",
+    "relacion": "pertenece a",
+    "valor": "Departamento de Educación Médica"
+  },
+  {
+    "entidad": "Universidad Andrés Bello",
+    "relacion": "pertenece a",
+    "valor": "Facultad de Medicina"
+  },
+  {
+    "entidad": "Universidad de La Frontera",
+    "relacion": "pertenece a",
+    "valor": "Departamento Obstetricia y Ginecología"
+  },
+  {
+    "entidad": "OFECS",
+    "relacion": "es parte de",
+    "valor": "Facultad de Medicina"
+  },
+  {
+    "entidad": "Conicity-Fondecyt Regular N° 1170525",
+    "relacion": "es",
+    "valor": "fuente de apoyo financiero"
+  },
+  {
+    "entidad": "Diversidad e inclusión educativa",
+    "relacion": "es el tema de",
+    "valor": "proyecto"
+  },
+  {
+    "entidad": "formación clínica",
+    "relacion": "incluye",
+    "valor": "diversidad"
+  },
+  {
+    "entidad": "diversidad",
+    "relacion": "afecta a",
+    "valor": "trabajadores de la salud"
+  },
+  {
+    "entidad": "educación inclusiva",
+    "relacion": "es importante para",
+    "valor": "universidades"
+  },
+  {
+    "entidad": "estudiantes de salud",
+    "relacion": "experimentan",
+    "valor": "diversidad en atención clínica"
+  },
+  {
+    "entidad": "diversidad de pacientes",
+    "relacion": "requiere",
+    "valor": "tratamientos orientados a la diversidad"
+  },
+  {
+    "entidad": "contexto clínico",
+    "relacion": "es un",
+    "valor": "escenario de formación"
+  },
+  {
+    "entidad": "carrera de Medicina",
+    "relacion": "es parte de",
+    "valor": "carreras de la salud"
+  },
+  {
+    "entidad": "carrera de Enfermería",
+    "relacion": "es parte de",
+    "valor": "carreras de la salud"
+  },
+  {
+    "entidad": "carrera de Kinesiología",
+    "relacion": "es parte de",
+    "valor": "carreras de la salud"
+  },
+  {
+    "entidad": "carrera de Fonoaudiología",
+    "relacion": "es parte de",
+    "valor": "carreras de la salud"
+  },
+  {
+    "entidad": "carrera de Tecnología Médica",
+    "relacion": "es parte de",
+    "valor": "carreras de la salud"
+  },
+  {
+    "entidad": "carrera de Obstetricia y Puericultura",
+    "relacion": "es parte de",
+    "valor": "carreras de la salud"
+  },
+  {
+    "entidad": "diversidad socio-cultural",
+    "relacion": "incluye",
+    "valor": "género, sexo, etnicidad, religión y discapacidad"
+  },
+  {
+    "entidad": "vocación de servicio",
+    "relacion": "se ve afectada por",
+    "valor": "intereses económicos"
+  },
+  {
+    "entidad": "profesionales de la salud",
+    "relacion": "deben atender",
+    "valor": "pacientes diversos"
+  },
+  {
+    "entidad": "pacientes vulnerables",
+    "relacion": "son",
+    "valor": "grupo en riesgo"
+  },
+  {
+    "entidad": "inmigrantes",
+    "relacion": "son",
+    "valor": "grupo en riesgo"
+  },
+  {
+    "entidad": "personas de sectores rurales",
+    "relacion": "son",
+    "valor": "grupo en riesgo"
+  },
+  {
+    "entidad": "pacientes con discapacidad",
+    "relacion": "requieren",
+    "valor": "atención especializada"
+  },
+  {
+    "entidad": "estudiantes",
+    "relacion": "reportan",
+    "valor": "dificultades en el contexto clínico"
+  },
+  {
+    "entidad": "docentes",
+    "relacion": "observan",
+    "valor": "desilusión en estudiantes durante prácticas clínicas"
+  },
+  {
+    "entidad": "atención primaria",
+    "relacion": "permite ver",
+    "valor": "vulnerabilidad de pacientes"
+  },
+  {
+    "entidad": "comunicación",
+    "relacion": "es un desafío con",
+    "valor": "pacientes con discapacidad"
+  },
+  {
+    "entidad": "cultura",
+    "relacion": "influye en",
+    "valor": "atención a pacientes"
+  },
+  {
+    "entidad": "religión",
+    "relacion": "influye en",
+    "valor": "decisiones de atención médica"
+  },
+  {
+    "entidad": "orientación sexual",
+    "relacion": "afecta la atención de",
+    "valor": "pacientes"
+  },
+  {
+    "entidad": "VIH",
+    "relacion": "genera",
+    "valor": "discriminación en atención médica"
+  },
+  {
+    "entidad": "educación multimedia",
+    "relacion": "mejora",
+    "valor": "estilo de vida"
+  },
+  {
+    "entidad": "terapia nutricia",
+    "relacion": "mejora",
+    "valor": "estilo de vida"
+  },
+  {
+    "entidad": "diabetes tipo 2",
+    "relacion": "afecta",
+    "valor": "calidad de vida"
+  },
+  {
+    "entidad": "diabetes tipo 2",
+    "relacion": "origina",
+    "valor": "alto costo económico"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud (OMS)",
+    "relacion": "define",
+    "valor": "estilo de vida"
+  },
+  {
+    "entidad": "estilo de vida saludable",
+    "relacion": "es un factor importante",
+    "valor": "control de HbA1c"
+  },
+  {
+    "entidad": "tecnologías de la información y la comunicación (TICs)",
+    "relacion": "han sido utilizadas",
+    "valor": "educación en salud"
+  },
+  {
+    "entidad": "pacientes con diabetes tipo 2",
+    "relacion": "mejoran",
+    "valor": "comprensión en el cuidado de la enfermedad"
+  },
+  {
+    "entidad": "intervención educativa",
+    "relacion": "mejora",
+    "valor": "control metabólico"
+  },
+  {
+    "entidad": "intervención educativa",
+    "relacion": "incrementa",
+    "valor": "estilo de vida favorable"
+  },
+  {
+    "entidad": "HbA1c",
+    "relacion": "disminuye",
+    "valor": "con intervención educativa"
+  },
+  {
+    "entidad": "peso corporal",
+    "relacion": "disminuye",
+    "valor": "con intervención educativa"
+  },
+  {
+    "entidad": "indicadores de riesgo cardiovascular",
+    "relacion": "mejoran",
+    "valor": "con intervención educativa"
+  },
+  {
+    "entidad": "Consejo Nacional de Ciencia y Tecnología (CONACYT)",
+    "relacion": "apoya",
+    "valor": "investigación en salud"
+  },
+  {
+    "entidad": "pacientes con diabetes tipo 2",
+    "relacion": "reciben",
+    "valor": "educación a través de un sitio multimedia"
+  },
+  {
+    "entidad": "sitio multimedia",
+    "relacion": "es una herramienta",
+    "valor": "para educación en diabetes"
+  },
+  {
+    "entidad": "nutricionistas certificadas",
+    "relacion": "proporcionan",
+    "valor": "terapia nutricia"
+  },
+  {
+    "entidad": "intervención educativa",
+    "relacion": "se realiza a través de",
+    "valor": "un sitio multimedia"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "son instruidos en",
+    "valor": "uso de la herramienta educativa"
+  },
+  {
+    "entidad": "curva de tolerancia a la glucosa",
+    "relacion": "se utiliza para",
+    "valor": "calcular sensibilidad insulínica y función beta insular"
+  },
+  {
+    "entidad": "sensibilidad insulínica",
+    "relacion": "es medida por",
+    "valor": "porcentaje relativo de sensibilidad insulínica (%RSI)"
+  },
+  {
+    "entidad": "función beta insular",
+    "relacion": "es medida por",
+    "valor": "porcentaje relativo de función beta insular (%RFBI)"
+  },
+  {
+    "entidad": "programa en HTML",
+    "relacion": "permite",
+    "valor": "evaluar la tolerancia a la glucosa"
+  },
+  {
+    "entidad": "insulina",
+    "relacion": "es medida junto a",
+    "valor": "glucosa en la curva de tolerancia a la glucosa"
+  },
+  {
+    "entidad": "HOMA",
+    "relacion": "es un",
+    "valor": "predictor de resistencia a la insulina"
+  },
+  {
+    "entidad": "QUICKI",
+    "relacion": "es un",
+    "valor": "predictor de resistencia a la insulina"
+  },
+  {
+    "entidad": "ISI-OL",
+    "relacion": "es un",
+    "valor": "predictor de resistencia a la insulina"
+  },
+  {
+    "entidad": "I0*G60",
+    "relacion": "es un",
+    "valor": "predictor de resistencia a la insulina"
+  },
+  {
+    "entidad": "TSP",
+    "relacion": "mide",
+    "valor": "resistencia insulínica directamente"
+  },
+  {
+    "entidad": "American Diabetes Association (ADA)",
+    "relacion": "define",
+    "valor": "categorización de la curva de tolerancia a la glucosa"
+  },
+  {
+    "entidad": "resistencia insulínica",
+    "relacion": "conduce a",
+    "valor": "diabetes mellitus y enfermedades cardiovasculares"
+  },
+  {
+    "entidad": "sistema de detección",
+    "relacion": "debe tener",
+    "valor": "mayor sensibilidad"
+  },
+  {
+    "entidad": "predictores bioquímicos",
+    "relacion": "son utilizados para",
+    "valor": "diagnosticar resistencia insulínica"
+  },
+  {
+    "entidad": "matemáticas",
+    "relacion": "modelan",
+    "valor": "relaciones entre predictores y glicemia"
+  },
+  {
+    "entidad": "glicemia de equilibrio",
+    "relacion": "es medida en",
+    "valor": "el test de supresión pancreática"
+  },
+  {
+    "entidad": "número de sujetos",
+    "relacion": "fue",
+    "valor": "90 en el estudio"
+  },
+  {
+    "entidad": "resistencia a la insulina",
+    "relacion": "afecta a",
+    "valor": "25% de la población adulta"
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "entidad": "Cáncer anaplásico de páncreas",
+    "relacion": "es un",
+    "valor": "subtipo raro y agresivo de cáncer de páncreas"
+  },
+  {
+    "entidad": "Cáncer anaplásico de páncreas",
+    "relacion": "representa",
+    "valor": "2-7% de los carcinomas pancreáticos"
+  },
+  {
+    "entidad": "Cáncer anaplásico de páncreas",
+    "relacion": "tiene",
+    "valor": "una sobrevida media de 5,7 meses"
+  },
+  {
+    "entidad": "paciente de 44 años",
+    "relacion": "presenta",
+    "valor": "hemorragia digestiva alta"
+  },
+  {
+    "entidad": "tomografía computada (TC)",
+    "relacion": "revela",
+    "valor": "una masa del fondo gástrico con infiltración pancreática"
+  },
+  {
+    "entidad": "endoscopía",
+    "relacion": "identifica",
+    "valor": "una lesión submucosa gástrica intratable"
+  },
+  {
+    "entidad": "resección quirúrgica de urgencia",
+    "relacion": "se realiza",
+    "valor": "para tratar el cáncer"
+  },
+  {
+    "entidad": "histología",
+    "relacion": "confirma",
+    "valor": "un cáncer anaplásico de páncreas"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "evoluciona",
+    "valor": "favorablemente sin recidiva a 5 años post quimioterapia"
+  },
+  {
+    "entidad": "cirugía y quimioterapia adyuvante",
+    "relacion": "fue",
+    "valor": "eficaz"
+  },
+  {
+    "entidad": "quimioterapia adyuvante",
+    "relacion": "tiene",
+    "valor": "un rol limitado en la sobrevida"
+  },
+  {
+    "entidad": "resección quirúrgica",
+    "relacion": "ofrece",
+    "valor": "la mejor posibilidad de sobrevida"
+  },
+  {
+    "entidad": "manejo multidisciplinario",
+    "relacion": "logra",
+    "valor": "una sobrevida excepcional"
+  },
+  {
+    "entidad": "GIST gástrico",
+    "relacion": "simula",
+    "valor": "el cáncer anaplásico de páncreas"
+  },
+  {
+    "entidad": "histopatología",
+    "relacion": "muestra",
+    "valor": "un tumor maligno anaplásico"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "recibe",
+    "valor": "quimioterapia efectiva con Oxaliplatino, 5-Fluorouracilo y Leucovorina"
+  },
+  {
+    "entidad": "PET/CT",
+    "relacion": "se utiliza",
+    "valor": "para seguimiento seriado sin metástasis"
+  },
+  {
+    "entidad": "Stent Carotídeo",
+    "relacion": "es un",
+    "valor": "tratamiento para estenosis carotídea"
+  },
+  {
+    "entidad": "Transcarotid Artery Stenting (TCAR)",
+    "relacion": "es un",
+    "valor": "método de revascularización carotídea"
+  },
+  {
+    "entidad": "Endarterectomía Carotídea (CEA)",
+    "relacion": "es un",
+    "valor": "gold estándar para tratamiento de estenosis carotídea"
+  },
+  {
+    "entidad": "pacientes de alto riesgo quirúrgico",
+    "relacion": "son tratados con",
+    "valor": "stenting carotídeo por vía transfemoral"
+  },
+  {
+    "entidad": "fístula transitoria",
+    "relacion": "se crea durante",
+    "valor": "el procedimiento de TCAR"
+  },
+  {
+    "entidad": "flujo dinámico invertido",
+    "relacion": "se utiliza para",
+    "valor": "proteger el cerebro durante el procedimiento"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "se recupera",
+    "valor": "sin complicaciones"
+  },
+  {
+    "entidad": "TCAR",
+    "relacion": "es una alternativa",
+    "valor": "segura y efectiva para revascularización"
+  },
+  {
+    "entidad": "Estenosis Carotídea",
+    "relacion": "causa",
+    "valor": "accidentes cerebrovasculares"
+  },
+  {
+    "entidad": "angioplastia carotídea mediante stent (CAS)",
+    "relacion": "es una",
+    "valor": "alternativa menos invasiva"
+  },
+  {
+    "entidad": "Sociedad de Cirugía Vascular (SVS)",
+    "relacion": "reconoce",
+    "valor": "TCAR como opción viable"
+  },
+  {
+    "entidad": "Sociedad Europea de Cirugía Vascular y Endovascular (ESVS)",
+    "relacion": "reconoce",
+    "valor": "TCAR como opción segura"
+  },
+  {
+    "entidad": "ENROUTE®",
+    "relacion": "es un",
+    "valor": "sistema de neuroprotección"
+  },
+  {
+    "entidad": "TCAR",
+    "relacion": "ha mostrado",
+    "valor": "resultados prometedores"
+  },
+  {
+    "entidad": "angiografía",
+    "relacion": "se utiliza para",
+    "valor": "confirmar el paso de contraste"
+  },
+  {
+    "entidad": "stent",
+    "relacion": "se despliega en",
+    "valor": "la estenosis"
+  },
+  {
+    "entidad": "seguimiento a un año",
+    "relacion": "muestra",
+    "valor": "permeabilidad del stent"
+  }
+]

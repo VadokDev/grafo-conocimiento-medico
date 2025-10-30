@@ -1,0 +1,307 @@
+[
+  {
+    "entidad": "angiografía coronaria",
+    "relacion": "es",
+    "valor": "la prueba de referencia para identificar enfermedad arterial coronaria"
+  },
+  {
+    "entidad": "angiografía coronaria",
+    "relacion": "se utiliza para",
+    "valor": "evaluar la anatomía coronaria"
+  },
+  {
+    "entidad": "angiografía coronaria",
+    "relacion": "tiene",
+    "valor": "indicaciones y complicaciones"
+  },
+  {
+    "entidad": "angiografía coronaria",
+    "relacion": "ha mejorado",
+    "valor": "su técnica con avances tecnológicos"
+  },
+  {
+    "entidad": "angiografía coronaria",
+    "relacion": "contribuye a",
+    "valor": "el diagnóstico y tratamiento de la enfermedad coronaria"
+  },
+  {
+    "entidad": "angiografía coronaria",
+    "relacion": "puede causar",
+    "valor": "complicaciones"
+  },
+  {
+    "entidad": "complicaciones",
+    "relacion": "incluyen",
+    "valor": "hematoma del sitio de acceso vascular"
+  },
+  {
+    "entidad": "complicaciones graves",
+    "relacion": "representan",
+    "valor": "menos del 1% de los pacientes"
+  },
+  {
+    "entidad": "angiografía coronaria",
+    "relacion": "no tiene",
+    "valor": "contraindicaciones absolutas"
+  },
+  {
+    "entidad": "reacción alérgica grave al contraste",
+    "relacion": "es una",
+    "valor": "contraindicación relativa para la angiografía coronaria"
+  },
+  {
+    "entidad": "insuficiencia renal avanzada",
+    "relacion": "es una",
+    "valor": "contraindicación relativa para la angiografía coronaria"
+  },
+  {
+    "entidad": "angiotomografía coronaria",
+    "relacion": "permite",
+    "valor": "descartar enfermedad coronaria en pacientes de bajo riesgo"
+  },
+  {
+    "entidad": "American Heart Association",
+    "relacion": "genera",
+    "valor": "recomendaciones para la realización de angiografía coronaria"
+  },
+  {
+    "entidad": "European Society of Cardiology",
+    "relacion": "genera",
+    "valor": "recomendaciones para la realización de angiografía coronaria"
+  },
+  {
+    "entidad": "insuficiencia cardíaca",
+    "relacion": "puede ser evaluada con",
+    "valor": "angiografía coronaria"
+  },
+  {
+    "entidad": "vasculopatía del injerto",
+    "relacion": "se recomienda evaluar con",
+    "valor": "angiografía coronaria cada uno o dos años post trasplante"
+  },
+  {
+    "entidad": "síndrome coronario agudo",
+    "relacion": "requiere",
+    "valor": "angiografía coronaria urgente"
+  },
+  {
+    "entidad": "paro cardíaco",
+    "relacion": "puede ser tratado con",
+    "valor": "angioplastia primaria"
+  },
+  {
+    "entidad": "angiografía coronaria",
+    "relacion": "debe ser solicitada",
+    "valor": "responsablemente"
+  },
+  {
+    "entidad": "técnicas de apoyo",
+    "relacion": "mejoran",
+    "valor": "la certeza diagnóstica en angiografía coronaria"
+  },
+  {
+    "entidad": "imágenes intracoronarias",
+    "relacion": "incluyen",
+    "valor": "ultrasonido intravascular y tomografía de coherencia óptica"
+  },
+  {
+    "entidad": "evaluación funcional",
+    "relacion": "se utiliza para",
+    "valor": "determinar la significación fisiológica de lesiones coronarias"
+  },
+  {
+    "entidad": "medicina alternativa y complementaria",
+    "relacion": "ocupa",
+    "valor": "un lugar relevante en el pluralismo médico"
+  },
+  {
+    "entidad": "escasa regulación",
+    "relacion": "facilita",
+    "valor": "el uso creciente de medicinas alternativas y complementarias"
+  },
+  {
+    "entidad": "redes sociales",
+    "relacion": "promocionan",
+    "valor": "medicinas alternativas y complementarias"
+  },
+  {
+    "entidad": "organizaciones médicas",
+    "relacion": "muestran interés en",
+    "valor": "el uso y consecuencias de medicinas alternativas y complementarias"
+  },
+  {
+    "entidad": "sistemas públicos de salud",
+    "relacion": "muestran interés en",
+    "valor": "la adopción de medicinas alternativas y complementarias"
+  },
+  {
+    "entidad": "evidencia científica",
+    "relacion": "respalda",
+    "valor": "el uso de medicinas alternativas y complementarias"
+  },
+  {
+    "entidad": "Facultades de Medicina",
+    "relacion": "tienen",
+    "valor": "escasa representación de la enseñanza de medicinas alternativas y complementarias"
+  },
+  {
+    "entidad": "médicos",
+    "relacion": "deben estar preparados para",
+    "valor": "discutir beneficios y riesgos de medicinas alternativas y complementarias"
+  },
+  {
+    "entidad": "bien del paciente",
+    "relacion": "debe primar sobre",
+    "valor": "otros intereses en la práctica médica"
+  },
+  {
+    "entidad": "autonomía del paciente",
+    "relacion": "debe ser respetada en",
+    "valor": "sus cuidados de salud"
+  },
+  {
+    "entidad": "medicina tradicional",
+    "relacion": "es promovida por",
+    "valor": "la OMS para su integración en sistemas de salud"
+  },
+  {
+    "entidad": "Autoridad Sanitaria de Chile",
+    "relacion": "reconoció",
+    "valor": "cuidados alternativos de salud en 2005"
+  },
+  {
+    "entidad": "prácticas médicas alternativas",
+    "relacion": "se definen como",
+    "valor": "actividades para recuperar y mantener la salud"
+  },
+  {
+    "entidad": "medicina convencional",
+    "relacion": "es complementada por",
+    "valor": "medicinas alternativas y complementarias"
+  },
+  {
+    "entidad": "pseudoterapias",
+    "relacion": "son definidas como",
+    "valor": "prácticas sin soporte científico"
+  },
+  {
+    "entidad": "médicos alópatas",
+    "relacion": "reportan",
+    "valor": "derivaciones a medicinas alternativas y complementarias"
+  },
+  {
+    "entidad": "justicia sanitaria",
+    "relacion": "obliga a",
+    "valor": "procurar acceso equitativo a prestaciones de salud"
+  },
+  {
+    "entidad": "deber de investigar",
+    "relacion": "es necesario ante",
+    "valor": "el uso creciente de medicinas alternativas y complementarias"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "tiene",
+    "valor": "29 facultades de medicina en 2024"
+  },
+  {
+    "entidad": "facultades de medicina",
+    "relacion": "aumentaron",
+    "valor": "de 6 en 1990 a 29 en 2024"
+  },
+  {
+    "entidad": "cupos para estudiar medicina",
+    "relacion": "incrementaron",
+    "valor": "de 1.816 en 2010 a 3.000 en 2024"
+  },
+  {
+    "entidad": "número de médicos/as",
+    "relacion": "aumentó",
+    "valor": "de 24.455 en 2010 a 65.737 en 2023"
+  },
+  {
+    "entidad": "médicos/as extranjeros",
+    "relacion": "constituyen",
+    "valor": "25% del total de médicos en 2023"
+  },
+  {
+    "entidad": "relación de médicos por cada 1.000 habitantes",
+    "relacion": "aumentó",
+    "valor": "de 1,43 en 2010 a 3,13 en 2024"
+  },
+  {
+    "entidad": "proyección de médicos por cada 1.000 habitantes",
+    "relacion": "se espera",
+    "valor": "cercana a 6 en 2034"
+  },
+  {
+    "entidad": "Sistema Público de Salud",
+    "relacion": "reporta",
+    "valor": "contratación de un tercio de las jornadas completas de médicos"
+  },
+  {
+    "entidad": "especialidades médicas",
+    "relacion": "tienen",
+    "valor": "subrepresentación en regiones no metropolitanas"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "se encuentra",
+    "valor": "en el lugar 57 de 200 países en tasa de médicos"
+  },
+  {
+    "entidad": "tasa de médicos especialistas en Chile",
+    "relacion": "es",
+    "valor": "1,64 por 1.000 habitantes"
+  },
+  {
+    "entidad": "promedio de la OCDE",
+    "relacion": "es",
+    "valor": "2,35 médicos especialistas por 1.000 habitantes"
+  },
+  {
+    "entidad": "formación médica",
+    "relacion": "debe ser",
+    "valor": "sostenible y regulada"
+  },
+  {
+    "entidad": "necesidades profesionales",
+    "relacion": "deben ser evaluadas",
+    "valor": "a través de análisis de grandes datos"
+  },
+  {
+    "entidad": "Academia de Medicina",
+    "relacion": "debe participar",
+    "valor": "en la planificación de la formación médica"
+  },
+  {
+    "entidad": "Universidades",
+    "relacion": "deben iniciar",
+    "valor": "una reflexión conjunta sobre su rol en la formación médica"
+  },
+  {
+    "entidad": "médicos/as en Chile",
+    "relacion": "deben ser formados",
+    "valor": "para enfrentar desafíos en salud"
+  },
+  {
+    "entidad": "especialidades primarias y derivadas",
+    "relacion": "requieren",
+    "valor": "análisis de la demanda futura"
+  },
+  {
+    "entidad": "grupo de trabajo",
+    "relacion": "debe incluir",
+    "valor": "actores relevantes en el sistema de salud"
+  },
+  {
+    "entidad": "formación profesional",
+    "relacion": "debe evitar",
+    "valor": "ser desregulada"
+  },
+  {
+    "entidad": "desarrollo de políticas nacionales",
+    "relacion": "es necesario",
+    "valor": "para la educación terciaria"
+  }
+]

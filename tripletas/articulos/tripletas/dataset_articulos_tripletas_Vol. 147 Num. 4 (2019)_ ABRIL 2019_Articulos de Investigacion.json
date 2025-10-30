@@ -1,0 +1,717 @@
+[
+  {
+    "entidad": "Angioplastía Pulmonar con Balón (BPA)",
+    "relacion": "es un",
+    "valor": "tratamiento para CTEPH"
+  },
+  {
+    "entidad": "Hipertensión Arterial Pulmonar (HAP)",
+    "relacion": "es un",
+    "valor": "síntoma de CTEPH"
+  },
+  {
+    "entidad": "Enfermedad Tromboembólica Crónica (CTEPH)",
+    "relacion": "causa",
+    "valor": "hipertensión arterial pulmonar"
+  },
+  {
+    "entidad": "BPA",
+    "relacion": "utiliza",
+    "valor": "imágenes intravasculares"
+  },
+  {
+    "entidad": "BPA",
+    "relacion": "es un",
+    "valor": "método mínimamente invasivo"
+  },
+  {
+    "entidad": "BPA",
+    "relacion": "mejora",
+    "valor": "resultados hemodinámicos inmediatos"
+  },
+  {
+    "entidad": "BPA",
+    "relacion": "mejora",
+    "valor": "resultados clínicos a corto plazo"
+  },
+  {
+    "entidad": "OFDI",
+    "relacion": "es un",
+    "valor": "método de imagen utilizado en BPA"
+  },
+  {
+    "entidad": "Hospital San Juan de Dios",
+    "relacion": "realiza",
+    "valor": "BPA"
+  },
+  {
+    "entidad": "sildenafil",
+    "relacion": "es un",
+    "valor": "tratamiento médico para CTEPH"
+  },
+  {
+    "entidad": "endarterectomía pulmonar (EAP)",
+    "relacion": "es un",
+    "valor": "tratamiento de elección para CTEPH"
+  },
+  {
+    "entidad": "CTEPH",
+    "relacion": "requiere",
+    "valor": "alto índice de sospecha para diagnóstico"
+  },
+  {
+    "entidad": "cintigrama V/Q",
+    "relacion": "es un",
+    "valor": "examen de primera línea para diagnóstico de CTEPH"
+  },
+  {
+    "entidad": "angiografía pulmonar",
+    "relacion": "es un",
+    "valor": "gold standard para diagnóstico de CTEPH"
+  },
+  {
+    "entidad": "BPA",
+    "relacion": "se considera",
+    "valor": "una alternativa segura"
+  },
+  {
+    "entidad": "BPA",
+    "relacion": "no presenta",
+    "valor": "mortalidad asociada"
+  },
+  {
+    "entidad": "BPA",
+    "relacion": "disminuye",
+    "valor": "presión arterial media pulmonar (PAPm)"
+  },
+  {
+    "entidad": "BPA",
+    "relacion": "disminuye",
+    "valor": "resistencia vascular pulmonar (RVP)"
+  },
+  {
+    "entidad": "BPA",
+    "relacion": "aumenta",
+    "valor": "índice cardíaco"
+  },
+  {
+    "entidad": "BPA",
+    "relacion": "mejora",
+    "valor": "clase funcional de la OMS"
+  },
+  {
+    "entidad": "BPA",
+    "relacion": "mejora",
+    "valor": "distancia caminada en 6 minutos"
+  },
+  {
+    "entidad": "BPA",
+    "relacion": "se realiza en",
+    "valor": "pacientes excluidos de EAP"
+  },
+  {
+    "entidad": "Diabetes mellitus tipo 1",
+    "relacion": "es una",
+    "valor": "condición caracterizada por la destrucción autoinmune de células beta"
+  },
+  {
+    "entidad": "insulina exógena",
+    "relacion": "es necesaria para",
+    "valor": "reemplazar la secreción de insulina en pacientes con DM1"
+  },
+  {
+    "entidad": "Diabetes Control and Complications Trial (DCCT)",
+    "relacion": "muestra que",
+    "valor": "la insulinoterapia intensiva se asocia a un mejor nivel de HbA1c"
+  },
+  {
+    "entidad": "HbA1c",
+    "relacion": "es un indicador de",
+    "valor": "control metabólico en diabetes"
+  },
+  {
+    "entidad": "insulinoterapia intensiva",
+    "relacion": "reduce",
+    "valor": "la aparición y progresión de complicaciones microvasculares"
+  },
+  {
+    "entidad": "carbohidratos",
+    "relacion": "son considerados en",
+    "valor": "la dosificación de insulina rápida"
+  },
+  {
+    "entidad": "uso de microinfusores de insulina",
+    "relacion": "se asocia a",
+    "valor": "mejor control metabólico"
+  },
+  {
+    "entidad": "dosis de insulina basal < 0,4 U/kg",
+    "relacion": "se asocia a",
+    "valor": "mejor control metabólico"
+  },
+  {
+    "entidad": "esquema variable de insulina rápida",
+    "relacion": "mejora",
+    "valor": "el control metabólico en comparación con tabla fija"
+  },
+  {
+    "entidad": "monitor de glucosa flash",
+    "relacion": "es utilizado por",
+    "valor": "24% de los pacientes"
+  },
+  {
+    "entidad": "microinfusor de insulina",
+    "relacion": "es utilizado por",
+    "valor": "18% de los pacientes"
+  },
+  {
+    "entidad": "insulina glargina-U300",
+    "relacion": "es un tipo de",
+    "valor": "insulina basal ultralenta"
+  },
+  {
+    "entidad": "insulina degludec",
+    "relacion": "es un tipo de",
+    "valor": "insulina basal ultralenta"
+  },
+  {
+    "entidad": "comorbilidades autoinmunes",
+    "relacion": "incluyen",
+    "valor": "hipotiroidismo y enfermedad celíaca"
+  },
+  {
+    "entidad": "complicaciones microvasculares",
+    "relacion": "incluyen",
+    "valor": "neuropatía, retinopatía y nefropatía"
+  },
+  {
+    "entidad": "educación en conteo de carbohidratos",
+    "relacion": "es clave para",
+    "valor": "mejorar el control metabólico"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "es la institución que",
+    "valor": "financia el estudio"
+  },
+  {
+    "entidad": "Bruno Grassi Corrales",
+    "relacion": "es el autor principal de",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "cuidado de la diabetes",
+    "relacion": "requiere",
+    "valor": "esfuerzos del paciente y del equipo de salud"
+  },
+  {
+    "entidad": "daño asociado al uso de medicamentos",
+    "relacion": "es un",
+    "valor": "evento adverso en hospitales"
+  },
+  {
+    "entidad": "Instituto de Salud Pública (ISP)",
+    "relacion": "se encarga de",
+    "valor": "recolectar y analizar reportes de reacciones adversas a medicamentos"
+  },
+  {
+    "entidad": "reacciones adversas a medicamentos (RAM)",
+    "relacion": "son",
+    "valor": "causa relevante de hospitalizaciones"
+  },
+  {
+    "entidad": "medicamentos",
+    "relacion": "pueden causar",
+    "valor": "eventos adversos"
+  },
+  {
+    "entidad": "código CIE-10",
+    "relacion": "se utiliza para",
+    "valor": "registrar diagnósticos de morbilidad y mortalidad"
+  },
+  {
+    "entidad": "Wu et al.",
+    "relacion": "utiliza",
+    "valor": "260 códigos CIE-10"
+  },
+  {
+    "entidad": "Stausberg",
+    "relacion": "utiliza",
+    "valor": "338 códigos CIE-10"
+  },
+  {
+    "entidad": "hospitalizaciones",
+    "relacion": "son causadas por",
+    "valor": "daño asociado al uso de medicamentos"
+  },
+  {
+    "entidad": "lactantes, preescolares, adolescentes y ancianos",
+    "relacion": "están en mayor riesgo de",
+    "valor": "experimentar eventos adversos relacionados a medicamentos"
+  },
+  {
+    "entidad": "días-cama",
+    "relacion": "aumentan debido a",
+    "valor": "hospitalizaciones por daño asociado a medicamentos"
+  },
+  {
+    "entidad": "políticas de uso de medicamentos",
+    "relacion": "pueden",
+    "valor": "reducir eventos adversos"
+  },
+  {
+    "entidad": "códigos de diagnóstico",
+    "relacion": "pueden",
+    "valor": "subestimar el número real de casos de daño"
+  },
+  {
+    "entidad": "enterocolitis debida a Clostridium difficile",
+    "relacion": "indica",
+    "valor": "mal manejo de terapias antibióticas"
+  },
+  {
+    "entidad": "muertes por uso de medicamentos",
+    "relacion": "son un indicador de",
+    "valor": "la necesidad de mejorar el conocimiento sobre patrones de consumo de fármacos"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "proporciona",
+    "valor": "información sobre hospitalizaciones"
+  },
+  {
+    "entidad": "códigos F1XX",
+    "relacion": "representan",
+    "valor": "abuso de drogas"
+  },
+  {
+    "entidad": "Linfoma de Hodgkin",
+    "relacion": "es un",
+    "valor": "tipo de linfoma"
+  },
+  {
+    "entidad": "esquema ABVD",
+    "relacion": "es",
+    "valor": "tratamiento estándar para Linfoma de Hodgkin"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "mantiene",
+    "valor": "base de datos de pacientes"
+  },
+  {
+    "entidad": "Programa GES",
+    "relacion": "asocia",
+    "valor": "diagnóstico más precoz del linfoma de Hodgkin"
+  },
+  {
+    "entidad": "trasplante autólogo de células madre (TPH)",
+    "relacion": "mejora",
+    "valor": "sobrevida en pacientes con recaída"
+  },
+  {
+    "entidad": "quimioterapia ABVD",
+    "relacion": "logra",
+    "valor": "altas tasas de cura en etapas localizadas"
+  },
+  {
+    "entidad": "quimioterapia ABVD",
+    "relacion": "se utiliza en",
+    "valor": "etapas avanzadas con resultados subóptimos"
+  },
+  {
+    "entidad": "efectos tóxicos tardíos",
+    "relacion": "son un desafío en",
+    "valor": "pacientes en etapas precoces de buen pronóstico"
+  },
+  {
+    "entidad": "doxorubicin",
+    "relacion": "es un componente de",
+    "valor": "esquema ABVD"
+  },
+  {
+    "entidad": "bleomicina",
+    "relacion": "es un componente de",
+    "valor": "esquema ABVD"
+  },
+  {
+    "entidad": "vinblastine",
+    "relacion": "es un componente de",
+    "valor": "esquema ABVD"
+  },
+  {
+    "entidad": "dacarbazine",
+    "relacion": "es un componente de",
+    "valor": "esquema ABVD"
+  },
+  {
+    "entidad": "enfermedad avanzada",
+    "relacion": "requiere",
+    "valor": "intensificación del tratamiento"
+  },
+  {
+    "entidad": "Régimen de Garantías Explícitas de Salud (GES)",
+    "relacion": "incorpora",
+    "valor": "linfoma de Hodgkin desde 2005"
+  },
+  {
+    "entidad": "autologous stem cell transplantation (ASCT)",
+    "relacion": "mejora",
+    "valor": "sobrevida en pacientes con recaída"
+  },
+  {
+    "entidad": "tomografía axial computada (TAC)",
+    "relacion": "se utiliza para",
+    "valor": "evaluar respuesta al tratamiento"
+  },
+  {
+    "entidad": "PET/CT",
+    "relacion": "se utiliza para",
+    "valor": "adaptar tratamientos según respuesta"
+  },
+  {
+    "entidad": "brentuximab vedotin",
+    "relacion": "es un",
+    "valor": "agente altamente efectivo para linfoma de Hodgkin refractario"
+  },
+  {
+    "entidad": "mortalidad por cardiopatía coronaria",
+    "relacion": "se observa en",
+    "valor": "pacientes tratados con radioterapia de mediastino"
+  },
+  {
+    "entidad": "sistema público de salud de Chile",
+    "relacion": "ofrece",
+    "valor": "acceso a TPH desde 2004"
+  },
+  {
+    "entidad": "Hemodiafiltración intermitente en línea",
+    "relacion": "es un",
+    "valor": "terapia de reemplazo renal"
+  },
+  {
+    "entidad": "pacientes críticos",
+    "relacion": "requieren",
+    "valor": "terapia de reemplazo renal"
+  },
+  {
+    "entidad": "técnicas difusivas",
+    "relacion": "incluyen",
+    "valor": "hemodiálisis"
+  },
+  {
+    "entidad": "técnicas convectivas",
+    "relacion": "incluyen",
+    "valor": "hemofiltración"
+  },
+  {
+    "entidad": "hemodiafiltración",
+    "relacion": "es una",
+    "valor": "combinación de técnicas difusivas y convectivas"
+  },
+  {
+    "entidad": "HDF",
+    "relacion": "ofrece",
+    "valor": "beneficios de difusión y convección"
+  },
+  {
+    "entidad": "HDF intermitente/prolongada",
+    "relacion": "tiene",
+    "valor": "buena tolerabilidad hemodinámica"
+  },
+  {
+    "entidad": "HDF en línea",
+    "relacion": "produce",
+    "valor": "solución ultra pura"
+  },
+  {
+    "entidad": "líquido de sustitución",
+    "relacion": "se produce",
+    "valor": "simultáneamente a partir del líquido de diálisis"
+  },
+  {
+    "entidad": "anticoagulación sistémica",
+    "relacion": "presenta",
+    "valor": "riesgo hemorrágico"
+  },
+  {
+    "entidad": "HDF",
+    "relacion": "evita",
+    "valor": "dificultades de terapias continuas"
+  },
+  {
+    "entidad": "HDF intermitente/prolongada",
+    "relacion": "es adecuada para",
+    "valor": "pacientes críticos"
+  },
+  {
+    "entidad": "HDF",
+    "relacion": "reduce",
+    "valor": "costos en salud"
+  },
+  {
+    "entidad": "pacientes críticos",
+    "relacion": "pueden presentar",
+    "valor": "insuficiencia renal aguda"
+  },
+  {
+    "entidad": "HDF",
+    "relacion": "es comparada con",
+    "valor": "hemodiálisis intermitente"
+  },
+  {
+    "entidad": "HDF",
+    "relacion": "es utilizada en",
+    "valor": "un hospital docente"
+  },
+  {
+    "entidad": "APACHE II",
+    "relacion": "es un",
+    "valor": "score de gravedad"
+  },
+  {
+    "entidad": "HDF",
+    "relacion": "requiere",
+    "valor": "monitoreo continuo"
+  },
+  {
+    "entidad": "HDF",
+    "relacion": "se caracteriza por",
+    "valor": "alta eficiencia depurativa"
+  },
+  {
+    "entidad": "HDF",
+    "relacion": "puede ser",
+    "valor": "una terapia ideal para pacientes críticos"
+  },
+  {
+    "entidad": "retinopatía diabética",
+    "relacion": "es",
+    "valor": "una causa de ceguera"
+  },
+  {
+    "entidad": "diabetes mellitus",
+    "relacion": "es",
+    "valor": "una pandemia"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud (OMS)",
+    "relacion": "reporta",
+    "valor": "crecimiento de la diabetes"
+  },
+  {
+    "entidad": "Federación Internacional de Diabetes (FID)",
+    "relacion": "reporta",
+    "valor": "crecimiento de la diabetes"
+  },
+  {
+    "entidad": "Modelo de manejo en red y por telemedicina",
+    "relacion": "se aplica a",
+    "valor": "retinopatía diabética"
+  },
+  {
+    "entidad": "Servicio de Salud Metropolitano Oriente (SSMO)",
+    "relacion": "es",
+    "valor": "una institución de salud"
+  },
+  {
+    "entidad": "Hospital del Salvador",
+    "relacion": "es",
+    "valor": "un hospital que supervisa el modelo"
+  },
+  {
+    "entidad": "telemedicina",
+    "relacion": "se utiliza en",
+    "valor": "el manejo de la retinopatía diabética"
+  },
+  {
+    "entidad": "pacientes diabéticos",
+    "relacion": "son evaluados en",
+    "valor": "centros de atención primaria"
+  },
+  {
+    "entidad": "retinografía digital",
+    "relacion": "es",
+    "valor": "un método de tamizaje"
+  },
+  {
+    "entidad": "oftalmólogos",
+    "relacion": "realizan",
+    "valor": "el tamizaje de retinopatía diabética"
+  },
+  {
+    "entidad": "pacientes con retinopatía diabética",
+    "relacion": "son derivados a",
+    "valor": "especialistas para manejo"
+  },
+  {
+    "entidad": "inteligencia artificial",
+    "relacion": "se utiliza en",
+    "valor": "el diagnóstico automatizado de retinografías"
+  },
+  {
+    "entidad": "software DART",
+    "relacion": "es",
+    "valor": "un software de diagnóstico automatizado"
+  },
+  {
+    "entidad": "comunidades de Ñuñoa y Peñalolén",
+    "relacion": "son",
+    "valor": "las áreas de implementación del modelo"
+  },
+  {
+    "entidad": "cobertura de tamizaje",
+    "relacion": "es insuficiente en",
+    "valor": "pacientes diabéticos"
+  },
+  {
+    "entidad": "retinografía digital",
+    "relacion": "es validada como",
+    "valor": "método estándar para tamizaje"
+  },
+  {
+    "entidad": "cobertura de examen de fondo de ojo",
+    "relacion": "no alcanza",
+    "valor": "50% en países desarrollados"
+  },
+  {
+    "entidad": "retinopatía diabética",
+    "relacion": "afecta a",
+    "valor": "más del 30% de los diabéticos"
+  },
+  {
+    "entidad": "modelo de manejo en red",
+    "relacion": "mejora",
+    "valor": "la eficiencia del sistema de salud"
+  },
+  {
+    "entidad": "pacientes diabéticos",
+    "relacion": "requieren",
+    "valor": "tamizaje sistemático"
+  },
+  {
+    "entidad": "retinopatía diabética",
+    "relacion": "causa",
+    "valor": "pérdida visual y ceguera"
+  },
+  {
+    "entidad": "cobertura de tamizaje",
+    "relacion": "es",
+    "valor": "un desafío de salud pública"
+  },
+  {
+    "entidad": "retinografía digital",
+    "relacion": "se utiliza para",
+    "valor": "la detección de retinopatía diabética"
+  },
+  {
+    "entidad": "pacientes con retinopatía diabética",
+    "relacion": "son tratados en",
+    "valor": "el Departamento de Retina"
+  },
+  {
+    "entidad": "catéter venoso central",
+    "relacion": "se utiliza en",
+    "valor": "monitoreo hemodinámico"
+  },
+  {
+    "entidad": "catéter venoso central",
+    "relacion": "se utiliza en",
+    "valor": "administración de hemoderivados"
+  },
+  {
+    "entidad": "catéter venoso central",
+    "relacion": "se utiliza en",
+    "valor": "nutrición parenteral"
+  },
+  {
+    "entidad": "catéter venoso central",
+    "relacion": "se utiliza en",
+    "valor": "fluidoterapia"
+  },
+  {
+    "entidad": "catéter venoso central",
+    "relacion": "se utiliza en",
+    "valor": "terapias de reemplazo renal"
+  },
+  {
+    "entidad": "ultrasonografía",
+    "relacion": "reduce",
+    "valor": "complicaciones del procedimiento"
+  },
+  {
+    "entidad": "complicaciones",
+    "relacion": "se asocian con",
+    "valor": "anatomía del paciente"
+  },
+  {
+    "entidad": "complicaciones",
+    "relacion": "se asocian con",
+    "valor": "comorbilidades del paciente"
+  },
+  {
+    "entidad": "complicaciones",
+    "relacion": "se asocian con",
+    "valor": "habilidad del operador"
+  },
+  {
+    "entidad": "técnica percutánea",
+    "relacion": "fue desarrollada por",
+    "valor": "Sven-Ivar Seldinger"
+  },
+  {
+    "entidad": "técnica convencional",
+    "relacion": "se basa en",
+    "valor": "referencias anatómicas"
+  },
+  {
+    "entidad": "ultrasonografía dinámica",
+    "relacion": "aumenta",
+    "valor": "éxito y seguridad de procedimientos invasivos"
+  },
+  {
+    "entidad": "guía ultrasonográfica",
+    "relacion": "es considerada",
+    "valor": "una práctica de seguridad"
+  },
+  {
+    "entidad": "médicos",
+    "relacion": "reportan resistencia a",
+    "valor": "usar apoyo ultrasonográfico"
+  },
+  {
+    "entidad": "Hospital Las Higueras",
+    "relacion": "realiza",
+    "valor": "instalación de CVC"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "requieren",
+    "valor": "terapia de sustitución renal"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "requieren",
+    "valor": "administración de fármacos"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "requieren",
+    "valor": "monitoreo hemodinámico"
+  },
+  {
+    "entidad": "CVC",
+    "relacion": "se instala en",
+    "valor": "pacientes de 18 o más años"
+  },
+  {
+    "entidad": "CVC",
+    "relacion": "se instala mediante",
+    "valor": "método convencional o ultrasonográfico"
+  },
+  {
+    "entidad": "razón de prevalencia",
+    "relacion": "indica",
+    "valor": "menor prevalencia de complicaciones con ultrasonografía"
+  }
+]

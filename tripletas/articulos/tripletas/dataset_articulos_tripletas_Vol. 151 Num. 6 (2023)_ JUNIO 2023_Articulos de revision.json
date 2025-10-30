@@ -1,0 +1,172 @@
+[
+  {
+    "entidad": "Trastorno Afectivo Bipolar",
+    "relacion": "es un",
+    "valor": "trastorno mental grave"
+  },
+  {
+    "entidad": "Trastorno Afectivo Bipolar",
+    "relacion": "se caracteriza por",
+    "valor": "episodios anímicos recurrentes"
+  },
+  {
+    "entidad": "Trastorno Afectivo Bipolar",
+    "relacion": "tiene un alto nivel de",
+    "valor": "morbimortalidad"
+  },
+  {
+    "entidad": "muerte por suicidio",
+    "relacion": "ocurre en",
+    "valor": "5% a 15% de los pacientes"
+  },
+  {
+    "entidad": "detección precoz",
+    "relacion": "juega un rol",
+    "valor": "importante en modificar el curso de la enfermedad"
+  },
+  {
+    "entidad": "factores protectores",
+    "relacion": "ayudan a",
+    "valor": "prevenir la aparición del trastorno"
+  },
+  {
+    "entidad": "perfil genético",
+    "relacion": "es un",
+    "valor": "factor protector"
+  },
+  {
+    "entidad": "reserva cognitiva",
+    "relacion": "es un",
+    "valor": "factor protector"
+  },
+  {
+    "entidad": "cronotipo matutino",
+    "relacion": "es un",
+    "valor": "factor protector"
+  },
+  {
+    "entidad": "temperamento hipertímico",
+    "relacion": "es un",
+    "valor": "factor protector"
+  },
+  {
+    "entidad": "ausencia de consumo de sustancias",
+    "relacion": "es un",
+    "valor": "factor protector"
+  },
+  {
+    "entidad": "ausencia de maltrato infantil",
+    "relacion": "es un",
+    "valor": "factor protector"
+  },
+  {
+    "entidad": "red de apoyo",
+    "relacion": "es un",
+    "valor": "factor protector"
+  },
+  {
+    "entidad": "intervenciones tempranas",
+    "relacion": "pueden jugar un rol",
+    "valor": "protector contra la aparición del trastorno"
+  },
+  {
+    "entidad": "estrategias de intervención temprana",
+    "relacion": "permiten",
+    "valor": "disminuir la discapacidad"
+  },
+  {
+    "entidad": "maltrato infantil",
+    "relacion": "aumenta el riesgo de",
+    "valor": "trastornos psiquiátricos"
+  },
+  {
+    "entidad": "red de apoyo",
+    "relacion": "reduce",
+    "valor": "angustia psicológica"
+  },
+  {
+    "entidad": "continuidad de atención",
+    "relacion": "reduce",
+    "valor": "probabilidad de muerte por todas las causas"
+  },
+  {
+    "entidad": "Hipertensión pulmonar",
+    "relacion": "se caracteriza por",
+    "valor": "aumento de presión arterial pulmonar media y resistencia vascular pulmonar elevadas"
+  },
+  {
+    "entidad": "Canales de calcio",
+    "relacion": "juegan un rol fundamental en",
+    "valor": "aumento de la contractilidad de las arterias pulmonares"
+  },
+  {
+    "entidad": "Canales de calcio",
+    "relacion": "contribuyen a",
+    "valor": "vasoconstricción exacerbada de las arterias pulmonares"
+  },
+  {
+    "entidad": "Hipertensión pulmonar",
+    "relacion": "se asocia con",
+    "valor": "remodelado patológico de las arterias pulmonares"
+  },
+  {
+    "entidad": "Modelos celulares y animales",
+    "relacion": "se utilizan para",
+    "valor": "identificar mecanismos implicados en la etiología y progresión de la enfermedad"
+  },
+  {
+    "entidad": "Disfunción endotelial pulmonar",
+    "relacion": "conduce a",
+    "valor": "menor producción de vasodilatadores y mayor producción de vasoconstrictores"
+  },
+  {
+    "entidad": "Hipoxia",
+    "relacion": "es un factor de riesgo para",
+    "valor": "hipertensión pulmonar"
+  },
+  {
+    "entidad": "Vasoconstricción pulmonar hipóxica",
+    "relacion": "es un mecanismo que",
+    "valor": "aumenta la resistencia vascular pulmonar"
+  },
+  {
+    "entidad": "Canales tipo L",
+    "relacion": "son antagonistas utilizados en",
+    "valor": "el tratamiento de la hipertensión pulmonar"
+  },
+  {
+    "entidad": "Bloqueadores de canales de calcio",
+    "relacion": "se utilizan para",
+    "valor": "tratar la hipertensión pulmonar"
+  },
+  {
+    "entidad": "Canales tipo T",
+    "relacion": "se asocian con",
+    "valor": "resistencia a la apoptosis y desarrollo de fenotipo hiperproliferativo"
+  },
+  {
+    "entidad": "Orai1",
+    "relacion": "es un objetivo terapéutico",
+    "valor": "prometedor en la hipertensión pulmonar"
+  },
+  {
+    "entidad": "Remodelado arterial pulmonar",
+    "relacion": "es causado por",
+    "valor": "hiperplasia del músculo liso vascular"
+  },
+  {
+    "entidad": "Calcio",
+    "relacion": "modula",
+    "valor": "la vasoconstricción y el remodelado arterial"
+  },
+  {
+    "entidad": "MicroRNA-328",
+    "relacion": "regula",
+    "valor": "la expresión de canales tipo L en células del músculo liso"
+  },
+  {
+    "entidad": "Estimulación de calmodulina",
+    "relacion": "promueve",
+    "valor": "la proliferación celular en respuesta a calcio intracelular"
+  }
+]

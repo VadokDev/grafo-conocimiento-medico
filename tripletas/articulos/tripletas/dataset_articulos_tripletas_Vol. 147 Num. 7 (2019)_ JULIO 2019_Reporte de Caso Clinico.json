@@ -1,0 +1,402 @@
+[
+  {
+    "entidad": "Lhermitte phenomenon",
+    "relacion": "es un",
+    "valor": "síntoma neurológico"
+  },
+  {
+    "entidad": "Lhermitte phenomenon",
+    "relacion": "se manifiesta como",
+    "valor": "sensación de shock eléctrico"
+  },
+  {
+    "entidad": "Lhermitte phenomenon",
+    "relacion": "aparece cuando",
+    "valor": "un paciente flexiona el cuello"
+  },
+  {
+    "entidad": "radioterapia",
+    "relacion": "causa",
+    "valor": "mielopatía transitoria"
+  },
+  {
+    "entidad": "mielopatía transitoria",
+    "relacion": "es",
+    "valor": "una complicación tardía de la radioterapia"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "tiene",
+    "valor": "45 años"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "fue tratado con",
+    "valor": "cirugía y radioterapia adyuvante"
+  },
+  {
+    "entidad": "radioterapia adyuvante",
+    "relacion": "se realizó en",
+    "valor": "46 Gy en 23 fracciones"
+  },
+  {
+    "entidad": "fenómeno de Lhermitte",
+    "relacion": "es desencadenado por",
+    "valor": "calor"
+  },
+  {
+    "entidad": "calor",
+    "relacion": "genera",
+    "valor": "dolor tipo neuropático"
+  },
+  {
+    "entidad": "Uhthoff phenomenon",
+    "relacion": "es un",
+    "valor": "síntoma neurológico transitorio"
+  },
+  {
+    "entidad": "Uhthoff phenomenon",
+    "relacion": "es desencadenado por",
+    "valor": "aumento de temperatura corporal"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "no presenta",
+    "valor": "déficit neurológico"
+  },
+  {
+    "entidad": "radioterapia",
+    "relacion": "inhibe",
+    "valor": "proliferación de oligodendrocitos"
+  },
+  {
+    "entidad": "oligodendrocitos",
+    "relacion": "son",
+    "valor": "células que producen mielina"
+  },
+  {
+    "entidad": "mielina",
+    "relacion": "es necesaria para",
+    "valor": "la conducción nerviosa adecuada"
+  },
+  {
+    "entidad": "carbamazepina",
+    "relacion": "puede ser",
+    "valor": "beneficiosa para el dolor"
+  },
+  {
+    "entidad": "gabapentina",
+    "relacion": "puede ser",
+    "valor": "beneficiosa para el dolor"
+  },
+  {
+    "entidad": "Encefalitis",
+    "relacion": "causada por",
+    "valor": "virus influenza B"
+  },
+  {
+    "entidad": "virus influenza B",
+    "relacion": "afecta a",
+    "valor": "pacientes adultos"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "síntomas neurológicos"
+  },
+  {
+    "entidad": "síntomas neurológicos",
+    "relacion": "incluyen",
+    "valor": "convulsiones, confusión, nystagmus, torpeza motora"
+  },
+  {
+    "entidad": "diagnóstico",
+    "relacion": "se basa en",
+    "valor": "confirmación de infección por virus influenza"
+  },
+  {
+    "entidad": "electroencefalograma",
+    "relacion": "muestra",
+    "valor": "patrón de lentitud generalizada"
+  },
+  {
+    "entidad": "tratamiento",
+    "relacion": "incluye",
+    "valor": "aciclovir, fenitoína, quetiapina, oseltamivir"
+  },
+  {
+    "entidad": "oseltamivir",
+    "relacion": "se utiliza para",
+    "valor": "tratamiento de influenza"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "evoluciona",
+    "valor": "favorablemente"
+  },
+  {
+    "entidad": "alta hospitalaria",
+    "relacion": "se otorga después de",
+    "valor": "19 días"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "asociada a",
+    "valor": "encefalitis por influenza"
+  },
+  {
+    "entidad": "complicaciones neurológicas",
+    "relacion": "son",
+    "valor": "poco frecuentes"
+  },
+  {
+    "entidad": "Unidad de Pacientes Críticos",
+    "relacion": "es donde se maneja",
+    "valor": "pacientes con encefalitis"
+  },
+  {
+    "entidad": "Dra. Claudia Reyes",
+    "relacion": "es",
+    "valor": "autora del estudio"
+  },
+  {
+    "entidad": "Hospital Base de Valdivia",
+    "relacion": "es",
+    "valor": "institución donde se realizó el estudio"
+  },
+  {
+    "entidad": "Universidad Austral de Chile",
+    "relacion": "es",
+    "valor": "institución educativa del autor"
+  },
+  {
+    "entidad": "Phyllomedusa bicolor",
+    "relacion": "es un",
+    "valor": "anfibio"
+  },
+  {
+    "entidad": "Phyllomedusa bicolor",
+    "relacion": "libera",
+    "valor": "sustancias a través de la piel"
+  },
+  {
+    "entidad": "sustancias del veneno de Phyllomedusa bicolor",
+    "relacion": "se utilizan en",
+    "valor": "rituales de sanación"
+  },
+  {
+    "entidad": "ayahuasca",
+    "relacion": "es un",
+    "valor": "bebida obtenida de plantas"
+  },
+  {
+    "entidad": "Banisteriopsis caapi",
+    "relacion": "es un",
+    "valor": "ingrediente de ayahuasca"
+  },
+  {
+    "entidad": "Psychotria viridis",
+    "relacion": "es un",
+    "valor": "ingrediente de ayahuasca"
+  },
+  {
+    "entidad": "Mimosa hostilis",
+    "relacion": "es un",
+    "valor": "ingrediente de ayahuasca"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "hiponatremia severa"
+  },
+  {
+    "entidad": "hiponatremia severa",
+    "relacion": "es causada por",
+    "valor": "exposición a veneno de Phyllomedusa bicolor"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "desarrolla",
+    "valor": "agitación psicomotora"
+  },
+  {
+    "entidad": "agitación psicomotora",
+    "relacion": "es controlada por",
+    "valor": "infusión de dexmedetomidina"
+  },
+  {
+    "entidad": "hiponatremia",
+    "relacion": "se asocia con",
+    "valor": "baja osmolalidad plasmática"
+  },
+  {
+    "entidad": "baja osmolalidad plasmática",
+    "relacion": "sugiere",
+    "valor": "síndrome de secreción inapropiada de hormona antidiurética (SIADH)"
+  },
+  {
+    "entidad": "rhabdomyolysis",
+    "relacion": "es secundaria a",
+    "valor": "convulsiones"
+  },
+  {
+    "entidad": "rhabdomyolysis",
+    "relacion": "es manejada por",
+    "valor": "infusiones de volumen y bicarbonato"
+  },
+  {
+    "entidad": "Centro de Información Toxicológica de la Pontificia Universidad Católica de Chile (CITUC)",
+    "relacion": "reporta",
+    "valor": "casos de exposición a Kambó"
+  },
+  {
+    "entidad": "Kambó",
+    "relacion": "es una práctica de",
+    "valor": "medicina alternativa"
+  },
+  {
+    "entidad": "Kambó",
+    "relacion": "se ofrece en",
+    "valor": "zonas urbanas alrededor del mundo"
+  },
+  {
+    "entidad": "rituales de sanación",
+    "relacion": "son frecuentes en",
+    "valor": "Chile"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "es de",
+    "valor": "41 años"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "tiene antecedentes de",
+    "valor": "hipotiroidismo"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "tiene antecedentes de",
+    "valor": "trastorno de personalidad limítrofe"
+  },
+  {
+    "entidad": "veneno de Phyllomedusa bicolor",
+    "relacion": "causa",
+    "valor": "toxicidad"
+  },
+  {
+    "entidad": "toxicidad",
+    "relacion": "se presenta como",
+    "valor": "náuseas y vómitos"
+  },
+  {
+    "entidad": "toxicidad",
+    "relacion": "puede llevar a",
+    "valor": "compromiso de conciencia"
+  },
+  {
+    "entidad": "toxicidad",
+    "relacion": "puede llevar a",
+    "valor": "convulsiones"
+  },
+  {
+    "entidad": "sustancias del veneno de Phyllomedusa bicolor",
+    "relacion": "contienen",
+    "valor": "péptidos activos"
+  },
+  {
+    "entidad": "péptidos activos",
+    "relacion": "son agonistas de",
+    "valor": "receptores opioides"
+  },
+  {
+    "entidad": "receptores opioides",
+    "relacion": "están presentes en",
+    "valor": "sistema nervioso central"
+  },
+  {
+    "entidad": "Trombolisis endovenosa",
+    "relacion": "es un",
+    "valor": "tratamiento para ACV"
+  },
+  {
+    "entidad": "acenocumarol",
+    "relacion": "es un",
+    "valor": "anticoagulante"
+  },
+  {
+    "entidad": "complejo de protrombina de 4 factores",
+    "relacion": "se utiliza para",
+    "valor": "revertir anticoagulación"
+  },
+  {
+    "entidad": "paciente de 89 años",
+    "relacion": "presenta",
+    "valor": "hemiparesis y afasia"
+  },
+  {
+    "entidad": "ACV",
+    "relacion": "es causado por",
+    "valor": "isquemia cerebral"
+  },
+  {
+    "entidad": "alteplase",
+    "relacion": "es un",
+    "valor": "fármaco utilizado en trombolisis"
+  },
+  {
+    "entidad": "fibrilación auricular",
+    "relacion": "aumenta el riesgo de",
+    "valor": "ACV"
+  },
+  {
+    "entidad": "INR",
+    "relacion": "indica",
+    "valor": "nivel de anticoagulación"
+  },
+  {
+    "entidad": "IVT",
+    "relacion": "no se recomienda para",
+    "valor": "pacientes con INR > 1.7"
+  },
+  {
+    "entidad": "hemorragia secundaria",
+    "relacion": "puede ser prevenido por",
+    "valor": "uso de PCC"
+  },
+  {
+    "entidad": "NIHSS",
+    "relacion": "es una",
+    "valor": "escala para evaluar déficit neurológico"
+  },
+  {
+    "entidad": "dabigatrán",
+    "relacion": "es un",
+    "valor": "anticoagulante alternativo"
+  },
+  {
+    "entidad": "estatina",
+    "relacion": "se agrega a",
+    "valor": "terapia de base del paciente"
+  },
+  {
+    "entidad": "Clínica Alemana de Santiago",
+    "relacion": "es un",
+    "valor": "centro de tratamiento"
+  },
+  {
+    "entidad": "Servicio de Neurología",
+    "relacion": "pertenece a",
+    "valor": "Clínica Alemana de Santiago"
+  },
+  {
+    "entidad": "Revista Médica de Chile",
+    "relacion": "publica",
+    "valor": "artículo científico"
+  },
+  {
+    "entidad": "Dr. Víctor Navia",
+    "relacion": "es el",
+    "valor": "autor principal del estudio"
+  }
+]

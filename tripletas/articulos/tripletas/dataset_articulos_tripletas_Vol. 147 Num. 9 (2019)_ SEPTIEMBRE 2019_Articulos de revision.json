@@ -1,0 +1,292 @@
+[
+  {
+    "entidad": "cáncer de próstata",
+    "relacion": "afecta a",
+    "valor": "hombres afrodescendientes"
+  },
+  {
+    "entidad": "hombres afrodescendientes",
+    "relacion": "tienen",
+    "valor": "mayor riesgo de cáncer de próstata"
+  },
+  {
+    "entidad": "migrantes",
+    "relacion": "constituyen",
+    "valor": "4.35% de la población chilena"
+  },
+  {
+    "entidad": "migración",
+    "relacion": "cambia",
+    "valor": "el fenotipo de la población masculina chilena"
+  },
+  {
+    "entidad": "hombres entre 20 y 50 años",
+    "relacion": "son",
+    "valor": "principal grupo de inmigrantes"
+  },
+  {
+    "entidad": "cáncer de próstata",
+    "relacion": "puede aparecer",
+    "valor": "a partir de los 40 años en hombres afrodescendientes"
+  },
+  {
+    "entidad": "sistema de salud pública",
+    "relacion": "se verá afectado por",
+    "valor": "el aumento de casos de cáncer de próstata"
+  },
+  {
+    "entidad": "estrategias de detección temprana",
+    "relacion": "son necesarias para",
+    "valor": "hombres afrodescendientes"
+  },
+  {
+    "entidad": "cáncer de próstata",
+    "relacion": "es una patología",
+    "valor": "GES"
+  },
+  {
+    "entidad": "migración",
+    "relacion": "provoca",
+    "valor": "cambios demográficos"
+  },
+  {
+    "entidad": "hombres de raza negra",
+    "relacion": "tienen",
+    "valor": "mayor riesgo de progresión de cáncer de próstata"
+  },
+  {
+    "entidad": "cáncer de próstata",
+    "relacion": "es más agresivo en",
+    "valor": "hombres de raza negra"
+  },
+  {
+    "entidad": "migrantes afrodescendientes",
+    "relacion": "enfrentan",
+    "valor": "barreras socioculturales"
+  },
+  {
+    "entidad": "educación",
+    "relacion": "es fundamental para",
+    "valor": "pacientes con cáncer de próstata"
+  },
+  {
+    "entidad": "esperanza de vida en Chile",
+    "relacion": "es",
+    "valor": "la mayor comparada con otros países latinoamericanos"
+  },
+  {
+    "entidad": "cáncer de próstata",
+    "relacion": "puede aumentar en",
+    "valor": "migrantes debido a la esperanza de vida"
+  },
+  {
+    "entidad": "sistema de salud",
+    "relacion": "debe ser",
+    "valor": "accesible e inclusivo"
+  },
+  {
+    "entidad": "cáncer de próstata",
+    "relacion": "requiere",
+    "valor": "screening a menor edad para hombres de raza negra"
+  },
+  {
+    "entidad": "FODMAPs",
+    "relacion": "son",
+    "valor": "carbohidratos fermentables"
+  },
+  {
+    "entidad": "FODMAPs",
+    "relacion": "provocan",
+    "valor": "síntomas gastrointestinales"
+  },
+  {
+    "entidad": "microbiota",
+    "relacion": "fermenta",
+    "valor": "FODMAPs"
+  },
+  {
+    "entidad": "síntomas gastrointestinales",
+    "relacion": "incluyen",
+    "valor": "distensión abdominal"
+  },
+  {
+    "entidad": "síntomas gastrointestinales",
+    "relacion": "incluyen",
+    "valor": "dolor abdominal"
+  },
+  {
+    "entidad": "síntomas gastrointestinales",
+    "relacion": "incluyen",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "dieta baja en FODMAPs",
+    "relacion": "es",
+    "valor": "una terapia propuesta"
+  },
+  {
+    "entidad": "dieta baja en FODMAPs",
+    "relacion": "puede ser",
+    "valor": "beneficiosa en niños y adultos"
+  },
+  {
+    "entidad": "Instituto de Nutrición y Tecnología de los Alimentos (INTA)",
+    "relacion": "pertenece a",
+    "valor": "Universidad de Chile"
+  },
+  {
+    "entidad": "síndrome de intestino irritable (SII)",
+    "relacion": "se asocia con",
+    "valor": "síntomas gastrointestinales"
+  },
+  {
+    "entidad": "lactosa",
+    "relacion": "es un",
+    "valor": "disacárido"
+  },
+  {
+    "entidad": "fructosa",
+    "relacion": "es un",
+    "valor": "monosacárido"
+  },
+  {
+    "entidad": "fructanos",
+    "relacion": "son",
+    "valor": "oligosacáridos"
+  },
+  {
+    "entidad": "políolos",
+    "relacion": "son",
+    "valor": "azúcares alcohólicos"
+  },
+  {
+    "entidad": "dieta baja en FODMAPs",
+    "relacion": "implica",
+    "valor": "restringir el consumo de FODMAPs"
+  },
+  {
+    "entidad": "síntomas gastrointestinales",
+    "relacion": "pueden incluir",
+    "valor": "cefalea"
+  },
+  {
+    "entidad": "síntomas gastrointestinales",
+    "relacion": "pueden incluir",
+    "valor": "vértigo"
+  },
+  {
+    "entidad": "síntomas gastrointestinales",
+    "relacion": "pueden incluir",
+    "valor": "alteraciones de la memoria"
+  },
+  {
+    "entidad": "síntomas gastrointestinales",
+    "relacion": "pueden incluir",
+    "valor": "letargia"
+  },
+  {
+    "entidad": "fermentación",
+    "relacion": "es responsable de",
+    "valor": "parte de la sintomatología"
+  },
+  {
+    "entidad": "dieta baja en FODMAPs",
+    "relacion": "debe ser",
+    "valor": "seguida estrictamente"
+  },
+  {
+    "entidad": "nutricionista",
+    "relacion": "es",
+    "valor": "profesional recomendado para el manejo de la dieta"
+  },
+  {
+    "entidad": "Enfermedad de Creutzfeldt-Jakob",
+    "relacion": "es un",
+    "valor": "encefalopatía espongiforme humana más prevalente"
+  },
+  {
+    "entidad": "prion (PrPSC)",
+    "relacion": "es",
+    "valor": "una proteína infecciosa transmisible"
+  },
+  {
+    "entidad": "PrP proteína",
+    "relacion": "se transforma en",
+    "valor": "prion (PrPSC) por mal plegamiento"
+  },
+  {
+    "entidad": "Enfermedad de Creutzfeldt-Jakob",
+    "relacion": "causa",
+    "valor": "alteraciones en la homeostasis neuronal"
+  },
+  {
+    "entidad": "CJD",
+    "relacion": "es caracterizada por",
+    "valor": "alteraciones conductuales, motoras, cognitivas y visuales"
+  },
+  {
+    "entidad": "priones",
+    "relacion": "inducen",
+    "valor": "mal plegamiento de la proteína PrP normal"
+  },
+  {
+    "entidad": "CJD",
+    "relacion": "tiene",
+    "valor": "diferentes tipos de priones"
+  },
+  {
+    "entidad": "Clasificación de Parchi y cols.",
+    "relacion": "asocia",
+    "valor": "tipos de priones con hallazgos clínicos y neuropatológicos"
+  },
+  {
+    "entidad": "CJD",
+    "relacion": "se presenta en",
+    "valor": "formas clínicas como Clásica, Heidenhain, Cerebelosa, entre otras"
+  },
+  {
+    "entidad": "CJD",
+    "relacion": "es difícil de identificar debido a",
+    "valor": "su heterogeneidad clínica"
+  },
+  {
+    "entidad": "priones",
+    "relacion": "se pueden multiplicar en",
+    "valor": "cualquier secreción o tejido"
+  },
+  {
+    "entidad": "real-time quaking-induced conversion (RT-Qul C)",
+    "relacion": "es un",
+    "valor": "procedimiento para confirmar la etiología de la enfermedad"
+  },
+  {
+    "entidad": "Enfermedad de Gerstmann-Straussler-Scheinker",
+    "relacion": "es",
+    "valor": "la principal prionopatía familiar crónica"
+  },
+  {
+    "entidad": "Insomnio Fatal Familiar",
+    "relacion": "se asocia a",
+    "valor": "polimorfismo del codón 178Asn"
+  },
+  {
+    "entidad": "Enfermedad de Creutzfeldt-Jakob Familiar",
+    "relacion": "es prevalente en",
+    "valor": "Chile"
+  },
+  {
+    "entidad": "priones",
+    "relacion": "pueden ser adquiridos por",
+    "valor": "vía digestiva"
+  },
+  {
+    "entidad": "Encefalopatía Espongiforme Bovina",
+    "relacion": "fue identificada en",
+    "valor": "los años 80"
+  },
+  {
+    "entidad": "Kuru",
+    "relacion": "es",
+    "valor": "una enfermedad endémica entre los habitantes de Papúa Nueva Guinea"
+  }
+]

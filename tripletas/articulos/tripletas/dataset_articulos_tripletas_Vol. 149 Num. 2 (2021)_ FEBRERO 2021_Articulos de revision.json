@@ -1,0 +1,277 @@
+[
+  {
+    "entidad": "creatinina",
+    "relacion": "es un",
+    "valor": "método para evaluar la recolección de orina"
+  },
+  {
+    "entidad": "recolección de orina de 24 horas",
+    "relacion": "es utilizada para",
+    "valor": "evaluar la adecuación de la recolección"
+  },
+  {
+    "entidad": "fórmulas",
+    "relacion": "se han desarrollado para",
+    "valor": "estimar la excreción de creatinina"
+  },
+  {
+    "entidad": "creatinina",
+    "relacion": "varía debido a",
+    "valor": "diferencias en la masa muscular"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "afecta",
+    "valor": "la eliminación de creatinina"
+  },
+  {
+    "entidad": "ingesta de proteínas",
+    "relacion": "aumenta",
+    "valor": "la excreción de creatinina"
+  },
+  {
+    "entidad": "raza",
+    "relacion": "influye en",
+    "valor": "la excreción de creatinina"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "tienen",
+    "valor": "mayor creatininuria que mujeres"
+  },
+  {
+    "entidad": "fórmula de Cockcroft-Gault",
+    "relacion": "fue creada por",
+    "valor": "Cockcroft y Gault"
+  },
+  {
+    "entidad": "insuficiencia renal crónica",
+    "relacion": "disminuye",
+    "valor": "la excreción de creatinina"
+  },
+  {
+    "entidad": "fórmulas de estimación",
+    "relacion": "son útiles para",
+    "valor": "evaluar la función renal"
+  },
+  {
+    "entidad": "recolección de orina de 24 horas",
+    "relacion": "es el estándar para",
+    "valor": "mediciones de proteinuria"
+  },
+  {
+    "entidad": "fórmulas para estimar UCr/24 h",
+    "relacion": "consideran",
+    "valor": "variables demográficas"
+  },
+  {
+    "entidad": "fórmula de Tanaka",
+    "relacion": "estima",
+    "valor": "la creatininuria en 24 horas"
+  },
+  {
+    "entidad": "fórmula de Kawasaki",
+    "relacion": "estima",
+    "valor": "la creatininuria en 24 horas"
+  },
+  {
+    "entidad": "recolección de orina de 24 horas",
+    "relacion": "puede ser incompleta en",
+    "valor": "30% de los casos"
+  },
+  {
+    "entidad": "fórmulas de estimación",
+    "relacion": "evitan",
+    "valor": "inconvenientes de la recolección de orina de 24 horas"
+  },
+  {
+    "entidad": "Machine Learning",
+    "relacion": "es un",
+    "valor": "método de análisis de datos"
+  },
+  {
+    "entidad": "Data Science",
+    "relacion": "integra",
+    "valor": "estadística, informática, comunicación, sociología y administración"
+  },
+  {
+    "entidad": "Machine Learning",
+    "relacion": "utiliza",
+    "valor": "algoritmos para extraer información de datos"
+  },
+  {
+    "entidad": "Machine Learning",
+    "relacion": "apoya",
+    "valor": "la toma de decisiones clínicas"
+  },
+  {
+    "entidad": "Servicios de Urgencia",
+    "relacion": "se beneficia de",
+    "valor": "aplicaciones de Machine Learning"
+  },
+  {
+    "entidad": "algoritmos supervisados",
+    "relacion": "se utilizan para",
+    "valor": "predicción"
+  },
+  {
+    "entidad": "algoritmos no supervisados",
+    "relacion": "se utilizan para",
+    "valor": "extraer y clasificar datos"
+  },
+  {
+    "entidad": "algoritmos parcialmente supervisados",
+    "relacion": "se utilizan para",
+    "valor": "trabajar con datos incompletos"
+  },
+  {
+    "entidad": "Triage",
+    "relacion": "es un",
+    "valor": "proceso de clasificación de riesgo"
+  },
+  {
+    "entidad": "pacientes policonsultantes",
+    "relacion": "son responsables de",
+    "valor": "un porcentaje significativo de consultas en urgencias"
+  },
+  {
+    "entidad": "Machine Learning",
+    "relacion": "permite identificar",
+    "valor": "pacientes policonsultantes"
+  },
+  {
+    "entidad": "Servicio de Salud Metropolitano Sur",
+    "relacion": "utiliza",
+    "valor": "modelo de gestión del conocimiento"
+  },
+  {
+    "entidad": "algoritmos de Machine Learning",
+    "relacion": "mejoran",
+    "valor": "la precisión diagnóstica"
+  },
+  {
+    "entidad": "datos clínicos",
+    "relacion": "se generan durante",
+    "valor": "la atención en servicios de urgencia"
+  },
+  {
+    "entidad": "organización de salud",
+    "relacion": "necesita integrar",
+    "valor": "procesos clínicos y administrativos"
+  },
+  {
+    "entidad": "Machine Learning",
+    "relacion": "facilita",
+    "valor": "el análisis de grandes volúmenes de datos"
+  },
+  {
+    "entidad": "aprendizaje organizacional",
+    "relacion": "se refiere a",
+    "valor": "la toma de decisiones basada en información interna y externa"
+  },
+  {
+    "entidad": "algoritmos de Machine Learning",
+    "relacion": "son útiles para",
+    "valor": "realizar predicciones clínicas y epidemiológicas"
+  },
+  {
+    "entidad": "hipertensión arterial",
+    "relacion": "es un",
+    "valor": "estado subinflamatorio crónico"
+  },
+  {
+    "entidad": "sistema inmune",
+    "relacion": "participa en",
+    "valor": "la hipertensión arterial"
+  },
+  {
+    "entidad": "linfocitos T",
+    "relacion": "son",
+    "valor": "componentes del sistema inmune"
+  },
+  {
+    "entidad": "células presentadoras de antígenos (APCs)",
+    "relacion": "generan",
+    "valor": "citoquinas proinflamatorias"
+  },
+  {
+    "entidad": "citoquinas proinflamatorias",
+    "relacion": "causan",
+    "valor": "daño endotelial"
+  },
+  {
+    "entidad": "linfocitos T CD4+",
+    "relacion": "están implicados en",
+    "valor": "el desarrollo de hipertensión"
+  },
+  {
+    "entidad": "linfocitos T CD8+",
+    "relacion": "contribuyen a",
+    "valor": "aumento de la resistencia periférica total"
+  },
+  {
+    "entidad": "estrés oxidativo",
+    "relacion": "está asociado con",
+    "valor": "disfunción endotelial"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "favorece",
+    "valor": "activación de linfocitos T y APCs"
+  },
+  {
+    "entidad": "dieta rica en sal",
+    "relacion": "contribuye a",
+    "valor": "desarrollo de hipertensión"
+  },
+  {
+    "entidad": "interleucina 6 (IL-6)",
+    "relacion": "es un",
+    "valor": "marcador inflamatorio"
+  },
+  {
+    "entidad": "factor de necrosis tumoral α (TNFα)",
+    "relacion": "es un",
+    "valor": "marcador inflamatorio"
+  },
+  {
+    "entidad": "linfocitos B",
+    "relacion": "producen",
+    "valor": "anticuerpos IgG"
+  },
+  {
+    "entidad": "macrófagos",
+    "relacion": "tienen",
+    "valor": "plasticidad en su fenotipo"
+  },
+  {
+    "entidad": "células dendríticas (DCs)",
+    "relacion": "presentan",
+    "valor": "antígenos a linfocitos T"
+  },
+  {
+    "entidad": "terapia farmacológica",
+    "relacion": "incluye",
+    "valor": "antagonistas del receptor de angiotensina II"
+  },
+  {
+    "entidad": "ejercicio",
+    "relacion": "disminuye",
+    "valor": "inflamación local"
+  },
+  {
+    "entidad": "microbiota intestinal",
+    "relacion": "modula",
+    "valor": "inmunidad local y sistémica"
+  },
+  {
+    "entidad": "estrés oxidativo",
+    "relacion": "aumenta en",
+    "valor": "pacientes hipertensos"
+  },
+  {
+    "entidad": "interferón-gamma (INF-γ)",
+    "relacion": "es necesario para",
+    "valor": "estrés oxidativo y disfunción endotelial"
+  }
+]

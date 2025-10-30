@@ -1,0 +1,742 @@
+[
+  {
+    "entidad": "TCF7L2",
+    "relacion": "asociado con",
+    "valor": "diabetes tipo 2"
+  },
+  {
+    "entidad": "polimorfismo rs7903146",
+    "relacion": "investigado en",
+    "valor": "población chilena"
+  },
+  {
+    "entidad": "población chilena",
+    "relacion": "presenta",
+    "valor": "alta prevalencia de diabetes tipo 2"
+  },
+  {
+    "entidad": "TCF7L2",
+    "relacion": "afecta a",
+    "valor": "marcadores de adiposidad y metabólicos"
+  },
+  {
+    "entidad": "glicemia",
+    "relacion": "incrementa por",
+    "valor": "cada copia del alelo de riesgo"
+  },
+  {
+    "entidad": "estudio GENADIO",
+    "relacion": "realizado en",
+    "valor": "Chile"
+  },
+  {
+    "entidad": "TCF7L2",
+    "relacion": "regula",
+    "valor": "expresión de GLP1"
+  },
+  {
+    "entidad": "GLP1",
+    "relacion": "estimula",
+    "valor": "producción de insulina"
+  },
+  {
+    "entidad": "insulina",
+    "relacion": "asociada con",
+    "valor": "resistencia a la insulina"
+  },
+  {
+    "entidad": "dieta mediterránea",
+    "relacion": "podría ofrecer",
+    "valor": "factores protectores en portadores del alelo de riesgo"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "confirma",
+    "valor": "asociación entre TCF7L2 y glicemia"
+  },
+  {
+    "entidad": "población sin antecedentes de diabetes",
+    "relacion": "necesita",
+    "valor": "futuros estudios para confirmar asociación con DMT2"
+  },
+  {
+    "entidad": "marcadores de adiposidad",
+    "relacion": "no mostraron",
+    "valor": "asociación significativa con TCF7L2"
+  },
+  {
+    "entidad": "marcadores metabólicos",
+    "relacion": "no mostraron",
+    "valor": "asociación significativa con TCF7L2"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "incluyó",
+    "valor": "301 participantes"
+  },
+  {
+    "entidad": "TCF7L2",
+    "relacion": "interactúa con",
+    "valor": "beta catenina"
+  },
+  {
+    "entidad": "beta catenina",
+    "relacion": "es un",
+    "valor": "efector de la vía Wnt"
+  },
+  {
+    "entidad": "TCF7L2",
+    "relacion": "afecta",
+    "valor": "metabolismo del colesterol"
+  },
+  {
+    "entidad": "TCF7L2",
+    "relacion": "influye en",
+    "valor": "diferenciación de células beta pancreáticas"
+  },
+  {
+    "entidad": "Depresión",
+    "relacion": "es común en",
+    "valor": "personas mayores con fractura de cadera"
+  },
+  {
+    "entidad": "Evaluación geriátrica",
+    "relacion": "debe ser realizada en",
+    "valor": "pacientes mayores hospitalizados por fractura de cadera"
+  },
+  {
+    "entidad": "Fractura de cadera",
+    "relacion": "es un problema de salud",
+    "valor": "mayor"
+  },
+  {
+    "entidad": "Depresión",
+    "relacion": "afecta a",
+    "valor": "120 millones de personas en todo el mundo"
+  },
+  {
+    "entidad": "Depresión",
+    "relacion": "aumenta con",
+    "valor": "comorbilidades en personas mayores"
+  },
+  {
+    "entidad": "Depresión",
+    "relacion": "se asocia con",
+    "valor": "peores resultados en rehabilitación"
+  },
+  {
+    "entidad": "Diabetes",
+    "relacion": "es una comorbilidad frecuente en",
+    "valor": "pacientes con depresión"
+  },
+  {
+    "entidad": "Mujeres",
+    "relacion": "tienen mayor prevalencia de",
+    "valor": "depresión en comparación con hombres"
+  },
+  {
+    "entidad": "Insomnio",
+    "relacion": "es un factor de riesgo para",
+    "valor": "depresión en ancianos"
+  },
+  {
+    "entidad": "Escala de Yesavage",
+    "relacion": "se utiliza para",
+    "valor": "evaluar depresión"
+  },
+  {
+    "entidad": "Riesgo de caídas",
+    "relacion": "es mayor en",
+    "valor": "pacientes con depresión"
+  },
+  {
+    "entidad": "Calidad de vida",
+    "relacion": "se ve afectada por",
+    "valor": "depresión"
+  },
+  {
+    "entidad": "Evaluación geriátrica",
+    "relacion": "debe incluir",
+    "valor": "escala de riesgo de caídas"
+  },
+  {
+    "entidad": "Hospitalización",
+    "relacion": "es un factor de riesgo para",
+    "valor": "depresión en ancianos"
+  },
+  {
+    "entidad": "Soporte social",
+    "relacion": "es importante para",
+    "valor": "la salud mental de ancianos"
+  },
+  {
+    "entidad": "Depresión",
+    "relacion": "se asocia con",
+    "valor": "aumento en la mortalidad"
+  },
+  {
+    "entidad": "colonoscopia",
+    "relacion": "depende de",
+    "valor": "una adecuada limpieza del colon"
+  },
+  {
+    "entidad": "polietilenglicol (PEG)",
+    "relacion": "es",
+    "valor": "un laxante osmótico"
+  },
+  {
+    "entidad": "formulación de PEG de bajo volumen",
+    "relacion": "se compara con",
+    "valor": "solución convencional de 4 litros"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "reciben",
+    "valor": "preparación con PEG"
+  },
+  {
+    "entidad": "Hospital de Urgencia Asistencia Pública (HUAP)",
+    "relacion": "es",
+    "valor": "lugar del estudio"
+  },
+  {
+    "entidad": "Boston Bowel Preparation Scale (BBPS)",
+    "relacion": "se utiliza para",
+    "valor": "evaluar la limpieza del colon"
+  },
+  {
+    "entidad": "tolerabilidad",
+    "relacion": "no se diferencia entre",
+    "valor": "preparaciones de 2 litros y 4 litros de PEG"
+  },
+  {
+    "entidad": "cáncer colorrectal (CCR)",
+    "relacion": "es",
+    "valor": "una de las principales causas de morbimortalidad por cáncer"
+  },
+  {
+    "entidad": "programas de detección precoz",
+    "relacion": "resultan efectivos para",
+    "valor": "mejorar la supervivencia de los pacientes"
+  },
+  {
+    "entidad": "pacientes con dificultades para la administración oral",
+    "relacion": "pueden beneficiarse de",
+    "valor": "preparación con menor volumen de PEG"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "es",
+    "valor": "el primero de su tipo en Chile"
+  },
+  {
+    "entidad": "tolerabilidad",
+    "relacion": "se asocia con",
+    "valor": "edad y sexo del paciente"
+  },
+  {
+    "entidad": "volumen de PEG",
+    "relacion": "no modifica",
+    "valor": "la eficacia de la limpieza del colon"
+  },
+  {
+    "entidad": "dieta de líquidos claros",
+    "relacion": "se recomienda antes de",
+    "valor": "la colonoscopia"
+  },
+  {
+    "entidad": "agentes adicionales",
+    "relacion": "se añaden a",
+    "valor": "solución de PEG en menor volumen"
+  },
+  {
+    "entidad": "pacientes hospitalizados",
+    "relacion": "se correlacionan con",
+    "valor": "una reducción del puntaje BBPS"
+  },
+  {
+    "entidad": "Radioterapia estereotáxica (SBRT)",
+    "relacion": "se utiliza para",
+    "valor": "manejo del dolor en metástasis óseas de columna vertebral"
+  },
+  {
+    "entidad": "metástasis óseas",
+    "relacion": "afectan",
+    "valor": "calidad de vida de los pacientes"
+  },
+  {
+    "entidad": "SBRT",
+    "relacion": "produce",
+    "valor": "mayor alivio del dolor que la radioterapia paliativa"
+  },
+  {
+    "entidad": "SBRT",
+    "relacion": "evalúa",
+    "valor": "respuesta analgésica"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "son tratados con",
+    "valor": "SBRT"
+  },
+  {
+    "entidad": "Clínica IRAM",
+    "relacion": "realiza",
+    "valor": "tratamientos con SBRT"
+  },
+  {
+    "entidad": "comité de ética científico adultos",
+    "relacion": "aprueba",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "SBRT",
+    "relacion": "requiere",
+    "valor": "tecnología de punta y equipo entrenado"
+  },
+  {
+    "entidad": "respuesta analgésica",
+    "relacion": "se define como",
+    "valor": "disminución del dolor en 2 o más puntos en la escala visual análoga (EVA)"
+  },
+  {
+    "entidad": "toxicidad",
+    "relacion": "evaluada según",
+    "valor": "CTCAE (Versión 4.0)"
+  },
+  {
+    "entidad": "dosis prescrita",
+    "relacion": "fue",
+    "valor": "24 Gy en 2 sesiones"
+  },
+  {
+    "entidad": "dosis máxima",
+    "relacion": "debe ser menor que",
+    "valor": "17 Gy para médula espinal"
+  },
+  {
+    "entidad": "dosis media",
+    "relacion": "debe ser menor que",
+    "valor": "24 Gy para riñones"
+  },
+  {
+    "entidad": "dosis máxima",
+    "relacion": "debe ser menor que",
+    "valor": "20 Gy para esófago, estómago, intestino y recto"
+  },
+  {
+    "entidad": "dosis media",
+    "relacion": "debe ser menor que",
+    "valor": "5 Gy para pulmones"
+  },
+  {
+    "entidad": "SBRT",
+    "relacion": "se compara con",
+    "valor": "radioterapia paliativa"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "es el primero en",
+    "valor": "presentar resultados de SBRT en metástasis de columna vertebral en Latinoamérica"
+  },
+  {
+    "entidad": "deterioro cognitivo",
+    "relacion": "asociado a",
+    "valor": "factores sociodemográficos, de estilos de vida y de salud"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "investiga",
+    "valor": "factores asociados al deterioro cognitivo en personas mayores"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud 2009-2010",
+    "relacion": "utiliza",
+    "valor": "datos para el análisis"
+  },
+  {
+    "entidad": "Mini Mental test",
+    "relacion": "evalúa",
+    "valor": "deterioro cognitivo"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "asociado a",
+    "valor": "deterioro cognitivo"
+  },
+  {
+    "entidad": "sexo masculino",
+    "relacion": "asociado a",
+    "valor": "deterioro cognitivo"
+  },
+  {
+    "entidad": "nivel educativo bajo",
+    "relacion": "asociado a",
+    "valor": "deterioro cognitivo"
+  },
+  {
+    "entidad": "inactividad física",
+    "relacion": "asociado a",
+    "valor": "deterioro cognitivo"
+  },
+  {
+    "entidad": "comportamiento sedentario",
+    "relacion": "asociado a",
+    "valor": "deterioro cognitivo"
+  },
+  {
+    "entidad": "dormir más de 9 horas al día",
+    "relacion": "asociado a",
+    "valor": "deterioro cognitivo"
+  },
+  {
+    "entidad": "consumo de menos de 5 porciones de frutas y verduras al día",
+    "relacion": "asociado a",
+    "valor": "deterioro cognitivo"
+  },
+  {
+    "entidad": "estilo de vida no saludable",
+    "relacion": "asociado a",
+    "valor": "deterioro cognitivo"
+  },
+  {
+    "entidad": "bajo peso",
+    "relacion": "asociado a",
+    "valor": "deterioro cognitivo"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "asociado a",
+    "valor": "deterioro cognitivo"
+  },
+  {
+    "entidad": "problemas auditivos",
+    "relacion": "asociado a",
+    "valor": "deterioro cognitivo"
+  },
+  {
+    "entidad": "calidad de visión baja",
+    "relacion": "asociado a",
+    "valor": "deterioro cognitivo"
+  },
+  {
+    "entidad": "antecedentes de depresión",
+    "relacion": "asociado a",
+    "valor": "deterioro cognitivo"
+  },
+  {
+    "entidad": "discapacidad",
+    "relacion": "asociado a",
+    "valor": "deterioro cognitivo"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud (OMS)",
+    "relacion": "publica",
+    "valor": "directrices sobre factores de riesgo para deterioro cognitivo"
+  },
+  {
+    "entidad": "políticas públicas",
+    "relacion": "necesita",
+    "valor": "intervenciones para prevenir deterioro cognitivo"
+  },
+  {
+    "entidad": "población adulta mayor en Chile",
+    "relacion": "requiere",
+    "valor": "identificación de factores de riesgo"
+  },
+  {
+    "entidad": "Hospital Italiano de Buenos Aires",
+    "relacion": "es un",
+    "valor": "hospital de alta complejidad"
+  },
+  {
+    "entidad": "dolor",
+    "relacion": "es un",
+    "valor": "fenómeno complejo"
+  },
+  {
+    "entidad": "prevalencia de dolor",
+    "relacion": "varía entre",
+    "valor": "32% a 77%"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "son interrogados sobre",
+    "valor": "presencia de dolor"
+  },
+  {
+    "entidad": "escala de dolor",
+    "relacion": "rango",
+    "valor": "0 a 10"
+  },
+  {
+    "entidad": "pacientes obstétricos",
+    "relacion": "tienen alta",
+    "valor": "prevalencia de dolor"
+  },
+  {
+    "entidad": "evaluación del dolor",
+    "relacion": "es una",
+    "valor": "prioridad en salud"
+  },
+  {
+    "entidad": "comorbilidades",
+    "relacion": "se asocian con",
+    "valor": "presencia de dolor"
+  },
+  {
+    "entidad": "pacientes con dolor",
+    "relacion": "reciben",
+    "valor": "tratamiento analgésico"
+  },
+  {
+    "entidad": "interconsulta a especialistas en dolor",
+    "relacion": "es solicitada por",
+    "valor": "un porcentaje bajo de pacientes"
+  },
+  {
+    "entidad": "localización del dolor",
+    "relacion": "es más frecuente en",
+    "valor": "la región abdominal"
+  },
+  {
+    "entidad": "Hospital Italiano de Buenos Aires",
+    "relacion": "realiza",
+    "valor": "estudio sobre dolor"
+  },
+  {
+    "entidad": "metodología del estudio",
+    "relacion": "fue evaluada y aprobada por",
+    "valor": "comité de ética"
+  },
+  {
+    "entidad": "pacientes mayores de 18 años",
+    "relacion": "son incluidos en",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "dolor agudo",
+    "relacion": "es reportado por",
+    "valor": "la mayoría de los pacientes"
+  },
+  {
+    "entidad": "intensidad del dolor",
+    "relacion": "es medida con",
+    "valor": "escala verbal numérica"
+  },
+  {
+    "entidad": "pacientes sin dolor",
+    "relacion": "tienen mayor prevalencia de",
+    "valor": "comorbilidades crónicas"
+  },
+  {
+    "entidad": "dolor postquirúrgico",
+    "relacion": "es el diagnóstico más frecuente de",
+    "valor": "dolor en internación"
+  },
+  {
+    "entidad": "dolor",
+    "relacion": "es considerado como",
+    "valor": "el quinto signo vital"
+  },
+  {
+    "entidad": "Trasplante hepático",
+    "relacion": "es una",
+    "valor": "opción para personas con falla hepática"
+  },
+  {
+    "entidad": "Trasplante hepático",
+    "relacion": "es una",
+    "valor": "opción para personas con cáncer de hígado"
+  },
+  {
+    "entidad": "Curva de aprendizaje",
+    "relacion": "se establece a partir de",
+    "valor": "los primeros 30 trasplantes"
+  },
+  {
+    "entidad": "Mortalidad a 30 días",
+    "relacion": "afecta a",
+    "valor": "resultados a largo plazo"
+  },
+  {
+    "entidad": "Complicaciones post-trasplante",
+    "relacion": "ocurren en",
+    "valor": "hasta el 71% de los casos"
+  },
+  {
+    "entidad": "Complicaciones infecciosas",
+    "relacion": "son las más comunes",
+    "valor": "en trasplante hepático"
+  },
+  {
+    "entidad": "Mortalidad perioperatoria",
+    "relacion": "es menor a",
+    "valor": "10% a nivel mundial"
+  },
+  {
+    "entidad": "Tasa de supervivencia a 5 años",
+    "relacion": "supera",
+    "valor": "75% en muchos programas"
+  },
+  {
+    "entidad": "Modelo de Enfermedad Hepática en Etapa Terminal (MELD)",
+    "relacion": "se utiliza como",
+    "valor": "criterio de asignación de injerto"
+  },
+  {
+    "entidad": "Hepatocarcinoma",
+    "relacion": "es una indicación de",
+    "valor": "trasplante hepático"
+  },
+  {
+    "entidad": "Falla hepática fulminante",
+    "relacion": "es una indicación de",
+    "valor": "trasplante hepático"
+  },
+  {
+    "entidad": "Técnica quirúrgica",
+    "relacion": "más utilizada es",
+    "valor": "Piggy-Back modificado"
+  },
+  {
+    "entidad": "Tratamiento inmunosupresor",
+    "relacion": "incluye",
+    "valor": "corticoides, ciclosporina y azatioprina"
+  },
+  {
+    "entidad": "Curva LC-CUSUM",
+    "relacion": "se utiliza para",
+    "valor": "evaluar la curva de aprendizaje"
+  },
+  {
+    "entidad": "Complicaciones biliares",
+    "relacion": "son frecuentes en",
+    "valor": "trasplante hepático"
+  },
+  {
+    "entidad": "Rechazo celular agudo",
+    "relacion": "se considera en",
+    "valor": "12,3% de los pacientes"
+  },
+  {
+    "entidad": "Programa de Trasplante Hepático",
+    "relacion": "es dirigido por",
+    "valor": "Pontificia Universidad Católica de Chile"
+  },
+  {
+    "entidad": "Donantes de órganos",
+    "relacion": "son escasos en",
+    "valor": "Chile"
+  },
+  {
+    "entidad": "Sobrevida a 1 año",
+    "relacion": "es",
+    "valor": "82%"
+  },
+  {
+    "entidad": "Sobrevida a 5 años",
+    "relacion": "es",
+    "valor": "71,4%"
+  },
+  {
+    "entidad": "Complicaciones vasculares",
+    "relacion": "ocurren en",
+    "valor": "18% de los trasplantes"
+  },
+  {
+    "entidad": "Proteína C reactiva",
+    "relacion": "se utiliza para",
+    "valor": "monitorear la respuesta de los pacientes durante el tratamiento de enfermedades infecciosas"
+  },
+  {
+    "entidad": "neumonía adquirida en la comunidad",
+    "relacion": "ocasiona",
+    "valor": "morbidad y mortalidad significativas en la población adulta"
+  },
+  {
+    "entidad": "CRP",
+    "relacion": "se mide en",
+    "valor": "la admisión y el tercer día de hospitalización"
+  },
+  {
+    "entidad": "CRP",
+    "relacion": "es un",
+    "valor": "marcador pronóstico para eventos adversos en neumonía adquirida en la comunidad"
+  },
+  {
+    "entidad": "neumonía adquirida en la comunidad",
+    "relacion": "se asocia con",
+    "valor": "alto riesgo de complicaciones y mortalidad"
+  },
+  {
+    "entidad": "hospitalización",
+    "relacion": "mejora",
+    "valor": "la gestión de pacientes con neumonía"
+  },
+  {
+    "entidad": "CRP",
+    "relacion": "se asocia con",
+    "valor": "neumonía bacteriana y shock séptico"
+  },
+  {
+    "entidad": "CRP",
+    "relacion": "disminuye",
+    "valor": "más del 50% en pacientes con evolución favorable"
+  },
+  {
+    "entidad": "falta de disminución de CRP",
+    "relacion": "se asocia con",
+    "valor": "alto riesgo de complicaciones"
+  },
+  {
+    "entidad": "hospital Clínico de la Pontificia Universidad Católica de Chile",
+    "relacion": "es un",
+    "valor": "centro de estudio"
+  },
+  {
+    "entidad": "biomarcadores",
+    "relacion": "se utilizan para",
+    "valor": "evaluar la gravedad de la neumonía y la respuesta al tratamiento"
+  },
+  {
+    "entidad": "CRP",
+    "relacion": "es sintetizada en",
+    "valor": "el hígado"
+  },
+  {
+    "entidad": "interleuquina 6",
+    "relacion": "estimula",
+    "valor": "la síntesis de CRP"
+  },
+  {
+    "entidad": "neumonía adquirida en la comunidad",
+    "relacion": "es la principal causa de",
+    "valor": "muerte de origen infeccioso"
+  },
+  {
+    "entidad": "CRP",
+    "relacion": "se mide mediante",
+    "valor": "ensayo inmunoturbidimétrico"
+  },
+  {
+    "entidad": "pacientes adultos inmunocompetentes",
+    "relacion": "son evaluados en",
+    "valor": "estudios prospectivos"
+  },
+  {
+    "entidad": "mortalidad a 30 días",
+    "relacion": "se asocia con",
+    "valor": "neumonía adquirida en la comunidad"
+  },
+  {
+    "entidad": "CRP",
+    "relacion": "se asocia con",
+    "valor": "uso de ventilación mecánica"
+  },
+  {
+    "entidad": "CRP",
+    "relacion": "permite predecir",
+    "valor": "eventos adversos en pacientes hospitalizados"
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "entidad": "Policondritis recidivante",
+    "relacion": "es un",
+    "valor": "trastorno autoinmune multisistémico"
+  },
+  {
+    "entidad": "Policondritis recidivante",
+    "relacion": "caracterizado por",
+    "valor": "inflamación y destrucción de cartilagos"
+  },
+  {
+    "entidad": "Policondritis recidivante",
+    "relacion": "afecta a",
+    "valor": "cartílagos auriculares, nasales y laringotraqueales"
+  },
+  {
+    "entidad": "Policondritis recidivante",
+    "relacion": "puede afectar también a",
+    "valor": "ojos, corazón, riñones y vasos sanguíneos"
+  },
+  {
+    "entidad": "Sistema nervioso central",
+    "relacion": "es afectado en",
+    "valor": "menos del 3% de los pacientes con policondritis recidivante"
+  },
+  {
+    "entidad": "Paciente",
+    "relacion": "tiene",
+    "valor": "32 años"
+  },
+  {
+    "entidad": "Paciente",
+    "relacion": "presenta",
+    "valor": "encefalopatía subaguda"
+  },
+  {
+    "entidad": "Encefalopatía subaguda",
+    "relacion": "caracterizada por",
+    "valor": "disturbios conductuales, alucinaciones auditivas y visuales"
+  },
+  {
+    "entidad": "Electroencefalograma",
+    "relacion": "muestra",
+    "valor": "actividad lenta bilateral"
+  },
+  {
+    "entidad": "Líquido cefalorraquídeo",
+    "relacion": "presenta",
+    "valor": "pleocitosis mononuclear con aumento de proteínas"
+  },
+  {
+    "entidad": "Resonancia magnética",
+    "relacion": "muestra",
+    "valor": "lesiones nodulares inflamatorias"
+  },
+  {
+    "entidad": "Tratamiento",
+    "relacion": "incluye",
+    "valor": "corticosteroides y ciclofosfamida"
+  },
+  {
+    "entidad": "Corticosteroides",
+    "relacion": "mejoran",
+    "valor": "el estado neurológico y la condritis"
+  },
+  {
+    "entidad": "Anticuerpos contra colágeno II, IX y XI",
+    "relacion": "pueden ser identificados en",
+    "valor": "1/5 a 1/3 de los pacientes con policondritis recidivante"
+  },
+  {
+    "entidad": "Compromiso del sistema nervioso central",
+    "relacion": "se presume que ocurre por",
+    "valor": "fenómenos vasculíticos"
+  },
+  {
+    "entidad": "Biopsia de cartílago auricular",
+    "relacion": "evidencia",
+    "valor": "pericondritis linfocitaria focal"
+  },
+  {
+    "entidad": "Paciente",
+    "relacion": "se encuentra",
+    "valor": "asintomática al año de evolución"
+  },
+  {
+    "entidad": "Mortalidad en policondritis recidivante asociada a meningitis",
+    "relacion": "alcanza",
+    "valor": "12%"
+  },
+  {
+    "entidad": "Mortalidad en policondritis recidivante asociada a encefalitis",
+    "relacion": "alcanza",
+    "valor": "36%"
+  },
+  {
+    "entidad": "Reconocimiento temprano de afectación del SNC",
+    "relacion": "es importante porque",
+    "valor": "la rápida administración de tratamiento puede modificar la evolución"
+  },
+  {
+    "entidad": "Foramen oval persistente",
+    "relacion": "causa",
+    "valor": "hipoxemia persistente"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "causa",
+    "valor": "neumonía grave"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "hipoxemia persistente"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "diagnosticado con",
+    "valor": "foramen oval persistente"
+  },
+  {
+    "entidad": "foramen oval persistente",
+    "relacion": "diagnosticado con",
+    "valor": "shunt de derecha a izquierda"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "sometido a",
+    "valor": "cierre percutáneo del defecto"
+  },
+  {
+    "entidad": "cierre percutáneo",
+    "relacion": "realizado con",
+    "valor": "dispositivo Amplatzer"
+  },
+  {
+    "entidad": "oxigenoterapia",
+    "relacion": "suspendida tras",
+    "valor": "24 horas del cierre percutáneo"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "dado de alta",
+    "valor": "para continuar rehabilitación"
+  },
+  {
+    "entidad": "sarcopenia",
+    "relacion": "observada en",
+    "valor": "examen del paciente"
+  },
+  {
+    "entidad": "shunt intra y extrapulmonar",
+    "relacion": "propuesto como",
+    "valor": "causa de hipoxemia"
+  },
+  {
+    "entidad": "insuficiencia respiratoria",
+    "relacion": "asociada a",
+    "valor": "neumonía COVID-19"
+  },
+  {
+    "entidad": "tratamiento anticoagulante",
+    "relacion": "administrado durante",
+    "valor": "hospitalización del paciente"
+  },
+  {
+    "entidad": "ecocardiografía",
+    "relacion": "utilizada para",
+    "valor": "descartar endocarditis"
+  },
+  {
+    "entidad": "estudio de shunt",
+    "relacion": "realizado con",
+    "valor": "método de oxígeno 100%"
+  },
+  {
+    "entidad": "ecocardiograma transtorácico",
+    "relacion": "informó",
+    "valor": "paso de burbujas al primer ciclo cardíaco"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "requiere oxígeno entre 4 a 5 litros"
+  },
+  {
+    "entidad": "neumonía grave COVID-19",
+    "relacion": "asociada a",
+    "valor": "alta mortalidad"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "evoluciona a",
+    "valor": "mejora clínica notable"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "causa",
+    "valor": "hemorragia adrenal bilateral"
+  },
+  {
+    "entidad": "hemorragia adrenal bilateral",
+    "relacion": "es un",
+    "valor": "hallazgo inusual"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "es un",
+    "valor": "varón de 47 años"
+  },
+  {
+    "entidad": "SARS-CoV-2",
+    "relacion": "es un",
+    "valor": "virus"
+  },
+  {
+    "entidad": "dexametasona",
+    "relacion": "es un",
+    "valor": "tratamiento"
+  },
+  {
+    "entidad": "heparina",
+    "relacion": "es un",
+    "valor": "anticoagulante"
+  },
+  {
+    "entidad": "tomografía computada",
+    "relacion": "es un",
+    "valor": "método de diagnóstico"
+  },
+  {
+    "entidad": "insuficiencia adrenal aguda",
+    "relacion": "puede causar",
+    "valor": "mortalidad"
+  },
+  {
+    "entidad": "pacientes críticos",
+    "relacion": "deben tener",
+    "valor": "evaluación de la función adrenal"
+  },
+  {
+    "entidad": "hemorragia suprarrenal",
+    "relacion": "es un",
+    "valor": "patología poco frecuente"
+  },
+  {
+    "entidad": "métodos de diagnóstico por imagen",
+    "relacion": "incluyen",
+    "valor": "ultrasonido, resonancia magnética y TC"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "afecta a",
+    "valor": "sistema nervioso central, abdominal y músculo esquelético"
+  },
+  {
+    "entidad": "pacientes con COVID-19",
+    "relacion": "pueden desarrollar",
+    "valor": "hemorragia suprarrenal"
+  },
+  {
+    "entidad": "función adrenal",
+    "relacion": "debe ser evaluada",
+    "valor": "antes del alta definitiva"
+  },
+  {
+    "entidad": "hemorragia suprarrenal bilateral subaguda",
+    "relacion": "es un",
+    "valor": "hallazgo incidental"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "es una",
+    "valor": "enfermedad nueva"
+  },
+  {
+    "entidad": "personal de salud",
+    "relacion": "ha aprendido",
+    "valor": "nuevos hallazgos causados por SARS-CoV-2"
+  }
+]

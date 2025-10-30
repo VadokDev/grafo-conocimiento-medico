@@ -1,0 +1,147 @@
+[
+  {
+    "entidad": "COVID-19",
+    "relacion": "asociado a",
+    "valor": "infecciones oportunistas"
+  },
+  {
+    "entidad": "mucormicosis",
+    "relacion": "es un tipo de",
+    "valor": "infección fúngica"
+  },
+  {
+    "entidad": "mucormicosis",
+    "relacion": "afecta a",
+    "valor": "pacientes con COVID-19"
+  },
+  {
+    "entidad": "diabetes mellitus",
+    "relacion": "es un factor de riesgo para",
+    "valor": "mucormicosis"
+  },
+  {
+    "entidad": "sistema inmunológico",
+    "relacion": "es afectado por",
+    "valor": "COVID-19"
+  },
+  {
+    "entidad": "dexametasona",
+    "relacion": "se utiliza como",
+    "valor": "tratamiento para COVID-19"
+  },
+  {
+    "entidad": "anfotericina liposomal",
+    "relacion": "se utiliza como",
+    "valor": "tratamiento antifúngico"
+  },
+  {
+    "entidad": "Rhizopus oriyzae",
+    "relacion": "es un tipo de",
+    "valor": "hongo causante de mucormicosis"
+  },
+  {
+    "entidad": "Lichteimia corymbifera",
+    "relacion": "es un tipo de",
+    "valor": "hongo causante de mucormicosis"
+  },
+  {
+    "entidad": "hospitalización",
+    "relacion": "es necesaria para",
+    "valor": "pacientes con COVID-19 y mucormicosis"
+  },
+  {
+    "entidad": "cultivo de hongos",
+    "relacion": "se utiliza para",
+    "valor": "diagnosticar mucormicosis"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "es alta en",
+    "valor": "mucormicosis"
+  },
+  {
+    "entidad": "terapia esteroidal",
+    "relacion": "se utiliza en",
+    "valor": "tratamiento de COVID-19"
+  },
+  {
+    "entidad": "comités de ética",
+    "relacion": "evalúan",
+    "valor": "protocolos de investigación médica"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "deben ser evaluados por",
+    "valor": "equipos multidisciplinarios"
+  },
+  {
+    "entidad": "Pasteurella multocida",
+    "relacion": "causa",
+    "valor": "shock séptico"
+  },
+  {
+    "entidad": "shock séptico",
+    "relacion": "origen",
+    "valor": "foco respiratorio"
+  },
+  {
+    "entidad": "Pasteurella multocida",
+    "relacion": "se encuentra en",
+    "valor": "orofaringe de animales domésticos"
+  },
+  {
+    "entidad": "Pasteurella multocida",
+    "relacion": "puede causar",
+    "valor": "infecciones de piel y tejidos blandos"
+  },
+  {
+    "entidad": "paciente inmunocompetente",
+    "relacion": "presenta",
+    "valor": "shock séptico por Pasteurella multocida"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "requiere",
+    "valor": "ventilación mecánica"
+  },
+  {
+    "entidad": "Pasteurella multocida",
+    "relacion": "identificada en",
+    "valor": "cultivos de sangre"
+  },
+  {
+    "entidad": "antimicrobiales",
+    "relacion": "son efectivos contra",
+    "valor": "Pasteurella multocida"
+  },
+  {
+    "entidad": "mascotas",
+    "relacion": "aumentan en",
+    "valor": "Chile"
+  },
+  {
+    "entidad": "contacto con animales",
+    "relacion": "aumenta el riesgo de",
+    "valor": "infecciones por Pasteurella multocida"
+  },
+  {
+    "entidad": "diagnóstico",
+    "relacion": "requiere",
+    "valor": "aislamiento de Pasteurella en cultivo"
+  },
+  {
+    "entidad": "tratamiento",
+    "relacion": "incluye",
+    "valor": "antibioterapia y drenaje de abscesos"
+  },
+  {
+    "entidad": "Pasteurella multocida",
+    "relacion": "es sensible a",
+    "valor": "penicilina"
+  },
+  {
+    "entidad": "infecciones por Pasteurella multocida",
+    "relacion": "pueden presentarse en",
+    "valor": "pacientes inmunocompetentes e inmunocomprometidos"
+  }
+]

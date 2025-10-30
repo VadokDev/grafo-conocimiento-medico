@@ -1,0 +1,237 @@
+[
+  {
+    "entidad": "cáncer de pulmón",
+    "relacion": "es",
+    "valor": "la primera causa de muerte por neoplasia en el mundo"
+  },
+  {
+    "entidad": "cáncer de pulmón",
+    "relacion": "es",
+    "valor": "la segunda causa de muerte en Chile"
+  },
+  {
+    "entidad": "enfermedad pulmonar obstructiva (EPOC)",
+    "relacion": "es",
+    "valor": "la cuarta causa de mortalidad general"
+  },
+  {
+    "entidad": "resección pulmonar",
+    "relacion": "representa",
+    "valor": "un desafío complejo para el equipo médico"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "eleva",
+    "valor": "el riesgo perioperatorio"
+  },
+  {
+    "entidad": "enfermedad cardiovascular aterosclerótica oclusiva (EAO)",
+    "relacion": "eleva",
+    "valor": "el riesgo perioperatorio"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "no representa",
+    "valor": "una contraindicación para la resección pulmonar"
+  },
+  {
+    "entidad": "evaluación preoperatoria",
+    "relacion": "permite",
+    "valor": "identificar candidatos a resección pulmonar"
+  },
+  {
+    "entidad": "Thoracoscore",
+    "relacion": "es",
+    "valor": "una herramienta para predecir el riesgo de muerte"
+  },
+  {
+    "entidad": "mortalidad perioperatoria",
+    "relacion": "está asociada con",
+    "valor": "la extensión de la resección pulmonar"
+  },
+  {
+    "entidad": "neumonectomía",
+    "relacion": "tiene",
+    "valor": "una mortalidad 2 a 3 veces más elevada que una lobectomía"
+  },
+  {
+    "entidad": "experiencia del cirujano",
+    "relacion": "impacta en",
+    "valor": "la mortalidad perioperatoria"
+  },
+  {
+    "entidad": "volumen de procedimientos",
+    "relacion": "impacta en",
+    "valor": "la mortalidad perioperatoria"
+  },
+  {
+    "entidad": "complicaciones postoperatorias",
+    "relacion": "alcanzan",
+    "valor": "hasta 40%"
+  },
+  {
+    "entidad": "evaluación del riesgo cardiovascular",
+    "relacion": "debe ser",
+    "valor": "el primer paso antes de la resección pulmonar"
+  },
+  {
+    "entidad": "medicamentos de uso habitual",
+    "relacion": "deben ser",
+    "valor": "mantenidos o iniciados"
+  },
+  {
+    "entidad": "Thoracic Revised Cardiac Risk Index (ThRCRI)",
+    "relacion": "es",
+    "valor": "un instrumento validado para categorizar pacientes"
+  },
+  {
+    "entidad": "capacidad funcional",
+    "relacion": "debe ser evaluada",
+    "valor": "para considerar la resección pulmonar"
+  },
+  {
+    "entidad": "evaluación de la mecánica respiratoria",
+    "relacion": "es",
+    "valor": "esencial para determinar complicaciones"
+  },
+  {
+    "entidad": "gases arteriales",
+    "relacion": "se utilizan como",
+    "valor": "valores de corte para la resección pulmonar"
+  },
+  {
+    "entidad": "capacidad de difusión pulmonar de monóxido de carbono (DLCO)",
+    "relacion": "se correlaciona con",
+    "valor": "la superficie total de funcionamiento de los alveolos"
+  },
+  {
+    "entidad": "evaluación de la reserva cardiopulmonar",
+    "relacion": "es necesaria",
+    "valor": "si el VEF1%pop y el DLCOpop son < 60%"
+  },
+  {
+    "entidad": "subir escaleras",
+    "relacion": "está asociada a",
+    "valor": "una disminución de la morbimortalidad"
+  },
+  {
+    "entidad": "test de esfuerzo con medición de consumo de O2 máximo (VO2 máximo)",
+    "relacion": "es",
+    "valor": "el gold standard para la valoración de la función cardiopulmonar"
+  },
+  {
+    "entidad": "estrategias de reducción de riesgo perioperatorio",
+    "relacion": "pueden reducir",
+    "valor": "la morbilidad y mortalidad perioperatoria"
+  },
+  {
+    "entidad": "evaluación preoperatoria",
+    "relacion": "representa",
+    "valor": "un desafío en la toma de decisiones"
+  },
+  {
+    "entidad": "VEF1 y DLCO preoperatorios",
+    "relacion": "han sido asociados a",
+    "valor": "tasas de morbilidad y mortalidad"
+  },
+  {
+    "entidad": "Enfermedad Inflamatoria Intestinal (EII)",
+    "relacion": "es un",
+    "valor": "trastorno crónico"
+  },
+  {
+    "entidad": "EII",
+    "relacion": "se diagnostica en",
+    "valor": "niños y adolescentes"
+  },
+  {
+    "entidad": "niños y adolescentes con EII",
+    "relacion": "tienen",
+    "valor": "enfermedad más severa que adultos"
+  },
+  {
+    "entidad": "proceso de transición",
+    "relacion": "es importante para",
+    "valor": "la gestión de salud de adolescentes y jóvenes adultos"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "asume responsabilidad",
+    "valor": "en el manejo de su enfermedad"
+  },
+  {
+    "entidad": "médicos pediátricos y adultos",
+    "relacion": "son necesarios para",
+    "valor": "el éxito del proceso de transición"
+  },
+  {
+    "entidad": "programas de transición",
+    "relacion": "deben adaptarse a",
+    "valor": "las necesidades médicas, psicológicas y sociales del adolescente"
+  },
+  {
+    "entidad": "atención pediátrica",
+    "relacion": "se centra en",
+    "valor": "la familia y el niño"
+  },
+  {
+    "entidad": "atención de adultos",
+    "relacion": "se centra en",
+    "valor": "el paciente"
+  },
+  {
+    "entidad": "EII",
+    "relacion": "puede causar",
+    "valor": "neoplasias a largo plazo"
+  },
+  {
+    "entidad": "pacientes con EII",
+    "relacion": "tienen mayor riesgo de",
+    "valor": "cáncer colorrectal"
+  },
+  {
+    "entidad": "cáncer colorrectal",
+    "relacion": "aumenta con",
+    "valor": "la duración de la enfermedad"
+  },
+  {
+    "entidad": "tiopurinas",
+    "relacion": "aumentan el riesgo de",
+    "valor": "linfoma"
+  },
+  {
+    "entidad": "fertilidad",
+    "relacion": "puede verse afectada por",
+    "valor": "la actividad de la enfermedad y procedimientos quirúrgicos"
+  },
+  {
+    "entidad": "terapia biológica",
+    "relacion": "es segura durante",
+    "valor": "el embarazo"
+  },
+  {
+    "entidad": "paciente adolescente",
+    "relacion": "debe entender",
+    "valor": "los efectos de la enfermedad y tratamiento sobre la fertilidad"
+  },
+  {
+    "entidad": "proceso de transición",
+    "relacion": "debe iniciar entre",
+    "valor": "los 12 y 14 años"
+  },
+  {
+    "entidad": "visitas conjuntas",
+    "relacion": "deben ser realizadas por",
+    "valor": "el equipo infantil y de adultos"
+  },
+  {
+    "entidad": "gastroenterólogo infantil",
+    "relacion": "debe proporcionar",
+    "valor": "antecedentes para la atención futura"
+  },
+  {
+    "entidad": "EII",
+    "relacion": "requiere",
+    "valor": "vigilancia constante en la niñez y adolescencia"
+  }
+]

@@ -1,0 +1,387 @@
+[
+  {
+    "entidad": "Aneurisma coronario",
+    "relacion": "es causado por",
+    "valor": "enfermedad de Kawasaki"
+  },
+  {
+    "entidad": "enfermedad de Kawasaki",
+    "relacion": "afecta a",
+    "valor": "adultos jóvenes"
+  },
+  {
+    "entidad": "paciente adulto",
+    "relacion": "presenta",
+    "valor": "dolor torácico"
+  },
+  {
+    "entidad": "dolor torácico",
+    "relacion": "es interpretado como",
+    "valor": "otra etiología"
+  },
+  {
+    "entidad": "electrocardiograma",
+    "relacion": "muestra",
+    "valor": "ondas T negativas"
+  },
+  {
+    "entidad": "troponinas",
+    "relacion": "son",
+    "valor": "positivas"
+  },
+  {
+    "entidad": "resonancia magnética cardíaca",
+    "relacion": "es compatible con",
+    "valor": "infarto de miocardio inferior"
+  },
+  {
+    "entidad": "angiografía coronaria",
+    "relacion": "muestra",
+    "valor": "oclusión de la arteria coronaria derecha"
+  },
+  {
+    "entidad": "angiotac coronario",
+    "relacion": "revela",
+    "valor": "aneurisma trombosado"
+  },
+  {
+    "entidad": "tratamiento",
+    "relacion": "incluye",
+    "valor": "ácido acetilsalicílico, clopidogrel, nitroglicerina y estatinas"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "es dada de alta",
+    "valor": "en buenas condiciones"
+  },
+  {
+    "entidad": "enfermedad de Kawasaki",
+    "relacion": "es una",
+    "valor": "vasculitis aguda"
+  },
+  {
+    "entidad": "aneurismas coronarios",
+    "relacion": "pueden causar",
+    "valor": "isquemia"
+  },
+  {
+    "entidad": "diagnóstico de enfermedad de Kawasaki",
+    "relacion": "se basa en",
+    "valor": "criterios clínicos"
+  },
+  {
+    "entidad": "tratamiento de enfermedad de Kawasaki",
+    "relacion": "se basa en",
+    "valor": "inmunoglobulina endovenosa y ácido acetilsalicílico"
+  },
+  {
+    "entidad": "SARS-CoV-2",
+    "relacion": "se relaciona con",
+    "valor": "síndrome inflamatorio multisistémico"
+  },
+  {
+    "entidad": "aneurisma coronario",
+    "relacion": "tiene riesgo de",
+    "valor": "oclusión"
+  },
+  {
+    "entidad": "guías de la Sociedad Americana de Cardiología",
+    "relacion": "no son claras respecto a",
+    "valor": "manejo con antiplaquetarios o anticoagulación"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "causa",
+    "valor": "respuesta inflamatoria sistémica"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "se presenta como",
+    "valor": "síndrome febril con compromiso respiratorio"
+  },
+  {
+    "entidad": "rabdomiolisis",
+    "relacion": "es una manifestación de",
+    "valor": "COVID-19"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "mialgia, náuseas y epigastralgia"
+  },
+  {
+    "entidad": "creatinina",
+    "relacion": "es",
+    "valor": "2.1 mg/dL"
+  },
+  {
+    "entidad": "CK",
+    "relacion": "es",
+    "valor": "62,768 U/L"
+  },
+  {
+    "entidad": "COVID-19 PCR",
+    "relacion": "es",
+    "valor": "positivo"
+  },
+  {
+    "entidad": "tratamiento",
+    "relacion": "incluye",
+    "valor": "hidratación, bicarbonato de sodio, ceftriaxona y azitromicina"
+  },
+  {
+    "entidad": "rabdomiolisis",
+    "relacion": "puede causar",
+    "valor": "injuria renal aguda"
+  },
+  {
+    "entidad": "injuria renal aguda",
+    "relacion": "se presenta en",
+    "valor": "7-10% de los casos de rabdomiolisis"
+  },
+  {
+    "entidad": "mecanismos de daño muscular",
+    "relacion": "incluyen",
+    "valor": "invasión directa, inducción de citocinas y falla orgánica múltiple"
+  },
+  {
+    "entidad": "rabdomiolisis",
+    "relacion": "es secundaria a",
+    "valor": "daño y degradación muscular"
+  },
+  {
+    "entidad": "tratamiento de rabdomiolisis",
+    "relacion": "incluye",
+    "valor": "identificación y corrección de la causa"
+  },
+  {
+    "entidad": "hidratación intravenosa",
+    "relacion": "es",
+    "valor": "la medida inicial en el tratamiento de rabdomiolisis"
+  },
+  {
+    "entidad": "bicarbonato de sodio",
+    "relacion": "se utiliza para",
+    "valor": "prevenir depósitos renales de pigmentos"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "es un problema de",
+    "valor": "salud pública mundial"
+  },
+  {
+    "entidad": "rabdomiolisis",
+    "relacion": "es una manifestación",
+    "valor": "rara de COVID-19"
+  },
+  {
+    "entidad": "Síndrome de Sjögren",
+    "relacion": "es un",
+    "valor": "enfermedad crónica autoinmune"
+  },
+  {
+    "entidad": "Síndrome de Sjögren",
+    "relacion": "se caracteriza por",
+    "valor": "infiltración linfocítica de glándulas exocrinas"
+  },
+  {
+    "entidad": "Síndrome de Sjögren",
+    "relacion": "genera",
+    "valor": "xerostomía y xeroftalmia"
+  },
+  {
+    "entidad": "Síndrome de Sjögren",
+    "relacion": "afecta a",
+    "valor": "predominantemente al género femenino"
+  },
+  {
+    "entidad": "Síndrome de Sjögren",
+    "relacion": "requiere interacción entre",
+    "valor": "predisposición genética, factores ambientales y hormonales"
+  },
+  {
+    "entidad": "predisposición genética",
+    "relacion": "se relaciona con",
+    "valor": "alteración de genes que regulan la síntesis de moléculas pro-inflamatorias"
+  },
+  {
+    "entidad": "factores ambientales",
+    "relacion": "incluyen",
+    "valor": "infecciones previas por virus Coxsackie, Epstein Barr o citomegalovirus"
+  },
+  {
+    "entidad": "factores hormonales",
+    "relacion": "se relacionan con",
+    "valor": "déficit de estrógenos y receptores estrogénicos"
+  },
+  {
+    "entidad": "Síndrome de Sjögren",
+    "relacion": "se clasifica como",
+    "valor": "primario y secundario"
+  },
+  {
+    "entidad": "Síndrome de Sjögren primario",
+    "relacion": "no tiene",
+    "valor": "otra enfermedad autoinmune asociada"
+  },
+  {
+    "entidad": "Síndrome de Sjögren secundario",
+    "relacion": "se asocia con",
+    "valor": "otras enfermedades autoinmunes como lupus eritematoso sistémico"
+  },
+  {
+    "entidad": "Síndrome de Sjögren",
+    "relacion": "tiene un riesgo aumentado de",
+    "valor": "desarrollar linfoma"
+  },
+  {
+    "entidad": "Síndrome de Sjögren",
+    "relacion": "se asocia con",
+    "valor": "enfermedad ateroesclerótica subclínica"
+  },
+  {
+    "entidad": "cintigrama de glándulas salivales",
+    "relacion": "muestra",
+    "valor": "disfunción de las glándulas salivales"
+  },
+  {
+    "entidad": "hidroxicloroquina",
+    "relacion": "se utiliza para",
+    "valor": "el tratamiento del Síndrome de Sjögren"
+  },
+  {
+    "entidad": "Dr. Gustavo Adolfo Ossa V.",
+    "relacion": "es autor de",
+    "valor": "un caso clínico sobre Síndrome de Sjögren en un adolescente"
+  },
+  {
+    "entidad": "paciente masculino de 17 años",
+    "relacion": "presenta",
+    "valor": "fiebre y fatiga"
+  },
+  {
+    "entidad": "fiebre",
+    "relacion": "se asocia con",
+    "valor": "dolor esternal punzante"
+  },
+  {
+    "entidad": "antecedentes familiares",
+    "relacion": "incluyen",
+    "valor": "madre y hermana con Síndrome de Sjögren"
+  },
+  {
+    "entidad": "síntomas extraglandulares",
+    "relacion": "están presentes en",
+    "valor": "30% de los casos"
+  },
+  {
+    "entidad": "criterios diagnósticos",
+    "relacion": "son propuestos por",
+    "valor": "American-European Consensus Group y ACR-EULAR"
+  },
+  {
+    "entidad": "criterios preliminares pediátricos",
+    "relacion": "son propuestos para",
+    "valor": "diagnóstico en niños y adolescentes"
+  },
+  {
+    "entidad": "tratamiento",
+    "relacion": "se basa en",
+    "valor": "manejo no farmacológico y farmacológico"
+  },
+  {
+    "entidad": "manejo farmacológico",
+    "relacion": "incluye",
+    "valor": "pilocarpina y cevimelina"
+  },
+  {
+    "entidad": "manejo farmacológico",
+    "relacion": "para síntomas extraglandulares incluye",
+    "valor": "corticoides y medicamentos modificadores de enfermedad"
+  },
+  {
+    "entidad": "ecografía",
+    "relacion": "se propone como",
+    "valor": "herramienta diagnóstica para alteraciones glandulares"
+  },
+  {
+    "entidad": "antecedente familiar de Síndrome de Sjögren",
+    "relacion": "es relevante para",
+    "valor": "sospecha de enfermedad reumatológica"
+  },
+  {
+    "entidad": "Taxanes",
+    "relacion": "son",
+    "valor": "una clase de agentes quimioterapéuticos"
+  },
+  {
+    "entidad": "Taxanes",
+    "relacion": "asocian a",
+    "valor": "eventos adversos dermatológicos"
+  },
+  {
+    "entidad": "Esclerodermia inducida por taxanos",
+    "relacion": "es",
+    "valor": "una condición rara"
+  },
+  {
+    "entidad": "Esclerodermia inducida por taxanos",
+    "relacion": "desarrolla en",
+    "valor": "pacientes tratados con taxanos"
+  },
+  {
+    "entidad": "paclitaxel",
+    "relacion": "es",
+    "valor": "un tipo de taxano"
+  },
+  {
+    "entidad": "nab-paclitaxel",
+    "relacion": "es",
+    "valor": "un taxano unido a albúmina"
+  },
+  {
+    "entidad": "Cáncer de mama",
+    "relacion": "es",
+    "valor": "una indicación para el tratamiento con taxanos"
+  },
+  {
+    "entidad": "Jade Cury-Martins",
+    "relacion": "es",
+    "valor": "el autor correspondiente"
+  },
+  {
+    "entidad": "Universidad de São Paulo",
+    "relacion": "es",
+    "valor": "una institución involucrada en el estudio"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "es",
+    "valor": "una institución involucrada en el estudio"
+  },
+  {
+    "entidad": "Efectos colaterales y reacciones adversas relacionadas con medicamentos",
+    "relacion": "incluyen",
+    "valor": "esclerodermia inducida por taxanos"
+  },
+  {
+    "entidad": "Esclerodermia inducida por taxanos",
+    "relacion": "se presenta con",
+    "valor": "lesiones esclerodérmicas en extremidades"
+  },
+  {
+    "entidad": "Tratamientos reportados",
+    "relacion": "incluyen",
+    "valor": "corticosteroides, PUVA y metotrexato"
+  },
+  {
+    "entidad": "Esclerodermia inducida por taxanos",
+    "relacion": "puede causar",
+    "valor": "morbilidad significativa"
+  },
+  {
+    "entidad": "Dermatólogos y oncólogos",
+    "relacion": "deben estar conscientes de",
+    "valor": "la asociación con esclerodermia inducida por taxanos"
+  }
+]

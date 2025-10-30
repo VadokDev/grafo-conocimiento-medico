@@ -1,0 +1,242 @@
+[
+  {
+    "entidad": "Rehabilitación cardiovascular",
+    "relacion": "es",
+    "valor": "indicación con evidencia tipo I A"
+  },
+  {
+    "entidad": "Ejercicio",
+    "relacion": "es",
+    "valor": "parte de programas de rehabilitación cardiovascular"
+  },
+  {
+    "entidad": "programas de rehabilitación cardiovascular",
+    "relacion": "incluyen",
+    "valor": "cuidado integral y educación sobre factores de riesgo cardiovascular"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "tiene",
+    "valor": "poca disponibilidad de programas de rehabilitación cardiovascular"
+  },
+  {
+    "entidad": "ejercicio",
+    "relacion": "beneficia",
+    "valor": "reducción del riesgo de desarrollo y progresión de enfermedad cardiovascular"
+  },
+  {
+    "entidad": "enfermedad cardiovascular (ECV)",
+    "relacion": "es",
+    "valor": "la primera causa de muerte en el mundo"
+  },
+  {
+    "entidad": "capacidad aeróbica",
+    "relacion": "se asocia",
+    "valor": "inversamente con mortalidad cardiovascular y general"
+  },
+  {
+    "entidad": "rehabilitación cardiovascular (RCV)",
+    "relacion": "está recomendada",
+    "valor": "por la Sociedad Europea de Cardiología"
+  },
+  {
+    "entidad": "RCV",
+    "relacion": "se encuentra",
+    "valor": "subutilizada en prevención primaria y secundaria"
+  },
+  {
+    "entidad": "pacientes con infarto agudo al miocardio (IAM)",
+    "relacion": "son",
+    "valor": "candidatos a RCV"
+  },
+  {
+    "entidad": "ejercicio en casa",
+    "relacion": "es",
+    "valor": "una alternativa a la RCV tradicional"
+  },
+  {
+    "entidad": "entrenamiento físico",
+    "relacion": "es",
+    "valor": "ejecución de movimientos corporales planificada y estructurada"
+  },
+  {
+    "entidad": "evaluación del riesgo de complicaciones cardiovasculares",
+    "relacion": "debe ser realizada",
+    "valor": "antes de comenzar el entrenamiento físico"
+  },
+  {
+    "entidad": "programas estructurados de RCV",
+    "relacion": "deben incluir",
+    "valor": "supervisión profesional"
+  },
+  {
+    "entidad": "ejercicio programado",
+    "relacion": "aumenta",
+    "valor": "la tolerancia al esfuerzo físico"
+  },
+  {
+    "entidad": "entrenamiento físico",
+    "relacion": "disminuye",
+    "valor": "síntomas cardiacos y mortalidad general"
+  },
+  {
+    "entidad": "RCV",
+    "relacion": "mejora",
+    "valor": "factores psicosociales como ansiedad y depresión"
+  },
+  {
+    "entidad": "ejercicio de resistencia",
+    "relacion": "tiene como objetivo",
+    "valor": "aumentar la fuerza y resistencia muscular"
+  },
+  {
+    "entidad": "entrenamiento de fuerza",
+    "relacion": "es importante",
+    "valor": "en pacientes más frágiles"
+  },
+  {
+    "entidad": "incidencia de eventos cardiovasculares mayores",
+    "relacion": "es",
+    "valor": "baja durante ejercicio vigoroso"
+  },
+  {
+    "entidad": "estratificación de riesgo",
+    "relacion": "ha ayudado a identificar",
+    "valor": "pacientes vulnerables durante el ejercicio"
+  },
+  {
+    "entidad": "ejercicio",
+    "relacion": "reduce",
+    "valor": "la actividad simpática y aumenta la parasimpática"
+  },
+  {
+    "entidad": "entrenamiento físico",
+    "relacion": "disminuye",
+    "valor": "la proteína C-reactiva"
+  },
+  {
+    "entidad": "RCV",
+    "relacion": "tiene efectos favorables",
+    "valor": "sobre los factores de riesgo cardiovascular"
+  },
+  {
+    "entidad": "Plasma Rico en Plaquetas (PRP)",
+    "relacion": "se utiliza en",
+    "valor": "cirugía ligamentosa de rodilla"
+  },
+  {
+    "entidad": "PRP",
+    "relacion": "puede acelerar",
+    "valor": "el proceso de curación"
+  },
+  {
+    "entidad": "PRP",
+    "relacion": "se obtiene de",
+    "valor": "sangre autóloga"
+  },
+  {
+    "entidad": "sangre autóloga",
+    "relacion": "es",
+    "valor": "la fuente de PRP"
+  },
+  {
+    "entidad": "PRP",
+    "relacion": "tiene concentraciones de",
+    "valor": "plaquetas y factores de crecimiento más altos que la sangre normal"
+  },
+  {
+    "entidad": "lesiones músculo-esqueléticas",
+    "relacion": "son una causa de",
+    "valor": "morbilidad en todo el mundo"
+  },
+  {
+    "entidad": "rotura del ligamento cruzado anterior (LCA)",
+    "relacion": "es",
+    "valor": "una lesión común"
+  },
+  {
+    "entidad": "LCA",
+    "relacion": "puede causar",
+    "valor": "inestabilidad funcional"
+  },
+  {
+    "entidad": "inestabilidad funcional",
+    "relacion": "puede conducir a",
+    "valor": "lesiones de otros ligamentos"
+  },
+  {
+    "entidad": "factor de crecimiento derivado de plaquetas (PDGF)",
+    "relacion": "tiene propiedades",
+    "valor": "reparadoras"
+  },
+  {
+    "entidad": "PDGF",
+    "relacion": "puede acelerar",
+    "valor": "la reparación de tendones y ligamentos"
+  },
+  {
+    "entidad": "reconstrucción de LCA",
+    "relacion": "puede permitir",
+    "valor": "un retorno más rápido a las actividades diarias"
+  },
+  {
+    "entidad": "plaquetas",
+    "relacion": "liberan",
+    "valor": "factores de crecimiento al activarse"
+  },
+  {
+    "entidad": "degranulación",
+    "relacion": "es el proceso de",
+    "valor": "liberación de factores de crecimiento"
+  },
+  {
+    "entidad": "PRP",
+    "relacion": "se prepara mediante",
+    "valor": "centrifugación de sangre"
+  },
+  {
+    "entidad": "sistemas comerciales de PRP",
+    "relacion": "tienen diferencias en",
+    "valor": "protocolos de preparación"
+  },
+  {
+    "entidad": "concentraciones de plaquetas",
+    "relacion": "deben estar entre",
+    "valor": "503.000 y 1.729.000 plaquetas/uL para un efecto óptimo"
+  },
+  {
+    "entidad": "activación de plaquetas",
+    "relacion": "es necesaria para",
+    "valor": "liberar factores de crecimiento"
+  },
+  {
+    "entidad": "PRP",
+    "relacion": "se utiliza en",
+    "valor": "cirugía ortopédica como agente sinérgico"
+  },
+  {
+    "entidad": "estudios en Chile",
+    "relacion": "han mostrado",
+    "valor": "resultados variables sobre el uso de PRP"
+  },
+  {
+    "entidad": "evidencia actual",
+    "relacion": "sugiere que",
+    "valor": "la adición de PRP podría tener un efecto benéfico en la maduración del injerto"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "es",
+    "valor": "el país pionero en el estudio del PRP"
+  },
+  {
+    "entidad": "reconstrucción de LCA",
+    "relacion": "es",
+    "valor": "la cirugía ligamentosa más frecuente"
+  },
+  {
+    "entidad": "PRP",
+    "relacion": "teóricamente debería",
+    "valor": "acelerar los procesos de reparación de tejidos"
+  }
+]

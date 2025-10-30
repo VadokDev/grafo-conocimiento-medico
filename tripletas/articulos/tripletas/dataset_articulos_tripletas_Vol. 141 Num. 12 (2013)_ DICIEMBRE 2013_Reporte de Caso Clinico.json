@@ -1,0 +1,272 @@
+[
+  {
+    "entidad": "calcificaciones pulmonares metastásicas",
+    "relacion": "ocurren en",
+    "valor": "pacientes trasplantados renales"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "recibió",
+    "valor": "trasplante renal"
+  },
+  {
+    "entidad": "trasplante renal",
+    "relacion": "realizado en",
+    "valor": "1994"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "tenía",
+    "valor": "función renal adecuada"
+  },
+  {
+    "entidad": "calcificaciones pulmonares metastásicas",
+    "relacion": "interpretadas como",
+    "valor": "calcificaciones en tejido sano"
+  },
+  {
+    "entidad": "calcificaciones pulmonares metastásicas",
+    "relacion": "asociadas a",
+    "valor": "tos seca ocasional"
+  },
+  {
+    "entidad": "calcificaciones pulmonares metastásicas",
+    "relacion": "diagnosticadas en",
+    "valor": "pacientes con insuficiencia renal crónica"
+  },
+  {
+    "entidad": "insuficiencia renal crónica",
+    "relacion": "causa común de",
+    "valor": "calcificaciones pulmonares metastásicas"
+  },
+  {
+    "entidad": "radiografía de tórax",
+    "relacion": "tiene",
+    "valor": "baja sensibilidad para detectar calcificaciones"
+  },
+  {
+    "entidad": "tomografía computada de alta resolución",
+    "relacion": "es más sensible que",
+    "valor": "radiografía de tórax"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "falleció por",
+    "valor": "infarto agudo al miocardio"
+  },
+  {
+    "entidad": "tratamiento de calcificaciones pulmonares metastásicas",
+    "relacion": "incluye",
+    "valor": "normalización de calcio y fósforo"
+  },
+  {
+    "entidad": "ciclosporina",
+    "relacion": "fue parte de",
+    "valor": "terapia inmunosupresora"
+  },
+  {
+    "entidad": "diltiazem",
+    "relacion": "utilizado para",
+    "valor": "reducir dosis de ciclosporina"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presentó",
+    "valor": "varios episodios asmáticos"
+  },
+  {
+    "entidad": "calcificaciones pulmonares metastásicas",
+    "relacion": "pueden ser",
+    "valor": "asintomáticas"
+  },
+  {
+    "entidad": "calcificaciones pulmonares metastásicas",
+    "relacion": "pueden ocurrir en",
+    "valor": "tejido sano"
+  },
+  {
+    "entidad": "calcificaciones pulmonares metastásicas",
+    "relacion": "asociadas a",
+    "valor": "enfermedades como hiperparatiroidismo"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "fue diagnosticado con",
+    "valor": "estenosis aórtica calcificada severa"
+  },
+  {
+    "entidad": "estenosis aórtica calcificada severa",
+    "relacion": "requiere",
+    "valor": "intervención quirúrgica"
+  },
+  {
+    "entidad": "calcificaciones pulmonares metastásicas",
+    "relacion": "se observan en",
+    "valor": "autopsias de pacientes con IRC en HD"
+  },
+  {
+    "entidad": "Mixoma ventricular izquierdo",
+    "relacion": "es un",
+    "valor": "tumor cardíaco"
+  },
+  {
+    "entidad": "ecocardiografía",
+    "relacion": "utiliza",
+    "valor": "diagnóstico de mixoma"
+  },
+  {
+    "entidad": "ecocardiografía tridimensional",
+    "relacion": "complementa",
+    "valor": "evaluación del mixoma"
+  },
+  {
+    "entidad": "resonancia cardiaca",
+    "relacion": "confirma",
+    "valor": "diagnóstico de mixoma"
+  },
+  {
+    "entidad": "tomografía computada multicorte",
+    "relacion": "complementa",
+    "valor": "evaluación del mixoma"
+  },
+  {
+    "entidad": "mujer de 50 años",
+    "relacion": "presenta",
+    "valor": "mixoma asintomático"
+  },
+  {
+    "entidad": "sangre",
+    "relacion": "obstrucción",
+    "valor": "del tracto de salida del ventrículo izquierdo"
+  },
+  {
+    "entidad": "resección quirúrgica",
+    "relacion": "realiza",
+    "valor": "para el tratamiento del mixoma"
+  },
+  {
+    "entidad": "parche de pericardio bovino",
+    "relacion": "implanta",
+    "valor": "después de la resección"
+  },
+  {
+    "entidad": "histopatología",
+    "relacion": "confirma",
+    "valor": "diagnóstico de mixoma calcificado"
+  },
+  {
+    "entidad": "ecocardiografía bidimensional",
+    "relacion": "detecta",
+    "valor": "masa en el ventrículo izquierdo"
+  },
+  {
+    "entidad": "soplo sistólico",
+    "relacion": "detecta",
+    "valor": "en control ambulatorio"
+  },
+  {
+    "entidad": "métodos diagnósticos",
+    "relacion": "son",
+    "valor": "ecocardiografía, resonancia cardiaca, tomografía computada"
+  },
+  {
+    "entidad": "mixoma",
+    "relacion": "representa",
+    "valor": "50% de neoplasias primarias cardíacas"
+  },
+  {
+    "entidad": "síntomas",
+    "relacion": "dependen de",
+    "valor": "localización del mixoma"
+  },
+  {
+    "entidad": "cirugía de urgencia",
+    "relacion": "requerida por",
+    "valor": "alto índice de eventos embólicos"
+  },
+  {
+    "entidad": "Trombosis de seno venoso",
+    "relacion": "es una",
+    "valor": "causa infrecuente de ataque cerebrovascular"
+  },
+  {
+    "entidad": "Traumatismo encéfalo craneano",
+    "relacion": "causa",
+    "valor": "trombosis de seno venoso"
+  },
+  {
+    "entidad": "Cefalea",
+    "relacion": "es el síntoma más frecuente de",
+    "valor": "trombosis de seno venoso"
+  },
+  {
+    "entidad": "Anticoagulación",
+    "relacion": "se utiliza en el tratamiento de",
+    "valor": "trombosis de seno venoso"
+  },
+  {
+    "entidad": "Heparina",
+    "relacion": "es un tipo de",
+    "valor": "anticoagulante"
+  },
+  {
+    "entidad": "Fenitoína",
+    "relacion": "se utiliza para tratar",
+    "valor": "crisis epilépticas"
+  },
+  {
+    "entidad": "Resonancia magnética",
+    "relacion": "se utiliza para confirmar",
+    "valor": "trombosis de seno venoso"
+  },
+  {
+    "entidad": "Tomografía computarizada",
+    "relacion": "se utiliza para detectar",
+    "valor": "trombosis de seno venoso"
+  },
+  {
+    "entidad": "Crisis epilépticas",
+    "relacion": "son un síntoma asociado a",
+    "valor": "trombosis de seno venoso"
+  },
+  {
+    "entidad": "Fractura de incisivo",
+    "relacion": "es un hallazgo en el examen",
+    "valor": "del paciente"
+  },
+  {
+    "entidad": "Craniectomía descompresiva",
+    "relacion": "es una opción quirúrgica para",
+    "valor": "hipertensión intracraneana"
+  },
+  {
+    "entidad": "Trombectomía mecánica",
+    "relacion": "se ha utilizado para tratar",
+    "valor": "trombosis de seno venoso"
+  },
+  {
+    "entidad": "Antiepilépticos",
+    "relacion": "se recomienda su uso en",
+    "valor": "pacientes con trombosis de seno venoso que presentan convulsiones"
+  },
+  {
+    "entidad": "Edema citotóxico",
+    "relacion": "es un mecanismo posible en",
+    "valor": "trombosis de seno venoso"
+  },
+  {
+    "entidad": "Edema vasogénico",
+    "relacion": "es un mecanismo posible en",
+    "valor": "trombosis de seno venoso"
+  },
+  {
+    "entidad": "Hipertensión venosa retrógrada",
+    "relacion": "es un factor en",
+    "valor": "trombosis de seno venoso"
+  },
+  {
+    "entidad": "Barreras hematoencefálicas",
+    "relacion": "pueden fallar en",
+    "valor": "trombosis de seno venoso"
+  }
+]

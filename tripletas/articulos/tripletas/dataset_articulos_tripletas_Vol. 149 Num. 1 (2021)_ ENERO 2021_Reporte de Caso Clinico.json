@@ -1,0 +1,367 @@
+[
+  {
+    "entidad": "Aneurisma de aorta abdominal",
+    "relacion": "causa",
+    "valor": "fístula aortoentérica primaria"
+  },
+  {
+    "entidad": "Fístula aortoentérica primaria",
+    "relacion": "es",
+    "valor": "comunicación espontánea entre la aorta y el tubo digestivo"
+  },
+  {
+    "entidad": "Aneurisma de aorta abdominal",
+    "relacion": "se manifiesta como",
+    "valor": "hemorragia gastrointestinal"
+  },
+  {
+    "entidad": "Hemorragia gastrointestinal",
+    "relacion": "es",
+    "valor": "síntoma cardinal de fístula aortoentérica"
+  },
+  {
+    "entidad": "Endoscopia",
+    "relacion": "diagnostica",
+    "valor": "25% de fístulas aortoentéricas"
+  },
+  {
+    "entidad": "Tomografía computarizada",
+    "relacion": "diagnostica",
+    "valor": "60% de fístulas aortoentéricas"
+  },
+  {
+    "entidad": "Cirugía",
+    "relacion": "es",
+    "valor": "opción terapéutica para fístula aortoentérica"
+  },
+  {
+    "entidad": "Antibióticos",
+    "relacion": "se utilizan en",
+    "valor": "postoperatorio de fístula aortoentérica"
+  },
+  {
+    "entidad": "Diagnóstico precoz",
+    "relacion": "es crucial para",
+    "valor": "mejorar el pronóstico del paciente"
+  },
+  {
+    "entidad": "Mortalidad",
+    "relacion": "es",
+    "valor": "alta en fístula aortoentérica no tratada"
+  },
+  {
+    "entidad": "Edad promedio de presentación",
+    "relacion": "es",
+    "valor": "63-64 años"
+  },
+  {
+    "entidad": "Hombres",
+    "relacion": "son más afectados por",
+    "valor": "fístula aortoentérica"
+  },
+  {
+    "entidad": "Hemorragia centinela",
+    "relacion": "precede a",
+    "valor": "hemorragia exanguinante"
+  },
+  {
+    "entidad": "Fístula aorto-duodenal",
+    "relacion": "es",
+    "valor": "75-93% de las fístulas aortoentéricas"
+  },
+  {
+    "entidad": "TAC con contraste",
+    "relacion": "es recomendado en",
+    "valor": "diagnóstico de fístula aortoentérica"
+  },
+  {
+    "entidad": "Cirugía abierta",
+    "relacion": "se realiza en",
+    "valor": "fístula aortoentérica"
+  },
+  {
+    "entidad": "Complicaciones postoperatorias",
+    "relacion": "pueden incluir",
+    "valor": "infección y evisceración"
+  },
+  {
+    "entidad": "Pronóstico global",
+    "relacion": "depende de",
+    "valor": "diagnóstico precoz y manejo quirúrgico"
+  },
+  {
+    "entidad": "Atrofia monomiélica distal de extremidad superior",
+    "relacion": "es un",
+    "valor": "síndrome de motoneurona inferior"
+  },
+  {
+    "entidad": "Atrofia monomiélica distal de extremidad superior",
+    "relacion": "también conocido como",
+    "valor": "enfermedad de Hirayama"
+  },
+  {
+    "entidad": "Atrofia monomiélica distal de extremidad superior",
+    "relacion": "se caracteriza por",
+    "valor": "debilidad y atrofia de la extremidad superior"
+  },
+  {
+    "entidad": "Atrofia monomiélica distal de extremidad superior",
+    "relacion": "afecta a",
+    "valor": "músculos de la mano y antebrazo"
+  },
+  {
+    "entidad": "Atrofia monomiélica distal de extremidad superior",
+    "relacion": "presenta",
+    "valor": "inicio focal e insidioso"
+  },
+  {
+    "entidad": "Atrofia monomiélica distal de extremidad superior",
+    "relacion": "suele ocurrir en",
+    "valor": "pacientes jóvenes"
+  },
+  {
+    "entidad": "Atrofia monomiélica distal de extremidad superior",
+    "relacion": "progresión",
+    "valor": "de uno a cinco años"
+  },
+  {
+    "entidad": "Atrofia monomiélica distal de extremidad superior",
+    "relacion": "su etiología es",
+    "valor": "desconocida"
+  },
+  {
+    "entidad": "daño hipóxico-isquémico",
+    "relacion": "es una hipótesis de",
+    "valor": "etiología de la enfermedad"
+  },
+  {
+    "entidad": "Electromiografía",
+    "relacion": "muestra",
+    "valor": "cambios neurogénicos activos y crónicos"
+  },
+  {
+    "entidad": "Resonancia magnética",
+    "relacion": "revela",
+    "valor": "atrofia de la médula espinal cervical"
+  },
+  {
+    "entidad": "Tratamiento conservador",
+    "relacion": "incluye",
+    "valor": "uso de collar cervical"
+  },
+  {
+    "entidad": "Cirugía de descompresión y fijación cervical",
+    "relacion": "es una opción para",
+    "valor": "pacientes con deterioro funcional progresivo"
+  },
+  {
+    "entidad": "Hospital del Salvador",
+    "relacion": "es un",
+    "valor": "centro de atención médica"
+  },
+  {
+    "entidad": "Universidad de Chile",
+    "relacion": "es un",
+    "valor": "centro de investigación"
+  },
+  {
+    "entidad": "Instituto Milenio de Neurociencia Biomédica",
+    "relacion": "es un",
+    "valor": "centro de investigación"
+  },
+  {
+    "entidad": "Servicio de Neurología",
+    "relacion": "pertenece a",
+    "valor": "Hospital del Salvador"
+  },
+  {
+    "entidad": "Servicio de Neurorradiología",
+    "relacion": "pertenece a",
+    "valor": "Instituto de Neurocirugía Dr. Asenjo"
+  },
+  {
+    "entidad": "válvula protésica aórtica",
+    "relacion": "se implanta",
+    "valor": "sobre bioprótesis mitral degenerada"
+  },
+  {
+    "entidad": "bioprótesis mitral degenerada",
+    "relacion": "presenta",
+    "valor": "deterioro estructural"
+  },
+  {
+    "entidad": "deterioro estructural",
+    "relacion": "requiere",
+    "valor": "reintervención"
+  },
+  {
+    "entidad": "reintervención",
+    "relacion": "tiene",
+    "valor": "alto riesgo quirúrgico"
+  },
+  {
+    "entidad": "pacientes ancianos",
+    "relacion": "tienen",
+    "valor": "múltiples comorbilidades"
+  },
+  {
+    "entidad": "mujer de 74 años",
+    "relacion": "presenta",
+    "valor": "insuficiencia mitral severa"
+  },
+  {
+    "entidad": "tratamiento percutáneo",
+    "relacion": "se realiza con",
+    "valor": "válvula balón-expandible"
+  },
+  {
+    "entidad": "técnica Valve-in-Valve",
+    "relacion": "es",
+    "valor": "opción atractiva y efectiva"
+  },
+  {
+    "entidad": "implante valvular transcatéter",
+    "relacion": "es",
+    "valor": "alternativa a cirugía"
+  },
+  {
+    "entidad": "FDA",
+    "relacion": "indica",
+    "valor": "uso de prótesis aórtica transcatéter"
+  },
+  {
+    "entidad": "abordaje transeptal",
+    "relacion": "ofrece",
+    "valor": "resultados comparables a abordaje transapical"
+  },
+  {
+    "entidad": "planificación preoperatoria",
+    "relacion": "es crucial para",
+    "valor": "asegurar el éxito del procedimiento"
+  },
+  {
+    "entidad": "mortalidad global",
+    "relacion": "es",
+    "valor": "menor en abordaje transeptal"
+  },
+  {
+    "entidad": "anticoagulación oral",
+    "relacion": "se realiza con",
+    "valor": "antagonista de vitamina K"
+  },
+  {
+    "entidad": "pacientes de alto riesgo",
+    "relacion": "se someten a",
+    "valor": "ViV mitral"
+  },
+  {
+    "entidad": "complicaciones",
+    "relacion": "son",
+    "valor": "bajas en el procedimiento"
+  },
+  {
+    "entidad": "días de estancia hospitalaria",
+    "relacion": "son",
+    "valor": "menores en abordaje transeptal"
+  },
+  {
+    "entidad": "Trombolisis endovenosa",
+    "relacion": "utiliza",
+    "valor": "Tenecteplase"
+  },
+  {
+    "entidad": "Tenecteplase",
+    "relacion": "es un",
+    "valor": "trombolítico"
+  },
+  {
+    "entidad": "ACV",
+    "relacion": "es un",
+    "valor": "accidente cerebrovascular"
+  },
+  {
+    "entidad": "ACV isquémico agudo",
+    "relacion": "mejora con",
+    "valor": "terapia de reperfusión"
+  },
+  {
+    "entidad": "Alteplase",
+    "relacion": "es un",
+    "valor": "trombolítico endovenoso"
+  },
+  {
+    "entidad": "Tenecteplase",
+    "relacion": "tiene ventajas sobre",
+    "valor": "Alteplase"
+  },
+  {
+    "entidad": "pacientes con ACV del despertar",
+    "relacion": "pueden ser candidatos a",
+    "valor": "terapia de reperfusión"
+  },
+  {
+    "entidad": "imágenes avanzadas",
+    "relacion": "son necesarias para",
+    "valor": "selección de pacientes"
+  },
+  {
+    "entidad": "ASPECTS",
+    "relacion": "predice",
+    "valor": "resultado favorable en estudio de perfusión"
+  },
+  {
+    "entidad": "paciente de 78 años",
+    "relacion": "presenta",
+    "valor": "hemiparesis izquierda"
+  },
+  {
+    "entidad": "CT de cerebro",
+    "relacion": "se utiliza para",
+    "valor": "evaluar ACV"
+  },
+  {
+    "entidad": "Tenecteplase",
+    "relacion": "se administra en",
+    "valor": "ventana extendida"
+  },
+  {
+    "entidad": "neurorehabilitación integral",
+    "relacion": "se inicia tras",
+    "valor": "trombolisis"
+  },
+  {
+    "entidad": "endarterectomía carotídea derecha",
+    "relacion": "se programa tras",
+    "valor": "evaluación del paciente"
+  },
+  {
+    "entidad": "Dr. Víctor Navia",
+    "relacion": "es el",
+    "valor": "autor correspondiente"
+  },
+  {
+    "entidad": "Clínica Alemana",
+    "relacion": "es un",
+    "valor": "centro de atención médica"
+  },
+  {
+    "entidad": "Universidad del Desarrollo",
+    "relacion": "es un",
+    "valor": "institución educativa"
+  },
+  {
+    "entidad": "hipertensión arterial",
+    "relacion": "es un",
+    "valor": "antecedente del paciente"
+  },
+  {
+    "entidad": "enfermedad renal crónica etapa III",
+    "relacion": "es un",
+    "valor": "antecedente del paciente"
+  },
+  {
+    "entidad": "deterioro cognitivo",
+    "relacion": "es un",
+    "valor": "antecedente del paciente"
+  }
+]

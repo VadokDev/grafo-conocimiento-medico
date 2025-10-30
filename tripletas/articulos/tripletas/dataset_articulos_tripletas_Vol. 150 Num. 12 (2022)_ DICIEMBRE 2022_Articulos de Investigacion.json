@@ -1,0 +1,902 @@
+[
+  {
+    "entidad": "nivel educacional",
+    "relacion": "asocia",
+    "valor": "sospecha de deterioro cognitivo"
+  },
+  {
+    "entidad": "personas mayores chilenas",
+    "relacion": "presentan",
+    "valor": "mayor riesgo de deterioro cognitivo con bajo nivel educacional"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud 2016-2017",
+    "relacion": "utiliza",
+    "valor": "datos para el estudio"
+  },
+  {
+    "entidad": "deterioro cognitivo",
+    "relacion": "definido como",
+    "valor": "pérdida o reducción de funciones mentales superiores"
+  },
+  {
+    "entidad": "bajo nivel educacional",
+    "relacion": "considerado como",
+    "valor": "factor de riesgo para deterioro cognitivo"
+  },
+  {
+    "entidad": "hombres y mujeres",
+    "relacion": "tienen",
+    "valor": "diferencias en la prevalencia de deterioro cognitivo"
+  },
+  {
+    "entidad": "sospecha de deterioro cognitivo",
+    "relacion": "evaluada con",
+    "valor": "Mini-Mental questionnaire"
+  },
+  {
+    "entidad": "sospecha de deterioro cognitivo",
+    "relacion": "aumenta con",
+    "valor": "la edad"
+  },
+  {
+    "entidad": "estilos de vida no saludables",
+    "relacion": "asociados a",
+    "valor": "mayor riesgo de deterioro cognitivo"
+  },
+  {
+    "entidad": "reserva cognitiva",
+    "relacion": "influye en",
+    "valor": "la función cognitiva"
+  },
+  {
+    "entidad": "adiposidad",
+    "relacion": "asociada a",
+    "valor": "mayor riesgo de deterioro cognitivo"
+  },
+  {
+    "entidad": "sexo",
+    "relacion": "es un",
+    "valor": "factor de riesgo para deterioro cognitivo"
+  },
+  {
+    "entidad": "estrategias de tamizaje",
+    "relacion": "necesarias para",
+    "valor": "diagnóstico temprano de deterioro cognitivo"
+  },
+  {
+    "entidad": "deterioro cognitivo",
+    "relacion": "es uno de",
+    "valor": "los síndromes geriátricos más prevalentes"
+  },
+  {
+    "entidad": "población laboralmente activa",
+    "relacion": "crece",
+    "valor": "rápidamente"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "asocia con",
+    "valor": "nivel de actividad física"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "asocia con",
+    "valor": "pruebas funcionales"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "realiza",
+    "valor": "evaluación transversal"
+  },
+  {
+    "entidad": "SF-36",
+    "relacion": "mide",
+    "valor": "calidad de vida"
+  },
+  {
+    "entidad": "International Physical Activity Questionnaire (IPAQ)",
+    "relacion": "evalúa",
+    "valor": "nivel de actividad física"
+  },
+  {
+    "entidad": "fuerza prensil",
+    "relacion": "evalúa",
+    "valor": "capacidad funcional"
+  },
+  {
+    "entidad": "Timed Up and Go (TUG)",
+    "relacion": "evalúa",
+    "valor": "equilibrio dinámico"
+  },
+  {
+    "entidad": "Chair Stand Test (CST)",
+    "relacion": "evalúa",
+    "valor": "fuerza de miembros inferiores"
+  },
+  {
+    "entidad": "personas adultas",
+    "relacion": "tienen",
+    "valor": "mejores pruebas funcionales que personas mayores"
+  },
+  {
+    "entidad": "personas mayores",
+    "relacion": "tienen",
+    "valor": "mejores puntuaciones en salud mental"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "correlaciona con",
+    "valor": "actividad física en adultos"
+  },
+  {
+    "entidad": "capacidad funcional",
+    "relacion": "afecta",
+    "valor": "independencia en actividades diarias"
+  },
+  {
+    "entidad": "envejecimiento",
+    "relacion": "trae",
+    "valor": "cambios fisiológicos y morfológicos"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud (OMS)",
+    "relacion": "determina",
+    "valor": "Decenio del Envejecimiento Saludable"
+  },
+  {
+    "entidad": "políticas sanitarias y sociales",
+    "relacion": "necesitan",
+    "valor": "ajustes para personas mayores"
+  },
+  {
+    "entidad": "trabajo en personas mayores",
+    "relacion": "mantiene",
+    "valor": "actividad física, mental y social"
+  },
+  {
+    "entidad": "bajos niveles de actividad física",
+    "relacion": "impactan",
+    "valor": "negativamente en salud y calidad de vida"
+  },
+  {
+    "entidad": "capacidad funcional",
+    "relacion": "correlaciona con",
+    "valor": "mejor calidad de vida"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "financiado por",
+    "valor": "Instituto de Seguridad del Trabajo - IST"
+  },
+  {
+    "entidad": "melanoma maligno (MM)",
+    "relacion": "es",
+    "valor": "la neoplasia cutánea más fatal"
+  },
+  {
+    "entidad": "incidencia de MM",
+    "relacion": "está aumentando",
+    "valor": "progresivamente"
+  },
+  {
+    "entidad": "población chilena",
+    "relacion": "tiene",
+    "valor": "variedad de exposición solar"
+  },
+  {
+    "entidad": "Instituto Oncológico Fundación Arturo López Pérez (FALP)",
+    "relacion": "realiza",
+    "valor": "diagnóstico y tratamiento de cáncer"
+  },
+  {
+    "entidad": "MM invasor",
+    "relacion": "representa",
+    "valor": "61% de los casos"
+  },
+  {
+    "entidad": "lesión",
+    "relacion": "presenta",
+    "valor": "ulceración en 19% de los casos"
+  },
+  {
+    "entidad": "índice de Breslow",
+    "relacion": "es mayor",
+    "valor": "en varones que en mujeres"
+  },
+  {
+    "entidad": "localización anatómica del MM",
+    "relacion": "incluye",
+    "valor": "tronco, cabeza/cuello y extremidad inferior"
+  },
+  {
+    "entidad": "campañas de detección precoz",
+    "relacion": "pueden aumentar",
+    "valor": "la incidencia de MM in situ"
+  },
+  {
+    "entidad": "edad promedio para el diagnóstico de MM",
+    "relacion": "es",
+    "valor": "62 años"
+  },
+  {
+    "entidad": "MM",
+    "relacion": "predice",
+    "valor": "el compromiso de ganglio centinela"
+  },
+  {
+    "entidad": "mortalidad por MM",
+    "relacion": "es mayor",
+    "valor": "en países con IDH medio o bajo"
+  },
+  {
+    "entidad": "FALP",
+    "relacion": "ofrece",
+    "valor": "cobertura de servicios de diagnóstico y tratamiento"
+  },
+  {
+    "entidad": "análisis de datos",
+    "relacion": "utiliza",
+    "valor": "programa STATA 14.0"
+  },
+  {
+    "entidad": "distribución geográfica de la incidencia de MM",
+    "relacion": "destaca",
+    "valor": "en regiones Metropolitana, de Los Ríos y Arica-Parinacota"
+  },
+  {
+    "entidad": "proporción de ganglios centinelas comprometidos",
+    "relacion": "es mayor",
+    "valor": "en MM gruesos (T4)"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen mayor proporción",
+    "valor": "de MM en localizaciones de extremidades"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "tienen mayor proporción",
+    "valor": "de MM en cabeza y cuello"
+  },
+  {
+    "entidad": "MM",
+    "relacion": "es clasificado",
+    "valor": "según su espesor histológico"
+  },
+  {
+    "entidad": "infarto agudo al miocardio con supradesnivel del ST",
+    "relacion": "es",
+    "valor": "una enfermedad"
+  },
+  {
+    "entidad": "estrategia fármaco-invasiva",
+    "relacion": "es",
+    "valor": "un enfoque terapéutico"
+  },
+  {
+    "entidad": "thrombolysis",
+    "relacion": "se utiliza como",
+    "valor": "terapia puente"
+  },
+  {
+    "entidad": "angioplastia primaria",
+    "relacion": "es",
+    "valor": "el tratamiento de elección"
+  },
+  {
+    "entidad": "Hospital Las Higueras",
+    "relacion": "es",
+    "valor": "un centro de atención médica"
+  },
+  {
+    "entidad": "pacientes con IAMCEST",
+    "relacion": "son tratados con",
+    "valor": "estrategia fármaco-invasiva"
+  },
+  {
+    "entidad": "trombolisis",
+    "relacion": "se administra antes de",
+    "valor": "angioplastia primaria"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "afecta a",
+    "valor": "pacientes con IAMCEST"
+  },
+  {
+    "entidad": "tasa de complicaciones",
+    "relacion": "es comparable entre",
+    "valor": "pacientes trombolizados y no trombolizados"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen mayor prevalencia de",
+    "valor": "patologías cardiovasculares"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "tienen una sobrevida",
+    "valor": "significativamente superior"
+  },
+  {
+    "entidad": "estrategia fármaco-invasiva",
+    "relacion": "es una alternativa",
+    "valor": "segura a la angioplastia primaria"
+  },
+  {
+    "entidad": "trombolisis previa",
+    "relacion": "permite mantener",
+    "valor": "la permeabilidad del vaso"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "requieren",
+    "valor": "tiempos de traslados prolongados"
+  },
+  {
+    "entidad": "guías clínicas",
+    "relacion": "sugieren",
+    "valor": "tiempos de revascularización"
+  },
+  {
+    "entidad": "mortalidad femenina",
+    "relacion": "es un elemento repetido en",
+    "valor": "series clínicas"
+  },
+  {
+    "entidad": "estrategia fármaco-invasiva",
+    "relacion": "refuerza",
+    "valor": "el manejo en localidades alejadas"
+  },
+  {
+    "entidad": "Felipe González-Seguel",
+    "relacion": "es autor de",
+    "valor": "artículo de investigación"
+  },
+  {
+    "entidad": "Camilo Cáceres-Parra",
+    "relacion": "es autor de",
+    "valor": "artículo de investigación"
+  },
+  {
+    "entidad": "Clínica Alemana Universidad del Desarrollo",
+    "relacion": "pertenece a",
+    "valor": "Facultad de Medicina"
+  },
+  {
+    "entidad": "Servicio de Medicina Física y Rehabilitación",
+    "relacion": "pertenece a",
+    "valor": "Facultad de Medicina"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "afecta a",
+    "valor": "pacientes críticos"
+  },
+  {
+    "entidad": "evaluación del funcionamiento físico",
+    "relacion": "identifica",
+    "valor": "requerimientos de rehabilitación"
+  },
+  {
+    "entidad": "encuesta nacional",
+    "relacion": "realizada en",
+    "valor": "más de 90 centros chilenos"
+  },
+  {
+    "entidad": "MRC-SS",
+    "relacion": "es un",
+    "valor": "instrumento de medición de fuerza muscular"
+  },
+  {
+    "entidad": "FSS-ICU",
+    "relacion": "es un",
+    "valor": "instrumento de medición de estado funcional"
+  },
+  {
+    "entidad": "dinamometría de puño",
+    "relacion": "mide",
+    "valor": "fuerza muscular periférica"
+  },
+  {
+    "entidad": "ecografía muscular",
+    "relacion": "mide",
+    "valor": "masa muscular"
+  },
+  {
+    "entidad": "CPAx",
+    "relacion": "es un",
+    "valor": "instrumento de medición de movilidad"
+  },
+  {
+    "entidad": "Perme",
+    "relacion": "es un",
+    "valor": "instrumento de medición de movilidad"
+  },
+  {
+    "entidad": "PFIT-s",
+    "relacion": "es un",
+    "valor": "instrumento de medición de movilidad"
+  },
+  {
+    "entidad": "IMS",
+    "relacion": "es un",
+    "valor": "instrumento de medición de movilidad"
+  },
+  {
+    "entidad": "SPPB",
+    "relacion": "es un",
+    "valor": "instrumento de medición de desempeño físico"
+  },
+  {
+    "entidad": "propiedades clinimétricas",
+    "relacion": "son importantes para",
+    "valor": "la elección de instrumentos"
+  },
+  {
+    "entidad": "Comité Ético Científico de la Facultad de Medicina Clínica Alemana Universidad del Desarrollo",
+    "relacion": "aprueba",
+    "valor": "estudio"
+  },
+  {
+    "entidad": "kinesiólogos",
+    "relacion": "son responsables de",
+    "valor": "la atención en UCI"
+  },
+  {
+    "entidad": "Ministerio de Salud (MINSAL)",
+    "relacion": "define",
+    "valor": "centros de mediana y alta complejidad"
+  },
+  {
+    "entidad": "Sociedad Chilena de Medicina Intensiva (SOCHIMI)",
+    "relacion": "colabora con",
+    "valor": "la identificación de UCI"
+  },
+  {
+    "entidad": "encuesta DeKUCI-COVID19",
+    "relacion": "evalúa",
+    "valor": "prácticas de kinesiólogos durante la pandemia"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "cambia",
+    "valor": "prácticas de terapia física en UCI"
+  },
+  {
+    "entidad": "evaluación funcional",
+    "relacion": "es reconocida como",
+    "valor": "práctica valiosa"
+  },
+  {
+    "entidad": "instrumentos de medición",
+    "relacion": "son seleccionados por",
+    "valor": "propósito de evaluación y experiencia clínica"
+  },
+  {
+    "entidad": "encuesta",
+    "relacion": "se realiza en",
+    "valor": "plataforma Research Electronic Data Capture (REDCap)"
+  },
+  {
+    "entidad": "encuesta nacional",
+    "relacion": "recopila",
+    "valor": "información sobre prácticas en UCI"
+  },
+  {
+    "entidad": "uso de instrumentos de medición",
+    "relacion": "fue reportado como",
+    "valor": "frecuente en UCI"
+  },
+  {
+    "entidad": "uso de MRC-SS",
+    "relacion": "fue reportado en",
+    "valor": "la mayoría de las UCI"
+  },
+  {
+    "entidad": "uso de movilidad y masa muscular",
+    "relacion": "fue reportado como",
+    "valor": "poco frecuente"
+  },
+  {
+    "entidad": "razones para elegir instrumentos",
+    "relacion": "incluyen",
+    "valor": "rápida aplicación y propiedades clinimétricas"
+  },
+  {
+    "entidad": "Unidad de Coordinación de Fracturas",
+    "relacion": "es",
+    "valor": "servicio de salud en Chile"
+  },
+  {
+    "entidad": "Fractura Liaison Services",
+    "relacion": "desarrollado para",
+    "valor": "cerrar la brecha de diagnóstico y tratamiento de osteoporosis"
+  },
+  {
+    "entidad": "International Osteoporosis Foundation",
+    "relacion": "proporciona",
+    "valor": "guías clínicas para la prevención secundaria de fracturas"
+  },
+  {
+    "entidad": "Fractura por fragilidad",
+    "relacion": "afecta a",
+    "valor": "9 millones de personas anualmente en el mundo"
+  },
+  {
+    "entidad": "osteoporosis",
+    "relacion": "afecta a",
+    "valor": "200 millones de mujeres a nivel mundial"
+  },
+  {
+    "entidad": "pacientes con fractura por fragilidad",
+    "relacion": "reciben",
+    "valor": "diagnóstico y tratamiento en la UCF"
+  },
+  {
+    "entidad": "enfermera de práctica avanzada",
+    "relacion": "coordina",
+    "valor": "el servicio de enlace de fracturas"
+  },
+  {
+    "entidad": "gasto directo por tratamiento de fracturas de cadera en Chile",
+    "relacion": "es",
+    "valor": "aproximadamente 34 millones de dólares anuales"
+  },
+  {
+    "entidad": "Capture the Fracture",
+    "relacion": "es un programa de",
+    "valor": "la International Osteoporosis Foundation"
+  },
+  {
+    "entidad": "UCF",
+    "relacion": "ha demostrado",
+    "valor": "reducir la incidencia de refracturas"
+  },
+  {
+    "entidad": "pacientes enrolados en la UCF",
+    "relacion": "es",
+    "valor": "40% de los pacientes con fractura por fragilidad"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "afectó",
+    "valor": "el manejo terapéutico de pacientes con fracturas por fragilidad"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "se evalúa en",
+    "valor": "pacientes con fractura de cadera"
+  },
+  {
+    "entidad": "UCF",
+    "relacion": "es replicable y escalable",
+    "valor": "para otros centros de salud en Chile"
+  },
+  {
+    "entidad": "programa de enlace de fracturas",
+    "relacion": "incluye",
+    "valor": "seguimiento de pacientes durante un año"
+  },
+  {
+    "entidad": "pacientes con fractura de cadera",
+    "relacion": "reciben",
+    "valor": "seguimiento adicional a los 30 días"
+  },
+  {
+    "entidad": "diagnóstico previo de osteoporosis",
+    "relacion": "es reportado en",
+    "valor": "20% de los participantes"
+  },
+  {
+    "entidad": "tratamiento para osteoporosis",
+    "relacion": "es recibido por",
+    "valor": "11% de los participantes"
+  },
+  {
+    "entidad": "UCF",
+    "relacion": "logró",
+    "valor": "100% de identificación de fracturas por fragilidad en urgencias"
+  },
+  {
+    "entidad": "Pancreatitis crónica",
+    "relacion": "se caracteriza por",
+    "valor": "inflamación y cicatrización del páncreas"
+  },
+  {
+    "entidad": "Pancreatitis crónica",
+    "relacion": "causa",
+    "valor": "pérdida de función exocrina y endocrina"
+  },
+  {
+    "entidad": "Diabetes pancreatogénica",
+    "relacion": "es un tipo de",
+    "valor": "diabetes tipo 3C"
+  },
+  {
+    "entidad": "Alcohol",
+    "relacion": "es un",
+    "valor": "factor de riesgo para pancreatitis crónica"
+  },
+  {
+    "entidad": "Tabaco",
+    "relacion": "es un",
+    "valor": "factor de riesgo para pancreatitis crónica"
+  },
+  {
+    "entidad": "Terapia sustitutiva con enzimas pancreáticas (TSEP)",
+    "relacion": "puede mejorar",
+    "valor": "el estado nutricional"
+  },
+  {
+    "entidad": "Terapia sustitutiva con enzimas pancreáticas (TSEP)",
+    "relacion": "no reduce",
+    "valor": "la necesidad de tratamiento endoscópico o quirúrgico"
+  },
+  {
+    "entidad": "Hábito tabáquico",
+    "relacion": "favorece",
+    "valor": "la progresión de pancreatitis crónica"
+  },
+  {
+    "entidad": "Hábito alcohólico",
+    "relacion": "favorece",
+    "valor": "la progresión de pancreatitis crónica"
+  },
+  {
+    "entidad": "Hábito tabáquico",
+    "relacion": "induce",
+    "valor": "un estado proinflamatorio"
+  },
+  {
+    "entidad": "Pacientes con TSEP",
+    "relacion": "tienen mayor proporción de",
+    "valor": "diabetes"
+  },
+  {
+    "entidad": "Pacientes fumadores",
+    "relacion": "tienen niveles más altos de",
+    "valor": "calcio"
+  },
+  {
+    "entidad": "Pacientes fumadores",
+    "relacion": "tienen niveles más altos de",
+    "valor": "linfocitos"
+  },
+  {
+    "entidad": "Pacientes fumadores",
+    "relacion": "tienen niveles más altos de",
+    "valor": "leucocitos"
+  },
+  {
+    "entidad": "Pacientes bebedores",
+    "relacion": "tienen mayor edad media que",
+    "valor": "pacientes no bebedores"
+  },
+  {
+    "entidad": "Terapia sustitutiva con enzimas pancreáticas (TSEP)",
+    "relacion": "es indicada en",
+    "valor": "insuficiencia pancreática exocrina"
+  },
+  {
+    "entidad": "Insuficiencia pancreática exocrina",
+    "relacion": "se asocia con",
+    "valor": "diabetes mellitus"
+  },
+  {
+    "entidad": "Hábito tabáquico",
+    "relacion": "se relaciona con",
+    "valor": "metabolismo óseo alterado"
+  },
+  {
+    "entidad": "Hábito tabáquico",
+    "relacion": "aumenta",
+    "valor": "los niveles de leucocitos"
+  },
+  {
+    "entidad": "Hábito alcohólico",
+    "relacion": "es el principal factor de riesgo para",
+    "valor": "desarrollo de pancreatitis crónica"
+  },
+  {
+    "entidad": "Centro de Investigación de Estudios Avanzados del Maule (CIEAM)",
+    "relacion": "pertenece a",
+    "valor": "Universidad Católica del Maule"
+  },
+  {
+    "entidad": "Departamento de Ciencias de la Actividad Física",
+    "relacion": "pertenece a",
+    "valor": "Universidad Católica del Maule"
+  },
+  {
+    "entidad": "Laboratorio de Rendimiento Humano",
+    "relacion": "pertenece a",
+    "valor": "Universidad Católica del Maule"
+  },
+  {
+    "entidad": "Exercise and Rehabilitation Sciences Institute",
+    "relacion": "pertenece a",
+    "valor": "Universidad Andres Bello"
+  },
+  {
+    "entidad": "Escuela de Kinesiología",
+    "relacion": "pertenece a",
+    "valor": "Universidad Santo Tomás"
+  },
+  {
+    "entidad": "Grupo de Investigación en Educación Física, Salud y Calidad de Vida",
+    "relacion": "pertenece a",
+    "valor": "Universidad Autónoma de Chile"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "afecta a",
+    "valor": "personas con comorbilidades"
+  },
+  {
+    "entidad": "actividad física (AF)",
+    "relacion": "reduce",
+    "valor": "efectos adversos de COVID-19"
+  },
+  {
+    "entidad": "consejerías en actividad física",
+    "relacion": "promueve",
+    "valor": "estilos de vida saludables"
+  },
+  {
+    "entidad": "consejerías en actividad física",
+    "relacion": "previene",
+    "valor": "enfermedades cardiometabólicas"
+  },
+  {
+    "entidad": "enfermedades cardiometabólicas",
+    "relacion": "incluyen",
+    "valor": "obesidad, hipertensión, glicemia elevada"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "reconoce",
+    "valor": "importancia de las consejerías en salud"
+  },
+  {
+    "entidad": "consejerías en AF",
+    "relacion": "realizadas por",
+    "valor": "médicos y otros profesionales de la salud"
+  },
+  {
+    "entidad": "actividad física (AF)",
+    "relacion": "atenúa",
+    "valor": "efectos de COVID-19"
+  },
+  {
+    "entidad": "educación temprana sobre AF",
+    "relacion": "es",
+    "valor": "herramienta útil y necesaria"
+  },
+  {
+    "entidad": "tendencia en casos de consejerías en AF",
+    "relacion": "evaluada entre",
+    "valor": "2012 y 2019"
+  },
+  {
+    "entidad": "tendencia en enfermedades cardiometabólicas",
+    "relacion": "evaluada entre",
+    "valor": "2012 y 2019"
+  },
+  {
+    "entidad": "sobrepeso",
+    "relacion": "aumenta",
+    "valor": "en el período pre-pandemia"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "aumenta",
+    "valor": "en el período pre-pandemia"
+  },
+  {
+    "entidad": "hipertensión",
+    "relacion": "aumenta",
+    "valor": "en el período pre-pandemia"
+  },
+  {
+    "entidad": "glicemia elevada",
+    "relacion": "aumenta",
+    "valor": "en el período pre-pandemia"
+  },
+  {
+    "entidad": "consejerías en AF",
+    "relacion": "deben ser",
+    "valor": "aumentadas para complementar tratamiento de COVID-19"
+  },
+  {
+    "entidad": "Trabajo médico",
+    "relacion": "se considera",
+    "valor": "digno"
+  },
+  {
+    "entidad": "Organización Internacional del Trabajo",
+    "relacion": "propone",
+    "valor": "Trabajo Decente"
+  },
+  {
+    "entidad": "dignidad del trabajo médico",
+    "relacion": "emerge de",
+    "valor": "un proceso histórico de conquista social"
+  },
+  {
+    "entidad": "médicos y médicas",
+    "relacion": "definen",
+    "valor": "dignidad del trabajo médico"
+  },
+  {
+    "entidad": "condiciones laborales",
+    "relacion": "son necesarias para",
+    "valor": "entregar atención de calidad"
+  },
+  {
+    "entidad": "respeto humano",
+    "relacion": "implica",
+    "valor": "trato respetuoso en relaciones laborales"
+  },
+  {
+    "entidad": "profesionalismo",
+    "relacion": "supone",
+    "valor": "ejercicio ético de la labor médica"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "se relaciona con",
+    "valor": "desarrollo de un proyecto de vida"
+  },
+  {
+    "entidad": "asociatividad",
+    "relacion": "contribuye a",
+    "valor": "dignificar el trabajo médico"
+  },
+  {
+    "entidad": "sistema de salud",
+    "relacion": "mantiene",
+    "valor": "desigualdades"
+  },
+  {
+    "entidad": "cultura de distinciones",
+    "relacion": "genera",
+    "valor": "jerarquías entre especialidades médicas"
+  },
+  {
+    "entidad": "Estado",
+    "relacion": "debe proveer",
+    "valor": "mejores condiciones laborales"
+  },
+  {
+    "entidad": "diálogo intergeneracional",
+    "relacion": "permite",
+    "valor": "comprender transformaciones en la profesión médica"
+  },
+  {
+    "entidad": "dignidad del trabajo médico",
+    "relacion": "se ve afectada por",
+    "valor": "hiperjudicialización de la medicina"
+  },
+  {
+    "entidad": "discriminación social y de género",
+    "relacion": "afecta",
+    "valor": "dignidad del trabajo médico"
+  },
+  {
+    "entidad": "humanización del trabajo médico",
+    "relacion": "es necesaria para",
+    "valor": "mejorar la atención al paciente"
+  },
+  {
+    "entidad": "mujeres médicas",
+    "relacion": "enfrentan",
+    "valor": "dificultades por razones de género"
+  },
+  {
+    "entidad": "Colegio Médico de Chile",
+    "relacion": "financia",
+    "valor": "estudio sobre dignidad del trabajo médico"
+  }
+]

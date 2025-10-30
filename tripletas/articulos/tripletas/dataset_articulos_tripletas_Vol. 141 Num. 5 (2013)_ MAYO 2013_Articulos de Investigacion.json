@@ -1,0 +1,647 @@
+[
+  {
+    "entidad": "interleuquinas proinflamatorias",
+    "relacion": "aumenta",
+    "valor": "en bronquiolitis por virus respiratorio sincicial"
+  },
+  {
+    "entidad": "cortisol plasmático",
+    "relacion": "aumenta",
+    "valor": "en bronquiolitis por virus respiratorio sincicial"
+  },
+  {
+    "entidad": "bronquiolitis por virus respiratorio sincicial",
+    "relacion": "causa",
+    "valor": "morbilidad y mortalidad en lactantes menores"
+  },
+  {
+    "entidad": "gravedad de la infección",
+    "relacion": "relacionada con",
+    "valor": "enfermedades pre-existentes"
+  },
+  {
+    "entidad": "interleuquinas IL-6",
+    "relacion": "correlaciona con",
+    "valor": "la gravedad de la enfermedad"
+  },
+  {
+    "entidad": "interleuquinas IL-8",
+    "relacion": "correlaciona con",
+    "valor": "la gravedad de la enfermedad"
+  },
+  {
+    "entidad": "interleuquina IL-1β",
+    "relacion": "aumenta",
+    "valor": "en pacientes con bronquiolitis grave"
+  },
+  {
+    "entidad": "cortisol plasmático",
+    "relacion": "correlaciona con",
+    "valor": "niveles de interleuquinas en plasma"
+  },
+  {
+    "entidad": "respuesta inmune innata",
+    "relacion": "implicada en",
+    "valor": "patogénesis de la infección por VRS"
+  },
+  {
+    "entidad": "cortisol",
+    "relacion": "tiene acción",
+    "valor": "antiinflamatoria"
+  },
+  {
+    "entidad": "interleuquinas proinflamatorias",
+    "relacion": "estimulan",
+    "valor": "el eje hipotálamo-hipófisis-suprarrenal"
+  },
+  {
+    "entidad": "cortisol plasmático",
+    "relacion": "aumenta",
+    "valor": "en lactantes con bronquiolitis grave"
+  },
+  {
+    "entidad": "interleuquinas IL-6",
+    "relacion": "mejor correlación con",
+    "valor": "la gravedad clínica"
+  },
+  {
+    "entidad": "interleuquinas IL-8",
+    "relacion": "detectadas en",
+    "valor": "prácticamente todos los pacientes"
+  },
+  {
+    "entidad": "interleuquinas IL-10",
+    "relacion": "detectadas en",
+    "valor": "un tercio de los enfermos"
+  },
+  {
+    "entidad": "corticoides",
+    "relacion": "no tienen acción",
+    "valor": "antiinflamatoria en bronquiolitis por VRS"
+  },
+  {
+    "entidad": "Plan AUGE (GES)",
+    "relacion": "incluye",
+    "valor": "tratamiento de la anemia en diálisis crónica"
+  },
+  {
+    "entidad": "anemia",
+    "relacion": "afecta a",
+    "valor": "pacientes en diálisis crónica"
+  },
+  {
+    "entidad": "recursos económicos",
+    "relacion": "no se han aprovechado",
+    "valor": "para el tratamiento de la anemia"
+  },
+  {
+    "entidad": "Ministerio de Salud",
+    "relacion": "implementa",
+    "valor": "programa de garantías explícitas de salud"
+  },
+  {
+    "entidad": "Fresenius Medical Care",
+    "relacion": "pertenece a",
+    "valor": "centros de diálisis"
+  },
+  {
+    "entidad": "pacientes anémicos",
+    "relacion": "deben recibir",
+    "valor": "hierro parenteral y eritropoyetina"
+  },
+  {
+    "entidad": "anemia",
+    "relacion": "es causada por",
+    "valor": "insuficiencia renal terminal"
+  },
+  {
+    "entidad": "Fondo Nacional de Salud (Fonasa)",
+    "relacion": "financia",
+    "valor": "tratamiento de anemia"
+  },
+  {
+    "entidad": "anemia",
+    "relacion": "no ha sido corregida en",
+    "valor": "la mayoría de los SSM"
+  },
+  {
+    "entidad": "SSM Oriente",
+    "relacion": "logra",
+    "valor": "reducir la proporción de anémicos"
+  },
+  {
+    "entidad": "plan AUGE",
+    "relacion": "no ha sido eficaz",
+    "valor": "en el tratamiento de la anemia"
+  },
+  {
+    "entidad": "pacientes en diálisis",
+    "relacion": "deben beneficiarse de",
+    "valor": "tratamiento adecuado de la anemia"
+  },
+  {
+    "entidad": "diabetes mellitus tipo 1",
+    "relacion": "asociación con",
+    "valor": "factores ambientales"
+  },
+  {
+    "entidad": "contaminación",
+    "relacion": "podría estar asociada con",
+    "valor": "incidencia de diabetes tipo 1"
+  },
+  {
+    "entidad": "infecciones virales",
+    "relacion": "podrían estar asociadas con",
+    "valor": "incidencia de diabetes tipo 1"
+  },
+  {
+    "entidad": "niños menores de 15 años",
+    "relacion": "diagnosticados con",
+    "valor": "diabetes tipo 1"
+  },
+  {
+    "entidad": "material particulado PPM 2.5",
+    "relacion": "afecta a",
+    "valor": "incidencia de diabetes tipo 1"
+  },
+  {
+    "entidad": "influenza",
+    "relacion": "afecta a",
+    "valor": "incidencia de diabetes tipo 1"
+  },
+  {
+    "entidad": "virus respiratorio sincicial (VSR)",
+    "relacion": "afecta a",
+    "valor": "incidencia de diabetes tipo 1"
+  },
+  {
+    "entidad": "Universidad de Santiago de Chile",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "Fundación de Diabetes Juvenil de Chile",
+    "relacion": "es una",
+    "valor": "fuente de datos"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "suministra",
+    "valor": "tasas de infecciones virales"
+  },
+  {
+    "entidad": "modelo bayesiano de regresión de Poisson",
+    "relacion": "utiliza",
+    "valor": "análisis de datos"
+  },
+  {
+    "entidad": "estudio ecológico",
+    "relacion": "es un",
+    "valor": "tipo de estudio realizado"
+  },
+  {
+    "entidad": "Santiago de Chile",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "proyecto FondecYt 1100075",
+    "relacion": "financiado por",
+    "valor": "Prof. Francisco Pérez-Bravo"
+  },
+  {
+    "entidad": "proyecto dicYt usacH 040975ta",
+    "relacion": "financiado por",
+    "valor": "Prof. Francisco Torres-Avilés"
+  },
+  {
+    "entidad": "Cirugía bariátrica",
+    "relacion": "es",
+    "valor": "tratamiento estándar para la obesidad mórbida"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "implementó",
+    "valor": "programa de cirugía de obesidad"
+  },
+  {
+    "entidad": "bypass gástrico en Y-de-Roux",
+    "relacion": "fue seleccionado como",
+    "valor": "técnica inicial"
+  },
+  {
+    "entidad": "bypass gástrico laparoscópico",
+    "relacion": "fue desarrollado como",
+    "valor": "técnica alternativa"
+  },
+  {
+    "entidad": "banda gástrica ajustable laparoscópica",
+    "relacion": "fue incorporada como",
+    "valor": "técnica adicional"
+  },
+  {
+    "entidad": "gastrectomía en manga laparoscópica",
+    "relacion": "fue introducida como",
+    "valor": "opción quirúrgica"
+  },
+  {
+    "entidad": "programa multidisciplinario",
+    "relacion": "evalúa",
+    "valor": "comorbilidades de pacientes"
+  },
+  {
+    "entidad": "cirujanos digestivos",
+    "relacion": "forman parte de",
+    "valor": "equipo evaluador"
+  },
+  {
+    "entidad": "nutricionistas",
+    "relacion": "forman parte de",
+    "valor": "equipo evaluador"
+  },
+  {
+    "entidad": "psicólogos",
+    "relacion": "forman parte de",
+    "valor": "equipo evaluador"
+  },
+  {
+    "entidad": "kinesiólogos",
+    "relacion": "forman parte de",
+    "valor": "equipo evaluador"
+  },
+  {
+    "entidad": "National Institutes of Health (NIH)",
+    "relacion": "proporciona",
+    "valor": "guías para cirugía bariátrica"
+  },
+  {
+    "entidad": "complicaciones postoperatorias",
+    "relacion": "son menores en",
+    "valor": "técnicas laparoscópicas"
+  },
+  {
+    "entidad": "mortalidad quirúrgica",
+    "relacion": "se considera",
+    "valor": "muerte dentro de 30 días postoperatorio"
+  },
+  {
+    "entidad": "bypass gástrico abierto",
+    "relacion": "presenta",
+    "valor": "mayor tasa de complicaciones"
+  },
+  {
+    "entidad": "bypass gástrico laparoscópico",
+    "relacion": "tiene",
+    "valor": "menor morbilidad"
+  },
+  {
+    "entidad": "gastrectomía en manga",
+    "relacion": "presenta",
+    "valor": "menor incidencia de complicaciones tardías"
+  },
+  {
+    "entidad": "banda gástrica ajustable",
+    "relacion": "tiene",
+    "valor": "mayor morbilidad a largo plazo"
+  },
+  {
+    "entidad": "pérdida del exceso de peso (PEP)",
+    "relacion": "es mayor en",
+    "valor": "bypass gástrico laparoscópico"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "afecta",
+    "valor": "calidad de vida"
+  },
+  {
+    "entidad": "obesidad mórbida",
+    "relacion": "aumenta",
+    "valor": "riesgo de muerte"
+  },
+  {
+    "entidad": "programa de cirugía bariátrica",
+    "relacion": "ha logrado",
+    "valor": "resultados a largo plazo"
+  },
+  {
+    "entidad": "bypass gástrico en Y de Roux",
+    "relacion": "es",
+    "valor": "el procedimiento más efectivo"
+  },
+  {
+    "entidad": "Pancreatitis Aguda",
+    "relacion": "es",
+    "valor": "tercera causa de hospitalización de origen gastrointestinal en Estados Unidos"
+  },
+  {
+    "entidad": "Pancreatitis Aguda",
+    "relacion": "afecta a",
+    "valor": "80% de los pacientes con PA leve"
+  },
+  {
+    "entidad": "Pancreatitis Aguda",
+    "relacion": "causa",
+    "valor": "morbilidad y mortalidad en 20% de los pacientes complicados"
+  },
+  {
+    "entidad": "Mortalidad por Pancreatitis Aguda",
+    "relacion": "varía entre",
+    "valor": "2 y 7%"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "reporta",
+    "valor": "incremento en egresos hospitalarios por PA"
+  },
+  {
+    "entidad": "Hospital Clínico Universidad de Chile",
+    "relacion": "realiza",
+    "valor": "estudio sobre mortalidad por PA"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "fueron divididos en",
+    "valor": "dos grupos por período de hospitalización"
+  },
+  {
+    "entidad": "intervenciones quirúrgicas",
+    "relacion": "realizadas en",
+    "valor": "pacientes con PA"
+  },
+  {
+    "entidad": "guías clínicas locales",
+    "relacion": "implementadas en",
+    "valor": "1999"
+  },
+  {
+    "entidad": "Unidad de Pacientes Críticos",
+    "relacion": "desarrollada en",
+    "valor": "Hospital Clínico Universidad de Chile"
+  },
+  {
+    "entidad": "drenaje percutáneo",
+    "relacion": "utilizado en",
+    "valor": "tratamiento de colecciones infectadas"
+  },
+  {
+    "entidad": "mortalidad por PA",
+    "relacion": "disminuyó en",
+    "valor": "los últimos 10 años"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "asociada a",
+    "valor": "mejor manejo interdisciplinario"
+  },
+  {
+    "entidad": "Pancreatitis Aguda",
+    "relacion": "presenta variaciones en",
+    "valor": "tratamiento entre centros"
+  },
+  {
+    "entidad": "intervenciones quirúrgicas",
+    "relacion": "se realizaron en",
+    "valor": "pacientes con PA grave"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "observada en",
+    "valor": "diferentes años de estudio"
+  },
+  {
+    "entidad": "Hospital Clínico Universidad de Chile",
+    "relacion": "evalúa",
+    "valor": "mortalidad por PA en un período de 20 años"
+  },
+  {
+    "entidad": "personas viviendo con VIH",
+    "relacion": "tienen",
+    "valor": "necesidades educativas"
+  },
+  {
+    "entidad": "profesionales de la salud",
+    "relacion": "atienden",
+    "valor": "personas viviendo con VIH"
+  },
+  {
+    "entidad": "educational programs",
+    "relacion": "deben integrarse",
+    "valor": "en la práctica clínica"
+  },
+  {
+    "entidad": "necesidades educativas",
+    "relacion": "incluyen",
+    "valor": "contenido, metodología, persona, momento, lugar físico"
+  },
+  {
+    "entidad": "falta de tiempo",
+    "relacion": "es una barrera",
+    "valor": "para implementar programas educativos"
+  },
+  {
+    "entidad": "VIH",
+    "relacion": "causa",
+    "valor": "síndrome de inmunodeficiencia adquirida (SIDA)"
+  },
+  {
+    "entidad": "TARV",
+    "relacion": "es un tratamiento",
+    "valor": "para VIH"
+  },
+  {
+    "entidad": "educación",
+    "relacion": "mejora",
+    "valor": "indicadores de salud"
+  },
+  {
+    "entidad": "centro médico",
+    "relacion": "es el lugar",
+    "valor": "para entregar contenidos educativos"
+  },
+  {
+    "entidad": "sala acogedora",
+    "relacion": "es necesaria",
+    "valor": "para desarrollar un programa educativo"
+  },
+  {
+    "entidad": "métodos educativos",
+    "relacion": "incluyen",
+    "valor": "individual y grupal"
+  },
+  {
+    "entidad": "miedo y ansiedad",
+    "relacion": "son aspectos psicológicos",
+    "valor": "que deben ser abordados"
+  },
+  {
+    "entidad": "aspectos de sexualidad",
+    "relacion": "deben ser discutidos",
+    "valor": "en programas educativos"
+  },
+  {
+    "entidad": "personas viviendo con VIH",
+    "relacion": "desean aprender sobre",
+    "valor": "alimentación saludable y manejo del estrés"
+  },
+  {
+    "entidad": "educación",
+    "relacion": "debe ser proporcionada por",
+    "valor": "profesionales de la salud"
+  },
+  {
+    "entidad": "estigmatización",
+    "relacion": "es una barrera",
+    "valor": "para participar en programas educativos"
+  },
+  {
+    "entidad": "Síndrome de muerte súbita del lactante",
+    "relacion": "es",
+    "valor": "la principal causa de muerte en niños menores de un año"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "tiene",
+    "valor": "una tasa de mortalidad por síndrome de muerte súbita del lactante de 0,45 por cada 1.000 nacidos vivos"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "proporciona",
+    "valor": "bases de datos de defunción"
+  },
+  {
+    "entidad": "campaña 'back to sleep'",
+    "relacion": "reduce",
+    "valor": "la mortalidad relacionada con el síndrome de muerte súbita del lactante"
+  },
+  {
+    "entidad": "triple teoría",
+    "relacion": "explica",
+    "valor": "los factores de riesgo del síndrome de muerte súbita del lactante"
+  },
+  {
+    "entidad": "prematurez",
+    "relacion": "es un",
+    "valor": "factor de riesgo para el síndrome de muerte súbita del lactante"
+  },
+  {
+    "entidad": "varones",
+    "relacion": "tienen",
+    "valor": "mayor tasa de síndrome de muerte súbita del lactante que las niñas"
+  },
+  {
+    "entidad": "factores socioeconómicos bajos",
+    "relacion": "están asociados a",
+    "valor": "mayor riesgo de síndrome de muerte súbita del lactante"
+  },
+  {
+    "entidad": "infecciones respiratorias",
+    "relacion": "se asocian a",
+    "valor": "la presencia de apneas en lactantes"
+  },
+  {
+    "entidad": "regiones IX, X, XI y XII",
+    "relacion": "tienen",
+    "valor": "mayor incidencia de síndrome de muerte súbita del lactante"
+  },
+  {
+    "entidad": "autopsias",
+    "relacion": "son necesarias para",
+    "valor": "el diagnóstico del síndrome de muerte súbita del lactante"
+  },
+  {
+    "entidad": "estudios internacionales",
+    "relacion": "han demostrado",
+    "valor": "una disminución en la mortalidad por síndrome de muerte súbita del lactante"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "necesita",
+    "valor": "campañas de prevención para el síndrome de muerte súbita del lactante"
+  },
+  {
+    "entidad": "índice neutrófilo/linfocito",
+    "relacion": "se asocia a",
+    "valor": "peor pronóstico en cáncer de colon etapa II resecado"
+  },
+  {
+    "entidad": "cáncer de colon etapa II",
+    "relacion": "es un",
+    "valor": "tipo de cáncer"
+  },
+  {
+    "entidad": "neutrófilos",
+    "relacion": "son la fuente de",
+    "valor": "factor de crecimiento endotelial (VEGF)"
+  },
+  {
+    "entidad": "factor de crecimiento endotelial (VEGF)",
+    "relacion": "tiene un rol en",
+    "valor": "angiogénesis"
+  },
+  {
+    "entidad": "angiogénesis",
+    "relacion": "aumenta",
+    "valor": "capacidad del tumor para diseminarse"
+  },
+  {
+    "entidad": "linfocitos T",
+    "relacion": "son afectados por",
+    "valor": "linfocitopenia"
+  },
+  {
+    "entidad": "linfocitopenia",
+    "relacion": "afecta",
+    "valor": "pronóstico en cáncer"
+  },
+  {
+    "entidad": "NLR",
+    "relacion": "es un marcador de",
+    "valor": "inflamación"
+  },
+  {
+    "entidad": "NLR",
+    "relacion": "se utiliza para",
+    "valor": "evaluar resultados en pacientes quirúrgicos"
+  },
+  {
+    "entidad": "mortalidad global",
+    "relacion": "es mayor en",
+    "valor": "pacientes con NLR ≥ 5"
+  },
+  {
+    "entidad": "complicaciones perioperatorias",
+    "relacion": "se asocian a",
+    "valor": "NLR elevado"
+  },
+  {
+    "entidad": "sobrevida global",
+    "relacion": "es menor en",
+    "valor": "pacientes con NLR ≥ 5"
+  },
+  {
+    "entidad": "cáncer colorrectal (CCR)",
+    "relacion": "es una",
+    "valor": "neoplasia frecuente"
+  },
+  {
+    "entidad": "quimioterapia adyuvante",
+    "relacion": "se considera en",
+    "valor": "pacientes con factores de peor pronóstico"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "fue aprobado por",
+    "valor": "comité de ética del hospital"
+  },
+  {
+    "entidad": "análisis multivariado",
+    "relacion": "identificó",
+    "valor": "NLR ≥ 5 como predictor de complicaciones"
+  },
+  {
+    "entidad": "método de Kaplan-Meier",
+    "relacion": "se utiliza para",
+    "valor": "análisis de sobrevida"
+  }
+]

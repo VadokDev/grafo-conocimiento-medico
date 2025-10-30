@@ -1,0 +1,962 @@
+[
+  {
+    "entidad": "Facultad de Medicina, Pontificia Universidad Catolica de Chile",
+    "relacion": "pertenece a",
+    "valor": "Pontificia Universidad Catolica de Chile"
+  },
+  {
+    "entidad": "Revista Médica de Chile",
+    "relacion": "publica",
+    "valor": "artículos de investigación"
+  },
+  {
+    "entidad": "Gloria Valdés",
+    "relacion": "es",
+    "valor": "autora del artículo"
+  },
+  {
+    "entidad": "Fernanda Pérez",
+    "relacion": "es",
+    "valor": "autora del artículo"
+  },
+  {
+    "entidad": "Humberto Reyes",
+    "relacion": "es",
+    "valor": "autor del artículo"
+  },
+  {
+    "entidad": "artículos biomédicos",
+    "relacion": "fueron indizados en",
+    "valor": "PubMed"
+  },
+  {
+    "entidad": "1,191 artículos",
+    "relacion": "fueron publicados por",
+    "valor": "investigadores chilenos"
+  },
+  {
+    "entidad": "Biomedicina",
+    "relacion": "incluye",
+    "valor": "estudios en animales, tejidos o células"
+  },
+  {
+    "entidad": "Medicina Clínica",
+    "relacion": "incluye",
+    "valor": "estudios en seres humanos"
+  },
+  {
+    "entidad": "Revista Médica de Chile",
+    "relacion": "concentra",
+    "valor": "mayor número de publicaciones"
+  },
+  {
+    "entidad": "Revista Chilena de Infectología",
+    "relacion": "concentra",
+    "valor": "mayor número de publicaciones"
+  },
+  {
+    "entidad": "artículos en inglés",
+    "relacion": "son más frecuentes en",
+    "valor": "Biomedicina"
+  },
+  {
+    "entidad": "artículos en español",
+    "relacion": "son más frecuentes en",
+    "valor": "Medicina Clínica"
+  },
+  {
+    "entidad": "Journal Impact Factor (JIF)",
+    "relacion": "es utilizado para",
+    "valor": "medir la visibilidad de revistas"
+  },
+  {
+    "entidad": "SCImago Journal Rank (SJR)",
+    "relacion": "es utilizado para",
+    "valor": "medir la visibilidad de revistas"
+  },
+  {
+    "entidad": "Source Normalized Impact per Paper (SNIP)",
+    "relacion": "es utilizado para",
+    "valor": "medir la visibilidad de revistas"
+  },
+  {
+    "entidad": "artículos de investigación",
+    "relacion": "son clasificados como",
+    "valor": "originales o revisiones"
+  },
+  {
+    "entidad": "artículos de revisión",
+    "relacion": "son clasificados como",
+    "valor": "revisiones de tema"
+  },
+  {
+    "entidad": "artículos de casos clínicos",
+    "relacion": "son clasificados como",
+    "valor": "reportes de casos"
+  },
+  {
+    "entidad": "índices cienciométricos",
+    "relacion": "son utilizados por",
+    "valor": "universidades para calificar producción científica"
+  },
+  {
+    "entidad": "investigación biomédica",
+    "relacion": "proporciona",
+    "valor": "nuevos conocimientos sobre salud"
+  },
+  {
+    "entidad": "artículos en inglés",
+    "relacion": "reciben más citas que",
+    "valor": "artículos en español"
+  },
+  {
+    "entidad": "revistas chilenas",
+    "relacion": "reciben menos citas que",
+    "valor": "revistas internacionales"
+  },
+  {
+    "entidad": "Dra. Gloria Valdés",
+    "relacion": "puede ser contactada en",
+    "valor": "gvaldes@med.puc.cl"
+  },
+  {
+    "entidad": "Seguridad Social",
+    "relacion": "afecta a",
+    "valor": "duración del ausentismo laboral"
+  },
+  {
+    "entidad": "Servicio de Salud de Ñuble",
+    "relacion": "realiza",
+    "valor": "análisis de supervivencia"
+  },
+  {
+    "entidad": "FONASA",
+    "relacion": "es un",
+    "valor": "sistema de salud pública en Chile"
+  },
+  {
+    "entidad": "ISAPRE",
+    "relacion": "es un",
+    "valor": "sistema de salud privado en Chile"
+  },
+  {
+    "entidad": "ausentismo laboral",
+    "relacion": "genera",
+    "valor": "costos económicos importantes"
+  },
+  {
+    "entidad": "licencias médicas",
+    "relacion": "se dividen en",
+    "valor": "enfermedad común, accidente, reposo maternal, enfermedad grave del niño, accidente laboral"
+  },
+  {
+    "entidad": "trastornos psiquiátricos",
+    "relacion": "son",
+    "valor": "la mayor patología en licencias médicas"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "influye en",
+    "valor": "número de días de licencia médica"
+  },
+  {
+    "entidad": "género",
+    "relacion": "influye en",
+    "valor": "número de días de licencia médica"
+  },
+  {
+    "entidad": "Subsidio por Incapacidad Laboral (SIL)",
+    "relacion": "es",
+    "valor": "parte del costo por ausentismo laboral"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen",
+    "valor": "mayor ausentismo que hombres"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "tienen",
+    "valor": "menor riesgo de recibir licencia médica"
+  },
+  {
+    "entidad": "trabajadores mayores",
+    "relacion": "tienen",
+    "valor": "mayor probabilidad de ausentarse"
+  },
+  {
+    "entidad": "trabajadores en FONASA",
+    "relacion": "tienen",
+    "valor": "más días de ausentismo que en ISAPRE"
+  },
+  {
+    "entidad": "análisis ANOVA",
+    "relacion": "se utiliza para",
+    "valor": "evaluar días de ausentismo"
+  },
+  {
+    "entidad": "modelo de regresión de Cox",
+    "relacion": "se utiliza para",
+    "valor": "estimar riesgo de duración de licencia"
+  },
+  {
+    "entidad": "cobertura sanitaria",
+    "relacion": "influye en",
+    "valor": "duración de la licencia médica"
+  },
+  {
+    "entidad": "ISAPRE",
+    "relacion": "realiza",
+    "valor": "fiscalización rigurosa de licencias médicas"
+  },
+  {
+    "entidad": "costo de subsidios",
+    "relacion": "está relacionado con",
+    "valor": "cantidad de días de licencia"
+  },
+  {
+    "entidad": "mujeres en ISAPRE",
+    "relacion": "tienen",
+    "valor": "el mismo riesgo de ausentismo que mujeres en FONASA"
+  },
+  {
+    "entidad": "médicos",
+    "relacion": "tienen",
+    "valor": "menor riesgo de recibir licencia médica"
+  },
+  {
+    "entidad": "directivos",
+    "relacion": "tienen",
+    "valor": "menor riesgo de recibir licencia médica"
+  },
+  {
+    "entidad": "intervención centrada en la reducción de factores de riesgo cardiovascular",
+    "relacion": "evalúa",
+    "valor": "efectividad en estudiantes universitarios"
+  },
+  {
+    "entidad": "estudiantes universitarios",
+    "relacion": "participan en",
+    "valor": "intervención de estilo de vida"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "es un",
+    "valor": "factor de riesgo cardiovascular"
+  },
+  {
+    "entidad": "sedentarismo",
+    "relacion": "es un",
+    "valor": "factor de riesgo cardiovascular"
+  },
+  {
+    "entidad": "enfermedades cardiovasculares",
+    "relacion": "son",
+    "valor": "principal causa de morbimortalidad a nivel mundial"
+  },
+  {
+    "entidad": "Universidad Austral de Chile",
+    "relacion": "realiza",
+    "valor": "investigación sobre factores de riesgo cardiovascular"
+  },
+  {
+    "entidad": "intervención",
+    "relacion": "promueve",
+    "valor": "estilos de vida saludables"
+  },
+  {
+    "entidad": "educación sobre estilos de vida saludables",
+    "relacion": "es parte de",
+    "valor": "intervención"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "es parte de",
+    "valor": "intervención"
+  },
+  {
+    "entidad": "glicemia",
+    "relacion": "es un",
+    "valor": "parámetro estudiado"
+  },
+  {
+    "entidad": "colesterol total",
+    "relacion": "es un",
+    "valor": "parámetro estudiado"
+  },
+  {
+    "entidad": "presión arterial",
+    "relacion": "es un",
+    "valor": "parámetro estudiado"
+  },
+  {
+    "entidad": "intervención",
+    "relacion": "resulta en",
+    "valor": "reducción de factores de riesgo cardiovascular"
+  },
+  {
+    "entidad": "consumo de frutas y verduras",
+    "relacion": "es un",
+    "valor": "factor importante en la prevención de ECV"
+  },
+  {
+    "entidad": "programa educativo de promoción de la salud",
+    "relacion": "es",
+    "valor": "una herramienta efectiva para la reducción de FRCV"
+  },
+  {
+    "entidad": "Comité de Ética de la UACh",
+    "relacion": "aprueba",
+    "valor": "estudio"
+  },
+  {
+    "entidad": "Dirección de Investigación y Desarrollo de la Universidad Austral de Chile",
+    "relacion": "apoya",
+    "valor": "financieramente el estudio"
+  },
+  {
+    "entidad": "transexualidad",
+    "relacion": "es un",
+    "valor": "estado de identidad de género"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "carece de",
+    "valor": "ley sobre reconocimiento de identidad de género"
+  },
+  {
+    "entidad": "Ley Nº 17.344",
+    "relacion": "autoriza",
+    "valor": "cambio de nombre"
+  },
+  {
+    "entidad": "personas transexuales",
+    "relacion": "solicitan",
+    "valor": "reconocimiento legal de su identidad"
+  },
+  {
+    "entidad": "disforia de género",
+    "relacion": "afecta a",
+    "valor": "personas transexuales"
+  },
+  {
+    "entidad": "ciencias de la salud",
+    "relacion": "complementa",
+    "valor": "saber jurídico"
+  },
+  {
+    "entidad": "intervención psicológica",
+    "relacion": "ayuda a",
+    "valor": "comprender y aceptar la identidad de género"
+  },
+  {
+    "entidad": "endocrinología",
+    "relacion": "provee",
+    "valor": "tratamientos hormonales"
+  },
+  {
+    "entidad": "procedimiento judicial de cambio de nombre",
+    "relacion": "proporciona",
+    "valor": "reconocimiento legal a personas transexuales"
+  },
+  {
+    "entidad": "tribunales chilenos",
+    "relacion": "aceptan",
+    "valor": "solicitudes de cambio de nombre y sexo"
+  },
+  {
+    "entidad": "bienestar de personas transexuales",
+    "relacion": "es mejorado por",
+    "valor": "reconocimiento legal"
+  },
+  {
+    "entidad": "empatía judicial",
+    "relacion": "facilita",
+    "valor": "flexibilidad en la interpretación de la ley"
+  },
+  {
+    "entidad": "cirugía de reasignación de sexo",
+    "relacion": "es un requisito para",
+    "valor": "ejercicio del derecho a la identidad de género"
+  },
+  {
+    "entidad": "Instituto de Derecho Público",
+    "relacion": "es parte de",
+    "valor": "Universidad Austral de Chile"
+  },
+  {
+    "entidad": "Fernando Muñoz León",
+    "relacion": "es un",
+    "valor": "abogado y doctor en derecho"
+  },
+  {
+    "entidad": "MEDUC-PG14",
+    "relacion": "es un",
+    "valor": "instrumento para evaluar docentes clínicos de postgrado"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "desarrolla",
+    "valor": "programas de postgrado en medicina"
+  },
+  {
+    "entidad": "retroalimentación",
+    "relacion": "es",
+    "valor": "una herramienta importante para mejorar la docencia"
+  },
+  {
+    "entidad": "evaluación docente",
+    "relacion": "impacta en",
+    "valor": "selección y capacitación docente"
+  },
+  {
+    "entidad": "método de evaluación",
+    "relacion": "es necesario para",
+    "valor": "mejorar la enseñanza"
+  },
+  {
+    "entidad": "instrumentos de evaluación",
+    "relacion": "consideran",
+    "valor": "habilidades docentes"
+  },
+  {
+    "entidad": "categorías",
+    "relacion": "son propuestas en",
+    "valor": "la evaluación docente"
+  },
+  {
+    "entidad": "análisis factorial",
+    "relacion": "muestra",
+    "valor": "estructura de 3 factores"
+  },
+  {
+    "entidad": "alfa de Cronbach",
+    "relacion": "mide",
+    "valor": "la confiabilidad del instrumento"
+  },
+  {
+    "entidad": "expertos en educación médica",
+    "relacion": "participan en",
+    "valor": "la validación del instrumento"
+  },
+  {
+    "entidad": "programas de capacitación docente",
+    "relacion": "son fundamentales para",
+    "valor": "mejorar la docencia"
+  },
+  {
+    "entidad": "instrumento MEDUC-PG14",
+    "relacion": "es",
+    "valor": "el primer instrumento validado en español para postgrado en América Latina"
+  },
+  {
+    "entidad": "residentes",
+    "relacion": "evalúan",
+    "valor": "el desempeño de sus profesores"
+  },
+  {
+    "entidad": "categorías emergentes",
+    "relacion": "son resultado de",
+    "valor": "análisis cualitativo"
+  },
+  {
+    "entidad": "programas de especialidades médicas",
+    "relacion": "son evaluados por",
+    "valor": "el instrumento MEDUC-PG14"
+  },
+  {
+    "entidad": "educación médica",
+    "relacion": "requiere",
+    "valor": "apoyo constante a los profesores clínicos"
+  },
+  {
+    "entidad": "Fuerza prensil de mano",
+    "relacion": "asociación con",
+    "valor": "edad"
+  },
+  {
+    "entidad": "Fuerza prensil de mano",
+    "relacion": "asociación con",
+    "valor": "género"
+  },
+  {
+    "entidad": "Fuerza prensil de mano",
+    "relacion": "asociación con",
+    "valor": "dominancia de extremidad superior"
+  },
+  {
+    "entidad": "adultos mayores autovalentes",
+    "relacion": "insertos en",
+    "valor": "la comunidad"
+  },
+  {
+    "entidad": "sarcopenia",
+    "relacion": "asociada con",
+    "valor": "reducción de masa y función muscular"
+  },
+  {
+    "entidad": "sarcopenia",
+    "relacion": "afecta a",
+    "valor": "desempeño físico y movilidad"
+  },
+  {
+    "entidad": "fuerza prensil de mano",
+    "relacion": "indicador de",
+    "valor": "salud y funcionalidad"
+  },
+  {
+    "entidad": "fuerza prensil de mano",
+    "relacion": "método recomendado para",
+    "valor": "evaluación de fuerza muscular"
+  },
+  {
+    "entidad": "Grupo de Trabajo Europeo sobre Sarcopenia en Personas Mayores (EWGSOP)",
+    "relacion": "define",
+    "valor": "método de medición de fuerza prensil de mano"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "presentan",
+    "valor": "mayor fuerza prensil de mano que mujeres"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "influye en",
+    "valor": "fuerza prensil de mano"
+  },
+  {
+    "entidad": "fuerza prensil de mano",
+    "relacion": "se reduce con",
+    "valor": "la edad"
+  },
+  {
+    "entidad": "fuerza prensil de mano dominante",
+    "relacion": "es mayor que",
+    "valor": "fuerza prensil de mano no-dominante"
+  },
+  {
+    "entidad": "fuerza prensil de mano",
+    "relacion": "se utiliza para",
+    "valor": "evaluar condiciones de salud"
+  },
+  {
+    "entidad": "Fondo Nacional de Investigación en Salud (FONIS)",
+    "relacion": "financia",
+    "valor": "proyecto de investigación"
+  },
+  {
+    "entidad": "Comisión Nacional de Investigación Científica y Tecnológica (CONICYT)",
+    "relacion": "pertenece a",
+    "valor": "Fondo Nacional de Investigación en Salud (FONIS)"
+  },
+  {
+    "entidad": "CECOSF Libertad-Gaete",
+    "relacion": "ubicado en",
+    "valor": "Talcahuano, VIII región Chile"
+  },
+  {
+    "entidad": "Universidad Andrés Bello",
+    "relacion": "aprueba",
+    "valor": "procedimientos del estudio"
+  },
+  {
+    "entidad": "dinamometría de mano",
+    "relacion": "es",
+    "valor": "medición confiable y válida"
+  },
+  {
+    "entidad": "fuerza prensil de mano",
+    "relacion": "se expresa en",
+    "valor": "kilogramos, pondios, milímetros de mercurio y newtons"
+  },
+  {
+    "entidad": "ganancia de peso",
+    "relacion": "influye en",
+    "valor": "sobrevida de injertos y pacientes"
+  },
+  {
+    "entidad": "trasplante renal",
+    "relacion": "realizado en",
+    "valor": "pacientes con enfermedad renal crónica"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "asociada con",
+    "valor": "mayor mortalidad en la población general"
+  },
+  {
+    "entidad": "pacientes trasplantados renales",
+    "relacion": "experimentan",
+    "valor": "ganancia de peso"
+  },
+  {
+    "entidad": "drogas inmunosupresoras",
+    "relacion": "favorecen",
+    "valor": "ganancia de peso"
+  },
+  {
+    "entidad": "aumento de peso",
+    "relacion": "asociado con",
+    "valor": "hipertensión arterial y diabetes mellitus"
+  },
+  {
+    "entidad": "pacientes con sobrepeso u obesidad",
+    "relacion": "tienen",
+    "valor": "menor sobrevida de injertos"
+  },
+  {
+    "entidad": "ganancia de peso significativa",
+    "relacion": "predice",
+    "valor": "pérdida de injertos"
+  },
+  {
+    "entidad": "creatinina plasmática",
+    "relacion": "es menor en",
+    "valor": "pacientes que ganan más de 15% de peso"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "es mayor en",
+    "valor": "pacientes que ganan más de 15% de peso"
+  },
+  {
+    "entidad": "síndrome metabólico",
+    "relacion": "asociado con",
+    "valor": "mayor mortalidad"
+  },
+  {
+    "entidad": "peso al primer control ambulatorio",
+    "relacion": "se registra en",
+    "valor": "pacientes trasplantados"
+  },
+  {
+    "entidad": "hospital Dr. Gustavo Fricke",
+    "relacion": "realiza",
+    "valor": "trasplantes renales"
+  },
+  {
+    "entidad": "estudio de cohortes",
+    "relacion": "evalúa",
+    "valor": "evolución de pacientes trasplantados"
+  },
+  {
+    "entidad": "factor de riesgo",
+    "relacion": "es",
+    "valor": "obesidad en trasplante renal"
+  },
+  {
+    "entidad": "corticoides",
+    "relacion": "aumentan",
+    "valor": "grasa corporal"
+  },
+  {
+    "entidad": "nivel socioeconómico",
+    "relacion": "influye en",
+    "valor": "ganancia de peso"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "afecta a",
+    "valor": "ganancia de peso"
+  },
+  {
+    "entidad": "género",
+    "relacion": "participa en",
+    "valor": "ganancia de peso"
+  },
+  {
+    "entidad": "estado de salud",
+    "relacion": "influye en",
+    "valor": "ganancia de peso"
+  },
+  {
+    "entidad": "insatisfacción laboral",
+    "relacion": "es un",
+    "valor": "predictor del ausentismo"
+  },
+  {
+    "entidad": "ausentismo",
+    "relacion": "es causado por",
+    "valor": "licencias médicas"
+  },
+  {
+    "entidad": "satisfacción laboral",
+    "relacion": "influye en",
+    "valor": "ausentismo"
+  },
+  {
+    "entidad": "cultura organizacional",
+    "relacion": "influye en",
+    "valor": "ausentismo"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "no influye en",
+    "valor": "ausentismo"
+  },
+  {
+    "entidad": "nivel jerárquico",
+    "relacion": "tiene un efecto negativo en",
+    "valor": "ausentismo entre hombres"
+  },
+  {
+    "entidad": "nivel jerárquico",
+    "relacion": "tiene un efecto negligible en",
+    "valor": "ausentismo entre mujeres"
+  },
+  {
+    "entidad": "trabajadores insatisfechos",
+    "relacion": "tienen",
+    "valor": "mayores tasas de ausentismo"
+  },
+  {
+    "entidad": "clima psicológico",
+    "relacion": "afecta a",
+    "valor": "satisfacción laboral"
+  },
+  {
+    "entidad": "satisfacción laboral",
+    "relacion": "es mediadora entre",
+    "valor": "aspectos individuales y situacionales"
+  },
+  {
+    "entidad": "remuneración",
+    "relacion": "se asocia con",
+    "valor": "nivel jerárquico"
+  },
+  {
+    "entidad": "nivel jerárquico",
+    "relacion": "incluye",
+    "valor": "remuneraciones"
+  },
+  {
+    "entidad": "satisfacción laboral",
+    "relacion": "tiene un efecto superior a",
+    "valor": "otros estudios"
+  },
+  {
+    "entidad": "género",
+    "relacion": "afecta a",
+    "valor": "ausentismo"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen mayor probabilidad de",
+    "valor": "ausentarse"
+  },
+  {
+    "entidad": "modelo predictivo",
+    "relacion": "evalúa",
+    "valor": "ausentismo por enfermedades de morbilidad común"
+  },
+  {
+    "entidad": "hospital",
+    "relacion": "es un",
+    "valor": "contexto de alta complejidad"
+  },
+  {
+    "entidad": "trabajo extra",
+    "relacion": "impacta negativamente en",
+    "valor": "satisfacción laboral"
+  },
+  {
+    "entidad": "satisfacción laboral",
+    "relacion": "afecta a",
+    "valor": "calidad de atención de pacientes"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "es un",
+    "valor": "institución educativa"
+  },
+  {
+    "entidad": "terapias complementarias",
+    "relacion": "tienen",
+    "valor": "creciente interés mundial"
+  },
+  {
+    "entidad": "estudiantes de medicina",
+    "relacion": "tienen",
+    "valor": "opiniones sobre terapias complementarias"
+  },
+  {
+    "entidad": "acupuntura",
+    "relacion": "es la",
+    "valor": "terapia más conocida"
+  },
+  {
+    "entidad": "homeopatía",
+    "relacion": "es la",
+    "valor": "segunda terapia más conocida"
+  },
+  {
+    "entidad": "reiki",
+    "relacion": "es la",
+    "valor": "terapia que genera mayor interés"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen",
+    "valor": "mayor conocimiento sobre terapias complementarias"
+  },
+  {
+    "entidad": "estudiantes de medicina",
+    "relacion": "consideran",
+    "valor": "necesario aprender sobre terapias complementarias"
+  },
+  {
+    "entidad": "terapias complementarias",
+    "relacion": "son",
+    "valor": "parte del arsenal terapéutico actual"
+  },
+  {
+    "entidad": "Dra. Paula Bedregal",
+    "relacion": "es",
+    "valor": "autora del estudio"
+  },
+  {
+    "entidad": "encuesta",
+    "relacion": "fue aplicada a",
+    "valor": "estudiantes de primero a quinto año"
+  },
+  {
+    "entidad": "terapias complementarias",
+    "relacion": "son",
+    "valor": "más usadas por mujeres"
+  },
+  {
+    "entidad": "estudiantes de medicina",
+    "relacion": "tienen",
+    "valor": "interés en aprender sobre terapias complementarias"
+  },
+  {
+    "entidad": "terapias complementarias",
+    "relacion": "deben ser",
+    "valor": "integradas en la formación médica"
+  },
+  {
+    "entidad": "estudiantes de medicina",
+    "relacion": "derivarían",
+    "valor": "pacientes a terapias complementarias"
+  },
+  {
+    "entidad": "terapias complementarias",
+    "relacion": "son vistas como",
+    "valor": "útiles para la medicina convencional"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "tienen",
+    "valor": "menor interés en terapias complementarias"
+  },
+  {
+    "entidad": "Universidad de Talca",
+    "relacion": "realizó",
+    "valor": "diagnóstico de la situación de las terapias complementarias en Chile"
+  },
+  {
+    "entidad": "estudiantes de medicina",
+    "relacion": "muestran",
+    "valor": "actitudes favorables hacia terapias complementarias"
+  },
+  {
+    "entidad": "terapias complementarias",
+    "relacion": "son",
+    "valor": "menos conocidas entre estudiantes de medicina"
+  },
+  {
+    "entidad": "medicina mapuche",
+    "relacion": "tiene",
+    "valor": "bajo conocimiento entre estudiantes"
+  },
+  {
+    "entidad": "estudiantes de medicina",
+    "relacion": "reportan",
+    "valor": "experiencia con terapias complementarias"
+  },
+  {
+    "entidad": "terapias complementarias",
+    "relacion": "son",
+    "valor": "consideradas seguras por algunos estudiantes"
+  },
+  {
+    "entidad": "estudiantes de medicina",
+    "relacion": "tienen",
+    "valor": "opiniones variadas sobre la efectividad de las terapias complementarias"
+  },
+  {
+    "entidad": "cistoscopia flexible",
+    "relacion": "es un",
+    "valor": "procedimiento diagnóstico"
+  },
+  {
+    "entidad": "ciprofloxacino",
+    "relacion": "es un",
+    "valor": "antibiótico"
+  },
+  {
+    "entidad": "profilaxis antibiótica",
+    "relacion": "se utiliza en",
+    "valor": "cistoscopia flexible"
+  },
+  {
+    "entidad": "infección urinaria",
+    "relacion": "puede ser reducida por",
+    "valor": "profilaxis antibiótica"
+  },
+  {
+    "entidad": "bacteriuria",
+    "relacion": "es un",
+    "valor": "síntoma de infección urinaria"
+  },
+  {
+    "entidad": "Grupo 1",
+    "relacion": "recibe",
+    "valor": "ciprofloxacino 500 mg"
+  },
+  {
+    "entidad": "Grupo 2",
+    "relacion": "no recibe",
+    "valor": "profilaxis antibiótica"
+  },
+  {
+    "entidad": "cistoscopia flexible",
+    "relacion": "se realiza con",
+    "valor": "anestesia local"
+  },
+  {
+    "entidad": "Guía Europea de Urología",
+    "relacion": "recomienda",
+    "valor": "profilaxis antibiótica en pacientes de alto riesgo"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "evalúa",
+    "valor": "eficacia de ciprofloxacino"
+  },
+  {
+    "entidad": "cistoscopia flexible",
+    "relacion": "no se asocia con",
+    "valor": "elevada percepción de dolor"
+  },
+  {
+    "entidad": "cistoscopia flexible",
+    "relacion": "sustituyó a",
+    "valor": "cistoscopia rígida"
+  },
+  {
+    "entidad": "Miguel Ángel Arrabal Polo",
+    "relacion": "es un",
+    "valor": "director de tesis"
+  },
+  {
+    "entidad": "María del Carmen Cano-García",
+    "relacion": "realiza",
+    "valor": "tesis doctoral"
+  },
+  {
+    "entidad": "cistoscopia flexible",
+    "relacion": "se utiliza en",
+    "valor": "diagnóstico y seguimiento de patología del tracto urinario inferior"
+  }
+]

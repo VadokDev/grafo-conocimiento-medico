@@ -1,0 +1,197 @@
+[
+  {
+    "entidad": "Aplicaciones móviles (Apps)",
+    "relacion": "pueden ser",
+    "valor": "ayudas efectivas en atención médica"
+  },
+  {
+    "entidad": "Apps de salud",
+    "relacion": "pueden reducir",
+    "valor": "barreras como acceso y costos"
+  },
+  {
+    "entidad": "Apps de salud",
+    "relacion": "se utilizan para",
+    "valor": "monitorear síntomas, comportamientos y tratamientos"
+  },
+  {
+    "entidad": "Uso de Apps",
+    "relacion": "es predominantemente",
+    "valor": "para fines informativos"
+  },
+  {
+    "entidad": "Evaluación de calidad de Apps",
+    "relacion": "debe considerar",
+    "valor": "aspectos clínicos y tecnológicos"
+  },
+  {
+    "entidad": "Uso de tecnología móvil en salud",
+    "relacion": "está aumentando en",
+    "valor": "Chile"
+  },
+  {
+    "entidad": "Comité de Transformación Digital",
+    "relacion": "es parte de",
+    "valor": "Corporación de Fomento de la Producción (CORFO)"
+  },
+  {
+    "entidad": "Centro Nacional en Sistemas de Información en Salud (CENS)",
+    "relacion": "promueve",
+    "valor": "el desarrollo de Apps en salud"
+  },
+  {
+    "entidad": "Apps",
+    "relacion": "pueden facilitar",
+    "valor": "la relación con pacientes con dificultades de acceso"
+  },
+  {
+    "entidad": "Apps",
+    "relacion": "son alternativas de",
+    "valor": "monitoreo no invasivo de la salud"
+  },
+  {
+    "entidad": "Apps",
+    "relacion": "pueden promover",
+    "valor": "la adherencia a tratamientos"
+  },
+  {
+    "entidad": "Apps en salud mental",
+    "relacion": "tienen resultados favorables en",
+    "valor": "temáticas como tabaquismo y esquizofrenia"
+  },
+  {
+    "entidad": "Food and Drug Administration",
+    "relacion": "ha generado",
+    "valor": "guías para evaluar Apps en salud"
+  },
+  {
+    "entidad": "Ley 20.584",
+    "relacion": "regula",
+    "valor": "los derechos y deberes de los pacientes en Chile"
+  },
+  {
+    "entidad": "ASDISAL",
+    "relacion": "es la primera",
+    "valor": "comunidad de startups en Salud Digital en Chile"
+  },
+  {
+    "entidad": "Apps",
+    "relacion": "deben ser evaluadas por",
+    "valor": "criterios estandarizados y universales"
+  },
+  {
+    "entidad": "Desarrollo de Apps",
+    "relacion": "debe incluir",
+    "valor": "a actores involucrados en atención médica"
+  },
+  {
+    "entidad": "Apps",
+    "relacion": "pueden ser utilizadas como",
+    "valor": "terapias digitales"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "tiene avances en",
+    "valor": "uso de internet superior al promedio de América Latina"
+  },
+  {
+    "entidad": "Comité de Transformación Digital",
+    "relacion": "fue cerrado en",
+    "valor": "agosto de 2020"
+  },
+  {
+    "entidad": "CENS",
+    "relacion": "está formado por",
+    "valor": "expertos de cinco universidades chilenas"
+  },
+  {
+    "entidad": "Apps",
+    "relacion": "deben ser diseñadas para",
+    "valor": "ser accesibles y fáciles de usar"
+  },
+  {
+    "entidad": "simulación clínica",
+    "relacion": "es una",
+    "valor": "metodología para enseñar habilidades procedimentales"
+  },
+  {
+    "entidad": "estudiantes de enfermería",
+    "relacion": "deben adquirir",
+    "valor": "habilidades procedimentales"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "afecta",
+    "valor": "el aprendizaje de habilidades procedimentales"
+  },
+  {
+    "entidad": "simulación clínica virtual",
+    "relacion": "ofrece",
+    "valor": "continuidad en el aprendizaje sin riesgo para la salud"
+  },
+  {
+    "entidad": "International Nursing Association for Clinical Simulation and Learning (INACSL)",
+    "relacion": "desarrolla",
+    "valor": "estándares basados en evidencia para simulación clínica"
+  },
+  {
+    "entidad": "simulación clínica",
+    "relacion": "reduce",
+    "valor": "el riesgo de dañar a un paciente durante el entrenamiento"
+  },
+  {
+    "entidad": "entorno controlado",
+    "relacion": "permite",
+    "valor": "practicar habilidades sin riesgo"
+  },
+  {
+    "entidad": "habilidades psicomotoras",
+    "relacion": "se desarrollan a través de",
+    "valor": "simulación clínica"
+  },
+  {
+    "entidad": "educadores de enfermería",
+    "relacion": "deben certificar",
+    "valor": "la seguridad en la ejecución de habilidades"
+  },
+  {
+    "entidad": "simulación clínica remota",
+    "relacion": "se implementa",
+    "valor": "debido a restricciones por COVID-19"
+  },
+  {
+    "entidad": "estudiantes del siglo XXI",
+    "relacion": "son hábiles en",
+    "valor": "el manejo de tecnologías de la información"
+  },
+  {
+    "entidad": "simuladores de alta fidelidad",
+    "relacion": "representan",
+    "valor": "aspectos de la anatomía y fisiología humana"
+  },
+  {
+    "entidad": "práctica clínica real",
+    "relacion": "es importante para",
+    "valor": "el aprendizaje de habilidades procedimentales"
+  },
+  {
+    "entidad": "desafíos actuales en simulación",
+    "relacion": "apuntan a",
+    "valor": "integrar simulación clínica en currículos"
+  },
+  {
+    "entidad": "simulación clínica",
+    "relacion": "se ha fortalecido en",
+    "valor": "Latinoamérica y Chile"
+  },
+  {
+    "entidad": "entrenamiento en simuladores",
+    "relacion": "es menor en",
+    "valor": "Latinoamérica comparado con países desarrollados"
+  },
+  {
+    "entidad": "método de enseñanza",
+    "relacion": "debe adaptarse a",
+    "valor": "las características de las nuevas generaciones"
+  }
+]

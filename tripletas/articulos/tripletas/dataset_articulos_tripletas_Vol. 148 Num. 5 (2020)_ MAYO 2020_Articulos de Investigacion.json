@@ -1,0 +1,742 @@
+[
+  {
+    "entidad": "handgrip isométrico de alta intensidad",
+    "relacion": "es un",
+    "valor": "método de ejercicio"
+  },
+  {
+    "entidad": "adultos mayores",
+    "relacion": "tienen",
+    "valor": "pre-hipertensión"
+  },
+  {
+    "entidad": "hipertensión arterial sistémica etapa I",
+    "relacion": "es una",
+    "valor": "enfermedad"
+  },
+  {
+    "entidad": "ejercicio físico",
+    "relacion": "es recomendado para",
+    "valor": "controlar la presión arterial"
+  },
+  {
+    "entidad": "American Heart Association",
+    "relacion": "recomienda",
+    "valor": "ejercicio isométrico"
+  },
+  {
+    "entidad": "presión arterial",
+    "relacion": "se reduce con",
+    "valor": "ejercicio isométrico"
+  },
+  {
+    "entidad": "protocolo de ejercicio",
+    "relacion": "evalúa",
+    "valor": "efectividad en la reducción de presión arterial"
+  },
+  {
+    "entidad": "Centro de Salud Familiar Doctor Sergio Aguilar Delgado",
+    "relacion": "es un",
+    "valor": "lugar de intervención"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "es",
+    "valor": "cuasi-experimental"
+  },
+  {
+    "entidad": "presión arterial sistólica",
+    "relacion": "disminuye de",
+    "valor": "141 mmHg a 127 mmHg"
+  },
+  {
+    "entidad": "presión arterial diastólica",
+    "relacion": "disminuye de",
+    "valor": "79 mmHg a 74 mmHg"
+  },
+  {
+    "entidad": "ejercicio de handgrip isométrico",
+    "relacion": "genera",
+    "valor": "mejora de la reactividad endotelial"
+  },
+  {
+    "entidad": "ejercicio de handgrip isométrico",
+    "relacion": "aumenta",
+    "valor": "eficacia de la terapia farmacológica antihipertensiva"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "no tiene",
+    "valor": "grupo control"
+  },
+  {
+    "entidad": "ejercicio de handgrip isométrico de alta intensidad",
+    "relacion": "es seguro y fácil de aplicar en",
+    "valor": "adultos mayores pre-hipertensos"
+  },
+  {
+    "entidad": "reducción de presión arterial",
+    "relacion": "es un",
+    "valor": "resultado positivo del entrenamiento"
+  },
+  {
+    "entidad": "cáncer de tiroides",
+    "relacion": "es un",
+    "valor": "tipo de neoplasia"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "incluye",
+    "valor": "cáncer de tiroides en lista de enfermedades con acceso garantizado"
+  },
+  {
+    "entidad": "Instituto Oncológico Fundación Arturo López Pérez",
+    "relacion": "realiza",
+    "valor": "tiroidectomías"
+  },
+  {
+    "entidad": "tiroidectomías",
+    "relacion": "se realizan en",
+    "valor": "Instituto Oncológico Fundación Arturo López Pérez"
+  },
+  {
+    "entidad": "cáncer de tiroides",
+    "relacion": "aumenta",
+    "valor": "en incidencia a nivel mundial"
+  },
+  {
+    "entidad": "Guía Clínica 2015 de la American Thyroid Association",
+    "relacion": "cambia",
+    "valor": "recomendaciones para diagnóstico y tratamiento del nódulo tiroideo"
+  },
+  {
+    "entidad": "cáncer diferenciado y medular del tiroides",
+    "relacion": "es incluido en",
+    "valor": "enfermedades con atención garantizada en Chile"
+  },
+  {
+    "entidad": "histopatología",
+    "relacion": "se utiliza para",
+    "valor": "estimar la incidencia de cáncer de tiroides"
+  },
+  {
+    "entidad": "población en convenio oncológico",
+    "relacion": "es atendida en",
+    "valor": "Instituto Oncológico Fundación Arturo López Pérez"
+  },
+  {
+    "entidad": "cáncer de tiroides",
+    "relacion": "es más frecuente en",
+    "valor": "mujeres"
+  },
+  {
+    "entidad": "carcinoma papilar",
+    "relacion": "es el tipo más frecuente de",
+    "valor": "cáncer de tiroides"
+  },
+  {
+    "entidad": "microtumores",
+    "relacion": "se encuentran en",
+    "valor": "un porcentaje significativo de casos"
+  },
+  {
+    "entidad": "recomendaciones clínicas",
+    "relacion": "mejoran",
+    "valor": "el reconocimiento de ganglios comprometidos"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "es un factor de riesgo para",
+    "valor": "cáncer de tiroides"
+  },
+  {
+    "entidad": "sedentarismo",
+    "relacion": "es un factor de riesgo para",
+    "valor": "cáncer de tiroides"
+  },
+  {
+    "entidad": "diabetes mellitus",
+    "relacion": "es un factor de riesgo para",
+    "valor": "cáncer de tiroides"
+  },
+  {
+    "entidad": "contaminantes químicos",
+    "relacion": "incluyen",
+    "valor": "bisfenol A y cadmio como factores de riesgo para cáncer de tiroides"
+  },
+  {
+    "entidad": "ingesta de yodo",
+    "relacion": "es un factor de riesgo para",
+    "valor": "cáncer de tiroides"
+  },
+  {
+    "entidad": "ingesta excesiva de nitritos",
+    "relacion": "es un factor de riesgo para",
+    "valor": "cáncer de tiroides"
+  },
+  {
+    "entidad": "factores reproductivos en la mujer",
+    "relacion": "son asociados a",
+    "valor": "cáncer de tiroides"
+  },
+  {
+    "entidad": "Tuberculosis (TB)",
+    "relacion": "es",
+    "valor": "una enfermedad infecciosa"
+  },
+  {
+    "entidad": "Virus de Inmunodeficiencia Humana (VIH)",
+    "relacion": "es",
+    "valor": "un virus que causa inmunodeficiencia"
+  },
+  {
+    "entidad": "coinfección por TB/VIH",
+    "relacion": "tiene",
+    "valor": "alta tasa de mortalidad"
+  },
+  {
+    "entidad": "personas con VIH",
+    "relacion": "tienen",
+    "valor": "20 veces mayor riesgo de desarrollar TB activa"
+  },
+  {
+    "entidad": "TB",
+    "relacion": "es",
+    "valor": "la principal causa de muerte por enfermedad infecciosa en personas con VIH"
+  },
+  {
+    "entidad": "Mycobacterium tuberculosis",
+    "relacion": "es detectado en",
+    "valor": "66,7% de autopsias de pacientes con VIH"
+  },
+  {
+    "entidad": "personas seropositivas para el VIH",
+    "relacion": "representan",
+    "valor": "18,8% de muertes por TB"
+  },
+  {
+    "entidad": "migrantes",
+    "relacion": "son",
+    "valor": "un grupo altamente vulnerable a TB/VIH"
+  },
+  {
+    "entidad": "Programa de Control y Eliminación de Tuberculosis (PROCET)",
+    "relacion": "analiza",
+    "valor": "casos de coinfección por TB/VIH"
+  },
+  {
+    "entidad": "Servicios de Salud Metropolitano Central (SSMC)",
+    "relacion": "da cobertura a",
+    "valor": "recinto penitenciario más grande del país"
+  },
+  {
+    "entidad": "efectividad de la terapia antituberculosis",
+    "relacion": "se mide por",
+    "valor": "éxito global, abandono, fracaso y muerte"
+  },
+  {
+    "entidad": "personas con coinfección por TB/VIH",
+    "relacion": "tienen",
+    "valor": "mayor riesgo de morir"
+  },
+  {
+    "entidad": "letalidad por coinfección",
+    "relacion": "es",
+    "valor": "29,7%"
+  },
+  {
+    "entidad": "letalidad por TB en personas sin VIH",
+    "relacion": "es",
+    "valor": "11,6%"
+  },
+  {
+    "entidad": "población migrante",
+    "relacion": "tiene",
+    "valor": "alta tasa de coinfección por TB/VIH"
+  },
+  {
+    "entidad": "proporción de casos de TB/VIH en extranjeros",
+    "relacion": "aumentó de",
+    "valor": "13,8% en 2013 a 45% en 2018"
+  },
+  {
+    "entidad": "factores sociales",
+    "relacion": "aumentan",
+    "valor": "el riesgo de adquirir enfermedades infecciosas"
+  },
+  {
+    "entidad": "sistema de notificación",
+    "relacion": "debe ser",
+    "valor": "eficiente para identificar casos"
+  },
+  {
+    "entidad": "estrategias de prevención y control",
+    "relacion": "son necesarias para",
+    "valor": "grupos vulnerables"
+  },
+  {
+    "entidad": "VIH",
+    "relacion": "requiere",
+    "valor": "vigilancia de segunda generación"
+  },
+  {
+    "entidad": "test diagnósticos",
+    "relacion": "deben ser implementados",
+    "valor": "en el mismo lugar donde se atiende"
+  },
+  {
+    "entidad": "polirradiculoneuropatía desmielinizante inflamatoria crónica (CIDP)",
+    "relacion": "es",
+    "valor": "neuropatía autoinmune periférica más frecuente"
+  },
+  {
+    "entidad": "CIDP",
+    "relacion": "se trata con",
+    "valor": "corticosteroides"
+  },
+  {
+    "entidad": "corticosteroides",
+    "relacion": "son",
+    "valor": "terapia de primera línea"
+  },
+  {
+    "entidad": "corticosteroides",
+    "relacion": "tienen",
+    "valor": "efectos secundarios severos"
+  },
+  {
+    "entidad": "inmunoglobulina",
+    "relacion": "es",
+    "valor": "terapia costosa"
+  },
+  {
+    "entidad": "plasmaféresis",
+    "relacion": "es",
+    "valor": "tratamiento eficaz para CIDP"
+  },
+  {
+    "entidad": "factores asociados",
+    "relacion": "incluyen",
+    "valor": "duración de la enfermedad menor a 1 año"
+  },
+  {
+    "entidad": "daño axonal",
+    "relacion": "afecta a",
+    "valor": "respuesta a tratamiento corticoidal"
+  },
+  {
+    "entidad": "respuesta a corticosteroides",
+    "relacion": "se relaciona con",
+    "valor": "remisión clínica"
+  },
+  {
+    "entidad": "curso evolutivo",
+    "relacion": "afecta a",
+    "valor": "respuesta a tratamiento corticoidal"
+  },
+  {
+    "entidad": "pacientes con CIDP",
+    "relacion": "son tratados con",
+    "valor": "corticosteroides por al menos 6 meses"
+  },
+  {
+    "entidad": "Universidad de Concepción",
+    "relacion": "financia",
+    "valor": "proyecto de investigación"
+  },
+  {
+    "entidad": "Comité Ético Científico del Servicio de Salud Concepción",
+    "relacion": "aprueba",
+    "valor": "consideraciones éticas del estudio"
+  },
+  {
+    "entidad": "método de estudio",
+    "relacion": "es",
+    "valor": "observacional, descriptivo, longitudinal y retrospectivo"
+  },
+  {
+    "entidad": "método de análisis",
+    "relacion": "utiliza",
+    "valor": "pruebas no paramétricas para correlación bivariada"
+  },
+  {
+    "entidad": "respuesta clínica",
+    "relacion": "es",
+    "valor": "variable de interés en el estudio"
+  },
+  {
+    "entidad": "ruido ambiental",
+    "relacion": "puede causar",
+    "valor": "efectos adversos auditivos y no auditivos"
+  },
+  {
+    "entidad": "patrones de ruido ambiental",
+    "relacion": "se identifican en",
+    "valor": "dos sitios urbanos en Santiago, Chile"
+  },
+  {
+    "entidad": "análisis de cluster jerárquico",
+    "relacion": "se utiliza para",
+    "valor": "analizar mediciones de ruido"
+  },
+  {
+    "entidad": "Avenida Independencia",
+    "relacion": "es un",
+    "valor": "sitio con alto tráfico vehicular"
+  },
+  {
+    "entidad": "calle Pío Nono",
+    "relacion": "es un",
+    "valor": "sitio con intensa actividad nocturna"
+  },
+  {
+    "entidad": "patrones de ruido",
+    "relacion": "varían según",
+    "valor": "días de la semana"
+  },
+  {
+    "entidad": "patrones de ruido",
+    "relacion": "varían según",
+    "valor": "estaciones del año"
+  },
+  {
+    "entidad": "niveles de ruido",
+    "relacion": "son altos en",
+    "valor": "ambos sitios"
+  },
+  {
+    "entidad": "niveles de ruido",
+    "relacion": "pueden causar",
+    "valor": "perturbaciones del sueño"
+  },
+  {
+    "entidad": "niveles de ruido",
+    "relacion": "aumentan el riesgo de",
+    "valor": "hipertensión y enfermedades cardiovasculares"
+  },
+  {
+    "entidad": "Unidad de Acústica Ambiental",
+    "relacion": "pertenece a",
+    "valor": "Ministerio de Salud de Chile"
+  },
+  {
+    "entidad": "Universidad de Chile",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "Ministerio de Salud",
+    "relacion": "supervisa",
+    "valor": "la salud pública en la Región Metropolitana"
+  },
+  {
+    "entidad": "método de vinculación promedio",
+    "relacion": "se utiliza en",
+    "valor": "la primera fase del análisis"
+  },
+  {
+    "entidad": "método de vinculación completa",
+    "relacion": "se utiliza en",
+    "valor": "la segunda fase del análisis"
+  },
+  {
+    "entidad": "ruido ambiental",
+    "relacion": "se mide con",
+    "valor": "descriptores acústicos"
+  },
+  {
+    "entidad": "descriptores acústicos",
+    "relacion": "se eligen según",
+    "valor": "normativas y directrices internacionales"
+  },
+  {
+    "entidad": "ruido ambiental",
+    "relacion": "afecta a",
+    "valor": "la salud pública"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "es exploratorio debido a",
+    "valor": "tamaños de muestra pequeños"
+  },
+  {
+    "entidad": "mediciones de ruido",
+    "relacion": "se realizaron en",
+    "valor": "2008 y 2010"
+  },
+  {
+    "entidad": "hospitales públicos",
+    "relacion": "deben garantizar",
+    "valor": "efectividad, eficiencia y eficacia"
+  },
+  {
+    "entidad": "indicadores de gestión",
+    "relacion": "se utilizan para",
+    "valor": "evaluar el desempeño de hospitales"
+  },
+  {
+    "entidad": "modelo de indicadores",
+    "relacion": "fue propuesto para",
+    "valor": "mejorar el desempeño hospitalario"
+  },
+  {
+    "entidad": "hospital en Ecuador",
+    "relacion": "implementó",
+    "valor": "modelo de 95 indicadores"
+  },
+  {
+    "entidad": "indicadores",
+    "relacion": "se agrupan por",
+    "valor": "área o unidad responsable"
+  },
+  {
+    "entidad": "tasa de satisfacción del paciente",
+    "relacion": "es un indicador",
+    "valor": "de calidad"
+  },
+  {
+    "entidad": "encuestas de satisfacción",
+    "relacion": "se aplican a",
+    "valor": "pacientes y profesionales"
+  },
+  {
+    "entidad": "falta de personal",
+    "relacion": "afecta",
+    "valor": "la satisfacción del paciente"
+  },
+  {
+    "entidad": "indicadores de tiempo promedio",
+    "relacion": "miden",
+    "valor": "espera para atención médica"
+  },
+  {
+    "entidad": "tasa de mortalidad hospitalaria",
+    "relacion": "es un indicador",
+    "valor": "de calidad"
+  },
+  {
+    "entidad": "sistemas de información",
+    "relacion": "son necesarios para",
+    "valor": "la recolección de datos"
+  },
+  {
+    "entidad": "hospitales de Chile y Ecuador",
+    "relacion": "fueron estudiados para",
+    "valor": "definir indicadores"
+  },
+  {
+    "entidad": "indicadores de gestión",
+    "relacion": "son clave para",
+    "valor": "la toma de decisiones en salud pública"
+  },
+  {
+    "entidad": "recursos",
+    "relacion": "deben ser utilizados de manera",
+    "valor": "eficiente"
+  },
+  {
+    "entidad": "proceso de acreditación",
+    "relacion": "es realizado por",
+    "valor": "pares externos"
+  },
+  {
+    "entidad": "Ministerio de Salud",
+    "relacion": "fija",
+    "valor": "estándares mínimos para hospitales"
+  },
+  {
+    "entidad": "indicadores de calidad",
+    "relacion": "deben ser aplicados con",
+    "valor": "precisión y cuidado"
+  },
+  {
+    "entidad": "hospital público de Ecuador",
+    "relacion": "fue el lugar de",
+    "valor": "aplicación del modelo"
+  },
+  {
+    "entidad": "falta de información",
+    "relacion": "dificulta",
+    "valor": "la toma de decisiones"
+  },
+  {
+    "entidad": "directivos",
+    "relacion": "deben fomentar",
+    "valor": "la alineación y participación conjunta"
+  },
+  {
+    "entidad": "modelo de gestión",
+    "relacion": "sirve como",
+    "valor": "punto de partida para otros hospitales"
+  },
+  {
+    "entidad": "subtriaje",
+    "relacion": "representa",
+    "valor": "un indicador de calidad de atención"
+  },
+  {
+    "entidad": "Hospital Italiano de Buenos Aires",
+    "relacion": "realiza",
+    "valor": "estudio sobre subtriaje"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "son categorizados por",
+    "valor": "Emergency Severity Index (ESI)"
+  },
+  {
+    "entidad": "subtriaje",
+    "relacion": "expone a",
+    "valor": "empeoramiento de la condición clínica"
+  },
+  {
+    "entidad": "subtriaje",
+    "relacion": "asocia a",
+    "valor": "mayor mortalidad"
+  },
+  {
+    "entidad": "prevalencia de subtriaje",
+    "relacion": "varía entre",
+    "valor": "14% y 38%"
+  },
+  {
+    "entidad": "pacientes mayores de 65 años",
+    "relacion": "son más susceptibles a",
+    "valor": "subtriaje"
+  },
+  {
+    "entidad": "subtriaje",
+    "relacion": "puede ser mejorado por",
+    "valor": "implementación de cambios en el proceso de clasificación"
+  },
+  {
+    "entidad": "mortalidad hospitalaria",
+    "relacion": "no presenta diferencias significativas entre",
+    "valor": "subtriaje y triaje correcto"
+  },
+  {
+    "entidad": "pacientes jóvenes",
+    "relacion": "son",
+    "valor": "subestimados con mayor frecuencia"
+  },
+  {
+    "entidad": "motivos de consulta",
+    "relacion": "más frecuentes en subtriaje",
+    "valor": "enfermedad vascular periférica, enfermedad cerebrovascular, hemorragia digestiva"
+  },
+  {
+    "entidad": "subtriaje",
+    "relacion": "permite reflexionar sobre",
+    "valor": "mejoras en la atención médica"
+  },
+  {
+    "entidad": "Hospital Italiano de Buenos Aires",
+    "relacion": "cuenta con",
+    "valor": "750 camas"
+  },
+  {
+    "entidad": "Unidad de Cuidados Intensivos (UCI)",
+    "relacion": "incluye",
+    "valor": "Unidad Coronaria, Unidad de Cuidados Intermedios, Unidad de Cuidados Intensivos Adulto"
+  },
+  {
+    "entidad": "subtriaje",
+    "relacion": "se define como",
+    "valor": "pacientes asignados a niveles de ESI 3 a 5 que requieren hospitalización en UCI"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "fue aprobado por",
+    "valor": "comité de ética institucional"
+  },
+  {
+    "entidad": "Escala de Dificultades de Regulación Emocional (DERS-E)",
+    "relacion": "proporciona",
+    "valor": "valores de referencia para la población chilena"
+  },
+  {
+    "entidad": "Mónica Guzmán-González",
+    "relacion": "es autora de",
+    "valor": "la investigación"
+  },
+  {
+    "entidad": "Fondo Nacional de Desarrollo Científico y Tecnológico (FONDECYT)",
+    "relacion": "financia",
+    "valor": "proyectos de investigación"
+  },
+  {
+    "entidad": "Universidad Católica del Norte",
+    "relacion": "es parte de",
+    "valor": "la investigación"
+  },
+  {
+    "entidad": "Universidad del Bío-Bío",
+    "relacion": "es parte de",
+    "valor": "la investigación"
+  },
+  {
+    "entidad": "Universidad Católica del Maule",
+    "relacion": "es parte de",
+    "valor": "la investigación"
+  },
+  {
+    "entidad": "Universidad Alberto Hurtado",
+    "relacion": "es parte de",
+    "valor": "la investigación"
+  },
+  {
+    "entidad": "Dificultades de Regulación Emocional (DRE)",
+    "relacion": "se asocia a",
+    "valor": "problemas de salud física y mental"
+  },
+  {
+    "entidad": "depresión",
+    "relacion": "es un tipo de",
+    "valor": "trastorno de salud mental"
+  },
+  {
+    "entidad": "población gay y lesbiana",
+    "relacion": "presenta",
+    "valor": "mayores DRE que la población heterosexual"
+  },
+  {
+    "entidad": "DERS-E",
+    "relacion": "tiene",
+    "valor": "buenas propiedades psicométricas"
+  },
+  {
+    "entidad": "población chilena",
+    "relacion": "requiere",
+    "valor": "normas de interpretación para DERS-E"
+  },
+  {
+    "entidad": "población general",
+    "relacion": "incluye",
+    "valor": "personas autodefinidas como gay o lesbiana"
+  },
+  {
+    "entidad": "puntos de corte",
+    "relacion": "distingue entre",
+    "valor": "personas con altas y bajas DRE"
+  },
+  {
+    "entidad": "estrategias de abordaje",
+    "relacion": "mejoran",
+    "valor": "la salud pública"
+  },
+  {
+    "entidad": "regulación emocional",
+    "relacion": "es un factor relevante en",
+    "valor": "el desarrollo y tratamiento de desórdenes mentales"
+  },
+  {
+    "entidad": "DERS-E",
+    "relacion": "evalúa",
+    "valor": "dificultades en la regulación emocional"
+  },
+  {
+    "entidad": "población adulta chilena",
+    "relacion": "es objeto de estudio en",
+    "valor": "la investigación sobre DERS-E"
+  }
+]

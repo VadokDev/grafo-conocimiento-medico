@@ -1,0 +1,502 @@
+[
+  {
+    "entidad": "Universidad de Chile",
+    "relacion": "pertenece a",
+    "valor": "Sección de Nefrología, Departamento de Medicina"
+  },
+  {
+    "entidad": "Clínica Dávila",
+    "relacion": "pertenece a",
+    "valor": "Departamento de Nefrología"
+  },
+  {
+    "entidad": "London School of Economics and Political Science",
+    "relacion": "pertenece a",
+    "valor": "Care Policy and Evaluation Centre"
+  },
+  {
+    "entidad": "Centro de Nutrición Cardiorenal",
+    "relacion": "se encuentra en",
+    "valor": "Providencia, Santiago, Chile"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "dirige",
+    "valor": "Subsecretaría de Salud Pública"
+  },
+  {
+    "entidad": "Subsecretaría de Salud Pública",
+    "relacion": "pertenece a",
+    "valor": "Ministerio de Salud de Chile"
+  },
+  {
+    "entidad": "División de Prevención y Control de Enfermedades",
+    "relacion": "pertenece a",
+    "valor": "Subsecretaría de Salud Pública"
+  },
+  {
+    "entidad": "enfermedad renal crónica (ERC)",
+    "relacion": "está en aumento en",
+    "valor": "Chile"
+  },
+  {
+    "entidad": "velocidad de filtración glomerular (VFG)",
+    "relacion": "es un",
+    "valor": "indicador para evaluar la ERC"
+  },
+  {
+    "entidad": "velocidad de filtración glomerular estimada (VFGe)",
+    "relacion": "se utiliza para",
+    "valor": "evaluar la función renal"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "afecta a",
+    "valor": "disminución de la VFGe"
+  },
+  {
+    "entidad": "diabetes",
+    "relacion": "exacerba",
+    "valor": "disminución de la VFGe"
+  },
+  {
+    "entidad": "hipertensión",
+    "relacion": "exacerba",
+    "valor": "disminución de la VFGe"
+  },
+  {
+    "entidad": "dislipidemia",
+    "relacion": "exacerba",
+    "valor": "disminución de la VFGe"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "exacerba",
+    "valor": "disminución de la VFGe"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "experimentan",
+    "valor": "deterioro más rápido de la VFGe en comparación con hombres"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "experimentan",
+    "valor": "deterioro más lento de la VFGe en comparación con mujeres"
+  },
+  {
+    "entidad": "tasa de filtración glomerular",
+    "relacion": "disminuye con",
+    "valor": "envejecimiento"
+  },
+  {
+    "entidad": "enfermedades crónicas",
+    "relacion": "aumentan",
+    "valor": "tasa de disminución de la VFGe"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud",
+    "relacion": "es realizada por",
+    "valor": "Ministerio de Salud de Chile"
+  },
+  {
+    "entidad": "CKD-EPI",
+    "relacion": "se utiliza para",
+    "valor": "estimar la VFGe"
+  },
+  {
+    "entidad": "mujeres con enfermedades crónicas",
+    "relacion": "tienen",
+    "valor": "mayor disminución de la VFGe"
+  },
+  {
+    "entidad": "población adulta chilena",
+    "relacion": "es objeto de estudio en",
+    "valor": "disminución de la VFGe"
+  },
+  {
+    "entidad": "comportamiento adaptativo",
+    "relacion": "se relaciona con",
+    "valor": "adiposidad corporal"
+  },
+  {
+    "entidad": "comportamiento adaptativo",
+    "relacion": "se relaciona con",
+    "valor": "aptitud funcional"
+  },
+  {
+    "entidad": "mujeres de la tercera edad",
+    "relacion": "presentan",
+    "valor": "funcionamiento independiente limitado"
+  },
+  {
+    "entidad": "adiposidad corporal",
+    "relacion": "se determina por",
+    "valor": "Índice de masa corporal (IMC)"
+  },
+  {
+    "entidad": "adiposidad corporal",
+    "relacion": "se determina por",
+    "valor": "masa grasa (MG)"
+  },
+  {
+    "entidad": "aptitud funcional",
+    "relacion": "se evalúa por medio de",
+    "valor": "pruebas físicas"
+  },
+  {
+    "entidad": "comportamiento adaptativo",
+    "relacion": "se evalúa utilizando",
+    "valor": "escala Auto-percepción del CA para Mujeres (ACAM)"
+  },
+  {
+    "entidad": "edad cronológica",
+    "relacion": "afecta a",
+    "valor": "comportamiento adaptativo"
+  },
+  {
+    "entidad": "Índice de masa corporal (IMC)",
+    "relacion": "afecta a",
+    "valor": "comportamiento adaptativo"
+  },
+  {
+    "entidad": "masa grasa (MG)",
+    "relacion": "afecta a",
+    "valor": "comportamiento adaptativo"
+  },
+  {
+    "entidad": "agilidad",
+    "relacion": "afecta a",
+    "valor": "comportamiento adaptativo"
+  },
+  {
+    "entidad": "fuerza de piernas",
+    "relacion": "afecta a",
+    "valor": "comportamiento adaptativo"
+  },
+  {
+    "entidad": "flexibilidad",
+    "relacion": "afecta a",
+    "valor": "comportamiento adaptativo"
+  },
+  {
+    "entidad": "mujeres de 65 a 84 años",
+    "relacion": "tienden a",
+    "valor": "disminuir comportamiento adaptativo con la edad"
+  },
+  {
+    "entidad": "mujeres con altos niveles de CA",
+    "relacion": "tienden a tener",
+    "valor": "bajos niveles de adiposidad"
+  },
+  {
+    "entidad": "mujeres con altos niveles de CA",
+    "relacion": "tienden a tener",
+    "valor": "altos niveles de aptitud funcional"
+  },
+  {
+    "entidad": "estrategias",
+    "relacion": "se recomienda implementar",
+    "valor": "prevención y manejo de la adiposidad corporal"
+  },
+  {
+    "entidad": "estrategias",
+    "relacion": "se recomienda implementar",
+    "valor": "programas de ejercicios funcionales"
+  },
+  {
+    "entidad": "estrategias",
+    "relacion": "se recomienda implementar",
+    "valor": "promoción de un estilo de vida saludable"
+  },
+  {
+    "entidad": "ciberacoso",
+    "relacion": "afecta a",
+    "valor": "sintomatología depresiva mayor"
+  },
+  {
+    "entidad": "jóvenes entre 15 y 29 años",
+    "relacion": "son",
+    "valor": "grupo de estudio en Chile"
+  },
+  {
+    "entidad": "Fundación Katy Summer",
+    "relacion": "dirigido por",
+    "valor": "Psicóloga Fernanda Rojas"
+  },
+  {
+    "entidad": "Universidad San Sebastián",
+    "relacion": "emplea",
+    "valor": "Trabajadora Social Constanza Bravo"
+  },
+  {
+    "entidad": "Universidad de Girona",
+    "relacion": "otorga",
+    "valor": "Doctorado en Psicología, Salud y Calidad de Vida a Rafael Miranda"
+  },
+  {
+    "entidad": "Universidad del Desarrollo",
+    "relacion": "dirige",
+    "valor": "Jorge Varela"
+  },
+  {
+    "entidad": "StatKnows",
+    "relacion": "utiliza",
+    "valor": "metodología para recolección de datos"
+  },
+  {
+    "entidad": "Secretaría General de Gobierno - Chile",
+    "relacion": "financia",
+    "valor": "recolección de datos"
+  },
+  {
+    "entidad": "ciberacoso",
+    "relacion": "se manifiesta como",
+    "valor": "burlas, amenazas, extorsiones, hostigamiento"
+  },
+  {
+    "entidad": "ciberacoso",
+    "relacion": "facilita el desarrollo de",
+    "valor": "psicopatologías como estrés y ansiedad"
+  },
+  {
+    "entidad": "ciberacoso",
+    "relacion": "puede generar",
+    "valor": "ideación suicida"
+  },
+  {
+    "entidad": "adultos emergentes",
+    "relacion": "son",
+    "valor": "grupo con mayor acceso a medios tecnológicos"
+  },
+  {
+    "entidad": "ciberacoso",
+    "relacion": "aumenta la probabilidad de",
+    "valor": "sintomatología depresiva"
+  },
+  {
+    "entidad": "apoyo social",
+    "relacion": "mitiga",
+    "valor": "estresores y consecuencias del ciberacoso"
+  },
+  {
+    "entidad": "ciberacoso",
+    "relacion": "es un problema",
+    "valor": "transversal en la juventud y adultez emergente"
+  },
+  {
+    "entidad": "ciberacoso",
+    "relacion": "afecta",
+    "valor": "salud mental"
+  },
+  {
+    "entidad": "Universidad del Desarrollo",
+    "relacion": "apoya",
+    "valor": "proyectos de investigación"
+  },
+  {
+    "entidad": "apnea obstructiva del sueño",
+    "relacion": "aumenta",
+    "valor": "riesgo cardiovascular basal"
+  },
+  {
+    "entidad": "hipoxemia nocturna",
+    "relacion": "aumenta",
+    "valor": "riesgo cardiovascular basal"
+  },
+  {
+    "entidad": "población chilena",
+    "relacion": "es objeto de estudio",
+    "valor": "riesgo cardiovascular"
+  },
+  {
+    "entidad": "índice de eventos respiratorios (IER)",
+    "relacion": "asocia",
+    "valor": "riesgo cardiovascular"
+  },
+  {
+    "entidad": "tiempo de desaturación bajo 90% de SpO2 (CT90%)",
+    "relacion": "asocia",
+    "valor": "riesgo cardiovascular"
+  },
+  {
+    "entidad": "modelo predictivo de Framingham 2008",
+    "relacion": "utiliza",
+    "valor": "para evaluar riesgo cardiovascular"
+  },
+  {
+    "entidad": "dispositivos de presión positiva continua (CPAP)",
+    "relacion": "se utilizan para",
+    "valor": "tratar apnea obstructiva del sueño"
+  },
+  {
+    "entidad": "apnea obstructiva del sueño",
+    "relacion": "asociada a",
+    "valor": "aumento de mortalidad cardiovascular"
+  },
+  {
+    "entidad": "métricas de oximetría nocturna",
+    "relacion": "asociadas a",
+    "valor": "mayor riesgo de mortalidad"
+  },
+  {
+    "entidad": "CT90%",
+    "relacion": "es un marcador de",
+    "valor": "hipoxemia nocturna"
+  },
+  {
+    "entidad": "apnea obstructiva del sueño",
+    "relacion": "afecta",
+    "valor": "calidad de vida"
+  },
+  {
+    "entidad": "Cohorte SantOSA",
+    "relacion": "es un",
+    "valor": "estudio clínico monocéntrico"
+  },
+  {
+    "entidad": "mortalidad cardiovascular",
+    "relacion": "se predice mediante",
+    "valor": "modelos ajustados por IER y CT90%"
+  },
+  {
+    "entidad": "apnea obstructiva del sueño",
+    "relacion": "es una condición",
+    "valor": "médica prevalente"
+  },
+  {
+    "entidad": "mortalidad por todas las causas",
+    "relacion": "se ve influenciada por",
+    "valor": "apnea obstructiva del sueño"
+  },
+  {
+    "entidad": "apnea obstructiva del sueño",
+    "relacion": "actúa como",
+    "valor": "agente desencadenante de enfermedades cardiovasculares"
+  },
+  {
+    "entidad": "análisis longitudinal",
+    "relacion": "realiza",
+    "valor": "para establecer causas de muerte"
+  },
+  {
+    "entidad": "patología cardiovascular",
+    "relacion": "es",
+    "valor": "la primera causa de muerte en Chile"
+  },
+  {
+    "entidad": "nivel socioeconómico",
+    "relacion": "tiene una relación",
+    "valor": "inversa con la morbimortalidad cardiovascular"
+  },
+  {
+    "entidad": "Macro Zona Norte de Chile",
+    "relacion": "carece de",
+    "valor": "información sobre patología cardiovascular"
+  },
+  {
+    "entidad": "FONASA",
+    "relacion": "es",
+    "valor": "el organismo público encargado de otorgar cobertura de salud"
+  },
+  {
+    "entidad": "FONASA",
+    "relacion": "clasifica a los cotizantes",
+    "valor": "en tramos A, B, C y D"
+  },
+  {
+    "entidad": "tramo A",
+    "relacion": "incluye",
+    "valor": "beneficiarios sin recursos o migrantes indocumentados"
+  },
+  {
+    "entidad": "tramo B",
+    "relacion": "incluye",
+    "valor": "personas con ingreso imponible mensual menor o igual a $440.000"
+  },
+  {
+    "entidad": "tramo D",
+    "relacion": "incluye",
+    "valor": "personas con ingreso imponible mensual mayor a $642.400"
+  },
+  {
+    "entidad": "Hospital Regional de Antofagasta",
+    "relacion": "realiza",
+    "valor": "intervenciones quirúrgicas mayores cardiovasculares"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "son",
+    "valor": "más envejecidos y de tramos de menores ingresos"
+  },
+  {
+    "entidad": "migración hacia el tramo A",
+    "relacion": "se observa",
+    "valor": "en los últimos años"
+  },
+  {
+    "entidad": "número de intervenciones",
+    "relacion": "aumenta",
+    "valor": "con una variación porcentual del 117%"
+  },
+  {
+    "entidad": "pacientes mayores de 60 años",
+    "relacion": "representan",
+    "valor": "más del 50% de las intervenciones desde 2017"
+  },
+  {
+    "entidad": "FONASA",
+    "relacion": "reporta",
+    "valor": "más de 14 millones de cotizantes activos en 2019"
+  },
+  {
+    "entidad": "INE",
+    "relacion": "proporciona",
+    "valor": "datos sobre la población de cotizantes"
+  },
+  {
+    "entidad": "desigualdades sanitarias",
+    "relacion": "son definidas por",
+    "valor": "la OMS como evitables"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud (ENS)",
+    "relacion": "estima",
+    "valor": "la prevalencia de condiciones de salud"
+  },
+  {
+    "entidad": "Hospital Regional de Antofagasta",
+    "relacion": "recibe",
+    "valor": "financiamiento municipal para implementación"
+  },
+  {
+    "entidad": "arsénico",
+    "relacion": "es un factor de riesgo",
+    "valor": "cardiovascular conocido en la región"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "causó",
+    "valor": "una reestructuración de los servicios de salud"
+  },
+  {
+    "entidad": "tramo A",
+    "relacion": "aumentó",
+    "valor": "24,2% en beneficiarios"
+  },
+  {
+    "entidad": "población laboral de Antofagasta",
+    "relacion": "tiene",
+    "valor": "un superávit de empleos del 0.5%"
+  },
+  {
+    "entidad": "FONASA",
+    "relacion": "tenía",
+    "valor": "5.279.626 cotizantes al inicio del estudio"
+  },
+  {
+    "entidad": "FONASA",
+    "relacion": "registra",
+    "valor": "16.023.440 cotizantes en diciembre de 2024"
+  }
+]

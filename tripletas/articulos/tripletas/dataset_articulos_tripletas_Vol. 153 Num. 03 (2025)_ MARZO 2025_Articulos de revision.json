@@ -1,0 +1,212 @@
+[
+  {
+    "entidad": "obesidad",
+    "relacion": "es caracterizada por",
+    "valor": "exceso de grasa corporal"
+  },
+  {
+    "entidad": "índice de masa corporal (IMC)",
+    "relacion": "se utiliza para diagnosticar",
+    "valor": "obesidad"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "se define como",
+    "valor": "IMC superior a 30 kg/m2"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "afecta a",
+    "valor": "millones de personas a nivel mundial"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "impacta en",
+    "valor": "la función respiratoria"
+  },
+  {
+    "entidad": "cambios anatómicos y fisiológicos",
+    "relacion": "son secundarios a",
+    "valor": "obesidad"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "aumenta",
+    "valor": "la resistencia de la vía aérea"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "disminuye",
+    "valor": "la capacidad pulmonar"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "eleva",
+    "valor": "la incidencia de enfermedades cardiorrespiratorias"
+  },
+  {
+    "entidad": "anestesia",
+    "relacion": "puede agravar",
+    "valor": "problemas respiratorios en pacientes obesos"
+  },
+  {
+    "entidad": "técnica quirúrgica",
+    "relacion": "puede agravar",
+    "valor": "problemas respiratorios en pacientes obesos"
+  },
+  {
+    "entidad": "posición del paciente",
+    "relacion": "puede agravar",
+    "valor": "problemas respiratorios en pacientes obesos"
+  },
+  {
+    "entidad": "optimización perioperatoria",
+    "relacion": "es crucial para",
+    "valor": "disminuir complicaciones respiratorias"
+  },
+  {
+    "entidad": "preparación adecuada",
+    "relacion": "es esencial para",
+    "valor": "enfrentar el perioperatorio en pacientes con obesidad"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "se anticipa que aumentará",
+    "valor": "la frecuencia de intervenciones quirúrgicas"
+  },
+  {
+    "entidad": "ventilación mecánica protectora",
+    "relacion": "es un estándar para",
+    "valor": "disminuir eventos adversos intraoperatorios"
+  },
+  {
+    "entidad": "ventilación mecánica",
+    "relacion": "debe ser ajustada a",
+    "valor": "volumen corriente entre 6 a 8 ml/kg"
+  },
+  {
+    "entidad": "PEEP",
+    "relacion": "se recomienda usar junto con",
+    "valor": "maniobras de reclutamiento"
+  },
+  {
+    "entidad": "NIPPV",
+    "relacion": "no está indicado de rutina para",
+    "valor": "todos los pacientes"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "se asocia a",
+    "valor": "mayor incidencia de apnea obstructiva del sueño"
+  },
+  {
+    "entidad": "escala STOP-BANG",
+    "relacion": "se utiliza para",
+    "valor": "evaluar el riesgo de apnea obstructiva del sueño"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "se relaciona con",
+    "valor": "dificultades en el manejo de la vía aérea"
+  },
+  {
+    "entidad": "videolaringoscopio",
+    "relacion": "mejora",
+    "valor": "la intubación orotraqueal en pacientes obesos"
+  },
+  {
+    "entidad": "ultrasonido",
+    "relacion": "se recomienda para",
+    "valor": "preparación de vía aérea quirúrgica"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "aumenta el riesgo de",
+    "valor": "complicaciones respiratorias postoperatorias"
+  },
+  {
+    "entidad": "preparación para la muerte",
+    "relacion": "es un",
+    "valor": "proceso indispensable para acompañar el buen morir"
+  },
+  {
+    "entidad": "preparación para la muerte",
+    "relacion": "afecta a",
+    "valor": "cuidadoras de personas mayores en etapas de fin de vida"
+  },
+  {
+    "entidad": "cuidados paliativos",
+    "relacion": "incluye",
+    "valor": "preparación para la muerte"
+  },
+  {
+    "entidad": "cuidadoras",
+    "relacion": "reportan",
+    "valor": "sobrecarga severa"
+  },
+  {
+    "entidad": "cuidadoras",
+    "relacion": "reportan",
+    "valor": "morbilidad psiquiátrica"
+  },
+  {
+    "entidad": "intervenciones educativas",
+    "relacion": "son importantes para",
+    "valor": "apoyo a personas en fin de vida"
+  },
+  {
+    "entidad": "cuidadoras",
+    "relacion": "experimentan",
+    "valor": "pérdidas durante el transcurso de la enfermedad"
+  },
+  {
+    "entidad": "pérdidas",
+    "relacion": "dejan a",
+    "valor": "cuidadoras en una posición de vulnerabilidad"
+  },
+  {
+    "entidad": "preparación para la muerte",
+    "relacion": "promueve",
+    "valor": "enfrentamiento realista de la situación"
+  },
+  {
+    "entidad": "preparación para la muerte",
+    "relacion": "está asociada a",
+    "valor": "menor riesgo de síntomas depresivos"
+  },
+  {
+    "entidad": "preparación para la muerte",
+    "relacion": "está asociada a",
+    "valor": "mejor calidad de vida durante el proceso de cuidados"
+  },
+  {
+    "entidad": "planificación anticipada de cuidados",
+    "relacion": "mejora",
+    "valor": "preparación de las cuidadoras para la muerte"
+  },
+  {
+    "entidad": "cuidadoras",
+    "relacion": "necesitan",
+    "valor": "apoyo de equipos clínicos"
+  },
+  {
+    "entidad": "intervenciones psicoeducativas",
+    "relacion": "muestran",
+    "valor": "beneficios en el bienestar general"
+  },
+  {
+    "entidad": "cuidadoras",
+    "relacion": "sugieren",
+    "valor": "apoyo cariñoso y empático de los equipos de salud"
+  },
+  {
+    "entidad": "sistemas de cuidados paliativos",
+    "relacion": "deben considerar",
+    "valor": "preparación para la muerte"
+  },
+  {
+    "entidad": "preparación para la muerte",
+    "relacion": "debe ser considerada en",
+    "valor": "acciones de atención médica coherentes con valores y preferencias"
+  }
+]

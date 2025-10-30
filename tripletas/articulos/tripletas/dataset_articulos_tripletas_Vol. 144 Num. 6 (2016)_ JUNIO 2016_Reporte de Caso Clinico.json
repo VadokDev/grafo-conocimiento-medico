@@ -1,0 +1,182 @@
+[
+  {
+    "entidad": "enfermedad de Creutzfeldt-Jakob",
+    "relacion": "es un",
+    "valor": "enfermedad neurodegenerativa"
+  },
+  {
+    "entidad": "Creutzfeldt-Jakob disease",
+    "relacion": "tiene una",
+    "valor": "alta incidencia en Chile"
+  },
+  {
+    "entidad": "patología post mortem",
+    "relacion": "es necesaria para",
+    "valor": "diagnóstico definitivo"
+  },
+  {
+    "entidad": "electroencefalograma",
+    "relacion": "muestra",
+    "valor": "patrón consistente con status epilepticus no convulsivo"
+  },
+  {
+    "entidad": "Hashimoto encephalopathy",
+    "relacion": "es una",
+    "valor": "causa a descartar en demencia rápidamente progresiva"
+  },
+  {
+    "entidad": "proteína 14-3-3",
+    "relacion": "se detecta en",
+    "valor": "líquido cefalorraquídeo"
+  },
+  {
+    "entidad": "diagnóstico de ECJ",
+    "relacion": "se logra mediante",
+    "valor": "estudio histopatológico post mortem"
+  },
+  {
+    "entidad": "demencia rápidamente progresiva",
+    "relacion": "se caracteriza por",
+    "valor": "mioclonías y ataxia"
+  },
+  {
+    "entidad": "resonancia magnética",
+    "relacion": "es una herramienta de",
+    "valor": "apoyo diagnóstico para ECJ"
+  },
+  {
+    "entidad": "corticoides",
+    "relacion": "se utilizan en",
+    "valor": "manejo de encefalopatía respondedora"
+  },
+  {
+    "entidad": "proteína 14-3-3",
+    "relacion": "indica",
+    "valor": "daño cerebral por muerte neuronal"
+  },
+  {
+    "entidad": "RM cerebral",
+    "relacion": "tiene alta",
+    "valor": "sensibilidad y especificidad en diagnóstico de ECJ"
+  },
+  {
+    "entidad": "biopsia",
+    "relacion": "es la única herramienta que",
+    "valor": "confirma diagnóstico de ECJ"
+  },
+  {
+    "entidad": "centro de apoyo diagnóstico",
+    "relacion": "es necesario para",
+    "valor": "analizar información clínica y neuropatológica"
+  },
+  {
+    "entidad": "incidencia de ECJ en Chile",
+    "relacion": "es",
+    "valor": "alta"
+  },
+  {
+    "entidad": "estudios post mortem",
+    "relacion": "han demostrado que",
+    "valor": "casos reportados de ECJ fallecieron por otras patologías tratables"
+  },
+  {
+    "entidad": "Ergotismo",
+    "relacion": "es una",
+    "valor": "enfermedad caracterizada por vasoespasmo arterial periférico"
+  },
+  {
+    "entidad": "Ergotismo",
+    "relacion": "puede causar",
+    "valor": "isquemia crítica"
+  },
+  {
+    "entidad": "Terapia antiretroviral de alta actividad",
+    "relacion": "puede exacerbar",
+    "valor": "la actividad de los alcaloides de ergot"
+  },
+  {
+    "entidad": "Citoquromo P450",
+    "relacion": "es inhibido por",
+    "valor": "la terapia antiretroviral"
+  },
+  {
+    "entidad": "Lamivudina",
+    "relacion": "es un",
+    "valor": "fármaco antirretroviral"
+  },
+  {
+    "entidad": "Zidovudina",
+    "relacion": "es un",
+    "valor": "fármaco antirretroviral"
+  },
+  {
+    "entidad": "Atazanavir",
+    "relacion": "es un",
+    "valor": "fármaco antirretroviral"
+  },
+  {
+    "entidad": "Ritonavir",
+    "relacion": "es un",
+    "valor": "fármaco antirretroviral"
+  },
+  {
+    "entidad": "Cotrimoxazol",
+    "relacion": "es un",
+    "valor": "fármaco antirretroviral"
+  },
+  {
+    "entidad": "Ergotamina",
+    "relacion": "es un",
+    "valor": "preparado utilizado para tratar migrañas"
+  },
+  {
+    "entidad": "Ergotamina",
+    "relacion": "puede causar",
+    "valor": "ergotismo cuando se usa con inhibidores del citoquromo P450"
+  },
+  {
+    "entidad": "Nitroglicerina",
+    "relacion": "es un",
+    "valor": "vasodilatador utilizado en el tratamiento del ergotismo"
+  },
+  {
+    "entidad": "Nifedipina",
+    "relacion": "es un",
+    "valor": "vasodilatador utilizado en el tratamiento del ergotismo"
+  },
+  {
+    "entidad": "Pentoxifilina",
+    "relacion": "es un",
+    "valor": "vasodilatador utilizado en el tratamiento del ergotismo"
+  },
+  {
+    "entidad": "Infección por VIH",
+    "relacion": "requiere",
+    "valor": "terapia antirretroviral"
+  },
+  {
+    "entidad": "Interacciones farmacológicas",
+    "relacion": "son relevantes en",
+    "valor": "pacientes con polifarmacia"
+  },
+  {
+    "entidad": "Ergotismo",
+    "relacion": "debe ser sospechado en",
+    "valor": "pacientes con antecedentes de consumo de ergotamina"
+  },
+  {
+    "entidad": "Diagnóstico de ergotismo",
+    "relacion": "se basa en",
+    "valor": "síntomas clínicos y antecedentes de uso de ergotamina"
+  },
+  {
+    "entidad": "Anticoagulación",
+    "relacion": "es parte del",
+    "valor": "tratamiento del ergotismo"
+  },
+  {
+    "entidad": "Educación sobre interacciones farmacológicas",
+    "relacion": "es importante para",
+    "valor": "prevenir ergotismo"
+  }
+]

@@ -1,0 +1,312 @@
+[
+  {
+    "entidad": "Economía del Comportamiento",
+    "relacion": "es un",
+    "valor": "enfoque para la salud pública"
+  },
+  {
+    "entidad": "empujoncitos",
+    "relacion": "son",
+    "valor": "estrategias de intervención basadas en Economía del Comportamiento"
+  },
+  {
+    "entidad": "salud pública",
+    "relacion": "requiere",
+    "valor": "cambios en el comportamiento"
+  },
+  {
+    "entidad": "enfermedades crónicas no transmisibles (ECNT)",
+    "relacion": "son",
+    "valor": "un reto de salud actual"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "es un",
+    "valor": "factor de riesgo para ECNT"
+  },
+  {
+    "entidad": "alimentación no saludable",
+    "relacion": "es un",
+    "valor": "factor de riesgo para ECNT"
+  },
+  {
+    "entidad": "sedentarismo",
+    "relacion": "es un",
+    "valor": "factor de riesgo para ECNT"
+  },
+  {
+    "entidad": "decisiones de salud",
+    "relacion": "son influenciadas por",
+    "valor": "el contexto"
+  },
+  {
+    "entidad": "incentivos económicos",
+    "relacion": "son utilizados para",
+    "valor": "promover conductas saludables"
+  },
+  {
+    "entidad": "vacunación",
+    "relacion": "es un área de aplicación de",
+    "valor": "empujoncitos"
+  },
+  {
+    "entidad": "campañas de información",
+    "relacion": "son herramientas para",
+    "valor": "fomentar hábitos saludables"
+  },
+  {
+    "entidad": "Universidad de Chile",
+    "relacion": "es un",
+    "valor": "institución involucrada en el estudio"
+  },
+  {
+    "entidad": "Universidad del Bío-Bío",
+    "relacion": "es un",
+    "valor": "institución involucrada en el estudio"
+  },
+  {
+    "entidad": "Richard H. Thaler",
+    "relacion": "recibió",
+    "valor": "Premio Nobel de Ciencias Económicas"
+  },
+  {
+    "entidad": "estrategias basadas en Economía del Comportamiento",
+    "relacion": "demuestran",
+    "valor": "efectividad en salud"
+  },
+  {
+    "entidad": "análisis constante",
+    "relacion": "es necesario para",
+    "valor": "mejorar la toma de decisiones"
+  },
+  {
+    "entidad": "políticas públicas",
+    "relacion": "deben integrar",
+    "valor": "evidencia de investigación académica"
+  },
+  {
+    "entidad": "ciencias de la economía conductual",
+    "relacion": "aplican",
+    "valor": "nuevas herramientas para la salud"
+  },
+  {
+    "entidad": "comportamiento humano",
+    "relacion": "es influenciado por",
+    "valor": "el entorno"
+  },
+  {
+    "entidad": "eficacia de empujoncitos",
+    "relacion": "debe ser comprobada en",
+    "valor": "diferentes contextos"
+  },
+  {
+    "entidad": "investigación adicional",
+    "relacion": "es necesaria para",
+    "valor": "comprender la efectividad de empujoncitos"
+  },
+  {
+    "entidad": "función renal",
+    "relacion": "se evalúa a través de",
+    "valor": "tasa de filtración glomerular y análisis de orina"
+  },
+  {
+    "entidad": "imagenología renal",
+    "relacion": "complementa",
+    "valor": "evaluación de la función renal"
+  },
+  {
+    "entidad": "métodos de imagen",
+    "relacion": "se utilizan para",
+    "valor": "evaluar la función renal"
+  },
+  {
+    "entidad": "ultrasonografía",
+    "relacion": "es un avance en",
+    "valor": "detección temprana de daño renal"
+  },
+  {
+    "entidad": "resonancia magnética",
+    "relacion": "es un avance en",
+    "valor": "detección temprana de daño renal"
+  },
+  {
+    "entidad": "médicos clínicos",
+    "relacion": "deben conocer",
+    "valor": "aplicaciones de técnicas de imagen"
+  },
+  {
+    "entidad": "ecografía renal",
+    "relacion": "es un método de",
+    "valor": "evaluación del parénquima renal"
+  },
+  {
+    "entidad": "tomografía computarizada",
+    "relacion": "es un método de",
+    "valor": "evaluación del parénquima renal"
+  },
+  {
+    "entidad": "resonancia magnética",
+    "relacion": "es un método de",
+    "valor": "evaluación del parénquima renal"
+  },
+  {
+    "entidad": "técnicas de imagen",
+    "relacion": "son útiles para",
+    "valor": "detectar alteraciones en la excreción urinaria"
+  },
+  {
+    "entidad": "fibrosis intersticial",
+    "relacion": "se asocia a",
+    "valor": "caída de la VFG"
+  },
+  {
+    "entidad": "atrofia tubular",
+    "relacion": "se asocia a",
+    "valor": "caída de la VFG"
+  },
+  {
+    "entidad": "donantes renales",
+    "relacion": "son sometidos a",
+    "valor": "análisis exhaustivo de factores clínicos, laboratorio e imágenes"
+  },
+  {
+    "entidad": "volumen glomerular",
+    "relacion": "se asocia a",
+    "valor": "mayor probabilidad de VFG < 60 mL/min/1,73m2"
+  },
+  {
+    "entidad": "elastografía",
+    "relacion": "evalúa",
+    "valor": "elasticidad del tejido renal"
+  },
+  {
+    "entidad": "resonancia magnética funcional",
+    "relacion": "permite evaluar",
+    "valor": "morfología y función renal"
+  },
+  {
+    "entidad": "contraste basado en gadolinio",
+    "relacion": "puede causar",
+    "valor": "fibrosis nefrogénica sistémica"
+  },
+  {
+    "entidad": "técnicas de imagen",
+    "relacion": "ofrecen",
+    "valor": "posibilidad de detectar daño renal precoz"
+  },
+  {
+    "entidad": "modelos predictivos",
+    "relacion": "permiten predecir",
+    "valor": "porcentajes de fibrosis histológica"
+  },
+  {
+    "entidad": "Síndrome de Takotsubo",
+    "relacion": "es un",
+    "valor": "cardiomiopatía aguda"
+  },
+  {
+    "entidad": "Síndrome de Takotsubo",
+    "relacion": "se caracteriza por",
+    "valor": "disfunción ventricular segmentaria transitoria"
+  },
+  {
+    "entidad": "Síndrome de Takotsubo",
+    "relacion": "es desencadenado por",
+    "valor": "estrés emocional o físico severo"
+  },
+  {
+    "entidad": "Síndrome de Takotsubo",
+    "relacion": "afecta principalmente a",
+    "valor": "mujeres postmenopáusicas"
+  },
+  {
+    "entidad": "estrés emocional",
+    "relacion": "es un",
+    "valor": "factor desencadenante común en mujeres"
+  },
+  {
+    "entidad": "estrés físico",
+    "relacion": "es un",
+    "valor": "factor desencadenante común en hombres"
+  },
+  {
+    "entidad": "estrógenos",
+    "relacion": "mejoran",
+    "valor": "el flujo en la microcirculación coronaria"
+  },
+  {
+    "entidad": "disfunción endotelial",
+    "relacion": "causa",
+    "valor": "vasoespasmo microvascular coronario"
+  },
+  {
+    "entidad": "Síndrome de Takotsubo",
+    "relacion": "es indistinguible de",
+    "valor": "síndrome coronario agudo"
+  },
+  {
+    "entidad": "diagnóstico del Síndrome de Takotsubo",
+    "relacion": "se basa en",
+    "valor": "criterios propuestos por la Clínica Mayo"
+  },
+  {
+    "entidad": "resonancia magnética cardíaca",
+    "relacion": "es utilizada para",
+    "valor": "diferenciar el STT del infarto agudo de miocardio"
+  },
+  {
+    "entidad": "Síndrome de Takotsubo",
+    "relacion": "puede causar",
+    "valor": "complicaciones graves"
+  },
+  {
+    "entidad": "tratamiento del Síndrome de Takotsubo",
+    "relacion": "incluye",
+    "valor": "IECA, ARA-II y betabloqueadores"
+  },
+  {
+    "entidad": "Síndrome de Takotsubo",
+    "relacion": "tiene una tasa de recurrencia",
+    "valor": "4-5%"
+  },
+  {
+    "entidad": "Síndrome de Takotsubo",
+    "relacion": "es considerado",
+    "valor": "un síndrome benigno"
+  },
+  {
+    "entidad": "Síndrome de Takotsubo",
+    "relacion": "se presenta con",
+    "valor": "dolor torácico y cambios electrocardiográficos"
+  },
+  {
+    "entidad": "biomarcadores cardíacos",
+    "relacion": "se elevan en",
+    "valor": "el Síndrome de Takotsubo"
+  },
+  {
+    "entidad": "ecocardiografía transtorácica",
+    "relacion": "es la herramienta",
+    "valor": "diagnóstica no invasiva más útil"
+  },
+  {
+    "entidad": "Síndrome de Takotsubo",
+    "relacion": "se asocia con",
+    "valor": "inflamación miocárdica"
+  },
+  {
+    "entidad": "disfunción mitocondrial",
+    "relacion": "se acompaña de",
+    "valor": "alteración en la producción de ATP"
+  },
+  {
+    "entidad": "catecolaminas",
+    "relacion": "inducen",
+    "valor": "disfunción miocárdica"
+  },
+  {
+    "entidad": "Síndrome de Takotsubo",
+    "relacion": "es diagnosticado en",
+    "valor": "0,02% de todas las hospitalizaciones"
+  }
+]

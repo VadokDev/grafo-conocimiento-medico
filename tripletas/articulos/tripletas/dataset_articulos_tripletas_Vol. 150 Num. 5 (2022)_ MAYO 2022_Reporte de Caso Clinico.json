@@ -1,0 +1,162 @@
+[
+  {
+    "entidad": "Ruptura no traumática del bazo",
+    "relacion": "es una forma de",
+    "valor": "presentación de amiloidosis AL"
+  },
+  {
+    "entidad": "amilosis AL",
+    "relacion": "afecta a",
+    "valor": "paciente joven"
+  },
+  {
+    "entidad": "paciente joven",
+    "relacion": "tiene",
+    "valor": "35 años"
+  },
+  {
+    "entidad": "paciente joven",
+    "relacion": "es",
+    "valor": "deportista"
+  },
+  {
+    "entidad": "dolor abdominal agudo",
+    "relacion": "aparece en",
+    "valor": "reposo"
+  },
+  {
+    "entidad": "hemoglobina",
+    "relacion": "muestra",
+    "valor": "6,2 g/dL"
+  },
+  {
+    "entidad": "hematoma esplénico",
+    "relacion": "tiene tamaño de",
+    "valor": "6 x 15 cm"
+  },
+  {
+    "entidad": "esplenectomía total",
+    "relacion": "es realizada para",
+    "valor": "tratar ruptura esplénica"
+  },
+  {
+    "entidad": "amiloidosis AL",
+    "relacion": "se confirma mediante",
+    "valor": "biopsia renal y del bazo"
+  },
+  {
+    "entidad": "tratamiento",
+    "relacion": "incluye",
+    "valor": "bortezomib + ciclofosfamida + dexametasona"
+  },
+  {
+    "entidad": "amiloidosis sistémica",
+    "relacion": "es un",
+    "valor": "trastorno poco frecuente"
+  },
+  {
+    "entidad": "proteínas mal plegadas",
+    "relacion": "se depositan en",
+    "valor": "tejidos"
+  },
+  {
+    "entidad": "ruptura esplénica",
+    "relacion": "puede ser causada por",
+    "valor": "infecciones, neoplasia, patología inflamatoria"
+  },
+  {
+    "entidad": "diagnóstico de ruptura esplénica",
+    "relacion": "representa",
+    "valor": "un desafío para clínicos"
+  },
+  {
+    "entidad": "paciente joven",
+    "relacion": "no presenta",
+    "valor": "signos típicos de amiloidosis AL"
+  },
+  {
+    "entidad": "testosterona",
+    "relacion": "afecta a",
+    "valor": "hipogonadismo hipergonadotrófico"
+  },
+  {
+    "entidad": "hipogonadismo hipergonadotrófico",
+    "relacion": "se presenta en",
+    "valor": "hombres"
+  },
+  {
+    "entidad": "azoospermia",
+    "relacion": "es un",
+    "valor": "síntoma de hipogonadismo"
+  },
+  {
+    "entidad": "nódulo de células de Leydig",
+    "relacion": "es un tipo de",
+    "valor": "tumor testicular"
+  },
+  {
+    "entidad": "excisiones de nódulos testiculares",
+    "relacion": "se realizan en",
+    "valor": "pacientes con nódulos"
+  },
+  {
+    "entidad": "hiperplasia de células de Leydig",
+    "relacion": "se asocia con",
+    "valor": "elevación de LH"
+  },
+  {
+    "entidad": "terapia con testosterona",
+    "relacion": "disminuye",
+    "valor": "LH"
+  },
+  {
+    "entidad": "nódulos testiculares",
+    "relacion": "desaparecen con",
+    "valor": "terapia con testosterona"
+  },
+  {
+    "entidad": "nódulos testiculares",
+    "relacion": "reaparecen con",
+    "valor": "interrupción de terapia"
+  },
+  {
+    "entidad": "síndrome de Sertoli",
+    "relacion": "se caracteriza por",
+    "valor": "ausencia de epitelio germinal"
+  },
+  {
+    "entidad": "mutaciones activadoras de receptores de LH",
+    "relacion": "se han reportado en",
+    "valor": "síndromes genéticos"
+  },
+  {
+    "entidad": "células de Sertoli",
+    "relacion": "se encuentran en",
+    "valor": "tubulos testiculares"
+  },
+  {
+    "entidad": "testosterona undecanoato",
+    "relacion": "es un tipo de",
+    "valor": "tratamiento hormonal"
+  },
+  {
+    "entidad": "ultrasonografía testicular",
+    "relacion": "se utiliza para",
+    "valor": "diagnosticar nódulos"
+  },
+  {
+    "entidad": "hormonas gonadotrópicas",
+    "relacion": "se elevan en",
+    "valor": "hipogonadismo hipergonadotrófico"
+  },
+  {
+    "entidad": "Klinefelter",
+    "relacion": "es un tipo de",
+    "valor": "síndrome genético"
+  },
+  {
+    "entidad": "hombres con hipogonadismo",
+    "relacion": "pueden presentar",
+    "valor": "hiperplasia de células de Leydig"
+  }
+]

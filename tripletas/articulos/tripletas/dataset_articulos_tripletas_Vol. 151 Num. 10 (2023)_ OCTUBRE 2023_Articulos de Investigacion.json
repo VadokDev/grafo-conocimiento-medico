@@ -1,0 +1,662 @@
+[
+  {
+    "entidad": "deterioro cognitivo",
+    "relacion": "afecta a",
+    "valor": "adultos mayores"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud (ENS 2016-2017)",
+    "relacion": "utiliza",
+    "valor": "datos para análisis"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "incrementa",
+    "valor": "riesgo de deterioro cognitivo"
+  },
+  {
+    "entidad": "sexo",
+    "relacion": "no muestra",
+    "valor": "diferencias significativas en deterioro cognitivo"
+  },
+  {
+    "entidad": "autopercepción de memoria",
+    "relacion": "influye en",
+    "valor": "sospecha de deterioro cognitivo"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "presentan",
+    "valor": "menos deterioro cognitivo que hombres"
+  },
+  {
+    "entidad": "deterioro cognitivo",
+    "relacion": "se asocia con",
+    "valor": "edad avanzada"
+  },
+  {
+    "entidad": "deterioro cognitivo",
+    "relacion": "puede evolucionar a",
+    "valor": "demencia o Alzheimer"
+  },
+  {
+    "entidad": "Universidad de Santiago de Chile",
+    "relacion": "financia",
+    "valor": "proyecto de investigación"
+  },
+  {
+    "entidad": "Jairo Vanegas López",
+    "relacion": "es",
+    "valor": "coautor del estudio"
+  },
+  {
+    "entidad": "Mini-Mental Test",
+    "relacion": "mide",
+    "valor": "capacidad cognitiva"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "tienen",
+    "valor": "mayor riesgo de deterioro cognitivo a medida que aumenta la edad"
+  },
+  {
+    "entidad": "deterioro cognitivo",
+    "relacion": "tiene",
+    "valor": "consecuencias psicosociales y de salud"
+  },
+  {
+    "entidad": "envejecimiento poblacional",
+    "relacion": "impacta en",
+    "valor": "políticas públicas"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "experimenta",
+    "valor": "transición demográfica"
+  },
+  {
+    "entidad": "autopercepción negativa de la memoria",
+    "relacion": "asocia con",
+    "valor": "bajo rendimiento cognitivo"
+  },
+  {
+    "entidad": "deterioro cognitivo",
+    "relacion": "se divide en",
+    "valor": "trastorno neurocognitivo mayor y menor"
+  },
+  {
+    "entidad": "cáncer",
+    "relacion": "es",
+    "valor": "la principal causa de muerte en Chile"
+  },
+  {
+    "entidad": "oncología de precisión",
+    "relacion": "permite",
+    "valor": "tratamiento farmacológico más preciso"
+  },
+  {
+    "entidad": "tecnologías avanzadas",
+    "relacion": "se utilizan en",
+    "valor": "diagnóstico molecular"
+  },
+  {
+    "entidad": "secuenciación de próxima generación",
+    "relacion": "es un tipo de",
+    "valor": "tecnología avanzada"
+  },
+  {
+    "entidad": "biomarcadores",
+    "relacion": "son necesarios para",
+    "valor": "diagnóstico de neoplasias"
+  },
+  {
+    "entidad": "Ministerio de Salud",
+    "relacion": "colabora con",
+    "valor": "sociedades científicas en diagnóstico molecular"
+  },
+  {
+    "entidad": "FONASA",
+    "relacion": "ha avanzado en",
+    "valor": "inclusión de prestaciones de diagnóstico molecular"
+  },
+  {
+    "entidad": "diagnóstico molecular",
+    "relacion": "ha ido ganando terreno en",
+    "valor": "programas nacionales de control del cáncer"
+  },
+  {
+    "entidad": "Proyecto Genoma Humano",
+    "relacion": "permitió",
+    "valor": "avanzar en el conocimiento de bases genéticas de enfermedades"
+  },
+  {
+    "entidad": "Atlas del Genoma del Cáncer",
+    "relacion": "ha llevado a",
+    "valor": "un nivel sin precedentes de impacto clínico"
+  },
+  {
+    "entidad": "biopsia líquida",
+    "relacion": "es un complemento a",
+    "valor": "biopsia quirúrgica"
+  },
+  {
+    "entidad": "técnicas de diagnóstico",
+    "relacion": "deben ser implementadas en",
+    "valor": "laboratorios clínicos"
+  },
+  {
+    "entidad": "diagnóstico histopatológico",
+    "relacion": "sigue siendo",
+    "valor": "la línea base del diagnóstico de cáncer"
+  },
+  {
+    "entidad": "cáncer de mama",
+    "relacion": "requiere",
+    "valor": "biomarcadores para guiar terapia"
+  },
+  {
+    "entidad": "cáncer de tiroides",
+    "relacion": "requiere",
+    "valor": "biomarcadores para guiar terapia"
+  },
+  {
+    "entidad": "cáncer de pulmón",
+    "relacion": "requiere",
+    "valor": "biomarcadores para guiar terapia"
+  },
+  {
+    "entidad": "tecnologías de diagnóstico de precisión",
+    "relacion": "son fundamentales para",
+    "valor": "cuidado óptimo del paciente"
+  },
+  {
+    "entidad": "oncología de precisión",
+    "relacion": "transforma",
+    "valor": "atención oncológica"
+  },
+  {
+    "entidad": "diagnóstico molecular",
+    "relacion": "requiere",
+    "valor": "un esfuerzo conjunto de diversos actores"
+  },
+  {
+    "entidad": "estudiantes de salud",
+    "relacion": "requieren",
+    "valor": "buen trato y cuidado humanizado"
+  },
+  {
+    "entidad": "docentes y tutores clínicos",
+    "relacion": "modelan",
+    "valor": "culturas humanizadas"
+  },
+  {
+    "entidad": "maltrato a estudiantes",
+    "relacion": "es evidenciado por",
+    "valor": "investigaciones"
+  },
+  {
+    "entidad": "Unidad de Formación Humanizada",
+    "relacion": "fue implementada en",
+    "valor": "una escuela de enfermería chilena"
+  },
+  {
+    "entidad": "Programa de Acompañamiento al Estudiante de Enfermería (PAEE)",
+    "relacion": "promueve",
+    "valor": "apoyo a estudiantes"
+  },
+  {
+    "entidad": "PAEE",
+    "relacion": "impacta",
+    "valor": "en el ejercicio de un cuidado humanizado"
+  },
+  {
+    "entidad": "estudiantes",
+    "relacion": "desarrollan",
+    "valor": "habilidades transferibles"
+  },
+  {
+    "entidad": "PAEE",
+    "relacion": "es replicable en",
+    "valor": "otras carreras e instituciones"
+  },
+  {
+    "entidad": "formación docente",
+    "relacion": "es necesaria para",
+    "valor": "implementación del PAEE"
+  },
+  {
+    "entidad": "estudiantes",
+    "relacion": "reconocen",
+    "valor": "la influencia de docentes en su cuidado"
+  },
+  {
+    "entidad": "cuidado humanizado",
+    "relacion": "implica",
+    "valor": "reconocer a la persona en su multidimensionalidad"
+  },
+  {
+    "entidad": "estudiantes",
+    "relacion": "mejoran",
+    "valor": "su autoestima y salud mental"
+  },
+  {
+    "entidad": "PAEE",
+    "relacion": "desarrolla",
+    "valor": "habilidades relacionales"
+  },
+  {
+    "entidad": "docentes del PAEE",
+    "relacion": "cuidan",
+    "valor": "humanizadamente a los estudiantes"
+  },
+  {
+    "entidad": "escuela de enfermería",
+    "relacion": "se distingue por",
+    "valor": "su preocupación por los estudiantes"
+  },
+  {
+    "entidad": "estudiantes",
+    "relacion": "valoran",
+    "valor": "el trato digno recibido"
+  },
+  {
+    "entidad": "cuidado humanizado",
+    "relacion": "requiere",
+    "valor": "respeto a los derechos humanos"
+  },
+  {
+    "entidad": "estudiantes",
+    "relacion": "reconocen",
+    "valor": "la importancia de humanizar relaciones"
+  },
+  {
+    "entidad": "PAEE",
+    "relacion": "contribuye a",
+    "valor": "la autogestión académica"
+  },
+  {
+    "entidad": "estudiantes",
+    "relacion": "experimentan",
+    "valor": "un cambio en su percepción del cuidado"
+  },
+  {
+    "entidad": "investigación",
+    "relacion": "aporta a",
+    "valor": "enfrentar problemáticas de estudiantes"
+  },
+  {
+    "entidad": "Esófago de Barrett",
+    "relacion": "es",
+    "valor": "una condición en la que una mucosa columnar metaplásica reemplaza la mucosa escamosa del esófago distal"
+  },
+  {
+    "entidad": "metaplasia intestinal",
+    "relacion": "es un",
+    "valor": "requisito para el diagnóstico de Esófago de Barrett"
+  },
+  {
+    "entidad": "Esófago de Barrett",
+    "relacion": "afecta a",
+    "valor": "aproximadamente 1% de la población general"
+  },
+  {
+    "entidad": "Esófago de Barrett",
+    "relacion": "afecta a",
+    "valor": "hasta 14% de los pacientes con enfermedad por reflujo gastroesofágico"
+  },
+  {
+    "entidad": "Esófago de Barrett",
+    "relacion": "es precursor de",
+    "valor": "adenocarcinoma esofágico"
+  },
+  {
+    "entidad": "adenocarcinoma esofágico",
+    "relacion": "ha aumentado en",
+    "valor": "países occidentales"
+  },
+  {
+    "entidad": "factores de riesgo",
+    "relacion": "para",
+    "valor": "adenocarcinoma esofágico asociado a Esófago de Barrett"
+  },
+  {
+    "entidad": "sexo masculino",
+    "relacion": "es un",
+    "valor": "factor de riesgo para adenocarcinoma esofágico"
+  },
+  {
+    "entidad": "edad > 50 años",
+    "relacion": "es un",
+    "valor": "factor de riesgo para adenocarcinoma esofágico"
+  },
+  {
+    "entidad": "obesidad central",
+    "relacion": "es un",
+    "valor": "factor de riesgo para adenocarcinoma esofágico"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "es un",
+    "valor": "factor de riesgo para adenocarcinoma esofágico"
+  },
+  {
+    "entidad": "tratamiento de Esófago de Barrett no displásico",
+    "relacion": "consiste en",
+    "valor": "cambio de estilo de vida saludable"
+  },
+  {
+    "entidad": "quimioprevención",
+    "relacion": "se realiza con",
+    "valor": "inhibidores de la bomba de protones"
+  },
+  {
+    "entidad": "vigilancia endoscópica",
+    "relacion": "se recomienda cada",
+    "valor": "3 a 5 años"
+  },
+  {
+    "entidad": "pacientes con displasia de bajo grado",
+    "relacion": "deben ser referidos a",
+    "valor": "un centro experto"
+  },
+  {
+    "entidad": "terapia endoscópica",
+    "relacion": "es exitosa en",
+    "valor": "aproximadamente 90% de los pacientes con displasia o cáncer incipiente"
+  },
+  {
+    "entidad": "estenosis esofágica",
+    "relacion": "es un",
+    "valor": "evento adverso principal"
+  },
+  {
+    "entidad": "enfermedad por reflujo gastroesofágico",
+    "relacion": "se define como",
+    "valor": "el reflujo del contenido gástrico hacia el esófago"
+  },
+  {
+    "entidad": "Esófago de Barrett",
+    "relacion": "progresa desde",
+    "valor": "metaplasia intestinal a displasia de bajo grado y alto grado"
+  },
+  {
+    "entidad": "técnicas de resección endoscópica",
+    "relacion": "son",
+    "valor": "mucosectomía y disección submucosa endoscópica"
+  },
+  {
+    "entidad": "ablación por radiofrecuencia",
+    "relacion": "es la",
+    "valor": "terapia ablativa más utilizada"
+  },
+  {
+    "entidad": "cirugía antirreflujo",
+    "relacion": "es eficaz en",
+    "valor": "el manejo sintomático del ERGE"
+  },
+  {
+    "entidad": "esofagectomía",
+    "relacion": "se recomienda para",
+    "valor": "pacientes con adenocarcinoma esofágico con invasión submucosa"
+  },
+  {
+    "entidad": "vigilancia endoscópica",
+    "relacion": "debe realizarse tras",
+    "valor": "la erradicación completa del Esófago de Barrett"
+  },
+  {
+    "entidad": "Disección de arterias cervicales (DAC)",
+    "relacion": "es la",
+    "valor": "primera causa de accidente cerebrovascular isquémico (ACVi) en personas jóvenes"
+  },
+  {
+    "entidad": "ACVi",
+    "relacion": "es causado por",
+    "valor": "disección de arterias cervicales"
+  },
+  {
+    "entidad": "Clasificación de Borgess",
+    "relacion": "se utiliza para",
+    "valor": "caracterizar radiológicamente las DAC"
+  },
+  {
+    "entidad": "Borgess tipo IB",
+    "relacion": "es un factor de riesgo asociado a",
+    "valor": "infarto cerebral"
+  },
+  {
+    "entidad": "sexo masculino",
+    "relacion": "es un factor de riesgo asociado a",
+    "valor": "infarto cerebral"
+  },
+  {
+    "entidad": "uso de anticonceptivos orales",
+    "relacion": "es un factor de riesgo asociado a",
+    "valor": "infarto cerebral"
+  },
+  {
+    "entidad": "síntomas de isquemia",
+    "relacion": "se presentan durante",
+    "valor": "la primera semana en pacientes con DAC"
+  },
+  {
+    "entidad": "ACVi",
+    "relacion": "ocurre en",
+    "valor": "pacientes con DAC"
+  },
+  {
+    "entidad": "factores de riesgo ambientales",
+    "relacion": "incluyen",
+    "valor": "traumas, infecciones recientes, hiperhomocisteinemia, migraña y uso de anticonceptivos"
+  },
+  {
+    "entidad": "factores de riesgo genéticos",
+    "relacion": "se asocian a",
+    "valor": "enfermedades del tejido conectivo"
+  },
+  {
+    "entidad": "ACVi",
+    "relacion": "puede ser",
+    "valor": "recurrente"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "es un factor de riesgo para",
+    "valor": "ACVi"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "es un factor de riesgo para",
+    "valor": "ACVi"
+  },
+  {
+    "entidad": "hipertensión arterial crónica",
+    "relacion": "es un factor de riesgo para",
+    "valor": "ACVi"
+  },
+  {
+    "entidad": "trauma previo",
+    "relacion": "es un factor de riesgo para",
+    "valor": "ACVi"
+  },
+  {
+    "entidad": "síndrome de Horner",
+    "relacion": "es un síntoma de",
+    "valor": "isquemia en DAC"
+  },
+  {
+    "entidad": "días de hospitalización",
+    "relacion": "varía según",
+    "valor": "la presencia de ACVi"
+  },
+  {
+    "entidad": "mRankin",
+    "relacion": "se utiliza para evaluar",
+    "valor": "el estado funcional al alta"
+  },
+  {
+    "entidad": "neuroimagen",
+    "relacion": "se utiliza para",
+    "valor": "diagnosticar ACVi"
+  },
+  {
+    "entidad": "ACVi",
+    "relacion": "no se relaciona con",
+    "valor": "el tipo de arteria disecada"
+  },
+  {
+    "entidad": "uso de condón",
+    "relacion": "es",
+    "valor": "la principal forma de sexo seguro"
+  },
+  {
+    "entidad": "jóvenes chilenos",
+    "relacion": "reportan",
+    "valor": "uso insuficiente de condón"
+  },
+  {
+    "entidad": "Décima Encuesta Nacional de Juventud",
+    "relacion": "revela",
+    "valor": "más de la mitad de los jóvenes usaron condón en su última relación sexual"
+  },
+  {
+    "entidad": "determinantes sociales",
+    "relacion": "afectan",
+    "valor": "uso de condón"
+  },
+  {
+    "entidad": "roles de género",
+    "relacion": "influencian",
+    "valor": "uso de condón"
+  },
+  {
+    "entidad": "sintomatología de salud mental",
+    "relacion": "relacionada con",
+    "valor": "uso de condón"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen",
+    "valor": "menor probabilidad de usar condón"
+  },
+  {
+    "entidad": "personas mayores de 20 años",
+    "relacion": "tienen",
+    "valor": "menor probabilidad de usar condón"
+  },
+  {
+    "entidad": "personas que se identifican con alguna etnia",
+    "relacion": "tienen",
+    "valor": "menor probabilidad de usar condón"
+  },
+  {
+    "entidad": "personas en una relación de pareja",
+    "relacion": "tienen",
+    "valor": "menor probabilidad de usar condón"
+  },
+  {
+    "entidad": "diagnóstico de ITS",
+    "relacion": "reduce",
+    "valor": "probabilidad de usar condón"
+  },
+  {
+    "entidad": "estrategias de promoción de salud sexual",
+    "relacion": "deben tener",
+    "valor": "enfoque en determinantes sociales"
+  },
+  {
+    "entidad": "campañas de comunicación social",
+    "relacion": "deben ser",
+    "valor": "más efectivas"
+  },
+  {
+    "entidad": "Instituto Nacional de la Juventud",
+    "relacion": "facilita",
+    "valor": "uso de bases de datos de la Encuesta Nacional de Juventud"
+  },
+  {
+    "entidad": "pacientes en salas de hospitalización psiquiátrica",
+    "relacion": "presentan",
+    "valor": "complicaciones infecciosas o patologías que simulan un cuadro infeccioso"
+  },
+  {
+    "entidad": "especialistas de infectología",
+    "relacion": "atienden",
+    "valor": "complicaciones infecciosas y no infecciosas"
+  },
+  {
+    "entidad": "estudio observacional",
+    "relacion": "realizado entre",
+    "valor": "2016 y 2021"
+  },
+  {
+    "entidad": "programa de vigilancia antibiótica",
+    "relacion": "detecta",
+    "valor": "la mitad de las condiciones infecciosas"
+  },
+  {
+    "entidad": "visitas infectológicas",
+    "relacion": "permiten",
+    "valor": "asesorar o reorientar el estudio y modificar el tratamiento antibiótico"
+  },
+  {
+    "entidad": "infecciones respiratorias",
+    "relacion": "son",
+    "valor": "la condición más frecuente"
+  },
+  {
+    "entidad": "bacteremia sin foco",
+    "relacion": "es",
+    "valor": "una de las condiciones identificadas"
+  },
+  {
+    "entidad": "síndrome neuroléptico maligno",
+    "relacion": "es",
+    "valor": "una complicación no infecciosa observada"
+  },
+  {
+    "entidad": "HIV",
+    "relacion": "es",
+    "valor": "una comorbilidad frecuente en pacientes psiquiátricos"
+  },
+  {
+    "entidad": "antibióticos",
+    "relacion": "son",
+    "valor": "frecuentemente administrados a pacientes psiquiátricos"
+  },
+  {
+    "entidad": "Hospital Base de Valdivia",
+    "relacion": "es",
+    "valor": "un hospital de referencia regional en Chile"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "contribuye a",
+    "valor": "el conocimiento de enfermedades infecciosas en unidades psiquiátricas"
+  },
+  {
+    "entidad": "pacientes con VIH",
+    "relacion": "pueden experimentar",
+    "valor": "abandonos de terapia"
+  },
+  {
+    "entidad": "sífilis latente",
+    "relacion": "es",
+    "valor": "una condición observada en pacientes psiquiátricos"
+  },
+  {
+    "entidad": "neuroleptic malignant syndrome",
+    "relacion": "puede ser",
+    "valor": "potencialmente mortal"
+  },
+  {
+    "entidad": "intervenciones de infectología",
+    "relacion": "incluyen",
+    "valor": "modificaciones en el tratamiento antimicrobiano"
+  },
+  {
+    "entidad": "evaluaciones por otros especialistas",
+    "relacion": "son solicitadas en",
+    "valor": "una proporción de eventos"
+  }
+]

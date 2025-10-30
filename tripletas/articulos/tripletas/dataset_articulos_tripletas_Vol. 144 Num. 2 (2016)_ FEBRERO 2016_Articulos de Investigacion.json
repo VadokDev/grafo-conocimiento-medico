@@ -1,0 +1,872 @@
+[
+  {
+    "entidad": "cáncer de colon",
+    "relacion": "es",
+    "valor": "neoplasia"
+  },
+  {
+    "entidad": "quimioterapia adyuvante",
+    "relacion": "tiene efecto en",
+    "valor": "sobrevida global"
+  },
+  {
+    "entidad": "5-fluorouracilo",
+    "relacion": "es un",
+    "valor": "tratamiento quimioterapéutico"
+  },
+  {
+    "entidad": "etapa III",
+    "relacion": "se asocia con",
+    "valor": "mejor sobrevida con quimioterapia"
+  },
+  {
+    "entidad": "etapa II",
+    "relacion": "no muestra beneficio en",
+    "valor": "sobrevida con quimioterapia"
+  },
+  {
+    "entidad": "Hospital Clínico de la Universidad Católica de Chile",
+    "relacion": "realiza",
+    "valor": "tratamientos de cáncer de colon"
+  },
+  {
+    "entidad": "MOSAIC",
+    "relacion": "es un",
+    "valor": "estudio sobre quimioterapia"
+  },
+  {
+    "entidad": "NSABP C-07",
+    "relacion": "es un",
+    "valor": "estudio sobre quimioterapia"
+  },
+  {
+    "entidad": "capecitabina",
+    "relacion": "es un",
+    "valor": "alternativa de tratamiento"
+  },
+  {
+    "entidad": "comorbilidades",
+    "relacion": "se consideran en",
+    "valor": "decisión de tratamiento"
+  },
+  {
+    "entidad": "factores de mal pronóstico",
+    "relacion": "se consideran en",
+    "valor": "decisión de tratamiento en etapa II"
+  },
+  {
+    "entidad": "análisis multivariado",
+    "relacion": "se utiliza para",
+    "valor": "detectar variables pronósticas"
+  },
+  {
+    "entidad": "sobrevida libre de enfermedad",
+    "relacion": "se mide a",
+    "valor": "5 años"
+  },
+  {
+    "entidad": "Bruno Nervi",
+    "relacion": "es",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "es",
+    "valor": "institución involucrada"
+  },
+  {
+    "entidad": "Cox proporcional hazard regression model",
+    "relacion": "se utiliza para",
+    "valor": "análisis de supervivencia"
+  },
+  {
+    "entidad": "tumor registry",
+    "relacion": "se revisa en",
+    "valor": "estudio"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "se determina mediante",
+    "valor": "certificados de defunción"
+  },
+  {
+    "entidad": "quimioterapia",
+    "relacion": "se administra según",
+    "valor": "recomendación del oncólogo"
+  },
+  {
+    "entidad": "seguimiento clínico",
+    "relacion": "se realiza con",
+    "valor": "antígeno carcinoembrionario (CEA)"
+  },
+  {
+    "entidad": "esquemas de quimioterapia",
+    "relacion": "incluyen",
+    "valor": "5 FU/LV y FOLFOX"
+  },
+  {
+    "entidad": "cáncer pulmonar",
+    "relacion": "es la",
+    "valor": "neoplasia más común en el mundo"
+  },
+  {
+    "entidad": "cáncer pulmonar",
+    "relacion": "causa",
+    "valor": "la principal causa de muerte por neoplasia"
+  },
+  {
+    "entidad": "tomografía computarizada de tórax",
+    "relacion": "mejora",
+    "valor": "la detección precoz de cáncer pulmonar"
+  },
+  {
+    "entidad": "enfermedad pulmonar obstructiva crónica (EPOC)",
+    "relacion": "aumenta",
+    "valor": "el riesgo de cáncer pulmonar"
+  },
+  {
+    "entidad": "fumadores",
+    "relacion": "tienen",
+    "valor": "mayor riesgo de cáncer pulmonar"
+  },
+  {
+    "entidad": "tomografía computarizada",
+    "relacion": "permite",
+    "valor": "la detección de cáncer en etapas tempranas"
+  },
+  {
+    "entidad": "nódulos pulmonares",
+    "relacion": "son",
+    "valor": "frecuentemente falsos positivos en tomografías"
+  },
+  {
+    "entidad": "pacientes con EPOC",
+    "relacion": "son evaluados con",
+    "valor": "tomografía computarizada para detectar cáncer"
+  },
+  {
+    "entidad": "proyecto Fondecyt 1080671",
+    "relacion": "es financiado por",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "Dr. Fernando Saldías Peñafiel",
+    "relacion": "es el",
+    "valor": "autor principal del estudio"
+  },
+  {
+    "entidad": "Instituto Nacional del Cáncer de los Estados Unidos",
+    "relacion": "financió",
+    "valor": "el ensayo clínico National Lung Screening Trial"
+  },
+  {
+    "entidad": "radiografía de tórax",
+    "relacion": "no reduce",
+    "valor": "la mortalidad por cáncer pulmonar"
+  },
+  {
+    "entidad": "tomografía computarizada de baja dosis",
+    "relacion": "detecta",
+    "valor": "más pacientes con cáncer en estadios precoces"
+  },
+  {
+    "entidad": "nódulos pulmonares",
+    "relacion": "requieren",
+    "valor": "seguimiento en caso de crecimiento"
+  },
+  {
+    "entidad": "cáncer pulmonar",
+    "relacion": "se diagnostica en",
+    "valor": "etapas avanzadas en muchos casos"
+  },
+  {
+    "entidad": "cáncer pulmonar",
+    "relacion": "tiene",
+    "valor": "una baja tasa de sobrevida a 5 años"
+  },
+  {
+    "entidad": "cáncer pulmonar",
+    "relacion": "es asociado a",
+    "valor": "el consumo de tabaco"
+  },
+  {
+    "entidad": "cáncer pulmonar",
+    "relacion": "se relaciona con",
+    "valor": "comorbilidades cardiovasculares y metabólicas"
+  },
+  {
+    "entidad": "cáncer pulmonar",
+    "relacion": "se presenta en",
+    "valor": "pacientes con antecedentes familiares de neoplasia"
+  },
+  {
+    "entidad": "tomografía computarizada",
+    "relacion": "es superior a",
+    "valor": "la radiografía de tórax en la detección de cáncer"
+  },
+  {
+    "entidad": "Eritema nodoso",
+    "relacion": "es un",
+    "valor": "tipo de paniculitis"
+  },
+  {
+    "entidad": "Eritema nodoso",
+    "relacion": "se presenta como",
+    "valor": "nódulos eritematosos violáceos"
+  },
+  {
+    "entidad": "Eritema nodoso",
+    "relacion": "puede ser",
+    "valor": "idiopático o secundario"
+  },
+  {
+    "entidad": "Eritema nodoso",
+    "relacion": "afecta a",
+    "valor": "pacientes hospitalizados"
+  },
+  {
+    "entidad": "Eritema nodoso",
+    "relacion": "asocia con",
+    "valor": "diversas enfermedades y medicamentos"
+  },
+  {
+    "entidad": "Hospital Clínico de la Pontificia Universidad Católica de Chile",
+    "relacion": "realiza",
+    "valor": "estudios sobre eritema nodoso"
+  },
+  {
+    "entidad": "Causas de eritema nodoso",
+    "relacion": "incluyen",
+    "valor": "infecciones, enfermedades autoinmunes, drogas"
+  },
+  {
+    "entidad": "Sarcoidosis",
+    "relacion": "es una",
+    "valor": "causa de eritema nodoso"
+  },
+  {
+    "entidad": "Tuberculosis",
+    "relacion": "es una",
+    "valor": "causa de eritema nodoso"
+  },
+  {
+    "entidad": "Infecciones por Mycoplasma",
+    "relacion": "son",
+    "valor": "causas de eritema nodoso"
+  },
+  {
+    "entidad": "Eritema nodoso",
+    "relacion": "se diagnostica por",
+    "valor": "criterios clínicos o estudio histológico"
+  },
+  {
+    "entidad": "C Reactive Protein",
+    "relacion": "se eleva en",
+    "valor": "casos secundarios de eritema nodoso"
+  },
+  {
+    "entidad": "Leucocitos",
+    "relacion": "se elevan en",
+    "valor": "casos secundarios de eritema nodoso"
+  },
+  {
+    "entidad": "Anticuerpos",
+    "relacion": "se utilizan para",
+    "valor": "diagnóstico de enfermedades autoinmunes"
+  },
+  {
+    "entidad": "Eritema nodoso",
+    "relacion": "requiere",
+    "valor": "un enfoque diagnóstico exhaustivo"
+  },
+  {
+    "entidad": "Comité de Ética",
+    "relacion": "aprueba",
+    "valor": "estudios en el Hospital Clínico"
+  },
+  {
+    "entidad": "Eritema nodoso",
+    "relacion": "se presenta con",
+    "valor": "fiebre, compromiso del estado general y poliartralgias"
+  },
+  {
+    "entidad": "Eritema nodoso",
+    "relacion": "evoluciona en",
+    "valor": "2 a 8 semanas"
+  },
+  {
+    "entidad": "Eritema nodoso",
+    "relacion": "es más frecuente en",
+    "valor": "mujeres"
+  },
+  {
+    "entidad": "Eritema nodoso",
+    "relacion": "se presenta principalmente en",
+    "valor": "personas de 10 a 50 años"
+  },
+  {
+    "entidad": "Hipersensibilidad retardada",
+    "relacion": "es un tipo de",
+    "valor": "reacción asociada al eritema nodoso"
+  },
+  {
+    "entidad": "Anticonceptivos orales",
+    "relacion": "son",
+    "valor": "una posible causa de eritema nodoso"
+  },
+  {
+    "entidad": "Embarazo",
+    "relacion": "es",
+    "valor": "una posible causa de eritema nodoso"
+  },
+  {
+    "entidad": "Eritema nodoso",
+    "relacion": "requiere",
+    "valor": "historia clínica y examen físico"
+  },
+  {
+    "entidad": "Eritema nodoso",
+    "relacion": "puede ser tratado con",
+    "valor": "antiinflamatorios no esteroides"
+  },
+  {
+    "entidad": "estructura familiar",
+    "relacion": "afecta a",
+    "valor": "estado de nutrición en adolescentes"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "persiste en",
+    "valor": "adultez"
+  },
+  {
+    "entidad": "adolescentes",
+    "relacion": "se clasifican en",
+    "valor": "sobrepeso y obesidad"
+  },
+  {
+    "entidad": "familia nuclear simple",
+    "relacion": "predomina en",
+    "valor": "adolescentes con peso normal"
+  },
+  {
+    "entidad": "familia extensa",
+    "relacion": "predomina en",
+    "valor": "adolescentes con sobrepeso y obesidad"
+  },
+  {
+    "entidad": "madre",
+    "relacion": "se encarga de",
+    "valor": "alimentación en familia nuclear simple"
+  },
+  {
+    "entidad": "abuela",
+    "relacion": "se encarga de",
+    "valor": "preparación de alimentos en familia extensa"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud",
+    "relacion": "define",
+    "valor": "familia como unidad básica de organización social"
+  },
+  {
+    "entidad": "estado de nutrición",
+    "relacion": "depende de",
+    "valor": "ingesta y adaptaciones fisiológicas"
+  },
+  {
+    "entidad": "índice de masa corporal (IMC)",
+    "relacion": "es un",
+    "valor": "indicador del estado nutricional"
+  },
+  {
+    "entidad": "sobrepeso y obesidad",
+    "relacion": "se relacionan con",
+    "valor": "dinámica familiar disfuncional"
+  },
+  {
+    "entidad": "adolescentes",
+    "relacion": "presentan",
+    "valor": "mayor riesgo de obesidad en familias disfuncionales"
+  },
+  {
+    "entidad": "patrones alimentarios",
+    "relacion": "son influenciados por",
+    "valor": "contexto familiar"
+  },
+  {
+    "entidad": "cambios económicos y culturales",
+    "relacion": "afectan",
+    "valor": "estructura familiar"
+  },
+  {
+    "entidad": "adolescentes",
+    "relacion": "conviven con",
+    "valor": "individuos con sobrepeso y obesidad"
+  },
+  {
+    "entidad": "familia",
+    "relacion": "es un",
+    "valor": "factor que contribuye a la salud"
+  },
+  {
+    "entidad": "estudio transversal analítico",
+    "relacion": "realizado en",
+    "valor": "adolescentes de Sonora, México"
+  },
+  {
+    "entidad": "Instituto de Nutrición y Tecnología de los Alimentos (INTA)",
+    "relacion": "pertenece a",
+    "valor": "Universidad de Chile"
+  },
+  {
+    "entidad": "Dividendo Social RSE",
+    "relacion": "financia",
+    "valor": "Mutual Chilena de Seguridad"
+  },
+  {
+    "entidad": "trabajadores de la construcción",
+    "relacion": "son un grupo de",
+    "valor": "alto riesgo para enfermedades crónicas no transmisibles (ECNT)"
+  },
+  {
+    "entidad": "intervención educativa nutricional",
+    "relacion": "evalúa",
+    "valor": "impacto en salud y nutrición"
+  },
+  {
+    "entidad": "grupo experimental",
+    "relacion": "recibe",
+    "valor": "educación nutricional"
+  },
+  {
+    "entidad": "grupo control",
+    "relacion": "no recibe",
+    "valor": "educación nutricional"
+  },
+  {
+    "entidad": "mediciones clínicas",
+    "relacion": "se realizan en",
+    "valor": "evaluaciones inicial y final"
+  },
+  {
+    "entidad": "nutricionistas del INTA",
+    "relacion": "realizan",
+    "valor": "encuestas y mediciones"
+  },
+  {
+    "entidad": "intervención educativa",
+    "relacion": "consiste en",
+    "valor": "consejería individual y talleres grupales"
+  },
+  {
+    "entidad": "talleres educativos grupales",
+    "relacion": "son conducidos por",
+    "valor": "especialistas en educación de adultos"
+  },
+  {
+    "entidad": "satisfacción con los talleres grupales",
+    "relacion": "es",
+    "valor": "muy positiva"
+  },
+  {
+    "entidad": "consumo de frutas, verduras y pescado",
+    "relacion": "aumenta en",
+    "valor": "grupo intervenido"
+  },
+  {
+    "entidad": "consumo calórico total",
+    "relacion": "disminuye en",
+    "valor": "grupo intervenido"
+  },
+  {
+    "entidad": "alto consumo de bebidas gaseosas",
+    "relacion": "no cambia en",
+    "valor": "ambos grupos"
+  },
+  {
+    "entidad": "políticas educativas",
+    "relacion": "son necesarias para",
+    "valor": "reducir el consumo de azúcar"
+  },
+  {
+    "entidad": "intervención educativa nutricional",
+    "relacion": "puede tener",
+    "valor": "impacto en la salud de los trabajadores"
+  },
+  {
+    "entidad": "modelo de intervención",
+    "relacion": "es parte de",
+    "valor": "política pública de prevención y promoción de salud laboral"
+  },
+  {
+    "entidad": "Cáncer oral",
+    "relacion": "corresponde a",
+    "valor": "1.6% de todos los casos de cáncer en Chile"
+  },
+  {
+    "entidad": "Carcinoma de células escamosas",
+    "relacion": "es",
+    "valor": "el tipo más frecuente de cáncer oral"
+  },
+  {
+    "entidad": "Displasia epitelial",
+    "relacion": "puede tener",
+    "valor": "potencial aumentado de transformación maligna"
+  },
+  {
+    "entidad": "Desórdenes potencialmente malignos",
+    "relacion": "indican",
+    "valor": "mayor riesgo de desarrollar cáncer"
+  },
+  {
+    "entidad": "Tabaco",
+    "relacion": "es",
+    "valor": "un carcinógeno reconocido"
+  },
+  {
+    "entidad": "Alcohol",
+    "relacion": "puede actuar como",
+    "valor": "promotor de cáncer"
+  },
+  {
+    "entidad": "Edad",
+    "relacion": "aumenta",
+    "valor": "la probabilidad de sufrir lesiones potencialmente malignas"
+  },
+  {
+    "entidad": "Virus papiloma humano",
+    "relacion": "está relacionado con",
+    "valor": "transformación maligna"
+  },
+  {
+    "entidad": "Displasia epitelial severa",
+    "relacion": "tiene",
+    "valor": "mayor probabilidad de transformación maligna"
+  },
+  {
+    "entidad": "Clasificación de la OMS",
+    "relacion": "distingue entre",
+    "valor": "displasia leve, moderada, severa y carcinoma in situ"
+  },
+  {
+    "entidad": "Instituto de Referencia de Patología Oral",
+    "relacion": "pertenece a",
+    "valor": "la Facultad de Odontología, Universidad de Chile"
+  },
+  {
+    "entidad": "Estudio descriptivo retrospectivo",
+    "relacion": "realizó",
+    "valor": "revisión de registros clínicos y placas histológicas"
+  },
+  {
+    "entidad": "Hiperqueratosis",
+    "relacion": "es",
+    "valor": "una condición asociada a displasia epitelial"
+  },
+  {
+    "entidad": "Leucoplasia",
+    "relacion": "es",
+    "valor": "una presentación clínica común de displasia epitelial"
+  },
+  {
+    "entidad": "Carcinoma escamoso",
+    "relacion": "fue más común en",
+    "valor": "hombres mayores de 50 años"
+  },
+  {
+    "entidad": "Diagnóstico temprano",
+    "relacion": "es",
+    "valor": "deficiente en cáncer oral"
+  },
+  {
+    "entidad": "Biopsia",
+    "relacion": "es mandatoria para",
+    "valor": "mejorar el diagnóstico temprano de lesiones"
+  },
+  {
+    "entidad": "Comité de Ética de la Facultad de Odontología",
+    "relacion": "aprobó",
+    "valor": "el estudio retrospectivo"
+  },
+  {
+    "entidad": "Dra. Daniela Adorno Farías",
+    "relacion": "es",
+    "valor": "la autora principal del estudio"
+  },
+  {
+    "entidad": "enfermedad genética",
+    "relacion": "afecta a",
+    "valor": "ingresos hospitalarios en pediatría"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "tiene",
+    "valor": "división de Pediatría"
+  },
+  {
+    "entidad": "Hospital Clínico Pontificia Universidad Católica de Chile",
+    "relacion": "es un",
+    "valor": "centro de alta complejidad"
+  },
+  {
+    "entidad": "pacientes con enfermedad genética",
+    "relacion": "tienen",
+    "valor": "mayor riesgo de rehospitalización"
+  },
+  {
+    "entidad": "rehospitalizaciones",
+    "relacion": "son más comunes en",
+    "valor": "pacientes con enfermedad genética"
+  },
+  {
+    "entidad": "promedio de días de hospitalización",
+    "relacion": "es mayor en",
+    "valor": "pacientes con enfermedad genética"
+  },
+  {
+    "entidad": "enfermedad genética",
+    "relacion": "se clasifica en",
+    "valor": "base genética significativa, heterogéneas, anomalías congénitas"
+  },
+  {
+    "entidad": "Dra. Cecilia Mellado",
+    "relacion": "es",
+    "valor": "correspondencia del estudio"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "investiga",
+    "valor": "prevalencia de enfermedades genéticas en pediatría"
+  },
+  {
+    "entidad": "pacientes hospitalizados",
+    "relacion": "se categorizan en",
+    "valor": "con enfermedad genética y sin enfermedad genética"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "no presenta diferencias significativas entre",
+    "valor": "pacientes con y sin enfermedad genética"
+  },
+  {
+    "entidad": "estrategias asistenciales",
+    "relacion": "se requieren para",
+    "valor": "manejo de pacientes con enfermedad genética"
+  },
+  {
+    "entidad": "comité ético científico",
+    "relacion": "aprueba",
+    "valor": "revisión de datos clínicos"
+  },
+  {
+    "entidad": "análisis estadístico",
+    "relacion": "se utiliza para",
+    "valor": "comparar variables entre grupos"
+  },
+  {
+    "entidad": "enfermedades genéticas",
+    "relacion": "son una causa importante de",
+    "valor": "admisión a servicios de pediatría"
+  },
+  {
+    "entidad": "hipertensión arterial (HTA)",
+    "relacion": "es una",
+    "valor": "enfermedad de etiología desconocida"
+  },
+  {
+    "entidad": "ejercicio físico",
+    "relacion": "es",
+    "valor": "piedra angular en el tratamiento de la hipertensión"
+  },
+  {
+    "entidad": "farmacoterapia",
+    "relacion": "afecta a",
+    "valor": "pacientes hipertensos"
+  },
+  {
+    "entidad": "ejercicio físico combinado",
+    "relacion": "reduce",
+    "valor": "presión arterial en pacientes hipertensos"
+  },
+  {
+    "entidad": "12 semanas de entrenamiento físico",
+    "relacion": "evaluar",
+    "valor": "efectos sobre la presión arterial"
+  },
+  {
+    "entidad": "pacientes hipertensos",
+    "relacion": "requieren",
+    "valor": "regulación farmacológica"
+  },
+  {
+    "entidad": "Centro de Salud Familiar 'Tomás Rojas'",
+    "relacion": "es un",
+    "valor": "centro de salud en Los Lagos, Chile"
+  },
+  {
+    "entidad": "SEREMI de Salud de la Región de Los Ríos",
+    "relacion": "financia",
+    "valor": "proyectos de salud"
+  },
+  {
+    "entidad": "metformina",
+    "relacion": "es un",
+    "valor": "fármaco hipoglicemiante"
+  },
+  {
+    "entidad": "losartan",
+    "relacion": "es un",
+    "valor": "antagonista de la angiotensina II"
+  },
+  {
+    "entidad": "enalapril",
+    "relacion": "es un",
+    "valor": "inhibidor de la enzima convertidora de angiotensina"
+  },
+  {
+    "entidad": "nitrendipino",
+    "relacion": "es un",
+    "valor": "inhibidor de los canales de calcio"
+  },
+  {
+    "entidad": "furosemida",
+    "relacion": "es un",
+    "valor": "diurético de asa"
+  },
+  {
+    "entidad": "aspirina",
+    "relacion": "es un",
+    "valor": "fármaco salicilado antiinflamatorio"
+  },
+  {
+    "entidad": "ejercicio aeróbico",
+    "relacion": "reduce",
+    "valor": "presión arterial"
+  },
+  {
+    "entidad": "ejercicio de fuerza",
+    "relacion": "reduce",
+    "valor": "presión arterial"
+  },
+  {
+    "entidad": "programas prolongados de ejercicio",
+    "relacion": "mejoran",
+    "valor": "función endotelial"
+  },
+  {
+    "entidad": "pacientes hipertensos",
+    "relacion": "deben ser",
+    "valor": "monitoreados regularmente"
+  },
+  {
+    "entidad": "ejercicio físico regular",
+    "relacion": "incrementa",
+    "valor": "la cantidad de pacientes compensados"
+  },
+  {
+    "entidad": "presión arterial sistólica (PAS)",
+    "relacion": "disminuye",
+    "valor": "después de ejercicio combinado"
+  },
+  {
+    "entidad": "presión arterial diastólica (PAD)",
+    "relacion": "disminuye",
+    "valor": "después de ejercicio combinado"
+  },
+  {
+    "entidad": "vitamina D",
+    "relacion": "afecta a",
+    "valor": "población geriátrica"
+  },
+  {
+    "entidad": "insuficiencia de vitamina D",
+    "relacion": "se relaciona a",
+    "valor": "menor densidad ósea"
+  },
+  {
+    "entidad": "insuficiencia de vitamina D",
+    "relacion": "se relaciona a",
+    "valor": "mayor frecuencia de caídas"
+  },
+  {
+    "entidad": "insuficiencia de vitamina D",
+    "relacion": "se relaciona a",
+    "valor": "fracturas de baja energía"
+  },
+  {
+    "entidad": "población anciana",
+    "relacion": "sufre",
+    "valor": "deficiencia de vitamina D"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "reporta",
+    "valor": "deficiencia de vitamina D en adultos mayores"
+  },
+  {
+    "entidad": "niveles adecuados de vitamina D",
+    "relacion": "correlacionan con",
+    "valor": "mayor densidad mineral ósea"
+  },
+  {
+    "entidad": "niveles adecuados de vitamina D",
+    "relacion": "correlacionan con",
+    "valor": "mejor función neuromuscular"
+  },
+  {
+    "entidad": "niveles adecuados de vitamina D",
+    "relacion": "correlacionan con",
+    "valor": "tasas más bajas de caídas"
+  },
+  {
+    "entidad": "niveles adecuados de vitamina D",
+    "relacion": "correlacionan con",
+    "valor": "fracturas osteoporóticas"
+  },
+  {
+    "entidad": "deficiencia de vitamina D",
+    "relacion": "es prevalente en",
+    "valor": "adultos mayores con fractura de cadera"
+  },
+  {
+    "entidad": "índice de comorbilidad",
+    "relacion": "afecta a",
+    "valor": "deficiencia de vitamina D"
+  },
+  {
+    "entidad": "estacionalidad",
+    "relacion": "afecta a",
+    "valor": "niveles de vitamina D"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "correlaciona con",
+    "valor": "niveles de vitamina D"
+  },
+  {
+    "entidad": "deficiencia de vitamina D",
+    "relacion": "conduce a",
+    "valor": "hiperparatiroidismo secundario"
+  },
+  {
+    "entidad": "deficiencia de vitamina D",
+    "relacion": "puede llevar a",
+    "valor": "osteomalacia"
+  },
+  {
+    "entidad": "suplementación de vitamina D",
+    "relacion": "disminuye",
+    "valor": "riesgo de refractura"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "presenta",
+    "valor": "subdiagnóstico de osteoporosis"
+  },
+  {
+    "entidad": "examen de niveles de vitamina D",
+    "relacion": "es costoso en",
+    "valor": "Chile"
+  }
+]

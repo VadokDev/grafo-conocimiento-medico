@@ -1,0 +1,747 @@
+[
+  {
+    "entidad": "elastografía de deformación (SE)",
+    "relacion": "tiene",
+    "valor": "alto rendimiento diagnóstico para lesiones mamarias"
+  },
+  {
+    "entidad": "elastografía de onda cortante (SWE)",
+    "relacion": "tiene",
+    "valor": "alto rendimiento diagnóstico para lesiones mamarias"
+  },
+  {
+    "entidad": "SWE",
+    "relacion": "se combina con",
+    "valor": "SE"
+  },
+  {
+    "entidad": "SWE y SE",
+    "relacion": "se evalúan mediante",
+    "valor": "regresión logística multivariable"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "fueron evaluados",
+    "valor": "132"
+  },
+  {
+    "entidad": "tumores mamarios",
+    "relacion": "fueron clasificados por",
+    "valor": "BI-RADS"
+  },
+  {
+    "entidad": "BI-RADS",
+    "relacion": "clasifica",
+    "valor": "lesiones mamarias"
+  },
+  {
+    "entidad": "SWE",
+    "relacion": "obtiene",
+    "valor": "módulo elástico máximo, promedio y desviación estándar"
+  },
+  {
+    "entidad": "SE",
+    "relacion": "obtiene",
+    "valor": "razón de deformación y puntaje elastográfico"
+  },
+  {
+    "entidad": "Esd",
+    "relacion": "muestra",
+    "valor": "buen rendimiento diagnóstico"
+  },
+  {
+    "entidad": "SWE",
+    "relacion": "predice",
+    "valor": "tipo patológico de cáncer de mama"
+  },
+  {
+    "entidad": "SWE y SE",
+    "relacion": "tienen",
+    "valor": "valores diagnósticos significativos"
+  },
+  {
+    "entidad": "SWE en combinación con SE",
+    "relacion": "excede",
+    "valor": "rendimiento diagnóstico de SE o SWE por separado"
+  },
+  {
+    "entidad": "método de diagnóstico",
+    "relacion": "utiliza",
+    "valor": "curvas ROC"
+  },
+  {
+    "entidad": "curvas ROC",
+    "relacion": "analizan",
+    "valor": "eficiencia diagnóstica"
+  },
+  {
+    "entidad": "SWE",
+    "relacion": "mide",
+    "valor": "elasticidad del tejido"
+  },
+  {
+    "entidad": "SE",
+    "relacion": "mide",
+    "valor": "relación de elasticidad entre lesión y tejido circundante"
+  },
+  {
+    "entidad": "lesiones mamarias",
+    "relacion": "se clasifican como",
+    "valor": "benignas o malignas"
+  },
+  {
+    "entidad": "mortalidad por cáncer de mama",
+    "relacion": "puede ser reducida mediante",
+    "valor": "prevención precoz"
+  },
+  {
+    "entidad": "SWE y SE",
+    "relacion": "son métodos",
+    "valor": "de elastografía"
+  },
+  {
+    "entidad": "SWE",
+    "relacion": "utiliza",
+    "valor": "ondas de corte para medir elasticidad"
+  },
+  {
+    "entidad": "SE",
+    "relacion": "aplica",
+    "valor": "presión constante para detectar deformación"
+  },
+  {
+    "entidad": "Anticoagulantes orales",
+    "relacion": "son",
+    "valor": "herramienta esencial para la prevención de eventos tromboembólicos"
+  },
+  {
+    "entidad": "Antagonistas de la vitamina K (AVK)",
+    "relacion": "son",
+    "valor": "los fármacos más utilizados para la anticoagulación"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "tiene disponibles",
+    "valor": "acenocumarol y warfarina como AVK"
+  },
+  {
+    "entidad": "enfermedad cardiovascular (ECV)",
+    "relacion": "es",
+    "valor": "la principal causa de muerte en el mundo"
+  },
+  {
+    "entidad": "fármacos bioequivalentes de acenocumarol",
+    "relacion": "se comparan con",
+    "valor": "el fármaco de referencia"
+  },
+  {
+    "entidad": "warfarina",
+    "relacion": "se compara con",
+    "valor": "acenocumarol"
+  },
+  {
+    "entidad": "International Normalized Ratio (INR)",
+    "relacion": "se utiliza para monitorizar",
+    "valor": "la acción de los AVK"
+  },
+  {
+    "entidad": "fármacos no bioequivalentes de acenocumarol",
+    "relacion": "se comparan con",
+    "valor": "el fármaco de referencia"
+  },
+  {
+    "entidad": "National Institute for Health and Care Excellence (NICE)",
+    "relacion": "recomienda",
+    "valor": "un tiempo en rango terapéutico superior a 65%"
+  },
+  {
+    "entidad": "Sociedad Europea de Cardiología",
+    "relacion": "recomienda",
+    "valor": "un tiempo en rango terapéutico de al menos 70%"
+  },
+  {
+    "entidad": "Asia Pacific Heart Rhythm Society",
+    "relacion": "recomienda",
+    "valor": "un tiempo en rango terapéutico de al menos 60%"
+  },
+  {
+    "entidad": "fármacos genéricos",
+    "relacion": "representan",
+    "valor": "aproximadamente 90% de todas las recetas prescritas en EE. UU."
+  },
+  {
+    "entidad": "acenocumarol",
+    "relacion": "tiene",
+    "valor": "una eficacia en el control anticoagulante inferior a la warfarina"
+  },
+  {
+    "entidad": "cambio entre presentaciones de warfarina",
+    "relacion": "puede provocar",
+    "valor": "variaciones en la respuesta individual"
+  },
+  {
+    "entidad": "fármacos de índice terapéutico estrecho (ITE)",
+    "relacion": "requieren",
+    "valor": "un enfoque de bioequivalencia más estricto"
+  },
+  {
+    "entidad": "fármacos no bioequivalentes",
+    "relacion": "tienen",
+    "valor": "mayor proporción de controles fuera de rango"
+  },
+  {
+    "entidad": "fármacos bioequivalentes",
+    "relacion": "tienen",
+    "valor": "proporciones de controles fuera de rango similares al fármaco de referencia"
+  },
+  {
+    "entidad": "migración",
+    "relacion": "afecta a",
+    "valor": "salud mental"
+  },
+  {
+    "entidad": "sintomatología ansiosa",
+    "relacion": "se presenta en",
+    "valor": "migrantes colombianos"
+  },
+  {
+    "entidad": "sintomatología depresiva",
+    "relacion": "se presenta en",
+    "valor": "migrantes colombianos"
+  },
+  {
+    "entidad": "migrantes colombianos",
+    "relacion": "residen en",
+    "valor": "Chile"
+  },
+  {
+    "entidad": "población chilena",
+    "relacion": "se compara con",
+    "valor": "migrantes colombianos"
+  },
+  {
+    "entidad": "escala BDI",
+    "relacion": "evalúa",
+    "valor": "sintomatología depresiva"
+  },
+  {
+    "entidad": "escala BAI",
+    "relacion": "evalúa",
+    "valor": "sintomatología ansiosa"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "reportan",
+    "valor": "peor salud mental"
+  },
+  {
+    "entidad": "discriminación",
+    "relacion": "se relaciona con",
+    "valor": "sintomatología depresiva"
+  },
+  {
+    "entidad": "primeros migrantes",
+    "relacion": "son",
+    "valor": "colombianos de primera generación"
+  },
+  {
+    "entidad": "mujeres migrantes",
+    "relacion": "tienen",
+    "valor": "peor salud mental"
+  },
+  {
+    "entidad": "pobreza",
+    "relacion": "aumenta",
+    "valor": "riesgo de problemas de salud mental"
+  },
+  {
+    "entidad": "sintomatología ansiosa",
+    "relacion": "es mayor en",
+    "valor": "población chilena"
+  },
+  {
+    "entidad": "sintomatología depresiva",
+    "relacion": "es mayor en",
+    "valor": "población chilena"
+  },
+  {
+    "entidad": "ciudades de residencia",
+    "relacion": "afectan",
+    "valor": "niveles de ansiedad y depresión"
+  },
+  {
+    "entidad": "población migrante",
+    "relacion": "tiene",
+    "valor": "menores niveles de sintomatología ansiosa"
+  },
+  {
+    "entidad": "población migrante",
+    "relacion": "tiene",
+    "valor": "menores niveles de sintomatología depresiva"
+  },
+  {
+    "entidad": "migrantes colombianos",
+    "relacion": "reportan",
+    "valor": "menor prevalencia de ansiedad grave"
+  },
+  {
+    "entidad": "migrantes colombianos",
+    "relacion": "reportan",
+    "valor": "menor prevalencia de depresión grave"
+  },
+  {
+    "entidad": "población chilena",
+    "relacion": "reporta",
+    "valor": "mayor prevalencia de ansiedad grave"
+  },
+  {
+    "entidad": "población chilena",
+    "relacion": "reporta",
+    "valor": "mayor prevalencia de depresión grave"
+  },
+  {
+    "entidad": "Addenbrooke’s Cognitive Examination III (ACE-III)",
+    "relacion": "es utilizado para",
+    "valor": "evaluación de demencia"
+  },
+  {
+    "entidad": "ACE-III",
+    "relacion": "evalúa",
+    "valor": "propiedades psicométricas"
+  },
+  {
+    "entidad": "ACE-III",
+    "relacion": "analiza",
+    "valor": "estructura factorial"
+  },
+  {
+    "entidad": "ACE-III",
+    "relacion": "presenta",
+    "valor": "fiabilidad desde un modelo de Teoría de Respuesta a los Ítems (TRI)"
+  },
+  {
+    "entidad": "ACE-III",
+    "relacion": "tiene",
+    "valor": "utilidad diagnóstica"
+  },
+  {
+    "entidad": "demencia",
+    "relacion": "es una",
+    "valor": "causa de disfuncionalidad y dependencia en la adultez mayor"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "ha establecido",
+    "valor": "sistema de diagnóstico y tratamiento de demencias"
+  },
+  {
+    "entidad": "examen de medicina preventiva del adulto mayor (EMPAM)",
+    "relacion": "considera",
+    "valor": "aplicación del Mini Mental State Examination abreviado (MMSE)"
+  },
+  {
+    "entidad": "MMSE",
+    "relacion": "presenta",
+    "valor": "baja sensibilidad para detectar etapas iniciales de demencia"
+  },
+  {
+    "entidad": "ACE-III",
+    "relacion": "muestra",
+    "valor": "mayor sensibilidad y valor predictivo para detectar demencias en etapa temprana"
+  },
+  {
+    "entidad": "ACE-III",
+    "relacion": "presenta",
+    "valor": "propiedades psicométricas adecuadas"
+  },
+  {
+    "entidad": "ACE-III",
+    "relacion": "se propone",
+    "valor": "uso combinado de subescalas de Orientación y Memoria como indicador alternativo"
+  },
+  {
+    "entidad": "ACE-III",
+    "relacion": "es",
+    "valor": "una medida válida y confiable para la detección clínica de demencia"
+  },
+  {
+    "entidad": "subescala de atención",
+    "relacion": "presenta",
+    "valor": "desajuste en el modelo TRI"
+  },
+  {
+    "entidad": "puntuaciones de corte",
+    "relacion": "priorizan",
+    "valor": "sensibilidad en desmedro de especificidad"
+  },
+  {
+    "entidad": "ACE M-O",
+    "relacion": "se sugiere",
+    "valor": "reemplazar a MMSE como prueba de evaluación cognitiva"
+  },
+  {
+    "entidad": "Agencia Nacional de Investigación y Desarrollo",
+    "relacion": "financió",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "Universidad Católica del Norte",
+    "relacion": "aprobo",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "ACE-III",
+    "relacion": "se utilizó",
+    "valor": "versión chilena del test"
+  },
+  {
+    "entidad": "ACE-III",
+    "relacion": "consta de",
+    "valor": "81 ítems y 5 subescalas"
+  },
+  {
+    "entidad": "sistema de asignación chileno",
+    "relacion": "utiliza",
+    "valor": "puntaje MELD/PELD"
+  },
+  {
+    "entidad": "candidatos pediátricos",
+    "relacion": "tienen",
+    "valor": "dificultades de acceso a trasplante"
+  },
+  {
+    "entidad": "candidatos adultos",
+    "relacion": "tienen",
+    "valor": "mejor acceso a trasplante"
+  },
+  {
+    "entidad": "trasplante hepático",
+    "relacion": "es la única opción terapéutica",
+    "valor": "en enfermedades hepáticas"
+  },
+  {
+    "entidad": "puntaje MELD/PELD",
+    "relacion": "prioriza",
+    "valor": "candidatos en lista de espera"
+  },
+  {
+    "entidad": "candidatos menores de 2 años",
+    "relacion": "tienen",
+    "valor": "alta mortalidad en lista de espera"
+  },
+  {
+    "entidad": "candidatos pediátricos",
+    "relacion": "muestran",
+    "valor": "mayor mortalidad que adultos"
+  },
+  {
+    "entidad": "etiologías colestásicas",
+    "relacion": "son",
+    "valor": "la principal causa de alistamiento en pediátricos"
+  },
+  {
+    "entidad": "Instituto de Salud Pública de Chile",
+    "relacion": "proporciona",
+    "valor": "registro de candidatos"
+  },
+  {
+    "entidad": "trasplante hepático donante cadáver",
+    "relacion": "es",
+    "valor": "THDC"
+  },
+  {
+    "entidad": "trasplante hepático donante vivo",
+    "relacion": "es",
+    "valor": "THDV"
+  },
+  {
+    "entidad": "mortalidad en lista de espera",
+    "relacion": "es",
+    "valor": "alta en candidatos pediátricos"
+  },
+  {
+    "entidad": "candidatos pediátricos",
+    "relacion": "requieren",
+    "valor": "trasplante hepático donante vivo"
+  },
+  {
+    "entidad": "candidatos pediátricos",
+    "relacion": "tienen",
+    "valor": "menor acceso a THDC"
+  },
+  {
+    "entidad": "sistema MELD/PELD",
+    "relacion": "no ha disminuido",
+    "valor": "mortalidad en lista de espera"
+  },
+  {
+    "entidad": "tasa de donación en Chile",
+    "relacion": "es",
+    "valor": "7 donantes por millón de habitantes"
+  },
+  {
+    "entidad": "puntaje MELD/PELD",
+    "relacion": "debería ser reevaluado",
+    "valor": "para pacientes menores de 15 años"
+  },
+  {
+    "entidad": "trasplante hepático",
+    "relacion": "requiere",
+    "valor": "aumento de donantes"
+  },
+  {
+    "entidad": "split hepático",
+    "relacion": "es",
+    "valor": "una opción para mejorar acceso a injertos"
+  },
+  {
+    "entidad": "candidatos pediátricos",
+    "relacion": "son",
+    "valor": "prioritarios en lista de espera"
+  },
+  {
+    "entidad": "mortalidad en lista de espera",
+    "relacion": "es",
+    "valor": "excesivamente alta en menores de 2 años"
+  },
+  {
+    "entidad": "cáncer de mama",
+    "relacion": "es",
+    "valor": "la neoplasia más diagnosticada en mujeres"
+  },
+  {
+    "entidad": "cáncer de mama",
+    "relacion": "es",
+    "valor": "la principal causa de muerte por cáncer en Chile"
+  },
+  {
+    "entidad": "receptores de estrógenos",
+    "relacion": "se correlaciona con",
+    "valor": "mejor pronóstico"
+  },
+  {
+    "entidad": "cáncer de mama avanzado positivo para receptores de estrógenos",
+    "relacion": "es caracterizado por",
+    "valor": "mejor sobrevida y respuesta a terapia endocrina"
+  },
+  {
+    "entidad": "pacientes con cáncer de mama avanzado",
+    "relacion": "son tratados en",
+    "valor": "la Pontificia Universidad Católica de Chile"
+  },
+  {
+    "entidad": "presentación clínica",
+    "relacion": "afecta a",
+    "valor": "las tasas de sobrevida en cáncer de mama avanzado"
+  },
+  {
+    "entidad": "subtipo de cáncer de mama",
+    "relacion": "es un determinante clave de",
+    "valor": "la sobrevida en cáncer de mama avanzado"
+  },
+  {
+    "entidad": "Luminal A",
+    "relacion": "muestra mejor sobrevida que",
+    "valor": "Luminal B"
+  },
+  {
+    "entidad": "cáncer de mama",
+    "relacion": "requiere",
+    "valor": "terapia endocrina en casos metastásicos"
+  },
+  {
+    "entidad": "estrategias de manejo",
+    "relacion": "han mejorado",
+    "valor": "la respuesta a la terapia y la sobrevida libre de progresión"
+  },
+  {
+    "entidad": "técnicas de imagen",
+    "relacion": "permiten detectar",
+    "valor": "más pacientes con enfermedad sistémica"
+  },
+  {
+    "entidad": "cáncer de mama avanzado",
+    "relacion": "puede ser",
+    "valor": "una condición crónica para ciertos pacientes"
+  },
+  {
+    "entidad": "subtipos de cáncer de mama",
+    "relacion": "determinan",
+    "valor": "opciones de tratamiento específicas"
+  },
+  {
+    "entidad": "cáncer de mama",
+    "relacion": "es categorizado como",
+    "valor": "luminal hormonal dependiente"
+  },
+  {
+    "entidad": "pacientes con cáncer de mama avanzado",
+    "relacion": "han mostrado",
+    "valor": "mejoras en las tasas de sobrevida en la última década"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "realiza",
+    "valor": "teledermatología asincrónica a través de WhatsApp"
+  },
+  {
+    "entidad": "teledermatología",
+    "relacion": "es una",
+    "valor": "disciplina de telemedicina"
+  },
+  {
+    "entidad": "WhatsApp",
+    "relacion": "es utilizado para",
+    "valor": "teledermatología"
+  },
+  {
+    "entidad": "médicos generales",
+    "relacion": "participan en",
+    "valor": "grupo de teledermatología"
+  },
+  {
+    "entidad": "satisfacción de médicos generales",
+    "relacion": "es evaluada mediante",
+    "valor": "encuesta electrónica"
+  },
+  {
+    "entidad": "diagnóstico",
+    "relacion": "es concordante entre",
+    "valor": "médicos generales y dermatólogos"
+  },
+  {
+    "entidad": "sistema de teledermatología",
+    "relacion": "es considerado",
+    "valor": "de bajo costo y fácil implementación"
+  },
+  {
+    "entidad": "médicos generales",
+    "relacion": "reportan",
+    "valor": "mejora en su conocimiento dermatológico"
+  },
+  {
+    "entidad": "formación de pregrado en Dermatología",
+    "relacion": "es calificada por médicos",
+    "valor": "como buena"
+  },
+  {
+    "entidad": "grupo de WhatsApp",
+    "relacion": "es moderado por",
+    "valor": "dermatólogos y residentes de Dermatología"
+  },
+  {
+    "entidad": "teledermatología",
+    "relacion": "reduce",
+    "valor": "la necesidad de derivaciones a consultas de especialidad"
+  },
+  {
+    "entidad": "médicos generales",
+    "relacion": "consideran necesario adquirir",
+    "valor": "conocimientos en cirugía dermatológica"
+  },
+  {
+    "entidad": "sistema de teledermatología",
+    "relacion": "facilita",
+    "valor": "manejo y derivación de pacientes dermatológicos"
+  },
+  {
+    "entidad": "teledermatología",
+    "relacion": "aumenta",
+    "valor": "la costo-efectividad del sistema de salud"
+  },
+  {
+    "entidad": "médicos generales",
+    "relacion": "reportan satisfacción",
+    "valor": "con la velocidad de respuesta de la teleconsulta"
+  },
+  {
+    "entidad": "casos clínicos",
+    "relacion": "son enviados por",
+    "valor": "médicos generales al grupo de teledermatología"
+  },
+  {
+    "entidad": "médicos generales",
+    "relacion": "acceden a",
+    "valor": "casos clínicos enviados por colegas"
+  },
+  {
+    "entidad": "masa grasa",
+    "relacion": "afecta a",
+    "valor": "calidad de vida en adultos mayores"
+  },
+  {
+    "entidad": "índice de masa corporal (IMC)",
+    "relacion": "se utiliza para",
+    "valor": "predecir masa grasa"
+  },
+  {
+    "entidad": "absorciometría de rayos X de doble energía (DXA)",
+    "relacion": "es el",
+    "valor": "método estándar para medir masa grasa"
+  },
+  {
+    "entidad": "adultos mayores",
+    "relacion": "tienen mayor riesgo de",
+    "valor": "sarcopenia y deterioro físico"
+  },
+  {
+    "entidad": "exceso de tejido adiposo",
+    "relacion": "causa",
+    "valor": "enfermedades cardiovasculares y diabetes tipo 2"
+  },
+  {
+    "entidad": "programa Activa Talca",
+    "relacion": "es parte de",
+    "valor": "los programas de actividad física promovidos por la Municipalidad de Talca"
+  },
+  {
+    "entidad": "estudio de corte transversal",
+    "relacion": "se realizó en",
+    "valor": "1,188 participantes"
+  },
+  {
+    "entidad": "métodos para evaluar adiposidad",
+    "relacion": "incluyen",
+    "valor": "IMC, circunferencia de la cintura, pliegues cutáneos"
+  },
+  {
+    "entidad": "ecuaciones de regresión",
+    "relacion": "se proponen para",
+    "valor": "estimar masa grasa en adultos mayores"
+  },
+  {
+    "entidad": "percentiles",
+    "relacion": "se desarrollan para",
+    "valor": "categorizar niveles de masa grasa"
+  },
+  {
+    "entidad": "Universidad Autónoma de Chile",
+    "relacion": "desarrolló",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "método LMS",
+    "relacion": "se utiliza para",
+    "valor": "calcular percentiles de masa grasa"
+  },
+  {
+    "entidad": "valores referenciales",
+    "relacion": "se proponen para",
+    "valor": "categorizar niveles de masa grasa"
+  },
+  {
+    "entidad": "métodos no invasivos",
+    "relacion": "son necesarios para",
+    "valor": "evaluar compartimientos corporales"
+  },
+  {
+    "entidad": "adultos mayores",
+    "relacion": "participan en",
+    "valor": "programas de educación física"
+  },
+  {
+    "entidad": "ecuasiones de masa grasa",
+    "relacion": "son válidas y confiables para",
+    "valor": "estimaciones en adultos mayores"
+  }
+]

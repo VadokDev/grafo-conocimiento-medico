@@ -1,0 +1,287 @@
+[
+  {
+    "entidad": "fragilidad social",
+    "relacion": "es un",
+    "valor": "concepto en personas mayores"
+  },
+  {
+    "entidad": "fragilidad social",
+    "relacion": "se considera",
+    "valor": "sindicato multidimensional o independiente"
+  },
+  {
+    "entidad": "fragilidad social",
+    "relacion": "aumenta",
+    "valor": "probabilidad de caídas y dependencia"
+  },
+  {
+    "entidad": "fragilidad social",
+    "relacion": "se evalúa mediante",
+    "valor": "preguntas sobre comportamiento social"
+  },
+  {
+    "entidad": "fragilidad social",
+    "relacion": "se mide con",
+    "valor": "escalas de evaluación social"
+  },
+  {
+    "entidad": "Universidad Autónoma de Chile",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "Carol Zúñiga Hernández",
+    "relacion": "es",
+    "valor": "autora del artículo"
+  },
+  {
+    "entidad": "Teoría de la Función de Producción Social",
+    "relacion": "propone",
+    "valor": "bienestar físico y social como metas"
+  },
+  {
+    "entidad": "capital social",
+    "relacion": "influye en",
+    "valor": "la vulnerabilidad de personas mayores"
+  },
+  {
+    "entidad": "fragilidad social",
+    "relacion": "puede ser vista como",
+    "valor": "situación de vulnerabilidad"
+  },
+  {
+    "entidad": "fragilidad social",
+    "relacion": "se relaciona con",
+    "valor": "aislamiento social y soledad"
+  },
+  {
+    "entidad": "fragilidad social",
+    "relacion": "requiere",
+    "valor": "definición y operacionalización"
+  },
+  {
+    "entidad": "fragilidad social",
+    "relacion": "afecta a",
+    "valor": "la calidad de vida de los individuos mayores"
+  },
+  {
+    "entidad": "enfermedad inflamatoria intestinal (EII)",
+    "relacion": "aumenta",
+    "valor": "riesgo de complicaciones durante el embarazo"
+  },
+  {
+    "entidad": "remisión completa",
+    "relacion": "es necesaria",
+    "valor": "antes de planificar un embarazo"
+  },
+  {
+    "entidad": "mujeres embarazadas con EII",
+    "relacion": "deben ser",
+    "valor": "monitoreadas no invasivamente"
+  },
+  {
+    "entidad": "terapias escaladas",
+    "relacion": "deben ser",
+    "valor": "consideradas para prevenir crisis durante el embarazo"
+  },
+  {
+    "entidad": "parto vaginal",
+    "relacion": "es posible en",
+    "valor": "la mayoría de las formas de EII"
+  },
+  {
+    "entidad": "cesárea",
+    "relacion": "es preferible en",
+    "valor": "mujeres con historia de ileal pouch-anal anastomoses (IPAA)"
+  },
+  {
+    "entidad": "EII",
+    "relacion": "tiene mayor incidencia entre",
+    "valor": "20 y 40 años"
+  },
+  {
+    "entidad": "reagudizaciones",
+    "relacion": "son el principal factor de",
+    "valor": "complicaciones durante el embarazo"
+  },
+  {
+    "entidad": "anticonceptivos con estrógenos",
+    "relacion": "no son recomendables en",
+    "valor": "EII"
+  },
+  {
+    "entidad": "dispositivos intrauterinos con progestágenos",
+    "relacion": "deben ser considerados como",
+    "valor": "primera línea en EII"
+  },
+  {
+    "entidad": "remisión clínica",
+    "relacion": "se recomienda por",
+    "valor": "3-6 meses antes de planificar un embarazo"
+  },
+  {
+    "entidad": "proctocolectomía total con reservorio ileoanal (PCT)",
+    "relacion": "disminuye",
+    "valor": "tasas de fertilidad"
+  },
+  {
+    "entidad": "metotrexato",
+    "relacion": "debe ser suspendido",
+    "valor": "6 meses antes del deseo de embarazo"
+  },
+  {
+    "entidad": "actividad de la enfermedad",
+    "relacion": "juega un rol en",
+    "valor": "la fertilidad masculina"
+  },
+  {
+    "entidad": "sulfasalazina",
+    "relacion": "se asocia a",
+    "valor": "menor motilidad espermática"
+  },
+  {
+    "entidad": "anti-TNF",
+    "relacion": "no presentan mayores tasas de",
+    "valor": "efectos adversos durante el embarazo"
+  },
+  {
+    "entidad": "inmunización contra influenza",
+    "relacion": "se recomienda desde",
+    "valor": "la semana 13 del embarazo"
+  },
+  {
+    "entidad": "corticoides",
+    "relacion": "deben ser utilizados",
+    "valor": "solo en crisis durante el embarazo"
+  },
+  {
+    "entidad": "medicamentos biológicos",
+    "relacion": "deben reiniciarse",
+    "valor": "24 h postparto vaginal o 48 h tras cesárea"
+  },
+  {
+    "entidad": "suspensión de vacuna a virus vivos",
+    "relacion": "es perentoria en",
+    "valor": "recién nacidos expuestos a anti-TNF"
+  },
+  {
+    "entidad": "densidad ósea",
+    "relacion": "puede disminuir durante",
+    "valor": "el embarazo y la lactancia"
+  },
+  {
+    "entidad": "asesoría preconcepcional",
+    "relacion": "es fundamental para",
+    "valor": "resolver interrogantes de las pacientes"
+  },
+  {
+    "entidad": "control de la enfermedad",
+    "relacion": "es el factor más importante para",
+    "valor": "el éxito del embarazo"
+  },
+  {
+    "entidad": "Hipopituitarismo post traumatismo encefalocraneano",
+    "relacion": "es",
+    "valor": "entidad subdiagnosticada"
+  },
+  {
+    "entidad": "Traumatismo encefalocraneano",
+    "relacion": "es",
+    "valor": "principal causa de muerte y discapacidad en adultos jóvenes"
+  },
+  {
+    "entidad": "Hipopituitarismo",
+    "relacion": "afecta a",
+    "valor": "pacientes con traumatismo encefalocraneano"
+  },
+  {
+    "entidad": "Fase aguda de HTEC",
+    "relacion": "ocurre en",
+    "valor": "los primeros 14 días tras el traumatismo"
+  },
+  {
+    "entidad": "Fase crónica de HTEC",
+    "relacion": "comienza en",
+    "valor": "tres meses después del traumatismo"
+  },
+  {
+    "entidad": "Lesión vascular",
+    "relacion": "es",
+    "valor": "mecanismo importante en la fase aguda de HTEC"
+  },
+  {
+    "entidad": "Autoinmunidad",
+    "relacion": "es",
+    "valor": "mecanismo potencial en fases crónicas de HTEC"
+  },
+  {
+    "entidad": "Algoritmo de manejo",
+    "relacion": "propuesto para",
+    "valor": "detectar y tratar alteraciones del eje hipotalámico-hipofisario"
+  },
+  {
+    "entidad": "Síndrome post-conmoción cerebral",
+    "relacion": "es",
+    "valor": "diagnóstico diferencial importante en fase crónica"
+  },
+  {
+    "entidad": "Cortisol",
+    "relacion": "es utilizado para",
+    "valor": "diagnosticar insuficiencia corticotropa"
+  },
+  {
+    "entidad": "Hiponatremia",
+    "relacion": "puede ser causada por",
+    "valor": "activación no osmolar de ADH"
+  },
+  {
+    "entidad": "Endocrinología",
+    "relacion": "es",
+    "valor": "especialidad recomendada para el tratamiento de HTEC"
+  },
+  {
+    "entidad": "Evaluación de ejes hipofisarios",
+    "relacion": "debe ser realizada en",
+    "valor": "pacientes con TEC moderado a grave"
+  },
+  {
+    "entidad": "Hidrocortisona",
+    "relacion": "es",
+    "valor": "tratamiento sugerido ante sospecha de insuficiencia corticotropa"
+  },
+  {
+    "entidad": "Test de estimulación con ACTH",
+    "relacion": "no es útil en",
+    "valor": "fase aguda de HTEC"
+  },
+  {
+    "entidad": "Compromiso neurohipofisario",
+    "relacion": "puede ser evaluado mediante",
+    "valor": "osmolaridad urinaria y densidad urinaria"
+  },
+  {
+    "entidad": "Dra. Flavia Nilo C.",
+    "relacion": "es",
+    "valor": "autora del artículo"
+  },
+  {
+    "entidad": "Dr. Francisco Guarda",
+    "relacion": "es",
+    "valor": "coautor del artículo"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "es",
+    "valor": "institución donde se realizó el estudio"
+  },
+  {
+    "entidad": "Programa de Tumores Hipofisarios UC",
+    "relacion": "pertenece a",
+    "valor": "Red de Salud UC-CHRISTUS"
+  },
+  {
+    "entidad": "Centro Traslacional de Endocrinología (CETREN-UC)",
+    "relacion": "es parte de",
+    "valor": "Red de Salud UC-CHRISTUS"
+  }
+]

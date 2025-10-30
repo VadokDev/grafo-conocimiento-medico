@@ -1,0 +1,247 @@
+[
+  {
+    "entidad": "enfermedad de Behçet",
+    "relacion": "es un",
+    "valor": "patología inflamatoria crónica"
+  },
+  {
+    "entidad": "enfermedad de Behçet",
+    "relacion": "afecta a",
+    "valor": "vasos de tamaño grande, mediano y pequeño"
+  },
+  {
+    "entidad": "enfermedad de Behçet",
+    "relacion": "se caracteriza por",
+    "valor": "úlceras aftosas orales y genitales"
+  },
+  {
+    "entidad": "enfermedad de Behçet",
+    "relacion": "se presenta en",
+    "valor": "pacientes jóvenes"
+  },
+  {
+    "entidad": "hemoptisis",
+    "relacion": "es una manifestación de",
+    "valor": "enfermedad de Behçet"
+  },
+  {
+    "entidad": "aneurismas",
+    "relacion": "son complicaciones de",
+    "valor": "enfermedad de Behçet"
+  },
+  {
+    "entidad": "ruptura de aneurismas",
+    "relacion": "es la principal causa de",
+    "valor": "muerte en pacientes con enfermedad de Behçet"
+  },
+  {
+    "entidad": "prednisona",
+    "relacion": "es un tratamiento para",
+    "valor": "hemoptisis en enfermedad de Behçet"
+  },
+  {
+    "entidad": "metilprednisolona",
+    "relacion": "es un tratamiento para",
+    "valor": "hemoptisis en enfermedad de Behçet"
+  },
+  {
+    "entidad": "ciclofosfamida",
+    "relacion": "es un tratamiento para",
+    "valor": "hemoptisis en enfermedad de Behçet"
+  },
+  {
+    "entidad": "tomografía computarizada de tórax",
+    "relacion": "es el mejor método para",
+    "valor": "evaluar compromiso torácico en enfermedad de Behçet"
+  },
+  {
+    "entidad": "Grupo Internacional de Estudio de la Enfermedad de Behçet",
+    "relacion": "agregó",
+    "valor": "compromiso vascular y neurológico a criterios diagnósticos"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "tiene",
+    "valor": "baja incidencia de enfermedad de Behçet"
+  },
+  {
+    "entidad": "hemoptisis masiva",
+    "relacion": "requiere",
+    "valor": "lobectomías en pacientes con enfermedad de Behçet"
+  },
+  {
+    "entidad": "Oligoartritis",
+    "relacion": "es una manifestación de",
+    "valor": "Linfoma no Hodgkin"
+  },
+  {
+    "entidad": "Paniculitis",
+    "relacion": "es una manifestación de",
+    "valor": "Linfoma no Hodgkin"
+  },
+  {
+    "entidad": "Pioderma gangrenoso",
+    "relacion": "es una manifestación de",
+    "valor": "Linfoma no Hodgkin"
+  },
+  {
+    "entidad": "Linfoma no Hodgkin",
+    "relacion": "causa",
+    "valor": "síndromes paraneoplásicos"
+  },
+  {
+    "entidad": "Mujer de 28 años",
+    "relacion": "presenta",
+    "valor": "pioderma gangrenoso"
+  },
+  {
+    "entidad": "Mujer de 28 años",
+    "relacion": "presenta",
+    "valor": "artritis de rodillas y tobillos"
+  },
+  {
+    "entidad": "Mujer de 28 años",
+    "relacion": "presenta",
+    "valor": "paniculitis"
+  },
+  {
+    "entidad": "Mujer de 28 años",
+    "relacion": "desarrolla",
+    "valor": "reactivación de pioderma gangrenoso"
+  },
+  {
+    "entidad": "Biopsias",
+    "relacion": "demuestran",
+    "valor": "Linfoma no Hodgkin de células grandes B"
+  },
+  {
+    "entidad": "Tratamiento",
+    "relacion": "incluye",
+    "valor": "esquema R-CHOP"
+  },
+  {
+    "entidad": "Mujer de 28 años",
+    "relacion": "evoluciona a",
+    "valor": "cuidados paliativos"
+  },
+  {
+    "entidad": "Paniculitis",
+    "relacion": "puede ser",
+    "valor": "tumoral"
+  },
+  {
+    "entidad": "Pioderma gangrenoso",
+    "relacion": "se asocia a",
+    "valor": "enfermedad sistémica"
+  },
+  {
+    "entidad": "Artritis paraneoplásica",
+    "relacion": "se caracteriza por",
+    "valor": "compromiso oligoarticular o poliarticular"
+  },
+  {
+    "entidad": "Vasculitis paraneoplásicas",
+    "relacion": "representan",
+    "valor": "5% de todas las vasculitis"
+  },
+  {
+    "entidad": "Pioderma gangrenoso",
+    "relacion": "se relaciona con",
+    "valor": "neoplasias hematológicas"
+  },
+  {
+    "entidad": "Paniculitis",
+    "relacion": "afecta",
+    "valor": "grasa subcutánea"
+  },
+  {
+    "entidad": "Linfoma de células T",
+    "relacion": "demuestra",
+    "valor": "compromiso más allá del celular subcutáneo"
+  },
+  {
+    "entidad": "Necrolisis epidérmica tóxica",
+    "relacion": "es un",
+    "valor": "entidad letal"
+  },
+  {
+    "entidad": "síndrome hemofagocítico",
+    "relacion": "es un",
+    "valor": "síndrome raro y letal"
+  },
+  {
+    "entidad": "linfoma de Hodgkin",
+    "relacion": "es un",
+    "valor": "causa poco común del síndrome hemofagocítico"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "necrolisis epidérmica tóxica secundaria a antibióticos"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "es",
+    "valor": "mujer de 38 años"
+  },
+  {
+    "entidad": "síndrome hemofagocítico",
+    "relacion": "se caracteriza por",
+    "valor": "hiperinflamación, fiebre, pancitopenia, visceromegalia y hemofagocitosis"
+  },
+  {
+    "entidad": "diagnóstico de síndrome hemofagocítico",
+    "relacion": "se confirma mediante",
+    "valor": "exámenes de laboratorio y biopsia de médula ósea"
+  },
+  {
+    "entidad": "Imipenem",
+    "relacion": "es indicado para",
+    "valor": "fiebre constante"
+  },
+  {
+    "entidad": "necrolisis epidérmica tóxica",
+    "relacion": "se maneja con",
+    "valor": "inmunoglobulina intravenosa y dexametasona"
+  },
+  {
+    "entidad": "linfoma de Hodgkin",
+    "relacion": "se maneja con",
+    "valor": "8 ciclos de quimioterapia ABVD"
+  },
+  {
+    "entidad": "respuesta completa",
+    "relacion": "se logra tras",
+    "valor": "tratamiento con inmunoglobulina y dexametasona"
+  },
+  {
+    "entidad": "virus Epstein-Barr",
+    "relacion": "se asocia a",
+    "valor": "linfomas y síndrome hemofagocítico"
+  },
+  {
+    "entidad": "necrolisis epidérmica tóxica",
+    "relacion": "puede ser causada por",
+    "valor": "drogas como sulfas y antibióticos"
+  },
+  {
+    "entidad": "síndrome hemofagocítico",
+    "relacion": "tiene una tasa de mortalidad de",
+    "valor": "aproximadamente 40%"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "lleva",
+    "valor": "3 años en remisión completa"
+  },
+  {
+    "entidad": "dexametasona",
+    "relacion": "es utilizada en",
+    "valor": "el manejo de necrolisis epidérmica tóxica"
+  },
+  {
+    "entidad": "inmunoglobulina intravenosa",
+    "relacion": "se ha usado con éxito en",
+    "valor": "síndrome hemofagocítico asociado a virus"
+  }
+]

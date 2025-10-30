@@ -1,0 +1,387 @@
+[
+  {
+    "entidad": "personas bisexuales",
+    "relacion": "tienen",
+    "valor": "mayor riesgo de problemas de salud mental"
+  },
+  {
+    "entidad": "mujeres bisexuales",
+    "relacion": "reportan",
+    "valor": "niveles más altos de sintomatología depresiva y ansiosa"
+  },
+  {
+    "entidad": "hombres bisexuales",
+    "relacion": "reportan",
+    "valor": "niveles altos de sintomatología depresiva y ansiosa"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud, Sexualidad y Género (ENSSEX-2022)",
+    "relacion": "realizada por",
+    "valor": "Ministerio de Salud de Chile"
+  },
+  {
+    "entidad": "estigma y discriminación",
+    "relacion": "persiste",
+    "valor": "en la sociedad chilena"
+  },
+  {
+    "entidad": "bifobia",
+    "relacion": "afecta",
+    "valor": "la salud mental de personas bisexuales"
+  },
+  {
+    "entidad": "mujeres bisexuales",
+    "relacion": "tienen",
+    "valor": "menor sentido de pertenencia a comunidades lesbianas y feministas"
+  },
+  {
+    "entidad": "políticas públicas",
+    "relacion": "deben contribuir a",
+    "valor": "desafiar la cultura monosexista"
+  },
+  {
+    "entidad": "leyes anti discriminación",
+    "relacion": "están vinculadas a",
+    "valor": "reducción de la ansiedad y depresión"
+  },
+  {
+    "entidad": "salud mental",
+    "relacion": "es afectada por",
+    "valor": "estructuras conservadoras en torno al género y la sexualidad"
+  },
+  {
+    "entidad": "investigación sobre disparidades en salud mental",
+    "relacion": "se ha llevado a cabo principalmente en",
+    "valor": "Estados Unidos y Europa"
+  },
+  {
+    "entidad": "Mónica Guzmán-González",
+    "relacion": "es un",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "Jaime Barrientos",
+    "relacion": "es un",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "Joaquín Bahamondes",
+    "relacion": "es un",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "Universidad Católica del Norte",
+    "relacion": "es un",
+    "valor": "lugar de trabajo de Mónica Guzmán-González"
+  },
+  {
+    "entidad": "Universidad Alberto Hurtado",
+    "relacion": "es un",
+    "valor": "lugar de trabajo de Jaime Barrientos"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud 2017",
+    "relacion": "investiga",
+    "valor": "exposición a metales pesados"
+  },
+  {
+    "entidad": "arsénico",
+    "relacion": "asocia con",
+    "valor": "edad"
+  },
+  {
+    "entidad": "arsénico",
+    "relacion": "asocia con",
+    "valor": "sexo"
+  },
+  {
+    "entidad": "arsénico",
+    "relacion": "asocia con",
+    "valor": "geografía"
+  },
+  {
+    "entidad": "arsénico",
+    "relacion": "asocia con",
+    "valor": "consumo de pescado"
+  },
+  {
+    "entidad": "exposición crónica a metales pesados",
+    "relacion": "causa",
+    "valor": "riesgos significativos para la salud"
+  },
+  {
+    "entidad": "arsénico",
+    "relacion": "causa",
+    "valor": "cáncer"
+  },
+  {
+    "entidad": "arsénico",
+    "relacion": "causa",
+    "valor": "enfermedades cardiovasculares"
+  },
+  {
+    "entidad": "arsénico",
+    "relacion": "causa",
+    "valor": "efectos neurológicos"
+  },
+  {
+    "entidad": "métodos de análisis",
+    "relacion": "utiliza",
+    "valor": "espectrometría de masas y espectrofotometría"
+  },
+  {
+    "entidad": "población chilena",
+    "relacion": "expuesta a",
+    "valor": "metales pesados"
+  },
+  {
+    "entidad": "norte de Chile",
+    "relacion": "muestra",
+    "valor": "niveles elevados de arsénico"
+  },
+  {
+    "entidad": "consumo de pescado",
+    "relacion": "aumenta",
+    "valor": "niveles de arsénico"
+  },
+  {
+    "entidad": "niveles de plomo",
+    "relacion": "son",
+    "valor": "generalmente dentro de límites"
+  },
+  {
+    "entidad": "niveles de mercurio",
+    "relacion": "son",
+    "valor": "generalmente dentro de límites"
+  },
+  {
+    "entidad": "niveles de cadmio",
+    "relacion": "son",
+    "valor": "generalmente dentro de límites"
+  },
+  {
+    "entidad": "biomonitoring continuo",
+    "relacion": "es crucial para",
+    "valor": "mitigar riesgos para la salud"
+  },
+  {
+    "entidad": "poblaciones vulnerables",
+    "relacion": "necesitan",
+    "valor": "intervenciones de salud pública específicas"
+  },
+  {
+    "entidad": "políticas de salud pública",
+    "relacion": "deben ser informadas por",
+    "valor": "datos sobre exposición a metales"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "destaca",
+    "valor": "importancia de la investigación continua"
+  },
+  {
+    "entidad": "exposición a metales pesados",
+    "relacion": "afecta a",
+    "valor": "poblaciones vulnerables como niños y mujeres embarazadas"
+  },
+  {
+    "entidad": "Ley 20.850",
+    "relacion": "promulga",
+    "valor": "Sistema de Protección Financiera para Diagnósticos y Tratamientos de Alto Costo"
+  },
+  {
+    "entidad": "Ley Ricarte Soto",
+    "relacion": "crea",
+    "valor": "sistema de protección financiera para diagnóstico y tratamiento de enfermedades de alto costo"
+  },
+  {
+    "entidad": "Ley Ricarte Soto",
+    "relacion": "cubre",
+    "valor": "27 patologías"
+  },
+  {
+    "entidad": "Ministerio de Salud (MINSAL)",
+    "relacion": "realiza",
+    "valor": "cálculo de tarifas para tratamientos de alto costo cada tres años"
+  },
+  {
+    "entidad": "Ministerio de Salud (MINSAL)",
+    "relacion": "fija",
+    "valor": "umbral nacional de costo anual en salud"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud (OMS)",
+    "relacion": "plantea",
+    "valor": "gasto catastrófico si supera el 40% del presupuesto familiar"
+  },
+  {
+    "entidad": "Garantías Explícitas en Salud (GES)",
+    "relacion": "otorga",
+    "valor": "cobertura, acceso, calidad, oportunidad y protección financiera"
+  },
+  {
+    "entidad": "Corte Suprema chilena",
+    "relacion": "falló a favor de",
+    "valor": "diversos casos referente a medicamentos de alto costo"
+  },
+  {
+    "entidad": "Ley Ricarte Soto",
+    "relacion": "ha demostrado",
+    "valor": "fortalezas y debilidades desde su constitución inicial en 2015"
+  },
+  {
+    "entidad": "sistemas de salud",
+    "relacion": "implementan",
+    "valor": "procesos de toma de decisiones más transparentes y éticos"
+  },
+  {
+    "entidad": "Ley Ricarte Soto",
+    "relacion": "permite asegurar",
+    "valor": "protección financiera independiente del sistema previsional de salud"
+  },
+  {
+    "entidad": "enfermedades raras (EERR)",
+    "relacion": "afectan a",
+    "valor": "un pequeño número de personas comparado con la población general"
+  },
+  {
+    "entidad": "Ley Ricarte Soto",
+    "relacion": "se suma a",
+    "valor": "Garantías Explícitas en Salud (GES)"
+  },
+  {
+    "entidad": "Ley Ricarte Soto",
+    "relacion": "ha presentado",
+    "valor": "dificultades en su implementación"
+  },
+  {
+    "entidad": "Ley Ricarte Soto",
+    "relacion": "se plantea",
+    "valor": "aumento del monto del fondo para DTAC"
+  },
+  {
+    "entidad": "Ley Ricarte Soto",
+    "relacion": "establece",
+    "valor": "tres etapas del proceso de definición de coberturas"
+  },
+  {
+    "entidad": "Ley Ricarte Soto",
+    "relacion": "enfatiza",
+    "valor": "análisis exhaustivo que abarca aspectos médicos, económicos y sociales"
+  },
+  {
+    "entidad": "ciudadanía",
+    "relacion": "participa en",
+    "valor": "formulación e implementación de la Ley Ricarte Soto"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "organizan",
+    "valor": "movilizaciones para exigir atención médica"
+  },
+  {
+    "entidad": "Ley Ricarte Soto",
+    "relacion": "proporciona",
+    "valor": "un espacio formal de participación en la toma de decisiones"
+  },
+  {
+    "entidad": "Ley Ricarte Soto",
+    "relacion": "ha sido objeto de",
+    "valor": "debate sobre su financiamiento y presupuesto"
+  },
+  {
+    "entidad": "mieloma múltiple",
+    "relacion": "es una",
+    "valor": "neoplasia derivada de células plasmáticas"
+  },
+  {
+    "entidad": "daratumumab",
+    "relacion": "es un",
+    "valor": "tratamiento para mieloma múltiple"
+  },
+  {
+    "entidad": "carfilzomib",
+    "relacion": "es un",
+    "valor": "tratamiento para mieloma múltiple"
+  },
+  {
+    "entidad": "pomalidomida",
+    "relacion": "es un",
+    "valor": "tratamiento para mieloma múltiple"
+  },
+  {
+    "entidad": "Hospital Clínico Universidad de Chile",
+    "relacion": "realiza",
+    "valor": "evaluación de tratamientos para mieloma múltiple"
+  },
+  {
+    "entidad": "pacientes con mieloma múltiple recaído",
+    "relacion": "son tratados con",
+    "valor": "daratumumab, carfilzomib y pomalidomida"
+  },
+  {
+    "entidad": "daratumumab, carfilzomib y pomalidomida",
+    "relacion": "han mostrado",
+    "valor": "buenos resultados a nivel internacional"
+  },
+  {
+    "entidad": "mieloma múltiple recaído o refractario",
+    "relacion": "es un",
+    "valor": "tipo de mieloma múltiple"
+  },
+  {
+    "entidad": "efectos adversos",
+    "relacion": "son",
+    "valor": "infecciones y reacciones infusionales"
+  },
+  {
+    "entidad": "sobrevida libre de progresión",
+    "relacion": "es un",
+    "valor": "desenlace importante en el tratamiento"
+  },
+  {
+    "entidad": "sobrevida global",
+    "relacion": "es un",
+    "valor": "desenlace importante en el tratamiento"
+  },
+  {
+    "entidad": "daratumumab-carfilzomib-dexametasona",
+    "relacion": "es un",
+    "valor": "régimen de tratamiento"
+  },
+  {
+    "entidad": "daratumumab-pomalidomida-dexametasona",
+    "relacion": "es un",
+    "valor": "régimen de tratamiento"
+  },
+  {
+    "entidad": "pacientes mayores de 18 años",
+    "relacion": "son incluidos en",
+    "valor": "estudios de tratamiento"
+  },
+  {
+    "entidad": "daratumumab",
+    "relacion": "se administra por",
+    "valor": "vía intravenosa"
+  },
+  {
+    "entidad": "pomalidomida",
+    "relacion": "se administra por",
+    "valor": "vía oral"
+  },
+  {
+    "entidad": "carfilzomib",
+    "relacion": "se administra por",
+    "valor": "vía intravenosa"
+  },
+  {
+    "entidad": "dosis ajustadas",
+    "relacion": "son utilizadas en",
+    "valor": "pacientes frágiles"
+  },
+  {
+    "entidad": "programa de garantías explícitas de salud",
+    "relacion": "debe incorporar",
+    "valor": "daratumumab, carfilzomib y pomalidomida"
+  }
+]

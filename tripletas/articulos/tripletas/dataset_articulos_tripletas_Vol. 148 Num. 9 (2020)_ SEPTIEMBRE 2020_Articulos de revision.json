@@ -1,0 +1,302 @@
+[
+  {
+    "entidad": "anticoagulantes orales",
+    "relacion": "son",
+    "valor": "fármacos ampliamente prescritos"
+  },
+  {
+    "entidad": "cumarínicos",
+    "relacion": "se utilizan para",
+    "valor": "tratamiento y prevención de eventos tromboembólicos"
+  },
+  {
+    "entidad": "acenocumarol",
+    "relacion": "es",
+    "valor": "fármaco utilizado en América Latina"
+  },
+  {
+    "entidad": "International Normalized Ratio (INR)",
+    "relacion": "se utiliza para",
+    "valor": "establecer dosificación inicial"
+  },
+  {
+    "entidad": "tiempo en rango terapéutico (TTR)",
+    "relacion": "es",
+    "valor": "indicador de calidad de terapia anticoagulante"
+  },
+  {
+    "entidad": "TTR > 65%",
+    "relacion": "es considerado",
+    "valor": "óptimo por The National Institute for Health and Care Excellence"
+  },
+  {
+    "entidad": "variabilidad interindividual",
+    "relacion": "afecta",
+    "valor": "requerimientos de dosis de cumarínicos"
+  },
+  {
+    "entidad": "factores genéticos",
+    "relacion": "explican",
+    "valor": "variabilidad en requerimientos de dosis"
+  },
+  {
+    "entidad": "polimorfismos en genes",
+    "relacion": "modulan",
+    "valor": "requerimientos de dosis"
+  },
+  {
+    "entidad": "algoritmos de dosificación",
+    "relacion": "son requeridos para",
+    "valor": "ajustar dosis individuales"
+  },
+  {
+    "entidad": "VKORC1",
+    "relacion": "es",
+    "valor": "el blanco terapéutico de los cumarínicos"
+  },
+  {
+    "entidad": "CYP2C9",
+    "relacion": "es",
+    "valor": "la enzima responsable del metabolismo de los cumarínicos"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "es un",
+    "valor": "factor determinante en requerimientos de dosis"
+  },
+  {
+    "entidad": "género",
+    "relacion": "es un",
+    "valor": "predictor independiente en requerimientos de dosis"
+  },
+  {
+    "entidad": "dieta",
+    "relacion": "modifica",
+    "valor": "respuesta terapéutica a cumarínicos"
+  },
+  {
+    "entidad": "etnicidad",
+    "relacion": "afecta",
+    "valor": "requerimientos de dosis de cumarínicos"
+  },
+  {
+    "entidad": "población asiática",
+    "relacion": "presenta",
+    "valor": "menores requerimientos de dosis de cumarínicos"
+  },
+  {
+    "entidad": "población latinoamericana",
+    "relacion": "es una mezcla de",
+    "valor": "poblaciones nativas americanas, europeos y negroides"
+  },
+  {
+    "entidad": "algoritmos de dosificación",
+    "relacion": "mejoran",
+    "valor": "respuesta terapéutica y seguridad del paciente"
+  },
+  {
+    "entidad": "Food and Drug Administration (FDA)",
+    "relacion": "sugiere",
+    "valor": "realización de estudios farmacogenómicos"
+  },
+  {
+    "entidad": "SNPs en genes candidatos",
+    "relacion": "asocian con",
+    "valor": "variabilidad en requerimientos de dosis"
+  },
+  {
+    "entidad": "VKORC1 -1639 G>A",
+    "relacion": "se asocia con",
+    "valor": "menores requerimientos de acenocumarol"
+  },
+  {
+    "entidad": "CYP2C9*2",
+    "relacion": "es",
+    "valor": "un alelo que afecta la actividad enzimática de CYP2C9"
+  },
+  {
+    "entidad": "CYP4F2",
+    "relacion": "codifica para",
+    "valor": "una vitamina K1 oxidasa"
+  },
+  {
+    "entidad": "CALU",
+    "relacion": "codifica para",
+    "valor": "calumenina, una proteína chaperona"
+  },
+  {
+    "entidad": "inteligencia artificial",
+    "relacion": "contribuiría a",
+    "valor": "mejorar la capacidad de predicción de algoritmos de dosis"
+  },
+  {
+    "entidad": "Resonancia magnética",
+    "relacion": "es utilizada para",
+    "valor": "diagnóstico precoz de artritis reumatoide"
+  },
+  {
+    "entidad": "Artritis reumatoide",
+    "relacion": "es una",
+    "valor": "enfermedad autoinmune sistémica crónica"
+  },
+  {
+    "entidad": "Radiografía convencional",
+    "relacion": "es la técnica utilizada para",
+    "valor": "diagnóstico temprano de artritis reumatoide"
+  },
+  {
+    "entidad": "Resonancia magnética",
+    "relacion": "tiene mejor sensibilidad que",
+    "valor": "radiografía convencional para detectar inflamación"
+  },
+  {
+    "entidad": "Protocolo de resonancia magnética",
+    "relacion": "es implementado por",
+    "valor": "Servicio de Radiología y Diagnóstico por Imágenes de Red Salud UC Christus"
+  },
+  {
+    "entidad": "Criterios de clasificación de artritis reumatoide ACR/EULAR 2010",
+    "relacion": "son utilizados para",
+    "valor": "identificar pacientes con alto riesgo de desarrollar enfermedad erosiva"
+  },
+  {
+    "entidad": "Tenosinovitis",
+    "relacion": "es un hallazgo frecuente en",
+    "valor": "artritis reumatoide"
+  },
+  {
+    "entidad": "Edema óseo-osteítis",
+    "relacion": "es un signo exclusivo de",
+    "valor": "resonancia magnética"
+  },
+  {
+    "entidad": "OMERACT",
+    "relacion": "es un grupo de estudio que",
+    "valor": "estandariza técnicas de evaluación de resonancia magnética en artritis reumatoide"
+  },
+  {
+    "entidad": "Gadolinio",
+    "relacion": "es utilizado para",
+    "valor": "mejorar sensibilidad en la pesquisa de sinovitis"
+  },
+  {
+    "entidad": "Erosiones",
+    "relacion": "son definidas como",
+    "valor": "lesiones circunscritas yuxtaarticulares en resonancia magnética"
+  },
+  {
+    "entidad": "Anquilosis",
+    "relacion": "es un resultado de",
+    "valor": "una enfermedad erosiva e inflamatoria crónica"
+  },
+  {
+    "entidad": "Técnica de imagen",
+    "relacion": "permite detectar",
+    "valor": "lesiones inflamatorias precoces"
+  },
+  {
+    "entidad": "Tratamiento",
+    "relacion": "puede ser optimizado mediante",
+    "valor": "evaluación de hallazgos imagenológicos"
+  },
+  {
+    "entidad": "Resonancia magnética",
+    "relacion": "es considerada la mejor modalidad de",
+    "valor": "imagen no invasiva para artropatías inflamatorias"
+  },
+  {
+    "entidad": "Criterios de 1987 del American College of Rheumatology",
+    "relacion": "presentan limitaciones en",
+    "valor": "diagnóstico temprano de artritis reumatoide"
+  },
+  {
+    "entidad": "SARS-CoV-2",
+    "relacion": "es un",
+    "valor": "virus altamente contagioso"
+  },
+  {
+    "entidad": "SARS-CoV-2",
+    "relacion": "causa",
+    "valor": "neumonía"
+  },
+  {
+    "entidad": "murciélago Rhinolophus affinis",
+    "relacion": "es el",
+    "valor": "huésped natural de SARS-CoV-2"
+  },
+  {
+    "entidad": "SARS-CoV-2",
+    "relacion": "muestra",
+    "valor": "96,2% de identidad genética con BatCoV RaTG131"
+  },
+  {
+    "entidad": "ACE2",
+    "relacion": "es el",
+    "valor": "receptor celular para SARS-CoV-2"
+  },
+  {
+    "entidad": "cavidad oral",
+    "relacion": "es un",
+    "valor": "reservorio viral importante"
+  },
+  {
+    "entidad": "saliva",
+    "relacion": "transmite",
+    "valor": "SARS-CoV-2"
+  },
+  {
+    "entidad": "odontólogos",
+    "relacion": "están expuestos a",
+    "valor": "riesgo de contagio por SARS-CoV-2"
+  },
+  {
+    "entidad": "aerosoles",
+    "relacion": "son generados por",
+    "valor": "procedimientos dentales"
+  },
+  {
+    "entidad": "enjuague bucal",
+    "relacion": "reduce",
+    "valor": "carga de microbios orales"
+  },
+  {
+    "entidad": "clorhexidina",
+    "relacion": "no es efectiva para",
+    "valor": "eliminar SARS-CoV-2"
+  },
+  {
+    "entidad": "peróxido de hidrógeno",
+    "relacion": "se recomienda como",
+    "valor": "enjuague bucal preprocedimiento"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "publica",
+    "valor": "guía sobre urgencias odontológicas"
+  },
+  {
+    "entidad": "desechos médicos",
+    "relacion": "deben ser",
+    "valor": "transportados a área de almacenamiento temporal"
+  },
+  {
+    "entidad": "SARS-CoV-2",
+    "relacion": "se considera",
+    "valor": "desecho médico infeccioso"
+  },
+  {
+    "entidad": "práctica clínica",
+    "relacion": "debe incluir",
+    "valor": "protocolos de prevención"
+  },
+  {
+    "entidad": "odontología",
+    "relacion": "debe atender",
+    "valor": "solo urgencias durante la pandemia"
+  },
+  {
+    "entidad": "EPP",
+    "relacion": "debe ser usado por",
+    "valor": "odontólogos durante atención médica"
+  }
+]

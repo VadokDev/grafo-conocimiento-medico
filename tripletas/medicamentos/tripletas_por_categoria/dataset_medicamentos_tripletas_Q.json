@@ -1,0 +1,712 @@
+[
+  {
+    "entidad": "Quetiapina",
+    "relacion": "contraindicado_en",
+    "valor": "adultos mayores con demencia"
+  },
+  {
+    "entidad": "Quetiapina",
+    "relacion": "contraindicado_en",
+    "valor": "niños menores de 10 años"
+  },
+  {
+    "entidad": "Quetiapina",
+    "relacion": "trata",
+    "valor": "esquizofrenia"
+  },
+  {
+    "entidad": "Quetiapina",
+    "relacion": "trata",
+    "valor": "episodios de manía en trastorno bipolar"
+  },
+  {
+    "entidad": "Quetiapina",
+    "relacion": "trata",
+    "valor": "depresión en trastorno bipolar"
+  },
+  {
+    "entidad": "Quetiapina",
+    "relacion": "uso",
+    "valor": "tomar por vía oral, de una a tres veces al día"
+  },
+  {
+    "entidad": "Quetiapina",
+    "relacion": "uso",
+    "valor": "tomar una vez al día en la tarde para liberación prolongada"
+  },
+  {
+    "entidad": "Quetiapina",
+    "relacion": "se_administra_via",
+    "valor": "oral"
+  },
+  {
+    "entidad": "Quetiapina",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Quetiapina",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias a la quetiapina"
+  },
+  {
+    "entidad": "Quetiapina",
+    "relacion": "precaucion",
+    "valor": "informar sobre medicamentos que se están tomando"
+  },
+  {
+    "entidad": "Quetiapina",
+    "relacion": "precaucion",
+    "valor": "informar si hay diabetes o problemas cardíacos"
+  },
+  {
+    "entidad": "Quetiapina",
+    "relacion": "precaucion",
+    "valor": "evitar alcohol"
+  },
+  {
+    "entidad": "Quetiapina",
+    "relacion": "dieta",
+    "valor": "hablar sobre dieta y jugo de pomelo con el médico"
+  },
+  {
+    "entidad": "Quetiapina",
+    "relacion": "olvido",
+    "valor": "tomar la dosis olvidada tan pronto como se recuerde"
+  },
+  {
+    "entidad": "Quetiapina",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Quetiapina",
+    "relacion": "efecto_secundario",
+    "valor": "cataratas"
+  },
+  {
+    "entidad": "Quetiapina",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original, cerrado y a temperatura ambiente"
+  },
+  {
+    "entidad": "Quetiapina",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Quetiapina",
+    "relacion": "marca_comercial",
+    "valor": "Seroquel"
+  },
+  {
+    "entidad": "Quetiapina",
+    "relacion": "marca_comercial",
+    "valor": "Seroquel XR"
+  },
+  {
+    "entidad": "Quinina",
+    "relacion": "contraindicado_en",
+    "valor": "calambres nocturnos en las piernas"
+  },
+  {
+    "entidad": "Quinina",
+    "relacion": "trata",
+    "valor": "malaria"
+  },
+  {
+    "entidad": "Quinina",
+    "relacion": "uso",
+    "valor": "cápsula para tomar por vía oral, tres veces al día"
+  },
+  {
+    "entidad": "Quinina",
+    "relacion": "otro_uso",
+    "valor": "babesiosis"
+  },
+  {
+    "entidad": "Quinina",
+    "relacion": "precaucion",
+    "valor": "alergias a quinina, quinidina, mefloquina"
+  },
+  {
+    "entidad": "Quinina",
+    "relacion": "precaucion",
+    "valor": "interacciones con antiácidos que contengan magnesio o aluminio"
+  },
+  {
+    "entidad": "Quinina",
+    "relacion": "precaucion",
+    "valor": "informar sobre problemas cardíacos y deficiencia de G-6-PD"
+  },
+  {
+    "entidad": "Quinina",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Quinina",
+    "relacion": "olvido",
+    "valor": "tome la dosis que omitió tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Quinina",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Quinina",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para oír o zumbidos en los oídos"
+  },
+  {
+    "entidad": "Quinina",
+    "relacion": "efecto_secundario",
+    "valor": "confusión"
+  },
+  {
+    "entidad": "Quinina",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Quinina",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para respirar o tragar"
+  },
+  {
+    "entidad": "Quinina",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, a temperatura ambiente"
+  },
+  {
+    "entidad": "Quinina",
+    "relacion": "sobredosis",
+    "valor": "llame a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Quinina",
+    "relacion": "marca_comercial",
+    "valor": "Qualaquin ®"
+  },
+  {
+    "entidad": "Quizartinib",
+    "relacion": "contraindicado_en",
+    "valor": "síndrome de QT prolongado"
+  },
+  {
+    "entidad": "Quizartinib",
+    "relacion": "trata",
+    "valor": "leucemia mieloide aguda"
+  },
+  {
+    "entidad": "Quizartinib",
+    "relacion": "uso",
+    "valor": "tableta para tomar por vía oral una vez al día"
+  },
+  {
+    "entidad": "Quizartinib",
+    "relacion": "se_administra_via",
+    "valor": "oral"
+  },
+  {
+    "entidad": "Quizartinib",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos"
+  },
+  {
+    "entidad": "Quizartinib",
+    "relacion": "dieta",
+    "valor": "continuar con dieta normal a menos que se indique lo contrario"
+  },
+  {
+    "entidad": "Quizartinib",
+    "relacion": "olvido",
+    "valor": "tomar la dosis omitida tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Quizartinib",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Quizartinib",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas o vómitos"
+  },
+  {
+    "entidad": "Quizartinib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor abdominal"
+  },
+  {
+    "entidad": "Quizartinib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Quizartinib",
+    "relacion": "efecto_secundario",
+    "valor": "disminución del apetito"
+  },
+  {
+    "entidad": "Quizartinib",
+    "relacion": "efecto_secundario",
+    "valor": "sangrado de nariz"
+  },
+  {
+    "entidad": "Quizartinib",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para dormir"
+  },
+  {
+    "entidad": "Quizartinib",
+    "relacion": "efecto_secundario",
+    "valor": "irritación o picazón de los ojos"
+  },
+  {
+    "entidad": "Quizartinib",
+    "relacion": "efecto_secundario",
+    "valor": "tos"
+  },
+  {
+    "entidad": "Quizartinib",
+    "relacion": "efecto_secundario",
+    "valor": "confusión o desorientación"
+  },
+  {
+    "entidad": "Quizartinib",
+    "relacion": "efecto_secundario",
+    "valor": "fatiga"
+  },
+  {
+    "entidad": "Quizartinib",
+    "relacion": "almacenamiento",
+    "valor": "mantener en empaque original, bien cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Quizartinib",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Quizartinib",
+    "relacion": "marca_comercial",
+    "valor": "Vanflyta"
+  },
+  {
+    "entidad": "Ripretinib",
+    "relacion": "trata",
+    "valor": "tumores del estroma gastrointestinal (GIST)"
+  },
+  {
+    "entidad": "Ripretinib",
+    "relacion": "uso",
+    "valor": "tabletas para tomar por vía oral una vez al día"
+  },
+  {
+    "entidad": "Ripretinib",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Ripretinib",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos"
+  },
+  {
+    "entidad": "Ripretinib",
+    "relacion": "precaucion",
+    "valor": "no quedar embarazada durante el tratamiento"
+  },
+  {
+    "entidad": "Ripretinib",
+    "relacion": "precaucion",
+    "valor": "no amamantar durante el tratamiento"
+  },
+  {
+    "entidad": "Ripretinib",
+    "relacion": "precaucion",
+    "valor": "evitar exposición prolongada al sol"
+  },
+  {
+    "entidad": "Ripretinib",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Ripretinib",
+    "relacion": "olvido",
+    "valor": "tomar la dosis omitida tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Ripretinib",
+    "relacion": "efecto_secundario",
+    "valor": "aumento del riesgo de cáncer de piel"
+  },
+  {
+    "entidad": "Ripretinib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor en músculos o articulaciones"
+  },
+  {
+    "entidad": "Ripretinib",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida del cabello"
+  },
+  {
+    "entidad": "Ripretinib",
+    "relacion": "efecto_secundario",
+    "valor": "picazón en la piel o piel seca"
+  },
+  {
+    "entidad": "Ripretinib",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Ripretinib",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Ripretinib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago"
+  },
+  {
+    "entidad": "Ripretinib",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Ripretinib",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Ripretinib",
+    "relacion": "efecto_secundario",
+    "valor": "fatiga"
+  },
+  {
+    "entidad": "Ripretinib",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, a temperatura ambiente"
+  },
+  {
+    "entidad": "Ripretinib",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Saxagliptina",
+    "relacion": "trata",
+    "valor": "diabetes tipo 2"
+  },
+  {
+    "entidad": "Saxagliptina",
+    "relacion": "uso",
+    "valor": "tabletas para administrarse por vía oral, una vez al día"
+  },
+  {
+    "entidad": "Saxagliptina",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Saxagliptina",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos"
+  },
+  {
+    "entidad": "Saxagliptina",
+    "relacion": "dieta",
+    "valor": "seguir recomendaciones de ejercicio y dieta saludable"
+  },
+  {
+    "entidad": "Saxagliptina",
+    "relacion": "olvido",
+    "valor": "omitir la dosis y continuar con el programa habitual"
+  },
+  {
+    "entidad": "Saxagliptina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de garganta"
+  },
+  {
+    "entidad": "Saxagliptina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Saxagliptina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor en las articulaciones"
+  },
+  {
+    "entidad": "Saxagliptina",
+    "relacion": "efecto_secundario",
+    "valor": "picazón, sarpullido, urticaria o descamación de la piel"
+  },
+  {
+    "entidad": "Saxagliptina",
+    "relacion": "efecto_secundario",
+    "valor": "hinchazón de la cara, labios, lengua o garganta"
+  },
+  {
+    "entidad": "Saxagliptina",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para respirar o tragar"
+  },
+  {
+    "entidad": "Saxagliptina",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio excesivo"
+  },
+  {
+    "entidad": "Saxagliptina",
+    "relacion": "almacenamiento",
+    "valor": "mantener en envase original, cerrado herméticamente y a temperatura ambiente"
+  },
+  {
+    "entidad": "Saxagliptina",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Saxagliptina",
+    "relacion": "marca_comercial",
+    "valor": "Qtern"
+  },
+  {
+    "entidad": "Secobarbital",
+    "relacion": "trata",
+    "valor": "insomnio"
+  },
+  {
+    "entidad": "Secobarbital",
+    "relacion": "trata",
+    "valor": "ansiedad antes de una cirugía"
+  },
+  {
+    "entidad": "Secobarbital",
+    "relacion": "uso",
+    "valor": "tomar por vía oral en cápsula"
+  },
+  {
+    "entidad": "Secobarbital",
+    "relacion": "se_administra_via",
+    "valor": "vía oral"
+  },
+  {
+    "entidad": "Secobarbital",
+    "relacion": "olvido",
+    "valor": "puede tomar el secobarbital en ese momento, no duplique la dosis"
+  },
+  {
+    "entidad": "Secobarbital",
+    "relacion": "efecto_secundario",
+    "valor": "somnolencia"
+  },
+  {
+    "entidad": "Secobarbital",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para conciliar el sueño o mantenerse dormido"
+  },
+  {
+    "entidad": "Secobarbital",
+    "relacion": "efecto_secundario",
+    "valor": "pesadillas"
+  },
+  {
+    "entidad": "Secobarbital",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Secobarbital",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Secobarbital",
+    "relacion": "efecto_secundario",
+    "valor": "nerviosismo"
+  },
+  {
+    "entidad": "Secobarbital",
+    "relacion": "efecto_secundario",
+    "valor": "agitación"
+  },
+  {
+    "entidad": "Secobarbital",
+    "relacion": "efecto_secundario",
+    "valor": "confusión"
+  },
+  {
+    "entidad": "Secobarbital",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Secobarbital",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Secobarbital",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Secobarbital",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Secobarbital",
+    "relacion": "efecto_secundario",
+    "valor": "alucinaciones"
+  },
+  {
+    "entidad": "Secobarbital",
+    "relacion": "efecto_secundario",
+    "valor": "respiración lenta, poco profunda"
+  },
+  {
+    "entidad": "Secobarbital",
+    "relacion": "efecto_secundario",
+    "valor": "ritmo cardíaco lento"
+  },
+  {
+    "entidad": "Secobarbital",
+    "relacion": "efecto_secundario",
+    "valor": "urticaria"
+  },
+  {
+    "entidad": "Secobarbital",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Secobarbital",
+    "relacion": "efecto_secundario",
+    "valor": "picazón"
+  },
+  {
+    "entidad": "Secobarbital",
+    "relacion": "efecto_secundario",
+    "valor": "inflamación del rostro, la garganta, la lengua, los labios, los ojos, las manos, los pies, los tobillos o las pantorrillas"
+  },
+  {
+    "entidad": "Secobarbital",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para respirar o tragar"
+  },
+  {
+    "entidad": "Secobarbital",
+    "relacion": "efecto_secundario",
+    "valor": "ronquera"
+  },
+  {
+    "entidad": "Secobarbital",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, bien cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Secobarbital",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente y lejos del calor excesivo y la humedad"
+  },
+  {
+    "entidad": "Secobarbital",
+    "relacion": "sobredosis",
+    "valor": "llame a la línea de ayuda de control de envenenamiento al 1-800-222-1222"
+  },
+  {
+    "entidad": "Secobarbital",
+    "relacion": "marca_comercial",
+    "valor": "Seconal"
+  },
+  {
+    "entidad": "Viloxazina",
+    "relacion": "contraindicado_en",
+    "valor": "aumento del riesgo de suicidio en niños y adolescentes con TDAH"
+  },
+  {
+    "entidad": "Viloxazina",
+    "relacion": "trata",
+    "valor": "trastorno por déficit de atención con hiperactividad (TDAH)"
+  },
+  {
+    "entidad": "Viloxazina",
+    "relacion": "uso",
+    "valor": "cápsulas para administrarse por vía oral una vez al día, con o sin alimentos"
+  },
+  {
+    "entidad": "Viloxazina",
+    "relacion": "se_administra_via",
+    "valor": "oral"
+  },
+  {
+    "entidad": "Viloxazina",
+    "relacion": "otro_uso",
+    "valor": "otros usos según lo indique el médico"
+  },
+  {
+    "entidad": "Viloxazina",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos concurrentes"
+  },
+  {
+    "entidad": "Viloxazina",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta a menos que lo indique el médico"
+  },
+  {
+    "entidad": "Viloxazina",
+    "relacion": "olvido",
+    "valor": "tome la dosis omitida tan pronto como lo recuerde, omita si es casi la hora de la próxima dosis"
+  },
+  {
+    "entidad": "Viloxazina",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de apetito"
+  },
+  {
+    "entidad": "Viloxazina",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio"
+  },
+  {
+    "entidad": "Viloxazina",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Viloxazina",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Viloxazina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Viloxazina",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, a temperatura ambiente, lejos del calor y la humedad"
+  },
+  {
+    "entidad": "Viloxazina",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento o a los servicios de emergencia"
+  },
+  {
+    "entidad": "Viloxazina",
+    "relacion": "marca_comercial",
+    "valor": "Qelbree"
+  }
+]

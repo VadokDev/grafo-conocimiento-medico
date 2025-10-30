@@ -1,0 +1,307 @@
+[
+  {
+    "entidad": "Acrodermatitis enteropática",
+    "relacion": "es un",
+    "valor": "trastorno bioquímico y nutricional"
+  },
+  {
+    "entidad": "Acrodermatitis enteropática",
+    "relacion": "es causada por",
+    "valor": "deficiencia de zinc"
+  },
+  {
+    "entidad": "deficiencia de zinc",
+    "relacion": "puede ser",
+    "valor": "heredada o adquirida"
+  },
+  {
+    "entidad": "Acrodermatitis enteropática",
+    "relacion": "se caracteriza por",
+    "valor": "alopecia, diarrea y dermatitis"
+  },
+  {
+    "entidad": "Zinc",
+    "relacion": "se utiliza para",
+    "valor": "suplementación en acrodermatitis enteropática"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "es",
+    "valor": "femenino de 31 años"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "lesiones peribucales dolorosas"
+  },
+  {
+    "entidad": "lesiones cutáneas",
+    "relacion": "evolucionan a",
+    "valor": "erosiones sin tratamiento"
+  },
+  {
+    "entidad": "Acrodermatitis enteropática",
+    "relacion": "puede causar",
+    "valor": "retardo en la cicatrización de heridas"
+  },
+  {
+    "entidad": "Zinc",
+    "relacion": "juega un papel importante en",
+    "valor": "metabolismo de proteínas y desarrollo celular"
+  },
+  {
+    "entidad": "diagnóstico de acrodermatitis enteropática",
+    "relacion": "se confirma con",
+    "valor": "baja concentración de zinc plasmático"
+  },
+  {
+    "entidad": "suplementación de zinc",
+    "relacion": "demuestra",
+    "valor": "reducir la morbi-mortalidad infantil"
+  },
+  {
+    "entidad": "Acrodermatitis enteropática heredada",
+    "relacion": "tiene una incidencia estimada de",
+    "valor": "1 por cada 500.000 niños"
+  },
+  {
+    "entidad": "deficiencia adquirida de zinc",
+    "relacion": "afecta",
+    "valor": "un tercio de la población en el sureste de Asia"
+  },
+  {
+    "entidad": "alcoholismo",
+    "relacion": "disminuye",
+    "valor": "absorción intestinal de zinc"
+  },
+  {
+    "entidad": "tratamiento oral con zinc",
+    "relacion": "es",
+    "valor": "el de elección para acrodermatitis enteropática"
+  },
+  {
+    "entidad": "efectos adversos de zinc",
+    "relacion": "incluyen",
+    "valor": "náuseas y vómito"
+  },
+  {
+    "entidad": "diagnóstico diferencial",
+    "relacion": "incluye",
+    "valor": "psoriasis y dermatitis atópica"
+  },
+  {
+    "entidad": "Síndrome de HELLP",
+    "relacion": "es una forma severa de",
+    "valor": "preeclampsia"
+  },
+  {
+    "entidad": "preeclampsia",
+    "relacion": "afecta a",
+    "valor": "madres y fetos"
+  },
+  {
+    "entidad": "22 años",
+    "relacion": "es la edad de",
+    "valor": "la paciente"
+  },
+  {
+    "entidad": "hospitalización",
+    "relacion": "fue realizada por",
+    "valor": "pielonefritis aguda"
+  },
+  {
+    "entidad": "antibióticos",
+    "relacion": "fueron utilizados para",
+    "valor": "tratar la infección"
+  },
+  {
+    "entidad": "diagnóstico de preeclampsia severa",
+    "relacion": "fue confirmado por",
+    "valor": "proteinuria y elevación de enzimas"
+  },
+  {
+    "entidad": "presión arterial",
+    "relacion": "se mantuvo en",
+    "valor": "rango normal"
+  },
+  {
+    "entidad": "muerte fetal",
+    "relacion": "fue confirmada tras",
+    "valor": "la inducción del aborto"
+  },
+  {
+    "entidad": "transfusión de plaquetas",
+    "relacion": "fue requerida por",
+    "valor": "la paciente"
+  },
+  {
+    "entidad": "biopsia placentaria",
+    "relacion": "informó",
+    "valor": "extensa zona de infarto hemorrágico"
+  },
+  {
+    "entidad": "dexametasona",
+    "relacion": "fue planificada pero",
+    "valor": "no se administró"
+  },
+  {
+    "entidad": "síndrome de HELLP normotensivo",
+    "relacion": "es un caso reportado de",
+    "valor": "presentación atípica"
+  },
+  {
+    "entidad": "mortalidad perinatal",
+    "relacion": "varía entre",
+    "valor": "3,9 a 16,6%"
+  },
+  {
+    "entidad": "diagnóstico oportuno de HELLP",
+    "relacion": "puede evitar",
+    "valor": "complicaciones graves"
+  },
+  {
+    "entidad": "hígado graso agudo del embarazo",
+    "relacion": "es un imitador de",
+    "valor": "preeclampsia"
+  },
+  {
+    "entidad": "púrpura trombocitopénico trombótico",
+    "relacion": "es un diagnóstico diferencial de",
+    "valor": "síndrome de HELLP"
+  },
+  {
+    "entidad": "síndrome hemolítico urémico",
+    "relacion": "es un diagnóstico diferencial de",
+    "valor": "síndrome de HELLP"
+  },
+  {
+    "entidad": "exacerbación lúpica",
+    "relacion": "es un diagnóstico diferencial de",
+    "valor": "síndrome de HELLP"
+  },
+  {
+    "entidad": "interrupción del embarazo",
+    "relacion": "debe realizarse para evitar",
+    "valor": "complicaciones graves"
+  },
+  {
+    "entidad": "Síndrome hemofagocítico secundario",
+    "relacion": "es un",
+    "valor": "entidad infrecuente"
+  },
+  {
+    "entidad": "Síndrome hemofagocítico secundario",
+    "relacion": "tiene",
+    "valor": "alta mortalidad en adultos"
+  },
+  {
+    "entidad": "hipercitoquinemia",
+    "relacion": "es causada por",
+    "valor": "sistema inmune estimulado pero ineficaz"
+  },
+  {
+    "entidad": "infecciones",
+    "relacion": "son una causa de",
+    "valor": "síndrome hemofagocítico secundario"
+  },
+  {
+    "entidad": "malignidad",
+    "relacion": "es una causa de",
+    "valor": "síndrome hemofagocítico secundario"
+  },
+  {
+    "entidad": "enfermedades autoinmunes",
+    "relacion": "son una causa de",
+    "valor": "síndrome hemofagocítico secundario"
+  },
+  {
+    "entidad": "fiebre",
+    "relacion": "es un síntoma de",
+    "valor": "síndrome hemofagocítico secundario"
+  },
+  {
+    "entidad": "citopenia",
+    "relacion": "es un síntoma de",
+    "valor": "síndrome hemofagocítico secundario"
+  },
+  {
+    "entidad": "hepatosplenomegalia",
+    "relacion": "es un síntoma de",
+    "valor": "síndrome hemofagocítico secundario"
+  },
+  {
+    "entidad": "hemofagocitosis",
+    "relacion": "es un síntoma de",
+    "valor": "síndrome hemofagocítico secundario"
+  },
+  {
+    "entidad": "linfoma T subcutáneo paniculitis like",
+    "relacion": "es un tipo de",
+    "valor": "neoplasia hematológica"
+  },
+  {
+    "entidad": "linfoma del manto",
+    "relacion": "es un tipo de",
+    "valor": "neoplasia hematológica"
+  },
+  {
+    "entidad": "linfoma anaplástico de células grandes ALK (+)",
+    "relacion": "es un tipo de",
+    "valor": "neoplasia hematológica"
+  },
+  {
+    "entidad": "infección por citomegalovirus (CMV)",
+    "relacion": "es una causa de",
+    "valor": "síndrome hemofagocítico secundario"
+  },
+  {
+    "entidad": "administración de lípidos parenterales",
+    "relacion": "es una causa de",
+    "valor": "síndrome hemofagocítico secundario"
+  },
+  {
+    "entidad": "quimioterapia",
+    "relacion": "es un tratamiento para",
+    "valor": "linfoma anaplástico ALK (+)"
+  },
+  {
+    "entidad": "ganciclovir",
+    "relacion": "es un tratamiento para",
+    "valor": "infección por CMV"
+  },
+  {
+    "entidad": "corticoides",
+    "relacion": "es un tratamiento para",
+    "valor": "síndrome hemofagocítico secundario"
+  },
+  {
+    "entidad": "ciclosporina",
+    "relacion": "es un tratamiento para",
+    "valor": "infecciones virales y enfermedades autoinmunes"
+  },
+  {
+    "entidad": "inmunoglobulina endovenosa",
+    "relacion": "es un tratamiento para",
+    "valor": "síndrome hemofagocítico secundario"
+  },
+  {
+    "entidad": "protocolo HLH 04",
+    "relacion": "es un tratamiento para",
+    "valor": "síndrome hemofagocítico familiar"
+  },
+  {
+    "entidad": "síndrome hemofagocítico secundario",
+    "relacion": "requiere",
+    "valor": "sospecha precoz y manejo adecuado"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "es alta en",
+    "valor": "síndrome hemofagocítico secundario"
+  },
+  {
+    "entidad": "síndrome hemofagocítico secundario",
+    "relacion": "puede ser desencadenado por",
+    "valor": "patologías malignas"
+  }
+]

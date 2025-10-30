@@ -1,0 +1,162 @@
+[
+  {
+    "entidad": "Endoscopía",
+    "relacion": "es esencial en",
+    "valor": "la evaluación y tratamiento del paciente bariátrico"
+  },
+  {
+    "entidad": "cirugía bariátrica",
+    "relacion": "está aumentando",
+    "valor": "exponencialmente"
+  },
+  {
+    "entidad": "endoscopistas",
+    "relacion": "deben estar familiarizados con",
+    "valor": "la anatomía y manejo de complicaciones"
+  },
+  {
+    "entidad": "complicaciones",
+    "relacion": "pueden incluir",
+    "valor": "fugas, estenosis o recuperación de peso"
+  },
+  {
+    "entidad": "endoscopía",
+    "relacion": "puede evaluar y tratar",
+    "valor": "síntomas postoperatorios"
+  },
+  {
+    "entidad": "sangrado gastrointestinal",
+    "relacion": "ocurre más frecuentemente después de",
+    "valor": "Roux-en-Y gástrico (RYgB)"
+  },
+  {
+    "entidad": "endoscopía",
+    "relacion": "está indicada en",
+    "valor": "casos de sangrado con hemodinamia inestable"
+  },
+  {
+    "entidad": "fugas anastomóticas",
+    "relacion": "tienen una incidencia de",
+    "valor": "0,1 a 5,6% después de RYgB"
+  },
+  {
+    "entidad": "manejo de fugas",
+    "relacion": "comúnmente consiste en",
+    "valor": "reintervención quirúrgica con drenaje adecuado"
+  },
+  {
+    "entidad": "terapias endoluminales",
+    "relacion": "pueden facilitar",
+    "valor": "el cierre de la fuga"
+  },
+  {
+    "entidad": "dilatación endoscópica",
+    "relacion": "ha demostrado ser",
+    "valor": "exitosa en el manejo de estenosis"
+  },
+  {
+    "entidad": "transoral outlet reduction (tORe)",
+    "relacion": "es un método para",
+    "valor": "disminuir el tamaño de la boca anastomótica"
+  },
+  {
+    "entidad": "endoscopía",
+    "relacion": "juega un rol fundamental en",
+    "valor": "el paciente sometido a cirugía bariátrica"
+  },
+  {
+    "entidad": "endoscopista",
+    "relacion": "debe conocer",
+    "valor": "los distintos escenarios en pacientes bariátricos"
+  },
+  {
+    "entidad": "hemorragias",
+    "relacion": "pueden ser tratadas",
+    "valor": "eficazmente con endoscopía"
+  },
+  {
+    "entidad": "endoscopía",
+    "relacion": "puede proporcionar",
+    "valor": "un método para el tratamiento de la recuperación de peso inadecuada"
+  },
+  {
+    "entidad": "terapia para el control del cáncer",
+    "relacion": "causa",
+    "valor": "impacto cardiovascular"
+  },
+  {
+    "entidad": "enfermedades cardiovasculares",
+    "relacion": "comparten",
+    "valor": "factores de riesgo con el cáncer"
+  },
+  {
+    "entidad": "Cardio-Oncología",
+    "relacion": "emerge como",
+    "valor": "vínculo entre oncología y cardiología"
+  },
+  {
+    "entidad": "toxocidad cardiovascular",
+    "relacion": "es",
+    "valor": "principal efecto secundario de la terapia oncológica"
+  },
+  {
+    "entidad": "antraciclinas",
+    "relacion": "provocan",
+    "valor": "disfunción ventricular"
+  },
+  {
+    "entidad": "trastuzumab",
+    "relacion": "interrumpe",
+    "valor": "señalización en cardiomiocitos"
+  },
+  {
+    "entidad": "radioterapia",
+    "relacion": "causa",
+    "valor": "cardiopatía inducida por radiación"
+  },
+  {
+    "entidad": "inhibidores de VEGF",
+    "relacion": "provocan",
+    "valor": "hipertensión arterial"
+  },
+  {
+    "entidad": "inhibidores del checkpoint inmunológico",
+    "relacion": "inducen",
+    "valor": "reacciones autoinmunes"
+  },
+  {
+    "entidad": "miocarditis",
+    "relacion": "ocurre en",
+    "valor": "1% de pacientes tratados con ICI"
+  },
+  {
+    "entidad": "pacientes oncológicos",
+    "relacion": "tienen",
+    "valor": "mayor incidencia de eventos tromboembólicos"
+  },
+  {
+    "entidad": "quimioterapia",
+    "relacion": "aumenta",
+    "valor": "riesgo de isquemia miocárdica"
+  },
+  {
+    "entidad": "alteraciones electrofisiológicas",
+    "relacion": "derivan de",
+    "valor": "bloqueo de canales de potasio"
+  },
+  {
+    "entidad": "enfermedad del pericardio",
+    "relacion": "se presenta como",
+    "valor": "derrame pericárdico o pericarditis"
+  },
+  {
+    "entidad": "enfermedad arterial periférica",
+    "relacion": "es inducida por",
+    "valor": "diversos fármacos antineoplásicos"
+  },
+  {
+    "entidad": "Cardio-Oncología",
+    "relacion": "promueve",
+    "valor": "prevención y detección temprana de complicaciones cardíacas"
+  }
+]

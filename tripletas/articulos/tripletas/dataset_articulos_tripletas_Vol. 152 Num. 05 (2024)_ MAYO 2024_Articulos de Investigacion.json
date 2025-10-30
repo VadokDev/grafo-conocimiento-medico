@@ -1,0 +1,432 @@
+[
+  {
+    "entidad": "5HTTLPR/rs25531",
+    "relacion": "asociación con",
+    "valor": "depresión"
+  },
+  {
+    "entidad": "serotonina",
+    "relacion": "regula",
+    "valor": "estado de ánimo"
+  },
+  {
+    "entidad": "transportador de serotonina",
+    "relacion": "regulador de",
+    "valor": "niveles de serotonina"
+  },
+  {
+    "entidad": "polimorfismos 5-HTTLPR",
+    "relacion": "afectan",
+    "valor": "funcionalidad del transportador de serotonina"
+  },
+  {
+    "entidad": "CIDI-10",
+    "relacion": "es utilizado para",
+    "valor": "diagnóstico de depresión"
+  },
+  {
+    "entidad": "muestra de saliva",
+    "relacion": "se utiliza para",
+    "valor": "extracción de ADN"
+  },
+  {
+    "entidad": "sexo femenino",
+    "relacion": "es un predictor de",
+    "valor": "depresión"
+  },
+  {
+    "entidad": "violencia vivida en la infancia",
+    "relacion": "es un predictor de",
+    "valor": "depresión"
+  },
+  {
+    "entidad": "5HTTLPR",
+    "relacion": "se encuentra en",
+    "valor": "cromosoma 17q11.2"
+  },
+  {
+    "entidad": "SLC6A4",
+    "relacion": "codifica",
+    "valor": "transportador de serotonina"
+  },
+  {
+    "entidad": "alelo S",
+    "relacion": "disminuye",
+    "valor": "eficiencia transcripcional de SLC6A4"
+  },
+  {
+    "entidad": "alelo L",
+    "relacion": "aumenta",
+    "valor": "eficiencia transcripcional de SLC6A4"
+  },
+  {
+    "entidad": "genotipos de riesgo",
+    "relacion": "no están asociados con",
+    "valor": "diagnóstico de depresión"
+  },
+  {
+    "entidad": "eventos traumáticos en la infancia",
+    "relacion": "aumentan",
+    "valor": "riesgo de depresión"
+  },
+  {
+    "entidad": "estudio de cohorte",
+    "relacion": "es un",
+    "valor": "diseño de investigación"
+  },
+  {
+    "entidad": "Universidad de Concepción",
+    "relacion": "realiza",
+    "valor": "evaluación ética del estudio"
+  },
+  {
+    "entidad": "ADN genómico",
+    "relacion": "es aislado de",
+    "valor": "muestras de saliva"
+  },
+  {
+    "entidad": "análisis de regresión logística",
+    "relacion": "se utiliza para",
+    "valor": "estudiar asociaciones entre variables"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "constituyen",
+    "valor": "mayoría de la muestra"
+  },
+  {
+    "entidad": "violencias en la infancia",
+    "relacion": "se asocian con",
+    "valor": "episodios depresivos"
+  },
+  {
+    "entidad": "polimorfismos de un solo nucleótido (SNPs)",
+    "relacion": "modifican",
+    "valor": "funcionalidad del transportador de serotonina"
+  },
+  {
+    "entidad": "Base de datos pública",
+    "relacion": "incluye",
+    "valor": "parámetros biomecánicos de la marcha"
+  },
+  {
+    "entidad": "Jóvenes chilenos",
+    "relacion": "son",
+    "valor": "población estudiada"
+  },
+  {
+    "entidad": "Laboratorio Integrativo de Biomecánica y Fisiología del Esfuerzo",
+    "relacion": "pertenece a",
+    "valor": "Escuela de Kinesiología, Universidad de los Andes"
+  },
+  {
+    "entidad": "VTE",
+    "relacion": "son",
+    "valor": "variables temporo-espaciales"
+  },
+  {
+    "entidad": "Cinemática",
+    "relacion": "mide",
+    "valor": "desplazamientos angulares de las articulaciones"
+  },
+  {
+    "entidad": "Cinética",
+    "relacion": "estudia",
+    "valor": "fuerzas en el cuerpo humano"
+  },
+  {
+    "entidad": "Sistema MOCAP Vicon",
+    "relacion": "utiliza",
+    "valor": "modelo Plug-in Gait Lower Body Functional"
+  },
+  {
+    "entidad": "Figshare",
+    "relacion": "publica",
+    "valor": "datos en formato .csv"
+  },
+  {
+    "entidad": "Datos biomecánicos",
+    "relacion": "son utilizados como",
+    "valor": "parámetros de referencia"
+  },
+  {
+    "entidad": "Estudio observacional",
+    "relacion": "fue realizado entre",
+    "valor": "2019 y 2021"
+  },
+  {
+    "entidad": "Comité Ético Científico de la Universidad de los Andes",
+    "relacion": "aprueba",
+    "valor": "proyecto de investigación"
+  },
+  {
+    "entidad": "Ciclo de marcha",
+    "relacion": "corresponde a",
+    "valor": "periodo entre dos contactos de talón sucesivos"
+  },
+  {
+    "entidad": "Datos de referencia",
+    "relacion": "son necesarios para",
+    "valor": "análisis biomecánicos en población local"
+  },
+  {
+    "entidad": "Tamaño muestral de 51 personas",
+    "relacion": "es",
+    "valor": "el más grande en liberar datos biomecánicos de marcha"
+  },
+  {
+    "entidad": "Métodos de calibración funcional",
+    "relacion": "son utilizados para",
+    "valor": "optimizar estimaciones de ejes articulares"
+  },
+  {
+    "entidad": "Datos de marcha",
+    "relacion": "pueden ser utilizados en",
+    "valor": "investigación y educación"
+  },
+  {
+    "entidad": "Resultados del estudio",
+    "relacion": "son de",
+    "valor": "libre acceso"
+  },
+  {
+    "entidad": "Fractal EDM",
+    "relacion": "es un",
+    "valor": "prestador privado en salud"
+  },
+  {
+    "entidad": "Hospital Clínico Fundación El Teniente (FUSAT)",
+    "relacion": "es un",
+    "valor": "prestador privado en salud"
+  },
+  {
+    "entidad": "Global Business School for Health",
+    "relacion": "es parte de",
+    "valor": "University College London"
+  },
+  {
+    "entidad": "Rubén Rojas",
+    "relacion": "es un",
+    "valor": "investigador"
+  },
+  {
+    "entidad": "Nicolás Jaña",
+    "relacion": "es un",
+    "valor": "investigador"
+  },
+  {
+    "entidad": "Carlos Arroyo",
+    "relacion": "es un",
+    "valor": "investigador"
+  },
+  {
+    "entidad": "Patricia Palma",
+    "relacion": "es un",
+    "valor": "investigador"
+  },
+  {
+    "entidad": "Gladys Alarcón",
+    "relacion": "es un",
+    "valor": "investigador"
+  },
+  {
+    "entidad": "Luis Arriagada",
+    "relacion": "es un",
+    "valor": "investigador"
+  },
+  {
+    "entidad": "enfermedades cardiovasculares",
+    "relacion": "representa",
+    "valor": "la segunda causa de muerte en Chile"
+  },
+  {
+    "entidad": "Unidad de Práctica Integrada (UPI) cardiometabólica",
+    "relacion": "se estructura",
+    "valor": "a lo largo del ciclo completo de atención médica"
+  },
+  {
+    "entidad": "modelo de cuidado basado en valor",
+    "relacion": "es un",
+    "valor": "enfoque en salud"
+  },
+  {
+    "entidad": "Porter y Lee",
+    "relacion": "escribieron",
+    "valor": "un artículo sobre UPI"
+  },
+  {
+    "entidad": "UPI",
+    "relacion": "satisface",
+    "valor": "necesidades de los pacientes"
+  },
+  {
+    "entidad": "Fractal EDM",
+    "relacion": "recibió financiamiento de",
+    "valor": "Laboratorio Novartis"
+  },
+  {
+    "entidad": "FUSAT",
+    "relacion": "es un",
+    "valor": "hospital que apoya la UPI"
+  },
+  {
+    "entidad": "pacientes con diabetes mellitus tipo 2",
+    "relacion": "son incluidos en",
+    "valor": "la UPI"
+  },
+  {
+    "entidad": "pacientes con hipertensión arterial",
+    "relacion": "son incluidos en",
+    "valor": "la UPI"
+  },
+  {
+    "entidad": "pacientes con dislipidemia",
+    "relacion": "son incluidos en",
+    "valor": "la UPI"
+  },
+  {
+    "entidad": "pacientes con enfermedad renal crónica",
+    "relacion": "son incluidos en",
+    "valor": "la UPI"
+  },
+  {
+    "entidad": "UPI",
+    "relacion": "se implementó",
+    "valor": "en el Hospital Clínico FUSAT"
+  },
+  {
+    "entidad": "VBH",
+    "relacion": "es un",
+    "valor": "enfoque para mejorar la atención médica"
+  },
+  {
+    "entidad": "método de evaluación de resultados reportados por pacientes (PROs)",
+    "relacion": "es utilizado para",
+    "valor": "mejorar la calidad de atención"
+  },
+  {
+    "entidad": "indicadores de seguimiento",
+    "relacion": "son definidos por",
+    "valor": "el equipo clínico-directivo de FUSAT"
+  },
+  {
+    "entidad": "UPI",
+    "relacion": "se basa en",
+    "valor": "un enfoque multidisciplinario"
+  },
+  {
+    "entidad": "cuidado de salud basado en valor",
+    "relacion": "surgió en respuesta a",
+    "valor": "los crecientes costos en los sistemas de salud"
+  },
+  {
+    "entidad": "gasto asociado a enfermedades del corazón",
+    "relacion": "fue de",
+    "valor": "USD $1.4bn en 2015"
+  },
+  {
+    "entidad": "Fractal EDM",
+    "relacion": "fue candidato en",
+    "valor": "un certamen de alcance global"
+  },
+  {
+    "entidad": "UPI",
+    "relacion": "se inició el pilotaje en",
+    "valor": "diciembre de 2023"
+  },
+  {
+    "entidad": "estudiantes de ciencias de la salud",
+    "relacion": "participan en",
+    "valor": "investigación sobre puntos de inflexión"
+  },
+  {
+    "entidad": "puntos de inflexión",
+    "relacion": "se refieren a",
+    "valor": "eventos inesperados que causan cambios"
+  },
+  {
+    "entidad": "facultad de ciencias biomédicas",
+    "relacion": "pertenece a",
+    "valor": "Universidad Austral, Argentina"
+  },
+  {
+    "entidad": "estudio cualitativo",
+    "relacion": "utiliza",
+    "valor": "narrativas y entrevistas"
+  },
+  {
+    "entidad": "narrativas",
+    "relacion": "son analizadas por",
+    "valor": "software Atlas ti"
+  },
+  {
+    "entidad": "experiencias significativas",
+    "relacion": "son una categoría de",
+    "valor": "puntos de inflexión"
+  },
+  {
+    "entidad": "pandemia",
+    "relacion": "afecta a",
+    "valor": "estudiantes de medicina y enfermería"
+  },
+  {
+    "entidad": "personas significativas",
+    "relacion": "influyen en",
+    "valor": "la vida de los estudiantes"
+  },
+  {
+    "entidad": "personas compasivas",
+    "relacion": "son un tipo de",
+    "valor": "personas significativas"
+  },
+  {
+    "entidad": "personas humilladoras",
+    "relacion": "tienen un efecto",
+    "valor": "negativo en los estudiantes"
+  },
+  {
+    "entidad": "personas inspiradoras",
+    "relacion": "motivan",
+    "valor": "el desarrollo de los estudiantes"
+  },
+  {
+    "entidad": "hospital solidario",
+    "relacion": "es un",
+    "valor": "lugar transformador"
+  },
+  {
+    "entidad": "experiencias reflexivas",
+    "relacion": "son oportunidades para",
+    "valor": "analizar lo vivido"
+  },
+  {
+    "entidad": "identidad profesional",
+    "relacion": "se forma a través de",
+    "valor": "experiencias en la facultad"
+  },
+  {
+    "entidad": "estudiantes de medicina",
+    "relacion": "reportan",
+    "valor": "sentimientos de pérdida durante la pandemia"
+  },
+  {
+    "entidad": "estudiantes de enfermería",
+    "relacion": "experimentan",
+    "valor": "crecimiento durante la pandemia"
+  },
+  {
+    "entidad": "estudiantes de psicología",
+    "relacion": "reportan",
+    "valor": "experiencias negativas con mayor frecuencia"
+  },
+  {
+    "entidad": "cultura institucional",
+    "relacion": "afecta",
+    "valor": "la conformación de la identidad profesional"
+  },
+  {
+    "entidad": "investigación",
+    "relacion": "es aprobada por",
+    "valor": "Comité Institucional de Evaluación"
+  }
+]

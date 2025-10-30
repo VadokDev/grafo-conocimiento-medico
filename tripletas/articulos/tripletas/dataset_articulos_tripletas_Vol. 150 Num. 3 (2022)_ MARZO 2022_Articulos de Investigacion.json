@@ -1,0 +1,767 @@
+[
+  {
+    "entidad": "neumonía viral",
+    "relacion": "es un",
+    "valor": "tipo de neumonía"
+  },
+  {
+    "entidad": "influenza A H1N1pdm09",
+    "relacion": "causa",
+    "valor": "neumonía viral"
+  },
+  {
+    "entidad": "SARS-CoV-2",
+    "relacion": "causa",
+    "valor": "neumonía viral"
+  },
+  {
+    "entidad": "Hospital de Puerto Montt",
+    "relacion": "es un",
+    "valor": "centro de referencia"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "es un",
+    "valor": "tipo de neumonía viral"
+  },
+  {
+    "entidad": "pacientes con COVID-19",
+    "relacion": "son",
+    "valor": "mayores que los pacientes con influenza"
+  },
+  {
+    "entidad": "pacientes con COVID-19",
+    "relacion": "tienen",
+    "valor": "más comorbilidades"
+  },
+  {
+    "entidad": "tos",
+    "relacion": "es más frecuente en",
+    "valor": "pacientes con influenza"
+  },
+  {
+    "entidad": "disnea",
+    "relacion": "es más frecuente en",
+    "valor": "pacientes con COVID-19"
+  },
+  {
+    "entidad": "hospitalización",
+    "relacion": "es más prolongada en",
+    "valor": "pacientes con COVID-19"
+  },
+  {
+    "entidad": "neumonía",
+    "relacion": "es la causa de ingreso en",
+    "valor": "90% de los casos de COVID-19"
+  },
+  {
+    "entidad": "neumonía",
+    "relacion": "es la causa de ingreso en",
+    "valor": "75% de los casos de influenza"
+  },
+  {
+    "entidad": "ventilación en prono",
+    "relacion": "es utilizada en",
+    "valor": "un tercio de los pacientes con COVID-19"
+  },
+  {
+    "entidad": "CNAF",
+    "relacion": "es utilizada en",
+    "valor": "pacientes con COVID-19"
+  },
+  {
+    "entidad": "APACHE II",
+    "relacion": "es mayor en",
+    "valor": "pacientes con influenza"
+  },
+  {
+    "entidad": "neumonía por SARS-CoV-2",
+    "relacion": "afecta a",
+    "valor": "población de mayor edad"
+  },
+  {
+    "entidad": "neumonía por influenza A H1N1pdm09",
+    "relacion": "afecta a",
+    "valor": "población más joven"
+  },
+  {
+    "entidad": "hospitalización por COVID-19",
+    "relacion": "es más tardía y prolongada que",
+    "valor": "hospitalización por influenza"
+  },
+  {
+    "entidad": "sintomatología clásica de la gripe",
+    "relacion": "es más frecuente en",
+    "valor": "pacientes con influenza"
+  },
+  {
+    "entidad": "anosmia y disgeusia",
+    "relacion": "son síntomas más frecuentes en",
+    "valor": "pacientes con COVID-19"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "es similar en",
+    "valor": "pacientes con COVID-19 e influenza"
+  },
+  {
+    "entidad": "factores de riesgo",
+    "relacion": "son diferentes en",
+    "valor": "COVID-19 e influenza"
+  },
+  {
+    "entidad": "ventilación mecánica invasiva",
+    "relacion": "es utilizada en",
+    "valor": "pacientes con neumonía"
+  },
+  {
+    "entidad": "neumonía multilobar",
+    "relacion": "es más frecuente en",
+    "valor": "pacientes con COVID-19"
+  },
+  {
+    "entidad": "hospitalización",
+    "relacion": "es causa de",
+    "valor": "mortalidad en ambos grupos"
+  },
+  {
+    "entidad": "anticoagulación regional con citrato",
+    "relacion": "es un",
+    "valor": "método de anticoagulación"
+  },
+  {
+    "entidad": "terapia de reemplazo renal continua",
+    "relacion": "utiliza",
+    "valor": "anticoagulación regional con citrato"
+  },
+  {
+    "entidad": "heparina",
+    "relacion": "es un",
+    "valor": "anticoagulante utilizado"
+  },
+  {
+    "entidad": "anticoagulación regional con citrato",
+    "relacion": "es recomendado por",
+    "valor": "guía KDIGO"
+  },
+  {
+    "entidad": "Hospital Clínico Universidad de Chile",
+    "relacion": "emplea",
+    "valor": "anticoagulación regional con citrato"
+  },
+  {
+    "entidad": "circuito extracorpóreo",
+    "relacion": "presenta",
+    "valor": "coagulación como complicación frecuente"
+  },
+  {
+    "entidad": "coagulopatía",
+    "relacion": "limita",
+    "valor": "uso de anticoagulación en pacientes críticos"
+  },
+  {
+    "entidad": "anticoagulación sistémica con heparina",
+    "relacion": "causa",
+    "valor": "hemorragia y trombocitopenia"
+  },
+  {
+    "entidad": "anticoagulación regional con citrato",
+    "relacion": "produce",
+    "valor": "complicaciones metabólicas"
+  },
+  {
+    "entidad": "citrato de sodio",
+    "relacion": "se utiliza para",
+    "valor": "anticoagulación regional"
+  },
+  {
+    "entidad": "circuito de diálisis",
+    "relacion": "se prolonga con",
+    "valor": "anticoagulación regional con citrato"
+  },
+  {
+    "entidad": "complicaciones asociadas a anticoagulación",
+    "relacion": "incluyen",
+    "valor": "hipocalcemia, hipomagnesemia y trastornos ácido-base"
+  },
+  {
+    "entidad": "anticoagulación regional con citrato",
+    "relacion": "es",
+    "valor": "un procedimiento seguro y eficiente"
+  },
+  {
+    "entidad": "citrato",
+    "relacion": "es metabolizado en",
+    "valor": "hígado, músculos y riñones"
+  },
+  {
+    "entidad": "alcalosis metabólica",
+    "relacion": "puede ser causada por",
+    "valor": "dosis excesiva de citrato"
+  },
+  {
+    "entidad": "citrato",
+    "relacion": "es un",
+    "valor": "potente quelante del calcio"
+  },
+  {
+    "entidad": "circuito de diálisis",
+    "relacion": "se ve afectado por",
+    "valor": "coagulación"
+  },
+  {
+    "entidad": "anticoagulación regional con citrato",
+    "relacion": "es factible en",
+    "valor": "Chile"
+  },
+  {
+    "entidad": "eventos adversos",
+    "relacion": "fueron",
+    "valor": "leves y no asociados a mortalidad"
+  },
+  {
+    "entidad": "Universidad de Concepción",
+    "relacion": "tiene",
+    "valor": "Departamento de Psicología"
+  },
+  {
+    "entidad": "Agencia Nacional de Investigación y Desarrollo de Chile",
+    "relacion": "financia",
+    "valor": "estudio sobre conducta suicida"
+  },
+  {
+    "entidad": "conducta suicida",
+    "relacion": "es un",
+    "valor": "fenómeno complejo"
+  },
+  {
+    "entidad": "jóvenes lesbianas, gays y bisexuales",
+    "relacion": "presentan",
+    "valor": "mayor riesgo de conducta suicida"
+  },
+  {
+    "entidad": "ideación suicida",
+    "relacion": "es un tipo de",
+    "valor": "conducta suicida no letal"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "reporta",
+    "valor": "altas tasas de suicidio en jóvenes"
+  },
+  {
+    "entidad": "estrés psicosocial",
+    "relacion": "afecta a",
+    "valor": "jóvenes LGB"
+  },
+  {
+    "entidad": "mujeres lesbianas",
+    "relacion": "tienen",
+    "valor": "mayor riesgo de intento suicida que hombres"
+  },
+  {
+    "entidad": "personas bisexuales",
+    "relacion": "tienen",
+    "valor": "mayor riesgo de intento suicida que homosexuales y lesbianas"
+  },
+  {
+    "entidad": "identidad de género no binaria",
+    "relacion": "presenta",
+    "valor": "mayor riesgo de intento suicida"
+  },
+  {
+    "entidad": "estrategias de muestreo",
+    "relacion": "influyen en",
+    "valor": "cifras de conducta suicida"
+  },
+  {
+    "entidad": "ONG Todo Mejora",
+    "relacion": "reporta",
+    "valor": "consultas por riesgo suicida"
+  },
+  {
+    "entidad": "Comité de Ética y Bioética de la Universidad de Concepción",
+    "relacion": "aprueba",
+    "valor": "estudio"
+  },
+  {
+    "entidad": "escala de suicidalidad de Okasha",
+    "relacion": "evalúa",
+    "valor": "conducta suicida"
+  },
+  {
+    "entidad": "políticas de prevención del suicidio",
+    "relacion": "deben incluir",
+    "valor": "jóvenes LGBT"
+  },
+  {
+    "entidad": "investigación sobre conducta suicida",
+    "relacion": "debe enfocarse en",
+    "valor": "población adolescente LGBT"
+  },
+  {
+    "entidad": "muestra en línea",
+    "relacion": "es utilizada para",
+    "valor": "acceder a poblaciones ocultas"
+  },
+  {
+    "entidad": "estudio comunitario online",
+    "relacion": "evalúa",
+    "valor": "conducta suicida en jóvenes LGB"
+  },
+  {
+    "entidad": "Call Center de orientación clínica",
+    "relacion": "evalúa",
+    "valor": "demanda y resolución de problemas durante la pandemia COVID-19"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "afecta a",
+    "valor": "sistemas sanitarios"
+  },
+  {
+    "entidad": "Atención Primaria de Salud (APS)",
+    "relacion": "es un",
+    "valor": "eje central en los sistemas sanitarios"
+  },
+  {
+    "entidad": "Unidad de Telesalud Ancora UC",
+    "relacion": "crea",
+    "valor": "call center de orientación clínica"
+  },
+  {
+    "entidad": "Red de Centros de Salud Familiar Ancora UC",
+    "relacion": "implementa",
+    "valor": "call center de orientación clínica"
+  },
+  {
+    "entidad": "call center de orientación clínica",
+    "relacion": "resuelve",
+    "valor": "consultas sobre COVID-19"
+  },
+  {
+    "entidad": "call center de orientación clínica",
+    "relacion": "reduce",
+    "valor": "atención presencial"
+  },
+  {
+    "entidad": "usuarios",
+    "relacion": "acceden a",
+    "valor": "orientación sobre COVID-19"
+  },
+  {
+    "entidad": "llamadas telefónicas",
+    "relacion": "son realizadas por",
+    "valor": "usuarios de la Red Ancora UC"
+  },
+  {
+    "entidad": "llamadas",
+    "relacion": "son categorizadas como",
+    "valor": "caso confirmado, caso probable, caso sospechoso, contacto estrecho"
+  },
+  {
+    "entidad": "call center de orientación clínica",
+    "relacion": "mejora",
+    "valor": "accesibilidad a los usuarios"
+  },
+  {
+    "entidad": "equipo encargado",
+    "relacion": "está compuesto por",
+    "valor": "residentes de medicina familiar, médicos de familia, médica general y enfermera"
+  },
+  {
+    "entidad": "Comité Ético Científico del Servicio de Salud Metropolitano Sur Oriente",
+    "relacion": "aprueba",
+    "valor": "la investigación"
+  },
+  {
+    "entidad": "Comité Ético Científico Ciencia de la Salud de la Pontificia Universidad Católica de Chile",
+    "relacion": "aprueba",
+    "valor": "la investigación"
+  },
+  {
+    "entidad": "Grupos Relacionados de Diagnóstico (GRD)",
+    "relacion": "facilita",
+    "valor": "medición del producto hospitalario"
+  },
+  {
+    "entidad": "producto hospitalario (PH)",
+    "relacion": "definido por",
+    "valor": "pacientes, diagnósticos y recursos utilizados"
+  },
+  {
+    "entidad": "Institución de salud de alta complejidad",
+    "relacion": "implementa",
+    "valor": "sistema de GRD"
+  },
+  {
+    "entidad": "Ministerio de Protección Social",
+    "relacion": "proporciona",
+    "valor": "guía de implementación de GRD"
+  },
+  {
+    "entidad": "Carmen Ocampo",
+    "relacion": "es",
+    "valor": "autora del artículo"
+  },
+  {
+    "entidad": "Nathalie Correa",
+    "relacion": "es",
+    "valor": "autora del artículo"
+  },
+  {
+    "entidad": "Alejandro de la Torre",
+    "relacion": "es",
+    "valor": "autor del artículo"
+  },
+  {
+    "entidad": "Institución de salud",
+    "relacion": "cuenta con",
+    "valor": "950 profesionales de 45 especialidades médicas"
+  },
+  {
+    "entidad": "Institución de salud",
+    "relacion": "tiene capacidad de",
+    "valor": "357 camas"
+  },
+  {
+    "entidad": "Institución de salud",
+    "relacion": "realiza",
+    "valor": "alrededor de 1.350 egresos al mes"
+  },
+  {
+    "entidad": "Institución de salud",
+    "relacion": "realiza",
+    "valor": "más de 25.000 procedimientos quirúrgicos al año"
+  },
+  {
+    "entidad": "sistema de GRD",
+    "relacion": "mejora",
+    "valor": "eficiencia hospitalaria"
+  },
+  {
+    "entidad": "código CIE-9",
+    "relacion": "utilizado para",
+    "valor": "codificación de procedimientos"
+  },
+  {
+    "entidad": "variable POA",
+    "relacion": "se utiliza para",
+    "valor": "calcular estadísticas sobre complicaciones intrahospitalarias"
+  },
+  {
+    "entidad": "errores de codificación",
+    "relacion": "afectan",
+    "valor": "calidad de datos en el sistema de GRD"
+  },
+  {
+    "entidad": "hospitales públicos",
+    "relacion": "utilizan",
+    "valor": "sistema de GRD en Chile y China"
+  },
+  {
+    "entidad": "proyecto de implementación de GRD",
+    "relacion": "realizado en",
+    "valor": "16 hospitales en Chile"
+  },
+  {
+    "entidad": "errores en la asignación de diagnósticos",
+    "relacion": "se encuentran en",
+    "valor": "18% de episodios revisados"
+  },
+  {
+    "entidad": "errores en la asignación de POA",
+    "relacion": "se encuentran en",
+    "valor": "17% de episodios revisados"
+  },
+  {
+    "entidad": "errores en la codificación de procedimientos",
+    "relacion": "se encuentran en",
+    "valor": "18,9% de episodios revisados"
+  },
+  {
+    "entidad": "sistema de GRD",
+    "relacion": "ayuda a",
+    "valor": "distribuir riesgo entre asegurador y proveedor"
+  },
+  {
+    "entidad": "implementación de GRD",
+    "relacion": "requiere",
+    "valor": "compromiso del personal clínico y administrativo"
+  },
+  {
+    "entidad": "Mieloma múltiple",
+    "relacion": "es un",
+    "valor": "neoplasia"
+  },
+  {
+    "entidad": "Mieloma múltiple",
+    "relacion": "se caracteriza por",
+    "valor": "proliferación clonal de células plasmáticas"
+  },
+  {
+    "entidad": "Mieloma múltiple",
+    "relacion": "produce",
+    "valor": "proteína monoclonal medible"
+  },
+  {
+    "entidad": "Mieloma múltiple",
+    "relacion": "puede causar",
+    "valor": "hipercalcemia, lesiones óseas líticas, anemia y falla renal"
+  },
+  {
+    "entidad": "Mieloma múltiple",
+    "relacion": "representa",
+    "valor": "10% de las neoplasias hematológicas"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "representa",
+    "valor": "1,5% del total de cánceres diagnosticados"
+  },
+  {
+    "entidad": "Bortezomib",
+    "relacion": "es un",
+    "valor": "inhibidor del proteasoma"
+  },
+  {
+    "entidad": "Lenalidomida",
+    "relacion": "es un",
+    "valor": "inmunomodulador"
+  },
+  {
+    "entidad": "Bortezomib",
+    "relacion": "mejora",
+    "valor": "sobrevida en mieloma múltiple"
+  },
+  {
+    "entidad": "Lenalidomida",
+    "relacion": "mejora",
+    "valor": "sobrevida en mieloma múltiple"
+  },
+  {
+    "entidad": "Trasplante autólogo de progenitores hematopoyéticos (TAPH)",
+    "relacion": "es un",
+    "valor": "tratamiento para mieloma múltiple"
+  },
+  {
+    "entidad": "Mieloma múltiple",
+    "relacion": "requiere",
+    "valor": "tratamiento con drogas noveles"
+  },
+  {
+    "entidad": "Drogas noveles",
+    "relacion": "incluyen",
+    "valor": "inhibidores del proteasoma e inmunomoduladores"
+  },
+  {
+    "entidad": "Centro 1",
+    "relacion": "tiene acceso a",
+    "valor": "drogas noveles"
+  },
+  {
+    "entidad": "Centro 2",
+    "relacion": "no tiene acceso a",
+    "valor": "drogas noveles"
+  },
+  {
+    "entidad": "Sobrevida global (SG)",
+    "relacion": "es mayor en",
+    "valor": "pacientes tratados con drogas noveles"
+  },
+  {
+    "entidad": "Régimen de Garantías Explícitas en Salud (GES)",
+    "relacion": "incorpora",
+    "valor": "mieloma múltiple"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "financia",
+    "valor": "bortezomib y lenalidomida"
+  },
+  {
+    "entidad": "Estudio retrospectivo",
+    "relacion": "evalúa",
+    "valor": "efecto de fármacos noveles en sobrevida"
+  },
+  {
+    "entidad": "Datos epidemiológicos",
+    "relacion": "fueron obtenidos de",
+    "valor": "registros clínicos"
+  },
+  {
+    "entidad": "Sobrevida a 5 años",
+    "relacion": "es mayor en",
+    "valor": "pacientes con acceso a drogas noveles"
+  },
+  {
+    "entidad": "VIH/SIDA",
+    "relacion": "es un",
+    "valor": "virus que causa enfermedades"
+  },
+  {
+    "entidad": "métodos de barrera",
+    "relacion": "se utilizan para",
+    "valor": "prevenir la transmisión de VIH/SIDA"
+  },
+  {
+    "entidad": "jóvenes chilenos",
+    "relacion": "tienen",
+    "valor": "creencias sobre invulnerabilidad"
+  },
+  {
+    "entidad": "educación sexual integral",
+    "relacion": "facilita",
+    "valor": "el uso de métodos de barrera"
+  },
+  {
+    "entidad": "políticas de educación sexual",
+    "relacion": "son",
+    "valor": "obstáculos para el uso de métodos de barrera"
+  },
+  {
+    "entidad": "desigualdad de género",
+    "relacion": "afecta",
+    "valor": "la distribución de métodos de barrera"
+  },
+  {
+    "entidad": "creencias sobre el uso de anticonceptivos hormonales",
+    "relacion": "operan como",
+    "valor": "obstáculos para el uso de métodos de barrera"
+  },
+  {
+    "entidad": "tabúes sobre sexo",
+    "relacion": "son",
+    "valor": "obstáculos para el uso de métodos de barrera"
+  },
+  {
+    "entidad": "conciencia sobre el riesgo",
+    "relacion": "facilita",
+    "valor": "el uso de métodos de barrera"
+  },
+  {
+    "entidad": "uso de drogas o alcohol",
+    "relacion": "impide",
+    "valor": "el uso de métodos de barrera"
+  },
+  {
+    "entidad": "creencias de costo/efectividad",
+    "relacion": "facilitan",
+    "valor": "el uso de métodos de barrera"
+  },
+  {
+    "entidad": "Estado de Chile",
+    "relacion": "distribuye",
+    "valor": "condones externos e internos"
+  },
+  {
+    "entidad": "campañas de prevención",
+    "relacion": "deben considerar",
+    "valor": "aspectos socioculturales"
+  },
+  {
+    "entidad": "Comité Ético Científico de la Facultad de Medicina de la Universidad de Concepción",
+    "relacion": "aprueba",
+    "valor": "protocolos de investigación"
+  },
+  {
+    "entidad": "métodos de barrera",
+    "relacion": "son",
+    "valor": "subutilizados entre jóvenes de 20 a 29 años"
+  },
+  {
+    "entidad": "creencias sobre la fidelidad",
+    "relacion": "afectan",
+    "valor": "el uso de métodos de barrera"
+  },
+  {
+    "entidad": "comunicación en salud",
+    "relacion": "es una",
+    "valor": "herramienta fundamental para prevenir enfermedades"
+  },
+  {
+    "entidad": "enfermedad renal crónica",
+    "relacion": "es un",
+    "valor": "problema de salud pública"
+  },
+  {
+    "entidad": "diálisis",
+    "relacion": "es un",
+    "valor": "tratamiento para enfermedad renal crónica"
+  },
+  {
+    "entidad": "pacientes en diálisis",
+    "relacion": "experimentan",
+    "valor": "baja calidad de vida"
+  },
+  {
+    "entidad": "investigación cualitativa",
+    "relacion": "utiliza",
+    "valor": "entrevistas en profundidad"
+  },
+  {
+    "entidad": "categorías identificadas",
+    "relacion": "incluyen",
+    "valor": "Amigos, Equipo de Salud, Espiritualidad y Enfermedad, Familia, Consecuencias físicas, Consecuencias psicosociales, Autocuidado del continuo salud-enfermedad"
+  },
+  {
+    "entidad": "Equipo de Salud",
+    "relacion": "proporciona",
+    "valor": "apoyo fundamental a pacientes"
+  },
+  {
+    "entidad": "espiritualidad",
+    "relacion": "es un",
+    "valor": "factor importante en la vida de pacientes"
+  },
+  {
+    "entidad": "familia",
+    "relacion": "ofrece",
+    "valor": "apoyo y bienestar a pacientes"
+  },
+  {
+    "entidad": "consecuencias físicas",
+    "relacion": "incluyen",
+    "valor": "infección, anemia, hipotensión, calambres, muerte"
+  },
+  {
+    "entidad": "consecuencias psicosociales",
+    "relacion": "incluyen",
+    "valor": "discriminación, miedo, abandono, costos económicos"
+  },
+  {
+    "entidad": "autocuidado",
+    "relacion": "es necesario para",
+    "valor": "proteger y promover la salud"
+  },
+  {
+    "entidad": "investigación",
+    "relacion": "fue aprobada por",
+    "valor": "Comité de Ética Científico en Enfermería (CECENF)"
+  },
+  {
+    "entidad": "Universidad de Chile",
+    "relacion": "es un",
+    "valor": "lugar de investigación"
+  },
+  {
+    "entidad": "Universidad Católica del Uruguay",
+    "relacion": "es un",
+    "valor": "lugar de investigación"
+  },
+  {
+    "entidad": "Universidad de Tarapacá",
+    "relacion": "es un",
+    "valor": "lugar de investigación"
+  },
+  {
+    "entidad": "Universidad Católica del Norte",
+    "relacion": "es un",
+    "valor": "lugar de investigación"
+  },
+  {
+    "entidad": "Universidad Andrés Bello",
+    "relacion": "es un",
+    "valor": "lugar de investigación"
+  }
+]

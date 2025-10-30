@@ -1,0 +1,797 @@
+[
+  {
+    "entidad": "trastornos nutricionales por exceso",
+    "relacion": "tiene alta prevalencia en",
+    "valor": "escolares de la comuna de Carahue"
+  },
+  {
+    "entidad": "resistencia insulínica",
+    "relacion": "se asocia con",
+    "valor": "trastornos nutricionales por exceso"
+  },
+  {
+    "entidad": "síndrome metabólico",
+    "relacion": "se define para población pediátrica por",
+    "valor": "Cook y cols."
+  },
+  {
+    "entidad": "síndrome metabólico",
+    "relacion": "se establece utilizando",
+    "valor": "criterios modificados de Cook"
+  },
+  {
+    "entidad": "insulina",
+    "relacion": "se mide para evaluar",
+    "valor": "resistencia insulínica"
+  },
+  {
+    "entidad": "HOMA-IR",
+    "relacion": "se utiliza para definir",
+    "valor": "resistencia insulínica"
+  },
+  {
+    "entidad": "niños con obesidad",
+    "relacion": "tienen mayor frecuencia de",
+    "valor": "síndrome metabólico"
+  },
+  {
+    "entidad": "insulinemia",
+    "relacion": "se correlaciona positivamente con",
+    "valor": "parámetros antropométricos"
+  },
+  {
+    "entidad": "circunferencia de brazo",
+    "relacion": "presenta correlación más fuerte con",
+    "valor": "parámetros de resistencia insulínica"
+  },
+  {
+    "entidad": "Universidad de La Frontera",
+    "relacion": "realiza",
+    "valor": "investigación sobre salud pública"
+  },
+  {
+    "entidad": "Fondo de Investigación UNETE",
+    "relacion": "financia",
+    "valor": "proyectos de investigación"
+  },
+  {
+    "entidad": "población infanto-juvenil",
+    "relacion": "presenta alta prevalencia de",
+    "valor": "obesidad y síndrome metabólico"
+  },
+  {
+    "entidad": "muestra de escolares",
+    "relacion": "incluye",
+    "valor": "niños de 4º a 6º año de enseñanza básica"
+  },
+  {
+    "entidad": "comuna de Carahue",
+    "relacion": "tiene",
+    "valor": "una alta proporción de población rural y aborigen"
+  },
+  {
+    "entidad": "resistencia a la insulina",
+    "relacion": "se evalúa mediante",
+    "valor": "criterios de Burrows y Barja"
+  },
+  {
+    "entidad": "obesidad abdominal",
+    "relacion": "se define como",
+    "valor": "circunferencia de cintura mayor que el percentil 90"
+  },
+  {
+    "entidad": "presión arterial alterada",
+    "relacion": "se considera en",
+    "valor": "evaluación clínica de escolares"
+  },
+  {
+    "entidad": "acantosis nigricans",
+    "relacion": "se registra en",
+    "valor": "evaluación clínica de escolares"
+  },
+  {
+    "entidad": "Depresión posparto (DPP)",
+    "relacion": "es un",
+    "valor": "problema de salud pública"
+  },
+  {
+    "entidad": "tamizaje",
+    "relacion": "mejora",
+    "valor": "tasas de detección de DPP"
+  },
+  {
+    "entidad": "centros de atención primaria (APS)",
+    "relacion": "realizan",
+    "valor": "tamizaje para DPP"
+  },
+  {
+    "entidad": "mujeres puérperas",
+    "relacion": "son evaluadas por",
+    "valor": "presencia de DPP"
+  },
+  {
+    "entidad": "Escala de Depresión Posparto de Edimburgo (EPDS)",
+    "relacion": "es utilizada para",
+    "valor": "evaluar DPP"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "financia",
+    "valor": "estudio sobre DPP"
+  },
+  {
+    "entidad": "mujeres con DPP",
+    "relacion": "reportan",
+    "valor": "barreras para acceder a tratamiento"
+  },
+  {
+    "entidad": "profesionales de salud",
+    "relacion": "realizan",
+    "valor": "tamizaje para DPP"
+  },
+  {
+    "entidad": "psicoterapia",
+    "relacion": "es rechazada por",
+    "valor": "mujeres con DPP"
+  },
+  {
+    "entidad": "antidepresivos",
+    "relacion": "son considerados",
+    "valor": "riesgosos por mujeres con DPP"
+  },
+  {
+    "entidad": "conflictos interpersonales",
+    "relacion": "son identificados como",
+    "valor": "factores de riesgo para DPP"
+  },
+  {
+    "entidad": "experiencias traumáticas en la infancia",
+    "relacion": "son identificadas como",
+    "valor": "factores de riesgo para DPP"
+  },
+  {
+    "entidad": "escaso apoyo social",
+    "relacion": "afecta",
+    "valor": "mujeres con DPP"
+  },
+  {
+    "entidad": "acceso a tratamiento",
+    "relacion": "debe ser mejorado en",
+    "valor": "APS"
+  },
+  {
+    "entidad": "mujeres con DPP",
+    "relacion": "demandan",
+    "valor": "mejor atención en salud mental"
+  },
+  {
+    "entidad": "proceso de tamizaje",
+    "relacion": "es parte de",
+    "valor": "diagnóstico y acceso a tratamiento de DPP"
+  },
+  {
+    "entidad": "síndrome de hombro doloroso",
+    "relacion": "es un",
+    "valor": "trastorno músculo-esquelético"
+  },
+  {
+    "entidad": "programa de rehabilitación autoadministrado",
+    "relacion": "evalúa",
+    "valor": "efectividad en tratamiento del síndrome de hombro doloroso"
+  },
+  {
+    "entidad": "atención primaria de salud",
+    "relacion": "es un",
+    "valor": "contexto de tratamiento"
+  },
+  {
+    "entidad": "ensayo clínico aleatorizado",
+    "relacion": "es un",
+    "valor": "método de investigación"
+  },
+  {
+    "entidad": "grupo experimental",
+    "relacion": "recibe",
+    "valor": "rehabilitación autoadministrada"
+  },
+  {
+    "entidad": "grupo control",
+    "relacion": "recibe",
+    "valor": "terapia física estándar"
+  },
+  {
+    "entidad": "pacientes adultos",
+    "relacion": "presentan",
+    "valor": "síndrome de hombro doloroso"
+  },
+  {
+    "entidad": "rehabilitación kinésica",
+    "relacion": "es",
+    "valor": "primera línea de tratamiento"
+  },
+  {
+    "entidad": "ejercicio",
+    "relacion": "es eficaz para",
+    "valor": "reducir el dolor y mejorar la función"
+  },
+  {
+    "entidad": "programa de ejercicios",
+    "relacion": "tiene como objetivo",
+    "valor": "aliviar el dolor y aumentar la fuerza"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "pueden experimentar",
+    "valor": "discapacidad y trastornos del sueño"
+  },
+  {
+    "entidad": "sistema de salud en Reino Unido",
+    "relacion": "promueve",
+    "valor": "autocuidado y empoderamiento del paciente"
+  },
+  {
+    "entidad": "CONICYT-FONIS",
+    "relacion": "financia",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "Instituto Traumatológico",
+    "relacion": "es un",
+    "valor": "centro de atención médica"
+  },
+  {
+    "entidad": "evaluadores",
+    "relacion": "son",
+    "valor": "ciego a la asignación de tratamiento"
+  },
+  {
+    "entidad": "recuperación percibida",
+    "relacion": "es un",
+    "valor": "resultado primario del estudio"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "es evaluada por",
+    "valor": "SF-36"
+  },
+  {
+    "entidad": "discapacidad",
+    "relacion": "es evaluada por",
+    "valor": "DASH"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "son reclutados de",
+    "valor": "Servicio de Salud Metropolitano Occidente"
+  },
+  {
+    "entidad": "índice de masa corporal",
+    "relacion": "es un",
+    "valor": "fenotipo"
+  },
+  {
+    "entidad": "mujeres con osteoartritis de rodilla",
+    "relacion": "presentan",
+    "valor": "dolor, rigidez y limitación del movimiento"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "afecta a",
+    "valor": "funcionalidad y calidad de vida"
+  },
+  {
+    "entidad": "osteoartritis",
+    "relacion": "causa",
+    "valor": "daño y pérdida de cartílago articular"
+  },
+  {
+    "entidad": "osteoartritis",
+    "relacion": "se relaciona con",
+    "valor": "sexo femenino"
+  },
+  {
+    "entidad": "mujeres con OA",
+    "relacion": "tienen",
+    "valor": "más trastornos del sueño"
+  },
+  {
+    "entidad": "mujeres con OA",
+    "relacion": "tienen",
+    "valor": "reducción en funcionalidad"
+  },
+  {
+    "entidad": "mujeres con OA",
+    "relacion": "tienen",
+    "valor": "peor calidad de vida"
+  },
+  {
+    "entidad": "fenotipización",
+    "relacion": "permite",
+    "valor": "analizar interrelaciones entre IMC y variables clínicas"
+  },
+  {
+    "entidad": "IMC alto",
+    "relacion": "aumenta",
+    "valor": "riesgo de desarrollar OA de rodilla"
+  },
+  {
+    "entidad": "funcionalidad",
+    "relacion": "es evaluada con",
+    "valor": "Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC)"
+  },
+  {
+    "entidad": "calidad del sueño",
+    "relacion": "es evaluada con",
+    "valor": "Pittsburgh Sleep Quality Index (PSQI)"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "es evaluada con",
+    "valor": "EuroQol-5D"
+  },
+  {
+    "entidad": "mujeres con fenotipo obesidad",
+    "relacion": "presentan",
+    "valor": "mayor dependencia funcional"
+  },
+  {
+    "entidad": "mujeres con fenotipo normopeso",
+    "relacion": "tienen",
+    "valor": "funcionalidad similar a fenotipo sobrepeso"
+  },
+  {
+    "entidad": "alteraciones del sueño",
+    "relacion": "afectan",
+    "valor": "calidad de vida y funcionalidad"
+  },
+  {
+    "entidad": "fenotipo obesidad",
+    "relacion": "cursa con",
+    "valor": "reducción en niveles de funcionalidad"
+  },
+  {
+    "entidad": "fenotipo obesidad",
+    "relacion": "cursa con",
+    "valor": "peor calidad de sueño"
+  },
+  {
+    "entidad": "fenotipo obesidad",
+    "relacion": "cursa con",
+    "valor": "peor calidad de vida"
+  },
+  {
+    "entidad": "Programa de Control de Antimicrobianos (PCA)",
+    "relacion": "evaluar",
+    "valor": "impacto a largo plazo en consumo de antimicrobianos"
+  },
+  {
+    "entidad": "Programa de Control de Antimicrobianos (PCA)",
+    "relacion": "afecta a",
+    "valor": "gasto en antimicrobianos"
+  },
+  {
+    "entidad": "Programa de Control de Antimicrobianos (PCA)",
+    "relacion": "afecta a",
+    "valor": "resistencia antimicrobiana"
+  },
+  {
+    "entidad": "Programa de Control de Antimicrobianos (PCA)",
+    "relacion": "afecta a",
+    "valor": "mortalidad hospitalaria"
+  },
+  {
+    "entidad": "licitaciones competitivas",
+    "relacion": "contribuye a",
+    "valor": "ahorros en costos"
+  },
+  {
+    "entidad": "Hospital Militar de Santiago",
+    "relacion": "realiza",
+    "valor": "Programa de Control de Antimicrobianos"
+  },
+  {
+    "entidad": "Hospital Militar de Santiago",
+    "relacion": "atiende",
+    "valor": "personal militar y público general"
+  },
+  {
+    "entidad": "consumo de antimicrobianos",
+    "relacion": "disminuye",
+    "valor": "después de la implementación del PCA"
+  },
+  {
+    "entidad": "gasto en antimicrobianos",
+    "relacion": "disminuye",
+    "valor": "después de la implementación del PCA"
+  },
+  {
+    "entidad": "mortalidad asociada a enfermedades infecciosas",
+    "relacion": "disminuye",
+    "valor": "durante el periodo de estudio"
+  },
+  {
+    "entidad": "resistencia antimicrobiana",
+    "relacion": "no muestra cambios significativos",
+    "valor": "en cepas seleccionadas"
+  },
+  {
+    "entidad": "ahorros globales",
+    "relacion": "calculados en",
+    "valor": "US$ 393072"
+  },
+  {
+    "entidad": "ahorros atribuibles al PCA",
+    "relacion": "calculados en",
+    "valor": "US$ 190000"
+  },
+  {
+    "entidad": "mortalidad global",
+    "relacion": "disminuye",
+    "valor": "de 31 a 25 por 1000 egresos"
+  },
+  {
+    "entidad": "mortalidad asociada a enfermedades infecciosas",
+    "relacion": "disminuye",
+    "valor": "de 4 a 2 por 1000 egresos"
+  },
+  {
+    "entidad": "Grupo GRINMADE",
+    "relacion": "pertenece a",
+    "valor": "Facultad de Medicina, Universidad de Antioquia, Colombia"
+  },
+  {
+    "entidad": "Grupo Comunicación Humana",
+    "relacion": "pertenece a",
+    "valor": "Departamento de Fonoaudiología, Facultad de Salud, Universidad de Pamplona, Colombia"
+  },
+  {
+    "entidad": "marihuana",
+    "relacion": "es un",
+    "valor": "problema de salud pública"
+  },
+  {
+    "entidad": "adolescentes colombianos",
+    "relacion": "consumen",
+    "valor": "marihuana"
+  },
+  {
+    "entidad": "estudio Emtamplona",
+    "relacion": "busca",
+    "valor": "estimar la prevalencia de consumo de cigarrillo de tabaco"
+  },
+  {
+    "entidad": "cuestionario autoadministrado",
+    "relacion": "es utilizado en",
+    "valor": "la recolección de datos"
+  },
+  {
+    "entidad": "consumo de marihuana",
+    "relacion": "se asocia con",
+    "valor": "profesar una religión no cristiana"
+  },
+  {
+    "entidad": "consumo de marihuana",
+    "relacion": "se asocia con",
+    "valor": "ser fumador"
+  },
+  {
+    "entidad": "consumo de marihuana",
+    "relacion": "se asocia con",
+    "valor": "tener más de 12 años"
+  },
+  {
+    "entidad": "adolescentes escolarizados",
+    "relacion": "son objeto de estudio en",
+    "valor": "Pamplona, Norte de Santander, Colombia"
+  },
+  {
+    "entidad": "estrato social bajo",
+    "relacion": "se asocia con",
+    "valor": "mayor prevalencia de consumo de marihuana"
+  },
+  {
+    "entidad": "tipo de colegio público",
+    "relacion": "se asocia con",
+    "valor": "mayor prevalencia de consumo de marihuana"
+  },
+  {
+    "entidad": "consumo de tabaco",
+    "relacion": "es un predictor de",
+    "valor": "consumo de marihuana"
+  },
+  {
+    "entidad": "Comité de Ética de la Universidad del Norte",
+    "relacion": "aprueba",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "Javier Martínez-Torres",
+    "relacion": "es autor de",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "Heriberto Rangel-Navia",
+    "relacion": "es autor de",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "Eliana Rivera-CaPacho",
+    "relacion": "es autor de",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "Rinoconjuntivitis alérgica",
+    "relacion": "es un",
+    "valor": "enfermedad alérgica"
+  },
+  {
+    "entidad": "Temuco",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "Fundación de Aerobiología, Medioambiente y Salud",
+    "relacion": "es parte de",
+    "valor": "investigación en salud"
+  },
+  {
+    "entidad": "Clínica Alemana",
+    "relacion": "es un",
+    "valor": "centro de salud"
+  },
+  {
+    "entidad": "Hospital San Juan de Dios",
+    "relacion": "es un",
+    "valor": "centro de salud"
+  },
+  {
+    "entidad": "Universidad Católica de Temuco",
+    "relacion": "es un",
+    "valor": "institución educativa"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "es un",
+    "valor": "institución educativa"
+  },
+  {
+    "entidad": "Hospital Regional de Temuco",
+    "relacion": "es un",
+    "valor": "centro de salud"
+  },
+  {
+    "entidad": "Escuela de Salud Pública, Facultad de Medicina, Universidad de Chile",
+    "relacion": "es un",
+    "valor": "institución educativa"
+  },
+  {
+    "entidad": "Fondo Nacional de Investigación en Salud (FONIS)",
+    "relacion": "suministra",
+    "valor": "apoyo financiero"
+  },
+  {
+    "entidad": "Aeroalérgenos",
+    "relacion": "causa",
+    "valor": "rinoconjuntivitis alérgica"
+  },
+  {
+    "entidad": "Pólenes",
+    "relacion": "son",
+    "valor": "aeroalérgenos"
+  },
+  {
+    "entidad": "Ácaros del polvo",
+    "relacion": "son",
+    "valor": "aeroalérgenos"
+  },
+  {
+    "entidad": "Dermatophagoides pteronyssinus",
+    "relacion": "es un",
+    "valor": "ácaro del polvo"
+  },
+  {
+    "entidad": "Dermatophagoides farinae",
+    "relacion": "es un",
+    "valor": "ácaro del polvo"
+  },
+  {
+    "entidad": "Sensibilización a aeroalérgenos",
+    "relacion": "es un",
+    "valor": "proceso diagnóstico"
+  },
+  {
+    "entidad": "Test cutáneo",
+    "relacion": "es un",
+    "valor": "método de diagnóstico"
+  },
+  {
+    "entidad": "Encuesta SFAR",
+    "relacion": "es un",
+    "valor": "herramienta diagnóstica"
+  },
+  {
+    "entidad": "Calidad de vida",
+    "relacion": "se ve afectada por",
+    "valor": "enfermedades alérgicas"
+  },
+  {
+    "entidad": "Contaminación",
+    "relacion": "afecta",
+    "valor": "prevalencia de aeroalérgenos"
+  },
+  {
+    "entidad": "Cambio climático",
+    "relacion": "afecta",
+    "valor": "prevalencia de aeroalérgenos"
+  },
+  {
+    "entidad": "Alergias",
+    "relacion": "causan",
+    "valor": "morbilidad y mortalidad"
+  },
+  {
+    "entidad": "Alergias",
+    "relacion": "generan",
+    "valor": "costos para los pacientes"
+  },
+  {
+    "entidad": "Estudio ISAAC",
+    "relacion": "revela",
+    "valor": "prevalencia de RCA en Santiago"
+  },
+  {
+    "entidad": "RCA estacional",
+    "relacion": "es un tipo de",
+    "valor": "rinoconjuntivitis alérgica"
+  },
+  {
+    "entidad": "RCA no estacional",
+    "relacion": "es un tipo de",
+    "valor": "rinoconjuntivitis alérgica"
+  },
+  {
+    "entidad": "Alergias respiratorias",
+    "relacion": "son",
+    "valor": "enfermedades atópicas"
+  },
+  {
+    "entidad": "Alergias",
+    "relacion": "son",
+    "valor": "un problema de salud pública"
+  },
+  {
+    "entidad": "Alergias",
+    "relacion": "se relacionan con",
+    "valor": "factores ambientales"
+  },
+  {
+    "entidad": "Eating Assessment Tool 10 (EAT-10)",
+    "relacion": "es un",
+    "valor": "cuestionario para detectar disfagia"
+  },
+  {
+    "entidad": "disfagia",
+    "relacion": "es un",
+    "valor": "síndrome geriátrico"
+  },
+  {
+    "entidad": "EAT-10",
+    "relacion": "evalúa",
+    "valor": "la percepción de disfagia"
+  },
+  {
+    "entidad": "EAT-10",
+    "relacion": "tiene",
+    "valor": "una versión en español"
+  },
+  {
+    "entidad": "EAT-10",
+    "relacion": "es validado en",
+    "valor": "adultos mayores chilenos"
+  },
+  {
+    "entidad": "Instituto de Nutrición y Tecnología de Alimentos (INTA)",
+    "relacion": "pertenece a",
+    "valor": "Universidad de Chile"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "es un",
+    "valor": "centro de investigación"
+  },
+  {
+    "entidad": "Método de exploración Clínico Volumen-Viscosidad (MeCV-V)",
+    "relacion": "es",
+    "valor": "el estándar de referencia para evaluar disfagia"
+  },
+  {
+    "entidad": "disfagia",
+    "relacion": "aumenta el riesgo de",
+    "valor": "fragilidad y desnutrición"
+  },
+  {
+    "entidad": "disfagia",
+    "relacion": "se relaciona con",
+    "valor": "morbilidad y mortalidad"
+  },
+  {
+    "entidad": "EAT-10",
+    "relacion": "demuestra",
+    "valor": "alta consistencia interna"
+  },
+  {
+    "entidad": "EAT-10",
+    "relacion": "es utilizado en",
+    "valor": "atención primaria"
+  },
+  {
+    "entidad": "disfagia",
+    "relacion": "no se incluye en",
+    "valor": "evaluación gerontológica en atención primaria"
+  },
+  {
+    "entidad": "EAT-10",
+    "relacion": "puede ser aplicado por",
+    "valor": "profesionales de la salud"
+  },
+  {
+    "entidad": "Javiera Fernández-rosati",
+    "relacion": "es un",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "Lydia Lera",
+    "relacion": "es un",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "Eduardo Fuentes-López",
+    "relacion": "es un",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "Cecilia Albala",
+    "relacion": "es un",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "Centro Integral del Adulto Mayor (CIAM)",
+    "relacion": "es un",
+    "valor": "centro de reclutamiento de participantes"
+  },
+  {
+    "entidad": "Instituto Nacional de Geriatría (INGER)",
+    "relacion": "es un",
+    "valor": "centro de reclutamiento de participantes"
+  },
+  {
+    "entidad": "Centro Comunitario de Rehabilitación (CCR)",
+    "relacion": "es un",
+    "valor": "centro de reclutamiento de participantes"
+  },
+  {
+    "entidad": "Centros de Salud Familiar (CeSFaM)",
+    "relacion": "son",
+    "valor": "centros de reclutamiento de participantes"
+  },
+  {
+    "entidad": "EAT-10",
+    "relacion": "es un instrumento",
+    "valor": "de fácil manejo"
+  },
+  {
+    "entidad": "EAT-10",
+    "relacion": "requiere",
+    "valor": "nivel cognitivo conservado para completarlo"
+  },
+  {
+    "entidad": "EAT-10",
+    "relacion": "es recomendado para",
+    "valor": "detectar riesgo de disfagia"
+  },
+  {
+    "entidad": "disfagia",
+    "relacion": "puede causar",
+    "valor": "neumonía por aspiración"
+  }
+]

@@ -1,0 +1,717 @@
+[
+  {
+    "entidad": "Calidad de Vida",
+    "relacion": "evalúa",
+    "valor": "impacto de enfermedades y tratamientos en el bienestar de pacientes"
+  },
+  {
+    "entidad": "Cáncer de mama",
+    "relacion": "es",
+    "valor": "la primera causa de defunciones por enfermedad oncológica en mujeres en Chile"
+  },
+  {
+    "entidad": "Tratamiento de Cáncer de mama",
+    "relacion": "está incluido en",
+    "valor": "patologías GES desde 2005"
+  },
+  {
+    "entidad": "Calidad de vida relacionada a la salud (CV)",
+    "relacion": "se define como",
+    "valor": "valoración subjetiva del paciente sobre su bienestar global"
+  },
+  {
+    "entidad": "Baja escolaridad",
+    "relacion": "disminuye",
+    "valor": "la calidad de vida en pacientes con cáncer de mama"
+  },
+  {
+    "entidad": "Inactividad laboral",
+    "relacion": "disminuye",
+    "valor": "la calidad de vida en pacientes con cáncer de mama"
+  },
+  {
+    "entidad": "Bajos recursos económicos",
+    "relacion": "disminuye",
+    "valor": "la calidad de vida en pacientes con cáncer de mama"
+  },
+  {
+    "entidad": "Estadios avanzados de enfermedad",
+    "relacion": "aumentan",
+    "valor": "la disminución de la calidad de vida"
+  },
+  {
+    "entidad": "Quimioterapia",
+    "relacion": "conlleva",
+    "valor": "más síntomas secundarios y peor calidad de vida"
+  },
+  {
+    "entidad": "Cirugía mayor",
+    "relacion": "conlleva",
+    "valor": "más síntomas secundarios y peor calidad de vida"
+  },
+  {
+    "entidad": "Calidad de vida",
+    "relacion": "es más baja durante",
+    "valor": "el tratamiento"
+  },
+  {
+    "entidad": "Calidad de vida",
+    "relacion": "es buena a",
+    "valor": "un año post tratamiento"
+  },
+  {
+    "entidad": "Calidad de vida",
+    "relacion": "es mejor a",
+    "valor": "más años de sobrevida"
+  },
+  {
+    "entidad": "Cáncer de mama",
+    "relacion": "afecta a",
+    "valor": "la imagen corporal, funcionamiento sexual y preocupación por el futuro"
+  },
+  {
+    "entidad": "Mastectomía total",
+    "relacion": "deja secuelas a largo plazo en",
+    "valor": "la imagen corporal"
+  },
+  {
+    "entidad": "Estadios más avanzados de enfermedad",
+    "relacion": "se presentan con",
+    "valor": "peor funcionamiento cognitivo"
+  },
+  {
+    "entidad": "Tiempo desde el diagnóstico",
+    "relacion": "mejora",
+    "valor": "el funcionamiento cognitivo"
+  },
+  {
+    "entidad": "Síntomas como insomnio, dolor y cansancio",
+    "relacion": "son",
+    "valor": "comunes en pacientes con cáncer de mama"
+  },
+  {
+    "entidad": "Calidad de vida global (CVG)",
+    "relacion": "fue",
+    "valor": "alta en la muestra estudiada"
+  },
+  {
+    "entidad": "Cuestionarios EORTC QLQ-C30 y QLQ-BR23",
+    "relacion": "se utilizan para",
+    "valor": "evaluar la calidad de vida en pacientes con cáncer"
+  },
+  {
+    "entidad": "partículas de cobre",
+    "relacion": "tienen",
+    "valor": "comportamiento antibacteriano"
+  },
+  {
+    "entidad": "microorganismos",
+    "relacion": "se obtienen de",
+    "valor": "úlceras crónicas infectadas"
+  },
+  {
+    "entidad": "resistencia a antimicrobianos",
+    "relacion": "afecta a",
+    "valor": "microorganismos"
+  },
+  {
+    "entidad": "cobre (Cu+2)",
+    "relacion": "es utilizado como",
+    "valor": "agente antimicrobiano"
+  },
+  {
+    "entidad": "cobre",
+    "relacion": "inhibe",
+    "valor": "sintesis de proteínas"
+  },
+  {
+    "entidad": "cobre",
+    "relacion": "altera",
+    "valor": "membrana celular de microorganismos"
+  },
+  {
+    "entidad": "cobre",
+    "relacion": "causa",
+    "valor": "daño oxidativo de lípidos"
+  },
+  {
+    "entidad": "nanopartículas de cobre",
+    "relacion": "son activas contra",
+    "valor": "agentes patógenos"
+  },
+  {
+    "entidad": "nanopartículas de cobre",
+    "relacion": "se incorporan en",
+    "valor": "matrices orgánicas inertes"
+  },
+  {
+    "entidad": "S. epidermidis",
+    "relacion": "es un",
+    "valor": "microorganismo asociado a infecciones"
+  },
+  {
+    "entidad": "úlcera crónica",
+    "relacion": "se define como",
+    "valor": "lesión de piel mantenida en el tiempo"
+  },
+  {
+    "entidad": "infecciones polimicrobianas",
+    "relacion": "dificultan",
+    "valor": "recuperación y cicatrización de lesiones"
+  },
+  {
+    "entidad": "cobre",
+    "relacion": "presenta",
+    "valor": "actividad antimicrobiana"
+  },
+  {
+    "entidad": "cobre",
+    "relacion": "actúa como",
+    "valor": "agente bacteriostático o bactericida"
+  },
+  {
+    "entidad": "cobre",
+    "relacion": "interviene en",
+    "valor": "alteración de ácidos nucleicos"
+  },
+  {
+    "entidad": "cepas de S. aureus",
+    "relacion": "presentan",
+    "valor": "resistencia a antimicrobianos"
+  },
+  {
+    "entidad": "enterobacterias",
+    "relacion": "muestran",
+    "valor": "resistencia a múltiples antimicrobianos"
+  },
+  {
+    "entidad": "bacterias Gram negativas",
+    "relacion": "son consideradas",
+    "valor": "multiresistentes"
+  },
+  {
+    "entidad": "cobre",
+    "relacion": "es considerado",
+    "valor": "un metal de transición"
+  },
+  {
+    "entidad": "cobre",
+    "relacion": "se utiliza en",
+    "valor": "diversos ámbitos como antibacteriano"
+  },
+  {
+    "entidad": "comité de ética de la Universidad Mayor",
+    "relacion": "aprueba",
+    "valor": "proyecto de investigación"
+  },
+  {
+    "entidad": "Comisión Nacional de Investigación Científica y Tecnológica (CONICYT)",
+    "relacion": "financia",
+    "valor": "proyecto FONDEF"
+  },
+  {
+    "entidad": "neumonía adquirida en la comunidad",
+    "relacion": "es un",
+    "valor": "problema de salud pública"
+  },
+  {
+    "entidad": "virus respiratorios",
+    "relacion": "participan en",
+    "valor": "la etiología de la neumonía"
+  },
+  {
+    "entidad": "adultos inmunocompetentes",
+    "relacion": "son",
+    "valor": "pacientes hospitalizados"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "realiza",
+    "valor": "investigaciones en enfermedades respiratorias"
+  },
+  {
+    "entidad": "técnicas de biología molecular",
+    "relacion": "mejoran",
+    "valor": "la identificación de virus respiratorios"
+  },
+  {
+    "entidad": "Streptococcus pneumoniae",
+    "relacion": "es un",
+    "valor": "patógeno identificado en neumonía"
+  },
+  {
+    "entidad": "influenza virus",
+    "relacion": "es un",
+    "valor": "patógeno respiratorio común"
+  },
+  {
+    "entidad": "metapneumovirus",
+    "relacion": "es un",
+    "valor": "patógeno respiratorio"
+  },
+  {
+    "entidad": "hospital Clínico de la Pontificia Universidad Católica de Chile",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "exámenes microbiológicos",
+    "relacion": "permiten",
+    "valor": "identificar el agente causal de la neumonía"
+  },
+  {
+    "entidad": "mortalidad por neumonía",
+    "relacion": "ha disminuido",
+    "valor": "en los últimos diez años"
+  },
+  {
+    "entidad": "técnica de RT-PCR",
+    "relacion": "se utiliza para",
+    "valor": "la detección de virus respiratorios"
+  },
+  {
+    "entidad": "comorbilidades",
+    "relacion": "aumentan",
+    "valor": "el riesgo en pacientes con neumonía"
+  },
+  {
+    "entidad": "edad avanzada",
+    "relacion": "es un factor de riesgo",
+    "valor": "para infecciones respiratorias virales"
+  },
+  {
+    "entidad": "complicaciones en el hospital",
+    "relacion": "son similares en",
+    "valor": "infecciones virales y bacterianas"
+  },
+  {
+    "entidad": "proyecto interdepartamental",
+    "relacion": "financia",
+    "valor": "la investigación en enfermedades respiratorias"
+  },
+  {
+    "entidad": "comunidad",
+    "relacion": "es el contexto de",
+    "valor": "la neumonía adquirida"
+  },
+  {
+    "entidad": "métodos diagnósticos convencionales",
+    "relacion": "tienen",
+    "valor": "limitaciones de sensibilidad y especificidad"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "asociada con",
+    "valor": "cáncer endometrial"
+  },
+  {
+    "entidad": "estrés del retículo endoplásmico (RE)",
+    "relacion": "presente en",
+    "valor": "adipocitos"
+  },
+  {
+    "entidad": "proteína 78 regulada por glucosa (GRP78)",
+    "relacion": "marcador de",
+    "valor": "estrés del RE"
+  },
+  {
+    "entidad": "GRP78",
+    "relacion": "regula",
+    "valor": "estrés del RE"
+  },
+  {
+    "entidad": "GRP78",
+    "relacion": "juega un rol en",
+    "valor": "desarrollo de tumores"
+  },
+  {
+    "entidad": "GRP78",
+    "relacion": "juega un rol en",
+    "valor": "progresión de tumores"
+  },
+  {
+    "entidad": "GRP78",
+    "relacion": "juega un rol en",
+    "valor": "quimio-resistencia"
+  },
+  {
+    "entidad": "obesidad androide",
+    "relacion": "correlacionada con",
+    "valor": "niveles plasmáticos de GRP78"
+  },
+  {
+    "entidad": "distribución de grasa ginoide",
+    "relacion": "correlacionada con",
+    "valor": "niveles bajos de GRP78"
+  },
+  {
+    "entidad": "cáncer endometrial",
+    "relacion": "diagnosticado en",
+    "valor": "mujeres con obesidad"
+  },
+  {
+    "entidad": "mujeres sanas",
+    "relacion": "comparadas con",
+    "valor": "mujeres con cáncer endometrial"
+  },
+  {
+    "entidad": "distribución de grasa androide",
+    "relacion": "correlaciona positivamente con",
+    "valor": "niveles de GRP78"
+  },
+  {
+    "entidad": "distribución de grasa ginoide",
+    "relacion": "correlaciona negativamente con",
+    "valor": "niveles de GRP78"
+  },
+  {
+    "entidad": "cáncer endometrial",
+    "relacion": "asociado con",
+    "valor": "obesidad en países desarrollados"
+  },
+  {
+    "entidad": "células cancerosas",
+    "relacion": "caracterizadas por",
+    "valor": "metabolismo de glucosa alterado"
+  },
+  {
+    "entidad": "células cancerosas",
+    "relacion": "sobreexpresan",
+    "valor": "GRP78"
+  },
+  {
+    "entidad": "GRP78",
+    "relacion": "influye en",
+    "valor": "progresión tumoral"
+  },
+  {
+    "entidad": "GRP78",
+    "relacion": "influye en",
+    "valor": "quimio-resistencia"
+  },
+  {
+    "entidad": "Síndrome de piernas inquietas",
+    "relacion": "es conocido como",
+    "valor": "enfermedad de Willis-Ekbom"
+  },
+  {
+    "entidad": "Síndrome de piernas inquietas",
+    "relacion": "afecta a",
+    "valor": "10% de la población general"
+  },
+  {
+    "entidad": "Síndrome de piernas inquietas",
+    "relacion": "se caracteriza por",
+    "valor": "necesidad imperiosa de mover las piernas"
+  },
+  {
+    "entidad": "Síndrome de piernas inquietas",
+    "relacion": "ocurre en",
+    "valor": "reposo, preferentemente en la noche"
+  },
+  {
+    "entidad": "Síndrome de piernas inquietas",
+    "relacion": "se alivia al",
+    "valor": "mover las extremidades afectadas"
+  },
+  {
+    "entidad": "fisiopatología del Síndrome de piernas inquietas",
+    "relacion": "implica",
+    "valor": "hipofunción dopaminérgica"
+  },
+  {
+    "entidad": "hipofunción dopaminérgica",
+    "relacion": "no es debida a",
+    "valor": "un proceso degenerativo como en la enfermedad de Parkinson"
+  },
+  {
+    "entidad": "tratamiento más efectivo",
+    "relacion": "es",
+    "valor": "uso de agentes dopaminérgicos"
+  },
+  {
+    "entidad": "agentes dopaminérgicos",
+    "relacion": "incluyen",
+    "valor": "levodopa, pramipexole, ropinerole, rotigotine"
+  },
+  {
+    "entidad": "Síndrome de piernas inquietas",
+    "relacion": "puede ser",
+    "valor": "idiopático o secundario a patologías crónicas"
+  },
+  {
+    "entidad": "Síndrome de piernas inquietas",
+    "relacion": "es frecuente en",
+    "valor": "pacientes urémicos en diálisis"
+  },
+  {
+    "entidad": "Síndrome de piernas inquietas",
+    "relacion": "se observa en",
+    "valor": "diabéticos, embarazadas, y en condiciones de deficiencia de hierro"
+  },
+  {
+    "entidad": "potenciación",
+    "relacion": "es una complicación que afecta a",
+    "valor": "entre 20 y 80% de los pacientes tratados"
+  },
+  {
+    "entidad": "potenciación",
+    "relacion": "consiste en",
+    "valor": "agravación de la sintomatología"
+  },
+  {
+    "entidad": "niveles bajos de ferritina",
+    "relacion": "son un factor en",
+    "valor": "el desarrollo de la potenciación"
+  },
+  {
+    "entidad": "respuesta terapéutica",
+    "relacion": "se define como",
+    "valor": "cambios en al menos un nivel en el grado de severidad"
+  },
+  {
+    "entidad": "terapia inicial",
+    "relacion": "consistió en",
+    "valor": "agonistas de la dopamina"
+  },
+  {
+    "entidad": "terapia",
+    "relacion": "incluyó",
+    "valor": "uso de hierro como coadyuvante"
+  },
+  {
+    "entidad": "Síndrome de piernas inquietas",
+    "relacion": "es manejable en",
+    "valor": "la mayoría de los pacientes"
+  },
+  {
+    "entidad": "Síndrome de piernas inquietas",
+    "relacion": "puede ser tratado con",
+    "valor": "modificación de dosis de dopaminérgicos o cambio a otro agente"
+  },
+  {
+    "entidad": "agentes no dopaminérgicos",
+    "relacion": "incluyen",
+    "valor": "pregabalina, gabapentina, opioides"
+  },
+  {
+    "entidad": "complicaciones en la terapia de SPI",
+    "relacion": "se evitan con",
+    "valor": "dosis bajas de agentes dopaminérgicos y niveles de ferritina sobre 75 mg/dl"
+  },
+  {
+    "entidad": "IDM-Chile",
+    "relacion": "es un",
+    "valor": "índice de alimentación mediterránea"
+  },
+  {
+    "entidad": "IDM-Chile",
+    "relacion": "evalúa",
+    "valor": "calidad de la dieta"
+  },
+  {
+    "entidad": "IDM-Chile",
+    "relacion": "puede ser",
+    "valor": "autoaplicable"
+  },
+  {
+    "entidad": "dieta mediterránea",
+    "relacion": "asocia",
+    "valor": "menor riesgo de enfermedades crónicas"
+  },
+  {
+    "entidad": "IDM-Chile",
+    "relacion": "fue validado en",
+    "valor": "una muestra de adultos chilenos"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "desarrolla",
+    "valor": "el Programa Aliméntate Sano"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen",
+    "valor": "mejor adherencia a la dieta mediterránea"
+  },
+  {
+    "entidad": "edad avanzada",
+    "relacion": "asocia con",
+    "valor": "mejor calidad de la dieta"
+  },
+  {
+    "entidad": "nivel educativo alto",
+    "relacion": "se relaciona con",
+    "valor": "mejor calidad de la dieta"
+  },
+  {
+    "entidad": "Fundación Banmédica",
+    "relacion": "financia",
+    "valor": "la investigación"
+  },
+  {
+    "entidad": "IDM-Chile",
+    "relacion": "se basa en",
+    "valor": "hábitos alimentarios chilenos"
+  },
+  {
+    "entidad": "IDM-Chile",
+    "relacion": "mide",
+    "valor": "frecuencia de consumo de alimentos"
+  },
+  {
+    "entidad": "IDM-Chile",
+    "relacion": "se aplica en",
+    "valor": "53,366 adultos chilenos"
+  },
+  {
+    "entidad": "dieta mediterránea",
+    "relacion": "incluye",
+    "valor": "frutas, verduras, legumbres, cereales integrales"
+  },
+  {
+    "entidad": "dieta mediterránea",
+    "relacion": "reduce",
+    "valor": "mortalidad total"
+  },
+  {
+    "entidad": "dieta mediterránea",
+    "relacion": "previene",
+    "valor": "enfermedades cardiovasculares"
+  },
+  {
+    "entidad": "dieta mediterránea",
+    "relacion": "previene",
+    "valor": "diabetes"
+  },
+  {
+    "entidad": "dieta mediterránea",
+    "relacion": "previene",
+    "valor": "cáncer"
+  },
+  {
+    "entidad": "dieta mediterránea",
+    "relacion": "previene",
+    "valor": "deterioro psicoorgánico"
+  },
+  {
+    "entidad": "IDM-Chile",
+    "relacion": "mide",
+    "valor": "adherencia a la dieta mediterránea"
+  },
+  {
+    "entidad": "IDM-Chile",
+    "relacion": "se correlaciona con",
+    "valor": "mejor salud"
+  },
+  {
+    "entidad": "IDM-Chile",
+    "relacion": "se utiliza para",
+    "valor": "evaluar patrones de alimentación"
+  },
+  {
+    "entidad": "pancreatitis crónica",
+    "relacion": "es considerada",
+    "valor": "una enfermedad rara en Chile"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "tiene",
+    "valor": "baja prevalencia de pancreatitis crónica"
+  },
+  {
+    "entidad": "pacientes con pancreatitis",
+    "relacion": "fueron analizados en",
+    "valor": "un estudio retrospectivo"
+  },
+  {
+    "entidad": "Hospital Clínico Universidad de Chile",
+    "relacion": "realiza",
+    "valor": "diagnóstico de pancreatitis crónica"
+  },
+  {
+    "entidad": "calcificaciones pancreáticas",
+    "relacion": "son observadas en",
+    "valor": "pacientes con pancreatitis crónica"
+  },
+  {
+    "entidad": "dolor severo",
+    "relacion": "ocurre en",
+    "valor": "pacientes con pancreatitis crónica"
+  },
+  {
+    "entidad": "insuficiencia exocrina",
+    "relacion": "fue demostrada en",
+    "valor": "pacientes con pancreatitis crónica"
+  },
+  {
+    "entidad": "etiología alcohólica",
+    "relacion": "fue evidente en",
+    "valor": "40% de los pacientes"
+  },
+  {
+    "entidad": "diagnóstico tardío",
+    "relacion": "es común en",
+    "valor": "pacientes con pancreatitis crónica"
+  },
+  {
+    "entidad": "sistemas de salud en América Latina",
+    "relacion": "tienen",
+    "valor": "deficiencias en diagnóstico"
+  },
+  {
+    "entidad": "dieta chilena",
+    "relacion": "puede influir en",
+    "valor": "la prevalencia de pancreatitis crónica"
+  },
+  {
+    "entidad": "consumo de tabaco y alcohol",
+    "relacion": "puede afectar",
+    "valor": "la prevalencia de pancreatitis crónica"
+  },
+  {
+    "entidad": "factores genéticos",
+    "relacion": "podrían influir en",
+    "valor": "la prevalencia de pancreatitis crónica"
+  },
+  {
+    "entidad": "pacientes jóvenes",
+    "relacion": "requieren",
+    "valor": "más hospitalizaciones por pancreatitis crónica"
+  },
+  {
+    "entidad": "pacientes mayores",
+    "relacion": "se controlan principalmente en",
+    "valor": "forma ambulatoria"
+  },
+  {
+    "entidad": "insuficiencia endocrina",
+    "relacion": "fue observada en",
+    "valor": "55% de los pacientes"
+  },
+  {
+    "entidad": "etnia Mapuche",
+    "relacion": "tiene baja prevalencia en",
+    "valor": "pacientes con pancreatitis crónica"
+  },
+  {
+    "entidad": "sistema de salud chileno",
+    "relacion": "no financia",
+    "valor": "endosonografía para diagnóstico"
+  },
+  {
+    "entidad": "métodos diagnósticos",
+    "relacion": "son importantes para",
+    "valor": "aspectos epidemiológicos de la enfermedad"
+  },
+  {
+    "entidad": "pacientes con diabetes",
+    "relacion": "pueden tener",
+    "valor": "pancreatitis crónica"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "puede ser causada por",
+    "valor": "complicaciones de pancreatitis crónica"
+  }
+]

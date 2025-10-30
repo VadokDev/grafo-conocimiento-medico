@@ -1,0 +1,807 @@
+[
+  {
+    "entidad": "Universidad Austral de Chile",
+    "relacion": "realiza",
+    "valor": "tutorías virtuales de ABP"
+  },
+  {
+    "entidad": "tutores pares",
+    "relacion": "facilitan",
+    "valor": "aprendizaje colaborativo"
+  },
+  {
+    "entidad": "estudiantes de primer año de medicina",
+    "relacion": "participan en",
+    "valor": "tutorías virtuales de ABP"
+  },
+  {
+    "entidad": "metodología ABP",
+    "relacion": "fortalece",
+    "valor": "razonamiento clínico"
+  },
+  {
+    "entidad": "metodología ABP",
+    "relacion": "promueve",
+    "valor": "motivación en estudiantes"
+  },
+  {
+    "entidad": "tutores pares",
+    "relacion": "requieren",
+    "valor": "capacitación en metodología ABP"
+  },
+  {
+    "entidad": "experiencia de estudiantes",
+    "relacion": "es evaluada como",
+    "valor": "positiva"
+  },
+  {
+    "entidad": "conectividad a internet",
+    "relacion": "afecta",
+    "valor": "comunicación entre estudiantes"
+  },
+  {
+    "entidad": "carga curricular excesiva",
+    "relacion": "dificulta",
+    "valor": "desarrollo de tareas"
+  },
+  {
+    "entidad": "tutores pares",
+    "relacion": "deben manejar",
+    "valor": "plataformas virtuales"
+  },
+  {
+    "entidad": "tutores pares",
+    "relacion": "proporcionan",
+    "valor": "retroalimentación"
+  },
+  {
+    "entidad": "estudiantes",
+    "relacion": "valoran",
+    "valor": "empatía y compromiso de tutores"
+  },
+  {
+    "entidad": "tutores pares",
+    "relacion": "crean",
+    "valor": "un clima de confianza"
+  },
+  {
+    "entidad": "metodología ABP",
+    "relacion": "requiere",
+    "valor": "responsabilidad y disciplina"
+  },
+  {
+    "entidad": "estudiantes",
+    "relacion": "experimentan",
+    "valor": "sensación de distancia en formato virtual"
+  },
+  {
+    "entidad": "pacientes virtuales interactivos",
+    "relacion": "aportan",
+    "valor": "motivación y competencias electrónicas"
+  },
+  {
+    "entidad": "tutorías entre pares",
+    "relacion": "son",
+    "valor": "una estrategia de aprendizaje"
+  },
+  {
+    "entidad": "escuela de medicina de la UACh",
+    "relacion": "crea",
+    "valor": "programa de tutores pares"
+  },
+  {
+    "entidad": "tutores pares",
+    "relacion": "apoyan",
+    "valor": "proceso cognitivo, sociocultural y existencial"
+  },
+  {
+    "entidad": "metodología ABP",
+    "relacion": "fomenta",
+    "valor": "trabajo en equipo"
+  },
+  {
+    "entidad": "estudiantes",
+    "relacion": "reconocen",
+    "valor": "necesidad de capacitación en búsqueda bibliográfica"
+  },
+  {
+    "entidad": "Buen Trato",
+    "relacion": "es una forma de",
+    "valor": "relación entre profesionales y usuarios del sistema de salud"
+  },
+  {
+    "entidad": "Buen Trato",
+    "relacion": "se basa en",
+    "valor": "respeto y valoración de la dignidad de la persona"
+  },
+  {
+    "entidad": "Herramienta de auto instrucción para el Buen Trato (HBT)",
+    "relacion": "es un",
+    "valor": "instrumento para orientar la práctica clínica"
+  },
+  {
+    "entidad": "HBT",
+    "relacion": "está formada por",
+    "valor": "Pauta de Autoevaluación, Lista de acciones, Pauta para Plan Personal"
+  },
+  {
+    "entidad": "HBT",
+    "relacion": "requiere",
+    "valor": "profesionales responsables de su quehacer"
+  },
+  {
+    "entidad": "HBT",
+    "relacion": "promueve",
+    "valor": "mejoramiento continuo en la formación clínica"
+  },
+  {
+    "entidad": "competencias",
+    "relacion": "son necesarias para",
+    "valor": "brindar atención de salud respetuosa"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud (OMS)",
+    "relacion": "desagrega",
+    "valor": "el Buen Trato en ocho dominios"
+  },
+  {
+    "entidad": "dominio de autonomía",
+    "relacion": "se refiere a",
+    "valor": "participación en la toma de decisiones sobre salud"
+  },
+  {
+    "entidad": "dominio de confidencialidad",
+    "relacion": "indica que",
+    "valor": "las personas controlan quién accede a su información de salud"
+  },
+  {
+    "entidad": "dominio de comunicación",
+    "relacion": "implica que",
+    "valor": "el usuario recibe información sobre su estado de salud"
+  },
+  {
+    "entidad": "dominio de trato respetuoso",
+    "relacion": "significa que",
+    "valor": "las personas reciben un trato humano y no sufren agravios a su dignidad"
+  },
+  {
+    "entidad": "dominio de atención pronta",
+    "relacion": "se refiere a",
+    "valor": "provisión de servicio sin generar riesgos o molestias"
+  },
+  {
+    "entidad": "dominio de condiciones de las instalaciones",
+    "relacion": "se refiere a",
+    "valor": "características físicas apropiadas del servicio"
+  },
+  {
+    "entidad": "dominio de acceso a redes de apoyo social",
+    "relacion": "indica que",
+    "valor": "los usuarios no pierden contacto con su entorno social"
+  },
+  {
+    "entidad": "dominio de capacidad de elección",
+    "relacion": "permite que",
+    "valor": "la persona seleccione al proveedor del servicio"
+  },
+  {
+    "entidad": "estudio de métodos mixtos",
+    "relacion": "se basa en",
+    "valor": "análisis de contenido propuesto por Kyngäs"
+  },
+  {
+    "entidad": "enfermeras",
+    "relacion": "participan en",
+    "valor": "la docencia clínica"
+  },
+  {
+    "entidad": "estudiantes de pregrado",
+    "relacion": "son parte de",
+    "valor": "la muestra del estudio"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "es la",
+    "valor": "institución donde se realizó el estudio"
+  },
+  {
+    "entidad": "Comité Ético Científico de Ciencias de la Salud",
+    "relacion": "aprobó",
+    "valor": "el estudio y consentimiento informado"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "es causado por",
+    "valor": "SARS-CoV-2"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "fue uno de los países más afectados por",
+    "valor": "COVID-19"
+  },
+  {
+    "entidad": "fármacos",
+    "relacion": "se utilizan para tratar",
+    "valor": "COVID-19"
+  },
+  {
+    "entidad": "pacientes hospitalizados",
+    "relacion": "fueron analizados en",
+    "valor": "un estudio multicéntrico"
+  },
+  {
+    "entidad": "azithromicina",
+    "relacion": "fue el fármaco más utilizado en",
+    "valor": "pacientes hospitalizados con COVID-19"
+  },
+  {
+    "entidad": "corticosteroides",
+    "relacion": "fueron utilizados en",
+    "valor": "pacientes hospitalizados con COVID-19"
+  },
+  {
+    "entidad": "hipertensión",
+    "relacion": "es un predictor de",
+    "valor": "mortalidad en pacientes con COVID-19"
+  },
+  {
+    "entidad": "edad ≥ 65 años",
+    "relacion": "es un predictor de",
+    "valor": "mortalidad en pacientes con COVID-19"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "fue observada en",
+    "valor": "12.9% de los pacientes"
+  },
+  {
+    "entidad": "azithromicina",
+    "relacion": "fue un factor de protección respecto a",
+    "valor": "mortalidad"
+  },
+  {
+    "entidad": "dexametasona",
+    "relacion": "fue recomendada por",
+    "valor": "la OMS para tratar COVID-19"
+  },
+  {
+    "entidad": "campaña de vacunación masiva",
+    "relacion": "redujo",
+    "valor": "número de nuevos casos de COVID-19"
+  },
+  {
+    "entidad": "estudio observacional",
+    "relacion": "fue realizado por",
+    "valor": "el grupo de Investigación Observacional de Resultados de Farmacoterapia en COVID-19 (IORF COVID-19)"
+  },
+  {
+    "entidad": "WHO",
+    "relacion": "estableció",
+    "valor": "directrices para el tratamiento de COVID-19"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "se caracteriza por",
+    "valor": "síntomas respiratorios agudos"
+  },
+  {
+    "entidad": "hospitales chilenos",
+    "relacion": "fueron parte de",
+    "valor": "un estudio multicéntrico"
+  },
+  {
+    "entidad": "comorbilidades",
+    "relacion": "fueron analizadas en",
+    "valor": "pacientes hospitalizados con COVID-19"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "fue evaluada en",
+    "valor": "un seguimiento de 28 días"
+  },
+  {
+    "entidad": "5-Fluorouracilo",
+    "relacion": "es un",
+    "valor": "tratamiento innovador"
+  },
+  {
+    "entidad": "pterigion primario",
+    "relacion": "es una",
+    "valor": "enfermedad ocular"
+  },
+  {
+    "entidad": "Hospital del Salvador",
+    "relacion": "realiza",
+    "valor": "estudio experimental"
+  },
+  {
+    "entidad": "Unidad de Oftalmología",
+    "relacion": "pertenece a",
+    "valor": "Hospital del Salvador"
+  },
+  {
+    "entidad": "5-Fluorouracilo",
+    "relacion": "se utiliza para",
+    "valor": "alivio sintomático en pterigion primario"
+  },
+  {
+    "entidad": "5-Fluorouracilo",
+    "relacion": "modifica",
+    "valor": "síntesis de ADN y ARN"
+  },
+  {
+    "entidad": "inyecciones intralesionales",
+    "relacion": "son",
+    "valor": "método de administración de 5-Fluorouracilo"
+  },
+  {
+    "entidad": "pterigion",
+    "relacion": "se caracteriza por",
+    "valor": "crecimiento fibrovascular de conjuntiva"
+  },
+  {
+    "entidad": "radiación UV",
+    "relacion": "es un",
+    "valor": "factor de riesgo para pterigion"
+  },
+  {
+    "entidad": "estrés oxidativo",
+    "relacion": "se asocia a",
+    "valor": "modificaciones lipídicas y proteicas"
+  },
+  {
+    "entidad": "5-Fluorouracilo",
+    "relacion": "induce",
+    "valor": "apoptosis de fibroblastos"
+  },
+  {
+    "entidad": "pterigion primario",
+    "relacion": "puede ser tratado con",
+    "valor": "inyecciones de 5-Fluorouracilo"
+  },
+  {
+    "entidad": "pterigion",
+    "relacion": "puede causar",
+    "valor": "disminución de la agudeza visual"
+  },
+  {
+    "entidad": "pterigion",
+    "relacion": "es común en",
+    "valor": "la población mundial"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "tiene un",
+    "valor": "factor protector contra pterigion"
+  },
+  {
+    "entidad": "diabetes mellitus",
+    "relacion": "tiene un",
+    "valor": "factor protector contra pterigion"
+  },
+  {
+    "entidad": "infección por virus",
+    "relacion": "se asocia a",
+    "valor": "patogénesis de pterigion"
+  },
+  {
+    "entidad": "comité de ética científica",
+    "relacion": "aprueba",
+    "valor": "estudio experimental"
+  },
+  {
+    "entidad": "pterigion",
+    "relacion": "es la primera causa de",
+    "valor": "lista de espera en cirugía no GES en Chile"
+  },
+  {
+    "entidad": "5-Fluorouracilo",
+    "relacion": "es un",
+    "valor": "análogo de pirimidina"
+  },
+  {
+    "entidad": "5-Fluorouracilo",
+    "relacion": "se aplica en",
+    "valor": "dosis intralesionales"
+  },
+  {
+    "entidad": "pterigion",
+    "relacion": "puede ser tratado con",
+    "valor": "resección quirúrgica"
+  },
+  {
+    "entidad": "resección quirúrgica",
+    "relacion": "es el",
+    "valor": "gold standard para pterigion avanzado"
+  },
+  {
+    "entidad": "Obesidad",
+    "relacion": "asociada con",
+    "valor": "estado proinflamatorio de bajo grado"
+  },
+  {
+    "entidad": "Obesidad",
+    "relacion": "relacionada con",
+    "valor": "desarrollo de cáncer"
+  },
+  {
+    "entidad": "Leucemia Linfoblástica Aguda (LAL)",
+    "relacion": "diagnosticada en",
+    "valor": "pacientes adultos"
+  },
+  {
+    "entidad": "Índice de Masa Corporal (IMC)",
+    "relacion": "utilizado para",
+    "valor": "diagnóstico de obesidad"
+  },
+  {
+    "entidad": "Obesidad",
+    "relacion": "no impacta en",
+    "valor": "supervivencia global"
+  },
+  {
+    "entidad": "Obesidad",
+    "relacion": "no se comporta como",
+    "valor": "variable de riesgo de recaída"
+  },
+  {
+    "entidad": "Riesgo de recaída",
+    "relacion": "determinado por",
+    "valor": "análisis estadístico"
+  },
+  {
+    "entidad": "Kaplan-Meier",
+    "relacion": "método utilizado para",
+    "valor": "análisis de supervivencia"
+  },
+  {
+    "entidad": "Quimioterapia",
+    "relacion": "ajustada por",
+    "valor": "peso del paciente"
+  },
+  {
+    "entidad": "Obesidad",
+    "relacion": "no es un",
+    "valor": "factor de riesgo independiente para pronóstico"
+  },
+  {
+    "entidad": "Hospital General de México",
+    "relacion": "realiza",
+    "valor": "estudio observacional"
+  },
+  {
+    "entidad": "Células adiposas",
+    "relacion": "inducen",
+    "valor": "resistencia a fármacos quimioterapéuticos"
+  },
+  {
+    "entidad": "Obesidad",
+    "relacion": "asociada con",
+    "valor": "mayor riesgo de complicaciones"
+  },
+  {
+    "entidad": "Sobrepeso",
+    "relacion": "diagnosticado en",
+    "valor": "32.8% de los pacientes"
+  },
+  {
+    "entidad": "Obesidad grado I",
+    "relacion": "diagnosticado en",
+    "valor": "18% de los pacientes"
+  },
+  {
+    "entidad": "Obesidad grado III",
+    "relacion": "diagnosticado en",
+    "valor": "0.8% de los pacientes"
+  },
+  {
+    "entidad": "Supervivencia a 5 años",
+    "relacion": "no se ve afectada por",
+    "valor": "obesidad"
+  },
+  {
+    "entidad": "Cáncer",
+    "relacion": "causa de",
+    "valor": "9.9 millones de muertes en 2020"
+  },
+  {
+    "entidad": "Test de Capacidad de Difusión de Monóxido de Carbono (DLCO)",
+    "relacion": "es",
+    "valor": "una evaluación de función pulmonar"
+  },
+  {
+    "entidad": "DLCO",
+    "relacion": "determina",
+    "valor": "el estado de la función pulmonar"
+  },
+  {
+    "entidad": "enfermedad pulmonar intersticial difusa (EPID)",
+    "relacion": "es",
+    "valor": "un trastorno crónico"
+  },
+  {
+    "entidad": "Valdivia, Chile",
+    "relacion": "es",
+    "valor": "el lugar del estudio"
+  },
+  {
+    "entidad": "pacientes evaluados",
+    "relacion": "consultan por",
+    "valor": "EPID"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "constituyen",
+    "valor": "la mayoría de los evaluados"
+  },
+  {
+    "entidad": "edad mediana",
+    "relacion": "es",
+    "valor": "65 años"
+  },
+  {
+    "entidad": "estado nutricional",
+    "relacion": "se clasifica en",
+    "valor": "insuficiente, preobesidad, obesidad I, II y III"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "es",
+    "valor": "un factor de riesgo para patologías respiratorias"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "es considerado",
+    "valor": "el principal factor de riesgo para EPOC"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "afecta",
+    "valor": "la progresión de enfermedades respiratorias"
+  },
+  {
+    "entidad": "Clínica Alemana de Valdivia",
+    "relacion": "realiza",
+    "valor": "el examen DLCO"
+  },
+  {
+    "entidad": "examen DLCO",
+    "relacion": "es",
+    "valor": "una prueba fundamental en el diagnóstico y seguimiento de enfermedades pulmonares"
+  },
+  {
+    "entidad": "pacientes con patrones obstructivos",
+    "relacion": "pueden presentar",
+    "valor": "un DLCO aumentado"
+  },
+  {
+    "entidad": "pacientes con EPID",
+    "relacion": "tienen",
+    "valor": "un menor resultado en la prueba DLCO"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "reportan",
+    "valor": "menor consumo diario de cigarrillos que hombres"
+  },
+  {
+    "entidad": "exfumadores",
+    "relacion": "tienen",
+    "valor": "menor consumo diario de cigarrillos que fumadores actuales"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "se relaciona con",
+    "valor": "enfermedades pulmonares intersticiales"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "ha aumentado",
+    "valor": "su frecuencia a nivel mundial desde 1975"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud",
+    "relacion": "reporta",
+    "valor": "39,8% de la población con sobrepeso"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud",
+    "relacion": "reporta",
+    "valor": "31,2% de la población con obesidad"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud",
+    "relacion": "reporta",
+    "valor": "3,2% de la población con obesidad mórbida"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "es",
+    "valor": "un factor de riesgo para EPOC y EPID"
+  },
+  {
+    "entidad": "DLCO",
+    "relacion": "proporciona",
+    "valor": "una imagen integrada del proceso de difusión de gases"
+  },
+  {
+    "entidad": "Eventos Adversos Medicamentosos",
+    "relacion": "se estudia en",
+    "valor": "pacientes hospitalizados en Chile"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "realiza",
+    "valor": "estudio de prevalencia de EAM"
+  },
+  {
+    "entidad": "método de identificación de EAM",
+    "relacion": "se valida mediante",
+    "valor": "opinión de expertos"
+  },
+  {
+    "entidad": "pacientes hospitalizados",
+    "relacion": "se analizan",
+    "valor": "diagnósticos de egreso, información sociodemográfica e indicadores de resultado"
+  },
+  {
+    "entidad": "EAM",
+    "relacion": "representa",
+    "valor": "13,6% de eventos adversos en atención hospitalaria"
+  },
+  {
+    "entidad": "Hospital de la Florida",
+    "relacion": "realiza",
+    "valor": "análisis de egresos hospitalarios"
+  },
+  {
+    "entidad": "FONDEF Idea I+D 2020",
+    "relacion": "financia",
+    "valor": "la investigación"
+  },
+  {
+    "entidad": "pacientes pediátricos",
+    "relacion": "son",
+    "valor": "más susceptibles a errores de medicación"
+  },
+  {
+    "entidad": "códigos CIE-10",
+    "relacion": "se utilizan para",
+    "valor": "identificación de EAM"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "se asocia con",
+    "valor": "ocurrencia de EAM"
+  },
+  {
+    "entidad": "sistemas de salud",
+    "relacion": "deben gestionar",
+    "valor": "el riesgo clínico"
+  },
+  {
+    "entidad": "eventos adversos",
+    "relacion": "pueden ser",
+    "valor": "evitables"
+  },
+  {
+    "entidad": "expertos clínicos",
+    "relacion": "revisan",
+    "valor": "resúmenes de egreso retrospectivos"
+  },
+  {
+    "entidad": "políticas públicas",
+    "relacion": "se diseñan para",
+    "valor": "mejorar calidad y seguridad del paciente"
+  },
+  {
+    "entidad": "grupos relacionados por el diagnóstico (GRD)",
+    "relacion": "se utilizan en",
+    "valor": "evaluación de EAM"
+  },
+  {
+    "entidad": "reacciones adversas a medicamentos (RAM)",
+    "relacion": "se identifican por",
+    "valor": "manifestaciones clínicas"
+  },
+  {
+    "entidad": "errores de medicación",
+    "relacion": "causan",
+    "valor": "daños en pacientes"
+  },
+  {
+    "entidad": "eventos adversos",
+    "relacion": "se relacionan con",
+    "valor": "uso de medicamentos"
+  },
+  {
+    "entidad": "citometría de flujo",
+    "relacion": "aumenta",
+    "valor": "proporción de muestras valorables en líquido cefalorraquídeo"
+  },
+  {
+    "entidad": "líquido cefalorraquídeo",
+    "relacion": "es un",
+    "valor": "marcador de mal pronóstico en hemopatías malignas"
+  },
+  {
+    "entidad": "hemopatías malignas",
+    "relacion": "pueden presentar",
+    "valor": "recuento celular normal en líquido cefalorraquídeo"
+  },
+  {
+    "entidad": "muestras de líquido cefalorraquídeo",
+    "relacion": "son analizadas por",
+    "valor": "citometría de flujo o citología"
+  },
+  {
+    "entidad": "muestras oligocelulares",
+    "relacion": "pueden ser consideradas",
+    "valor": "no aptas para análisis"
+  },
+  {
+    "entidad": "muestras valorables",
+    "relacion": "son reportadas por",
+    "valor": "citometría de flujo"
+  },
+  {
+    "entidad": "citometría de flujo",
+    "relacion": "mejora",
+    "valor": "sensibilidad en el análisis de muestras de líquido cefalorraquídeo"
+  },
+  {
+    "entidad": "panel de 8 colores",
+    "relacion": "se utiliza para",
+    "valor": "caracterizar el inmunofenotipo de muestras"
+  },
+  {
+    "entidad": "monocitos",
+    "relacion": "son identificados por",
+    "valor": "CD14"
+  },
+  {
+    "entidad": "linfocitos T",
+    "relacion": "son identificados por",
+    "valor": "CD3"
+  },
+  {
+    "entidad": "Hospital Guillermo Grant Benavente",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "Universidad de Concepción",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "proporción de muestras valorables",
+    "relacion": "es mayor en",
+    "valor": "citometría de flujo que en citología"
+  },
+  {
+    "entidad": "muestras con tubo SST",
+    "relacion": "tienen",
+    "valor": "menor cantidad de eventos en bajo volumen"
+  },
+  {
+    "entidad": "muestras de líquido cefalorraquídeo",
+    "relacion": "son obtenidas por",
+    "valor": "punción lumbar"
+  },
+  {
+    "entidad": "EDTA y Transfix®",
+    "relacion": "son utilizados para",
+    "valor": "condicionar tubos de muestras"
+  },
+  {
+    "entidad": "análisis estadístico",
+    "relacion": "se realiza con",
+    "valor": "software SPSS"
+  },
+  {
+    "entidad": "comité de ética del Servicio de Salud Concepción",
+    "relacion": "aprueba",
+    "valor": "el estudio"
+  }
+]

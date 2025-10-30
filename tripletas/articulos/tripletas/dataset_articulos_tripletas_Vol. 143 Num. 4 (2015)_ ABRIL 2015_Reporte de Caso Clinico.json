@@ -1,0 +1,297 @@
+[
+  {
+    "entidad": "Aspergilosis traqueobronquial necrotizante",
+    "relacion": "es una forma de",
+    "valor": "aspergilosis invasora"
+  },
+  {
+    "entidad": "Aspergillus spp",
+    "relacion": "causa",
+    "valor": "traqueobronquitis necrotizante"
+  },
+  {
+    "entidad": "paciente crítico",
+    "relacion": "desarrolla",
+    "valor": "aspergilosis invasiva"
+  },
+  {
+    "entidad": "sistema inmunológico",
+    "relacion": "afecta a",
+    "valor": "la progresión de la enfermedad"
+  },
+  {
+    "entidad": "mujer de 38 años",
+    "relacion": "tiene",
+    "valor": "lupus eritematoso sistémico"
+  },
+  {
+    "entidad": "methylprednisolone",
+    "relacion": "es un",
+    "valor": "tratamiento para lupus eritematoso sistémico"
+  },
+  {
+    "entidad": "ciclophosphamide",
+    "relacion": "es un",
+    "valor": "tratamiento para lupus eritematoso sistémico"
+  },
+  {
+    "entidad": "Aspergillus fumigatus",
+    "relacion": "es el",
+    "valor": "patógeno más frecuente en aspergilosis"
+  },
+  {
+    "entidad": "falla respiratoria",
+    "relacion": "es una complicación de",
+    "valor": "aspergilosis traqueobronquial"
+  },
+  {
+    "entidad": "diagnóstico",
+    "relacion": "se realiza mediante",
+    "valor": "fibrobroncoscopia"
+  },
+  {
+    "entidad": "voriconazol",
+    "relacion": "es considerado",
+    "valor": "fármaco de elección para aspergilosis invasiva"
+  },
+  {
+    "entidad": "anfotericina B deoxicolato",
+    "relacion": "es un",
+    "valor": "tratamiento para aspergilosis"
+  },
+  {
+    "entidad": "caspofungina",
+    "relacion": "es la única",
+    "valor": "equinocandina aprobada para aspergilosis"
+  },
+  {
+    "entidad": "terapia de reemplazo renal",
+    "relacion": "se inicia en",
+    "valor": "paciente con deterioro renal"
+  },
+  {
+    "entidad": "sepsis severa",
+    "relacion": "es un factor de riesgo para",
+    "valor": "mortalidad en aspergilosis"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "supera",
+    "valor": "70% en pacientes severamente inmunocomprometidos"
+  },
+  {
+    "entidad": "broncoscopia",
+    "relacion": "es útil para",
+    "valor": "eliminar tapones de mucus"
+  },
+  {
+    "entidad": "endobronchial ultrasound (EBUS)",
+    "relacion": "se sugiere para",
+    "valor": "guiar la toma de muestras"
+  },
+  {
+    "entidad": "Aspergillus spp",
+    "relacion": "es un",
+    "valor": "hongo filamentoso"
+  },
+  {
+    "entidad": "inmunosupresión",
+    "relacion": "afecta",
+    "valor": "la susceptibilidad a infecciones fúngicas"
+  },
+  {
+    "entidad": "pacientes inmunocomprometidos",
+    "relacion": "son más propensos a",
+    "valor": "aspergilosis invasiva"
+  },
+  {
+    "entidad": "Clostridium difficile",
+    "relacion": "causa",
+    "valor": "infección recurrente"
+  },
+  {
+    "entidad": "infección recurrente por Clostridium difficile",
+    "relacion": "se caracteriza por",
+    "valor": "alta tasa de recurrencia"
+  },
+  {
+    "entidad": "trasplante de microbiota fecal",
+    "relacion": "es un",
+    "valor": "tratamiento para infección recurrente por Clostridium difficile"
+  },
+  {
+    "entidad": "trasplante de microbiota fecal",
+    "relacion": "restaura",
+    "valor": "diversidad de la microbiota intestinal"
+  },
+  {
+    "entidad": "mujer de 57 años",
+    "relacion": "desarrolló",
+    "valor": "diarrea asociada a antibióticos"
+  },
+  {
+    "entidad": "Vancomicina",
+    "relacion": "fue utilizada para",
+    "valor": "tratar infección por Clostridium difficile"
+  },
+  {
+    "entidad": "trasplante de microbiota fecal",
+    "relacion": "se realizó utilizando",
+    "valor": "deposiciones de un donante familiar"
+  },
+  {
+    "entidad": "deposiciones de un donante familiar",
+    "relacion": "fueron",
+    "valor": "diluidas en solución salina"
+  },
+  {
+    "entidad": "trasplante de microbiota fecal",
+    "relacion": "se realizó por",
+    "valor": "colonoscopia"
+  },
+  {
+    "entidad": "trasplante de microbiota fecal",
+    "relacion": "mostró",
+    "valor": "buenos resultados clínicos"
+  },
+  {
+    "entidad": "ICD recurrente",
+    "relacion": "es la única indicación",
+    "valor": "ampliamente aceptada para el uso de TMF"
+  },
+  {
+    "entidad": "Clínica Las Condes",
+    "relacion": "es un",
+    "valor": "centro de atención médica"
+  },
+  {
+    "entidad": "Universidad de Chile",
+    "relacion": "es un",
+    "valor": "institución educativa"
+  },
+  {
+    "entidad": "Hospital San Borja Arriarán",
+    "relacion": "es un",
+    "valor": "hospital en Santiago, Chile"
+  },
+  {
+    "entidad": "EII",
+    "relacion": "es un",
+    "valor": "factor de riesgo para ICD"
+  },
+  {
+    "entidad": "TMF",
+    "relacion": "ha sido",
+    "valor": "implementado de manera heterogénea"
+  },
+  {
+    "entidad": "Clostridium difficile",
+    "relacion": "es responsable de",
+    "valor": "diarrea aguda intrahospitalaria"
+  },
+  {
+    "entidad": "ICD",
+    "relacion": "ha aumentado",
+    "valor": "en incidencia en hospitales"
+  },
+  {
+    "entidad": "TMF",
+    "relacion": "puede lograr",
+    "valor": "resolución de infección"
+  },
+  {
+    "entidad": "vancomicina",
+    "relacion": "es un",
+    "valor": "tratamiento para ICD"
+  },
+  {
+    "entidad": "rifaximina",
+    "relacion": "es un",
+    "valor": "tratamiento alternativo para ICD"
+  },
+  {
+    "entidad": "Trombosis de senos venosos intracraneales",
+    "relacion": "es una",
+    "valor": "complicación de la colitis ulcerosa"
+  },
+  {
+    "entidad": "Colitis ulcerosa",
+    "relacion": "afecta a",
+    "valor": "pacientes con enfermedad inflamatoria intestinal"
+  },
+  {
+    "entidad": "Colitis ulcerosa",
+    "relacion": "presenta",
+    "valor": "síntomas como sangrado digestivo bajo, diarrea y dolor abdominal"
+  },
+  {
+    "entidad": "Trombosis de senos venosos intracraneales",
+    "relacion": "tiene una frecuencia de",
+    "valor": "1.3 a 7.5% en casos anuales"
+  },
+  {
+    "entidad": "Trombosis de senos venosos intracraneales",
+    "relacion": "puede causar",
+    "valor": "severa discapacidad o muerte"
+  },
+  {
+    "entidad": "Hipercoagulabilidad",
+    "relacion": "es un mecanismo de",
+    "valor": "afectación del sistema nervioso en colitis ulcerosa"
+  },
+  {
+    "entidad": "Anticoagulación con heparina",
+    "relacion": "es un tratamiento para",
+    "valor": "trombosis de senos venosos intracraneales"
+  },
+  {
+    "entidad": "Mesalazina",
+    "relacion": "es un tratamiento para",
+    "valor": "colitis ulcerosa"
+  },
+  {
+    "entidad": "Prednisona",
+    "relacion": "es un tratamiento para",
+    "valor": "colitis ulcerosa"
+  },
+  {
+    "entidad": "Resonancia magnética",
+    "relacion": "es un método para",
+    "valor": "diagnosticar trombosis de senos venosos intracraneales"
+  },
+  {
+    "entidad": "Tromboprofilaxis farmacológica",
+    "relacion": "es recomendada para",
+    "valor": "pacientes con colitis ulcerosa en grado moderado-severo"
+  },
+  {
+    "entidad": "Trombosis venosa profunda",
+    "relacion": "es una complicación de",
+    "valor": "colitis ulcerosa"
+  },
+  {
+    "entidad": "Cefalea de intensidad progresiva",
+    "relacion": "es un síntoma de",
+    "valor": "trombosis de senos venosos intracraneales"
+  },
+  {
+    "entidad": "Trombosis de senos venosos intracraneales",
+    "relacion": "es indistinguible de",
+    "valor": "la forma habitual de trombosis"
+  },
+  {
+    "entidad": "Colitis ulcerosa",
+    "relacion": "es considerada",
+    "valor": "una enfermedad sistémica"
+  },
+  {
+    "entidad": "Trombosis de senos venosos intracraneales",
+    "relacion": "se presenta en",
+    "valor": "pacientes jóvenes"
+  },
+  {
+    "entidad": "Anticoagulación con dicumarínicos",
+    "relacion": "es un tratamiento posterior a",
+    "valor": "la anticoagulación con heparina"
+  }
+]

@@ -1,0 +1,307 @@
+[
+  {
+    "entidad": "Fórmula leucocitaria",
+    "relacion": "mide",
+    "valor": "cantidad de cada tipo de glóbulo blanco en la sangre"
+  },
+  {
+    "entidad": "Fórmula leucocitaria",
+    "relacion": "diagnostica",
+    "valor": "infecciones"
+  },
+  {
+    "entidad": "Fórmula leucocitaria",
+    "relacion": "diagnostica",
+    "valor": "enfermedades autoinmunes"
+  },
+  {
+    "entidad": "Fórmula leucocitaria",
+    "relacion": "diagnostica",
+    "valor": "leucemia"
+  },
+  {
+    "entidad": "Fórmula leucocitaria",
+    "relacion": "util_para",
+    "valor": "diagnosticar la causa de síntomas"
+  },
+  {
+    "entidad": "Fórmula leucocitaria",
+    "relacion": "requiere_muestra_de",
+    "valor": "sangre"
+  },
+  {
+    "entidad": "Fórmula leucocitaria",
+    "relacion": "tiene_duracion",
+    "valor": "menos de cinco minutos"
+  },
+  {
+    "entidad": "Fórmula leucocitaria",
+    "relacion": "tiene_riesgo",
+    "valor": "dolor leve, mareo, moretón"
+  },
+  {
+    "entidad": "Fórmula leucocitaria",
+    "relacion": "es_tipo_de",
+    "valor": "análisis de sangre"
+  },
+  {
+    "entidad": "Fórmula leucocitaria",
+    "relacion": "indicado_si_tiene",
+    "valor": "cansancio inusual"
+  },
+  {
+    "entidad": "Fórmula leucocitaria",
+    "relacion": "indicado_si_tiene",
+    "valor": "debilidad"
+  },
+  {
+    "entidad": "Fórmula leucocitaria",
+    "relacion": "indicado_si_tiene",
+    "valor": "moretones sin motivo aparente"
+  },
+  {
+    "entidad": "Frotis de sangre",
+    "relacion": "analiza",
+    "valor": "células sanguíneas"
+  },
+  {
+    "entidad": "Frotis de sangre",
+    "relacion": "requiere_muestra_de",
+    "valor": "sangre"
+  },
+  {
+    "entidad": "Frotis de sangre",
+    "relacion": "diagnostica",
+    "valor": "trastornos de la sangre"
+  },
+  {
+    "entidad": "Frotis de sangre",
+    "relacion": "diagnostica",
+    "valor": "cáncer"
+  },
+  {
+    "entidad": "Frotis de sangre",
+    "relacion": "diagnostica",
+    "valor": "infecciones"
+  },
+  {
+    "entidad": "Frotis de sangre",
+    "relacion": "diagnostica",
+    "valor": "parásitos"
+  },
+  {
+    "entidad": "Frotis de sangre",
+    "relacion": "indicado_si_tiene",
+    "valor": "resultados anormales en un conteo sanguíneo completo"
+  },
+  {
+    "entidad": "Frotis de sangre",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "fatiga"
+  },
+  {
+    "entidad": "Frotis de sangre",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "ictericia"
+  },
+  {
+    "entidad": "Frotis de sangre",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "hemorragia nasal"
+  },
+  {
+    "entidad": "Frotis de sangre",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "moretones"
+  },
+  {
+    "entidad": "Frotis de sangre",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "fiebre"
+  },
+  {
+    "entidad": "Frotis de sangre",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "dolor de huesos"
+  },
+  {
+    "entidad": "Frotis de sangre",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "nódulos linfáticos agrandados"
+  },
+  {
+    "entidad": "Frotis de sangre",
+    "relacion": "tiene_duracion",
+    "valor": "menos de cinco minutos"
+  },
+  {
+    "entidad": "Frotis de sangre",
+    "relacion": "tiene_riesgo",
+    "valor": "dolor leve"
+  },
+  {
+    "entidad": "Frotis de sangre",
+    "relacion": "tiene_riesgo",
+    "valor": "moretón"
+  },
+  {
+    "entidad": "Frotis de sangre",
+    "relacion": "utiliza_equipo",
+    "valor": "microscopio"
+  },
+  {
+    "entidad": "Frotis de sangre",
+    "relacion": "realizado_por",
+    "valor": "profesional de laboratorio"
+  },
+  {
+    "entidad": "Fosfatasa alcalina",
+    "relacion": "mide",
+    "valor": "niveles de fosfatasa alcalina en la sangre"
+  },
+  {
+    "entidad": "Fosfatasa alcalina",
+    "relacion": "alivia",
+    "valor": "síntomas de daño en el hígado"
+  },
+  {
+    "entidad": "Fosfatasa alcalina",
+    "relacion": "alivia",
+    "valor": "síntomas de enfermedad de los huesos"
+  },
+  {
+    "entidad": "Fosfatasa alcalina",
+    "relacion": "diagnostica",
+    "valor": "enfermedad hepática"
+  },
+  {
+    "entidad": "Fosfatasa alcalina",
+    "relacion": "diagnostica",
+    "valor": "trastornos de los huesos"
+  },
+  {
+    "entidad": "Fosfatasa alcalina",
+    "relacion": "diagnostica",
+    "valor": "enfermedad renal crónica"
+  },
+  {
+    "entidad": "Fosfatasa alcalina",
+    "relacion": "requiere_muestra_de",
+    "valor": "sangre de una vena del brazo"
+  },
+  {
+    "entidad": "Fosfatasa alcalina",
+    "relacion": "tiene_duracion",
+    "valor": "menos de cinco minutos"
+  },
+  {
+    "entidad": "Fosfatasa alcalina",
+    "relacion": "tiene_riesgo",
+    "valor": "dolor leve o moretón en el lugar de la punción"
+  },
+  {
+    "entidad": "Fosfatasa alcalina",
+    "relacion": "es_tipo_de",
+    "valor": "análisis de sangre"
+  },
+  {
+    "entidad": "Fosfatasa alcalina",
+    "relacion": "util_para",
+    "valor": "detectar enfermedades del hígado o los huesos"
+  },
+  {
+    "entidad": "Fosfatasa alcalina",
+    "relacion": "indicado_si_tiene",
+    "valor": "síntomas de daño en el hígado"
+  },
+  {
+    "entidad": "Fosfatasa alcalina",
+    "relacion": "indicado_si_tiene",
+    "valor": "síntomas de enfermedad de los huesos"
+  },
+  {
+    "entidad": "Fosfatasa alcalina",
+    "relacion": "ayuda_diagnosticar",
+    "valor": "daño en el hígado"
+  },
+  {
+    "entidad": "Fosfatasa alcalina",
+    "relacion": "ayuda_diagnosticar",
+    "valor": "enfermedad de los huesos"
+  },
+  {
+    "entidad": "Fluoroscopia",
+    "relacion": "analiza",
+    "valor": "órganos, tejidos y estructuras internas en movimiento"
+  },
+  {
+    "entidad": "Fluoroscopia",
+    "relacion": "diagnostica",
+    "valor": "afecciones cardíacas"
+  },
+  {
+    "entidad": "Fluoroscopia",
+    "relacion": "diagnostica",
+    "valor": "problemas de salud en el tubo digestivo"
+  },
+  {
+    "entidad": "Fluoroscopia",
+    "relacion": "diagnostica",
+    "valor": "afecciones en órganos reproductivos femeninos"
+  },
+  {
+    "entidad": "Fluoroscopia",
+    "relacion": "indicado_si_tiene",
+    "valor": "necesidad de evaluar el funcionamiento de un órgano"
+  },
+  {
+    "entidad": "Fluoroscopia",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "problemas en el sistema digestivo"
+  },
+  {
+    "entidad": "Fluoroscopia",
+    "relacion": "indicado_para_sintomas_de",
+    "valor": "afecciones cardíacas"
+  },
+  {
+    "entidad": "Fluoroscopia",
+    "relacion": "tiene_riesgo",
+    "valor": "radiación perjudicial para el feto"
+  },
+  {
+    "entidad": "Fluoroscopia",
+    "relacion": "tiene_riesgo",
+    "valor": "reacción alérgica al colorante de contraste"
+  },
+  {
+    "entidad": "Fluoroscopia",
+    "relacion": "utiliza_equipo",
+    "valor": "escáner de radiografías"
+  },
+  {
+    "entidad": "Fluoroscopia",
+    "relacion": "se_realiza_en",
+    "valor": "centro de radiología ambulatoria"
+  },
+  {
+    "entidad": "Fluoroscopia",
+    "relacion": "se_realiza_en",
+    "valor": "hospital"
+  },
+  {
+    "entidad": "Fluoroscopia",
+    "relacion": "es_tipo_de",
+    "valor": "radiografía"
+  },
+  {
+    "entidad": "Fluoroscopia",
+    "relacion": "util_para",
+    "valor": "guiar procedimientos médicos"
+  },
+  {
+    "entidad": "Fluoroscopia",
+    "relacion": "es_parte_de",
+    "valor": "procedimientos de diagnóstico por imagen"
+  }
+]

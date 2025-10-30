@@ -1,0 +1,842 @@
+[
+  {
+    "entidad": "colelitiasis",
+    "relacion": "representa",
+    "valor": "una carga importante para la salud en Chile"
+  },
+  {
+    "entidad": "programa GES",
+    "relacion": "incluye",
+    "valor": "CCT priorizada para portadores de CL entre 35 y 49 años"
+  },
+  {
+    "entidad": "CCT",
+    "relacion": "es",
+    "valor": "una intervención quirúrgica"
+  },
+  {
+    "entidad": "ecografía",
+    "relacion": "es un",
+    "valor": "método de tamizaje para CL"
+  },
+  {
+    "entidad": "pacientes GES",
+    "relacion": "tienen",
+    "valor": "mayor acceso a CCT"
+  },
+  {
+    "entidad": "pacientes No-GES",
+    "relacion": "tienen",
+    "valor": "menor acceso a CCT"
+  },
+  {
+    "entidad": "MINSAL",
+    "relacion": "incorporó",
+    "valor": "CL al programa GES-AUGE en 2006"
+  },
+  {
+    "entidad": "CCT",
+    "relacion": "es",
+    "valor": "la principal estrategia de prevención primaria de CVB"
+  },
+  {
+    "entidad": "CVB",
+    "relacion": "es",
+    "valor": "la segunda causa de muerte oncológica entre mujeres chilenas"
+  },
+  {
+    "entidad": "programa GES",
+    "relacion": "garantiza",
+    "valor": "CCT dentro de plazos establecidos"
+  },
+  {
+    "entidad": "pacientes GES",
+    "relacion": "son",
+    "valor": "más propensos a ser operados dentro de plazos garantizados"
+  },
+  {
+    "entidad": "pacientes No-GES",
+    "relacion": "son",
+    "valor": "más propensos a estar en lista de espera"
+  },
+  {
+    "entidad": "CCT electivas",
+    "relacion": "son",
+    "valor": "realizadas en mayor proporción en pacientes GES"
+  },
+  {
+    "entidad": "CCT",
+    "relacion": "puede",
+    "valor": "disminuir la mortalidad por CVB"
+  },
+  {
+    "entidad": "programa GES",
+    "relacion": "no ha",
+    "valor": "incrementado significativamente las tasas de CCT"
+  },
+  {
+    "entidad": "pacientes con CL",
+    "relacion": "son",
+    "valor": "evaluados en un programa de tamizaje"
+  },
+  {
+    "entidad": "CCT",
+    "relacion": "es",
+    "valor": "una intervención oportuna para prevenir complicaciones"
+  },
+  {
+    "entidad": "CCT",
+    "relacion": "se realiza",
+    "valor": "en hospitales de la Región Metropolitana"
+  },
+  {
+    "entidad": "CCT",
+    "relacion": "es",
+    "valor": "priorizada para pacientes entre 35 y 49 años"
+  },
+  {
+    "entidad": "pacientes mayores de 50 años",
+    "relacion": "son",
+    "valor": "más vulnerables a complicaciones por CL"
+  },
+  {
+    "entidad": "Virus de Inmunodeficiencia Humana (VIH)",
+    "relacion": "causa",
+    "valor": "disfunción tiroidea"
+  },
+  {
+    "entidad": "disfunción tiroidea",
+    "relacion": "es común en",
+    "valor": "pacientes infectados con VIH"
+  },
+  {
+    "entidad": "hipotiroidismo subclínico",
+    "relacion": "es la",
+    "valor": "alteración más prevalente en VIH"
+  },
+  {
+    "entidad": "hipotiroxinemia aislada",
+    "relacion": "se asocia con",
+    "valor": "aumento de la mortalidad en pacientes con VIH"
+  },
+  {
+    "entidad": "síndrome del eutiroideo enfermo",
+    "relacion": "se observa en",
+    "valor": "etapas avanzadas de la enfermedad VIH"
+  },
+  {
+    "entidad": "terapia antirretroviral (TARV)",
+    "relacion": "puede causar",
+    "valor": "disfunción tiroidea"
+  },
+  {
+    "entidad": "recuento de linfocitos CD4 bajo",
+    "relacion": "se asocia con",
+    "valor": "disfunción tiroidea"
+  },
+  {
+    "entidad": "co-infección por virus de Hepatitis B",
+    "relacion": "es más frecuente en",
+    "valor": "pacientes con disfunción tiroidea"
+  },
+  {
+    "entidad": "Hospital Carlos Van Buren",
+    "relacion": "realiza",
+    "valor": "control de pacientes con VIH"
+  },
+  {
+    "entidad": "Universidad de Valparaíso",
+    "relacion": "evalúa",
+    "valor": "protocolo de estudio"
+  },
+  {
+    "entidad": "hormona tiroestimulante (TSH)",
+    "relacion": "se mide para",
+    "valor": "evaluar función tiroidea"
+  },
+  {
+    "entidad": "tiroxina libre (T4L)",
+    "relacion": "se mide para",
+    "valor": "evaluar función tiroidea"
+  },
+  {
+    "entidad": "síntomas físicos y psicológicos",
+    "relacion": "se evalúan mediante",
+    "valor": "encuesta"
+  },
+  {
+    "entidad": "pacientes infectados con VIH",
+    "relacion": "deben ser evaluados para",
+    "valor": "función tiroidea"
+  },
+  {
+    "entidad": "alteraciones tiroideas",
+    "relacion": "pueden deteriorar",
+    "valor": "calidad de vida de pacientes con VIH"
+  },
+  {
+    "entidad": "resistina",
+    "relacion": "es un",
+    "valor": "adipokina"
+  },
+  {
+    "entidad": "resistina",
+    "relacion": "se asocia con",
+    "valor": "trastornos metabólicos y endocrinos de la obesidad"
+  },
+  {
+    "entidad": "niños y adolescentes",
+    "relacion": "son",
+    "valor": "población estudiada"
+  },
+  {
+    "entidad": "resistina",
+    "relacion": "se mide mediante",
+    "valor": "ensayo inmunoenzimático"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "se asocia con",
+    "valor": "diabetes mellitus tipo 2"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "se asocia con",
+    "valor": "hipertensión"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "se asocia con",
+    "valor": "enfermedades hepáticas"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "se asocia con",
+    "valor": "complicaciones cardiovasculares"
+  },
+  {
+    "entidad": "resistina",
+    "relacion": "correlaciona con",
+    "valor": "índice de masa corporal (IMC)"
+  },
+  {
+    "entidad": "resistina",
+    "relacion": "correlaciona con",
+    "valor": "pliegue del tríceps"
+  },
+  {
+    "entidad": "resistina",
+    "relacion": "correlaciona con",
+    "valor": "circunferencia del brazo"
+  },
+  {
+    "entidad": "resistina",
+    "relacion": "correlaciona con",
+    "valor": "área grasa del brazo"
+  },
+  {
+    "entidad": "resistina",
+    "relacion": "correlaciona con",
+    "valor": "masa grasa"
+  },
+  {
+    "entidad": "hombres obesos",
+    "relacion": "tienen",
+    "valor": "niveles de resistina significativamente más altos que eutróficos"
+  },
+  {
+    "entidad": "mujeres eutróficas",
+    "relacion": "tienen",
+    "valor": "niveles de resistina más altos que hombres eutróficos"
+  },
+  {
+    "entidad": "estado puberal",
+    "relacion": "no se asocia con",
+    "valor": "niveles de resistina"
+  },
+  {
+    "entidad": "resistina",
+    "relacion": "se relaciona con",
+    "valor": "indicadores de adiposidad"
+  },
+  {
+    "entidad": "Centro de Investigaciones Endocrino-Metabólicas 'Dr. Félix Gómez'",
+    "relacion": "es un",
+    "valor": "centro de investigación"
+  },
+  {
+    "entidad": "Universidad del Zulia",
+    "relacion": "es un",
+    "valor": "institución educativa"
+  },
+  {
+    "entidad": "Instituto de Salud Carlos III",
+    "relacion": "es un",
+    "valor": "institución de investigación"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "se relaciona con",
+    "valor": "resistencia a la insulina"
+  },
+  {
+    "entidad": "resistina",
+    "relacion": "puede ser un",
+    "valor": "mediador proinflamatorio"
+  },
+  {
+    "entidad": "Ministerio de Salud",
+    "relacion": "pertenece a",
+    "valor": "Gobierno de Chile"
+  },
+  {
+    "entidad": "Escuela de Salud Pública",
+    "relacion": "es parte de",
+    "valor": "Universidad de Chile"
+  },
+  {
+    "entidad": "Adjusted Clinical Groups (ACG)",
+    "relacion": "desarrollado por",
+    "valor": "The Johns Hopkins University"
+  },
+  {
+    "entidad": "Atención Primaria de Salud (APS)",
+    "relacion": "utiliza",
+    "valor": "Adjusted Clinical Groups (ACG)"
+  },
+  {
+    "entidad": "Diabetes Mellitus",
+    "relacion": "es una",
+    "valor": "patología crónica"
+  },
+  {
+    "entidad": "Hipertensión",
+    "relacion": "es una",
+    "valor": "patología crónica"
+  },
+  {
+    "entidad": "Insuficiencia cardíaca",
+    "relacion": "es una",
+    "valor": "patología crónica"
+  },
+  {
+    "entidad": "ACG",
+    "relacion": "permite",
+    "valor": "clasificación de pacientes según carga de morbilidad"
+  },
+  {
+    "entidad": "ACG",
+    "relacion": "asigna",
+    "valor": "pacientes a categorías mutuamente excluyentes"
+  },
+  {
+    "entidad": "Grupos Clínicos Ajustados (ACG)",
+    "relacion": "contribuye a",
+    "valor": "mejor distribución de recursos de salud"
+  },
+  {
+    "entidad": "carga de enfermedad",
+    "relacion": "afecta a",
+    "valor": "distribución de recursos de salud"
+  },
+  {
+    "entidad": "población con enfermedades crónicas",
+    "relacion": "se distribuye con mayor prevalencia en",
+    "valor": "grupos con menor nivel educacional"
+  },
+  {
+    "entidad": "sistema de pago per cápita",
+    "relacion": "coexiste con",
+    "valor": "financiamiento prospectivo de programas prioritarios"
+  },
+  {
+    "entidad": "mecanismo de asignación actual",
+    "relacion": "resuelve",
+    "valor": "dificultades observadas con pagos históricos"
+  },
+  {
+    "entidad": "ACG",
+    "relacion": "mejora",
+    "valor": "asignación de recursos en atención primaria"
+  },
+  {
+    "entidad": "sistema de ajuste de riesgo",
+    "relacion": "debe ser implementado para",
+    "valor": "distribuir recursos equitativamente"
+  },
+  {
+    "entidad": "ACG",
+    "relacion": "clasifica",
+    "valor": "población por carga de morbilidad"
+  },
+  {
+    "entidad": "calidad de vida relacionada con la salud (CVRS)",
+    "relacion": "corresponde a",
+    "valor": "percepción del bienestar subjetivo"
+  },
+  {
+    "entidad": "adolescentes escolarizados chilenos",
+    "relacion": "presentan",
+    "valor": "diferencias de género en CVRS"
+  },
+  {
+    "entidad": "mujeres adolescentes",
+    "relacion": "tienen",
+    "valor": "puntajes más bajos en CVRS"
+  },
+  {
+    "entidad": "hombres adolescentes",
+    "relacion": "tienen",
+    "valor": "mayor riesgo en dimensiones de 'Amigos y apoyo social' y 'Entorno escolar'"
+  },
+  {
+    "entidad": "Organización Panamericana de la Salud (OPS)",
+    "relacion": "promueve",
+    "valor": "perspectiva de género en salud pública"
+  },
+  {
+    "entidad": "diferencias biológicas",
+    "relacion": "pueden determinar",
+    "valor": "vulnerabilidad y susceptibilidad a enfermar según el sexo"
+  },
+  {
+    "entidad": "niñas",
+    "relacion": "son más propensas a",
+    "valor": "declarar síntomas psicosomáticos o depresivos"
+  },
+  {
+    "entidad": "adolescentes",
+    "relacion": "perciben",
+    "valor": "peor salud a mayor edad"
+  },
+  {
+    "entidad": "nivel socioeconómico",
+    "relacion": "afecta",
+    "valor": "auto percepción de calidad de vida"
+  },
+  {
+    "entidad": "KIDSCREEN-52",
+    "relacion": "es un",
+    "valor": "instrumento para evaluar CVRS"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "analiza",
+    "valor": "diferencias de género en CVRS"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "presentan",
+    "valor": "mayor riesgo de puntajes bajos en dimensiones de CVRS"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "reportan",
+    "valor": "mayor riesgo en 'Amigos y apoyo social'"
+  },
+  {
+    "entidad": "escuela",
+    "relacion": "refuerza",
+    "valor": "diferencias de género"
+  },
+  {
+    "entidad": "adolescentes",
+    "relacion": "experimentan",
+    "valor": "discrepancia entre desarrollo físico e intelectual"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "contribuye a",
+    "valor": "diseño de políticas educacionales y de salud"
+  },
+  {
+    "entidad": "mujeres adolescentes",
+    "relacion": "tienen",
+    "valor": "más sobrepeso y obesidad"
+  },
+  {
+    "entidad": "depresión",
+    "relacion": "es más común en",
+    "valor": "mujeres después de la pubertad"
+  },
+  {
+    "entidad": "diferencias de género",
+    "relacion": "permanecen",
+    "valor": "al analizar variables económicas y zona del país"
+  },
+  {
+    "entidad": "acupuntura",
+    "relacion": "es un",
+    "valor": "tratamiento para el dolor postquirúrgico"
+  },
+  {
+    "entidad": "dolor agudo postquirúrgico",
+    "relacion": "es tratado por",
+    "valor": "acupuntura"
+  },
+  {
+    "entidad": "acupuntura",
+    "relacion": "compara con",
+    "valor": "tratamientos activos"
+  },
+  {
+    "entidad": "acupuntura",
+    "relacion": "compara con",
+    "valor": "acupuntura simulada"
+  },
+  {
+    "entidad": "escuela de salud pública",
+    "relacion": "pertenece a",
+    "valor": "Facultad de Medicina, Universidad Mayor"
+  },
+  {
+    "entidad": "acupuntura",
+    "relacion": "puede aliviar",
+    "valor": "dolor"
+  },
+  {
+    "entidad": "acupuntura",
+    "relacion": "requiere",
+    "valor": "más estudios controlados"
+  },
+  {
+    "entidad": "acupuntura",
+    "relacion": "se utiliza para",
+    "valor": "provocar cambios en los resultados"
+  },
+  {
+    "entidad": "auriculoterapia",
+    "relacion": "es un tipo de",
+    "valor": "acupuntura"
+  },
+  {
+    "entidad": "acupuntura",
+    "relacion": "se asocia con",
+    "valor": "menor consumo de opioides"
+  },
+  {
+    "entidad": "acupuntura",
+    "relacion": "puede ser",
+    "valor": "una terapia complementaria"
+  },
+  {
+    "entidad": "evidencia",
+    "relacion": "es limitada sobre",
+    "valor": "efectividad de la acupuntura"
+  },
+  {
+    "entidad": "acupuntura",
+    "relacion": "se recomienda para",
+    "valor": "dolor agudo y crónico"
+  },
+  {
+    "entidad": "mecanismo de acción de la acupuntura",
+    "relacion": "implica",
+    "valor": "secreción de endorfinas"
+  },
+  {
+    "entidad": "políticas de salud",
+    "relacion": "se debaten sobre",
+    "valor": "eficacia y seguridad de la acupuntura"
+  },
+  {
+    "entidad": "acupuntura",
+    "relacion": "ha experimentado",
+    "valor": "un rápido crecimiento en investigación"
+  },
+  {
+    "entidad": "acupuntura",
+    "relacion": "es utilizada en",
+    "valor": "hospitales y clínicas comunitarias"
+  },
+  {
+    "entidad": "acupuntura",
+    "relacion": "se basa en",
+    "valor": "medicina tradicional china"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "pertenece a",
+    "valor": "Facultad de Medicina"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud",
+    "relacion": "realizada en",
+    "valor": "Chile 2010"
+  },
+  {
+    "entidad": "hipertensión arterial",
+    "relacion": "es",
+    "valor": "principal factor de riesgo cardiovascular"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud 2009-10",
+    "relacion": "incorpora",
+    "valor": "tercera medición de presión arterial"
+  },
+  {
+    "entidad": "tercera medición de presión arterial",
+    "relacion": "afecta",
+    "valor": "promedio de presión arterial"
+  },
+  {
+    "entidad": "tercera medición de presión arterial",
+    "relacion": "afecta",
+    "valor": "prevalencia de hipertensión"
+  },
+  {
+    "entidad": "prevalencia de hipertensión",
+    "relacion": "se reduce",
+    "valor": "1%"
+  },
+  {
+    "entidad": "métodos tradicionales de registro de PA",
+    "relacion": "utilizados en",
+    "valor": "estudios poblacionales"
+  },
+  {
+    "entidad": "Ministerio de Salud",
+    "relacion": "financia",
+    "valor": "Encuesta Nacional de Salud 2009-10"
+  },
+  {
+    "entidad": "Comité de Ética de la Pontificia Universidad Católica de Chile",
+    "relacion": "aprueba",
+    "valor": "protocolo de estudio"
+  },
+  {
+    "entidad": "muestra nacional",
+    "relacion": "realizada en",
+    "valor": "Encuesta Nacional de Salud 2009-10"
+  },
+  {
+    "entidad": "medición de presión arterial",
+    "relacion": "realizada por",
+    "valor": "enfermera entrenada"
+  },
+  {
+    "entidad": "tercera medición de presión arterial",
+    "relacion": "realizada en",
+    "valor": "todo el país"
+  },
+  {
+    "entidad": "equipos automáticos para medir la PA",
+    "relacion": "utilizados en",
+    "valor": "Encuesta Nacional de Salud"
+  },
+  {
+    "entidad": "variabilidad intra-individual de la PA",
+    "relacion": "afecta",
+    "valor": "diagnóstico correcto de HTA"
+  },
+  {
+    "entidad": "dificultades para realizar comparaciones",
+    "relacion": "existen en",
+    "valor": "estudios de prevalencia"
+  },
+  {
+    "entidad": "carga de enfermedad en Chile",
+    "relacion": "indica que",
+    "valor": "HTA es el factor de riesgo con mayor mortalidad"
+  },
+  {
+    "entidad": "tercera determinación de la PA",
+    "relacion": "mejora",
+    "valor": "precisión en la Encuesta Nacional de Salud"
+  },
+  {
+    "entidad": "segundo día de medición",
+    "relacion": "no presenta",
+    "valor": "diferencias significativas en la prevalencia de HTA"
+  },
+  {
+    "entidad": "escolares",
+    "relacion": "necesitan",
+    "valor": "alimentación adecuada"
+  },
+  {
+    "entidad": "desnutrición",
+    "relacion": "es un",
+    "valor": "factor de riesgo para el desarrollo infantil"
+  },
+  {
+    "entidad": "sobrepeso y obesidad",
+    "relacion": "causan",
+    "valor": "enfermedades crónicas"
+  },
+  {
+    "entidad": "pobreza",
+    "relacion": "afecta a",
+    "valor": "estado nutricional de los niños"
+  },
+  {
+    "entidad": "programas nutricionales",
+    "relacion": "implementan",
+    "valor": "educación y promoción para la salud"
+  },
+  {
+    "entidad": "Reynosa",
+    "relacion": "es una",
+    "valor": "ciudad fronteriza entre México y Estados Unidos"
+  },
+  {
+    "entidad": "Universidad Autónoma de Tamaulipas",
+    "relacion": "realiza",
+    "valor": "investigaciones en nutrición"
+  },
+  {
+    "entidad": "Instituto Nacional de Estadística, Geografía e Informática (INEGI)",
+    "relacion": "proporciona",
+    "valor": "datos poblacionales"
+  },
+  {
+    "entidad": "programa de Acción Específico 2007-2012",
+    "relacion": "destaca",
+    "valor": "educación en alimentación saludable"
+  },
+  {
+    "entidad": "población escolar",
+    "relacion": "evaluada en",
+    "valor": "los años 2005, 2008 y 2013"
+  },
+  {
+    "entidad": "puntuación Z del índice de masa corporal (IMC)",
+    "relacion": "se utiliza para",
+    "valor": "diagnosticar el estado nutricional"
+  },
+  {
+    "entidad": "estrategias y programas",
+    "relacion": "se implementan para",
+    "valor": "contrarrestar la sobrealimentación"
+  },
+  {
+    "entidad": "niños en edad escolar",
+    "relacion": "son víctimas de",
+    "valor": "rechazo en la escuela"
+  },
+  {
+    "entidad": "obesidad infantil",
+    "relacion": "es un predictor de",
+    "valor": "obesidad en la vida adulta"
+  },
+  {
+    "entidad": "migración",
+    "relacion": "afecta",
+    "valor": "la salud de la población fronteriza"
+  },
+  {
+    "entidad": "salud de los texanos",
+    "relacion": "requiere",
+    "valor": "intervenciones y estrategias binacionales"
+  },
+  {
+    "entidad": "programas como 'Escuela y Salud'",
+    "relacion": "son parte de",
+    "valor": "estrategias para mejorar la salud alimentaria"
+  },
+  {
+    "entidad": "evaluación nutricional",
+    "relacion": "se realiza en",
+    "valor": "escolares de Reynosa"
+  },
+  {
+    "entidad": "cambio en el estado nutricional",
+    "relacion": "se observa en",
+    "valor": "la disminución de sobrepeso/obesidad"
+  },
+  {
+    "entidad": "gobierno mexicano",
+    "relacion": "implementa",
+    "valor": "estrategias para combatir la obesidad"
+  },
+  {
+    "entidad": "EBUS-TBNA",
+    "relacion": "es un",
+    "valor": "procedimiento mínimamente invasivo"
+  },
+  {
+    "entidad": "EBUS-TBNA",
+    "relacion": "tiene",
+    "valor": "alto rendimiento diagnóstico"
+  },
+  {
+    "entidad": "lesiones adyacentes a la vía aérea central",
+    "relacion": "son estudiadas por",
+    "valor": "EBUS-TBNA"
+  },
+  {
+    "entidad": "cáncer pulmonar no células pequeñas (NSCLC)",
+    "relacion": "es un tipo de",
+    "valor": "cáncer pulmonar"
+  },
+  {
+    "entidad": "Clínica Alemana de Santiago",
+    "relacion": "realiza",
+    "valor": "procedimientos EBUS-TBNA"
+  },
+  {
+    "entidad": "métodos diagnósticos",
+    "relacion": "incluyen",
+    "valor": "EBUS-TBNA"
+  },
+  {
+    "entidad": "EBUS-TBNA",
+    "relacion": "se utiliza para",
+    "valor": "diagnosticar lesiones sospechosas de cáncer"
+  },
+  {
+    "entidad": "tamaño de lesiones menores a 20 mm",
+    "relacion": "tiene",
+    "valor": "alta sensibilidad en diagnóstico"
+  },
+  {
+    "entidad": "histología",
+    "relacion": "incluye",
+    "valor": "adenocarcinoma"
+  },
+  {
+    "entidad": "EBUS-TBNA",
+    "relacion": "presenta",
+    "valor": "bajas tasas de complicaciones"
+  },
+  {
+    "entidad": "técnicas quirúrgicas",
+    "relacion": "son comparadas con",
+    "valor": "EBUS-TBNA"
+  },
+  {
+    "entidad": "método diagnóstico",
+    "relacion": "es",
+    "valor": "EBUS lineal"
+  },
+  {
+    "entidad": "EBUS-TBNA",
+    "relacion": "permite",
+    "valor": "obtener muestras histológicas"
+  },
+  {
+    "entidad": "muestras histológicas",
+    "relacion": "son analizadas por",
+    "valor": "Anatomía Patológica"
+  },
+  {
+    "entidad": "EBUS-TBNA",
+    "relacion": "es recomendado por",
+    "valor": "guías norteamericanas y europeas"
+  },
+  {
+    "entidad": "procedimiento EBUS-TBNA",
+    "relacion": "se realiza en",
+    "valor": "pacientes con sospecha de cáncer"
+  },
+  {
+    "entidad": "método diagnóstico",
+    "relacion": "es",
+    "valor": "no invasivo"
+  },
+  {
+    "entidad": "EBUS-TBNA",
+    "relacion": "es considerado",
+    "valor": "una alternativa en el estudio de lesiones pulmonares"
+  }
+]

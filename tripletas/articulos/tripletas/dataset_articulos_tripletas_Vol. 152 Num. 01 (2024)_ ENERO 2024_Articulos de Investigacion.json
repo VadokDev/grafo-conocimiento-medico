@@ -1,0 +1,682 @@
+[
+  {
+    "entidad": "dolor",
+    "relacion": "asocia",
+    "valor": "depresión"
+  },
+  {
+    "entidad": "depresión",
+    "relacion": "afecta a",
+    "valor": "adultos mayores chilenos"
+  },
+  {
+    "entidad": "adultos mayores chilenos",
+    "relacion": "presentan",
+    "valor": "alta prevalencia de dolor"
+  },
+  {
+    "entidad": "dolor",
+    "relacion": "se mide mediante",
+    "valor": "escala Likert"
+  },
+  {
+    "entidad": "depresión",
+    "relacion": "se mide mediante",
+    "valor": "Escala GDS-15"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "reportan",
+    "valor": "mayor prevalencia de dolor"
+  },
+  {
+    "entidad": "bajo nivel de escolaridad",
+    "relacion": "se asocia con",
+    "valor": "mayor prevalencia de dolor y depresión"
+  },
+  {
+    "entidad": "zona rural",
+    "relacion": "se asocia con",
+    "valor": "mayor prevalencia de dolor y depresión"
+  },
+  {
+    "entidad": "dependencia física",
+    "relacion": "aumenta",
+    "valor": "la prevalencia de dolor"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "agrava",
+    "valor": "la situación de salud mental"
+  },
+  {
+    "entidad": "Estudio Nacional de Dependencia",
+    "relacion": "reporta",
+    "valor": "prevalencia de depresión"
+  },
+  {
+    "entidad": "Escala GDS-15",
+    "relacion": "utiliza para",
+    "valor": "cribar depresión"
+  },
+  {
+    "entidad": "intensidad de dolor",
+    "relacion": "se relaciona con",
+    "valor": "severidad de la depresión"
+  },
+  {
+    "entidad": "sistema de salud",
+    "relacion": "no muestra diferencias significativas en",
+    "valor": "prevalencia de depresión"
+  },
+  {
+    "entidad": "enfermedades crónicas",
+    "relacion": "aumentan",
+    "valor": "la prevalencia de dolor"
+  },
+  {
+    "entidad": "dolor",
+    "relacion": "afecta",
+    "valor": "calidad de vida"
+  },
+  {
+    "entidad": "investigación",
+    "relacion": "realizada por",
+    "valor": "Universidad de los Andes y Universidad de Chile"
+  },
+  {
+    "entidad": "empatía",
+    "relacion": "es un",
+    "valor": "elemento fundamental de la relación médico-paciente"
+  },
+  {
+    "entidad": "médico empático",
+    "relacion": "es caracterizado por",
+    "valor": "percepciones de pacientes crónicos"
+  },
+  {
+    "entidad": "pacientes crónicos",
+    "relacion": "son atendidos por",
+    "valor": "médicos nacionales y extranjeros"
+  },
+  {
+    "entidad": "sistema público de salud chileno",
+    "relacion": "es el contexto de",
+    "valor": "la atención médica"
+  },
+  {
+    "entidad": "Región del Maule",
+    "relacion": "es la ubicación de",
+    "valor": "la investigación"
+  },
+  {
+    "entidad": "CIEAM",
+    "relacion": "es un",
+    "valor": "centro de investigación"
+  },
+  {
+    "entidad": "Universidad Católica del Maule",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "ANID",
+    "relacion": "financia",
+    "valor": "proyectos de investigación"
+  },
+  {
+    "entidad": "migraciones",
+    "relacion": "causan",
+    "valor": "cambios en la composición sociocultural de los equipos de salud"
+  },
+  {
+    "entidad": "programas de entrenamiento médico",
+    "relacion": "pueden enseñar",
+    "valor": "empatía"
+  },
+  {
+    "entidad": "aspectos afectivos y psicoemocionales",
+    "relacion": "son más valorados que",
+    "valor": "aspectos cognitivos del trato empático"
+  },
+  {
+    "entidad": "médicos nacionales",
+    "relacion": "son comparables a",
+    "valor": "médicos extranjeros en trato empático"
+  },
+  {
+    "entidad": "técnica de listado libre",
+    "relacion": "es utilizada para",
+    "valor": "recolectar datos"
+  },
+  {
+    "entidad": "análisis cualitativo procesual",
+    "relacion": "se utiliza para",
+    "valor": "identificar categorías de trato empático"
+  },
+  {
+    "entidad": "categorías de trato empático",
+    "relacion": "incluyen",
+    "valor": "Afectividad, Comunicación, Atención, Respeto, Investigación, Conocimiento, Eficiencia"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "valoran",
+    "valor": "la comunicación clara y transparente"
+  },
+  {
+    "entidad": "médico empático",
+    "relacion": "debe ser",
+    "valor": "comprensivo y afectuoso"
+  },
+  {
+    "entidad": "médico empático",
+    "relacion": "debe demostrar",
+    "valor": "respeto hacia el paciente"
+  },
+  {
+    "entidad": "médico empático",
+    "relacion": "se caracteriza por",
+    "valor": "su capacidad de investigación"
+  },
+  {
+    "entidad": "médico empático",
+    "relacion": "debe ser",
+    "valor": "culto e informado"
+  },
+  {
+    "entidad": "médico empático",
+    "relacion": "debe proporcionar",
+    "valor": "buena atención y eficiencia"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "es un",
+    "valor": "factor de riesgo modificable"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "es un",
+    "valor": "factor de riesgo modificable"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "contribuye a",
+    "valor": "síndrome metabólico"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "contribuye a",
+    "valor": "síndrome metabólico"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud 2016-2017",
+    "relacion": "proporciona datos sobre",
+    "valor": "prevalencia de obesidad y tabaquismo"
+  },
+  {
+    "entidad": "obesidad general",
+    "relacion": "se mide por",
+    "valor": "Índice de Masa Corporal (IMC)"
+  },
+  {
+    "entidad": "obesidad central",
+    "relacion": "se mide por",
+    "valor": "Relación Cintura-Talla (RCT)"
+  },
+  {
+    "entidad": "obesidad central",
+    "relacion": "se mide por",
+    "valor": "Perímetro de Cintura (PC)"
+  },
+  {
+    "entidad": "consumo diario de tabaco",
+    "relacion": "se define como",
+    "valor": "fumar al menos un cigarrillo al día"
+  },
+  {
+    "entidad": "factores de riesgo cardiometabólicos",
+    "relacion": "incluyen",
+    "valor": "lípidos en sangre, glucosa en ayunas, presión arterial"
+  },
+  {
+    "entidad": "cesación de tabaquismo",
+    "relacion": "puede ser",
+    "valor": "una intervención costo-efectiva"
+  },
+  {
+    "entidad": "comorbilidad entre obesidad y tabaquismo",
+    "relacion": "se asocia con",
+    "valor": "mayor riesgo de factores de riesgo cardiometabólicos"
+  },
+  {
+    "entidad": "Estrategia de Cuidado Integral",
+    "relacion": "se establece en",
+    "valor": "Chile para el manejo de la multimorbilidad"
+  },
+  {
+    "entidad": "multimorbilidad",
+    "relacion": "se refiere a",
+    "valor": "la coexistencia de dos o más enfermedades crónicas"
+  },
+  {
+    "entidad": "intervenciones en tabaquismo",
+    "relacion": "son",
+    "valor": "altamente costo efectivas"
+  },
+  {
+    "entidad": "ley antitabaco",
+    "relacion": "es una",
+    "valor": "estrategia para prevenir el consumo de tabaco"
+  },
+  {
+    "entidad": "obesidad y tabaquismo",
+    "relacion": "constituyen",
+    "valor": "una combinación de alto riesgo para ECV"
+  },
+  {
+    "entidad": "Embolización portal",
+    "relacion": "permite",
+    "valor": "hipertrofia del lóbulo contralateral"
+  },
+  {
+    "entidad": "Embolización portal",
+    "relacion": "disminuye",
+    "valor": "riesgo de insuficiencia hepática postoperatoria"
+  },
+  {
+    "entidad": "remanente hepático futuro (RHF)",
+    "relacion": "es",
+    "valor": "insuficiente en pacientes con tumores hepáticos avanzados"
+  },
+  {
+    "entidad": "quimioterapia neoadyuvante",
+    "relacion": "recibe",
+    "valor": "84.2% de los pacientes"
+  },
+  {
+    "entidad": "RHF",
+    "relacion": "debe ser",
+    "valor": "mayor a 20% para hepatectomía segura"
+  },
+  {
+    "entidad": "RHF",
+    "relacion": "incrementa",
+    "valor": "con embolización portal"
+  },
+  {
+    "entidad": "técnica de embolización portal",
+    "relacion": "es",
+    "valor": "la técnica de elección para aumentar el volumen del parénquima hepático"
+  },
+  {
+    "entidad": "Portal vein embolization (PVE)",
+    "relacion": "es",
+    "valor": "segura y eficaz"
+  },
+  {
+    "entidad": "Hospital Clínico de la Pontificia Universidad Católica de Chile",
+    "relacion": "realiza",
+    "valor": "embolsación portal previo a hepatectomía"
+  },
+  {
+    "entidad": "comité multidisciplinario",
+    "relacion": "decide",
+    "valor": "realizar embolización portal"
+  },
+  {
+    "entidad": "volumetría hepática",
+    "relacion": "se realiza",
+    "valor": "previo y posterior a la embolización"
+  },
+  {
+    "entidad": "insuficiencia hepática postoperatoria",
+    "relacion": "se relaciona con",
+    "valor": "porcentaje de RHF"
+  },
+  {
+    "entidad": "tasa de sobrevida global",
+    "relacion": "es",
+    "valor": "90% a 12 meses"
+  },
+  {
+    "entidad": "tasa de sobrevida libre de enfermedad",
+    "relacion": "es",
+    "valor": "53% a 12 meses"
+  },
+  {
+    "entidad": "metástasis bilaterales",
+    "relacion": "se presentan en",
+    "valor": "78.9% de los pacientes"
+  },
+  {
+    "entidad": "técnicas de oclusión del sistema portal",
+    "relacion": "incluyen",
+    "valor": "ligadura portal intraoperatoria, embolización portal trans-ileocólica y embolización portal percutánea trans-hepática"
+  },
+  {
+    "entidad": "mortalidad precoz",
+    "relacion": "no se reporta",
+    "valor": "en pacientes intervenidos quirúrgicamente"
+  },
+  {
+    "entidad": "RHF",
+    "relacion": "se considera",
+    "valor": "insuficiente si es menor a 30%"
+  },
+  {
+    "entidad": "progresión tumoral",
+    "relacion": "es el principal motivo de",
+    "valor": "no proceder con la resección hepática"
+  },
+  {
+    "entidad": "embolsación portal",
+    "relacion": "ofrece",
+    "valor": "oportunidad de cirugía con intención curativa"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "marca",
+    "valor": "un hito en la historia de la medicina"
+  },
+  {
+    "entidad": "familiares de pacientes fallecidos",
+    "relacion": "reportan",
+    "valor": "experiencias y percepciones"
+  },
+  {
+    "entidad": "intervención de apoyo psicoespiritual",
+    "relacion": "realizada en",
+    "valor": "hospital público de la Región Metropolitana"
+  },
+  {
+    "entidad": "palabra 'despedida'",
+    "relacion": "emerge como",
+    "valor": "herramienta comunicativa útil"
+  },
+  {
+    "entidad": "muerte en soledad",
+    "relacion": "impacta",
+    "valor": "psicológicamente en familiares sobrevivientes"
+  },
+  {
+    "entidad": "medidas de protección personal (EPP)",
+    "relacion": "adoptadas durante",
+    "valor": "la pandemia"
+  },
+  {
+    "entidad": "apoyo psicoespiritual",
+    "relacion": "ofrecido a",
+    "valor": "familiares de pacientes"
+  },
+  {
+    "entidad": "estudio cualitativo",
+    "relacion": "realizado con",
+    "valor": "enfoque fenomenológico"
+  },
+  {
+    "entidad": "entrevistas en profundidad",
+    "relacion": "utilizadas para",
+    "valor": "sistematizar experiencias"
+  },
+  {
+    "entidad": "circunstancias y comunicación",
+    "relacion": "afectan",
+    "valor": "el duelo"
+  },
+  {
+    "entidad": "espacios físicos y psicoespirituales",
+    "relacion": "requeridos para",
+    "valor": "cuidado al final de la vida"
+  },
+  {
+    "entidad": "personal de salud",
+    "relacion": "proporciona",
+    "valor": "apoyo durante el proceso de duelo"
+  },
+  {
+    "entidad": "aprecio de familiares",
+    "relacion": "se relaciona con",
+    "valor": "calidad de atención"
+  },
+  {
+    "entidad": "recursos psicológicos",
+    "relacion": "son importantes para",
+    "valor": "vivir el duelo"
+  },
+  {
+    "entidad": "recuerdos y memorias compartidos",
+    "relacion": "ayudan a",
+    "valor": "vivir con aceptación la pérdida"
+  },
+  {
+    "entidad": "pandemia",
+    "relacion": "revela",
+    "valor": "falencias en el sistema sanitario"
+  },
+  {
+    "entidad": "acompañamiento psicológico",
+    "relacion": "valorado por",
+    "valor": "familiares durante la pandemia"
+  },
+  {
+    "entidad": "comunicación entre equipos sanitarios y familiares",
+    "relacion": "es crucial para",
+    "valor": "preparar a los familiares para la pérdida"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "es una",
+    "valor": "enfermedad"
+  },
+  {
+    "entidad": "SARS-CoV-2",
+    "relacion": "causa",
+    "valor": "COVID-19"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "es una",
+    "valor": "institución educativa"
+  },
+  {
+    "entidad": "Agencia Nacional de Investigación y Desarrollo (ANID)",
+    "relacion": "suministra",
+    "valor": "apoyo financiero"
+  },
+  {
+    "entidad": "sistema público de salud",
+    "relacion": "ofrece",
+    "valor": "cuidados ambulatorios"
+  },
+  {
+    "entidad": "usuarios",
+    "relacion": "reciben",
+    "valor": "cuidados ambulatorios"
+  },
+  {
+    "entidad": "experiencias de usuarios",
+    "relacion": "explora",
+    "valor": "percepciones sobre atención sanitaria"
+  },
+  {
+    "entidad": "miedo",
+    "relacion": "es un",
+    "valor": "sentimiento predominante"
+  },
+  {
+    "entidad": "desinformación",
+    "relacion": "afecta a",
+    "valor": "usuarios durante el proceso de atención"
+  },
+  {
+    "entidad": "estrategias de comunicación",
+    "relacion": "deben ser",
+    "valor": "fortalecidas"
+  },
+  {
+    "entidad": "respuesta sanitaria",
+    "relacion": "es",
+    "valor": "inefectiva"
+  },
+  {
+    "entidad": "seguimiento de usuarios",
+    "relacion": "es",
+    "valor": "deficiente"
+  },
+  {
+    "entidad": "secuelas post COVID-19",
+    "relacion": "afectan a",
+    "valor": "salud física y mental"
+  },
+  {
+    "entidad": "estigmatización",
+    "relacion": "es un",
+    "valor": "fenómeno asociado a la enfermedad"
+  },
+  {
+    "entidad": "experiencia de usuarios",
+    "relacion": "debe ser",
+    "valor": "considerada en futuras investigaciones"
+  },
+  {
+    "entidad": "comunicación efectiva",
+    "relacion": "puede contribuir a",
+    "valor": "mejores resultados en el tratamiento"
+  },
+  {
+    "entidad": "satisfacción usuaria",
+    "relacion": "se ve afectada por",
+    "valor": "la calidad de atención"
+  },
+  {
+    "entidad": "estrategias de asistencia remota",
+    "relacion": "deben ser",
+    "valor": "potenciadas en atención primaria"
+  },
+  {
+    "entidad": "síndrome de apneas obstructivas del sueño (SAHOS)",
+    "relacion": "está asociado con",
+    "valor": "factores de riesgo cardiovascular"
+  },
+  {
+    "entidad": "síndrome metabólico",
+    "relacion": "incluye",
+    "valor": "obesidad central"
+  },
+  {
+    "entidad": "síndrome metabólico",
+    "relacion": "incluye",
+    "valor": "hipertensión"
+  },
+  {
+    "entidad": "síndrome metabólico",
+    "relacion": "incluye",
+    "valor": "resistencia a la insulina"
+  },
+  {
+    "entidad": "síndrome metabólico",
+    "relacion": "incluye",
+    "valor": "dislipidemia"
+  },
+  {
+    "entidad": "síndrome metabólico",
+    "relacion": "se diagnostica mediante",
+    "valor": "criterios del Programa Nacional de Educación sobre el Colesterol"
+  },
+  {
+    "entidad": "pacientes adultos con SAHOS",
+    "relacion": "se someten a",
+    "valor": "poligrafía respiratoria ambulatoria"
+  },
+  {
+    "entidad": "SAHOS",
+    "relacion": "se asocia con",
+    "valor": "aumento de factores de riesgo cardiovascular"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "es un",
+    "valor": "principal factor de riesgo asociado a SAHOS"
+  },
+  {
+    "entidad": "circunferencia de cintura",
+    "relacion": "se asocia con",
+    "valor": "riesgo de SAHOS moderado-grave"
+  },
+  {
+    "entidad": "presión arterial",
+    "relacion": "se asocia con",
+    "valor": "riesgo de SAHOS moderado-grave"
+  },
+  {
+    "entidad": "glicemia en ayunas",
+    "relacion": "se asocia con",
+    "valor": "riesgo de SAHOS moderado-grave"
+  },
+  {
+    "entidad": "HDL colesterol",
+    "relacion": "se asocia con",
+    "valor": "riesgo de SAHOS grave"
+  },
+  {
+    "entidad": "síndrome metabólico",
+    "relacion": "se relaciona con",
+    "valor": "incremento en la prevalencia de diabetes mellitus tipo 2"
+  },
+  {
+    "entidad": "síndrome metabólico",
+    "relacion": "se relaciona con",
+    "valor": "enfermedad cardiovascular aterosclerótica"
+  },
+  {
+    "entidad": "fragmentación del sueño",
+    "relacion": "ocasiona",
+    "valor": "activación del sistema simpático"
+  },
+  {
+    "entidad": "hipoxia intermitente",
+    "relacion": "ocasiona",
+    "valor": "estrés oxidativo"
+  },
+  {
+    "entidad": "estrés oxidativo",
+    "relacion": "se relaciona con",
+    "valor": "resistencia a la insulina"
+  },
+  {
+    "entidad": "hormonas de estrés",
+    "relacion": "se liberan por",
+    "valor": "activación del sistema simpático"
+  },
+  {
+    "entidad": "obesidad central",
+    "relacion": "se asocia con",
+    "valor": "menor volumen pulmonar"
+  },
+  {
+    "entidad": "glicemia",
+    "relacion": "se mide para",
+    "valor": "diagnosticar síndrome metabólico"
+  },
+  {
+    "entidad": "presión arterial",
+    "relacion": "se mide para",
+    "valor": "diagnosticar síndrome metabólico"
+  },
+  {
+    "entidad": "triglicéridos séricos",
+    "relacion": "se miden para",
+    "valor": "diagnosticar síndrome metabólico"
+  },
+  {
+    "entidad": "circunferencia de cintura",
+    "relacion": "se mide para",
+    "valor": "diagnosticar síndrome metabólico"
+  },
+  {
+    "entidad": "síndrome metabólico",
+    "relacion": "se define según",
+    "valor": "Adult Treatment Panel III del National Cholesterol Education Program"
+  }
+]

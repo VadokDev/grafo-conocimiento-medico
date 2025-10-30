@@ -1,0 +1,572 @@
+[
+  {
+    "entidad": "trastorno de personalidad límite (TPL)",
+    "relacion": "es",
+    "valor": "una condición psiquiátrica seria y compleja"
+  },
+  {
+    "entidad": "trastorno de personalidad límite (TPL)",
+    "relacion": "caracterizado por",
+    "valor": "desregulación crónica de los afectos"
+  },
+  {
+    "entidad": "trastorno de personalidad límite (TPL)",
+    "relacion": "caracterizado por",
+    "valor": "inestabilidad de la auto-imagen y de la identidad"
+  },
+  {
+    "entidad": "trastorno de personalidad límite (TPL)",
+    "relacion": "caracterizado por",
+    "valor": "inestabilidad en las relaciones interpersonales"
+  },
+  {
+    "entidad": "trastorno de personalidad límite (TPL)",
+    "relacion": "caracterizado por",
+    "valor": "pobre control de los impulsos"
+  },
+  {
+    "entidad": "trastorno de personalidad límite (TPL)",
+    "relacion": "asociado a",
+    "valor": "considerable discapacidad y co-morbilidades psiquiátricas"
+  },
+  {
+    "entidad": "trastornos del ánimo",
+    "relacion": "son",
+    "valor": "una de las co-morbilidades más frecuentes del TPL"
+  },
+  {
+    "entidad": "trastornos de ansiedad",
+    "relacion": "son",
+    "valor": "una de las co-morbilidades más frecuentes del TPL"
+  },
+  {
+    "entidad": "trastornos por consumo de sustancias",
+    "relacion": "son",
+    "valor": "una de las co-morbilidades más frecuentes del TPL"
+  },
+  {
+    "entidad": "factores psicosociales",
+    "relacion": "tienen influencia en",
+    "valor": "la etiopatogenia del TPL"
+  },
+  {
+    "entidad": "violencia intra-familiar",
+    "relacion": "es un tipo de",
+    "valor": "factor psicosocial asociado al TPL"
+  },
+  {
+    "entidad": "abuso sexual",
+    "relacion": "es un tipo de",
+    "valor": "factor psicosocial asociado al TPL"
+  },
+  {
+    "entidad": "neurobiología del TPL",
+    "relacion": "se investiga mediante",
+    "valor": "estudios genéticos"
+  },
+  {
+    "entidad": "polimorfismos genéticos",
+    "relacion": "se asocian con",
+    "valor": "rasgos dimensionales del TPL"
+  },
+  {
+    "entidad": "enzima MAO-A",
+    "relacion": "metaboliza",
+    "valor": "neurotransmisores como norepinefrina, dopamina, serotonina"
+  },
+  {
+    "entidad": "polimorfismo funcional del transportador de serotonina (PPTS)",
+    "relacion": "modula",
+    "valor": "el efecto de eventos vitales estresantes en la infancia"
+  },
+  {
+    "entidad": "alelo corto del PPTS",
+    "relacion": "se asocia con",
+    "valor": "diagnóstico de TPL e impulsividad"
+  },
+  {
+    "entidad": "receptor de serotonina tipo 1B",
+    "relacion": "se asocia con",
+    "valor": "diagnóstico de TPL"
+  },
+  {
+    "entidad": "factor neurotrófico derivado del cerebro (BDNF)",
+    "relacion": "mediador de",
+    "valor": "procesos de neuroplasticidad"
+  },
+  {
+    "entidad": "polimorfismo del BDNF",
+    "relacion": "modula",
+    "valor": "la tendencia a la agresión impulsiva en mujeres con TPL"
+  },
+  {
+    "entidad": "sistemas de neurotransmisión",
+    "relacion": "se correlacionan con",
+    "valor": "dimensiones sintomáticas del TPL"
+  },
+  {
+    "entidad": "transmisión colinérgica",
+    "relacion": "se relaciona con",
+    "valor": "desregulación del afecto y descontrol de los impulsos"
+  },
+  {
+    "entidad": "transmisión dopaminérgica",
+    "relacion": "se correlaciona con",
+    "valor": "alteraciones perceptuales y estados psicóticos transitorios"
+  },
+  {
+    "entidad": "receptor tipo NMDA",
+    "relacion": "involucrado en",
+    "valor": "mecanismos de neuroplasticidad"
+  },
+  {
+    "entidad": "neuropéptidos endógenos",
+    "relacion": "podrían jugar un rol en",
+    "valor": "la patogenia del TPL"
+  },
+  {
+    "entidad": "mujeres con estilo de apego inseguro",
+    "relacion": "tienen",
+    "valor": "menores niveles de oxitocina"
+  },
+  {
+    "entidad": "resonancia magnética (RM)",
+    "relacion": "se utiliza para",
+    "valor": "estudiar la imagenología cerebral en TPL"
+  },
+  {
+    "entidad": "lóbulo frontal",
+    "relacion": "es más pequeño en",
+    "valor": "pacientes con TPL"
+  },
+  {
+    "entidad": "hipocampo",
+    "relacion": "presenta diferencias significativas en",
+    "valor": "pacientes con TPL"
+  },
+  {
+    "entidad": "amígdala",
+    "relacion": "presenta diferencias significativas en",
+    "valor": "pacientes con TPL"
+  },
+  {
+    "entidad": "activación de la amígdala",
+    "relacion": "se correlaciona con",
+    "valor": "diagnóstico de trastorno por estrés post-traumático (TEPT)"
+  },
+  {
+    "entidad": "corteza órbito-frontal",
+    "relacion": "presenta menor activación en",
+    "valor": "pacientes con TPL y TEPT"
+  },
+  {
+    "entidad": "circuitos cortico-subcorticales",
+    "relacion": "muestran disfuncionalidad en",
+    "valor": "pacientes con TPL durante el procesamiento afectivo"
+  },
+  {
+    "entidad": "técnica de tomografía por emisión de positrón único (SPECT)",
+    "relacion": "se utiliza para",
+    "valor": "estudiar el flujo cerebral en pacientes con TPL"
+  },
+  {
+    "entidad": "disfunción serotoninérgica",
+    "relacion": "se observa en",
+    "valor": "pacientes con TPL"
+  },
+  {
+    "entidad": "alteraciones en el rendimiento",
+    "relacion": "se encuentran en",
+    "valor": "tareas de control ejecutivo en pacientes con TPL"
+  },
+  {
+    "entidad": "empatía",
+    "relacion": "se compone de",
+    "valor": "procesos afectivos y cognitivos"
+  },
+  {
+    "entidad": "pacientes con TPL",
+    "relacion": "tienen niveles más altos de",
+    "valor": "empatía afectiva que cognitiva"
+  },
+  {
+    "entidad": "mentalización",
+    "relacion": "es un proceso que",
+    "valor": "permite interpretar acciones propias y de otros"
+  },
+  {
+    "entidad": "vulnerabilidad biológica",
+    "relacion": "afecta",
+    "valor": "el desarrollo psico-biológico de habilidades de regulación cognitiva y afectiva"
+  },
+  {
+    "entidad": "Obesidad",
+    "relacion": "asocia a",
+    "valor": "cáncer"
+  },
+  {
+    "entidad": "cáncer",
+    "relacion": "es una",
+    "valor": "causa de muerte en el mundo"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "tiene",
+    "valor": "cáncer como segunda causa de mortalidad en adultos"
+  },
+  {
+    "entidad": "factores genéticos",
+    "relacion": "explican",
+    "valor": "5-10% de las causas conocidas de cáncer"
+  },
+  {
+    "entidad": "estilos de vida",
+    "relacion": "explican",
+    "valor": "más del 90% de las causas de cáncer"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "es el",
+    "valor": "factor de riesgo más relevante en no fumadores"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "asocia a",
+    "valor": "cáncer endometrial"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "asocia a",
+    "valor": "cáncer de mama en mujeres postmenopáusicas"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "asocia a",
+    "valor": "cáncer pancreático"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "asocia a",
+    "valor": "cáncer esofágico"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "asocia a",
+    "valor": "cáncer colorrectal"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "puede afectar",
+    "valor": "diagnóstico y tratamiento de tumores"
+  },
+  {
+    "entidad": "prevención de obesidad",
+    "relacion": "puede reducir",
+    "valor": "incidencia y mortalidad en cáncer"
+  },
+  {
+    "entidad": "cirugía bariátrica",
+    "relacion": "es un",
+    "valor": "modelo atractivo para estudiar la relación obesidad-cáncer"
+  },
+  {
+    "entidad": "Agencia Internacional para la Investigación en Cáncer (IARC)",
+    "relacion": "sugiere",
+    "valor": "evidencia convincente de la relación entre obesidad y neoplasias"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "es la causa subyacente de",
+    "valor": "39% de los casos de cáncer endometrial"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "es la causa subyacente de",
+    "valor": "37% de cáncer de esófago"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "es la causa subyacente de",
+    "valor": "25% de cáncer renal"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "es la causa subyacente de",
+    "valor": "11% de cáncer colorrectal"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "es la causa subyacente de",
+    "valor": "9% de cáncer de mama en mujeres postmenopáusicas"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "aumenta el riesgo de",
+    "valor": "cáncer renal"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "aumenta el riesgo de",
+    "valor": "melanoma maligno en mujeres premenopáusicas"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "aumenta el riesgo de",
+    "valor": "cáncer de próstata"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "aumenta el riesgo de",
+    "valor": "cáncer de páncreas"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "induce",
+    "valor": "inflamación crónica"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "induce",
+    "valor": "estrés oxidativo"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "aumenta",
+    "valor": "niveles de insulina"
+  },
+  {
+    "entidad": "insulina",
+    "relacion": "aumenta",
+    "valor": "síntesis de estrógenos"
+  },
+  {
+    "entidad": "adipokinas",
+    "relacion": "influye en",
+    "valor": "procesos carcinogénicos"
+  },
+  {
+    "entidad": "leptina",
+    "relacion": "aumenta",
+    "valor": "secreción de IL-6 y TNFα"
+  },
+  {
+    "entidad": "adiponectina",
+    "relacion": "disminuye",
+    "valor": "secreción de IL-6 y TNFα"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "asocia a",
+    "valor": "mayor mortalidad por cáncer de cuello uterino"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "asocia a",
+    "valor": "tumores prostáticos de gran volumen"
+  },
+  {
+    "entidad": "IMC",
+    "relacion": "es un",
+    "valor": "predictor independiente de falla bioquímica tras prostatectomía"
+  },
+  {
+    "entidad": "cirugía bariátrica",
+    "relacion": "reduce",
+    "valor": "incidencia de cáncer"
+  },
+  {
+    "entidad": "cirugía bariátrica",
+    "relacion": "reduce",
+    "valor": "mortalidad por cáncer"
+  },
+  {
+    "entidad": "pérdida de peso",
+    "relacion": "asociada a",
+    "valor": "bajo riesgo de reflujo gastroesofágico"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "mejora",
+    "valor": "pronóstico de cáncer"
+  },
+  {
+    "entidad": "dieta baja en grasa y alta en fibra",
+    "relacion": "puede evitar",
+    "valor": "recurrencia y progresión del cáncer"
+  },
+  {
+    "entidad": "metformina",
+    "relacion": "inhibe",
+    "valor": "crecimiento neoplásico"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "aumenta",
+    "valor": "dificultades diagnósticas en cáncer"
+  },
+  {
+    "entidad": "proceso de alta hospitalaria",
+    "relacion": "es",
+    "valor": "un proceso complejo"
+  },
+  {
+    "entidad": "proceso de alta hospitalaria",
+    "relacion": "requiere",
+    "valor": "coordinación entre profesionales"
+  },
+  {
+    "entidad": "alta hospitalaria",
+    "relacion": "transfiere",
+    "valor": "responsabilidad entre médicos"
+  },
+  {
+    "entidad": "falta de planificación",
+    "relacion": "puede derivar en",
+    "valor": "mayores reingresos"
+  },
+  {
+    "entidad": "errores en tratamiento",
+    "relacion": "experimenta",
+    "valor": "casi la mitad de los pacientes hospitalizados"
+  },
+  {
+    "entidad": "eventos adversos post-alta",
+    "relacion": "sufren",
+    "valor": "entre 19% y 23% de los pacientes"
+  },
+  {
+    "entidad": "Joint Commission (JC)",
+    "relacion": "instruyó",
+    "valor": "realizar conciliación de medicamentos"
+  },
+  {
+    "entidad": "Medicare",
+    "relacion": "penaliza",
+    "valor": "hospitales con reingresos altos"
+  },
+  {
+    "entidad": "planificación del alta",
+    "relacion": "mejora",
+    "valor": "evaluación de necesidades sociales"
+  },
+  {
+    "entidad": "intervenciones educativas",
+    "relacion": "tienen",
+    "valor": "impacto positivo en problemas post alta"
+  },
+  {
+    "entidad": "seguimiento telefónico",
+    "relacion": "asocia",
+    "valor": "menores reingresos"
+  },
+  {
+    "entidad": "educación de pacientes",
+    "relacion": "reduce",
+    "valor": "riesgo de re-hospitalización"
+  },
+  {
+    "entidad": "enfermera de apoyo de alta",
+    "relacion": "impacta en",
+    "valor": "reducción de reingresos"
+  },
+  {
+    "entidad": "cuidados paliativos",
+    "relacion": "disminuye",
+    "valor": "número de reingresos"
+  },
+  {
+    "entidad": "intervenciones multidisciplinarias",
+    "relacion": "reducen",
+    "valor": "reingresos y uso de urgencias"
+  },
+  {
+    "entidad": "epicrisis",
+    "relacion": "debe contener",
+    "valor": "razón de hospitalización y hallazgos significativos"
+  },
+  {
+    "entidad": "CIM",
+    "relacion": "requiere",
+    "valor": "revisión exhaustiva de medicamentos"
+  },
+  {
+    "entidad": "pacientes mayores",
+    "relacion": "tienen",
+    "valor": "alto riesgo de reingreso"
+  },
+  {
+    "entidad": "estrategias de alta",
+    "relacion": "son",
+    "valor": "múltiples y variadas"
+  },
+  {
+    "entidad": "diabetes mellitus tipo 2",
+    "relacion": "asociado a",
+    "valor": "uso de estatinas"
+  },
+  {
+    "entidad": "estatinas",
+    "relacion": "inhiben",
+    "valor": "HMG-CoA reductasa"
+  },
+  {
+    "entidad": "pravastatina",
+    "relacion": "muestra efecto",
+    "valor": "protector contra diabetes"
+  },
+  {
+    "entidad": "rosuvastatina",
+    "relacion": "incrementa",
+    "valor": "riesgo de diabetes"
+  },
+  {
+    "entidad": "simvastatina",
+    "relacion": "incrementa",
+    "valor": "riesgo de diabetes"
+  },
+  {
+    "entidad": "atorvastatina",
+    "relacion": "incrementa",
+    "valor": "riesgo de diabetes"
+  },
+  {
+    "entidad": "pravastatina",
+    "relacion": "disminuye",
+    "valor": "resistencia a insulina"
+  },
+  {
+    "entidad": "simvastatina",
+    "relacion": "aumenta",
+    "valor": "resistencia a insulina"
+  },
+  {
+    "entidad": "insulina",
+    "relacion": "secreción afectada por",
+    "valor": "estatinas"
+  },
+  {
+    "entidad": "GLUT4",
+    "relacion": "expresión disminuida por",
+    "valor": "atorvastatina"
+  },
+  {
+    "entidad": "Coenzima Q10",
+    "relacion": "disminuye por",
+    "valor": "atorvastatina"
+  },
+  {
+    "entidad": "FDA",
+    "relacion": "declara",
+    "valor": "beneficio cardiovascular de estatinas supera riesgo de diabetes"
+  },
+  {
+    "entidad": "resistencia a insulina",
+    "relacion": "no concluyente en",
+    "valor": "efecto de estatinas"
+  },
+  {
+    "entidad": "susceptibilidad genética",
+    "relacion": "asociada a",
+    "valor": "uso de estatinas y diabetes"
+  }
+]

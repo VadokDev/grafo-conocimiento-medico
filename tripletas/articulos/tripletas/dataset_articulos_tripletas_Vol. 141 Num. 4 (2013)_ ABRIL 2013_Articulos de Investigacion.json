@@ -1,0 +1,887 @@
+[
+  {
+    "entidad": "Depresión posparto (DPP)",
+    "relacion": "afecta a",
+    "valor": "desarrollo psicomotor de los hijos"
+  },
+  {
+    "entidad": "Mujeres con DPP",
+    "relacion": "tienen",
+    "valor": "mayor probabilidad de tener hijos con alteraciones psicomotoras"
+  },
+  {
+    "entidad": "Hijos de mujeres con DPP",
+    "relacion": "presentan",
+    "valor": "alteraciones en el desarrollo psicomotor"
+  },
+  {
+    "entidad": "Escala de Evaluación del Desarrollo Psicomotor de Bayley",
+    "relacion": "evalúa",
+    "valor": "desarrollo psicomotor a los 18 meses"
+  },
+  {
+    "entidad": "Edinburgh Postnatal Depression Scale",
+    "relacion": "evalúa",
+    "valor": "depresión posparto"
+  },
+  {
+    "entidad": "Mujeres solteras o con pareja inestable",
+    "relacion": "tienen",
+    "valor": "mayor prevalencia de DPP"
+  },
+  {
+    "entidad": "DPP",
+    "relacion": "es un",
+    "valor": "factor de riesgo para el desarrollo cognitivo y emocional del niño"
+  },
+  {
+    "entidad": "DPP",
+    "relacion": "se relaciona con",
+    "valor": "mayor riesgo de maltrato infantil"
+  },
+  {
+    "entidad": "DPP",
+    "relacion": "se asocia con",
+    "valor": "mayor necesidad de servicios de educación especial"
+  },
+  {
+    "entidad": "DPP",
+    "relacion": "se asocia con",
+    "valor": "mayores tasas de accidentes domésticos"
+  },
+  {
+    "entidad": "DPP",
+    "relacion": "se asocia con",
+    "valor": "alteraciones conductuales en los hijos"
+  },
+  {
+    "entidad": "Infantes con DPP materna",
+    "relacion": "presentan",
+    "valor": "mayor reactividad fisiológica"
+  },
+  {
+    "entidad": "DPP",
+    "relacion": "impacta en",
+    "valor": "desarrollo futuro del niño"
+  },
+  {
+    "entidad": "Controles de salud del niño",
+    "relacion": "son una oportunidad para",
+    "valor": "pesquisar DPP y alteraciones del desarrollo psicomotor"
+  },
+  {
+    "entidad": "Mujeres con más de 12 años de estudio",
+    "relacion": "tienen",
+    "valor": "mayor prevalencia de DPP"
+  },
+  {
+    "entidad": "DPP",
+    "relacion": "es independiente de",
+    "valor": "edad y escolaridad de la madre"
+  },
+  {
+    "entidad": "DPP",
+    "relacion": "se asocia con",
+    "valor": "mayor frecuencia de DSM alterado en niños"
+  },
+  {
+    "entidad": "IRA grave",
+    "relacion": "aumenta",
+    "valor": "efecto de DPP en el DSM alterado"
+  },
+  {
+    "entidad": "Lactancia materna exclusiva (LME)",
+    "relacion": "menor a",
+    "valor": "seis meses se asocia con mayor riesgo de DSM alterado"
+  },
+  {
+    "entidad": "eficiencia hospitalaria",
+    "relacion": "es determinada por",
+    "valor": "variables como la estancia promedio y la productividad del personal clínico"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "es el caso de estudio de",
+    "valor": "eficiencia hospitalaria"
+  },
+  {
+    "entidad": "Ministerio de Salud",
+    "relacion": "es responsable de",
+    "valor": "gestión hospitalaria en Chile"
+  },
+  {
+    "entidad": "Data Envelopment Analysis (DEA)",
+    "relacion": "es una técnica utilizada para",
+    "valor": "medir la eficiencia hospitalaria"
+  },
+  {
+    "entidad": "estancia promedio",
+    "relacion": "afecta a",
+    "valor": "la eficiencia hospitalaria"
+  },
+  {
+    "entidad": "egresos por enfermera y matrona",
+    "relacion": "incrementan",
+    "valor": "la eficiencia hospitalaria"
+  },
+  {
+    "entidad": "Balanced Score Card",
+    "relacion": "mide",
+    "valor": "el rendimiento estratégico de hospitales"
+  },
+  {
+    "entidad": "mecanismos de financiamiento",
+    "relacion": "impactan en",
+    "valor": "la eficiencia hospitalaria"
+  },
+  {
+    "entidad": "territorio geográfico",
+    "relacion": "influye en",
+    "valor": "la eficiencia de hospitales"
+  },
+  {
+    "entidad": "nivel de especialización",
+    "relacion": "puede afectar",
+    "valor": "la eficiencia hospitalaria"
+  },
+  {
+    "entidad": "hospitales",
+    "relacion": "tienen un rol importante en",
+    "valor": "la búsqueda de eficiencia y calidad en salud"
+  },
+  {
+    "entidad": "variables socioeconómicas",
+    "relacion": "se espera que estén correlacionadas con",
+    "valor": "la complejidad hospitalaria"
+  },
+  {
+    "entidad": "análisis econométrico",
+    "relacion": "se utiliza para",
+    "valor": "determinar el efecto de variables sobre la eficiencia"
+  },
+  {
+    "entidad": "hospitales especializados",
+    "relacion": "pueden tener",
+    "valor": "mayor eficiencia técnica"
+  },
+  {
+    "entidad": "costo medio",
+    "relacion": "es estimado como",
+    "valor": "el costo de egresos sobre egresos ponderados"
+  },
+  {
+    "entidad": "propofol",
+    "relacion": "es un",
+    "valor": "agente sedante"
+  },
+  {
+    "entidad": "dexmedetomidina",
+    "relacion": "se combina con",
+    "valor": "propofol"
+  },
+  {
+    "entidad": "sufentanil",
+    "relacion": "se combina con",
+    "valor": "propofol"
+  },
+  {
+    "entidad": "meperidina",
+    "relacion": "se combina con",
+    "valor": "propofol"
+  },
+  {
+    "entidad": "midazolam",
+    "relacion": "se combina con",
+    "valor": "propofol"
+  },
+  {
+    "entidad": "colonoscopy",
+    "relacion": "es un",
+    "valor": "procedimiento endoscópico"
+  },
+  {
+    "entidad": "sedación consciente",
+    "relacion": "es un",
+    "valor": "nivel de sedación"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "son tratados con",
+    "valor": "sedación durante colonoscopia"
+  },
+  {
+    "entidad": "eficacia",
+    "relacion": "se evalúa en",
+    "valor": "protocolos de sedación"
+  },
+  {
+    "entidad": "seguridad",
+    "relacion": "se evalúa en",
+    "valor": "protocolos de sedación"
+  },
+  {
+    "entidad": "costo",
+    "relacion": "se evalúa en",
+    "valor": "protocolos de sedación"
+  },
+  {
+    "entidad": "satisfacción del paciente",
+    "relacion": "se evalúa en",
+    "valor": "protocolos de sedación"
+  },
+  {
+    "entidad": "Ramsay sedation score (RSS)",
+    "relacion": "se utiliza para medir",
+    "valor": "nivel de sedación"
+  },
+  {
+    "entidad": "Trail Making A y B tests",
+    "relacion": "se utilizan para evaluar",
+    "valor": "rendimiento neurofisiológico"
+  },
+  {
+    "entidad": "Aldrete score",
+    "relacion": "se utiliza para medir",
+    "valor": "recuperación post-sedación"
+  },
+  {
+    "entidad": "hospitalización",
+    "relacion": "no se prolonga si",
+    "valor": "los metabolitos son inactivados"
+  },
+  {
+    "entidad": "complicaciones",
+    "relacion": "se clasifican como",
+    "valor": "respiratorias o hemodinámicas"
+  },
+  {
+    "entidad": "satisfacción del paciente",
+    "relacion": "es alta en",
+    "valor": "procedimientos de sedación"
+  },
+  {
+    "entidad": "costos",
+    "relacion": "varían entre",
+    "valor": "protocolos de sedación"
+  },
+  {
+    "entidad": "endoscopista",
+    "relacion": "realiza",
+    "valor": "procedimientos de colonoscopia"
+  },
+  {
+    "entidad": "anestesiólogo",
+    "relacion": "administra",
+    "valor": "agentes sedantes"
+  },
+  {
+    "entidad": "propofol",
+    "relacion": "se utiliza en",
+    "valor": "dosis bajas para sedación"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "son aleatorizados en",
+    "valor": "grupos para estudio"
+  },
+  {
+    "entidad": "grupo 1",
+    "relacion": "recibe",
+    "valor": "dexmedetomidina"
+  },
+  {
+    "entidad": "grupo 2",
+    "relacion": "recibe",
+    "valor": "sufentanil intranasal"
+  },
+  {
+    "entidad": "grupo 3",
+    "relacion": "recibe",
+    "valor": "meperidina intravenosa"
+  },
+  {
+    "entidad": "grupo 4",
+    "relacion": "recibe",
+    "valor": "midazolam y meperidina"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "son excluidos si tienen",
+    "valor": "trastornos médicos específicos"
+  },
+  {
+    "entidad": "propofol",
+    "relacion": "mejora",
+    "valor": "recuperación post-sedación"
+  },
+  {
+    "entidad": "sedación",
+    "relacion": "puede ser",
+    "valor": "segura y efectiva"
+  },
+  {
+    "entidad": "costos",
+    "relacion": "son más altos en",
+    "valor": "dexmedetomidina"
+  },
+  {
+    "entidad": "costos",
+    "relacion": "son más bajos en",
+    "valor": "midazolam con meperidina"
+  },
+  {
+    "entidad": "cáncer de tiroides",
+    "relacion": "es",
+    "valor": "neoplasia maligna endocrina más frecuente"
+  },
+  {
+    "entidad": "carcinoma papilar de tiroides",
+    "relacion": "representa",
+    "valor": "75-85% de todos los casos de cáncer de tiroides"
+  },
+  {
+    "entidad": "cáncer de tiroides",
+    "relacion": "ha aumentado",
+    "valor": "en incidencia en los últimos años"
+  },
+  {
+    "entidad": "ecografía",
+    "relacion": "aumenta",
+    "valor": "la detección de cáncer de tiroides"
+  },
+  {
+    "entidad": "microcarcinomas",
+    "relacion": "tienen",
+    "valor": "menor riesgo de invasión"
+  },
+  {
+    "entidad": "macrocarcinomas",
+    "relacion": "tienen",
+    "valor": "mayor número de casos de multifocalidad"
+  },
+  {
+    "entidad": "diagnóstico precoz",
+    "relacion": "asocia",
+    "valor": "mejor pronóstico en cáncer de tiroides"
+  },
+  {
+    "entidad": "tiroidectomías",
+    "relacion": "aumentan",
+    "valor": "en tasa por cáncer de tiroides"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "realiza",
+    "valor": "estudios sobre cáncer de tiroides"
+  },
+  {
+    "entidad": "Hashimoto",
+    "relacion": "asocia",
+    "valor": "aumento de incidencia de cáncer de tiroides"
+  },
+  {
+    "entidad": "radiación",
+    "relacion": "puede aumentar",
+    "valor": "el riesgo de cáncer de tiroides"
+  },
+  {
+    "entidad": "cáncer de tiroides",
+    "relacion": "puede ser causado por",
+    "valor": "exposición a carcinógenos ambientales"
+  },
+  {
+    "entidad": "diagnóstico temprano",
+    "relacion": "posibilita",
+    "valor": "encontrar tumores menos agresivos"
+  },
+  {
+    "entidad": "cáncer de tiroides",
+    "relacion": "requiere",
+    "valor": "análisis costo-efectividad en salud pública"
+  },
+  {
+    "entidad": "vitamina D",
+    "relacion": "tiene un rol",
+    "valor": "metabolismo óseo"
+  },
+  {
+    "entidad": "deficiencia de vitamina D",
+    "relacion": "produce",
+    "valor": "inadecuada mineralización ósea"
+  },
+  {
+    "entidad": "raquitismo",
+    "relacion": "es la presentación más grave de",
+    "valor": "deficiencia de vitamina D en niños"
+  },
+  {
+    "entidad": "osteomalacia",
+    "relacion": "es la presentación más grave de",
+    "valor": "deficiencia de vitamina D en adultos"
+  },
+  {
+    "entidad": "exposición solar",
+    "relacion": "es el principal factor",
+    "valor": "nutrición adecuada de vitamina D"
+  },
+  {
+    "entidad": "niños preescolares chilenos",
+    "relacion": "tienen",
+    "valor": "alta tasa de deficiencia de vitamina D"
+  },
+  {
+    "entidad": "latitudes australes",
+    "relacion": "aumentan el riesgo de",
+    "valor": "deficiencia de vitamina D"
+  },
+  {
+    "entidad": "radiación ultravioleta B (UVB)",
+    "relacion": "es necesaria para",
+    "valor": "síntesis de vitamina D"
+  },
+  {
+    "entidad": "Junta Nacional de Jardines Infantiles (JIJUNJI)",
+    "relacion": "es la organización",
+    "valor": "de jardines infantiles en Chile"
+  },
+  {
+    "entidad": "Hospital Regional de Coyhaique",
+    "relacion": "es el lugar",
+    "valor": "donde se realizó el estudio"
+  },
+  {
+    "entidad": "Universidad de Chile",
+    "relacion": "es la institución",
+    "valor": "que realizó el análisis de laboratorio"
+  },
+  {
+    "entidad": "suplementación de vitamina D",
+    "relacion": "es recomendada para",
+    "valor": "niños con deficiencia"
+  },
+  {
+    "entidad": "fortificación de alimentos",
+    "relacion": "es una herramienta de prevención de",
+    "valor": "deficiencia de vitamina D"
+  },
+  {
+    "entidad": "exposición solar",
+    "relacion": "es un factor imprescindible para",
+    "valor": "lograr un adecuado estado de vitamina D"
+  },
+  {
+    "entidad": "deficiencia de vitamina D",
+    "relacion": "se asocia con",
+    "valor": "enfermedades como diabetes mellitus tipo 1"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "fue aprobado por",
+    "valor": "Comités de Ética de Estudio en Humanos"
+  },
+  {
+    "entidad": "muestra de sangre",
+    "relacion": "fue obtenida de",
+    "valor": "niños de 2 a 5 años"
+  },
+  {
+    "entidad": "25OHD",
+    "relacion": "es un marcador de",
+    "valor": "estado nutricional de vitamina D"
+  },
+  {
+    "entidad": "PTH",
+    "relacion": "no mostró asociación con",
+    "valor": "concentraciones de 25OHD"
+  },
+  {
+    "entidad": "clima",
+    "relacion": "afecta a",
+    "valor": "la exposición solar y la síntesis de vitamina D"
+  },
+  {
+    "entidad": "Hospital Clínico de la Universidad de Chile",
+    "relacion": "tiene",
+    "valor": "Unidad Geriátrica de Agudos"
+  },
+  {
+    "entidad": "Unidad Geriátrica de Agudos",
+    "relacion": "evalúa",
+    "valor": "capacidad funcional de adultos mayores"
+  },
+  {
+    "entidad": "adultos mayores",
+    "relacion": "experimenta",
+    "valor": "deterioro de capacidad funcional durante hospitalización"
+  },
+  {
+    "entidad": "deterioro funcional",
+    "relacion": "afecta",
+    "valor": "calidad de vida y pronóstico"
+  },
+  {
+    "entidad": "capacidad funcional",
+    "relacion": "se mide con",
+    "valor": "escala de Barthel"
+  },
+  {
+    "entidad": "capacidad funcional",
+    "relacion": "se mide con",
+    "valor": "escala de Lawton"
+  },
+  {
+    "entidad": "pacientes hospitalizados",
+    "relacion": "presenta",
+    "valor": "comorbilidades"
+  },
+  {
+    "entidad": "comorbilidades",
+    "relacion": "se evalúa con",
+    "valor": "índice de Charlson"
+  },
+  {
+    "entidad": "delirium",
+    "relacion": "afecta",
+    "valor": "22,9% de los pacientes"
+  },
+  {
+    "entidad": "manejo interdisciplinario",
+    "relacion": "mejora",
+    "valor": "capacidad funcional"
+  },
+  {
+    "entidad": "intervenciones interdisciplinarias",
+    "relacion": "asociadas con",
+    "valor": "reducción del deterioro funcional"
+  },
+  {
+    "entidad": "días de hospitalización",
+    "relacion": "promedio",
+    "valor": "9 días"
+  },
+  {
+    "entidad": "índice de Barthel",
+    "relacion": "muestra",
+    "valor": "pérdida de capacidad funcional"
+  },
+  {
+    "entidad": "índice de Lawton",
+    "relacion": "muestra",
+    "valor": "pérdida de capacidad funcional"
+  },
+  {
+    "entidad": "pacientes con delirium",
+    "relacion": "tienen",
+    "valor": "menor puntuación en índice de Barthel"
+  },
+  {
+    "entidad": "evaluación geriátrica integral",
+    "relacion": "aplicada en",
+    "valor": "unidades especializadas"
+  },
+  {
+    "entidad": "médicos especializados en adultos mayores",
+    "relacion": "deben aumentar",
+    "valor": "presencia en atención médica"
+  },
+  {
+    "entidad": "Toxoplasma gondii",
+    "relacion": "causa",
+    "valor": "malformaciones congénitas"
+  },
+  {
+    "entidad": "mujeres embarazadas",
+    "relacion": "deben ser",
+    "valor": "screened para Toxoplasma gondii"
+  },
+  {
+    "entidad": "seroprevalencia de Toxoplasma gondii",
+    "relacion": "se estudia en",
+    "valor": "mujeres embarazadas en Izmir, Turquía"
+  },
+  {
+    "entidad": "muestra de sangre",
+    "relacion": "obtenida de",
+    "valor": "4651 mujeres"
+  },
+  {
+    "entidad": "anticuerpos IgM e IgG",
+    "relacion": "se miden usando",
+    "valor": "ensayo ELISA"
+  },
+  {
+    "entidad": "mujeres con anticuerpos positivos",
+    "relacion": "se les realiza",
+    "valor": "test de avidez de IgG"
+  },
+  {
+    "entidad": "spiramicina",
+    "relacion": "se utiliza para tratar",
+    "valor": "mujeres con baja avidez"
+  },
+  {
+    "entidad": "crecimiento intrauterino retardado",
+    "relacion": "se diagnostica en",
+    "valor": "producto de concepción de mujer tratada"
+  },
+  {
+    "entidad": "corioretinitis",
+    "relacion": "se diagnostica en",
+    "valor": "producto de concepción de otra mujer"
+  },
+  {
+    "entidad": "Toxoplasmosis congénita",
+    "relacion": "es",
+    "valor": "baja en esta serie"
+  },
+  {
+    "entidad": "mujeres con anticuerpos positivos",
+    "relacion": "deben ser",
+    "valor": "estudiadas y seguidas"
+  },
+  {
+    "entidad": "test de avidez de IgG",
+    "relacion": "indica",
+    "valor": "infección actual o previa"
+  },
+  {
+    "entidad": "infección por Toxoplasma gondii",
+    "relacion": "puede causar",
+    "valor": "infecciones congénitas"
+  },
+  {
+    "entidad": "mujeres embarazadas",
+    "relacion": "deben ser",
+    "valor": "screened serológicamente"
+  },
+  {
+    "entidad": "Toxoplasma gondii",
+    "relacion": "diferencia en prevalencia según",
+    "valor": "ubicación geográfica y condiciones socioeconómicas"
+  },
+  {
+    "entidad": "seroprevalencia de IgG",
+    "relacion": "se mide en",
+    "valor": "mujeres embarazadas"
+  },
+  {
+    "entidad": "Toxoplasmosis",
+    "relacion": "es",
+    "valor": "una enfermedad infecciosa"
+  },
+  {
+    "entidad": "infección congénita",
+    "relacion": "puede ser",
+    "valor": "evitada con diagnóstico temprano y tratamiento"
+  },
+  {
+    "entidad": "mujeres seronegativas",
+    "relacion": "pueden ser diagnosticadas por",
+    "valor": "estudios sobre toxoplasmosis"
+  },
+  {
+    "entidad": "pruebas serológicas",
+    "relacion": "permiten",
+    "valor": "diagnóstico temprano de infección primaria"
+  },
+  {
+    "entidad": "soledad",
+    "relacion": "es un",
+    "valor": "factor de riesgo para suicidalidad en adolescentes"
+  },
+  {
+    "entidad": "impulsividad",
+    "relacion": "es un",
+    "valor": "factor de riesgo para suicidalidad en adolescentes"
+  },
+  {
+    "entidad": "consumo de alcohol",
+    "relacion": "es un",
+    "valor": "factor de riesgo para suicidalidad en adolescentes"
+  },
+  {
+    "entidad": "suicidalidad",
+    "relacion": "afecta a",
+    "valor": "adolescentes"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud",
+    "relacion": "pronostica",
+    "valor": "suicidios en el mundo"
+  },
+  {
+    "entidad": "suicidio",
+    "relacion": "es",
+    "valor": "un problema de salud pública"
+  },
+  {
+    "entidad": "género femenino",
+    "relacion": "tiene mayor riesgo que",
+    "valor": "género masculino en suicidalidad"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "se relaciona con",
+    "valor": "suicidalidad"
+  },
+  {
+    "entidad": "soledad",
+    "relacion": "se relaciona con",
+    "valor": "ansiedad y síntomas depresivos"
+  },
+  {
+    "entidad": "soledad",
+    "relacion": "se relaciona con",
+    "valor": "violencia y abuso de internet"
+  },
+  {
+    "entidad": "suicidalidad",
+    "relacion": "es determinada por",
+    "valor": "interrelación de factores demográficos, genéticos, biológicos, psiquiátricos, psicológicos, familiares y sociales"
+  },
+  {
+    "entidad": "modelo teórico",
+    "relacion": "evalúa",
+    "valor": "relación entre soledad, impulsividad, consumo de alcohol y suicidalidad"
+  },
+  {
+    "entidad": "suicidalidad",
+    "relacion": "comprende",
+    "valor": "ideas suicidas e intentos de suicidio"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "realiza en",
+    "valor": "adolescentes de Chillán, Chile"
+  },
+  {
+    "entidad": "escala de soledad UCLA",
+    "relacion": "evalúa",
+    "valor": "sentimientos de soledad"
+  },
+  {
+    "entidad": "escala de impulsividad de Barratt",
+    "relacion": "evalúa",
+    "valor": "impulsividad"
+  },
+  {
+    "entidad": "AUDIT",
+    "relacion": "evalúa",
+    "valor": "consumo de alcohol"
+  },
+  {
+    "entidad": "suicidalidad",
+    "relacion": "se relaciona con",
+    "valor": "soledad, impulsividad y consumo de alcohol"
+  },
+  {
+    "entidad": "Biopsia percutánea core",
+    "relacion": "es un",
+    "valor": "método diagnóstico"
+  },
+  {
+    "entidad": "Tomografía computada (TC)",
+    "relacion": "guiada por",
+    "valor": "biopsia percutánea core"
+  },
+  {
+    "entidad": "lesiones pulmonares",
+    "relacion": "son",
+    "valor": "objetivo de la biopsia"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "realiza",
+    "valor": "biopsias percutáneas"
+  },
+  {
+    "entidad": "neumotórax",
+    "relacion": "es una",
+    "valor": "complicación de la biopsia"
+  },
+  {
+    "entidad": "tamaño de la lesión",
+    "relacion": "influye en",
+    "valor": "rendimiento de la biopsia"
+  },
+  {
+    "entidad": "profundidad de la lesión",
+    "relacion": "influye en",
+    "valor": "tasa de complicaciones"
+  },
+  {
+    "entidad": "diagnóstico de malignidad",
+    "relacion": "es evaluado por",
+    "valor": "biopsia percutánea core"
+  },
+  {
+    "entidad": "tumores broncogénicos primarios",
+    "relacion": "son",
+    "valor": "diagnóstico más frecuente"
+  },
+  {
+    "entidad": "lesiones metastásicas",
+    "relacion": "son",
+    "valor": "diagnóstico común"
+  },
+  {
+    "entidad": "sensibilidad de la biopsia",
+    "relacion": "es",
+    "valor": "90.6%"
+  },
+  {
+    "entidad": "tasa de complicaciones",
+    "relacion": "es",
+    "valor": "baja"
+  },
+  {
+    "entidad": "análisis retrospectivo",
+    "relacion": "se realiza en",
+    "valor": "biopsias"
+  },
+  {
+    "entidad": "Dra. Solana Terrazas",
+    "relacion": "colabora en",
+    "valor": "cálculos estadísticos"
+  },
+  {
+    "entidad": "Hospital Clínico de la Pontificia Universidad Católica de Chile",
+    "relacion": "es un",
+    "valor": "centro de estudio"
+  },
+  {
+    "entidad": "muestra no diagnóstica",
+    "relacion": "es",
+    "valor": "resultado de biopsia"
+  },
+  {
+    "entidad": "complicaciones hemorrágicas mayores",
+    "relacion": "no ocurren en",
+    "valor": "biopsias"
+  },
+  {
+    "entidad": "técnica de biopsia",
+    "relacion": "es",
+    "valor": "no invasiva"
+  },
+  {
+    "entidad": "anatomía patológica",
+    "relacion": "es parte de",
+    "valor": "análisis de muestras"
+  },
+  {
+    "entidad": "sedación endovenosa",
+    "relacion": "se utiliza en",
+    "valor": "procedimiento de biopsia"
+  },
+  {
+    "entidad": "agujas de biopsia core",
+    "relacion": "son",
+    "valor": "herramientas utilizadas"
+  },
+  {
+    "entidad": "método de biopsia",
+    "relacion": "tiene",
+    "valor": "baja tasa de complicaciones"
+  }
+]

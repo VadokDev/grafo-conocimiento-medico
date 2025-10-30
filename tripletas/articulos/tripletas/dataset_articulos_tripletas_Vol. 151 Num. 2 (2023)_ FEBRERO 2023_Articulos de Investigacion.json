@@ -1,0 +1,637 @@
+[
+  {
+    "entidad": "sistemas fuzzy",
+    "relacion": "aplican",
+    "valor": "toma de decisiones"
+  },
+  {
+    "entidad": "Plan Paso a Paso",
+    "relacion": "implementa",
+    "valor": "indicadores de salud"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "decreta",
+    "valor": "cuarentenas"
+  },
+  {
+    "entidad": "SARS-CoV2",
+    "relacion": "causa",
+    "valor": "COVID-19"
+  },
+  {
+    "entidad": "comuna de Valdivia",
+    "relacion": "analiza",
+    "valor": "indicadores del Plan Paso a Paso"
+  },
+  {
+    "entidad": "inteligencia artificial",
+    "relacion": "mejora",
+    "valor": "transparencia en la toma de decisiones"
+  },
+  {
+    "entidad": "sistemas basados en reglas fuzzy (SBRF)",
+    "relacion": "soportan",
+    "valor": "toma de decisiones en salud"
+  },
+  {
+    "entidad": "cuarentenas dinámicas",
+    "relacion": "implementa",
+    "valor": "Chile"
+  },
+  {
+    "entidad": "algoritmos computacionales",
+    "relacion": "minimizan",
+    "valor": "errores de subjetividad"
+  },
+  {
+    "entidad": "indicadores epidemiológicos",
+    "relacion": "evalúan",
+    "valor": "situación de salud pública"
+  },
+  {
+    "entidad": "sistema fuzzy",
+    "relacion": "proporciona",
+    "valor": "respuesta objetiva"
+  },
+  {
+    "entidad": "hitos históricos",
+    "relacion": "afectan",
+    "valor": "valores de indicadores"
+  },
+  {
+    "entidad": "MINSAL",
+    "relacion": "decide",
+    "valor": "fase de confinamiento"
+  },
+  {
+    "entidad": "ciudadanía",
+    "relacion": "recibe",
+    "valor": "comunicación del riesgo"
+  },
+  {
+    "entidad": "Plan Paso a Paso",
+    "relacion": "estandariza",
+    "valor": "medidas de confinamiento"
+  },
+  {
+    "entidad": "sistema fuzzy",
+    "relacion": "mejora",
+    "valor": "gobernanza de la emergencia"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "es una",
+    "valor": "enfermedad"
+  },
+  {
+    "entidad": "SARS-CoV-2",
+    "relacion": "causa",
+    "valor": "COVID-19"
+  },
+  {
+    "entidad": "tracheostomy",
+    "relacion": "es un",
+    "valor": "procedimiento médico"
+  },
+  {
+    "entidad": "prolonged mechanical ventilation (IMV)",
+    "relacion": "requiere",
+    "valor": "tracheostomy en pacientes con COVID-19"
+  },
+  {
+    "entidad": "mortalidad a 90 días",
+    "relacion": "se compara",
+    "valor": "entre pacientes con y sin traqueostomía"
+  },
+  {
+    "entidad": "tracheostomy",
+    "relacion": "no se asocia con",
+    "valor": "exceso de mortalidad"
+  },
+  {
+    "entidad": "personal de salud",
+    "relacion": "no presenta",
+    "valor": "casos de COVID-19 tras realizar traqueostomías"
+  },
+  {
+    "entidad": "infecciones asociadas a la atención de salud",
+    "relacion": "son más frecuentes en",
+    "valor": "pacientes con traqueostomía"
+  },
+  {
+    "entidad": "eventos trombóticos",
+    "relacion": "ocurren en",
+    "valor": "42.4% de los pacientes"
+  },
+  {
+    "entidad": "Hospital Clínico Universidad de Chile",
+    "relacion": "realiza",
+    "valor": "estudio sobre COVID-19"
+  },
+  {
+    "entidad": "SOFA score",
+    "relacion": "se utiliza para ajustar",
+    "valor": "efecto de la traqueostomía"
+  },
+  {
+    "entidad": "ventilación mecánica invasiva (VMI)",
+    "relacion": "es un",
+    "valor": "tratamiento para COVID-19"
+  },
+  {
+    "entidad": "cohortes históricas",
+    "relacion": "se estudian para",
+    "valor": "evaluar mortalidad"
+  },
+  {
+    "entidad": "comorbilidades",
+    "relacion": "se presentan en",
+    "valor": "pacientes con COVID-19"
+  },
+  {
+    "entidad": "procedimiento de traqueostomía",
+    "relacion": "mejora",
+    "valor": "comodidad del paciente"
+  },
+  {
+    "entidad": "ICU",
+    "relacion": "es un",
+    "valor": "entorno de tratamiento para pacientes críticos"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "se evalúa en",
+    "valor": "pacientes con COVID-19"
+  },
+  {
+    "entidad": "tracheostomy",
+    "relacion": "facilita",
+    "valor": "soporte ventilatorio"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "requiere",
+    "valor": "ventilación mecánica prolongada en pacientes críticos"
+  },
+  {
+    "entidad": "hospitales chilenos",
+    "relacion": "tienen",
+    "valor": "problemas de calidad y seguridad"
+  },
+  {
+    "entidad": "mejora de calidad",
+    "relacion": "es un",
+    "valor": "componente importante de las operaciones hospitalarias"
+  },
+  {
+    "entidad": "encuesta en línea",
+    "relacion": "fue dirigida a",
+    "valor": "responsables de calidad y seguridad clínica"
+  },
+  {
+    "entidad": "34 hospitales",
+    "relacion": "respondieron",
+    "valor": "la encuesta"
+  },
+  {
+    "entidad": "25 encuestas válidas",
+    "relacion": "fueron utilizadas para",
+    "valor": "análisis"
+  },
+  {
+    "entidad": "comunicación interprofesional ineficaz",
+    "relacion": "es un",
+    "valor": "problema de alta prioridad"
+  },
+  {
+    "entidad": "falta de liderazgo",
+    "relacion": "es un",
+    "valor": "problema de alta prioridad"
+  },
+  {
+    "entidad": "resistencia a los antimicrobianos",
+    "relacion": "es un",
+    "valor": "problema de alta prioridad"
+  },
+  {
+    "entidad": "grupos focales",
+    "relacion": "fueron utilizados para",
+    "valor": "encontrar causas raíz"
+  },
+  {
+    "entidad": "causas raíz",
+    "relacion": "fueron clasificadas en",
+    "valor": "relacionadas al personal y al hospital"
+  },
+  {
+    "entidad": "personal",
+    "relacion": "causa",
+    "valor": "problemas de comunicación"
+  },
+  {
+    "entidad": "hospital",
+    "relacion": "causa",
+    "valor": "problemas de comunicación"
+  },
+  {
+    "entidad": "hospitales",
+    "relacion": "pueden utilizar",
+    "valor": "enfoque sistemático para categorizar problemas"
+  },
+  {
+    "entidad": "enfoque sistemático",
+    "relacion": "ayuda a",
+    "valor": "analizar causas y diseñar soluciones"
+  },
+  {
+    "entidad": "errores médicos",
+    "relacion": "afectan",
+    "valor": "la seguridad del paciente"
+  },
+  {
+    "entidad": "eventos adversos",
+    "relacion": "son",
+    "valor": "altamente evitables"
+  },
+  {
+    "entidad": "cultura de seguridad",
+    "relacion": "debe ser",
+    "valor": "creada para prevenir eventos adversos"
+  },
+  {
+    "entidad": "tecnologías de procesamiento de lenguaje",
+    "relacion": "pueden ser utilizadas para",
+    "valor": "gestionar problemas de comunicación"
+  },
+  {
+    "entidad": "cáncer de mama",
+    "relacion": "es",
+    "valor": "la causa número uno de muerte en mujeres"
+  },
+  {
+    "entidad": "Ecuador",
+    "relacion": "tiene",
+    "valor": "una alta prevalencia de cáncer de mama"
+  },
+  {
+    "entidad": "Ministerio de Salud Pública (MSP)",
+    "relacion": "informa sobre",
+    "valor": "el incremento de casos de cáncer de mama"
+  },
+  {
+    "entidad": "subtipos moleculares del cáncer de mama",
+    "relacion": "son relevantes para",
+    "valor": "el tratamiento"
+  },
+  {
+    "entidad": "estudio retrospectivo",
+    "relacion": "se realizó en",
+    "valor": "199 pacientes con diagnóstico de cáncer de mama"
+  },
+  {
+    "entidad": "hospital Abel Gilbert Pontón",
+    "relacion": "es",
+    "valor": "una institución de salud pública en Guayaquil, Ecuador"
+  },
+  {
+    "entidad": "Luminal A",
+    "relacion": "es",
+    "valor": "el subtipo más prevalente de cáncer de mama"
+  },
+  {
+    "entidad": "tumores moderadamente diferenciados",
+    "relacion": "son",
+    "valor": "los más frecuentes en la población estudiada"
+  },
+  {
+    "entidad": "tamaño tumoral",
+    "relacion": "predomina en",
+    "valor": "> 2 cm a 5 cm"
+  },
+  {
+    "entidad": "carcinoma ductal invasivo",
+    "relacion": "es",
+    "valor": "el tipo histológico más frecuente"
+  },
+  {
+    "entidad": "subtipos moleculares",
+    "relacion": "varían en",
+    "valor": "diferentes poblaciones"
+  },
+  {
+    "entidad": "edad media al diagnóstico",
+    "relacion": "es",
+    "valor": "56,77 años"
+  },
+  {
+    "entidad": "subtipo molecular Luminal A",
+    "relacion": "es",
+    "valor": "el tumor más prevalente en la población estudiada"
+  },
+  {
+    "entidad": "recursos del sistema de Salud Pública",
+    "relacion": "son",
+    "valor": "limitados y finitos"
+  },
+  {
+    "entidad": "marcadores IHQ",
+    "relacion": "son de gran beneficio para",
+    "valor": "optimizar tratamientos"
+  },
+  {
+    "entidad": "cáncer de mama",
+    "relacion": "requiere",
+    "valor": "un enfoque personalizado en el tratamiento"
+  },
+  {
+    "entidad": "neumonía adquirida en la comunidad",
+    "relacion": "es causada por",
+    "valor": "coronavirus SARS-CoV-2"
+  },
+  {
+    "entidad": "pacientes adultos",
+    "relacion": "son hospitalizados por",
+    "valor": "neumonía adquirida en la comunidad"
+  },
+  {
+    "entidad": "índices predictores de gravedad",
+    "relacion": "evalúan",
+    "valor": "el riesgo de complicaciones en neumonía"
+  },
+  {
+    "entidad": "CRB-65",
+    "relacion": "es un",
+    "valor": "índice predictor de gravedad"
+  },
+  {
+    "entidad": "CURB-65",
+    "relacion": "es un",
+    "valor": "índice predictor de gravedad"
+  },
+  {
+    "entidad": "PSI",
+    "relacion": "es un",
+    "valor": "índice predictor de gravedad"
+  },
+  {
+    "entidad": "SCAP",
+    "relacion": "es un",
+    "valor": "índice predictor de gravedad"
+  },
+  {
+    "entidad": "SMART-COP",
+    "relacion": "es un",
+    "valor": "índice predictor de gravedad"
+  },
+  {
+    "entidad": "REA-ICU",
+    "relacion": "es un",
+    "valor": "índice predictor de gravedad"
+  },
+  {
+    "entidad": "ATS minor criteria",
+    "relacion": "es un",
+    "valor": "índice predictor de gravedad"
+  },
+  {
+    "entidad": "qSOFA",
+    "relacion": "es un",
+    "valor": "índice predictor de gravedad"
+  },
+  {
+    "entidad": "CALL",
+    "relacion": "es un",
+    "valor": "índice predictor de gravedad"
+  },
+  {
+    "entidad": "COVID GRAM",
+    "relacion": "es un",
+    "valor": "índice predictor de gravedad"
+  },
+  {
+    "entidad": "4C",
+    "relacion": "es un",
+    "valor": "índice predictor de gravedad"
+  },
+  {
+    "entidad": "STSS",
+    "relacion": "es un",
+    "valor": "índice predictor de gravedad"
+  },
+  {
+    "entidad": "hospitalización",
+    "relacion": "es un resultado de",
+    "valor": "neumonía adquirida en la comunidad"
+  },
+  {
+    "entidad": "admisión a UCI",
+    "relacion": "es un evento adverso asociado a",
+    "valor": "neumonía adquirida en la comunidad"
+  },
+  {
+    "entidad": "ventilación mecánica",
+    "relacion": "es un evento adverso asociado a",
+    "valor": "neumonía adquirida en la comunidad"
+  },
+  {
+    "entidad": "mortalidad hospitalaria",
+    "relacion": "es un evento adverso asociado a",
+    "valor": "neumonía adquirida en la comunidad"
+  },
+  {
+    "entidad": "edad avanzada",
+    "relacion": "es un predictor de",
+    "valor": "gravedad en COVID-19"
+  },
+  {
+    "entidad": "enfermedades preexistentes",
+    "relacion": "son factores de riesgo para",
+    "valor": "gravedad en COVID-19"
+  },
+  {
+    "entidad": "inmunocomprometidos",
+    "relacion": "son más susceptibles a",
+    "valor": "gravedad en COVID-19"
+  },
+  {
+    "entidad": "hospital Clínico de la Red de Salud UC Christus",
+    "relacion": "es el lugar de",
+    "valor": "estudio clínico"
+  },
+  {
+    "entidad": "Comité de Ética en Investigación",
+    "relacion": "aprueba",
+    "valor": "protocolos de estudio"
+  },
+  {
+    "entidad": "Declaración de Helsinki",
+    "relacion": "es un estándar para",
+    "valor": "investigaciones médicas éticas"
+  },
+  {
+    "entidad": "índices pronósticos",
+    "relacion": "difieren en",
+    "valor": "capacidad predictiva para eventos adversos"
+  },
+  {
+    "entidad": "hospitalización prolongada",
+    "relacion": "es un resultado de",
+    "valor": "categorías de alto riesgo en índices pronósticos"
+  },
+  {
+    "entidad": "Self-Compassion Scale (SCS)",
+    "relacion": "es un",
+    "valor": "instrumento de evaluación"
+  },
+  {
+    "entidad": "Self-Compassion Scale (SCS)",
+    "relacion": "evalúa",
+    "valor": "autocompasión"
+  },
+  {
+    "entidad": "autocompasión",
+    "relacion": "se define como",
+    "valor": "un marco mental para enfrentar dificultades"
+  },
+  {
+    "entidad": "autocompasión",
+    "relacion": "surge en respuesta a",
+    "valor": "aspectos negativos de la autoestima"
+  },
+  {
+    "entidad": "SCS-12",
+    "relacion": "es una versión de",
+    "valor": "Self-Compassion Scale"
+  },
+  {
+    "entidad": "SCS-12",
+    "relacion": "fue validada en",
+    "valor": "Chile"
+  },
+  {
+    "entidad": "médicos y estudiantes de medicina",
+    "relacion": "fueron evaluados con",
+    "valor": "SCS-12"
+  },
+  {
+    "entidad": "Universidad Diego Portales",
+    "relacion": "es un",
+    "valor": "centro de investigación"
+  },
+  {
+    "entidad": "Centro de Educación Médica y Simulación Clínica (CEMSIC)",
+    "relacion": "pertenece a",
+    "valor": "Universidad Diego Portales"
+  },
+  {
+    "entidad": "Colegio Médico de Chile (COLMED)",
+    "relacion": "asocia",
+    "valor": "médicos en Chile"
+  },
+  {
+    "entidad": "análisis factorial confirmatorio",
+    "relacion": "se utilizó para",
+    "valor": "evaluar la validez interna"
+  },
+  {
+    "entidad": "SCS-12",
+    "relacion": "presentó",
+    "valor": "adecuadas propiedades psicométricas"
+  },
+  {
+    "entidad": "autocompasión",
+    "relacion": "está vinculada a",
+    "valor": "salud mental y bienestar"
+  },
+  {
+    "entidad": "intervenciones basadas en autocompasión",
+    "relacion": "tienen",
+    "valor": "efectos positivos"
+  },
+  {
+    "entidad": "muestra de médicos",
+    "relacion": "constó de",
+    "valor": "795 médicos"
+  },
+  {
+    "entidad": "muestra de estudiantes de medicina",
+    "relacion": "constó de",
+    "valor": "359 estudiantes"
+  },
+  {
+    "entidad": "escala Mental Health Continuum",
+    "relacion": "se utilizó para",
+    "valor": "correlaciones bivariadas"
+  },
+  {
+    "entidad": "PHQ-9",
+    "relacion": "evalúa",
+    "valor": "síntomas de depresión"
+  },
+  {
+    "entidad": "GAD-7",
+    "relacion": "evalúa",
+    "valor": "síntomas de ansiedad"
+  },
+  {
+    "entidad": "comité de ética de investigación",
+    "relacion": "aprobó",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "SCS-12",
+    "relacion": "es útil para",
+    "valor": "evaluaciones clínicas y de investigación"
+  },
+  {
+    "entidad": "condición física",
+    "relacion": "es un",
+    "valor": "componente clave de la independencia funcional y el envejecimiento saludable"
+  },
+  {
+    "entidad": "personas mayores chilenas",
+    "relacion": "aumentarán",
+    "valor": "del 11% en 2017 al 30,6% en 2050"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "se asocia con",
+    "valor": "beneficios múltiples para personas mayores"
+  },
+  {
+    "entidad": "Senior Fitness Test (SFT)",
+    "relacion": "es utilizado para",
+    "valor": "evaluar la condición física en población mayor"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "es un",
+    "valor": "factor de riesgo para el deterioro de la condición física"
+  },
+  {
+    "entidad": "sexo",
+    "relacion": "es un",
+    "valor": "factor de riesgo para el deterioro de la condición física"
+  },
+  {
+    "entidad": "índice de masa corporal (IMC)",
+    "relacion": "es un",
+    "valor": "factor de riesgo para el deterioro de la condición física"
+  },
+  {
+    "entidad": "mujeres mayores chilenas",
+    "relacion": "manifiestan",
+    "valor": "deterioro de su condición física a medida que avanza la edad"
+  },
+  {
+    "entidad": "valores de referencia",
+    "relacion": "son establecidos para",
+    "valor": "hombres y mujeres mayores chilenas"
+  },
+  {
+    "entidad": "programas de actividad física",
+    "relacion": "son necesarios para",
+    "valor": "mantener niveles de condición física y calidad de vida en personas mayores"
+  }
+]

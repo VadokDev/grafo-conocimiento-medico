@@ -1,0 +1,762 @@
+[
+  {
+    "entidad": "loxoscelismo",
+    "relacion": "es un",
+    "valor": "problema de salud pública en Chile y Sudamérica"
+  },
+  {
+    "entidad": "loxoscelismo",
+    "relacion": "es causado por",
+    "valor": "Loxosceles spp"
+  },
+  {
+    "entidad": "Loxosceles laeta",
+    "relacion": "es responsable de",
+    "valor": "la mayoría de los casos en Sudamérica"
+  },
+  {
+    "entidad": "Loxoscelismo cutáneo",
+    "relacion": "es un tipo de",
+    "valor": "loxoscelismo"
+  },
+  {
+    "entidad": "Loxoscelismo cutáneo-visceral",
+    "relacion": "es un tipo de",
+    "valor": "loxoscelismo"
+  },
+  {
+    "entidad": "diagnóstico de loxoscelismo",
+    "relacion": "es principalmente",
+    "valor": "clínico"
+  },
+  {
+    "entidad": "sintomatología sistémica",
+    "relacion": "se presenta en",
+    "valor": "pacientes con loxoscelismo cutáneo-visceral"
+  },
+  {
+    "entidad": "hematuria",
+    "relacion": "es un síntoma de",
+    "valor": "loxoscelismo cutáneo-visceral"
+  },
+  {
+    "entidad": "analgesia",
+    "relacion": "es un tratamiento utilizado en",
+    "valor": "loxoscelismo"
+  },
+  {
+    "entidad": "suero antiloxosceles",
+    "relacion": "no fue utilizado en",
+    "valor": "ningún paciente"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "realiza",
+    "valor": "investigación sobre loxoscelismo"
+  },
+  {
+    "entidad": "Comité de Ética en Investigación",
+    "relacion": "aprueba",
+    "valor": "estudios sobre loxoscelismo"
+  },
+  {
+    "entidad": "Centro de Atención Toxicológica",
+    "relacion": "atendió",
+    "valor": "llamados sobre loxoscelismo"
+  },
+  {
+    "entidad": "mordedura de araña de rincón",
+    "relacion": "es causada por",
+    "valor": "Loxosceles laeta"
+  },
+  {
+    "entidad": "sintomatología sistémica",
+    "relacion": "aumenta el riesgo de",
+    "valor": "loxoscelismo cutáneo-visceral"
+  },
+  {
+    "entidad": "pacientes con loxoscelismo cutáneo",
+    "relacion": "pueden presentar",
+    "valor": "síntomas sistémicos inespecíficos"
+  },
+  {
+    "entidad": "tratamientos para loxoscelismo",
+    "relacion": "tienen poca evidencia para",
+    "valor": "su efectividad"
+  },
+  {
+    "entidad": "estudios futuros",
+    "relacion": "son necesarios para",
+    "valor": "validar criterios diagnósticos de loxoscelismo"
+  },
+  {
+    "entidad": "legumbres",
+    "relacion": "pertenece a",
+    "valor": "familia vegetal Leguminosae"
+  },
+  {
+    "entidad": "legumbres",
+    "relacion": "son",
+    "valor": "alimentos de bajo costo y alta calidad nutricional"
+  },
+  {
+    "entidad": "legumbres",
+    "relacion": "contribuyen a",
+    "valor": "mejorar la densidad de nutrientes de la dieta"
+  },
+  {
+    "entidad": "legumbres",
+    "relacion": "tienen",
+    "valor": "alto contenido de proteínas"
+  },
+  {
+    "entidad": "legumbres",
+    "relacion": "son fuente de",
+    "valor": "vitaminas del complejo B y minerales"
+  },
+  {
+    "entidad": "ingesta de legumbres",
+    "relacion": "podría controlar",
+    "valor": "glicemia en personas diabéticas"
+  },
+  {
+    "entidad": "ingesta de legumbres",
+    "relacion": "reduce el riesgo de",
+    "valor": "eventos cardiovasculares"
+  },
+  {
+    "entidad": "Ministerio de Salud (MINSAL)",
+    "relacion": "establece",
+    "valor": "recomendaciones de ingesta de legumbres"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud 2016-2017",
+    "relacion": "analiza",
+    "valor": "consumo de legumbres en población chilena"
+  },
+  {
+    "entidad": "población chilena",
+    "relacion": "cumple con",
+    "valor": "recomendaciones de consumo de legumbres"
+  },
+  {
+    "entidad": "población rural",
+    "relacion": "tiene",
+    "valor": "mayor probabilidad de cumplir con recomendaciones de consumo"
+  },
+  {
+    "entidad": "población con nivel educacional superior",
+    "relacion": "presenta",
+    "valor": "menor probabilidad de cumplir con recomendaciones de consumo"
+  },
+  {
+    "entidad": "regiones del Maule y Biobío",
+    "relacion": "reportan",
+    "valor": "mayor probabilidad de cumplir con recomendaciones de consumo"
+  },
+  {
+    "entidad": "programas educativos",
+    "relacion": "podrían fomentar",
+    "valor": "consumo de legumbres"
+  },
+  {
+    "entidad": "Encuesta Nacional de Consumo Alimentario (ENCA 2010)",
+    "relacion": "reporta",
+    "valor": "bajo consumo de legumbres en población chilena"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "afecta",
+    "valor": "seguridad alimentaria nutricional"
+  },
+  {
+    "entidad": "población adulta chilena",
+    "relacion": "es objeto de estudio en",
+    "valor": "Encuesta Nacional de Salud 2016-2017"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "afecta a",
+    "valor": "diagnóstico y tratamiento de infarto agudo de miocardio (IAM)"
+  },
+  {
+    "entidad": "infarto agudo de miocardio (IAM)",
+    "relacion": "es un",
+    "valor": "fenómeno médico"
+  },
+  {
+    "entidad": "pacientes con IAM",
+    "relacion": "exhiben",
+    "valor": "retrasos en consultas y tratamiento durante la pandemia"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "asociado a",
+    "valor": "mayor mortalidad a 30 días en pacientes con IAM"
+  },
+  {
+    "entidad": "positividad para COVID-19",
+    "relacion": "es un",
+    "valor": "predictor de mortalidad general a 30 días"
+  },
+  {
+    "entidad": "pacientes durante la pandemia",
+    "relacion": "tenían",
+    "valor": "mayor frecuencia de hipertensión"
+  },
+  {
+    "entidad": "pacientes durante la pandemia",
+    "relacion": "tenían",
+    "valor": "mayor frecuencia de tabaquismo"
+  },
+  {
+    "entidad": "pacientes durante la pandemia",
+    "relacion": "presentaban",
+    "valor": "mayor proporción de IAM con elevación ST"
+  },
+  {
+    "entidad": "pacientes durante la pandemia",
+    "relacion": "tenían",
+    "valor": "mayor tiempo puerta-dispositivo"
+  },
+  {
+    "entidad": "pacientes durante la pandemia",
+    "relacion": "tenían",
+    "valor": "mayor uso de intervención coronaria percutánea primaria"
+  },
+  {
+    "entidad": "pacientes durante la pandemia",
+    "relacion": "tenían",
+    "valor": "mayor frecuencia de shock cardiogénico"
+  },
+  {
+    "entidad": "pacientes durante la pandemia",
+    "relacion": "tenían",
+    "valor": "mayor frecuencia de complicaciones mecánicas"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "causa",
+    "valor": "aumento en la mortalidad cardiovascular"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "afecta a",
+    "valor": "sistemas de salud"
+  },
+  {
+    "entidad": "sistemas de salud",
+    "relacion": "experimentan",
+    "valor": "estrés significativo durante la pandemia"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "recomienda",
+    "valor": "intervención coronaria percutánea como estándar de atención"
+  },
+  {
+    "entidad": "pacientes con enfermedades cardiovasculares",
+    "relacion": "tienen",
+    "valor": "mayor riesgo de enfermedad grave por SARS-CoV-2"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "causa",
+    "valor": "daño colateral a pacientes con enfermedades cardiovasculares"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "caracteriza",
+    "valor": "perfil clínico, tratamiento y resultados de pacientes con IAM durante la pandemia"
+  },
+  {
+    "entidad": "Instituto Nacional del Tórax",
+    "relacion": "es un",
+    "valor": "centro de intervención coronaria percutánea de alto volumen"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "asociado a",
+    "valor": "mayor carga trombótica en pacientes con IAM"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "asociado a",
+    "valor": "menor flujo TIMI tras PCI"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "asociado a",
+    "valor": "aumento en complicaciones mecánicas"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "asociado a",
+    "valor": "aumento en la mortalidad general y cardiovascular"
+  },
+  {
+    "entidad": "pacientes oncológicos",
+    "relacion": "experimentan",
+    "valor": "ansiedad y depresión"
+  },
+  {
+    "entidad": "ansiedad",
+    "relacion": "se asocia con",
+    "valor": "peores resultados clínicos"
+  },
+  {
+    "entidad": "depresión",
+    "relacion": "se asocia con",
+    "valor": "peores resultados clínicos"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen mayor prevalencia de",
+    "valor": "depresión"
+  },
+  {
+    "entidad": "pacientes desempleados",
+    "relacion": "presentan",
+    "valor": "mayor ansiedad"
+  },
+  {
+    "entidad": "pacientes jóvenes",
+    "relacion": "experimentan",
+    "valor": "más ansiedad"
+  },
+  {
+    "entidad": "pacientes mayores",
+    "relacion": "tienen niveles más altos de",
+    "valor": "depresión"
+  },
+  {
+    "entidad": "nivel educativo medio",
+    "relacion": "se relaciona con",
+    "valor": "mayor depresión"
+  },
+  {
+    "entidad": "nivel educativo superior",
+    "relacion": "se relaciona con",
+    "valor": "menor ansiedad"
+  },
+  {
+    "entidad": "estado civil",
+    "relacion": "no muestra diferencias en",
+    "valor": "estado emocional"
+  },
+  {
+    "entidad": "situación laboral activa",
+    "relacion": "se asocia con",
+    "valor": "mejor estado emocional"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "correlaciona negativamente con",
+    "valor": "ansiedad"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "correlaciona positivamente con",
+    "valor": "depresión"
+  },
+  {
+    "entidad": "Instituto Oncológico Fundación Arturo López Pérez",
+    "relacion": "realiza",
+    "valor": "evaluaciones emocionales"
+  },
+  {
+    "entidad": "Hospital Anxiety and Depression Scale (HADS)",
+    "relacion": "evalúa",
+    "valor": "ansiedad y depresión"
+  },
+  {
+    "entidad": "Universidad Autónoma de Chile",
+    "relacion": "financia",
+    "valor": "investigación"
+  },
+  {
+    "entidad": "Gobierno de Chile",
+    "relacion": "financia",
+    "valor": "Fondo Nacional de Desarrollo Científico y Tecnológico (FONDECYT)"
+  },
+  {
+    "entidad": "Hospital San Luis de Buin",
+    "relacion": "realiza",
+    "valor": "atención farmacéutica"
+  },
+  {
+    "entidad": "acenocumarol",
+    "relacion": "es un",
+    "valor": "anticoagulante"
+  },
+  {
+    "entidad": "fibrilación auricular",
+    "relacion": "es una",
+    "valor": "enfermedad"
+  },
+  {
+    "entidad": "atención farmacéutica",
+    "relacion": "mejora",
+    "valor": "calidad del tratamiento"
+  },
+  {
+    "entidad": "pacientes con fibrilación auricular",
+    "relacion": "reciben",
+    "valor": "asesoría farmacéutica"
+  },
+  {
+    "entidad": "Tiempo en Rango Terapéutico (TRT)",
+    "relacion": "es un",
+    "valor": "indicador de calidad de tratamiento"
+  },
+  {
+    "entidad": "TRT",
+    "relacion": "mejora",
+    "valor": "después de atención farmacéutica"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "muestran",
+    "valor": "alta satisfacción con la atención farmacéutica"
+  },
+  {
+    "entidad": "Servicio de Salud Metropolitano Occidente",
+    "relacion": "realiza",
+    "valor": "estudios sobre anticoagulación"
+  },
+  {
+    "entidad": "polifarmacia",
+    "relacion": "aumenta",
+    "valor": "riesgo de reacciones adversas"
+  },
+  {
+    "entidad": "reacciones adversas a medicamentos",
+    "relacion": "son evaluadas por",
+    "valor": "químico farmacéutico"
+  },
+  {
+    "entidad": "químico farmacéutico",
+    "relacion": "realiza",
+    "valor": "asesoría farmacéutica"
+  },
+  {
+    "entidad": "adherencia al tratamiento",
+    "relacion": "mejora",
+    "valor": "con atención farmacéutica"
+  },
+  {
+    "entidad": "pacientes mayores de 60 años",
+    "relacion": "representan",
+    "valor": "75% de casos de fibrilación auricular"
+  },
+  {
+    "entidad": "Hospital San Luis de Buin",
+    "relacion": "tiene",
+    "valor": "pacientes en tratamiento anticoagulante oral"
+  },
+  {
+    "entidad": "TRT promedio",
+    "relacion": "es",
+    "valor": "38,8% en pacientes anticoagulantes"
+  },
+  {
+    "entidad": "actividad cerebro-cerebelar cruzada",
+    "relacion": "facilita",
+    "valor": "diagnóstico de lateralización del lenguaje"
+  },
+  {
+    "entidad": "tareas de lenguaje",
+    "relacion": "deben ser",
+    "valor": "adecuadas para diferentes grupos demográficos"
+  },
+  {
+    "entidad": "resonancia magnética funcional (RMf)",
+    "relacion": "es",
+    "valor": "técnica no invasiva"
+  },
+  {
+    "entidad": "tareas de fluidez verbal",
+    "relacion": "se utilizan para",
+    "valor": "evaluar la lateralización del lenguaje"
+  },
+  {
+    "entidad": "tareas semánticas y fonológicas",
+    "relacion": "son",
+    "valor": "buenas alternativas para pacientes con déficits de lenguaje"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "afecta",
+    "valor": "rendimiento en la tarea de fluidez verbal"
+  },
+  {
+    "entidad": "tareas de RMf",
+    "relacion": "deben evaluar",
+    "valor": "lateralización cerebral del lenguaje"
+  },
+  {
+    "entidad": "combinación de múltiples tareas",
+    "relacion": "asegura",
+    "valor": "activación del circuito responsable del procesamiento del lenguaje"
+  },
+  {
+    "entidad": "técnica de elección",
+    "relacion": "es",
+    "valor": "resonancia magnética funcional (RMf) en el estudio de lesiones encefálicas"
+  },
+  {
+    "entidad": "Comité Ético Científico",
+    "relacion": "aprobó",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "tareas de lenguaje",
+    "relacion": "se diseñaron para",
+    "valor": "evaluar fluidez verbal, procesamiento semántico y fonológico"
+  },
+  {
+    "entidad": "pacientes con tumores cerebrales",
+    "relacion": "requieren",
+    "valor": "evaluación de la lateralidad del lenguaje"
+  },
+  {
+    "entidad": "técnica de RMf",
+    "relacion": "permite",
+    "valor": "establecer relación de lesiones encefálicas con áreas elocuentes"
+  },
+  {
+    "entidad": "tareas de lenguaje",
+    "relacion": "deben activar",
+    "valor": "regiones específicas del proceso lingüístico"
+  },
+  {
+    "entidad": "tareas de fluidez verbal",
+    "relacion": "son",
+    "valor": "complejas para pacientes con alteraciones del lenguaje"
+  },
+  {
+    "entidad": "resonancia magnética funcional (RMf)",
+    "relacion": "se está instaurando como",
+    "valor": "examen rutinario prequirúrgico"
+  },
+  {
+    "entidad": "tareas de lenguaje",
+    "relacion": "deben ser",
+    "valor": "adaptadas cultural y lingüísticamente"
+  },
+  {
+    "entidad": "técnica de RMf",
+    "relacion": "ayuda a",
+    "valor": "diferenciar regiones críticas para el procesamiento del lenguaje"
+  },
+  {
+    "entidad": "patrón de activación CCC",
+    "relacion": "se encontró en",
+    "valor": "tareas semánticas y fonológicas"
+  },
+  {
+    "entidad": "tareas semánticas y fonológicas",
+    "relacion": "son más fáciles de implementar en",
+    "valor": "pacientes con alteraciones de lenguaje"
+  },
+  {
+    "entidad": "cáncer",
+    "relacion": "es",
+    "valor": "la segunda causa de muerte en Chile"
+  },
+  {
+    "entidad": "Ley Nacional de Cáncer de Chile",
+    "relacion": "asegura",
+    "valor": "tratamiento y protección laboral para personas diagnosticadas con cáncer"
+  },
+  {
+    "entidad": "cáncer",
+    "relacion": "causa",
+    "valor": "1,3 millones de muertes en las Américas en 2018"
+  },
+  {
+    "entidad": "Organización Panamericana de la Salud (OPS)",
+    "relacion": "estima",
+    "valor": "40% de los casos de cáncer podrían prevenirse"
+  },
+  {
+    "entidad": "cáncer",
+    "relacion": "impacta",
+    "valor": "más de 2.100 millones de dólares al año en Chile"
+  },
+  {
+    "entidad": "cáncer",
+    "relacion": "representa",
+    "valor": "casi 1% del PIB de Chile"
+  },
+  {
+    "entidad": "cáncer de mama",
+    "relacion": "incrementa",
+    "valor": "la mortalidad conforme aumenta la edad en mujeres chilenas"
+  },
+  {
+    "entidad": "cáncer de próstata",
+    "relacion": "tiene",
+    "valor": "la edad como principal factor de riesgo"
+  },
+  {
+    "entidad": "cáncer de pulmón",
+    "relacion": "asocia",
+    "valor": "el tabaquismo como factor determinante"
+  },
+  {
+    "entidad": "cáncer gástrico",
+    "relacion": "asocia",
+    "valor": "la infección por H. pylori como factor importante"
+  },
+  {
+    "entidad": "cáncer de vesícula biliar",
+    "relacion": "tiene",
+    "valor": "la presencia de cálculos biliares como principal factor de riesgo"
+  },
+  {
+    "entidad": "cáncer",
+    "relacion": "es",
+    "valor": "la segunda causa de muerte en Chile"
+  },
+  {
+    "entidad": "cáncer de estómago",
+    "relacion": "es",
+    "valor": "uno de los cánceres con mayor mortalidad en hombres"
+  },
+  {
+    "entidad": "cáncer de mama",
+    "relacion": "es",
+    "valor": "uno de los cánceres con mayor mortalidad en mujeres"
+  },
+  {
+    "entidad": "cáncer de leucemia",
+    "relacion": "es",
+    "valor": "el más mencionado en medios chilenos"
+  },
+  {
+    "entidad": "cáncer de melanoma",
+    "relacion": "es",
+    "valor": "el segundo más mencionado en medios chilenos"
+  },
+  {
+    "entidad": "cáncer de próstata",
+    "relacion": "es",
+    "valor": "subrepresentado en los medios en comparación con su incidencia"
+  },
+  {
+    "entidad": "cáncer de mama",
+    "relacion": "es",
+    "valor": "subrepresentado en los medios en comparación con su incidencia"
+  },
+  {
+    "entidad": "cáncer de estómago",
+    "relacion": "es",
+    "valor": "bajo en cobertura mediática a pesar de su alta mortalidad"
+  },
+  {
+    "entidad": "cáncer de vesícula biliar",
+    "relacion": "es",
+    "valor": "bajo en cobertura mediática a pesar de su alta mortalidad"
+  },
+  {
+    "entidad": "cáncer",
+    "relacion": "influye",
+    "valor": "en la construcción de la percepción social"
+  },
+  {
+    "entidad": "cáncer",
+    "relacion": "requiere",
+    "valor": "información completa y efectiva en medios de comunicación"
+  },
+  {
+    "entidad": "cáncer",
+    "relacion": "debe",
+    "valor": "ser abordado desde una lógica de prevención y detección temprana"
+  },
+  {
+    "entidad": "infarto agudo del miocardio",
+    "relacion": "es",
+    "valor": "una enfermedad cardiovascular"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "presenta",
+    "valor": "variación estacional en defunciones por infarto agudo del miocardio"
+  },
+  {
+    "entidad": "Dra. Claudia Bambs",
+    "relacion": "recibe apoyo financiero de",
+    "valor": "Centro Avanzado de Enfermedades Crónicas (ACCDiS)"
+  },
+  {
+    "entidad": "Departamento de Salud Pública",
+    "relacion": "pertenece a",
+    "valor": "Pontificia Universidad Católica de Chile"
+  },
+  {
+    "entidad": "mortalidad por infarto agudo del miocardio",
+    "relacion": "se caracteriza por",
+    "valor": "mayor número de defunciones en invierno"
+  },
+  {
+    "entidad": "mortalidad por infarto agudo del miocardio",
+    "relacion": "se caracteriza por",
+    "valor": "menor número de defunciones en verano"
+  },
+  {
+    "entidad": "estacionalidad",
+    "relacion": "refleja",
+    "valor": "interacción entre susceptibilidad individual y factores ambientales"
+  },
+  {
+    "entidad": "temperatura ambiental",
+    "relacion": "afecta",
+    "valor": "morbilidad y mortalidad por enfermedades cardiovasculares"
+  },
+  {
+    "entidad": "contaminación ambiental",
+    "relacion": "se asocia con",
+    "valor": "aumento en el riesgo de infarto agudo del miocardio"
+  },
+  {
+    "entidad": "estrategias preventivas",
+    "relacion": "pueden reducir",
+    "valor": "mortalidad por infarto agudo del miocardio"
+  },
+  {
+    "entidad": "adultos mayores",
+    "relacion": "son un grupo de interés por",
+    "valor": "su limitada capacidad de adaptación a cambios climáticos"
+  },
+  {
+    "entidad": "infecciones respiratorias",
+    "relacion": "se asocian con",
+    "valor": "hospitalizaciones por infarto agudo del miocardio"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "demuestra",
+    "valor": "patrón estacional en defunciones por infarto agudo del miocardio"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "ha sido escasamente investigado en",
+    "valor": "variación estacional de enfermedades cardiovasculares"
+  },
+  {
+    "entidad": "mortalidad por infarto agudo del miocardio",
+    "relacion": "se presenta en",
+    "valor": "un patrón sinusoidal"
+  },
+  {
+    "entidad": "defunciones por infarto agudo del miocardio",
+    "relacion": "se registraron entre",
+    "valor": "2001 y 2016"
+  },
+  {
+    "entidad": "Centro Avanzado de Enfermedades Crónicas (ACCDiS)",
+    "relacion": "financia",
+    "valor": "investigaciones sobre enfermedades cardiovasculares"
+  }
+]

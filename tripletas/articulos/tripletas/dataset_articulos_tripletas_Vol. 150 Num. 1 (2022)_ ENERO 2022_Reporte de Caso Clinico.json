@@ -1,0 +1,262 @@
+[
+  {
+    "entidad": "anticuerpos antiinsulina",
+    "relacion": "causa",
+    "valor": "hipoglucemia hiperinsulinémica"
+  },
+  {
+    "entidad": "síndrome autoinmune de insulina",
+    "relacion": "causa",
+    "valor": "hipoglucemia"
+  },
+  {
+    "entidad": "diabetes mellitus tipo 1",
+    "relacion": "es un",
+    "valor": "tipo de diabetes"
+  },
+  {
+    "entidad": "comas hipoglucémicos recurrentes",
+    "relacion": "son manifestaciones de",
+    "valor": "hipoglucemia hiperinsulinémica"
+  },
+  {
+    "entidad": "cetoacidosis diabética",
+    "relacion": "es una complicación de",
+    "valor": "diabetes mellitus"
+  },
+  {
+    "entidad": "insulina exógena",
+    "relacion": "induce",
+    "valor": "anticuerpos antiinsulina"
+  },
+  {
+    "entidad": "insulina análoga",
+    "relacion": "fue reemplazada por",
+    "valor": "insulina humana recombinante (Gensulin R)"
+  },
+  {
+    "entidad": "prednisona",
+    "relacion": "se utiliza para",
+    "valor": "mejorar síntomas de hipoglucemia"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "tiene",
+    "valor": "45 años"
+  },
+  {
+    "entidad": "insulina",
+    "relacion": "se utiliza en el tratamiento de",
+    "valor": "diabetes mellitus tipo 1"
+  },
+  {
+    "entidad": "insulina",
+    "relacion": "causa",
+    "valor": "resistencia inmunológica"
+  },
+  {
+    "entidad": "insulina",
+    "relacion": "se asocia con",
+    "valor": "síndrome autoinmune de insulina"
+  },
+  {
+    "entidad": "glucosa",
+    "relacion": "se mide en",
+    "valor": "mmol/L"
+  },
+  {
+    "entidad": "hemoglobina glucosilada (HbA1c)",
+    "relacion": "indica",
+    "valor": "control glucémico a largo plazo"
+  },
+  {
+    "entidad": "insulina",
+    "relacion": "se mide junto a",
+    "valor": "péptido C"
+  },
+  {
+    "entidad": "insulina",
+    "relacion": "se asocia con",
+    "valor": "hipoglucemia"
+  },
+  {
+    "entidad": "insulina",
+    "relacion": "se asocia con",
+    "valor": "cetoacidosis diabética"
+  },
+  {
+    "entidad": "Síndrome de Guillain Barré",
+    "relacion": "asociado a",
+    "valor": "vacuna Coronavac"
+  },
+  {
+    "entidad": "mujer de 50 años",
+    "relacion": "tiene antecedente de",
+    "valor": "enfermedad celíaca"
+  },
+  {
+    "entidad": "enfermedad celíaca",
+    "relacion": "aumenta el riesgo de",
+    "valor": "neuropatía"
+  },
+  {
+    "entidad": "vacuna Coronavac",
+    "relacion": "es un tipo de",
+    "valor": "vacuna inactivada de SARS-CoV-2"
+  },
+  {
+    "entidad": "CSF",
+    "relacion": "fue",
+    "valor": "normal"
+  },
+  {
+    "entidad": "estudios electrodiagnósticos",
+    "relacion": "mostraron",
+    "valor": "neuropatía motora axonal"
+  },
+  {
+    "entidad": "inmunoglobulina intravenosa",
+    "relacion": "detuvo",
+    "valor": "progresión de síntomas"
+  },
+  {
+    "entidad": "neurorehabilitación intensiva",
+    "relacion": "fue realizada a",
+    "valor": "la paciente"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "fue dada de alta",
+    "valor": "cinco semanas después"
+  },
+  {
+    "entidad": "SARS-CoV-2",
+    "relacion": "causa",
+    "valor": "COVID-19"
+  },
+  {
+    "entidad": "vacunación masiva",
+    "relacion": "genera",
+    "valor": "desconfianza en la población"
+  },
+  {
+    "entidad": "SGB post vacuna",
+    "relacion": "es un tema",
+    "valor": "controversial"
+  },
+  {
+    "entidad": "evidencia actual",
+    "relacion": "discute",
+    "valor": "causalidad entre GBS y vacunas"
+  },
+  {
+    "entidad": "tetraparesia flácida",
+    "relacion": "es un síntoma de",
+    "valor": "Síndrome de Guillain Barré"
+  },
+  {
+    "entidad": "Comité de Ética Científica",
+    "relacion": "aprobó",
+    "valor": "reporte de caso"
+  },
+  {
+    "entidad": "adenopatías cervicales",
+    "relacion": "aumentan la sospecha de",
+    "valor": "etiologías infecciosas y neoplásicas"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "no presentó",
+    "valor": "signos de alteración del sistema nervioso central"
+  },
+  {
+    "entidad": "exámenes infectológicos",
+    "relacion": "resultaron",
+    "valor": "negativos"
+  },
+  {
+    "entidad": "presentación clínica",
+    "relacion": "es característica de",
+    "valor": "SGB secundario a vacuna"
+  },
+  {
+    "entidad": "Fístula enterovesical (FEV)",
+    "relacion": "es un",
+    "valor": "comunicación entre el intestino y la vejiga"
+  },
+  {
+    "entidad": "Fístula enterovesical (FEV)",
+    "relacion": "causa",
+    "valor": "trastornos metabólicos e hidroelectrolíticos"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "diarrea crónica"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "acidosis metabólica hiperclorémica"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "hipokalemia"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "desarrolla",
+    "valor": "hipernatremia"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "desarrolla",
+    "valor": "hipocalcemia"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "desarrolla",
+    "valor": "hipofosfatemia"
+  },
+  {
+    "entidad": "reparación quirúrgica de FEV",
+    "relacion": "lleva a",
+    "valor": "corrección rápida de diarrea y anormalidades metabólicas"
+  },
+  {
+    "entidad": "diabetes",
+    "relacion": "aumenta",
+    "valor": "riesgo de hiperglicemia en pacientes con FEV"
+  },
+  {
+    "entidad": "Fístula enterovesical (FEV)",
+    "relacion": "predispone a",
+    "valor": "mayor incidencia de infecciones"
+  },
+  {
+    "entidad": "acidosis metabólica",
+    "relacion": "puede ser",
+    "valor": "mixta (metabólica y respiratoria)"
+  },
+  {
+    "entidad": "trastornos hidroelectrolíticos",
+    "relacion": "requieren",
+    "valor": "manejo exhaustivo"
+  },
+  {
+    "entidad": "manejo multidisciplinario",
+    "relacion": "incluye",
+    "valor": "soporte vital y tratamiento de infecciones"
+  },
+  {
+    "entidad": "sangre",
+    "relacion": "contiene",
+    "valor": "urea y creatinina"
+  },
+  {
+    "entidad": "Fístula enterovesical (FEV)",
+    "relacion": "es causada por",
+    "valor": "diverticulitis, carcinoma colorrectal, enfermedad de Crohn, cáncer de vejiga o procedimientos quirúrgicos"
+  }
+]

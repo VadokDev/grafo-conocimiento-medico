@@ -1,0 +1,817 @@
+[
+  {
+    "entidad": "Actividad física",
+    "relacion": "se asocia a",
+    "valor": "sospecha de deterioro cognitivo"
+  },
+  {
+    "entidad": "Tiempo sedente",
+    "relacion": "se asocia a",
+    "valor": "sospecha de deterioro cognitivo"
+  },
+  {
+    "entidad": "Población adulta mayor chilena",
+    "relacion": "es objeto de estudio en",
+    "valor": "investigación sobre deterioro cognitivo"
+  },
+  {
+    "entidad": "Mini-Mental State Examination",
+    "relacion": "se utiliza para",
+    "valor": "diagnosticar deterioro cognitivo"
+  },
+  {
+    "entidad": "Global Physical Activity Questionnaire",
+    "relacion": "se utiliza para",
+    "valor": "evaluar actividad física y tiempo sedente"
+  },
+  {
+    "entidad": "Grupo de investigación elHoc",
+    "relacion": "representa a",
+    "valor": "los autores del estudio"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud",
+    "relacion": "proyecta que",
+    "valor": "la población adulta mayor aumentará"
+  },
+  {
+    "entidad": "Deterioro cognitivo",
+    "relacion": "se asocia a",
+    "valor": "Alzheimer y demencia"
+  },
+  {
+    "entidad": "Estilos de vida saludable",
+    "relacion": "son identificados como",
+    "valor": "factores protectores contra el deterioro cognitivo"
+  },
+  {
+    "entidad": "Inactividad física",
+    "relacion": "es un",
+    "valor": "factor de riesgo para deterioro cognitivo"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud 2009-2010",
+    "relacion": "incorpora",
+    "valor": "análisis de población adulta mayor"
+  },
+  {
+    "entidad": "Comité de Ética de la Escuela de Medicina de la Pontificia Universidad Católica de Chile",
+    "relacion": "aprueba",
+    "valor": "el protocolo de estudio"
+  },
+  {
+    "entidad": "Índice de masa corporal",
+    "relacion": "se utiliza para",
+    "valor": "clasificar el estado nutricional"
+  },
+  {
+    "entidad": "DMT2",
+    "relacion": "es una",
+    "valor": "enfermedad crónica no transmisible"
+  },
+  {
+    "entidad": "Hipertensión arterial",
+    "relacion": "es una",
+    "valor": "enfermedad crónica no transmisible"
+  },
+  {
+    "entidad": "Depresión",
+    "relacion": "es una",
+    "valor": "enfermedad crónica no transmisible"
+  },
+  {
+    "entidad": "Problemas auditivos",
+    "relacion": "son considerados como",
+    "valor": "comorbilidades en el estudio"
+  },
+  {
+    "entidad": "Ejercicio",
+    "relacion": "puede incrementar",
+    "valor": "la capacidad de reserva cognitiva del cerebro"
+  },
+  {
+    "entidad": "Actividad física",
+    "relacion": "favorece",
+    "valor": "la regulación de neurotransmisores"
+  },
+  {
+    "entidad": "Estudio de corte transversal",
+    "relacion": "es el diseño de",
+    "valor": "la investigación"
+  },
+  {
+    "entidad": "Resultados del estudio",
+    "relacion": "indican que",
+    "valor": "altos niveles de actividad física se asocian negativamente con deterioro cognitivo"
+  },
+  {
+    "entidad": "trauma",
+    "relacion": "es",
+    "valor": "la principal causa de muerte entre personas de 5 a 44 años"
+  },
+  {
+    "entidad": "pacientes con trauma grave",
+    "relacion": "son atendidos en",
+    "valor": "Unidad de Cuidados Intensivos"
+  },
+  {
+    "entidad": "Unidad de Cuidados Intensivos",
+    "relacion": "tiene",
+    "valor": "18 camas"
+  },
+  {
+    "entidad": "Complejo Asistencial Dr. Sótero del Río",
+    "relacion": "es",
+    "valor": "un hospital público de alta complejidad"
+  },
+  {
+    "entidad": "Servicio de Urgencia Adulto",
+    "relacion": "pertenece a",
+    "valor": "Complejo Asistencial Dr. Sótero del Río"
+  },
+  {
+    "entidad": "trauma encefalocraneano (TEC)",
+    "relacion": "es",
+    "valor": "un tipo de trauma común en pacientes"
+  },
+  {
+    "entidad": "coagulopatía aguda del trauma (CAT)",
+    "relacion": "se define como",
+    "valor": "TTPK > 34 segundos y/o tiempo de protrombina > 14 segundos"
+  },
+  {
+    "entidad": "APACHEII",
+    "relacion": "es",
+    "valor": "un predictor de mortalidad"
+  },
+  {
+    "entidad": "mortalidad en UCI",
+    "relacion": "fue",
+    "valor": "12.5%"
+  },
+  {
+    "entidad": "mortalidad hospitalaria",
+    "relacion": "fue",
+    "valor": "18.4%"
+  },
+  {
+    "entidad": "transfusiones masivas",
+    "relacion": "se considera",
+    "valor": "10 o más unidades de glóbulos rojos en el primer día"
+  },
+  {
+    "entidad": "hospital",
+    "relacion": "atiende",
+    "valor": "aproximadamente 1.6 millones de habitantes"
+  },
+  {
+    "entidad": "Dra. Carolina Ruiz",
+    "relacion": "es",
+    "valor": "la autora principal del estudio"
+  },
+  {
+    "entidad": "estudio de cohorte",
+    "relacion": "fue realizado en",
+    "valor": "un hospital en Chile"
+  },
+  {
+    "entidad": "mortalidad precoz",
+    "relacion": "correspondió a",
+    "valor": "33%"
+  },
+  {
+    "entidad": "shock hemorrágico",
+    "relacion": "es",
+    "valor": "una complicación asociada a trauma"
+  },
+  {
+    "entidad": "nutrición enteral",
+    "relacion": "fue",
+    "valor": "el principal soporte nutricional"
+  },
+  {
+    "entidad": "trauma penetrante",
+    "relacion": "fue",
+    "valor": "común en la cohorte estudiada"
+  },
+  {
+    "entidad": "hospital",
+    "relacion": "es responsable de",
+    "valor": "la atención del trauma de aproximadamente 10% de la población chilena"
+  },
+  {
+    "entidad": "Biopsia percutánea core",
+    "relacion": "es un",
+    "valor": "método diagnóstico"
+  },
+  {
+    "entidad": "aguja gruesa",
+    "relacion": "se utiliza en",
+    "valor": "biopsia percutánea core"
+  },
+  {
+    "entidad": "tomografía computada",
+    "relacion": "guía",
+    "valor": "biopsia percutánea core"
+  },
+  {
+    "entidad": "lesiones retroperitoneales",
+    "relacion": "son objeto de estudio en",
+    "valor": "biopsia percutánea core"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "realiza",
+    "valor": "biopsias percutáneas core"
+  },
+  {
+    "entidad": "Hospital Clínico de la Universidad Católica",
+    "relacion": "proporciona",
+    "valor": "pacientes para estudio"
+  },
+  {
+    "entidad": "procedimiento",
+    "relacion": "tiene",
+    "valor": "bajo riesgo de complicaciones"
+  },
+  {
+    "entidad": "rendimiento diagnóstico",
+    "relacion": "es evaluado en",
+    "valor": "biopsia percutánea core"
+  },
+  {
+    "entidad": "seguridad del procedimiento",
+    "relacion": "es alta en",
+    "valor": "biopsia percutánea core"
+  },
+  {
+    "entidad": "diagnóstico definitivo",
+    "relacion": "es establecido en",
+    "valor": "la mayoría de los casos"
+  },
+  {
+    "entidad": "complicaciones menores",
+    "relacion": "reportadas son",
+    "valor": "hematomas"
+  },
+  {
+    "entidad": "sensibilidad de la técnica",
+    "relacion": "es",
+    "valor": "alta para malignidad"
+  },
+  {
+    "entidad": "especificidad de la técnica",
+    "relacion": "es",
+    "valor": "100%"
+  },
+  {
+    "entidad": "biopsia quirúrgica",
+    "relacion": "confirma",
+    "valor": "diagnósticos en algunos casos"
+  },
+  {
+    "entidad": "técnica de biopsia",
+    "relacion": "es considerada",
+    "valor": "menos invasiva que la cirugía"
+  },
+  {
+    "entidad": "muestras de tejido",
+    "relacion": "son obtenidas de",
+    "valor": "lesiones retroperitoneales"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "son sometidos a",
+    "valor": "biopsia percutánea core"
+  },
+  {
+    "entidad": "complicaciones mayores",
+    "relacion": "no se presentan en",
+    "valor": "biopsia percutánea core"
+  },
+  {
+    "entidad": "INR capilar",
+    "relacion": "se compara con",
+    "valor": "INR venoso"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "en tratamiento con",
+    "valor": "antagonistas de vitamina K"
+  },
+  {
+    "entidad": "CoaguChek Pro II",
+    "relacion": "se evalúa junto a",
+    "valor": "Xprecia"
+  },
+  {
+    "entidad": "CoaguChek Pro II",
+    "relacion": "se evalúa junto a",
+    "valor": "microINR"
+  },
+  {
+    "entidad": "Xprecia",
+    "relacion": "se compara con",
+    "valor": "INR venoso"
+  },
+  {
+    "entidad": "microINR",
+    "relacion": "se compara con",
+    "valor": "INR venoso"
+  },
+  {
+    "entidad": "INR",
+    "relacion": "se utiliza para",
+    "valor": "monitorear tratamiento con antagonistas de vitamina K"
+  },
+  {
+    "entidad": "dispositivos POC",
+    "relacion": "son",
+    "valor": "reliables para control de tratamiento anticoagulante"
+  },
+  {
+    "entidad": "tromboplastina recombinante humana",
+    "relacion": "se utiliza con",
+    "valor": "INR venoso"
+  },
+  {
+    "entidad": "Servicio de Salud Metropolitano Occidente",
+    "relacion": "utiliza",
+    "valor": "CoaguChek Pro II"
+  },
+  {
+    "entidad": "toma de muestra capilar",
+    "relacion": "se realiza en",
+    "valor": "centros de atención primaria"
+  },
+  {
+    "entidad": "telemedicina",
+    "relacion": "se asocia con",
+    "valor": "control de tratamiento anticoagulante"
+  },
+  {
+    "entidad": "coeficiente de variación",
+    "relacion": "se obtiene para",
+    "valor": "equipos POC"
+  },
+  {
+    "entidad": "equipos POC",
+    "relacion": "requieren",
+    "valor": "capacitación del personal"
+  },
+  {
+    "entidad": "antagonistas de vitamina K",
+    "relacion": "afectan",
+    "valor": "respuesta farmacológica"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "deben ser",
+    "valor": "controlados periódicamente"
+  },
+  {
+    "entidad": "INR venoso",
+    "relacion": "se mide en",
+    "valor": "laboratorios clínicos"
+  },
+  {
+    "entidad": "dispositivos POC",
+    "relacion": "deben tener",
+    "valor": "control de calidad interno"
+  },
+  {
+    "entidad": "Comité Británico de Estándares en Hematología",
+    "relacion": "proporciona",
+    "valor": "recomendaciones para gestión de dispositivos POC"
+  },
+  {
+    "entidad": "muestra capilar",
+    "relacion": "se obtiene a través de",
+    "valor": "punción digital"
+  },
+  {
+    "entidad": "muestra venosa",
+    "relacion": "se recolecta en",
+    "valor": "tubos de citrato de sodio"
+  },
+  {
+    "entidad": "personal de salud",
+    "relacion": "evalúa",
+    "valor": "facilidad de uso de equipos POC"
+  },
+  {
+    "entidad": "equipos Xprecia y microINR",
+    "relacion": "se comparan con",
+    "valor": "CoaguChek Pro II"
+  },
+  {
+    "entidad": "muestra capilar",
+    "relacion": "requiere",
+    "valor": "menor cantidad de sangre que muestra venosa"
+  },
+  {
+    "entidad": "microINR",
+    "relacion": "es considerado",
+    "valor": "más lento que CoaguChek Pro II"
+  },
+  {
+    "entidad": "CoaguChek Pro II",
+    "relacion": "es preferido por",
+    "valor": "100% de los usuarios en comparación con microINR"
+  },
+  {
+    "entidad": "Amiloidosis AL",
+    "relacion": "es un",
+    "valor": "entidad rara y subdiagnosticada"
+  },
+  {
+    "entidad": "Sistema de salud pública de Chile",
+    "relacion": "realiza",
+    "valor": "estudio multicéntrico sobre amiloidosis AL"
+  },
+  {
+    "entidad": "Grupo Cooperativo de Gammapatías Monoclonales de Chile",
+    "relacion": "pertenece a",
+    "valor": "centros de salud pública"
+  },
+  {
+    "entidad": "Pacientes con amiloidosis AL",
+    "relacion": "son caracterizados por",
+    "valor": "características epidemiológicas, clínicas y de laboratorio"
+  },
+  {
+    "entidad": "Amiloidosis AL localizada",
+    "relacion": "afecta a",
+    "valor": "24% de los pacientes"
+  },
+  {
+    "entidad": "Cadena ligera lambda",
+    "relacion": "se presenta en",
+    "valor": "64% de los pacientes"
+  },
+  {
+    "entidad": "Mieloma múltiple",
+    "relacion": "se asocia con",
+    "valor": "47% de los casos"
+  },
+  {
+    "entidad": "Linfoma no Hodgkin",
+    "relacion": "se asocia con",
+    "valor": "9% de los casos"
+  },
+  {
+    "entidad": "Riñón",
+    "relacion": "es el órgano más afectado en",
+    "valor": "76% de los pacientes"
+  },
+  {
+    "entidad": "Cuidado paliativo",
+    "relacion": "recibe",
+    "valor": "17% de los pacientes"
+  },
+  {
+    "entidad": "Bortezomib",
+    "relacion": "es utilizado en",
+    "valor": "17% de los pacientes"
+  },
+  {
+    "entidad": "Talidomida",
+    "relacion": "es utilizada en",
+    "valor": "21% de los pacientes"
+  },
+  {
+    "entidad": "Melfalán",
+    "relacion": "es utilizado en",
+    "valor": "40% de los pacientes"
+  },
+  {
+    "entidad": "Trasplante de médula ósea",
+    "relacion": "no es realizado en",
+    "valor": "ningún paciente"
+  },
+  {
+    "entidad": "Sobrevida global",
+    "relacion": "es de",
+    "valor": "19 meses en el grupo"
+  },
+  {
+    "entidad": "Sobrevida global a 5 años",
+    "relacion": "es de",
+    "valor": "28%"
+  },
+  {
+    "entidad": "Estrategias de diagnóstico",
+    "relacion": "son necesarias para",
+    "valor": "mejorar el manejo de la amiloidosis AL"
+  },
+  {
+    "entidad": "Educación continua",
+    "relacion": "es crucial para",
+    "valor": "evitar subdiagnósticos de amiloidosis AL"
+  },
+  {
+    "entidad": "Fabián Villena",
+    "relacion": "es autor de",
+    "valor": "artículo sobre procesamiento del lenguaje natural"
+  },
+  {
+    "entidad": "Jocelyn Dunstan",
+    "relacion": "es autor de",
+    "valor": "artículo sobre procesamiento del lenguaje natural"
+  },
+  {
+    "entidad": "Centro de Informática Médica y Telemedicina",
+    "relacion": "pertenece a",
+    "valor": "Facultad de Medicina, Universidad de Chile"
+  },
+  {
+    "entidad": "Centro de Modelamiento Matemático",
+    "relacion": "pertenece a",
+    "valor": "Facultad de Ciencias Físicas y Matemáticas, Universidad de Chile"
+  },
+  {
+    "entidad": "procesamiento del lenguaje natural",
+    "relacion": "se aplica a",
+    "valor": "datos masivos de sospecha diagnóstica en Chile"
+  },
+  {
+    "entidad": "algoritmo de frecuencia ponderada",
+    "relacion": "se utiliza para",
+    "valor": "encontrar palabras clave"
+  },
+  {
+    "entidad": "sospecha diagnóstica",
+    "relacion": "se relaciona con",
+    "valor": "especialidades médicas y odontológicas"
+  },
+  {
+    "entidad": "historias clínicas electrónicas",
+    "relacion": "contienen",
+    "valor": "información no estructurada"
+  },
+  {
+    "entidad": "Clasificación Internacional de Enfermedades (CIE)",
+    "relacion": "es un ejemplo de",
+    "valor": "codificación de texto clínico"
+  },
+  {
+    "entidad": "Term Frequency–Inverse Document Frequency (TF-IDF)",
+    "relacion": "es una técnica de",
+    "valor": "recuperación de palabras clave"
+  },
+  {
+    "entidad": "nubes de palabras",
+    "relacion": "se utilizan para",
+    "valor": "visualizar palabras clave"
+  },
+  {
+    "entidad": "SIGTE",
+    "relacion": "es un",
+    "valor": "sistema de gestión de tiempos de espera"
+  },
+  {
+    "entidad": "Ley de Transparencia",
+    "relacion": "se aplica a",
+    "valor": "solicitudes de información a servicios de salud"
+  },
+  {
+    "entidad": "interconsultas",
+    "relacion": "se registran en",
+    "valor": "listas de espera no-GES"
+  },
+  {
+    "entidad": "Python",
+    "relacion": "se utiliza para",
+    "valor": "análisis de datos"
+  },
+  {
+    "entidad": "bibliotecas NumPy, Pandas, Scikit-Learn, NLTK",
+    "relacion": "se utilizan en",
+    "valor": "procesamiento de datos"
+  },
+  {
+    "entidad": "diagnósticos no cubiertos por garantías explícitas de salud",
+    "relacion": "son un enfoque de",
+    "valor": "gestión de listas de espera"
+  },
+  {
+    "entidad": "palabras clave",
+    "relacion": "se determinan a partir de",
+    "valor": "frecuencia ponderada en documentos"
+  },
+  {
+    "entidad": "especialidades médicas y odontológicas",
+    "relacion": "se analizan en",
+    "valor": "listas de espera"
+  },
+  {
+    "entidad": "datos no estructurados",
+    "relacion": "son un desafío para",
+    "valor": "análisis de salud"
+  },
+  {
+    "entidad": "escala APGAR-familiar",
+    "relacion": "evalúa",
+    "valor": "funcionamiento familiar"
+  },
+  {
+    "entidad": "personas mayores chilenas",
+    "relacion": "residen en",
+    "valor": "zonas rurales multiétnicas"
+  },
+  {
+    "entidad": "escala APGAR-familiar",
+    "relacion": "es utilizada en",
+    "valor": "atención primaria en salud"
+  },
+  {
+    "entidad": "funcionamiento familiar",
+    "relacion": "afecta",
+    "valor": "bienestar de las personas mayores"
+  },
+  {
+    "entidad": "funcionamiento familiar",
+    "relacion": "se relaciona con",
+    "valor": "salud mental"
+  },
+  {
+    "entidad": "funcionamiento familiar",
+    "relacion": "previene",
+    "valor": "sentimientos de soledad"
+  },
+  {
+    "entidad": "funcionamiento familiar",
+    "relacion": "incrementa",
+    "valor": "calidad de vida"
+  },
+  {
+    "entidad": "familias que dan apoyo y afecto",
+    "relacion": "propician",
+    "valor": "bienestar en las personas mayores"
+  },
+  {
+    "entidad": "soledad",
+    "relacion": "se vincula con",
+    "valor": "disfuncionalidad familiar"
+  },
+  {
+    "entidad": "escala APGAR-familiar",
+    "relacion": "ha sido validada en",
+    "valor": "población adulta"
+  },
+  {
+    "entidad": "escala APGAR-familiar",
+    "relacion": "ha sido validada en",
+    "valor": "personas mayores"
+  },
+  {
+    "entidad": "escala de soledad",
+    "relacion": "evalúa",
+    "valor": "percepción subjetiva de aislamiento"
+  },
+  {
+    "entidad": "Índice de bienestar personal",
+    "relacion": "evalúa",
+    "valor": "bienestar o satisfacción global"
+  },
+  {
+    "entidad": "proyecto FONDECYT Regular 1170493",
+    "relacion": "financia",
+    "valor": "investigación sobre envejecimiento"
+  },
+  {
+    "entidad": "Comisión Nacional de Investigación Científica (CONICYT)",
+    "relacion": "apoya",
+    "valor": "proyectos de investigación"
+  },
+  {
+    "entidad": "funcionalidad familiar",
+    "relacion": "es reconocida como",
+    "valor": "favorable en procesos de recuperación de salud"
+  },
+  {
+    "entidad": "escala APGAR-familiar",
+    "relacion": "proporciona",
+    "valor": "evidencias psicométricas"
+  },
+  {
+    "entidad": "escala APGAR-familiar",
+    "relacion": "es adecuada para",
+    "valor": "evaluar funcionamiento familiar"
+  },
+  {
+    "entidad": "personas mayores de zonas rurales e indígenas",
+    "relacion": "son evaluadas por",
+    "valor": "escala APGAR-familiar"
+  },
+  {
+    "entidad": "síndrome de apnea obstructiva del sueño (SAHOS)",
+    "relacion": "es un",
+    "valor": "trastorno respiratorio del sueño"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen",
+    "valor": "menor probabilidad de recibir diagnóstico adecuado de SAHOS"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "reportan",
+    "valor": "mayor frecuencia de insomnio y depresión"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "reportan",
+    "valor": "mayor frecuencia de apneas presenciadas"
+  },
+  {
+    "entidad": "cuestionarios de sueño",
+    "relacion": "son utilizados para",
+    "valor": "evaluar riesgo de SAHOS"
+  },
+  {
+    "entidad": "cuestionario de Berlín",
+    "relacion": "evalúa",
+    "valor": "riesgo de SAHOS"
+  },
+  {
+    "entidad": "escala de somnolencia de Epworth",
+    "relacion": "mide",
+    "valor": "probabilidad de somnolencia diurna"
+  },
+  {
+    "entidad": "índice de Flemons",
+    "relacion": "es un",
+    "valor": "predictor clínico de SAHOS"
+  },
+  {
+    "entidad": "STOP-Bang",
+    "relacion": "es un",
+    "valor": "cuestionario para detectar SAHOS"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "es un factor de riesgo para",
+    "valor": "SAHOS en ambos sexos"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "aumenta",
+    "valor": "el riesgo de SAHOS"
+  },
+  {
+    "entidad": "síntomas inespecíficos",
+    "relacion": "dificultan",
+    "valor": "diagnóstico de SAHOS en mujeres"
+  },
+  {
+    "entidad": "menopausia",
+    "relacion": "aumenta",
+    "valor": "la prevalencia de SAHOS en mujeres"
+  },
+  {
+    "entidad": "comorbilidades",
+    "relacion": "son más frecuentes en",
+    "valor": "mujeres con SAHOS"
+  },
+  {
+    "entidad": "cuestionarios de sueño",
+    "relacion": "tienen rendimiento",
+    "valor": "similar en ambos sexos"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "reportan",
+    "valor": "mayor somnolencia diurna excesiva"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "reportan",
+    "valor": "mayor frecuencia de ronquidos"
+  },
+  {
+    "entidad": "cuestionario STOP",
+    "relacion": "es más sensible en",
+    "valor": "la detección de SAHOS"
+  },
+  {
+    "entidad": "cuestionario STOP-Bang",
+    "relacion": "es más específico en",
+    "valor": "la detección de SAHOS"
+  },
+  {
+    "entidad": "síndrome de apnea-hipopnea obstructiva del sueño (SAHOS)",
+    "relacion": "es más prevalente en",
+    "valor": "hombres en edad media"
+  },
+  {
+    "entidad": "síndrome de apnea-hipopnea obstructiva del sueño (SAHOS)",
+    "relacion": "es menos reportado en",
+    "valor": "mujeres"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen",
+    "valor": "mayor obesidad que hombres con SAHOS"
+  }
+]

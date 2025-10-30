@@ -1,0 +1,662 @@
+[
+  {
+    "entidad": "Capacidad física",
+    "relacion": "es un",
+    "valor": "factor protector de funciones atencionales"
+  },
+  {
+    "entidad": "Reserva cognitiva",
+    "relacion": "es un",
+    "valor": "factor protector de funciones atencionales"
+  },
+  {
+    "entidad": "Alzheimer",
+    "relacion": "contribuye a",
+    "valor": "déficits de atención"
+  },
+  {
+    "entidad": "Deterioro Cognitivo Leve (DCL)",
+    "relacion": "es un",
+    "valor": "estado cognitivo transicional"
+  },
+  {
+    "entidad": "DCL",
+    "relacion": "presenta mayor riesgo de",
+    "valor": "progresión a la enfermedad de Alzheimer"
+  },
+  {
+    "entidad": "Atención",
+    "relacion": "es un",
+    "valor": "mecanismo de control central en el procesamiento cognitivo"
+  },
+  {
+    "entidad": "Actividad física",
+    "relacion": "se asocia a",
+    "valor": "envejecimiento cognitivo saludable"
+  },
+  {
+    "entidad": "Reserva cognitiva",
+    "relacion": "puede constituir",
+    "valor": "un factor protector frente a la manifestación clínica de la EA"
+  },
+  {
+    "entidad": "Estimulación cognitiva",
+    "relacion": "es considerada",
+    "valor": "una actividad necesaria para fortalecer conexiones neurales"
+  },
+  {
+    "entidad": "Attention Network Test (ANT)",
+    "relacion": "es utilizado para",
+    "valor": "evaluar redes atencionales"
+  },
+  {
+    "entidad": "Grupo Artrosis",
+    "relacion": "participa en",
+    "valor": "talleres de actividad física terapéutica"
+  },
+  {
+    "entidad": "Grupo Actividad Física",
+    "relacion": "está formado por",
+    "valor": "personas que realizan actividad física permanente"
+  },
+  {
+    "entidad": "Grupo Comunidad",
+    "relacion": "está integrado por",
+    "valor": "personas que no realizan actividad física habitualmente"
+  },
+  {
+    "entidad": "Comité de ética de la Universidad Autónoma de Chile",
+    "relacion": "aproba",
+    "valor": "la investigación"
+  },
+  {
+    "entidad": "Actividad física",
+    "relacion": "puede mejorar",
+    "valor": "la plasticidad cerebral"
+  },
+  {
+    "entidad": "Ejercicio físico",
+    "relacion": "favorece",
+    "valor": "el funcionamiento atencional"
+  },
+  {
+    "entidad": "Actividad física",
+    "relacion": "es un componente habitual en",
+    "valor": "programas de promoción de salud en adultos mayores"
+  },
+  {
+    "entidad": "Cognición",
+    "relacion": "es inseparable de",
+    "valor": "la locomoción y la actividad física"
+  },
+  {
+    "entidad": "Helicobacter pylori",
+    "relacion": "es",
+    "valor": "la infección crónica más extendida a nivel mundial"
+  },
+  {
+    "entidad": "Helicobacter pylori",
+    "relacion": "afecta a",
+    "valor": "50% de la población"
+  },
+  {
+    "entidad": "Helicobacter pylori",
+    "relacion": "es",
+    "valor": "el factor etiopatogénico más importante de cáncer gástrico"
+  },
+  {
+    "entidad": "cáncer gástrico",
+    "relacion": "es",
+    "valor": "la primera causa de muerte por cáncer en hombres en Chile"
+  },
+  {
+    "entidad": "cáncer gástrico",
+    "relacion": "es",
+    "valor": "la tercera causa de muerte por cáncer en mujeres en Chile"
+  },
+  {
+    "entidad": "Hospital Clínico Universidad de Chile",
+    "relacion": "realizó",
+    "valor": "un estudio sobre la prevalencia de Helicobacter pylori"
+  },
+  {
+    "entidad": "prevalencia de Helicobacter pylori",
+    "relacion": "disminuyó de",
+    "valor": "44.9% a 28.9% en 11 años"
+  },
+  {
+    "entidad": "test de ureasa rápido",
+    "relacion": "se utiliza para",
+    "valor": "detectar infección por Helicobacter pylori"
+  },
+  {
+    "entidad": "endoscopía digestiva alta",
+    "relacion": "es",
+    "valor": "el procedimiento en el que se estudia la infección por Helicobacter pylori"
+  },
+  {
+    "entidad": "gastropatía nodular",
+    "relacion": "tiene",
+    "valor": "una relación positiva significativa con la infección por Helicobacter pylori"
+  },
+  {
+    "entidad": "úlcera gástrica",
+    "relacion": "tiene",
+    "valor": "una relación positiva significativa con la infección por Helicobacter pylori"
+  },
+  {
+    "entidad": "úlcera duodenal",
+    "relacion": "tiene",
+    "valor": "una relación positiva significativa con la infección por Helicobacter pylori"
+  },
+  {
+    "entidad": "duodenopatía erosiva",
+    "relacion": "tiene",
+    "valor": "una relación positiva significativa con la infección por Helicobacter pylori"
+  },
+  {
+    "entidad": "gastropatía erosiva",
+    "relacion": "tiene",
+    "valor": "una relación positiva significativa con la infección por Helicobacter pylori"
+  },
+  {
+    "entidad": "pólipos gástricos",
+    "relacion": "se asocia a",
+    "valor": "menor frecuencia de infección por Helicobacter pylori"
+  },
+  {
+    "entidad": "cirrosis",
+    "relacion": "se asocia a",
+    "valor": "menor frecuencia de infección por Helicobacter pylori"
+  },
+  {
+    "entidad": "inhibidores de la bomba de protones",
+    "relacion": "pueden causar",
+    "valor": "resultados falsos negativos en la detección de Helicobacter pylori"
+  },
+  {
+    "entidad": "biopsia gástrica",
+    "relacion": "se utiliza para",
+    "valor": "confirmar la infección por Helicobacter pylori"
+  },
+  {
+    "entidad": "mortalidad por cáncer gástrico",
+    "relacion": "disminuyó de",
+    "valor": "16.9 por 100.000 habitantes a 12.9 por 100.000 habitantes en Santiago"
+  },
+  {
+    "entidad": "erradicación de Helicobacter pylori",
+    "relacion": "es recomendada para",
+    "valor": "prevención primaria del cáncer gástrico"
+  },
+  {
+    "entidad": "Fernando González Fuenzalida",
+    "relacion": "es autor de",
+    "valor": "El sinsabor que deja el mejor año en la donación de órganos para trasplante en Chile"
+  },
+  {
+    "entidad": "Francisca González Cohens",
+    "relacion": "es autor de",
+    "valor": "El sinsabor que deja el mejor año en la donación de órganos para trasplante en Chile"
+  },
+  {
+    "entidad": "Hospital del Salvador",
+    "relacion": "pertenece a",
+    "valor": "Universidad de Chile"
+  },
+  {
+    "entidad": "Universidad de Chile",
+    "relacion": "está en",
+    "valor": "Santiago, Chile"
+  },
+  {
+    "entidad": "MINSAL",
+    "relacion": "fortalece",
+    "valor": "equipos de procuramiento a nivel nacional"
+  },
+  {
+    "entidad": "MINSAL",
+    "relacion": "genera",
+    "valor": "orientaciones técnicas para donación de órganos"
+  },
+  {
+    "entidad": "Organización Nacional de Trasplantes (ONT)",
+    "relacion": "es modelo de",
+    "valor": "coordinación de donación en España"
+  },
+  {
+    "entidad": "Coordinadora Nacional de Trasplantes (CNT)",
+    "relacion": "depende de",
+    "valor": "Subsecretaría de Redes Asistenciales del MINSAL"
+  },
+  {
+    "entidad": "donantes efectivos (DE)",
+    "relacion": "aumentan en",
+    "valor": "el período 2013-2017"
+  },
+  {
+    "entidad": "tasa de negativa familiar (TNF)",
+    "relacion": "afecta a",
+    "valor": "la donación de órganos"
+  },
+  {
+    "entidad": "campañas de TV",
+    "relacion": "aumentan",
+    "valor": "la tasa de donación"
+  },
+  {
+    "entidad": "donación de órganos",
+    "relacion": "proporciona",
+    "valor": "beneficio de supervivencia a pacientes con insuficiencias terminales"
+  },
+  {
+    "entidad": "proceso de obtención de donantes",
+    "relacion": "es",
+    "valor": "largo y complejo"
+  },
+  {
+    "entidad": "familia",
+    "relacion": "autoriza",
+    "valor": "la donación de órganos"
+  },
+  {
+    "entidad": "confianza de la población",
+    "relacion": "influye en",
+    "valor": "la disposición a donar"
+  },
+  {
+    "entidad": "campañas comunicacionales",
+    "relacion": "deben profundizarse para",
+    "valor": "disminuir la negativa familiar a donar órganos"
+  },
+  {
+    "entidad": "tecnologías de la información",
+    "relacion": "deben ser incorporadas para",
+    "valor": "mejorar la detección y gestión de donantes"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "tiene",
+    "valor": "alta tasa de negativa familiar a la donación"
+  },
+  {
+    "entidad": "donación efectiva en Latinoamérica",
+    "relacion": "es",
+    "valor": "10 pmp"
+  },
+  {
+    "entidad": "donación efectiva en inmigrantes en España",
+    "relacion": "es",
+    "valor": "55,8 pmp"
+  },
+  {
+    "entidad": "Estimulación cerebral profunda",
+    "relacion": "es un",
+    "valor": "herramienta terapéutica en enfermedad de Parkinson"
+  },
+  {
+    "entidad": "Enfermedad de Parkinson",
+    "relacion": "afecta a",
+    "valor": "pacientes con complicaciones motoras"
+  },
+  {
+    "entidad": "núcleo subtalámico",
+    "relacion": "es un",
+    "valor": "blanco de estimulación en ECP"
+  },
+  {
+    "entidad": "Clínica Alemana de Santiago",
+    "relacion": "realiza",
+    "valor": "implantaciones de electrodos de ECP"
+  },
+  {
+    "entidad": "micro-electrodo guiado",
+    "relacion": "se utiliza en",
+    "valor": "estimulación del núcleo subtalámico"
+  },
+  {
+    "entidad": "levodopa",
+    "relacion": "se reduce en",
+    "valor": "dosis necesarias para control de síntomas motores"
+  },
+  {
+    "entidad": "pacientes con enfermedad de Parkinson idiopática",
+    "relacion": "son tratados con",
+    "valor": "estimulación cerebral profunda"
+  },
+  {
+    "entidad": "complicaciones motoras",
+    "relacion": "son controladas por",
+    "valor": "estimulación del núcleo subtalámico"
+  },
+  {
+    "entidad": "Carolina Kunstmann",
+    "relacion": "es un",
+    "valor": "autor del artículo"
+  },
+  {
+    "entidad": "Centro de Trastornos del Movimiento CETRAM",
+    "relacion": "es parte de",
+    "valor": "Universidad de Santiago de Chile"
+  },
+  {
+    "entidad": "evaluación de calidad de vida",
+    "relacion": "se mide con",
+    "valor": "Parkinson’s Disease Questionnaire 39"
+  },
+  {
+    "entidad": "cirugía de estimulación cerebral profunda",
+    "relacion": "tiene",
+    "valor": "buenos resultados inmediatos y a largo plazo"
+  },
+  {
+    "entidad": "pacientes jóvenes",
+    "relacion": "se benefician más de",
+    "valor": "cirugía de estimulación cerebral profunda"
+  },
+  {
+    "entidad": "sistema de neuronavegación",
+    "relacion": "se utiliza para",
+    "valor": "definir trayectoria y profundidad del electrodo"
+  },
+  {
+    "entidad": "eventos adversos quirúrgicos",
+    "relacion": "incluyen",
+    "valor": "neumoencéfalo y trombosis venosa"
+  },
+  {
+    "entidad": "electrodos de conexión",
+    "relacion": "requieren",
+    "valor": "tratamiento antibiótico en caso de infección tardía"
+  },
+  {
+    "entidad": "técnica estereotáctica",
+    "relacion": "se utiliza en",
+    "valor": "implantación de electrodos en el núcleo subtalámico"
+  },
+  {
+    "entidad": "inactividad física",
+    "relacion": "asocia a",
+    "valor": "mayores niveles de obesidad"
+  },
+  {
+    "entidad": "inactividad física",
+    "relacion": "asocia a",
+    "valor": "mayores niveles de diabetes"
+  },
+  {
+    "entidad": "inactividad física",
+    "relacion": "asocia a",
+    "valor": "mayores niveles de hipertensión"
+  },
+  {
+    "entidad": "inactividad física",
+    "relacion": "asocia a",
+    "valor": "mayores niveles de síndrome metabólico"
+  },
+  {
+    "entidad": "población chilena",
+    "relacion": "presenta",
+    "valor": "niveles de inactividad física"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "es un",
+    "valor": "factor de riesgo cardiovascular"
+  },
+  {
+    "entidad": "diabetes tipo 2",
+    "relacion": "es un",
+    "valor": "factor de riesgo cardiovascular"
+  },
+  {
+    "entidad": "hipertensión",
+    "relacion": "es un",
+    "valor": "factor de riesgo cardiovascular"
+  },
+  {
+    "entidad": "síndrome metabólico",
+    "relacion": "es un",
+    "valor": "factor de riesgo cardiovascular"
+  },
+  {
+    "entidad": "recomendaciones de actividad física",
+    "relacion": "no cumplir con",
+    "valor": "aumenta la probabilidad de obesidad"
+  },
+  {
+    "entidad": "recomendaciones de actividad física",
+    "relacion": "no cumplir con",
+    "valor": "aumenta la probabilidad de diabetes"
+  },
+  {
+    "entidad": "recomendaciones de actividad física",
+    "relacion": "no cumplir con",
+    "valor": "aumenta la probabilidad de hipertensión"
+  },
+  {
+    "entidad": "recomendaciones de actividad física",
+    "relacion": "no cumplir con",
+    "valor": "aumenta la probabilidad de síndrome metabólico"
+  },
+  {
+    "entidad": "Grupo de Investigación e LHoC",
+    "relacion": "investiga",
+    "valor": "la asociación entre inactividad física y salud metabólica"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud 2009-2010",
+    "relacion": "proporciona",
+    "valor": "datos sobre actividad física en Chile"
+  },
+  {
+    "entidad": "estrógenos",
+    "relacion": "tienen un efecto",
+    "valor": "protector sobre la salud cardiovascular en mujeres"
+  },
+  {
+    "entidad": "Helicobacter pylori",
+    "relacion": "es un",
+    "valor": "patógeno significativo asociado a enfermedades gástricas"
+  },
+  {
+    "entidad": "cepas cagA-positivo",
+    "relacion": "tienen",
+    "valor": "peores resultados que cepas cagA-negativo"
+  },
+  {
+    "entidad": "pacientes infectados con cepas cagA-positivo",
+    "relacion": "tienen",
+    "valor": "mayor riesgo de desarrollar cáncer gástrico"
+  },
+  {
+    "entidad": "nested-qPCR",
+    "relacion": "es un",
+    "valor": "método no invasivo para determinar la presencia de H. pylori"
+  },
+  {
+    "entidad": "muestras fecales",
+    "relacion": "son analizadas por",
+    "valor": "nested-qPCR para el gen ureC"
+  },
+  {
+    "entidad": "histología-Giemsa",
+    "relacion": "es un",
+    "valor": "método de referencia para detectar H. pylori"
+  },
+  {
+    "entidad": "CagA",
+    "relacion": "es una",
+    "valor": "oncoproteína asociada a la virulencia de H. pylori"
+  },
+  {
+    "entidad": "isla de patogenicidad cag (cagPAI)",
+    "relacion": "codifica",
+    "valor": "la oncoproteína CagA"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud",
+    "relacion": "clasificó",
+    "valor": "H. pylori como carcinógeno tipo I"
+  },
+  {
+    "entidad": "método diagnóstico",
+    "relacion": "ha sido desarrollado por",
+    "valor": "el laboratorio de Biología Molecular y Celular del Cáncer"
+  },
+  {
+    "entidad": "protocolo diagnóstico",
+    "relacion": "tiene",
+    "valor": "una solicitud de patente en INAPI"
+  },
+  {
+    "entidad": "pacientes sintomáticos digestivos",
+    "relacion": "fueron evaluados en",
+    "valor": "la región de Coquimbo"
+  },
+  {
+    "entidad": "Comité de Bioética del Servicio Salud Coquimbo",
+    "relacion": "aprobó",
+    "valor": "el protocolo del estudio"
+  },
+  {
+    "entidad": "técnica nested-qPCR",
+    "relacion": "tiene",
+    "valor": "alta sensibilidad y especificidad"
+  },
+  {
+    "entidad": "proyecto FONIS SA16I0230",
+    "relacion": "incorpora",
+    "valor": "otros genes asociados a virulencia"
+  },
+  {
+    "entidad": "determinación de infección",
+    "relacion": "tiene un costo aproximado de",
+    "valor": "$10.000 chilenos"
+  },
+  {
+    "entidad": "Universidad Católica del Norte",
+    "relacion": "es un",
+    "valor": "centro de investigación en Coquimbo, Chile"
+  },
+  {
+    "entidad": "Instituto Nacional del Cáncer",
+    "relacion": "pertenece a",
+    "valor": "Departamento de Salud Pública y Epidemiología, Universidad de los Andes"
+  },
+  {
+    "entidad": "cáncer de cabeza y cuello",
+    "relacion": "afecta",
+    "valor": "parámetros estéticos y anatómicos"
+  },
+  {
+    "entidad": "cáncer de cabeza y cuello",
+    "relacion": "causa",
+    "valor": "dolor y funcionalidad reducida"
+  },
+  {
+    "entidad": "cáncer de cabeza y cuello",
+    "relacion": "afecta",
+    "valor": "funciones vitales como comer y respirar"
+  },
+  {
+    "entidad": "cuestionario EORTC-QLQ-C30",
+    "relacion": "evalúa",
+    "valor": "calidad de vida de pacientes con cáncer de cabeza y cuello"
+  },
+  {
+    "entidad": "cuestionario QLQ-H&N35",
+    "relacion": "es un",
+    "valor": "módulo suplementario del EORTC-QLQ-C30"
+  },
+  {
+    "entidad": "cuestionario QLQ-H&N35",
+    "relacion": "se utiliza para",
+    "valor": "evaluar calidad de vida en pacientes con cáncer de cabeza y cuello"
+  },
+  {
+    "entidad": "Instituto Nacional del Cáncer",
+    "relacion": "realiza",
+    "valor": "validación estadística del cuestionario QLQ-H&N35"
+  },
+  {
+    "entidad": "cáncer de cabeza y cuello",
+    "relacion": "se subdivide en",
+    "valor": "cáncer de cavidad oral, faringe, laringe, glándulas salivales, fosas nasales y senos paranasales"
+  },
+  {
+    "entidad": "carcinoma espinocelular",
+    "relacion": "es el",
+    "valor": "tipo histológico más frecuente en cáncer de cabeza y cuello"
+  },
+  {
+    "entidad": "alcohol y tabaco",
+    "relacion": "son",
+    "valor": "factores de riesgo relevantes para cáncer de cabeza y cuello"
+  },
+  {
+    "entidad": "cáncer de cabeza y cuello",
+    "relacion": "tiene una incidencia",
+    "valor": "variable según la región en Chile"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "es una medida que",
+    "valor": "relaciona la percepción del paciente frente a su salud o enfermedad"
+  },
+  {
+    "entidad": "cuestionarios",
+    "relacion": "se utilizan para",
+    "valor": "evaluar la calidad de vida en salud"
+  },
+  {
+    "entidad": "Organización Europea para Investigación y Tratamiento del Cáncer (EORTC)",
+    "relacion": "desarrolla",
+    "valor": "cuestionarios específicos de calidad de vida"
+  },
+  {
+    "entidad": "cuestionario QLQ-H&N35",
+    "relacion": "ha sido traducido a",
+    "valor": "su versión en español"
+  },
+  {
+    "entidad": "cuestionario QLQ-H&N35",
+    "relacion": "no ha sido validado",
+    "valor": "estadísticamente en Chile"
+  },
+  {
+    "entidad": "Comité de Ética del Servicio de Salud Metropolitano Norte",
+    "relacion": "aprueba",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "cuestionario QLQ-C30",
+    "relacion": "se aplica junto con",
+    "valor": "la encuesta SF-36"
+  },
+  {
+    "entidad": "cuestionario QLQ-H&N35",
+    "relacion": "tiene una confiabilidad",
+    "valor": "de 94,77%"
+  },
+  {
+    "entidad": "curva ROC",
+    "relacion": "se utiliza para",
+    "valor": "evaluar la validez del cuestionario QLQ-H&N35"
+  },
+  {
+    "entidad": "capacidad de discriminación",
+    "relacion": "del cuestionario QLQ-H&N35",
+    "valor": "es de 74,2%"
+  },
+  {
+    "entidad": "cuestionario QLQ-H&N35",
+    "relacion": "es útil para",
+    "valor": "pesquisar la calidad de vida de los pacientes"
+  },
+  {
+    "entidad": "pacientes con cáncer de cabeza y cuello",
+    "relacion": "son el",
+    "valor": "principal objetivo de la aplicación del cuestionario"
+  }
+]

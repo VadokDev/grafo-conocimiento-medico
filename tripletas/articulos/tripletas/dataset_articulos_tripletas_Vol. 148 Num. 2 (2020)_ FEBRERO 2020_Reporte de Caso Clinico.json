@@ -1,0 +1,207 @@
+[
+  {
+    "entidad": "Hipofisitis linfocitaria primaria",
+    "relacion": "es un",
+    "valor": "enfermedad autoinmune"
+  },
+  {
+    "entidad": "Hipofisitis linfocitaria primaria",
+    "relacion": "caracterizada por",
+    "valor": "infiltración linfocitaria de la hipófisis"
+  },
+  {
+    "entidad": "Hipofisitis linfocitaria primaria",
+    "relacion": "afecta a",
+    "valor": "mujeres durante el embarazo y el postparto"
+  },
+  {
+    "entidad": "Hipofisitis linfocitaria primaria",
+    "relacion": "causa",
+    "valor": "destrucción glandular y síntomas neurológicos"
+  },
+  {
+    "entidad": "Prednisona",
+    "relacion": "es un",
+    "valor": "tratamiento para hipofisitis linfocitaria primaria"
+  },
+  {
+    "entidad": "Paciente",
+    "relacion": "presenta",
+    "valor": "cefalea y alteración visual"
+  },
+  {
+    "entidad": "Resonancia magnética",
+    "relacion": "utilizada para",
+    "valor": "diagnosticar hipofisitis linfocitaria primaria"
+  },
+  {
+    "entidad": "Hipopituitarismo",
+    "relacion": "es un",
+    "valor": "síntoma de hipofisitis linfocitaria primaria"
+  },
+  {
+    "entidad": "Terapia hormonal de reemplazo",
+    "relacion": "es un",
+    "valor": "tratamiento para hipopituitarismo"
+  },
+  {
+    "entidad": "Tamaño de la hipófisis",
+    "relacion": "disminuye tras",
+    "valor": "tratamiento con prednisona"
+  },
+  {
+    "entidad": "Insuficiencia suprarrenal",
+    "relacion": "puede desarrollarse tras",
+    "valor": "suspensión de corticoides"
+  },
+  {
+    "entidad": "AHL",
+    "relacion": "es un tipo de",
+    "valor": "hipofisitis linfocitaria primaria"
+  },
+  {
+    "entidad": "INHL",
+    "relacion": "es un tipo de",
+    "valor": "hipofisitis linfocitaria primaria"
+  },
+  {
+    "entidad": "PHL",
+    "relacion": "es un tipo de",
+    "valor": "hipofisitis linfocitaria primaria"
+  },
+  {
+    "entidad": "Corticoides",
+    "relacion": "son utilizados como",
+    "valor": "tratamiento de primera línea"
+  },
+  {
+    "entidad": "Tratamiento quirúrgico",
+    "relacion": "se reserva para",
+    "valor": "síntomas compresivos significativos"
+  },
+  {
+    "entidad": "Anticuerpos antipituitarios",
+    "relacion": "son detectados en",
+    "valor": "pacientes con hipofisitis linfocitaria primaria"
+  },
+  {
+    "entidad": "Glucocorticoides",
+    "relacion": "son la terapia de",
+    "valor": "primera línea para hipofisitis"
+  },
+  {
+    "entidad": "Azatioprina",
+    "relacion": "es un",
+    "valor": "tratamiento de segunda línea"
+  },
+  {
+    "entidad": "Metotrexato",
+    "relacion": "es un",
+    "valor": "tratamiento de segunda línea"
+  },
+  {
+    "entidad": "Ciclosporina-A",
+    "relacion": "es un",
+    "valor": "tratamiento de segunda línea"
+  },
+  {
+    "entidad": "Rituximab",
+    "relacion": "es un",
+    "valor": "tratamiento de tercera línea"
+  },
+  {
+    "entidad": "Infliximab",
+    "relacion": "es un",
+    "valor": "tratamiento de tercera línea"
+  },
+  {
+    "entidad": "Seguimiento de pacientes",
+    "relacion": "muestra que",
+    "valor": "73% requiere reemplazo hormonal permanente"
+  },
+  {
+    "entidad": "Hipoxemia recurrente",
+    "relacion": "es causada por",
+    "valor": "foramen oval permeable"
+  },
+  {
+    "entidad": "Foramen oval permeable",
+    "relacion": "es un",
+    "valor": "defecto septal congénito"
+  },
+  {
+    "entidad": "Foramen oval permeable",
+    "relacion": "puede desencadenar",
+    "valor": "síndrome de platipnea-ortodeoxia"
+  },
+  {
+    "entidad": "síndrome de platipnea-ortodeoxia",
+    "relacion": "se caracteriza por",
+    "valor": "disnea e hipoxemia en posición de pie"
+  },
+  {
+    "entidad": "mujer de 73 años",
+    "relacion": "presenta",
+    "valor": "disnea y baja saturación de oxígeno"
+  },
+  {
+    "entidad": "saturación de oxígeno",
+    "relacion": "es",
+    "valor": "81%"
+  },
+  {
+    "entidad": "cierre percutáneo",
+    "relacion": "es el tratamiento de elección para",
+    "valor": "foramen oval permeable"
+  },
+  {
+    "entidad": "ecocardiograma transesofágico",
+    "relacion": "muestra",
+    "valor": "presencia de foramen oval permeable"
+  },
+  {
+    "entidad": "oxígeno al 100%",
+    "relacion": "mejora",
+    "valor": "saturación de oxígeno"
+  },
+  {
+    "entidad": "saturación de oxígeno",
+    "relacion": "después del cierre percutáneo",
+    "valor": "99%"
+  },
+  {
+    "entidad": "síndrome de platipnea-ortodeoxia",
+    "relacion": "es causado por",
+    "valor": "mezcla de sangre desoxigenada y oxigenada"
+  },
+  {
+    "entidad": "foramen oval permeable",
+    "relacion": "puede estar asociado a",
+    "valor": "migraña con aura recurrente"
+  },
+  {
+    "entidad": "foramen oval permeable",
+    "relacion": "puede estar asociado a",
+    "valor": "embolia paradójica"
+  },
+  {
+    "entidad": "foramen oval permeable",
+    "relacion": "puede estar asociado a",
+    "valor": "síndrome hepatopulmonar"
+  },
+  {
+    "entidad": "diagnóstico de foramen oval permeable",
+    "relacion": "se recomienda",
+    "valor": "ecocardiograma transtorácico o transesofágico"
+  },
+  {
+    "entidad": "ecocardiograma transtorácico",
+    "relacion": "es",
+    "valor": "una aproximación inicial razonable para el diagnóstico"
+  },
+  {
+    "entidad": "cierre percutáneo",
+    "relacion": "tiene",
+    "valor": "baja tasa de complicaciones"
+  }
+]

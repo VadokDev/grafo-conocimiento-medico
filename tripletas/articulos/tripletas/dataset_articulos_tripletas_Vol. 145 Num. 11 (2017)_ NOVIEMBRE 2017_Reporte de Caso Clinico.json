@@ -1,0 +1,417 @@
+[
+  {
+    "entidad": "Linfoma de células B de alto grado",
+    "relacion": "es un",
+    "valor": "tipo de linfoma"
+  },
+  {
+    "entidad": "MYC",
+    "relacion": "reordenamiento en",
+    "valor": "linfoma de células B de alto grado"
+  },
+  {
+    "entidad": "BCL-2",
+    "relacion": "reordenamiento en",
+    "valor": "linfoma de células B de alto grado"
+  },
+  {
+    "entidad": "BCL-6",
+    "relacion": "reordenamiento en",
+    "valor": "linfoma de células B de alto grado"
+  },
+  {
+    "entidad": "Hipercalcemia",
+    "relacion": "presenta",
+    "valor": "en linfoma de células B de alto grado"
+  },
+  {
+    "entidad": "Peak monoclonal",
+    "relacion": "presenta",
+    "valor": "en linfoma de células B de alto grado"
+  },
+  {
+    "entidad": "Leucemización",
+    "relacion": "presenta",
+    "valor": "en linfoma de células B de alto grado"
+  },
+  {
+    "entidad": "Hospital del Salvador",
+    "relacion": "realiza",
+    "valor": "diagnóstico de linfoma"
+  },
+  {
+    "entidad": "Dra. Camila Peña",
+    "relacion": "es el autor de",
+    "valor": "el caso clínico"
+  },
+  {
+    "entidad": "R-CHOP",
+    "relacion": "es un",
+    "valor": "tratamiento quimioterapéutico"
+  },
+  {
+    "entidad": "Quimioterapia",
+    "relacion": "se inicia con",
+    "valor": "R-CHOP"
+  },
+  {
+    "entidad": "TAC cerebral",
+    "relacion": "muestra",
+    "valor": "gran masa cerebral"
+  },
+  {
+    "entidad": "Paciente",
+    "relacion": "tiene",
+    "valor": "48 años"
+  },
+  {
+    "entidad": "Linfoma no Hodgkin difuso de células grandes B",
+    "relacion": "es un",
+    "valor": "tipo de linfoma"
+  },
+  {
+    "entidad": "FISH",
+    "relacion": "se utiliza para",
+    "valor": "diagnosticar reordenamientos genéticos"
+  },
+  {
+    "entidad": "Citogenética convencional",
+    "relacion": "se utiliza para",
+    "valor": "analizar cariotipo"
+  },
+  {
+    "entidad": "Mielograma",
+    "relacion": "muestra",
+    "valor": "linfocitos patológicos"
+  },
+  {
+    "entidad": "Inmunofenotipo por citometría de flujo",
+    "relacion": "muestra",
+    "valor": "linfocitos patológicos maduros"
+  },
+  {
+    "entidad": "Biopsia de médula ósea",
+    "relacion": "resulta en",
+    "valor": "infiltración del 100%"
+  },
+  {
+    "entidad": "Biopsia de ganglio",
+    "relacion": "muestra",
+    "valor": "linfoma no Hodgkin difuso de células grandes B"
+  },
+  {
+    "entidad": "CD10",
+    "relacion": "es positivo en",
+    "valor": "100% de los casos"
+  },
+  {
+    "entidad": "Ki 67",
+    "relacion": "es del",
+    "valor": "90%"
+  },
+  {
+    "entidad": "Linfoma de Burkitt",
+    "relacion": "es un",
+    "valor": "tipo de linfoma"
+  },
+  {
+    "entidad": "Edad media",
+    "relacion": "es",
+    "valor": "60 años"
+  },
+  {
+    "entidad": "Compromiso de médula ósea",
+    "relacion": "es común en",
+    "valor": "linfomas de células B de alto grado"
+  },
+  {
+    "entidad": "Compromiso del sistema nervioso central",
+    "relacion": "es común en",
+    "valor": "linfomas de células B de alto grado"
+  },
+  {
+    "entidad": "Sobrevida con R-CHOP",
+    "relacion": "es menor a",
+    "valor": "1 año"
+  },
+  {
+    "entidad": "Trasplante autólogo",
+    "relacion": "es",
+    "valor": "controversial en tratamiento"
+  },
+  {
+    "entidad": "neumonía lipoidea exógena",
+    "relacion": "es un",
+    "valor": "tipo de neumonía aspirativa"
+  },
+  {
+    "entidad": "neumonía lipoidea exógena",
+    "relacion": "causa",
+    "valor": "nódulos pulmonares"
+  },
+  {
+    "entidad": "nódulos pulmonares",
+    "relacion": "pueden ser confundidos con",
+    "valor": "cáncer de pulmón"
+  },
+  {
+    "entidad": "diagnóstico",
+    "relacion": "requiere",
+    "valor": "confirmación histopatológica"
+  },
+  {
+    "entidad": "vaselina",
+    "relacion": "es un",
+    "valor": "agente causal de neumonía lipoidea"
+  },
+  {
+    "entidad": "mentholatum",
+    "relacion": "es un",
+    "valor": "agente causal de neumonía lipoidea"
+  },
+  {
+    "entidad": "aceite gomenolado",
+    "relacion": "es un",
+    "valor": "agente causal de neumonía lipoidea"
+  },
+  {
+    "entidad": "macrófagos",
+    "relacion": "fagocitan",
+    "valor": "material lipídico"
+  },
+  {
+    "entidad": "neumonía lipoidea",
+    "relacion": "puede ser clasificada como",
+    "valor": "endógena o exógena"
+  },
+  {
+    "entidad": "exposición a sustancias",
+    "relacion": "facilita",
+    "valor": "la aspiración"
+  },
+  {
+    "entidad": "síntomas",
+    "relacion": "son",
+    "valor": "inespecíficos como tos o disnea leve"
+  },
+  {
+    "entidad": "radiología",
+    "relacion": "revela",
+    "valor": "nódulos o masas"
+  },
+  {
+    "entidad": "PET/CT",
+    "relacion": "puede dar falsos positivos para",
+    "valor": "neoplasia"
+  },
+  {
+    "entidad": "lavado pulmonar total",
+    "relacion": "es una opción terapéutica para",
+    "valor": "neumonía lipoidea"
+  },
+  {
+    "entidad": "corticoides",
+    "relacion": "pueden reducir",
+    "valor": "la inflamación en casos agudos"
+  },
+  {
+    "entidad": "complicaciones asociadas",
+    "relacion": "incluyen",
+    "valor": "infección por micobacterias y fibrosis pulmonar"
+  },
+  {
+    "entidad": "Síndrome de Austrian",
+    "relacion": "es caracterizado por",
+    "valor": "neumonía, meningitis y endocarditis"
+  },
+  {
+    "entidad": "Síndrome de Austrian",
+    "relacion": "es causado por",
+    "valor": "Streptococcus pneumoniae"
+  },
+  {
+    "entidad": "Streptococcus pneumoniae",
+    "relacion": "causa",
+    "valor": "bacteremia"
+  },
+  {
+    "entidad": "bacteremia",
+    "relacion": "resulta en",
+    "valor": "neumonía, meningitis y endocarditis"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "síndrome febril, dolor pleurítico, tos, expectoración, disnea, crisis convulsiva y compromiso de conciencia"
+  },
+  {
+    "entidad": "diagnóstico",
+    "relacion": "es",
+    "valor": "neumonía adquirida en la comunidad y meningitis"
+  },
+  {
+    "entidad": "Streptococcus pneumoniae",
+    "relacion": "es aislado en",
+    "valor": "líquido cefalorraquídeo y hemocultivos"
+  },
+  {
+    "entidad": "tratamiento antibiótico",
+    "relacion": "es iniciado con",
+    "valor": "ceftriaxona y dexametasona"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "evoluciona a",
+    "valor": "insuficiencia aórtica y vegetaciones en válvula aórtica"
+  },
+  {
+    "entidad": "válvula aórtica",
+    "relacion": "es reemplazada por",
+    "valor": "una válvula prostética"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "responde a",
+    "valor": "tratamiento quirúrgico y antibiótico"
+  },
+  {
+    "entidad": "Síndrome de Austrian",
+    "relacion": "es una rareza clínica",
+    "valor": "que cursa habitualmente de forma aguda"
+  },
+  {
+    "entidad": "factores de riesgo",
+    "relacion": "incluyen",
+    "valor": "inmunodepresión y enfermedades cardiovasculares"
+  },
+  {
+    "entidad": "diagnóstico",
+    "relacion": "es",
+    "valor": "clínico y asociativo"
+  },
+  {
+    "entidad": "ecocardiograma",
+    "relacion": "es importante para",
+    "valor": "confirmar el diagnóstico de endocarditis"
+  },
+  {
+    "entidad": "penicilina",
+    "relacion": "es el tratamiento de elección para",
+    "valor": "endocarditis por S. pneumoniae"
+  },
+  {
+    "entidad": "cirugía cardíaca",
+    "relacion": "es necesaria en",
+    "valor": "la mayoría de los casos de endocarditis"
+  },
+  {
+    "entidad": "dexametasona",
+    "relacion": "ha tenido éxito en",
+    "valor": "el tratamiento de meningitis por S. pneumoniae"
+  },
+  {
+    "entidad": "destrucción valvular",
+    "relacion": "es la principal causa de",
+    "valor": "muerte en el síndrome de Austrian"
+  },
+  {
+    "entidad": "úlcera penetrante de aorta ascendente",
+    "relacion": "es un",
+    "valor": "tipo de patología"
+  },
+  {
+    "entidad": "síndrome aórtico agudo",
+    "relacion": "incluye",
+    "valor": "úlcera penetrante de aorta ascendente"
+  },
+  {
+    "entidad": "úlcera penetrante de aorta ascendente",
+    "relacion": "puede progresar a",
+    "valor": "hematoma intramural"
+  },
+  {
+    "entidad": "úlcera penetrante de aorta ascendente",
+    "relacion": "puede progresar a",
+    "valor": "disección aórtica"
+  },
+  {
+    "entidad": "úlcera penetrante de aorta ascendente",
+    "relacion": "puede progresar a",
+    "valor": "rotura aórtica"
+  },
+  {
+    "entidad": "hipertensión arterial",
+    "relacion": "es un",
+    "valor": "antecedente común en pacientes con UPA"
+  },
+  {
+    "entidad": "diabetes mellitus",
+    "relacion": "es un",
+    "valor": "antecedente común en pacientes con UPA"
+  },
+  {
+    "entidad": "enfermedad pulmonar obstructiva crónica",
+    "relacion": "es un",
+    "valor": "antecedente común en pacientes con UPA"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "es un",
+    "valor": "antecedente común en pacientes con UPA"
+  },
+  {
+    "entidad": "aterosclerosis",
+    "relacion": "es un",
+    "valor": "factor de riesgo para UPA"
+  },
+  {
+    "entidad": "cirugía",
+    "relacion": "es el",
+    "valor": "tratamiento para UPA"
+  },
+  {
+    "entidad": "reemplazo de aorta ascendente",
+    "relacion": "es un",
+    "valor": "procedimiento quirúrgico para UPA"
+  },
+  {
+    "entidad": "histopatología",
+    "relacion": "confirma",
+    "valor": "diagnóstico de UPA"
+  },
+  {
+    "entidad": "pacientes con UPA",
+    "relacion": "pueden presentar",
+    "valor": "síntomas cardiovasculares"
+  },
+  {
+    "entidad": "diagnóstico de UPA",
+    "relacion": "requiere",
+    "valor": "alta sospecha clínica"
+  },
+  {
+    "entidad": "Angio-TC",
+    "relacion": "es un",
+    "valor": "método diagnóstico para UPA"
+  },
+  {
+    "entidad": "cirugía",
+    "relacion": "es recomendada por",
+    "valor": "guías de la European Society of Cardiology"
+  },
+  {
+    "entidad": "cirugía",
+    "relacion": "es recomendada por",
+    "valor": "American College of Cardiology Foundation"
+  },
+  {
+    "entidad": "mortalidad a corto plazo",
+    "relacion": "ha mejorado en",
+    "valor": "pacientes intervenidos quirúrgicamente por SAA"
+  },
+  {
+    "entidad": "comorbilidades",
+    "relacion": "son un",
+    "valor": "predictor de mortalidad en pacientes con SAA"
+  }
+]

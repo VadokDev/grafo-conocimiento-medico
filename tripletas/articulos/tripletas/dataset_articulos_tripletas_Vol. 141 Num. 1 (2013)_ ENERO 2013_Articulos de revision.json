@@ -1,0 +1,282 @@
+[
+  {
+    "entidad": "síndrome de Down",
+    "relacion": "es causado por",
+    "valor": "material extra del cromosoma 21"
+  },
+  {
+    "entidad": "síndrome de Down",
+    "relacion": "aumenta el riesgo de",
+    "valor": "malformaciones congénitas"
+  },
+  {
+    "entidad": "síndrome de Down",
+    "relacion": "aumenta la vulnerabilidad a",
+    "valor": "ciertas enfermedades"
+  },
+  {
+    "entidad": "síndrome de Down",
+    "relacion": "requiere",
+    "valor": "prevención, diagnóstico y tratamiento oportuno"
+  },
+  {
+    "entidad": "cuidados prenatales",
+    "relacion": "incluyen",
+    "valor": "diagnóstico prenatal"
+  },
+  {
+    "entidad": "diagnóstico prenatal",
+    "relacion": "depende de",
+    "valor": "protocolos locales de pesquisa prenatal"
+  },
+  {
+    "entidad": "obstetra",
+    "relacion": "entrega",
+    "valor": "noticia del diagnóstico a los padres"
+  },
+  {
+    "entidad": "padres",
+    "relacion": "deben recibir",
+    "valor": "apoyo de salud mental"
+  },
+  {
+    "entidad": "genetista",
+    "relacion": "explica",
+    "valor": "mecanismos patogénicos"
+  },
+  {
+    "entidad": "neonatólogo",
+    "relacion": "orienta sobre",
+    "valor": "terapias médico-quirúrgicas disponibles"
+  },
+  {
+    "entidad": "síndrome de Down",
+    "relacion": "presenta",
+    "valor": "características físicas particulares"
+  },
+  {
+    "entidad": "características físicas del recién nacido con síndrome de Down",
+    "relacion": "incluyen",
+    "valor": "hipotonía, perfil facial plano"
+  },
+  {
+    "entidad": "evaluación nutricional",
+    "relacion": "se logra con",
+    "valor": "evaluación del peso, talla y circunferencia craneana"
+  },
+  {
+    "entidad": "estimulación precoz",
+    "relacion": "tiene como objetivo",
+    "valor": "enseñar habilidades para el aprendizaje"
+  },
+  {
+    "entidad": "convulsiones",
+    "relacion": "están descritas en",
+    "valor": "hasta el 13% de los casos"
+  },
+  {
+    "entidad": "síndrome de West",
+    "relacion": "representa",
+    "valor": "hasta el 47% de los síndromes epilépticos en niños con síndrome de Down"
+  },
+  {
+    "entidad": "cardiopatías congénitas",
+    "relacion": "se presentan en",
+    "valor": "cerca del 50% de los casos"
+  },
+  {
+    "entidad": "malformaciones del tubo digestivo",
+    "relacion": "ocurren en",
+    "valor": "12% de los casos"
+  },
+  {
+    "entidad": "reflujo gastroesofágico",
+    "relacion": "debe ser tratado para",
+    "valor": "favorecer la calidad de vida"
+  },
+  {
+    "entidad": "infecciones respiratorias",
+    "relacion": "son frecuentes en",
+    "valor": "los primeros años de vida"
+  },
+  {
+    "entidad": "inmunidad",
+    "relacion": "debe ser optimizada mediante",
+    "valor": "medidas higiénicas"
+  },
+  {
+    "entidad": "poliglobulia",
+    "relacion": "es frecuente en",
+    "valor": "nacidos con síndrome de Down"
+  },
+  {
+    "entidad": "enfermedad tiroidea",
+    "relacion": "ocurre en",
+    "valor": "28-40% de los casos"
+  },
+  {
+    "entidad": "síndrome de apnea obstructiva del sueño",
+    "relacion": "es común en",
+    "valor": "personas con síndrome de Down"
+  },
+  {
+    "entidad": "salud mental",
+    "relacion": "requiere",
+    "valor": "apoyo a familia y cuidadores"
+  },
+  {
+    "entidad": "salud dental",
+    "relacion": "debe incluir",
+    "valor": "evaluación por odontopediatra"
+  },
+  {
+    "entidad": "menarquia",
+    "relacion": "ocurre en promedio a",
+    "valor": "12 años y 6 meses"
+  },
+  {
+    "entidad": "cuidado en salud",
+    "relacion": "debe ser promovido para",
+    "valor": "fomentar independencia y autocuidado"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "tiene",
+    "valor": "división de anestesiología"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "tiene",
+    "valor": "departamento de Medicina interna"
+  },
+  {
+    "entidad": "Universidad Finisterrae",
+    "relacion": "tiene",
+    "valor": "escuela de enfermería"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "tiene",
+    "valor": "división de cirugía"
+  },
+  {
+    "entidad": "Marcia Corvetto",
+    "relacion": "es",
+    "valor": "autora del artículo"
+  },
+  {
+    "entidad": "simulación clínica",
+    "relacion": "es",
+    "valor": "técnica educativa"
+  },
+  {
+    "entidad": "simulación clínica",
+    "relacion": "se utiliza como",
+    "valor": "herramienta de aprendizaje"
+  },
+  {
+    "entidad": "simulación clínica",
+    "relacion": "se utiliza para",
+    "valor": "evaluación de competencias"
+  },
+  {
+    "entidad": "simulación",
+    "relacion": "es parte de",
+    "valor": "currículo de educación médica en otros países"
+  },
+  {
+    "entidad": "simulación",
+    "relacion": "ha sido incorporada en",
+    "valor": "licencia médica en Estados Unidos"
+  },
+  {
+    "entidad": "simulación",
+    "relacion": "se ha comenzado a incluir en",
+    "valor": "currículos de Escuelas de Medicina en Chile"
+  },
+  {
+    "entidad": "bioética",
+    "relacion": "ha influido en",
+    "valor": "desarrollo de la simulación clínica"
+  },
+  {
+    "entidad": "educación médica",
+    "relacion": "ha aumentado la exigencia de",
+    "valor": "calidad educativa"
+  },
+  {
+    "entidad": "tecnología",
+    "relacion": "ha permitido",
+    "valor": "desarrollo de simuladores complejos"
+  },
+  {
+    "entidad": "simuladores de baja fidelidad",
+    "relacion": "son",
+    "valor": "modelos para habilidades básicas"
+  },
+  {
+    "entidad": "pacientes simulados",
+    "relacion": "son",
+    "valor": "actores entrenados para actuar como pacientes"
+  },
+  {
+    "entidad": "simuladores virtuales",
+    "relacion": "son",
+    "valor": "programas computacionales para simular situaciones"
+  },
+  {
+    "entidad": "simuladores de tareas complejas",
+    "relacion": "permiten",
+    "valor": "desarrollar habilidades manuales"
+  },
+  {
+    "entidad": "simuladores de paciente completo",
+    "relacion": "son",
+    "valor": "maniquíes que simulan aspectos clínicos"
+  },
+  {
+    "entidad": "simulación clínica",
+    "relacion": "proporciona",
+    "valor": "entorno seguro para el aprendizaje"
+  },
+  {
+    "entidad": "simulación",
+    "relacion": "permite",
+    "valor": "entrenamiento sistemático y repetido"
+  },
+  {
+    "entidad": "simulación",
+    "relacion": "es utilizada en",
+    "valor": "evaluación de habilidades psicomotoras"
+  },
+  {
+    "entidad": "Sociedad Chilena de Simulación Clínica y Seguridad del Paciente",
+    "relacion": "fue formada en",
+    "valor": "noviembre de 2011"
+  },
+  {
+    "entidad": "simulación clínica",
+    "relacion": "ha evolucionado en",
+    "valor": "educación de profesionales de la salud"
+  },
+  {
+    "entidad": "Universidad de las Américas",
+    "relacion": "creó",
+    "valor": "primer centro de alta fidelidad en Chile"
+  },
+  {
+    "entidad": "Universidad de Los Andes",
+    "relacion": "desarrolló",
+    "valor": "proyecto de integración de simulación en 2008"
+  },
+  {
+    "entidad": "centros de simulación en Chile",
+    "relacion": "han sido incorporados por",
+    "valor": "varias escuelas y facultades"
+  },
+  {
+    "entidad": "simulación",
+    "relacion": "es un desafío para",
+    "valor": "investigación en educación médica"
+  }
+]

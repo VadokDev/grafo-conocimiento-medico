@@ -1,0 +1,82 @@
+[
+  {
+    "entidad": "Linfoma anaplástico de células grandes CD30 positivo cutáneo primario",
+    "relacion": "es un",
+    "valor": "trastorno linfoproliferativo"
+  },
+  {
+    "entidad": "Linfoma anaplástico de células grandes CD30 positivo cutáneo primario",
+    "relacion": "presenta",
+    "valor": "tumores o placas localizadas o multifocales"
+  },
+  {
+    "entidad": "Linfoma anaplástico de células grandes CD30 positivo cutáneo primario",
+    "relacion": "tiene",
+    "valor": "excelente pronóstico a largo plazo"
+  },
+  {
+    "entidad": "Linfoma anaplástico de células grandes CD30 positivo cutáneo primario",
+    "relacion": "se diagnostica mediante",
+    "valor": "biopsia de piel"
+  },
+  {
+    "entidad": "CD30",
+    "relacion": "debe expresarse en",
+    "valor": "al menos 75% de las células linfoides grandes"
+  },
+  {
+    "entidad": "ALK-1",
+    "relacion": "debe ser",
+    "valor": "negativo en LACGCP"
+  },
+  {
+    "entidad": "Linfoma anaplástico de células grandes nodal",
+    "relacion": "requiere",
+    "valor": "tratamiento con poliquimioterapia"
+  },
+  {
+    "entidad": "Linfoma anaplástico de células grandes CD30 positivo cutáneo primario",
+    "relacion": "puede presentar",
+    "valor": "regresión espontánea"
+  },
+  {
+    "entidad": "Linfoma anaplástico de células grandes CD30 positivo cutáneo primario",
+    "relacion": "no requiere",
+    "valor": "quimioterapia en casos con compromiso regional"
+  },
+  {
+    "entidad": "Radioterapia",
+    "relacion": "es un tratamiento",
+    "valor": "efectivo para lesiones solitarias"
+  },
+  {
+    "entidad": "Linfoma anaplástico de células grandes CD30 positivo cutáneo primario",
+    "relacion": "es caracterizado por",
+    "valor": "acumulación clonal de linfocitos T neoplásicos en la piel"
+  },
+  {
+    "entidad": "Linfoma anaplástico de células grandes CD30 positivo cutáneo primario",
+    "relacion": "se asocia a",
+    "valor": "tasa de supervivencia a 5 años de 90%"
+  },
+  {
+    "entidad": "Linfoma anaplástico de células grandes CD30 positivo cutáneo primario",
+    "relacion": "es diferente de",
+    "valor": "linfoma anaplástico de células grandes nodal"
+  },
+  {
+    "entidad": "Linfoma anaplástico de células grandes CD30 positivo cutáneo primario",
+    "relacion": "se presenta en",
+    "valor": "pacientes adultos, generalmente en la sexta década de vida"
+  },
+  {
+    "entidad": "HTLV-1",
+    "relacion": "puede simular",
+    "valor": "Linfoma anaplástico de células grandes CD30 positivo cutáneo primario"
+  },
+  {
+    "entidad": "Linfoma anaplástico de células grandes CD30 positivo cutáneo primario",
+    "relacion": "debe ser considerado en",
+    "valor": "diagnóstico diferencial de LCCT"
+  }
+]

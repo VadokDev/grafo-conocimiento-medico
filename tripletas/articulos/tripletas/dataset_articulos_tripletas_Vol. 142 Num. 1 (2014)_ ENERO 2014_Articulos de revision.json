@@ -1,0 +1,217 @@
+[
+  {
+    "entidad": "antagonistas del receptor de mineralocorticoides",
+    "relacion": "se utilizan en",
+    "valor": "tratamiento de patologías cardiovasculares"
+  },
+  {
+    "entidad": "aldosterona",
+    "relacion": "induce",
+    "valor": "daño cardíaco"
+  },
+  {
+    "entidad": "receptor de mineralocorticoides",
+    "relacion": "está presente en",
+    "valor": "vasos sanguíneos y tejido miocárdico"
+  },
+  {
+    "entidad": "hiperaldosteronismo primario",
+    "relacion": "presenta mayor incidencia de",
+    "valor": "hipertensión arterial, insuficiencia cardiaca, enfermedad coronaria y arritmias"
+  },
+  {
+    "entidad": "espironolactona",
+    "relacion": "es un",
+    "valor": "antagonista no específico del receptor de mineralocorticoides"
+  },
+  {
+    "entidad": "eplerenona",
+    "relacion": "es un",
+    "valor": "antagonista selectivo del receptor de mineralocorticoides"
+  },
+  {
+    "entidad": "RALES",
+    "relacion": "demostró que",
+    "valor": "la adición de espironolactona reduce la morbilidad y mortalidad en insuficiencia cardiaca"
+  },
+  {
+    "entidad": "EPHESUS",
+    "relacion": "demostró que",
+    "valor": "la adición de eplerenona reduce la morbilidad y mortalidad en infarto agudo al miocardio"
+  },
+  {
+    "entidad": "hiperkalemia",
+    "relacion": "es un efecto adverso de",
+    "valor": "antagonistas del receptor de mineralocorticoides"
+  },
+  {
+    "entidad": "guías clínicas",
+    "relacion": "recomiendan el uso de",
+    "valor": "antagonistas del receptor de mineralocorticoides en insuficiencia cardiaca NYHA III-IV"
+  },
+  {
+    "entidad": "sistema renina-angiotensina-aldosterona",
+    "relacion": "participa en",
+    "valor": "la fisiopatología de la fibrilación auricular"
+  },
+  {
+    "entidad": "espironolactona",
+    "relacion": "disminuye",
+    "valor": "la tasa de hospitalizaciones en pacientes con fibrilación auricular"
+  },
+  {
+    "entidad": "eplerenona",
+    "relacion": "se utiliza en",
+    "valor": "tratamiento de hipertensión arterial"
+  },
+  {
+    "entidad": "aldosterona",
+    "relacion": "es un factor de riesgo",
+    "valor": "para hipertensión arterial"
+  },
+  {
+    "entidad": "hipertensión arterial resistente",
+    "relacion": "puede ser causada por",
+    "valor": "hiperaldosteronismo"
+  },
+  {
+    "entidad": "aldosterona",
+    "relacion": "se asocia con",
+    "valor": "síndrome metabólico"
+  },
+  {
+    "entidad": "antagonistas del receptor de mineralocorticoides",
+    "relacion": "mejoran",
+    "valor": "la función diastólica miocárdica"
+  },
+  {
+    "entidad": "estudios clínicos",
+    "relacion": "evalúan",
+    "valor": "el efecto de antagonistas del receptor de mineralocorticoides en insuficiencia cardiaca diastólica"
+  },
+  {
+    "entidad": "ALBATROSS",
+    "relacion": "es un ensayo clínico que investiga",
+    "valor": "el uso de antagonistas del receptor de mineralocorticoides en infarto agudo al miocardio"
+  },
+  {
+    "entidad": "Universidad Viña del Mar",
+    "relacion": "es un",
+    "valor": "institución educativa en Chile"
+  },
+  {
+    "entidad": "Universidad Autónoma de Chile",
+    "relacion": "es un",
+    "valor": "institución educativa en Chile"
+  },
+  {
+    "entidad": "Laboratorio de Motricidad Humana",
+    "relacion": "pertenece a",
+    "valor": "Escuela de Educación Física, Facultad de Filosofía y Educación"
+  },
+  {
+    "entidad": "Laboratorio de Antropología Física y Anatomía Humana",
+    "relacion": "pertenece a",
+    "valor": "Instituto de Biología, Facultad de Ciencias, Pontificia Universidad Católica de Valparaíso"
+  },
+  {
+    "entidad": "GICEFYD",
+    "relacion": "es un",
+    "valor": "Grupo de Investigación en Ciencias del Deporte"
+  },
+  {
+    "entidad": "Dr. Carlos Cristi Montero",
+    "relacion": "es el",
+    "valor": "autor principal del artículo"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "afecta a",
+    "valor": "salud"
+  },
+  {
+    "entidad": "sedentarismo",
+    "relacion": "afecta a",
+    "valor": "salud"
+  },
+  {
+    "entidad": "OMS",
+    "relacion": "señala",
+    "valor": "inactividad física como un factor de riesgo de mortalidad"
+  },
+  {
+    "entidad": "sobrepeso y obesidad",
+    "relacion": "se asocia con",
+    "valor": "niveles reducidos de actividad física"
+  },
+  {
+    "entidad": "ejercicio físico",
+    "relacion": "mejora",
+    "valor": "estado de salud"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "tiene un efecto",
+    "valor": "dosis/respuesta en salud"
+  },
+  {
+    "entidad": "niños y adolescentes",
+    "relacion": "deben acumular",
+    "valor": "al menos 60 min de actividad física diaria"
+  },
+  {
+    "entidad": "población adulta",
+    "relacion": "debe acumular",
+    "valor": "al menos 150 min de actividad física moderada a vigorosa semanalmente"
+  },
+  {
+    "entidad": "población chilena",
+    "relacion": "no cumple con",
+    "valor": "recomendaciones de actividad física"
+  },
+  {
+    "entidad": "conducta sedentaria",
+    "relacion": "reduce",
+    "valor": "salud metabólica"
+  },
+  {
+    "entidad": "tiempo sedentario",
+    "relacion": "se asocia con",
+    "valor": "aumento del riesgo de muerte por enfermedades"
+  },
+  {
+    "entidad": "acelerometría",
+    "relacion": "es un",
+    "valor": "método objetivo para medir actividad física"
+  },
+  {
+    "entidad": "tiempo sedentario",
+    "relacion": "afecta a",
+    "valor": "perímetro de cintura y presión arterial diastólica"
+  },
+  {
+    "entidad": "interrumpir el hábito sedentario",
+    "relacion": "reduce",
+    "valor": "perímetro de cintura y niveles de glucosa"
+  },
+  {
+    "entidad": "actividad física de intensidad ligera",
+    "relacion": "mejora",
+    "valor": "capacidad cardiorrespiratoria"
+  },
+  {
+    "entidad": "conducta sedentaria",
+    "relacion": "debe ser considerada",
+    "valor": "independiente de la actividad física"
+  },
+  {
+    "entidad": "hábito sedentario",
+    "relacion": "incrementa",
+    "valor": "riesgo metabólico"
+  },
+  {
+    "entidad": "estrategias de salud",
+    "relacion": "deben incluir",
+    "valor": "recomendaciones sobre actividad física y sedentarismo"
+  }
+]

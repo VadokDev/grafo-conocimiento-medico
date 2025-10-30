@@ -1,0 +1,652 @@
+[
+  {
+    "entidad": "razonamiento clínico",
+    "relacion": "es",
+    "valor": "competencia importante en la formación médica"
+  },
+  {
+    "entidad": "método de enseñanza",
+    "relacion": "se basa en",
+    "valor": "seminarios de casos clínicos prototipos"
+  },
+  {
+    "entidad": "estudiantes de tercer año de medicina",
+    "relacion": "asisten a",
+    "valor": "seminarios de casos clínicos prototipos"
+  },
+  {
+    "entidad": "grupo de estudio",
+    "relacion": "asiste a",
+    "valor": "seminarios de discusión"
+  },
+  {
+    "entidad": "grupo de control",
+    "relacion": "asiste a",
+    "valor": "clases teóricas y sesiones tutoriales"
+  },
+  {
+    "entidad": "prueba de razonamiento clínico",
+    "relacion": "se aplica a",
+    "valor": "ambos grupos al inicio y final del periodo de aprendizaje"
+  },
+  {
+    "entidad": "opiniones de estudiantes",
+    "relacion": "se recogen en",
+    "valor": "un grupo focal"
+  },
+  {
+    "entidad": "método de reconocimiento de patrón",
+    "relacion": "mejora",
+    "valor": "las habilidades de razonamiento clínico"
+  },
+  {
+    "entidad": "Universidad de Santiago de Chile (USACH)",
+    "relacion": "es",
+    "valor": "la institución donde se realiza el estudio"
+  },
+  {
+    "entidad": "departamento de investigación en ciencia y tecnología (dicYt)",
+    "relacion": "apoya",
+    "valor": "financieramente el estudio"
+  },
+  {
+    "entidad": "seminarios de casos clínicos prototipos",
+    "relacion": "son",
+    "valor": "una estrategia de enseñanza"
+  },
+  {
+    "entidad": "estudiantes",
+    "relacion": "expresan",
+    "valor": "satisfacción con el método de enseñanza"
+  },
+  {
+    "entidad": "método de enseñanza",
+    "relacion": "promueve",
+    "valor": "el aprendizaje del razonamiento clínico"
+  },
+  {
+    "entidad": "razonamiento clínico",
+    "relacion": "se desarrolla en",
+    "valor": "el tercer año de medicina"
+  },
+  {
+    "entidad": "interacción y retroalimentación",
+    "relacion": "son importantes para",
+    "valor": "el aprendizaje de los estudiantes"
+  },
+  {
+    "entidad": "método de enseñanza",
+    "relacion": "contribuye a",
+    "valor": "el desarrollo de juicio crítico en estudiantes"
+  },
+  {
+    "entidad": "estudiantes",
+    "relacion": "mejoran",
+    "valor": "su capacidad para elaborar diagnósticos"
+  },
+  {
+    "entidad": "metodología de seminarios",
+    "relacion": "genera",
+    "valor": "redes de asociación e integración de conocimientos"
+  },
+  {
+    "entidad": "Linfoma No Hodgkin",
+    "relacion": "incluye",
+    "valor": "Linfoma difuso de grandes células B"
+  },
+  {
+    "entidad": "Linfoma No Hodgkin",
+    "relacion": "incluye",
+    "valor": "Linfoma folicular"
+  },
+  {
+    "entidad": "Rituximab",
+    "relacion": "mejora",
+    "valor": "sobrevida general en pacientes con LNH"
+  },
+  {
+    "entidad": "Hospital de Clínicas de Montevideo",
+    "relacion": "realiza",
+    "valor": "estudio sobre LNH"
+  },
+  {
+    "entidad": "CHOP-like",
+    "relacion": "es un",
+    "valor": "régimen de quimioterapia"
+  },
+  {
+    "entidad": "R-CHOP",
+    "relacion": "es un",
+    "valor": "régimen de quimioterapia"
+  },
+  {
+    "entidad": "Linfoma difuso de grandes células B",
+    "relacion": "es",
+    "valor": "agresivo pero potencialmente curable"
+  },
+  {
+    "entidad": "Linfoma folicular",
+    "relacion": "es",
+    "valor": "indolente e incurable"
+  },
+  {
+    "entidad": "Rituximab",
+    "relacion": "se utiliza en",
+    "valor": "tratamiento de LNH"
+  },
+  {
+    "entidad": "Linfoma difuso de grandes células B",
+    "relacion": "se trata con",
+    "valor": "R-CHOP"
+  },
+  {
+    "entidad": "Linfoma folicular",
+    "relacion": "se trata con",
+    "valor": "R-CHOP"
+  },
+  {
+    "entidad": "R-CHOP",
+    "relacion": "demuestra",
+    "valor": "mayores tasas de remisión completa"
+  },
+  {
+    "entidad": "R-CHOP",
+    "relacion": "demuestra",
+    "valor": "mayor sobrevida libre de progresión"
+  },
+  {
+    "entidad": "R-CHOP",
+    "relacion": "demuestra",
+    "valor": "mayor sobrevida general"
+  },
+  {
+    "entidad": "Fondo Nacional de Recursos",
+    "relacion": "financia",
+    "valor": "tratamiento con Rituximab"
+  },
+  {
+    "entidad": "Cátedra de Hematología",
+    "relacion": "pertenece a",
+    "valor": "Hospital de Clínicas"
+  },
+  {
+    "entidad": "International Prognostic Index (IPI)",
+    "relacion": "evalúa",
+    "valor": "pronóstico en LNH"
+  },
+  {
+    "entidad": "Cochrane",
+    "relacion": "realiza",
+    "valor": "meta-análisis sobre tratamientos de LNH"
+  },
+  {
+    "entidad": "R-CHOP",
+    "relacion": "es el",
+    "valor": "estándar de tratamiento para DGCB"
+  },
+  {
+    "entidad": "Linfoma folicular",
+    "relacion": "requiere",
+    "valor": "tratamiento en estadios III-IV sintomáticos"
+  },
+  {
+    "entidad": "Santiago, Chile",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "tecnología de reproducción asistida (TRA)",
+    "relacion": "afecta a",
+    "valor": "la concepción de hijos"
+  },
+  {
+    "entidad": "fecundación in vitro (FIV)",
+    "relacion": "es un tipo de",
+    "valor": "tecnología de reproducción asistida"
+  },
+  {
+    "entidad": "infertilidad",
+    "relacion": "afecta a",
+    "valor": "10% de las parejas en edad reproductiva"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud (OMS)",
+    "relacion": "define",
+    "valor": "infertilidad como una enfermedad"
+  },
+  {
+    "entidad": "encuesta",
+    "relacion": "evalúa",
+    "valor": "opiniones sobre TRA"
+  },
+  {
+    "entidad": "mujeres post-menopáusicas",
+    "relacion": "reciben",
+    "valor": "menor apoyo para TRA"
+  },
+  {
+    "entidad": "parejas homosexuales",
+    "relacion": "reciben",
+    "valor": "menor apoyo para TRA"
+  },
+  {
+    "entidad": "Estado",
+    "relacion": "debe financiar",
+    "valor": "tratamientos de TRA"
+  },
+  {
+    "entidad": "donación de gametos",
+    "relacion": "es apoyada por",
+    "valor": "la mayoría de los encuestados"
+  },
+  {
+    "entidad": "mujeres solas",
+    "relacion": "reciben",
+    "valor": "apoyo para el uso de TRA"
+  },
+  {
+    "entidad": "parejas heterosexuales",
+    "relacion": "reciben",
+    "valor": "apoyo para el uso de TRA"
+  },
+  {
+    "entidad": "Grupo Socioeconómico (GSE)",
+    "relacion": "influye en",
+    "valor": "opiniones sobre TRA"
+  },
+  {
+    "entidad": "encuestados",
+    "relacion": "consideran",
+    "valor": "que el acceso a TRA es un asunto de justicia"
+  },
+  {
+    "entidad": "Universidad Diego Portales",
+    "relacion": "es un",
+    "valor": "institución involucrada en el estudio"
+  },
+  {
+    "entidad": "Fondo Nacional para la Ciencia y la Tecnología (FONDECYT)",
+    "relacion": "apoya",
+    "valor": "la investigación"
+  },
+  {
+    "entidad": "encuesta",
+    "relacion": "fue aplicada a",
+    "valor": "1.500 personas"
+  },
+  {
+    "entidad": "encuestadores",
+    "relacion": "fueron capacitados por",
+    "valor": "el equipo de investigación"
+  },
+  {
+    "entidad": "muestra",
+    "relacion": "es representativa de",
+    "valor": "los habitantes de 34 comunas de Santiago"
+  },
+  {
+    "entidad": "Sistema de Salud",
+    "relacion": "influye en",
+    "valor": "resultado del reemplazo valvular mitral"
+  },
+  {
+    "entidad": "Reemplazo valvular mitral",
+    "relacion": "mejora",
+    "valor": "calidad de vida de pacientes con enfermedad valvular grave"
+  },
+  {
+    "entidad": "Pacientes",
+    "relacion": "divididos en",
+    "valor": "tres grupos según sistema de salud"
+  },
+  {
+    "entidad": "Grupo 1",
+    "relacion": "pertenece a",
+    "valor": "Sistema Público"
+  },
+  {
+    "entidad": "Grupo 2",
+    "relacion": "pertenece a",
+    "valor": "Sistema Universitario"
+  },
+  {
+    "entidad": "Grupo 3",
+    "relacion": "pertenece a",
+    "valor": "Sistema Privado"
+  },
+  {
+    "entidad": "Mortalidad operatoria",
+    "relacion": "fue",
+    "valor": "4.3%"
+  },
+  {
+    "entidad": "Factores de riesgo",
+    "relacion": "incluyen",
+    "valor": "cirugía de urgencia"
+  },
+  {
+    "entidad": "Factores de riesgo",
+    "relacion": "incluyen",
+    "valor": "función ventricular grados III y IV"
+  },
+  {
+    "entidad": "Diabetes",
+    "relacion": "aumenta",
+    "valor": "riesgo de mortalidad a largo plazo"
+  },
+  {
+    "entidad": "Función ventricular",
+    "relacion": "afecta",
+    "valor": "supervivencia a largo plazo"
+  },
+  {
+    "entidad": "Capacidad funcional",
+    "relacion": "afecta",
+    "valor": "supervivencia a largo plazo"
+  },
+  {
+    "entidad": "Sexo masculino",
+    "relacion": "aumenta",
+    "valor": "riesgo de mortalidad a largo plazo"
+  },
+  {
+    "entidad": "Sistema de salud",
+    "relacion": "no determina",
+    "valor": "diferencias en mortalidad operatoria"
+  },
+  {
+    "entidad": "Colaboración entre sistemas de salud",
+    "relacion": "puede contribuir a",
+    "valor": "reducir inequidad en salud"
+  },
+  {
+    "entidad": "Prótesis St. Jude",
+    "relacion": "utilizada en",
+    "valor": "reemplazo valvular mitral"
+  },
+  {
+    "entidad": "Complicaciones de la prótesis",
+    "relacion": "responsables de",
+    "valor": "19% de la mortalidad alejada"
+  },
+  {
+    "entidad": "Integración de sistemas de salud",
+    "relacion": "es una alternativa",
+    "valor": "eficiente para resolver patologías complejas"
+  },
+  {
+    "entidad": "enfermedad coronaria",
+    "relacion": "es la",
+    "valor": "principal causa de mortalidad"
+  },
+  {
+    "entidad": "enfermedad coronaria",
+    "relacion": "afecta a",
+    "valor": "100 millones de personas en el mundo"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "implementa",
+    "valor": "programa de salud cardiovascular"
+  },
+  {
+    "entidad": "programas multifactoriales y multidisciplinarios",
+    "relacion": "abordan",
+    "valor": "reducción del riesgo cardiovascular"
+  },
+  {
+    "entidad": "factores de riesgo cardiovascular modificables",
+    "relacion": "pueden evitar",
+    "valor": "más de 50% de los eventos cardiovasculares"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "es un",
+    "valor": "factor de riesgo cardiovascular"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "es un",
+    "valor": "factor de riesgo cardiovascular"
+  },
+  {
+    "entidad": "diabetes mellitus tipo 2",
+    "relacion": "es un",
+    "valor": "factor de riesgo cardiovascular"
+  },
+  {
+    "entidad": "hipertensión arterial",
+    "relacion": "es un",
+    "valor": "factor de riesgo cardiovascular"
+  },
+  {
+    "entidad": "hipercolesterolemia",
+    "relacion": "es un",
+    "valor": "factor de riesgo cardiovascular"
+  },
+  {
+    "entidad": "programa de salud cardiovascular",
+    "relacion": "establece",
+    "valor": "metas de prevención secundaria"
+  },
+  {
+    "entidad": "pacientes con enfermedad coronaria",
+    "relacion": "deben recibir",
+    "valor": "fármacos de acción cardiovascular"
+  },
+  {
+    "entidad": "abandonar el tabaquismo",
+    "relacion": "está relacionado con",
+    "valor": "disminución de la mortalidad"
+  },
+  {
+    "entidad": "prescripción de fármacos",
+    "relacion": "es alta en",
+    "valor": "pacientes con enfermedad coronaria"
+  },
+  {
+    "entidad": "eventos cardiovasculares mayores",
+    "relacion": "son",
+    "valor": "angioplastía, cirugía de revascularización, infarto agudo al miocardio"
+  },
+  {
+    "entidad": "control de factores de riesgo cardiovascular",
+    "relacion": "es necesario para",
+    "valor": "reducir eventos cardiovasculares"
+  },
+  {
+    "entidad": "pacientes diabéticos",
+    "relacion": "tienen",
+    "valor": "mayor riesgo de eventos cardiovasculares"
+  },
+  {
+    "entidad": "programa de seguimiento",
+    "relacion": "puede lograr",
+    "valor": "reducir el tabaquismo"
+  },
+  {
+    "entidad": "educación por enfermera",
+    "relacion": "es parte de",
+    "valor": "estrategias de prevención secundaria"
+  },
+  {
+    "entidad": "neumonía adquirida en la comunidad",
+    "relacion": "es",
+    "valor": "principal causa de muerte infecciosa en el mundo"
+  },
+  {
+    "entidad": "neumonía adquirida en la comunidad",
+    "relacion": "es",
+    "valor": "sexta causa de muerte en población infantil y adulta en Chile"
+  },
+  {
+    "entidad": "edad avanzada",
+    "relacion": "asocia",
+    "valor": "mayor riesgo de complicaciones y muerte"
+  },
+  {
+    "entidad": "comorbilidades",
+    "relacion": "aumenta",
+    "valor": "riesgo de muerte en pacientes con neumonía"
+  },
+  {
+    "entidad": "Fine Index",
+    "relacion": "utiliza",
+    "valor": "para predecir riesgo de muerte"
+  },
+  {
+    "entidad": "hospitalización",
+    "relacion": "afecta",
+    "valor": "supervivencia a largo plazo"
+  },
+  {
+    "entidad": "pacientes adultos inmunocompetentes",
+    "relacion": "son",
+    "valor": "grupo de estudio"
+  },
+  {
+    "entidad": "hospital Clínico de la Pontificia Universidad Católica de Chile",
+    "relacion": "es",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "proteína C reactiva",
+    "relacion": "baja en admisión",
+    "valor": "asociada a mayor riesgo de muerte"
+  },
+  {
+    "entidad": "fiebre",
+    "relacion": "ausente en admisión",
+    "valor": "asociada a mayor riesgo de muerte"
+  },
+  {
+    "entidad": "comorbilidades específicas",
+    "relacion": "asocian",
+    "valor": "mayor riesgo de muerte a largo plazo"
+  },
+  {
+    "entidad": "programas de vacunación",
+    "relacion": "implementa",
+    "valor": "medidas preventivas eficaces"
+  },
+  {
+    "entidad": "neumonía adquirida en la comunidad",
+    "relacion": "influye en",
+    "valor": "pronóstico de los enfermos"
+  },
+  {
+    "entidad": "mortalidad a largo plazo",
+    "relacion": "es",
+    "valor": "similar en pacientes con neumonía y grupo control"
+  },
+  {
+    "entidad": "edad avanzada",
+    "relacion": "es un",
+    "valor": "predictor de mortalidad a largo plazo"
+  },
+  {
+    "entidad": "enfermedades cardiovasculares",
+    "relacion": "aumentan",
+    "valor": "riesgo de muerte en seguimiento a largo plazo"
+  },
+  {
+    "entidad": "comorbilidad múltiple",
+    "relacion": "asocia",
+    "valor": "mayor riesgo de complicaciones y muerte"
+  },
+  {
+    "entidad": "neoplasias",
+    "relacion": "aumentan",
+    "valor": "riesgo de muerte en seguimiento a largo plazo"
+  },
+  {
+    "entidad": "síndrome de Down",
+    "relacion": "es",
+    "valor": "una condición genética"
+  },
+  {
+    "entidad": "padres",
+    "relacion": "reciben",
+    "valor": "noticia del diagnóstico"
+  },
+  {
+    "entidad": "diagnóstico postnatal",
+    "relacion": "es recibido por",
+    "valor": "84% de los padres"
+  },
+  {
+    "entidad": "diagnóstico prenatal",
+    "relacion": "es preferido por",
+    "valor": "53% de los padres"
+  },
+  {
+    "entidad": "experiencia de los padres",
+    "relacion": "depende de",
+    "valor": "la forma de entrega del diagnóstico"
+  },
+  {
+    "entidad": "entrega de diagnóstico",
+    "relacion": "es considerada",
+    "valor": "inadecuada por 56% de los padres"
+  },
+  {
+    "entidad": "presencia de ambos padres",
+    "relacion": "asocia con",
+    "valor": "una experiencia positiva"
+  },
+  {
+    "entidad": "material impreso",
+    "relacion": "es entregado a",
+    "valor": "19.3% de los padres"
+  },
+  {
+    "entidad": "educación del personal de salud",
+    "relacion": "debe ser",
+    "valor": "mejorada"
+  },
+  {
+    "entidad": "sistema de salud público",
+    "relacion": "atiende",
+    "valor": "75% de los partos"
+  },
+  {
+    "entidad": "sentimientos de miedo y ansiedad",
+    "relacion": "son experimentados por",
+    "valor": "más de la mitad de los padres"
+  },
+  {
+    "entidad": "informante médico",
+    "relacion": "es preferido para",
+    "valor": "entregar el diagnóstico"
+  },
+  {
+    "entidad": "diagnóstico prenatal",
+    "relacion": "permite",
+    "valor": "preparar a la familia"
+  },
+  {
+    "entidad": "material impreso",
+    "relacion": "es considerado adecuado por",
+    "valor": "36.9% de los que lo recibieron"
+  },
+  {
+    "entidad": "experiencia global",
+    "relacion": "es catalogada como",
+    "valor": "inadecuada por 55% de los encuestados"
+  },
+  {
+    "entidad": "diagnóstico de síndrome de Down",
+    "relacion": "debe ser entregado por",
+    "valor": "médicos"
+  },
+  {
+    "entidad": "diagnóstico prenatal",
+    "relacion": "influye en",
+    "valor": "una mejor experiencia"
+  },
+  {
+    "entidad": "apego con el recién nacido",
+    "relacion": "puede ser afectado por",
+    "valor": "la insatisfacción con la entrega del diagnóstico"
+  }
+]

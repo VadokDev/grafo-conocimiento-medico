@@ -1,0 +1,112 @@
+[
+  {
+    "entidad": "ecocardiografía",
+    "relacion": "es una",
+    "valor": "herramienta central para monitorización hemodinámica"
+  },
+  {
+    "entidad": "pacientes críticos",
+    "relacion": "son",
+    "valor": "sujetos de monitorización hemodinámica"
+  },
+  {
+    "entidad": "ecocardiografía de cuidados críticos",
+    "relacion": "requiere",
+    "valor": "profesional calificado y entrenado"
+  },
+  {
+    "entidad": "ecocardiografía",
+    "relacion": "se asocia a",
+    "valor": "menor mortalidad en sepsis"
+  },
+  {
+    "entidad": "ecocardiografía",
+    "relacion": "mejora",
+    "valor": "diagnóstico en urgencias"
+  },
+  {
+    "entidad": "shock",
+    "relacion": "es un",
+    "valor": "estado grave de falla circulatoria aguda"
+  },
+  {
+    "entidad": "ecocardiografía",
+    "relacion": "es la primera línea para",
+    "valor": "diagnosticar mecanismos de shock"
+  },
+  {
+    "entidad": "ecocardiografía",
+    "relacion": "permite identificar",
+    "valor": "causas específicas como taponamiento cardíaco"
+  },
+  {
+    "entidad": "ecocardiografía",
+    "relacion": "se utiliza para",
+    "valor": "optimizar maniobras en paro cardiorrespiratorio"
+  },
+  {
+    "entidad": "disfunción cardíaca",
+    "relacion": "puede asociarse a",
+    "valor": "fracaso del destete de ventilación mecánica"
+  },
+  {
+    "entidad": "ecocardiografía",
+    "relacion": "puede detectar",
+    "valor": "derrame pericárdico y taponamiento"
+  },
+  {
+    "entidad": "evaluación diastólica",
+    "relacion": "es un",
+    "valor": "factor de riesgo de destete fallido"
+  },
+  {
+    "entidad": "evaluación de función sistólica izquierda",
+    "relacion": "es parte fundamental de",
+    "valor": "ecocardiografía convencional"
+  },
+  {
+    "entidad": "evaluación de función diastólica",
+    "relacion": "difiere de",
+    "valor": "la evaluación cardiológica"
+  },
+  {
+    "entidad": "evaluación ventricular derecha",
+    "relacion": "es relevante en",
+    "valor": "pacientes críticos con falla respiratoria"
+  },
+  {
+    "entidad": "ecocardiografía",
+    "relacion": "permite observar",
+    "valor": "estructuras y funciones valvulares"
+  },
+  {
+    "entidad": "evaluación venosa",
+    "relacion": "se orienta a",
+    "valor": "conocer el estado de la volemia"
+  },
+  {
+    "entidad": "pruebas dinámicas",
+    "relacion": "pueden obtener",
+    "valor": "información adicional en ecocardiografía"
+  },
+  {
+    "entidad": "ecocardiografía",
+    "relacion": "ha demostrado utilidad en",
+    "valor": "valoración inicial y monitorización en COVID-19"
+  },
+  {
+    "entidad": "formación en ecocardiografía",
+    "relacion": "es un elemento central en",
+    "valor": "evaluación hemodinámica moderna"
+  },
+  {
+    "entidad": "entrenamiento de ecocardiografía",
+    "relacion": "debe ser realizado con",
+    "valor": "práctica supervisada"
+  },
+  {
+    "entidad": "ecocardiografía",
+    "relacion": "es susceptible de",
+    "valor": "progreso tecnológico y continua investigación"
+  }
+]

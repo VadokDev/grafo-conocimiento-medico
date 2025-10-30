@@ -1,0 +1,257 @@
+[
+  {
+    "entidad": "Aneurisma apical",
+    "relacion": "se presenta en",
+    "valor": "paciente con miocardiopatía hipertrófica"
+  },
+  {
+    "entidad": "miocardiopatía hipertrófica",
+    "relacion": "asocia a",
+    "valor": "muerte súbita"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "tiene",
+    "valor": "diabetes tipo II"
+  },
+  {
+    "entidad": "electrocardiograma",
+    "relacion": "muestra",
+    "valor": "alteraciones ST y T"
+  },
+  {
+    "entidad": "ecocardiograma",
+    "relacion": "revela",
+    "valor": "akinesia apical y hipertrofia ventricular izquierda"
+  },
+  {
+    "entidad": "coronariografía",
+    "relacion": "no muestra",
+    "valor": "lesiones angiográficas"
+  },
+  {
+    "entidad": "ventriculografía",
+    "relacion": "revela",
+    "valor": "ventrículo izquierdo hiperdinámico con aneurisma apical"
+  },
+  {
+    "entidad": "resonancia magnética cardíaca",
+    "relacion": "confirma",
+    "valor": "aneurisma apical sin realce tardío"
+  },
+  {
+    "entidad": "European Cardiology Society Risk Score",
+    "relacion": "indica",
+    "valor": "bajo riesgo de muerte súbita"
+  },
+  {
+    "entidad": "aneurisma apical",
+    "relacion": "es considerado en",
+    "valor": "guías ACC/AHA como factor de riesgo"
+  },
+  {
+    "entidad": "DAI",
+    "relacion": "fue implantado en",
+    "valor": "paciente"
+  },
+  {
+    "entidad": "tratamiento anticoagulante",
+    "relacion": "se inició con",
+    "valor": "antagonistas de la vitamina K"
+  },
+  {
+    "entidad": "miocardiopatía hipertrófica",
+    "relacion": "puede causar",
+    "valor": "insuficiencia cardiaca"
+  },
+  {
+    "entidad": "aneurisma apical",
+    "relacion": "asocia a",
+    "valor": "muerte súbita y fenómenos embólicos"
+  },
+  {
+    "entidad": "guías ACC/AHA",
+    "relacion": "consideran",
+    "valor": "aneurisma como marcador de riesgo mayor"
+  },
+  {
+    "entidad": "pacientes con aneurisma",
+    "relacion": "presentan",
+    "valor": "arritmias graves"
+  },
+  {
+    "entidad": "warfarina",
+    "relacion": "es utilizada en",
+    "valor": "tratamiento anticoagulante"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "no ha tenido",
+    "valor": "síntomas ni descargas del DAI en seguimiento"
+  },
+  {
+    "entidad": "guías ESC",
+    "relacion": "recomiendan",
+    "valor": "estratificación de riesgo de muerte súbita"
+  },
+  {
+    "entidad": "Disección coronaria espontánea",
+    "relacion": "es un",
+    "valor": "tipo de síndrome coronario agudo"
+  },
+  {
+    "entidad": "Disección coronaria espontánea",
+    "relacion": "afecta a",
+    "valor": "mujeres jóvenes sin factores de riesgo cardiovascular"
+  },
+  {
+    "entidad": "paciente trasplantada de corazón",
+    "relacion": "presenta",
+    "valor": "disección coronaria espontánea"
+  },
+  {
+    "entidad": "disección coronaria espontánea",
+    "relacion": "es causada por",
+    "valor": "desgarro intimal o hemorragia intramural"
+  },
+  {
+    "entidad": "anticalcineurínicos",
+    "relacion": "se postula como",
+    "valor": "mecanismo de daño vascular en trasplantados"
+  },
+  {
+    "entidad": "coronariografía",
+    "relacion": "es el examen de elección para",
+    "valor": "diagnóstico de disección coronaria espontánea"
+  },
+  {
+    "entidad": "tratamiento",
+    "relacion": "incluye",
+    "valor": "intervención coronaria percutánea"
+  },
+  {
+    "entidad": "tacrolimus",
+    "relacion": "es un",
+    "valor": "inhibidor de la calcineurina"
+  },
+  {
+    "entidad": "rechazo celular agudo moderado",
+    "relacion": "requiere",
+    "valor": "metilprednisolona bolus y ajuste de inmunosupresores"
+  },
+  {
+    "entidad": "biopsia endomiocárdica",
+    "relacion": "no muestra",
+    "valor": "signos de rechazo"
+  },
+  {
+    "entidad": "ecocardiografía",
+    "relacion": "evidencia",
+    "valor": "fracción de eyección adecuada"
+  },
+  {
+    "entidad": "disección coronaria espontánea",
+    "relacion": "puede llevar a",
+    "valor": "isquemia miocárdica"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "recibe tratamiento con",
+    "valor": "prednisona, tacrolimus y ácido micofenólico"
+  },
+  {
+    "entidad": "disección coronaria tipo 1",
+    "relacion": "se observa en",
+    "valor": "coronariografía"
+  },
+  {
+    "entidad": "disección coronaria espontánea",
+    "relacion": "puede ser manifestación de",
+    "valor": "rechazo humoral"
+  },
+  {
+    "entidad": "disección coronaria espontánea",
+    "relacion": "es extremadamente rara en",
+    "valor": "pacientes trasplantados"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "disnea de esfuerzos"
+  },
+  {
+    "entidad": "intervención coronaria percutánea",
+    "relacion": "se realiza a pesar de",
+    "valor": "flujo coronario conservado"
+  },
+  {
+    "entidad": "neoplasia neuroendocrina",
+    "relacion": "causa",
+    "valor": "obstrucción intestinal"
+  },
+  {
+    "entidad": "tumores neuroendocrinos de intestino delgado",
+    "relacion": "son",
+    "valor": "neoplasias infrecuentes"
+  },
+  {
+    "entidad": "tumores neuroendocrinos de intestino delgado",
+    "relacion": "presentan",
+    "valor": "síntomas no específicos"
+  },
+  {
+    "entidad": "fibrosis mesentérica",
+    "relacion": "produce",
+    "valor": "reacción desmoplásica"
+  },
+  {
+    "entidad": "adenopatías mesentéricas",
+    "relacion": "pueden causar",
+    "valor": "obstrucción intestinal"
+  },
+  {
+    "entidad": "paciente masculino de 79 años",
+    "relacion": "presenta",
+    "valor": "obstrucción intestinal parcial"
+  },
+  {
+    "entidad": "tomografía computada",
+    "relacion": "utiliza",
+    "valor": "para diagnóstico"
+  },
+  {
+    "entidad": "biopsia",
+    "relacion": "confirma",
+    "valor": "diagnóstico de tumor neuroendocrino"
+  },
+  {
+    "entidad": "sunitinib",
+    "relacion": "es un",
+    "valor": "inhibidor multi-cinasa"
+  },
+  {
+    "entidad": "ocreotide",
+    "relacion": "es un",
+    "valor": "agente somatostático"
+  },
+  {
+    "entidad": "World Health Organization",
+    "relacion": "clasifica",
+    "valor": "tumores neuroendocrinos"
+  },
+  {
+    "entidad": "TC multifásica de alta resolución",
+    "relacion": "es",
+    "valor": "herramienta valiosa para diagnóstico"
+  },
+  {
+    "entidad": "diseminación ganglionar mesentérica",
+    "relacion": "produce",
+    "valor": "reacción desmoplásica"
+  },
+  {
+    "entidad": "histopatología de biopsia",
+    "relacion": "revela",
+    "valor": "tumor neuroendocrino de bajo grado"
+  }
+]

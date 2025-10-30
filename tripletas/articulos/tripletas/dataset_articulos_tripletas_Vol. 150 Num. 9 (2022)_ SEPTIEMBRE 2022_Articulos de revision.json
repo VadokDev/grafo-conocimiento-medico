@@ -1,0 +1,197 @@
+[
+  {
+    "entidad": "Bicarbonato de sodio intravenoso",
+    "relacion": "utiliza",
+    "valor": "para tratar acidosis metabólica severa"
+  },
+  {
+    "entidad": "Acidosis metabólica severa",
+    "relacion": "se define por",
+    "valor": "pH < 7.2 y HCO3- < 8 mEq/L"
+  },
+  {
+    "entidad": "Acidemia",
+    "relacion": "produce",
+    "valor": "múltiples complicaciones"
+  },
+  {
+    "entidad": "Bicarbonato de sodio intravenoso",
+    "relacion": "amortigua",
+    "valor": "daño celular por acidemia"
+  },
+  {
+    "entidad": "Bicarbonato de sodio intravenoso",
+    "relacion": "requiere",
+    "valor": "evaluación de riesgo-beneficio"
+  },
+  {
+    "entidad": "Complicaciones del bicarbonato de sodio",
+    "relacion": "incluyen",
+    "valor": "hipernatremia, hipokalemia, hipocalcemia iónica"
+  },
+  {
+    "entidad": "NaHCO3 intravenoso",
+    "relacion": "debe ser administrado",
+    "valor": "judiciosamente"
+  },
+  {
+    "entidad": "Pacientes en ventilación mecánica",
+    "relacion": "deben evitar",
+    "valor": "acidosis intracelular"
+  },
+  {
+    "entidad": "NaHCO3 intravenoso",
+    "relacion": "se utiliza",
+    "valor": "como alcalinizante urinario"
+  },
+  {
+    "entidad": "NaHCO3 intravenoso",
+    "relacion": "no se recomienda",
+    "valor": "en paro cardiorrespiratorio sin hiperkalemia"
+  },
+  {
+    "entidad": "Efectos secundarios del NaHCO3 intravenoso",
+    "relacion": "requieren",
+    "valor": "control seriado del medio interno"
+  },
+  {
+    "entidad": "NaHCO3 intravenoso",
+    "relacion": "puede empeorar",
+    "valor": "acidosis intracelular"
+  },
+  {
+    "entidad": "Acidosis orgánica",
+    "relacion": "es peor que",
+    "valor": "acidosis mineral"
+  },
+  {
+    "entidad": "NaHCO3 intravenoso",
+    "relacion": "se asocia a",
+    "valor": "aumento de mortalidad en algunos estudios"
+  },
+  {
+    "entidad": "NaHCO3 intravenoso",
+    "relacion": "es la base de elección",
+    "valor": "para el manejo de acidosis metabólica severa"
+  },
+  {
+    "entidad": "NaHCO3 intravenoso",
+    "relacion": "debe ser administrado",
+    "valor": "en unidad monitorizada"
+  },
+  {
+    "entidad": "Objetivo del tratamiento con NaHCO3",
+    "relacion": "es",
+    "valor": "aminorar la acidemia"
+  },
+  {
+    "entidad": "NaHCO3 intravenoso",
+    "relacion": "se prefiere",
+    "valor": "en forma isotónica para evitar complicaciones"
+  },
+  {
+    "entidad": "Protocolos de comunicación de malas noticias",
+    "relacion": "analiza",
+    "valor": "limitaciones, desafíos y propuestas"
+  },
+  {
+    "entidad": "Profesionales de la salud",
+    "relacion": "realizan",
+    "valor": "comunicación de malas noticias"
+  },
+  {
+    "entidad": "Comunicación de malas noticias",
+    "relacion": "es",
+    "valor": "una tarea compleja y trascendente"
+  },
+  {
+    "entidad": "Protocolos",
+    "relacion": "sistematizan",
+    "valor": "la tarea de comunicar malas noticias"
+  },
+  {
+    "entidad": "Protocolos de CMN",
+    "relacion": "tienen",
+    "valor": "importantes limitaciones"
+  },
+  {
+    "entidad": "Comunicación de malas noticias",
+    "relacion": "requiere",
+    "valor": "reflexión y flexibilidad"
+  },
+  {
+    "entidad": "Atención afectuosa",
+    "relacion": "es destacada por",
+    "valor": "su importancia para pacientes y familiares"
+  },
+  {
+    "entidad": "Protocolos para la CMN",
+    "relacion": "son de gran utilidad",
+    "valor": "para estructurar el proceso comunicativo"
+  },
+  {
+    "entidad": "Protocolos de CMN",
+    "relacion": "se desarrollan para",
+    "valor": "diferentes contextos médicos"
+  },
+  {
+    "entidad": "Estrategia de diez etapas de McGuigan",
+    "relacion": "es un",
+    "valor": "protocolo para la CMN"
+  },
+  {
+    "entidad": "Modelo de nueve fases de Lee et al.",
+    "relacion": "es un",
+    "valor": "protocolo para la CMN"
+  },
+  {
+    "entidad": "Protocolo de los tres pasos",
+    "relacion": "es un",
+    "valor": "protocolo para la CMN"
+  },
+  {
+    "entidad": "Objetivos CERCA",
+    "relacion": "son",
+    "valor": "Contexto, Exploración, Revelación, Contención y Acuerdo"
+  },
+  {
+    "entidad": "CMN",
+    "relacion": "es un proceso",
+    "valor": "que involucra a diferentes actores"
+  },
+  {
+    "entidad": "Protocolos de CMN",
+    "relacion": "no consideran",
+    "valor": "la historia y red de apoyo del paciente"
+  },
+  {
+    "entidad": "Familiares",
+    "relacion": "tienen un rol",
+    "valor": "en la comunicación de malas noticias"
+  },
+  {
+    "entidad": "Médicos",
+    "relacion": "deben ser entrenados en",
+    "valor": "manejo grupal"
+  },
+  {
+    "entidad": "Emociones",
+    "relacion": "son",
+    "valor": "parte del proceso de CMN"
+  },
+  {
+    "entidad": "Estado emocional del médico",
+    "relacion": "afecta",
+    "valor": "su habilidad para tomar decisiones"
+  },
+  {
+    "entidad": "Protocolos de CMN",
+    "relacion": "deben ser complementados con",
+    "valor": "una práctica reflexiva"
+  },
+  {
+    "entidad": "Instituciones de salud",
+    "relacion": "deben atender",
+    "valor": "el rol de los profesionales en la CMN"
+  }
+]

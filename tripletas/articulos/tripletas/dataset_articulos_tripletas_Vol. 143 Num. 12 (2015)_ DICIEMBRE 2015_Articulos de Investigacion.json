@@ -1,0 +1,817 @@
+[
+  {
+    "entidad": "enfermedad celíaca",
+    "relacion": "es un",
+    "valor": "desorden multisistémico mediado inmunológicamente"
+  },
+  {
+    "entidad": "gluten",
+    "relacion": "provoca",
+    "valor": "enfermedad celíaca"
+  },
+  {
+    "entidad": "familiares de primer grado",
+    "relacion": "tienen mayor riesgo de",
+    "valor": "enfermedad celíaca"
+  },
+  {
+    "entidad": "búsqueda activa",
+    "relacion": "se recomienda para",
+    "valor": "grupos de riesgo de enfermedad celíaca"
+  },
+  {
+    "entidad": "serología positiva",
+    "relacion": "indica",
+    "valor": "posible enfermedad celíaca"
+  },
+  {
+    "entidad": "biopsia intestinal",
+    "relacion": "es necesaria para",
+    "valor": "confirmar diagnóstico de enfermedad celíaca"
+  },
+  {
+    "entidad": "dieta sin gluten",
+    "relacion": "es el tratamiento para",
+    "valor": "enfermedad celíaca"
+  },
+  {
+    "entidad": "anticuerpos antiendomisio (EMA)",
+    "relacion": "son un tipo de",
+    "valor": "anticuerpos específicos en enfermedad celíaca"
+  },
+  {
+    "entidad": "transglutaminasa (tTG)",
+    "relacion": "es un marcador serológico para",
+    "valor": "enfermedad celíaca"
+  },
+  {
+    "entidad": "HLA DQ2 o DQ8",
+    "relacion": "aumentan el",
+    "valor": "riesgo de enfermedad celíaca"
+  },
+  {
+    "entidad": "Corporación de Apoyo a los Celíacos (COACEL)",
+    "relacion": "es una",
+    "valor": "organización que apoya a pacientes celíacos"
+  },
+  {
+    "entidad": "INTA, Universidad de Chile",
+    "relacion": "realiza",
+    "valor": "diagnóstico de enfermedad celíaca"
+  },
+  {
+    "entidad": "histología duodenal",
+    "relacion": "diferencia entre",
+    "valor": "enfermedad celíaca activa y potencial"
+  },
+  {
+    "entidad": "sintomatología digestiva",
+    "relacion": "puede estar presente en",
+    "valor": "enfermedad celíaca"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "mejora con",
+    "valor": "dieta sin gluten"
+  },
+  {
+    "entidad": "serología",
+    "relacion": "se utiliza para",
+    "valor": "la pesquisa de enfermedad celíaca"
+  },
+  {
+    "entidad": "familiares de primer grado",
+    "relacion": "deben ser evaluados para",
+    "valor": "enfermedad celíaca"
+  },
+  {
+    "entidad": "estudio descriptivo",
+    "relacion": "realizado entre",
+    "valor": "enero de 2012 y agosto de 2013"
+  },
+  {
+    "entidad": "Fracturas de cadera",
+    "relacion": "son",
+    "valor": "una grave consecuencia de la fragilidad ósea"
+  },
+  {
+    "entidad": "Fracturas de cadera",
+    "relacion": "tienen",
+    "valor": "alta incidencia en países en desarrollo"
+  },
+  {
+    "entidad": "Programa de Ortogeriatría",
+    "relacion": "pertenece a",
+    "valor": "Hospital Dr. Gustavo Fricke"
+  },
+  {
+    "entidad": "Hospital Dr. Gustavo Fricke",
+    "relacion": "se encuentra en",
+    "valor": "Viña del Mar, Chile"
+  },
+  {
+    "entidad": "Universidad de Valparaíso",
+    "relacion": "colabora con",
+    "valor": "Hospital Dr. Gustavo Fricke"
+  },
+  {
+    "entidad": "Osteoporosis",
+    "relacion": "afecta a",
+    "valor": "un alto porcentaje de pacientes con fracturas de cadera"
+  },
+  {
+    "entidad": "Fracturas extracapsulares",
+    "relacion": "son tratadas con",
+    "valor": "osteosíntesis"
+  },
+  {
+    "entidad": "Fracturas intracapsulares",
+    "relacion": "son tratadas con",
+    "valor": "artroplastía"
+  },
+  {
+    "entidad": "Mortalidad",
+    "relacion": "es mayor en",
+    "valor": "pacientes no operados"
+  },
+  {
+    "entidad": "Tiempo entre fractura y cirugía",
+    "relacion": "es un factor",
+    "valor": "de pronóstico vital y funcional"
+  },
+  {
+    "entidad": "Comorbilidades",
+    "relacion": "son",
+    "valor": "diagnósticos médicos registrados durante la hospitalización"
+  },
+  {
+    "entidad": "Osteoporosis secundaria",
+    "relacion": "se asocia a",
+    "valor": "uso de fármacos"
+  },
+  {
+    "entidad": "Osteoporosis primaria",
+    "relacion": "no se asocia a",
+    "valor": "factores de riesgo"
+  },
+  {
+    "entidad": "Estacionalidad",
+    "relacion": "influye en",
+    "valor": "la ocurrencia de fracturas de cadera"
+  },
+  {
+    "entidad": "Fracturas de cadera",
+    "relacion": "se presentan más comúnmente en",
+    "valor": "el hogar"
+  },
+  {
+    "entidad": "Fracturas de cadera",
+    "relacion": "tienen un impacto",
+    "valor": "funcional, social y económico alto"
+  },
+  {
+    "entidad": "Fracturas de cadera",
+    "relacion": "son más frecuentes en",
+    "valor": "mujeres"
+  },
+  {
+    "entidad": "Fracturas de cadera",
+    "relacion": "se diagnostican mediante",
+    "valor": "análisis clínico-radiológico"
+  },
+  {
+    "entidad": "Hospital Dr. Gustavo Fricke",
+    "relacion": "realiza",
+    "valor": "cirugías ortopédicas"
+  },
+  {
+    "entidad": "Fracturas de cadera",
+    "relacion": "se clasifican en",
+    "valor": "intra y extracapsulares"
+  },
+  {
+    "entidad": "Políticas públicas de salud",
+    "relacion": "deben mejorar",
+    "valor": "el acceso al manejo quirúrgico"
+  },
+  {
+    "entidad": "periodontitis",
+    "relacion": "afecta a",
+    "valor": "pacientes con artritis reumatoide"
+  },
+  {
+    "entidad": "artritis reumatoide",
+    "relacion": "es una",
+    "valor": "enfermedad autoinmune"
+  },
+  {
+    "entidad": "Hospital Padre Hurtado",
+    "relacion": "es un",
+    "valor": "hospital público en Chile"
+  },
+  {
+    "entidad": "pacientes chilenos",
+    "relacion": "son atendidos en",
+    "valor": "Hospital Padre Hurtado"
+  },
+  {
+    "entidad": "periodontitis",
+    "relacion": "es común en",
+    "valor": "pacientes con artritis reumatoide"
+  },
+  {
+    "entidad": "severidad de periodontitis",
+    "relacion": "es influenciada por",
+    "valor": "género"
+  },
+  {
+    "entidad": "severidad de periodontitis",
+    "relacion": "es influenciada por",
+    "valor": "edad"
+  },
+  {
+    "entidad": "severidad de periodontitis",
+    "relacion": "es influenciada por",
+    "valor": "tabaquismo"
+  },
+  {
+    "entidad": "severidad de periodontitis",
+    "relacion": "es influenciada por",
+    "valor": "dosis de corticosteroides"
+  },
+  {
+    "entidad": "actividad de artritis reumatoide",
+    "relacion": "no tiene relación con",
+    "valor": "severidad de periodontitis"
+  },
+  {
+    "entidad": "DAS 28",
+    "relacion": "es utilizado para evaluar",
+    "valor": "actividad de artritis reumatoide"
+  },
+  {
+    "entidad": "periodontitis",
+    "relacion": "puede desencadenar o empeorar",
+    "valor": "varias condiciones médicas"
+  },
+  {
+    "entidad": "Porphyromonas gingivalis",
+    "relacion": "es una",
+    "valor": "bacteria periodontopatógena"
+  },
+  {
+    "entidad": "terapia corticoidal",
+    "relacion": "puede tener efecto",
+    "valor": "en enfermedad periodontal"
+  },
+  {
+    "entidad": "estudio prospectivo",
+    "relacion": "evalúa",
+    "valor": "efecto del tratamiento periodontal en actividad de AR"
+  },
+  {
+    "entidad": "Instituto Nacional del Tórax",
+    "relacion": "realiza",
+    "valor": "implante percutáneo de válvula aórtica"
+  },
+  {
+    "entidad": "estenosis aórtica",
+    "relacion": "es",
+    "valor": "la patología valvular más común"
+  },
+  {
+    "entidad": "TAVI",
+    "relacion": "es un",
+    "valor": "tratamiento alternativo para pacientes de alto riesgo"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "son tratados con",
+    "valor": "TAVI en el Instituto Nacional del Tórax"
+  },
+  {
+    "entidad": "mortalidad general",
+    "relacion": "se evalúa a",
+    "valor": "30 días, 1 año y 2 años"
+  },
+  {
+    "entidad": "escala de Karnofsky",
+    "relacion": "se utiliza para evaluar",
+    "valor": "la capacidad funcional"
+  },
+  {
+    "entidad": "CoreValve-Medtronic",
+    "relacion": "es un tipo de",
+    "valor": "válvula aórtica autoexpandible"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "predominan en",
+    "valor": "la población estudiada"
+  },
+  {
+    "entidad": "complicaciones vasculares",
+    "relacion": "se presentan en",
+    "valor": "un porcentaje de procedimientos"
+  },
+  {
+    "entidad": "mortalidad cardiovascular",
+    "relacion": "es la causa principal de",
+    "valor": "muertes a los 30 días"
+  },
+  {
+    "entidad": "Karnofsky",
+    "relacion": "mide",
+    "valor": "la calidad de vida"
+  },
+  {
+    "entidad": "función cardíaca",
+    "relacion": "mejora con",
+    "valor": "el implante de válvula aórtica"
+  },
+  {
+    "entidad": "pacientes con estenosis aórtica severa",
+    "relacion": "son considerados de",
+    "valor": "alto riesgo quirúrgico"
+  },
+  {
+    "entidad": "mortalidad a 30 días",
+    "relacion": "es",
+    "valor": "11.1%"
+  },
+  {
+    "entidad": "mortalidad a 1 año",
+    "relacion": "es",
+    "valor": "18.5%"
+  },
+  {
+    "entidad": "mortalidad a 2 años",
+    "relacion": "es",
+    "valor": "29.6%"
+  },
+  {
+    "entidad": "accidente cerebrovascular",
+    "relacion": "se presenta en",
+    "valor": "3.7% de los pacientes"
+  },
+  {
+    "entidad": "mortalidad no cardiovascular",
+    "relacion": "se presenta en",
+    "valor": "pacientes con comorbilidades"
+  },
+  {
+    "entidad": "Familial Mediterranean Fever (FMF)",
+    "relacion": "asocia a",
+    "valor": "anomalías en la repolarización ventricular"
+  },
+  {
+    "entidad": "FMF",
+    "relacion": "causa",
+    "valor": "arritmias cardíacas"
+  },
+  {
+    "entidad": "arritmias cardíacas",
+    "relacion": "son parte de",
+    "valor": "compromiso cardiovascular en enfermedades reumáticas"
+  },
+  {
+    "entidad": "FMF",
+    "relacion": "se caracteriza por",
+    "valor": "ataques esporádicos de fiebre, artritis y serositis"
+  },
+  {
+    "entidad": "FMF",
+    "relacion": "puede causar",
+    "valor": "pericarditis"
+  },
+  {
+    "entidad": "amyloidosis",
+    "relacion": "es una complicación de",
+    "valor": "FMF"
+  },
+  {
+    "entidad": "FMF",
+    "relacion": "se diagnostica mediante",
+    "valor": "criterios clínicos y pruebas genéticas del gen MEFV"
+  },
+  {
+    "entidad": "intervalos QT y QTc",
+    "relacion": "son",
+    "valor": "normales en pacientes con FMF"
+  },
+  {
+    "entidad": "QT dispersion",
+    "relacion": "es mayor en",
+    "valor": "pacientes con FMF que en controles sanos"
+  },
+  {
+    "entidad": "Tpe/QT y Tpe/QTc",
+    "relacion": "son mayores en",
+    "valor": "pacientes con FMF que en controles sanos"
+  },
+  {
+    "entidad": "niveles de proteinuria",
+    "relacion": "se correlacionan con",
+    "valor": "QT dispersion y Tpe"
+  },
+  {
+    "entidad": "FMF",
+    "relacion": "puede tener",
+    "valor": "potencial arrítmico subclínico"
+  },
+  {
+    "entidad": "FMF",
+    "relacion": "presenta",
+    "valor": "riesgo aumentado de arritmias"
+  },
+  {
+    "entidad": "Tpe",
+    "relacion": "es un marcador de",
+    "valor": "anomalía de repolarización cardíaca"
+  },
+  {
+    "entidad": "amyloidosis",
+    "relacion": "puede involucrar",
+    "valor": "riñones, bazo, hígado y intestinos"
+  },
+  {
+    "entidad": "FMF",
+    "relacion": "es más común en",
+    "valor": "grupos étnicos del Mediterráneo"
+  },
+  {
+    "entidad": "colchicina",
+    "relacion": "es un tratamiento para",
+    "valor": "FMF"
+  },
+  {
+    "entidad": "Linfoma de Burkitt",
+    "relacion": "es un",
+    "valor": "linfoma de células B maduras altamente agresivo"
+  },
+  {
+    "entidad": "Linfoma de Burkitt",
+    "relacion": "corresponde a",
+    "valor": "menos del 5% de los linfomas no-Hodgkin"
+  },
+  {
+    "entidad": "Linfoma de Burkitt",
+    "relacion": "tiene una incidencia en adultos de",
+    "valor": "2,5 casos por millón de habitantes por año"
+  },
+  {
+    "entidad": "Hospital del Salvador",
+    "relacion": "se encuentra en",
+    "valor": "Santiago, Chile"
+  },
+  {
+    "entidad": "Protocolo Nacional de Cáncer del Adulto",
+    "relacion": "excluye",
+    "valor": "pacientes VIH positivos de quimioterapia intensiva"
+  },
+  {
+    "entidad": "pacientes VIH positivos",
+    "relacion": "reciben",
+    "valor": "quimioterapia intensiva"
+  },
+  {
+    "entidad": "quimioterapia intensiva",
+    "relacion": "se utiliza para tratar",
+    "valor": "Linfoma de Burkitt"
+  },
+  {
+    "entidad": "Rituximab",
+    "relacion": "es un",
+    "valor": "anticuerpo monoclonal anti CD20"
+  },
+  {
+    "entidad": "Rituximab",
+    "relacion": "asociado a",
+    "valor": "quimioterapia intensiva mejora la remisión completa"
+  },
+  {
+    "entidad": "pacientes VIH positivos",
+    "relacion": "presentan",
+    "valor": "alta frecuencia de compromiso extranodal"
+  },
+  {
+    "entidad": "compromiso extranodal",
+    "relacion": "es común en",
+    "valor": "Linfoma de Burkitt"
+  },
+  {
+    "entidad": "quimioterapia intensiva",
+    "relacion": "se realiza en",
+    "valor": "un lapso corto de tiempo"
+  },
+  {
+    "entidad": "Comité Hemato-Oncológico",
+    "relacion": "decidió incorporar",
+    "valor": "pacientes VIH positivos con Linfoma de Burkitt"
+  },
+  {
+    "entidad": "pacientes VIH positivos",
+    "relacion": "son analizados en",
+    "valor": "el Hospital del Salvador"
+  },
+  {
+    "entidad": "metotrexato",
+    "relacion": "es un",
+    "valor": "medicamento utilizado en quimioterapia intensiva"
+  },
+  {
+    "entidad": "síntomas B",
+    "relacion": "se presentan en",
+    "valor": "pacientes con Linfoma de Burkitt"
+  },
+  {
+    "entidad": "neutropenia febril de alto riesgo",
+    "relacion": "es una complicación de",
+    "valor": "quimioterapia intensiva"
+  },
+  {
+    "entidad": "sobrevida global",
+    "relacion": "es del",
+    "valor": "58% a 4 años"
+  },
+  {
+    "entidad": "sobrevida libre de recaída",
+    "relacion": "es del",
+    "valor": "60% a 4 años"
+  },
+  {
+    "entidad": "pacientes con enfermedades autoinmunes sistémicas",
+    "relacion": "consultan en",
+    "valor": "Servicio de Urgencias"
+  },
+  {
+    "entidad": "Servicio de Urgencias",
+    "relacion": "pertenece a",
+    "valor": "Hospital Universitario La Paz"
+  },
+  {
+    "entidad": "Hospital Universitario La Paz",
+    "relacion": "es un",
+    "valor": "hospital terciario"
+  },
+  {
+    "entidad": "enfermedades autoinmunes sistémicas",
+    "relacion": "causan",
+    "valor": "descompensaciones agudas"
+  },
+  {
+    "entidad": "motivos de consulta",
+    "relacion": "son",
+    "valor": "diversos"
+  },
+  {
+    "entidad": "artritis reumatoide",
+    "relacion": "es",
+    "valor": "una enfermedad autoinmune sistémica"
+  },
+  {
+    "entidad": "sistema cardiovascular",
+    "relacion": "es",
+    "valor": "un motivo de consulta frecuente"
+  },
+  {
+    "entidad": "diagnóstico de urgencias",
+    "relacion": "es",
+    "valor": "definido por el informe de alta"
+  },
+  {
+    "entidad": "pacientes con EAS",
+    "relacion": "pueden presentar",
+    "valor": "complicaciones agudas"
+  },
+  {
+    "entidad": "factores de riesgo cardiovascular",
+    "relacion": "incluyen",
+    "valor": "hipertensión arterial, diabetes mellitus, tabaquismo, dislipemia"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "constituyen",
+    "valor": "la mayoría de los pacientes con EAS"
+  },
+  {
+    "entidad": "motivos de consulta cardiovasculares",
+    "relacion": "son",
+    "valor": "dolor torácico, disnea, síncope, palpitaciones"
+  },
+  {
+    "entidad": "pacientes con EAS",
+    "relacion": "requieren",
+    "valor": "ingreso hospitalario"
+  },
+  {
+    "entidad": "enfermedad cardiovascular",
+    "relacion": "es",
+    "valor": "una causa importante de morbilidad y mortalidad"
+  },
+  {
+    "entidad": "inflamación crónica",
+    "relacion": "afecta",
+    "valor": "el sistema cardiovascular en EAS"
+  },
+  {
+    "entidad": "marcadores de aterosclerosis",
+    "relacion": "se están investigando",
+    "valor": "nuevos marcadores"
+  },
+  {
+    "entidad": "control de factores de riesgo cardiovascular",
+    "relacion": "es",
+    "valor": "crucial en pacientes con EAS"
+  },
+  {
+    "entidad": "Tecnologías de Reproducción Asistida",
+    "relacion": "genera",
+    "valor": "debate sobre cuestiones éticas, morales y religiosas"
+  },
+  {
+    "entidad": "opiniones del público",
+    "relacion": "analiza",
+    "valor": "uso de tecnologías de reproducción asistida"
+  },
+  {
+    "entidad": "Encuesta de Opinión Pública sobre Reproducción Humana",
+    "relacion": "utiliza",
+    "valor": "información para análisis"
+  },
+  {
+    "entidad": "Grupo 1",
+    "relacion": "representa",
+    "valor": "24,1% de los encuestados que apoyan totalmente la FIV"
+  },
+  {
+    "entidad": "Grupo 2",
+    "relacion": "representa",
+    "valor": "35,2% de los encuestados que apoyan la FIV con restricciones"
+  },
+  {
+    "entidad": "Grupo 3",
+    "relacion": "representa",
+    "valor": "18,9% de los encuestados sin opinión clara sobre la FIV"
+  },
+  {
+    "entidad": "Grupo 4",
+    "relacion": "representa",
+    "valor": "8,5% de los encuestados católicos reticentes al uso de FIV"
+  },
+  {
+    "entidad": "Grupo 5",
+    "relacion": "representa",
+    "valor": "6,7% de los encuestados evangélicos que se oponen al uso de FIV"
+  },
+  {
+    "entidad": "Grupo 6",
+    "relacion": "representa",
+    "valor": "6,5% de los encuestados que no responden sobre el uso de FIV"
+  },
+  {
+    "entidad": "derecho a tener hijos",
+    "relacion": "es",
+    "valor": "argumento prevalente a favor de las TRA"
+  },
+  {
+    "entidad": "protección de la familia conyugal",
+    "relacion": "es",
+    "valor": "argumento de personas religiosas a favor de las TRA"
+  },
+  {
+    "entidad": "comercialización y manipulación",
+    "relacion": "es",
+    "valor": "argumento en contra de las TRA"
+  },
+  {
+    "entidad": "voluntad de Dios",
+    "relacion": "es",
+    "valor": "argumento en contra de las TRA"
+  },
+  {
+    "entidad": "autonomía para decidir",
+    "relacion": "es",
+    "valor": "argumento a favor de la libertad personal en el uso de TRA"
+  },
+  {
+    "entidad": "TRA como algo antinatural",
+    "relacion": "es",
+    "valor": "argumento en contra de las TRA"
+  },
+  {
+    "entidad": "adopción",
+    "relacion": "es",
+    "valor": "alternativa mencionada frente a la TRA"
+  },
+  {
+    "entidad": "sistema BIRADS",
+    "relacion": "utiliza",
+    "valor": "mamografía"
+  },
+  {
+    "entidad": "cáncer de mama",
+    "relacion": "es",
+    "valor": "la primera causa de muerte oncológica en mujeres en Chile"
+  },
+  {
+    "entidad": "Hospital Dr. Hernán Henríquez Aravena",
+    "relacion": "es",
+    "valor": "un hospital de referencia"
+  },
+  {
+    "entidad": "biopsias por punción con aguja gruesa",
+    "relacion": "se realizan en",
+    "valor": "lesiones no palpables"
+  },
+  {
+    "entidad": "BIRADS 4 y 5",
+    "relacion": "tienen",
+    "valor": "alto valor predictivo positivo para detectar cáncer"
+  },
+  {
+    "entidad": "mamografía",
+    "relacion": "se aplica como",
+    "valor": "tamizaje en población femenina mayor de 40 años"
+  },
+  {
+    "entidad": "Universidad de La Frontera",
+    "relacion": "es",
+    "valor": "una institución educativa"
+  },
+  {
+    "entidad": "Departamento de Anatomía Patológica",
+    "relacion": "pertenece a",
+    "valor": "Facultad de Medicina de la Universidad de La Frontera"
+  },
+  {
+    "entidad": "Departamento de Cirugía y Traumatología",
+    "relacion": "pertenece a",
+    "valor": "Facultad de Medicina de la Universidad de La Frontera"
+  },
+  {
+    "entidad": "Servicio de Radiología",
+    "relacion": "pertenece a",
+    "valor": "Hospital Dr. Hernán Henríquez Aravena"
+  },
+  {
+    "entidad": "Dr. Enrique Bellolio",
+    "relacion": "es",
+    "valor": "el autor principal del estudio"
+  },
+  {
+    "entidad": "BIRADS",
+    "relacion": "requiere",
+    "valor": "cálculo de su valor predictivo en cada centro"
+  },
+  {
+    "entidad": "valores predictivos",
+    "relacion": "se calculan para",
+    "valor": "BIRADS"
+  },
+  {
+    "entidad": "sensibilidad",
+    "relacion": "es un",
+    "valor": "parámetro evaluado en el estudio"
+  },
+  {
+    "entidad": "especificidad",
+    "relacion": "es un",
+    "valor": "parámetro evaluado en el estudio"
+  },
+  {
+    "entidad": "exactitud del examen",
+    "relacion": "es un",
+    "valor": "parámetro evaluado en el estudio"
+  },
+  {
+    "entidad": "ecografía",
+    "relacion": "complementa",
+    "valor": "mamografía en la toma de decisiones"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "son",
+    "valor": "la mayoría de los casos en el estudio"
+  },
+  {
+    "entidad": "cáncer",
+    "relacion": "se presenta en",
+    "valor": "lesiones diagnosticadas como BIRADS 1 y 2"
+  },
+  {
+    "entidad": "BIRADS 3",
+    "relacion": "es considerado",
+    "valor": "altamente predictivo de benignidad"
+  },
+  {
+    "entidad": "mamografía",
+    "relacion": "aumenta",
+    "valor": "la detección de patología neoplásica maligna temprana"
+  },
+  {
+    "entidad": "población masculina",
+    "relacion": "también se incluye en",
+    "valor": "el análisis del estudio"
+  }
+]

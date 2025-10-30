@@ -1,0 +1,122 @@
+[
+  {
+    "entidad": "Hemangioendotelioma epitelioide (EHE)",
+    "relacion": "es un",
+    "valor": "sarcoma vascular extremadamente raro"
+  },
+  {
+    "entidad": "EHE",
+    "relacion": "tiene una incidencia estimada de",
+    "valor": "0,32 a 0,38 casos por millón de personas-año"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "es",
+    "valor": "una mujer de 18 años"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "dolor abdominal persistente"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "acude a",
+    "valor": "urgencias en múltiples ocasiones"
+  },
+  {
+    "entidad": "estudios de imágenes",
+    "relacion": "evidencian",
+    "valor": "múltiples lesiones hepáticas"
+  },
+  {
+    "entidad": "biopsia",
+    "relacion": "confirma",
+    "valor": "diagnóstico de EHE"
+  },
+  {
+    "entidad": "opciones terapéuticas",
+    "relacion": "consideran",
+    "valor": "resección quirúrgica y quimioterapia"
+  },
+  {
+    "entidad": "enfermedad",
+    "relacion": "tiene",
+    "valor": "progresión lenta"
+  },
+  {
+    "entidad": "enfoque",
+    "relacion": "es",
+    "valor": "vigilancia activa"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "no presenta",
+    "valor": "signos de progresión tumoral"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "mantiene",
+    "valor": "una vida normal"
+  },
+  {
+    "entidad": "episodios esporádicos de dolor abdominal",
+    "relacion": "responden a",
+    "valor": "tratamiento sintomático"
+  },
+  {
+    "entidad": "vigilancia activa",
+    "relacion": "puede ser",
+    "valor": "una estrategia válida para el manejo del EHE"
+  },
+  {
+    "entidad": "EHE",
+    "relacion": "puede debutar en",
+    "valor": "cualquier órgano del cuerpo humano"
+  },
+  {
+    "entidad": "metástasis",
+    "relacion": "es",
+    "valor": "compromiso metastásico al debut de alrededor del 50%"
+  },
+  {
+    "entidad": "sobrevida global",
+    "relacion": "llega a",
+    "valor": "90% al año"
+  },
+  {
+    "entidad": "diagnóstico de EHE",
+    "relacion": "se apoya en",
+    "valor": "anatomía patológica e inmunohistoquímica"
+  },
+  {
+    "entidad": "tratamiento estándar",
+    "relacion": "no existe debido a",
+    "valor": "su rareza"
+  },
+  {
+    "entidad": "vigilancia activa",
+    "relacion": "se asocia con",
+    "valor": "alta tasa de progresión"
+  },
+  {
+    "entidad": "comité multidisciplinario",
+    "relacion": "define",
+    "valor": "vigilancia activa"
+  },
+  {
+    "entidad": "seguimiento activo",
+    "relacion": "requiere",
+    "valor": "compromiso del centro de salud y del paciente"
+  },
+  {
+    "entidad": "EHE",
+    "relacion": "progresar",
+    "valor": "extremadamente lento"
+  },
+  {
+    "entidad": "comunicación",
+    "relacion": "es fundamental para",
+    "valor": "un manejo adecuado y seguimiento efectivo"
+  }
+]

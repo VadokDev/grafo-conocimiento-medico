@@ -1,0 +1,182 @@
+[
+  {
+    "entidad": "Síndrome de Sézary",
+    "relacion": "es un",
+    "valor": "linfoma cutáneo primario de células T"
+  },
+  {
+    "entidad": "Síndrome de Sézary",
+    "relacion": "se caracteriza por",
+    "valor": "eritroderma, células de Sézary y linfadenopatías"
+  },
+  {
+    "entidad": "fotoféresis extracorpórea",
+    "relacion": "es un",
+    "valor": "tratamiento para linfomas de células T"
+  },
+  {
+    "entidad": "fotoféresis extracorpórea",
+    "relacion": "comprende",
+    "valor": "leucaféresis, fotoactivación y reinfusión"
+  },
+  {
+    "entidad": "fotoféresis extracorpórea",
+    "relacion": "no produce",
+    "valor": "inmunosupresión generalizada"
+  },
+  {
+    "entidad": "paciente de 76 años",
+    "relacion": "fue tratado con",
+    "valor": "fotoféresis extracorpórea"
+  },
+  {
+    "entidad": "fotoféresis extracorpórea",
+    "relacion": "logró controlar",
+    "valor": "el prurito y las lesiones cutáneas"
+  },
+  {
+    "entidad": "fotoféresis extracorpórea",
+    "relacion": "es aprobada por",
+    "valor": "la FDA desde 1988"
+  },
+  {
+    "entidad": "fotoféresis extracorpórea",
+    "relacion": "se recomienda para",
+    "valor": "pacientes con eritrodermia estadio III o IV"
+  },
+  {
+    "entidad": "linfocitos de Sézary",
+    "relacion": "disminuyeron de",
+    "valor": "11% a 0,7% tras tratamiento"
+  },
+  {
+    "entidad": "Síndrome de Sézary",
+    "relacion": "se asocia a",
+    "valor": "prurito intratable y mala calidad de vida"
+  },
+  {
+    "entidad": "fotoféresis extracorpórea",
+    "relacion": "induce",
+    "valor": "apoptosis de leucocitos"
+  },
+  {
+    "entidad": "fotoféresis extracorpórea",
+    "relacion": "es utilizada en",
+    "valor": "pacientes con linfomas de células T avanzados"
+  },
+  {
+    "entidad": "Dra. Montserrat Molgó Novell",
+    "relacion": "es autora de",
+    "valor": "el artículo"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "es la institución de",
+    "valor": "los autores del estudio"
+  },
+  {
+    "entidad": "Síndrome de Sézary",
+    "relacion": "es considerado en",
+    "valor": "estadíos IVA1, IVA2 o IVB"
+  },
+  {
+    "entidad": "fotoféresis extracorpórea",
+    "relacion": "se asocia a",
+    "valor": "buen resultado terapéutico"
+  },
+  {
+    "entidad": "fotoféresis extracorpórea",
+    "relacion": "se realiza en",
+    "valor": "centros especializados"
+  },
+  {
+    "entidad": "Ébola",
+    "relacion": "es un",
+    "valor": "virus altamente contagioso"
+  },
+  {
+    "entidad": "Ébola",
+    "relacion": "causa",
+    "valor": "enfermedad grave"
+  },
+  {
+    "entidad": "murciélagos",
+    "relacion": "son el",
+    "valor": "reservorio natural del virus del Ébola"
+  },
+  {
+    "entidad": "transmisión del Ébola",
+    "relacion": "ocurre a través de",
+    "valor": "contacto con fluidos corporales"
+  },
+  {
+    "entidad": "fase I",
+    "relacion": "presenta",
+    "valor": "síntomas similares a la gripe"
+  },
+  {
+    "entidad": "fase II",
+    "relacion": "aparece",
+    "valor": "síntomas viscerales y mucocutáneos"
+  },
+  {
+    "entidad": "fase III",
+    "relacion": "resulta en",
+    "valor": "recuperación o muerte"
+  },
+  {
+    "entidad": "diagnóstico del Ébola",
+    "relacion": "se realiza mediante",
+    "valor": "PCR y sospecha epidemiológica"
+  },
+  {
+    "entidad": "tratamiento del Ébola",
+    "relacion": "es",
+    "valor": "de soporte"
+  },
+  {
+    "entidad": "tasa de letalidad del Ébola",
+    "relacion": "es aproximadamente",
+    "valor": "35%"
+  },
+  {
+    "entidad": "manifestaciones cutáneas del Ébola",
+    "relacion": "aparecen entre",
+    "valor": "el 4º y 5º día de síntomas"
+  },
+  {
+    "entidad": "virus del Ébola",
+    "relacion": "pertenece a",
+    "valor": "la familia Filoviridae"
+  },
+  {
+    "entidad": "EPP",
+    "relacion": "es fundamental para",
+    "valor": "la protección de trabajadores de salud"
+  },
+  {
+    "entidad": "caso sospechoso de Ébola",
+    "relacion": "debe ser notificado a",
+    "valor": "la Secretaría Regional Ministerial de Salud"
+  },
+  {
+    "entidad": "hospitales en Chile",
+    "relacion": "son centros de",
+    "valor": "referencia para el manejo de Ébola"
+  },
+  {
+    "entidad": "virus del Ébola",
+    "relacion": "puede causar",
+    "valor": "necrosis hepática multifocal"
+  },
+  {
+    "entidad": "fase aguda del Ébola",
+    "relacion": "activa",
+    "valor": "citoquinas implicadas en la patogénesis"
+  },
+  {
+    "entidad": "trabajadores de la salud",
+    "relacion": "son más susceptibles a",
+    "valor": "la transmisión del virus del Ébola"
+  }
+]

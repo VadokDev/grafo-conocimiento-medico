@@ -1,0 +1,477 @@
+[
+  {
+    "entidad": "Gabriel Cea M.",
+    "relacion": "es autor de",
+    "valor": "estridor y dificultad respiratoria: aproximación neurológica"
+  },
+  {
+    "entidad": "Claudio Henríquez A.",
+    "relacion": "es autor de",
+    "valor": "estridor y dificultad respiratoria: aproximación neurológica"
+  },
+  {
+    "entidad": "Carlos Tapia",
+    "relacion": "es autor de",
+    "valor": "estridor y dificultad respiratoria: aproximación neurológica"
+  },
+  {
+    "entidad": "Departamento de Neurociencias",
+    "relacion": "pertenece a",
+    "valor": "Facultad de Medicina, Universidad de Chile"
+  },
+  {
+    "entidad": "Servicio de Neurología",
+    "relacion": "pertenece a",
+    "valor": "Hospital del Salvador"
+  },
+  {
+    "entidad": "Servicio de Otorrinolaringología",
+    "relacion": "pertenece a",
+    "valor": "Hospital del Salvador"
+  },
+  {
+    "entidad": "estridor",
+    "relacion": "causa",
+    "valor": "dificultad respiratoria"
+  },
+  {
+    "entidad": "trastorno de conversión",
+    "relacion": "causa",
+    "valor": "estridor y disnea"
+  },
+  {
+    "entidad": "vocal cord dysfunction",
+    "relacion": "asociado a",
+    "valor": "condiciones psiquiátricas"
+  },
+  {
+    "entidad": "Myasthenia gravis",
+    "relacion": "sospechado en",
+    "valor": "paciente con parálisis bilateral de cuerdas vocales"
+  },
+  {
+    "entidad": "piridostigmina",
+    "relacion": "utilizado para",
+    "valor": "tratamiento de Myasthenia gravis"
+  },
+  {
+    "entidad": "prednisona",
+    "relacion": "utilizado para",
+    "valor": "tratamiento de Myasthenia gravis"
+  },
+  {
+    "entidad": "psicoterapia",
+    "relacion": "utilizado para",
+    "valor": "tratamiento de trastorno de conversión"
+  },
+  {
+    "entidad": "estridor psicógeno",
+    "relacion": "es un tipo de",
+    "valor": "movimiento paradojal de cuerdas vocales"
+  },
+  {
+    "entidad": "trastorno psiquiátrico",
+    "relacion": "asociado a",
+    "valor": "movimiento paradojal de cuerdas vocales"
+  },
+  {
+    "entidad": "músculo cricoaretinoideo posterior",
+    "relacion": "es activado por",
+    "valor": "maniobras de respiración lenta"
+  },
+  {
+    "entidad": "terapia fonoaudiológica",
+    "relacion": "utilizado para",
+    "valor": "manejo de cuadros crónicos de MPCV"
+  },
+  {
+    "entidad": "toxina botulínica",
+    "relacion": "utilizado en",
+    "valor": "casos refractarios de MPCV"
+  },
+  {
+    "entidad": "pacientes jóvenes",
+    "relacion": "presentan",
+    "valor": "movimiento paradojal de cuerdas vocales"
+  },
+  {
+    "entidad": "violencia intrafamiliar",
+    "relacion": "asociado a",
+    "valor": "trastorno de personalidad histriónico"
+  },
+  {
+    "entidad": "estridor",
+    "relacion": "se presenta en",
+    "valor": "crisis obstructivas respiratorias"
+  },
+  {
+    "entidad": "dificultad respiratoria",
+    "relacion": "se presenta en",
+    "valor": "momentos de discusiones parentales"
+  },
+  {
+    "entidad": "Leucemia linfoblástica aguda",
+    "relacion": "causa",
+    "valor": "falla hepática aguda"
+  },
+  {
+    "entidad": "falla hepática aguda",
+    "relacion": "es un",
+    "valor": "hallazgo frecuente en enfermedades hematológicas"
+  },
+  {
+    "entidad": "Leucemia linfoblástica aguda",
+    "relacion": "se manifiesta como",
+    "valor": "alteraciones graves de la función hepática"
+  },
+  {
+    "entidad": "paciente masculino de 16 años",
+    "relacion": "presenta",
+    "valor": "falla hepática aguda"
+  },
+  {
+    "entidad": "biopsia de médula ósea",
+    "relacion": "confirma",
+    "valor": "infiltración completa con blastos de tipo linfoide"
+  },
+  {
+    "entidad": "quimioterapia",
+    "relacion": "se inicia",
+    "valor": "inmediatamente en paciente femenino de 20 años"
+  },
+  {
+    "entidad": "paciente femenino de 20 años",
+    "relacion": "presenta",
+    "valor": "falla hepática aguda"
+  },
+  {
+    "entidad": "mielograma",
+    "relacion": "muestra",
+    "valor": "infiltración por blastos de estirpe linfoide"
+  },
+  {
+    "entidad": "quimioterapia BFM",
+    "relacion": "se utiliza",
+    "valor": "para tratar leucemia linfoblástica aguda"
+  },
+  {
+    "entidad": "paciente femenino de 20 años",
+    "relacion": "logra",
+    "valor": "remisión completa de su leucemia"
+  },
+  {
+    "entidad": "falla hepática asociada a neoplasia hematológica",
+    "relacion": "es",
+    "valor": "condición infrecuente pero de alta mortalidad"
+  },
+  {
+    "entidad": "trasplante hepático",
+    "relacion": "puede ser requerido en",
+    "valor": "falla hepática fulminante"
+  },
+  {
+    "entidad": "inmunosupresión",
+    "relacion": "es causada por",
+    "valor": "quimioterapia"
+  },
+  {
+    "entidad": "alteraciones en el hemograma",
+    "relacion": "indican",
+    "valor": "posible compromiso hepático"
+  },
+  {
+    "entidad": "Dr. Mauricio Sarmiento",
+    "relacion": "es",
+    "valor": "autor del artículo"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "es",
+    "valor": "institución afiliada a los autores"
+  },
+  {
+    "entidad": "monoartritis del codo",
+    "relacion": "es un",
+    "valor": "síntoma de enfermedad linfoproliferativa"
+  },
+  {
+    "entidad": "infarto óseo",
+    "relacion": "es un",
+    "valor": "síntoma de enfermedad linfoproliferativa"
+  },
+  {
+    "entidad": "B cell lymphoma",
+    "relacion": "es un",
+    "valor": "tipo de linfoma"
+  },
+  {
+    "entidad": "resonancia magnética",
+    "relacion": "es utilizada para",
+    "valor": "diagnóstico de infiltración medular"
+  },
+  {
+    "entidad": "médula ósea",
+    "relacion": "es evaluada por",
+    "valor": "resonancia magnética"
+  },
+  {
+    "entidad": "tomografía axial computada",
+    "relacion": "es utilizada para",
+    "valor": "identificar adenopatías mesentéricas"
+  },
+  {
+    "entidad": "biopsia de ganglio linfático",
+    "relacion": "confirma",
+    "valor": "diagnóstico de linfoma de células B"
+  },
+  {
+    "entidad": "anemia leve",
+    "relacion": "es un",
+    "valor": "hallazgo en exámenes iniciales"
+  },
+  {
+    "entidad": "cefadroxilo",
+    "relacion": "es un",
+    "valor": "tratamiento para celulitis"
+  },
+  {
+    "entidad": "antiinflamatorios no esteroides",
+    "relacion": "son utilizados para",
+    "valor": "disminuir inflamación y dolor"
+  },
+  {
+    "entidad": "infarto óseo",
+    "relacion": "puede presentarse como",
+    "valor": "clínicamente asintomático o agudo"
+  },
+  {
+    "entidad": "infarto óseo",
+    "relacion": "es conocido como",
+    "valor": "necrosis avascular o aséptica"
+  },
+  {
+    "entidad": "resonancia magnética",
+    "relacion": "es esencial para",
+    "valor": "diagnóstico temprano de infarto óseo"
+  },
+  {
+    "entidad": "pacientes con anemia de células falciformes",
+    "relacion": "tienen riesgo de",
+    "valor": "infarto óseo"
+  },
+  {
+    "entidad": "pacientes diabéticos",
+    "relacion": "tienen riesgo de",
+    "valor": "infarto óseo"
+  },
+  {
+    "entidad": "pacientes con enfermedades mieloproliferativas",
+    "relacion": "tienen riesgo de",
+    "valor": "infarto óseo"
+  },
+  {
+    "entidad": "uso de terapia crónica esteroidal",
+    "relacion": "aumenta el riesgo de",
+    "valor": "infarto óseo"
+  },
+  {
+    "entidad": "Plasmocitoma extramedular",
+    "relacion": "es un",
+    "valor": "tipo de neoplasia"
+  },
+  {
+    "entidad": "Plasmocitoma extramedular",
+    "relacion": "representa",
+    "valor": "3% de neoplasias de células plasmáticas"
+  },
+  {
+    "entidad": "Plasmocitoma extramedular",
+    "relacion": "se presenta en",
+    "valor": "tracto gastrointestinal y respiratorio"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "es",
+    "valor": "hombre de 70 años"
+  },
+  {
+    "entidad": "disnea",
+    "relacion": "es un",
+    "valor": "síntoma del paciente"
+  },
+  {
+    "entidad": "tos",
+    "relacion": "es un",
+    "valor": "síntoma del paciente"
+  },
+  {
+    "entidad": "radiografía de tórax",
+    "relacion": "muestra",
+    "valor": "ensanchamiento mediastínico"
+  },
+  {
+    "entidad": "tomografía computarizada",
+    "relacion": "muestra",
+    "valor": "masa mediastínica"
+  },
+  {
+    "entidad": "fibrobroncoscopia",
+    "relacion": "muestra",
+    "valor": "compresión extrínseca y oclusión de bronquios"
+  },
+  {
+    "entidad": "biopsia",
+    "relacion": "evidencia",
+    "valor": "población de células plasmatoides"
+  },
+  {
+    "entidad": "inmunohistoquímica",
+    "relacion": "revela",
+    "valor": "células CD20+ y CD138+"
+  },
+  {
+    "entidad": "plasmocitoma",
+    "relacion": "es diagnosticado por",
+    "valor": "presencia de cadenas livianas lambda"
+  },
+  {
+    "entidad": "mieloma múltiple",
+    "relacion": "es descartado por",
+    "valor": "hemograma normal y otros estudios"
+  },
+  {
+    "entidad": "quimioterapia",
+    "relacion": "es el tratamiento indicado",
+    "valor": "thalidomida, melfalán y prednisona"
+  },
+  {
+    "entidad": "plasmocitoma extramedular",
+    "relacion": "es considerado",
+    "valor": "altamente radiosensible"
+  },
+  {
+    "entidad": "recurrencia",
+    "relacion": "es aproximadamente",
+    "valor": "10 a 30%"
+  },
+  {
+    "entidad": "progresión a mieloma múltiple",
+    "relacion": "ocurre en",
+    "valor": "10% de los pacientes"
+  },
+  {
+    "entidad": "edad promedio de presentación",
+    "relacion": "es",
+    "valor": "55 años"
+  },
+  {
+    "entidad": "presentación en mediastino",
+    "relacion": "es",
+    "valor": "muy rara"
+  },
+  {
+    "entidad": "inmunohistoquímica",
+    "relacion": "diferencia",
+    "valor": "plasmocitoma de otros tumores"
+  },
+  {
+    "entidad": "radioterapia",
+    "relacion": "es el tratamiento de elección",
+    "valor": "para plasmocitomas"
+  },
+  {
+    "entidad": "progresión a mieloma múltiple",
+    "relacion": "se ha descrito en",
+    "valor": "11 a 30% a los 2 años"
+  },
+  {
+    "entidad": "Telangiectasia hemorrágica hereditaria",
+    "relacion": "es un",
+    "valor": "trastorno vascular hereditario"
+  },
+  {
+    "entidad": "Insuficiencia cardíaca",
+    "relacion": "es causada por",
+    "valor": "malformaciones arteriovenosas"
+  },
+  {
+    "entidad": "Trasplante hepático",
+    "relacion": "es un",
+    "valor": "tratamiento para insuficiencia cardíaca secundaria"
+  },
+  {
+    "entidad": "Hepatectomía total",
+    "relacion": "se realiza como parte de",
+    "valor": "trasplante hepático"
+  },
+  {
+    "entidad": "Ciclosporina",
+    "relacion": "es un",
+    "valor": "inmunosupresor utilizado"
+  },
+  {
+    "entidad": "Azatioprina",
+    "relacion": "es un",
+    "valor": "antiproliferativo utilizado"
+  },
+  {
+    "entidad": "Prednisona",
+    "relacion": "es un",
+    "valor": "esteroide utilizado"
+  },
+  {
+    "entidad": "Insuficiencia cardíaca de alto flujo",
+    "relacion": "es una complicación de",
+    "valor": "telangiectasia hemorrágica hereditaria"
+  },
+  {
+    "entidad": "Embolización transarterial",
+    "relacion": "es un",
+    "valor": "tratamiento para reducir shunt intrahepático"
+  },
+  {
+    "entidad": "Falla cardíaca",
+    "relacion": "debe ser tratada antes de",
+    "valor": "trasplante hepático"
+  },
+  {
+    "entidad": "MELD",
+    "relacion": "es un",
+    "valor": "sistema de estratificación para asignación de órganos"
+  },
+  {
+    "entidad": "Jorge Martínez Castillo",
+    "relacion": "es el",
+    "valor": "autor correspondiente del estudio"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "es la",
+    "valor": "institución donde se realizó el estudio"
+  },
+  {
+    "entidad": "Enfermedad de Rendu-Osler-Weber",
+    "relacion": "es un sinónimo de",
+    "valor": "telangiectasia hemorrágica hereditaria"
+  },
+  {
+    "entidad": "Complicaciones graves",
+    "relacion": "pueden incluir",
+    "valor": "insuficiencia cardíaca y sangrados incontrolables"
+  },
+  {
+    "entidad": "Técnica de Piggy-Back",
+    "relacion": "es un tipo de",
+    "valor": "técnica quirúrgica en trasplante hepático"
+  },
+  {
+    "entidad": "Función cardíaca",
+    "relacion": "se normaliza tras",
+    "valor": "trasplante hepático"
+  },
+  {
+    "entidad": "Función hepática",
+    "relacion": "se normaliza tras",
+    "valor": "trasplante hepático"
+  }
+]

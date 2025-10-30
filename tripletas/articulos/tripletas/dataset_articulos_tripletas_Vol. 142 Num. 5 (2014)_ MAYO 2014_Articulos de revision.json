@@ -1,0 +1,402 @@
+[
+  {
+    "entidad": "obesidad",
+    "relacion": "es un",
+    "valor": "factor de riesgo para cáncer"
+  },
+  {
+    "entidad": "cáncer de ovario",
+    "relacion": "asociado con",
+    "valor": "obesidad"
+  },
+  {
+    "entidad": "cáncer de ovario epitelial (COE)",
+    "relacion": "es un tipo de",
+    "valor": "cáncer de ovario"
+  },
+  {
+    "entidad": "leptina",
+    "relacion": "aumenta",
+    "valor": "proliferación celular"
+  },
+  {
+    "entidad": "leptina",
+    "relacion": "inhibe",
+    "valor": "apoptosis"
+  },
+  {
+    "entidad": "tejido adiposo",
+    "relacion": "sintetiza",
+    "valor": "estrógenos endógenos"
+  },
+  {
+    "entidad": "estrógenos endógenos",
+    "relacion": "aumentan",
+    "valor": "proliferación celular en ovarios"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "causa",
+    "valor": "hiperinsulinemia"
+  },
+  {
+    "entidad": "hiperinsulinemia",
+    "relacion": "aumenta",
+    "valor": "niveles de IGF I"
+  },
+  {
+    "entidad": "IGF I",
+    "relacion": "aumenta",
+    "valor": "conversión de andrógenos a estrógenos"
+  },
+  {
+    "entidad": "adiponectina",
+    "relacion": "se encuentra",
+    "valor": "disminuida en obesos"
+  },
+  {
+    "entidad": "relación L:A (leptina/adiponectina)",
+    "relacion": "muestra",
+    "valor": "mayor tiempo de sobrevida en pacientes con COE"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "constituye",
+    "valor": "un factor de riesgo modificable para cáncer de ovario"
+  },
+  {
+    "entidad": "receptores de estrógenos",
+    "relacion": "pueden aumentar",
+    "valor": "riesgo de cáncer de ovario"
+  },
+  {
+    "entidad": "cáncer de ovario",
+    "relacion": "es la cuarta causa de",
+    "valor": "muerte por cáncer en población occidental"
+  },
+  {
+    "entidad": "angiogénesis",
+    "relacion": "es regulada por",
+    "valor": "VEGF y NGF"
+  },
+  {
+    "entidad": "VEGF",
+    "relacion": "contribuye a",
+    "valor": "crecimiento y agresividad del cáncer de ovario"
+  },
+  {
+    "entidad": "apoptosis",
+    "relacion": "es un proceso",
+    "valor": "de muerte celular programada"
+  },
+  {
+    "entidad": "proliferación celular",
+    "relacion": "es un proceso",
+    "valor": "de incremento del número de células"
+  },
+  {
+    "entidad": "barrido mucociliar",
+    "relacion": "es",
+    "valor": "mecanismo defensivo del pulmón"
+  },
+  {
+    "entidad": "mucociliary clearance system",
+    "relacion": "es",
+    "valor": "primera línea de defensa"
+  },
+  {
+    "entidad": "pulmón",
+    "relacion": "filtra",
+    "valor": "12,000 litros de aire al día"
+  },
+  {
+    "entidad": "mucus",
+    "relacion": "es",
+    "valor": "componente del barrido mucociliar"
+  },
+  {
+    "entidad": "cilios",
+    "relacion": "propulsan",
+    "valor": "capa de moco flotante"
+  },
+  {
+    "entidad": "epitelio respiratorio",
+    "relacion": "secreta",
+    "valor": "moléculas antimicrobianas"
+  },
+  {
+    "entidad": "mucociliary clearance",
+    "relacion": "es afectado por",
+    "valor": "infecciones"
+  },
+  {
+    "entidad": "asma",
+    "relacion": "es",
+    "valor": "enfermedad inflamatoria crónica"
+  },
+  {
+    "entidad": "EPOC",
+    "relacion": "es",
+    "valor": "enfermedad obstructiva crónica"
+  },
+  {
+    "entidad": "fibrosis quística",
+    "relacion": "es",
+    "valor": "enfermedad genética autosómica recesiva"
+  },
+  {
+    "entidad": "DCP",
+    "relacion": "es",
+    "valor": "enfermedad autosómica recesiva"
+  },
+  {
+    "entidad": "N-acetilcisteína",
+    "relacion": "es",
+    "valor": "mucolítico"
+  },
+  {
+    "entidad": "ambroxol",
+    "relacion": "es",
+    "valor": "expectorante"
+  },
+  {
+    "entidad": "surfactante",
+    "relacion": "reduce",
+    "valor": "adherencia de mucus al epitelio"
+  },
+  {
+    "entidad": "glucocorticoides",
+    "relacion": "podrían reducir",
+    "valor": "hipersecreción crónica de mucus"
+  },
+  {
+    "entidad": "infecciones",
+    "relacion": "alteran",
+    "valor": "producción de líquido periciliar"
+  },
+  {
+    "entidad": "mucinas MUC5AC y MUC5B",
+    "relacion": "son",
+    "valor": "mucinas predominantes en el moco"
+  },
+  {
+    "entidad": "cilios",
+    "relacion": "tienen",
+    "valor": "motilidad defectuosa en DCP"
+  },
+  {
+    "entidad": "mucociliary clearance",
+    "relacion": "es esencial para",
+    "valor": "mantener el pulmón sano"
+  },
+  {
+    "entidad": "Leucemia mieloide crónica (LMC)",
+    "relacion": "es un",
+    "valor": "neoplasia mieloproliferativa"
+  },
+  {
+    "entidad": "BCR-ABL1",
+    "relacion": "es un",
+    "valor": "gen de fusión"
+  },
+  {
+    "entidad": "BCR-ABL1",
+    "relacion": "está asociado a",
+    "valor": "t (9;22) (q34;q11)"
+  },
+  {
+    "entidad": "Células madre hematopoyéticas",
+    "relacion": "residen en",
+    "valor": "nicho osteoblástico"
+  },
+  {
+    "entidad": "Células madre leucémicas",
+    "relacion": "residen en",
+    "valor": "nicho osteoblástico"
+  },
+  {
+    "entidad": "Células madre leucémicas",
+    "relacion": "interactúan con",
+    "valor": "células estromales mesenquimatosas (MSC)"
+  },
+  {
+    "entidad": "Inhibidores de tirosina quinasa (ITK)",
+    "relacion": "logran",
+    "valor": "respuestas clínicas a largo plazo en LMC"
+  },
+  {
+    "entidad": "Células madre leucémicas",
+    "relacion": "son responsables de",
+    "valor": "fracasos tardíos en el tratamiento"
+  },
+  {
+    "entidad": "Microambiente medular",
+    "relacion": "afecta a",
+    "valor": "respuesta al tratamiento"
+  },
+  {
+    "entidad": "Células madre leucémicas",
+    "relacion": "tienen características de",
+    "valor": "células madre hematopoyéticas normales"
+  },
+  {
+    "entidad": "OCT-1",
+    "relacion": "es un",
+    "valor": "transportador involucrado en la captación de imatinib"
+  },
+  {
+    "entidad": "Vía Wnt/beta-catenina",
+    "relacion": "mantiene",
+    "valor": "autorrenovación de células madre leucémicas"
+  },
+  {
+    "entidad": "Estroma medular",
+    "relacion": "produce",
+    "valor": "matriz extracelular y factores de crecimiento"
+  },
+  {
+    "entidad": "CSH",
+    "relacion": "interactúa con",
+    "valor": "matriz extracelular"
+  },
+  {
+    "entidad": "CSH",
+    "relacion": "reside cerca de",
+    "valor": "endostio"
+  },
+  {
+    "entidad": "N-cadherina",
+    "relacion": "interactúa con",
+    "valor": "CSH"
+  },
+  {
+    "entidad": "CXCR4",
+    "relacion": "es expresado por",
+    "valor": "CSH"
+  },
+  {
+    "entidad": "CXCL12",
+    "relacion": "es producido por",
+    "valor": "MSC y osteoblastos"
+  },
+  {
+    "entidad": "Plerixafor",
+    "relacion": "induce",
+    "valor": "migración de células tumorales"
+  },
+  {
+    "entidad": "Células mesenquimatosas estromales (MSC)",
+    "relacion": "tienen",
+    "valor": "menor capacidad inmunomoduladora en LMC"
+  },
+  {
+    "entidad": "Imatinib",
+    "relacion": "restaura",
+    "valor": "expresión de CXCR4 en células tumorales"
+  },
+  {
+    "entidad": "Interacciones entre CSL y MSC",
+    "relacion": "influyen en",
+    "valor": "respuesta al tratamiento con ITK"
+  },
+  {
+    "entidad": "Xantomatosis cerebrotendinosa",
+    "relacion": "es un",
+    "valor": "enfermedad autosómica recesiva"
+  },
+  {
+    "entidad": "CYP27A1",
+    "relacion": "codifica",
+    "valor": "enzima 27-esterol hidroxilasa"
+  },
+  {
+    "entidad": "27-esterol hidroxilasa",
+    "relacion": "participa en",
+    "valor": "metabolismo del colesterol"
+  },
+  {
+    "entidad": "27-esterol hidroxilasa",
+    "relacion": "cataliza",
+    "valor": "oxidación de la cadena lateral de esteroles"
+  },
+  {
+    "entidad": "deficiencia de 27-esterol hidroxilasa",
+    "relacion": "causa",
+    "valor": "disminución de síntesis de ácidos biliares"
+  },
+  {
+    "entidad": "disminución de síntesis de ácidos biliares",
+    "relacion": "provoca",
+    "valor": "aumento de colestanol en plasma y tejidos"
+  },
+  {
+    "entidad": "colestanol",
+    "relacion": "causa",
+    "valor": "xantomas tendinosos"
+  },
+  {
+    "entidad": "colestanol",
+    "relacion": "causa",
+    "valor": "cataratas prematuras"
+  },
+  {
+    "entidad": "colestanol",
+    "relacion": "causa",
+    "valor": "diarrea crónica"
+  },
+  {
+    "entidad": "colestanol",
+    "relacion": "causa",
+    "valor": "compromiso neurológico progresivo"
+  },
+  {
+    "entidad": "ácido quenodeoxicólico",
+    "relacion": "previene",
+    "valor": "complicaciones neurológicas"
+  },
+  {
+    "entidad": "Xantomatosis cerebrotendinosa",
+    "relacion": "se presenta con",
+    "valor": "diarrea, cataratas juveniles, xantomas tendinosos"
+  },
+  {
+    "entidad": "CYP27A1",
+    "relacion": "tiene mutaciones",
+    "valor": "que causan Xantomatosis cerebrotendinosa"
+  },
+  {
+    "entidad": "mutaciones en CYP27A1",
+    "relacion": "no tienen",
+    "valor": "relación clara entre genotipo y fenotipo"
+  },
+  {
+    "entidad": "diagnóstico de XCT",
+    "relacion": "se basa en",
+    "valor": "sospecha clínica y niveles elevados de colestanol"
+  },
+  {
+    "entidad": "tratamiento de XCT",
+    "relacion": "es",
+    "valor": "ácido quenodeoxicólico"
+  },
+  {
+    "entidad": "ácido quenodeoxicólico",
+    "relacion": "normaliza",
+    "valor": "niveles de colestanol plasmático"
+  },
+  {
+    "entidad": "estatinas",
+    "relacion": "mejoran",
+    "valor": "respuesta clínica al tratamiento con ácido quenodeoxicólico"
+  },
+  {
+    "entidad": "familiares de pacientes con XCT",
+    "relacion": "deben ser estudiados",
+    "valor": "por ser asintomáticos en etapas tempranas"
+  },
+  {
+    "entidad": "Xantomatosis cerebrotendinosa",
+    "relacion": "es tratable con",
+    "valor": "ácido quenodeoxicólico"
+  }
+]

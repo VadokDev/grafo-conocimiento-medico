@@ -1,0 +1,257 @@
+[
+  {
+    "entidad": "Déficit atencional con hiperactividad (TDAH)",
+    "relacion": "es un",
+    "valor": "trastorno multicausal de la conducta"
+  },
+  {
+    "entidad": "TDAH",
+    "relacion": "tiene",
+    "valor": "heredabilidad moderada"
+  },
+  {
+    "entidad": "TDAH",
+    "relacion": "tiene",
+    "valor": "comorbilidad genética moderada"
+  },
+  {
+    "entidad": "TDAH",
+    "relacion": "se asocia con",
+    "valor": "dificultades en el aprendizaje escolar"
+  },
+  {
+    "entidad": "TDAH",
+    "relacion": "se asocia con",
+    "valor": "problemas de adaptación en niños y adolescentes"
+  },
+  {
+    "entidad": "TDAH",
+    "relacion": "se asocia con",
+    "valor": "consumo de sustancias psicotrópicas"
+  },
+  {
+    "entidad": "TDAH",
+    "relacion": "se asocia con",
+    "valor": "consumo abusivo de alcohol"
+  },
+  {
+    "entidad": "TDAH",
+    "relacion": "se asocia con",
+    "valor": "conductas de riesgo en adultos"
+  },
+  {
+    "entidad": "TDAH",
+    "relacion": "es clasificado como",
+    "valor": "trastorno del desarrollo neurológico"
+  },
+  {
+    "entidad": "TDAH",
+    "relacion": "puede presentarse como",
+    "valor": "presentación combinada"
+  },
+  {
+    "entidad": "TDAH",
+    "relacion": "puede presentarse como",
+    "valor": "presentación predominante con falta de atención"
+  },
+  {
+    "entidad": "TDAH",
+    "relacion": "puede presentarse como",
+    "valor": "presentación predominante hiperactividad/impulsividad"
+  },
+  {
+    "entidad": "TDAH",
+    "relacion": "es estudiado por",
+    "valor": "investigadores que sostienen su origen genético"
+  },
+  {
+    "entidad": "TDAH",
+    "relacion": "es estudiado por",
+    "valor": "autores que niegan su origen biológico"
+  },
+  {
+    "entidad": "genes candidatos",
+    "relacion": "más investigados son",
+    "valor": "DRD4, DAT1, COMT, MAOA, DBH"
+  },
+  {
+    "entidad": "alelo DRD4/7",
+    "relacion": "está relacionado con",
+    "valor": "TDAH"
+  },
+  {
+    "entidad": "alelo DAT1/10",
+    "relacion": "está relacionado con",
+    "valor": "TDAH"
+  },
+  {
+    "entidad": "comorbilidad genética",
+    "relacion": "se encontró entre",
+    "valor": "TDAH y esquizofrenia"
+  },
+  {
+    "entidad": "comorbilidad genética",
+    "relacion": "se encontró entre",
+    "valor": "TDAH y trastorno bipolar"
+  },
+  {
+    "entidad": "comorbilidad genética",
+    "relacion": "se encontró entre",
+    "valor": "TDAH y trastorno depresivo mayor"
+  },
+  {
+    "entidad": "comorbilidad genética",
+    "relacion": "se encontró entre",
+    "valor": "TDAH y trastornos del espectro autista"
+  },
+  {
+    "entidad": "TDAH",
+    "relacion": "es un",
+    "valor": "trastorno neuropsiquiátrico diagnosticado con mayor frecuencia"
+  },
+  {
+    "entidad": "TDAH",
+    "relacion": "tiene una prevalencia",
+    "valor": "entre 2% y 7% a nivel mundial"
+  },
+  {
+    "entidad": "TDAH",
+    "relacion": "tiene una prevalencia",
+    "valor": "10% a nivel nacional"
+  },
+  {
+    "entidad": "TDAH",
+    "relacion": "puede ser influenciado por",
+    "valor": "factores no biológicos"
+  },
+  {
+    "entidad": "TDAH",
+    "relacion": "puede ser influenciado por",
+    "valor": "estrés prenatal"
+  },
+  {
+    "entidad": "TDAH",
+    "relacion": "puede ser influenciado por",
+    "valor": "bullying"
+  },
+  {
+    "entidad": "TDAH",
+    "relacion": "es considerado como",
+    "valor": "una disfunción de la neurotransmisión"
+  },
+  {
+    "entidad": "TDAH",
+    "relacion": "puede ser explicado como",
+    "valor": "una respuesta adaptativa a entornos ecológicos"
+  },
+  {
+    "entidad": "Homo sapiens",
+    "relacion": "experimentó",
+    "valor": "ventajas adaptativas por rasgos como hiperactividad e impulsividad"
+  },
+  {
+    "entidad": "Cannabis sativa",
+    "relacion": "es considerado",
+    "valor": "droga ilícita"
+  },
+  {
+    "entidad": "Gobierno de Chile",
+    "relacion": "abrió",
+    "valor": "uso de cannabis para tratamiento sintomático"
+  },
+  {
+    "entidad": "Cannabis sativa",
+    "relacion": "es útil para",
+    "valor": "tratamiento complementario de dolor crónico"
+  },
+  {
+    "entidad": "Cannabis",
+    "relacion": "puede bloquear",
+    "valor": "transmisión de impulsos nerviosos"
+  },
+  {
+    "entidad": "Cannabis",
+    "relacion": "se utiliza para",
+    "valor": "manejo del dolor crónico"
+  },
+  {
+    "entidad": "Cannabis",
+    "relacion": "es considerado",
+    "valor": "alternativa para pacientes con terapias analgésicas prolongadas"
+  },
+  {
+    "entidad": "Cannabis",
+    "relacion": "tiene",
+    "valor": "amplia distribución geoclimática"
+  },
+  {
+    "entidad": "Cannabis",
+    "relacion": "es una",
+    "valor": "planta de actividad intermedia"
+  },
+  {
+    "entidad": "Cannabinoides",
+    "relacion": "son",
+    "valor": "principios activos de Cannabis"
+  },
+  {
+    "entidad": "Receptores CB1",
+    "relacion": "modulan",
+    "valor": "funciones cerebrales"
+  },
+  {
+    "entidad": "Receptores CB2",
+    "relacion": "modulan",
+    "valor": "procesos inflamatorios e inmunitarios"
+  },
+  {
+    "entidad": "Cannabis",
+    "relacion": "se propone como",
+    "valor": "tratamiento complementario para trastornos crónicos"
+  },
+  {
+    "entidad": "Cannabis",
+    "relacion": "se asocia con",
+    "valor": "control de dolor crónico"
+  },
+  {
+    "entidad": "Cannabis",
+    "relacion": "puede aumentar",
+    "valor": "potencia analgésica de opiáceos"
+  },
+  {
+    "entidad": "Cannabis",
+    "relacion": "se utiliza en",
+    "valor": "dolor neuropático"
+  },
+  {
+    "entidad": "Cannabis",
+    "relacion": "se recomienda",
+    "valor": "ajustar dosis según respuesta del paciente"
+  },
+  {
+    "entidad": "Cannabis",
+    "relacion": "puede ser usado como",
+    "valor": "planta en su estado natural"
+  },
+  {
+    "entidad": "Cannabis",
+    "relacion": "se utiliza en",
+    "valor": "extractos y formas inhaladas"
+  },
+  {
+    "entidad": "Efectos adversos de cannabinoides",
+    "relacion": "se clasifican en",
+    "valor": "centrales y periféricos"
+  },
+  {
+    "entidad": "Cannabis",
+    "relacion": "se recomienda investigar",
+    "valor": "formulaciones y dosis estándar"
+  },
+  {
+    "entidad": "Cannabis",
+    "relacion": "se asocia con",
+    "valor": "efectos analgésicos y antiespásticos"
+  }
+]

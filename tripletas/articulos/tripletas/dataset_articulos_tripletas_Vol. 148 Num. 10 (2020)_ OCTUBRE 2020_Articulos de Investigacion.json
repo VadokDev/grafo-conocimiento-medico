@@ -1,0 +1,782 @@
+[
+  {
+    "entidad": "Marta Simonetti",
+    "relacion": "es autora de",
+    "valor": "artículo de investigación"
+  },
+  {
+    "entidad": "Paz Soto",
+    "relacion": "es autora de",
+    "valor": "artículo de investigación"
+  },
+  {
+    "entidad": "Alejandra Galiano",
+    "relacion": "es autora de",
+    "valor": "artículo de investigación"
+  },
+  {
+    "entidad": "María Consuelo Cerón",
+    "relacion": "es autora de",
+    "valor": "artículo de investigación"
+  },
+  {
+    "entidad": "Eileen Lake",
+    "relacion": "es autora de",
+    "valor": "artículo de investigación"
+  },
+  {
+    "entidad": "Linda Aiken",
+    "relacion": "es autora de",
+    "valor": "artículo de investigación"
+  },
+  {
+    "entidad": "dotaciones de enfermería",
+    "relacion": "afecta a",
+    "valor": "calidad de atención"
+  },
+  {
+    "entidad": "skill mix",
+    "relacion": "afecta a",
+    "valor": "calidad de atención"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile (MINSAL)",
+    "relacion": "estudia",
+    "valor": "brechas de personal"
+  },
+  {
+    "entidad": "gasto en salud",
+    "relacion": "aumenta",
+    "valor": "deuda hospitalaria"
+  },
+  {
+    "entidad": "personal de salud",
+    "relacion": "se ve afectado por",
+    "valor": "recortes de personal"
+  },
+  {
+    "entidad": "burnout",
+    "relacion": "aumenta",
+    "valor": "intención de dejar el trabajo"
+  },
+  {
+    "entidad": "insatisfacción laboral",
+    "relacion": "aumenta",
+    "valor": "intención de dejar el trabajo"
+  },
+  {
+    "entidad": "dotaciones insuficientes",
+    "relacion": "impactan",
+    "valor": "resultados clínicos"
+  },
+  {
+    "entidad": "skill mix bajo",
+    "relacion": "impactan",
+    "valor": "resultados clínicos"
+  },
+  {
+    "entidad": "enfermeras jóvenes",
+    "relacion": "tienen mayor riesgo de",
+    "valor": "burnout"
+  },
+  {
+    "entidad": "enfermeras con estudios de postítulo",
+    "relacion": "tienen mayor frecuencia de",
+    "valor": "intención de dejar el trabajo"
+  },
+  {
+    "entidad": "edad de enfermeras",
+    "relacion": "es un factor protector de",
+    "valor": "burnout"
+  },
+  {
+    "entidad": "trabajar en Santiago",
+    "relacion": "aumenta",
+    "valor": "riesgo de burnout"
+  },
+  {
+    "entidad": "skill mix",
+    "relacion": "se asocia a",
+    "valor": "burnout"
+  },
+  {
+    "entidad": "rotación de enfermeras",
+    "relacion": "agrava",
+    "valor": "subdotación de personal"
+  },
+  {
+    "entidad": "calidad de atención",
+    "relacion": "se ve afectada por",
+    "valor": "subdotación de enfermeras"
+  },
+  {
+    "entidad": "Escala de autoeficacia general (EAG)",
+    "relacion": "es un",
+    "valor": "instrumento para medir autoeficacia"
+  },
+  {
+    "entidad": "autoeficacia",
+    "relacion": "afecta a",
+    "valor": "comportamientos saludables"
+  },
+  {
+    "entidad": "EAG",
+    "relacion": "mide",
+    "valor": "autoeficacia general"
+  },
+  {
+    "entidad": "EAG",
+    "relacion": "ha mostrado",
+    "valor": "niveles adecuados de confiabilidad"
+  },
+  {
+    "entidad": "EAG",
+    "relacion": "ha mostrado",
+    "valor": "validez en población chilena"
+  },
+  {
+    "entidad": "EAG",
+    "relacion": "permite",
+    "valor": "comparaciones no sesgadas según sexo o edad"
+  },
+  {
+    "entidad": "autoeficacia",
+    "relacion": "se relaciona con",
+    "valor": "adherencia a tratamientos"
+  },
+  {
+    "entidad": "autoeficacia",
+    "relacion": "se relaciona con",
+    "valor": "mejores hábitos alimenticios"
+  },
+  {
+    "entidad": "autoeficacia",
+    "relacion": "se relaciona con",
+    "valor": "mejor afrontamiento a adicciones"
+  },
+  {
+    "entidad": "autoeficacia",
+    "relacion": "se relaciona con",
+    "valor": "menor tendencia al sedentarismo"
+  },
+  {
+    "entidad": "autoeficacia",
+    "relacion": "se relaciona con",
+    "valor": "mayor responsabilidad sexual"
+  },
+  {
+    "entidad": "autoeficacia",
+    "relacion": "se relaciona con",
+    "valor": "mejor salud mental"
+  },
+  {
+    "entidad": "Universidad de Talca",
+    "relacion": "es un",
+    "valor": "centro de investigación"
+  },
+  {
+    "entidad": "Proyecto de Desarrollo Integral Multidisciplinario en Colegios del Maule",
+    "relacion": "es financiado por",
+    "valor": "Convenio de Desempeño en Humanidades, Artes y Ciencias Sociales"
+  },
+  {
+    "entidad": "EAG",
+    "relacion": "se basa en",
+    "valor": "una estructura interna unidimensional"
+  },
+  {
+    "entidad": "análisis factorial exploratorio",
+    "relacion": "sugiere",
+    "valor": "un modelo unidimensional"
+  },
+  {
+    "entidad": "modelo unidimensional modificado",
+    "relacion": "logra",
+    "valor": "ajuste aceptable en análisis confirmatorio"
+  },
+  {
+    "entidad": "validez convergente",
+    "relacion": "se evalúa mediante",
+    "valor": "correlación con la escala de autoestima de Rosenberg"
+  },
+  {
+    "entidad": "EAG",
+    "relacion": "es adecuada para",
+    "valor": "medir autoeficacia en población chilena"
+  },
+  {
+    "entidad": "Coronavirus SARS-CoV-2",
+    "relacion": "causa",
+    "valor": "infección respiratoria aguda"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "es un",
+    "valor": "síndrome asociado a Coronavirus SARS-CoV-2"
+  },
+  {
+    "entidad": "Wuhan",
+    "relacion": "es",
+    "valor": "ciudad donde emergió COVID-19"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud",
+    "relacion": "denomina",
+    "valor": "COVID-19"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "es un",
+    "valor": "predictor de gravedad en COVID-19"
+  },
+  {
+    "entidad": "fiebre",
+    "relacion": "es un",
+    "valor": "síntoma común de COVID-19"
+  },
+  {
+    "entidad": "tos",
+    "relacion": "es un",
+    "valor": "síntoma común de COVID-19"
+  },
+  {
+    "entidad": "disnea",
+    "relacion": "es un",
+    "valor": "síntoma común de COVID-19"
+  },
+  {
+    "entidad": "comorbilidades",
+    "relacion": "aumentan",
+    "valor": "el riesgo de gravedad en COVID-19"
+  },
+  {
+    "entidad": "hospitalización",
+    "relacion": "es un",
+    "valor": "resultado asociado a gravedad en COVID-19"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "es un",
+    "valor": "resultado asociado a gravedad en COVID-19"
+  },
+  {
+    "entidad": "predictores clínicos",
+    "relacion": "ayudan a",
+    "valor": "identificar gravedad en COVID-19"
+  },
+  {
+    "entidad": "síntomas respiratorios",
+    "relacion": "son",
+    "valor": "manifestaciones clínicas de COVID-19"
+  },
+  {
+    "entidad": "pacientes adultos",
+    "relacion": "son",
+    "valor": "grupo estudiado en la investigación"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "es",
+    "valor": "institución involucrada en el estudio"
+  },
+  {
+    "entidad": "Red de Salud UC Christus",
+    "relacion": "es",
+    "valor": "lugar de atención de pacientes"
+  },
+  {
+    "entidad": "análisis multivariado",
+    "relacion": "se utiliza para",
+    "valor": "identificar predictores de gravedad"
+  },
+  {
+    "entidad": "sexo masculino",
+    "relacion": "aumenta",
+    "valor": "el riesgo de conexión a ventilación mecánica"
+  },
+  {
+    "entidad": "síntomas prolongados",
+    "relacion": "son",
+    "valor": "resultado en algunos pacientes post-COVID-19"
+  },
+  {
+    "entidad": "tratamiento",
+    "relacion": "es un",
+    "valor": "desafío en la atención de COVID-19"
+  },
+  {
+    "entidad": "sintomatología inespecífica",
+    "relacion": "complica",
+    "valor": "el diagnóstico de COVID-19"
+  },
+  {
+    "entidad": "colecistolitiasis",
+    "relacion": "representa",
+    "valor": "un problema de salud pública"
+  },
+  {
+    "entidad": "cáncer de vesícula biliar",
+    "relacion": "es causado por",
+    "valor": "colecistolitiasis"
+  },
+  {
+    "entidad": "población aymara",
+    "relacion": "presenta",
+    "valor": "alta prevalencia de colecistolitiasis"
+  },
+  {
+    "entidad": "población aymara",
+    "relacion": "no presenta",
+    "valor": "cáncer de vesícula biliar"
+  },
+  {
+    "entidad": "Hospital Dr. Ernesto Torres Galdames",
+    "relacion": "realiza",
+    "valor": "cirugías electivas"
+  },
+  {
+    "entidad": "ecotomografía abdominal",
+    "relacion": "se utiliza para",
+    "valor": "diagnosticar colecistolitiasis"
+  },
+  {
+    "entidad": "población aymara",
+    "relacion": "tiene",
+    "valor": "bajo acceso a atención terciaria de salud"
+  },
+  {
+    "entidad": "población aymara",
+    "relacion": "presenta",
+    "valor": "altos niveles de pobreza"
+  },
+  {
+    "entidad": "población aymara",
+    "relacion": "tiene",
+    "valor": "baja escolaridad"
+  },
+  {
+    "entidad": "población aymara",
+    "relacion": "tiene",
+    "valor": "alto nivel de analfabetismo"
+  },
+  {
+    "entidad": "población mapuche",
+    "relacion": "tiene",
+    "valor": "mayor prevalencia de cáncer de vesícula biliar"
+  },
+  {
+    "entidad": "genética",
+    "relacion": "influye en",
+    "valor": "la prevalencia de colecistolitiasis"
+  },
+  {
+    "entidad": "altitud",
+    "relacion": "reduce",
+    "valor": "la mortalidad por cáncer"
+  },
+  {
+    "entidad": "dieta",
+    "relacion": "afecta",
+    "valor": "la prevalencia de colecistolitiasis"
+  },
+  {
+    "entidad": "síndrome metabólico",
+    "relacion": "aumenta",
+    "valor": "el riesgo de colecistolitiasis"
+  },
+  {
+    "entidad": "ecografías abdominales",
+    "relacion": "permiten",
+    "valor": "diagnóstico precoz de colecistolitiasis"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "es un factor de riesgo para",
+    "valor": "colecistolitiasis"
+  },
+  {
+    "entidad": "población aymara",
+    "relacion": "requiere",
+    "valor": "caracterización genética y ambiental"
+  },
+  {
+    "entidad": "fragilidad",
+    "relacion": "es un",
+    "valor": "síndrome geriátrico"
+  },
+  {
+    "entidad": "personas mayores",
+    "relacion": "se evalúa en",
+    "valor": "Encuesta Nacional de Salud 2016-2017"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud 2016-2017",
+    "relacion": "proporciona datos sobre",
+    "valor": "prevalencia de fragilidad"
+  },
+  {
+    "entidad": "prevalencia de fragilidad",
+    "relacion": "aumenta con",
+    "valor": "la edad"
+  },
+  {
+    "entidad": "criterios de Fried",
+    "relacion": "se utilizan para",
+    "valor": "diagnosticar fragilidad"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen mayor prevalencia de",
+    "valor": "fragilidad que hombres"
+  },
+  {
+    "entidad": "personas mayores de 80 años",
+    "relacion": "presentan",
+    "valor": "limitaciones de capacidad funcional"
+  },
+  {
+    "entidad": "sindrome de fragilidad",
+    "relacion": "asociado a",
+    "valor": "mayor riesgo de caídas y hospitalizaciones"
+  },
+  {
+    "entidad": "intervención temprana",
+    "relacion": "puede",
+    "valor": "retrasar aparición de fragilidad"
+  },
+  {
+    "entidad": "Universidad Católica de la Santísima Concepción",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "Comité de Ética de la Facultad de Medicina",
+    "relacion": "aprueba",
+    "valor": "protocolos de estudio"
+  },
+  {
+    "entidad": "multimorbilidad",
+    "relacion": "se determina por",
+    "valor": "diagnóstico de enfermedades"
+  },
+  {
+    "entidad": "fragilidad",
+    "relacion": "se clasifica en",
+    "valor": "frágil, pre-frágil y robusto"
+  },
+  {
+    "entidad": "bajo peso",
+    "relacion": "se asocia con",
+    "valor": "mayor prevalencia de fragilidad"
+  },
+  {
+    "entidad": "bienestar",
+    "relacion": "se reporta como",
+    "valor": "mejor en personas robustas"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "se mide con",
+    "valor": "Global Physical Activity Questionnaire"
+  },
+  {
+    "entidad": "obesidad central",
+    "relacion": "se define por",
+    "valor": "perímetro de cintura"
+  },
+  {
+    "entidad": "fragilidad",
+    "relacion": "se relaciona con",
+    "valor": "comorbilidades como hipertensión y cáncer"
+  },
+  {
+    "entidad": "estrategias preventivas",
+    "relacion": "son necesarias para",
+    "valor": "reducir la morbimortalidad"
+  },
+  {
+    "entidad": "Grupo de Investigación Calidad de Vida",
+    "relacion": "estudia",
+    "valor": "poblaciones en Chile"
+  },
+  {
+    "entidad": "EPROBA",
+    "relacion": "es un",
+    "valor": "modelo de simulación"
+  },
+  {
+    "entidad": "estudiantes de medicina",
+    "relacion": "participan en",
+    "valor": "taller de suturas"
+  },
+  {
+    "entidad": "taller de suturas",
+    "relacion": "utiliza",
+    "valor": "metodología EPROBA"
+  },
+  {
+    "entidad": "taller de suturas",
+    "relacion": "mejora",
+    "valor": "competencias procedimentales"
+  },
+  {
+    "entidad": "competencias procedimentales",
+    "relacion": "son evaluadas por",
+    "valor": "OSATS"
+  },
+  {
+    "entidad": "OSATS",
+    "relacion": "mide",
+    "valor": "habilidades técnicas"
+  },
+  {
+    "entidad": "simulación",
+    "relacion": "es utilizada en",
+    "valor": "entrenamiento médico"
+  },
+  {
+    "entidad": "Universidad de Concepción",
+    "relacion": "es un",
+    "valor": "centro educativo"
+  },
+  {
+    "entidad": "Departamento de Cirugía",
+    "relacion": "pertenece a",
+    "valor": "Universidad de Concepción"
+  },
+  {
+    "entidad": "taller de suturas",
+    "relacion": "se realiza en",
+    "valor": "Departamento de Cirugía"
+  },
+  {
+    "entidad": "estudiantes de medicina",
+    "relacion": "son clasificados según",
+    "valor": "conocimientos previos en suturas"
+  },
+  {
+    "entidad": "conocimientos previos en suturas",
+    "relacion": "se dividen en",
+    "valor": "Grupo A, Grupo B, Grupo C"
+  },
+  {
+    "entidad": "Grupo A",
+    "relacion": "ha recibido",
+    "valor": "instrucción teórico-práctica en suturas"
+  },
+  {
+    "entidad": "Grupo B",
+    "relacion": "ha recibido",
+    "valor": "instrucción en modelos de simulación"
+  },
+  {
+    "entidad": "Grupo C",
+    "relacion": "no tiene",
+    "valor": "conocimientos previos en suturas"
+  },
+  {
+    "entidad": "módulo de retención",
+    "relacion": "evalúa",
+    "valor": "competencias adquiridas"
+  },
+  {
+    "entidad": "técnica aséptica",
+    "relacion": "es enseñada en",
+    "valor": "taller de suturas"
+  },
+  {
+    "entidad": "instrumental básico",
+    "relacion": "es utilizado en",
+    "valor": "taller de suturas"
+  },
+  {
+    "entidad": "taller de suturas",
+    "relacion": "incluye",
+    "valor": "práctica tutorizada"
+  },
+  {
+    "entidad": "evaluación",
+    "relacion": "es realizada por",
+    "valor": "tutores no involucrados en el entrenamiento"
+  },
+  {
+    "entidad": "comité de ética",
+    "relacion": "aprueba",
+    "valor": "intervenciones educativas"
+  },
+  {
+    "entidad": "intervención tutorizada",
+    "relacion": "es aprobada por",
+    "valor": "comité de ética de la Facultad de Medicina"
+  },
+  {
+    "entidad": "estudiantes de medicina",
+    "relacion": "reportan",
+    "valor": "confianza en habilidades adquiridas"
+  },
+  {
+    "entidad": "modelo de simulación",
+    "relacion": "es útil para",
+    "valor": "adquisición de competencias"
+  },
+  {
+    "entidad": "competencias quirúrgicas básicas",
+    "relacion": "son mantenidas",
+    "valor": "en el tiempo"
+  },
+  {
+    "entidad": "ecuación Schifferli",
+    "relacion": "valida",
+    "valor": "masa grasa corporal en adultos chilenos"
+  },
+  {
+    "entidad": "bioimpedanciometría",
+    "relacion": "utiliza",
+    "valor": "método para estimar composición corporal"
+  },
+  {
+    "entidad": "DEXA",
+    "relacion": "es un",
+    "valor": "método de referencia para evaluación de composición corporal"
+  },
+  {
+    "entidad": "adultos chilenos",
+    "relacion": "presentan",
+    "valor": "mestizaje característico"
+  },
+  {
+    "entidad": "bioimpedanciometría",
+    "relacion": "es",
+    "valor": "método rápido y no invasivo"
+  },
+  {
+    "entidad": "nueva ecuación",
+    "relacion": "se genera",
+    "valor": "para BIA de multifrecuencia"
+  },
+  {
+    "entidad": "métodos de referencia",
+    "relacion": "incluyen",
+    "valor": "densitometría por inmersión y pletismografía"
+  },
+  {
+    "entidad": "proporción de grasa corporal",
+    "relacion": "se relaciona con",
+    "valor": "mayor riesgo de enfermedades crónicas"
+  },
+  {
+    "entidad": "Universidad de La Frontera",
+    "relacion": "realiza",
+    "valor": "investigación en salud pública"
+  },
+  {
+    "entidad": "proyecto DIUFRO DI-160092",
+    "relacion": "financia",
+    "valor": "la investigación"
+  },
+  {
+    "entidad": "BIA-BQ",
+    "relacion": "presenta",
+    "valor": "sesgo en estimación de masa libre de grasa"
+  },
+  {
+    "entidad": "BIA-EC",
+    "relacion": "subestima",
+    "valor": "porcentaje de masa grasa"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "no presentan",
+    "valor": "diferencias significativas en estimación de MLG"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "presentan",
+    "valor": "diferencias significativas en estimación de MLG"
+  },
+  {
+    "entidad": "nuevas ecuaciones ajustadas",
+    "relacion": "proporcionan",
+    "valor": "estimaciones clínicamente válidas"
+  },
+  {
+    "entidad": "bioimpedanciometría",
+    "relacion": "debe ser",
+    "valor": "población-específica y dispositivo-específico"
+  },
+  {
+    "entidad": "Resonancia magnética cardíaca",
+    "relacion": "evalúa",
+    "valor": "utilidad en diagnóstico diferencial"
+  },
+  {
+    "entidad": "Infarto agudo de miocardio con elevación del segmento ST",
+    "relacion": "simula",
+    "valor": "miocarditis aguda"
+  },
+  {
+    "entidad": "Infarto agudo de miocardio con elevación del segmento ST",
+    "relacion": "simula",
+    "valor": "miocardiopatía de Takotsubo"
+  },
+  {
+    "entidad": "Resonancia magnética cardíaca",
+    "relacion": "permite",
+    "valor": "diagnóstico de infarto agudo de miocardio"
+  },
+  {
+    "entidad": "Resonancia magnética cardíaca",
+    "relacion": "identifica",
+    "valor": "edema miocárdico"
+  },
+  {
+    "entidad": "Resonancia magnética cardíaca",
+    "relacion": "identifica",
+    "valor": "necrosis o fibrosis"
+  },
+  {
+    "entidad": "Infarto agudo de miocardio",
+    "relacion": "se diagnostica en",
+    "valor": "pacientes con áreas de realce tardío subendocárdico o transmural"
+  },
+  {
+    "entidad": "Miocarditis aguda",
+    "relacion": "se diagnostica en",
+    "valor": "pacientes con realce tardío subepicárdico o intramural"
+  },
+  {
+    "entidad": "Miocardiopatía de Takotsubo",
+    "relacion": "se diagnostica en",
+    "valor": "pacientes con edema miocárdico y ausencia de realce tardío"
+  },
+  {
+    "entidad": "Pacientes con infarto agudo de miocardio",
+    "relacion": "presentan",
+    "valor": "alteraciones segmentarias de la contracción del ventrículo izquierdo"
+  },
+  {
+    "entidad": "Pacientes con miocarditis aguda",
+    "relacion": "no presentan",
+    "valor": "alteraciones segmentarias de la contracción del ventrículo izquierdo"
+  },
+  {
+    "entidad": "Miocardiopatía de Takotsubo",
+    "relacion": "afecta principalmente a",
+    "valor": "mujeres posmenopáusicas"
+  },
+  {
+    "entidad": "Resonancia magnética cardíaca",
+    "relacion": "es una herramienta",
+    "valor": "diagnóstica esencial"
+  },
+  {
+    "entidad": "Resonancia magnética cardíaca",
+    "relacion": "permite",
+    "valor": "modificar el diagnóstico de ingreso"
+  },
+  {
+    "entidad": "Resonancia magnética cardíaca",
+    "relacion": "cambia",
+    "valor": "estrategia terapéutica"
+  }
+]

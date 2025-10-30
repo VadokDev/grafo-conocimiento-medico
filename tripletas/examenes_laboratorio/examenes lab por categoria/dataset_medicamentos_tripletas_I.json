@@ -1,0 +1,127 @@
+[
+  {
+    "entidad": "Ionograma",
+    "relacion": "mide",
+    "valor": "niveles de electrolitos en la sangre"
+  },
+  {
+    "entidad": "Ionograma",
+    "relacion": "requiere_muestra_de",
+    "valor": "sangre de una vena del brazo"
+  },
+  {
+    "entidad": "Ionograma",
+    "relacion": "diagnostica",
+    "valor": "enfermedad de los riñones"
+  },
+  {
+    "entidad": "Ionograma",
+    "relacion": "diagnostica",
+    "valor": "presión arterial alta"
+  },
+  {
+    "entidad": "Ionograma",
+    "relacion": "diagnostica",
+    "valor": "arritmia"
+  },
+  {
+    "entidad": "Ionograma",
+    "relacion": "indicado_si_tiene",
+    "valor": "desequilibrio de electrolitos"
+  },
+  {
+    "entidad": "Ionograma",
+    "relacion": "alivia",
+    "valor": "síntomas de desequilibrio de electrolitos"
+  },
+  {
+    "entidad": "Ionograma",
+    "relacion": "tiene_duracion",
+    "valor": "menos de cinco minutos"
+  },
+  {
+    "entidad": "Ionograma",
+    "relacion": "tiene_riesgo",
+    "valor": "dolor leve o moretón en el lugar de la punción"
+  },
+  {
+    "entidad": "Ionograma",
+    "relacion": "es_tipo_de",
+    "valor": "análisis de sangre"
+  },
+  {
+    "entidad": "Ionograma",
+    "relacion": "util_para",
+    "valor": "verificar desequilibrios de electrolitos, fluidos o pH"
+  },
+  {
+    "entidad": "Ionograma",
+    "relacion": "realizado_por",
+    "valor": "profesional de la salud"
+  },
+  {
+    "entidad": "Insulina en la sangre",
+    "relacion": "mide",
+    "valor": "cantidad de insulina en la sangre"
+  },
+  {
+    "entidad": "Insulina en la sangre",
+    "relacion": "requiere_muestra_de",
+    "valor": "sangre de una vena del brazo"
+  },
+  {
+    "entidad": "Insulina en la sangre",
+    "relacion": "indicado_si_tiene",
+    "valor": "hipoglucemia"
+  },
+  {
+    "entidad": "Insulina en la sangre",
+    "relacion": "indicado_si_tiene",
+    "valor": "resistencia a la insulina"
+  },
+  {
+    "entidad": "Insulina en la sangre",
+    "relacion": "indicado_si_tiene",
+    "valor": "diabetes tipo 2"
+  },
+  {
+    "entidad": "Insulina en la sangre",
+    "relacion": "diagnostica",
+    "valor": "resistencia a la insulina"
+  },
+  {
+    "entidad": "Insulina en la sangre",
+    "relacion": "diagnostica",
+    "valor": "prediabetes"
+  },
+  {
+    "entidad": "Insulina en la sangre",
+    "relacion": "diagnostica",
+    "valor": "diabetes tipo 2"
+  },
+  {
+    "entidad": "Insulina en la sangre",
+    "relacion": "diagnostica",
+    "valor": "hipoglucemia"
+  },
+  {
+    "entidad": "Insulina en la sangre",
+    "relacion": "util_para",
+    "valor": "encontrar la causa de hipoglucemia"
+  },
+  {
+    "entidad": "Insulina en la sangre",
+    "relacion": "util_para",
+    "valor": "guiar decisiones de tratamiento para diabetes tipo 2"
+  },
+  {
+    "entidad": "Insulina en la sangre",
+    "relacion": "tiene_riesgo",
+    "valor": "dolor leve o moretón en el lugar de la punción"
+  },
+  {
+    "entidad": "Insulina en la sangre",
+    "relacion": "realizado_por",
+    "valor": "profesional de la salud"
+  }
+]

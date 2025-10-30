@@ -1,0 +1,212 @@
+[
+  {
+    "entidad": "Amebiasis",
+    "relacion": "es",
+    "valor": "una causa importante de morbilidad y mortalidad"
+  },
+  {
+    "entidad": "Entamoeba dispar",
+    "relacion": "complica",
+    "valor": "diagnóstico de E. histolytica"
+  },
+  {
+    "entidad": "Entamoeba moshkovskii",
+    "relacion": "complica",
+    "valor": "diagnóstico de E. histolytica"
+  },
+  {
+    "entidad": "E. histolytica",
+    "relacion": "causa",
+    "valor": "infección intestinal"
+  },
+  {
+    "entidad": "infección",
+    "relacion": "varía",
+    "valor": "desde colonización asintomática hasta colitis hemorrágica"
+  },
+  {
+    "entidad": "susceptibilidad a la infección",
+    "relacion": "es influenciada por",
+    "valor": "el hospedador, genotipo del parásito y ambiente"
+  },
+  {
+    "entidad": "diagnóstico de E. histolytica",
+    "relacion": "se basa en",
+    "valor": "detección de antígenos específicos por ELISA y ADN en muestras clínicas"
+  },
+  {
+    "entidad": "técnicas de diagnóstico",
+    "relacion": "incluyen",
+    "valor": "PCR"
+  },
+  {
+    "entidad": "World Health Organization",
+    "relacion": "proporciona",
+    "valor": "directrices para evitar tratamientos innecesarios"
+  },
+  {
+    "entidad": "E. dispar",
+    "relacion": "produce",
+    "valor": "lesiones intestinales y hepáticas en conejillos de Indias"
+  },
+  {
+    "entidad": "E. histolytica",
+    "relacion": "se transmite a través de",
+    "valor": "agua, alimentos y manos contaminadas"
+  },
+  {
+    "entidad": "relación sexual oro-anal",
+    "relacion": "es un modo de",
+    "valor": "transmisión de E. histolytica"
+  },
+  {
+    "entidad": "desnutrición",
+    "relacion": "aumenta",
+    "valor": "susceptibilidad a la infección"
+  },
+  {
+    "entidad": "hormona leptina",
+    "relacion": "influye en",
+    "valor": "el sistema inmune"
+  },
+  {
+    "entidad": "genotipo del parásito",
+    "relacion": "influye en",
+    "valor": "el desenlace de la infección"
+  },
+  {
+    "entidad": "E. histolytica",
+    "relacion": "se comporta como",
+    "valor": "un comensal en el 90% de las infecciones"
+  },
+  {
+    "entidad": "AHA",
+    "relacion": "es la expresión clínica más frecuente de",
+    "valor": "infección extraintestinal"
+  },
+  {
+    "entidad": "metronidazol",
+    "relacion": "es",
+    "valor": "la droga de elección para el tratamiento de amebiasis"
+  },
+  {
+    "entidad": "nitazoxanida",
+    "relacion": "es",
+    "valor": "una nueva droga prometedora contra E. histolytica"
+  },
+  {
+    "entidad": "programa de control",
+    "relacion": "es difícil de implementar debido a",
+    "valor": "mejorar condiciones de vida"
+  },
+  {
+    "entidad": "vacuna",
+    "relacion": "es deseable para",
+    "valor": "prevención de la amebiasis"
+  },
+  {
+    "entidad": "mejoramiento de condiciones de vida",
+    "relacion": "contribuye a",
+    "valor": "evitar transmisión de la infección"
+  },
+  {
+    "entidad": "estados poliúricos",
+    "relacion": "pueden causar",
+    "valor": "daño neurológico primario"
+  },
+  {
+    "entidad": "injuria cerebral aguda",
+    "relacion": "se asocia con",
+    "valor": "estados poliúricos"
+  },
+  {
+    "entidad": "poliuros",
+    "relacion": "se clasifican en",
+    "valor": "poliuria acuosa y osmótica"
+  },
+  {
+    "entidad": "diabetes insípida",
+    "relacion": "es la principal causa de",
+    "valor": "poliuria acuosa"
+  },
+  {
+    "entidad": "sodio, glucosa, urea",
+    "relacion": "son responsables de",
+    "valor": "poliuria osmótica"
+  },
+  {
+    "entidad": "estados poliúricos",
+    "relacion": "están relacionados con",
+    "valor": "desequilibrios hidroelectrolíticos"
+  },
+  {
+    "entidad": "análisis de sangre y orina",
+    "relacion": "son necesarios para",
+    "valor": "evaluar estados poliúricos"
+  },
+  {
+    "entidad": "hipovolemia",
+    "relacion": "es una consecuencia de",
+    "valor": "estados poliúricos"
+  },
+  {
+    "entidad": "hipotensión arterial",
+    "relacion": "es una consecuencia de",
+    "valor": "estados poliúricos"
+  },
+  {
+    "entidad": "trastornos de la osmolaridad",
+    "relacion": "son consecuencia de",
+    "valor": "estados poliúricos"
+  },
+  {
+    "entidad": "hormona antidiurética (HAD)",
+    "relacion": "regula",
+    "valor": "la reabsorción de agua"
+  },
+  {
+    "entidad": "poliuria",
+    "relacion": "puede ser causada por",
+    "valor": "intervenciones terapéuticas"
+  },
+  {
+    "entidad": "sistema nervioso central",
+    "relacion": "afecta",
+    "valor": "la regulación de la HAD"
+  },
+  {
+    "entidad": "sodio",
+    "relacion": "es clave en",
+    "valor": "el diagnóstico de poliurias"
+  },
+  {
+    "entidad": "diuréticos",
+    "relacion": "pueden causar",
+    "valor": "poliuria"
+  },
+  {
+    "entidad": "síndrome de pérdida renal de sal de origen cerebral",
+    "relacion": "es una causa de",
+    "valor": "pérdida de sodio"
+  },
+  {
+    "entidad": "poliurias mixtas",
+    "relacion": "comparten características de",
+    "valor": "poliurias acuosas y osmóticas"
+  },
+  {
+    "entidad": "evaluación de poliurias",
+    "relacion": "requiere",
+    "valor": "razonamiento clínico profundo"
+  },
+  {
+    "entidad": "test de deprivación de agua",
+    "relacion": "se utiliza para",
+    "valor": "diferenciar tipos de diabetes insípida"
+  },
+  {
+    "entidad": "tratamiento de poliurias",
+    "relacion": "debe incluir",
+    "valor": "reemplazo de pérdidas y control de volumen"
+  }
+]

@@ -1,0 +1,397 @@
+[
+  {
+    "entidad": "Carcinoma vesicular de células en anillo de sello",
+    "relacion": "es un",
+    "valor": "subtipo de adenocarcinoma mucinoso"
+  },
+  {
+    "entidad": "Carcinoma vesicular de células en anillo de sello",
+    "relacion": "tiene",
+    "valor": "mal pronóstico"
+  },
+  {
+    "entidad": "Carcinoma vesicular de células en anillo de sello",
+    "relacion": "es",
+    "valor": "una variante agresiva"
+  },
+  {
+    "entidad": "PET/CT con F18-FDG",
+    "relacion": "es una herramienta",
+    "valor": "útil en la etapificación de cáncer de vesícula biliar"
+  },
+  {
+    "entidad": "PET/CT con F18-FDG",
+    "relacion": "detecta",
+    "valor": "metástasis óseas"
+  },
+  {
+    "entidad": "Cáncer de vesícula biliar",
+    "relacion": "es",
+    "valor": "la neoplasia maligna más frecuente de la vía biliar"
+  },
+  {
+    "entidad": "Cáncer de vesícula biliar",
+    "relacion": "es",
+    "valor": "un problema de salud pública en Chile"
+  },
+  {
+    "entidad": "Colecistectomía",
+    "relacion": "es el único tratamiento",
+    "valor": "curativo en etapas tempranas"
+  },
+  {
+    "entidad": "Quimioterapia con gemcitabina y carboplatino",
+    "relacion": "es un tratamiento",
+    "valor": "utilizado en cáncer de vesícula biliar avanzado"
+  },
+  {
+    "entidad": "SUV máximo",
+    "relacion": "es un factor",
+    "valor": "predictor de sobrevida global"
+  },
+  {
+    "entidad": "Biopsia percutánea guiada por CT",
+    "relacion": "confirma",
+    "valor": "metástasis de carcinoma vesicular de células en anillo de sello"
+  },
+  {
+    "entidad": "Cáncer de vesícula biliar",
+    "relacion": "presenta",
+    "valor": "síntomas en etapas avanzadas"
+  },
+  {
+    "entidad": "Cáncer de vesícula biliar",
+    "relacion": "aumenta el riesgo de metástasis",
+    "valor": "cuando se incrementa el estadío 'T'"
+  },
+  {
+    "entidad": "PET/CT con F18-FDG",
+    "relacion": "combinando",
+    "valor": "técnica anatómica y metabólica"
+  },
+  {
+    "entidad": "Cáncer de vesícula biliar",
+    "relacion": "suele ser",
+    "valor": "indolente"
+  },
+  {
+    "entidad": "Cáncer de vesícula biliar",
+    "relacion": "se diagnostica",
+    "valor": "en fases avanzadas en el 75% de los casos"
+  },
+  {
+    "entidad": "Natalizumab",
+    "relacion": "es un",
+    "valor": "anticuerpo monoclonal IgG4"
+  },
+  {
+    "entidad": "Natalizumab",
+    "relacion": "se utiliza para",
+    "valor": "el tratamiento de la enfermedad de Crohn"
+  },
+  {
+    "entidad": "enfermedad de Crohn",
+    "relacion": "es una",
+    "valor": "enfermedad inflamatoria crónica"
+  },
+  {
+    "entidad": "anti-TNF",
+    "relacion": "son",
+    "valor": "agentes terapéuticos utilizados en la enfermedad de Crohn"
+  },
+  {
+    "entidad": "anti-TNF",
+    "relacion": "pueden causar",
+    "valor": "no respuesta en pacientes"
+  },
+  {
+    "entidad": "virus JC",
+    "relacion": "puede causar",
+    "valor": "leucoencefalopatía multifocal progresiva"
+  },
+  {
+    "entidad": "serología negativa para virus JC",
+    "relacion": "reduce el riesgo de",
+    "valor": "leucoencefalopatía multifocal progresiva"
+  },
+  {
+    "entidad": "terapia biológica",
+    "relacion": "es efectiva para",
+    "valor": "inducir remisión en enfermedad de Crohn"
+  },
+  {
+    "entidad": "natalizumab",
+    "relacion": "ha mostrado ser",
+    "valor": "efectivo en inducir y mantener remisión"
+  },
+  {
+    "entidad": "pacientes con enfermedad de Crohn",
+    "relacion": "pueden experimentar",
+    "valor": "pérdida de respuesta a anti-TNF"
+  },
+  {
+    "entidad": "natalizumab",
+    "relacion": "es la única",
+    "valor": "anti-integrina disponible en Chile para enfermedad de Crohn refractaria"
+  },
+  {
+    "entidad": "natalizumab",
+    "relacion": "se asocia con",
+    "valor": "eventos adversos leves"
+  },
+  {
+    "entidad": "natalizumab",
+    "relacion": "requiere",
+    "valor": "monitoreo de serología para virus JC"
+  },
+  {
+    "entidad": "vedolizumab",
+    "relacion": "es preferido sobre",
+    "valor": "natalizumab por su mejor perfil de seguridad"
+  },
+  {
+    "entidad": "pacientes con enfermedad de Crohn",
+    "relacion": "pueden beneficiarse de",
+    "valor": "natalizumab si son refractarios a anti-TNF"
+  },
+  {
+    "entidad": "Ruptura pieloureteral espontánea",
+    "relacion": "es un",
+    "valor": "condición médica rara"
+  },
+  {
+    "entidad": "sistema excretor",
+    "relacion": "asociado a",
+    "valor": "obstrucción"
+  },
+  {
+    "entidad": "litiasis",
+    "relacion": "causa",
+    "valor": "obstrucción del sistema excretor"
+  },
+  {
+    "entidad": "estenosis",
+    "relacion": "causa",
+    "valor": "obstrucción del sistema excretor"
+  },
+  {
+    "entidad": "trauma",
+    "relacion": "causa",
+    "valor": "obstrucción del sistema excretor"
+  },
+  {
+    "entidad": "tumor",
+    "relacion": "causa",
+    "valor": "obstrucción del sistema excretor"
+  },
+  {
+    "entidad": "enfermedad del tejido conectivo",
+    "relacion": "causa",
+    "valor": "obstrucción del sistema excretor"
+  },
+  {
+    "entidad": "diagnóstico por imágenes",
+    "relacion": "es esencial para",
+    "valor": "determinar ubicación y complicaciones"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "es un",
+    "valor": "hombre de 58 años"
+  },
+  {
+    "entidad": "urotac",
+    "relacion": "es un",
+    "valor": "examen de tomografía computada"
+  },
+  {
+    "entidad": "contraste endovenoso",
+    "relacion": "se administra a",
+    "valor": "paciente"
+  },
+  {
+    "entidad": "dolor lumbar",
+    "relacion": "se presenta en",
+    "valor": "paciente"
+  },
+  {
+    "entidad": "ruptura bilateral",
+    "relacion": "se confirma en",
+    "valor": "sistema excretor"
+  },
+  {
+    "entidad": "hospitalización",
+    "relacion": "se realiza para",
+    "valor": "observación del paciente"
+  },
+  {
+    "entidad": "creatinina",
+    "relacion": "se mide en",
+    "valor": "paciente"
+  },
+  {
+    "entidad": "control ambulatorio",
+    "relacion": "se realiza con",
+    "valor": "urólogo"
+  },
+  {
+    "entidad": "pielotac",
+    "relacion": "se realiza para",
+    "valor": "evaluar riñones"
+  },
+  {
+    "entidad": "diagnóstico precoz",
+    "relacion": "es vital para",
+    "valor": "evitar complicaciones"
+  },
+  {
+    "entidad": "tratamiento",
+    "relacion": "incluye",
+    "valor": "reposo y control clínico"
+  },
+  {
+    "entidad": "nefrostomías percutáneas",
+    "relacion": "se pueden realizar en",
+    "valor": "tratamiento"
+  },
+  {
+    "entidad": "catéteres pigtail",
+    "relacion": "se pueden realizar en",
+    "valor": "tratamiento"
+  },
+  {
+    "entidad": "nefrectomía",
+    "relacion": "se reportan casos que terminan en",
+    "valor": "tratamiento"
+  },
+  {
+    "entidad": "aumento de presión intraluminal",
+    "relacion": "es un factor determinante para",
+    "valor": "ruptura"
+  },
+  {
+    "entidad": "hidratación",
+    "relacion": "puede tener un rol en",
+    "valor": "aumento de presión intraluminal"
+  },
+  {
+    "entidad": "distensión vesical",
+    "relacion": "puede tener un rol en",
+    "valor": "aumento de presión intraluminal"
+  },
+  {
+    "entidad": "recuperación",
+    "relacion": "es favorecida por",
+    "valor": "diagnóstico y tratamiento precoz"
+  },
+  {
+    "entidad": "Tríada de Carney",
+    "relacion": "es una",
+    "valor": "asociación de tumores infrecuentes"
+  },
+  {
+    "entidad": "Carney",
+    "relacion": "describió",
+    "valor": "un trastorno caracterizado por varios tumores"
+  },
+  {
+    "entidad": "pulmonary chondromas",
+    "relacion": "es parte de",
+    "valor": "la Tríada de Carney"
+  },
+  {
+    "entidad": "gastric sarcomas",
+    "relacion": "es parte de",
+    "valor": "la Tríada de Carney"
+  },
+  {
+    "entidad": "extra-adrenal paragangliomas",
+    "relacion": "es parte de",
+    "valor": "la Tríada de Carney"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "desarrolló",
+    "valor": "múltiples tumores gástricos a los 14 años"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "fue sometida a",
+    "valor": "una gastrectomía parcial"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "desarrolló",
+    "valor": "pulmonary chondromas a los 25 años"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "fue diagnosticada con",
+    "valor": "un tumor mediastinal a los 33 años"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "falleció por",
+    "valor": "fallo hepático secundario a metástasis hepáticas"
+  },
+  {
+    "entidad": "imatinib",
+    "relacion": "no es efectivo en",
+    "valor": "la Tríada de Carney"
+  },
+  {
+    "entidad": "cirugía precoz de GIST",
+    "relacion": "reduce",
+    "valor": "complicaciones y mortalidad"
+  },
+  {
+    "entidad": "Tríada de Carney",
+    "relacion": "se asocia a",
+    "valor": "adenomas suprarrenales no funcionantes"
+  },
+  {
+    "entidad": "Tríada de Carney",
+    "relacion": "se asocia a",
+    "valor": "feocromocitomas"
+  },
+  {
+    "entidad": "Tríada de Carney",
+    "relacion": "se asocia a",
+    "valor": "leiomiomas esofágicos"
+  },
+  {
+    "entidad": "mutaciones genéticas",
+    "relacion": "se sospecha que causan",
+    "valor": "la Tríada de Carney"
+  },
+  {
+    "entidad": "GIST esporádicos",
+    "relacion": "se relacionan con",
+    "valor": "mutaciones en KiT y PDGFRa"
+  },
+  {
+    "entidad": "pacientes con TDC",
+    "relacion": "presentan",
+    "valor": "tumores múltiples"
+  },
+  {
+    "entidad": "condromas pulmonares",
+    "relacion": "se encuentran en",
+    "valor": "76% de los pacientes"
+  },
+  {
+    "entidad": "paragangliomas",
+    "relacion": "provienen de",
+    "valor": "la cresta neural"
+  },
+  {
+    "entidad": "pacientes con TDC",
+    "relacion": "requieren",
+    "valor": "cirugía gástrica por recurrencias"
+  },
+  {
+    "entidad": "pacientes con TDC",
+    "relacion": "tienen un seguimiento promedio de",
+    "valor": "22 años"
+  }
+]

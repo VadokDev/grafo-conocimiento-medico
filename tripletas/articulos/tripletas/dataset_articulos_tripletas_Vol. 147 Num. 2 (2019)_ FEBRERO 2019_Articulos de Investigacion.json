@@ -1,0 +1,737 @@
+[
+  {
+    "entidad": "Actividad física",
+    "relacion": "mejora",
+    "valor": "calidad de vida en pacientes con enfermedad renal crónica"
+  },
+  {
+    "entidad": "enfermedad renal crónica",
+    "relacion": "afecta a",
+    "valor": "35% de los mayores de 70 años"
+  },
+  {
+    "entidad": "enfermedad renal crónica",
+    "relacion": "se define como",
+    "valor": "función renal alterada confirmada en dos o más ocasiones con al menos 3 meses de diferencia"
+  },
+  {
+    "entidad": "terapia sustitutiva",
+    "relacion": "asocia con",
+    "valor": "menor carga de enfermedad"
+  },
+  {
+    "entidad": "actividad física moderada y vigorosa",
+    "relacion": "se relaciona con",
+    "valor": "funcionamiento físico en pacientes con más de 19 meses de diagnóstico"
+  },
+  {
+    "entidad": "dimensión salud física",
+    "relacion": "asociada con",
+    "valor": "actividad física en mujeres y pacientes con 7 a 18 meses de diagnóstico"
+  },
+  {
+    "entidad": "dimensión carga de enfermedad",
+    "relacion": "asociada con",
+    "valor": "actividad física en mujeres y pacientes no en tratamiento sustitutivo"
+  },
+  {
+    "entidad": "calidad de vida relacionada con la salud (CVRS)",
+    "relacion": "es medida por",
+    "valor": "Kidney Disease Quality of Life-36 (KDQOL-36)"
+  },
+  {
+    "entidad": "cuestionario Internacional de Actividad Física (IPAQ)",
+    "relacion": "permite estimar",
+    "valor": "promedio del tiempo semanal de actividad física"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen mayor",
+    "valor": "percepción de salud física en etapas tempranas de la enfermedad"
+  },
+  {
+    "entidad": "programas de actividad física",
+    "relacion": "son necesarios para",
+    "valor": "mejorar la calidad de vida en pacientes con ERC"
+  },
+  {
+    "entidad": "carga de la enfermedad",
+    "relacion": "afecta",
+    "valor": "percepción de bienestar en pacientes con ERC"
+  },
+  {
+    "entidad": "tiempo de diagnóstico",
+    "relacion": "influye en",
+    "valor": "práctica de actividad física"
+  },
+  {
+    "entidad": "universidad Simón Bolívar",
+    "relacion": "realiza",
+    "valor": "investigación sobre actividad física y calidad de vida"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "impacta en",
+    "valor": "salud física, mental y emocional de pacientes con ERC"
+  },
+  {
+    "entidad": "fractura de cadera",
+    "relacion": "es un",
+    "valor": "tipo de fractura"
+  },
+  {
+    "entidad": "adulto mayor",
+    "relacion": "afecta a",
+    "valor": "fractura de cadera"
+  },
+  {
+    "entidad": "osteoporosis",
+    "relacion": "causa",
+    "valor": "fractura de cadera"
+  },
+  {
+    "entidad": "manejo orto-geriátrico",
+    "relacion": "es fundamental para",
+    "valor": "resultados en fractura de cadera"
+  },
+  {
+    "entidad": "tiempo hasta cirugía",
+    "relacion": "es ideal",
+    "valor": "menos de 72 horas"
+  },
+  {
+    "entidad": "cirugía",
+    "relacion": "debe realizarse en",
+    "valor": "menos de 72 horas"
+  },
+  {
+    "entidad": "artroplastia",
+    "relacion": "es el tratamiento para",
+    "valor": "fracturas de cuello femoral desplazadas"
+  },
+  {
+    "entidad": "fijación interna y osteosíntesis",
+    "relacion": "es el tratamiento para",
+    "valor": "fracturas de cuello femoral no desplazadas"
+  },
+  {
+    "entidad": "tratamiento de osteoporosis",
+    "relacion": "realizado por",
+    "valor": "51% de los encuestados"
+  },
+  {
+    "entidad": "medición de vitamina D",
+    "relacion": "realizada por",
+    "valor": "24% de los encuestados"
+  },
+  {
+    "entidad": "quimio profilaxis",
+    "relacion": "realizada por",
+    "valor": "100% de los encuestados"
+  },
+  {
+    "entidad": "diferencias en manejo",
+    "relacion": "pueden deberse a",
+    "valor": "desconocimiento de la mejor evidencia"
+  },
+  {
+    "entidad": "falta de acceso a tratamiento",
+    "relacion": "es un factor que",
+    "valor": "afecta el manejo de fractura de cadera"
+  },
+  {
+    "entidad": "Sociedad Chilena de Ortopedia y Traumatología",
+    "relacion": "es la organización que",
+    "valor": "administra la encuesta"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "realiza",
+    "valor": "Simposio Sudamericano de Actualización en Cirugía de Cadera"
+  },
+  {
+    "entidad": "encuesta",
+    "relacion": "fue enviada a",
+    "valor": "140 especialistas"
+  },
+  {
+    "entidad": "resultados de la encuesta",
+    "relacion": "muestran",
+    "valor": "acuerdo en prácticas quirúrgicas"
+  },
+  {
+    "entidad": "manejo preoperatorio multidisciplinario",
+    "relacion": "es considerado",
+    "valor": "fundamental por la mayoría de los encuestados"
+  },
+  {
+    "entidad": "creencias culturales sobre los médicos",
+    "relacion": "afectan",
+    "valor": "conductas evitativas en salud"
+  },
+  {
+    "entidad": "discriminación percibida",
+    "relacion": "tiene un efecto",
+    "valor": "negativo en las conductas de cuidado de la salud"
+  },
+  {
+    "entidad": "emociones negativas",
+    "relacion": "median",
+    "valor": "el vínculo entre discriminación y consecuencias evitativas"
+  },
+  {
+    "entidad": "nivel socioeconómico",
+    "relacion": "influye en",
+    "valor": "creencias negativas sobre los médicos"
+  },
+  {
+    "entidad": "sistema de salud público",
+    "relacion": "asocia con",
+    "valor": "mayor discriminación percibida"
+  },
+  {
+    "entidad": "creencias negativas sobre los médicos",
+    "relacion": "asocian con",
+    "valor": "mayor frecuencia de discriminación percibida"
+  },
+  {
+    "entidad": "creencias negativas sobre los médicos",
+    "relacion": "tienen un efecto",
+    "valor": "directo en las consecuencias evitativas en el cuidado de la salud"
+  },
+  {
+    "entidad": "discriminación percibida",
+    "relacion": "se asocia con",
+    "valor": "más emociones negativas"
+  },
+  {
+    "entidad": "emociones negativas",
+    "relacion": "provocan",
+    "valor": "mayores consecuencias evitativas"
+  },
+  {
+    "entidad": "cuidadores de niños",
+    "relacion": "asisten a",
+    "valor": "controles periódicos de salud"
+  },
+  {
+    "entidad": "modelo teórico de Betancourt",
+    "relacion": "es utilizado para",
+    "valor": "estudiar la cultura y comportamiento en salud"
+  },
+  {
+    "entidad": "creencias socialmente compartidas",
+    "relacion": "son factores que influyen en",
+    "valor": "la conducta de salud"
+  },
+  {
+    "entidad": "percepción de discriminación",
+    "relacion": "no media",
+    "valor": "la relación entre creencias negativas y conductas evitativas"
+  },
+  {
+    "entidad": "cultura",
+    "relacion": "influye en",
+    "valor": "las conductas de salud"
+  },
+  {
+    "entidad": "estudios previos",
+    "relacion": "han establecido",
+    "valor": "relación entre nivel socioeconómico y conductas de salud"
+  },
+  {
+    "entidad": "Diabetes gestacional",
+    "relacion": "es un",
+    "valor": "trastorno endocrino metabólico"
+  },
+  {
+    "entidad": "Diabetes gestacional",
+    "relacion": "afecta a",
+    "valor": "madres y fetos"
+  },
+  {
+    "entidad": "Fundación Mundial de Diabetes",
+    "relacion": "financia",
+    "valor": "proyecto en Barranquilla"
+  },
+  {
+    "entidad": "proyecto Vida Nueva",
+    "relacion": "involucra a",
+    "valor": "instituciones académicas y Secretaría de Salud"
+  },
+  {
+    "entidad": "guía de detección",
+    "relacion": "se implementa en",
+    "valor": "atención primaria de salud"
+  },
+  {
+    "entidad": "gestantes",
+    "relacion": "son clasificadas en",
+    "valor": "alto riesgo de diabetes gestacional"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud",
+    "relacion": "considera",
+    "valor": "diabetes gestacional como un problema de salud pública"
+  },
+  {
+    "entidad": "diabetes gestacional",
+    "relacion": "puede causar",
+    "valor": "macrosomía fetal y complicaciones obstétricas"
+  },
+  {
+    "entidad": "mujeres con diabetes gestacional",
+    "relacion": "desarrollan",
+    "valor": "diabetes tipo 2 a lo largo de la vida"
+  },
+  {
+    "entidad": "criterios diagnósticos",
+    "relacion": "muestran",
+    "valor": "variabilidad en la prevalencia e incidencia"
+  },
+  {
+    "entidad": "guía de manejo de diabetes gestacional",
+    "relacion": "alcanzó",
+    "valor": "adherencia del 71,9%"
+  },
+  {
+    "entidad": "gestantes",
+    "relacion": "ingresan a control prenatal",
+    "valor": "antes o después de la semana 24"
+  },
+  {
+    "entidad": "prueba de tolerancia oral a la glucosa",
+    "relacion": "se recomienda para",
+    "valor": "gestantes con glicemia basal menor a 92 mg/dL"
+  },
+  {
+    "entidad": "Barranquilla",
+    "relacion": "es un",
+    "valor": "lugar de estudio para diabetes gestacional"
+  },
+  {
+    "entidad": "proyecto Vida Nueva",
+    "relacion": "se realizó entre",
+    "valor": "2012 y 2014"
+  },
+  {
+    "entidad": "glicemia en ayunas",
+    "relacion": "es un criterio para",
+    "valor": "diagnóstico de diabetes gestacional"
+  },
+  {
+    "entidad": "diabetes gestacional",
+    "relacion": "se relaciona con",
+    "valor": "hipertensión y dislipidemia"
+  },
+  {
+    "entidad": "gestantes",
+    "relacion": "son diagnosticadas con",
+    "valor": "diabetes gestacional a través de criterios establecidos"
+  },
+  {
+    "entidad": "guía de detección",
+    "relacion": "favorece",
+    "valor": "la detección de diabetes gestacional"
+  },
+  {
+    "entidad": "proyecto Vida Nueva",
+    "relacion": "proporciona",
+    "valor": "una línea base para seguimiento del programa"
+  },
+  {
+    "entidad": "trastorno depresivo mayor (TDM)",
+    "relacion": "es un",
+    "valor": "trastorno psiquiátrico común"
+  },
+  {
+    "entidad": "suicidio",
+    "relacion": "es una",
+    "valor": "causa de muerte significativa"
+  },
+  {
+    "entidad": "factores de riesgo",
+    "relacion": "ayudan a",
+    "valor": "diseñar estrategias preventivas"
+  },
+  {
+    "entidad": "suicidalidad",
+    "relacion": "incluye",
+    "valor": "ideas, impulsos o conductas suicidas"
+  },
+  {
+    "entidad": "Servicio de Salud de Ñuble (SSÑ)",
+    "relacion": "es un",
+    "valor": "centro de atención secundaria"
+  },
+  {
+    "entidad": "entrevista clínica psiquiátrica",
+    "relacion": "utiliza",
+    "valor": "criterios DSM-IV"
+  },
+  {
+    "entidad": "Escala de Depresión de Hamilton (Ham-D)",
+    "relacion": "evalúa",
+    "valor": "gravedad de la depresión"
+  },
+  {
+    "entidad": "List of Threatening Experiences (LEE)",
+    "relacion": "evalúa",
+    "valor": "eventos estresantes negativos"
+  },
+  {
+    "entidad": "Escala Multidimensional de Apoyo Social Percibido (EMASP)",
+    "relacion": "mide",
+    "valor": "apoyo social percibido"
+  },
+  {
+    "entidad": "intento de suicidio previo",
+    "relacion": "aumenta",
+    "valor": "riesgo de intento de suicidio actual"
+  },
+  {
+    "entidad": "síntomas psicóticos",
+    "relacion": "aumentan",
+    "valor": "riesgo de intento de suicidio"
+  },
+  {
+    "entidad": "trastorno de personalidad",
+    "relacion": "aumenta",
+    "valor": "riesgo de intento de suicidio"
+  },
+  {
+    "entidad": "antecedente de suicidio en la familia",
+    "relacion": "es un",
+    "valor": "factor de riesgo"
+  },
+  {
+    "entidad": "menor edad",
+    "relacion": "se relaciona con",
+    "valor": "intento de suicidio"
+  },
+  {
+    "entidad": "estado civil soltero",
+    "relacion": "se relaciona con",
+    "valor": "intento de suicidio"
+  },
+  {
+    "entidad": "EDM único",
+    "relacion": "es un",
+    "valor": "factor de riesgo significativo"
+  },
+  {
+    "entidad": "estrategias preventivas",
+    "relacion": "deben considerar",
+    "valor": "factores de riesgo identificados"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud (OMS)",
+    "relacion": "promueve",
+    "valor": "programas de prevención del suicidio"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "tiene",
+    "valor": "programa nacional de prevención del suicidio"
+  },
+  {
+    "entidad": "Alianza Chilena Contra la Depresión",
+    "relacion": "desarrolla",
+    "valor": "estrategias preventivas"
+  },
+  {
+    "entidad": "Programa Radar",
+    "relacion": "es un",
+    "valor": "programa de prevención del suicidio"
+  },
+  {
+    "entidad": "Volumen plaquetario medio (VPM)",
+    "relacion": "es un",
+    "valor": "factor de riesgo para enfermedades cardiovasculares e inflamatorias"
+  },
+  {
+    "entidad": "VPM alto",
+    "relacion": "asocia con",
+    "valor": "mortalidad a los 90 días después de un episodio de tromboembolismo venoso (ETV)"
+  },
+  {
+    "entidad": "pacientes con ETV",
+    "relacion": "son",
+    "valor": "seguido durante 90 días para evaluar la supervivencia"
+  },
+  {
+    "entidad": "Hospital Italiano de Buenos Aires",
+    "relacion": "financia",
+    "valor": "el registro institucional de enfermedad tromboembólica"
+  },
+  {
+    "entidad": "mortalidad global",
+    "relacion": "es",
+    "valor": "20% durante 90 días de seguimiento"
+  },
+  {
+    "entidad": "VPM alto",
+    "relacion": "es un",
+    "valor": "factor de riesgo independiente para mortalidad"
+  },
+  {
+    "entidad": "sepsis",
+    "relacion": "asocia con",
+    "valor": "mortalidad en pacientes con ETV"
+  },
+  {
+    "entidad": "enfermedad oncológica",
+    "relacion": "asocia con",
+    "valor": "mortalidad en pacientes con ETV"
+  },
+  {
+    "entidad": "insuficiencia renal",
+    "relacion": "asocia con",
+    "valor": "mortalidad en pacientes con ETV"
+  },
+  {
+    "entidad": "VPM",
+    "relacion": "es medido por",
+    "valor": "hemograma automatizado"
+  },
+  {
+    "entidad": "VPM alto",
+    "relacion": "se clasifica como",
+    "valor": "valores ≥ 11 fL"
+  },
+  {
+    "entidad": "VPM normal",
+    "relacion": "se clasifica como",
+    "valor": "valores entre 7.0 y 11.0 fL"
+  },
+  {
+    "entidad": "ProBNP",
+    "relacion": "es un",
+    "valor": "marcador de daño miocárdico"
+  },
+  {
+    "entidad": "troponina",
+    "relacion": "es un",
+    "valor": "marcador de daño miocárdico"
+  },
+  {
+    "entidad": "mortalidad en pacientes con VPM alto",
+    "relacion": "es",
+    "valor": "36%"
+  },
+  {
+    "entidad": "mortalidad en pacientes con VPM normal",
+    "relacion": "es",
+    "valor": "18.5%"
+  },
+  {
+    "entidad": "MPV",
+    "relacion": "es un",
+    "valor": "marcador de activación plaquetaria"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "se asocia con",
+    "valor": "valores altos de ProBNP y troponina"
+  },
+  {
+    "entidad": "MPV",
+    "relacion": "puede ser",
+    "valor": "una herramienta útil para pronóstico de mortalidad en pacientes con ETV"
+  },
+  {
+    "entidad": "niveles socioeconómicos bajo y medio bajo",
+    "relacion": "comienzan a",
+    "valor": "postergar la maternidad"
+  },
+  {
+    "entidad": "Santiago de Chile",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "maternidad",
+    "relacion": "es un",
+    "valor": "cambio sociodemográfico"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "desean",
+    "valor": "incorporarse a la fuerza laboral"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "desean",
+    "valor": "terminar los estudios"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "desean",
+    "valor": "contar con un patrimonio adecuado"
+  },
+  {
+    "entidad": "edad materna avanzada",
+    "relacion": "se define como",
+    "valor": "mayor a 35 años"
+  },
+  {
+    "entidad": "fertilización in vitro",
+    "relacion": "puede ayudar a",
+    "valor": "lograr el embarazo"
+  },
+  {
+    "entidad": "tecnología de reproducción asistida",
+    "relacion": "compensa",
+    "valor": "disminución de la fertilidad relacionada con la edad"
+  },
+  {
+    "entidad": "Hospital San Borja Arriarán",
+    "relacion": "atiende",
+    "valor": "población de mujeres primíparas"
+  },
+  {
+    "entidad": "nacimientos en mujeres extranjeras",
+    "relacion": "ha aumentado en",
+    "valor": "Hospital San Borja Arriarán"
+  },
+  {
+    "entidad": "edad al primer hijo",
+    "relacion": "ha permanecido en",
+    "valor": "23 años en los censos de los últimos 30 años"
+  },
+  {
+    "entidad": "sectores socioeconómicos bajos",
+    "relacion": "comienzan a",
+    "valor": "postergar la maternidad"
+  },
+  {
+    "entidad": "mujeres primíparas",
+    "relacion": "son mayores de",
+    "valor": "35 años"
+  },
+  {
+    "entidad": "mujeres chilenas",
+    "relacion": "tienen un porcentaje de partos de",
+    "valor": "3,6% en mayores de 35 años"
+  },
+  {
+    "entidad": "mujeres extranjeras",
+    "relacion": "tienen un porcentaje de partos de",
+    "valor": "5,2% en mayores de 35 años"
+  },
+  {
+    "entidad": "migración internacional",
+    "relacion": "es un",
+    "valor": "fenómeno social sostenido"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "tiene una política de",
+    "valor": "migración de gran flexibilidad"
+  },
+  {
+    "entidad": "enfermedad renal crónica",
+    "relacion": "representa",
+    "valor": "un problema relevante para el paciente y el sistema de salud pública"
+  },
+  {
+    "entidad": "guías clínicas",
+    "relacion": "recomiendan",
+    "valor": "una pesquisa y terapia precoz para retrasar la progresión de la enfermedad renal crónica"
+  },
+  {
+    "entidad": "bloqueadores del sistema renina angiotensina",
+    "relacion": "sugiere",
+    "valor": "su uso en diabéticos y/o hipertensos proteinúricos"
+  },
+  {
+    "entidad": "enalapril",
+    "relacion": "es un",
+    "valor": "inhibidor de la enzima convertidora de angiotensina"
+  },
+  {
+    "entidad": "losartán",
+    "relacion": "es un",
+    "valor": "antagonista de receptores de angiotensina 2"
+  },
+  {
+    "entidad": "programa de salud cardiovascular (PSCV)",
+    "relacion": "atiende",
+    "valor": "sujetos con enfermedad cardiovascular confirmada"
+  },
+  {
+    "entidad": "prescripción de bloqueo del SRAA",
+    "relacion": "es",
+    "valor": "insuficiente en la práctica clínica habitual"
+  },
+  {
+    "entidad": "diabéticos",
+    "relacion": "reciben",
+    "valor": "bloqueo del eje SRAA en un 78%"
+  },
+  {
+    "entidad": "hipertensos puros",
+    "relacion": "tienen",
+    "valor": "prescrito bloqueo del SRAA en un 70%"
+  },
+  {
+    "entidad": "hiperkalemia",
+    "relacion": "es",
+    "valor": "una complicación principal de los bloqueadores del SRAA"
+  },
+  {
+    "entidad": "enalapril",
+    "relacion": "tiene",
+    "valor": "menor costo que losartán"
+  },
+  {
+    "entidad": "losartán",
+    "relacion": "tiene",
+    "valor": "menos frecuencia de efectos adversos que enalapril"
+  },
+  {
+    "entidad": "fármacos bloqueadores del SRAA",
+    "relacion": "no logran",
+    "valor": "alcanzar los objetivos esperados en pacientes"
+  },
+  {
+    "entidad": "Comité de Ética del Servicio de Salud de Valdivia",
+    "relacion": "aprueba",
+    "valor": "la investigación"
+  },
+  {
+    "entidad": "fórmula MDRD",
+    "relacion": "se aplica",
+    "valor": "para estimar la función renal"
+  },
+  {
+    "entidad": "RAC",
+    "relacion": "se clasifica como",
+    "valor": "normal o alterado"
+  },
+  {
+    "entidad": "niveles de potasio",
+    "relacion": "se agrupan en",
+    "valor": "hipokalemia, normokalemia e hiperkalemia"
+  },
+  {
+    "entidad": "presión arterial",
+    "relacion": "se considera",
+    "valor": "buen control si es menor a 140/90 mmHg"
+  },
+  {
+    "entidad": "diabéticos hipertensos",
+    "relacion": "tienen",
+    "valor": "mayor frecuencia de RAC alterado"
+  },
+  {
+    "entidad": "prescripción de losartán",
+    "relacion": "alcanzó",
+    "valor": "45% de los sujetos"
+  },
+  {
+    "entidad": "bloqueo dual",
+    "relacion": "requiere",
+    "valor": "intervención de subespecialistas"
+  }
+]

@@ -1,0 +1,217 @@
+[
+  {
+    "entidad": "COVID-19",
+    "relacion": "asocia con",
+    "valor": "glomerulonefritis ANCA"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "causa",
+    "valor": "injuria renal aguda"
+  },
+  {
+    "entidad": "injuria renal aguda",
+    "relacion": "afecta a",
+    "valor": "pronóstico del paciente"
+  },
+  {
+    "entidad": "mujer de 46 años",
+    "relacion": "presenta",
+    "valor": "COVID-19"
+  },
+  {
+    "entidad": "mujer de 46 años",
+    "relacion": "desarrolla",
+    "valor": "glomerulonefritis ANCA"
+  },
+  {
+    "entidad": "glomerulonefritis ANCA",
+    "relacion": "se manifiesta como",
+    "valor": "lesiones crecénticas"
+  },
+  {
+    "entidad": "anti-glomerular basement membrane antibodies (GBM-Abs)",
+    "relacion": "se encuentran en",
+    "valor": "biopsia renal"
+  },
+  {
+    "entidad": "mujer de 46 años",
+    "relacion": "es tratada con",
+    "valor": "esteroides y ciclofosfamida"
+  },
+  {
+    "entidad": "esteroides",
+    "relacion": "mejoran",
+    "valor": "respuesta clínica"
+  },
+  {
+    "entidad": "plasma anti-GBM-Abs",
+    "relacion": "resulta",
+    "valor": "negativo"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "afecta a",
+    "valor": "sistema renal"
+  },
+  {
+    "entidad": "sistema renal",
+    "relacion": "presenta",
+    "valor": "daño tubular y glomerulonefritis"
+  },
+  {
+    "entidad": "Dexametasona",
+    "relacion": "se utiliza para",
+    "valor": "tratamiento de COVID-19"
+  },
+  {
+    "entidad": "biopsia renal",
+    "relacion": "revela",
+    "valor": "glomerulonefritis con patrón crecéntico"
+  },
+  {
+    "entidad": "Ac-MBG",
+    "relacion": "rol patogénico",
+    "valor": "aún incierto"
+  },
+  {
+    "entidad": "mujer de 46 años",
+    "relacion": "egresa con",
+    "valor": "creatinina 2,5 mg/dl"
+  },
+  {
+    "entidad": "hematuria y proteinuria",
+    "relacion": "se asocian a",
+    "valor": "mayor mortalidad"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "causa",
+    "valor": "compromiso funcional renal"
+  },
+  {
+    "entidad": "p-ANCA",
+    "relacion": "se encuentra en",
+    "valor": "sangre de la paciente"
+  },
+  {
+    "entidad": "mujer de 46 años",
+    "relacion": "no requiere",
+    "valor": "plasmaféresis"
+  },
+  {
+    "entidad": "Ac-MBG",
+    "relacion": "se detecta en",
+    "valor": "biopsia renal"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "se relaciona con",
+    "valor": "vasculitis ANCA"
+  },
+  {
+    "entidad": "Vasculitis crioglobulinemica",
+    "relacion": "es un",
+    "valor": "tipo de vasculitis"
+  },
+  {
+    "entidad": "hiperviscosidad",
+    "relacion": "causa",
+    "valor": "formación de criogel"
+  },
+  {
+    "entidad": "criogel",
+    "relacion": "es un",
+    "valor": "precipitado frío de proteínas"
+  },
+  {
+    "entidad": "Mieloma Múltiple",
+    "relacion": "es un",
+    "valor": "tipo de neoplasia"
+  },
+  {
+    "entidad": "Mieloma Múltiple",
+    "relacion": "se caracteriza por",
+    "valor": "expansión clonal de células plasmáticas"
+  },
+  {
+    "entidad": "células plasmáticas",
+    "relacion": "producen",
+    "valor": "inmunoglobulinas monoclonales"
+  },
+  {
+    "entidad": "síntomas de Mieloma Múltiple",
+    "relacion": "se resumen en",
+    "valor": "CRAB (hipercalcemia, falla renal, anemia, lesiones óseas)"
+  },
+  {
+    "entidad": "crioglobulinas",
+    "relacion": "precipitan a",
+    "valor": "temperaturas bajas"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "úlceras en pie izquierdo"
+  },
+  {
+    "entidad": "biopsia cutánea",
+    "relacion": "resulta en",
+    "valor": "vasculitis de vaso pequeño"
+  },
+  {
+    "entidad": "electroforesis de proteínas",
+    "relacion": "muestra",
+    "valor": "pico monoclonal en la región gamma"
+  },
+  {
+    "entidad": "mielograma",
+    "relacion": "muestra",
+    "valor": "27% de plasmocitos"
+  },
+  {
+    "entidad": "tratamiento",
+    "relacion": "incluye",
+    "valor": "dexametasona y bortezomib"
+  },
+  {
+    "entidad": "crioglobulinemia tipo I",
+    "relacion": "asociada a",
+    "valor": "enfermedades linfoproliferativas"
+  },
+  {
+    "entidad": "crioglobulinemia tipo I",
+    "relacion": "es causada por",
+    "valor": "inmunoglobulinas monoclonales"
+  },
+  {
+    "entidad": "crioglobulinemia",
+    "relacion": "debe ser considerada como",
+    "valor": "etiología de vasculitis"
+  },
+  {
+    "entidad": "diagnóstico de crioglobulinemia",
+    "relacion": "requiere",
+    "valor": "manifestaciones clínicas y exámenes de laboratorio"
+  },
+  {
+    "entidad": "tratamiento de crioglobulinemia tipo I",
+    "relacion": "implica",
+    "valor": "uso de corticosteroides y agentes quimioterapéuticos"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "es un",
+    "valor": "centro de investigación"
+  },
+  {
+    "entidad": "Fernanda San Martín",
+    "relacion": "es",
+    "valor": "autora del artículo"
+  },
+  {
+    "entidad": "comité Ético Científico de Ciencias de la Salud",
+    "relacion": "aprueba",
+    "valor": "presentación del caso clínico"
+  }
+]

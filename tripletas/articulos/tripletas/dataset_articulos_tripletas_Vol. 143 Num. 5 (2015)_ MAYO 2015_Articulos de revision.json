@@ -1,0 +1,277 @@
+[
+  {
+    "entidad": "daño hepático agudo grave",
+    "relacion": "ocurre durante",
+    "valor": "el embarazo"
+  },
+  {
+    "entidad": "embarazo",
+    "relacion": "presenta",
+    "valor": "alteraciones en la función hepática"
+  },
+  {
+    "entidad": "alteraciones en la función hepática",
+    "relacion": "aparecen en",
+    "valor": "3% de los embarazos"
+  },
+  {
+    "entidad": "síndrome de HELLP",
+    "relacion": "es una",
+    "valor": "enfermedad hepática grave asociada al embarazo"
+  },
+  {
+    "entidad": "hígado graso agudo del embarazo",
+    "relacion": "es una",
+    "valor": "enfermedad hepática grave asociada al embarazo"
+  },
+  {
+    "entidad": "síndrome de HELLP",
+    "relacion": "está relacionado con",
+    "valor": "preeclampsia"
+  },
+  {
+    "entidad": "hígado graso agudo del embarazo",
+    "relacion": "puede estar asociado con",
+    "valor": "hipoglicemia"
+  },
+  {
+    "entidad": "hepatitis aguda fulminante",
+    "relacion": "es causada por",
+    "valor": "medicamentos o virus"
+  },
+  {
+    "entidad": "acetaminofén",
+    "relacion": "causa",
+    "valor": "falla hepática fulminante"
+  },
+  {
+    "entidad": "n-acetilcisteína",
+    "relacion": "se utiliza para",
+    "valor": "manejar la falla hepática fulminante por acetaminofén"
+  },
+  {
+    "entidad": "edad gestacional",
+    "relacion": "es crucial para",
+    "valor": "el diagnóstico del daño hepático"
+  },
+  {
+    "entidad": "plasmaféresis",
+    "relacion": "es una alternativa para",
+    "valor": "el manejo de hígado graso agudo del embarazo"
+  },
+  {
+    "entidad": "síndrome de HELLP",
+    "relacion": "se presenta entre",
+    "valor": "27 y 36 semanas de gestación"
+  },
+  {
+    "entidad": "mortalidad materna",
+    "relacion": "se asocia con",
+    "valor": "síndrome de HELLP"
+  },
+  {
+    "entidad": "hepatitis fulminante",
+    "relacion": "es una presentación severa de",
+    "valor": "hepatitis aguda"
+  },
+  {
+    "entidad": "virus hepatitis",
+    "relacion": "son causas de",
+    "valor": "hepatitis fulminante"
+  },
+  {
+    "entidad": "paracetamol",
+    "relacion": "causa",
+    "valor": "daño hepático en dosis tóxicas"
+  },
+  {
+    "entidad": "N-acetilcisteína",
+    "relacion": "mejora",
+    "valor": "el daño hepático por paracetamol"
+  },
+  {
+    "entidad": "células madre",
+    "relacion": "mejoran",
+    "valor": "la función hepática en modelos animales"
+  },
+  {
+    "entidad": "manejo multidisciplinario",
+    "relacion": "es fundamental para",
+    "valor": "resultados materno-fetales positivos"
+  },
+  {
+    "entidad": "Criterios de valoración geriátrica integral",
+    "relacion": "se aplica a",
+    "valor": "adultos mayores con dependencia moderada y severa"
+  },
+  {
+    "entidad": "Centros de Atención Primaria",
+    "relacion": "se encuentran en",
+    "valor": "Chile"
+  },
+  {
+    "entidad": "Barthel scale",
+    "relacion": "se utiliza para",
+    "valor": "evaluar el grado de independencia"
+  },
+  {
+    "entidad": "Zarit scale",
+    "relacion": "se utiliza para",
+    "valor": "evaluar el estrés del cuidador"
+  },
+  {
+    "entidad": "cuidado domiciliario",
+    "relacion": "se recomienda para",
+    "valor": "personas con discapacidad severa"
+  },
+  {
+    "entidad": "Ministerio de Salud (MINSAL)",
+    "relacion": "creó",
+    "valor": "Programa de Atención Domiciliaria a Personas con Dependencia Severa"
+  },
+  {
+    "entidad": "Medida de Independencia Funcional (FIM)",
+    "relacion": "evalúa",
+    "valor": "funcionalidad y asistencia del cuidador"
+  },
+  {
+    "entidad": "Índice de Barthel",
+    "relacion": "se utiliza para",
+    "valor": "evaluar actividades de la vida diaria"
+  },
+  {
+    "entidad": "Minimental abreviado",
+    "relacion": "evalúa",
+    "valor": "estado cognitivo"
+  },
+  {
+    "entidad": "Escala de sobrecarga del cuidador de Zarit",
+    "relacion": "evalúa",
+    "valor": "carga del cuidador"
+  },
+  {
+    "entidad": "funcionalidad",
+    "relacion": "se define como",
+    "valor": "capacidad de cumplir acciones requeridas en el diario vivir"
+  },
+  {
+    "entidad": "dependencia",
+    "relacion": "se define como",
+    "valor": "disminución o ausencia de capacidad para realizar actividades"
+  },
+  {
+    "entidad": "deterioro cognitivo leve",
+    "relacion": "es un",
+    "valor": "punto de transición entre envejecimiento normal y demencia"
+  },
+  {
+    "entidad": "evaluación geriátrica integral (VGI)",
+    "relacion": "ayuda a",
+    "valor": "identificar problemas físicos, funcionales, psíquicos y sociales"
+  },
+  {
+    "entidad": "evaluación del área cognitiva",
+    "relacion": "se recomienda incorporar",
+    "valor": "siempre en la valoración geriátrica integral"
+  },
+  {
+    "entidad": "esperanza de vida",
+    "relacion": "ha aumentado en",
+    "valor": "Chile desde el siglo XX"
+  },
+  {
+    "entidad": "población envejecida",
+    "relacion": "se considera a",
+    "valor": "personas de 65 años o más en Chile"
+  },
+  {
+    "entidad": "Sensibilidad no celiaca al gluten",
+    "relacion": "es un",
+    "valor": "trastorno asociado al gluten"
+  },
+  {
+    "entidad": "gluten",
+    "relacion": "genera",
+    "valor": "síntomas en pacientes no celiacos"
+  },
+  {
+    "entidad": "Enfermedad Celíaca",
+    "relacion": "diferencia de",
+    "valor": "Sensibilidad no celiaca al gluten"
+  },
+  {
+    "entidad": "dieta libre de gluten",
+    "relacion": "mejora",
+    "valor": "síntomas en pacientes con Sensibilidad no celiaca al gluten"
+  },
+  {
+    "entidad": "Wheat allergy",
+    "relacion": "es un",
+    "valor": "diagnóstico diferencial de Sensibilidad no celiaca al gluten"
+  },
+  {
+    "entidad": "síntomas gastrointestinales",
+    "relacion": "aparecen tras",
+    "valor": "ingesta de gluten"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "son más comunes en",
+    "valor": "Sensibilidad no celiaca al gluten"
+  },
+  {
+    "entidad": "factores genéticos",
+    "relacion": "son",
+    "valor": "factores postulados en la patogénesis de Sensibilidad no celiaca al gluten"
+  },
+  {
+    "entidad": "microbiota intestinal",
+    "relacion": "juega un rol en",
+    "valor": "la enteropatía dependiente de gluten"
+  },
+  {
+    "entidad": "diagnóstico",
+    "relacion": "se alcanza mediante",
+    "valor": "exclusión de otras causas"
+  },
+  {
+    "entidad": "prueba de desafío con gluten",
+    "relacion": "es la metodología",
+    "valor": "más utilizada para confirmar diagnóstico"
+  },
+  {
+    "entidad": "síntomas",
+    "relacion": "incluyen",
+    "valor": "dolor abdominal, diarrea, fatiga crónica"
+  },
+  {
+    "entidad": "Dieta baja en FODMAPs",
+    "relacion": "disminuye",
+    "valor": "síntomas en pacientes con SII"
+  },
+  {
+    "entidad": "neuropsiquiatría",
+    "relacion": "no ha demostrado relación con",
+    "valor": "Sensibilidad no celiaca al gluten"
+  },
+  {
+    "entidad": "Dieta libre de gluten",
+    "relacion": "es el único tratamiento",
+    "valor": "para Sensibilidad no celiaca al gluten"
+  },
+  {
+    "entidad": "Instituto de Nutrición y Tecnología de los Alimentos (INTA)",
+    "relacion": "financia",
+    "valor": "estudio sobre Sensibilidad no celiaca al gluten"
+  },
+  {
+    "entidad": "Dra. E. Navarro",
+    "relacion": "es un",
+    "valor": "investigador en Sensibilidad no celiaca al gluten"
+  },
+  {
+    "entidad": "Dra. Magdalena Araya",
+    "relacion": "es un",
+    "valor": "investigador en Sensibilidad no celiaca al gluten"
+  }
+]

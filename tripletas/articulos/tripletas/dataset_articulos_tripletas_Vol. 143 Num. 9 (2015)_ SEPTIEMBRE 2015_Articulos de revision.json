@@ -1,0 +1,217 @@
+[
+  {
+    "entidad": "Enfermedad Pulmonar Obstructiva Crónica (EPOC)",
+    "relacion": "es",
+    "valor": "proceso patológico de alta prevalencia"
+  },
+  {
+    "entidad": "EPOC",
+    "relacion": "causa",
+    "valor": "aproximadamente 3 millones de muertes anuales"
+  },
+  {
+    "entidad": "EPOC",
+    "relacion": "se asocia a",
+    "valor": "respuesta inflamatoria anormal de los pulmones"
+  },
+  {
+    "entidad": "respuesta inflamatoria",
+    "relacion": "causa",
+    "valor": "cambios patológicos en los pulmones"
+  },
+  {
+    "entidad": "cambios patológicos",
+    "relacion": "resultan en",
+    "valor": "estrechamiento de vías aéreas y destrucción del parénquima pulmonar"
+  },
+  {
+    "entidad": "macrófagos",
+    "relacion": "están asociados con",
+    "valor": "lesiones enfisematosas"
+  },
+  {
+    "entidad": "neutrófilos",
+    "relacion": "son",
+    "valor": "células de la primera línea defensiva del sistema inmunitario"
+  },
+  {
+    "entidad": "neutrófilos",
+    "relacion": "producen",
+    "valor": "citoquinas pro-inflamatorias como IL-8"
+  },
+  {
+    "entidad": "macrófagos",
+    "relacion": "son",
+    "valor": "células efectoras de larga vida"
+  },
+  {
+    "entidad": "macrófagos",
+    "relacion": "secretan",
+    "valor": "más de 100 sustancias diferentes"
+  },
+  {
+    "entidad": "mastocitos",
+    "relacion": "actúan como",
+    "valor": "células centinelas del sistema inmunitario"
+  },
+  {
+    "entidad": "células dendríticas",
+    "relacion": "responsables de",
+    "valor": "reconocimiento y presentación de antígenos"
+  },
+  {
+    "entidad": "linfocitos T CD8+",
+    "relacion": "son",
+    "valor": "defensas del organismo frente a virus y bacterias"
+  },
+  {
+    "entidad": "linfocitos T CD4+",
+    "relacion": "regulan",
+    "valor": "la actividad de otras células inmunitarias"
+  },
+  {
+    "entidad": "linfocitos B",
+    "relacion": "producen",
+    "valor": "inmunoglobulinas"
+  },
+  {
+    "entidad": "EPOC",
+    "relacion": "se caracteriza por",
+    "valor": "un patrón inflamatorio específico y complejo"
+  },
+  {
+    "entidad": "humo del tabaco",
+    "relacion": "es considerado",
+    "valor": "principal factor de riesgo para la EPOC"
+  },
+  {
+    "entidad": "EPOC",
+    "relacion": "se define como",
+    "valor": "una enfermedad con limitación al flujo aéreo no completamente reversible"
+  },
+  {
+    "entidad": "proceso inflamatorio en EPOC",
+    "relacion": "es",
+    "valor": "amplificación de la inflamación en fumadores sin enfermedad"
+  },
+  {
+    "entidad": "tratamientos para EPOC",
+    "relacion": "se limitan a",
+    "valor": "mitigar síntomas con broncodilatadores y corticoides inhalados"
+  },
+  {
+    "entidad": "Síndrome hemofagocítico adquirido",
+    "relacion": "es un",
+    "valor": "trastorno de hiperactividad del sistema inmune"
+  },
+  {
+    "entidad": "HLH 94-04",
+    "relacion": "es un",
+    "valor": "protocolo de quimioterapia"
+  },
+  {
+    "entidad": "pacientes adultos",
+    "relacion": "son tratados con",
+    "valor": "protocolo HLH 94-04"
+  },
+  {
+    "entidad": "ferritina",
+    "relacion": "es un",
+    "valor": "marcador de diagnóstico"
+  },
+  {
+    "entidad": "Enfermedad de Still",
+    "relacion": "es un posible diagnóstico de",
+    "valor": "síndrome hemofagocítico"
+  },
+  {
+    "entidad": "hemofagocitosis",
+    "relacion": "es un hallazgo en",
+    "valor": "biopsia de médula ósea"
+  },
+  {
+    "entidad": "células T CD8+",
+    "relacion": "regulan",
+    "valor": "actividad macrofágica"
+  },
+  {
+    "entidad": "células NK",
+    "relacion": "regulan",
+    "valor": "actividad macrofágica"
+  },
+  {
+    "entidad": "Alo-TPH",
+    "relacion": "es un tratamiento para",
+    "valor": "pacientes con enfermedad refractaria"
+  },
+  {
+    "entidad": "ciclosporina",
+    "relacion": "es un tratamiento en",
+    "valor": "protocolo HLH 94-04"
+  },
+  {
+    "entidad": "quimioterapia",
+    "relacion": "es un tratamiento para",
+    "valor": "síndrome hemofagocítico"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "es mayor a",
+    "valor": "90% sin tratamiento"
+  },
+  {
+    "entidad": "diagnóstico precoz",
+    "relacion": "es esencial para",
+    "valor": "mejorar la supervivencia"
+  },
+  {
+    "entidad": "sistema inmune",
+    "relacion": "es activado por",
+    "valor": "síndrome hemofagocítico"
+  },
+  {
+    "entidad": "protocolo HLH 94",
+    "relacion": "es un tratamiento para",
+    "valor": "síndrome hemofagocítico"
+  },
+  {
+    "entidad": "fiebre",
+    "relacion": "es un síntoma de",
+    "valor": "síndrome hemofagocítico"
+  },
+  {
+    "entidad": "pancitopenia",
+    "relacion": "es un hallazgo en",
+    "valor": "síndrome hemofagocítico"
+  },
+  {
+    "entidad": "pruebas hepáticas",
+    "relacion": "se alteran en",
+    "valor": "síndrome hemofagocítico"
+  },
+  {
+    "entidad": "médula ósea",
+    "relacion": "se estudia para",
+    "valor": "diagnóstico de hemofagocitosis"
+  },
+  {
+    "entidad": "ferritina elevada",
+    "relacion": "indica",
+    "valor": "posible síndrome hemofagocítico"
+  },
+  {
+    "entidad": "sangrado",
+    "relacion": "es controlado mediante",
+    "valor": "embolización selectiva"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "mejora tras",
+    "valor": "tratamiento exitoso"
+  },
+  {
+    "entidad": "síndrome linfoproliferativo",
+    "relacion": "es una sospecha en",
+    "valor": "pacientes con síntomas similares"
+  }
+]

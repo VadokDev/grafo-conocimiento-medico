@@ -1,0 +1,777 @@
+[
+  {
+    "entidad": "síndrome de Down",
+    "relacion": "asociado a",
+    "valor": "mayor mortalidad infantil"
+  },
+  {
+    "entidad": "malformaciones cardíacas",
+    "relacion": "causa",
+    "valor": "mortalidad infantil en síndrome de Down"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "tiene",
+    "valor": "la tasa más alta de síndrome de Down en Latinoamérica"
+  },
+  {
+    "entidad": "interrupción del embarazo",
+    "relacion": "es",
+    "valor": "ilegal en cualquier circunstancia en Chile"
+  },
+  {
+    "entidad": "Instituto Nacional de Estadísticas",
+    "relacion": "publica",
+    "valor": "anuarios de estadísticas vitales"
+  },
+  {
+    "entidad": "mortalidad infantil",
+    "relacion": "tiene tendencia",
+    "valor": "ascendente en niños con síndrome de Down"
+  },
+  {
+    "entidad": "cirugía cardíaca",
+    "relacion": "es",
+    "valor": "la principal herramienta terapéutica para reducir la mortalidad infantil"
+  },
+  {
+    "entidad": "mujeres chilenas",
+    "relacion": "están",
+    "valor": "envejeciendo en edad fértil"
+  },
+  {
+    "entidad": "síndrome de Down",
+    "relacion": "requiere",
+    "valor": "atención oportuna para mejorar la sobrevida"
+  },
+  {
+    "entidad": "mortalidad neonatal precoz",
+    "relacion": "es menor en",
+    "valor": "niños con síndrome de Down"
+  },
+  {
+    "entidad": "mortalidad pos neonatal",
+    "relacion": "es mayor en",
+    "valor": "niños con síndrome de Down"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "establece",
+    "valor": "guías clínicas para cirugía cardíaca en niños con síndrome de Down"
+  },
+  {
+    "entidad": "tasa de mortalidad infantil",
+    "relacion": "es",
+    "valor": "significativamente descendente en población general sin síndrome de Down"
+  },
+  {
+    "entidad": "mortalidad infantil en niños con síndrome de Down",
+    "relacion": "presenta",
+    "valor": "cambio porcentual anual promedio ascendente significativo"
+  },
+  {
+    "entidad": "comorbilidades",
+    "relacion": "afectan",
+    "valor": "la mortalidad infantil en niños con síndrome de Down"
+  },
+  {
+    "entidad": "ECLAMC",
+    "relacion": "asocia",
+    "valor": "informes nacionales sobre malformaciones congénitas"
+  },
+  {
+    "entidad": "sobrevida en el primer año de vida",
+    "relacion": "es",
+    "valor": "mejor en países desarrollados"
+  },
+  {
+    "entidad": "mortalidad infantil en Chile",
+    "relacion": "refleja",
+    "valor": "la historia natural del síndrome de Down"
+  },
+  {
+    "entidad": "27-hidroxicolesterol",
+    "relacion": "afecta a",
+    "valor": "acción antiplaquetaria de estradiol"
+  },
+  {
+    "entidad": "estradiol",
+    "relacion": "produce",
+    "valor": "efecto protector en la formación de trombos"
+  },
+  {
+    "entidad": "mujeres postmenopáusicas",
+    "relacion": "tienen",
+    "valor": "aumento del riesgo cardiovascular"
+  },
+  {
+    "entidad": "27-hidroxicolesterol",
+    "relacion": "actúa como",
+    "valor": "antagonista endógeno de estradiol"
+  },
+  {
+    "entidad": "estradiol",
+    "relacion": "inhibe",
+    "valor": "agregación plaquetaria"
+  },
+  {
+    "entidad": "27-hidroxicolesterol",
+    "relacion": "revierte",
+    "valor": "efecto inhibitorio de estradiol en agregación plaquetaria"
+  },
+  {
+    "entidad": "estrógenos",
+    "relacion": "causan",
+    "valor": "caída de niveles en mujeres postmenopáusicas"
+  },
+  {
+    "entidad": "receptores de estrógenos",
+    "relacion": "expresan",
+    "valor": "plaquetas"
+  },
+  {
+    "entidad": "27-hidroxicolesterol",
+    "relacion": "modula",
+    "valor": "actividad de receptores de estrógenos"
+  },
+  {
+    "entidad": "menopausia",
+    "relacion": "asocia con",
+    "valor": "perfil de lípidos no deseado"
+  },
+  {
+    "entidad": "27-hidroxicolesterol",
+    "relacion": "se incrementa en",
+    "valor": "tejido normal de mama en pacientes con cáncer de mama ER+"
+  },
+  {
+    "entidad": "27-hidroxicolesterol",
+    "relacion": "aumenta en",
+    "valor": "lesiones ateroscleróticas"
+  },
+  {
+    "entidad": "27-hidroxicolesterol",
+    "relacion": "considerado como",
+    "valor": "modulador selectivo del receptor de estrógenos (SERM) endógeno"
+  },
+  {
+    "entidad": "Electrocauterio",
+    "relacion": "es un",
+    "valor": "tratamiento para obstrucción de la vía aérea"
+  },
+  {
+    "entidad": "Broncoscopia flexible",
+    "relacion": "es un",
+    "valor": "método para manejar obstrucción de la vía aérea"
+  },
+  {
+    "entidad": "Obstrucción central de la vía aérea",
+    "relacion": "causa",
+    "valor": "hemoptisis"
+  },
+  {
+    "entidad": "Electrocauterio",
+    "relacion": "mejora",
+    "valor": "síntomas de obstrucción"
+  },
+  {
+    "entidad": "Electrocauterio",
+    "relacion": "es tan efectivo como",
+    "valor": "Nd: YAG laser"
+  },
+  {
+    "entidad": "Clínica Santa María",
+    "relacion": "realiza",
+    "valor": "procedimientos de electrocauterio"
+  },
+  {
+    "entidad": "Hemoptisis",
+    "relacion": "asociada a",
+    "valor": "obstrucción bronquial"
+  },
+  {
+    "entidad": "Estenosis bronquial post trasplante",
+    "relacion": "es una",
+    "valor": "complicación en pacientes trasplantados"
+  },
+  {
+    "entidad": "Electrocauterio",
+    "relacion": "permite",
+    "valor": "resección y coagulación de tejidos"
+  },
+  {
+    "entidad": "Síntomas respiratorios",
+    "relacion": "incluyen",
+    "valor": "disnea, tos y hemoptisis"
+  },
+  {
+    "entidad": "Electrocauterio",
+    "relacion": "es un",
+    "valor": "método de terapia ablativa"
+  },
+  {
+    "entidad": "Procedimiento broncoscópico",
+    "relacion": "requiere",
+    "valor": "consentimiento informado"
+  },
+  {
+    "entidad": "Electrocauterio",
+    "relacion": "se utiliza en",
+    "valor": "manejo de obstrucción de la vía aérea"
+  },
+  {
+    "entidad": "Clínica Santa María",
+    "relacion": "tiene",
+    "valor": "unidad de broncoscopia"
+  },
+  {
+    "entidad": "Electrocauterio",
+    "relacion": "es más accesible que",
+    "valor": "Nd: YAG laser"
+  },
+  {
+    "entidad": "Complicaciones",
+    "relacion": "no se registraron",
+    "valor": "en los procedimientos realizados"
+  },
+  {
+    "entidad": "Electrocauterio",
+    "relacion": "es",
+    "valor": "una técnica poco conocida entre neumólogos"
+  },
+  {
+    "entidad": "Electrocauterio",
+    "relacion": "se utiliza para",
+    "valor": "aliviar síntomas de obstrucción bronquial"
+  },
+  {
+    "entidad": "Síndrome de desvanecimiento bronquial",
+    "relacion": "es una",
+    "valor": "complicación post trasplante"
+  },
+  {
+    "entidad": "Electrocauterio",
+    "relacion": "permite",
+    "valor": "permeabilización de bronquios"
+  },
+  {
+    "entidad": "Evaluación clínica",
+    "relacion": "considera",
+    "valor": "alivio de síntomas"
+  },
+  {
+    "entidad": "depresión",
+    "relacion": "interfiere con",
+    "valor": "funcionamiento psicosocial"
+  },
+  {
+    "entidad": "alexitimia",
+    "relacion": "interfiere con",
+    "valor": "funcionamiento psicosocial"
+  },
+  {
+    "entidad": "falta de asertividad",
+    "relacion": "interfiere con",
+    "valor": "funcionamiento psicosocial"
+  },
+  {
+    "entidad": "pacientes agudos",
+    "relacion": "tienen",
+    "valor": "menores niveles de depresión que pacientes crónicos"
+  },
+  {
+    "entidad": "pacientes crónicos",
+    "relacion": "tienen",
+    "valor": "mayores niveles de depresión"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "exhiben",
+    "valor": "mayores grados de depresión"
+  },
+  {
+    "entidad": "edad mayor de 60 años",
+    "relacion": "exhibe",
+    "valor": "mayores grados de depresión"
+  },
+  {
+    "entidad": "alexitimia",
+    "relacion": "asociada con",
+    "valor": "menor nivel educativo"
+  },
+  {
+    "entidad": "falta de asertividad",
+    "relacion": "asociada con",
+    "valor": "menor nivel educativo"
+  },
+  {
+    "entidad": "pacientes crónicos",
+    "relacion": "tienen",
+    "valor": "menor funcionamiento psicosocial"
+  },
+  {
+    "entidad": "pacientes agudos",
+    "relacion": "tienen",
+    "valor": "mejor funcionamiento psicosocial"
+  },
+  {
+    "entidad": "alexitimia",
+    "relacion": "asociada con",
+    "valor": "conductas poco saludables"
+  },
+  {
+    "entidad": "alexitimia",
+    "relacion": "asociada con",
+    "valor": "desórdenes inmunomediados"
+  },
+  {
+    "entidad": "depresión",
+    "relacion": "es",
+    "valor": "la principal causa de discapacidad según la OMS"
+  },
+  {
+    "entidad": "Hospital Carlos van Buren",
+    "relacion": "realiza",
+    "valor": "estudio sobre pacientes hospitalizados"
+  },
+  {
+    "entidad": "escuela de Medicina, Universidad de Valparaíso",
+    "relacion": "es parte de",
+    "valor": "departamento de Psiquiatría"
+  },
+  {
+    "entidad": "Beck Depression Inventory-IA",
+    "relacion": "evalúa",
+    "valor": "niveles de depresión"
+  },
+  {
+    "entidad": "Toronto Alexithymia Scale-20",
+    "relacion": "evalúa",
+    "valor": "niveles de alexitimia"
+  },
+  {
+    "entidad": "Rathus Assertiveness Scale",
+    "relacion": "evalúa",
+    "valor": "niveles de asertividad"
+  },
+  {
+    "entidad": "pacientes hospitalizados",
+    "relacion": "presentan",
+    "valor": "alta prevalencia de depresión"
+  },
+  {
+    "entidad": "alexitimia",
+    "relacion": "aumenta el riesgo de",
+    "valor": "mortalidad en enfermedades cardiovasculares"
+  },
+  {
+    "entidad": "alexitimia",
+    "relacion": "se relaciona con",
+    "valor": "dificultad en identificar sentimientos"
+  },
+  {
+    "entidad": "alexitimia",
+    "relacion": "se relaciona con",
+    "valor": "dificultad en la expresión verbal de emociones"
+  },
+  {
+    "entidad": "falta de asertividad",
+    "relacion": "se manifiesta como",
+    "valor": "agresión auto-dirigida"
+  },
+  {
+    "entidad": "pacientes crónicos",
+    "relacion": "requieren",
+    "valor": "mejor manejo por parte del equipo de salud"
+  },
+  {
+    "entidad": "Insuficiencia intestinal",
+    "relacion": "es causada por",
+    "valor": "síndrome de intestino corto"
+  },
+  {
+    "entidad": "síndrome de intestino corto",
+    "relacion": "requiere",
+    "valor": "rehabilitación intestinal"
+  },
+  {
+    "entidad": "Programa de Rehabilitación Intestinal",
+    "relacion": "optimiza",
+    "valor": "manejo clínico"
+  },
+  {
+    "entidad": "nutrición parenteral",
+    "relacion": "es necesaria para",
+    "valor": "pacientes con insuficiencia intestinal"
+  },
+  {
+    "entidad": "adaptación intestinal",
+    "relacion": "es un",
+    "valor": "mecanismo de respuesta a resecciones intestinales"
+  },
+  {
+    "entidad": "Unidad de Insuficiencia Intestinal",
+    "relacion": "fue creada por",
+    "valor": "Departamentos de Cirugía Digestiva, Nutrición y Gastroenterología"
+  },
+  {
+    "entidad": "equipo multidisciplinario",
+    "relacion": "es necesario para",
+    "valor": "manejo de insuficiencia intestinal"
+  },
+  {
+    "entidad": "longitud del intestino remanente",
+    "relacion": "afecta",
+    "valor": "necesidad de nutrición parenteral"
+  },
+  {
+    "entidad": "técnica de STEP",
+    "relacion": "es utilizada para",
+    "valor": "alargar el intestino en síndrome de intestino corto"
+  },
+  {
+    "entidad": "trasplante intestinal",
+    "relacion": "es considerado cuando",
+    "valor": "la rehabilitación intestinal fracasa"
+  },
+  {
+    "entidad": "complicaciones de la nutrición parenteral",
+    "relacion": "incluyen",
+    "valor": "infecciones y daño hepático"
+  },
+  {
+    "entidad": "citrulina",
+    "relacion": "es un marcador de",
+    "valor": "función absorptiva intestinal"
+  },
+  {
+    "entidad": "inmunidad innata",
+    "relacion": "juega un rol en",
+    "valor": "patologías inflamatorias intestinales"
+  },
+  {
+    "entidad": "NOD2",
+    "relacion": "está asociado a",
+    "valor": "Enfermedad de Crohn"
+  },
+  {
+    "entidad": "Javier Gómez Basauri",
+    "relacion": "es el autor de",
+    "valor": "la correspondencia del artículo"
+  },
+  {
+    "entidad": "VIH/SIDA",
+    "relacion": "es una",
+    "valor": "enfermedad"
+  },
+  {
+    "entidad": "test de ELISA",
+    "relacion": "es un",
+    "valor": "método de diagnóstico"
+  },
+  {
+    "entidad": "personas viviendo con VIH/SIDA",
+    "relacion": "tienen",
+    "valor": "experiencias sobre el acceso al diagnóstico"
+  },
+  {
+    "entidad": "diagnóstico tardío",
+    "relacion": "resulta en",
+    "valor": "mayores costos de tratamiento"
+  },
+  {
+    "entidad": "motivaciones para tomar el test",
+    "relacion": "incluyen",
+    "valor": "condición de vulnerabilidad"
+  },
+  {
+    "entidad": "facilitadores para la toma del test",
+    "relacion": "son",
+    "valor": "sensación de aceptación y no discriminación"
+  },
+  {
+    "entidad": "dificultades para la toma del test",
+    "relacion": "incluyen",
+    "valor": "miedo a un resultado positivo"
+  },
+  {
+    "entidad": "dificultades para la toma del test",
+    "relacion": "incluyen",
+    "valor": "falta de información"
+  },
+  {
+    "entidad": "acceso oportuno al test",
+    "relacion": "permite",
+    "valor": "control temprano de la enfermedad"
+  },
+  {
+    "entidad": "Comité de Ética de la Escuela de Enfermería de la Pontificia Universidad Católica de Chile",
+    "relacion": "aproba",
+    "valor": "estudio"
+  },
+  {
+    "entidad": "Fondo Nacional de Investigación en Salud",
+    "relacion": "financia",
+    "valor": "proyecto de investigación"
+  },
+  {
+    "entidad": "personas viviendo con VIH",
+    "relacion": "enfrentan",
+    "valor": "costos de cuidado mayores si son diagnosticadas tardíamente"
+  },
+  {
+    "entidad": "acogida del personal de salud",
+    "relacion": "facilita",
+    "valor": "la toma del test"
+  },
+  {
+    "entidad": "discriminación social",
+    "relacion": "es un",
+    "valor": "obstáculo para el acceso al test"
+  },
+  {
+    "entidad": "estrategias de mejora",
+    "relacion": "permiten",
+    "valor": "acceso oportuno al test"
+  },
+  {
+    "entidad": "información sobre conductas de riesgo",
+    "relacion": "motiva",
+    "valor": "a hacerse el examen"
+  },
+  {
+    "entidad": "cáncer pulmonar",
+    "relacion": "es",
+    "valor": "la neoplasia con mayor letalidad en el mundo"
+  },
+  {
+    "entidad": "consumo de tabaco",
+    "relacion": "afecta a",
+    "valor": "el riesgo de cáncer pulmonar"
+  },
+  {
+    "entidad": "cáncer pulmonar",
+    "relacion": "es causado por",
+    "valor": "factores de riesgo de la población"
+  },
+  {
+    "entidad": "cáncer pulmonar",
+    "relacion": "es la principal causa de",
+    "valor": "muerte por neoplasia en el mundo"
+  },
+  {
+    "entidad": "cáncer gástrico",
+    "relacion": "es",
+    "valor": "la primera causa de muerte por cáncer en Chile"
+  },
+  {
+    "entidad": "enfermedad pulmonar obstructiva crónica (EPOC)",
+    "relacion": "aumenta el riesgo de",
+    "valor": "cáncer pulmonar"
+  },
+  {
+    "entidad": "tabaquismo activo",
+    "relacion": "es un",
+    "valor": "factor de riesgo para cáncer pulmonar"
+  },
+  {
+    "entidad": "antecedente familiar de cáncer pulmonar",
+    "relacion": "es un",
+    "valor": "factor de riesgo para cáncer pulmonar"
+  },
+  {
+    "entidad": "programas de detección precoz de cáncer pulmonar",
+    "relacion": "utilizan",
+    "valor": "tomografía computarizada de tórax"
+  },
+  {
+    "entidad": "National Lung Screening Trial",
+    "relacion": "demostró",
+    "valor": "reducción del riesgo de morir por cáncer de pulmón"
+  },
+  {
+    "entidad": "edad mayor de 60 años",
+    "relacion": "es un",
+    "valor": "factor de riesgo para cáncer pulmonar"
+  },
+  {
+    "entidad": "historia de EPOC",
+    "relacion": "es un",
+    "valor": "factor de riesgo para cáncer pulmonar"
+  },
+  {
+    "entidad": "nódulos pulmonares",
+    "relacion": "son",
+    "valor": "indicativos de cáncer pulmonar"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "se relaciona con",
+    "valor": "el riesgo de cáncer pulmonar"
+  },
+  {
+    "entidad": "programas de detección precoz",
+    "relacion": "mejoran",
+    "valor": "la identificación de grupos de riesgo"
+  },
+  {
+    "entidad": "cáncer pulmonar",
+    "relacion": "se relaciona con",
+    "valor": "exposición a asbesto, arsénico y radón"
+  },
+  {
+    "entidad": "fumadores",
+    "relacion": "tienen mayor riesgo de",
+    "valor": "cáncer pulmonar"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "disminuye el riesgo de",
+    "valor": "cáncer pulmonar al dejar de fumar"
+  },
+  {
+    "entidad": "cáncer pulmonar",
+    "relacion": "se detecta en",
+    "valor": "etapas avanzadas de la enfermedad"
+  },
+  {
+    "entidad": "tabaquismo activo",
+    "relacion": "aumenta",
+    "valor": "el riesgo de cáncer pulmonar"
+  },
+  {
+    "entidad": "cáncer pulmonar",
+    "relacion": "es más común en",
+    "valor": "varones mayores de 50 años"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "modifica",
+    "valor": "efectos nocivos del sedentarismo"
+  },
+  {
+    "entidad": "sedentarismo",
+    "relacion": "es un",
+    "valor": "factor de riesgo para enfermedades crónicas"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "es un",
+    "valor": "marcador cardiometabólico"
+  },
+  {
+    "entidad": "marcadores cardiometabólicos",
+    "relacion": "se ven afectados por",
+    "valor": "sedentarismo"
+  },
+  {
+    "entidad": "sedentarismo",
+    "relacion": "asociado a",
+    "valor": "diabetes mellitus tipo 2"
+  },
+  {
+    "entidad": "sedentarismo",
+    "relacion": "asociado a",
+    "valor": "hipertensión arterial"
+  },
+  {
+    "entidad": "sedentarismo",
+    "relacion": "asociado a",
+    "valor": "enfermedades cardiovasculares"
+  },
+  {
+    "entidad": "sedentarismo",
+    "relacion": "asociado a",
+    "valor": "mortalidad"
+  },
+  {
+    "entidad": "inactividad física",
+    "relacion": "causa",
+    "valor": "muertes prematuras"
+  },
+  {
+    "entidad": "universidad de concepción",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "Pontificia universidad católica de valparaíso",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "BHF Glasgow Cardiovascular Research Centre",
+    "relacion": "es un",
+    "valor": "centro de investigación"
+  },
+  {
+    "entidad": "universidad austral de chile",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "universidad de los lagos",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "universidad de la frontera",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "universidad del Biobío",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "universidad de chile",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "se mide con",
+    "valor": "acelerómetros"
+  },
+  {
+    "entidad": "marcadores metabólicos",
+    "relacion": "se determinan mediante",
+    "valor": "muestras de sangre"
+  },
+  {
+    "entidad": "sedentarismo",
+    "relacion": "afecta",
+    "valor": "salud metabólica"
+  },
+  {
+    "entidad": "sedentarismo",
+    "relacion": "se define como",
+    "valor": "actividades con gasto energético inferior a 1.5 METs"
+  },
+  {
+    "entidad": "recomendaciones internacionales de actividad física",
+    "relacion": "son",
+    "valor": "≥ 600 MET.min-1.semana-1"
+  },
+  {
+    "entidad": "tiempo sedentario",
+    "relacion": "se presenta como",
+    "valor": "media de horas-1.día-1"
+  },
+  {
+    "entidad": "sedentarismo",
+    "relacion": "se asocia a",
+    "valor": "menor riesgo metabólico en personas activas"
+  },
+  {
+    "entidad": "ejercicio físico",
+    "relacion": "es una",
+    "valor": "estrategia de prevención"
+  },
+  {
+    "entidad": "tiempo sedentario",
+    "relacion": "debe ser reducido para",
+    "valor": "mejorar salud metabólica"
+  }
+]

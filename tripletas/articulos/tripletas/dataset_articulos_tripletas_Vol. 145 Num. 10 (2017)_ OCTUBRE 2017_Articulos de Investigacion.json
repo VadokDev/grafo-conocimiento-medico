@@ -1,0 +1,787 @@
+[
+  {
+    "entidad": "Síndrome del túnel carpiano (STC)",
+    "relacion": "representa",
+    "valor": "90% de las mononeuropatías por atrapamiento"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "afecta a",
+    "valor": "la severidad del STC"
+  },
+  {
+    "entidad": "pacientes adultos",
+    "relacion": "son estudiados en",
+    "valor": "un estudio electrofisiológico"
+  },
+  {
+    "entidad": "hallazgos electrofisiológicos",
+    "relacion": "se clasifican en",
+    "valor": "tres grados"
+  },
+  {
+    "entidad": "sexo masculino",
+    "relacion": "se asocia con",
+    "valor": "mayor severidad en STC"
+  },
+  {
+    "entidad": "compromiso electrofisiológico",
+    "relacion": "aumenta con",
+    "valor": "la edad"
+  },
+  {
+    "entidad": "pacientes mayores de 65 años",
+    "relacion": "tienen",
+    "valor": "mayor prevalencia de STC grave"
+  },
+  {
+    "entidad": "presentación bilateral de STC",
+    "relacion": "ocurre en",
+    "valor": "50 a 60% de los casos"
+  },
+  {
+    "entidad": "escala de Bland",
+    "relacion": "se utiliza para",
+    "valor": "clasificar el compromiso electrofisiológico del STC"
+  },
+  {
+    "entidad": "diagnóstico de STC",
+    "relacion": "se basa en",
+    "valor": "combinación de síntomas y alteraciones electrofisiológicas"
+  },
+  {
+    "entidad": "método electrofisiológico",
+    "relacion": "permite",
+    "valor": "confirmar el diagnóstico de STC"
+  },
+  {
+    "entidad": "Clínica Alemana de Santiago (CAS)",
+    "relacion": "es un",
+    "valor": "centro de salud terciario"
+  },
+  {
+    "entidad": "Departamento de Informática de CAS",
+    "relacion": "apoya en",
+    "valor": "la recolección y manejo de datos"
+  },
+  {
+    "entidad": "estudio descriptivo",
+    "relacion": "es un tipo de",
+    "valor": "estudio observacional y retrospectivo"
+  },
+  {
+    "entidad": "índice Kappa",
+    "relacion": "evalúa",
+    "valor": "la concordancia entre diagnósticos"
+  },
+  {
+    "entidad": "sospecha clínica de STC",
+    "relacion": "es evaluada por",
+    "valor": "neurofisiólogos"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "duplican",
+    "valor": "la prevalencia de STC en comparación con hombres"
+  },
+  {
+    "entidad": "sintomatología",
+    "relacion": "se asocia con",
+    "valor": "la duración e intensidad del STC"
+  },
+  {
+    "entidad": "estudios epidemiológicos",
+    "relacion": "no han sido realizados en",
+    "valor": "Chile sobre STC"
+  },
+  {
+    "entidad": "electromiógrafos Synergy On Nicolet EDX",
+    "relacion": "son utilizados en",
+    "valor": "los procedimientos de estudio"
+  },
+  {
+    "entidad": "neurofisiología",
+    "relacion": "es un área de",
+    "valor": "especialización médica"
+  },
+  {
+    "entidad": "hallazgos bilaterales",
+    "relacion": "aumentan con",
+    "valor": "mayor compromiso de STC"
+  },
+  {
+    "entidad": "acenocumarol",
+    "relacion": "es un",
+    "valor": "anticoagulante"
+  },
+  {
+    "entidad": "fibrilación auricular no valvular",
+    "relacion": "es un",
+    "valor": "trastorno cardíaco"
+  },
+  {
+    "entidad": "Hospital Hernán Henríquez Aravena",
+    "relacion": "es un",
+    "valor": "hospital tipo 1"
+  },
+  {
+    "entidad": "Hospital Herminda Martín",
+    "relacion": "es un",
+    "valor": "hospital tipo 1"
+  },
+  {
+    "entidad": "Hospital de Villarrica",
+    "relacion": "es un",
+    "valor": "hospital tipo 2"
+  },
+  {
+    "entidad": "Hospital de San Carlos",
+    "relacion": "es un",
+    "valor": "hospital tipo 2"
+  },
+  {
+    "entidad": "proyecto Fonis sa12i2261",
+    "relacion": "es financiado por",
+    "valor": "Fondo Nacional de Investigación y Desarrollo en Salud"
+  },
+  {
+    "entidad": "fibrilación auricular",
+    "relacion": "afecta a",
+    "valor": "1-2% de la población general"
+  },
+  {
+    "entidad": "fibrilación auricular no valvular",
+    "relacion": "es un",
+    "valor": "factor de riesgo para accidente cerebrovascular"
+  },
+  {
+    "entidad": "antagonistas de vitamina K",
+    "relacion": "disminuyen",
+    "valor": "incidencia de ACV isquémicos"
+  },
+  {
+    "entidad": "antagonistas de vitamina K",
+    "relacion": "aumentan",
+    "valor": "riesgo de hemorragias"
+  },
+  {
+    "entidad": "calidad del tratamiento anticoagulante oral",
+    "relacion": "se relaciona con",
+    "valor": "incidencia de complicaciones embólicas y hemorrágicas"
+  },
+  {
+    "entidad": "TACO",
+    "relacion": "requiere",
+    "valor": "monitorización frecuente con INR"
+  },
+  {
+    "entidad": "pacientes con FANV",
+    "relacion": "son tratados con",
+    "valor": "acenocumarol"
+  },
+  {
+    "entidad": "TTR",
+    "relacion": "mide",
+    "valor": "calidad del tratamiento anticoagulante"
+  },
+  {
+    "entidad": "incidencia de eventos embólicos",
+    "relacion": "es",
+    "valor": "2,25/100 pacientes año"
+  },
+  {
+    "entidad": "incidencia de eventos hemorrágicos mayores",
+    "relacion": "es",
+    "valor": "4,08/100 pacientes año"
+  },
+  {
+    "entidad": "mortalidad general durante seguimiento",
+    "relacion": "es",
+    "valor": "8,43/100 pacientes año"
+  },
+  {
+    "entidad": "CHA2DS2-VASc",
+    "relacion": "es una",
+    "valor": "escala de riesgo de embolización"
+  },
+  {
+    "entidad": "HAS-BLED",
+    "relacion": "es una",
+    "valor": "escala de riesgo de hemorragia"
+  },
+  {
+    "entidad": "TACO",
+    "relacion": "se realiza en",
+    "valor": "hospitales públicos chilenos"
+  },
+  {
+    "entidad": "acceso al tratamiento",
+    "relacion": "requiere",
+    "valor": "análisis multidisciplinario"
+  },
+  {
+    "entidad": "Juan Carlos Briede-Westermeyer",
+    "relacion": "es autor de",
+    "valor": "Experiencia interdisciplinaria para el diseño de productos para la salud"
+  },
+  {
+    "entidad": "Cristhian e. Pérez-VillaloBos",
+    "relacion": "es autor de",
+    "valor": "Experiencia interdisciplinaria para el diseño de productos para la salud"
+  },
+  {
+    "entidad": "nanCy Bastías-Vega",
+    "relacion": "es autor de",
+    "valor": "Experiencia interdisciplinaria para el diseño de productos para la salud"
+  },
+  {
+    "entidad": "Carolina e. Bustamante-durán",
+    "relacion": "es autor de",
+    "valor": "Experiencia interdisciplinaria para el diseño de productos para la salud"
+  },
+  {
+    "entidad": "PaBlo oliVera-morales",
+    "relacion": "es autor de",
+    "valor": "Experiencia interdisciplinaria para el diseño de productos para la salud"
+  },
+  {
+    "entidad": "Paula Parra-PonCe",
+    "relacion": "es autor de",
+    "valor": "Experiencia interdisciplinaria para el diseño de productos para la salud"
+  },
+  {
+    "entidad": "maCarena delgado- riVera",
+    "relacion": "es autor de",
+    "valor": "Experiencia interdisciplinaria para el diseño de productos para la salud"
+  },
+  {
+    "entidad": "marCela CaBello- mora",
+    "relacion": "es autor de",
+    "valor": "Experiencia interdisciplinaria para el diseño de productos para la salud"
+  },
+  {
+    "entidad": "iVone CamPos-Cerda",
+    "relacion": "es autor de",
+    "valor": "Experiencia interdisciplinaria para el diseño de productos para la salud"
+  },
+  {
+    "entidad": "Universidad del Bío Bío",
+    "relacion": "ofrece",
+    "valor": "carrera de diseño industrial"
+  },
+  {
+    "entidad": "Universidad de Concepción",
+    "relacion": "ofrece",
+    "valor": "carrera de salud"
+  },
+  {
+    "entidad": "Challenge-Based Learning (CBL)",
+    "relacion": "es un método de",
+    "valor": "aprendizaje"
+  },
+  {
+    "entidad": "Diseño Centrado en el Usuario (DCU)",
+    "relacion": "es un enfoque de",
+    "valor": "diseño de productos"
+  },
+  {
+    "entidad": "estudiantes de diseño industrial",
+    "relacion": "participan en",
+    "valor": "taller de CBL"
+  },
+  {
+    "entidad": "estudiantes de salud",
+    "relacion": "participan en",
+    "valor": "taller de CBL"
+  },
+  {
+    "entidad": "taller de CBL",
+    "relacion": "desarrolla",
+    "valor": "competencias de innovación"
+  },
+  {
+    "entidad": "CBL",
+    "relacion": "promueve",
+    "valor": "experticia adaptativa"
+  },
+  {
+    "entidad": "productos de salud",
+    "relacion": "son diseñados para",
+    "valor": "resolver problemas sanitarios"
+  },
+  {
+    "entidad": "evaluación de productos",
+    "relacion": "se realiza mediante",
+    "valor": "diferencial semántico"
+  },
+  {
+    "entidad": "docentes y estudiantes",
+    "relacion": "evalúan",
+    "valor": "productos finales"
+  },
+  {
+    "entidad": "coordinación entre disciplinas",
+    "relacion": "es considerada",
+    "valor": "moderadamente compleja"
+  },
+  {
+    "entidad": "innovación en salud",
+    "relacion": "es impulsada por",
+    "valor": "interdisciplinariedad"
+  },
+  {
+    "entidad": "Estado chileno",
+    "relacion": "garante de",
+    "valor": "derecho a la salud"
+  },
+  {
+    "entidad": "Sistema Nacional de Salud de Chile",
+    "relacion": "ha logrado",
+    "valor": "excelentes indicadores sanitarios"
+  },
+  {
+    "entidad": "ciencia y tecnología en salud",
+    "relacion": "promueve",
+    "valor": "soluciones tecnológicas"
+  },
+  {
+    "entidad": "interdisciplinariedad",
+    "relacion": "favorece",
+    "valor": "competencias transversales"
+  },
+  {
+    "entidad": "inactividad física",
+    "relacion": "es un",
+    "valor": "factor de riesgo para enfermedades crónicas no transmisibles"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud 2009-2010",
+    "relacion": "realiza",
+    "valor": "estudio de prevalencia en Chile"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen mayor probabilidad de ser",
+    "valor": "físicamente inactivas en comparación a hombres"
+  },
+  {
+    "entidad": "adultos mayores",
+    "relacion": "tienen mayor probabilidad de ser",
+    "valor": "físicamente inactivos que jóvenes"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "se asocia con",
+    "valor": "mayor probabilidad de inactividad física"
+  },
+  {
+    "entidad": "diabetes",
+    "relacion": "se asocia con",
+    "valor": "mayor probabilidad de inactividad física"
+  },
+  {
+    "entidad": "hipertensión",
+    "relacion": "se asocia con",
+    "valor": "mayor probabilidad de inactividad física"
+  },
+  {
+    "entidad": "síndrome metabólico",
+    "relacion": "se asocia con",
+    "valor": "mayor probabilidad de inactividad física"
+  },
+  {
+    "entidad": "nivel educativo bajo",
+    "relacion": "se asocia con",
+    "valor": "mayor probabilidad de inactividad física"
+  },
+  {
+    "entidad": "conducta sedentaria",
+    "relacion": "se asocia con",
+    "valor": "mayor probabilidad de inactividad física"
+  },
+  {
+    "entidad": "consumo de frutas y verduras",
+    "relacion": "se asocia con",
+    "valor": "menor probabilidad de inactividad física"
+  },
+  {
+    "entidad": "nivel educativo alto",
+    "relacion": "se asocia con",
+    "valor": "menor probabilidad de inactividad física"
+  },
+  {
+    "entidad": "zona geográfica urbana",
+    "relacion": "se asocia con",
+    "valor": "mayor probabilidad de inactividad física en hombres"
+  },
+  {
+    "entidad": "intervenciones personalizadas",
+    "relacion": "pueden ayudar a",
+    "valor": "incrementar niveles de actividad física"
+  },
+  {
+    "entidad": "políticas públicas",
+    "relacion": "deben enfocarse en",
+    "valor": "grupos con mayor riesgo de inactividad física"
+  },
+  {
+    "entidad": "métodos de asignación de costos indirectos estructurales",
+    "relacion": "impacta en",
+    "valor": "ranking costo-efectividad de intervenciones en salud"
+  },
+  {
+    "entidad": "hospitales públicos",
+    "relacion": "utilizan",
+    "valor": "métodos de asignación de costos"
+  },
+  {
+    "entidad": "razón de costo-efectividad (RCE)",
+    "relacion": "es un",
+    "valor": "indicador para evaluaciones económicas"
+  },
+  {
+    "entidad": "costos indirectos estructurales (CIE)",
+    "relacion": "afectan",
+    "valor": "costos de intervenciones en salud"
+  },
+  {
+    "entidad": "simulación de Montecarlo",
+    "relacion": "se utiliza para",
+    "valor": "mejorar la precisión en la asignación de rankings"
+  },
+  {
+    "entidad": "intervenciones en salud",
+    "relacion": "se clasifican según",
+    "valor": "razón de costo-efectividad"
+  },
+  {
+    "entidad": "Universidad de la Frontera",
+    "relacion": "es parte de",
+    "valor": "la investigación"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile (MINSAL)",
+    "relacion": "publica",
+    "valor": "estudios de costo efectividad"
+  },
+  {
+    "entidad": "costo directo",
+    "relacion": "incluye",
+    "valor": "factor trabajo, equipamiento y fármacos"
+  },
+  {
+    "entidad": "costos indirectos estructurales",
+    "relacion": "se agregan mediante",
+    "valor": "una tasa calculada"
+  },
+  {
+    "entidad": "evaluaciones económicas",
+    "relacion": "incluyen",
+    "valor": "costos y beneficios en salud"
+  },
+  {
+    "entidad": "intervenciones sanitarias",
+    "relacion": "deben ser priorizadas según",
+    "valor": "menor RCE"
+  },
+  {
+    "entidad": "cambio en ranking",
+    "relacion": "es resultado de",
+    "valor": "variaciones en CIE"
+  },
+  {
+    "entidad": "decisores",
+    "relacion": "deben asignar fondos a",
+    "valor": "intervenciones con menores RCE"
+  },
+  {
+    "entidad": "costos indirectos estructurales",
+    "relacion": "son difíciles de determinar",
+    "valor": "en estudios de salud"
+  },
+  {
+    "entidad": "intervenciones en salud",
+    "relacion": "se agrupan en",
+    "valor": "ranking de costo-efectividad"
+  },
+  {
+    "entidad": "ranking de costo-efectividad",
+    "relacion": "se modifica por",
+    "valor": "cambios en tasas de CIE"
+  },
+  {
+    "entidad": "estudios de costo efectividad marginal",
+    "relacion": "tienden a ser similares en",
+    "valor": "costos indirectos"
+  },
+  {
+    "entidad": "intervenciones",
+    "relacion": "pueden ser desplazadas en",
+    "valor": "ranking de costo-efectividad"
+  },
+  {
+    "entidad": "costo de intervenciones",
+    "relacion": "se calcula desde",
+    "valor": "la perspectiva del sector salud"
+  },
+  {
+    "entidad": "virus de hepatitis C (VHC)",
+    "relacion": "causa",
+    "valor": "cirrosis"
+  },
+  {
+    "entidad": "virus de hepatitis C (VHC)",
+    "relacion": "causa",
+    "valor": "carcinoma hepatocelular (CHC)"
+  },
+  {
+    "entidad": "antivirales de acción directa (AAD)",
+    "relacion": "son",
+    "valor": "tratamiento para VHC"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "tiene",
+    "valor": "50,000 personas infectadas con VHC"
+  },
+  {
+    "entidad": "respuesta viral sostenida (RVS)",
+    "relacion": "es",
+    "valor": "ARN indetectable de VHC a las 12-24 semanas post-tratamiento"
+  },
+  {
+    "entidad": "cirrosis",
+    "relacion": "aumenta",
+    "valor": "riesgo de complicaciones"
+  },
+  {
+    "entidad": "antivirales de acción directa (AAD)",
+    "relacion": "tienen",
+    "valor": "altas tasas de curación"
+  },
+  {
+    "entidad": "guía clínica ministerial de manejo de infección por VHC",
+    "relacion": "incorpora",
+    "valor": "nuevas terapias con AAD como primera línea"
+  },
+  {
+    "entidad": "fármacos genéricos",
+    "relacion": "tienen",
+    "valor": "alta tasa de respuesta virológica"
+  },
+  {
+    "entidad": "pacientes cirróticos",
+    "relacion": "tienen",
+    "valor": "mayor frecuencia de eventos adversos serios"
+  },
+  {
+    "entidad": "eventos adversos serios",
+    "relacion": "son",
+    "valor": "más comunes en pacientes con cirrosis"
+  },
+  {
+    "entidad": "anemia",
+    "relacion": "es",
+    "valor": "un evento adverso frecuente asociado a ribavirina"
+  },
+  {
+    "entidad": "función hepática",
+    "relacion": "mejora",
+    "valor": "12 semanas post tratamiento"
+  },
+  {
+    "entidad": "puntaje Child-Pugh",
+    "relacion": "disminuye",
+    "valor": "en pacientes cirróticos post tratamiento"
+  },
+  {
+    "entidad": "ascitis",
+    "relacion": "disminuye",
+    "valor": "significativamente post tratamiento"
+  },
+  {
+    "entidad": "Ministerio de Salud",
+    "relacion": "ofrece",
+    "valor": "programas de auxilio extraordinario para acceso a AAD"
+  },
+  {
+    "entidad": "experiencia local",
+    "relacion": "confirma",
+    "valor": "efectividad de terapias orales para VHC"
+  },
+  {
+    "entidad": "médicos extranjeros",
+    "relacion": "afectan",
+    "valor": "integración profesional"
+  },
+  {
+    "entidad": "conflictos comunicativos",
+    "relacion": "constituyen",
+    "valor": "factor de riesgo psicosocial"
+  },
+  {
+    "entidad": "médicos extranjeros",
+    "relacion": "reportan",
+    "valor": "actitud constructiva hacia la negociación de conflictos"
+  },
+  {
+    "entidad": "nivel de dominancia",
+    "relacion": "aumenta",
+    "valor": "con mayor experiencia profesional"
+  },
+  {
+    "entidad": "nivel de adaptabilidad",
+    "relacion": "disminuye",
+    "valor": "con mayor antigüedad en la profesión"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "registran",
+    "valor": "mayor nivel de dominancia que hombres"
+  },
+  {
+    "entidad": "aculturación",
+    "relacion": "implica",
+    "valor": "ajustes culturales y emocionales"
+  },
+  {
+    "entidad": "estrés por aculturación",
+    "relacion": "puede resultar en",
+    "valor": "relaciones insatisfactorias"
+  },
+  {
+    "entidad": "sistemas de salud culturalmente competentes",
+    "relacion": "son necesarios para",
+    "valor": "afrontar riesgos psicosociales"
+  },
+  {
+    "entidad": "médicos inmigrantes",
+    "relacion": "enfrentan",
+    "valor": "doble reto de adaptación"
+  },
+  {
+    "entidad": "conflictos interculturales",
+    "relacion": "provocan",
+    "valor": "disfunciones en la práctica médica"
+  },
+  {
+    "entidad": "comunicación efectiva",
+    "relacion": "juega un rol",
+    "valor": "fundamental en la medicina moderna"
+  },
+  {
+    "entidad": "Organización para la Cooperación Económica y Desarrollo",
+    "relacion": "reporta",
+    "valor": "bajas tasas de médicos por habitante en Chile"
+  },
+  {
+    "entidad": "médicos de diversos orígenes",
+    "relacion": "aumentan",
+    "valor": "en el sistema público de salud de Chile"
+  },
+  {
+    "entidad": "estrés laboral",
+    "relacion": "puede resultar en",
+    "valor": "efectos perjudiciales sobre la salud física y mental"
+  },
+  {
+    "entidad": "actitudes hacia el conflicto comunicacional",
+    "relacion": "se relacionan con",
+    "valor": "variables sociodemográficas"
+  },
+  {
+    "entidad": "Síndrome de Tako-Tsubo",
+    "relacion": "es un",
+    "valor": "síndrome cardiaco"
+  },
+  {
+    "entidad": "Síndrome de Tako-Tsubo",
+    "relacion": "caracterizado por",
+    "valor": "disfunción sistólica regional transitoria del ventrículo izquierdo"
+  },
+  {
+    "entidad": "Síndrome de Tako-Tsubo",
+    "relacion": "mimetiza",
+    "valor": "infarto de miocardio"
+  },
+  {
+    "entidad": "Síndrome de Tako-Tsubo",
+    "relacion": "representa",
+    "valor": "0.9-1.2% de todos los síndromes coronarios agudos"
+  },
+  {
+    "entidad": "Hospital Clínico Universidad de Chile",
+    "relacion": "realiza",
+    "valor": "angiografías coronarias"
+  },
+  {
+    "entidad": "pacientes con Síndrome de Tako-Tsubo",
+    "relacion": "presentan",
+    "valor": "un factor desencadenante identificable"
+  },
+  {
+    "entidad": "pacientes con Síndrome de Tako-Tsubo",
+    "relacion": "muestran",
+    "valor": "alteraciones en el electrocardiograma"
+  },
+  {
+    "entidad": "pacientes con Síndrome de Tako-Tsubo",
+    "relacion": "tienen",
+    "valor": "fracción de eyección promedio de 44%"
+  },
+  {
+    "entidad": "pacientes con Síndrome de Tako-Tsubo",
+    "relacion": "son tratados como",
+    "valor": "síndrome coronario agudo"
+  },
+  {
+    "entidad": "pacientes con Síndrome de Tako-Tsubo",
+    "relacion": "evolucionan",
+    "valor": "hacia la normalización de la motilidad y función ventricular"
+  },
+  {
+    "entidad": "Síndrome de Tako-Tsubo",
+    "relacion": "debe ser sospechado por",
+    "valor": "particularidades clínicas, electrocardiográficas y enzimáticas"
+  },
+  {
+    "entidad": "coronariografía",
+    "relacion": "ayuda a",
+    "valor": "descartar otros diagnósticos"
+  },
+  {
+    "entidad": "pacientes con Síndrome de Tako-Tsubo",
+    "relacion": "no presentan",
+    "valor": "nuevos episodios de TTS en un año"
+  },
+  {
+    "entidad": "Síndrome de Tako-Tsubo",
+    "relacion": "es descrito en",
+    "valor": "población japonesa"
+  },
+  {
+    "entidad": "Síndrome de Tako-Tsubo",
+    "relacion": "se ha reportado en",
+    "valor": "poblaciones fuera de Japón"
+  },
+  {
+    "entidad": "factores de riesgo cardiovascular",
+    "relacion": "incluyen",
+    "valor": "hipertensión arterial, diabetes mellitus y tabaquismo"
+  },
+  {
+    "entidad": "estrés emocional",
+    "relacion": "es un",
+    "valor": "factor desencadenante común"
+  },
+  {
+    "entidad": "Síndrome de Tako-Tsubo",
+    "relacion": "se caracteriza por",
+    "valor": "recuperación completa"
+  },
+  {
+    "entidad": "pacientes con Síndrome de Tako-Tsubo",
+    "relacion": "no presentan",
+    "valor": "mortalidad durante la hospitalización"
+  }
+]

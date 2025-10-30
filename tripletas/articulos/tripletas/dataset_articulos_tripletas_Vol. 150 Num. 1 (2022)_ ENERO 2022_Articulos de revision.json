@@ -1,0 +1,97 @@
+[
+  {
+    "entidad": "síndrome de hipertensión intracraneana (SHIC)",
+    "relacion": "es",
+    "valor": "una condición grave"
+  },
+  {
+    "entidad": "síndrome de hipertensión intracraneana (SHIC)",
+    "relacion": "se manifiesta con",
+    "valor": "cefalea, vómitos, diplopía, papiledema"
+  },
+  {
+    "entidad": "síndrome de hipertensión intracraneana (SHIC)",
+    "relacion": "puede llevar a",
+    "valor": "muerte encefálica"
+  },
+  {
+    "entidad": "elevación de presión intracraneana (HIC)",
+    "relacion": "requiere",
+    "valor": "reconocimiento rápido y manejo adecuado"
+  },
+  {
+    "entidad": "manejo del SHIC",
+    "relacion": "debe ser considerado como",
+    "valor": "una urgencia neurológica"
+  },
+  {
+    "entidad": "oxigenación cerebral",
+    "relacion": "debe ser optimizada para",
+    "valor": "mejorar sobrevida y recuperación funcional"
+  },
+  {
+    "entidad": "presión intracraneana (PIC)",
+    "relacion": "se considera normal",
+    "valor": "PIC ≤ 15 mmHg"
+  },
+  {
+    "entidad": "presión de perfusión cerebral (PPC)",
+    "relacion": "se considera normal",
+    "valor": "PPC > 50 mmHg"
+  },
+  {
+    "entidad": "autorregulación cerebral",
+    "relacion": "es",
+    "valor": "la capacidad de mantener el flujo sanguíneo cerebral constante"
+  },
+  {
+    "entidad": "neuromonitoreo multimodal (NMM)",
+    "relacion": "tiene como objetivo",
+    "valor": "detectar daño cerebral precoz"
+  },
+  {
+    "entidad": "monitorización de presión intracraneana (PIC)",
+    "relacion": "está indicada en",
+    "valor": "pacientes en coma con riesgo de HIC"
+  },
+  {
+    "entidad": "manitol",
+    "relacion": "es",
+    "valor": "un tratamiento hiperosmolar para disminuir la PIC"
+  },
+  {
+    "entidad": "soluciones salinas hipertónicas (SSH)",
+    "relacion": "son",
+    "valor": "eficaces para reducir la PIC"
+  },
+  {
+    "entidad": "hiperventilación transitoria",
+    "relacion": "disminuye",
+    "valor": "la PIC al inducir hipocarbia"
+  },
+  {
+    "entidad": "hipotermia terapéutica (HT)",
+    "relacion": "se refiere a",
+    "valor": "la reducción controlada de la temperatura central"
+  },
+  {
+    "entidad": "barbitúricos",
+    "relacion": "pueden reducir",
+    "valor": "el consumo metabólico cerebral de oxígeno"
+  },
+  {
+    "entidad": "craniectomía descompresiva (CD)",
+    "relacion": "se considera en",
+    "valor": "alzas de PIC refractarias"
+  },
+  {
+    "entidad": "Emergency Neurological Life Support (ENLS)",
+    "relacion": "define",
+    "valor": "HIC como elevación persistente de PIC ≥ 20-22 mmHg"
+  },
+  {
+    "entidad": "Brain Trauma Foundation (BTF)",
+    "relacion": "recomienda",
+    "valor": "umbral de 22 mmHg para iniciar tratamiento en TEC-G"
+  }
+]

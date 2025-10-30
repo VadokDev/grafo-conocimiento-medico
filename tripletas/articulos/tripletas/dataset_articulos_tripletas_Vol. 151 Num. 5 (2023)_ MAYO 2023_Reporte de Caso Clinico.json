@@ -1,0 +1,87 @@
+[
+  {
+    "entidad": "Histiocitosis de Células de Langerhans (HCL)",
+    "relacion": "es un",
+    "valor": "enfermedad poco común"
+  },
+  {
+    "entidad": "Histiocitosis de Células de Langerhans (HCL)",
+    "relacion": "caracterizada por",
+    "valor": "proliferación clonal de células dendríticas inmaduras"
+  },
+  {
+    "entidad": "Histiocitosis de Células de Langerhans (HCL)",
+    "relacion": "afecta principalmente a",
+    "valor": "niños"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "tiene",
+    "valor": "38 años"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "historia de caída de múltiples piezas dentales"
+  },
+  {
+    "entidad": "Tomografía Computada (TC)",
+    "relacion": "muestra",
+    "valor": "múltiples lesiones líticas mandibulares"
+  },
+  {
+    "entidad": "biopsia mandibular",
+    "relacion": "es compatible con",
+    "valor": "hallazgo de HCL"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "evoluciona con",
+    "valor": "poliuria, polidipsia y nicturia"
+  },
+  {
+    "entidad": "diabetes insípida",
+    "relacion": "es confirmada por",
+    "valor": "estudios hormonales"
+  },
+  {
+    "entidad": "panhipopituitarismo",
+    "relacion": "es confirmado por",
+    "valor": "estudios hormonales"
+  },
+  {
+    "entidad": "Resonancia Magnética (RM)",
+    "relacion": "muestra",
+    "valor": "neoplasia hipotalámica con compromiso infundibular"
+  },
+  {
+    "entidad": "tratamiento",
+    "relacion": "consiste en",
+    "valor": "defocación maxillobuccofacial, suplementación hormonal, quimioterapia y radioterapia"
+  },
+  {
+    "entidad": "quimioterapia",
+    "relacion": "incluye",
+    "valor": "vinblastina, prednisona y 6-mercaptopurina"
+  },
+  {
+    "entidad": "quimioterapia",
+    "relacion": "cambia a",
+    "valor": "cladribina (2-CdA) más citarabina"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "alcanzó",
+    "valor": "remisión completa (RC1)"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "se encuentra en",
+    "valor": "seguimiento con actividades laborales integradas"
+  },
+  {
+    "entidad": "Histiocitosis de Células de Langerhans (HCL)",
+    "relacion": "puede tener",
+    "valor": "un buen pronóstico con diagnóstico oportuno"
+  }
+]

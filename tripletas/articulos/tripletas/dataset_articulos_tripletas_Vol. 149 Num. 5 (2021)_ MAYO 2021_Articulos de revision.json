@@ -1,0 +1,287 @@
+[
+  {
+    "entidad": "cambio climático",
+    "relacion": "afecta a",
+    "valor": "salud y bienestar humano"
+  },
+  {
+    "entidad": "cambio climático",
+    "relacion": "causa",
+    "valor": "aumento de temperatura media"
+  },
+  {
+    "entidad": "cambio climático",
+    "relacion": "causa",
+    "valor": "cambios en la lluvia"
+  },
+  {
+    "entidad": "cambio climático",
+    "relacion": "causa",
+    "valor": "aumento del nivel del mar"
+  },
+  {
+    "entidad": "cambio climático",
+    "relacion": "causa",
+    "valor": "condiciones climáticas extremas"
+  },
+  {
+    "entidad": "contaminación del aire",
+    "relacion": "afecta a",
+    "valor": "sistemas respiratorio y cardiovascular"
+  },
+  {
+    "entidad": "cambio climático",
+    "relacion": "aumenta",
+    "valor": "morbilidad por enfermedades respiratorias"
+  },
+  {
+    "entidad": "cambio climático",
+    "relacion": "aumenta",
+    "valor": "carga de enfermedades infecciosas"
+  },
+  {
+    "entidad": "cambio climático",
+    "relacion": "aumenta",
+    "valor": "problemas de salud mental"
+  },
+  {
+    "entidad": "gases de efecto invernadero",
+    "relacion": "causa",
+    "valor": "calentamiento global"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud (OMS)",
+    "relacion": "define",
+    "valor": "cambio climático como un megadesafío"
+  },
+  {
+    "entidad": "cambio climático",
+    "relacion": "causa",
+    "valor": "pérdida de biodiversidad"
+  },
+  {
+    "entidad": "cambio climático",
+    "relacion": "causa",
+    "valor": "colapso ecológico"
+  },
+  {
+    "entidad": "cambio climático",
+    "relacion": "causa",
+    "valor": "deterioro de factores socioeconómicos"
+  },
+  {
+    "entidad": "cambio climático",
+    "relacion": "impulsa",
+    "valor": "migraciones masivas"
+  },
+  {
+    "entidad": "calor extremo",
+    "relacion": "afecta a",
+    "valor": "adultos mayores"
+  },
+  {
+    "entidad": "contaminación atmosférica",
+    "relacion": "causa",
+    "valor": "aumento de síntomas respiratorios"
+  },
+  {
+    "entidad": "contaminación atmosférica",
+    "relacion": "aumenta",
+    "valor": "morbimortalidad respiratoria"
+  },
+  {
+    "entidad": "enfermedades infecciosas",
+    "relacion": "aumentan por",
+    "valor": "cambio climático"
+  },
+  {
+    "entidad": "calentamiento global",
+    "relacion": "causa",
+    "valor": "redistribución de patógenos"
+  },
+  {
+    "entidad": "permafrost",
+    "relacion": "libera",
+    "valor": "esporas y microorganismos"
+  },
+  {
+    "entidad": "cambio climático",
+    "relacion": "aumenta",
+    "valor": "población expuesta a enfermedades"
+  },
+  {
+    "entidad": "niños",
+    "relacion": "son",
+    "valor": "particularmente vulnerables a efectos del cambio climático"
+  },
+  {
+    "entidad": "contaminación del aire",
+    "relacion": "causa",
+    "valor": "daños en la salud infantil"
+  },
+  {
+    "entidad": "cambio climático",
+    "relacion": "aumenta",
+    "valor": "riesgo de desnutrición"
+  },
+  {
+    "entidad": "cambio climático",
+    "relacion": "aumenta",
+    "valor": "incidencia de alergias"
+  },
+  {
+    "entidad": "cambio climático",
+    "relacion": "aumenta",
+    "valor": "frecuencia de enfermedades alérgicas"
+  },
+  {
+    "entidad": "contaminantes aéreos",
+    "relacion": "inducen",
+    "valor": "cambios epigenéticos en fetos"
+  },
+  {
+    "entidad": "calentamiento global",
+    "relacion": "prolonga",
+    "valor": "épocas de polinización"
+  },
+  {
+    "entidad": "cambio climático",
+    "relacion": "aumenta",
+    "valor": "exposición a humo de incendios"
+  },
+  {
+    "entidad": "cambio climático",
+    "relacion": "requiere",
+    "valor": "voluntad política para mitigar efectos"
+  },
+  {
+    "entidad": "Gammapatías monoclonales de significado incierto (GMSI)",
+    "relacion": "corresponde a",
+    "valor": "trastornos premalignos de células plasmáticas"
+  },
+  {
+    "entidad": "GMSI",
+    "relacion": "caracterizado por",
+    "valor": "presencia de una proteína monoclonal"
+  },
+  {
+    "entidad": "GMSI",
+    "relacion": "caracterizado por",
+    "valor": "plasmocitos representando menos de 10% de las células en médula ósea"
+  },
+  {
+    "entidad": "GMSI",
+    "relacion": "asociado a",
+    "valor": "riesgo de progresión a trastornos malignos"
+  },
+  {
+    "entidad": "GMSI",
+    "relacion": "asociado a",
+    "valor": "manifestaciones renales, neurológicas y cutáneas"
+  },
+  {
+    "entidad": "Gammapatías monoclonales (GM)",
+    "relacion": "causa",
+    "valor": "diferentes enfermedades cutáneas"
+  },
+  {
+    "entidad": "Crioglobulinemia tipo I (CG)",
+    "relacion": "asociada a",
+    "valor": "gammapatías monoclonales"
+  },
+  {
+    "entidad": "Amiloidosis sistémica primaria (ASP)",
+    "relacion": "asociada a",
+    "valor": "gammapatías monoclonales"
+  },
+  {
+    "entidad": "Necrobiotic xanthogranuloma (NXG)",
+    "relacion": "asociada a",
+    "valor": "gammapatías monoclonales"
+  },
+  {
+    "entidad": "Dermatólogo",
+    "relacion": "tiene un rol",
+    "valor": "crucial en la sospecha de trastornos hematológicos"
+  },
+  {
+    "entidad": "Tamizaje de GMs",
+    "relacion": "debe realizarse con",
+    "valor": "electroforesis de proteínas y medición de cadenas livianas libres"
+  },
+  {
+    "entidad": "Xantogranuloma necrobiótico (XGN)",
+    "relacion": "asociado a",
+    "valor": "gammapatías monoclonales"
+  },
+  {
+    "entidad": "Angioedema adquirido",
+    "relacion": "asociado a",
+    "valor": "gammapatías monoclonales"
+  },
+  {
+    "entidad": "Síndrome de Schnitzler (SS)",
+    "relacion": "asociado a",
+    "valor": "gammapatía tipo IgM"
+  },
+  {
+    "entidad": "POEMS",
+    "relacion": "es un",
+    "valor": "síndrome paraneoplásico secundario a GM"
+  },
+  {
+    "entidad": "POEMS",
+    "relacion": "caracterizado por",
+    "valor": "neuropatía periférica, organomegalia, endocrinopatía, gammapatía monoclonal y lesiones cutáneas"
+  },
+  {
+    "entidad": "Amiloidosis",
+    "relacion": "caracterizada por",
+    "valor": "depósito tisular de amiloide"
+  },
+  {
+    "entidad": "Amiloidosis sistémica primaria (ASP)",
+    "relacion": "caracterizada por",
+    "valor": "púrpura no palpable equimótica"
+  },
+  {
+    "entidad": "Waldenström macroglobulinemia (MW)",
+    "relacion": "caracterizada por",
+    "valor": "proliferación de células linfoplasmáticas"
+  },
+  {
+    "entidad": "Pénfigo IgA",
+    "relacion": "asociado a",
+    "valor": "gammapatía IgA"
+  },
+  {
+    "entidad": "Cutis laxa adquirida (CLA)",
+    "relacion": "asociada a",
+    "valor": "gammapatías monoclonales"
+  },
+  {
+    "entidad": "Xantomas planos difusos normolipémicos (XPDN)",
+    "relacion": "asociado a",
+    "valor": "gammapatías monoclonales"
+  },
+  {
+    "entidad": "Xantodermia",
+    "relacion": "asociada a",
+    "valor": "gammapatías monoclonales"
+  },
+  {
+    "entidad": "Mediadores inflamatorios",
+    "relacion": "aumentan en",
+    "valor": "dermatopatías asociadas a GMs"
+  },
+  {
+    "entidad": "Dermatopatías",
+    "relacion": "pueden ser resultado de",
+    "valor": "aumento de citoquinas"
+  },
+  {
+    "entidad": "Evaluación multidisciplinaria",
+    "relacion": "debe realizarse en",
+    "valor": "pacientes con patologías cutáneas asociadas a GM"
+  }
+]

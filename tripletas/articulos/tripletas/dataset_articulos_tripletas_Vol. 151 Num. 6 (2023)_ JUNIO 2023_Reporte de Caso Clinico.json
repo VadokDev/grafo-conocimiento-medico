@@ -1,0 +1,202 @@
+[
+  {
+    "entidad": "Estenosis tricuspídea",
+    "relacion": "es un",
+    "valor": "trastorno cardíaco"
+  },
+  {
+    "entidad": "bioprótesis",
+    "relacion": "causa",
+    "valor": "estenosis tricuspídea"
+  },
+  {
+    "entidad": "implante valvular percutáneo",
+    "relacion": "es un",
+    "valor": "tratamiento"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "insuficiencia cardíaca derecha"
+  },
+  {
+    "entidad": "ecocardiografía",
+    "relacion": "es un",
+    "valor": "método de diagnóstico"
+  },
+  {
+    "entidad": "cateterismo cardíaco",
+    "relacion": "es un",
+    "valor": "método de diagnóstico"
+  },
+  {
+    "entidad": "tomografía computada cardíaca",
+    "relacion": "es un",
+    "valor": "método de diagnóstico"
+  },
+  {
+    "entidad": "resonancia magnética cardíaca",
+    "relacion": "es un",
+    "valor": "método de diagnóstico"
+  },
+  {
+    "entidad": "reemplazo valvular quirúrgico",
+    "relacion": "es un",
+    "valor": "opción de tratamiento rechazada"
+  },
+  {
+    "entidad": "reemplazo tricuspídeo",
+    "relacion": "es un",
+    "valor": "procedimiento realizado"
+  },
+  {
+    "entidad": "prótesis balón expansible",
+    "relacion": "es un",
+    "valor": "tipo de prótesis utilizada"
+  },
+  {
+    "entidad": "sintomatología de falla cardíaca",
+    "relacion": "es un",
+    "valor": "resultado del tratamiento"
+  },
+  {
+    "entidad": "Dr. Alberto Barría",
+    "relacion": "es un",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "Hospital Clínico Universidad de Chile",
+    "relacion": "es un",
+    "valor": "institución"
+  },
+  {
+    "entidad": "Grupo cardio-quirúrgico",
+    "relacion": "discute",
+    "valor": "opciones de tratamiento"
+  },
+  {
+    "entidad": "prótesis Edwards-Sapiens 3",
+    "relacion": "es un",
+    "valor": "tipo de prótesis utilizada"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "es",
+    "valor": "mujer de 31 años"
+  },
+  {
+    "entidad": "insuficiencia cardíaca",
+    "relacion": "es un",
+    "valor": "síntoma"
+  },
+  {
+    "entidad": "remisión de síntomas",
+    "relacion": "es un",
+    "valor": "resultado positivo del tratamiento"
+  },
+  {
+    "entidad": "Valve in Valve",
+    "relacion": "es un",
+    "valor": "técnica utilizada en el tratamiento"
+  },
+  {
+    "entidad": "superwarfarinas",
+    "relacion": "causa",
+    "valor": "intoxicación humana"
+  },
+  {
+    "entidad": "intoxicación humana",
+    "relacion": "provoca",
+    "valor": "coagulopatía"
+  },
+  {
+    "entidad": "Brodifacoum",
+    "relacion": "es un",
+    "valor": "rodenticida anticoagulante"
+  },
+  {
+    "entidad": "hombre de 42 años",
+    "relacion": "ingirió",
+    "valor": "rodenticida en un intento suicida"
+  },
+  {
+    "entidad": "epistaxis",
+    "relacion": "es un síntoma de",
+    "valor": "coagulopatía"
+  },
+  {
+    "entidad": "INR",
+    "relacion": "fue medido",
+    "valor": "11.6"
+  },
+  {
+    "entidad": "hospitalización",
+    "relacion": "fue necesaria debido a",
+    "valor": "coagulopatía"
+  },
+  {
+    "entidad": "Vitamina K",
+    "relacion": "fue utilizada para",
+    "valor": "suplementación"
+  },
+  {
+    "entidad": "coagulopatía",
+    "relacion": "requiere",
+    "valor": "control clínico regular"
+  },
+  {
+    "entidad": "rodenticidas anticoagulantes de acción prolongada",
+    "relacion": "son",
+    "valor": "LAARs"
+  },
+  {
+    "entidad": "Centro de Información Toxicológica de la Universidad Católica",
+    "relacion": "reporta",
+    "valor": "intoxicaciones por rodenticidas"
+  },
+  {
+    "entidad": "intoxicaciones por rodenticidas",
+    "relacion": "son la segunda causa de",
+    "valor": "consultas médicas por plaguicidas en Chile"
+  },
+  {
+    "entidad": "tratamiento ambulatorio",
+    "relacion": "consiste en",
+    "valor": "control regular de pruebas de coagulación"
+  },
+  {
+    "entidad": "vitamina K1",
+    "relacion": "debe ser administrada por",
+    "valor": "largos períodos"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "no reportó",
+    "valor": "efectos adversos"
+  },
+  {
+    "entidad": "rodenticidas",
+    "relacion": "son",
+    "valor": "plaguicidas para control de roedores"
+  },
+  {
+    "entidad": "intoxicación leve",
+    "relacion": "se define como",
+    "valor": "vómitos, náuseas y dolor abdominal"
+  },
+  {
+    "entidad": "intoxicación moderada",
+    "relacion": "se define como",
+    "valor": "manifestaciones hemorrágicas no fatales"
+  },
+  {
+    "entidad": "intoxicación grave",
+    "relacion": "se define como",
+    "valor": "hemorragias potencialmente fatales"
+  },
+  {
+    "entidad": "vitamina K1",
+    "relacion": "debe ser iniciada",
+    "valor": "inmediatamente tras la intoxicación"
+  }
+]

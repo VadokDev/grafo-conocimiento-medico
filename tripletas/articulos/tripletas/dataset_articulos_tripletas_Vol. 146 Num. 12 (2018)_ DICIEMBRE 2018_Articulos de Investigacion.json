@@ -1,0 +1,707 @@
+[
+  {
+    "entidad": "índice de estilos de vida saludable",
+    "relacion": "asocia",
+    "valor": "factores de riesgo cardiovascular"
+  },
+  {
+    "entidad": "población chilena",
+    "relacion": "presenta",
+    "valor": "factores de riesgo cardiovascular elevados"
+  },
+  {
+    "entidad": "estilos de vida saludable",
+    "relacion": "afectan",
+    "valor": "salud metabólica y cardiovascular"
+  },
+  {
+    "entidad": "hábitos de vida saludable",
+    "relacion": "disminuyen",
+    "valor": "tasa de mortalidad"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud 2009-2010",
+    "relacion": "proporciona",
+    "valor": "datos para crear un índice de estilos de vida saludable"
+  },
+  {
+    "entidad": "dieta saludable",
+    "relacion": "es parte de",
+    "valor": "un estilo de vida saludable"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "es parte de",
+    "valor": "un estilo de vida saludable"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "debe ser prevenido",
+    "valor": "para reducir riesgo cardiovascular"
+  },
+  {
+    "entidad": "consumo de alcohol",
+    "relacion": "debe ser moderado",
+    "valor": "para reducir riesgo cardiovascular"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "es un",
+    "valor": "factor de riesgo cardiovascular"
+  },
+  {
+    "entidad": "diabetes mellitus tipo 2",
+    "relacion": "es un",
+    "valor": "factor de riesgo cardiovascular"
+  },
+  {
+    "entidad": "síndrome metabólico",
+    "relacion": "es un",
+    "valor": "factor de riesgo cardiovascular"
+  },
+  {
+    "entidad": "hipertensión arterial",
+    "relacion": "es un",
+    "valor": "factor de riesgo cardiovascular"
+  },
+  {
+    "entidad": "dyslipidemia",
+    "relacion": "es un",
+    "valor": "factor de riesgo cardiovascular"
+  },
+  {
+    "entidad": "Grupo de Investigación ELHOC",
+    "relacion": "realiza",
+    "valor": "investigaciones sobre salud"
+  },
+  {
+    "entidad": "Carlos Celis-Morales",
+    "relacion": "es",
+    "valor": "correspondencia del artículo"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "presentan",
+    "valor": "mejores parámetros de salud cardiometabólica"
+  },
+  {
+    "entidad": "inactividad física",
+    "relacion": "es prevalente en",
+    "valor": "el grupo menos saludable"
+  },
+  {
+    "entidad": "tiempo sedente",
+    "relacion": "es mayor en",
+    "valor": "el grupo menos saludable"
+  },
+  {
+    "entidad": "estilo de vida saludable",
+    "relacion": "se asocia con",
+    "valor": "menor riesgo cardiovascular"
+  },
+  {
+    "entidad": "educación en salud",
+    "relacion": "es necesaria",
+    "valor": "para fomentar estilos de vida saludables"
+  },
+  {
+    "entidad": "Fuerza de agarre isométrica máxima (FAIVM)",
+    "relacion": "se asocia con",
+    "valor": "edad"
+  },
+  {
+    "entidad": "Fuerza de agarre isométrica máxima (FAIVM)",
+    "relacion": "se asocia con",
+    "valor": "sexo"
+  },
+  {
+    "entidad": "Fuerza de agarre isométrica máxima (FAIVM)",
+    "relacion": "se asocia con",
+    "valor": "dominancia de mano"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "afecta a",
+    "valor": "FAIVM"
+  },
+  {
+    "entidad": "sexo",
+    "relacion": "afecta a",
+    "valor": "FAIVM"
+  },
+  {
+    "entidad": "dominancia de mano",
+    "relacion": "afecta a",
+    "valor": "FAIVM"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "tienen mayor",
+    "valor": "FAIVM que mujeres"
+  },
+  {
+    "entidad": "mano dominante",
+    "relacion": "tiene mayor",
+    "valor": "FAIVM que mano no dominante"
+  },
+  {
+    "entidad": "FAIVM",
+    "relacion": "disminuye con",
+    "valor": "la edad"
+  },
+  {
+    "entidad": "FAIVM",
+    "relacion": "es mayor en",
+    "valor": "hombres que en mujeres"
+  },
+  {
+    "entidad": "FAIVM",
+    "relacion": "es mayor en",
+    "valor": "la mano dominante que en la mano no dominante"
+  },
+  {
+    "entidad": "adultos mayores",
+    "relacion": "presentan",
+    "valor": "pérdida de fuerza muscular"
+  },
+  {
+    "entidad": "dinapenia",
+    "relacion": "se asocia con",
+    "valor": "disfunción progresiva de sistemas"
+  },
+  {
+    "entidad": "evaluación de fuerza muscular",
+    "relacion": "es clave para",
+    "valor": "la salud de adultos mayores"
+  },
+  {
+    "entidad": "Universidad de Los Lagos",
+    "relacion": "realiza",
+    "valor": "estudio sobre FAIVM"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "apoya",
+    "valor": "evaluaciones de salud en adultos mayores"
+  },
+  {
+    "entidad": "neumonía adquirida en la comunidad",
+    "relacion": "es",
+    "valor": "una enfermedad infecciosa"
+  },
+  {
+    "entidad": "neumonía adquirida en la comunidad",
+    "relacion": "causa",
+    "valor": "admisión hospitalaria"
+  },
+  {
+    "entidad": "Streptococcus pneumoniae",
+    "relacion": "es",
+    "valor": "el principal agente causal de la NAC"
+  },
+  {
+    "entidad": "técnicas microbiológicas",
+    "relacion": "permiten",
+    "valor": "la identificación de patógenos"
+  },
+  {
+    "entidad": "pacientes inmunocompetentes",
+    "relacion": "son",
+    "valor": "el grupo estudiado"
+  },
+  {
+    "entidad": "hospital Clínico de la Pontificia Universidad Católica de Chile",
+    "relacion": "es",
+    "valor": "el lugar del estudio"
+  },
+  {
+    "entidad": "antibióticos empíricos",
+    "relacion": "se basan en",
+    "valor": "la gravedad del paciente"
+  },
+  {
+    "entidad": "neumonía neumocócica",
+    "relacion": "predomina en",
+    "valor": "adultos mayores con comorbilidades"
+  },
+  {
+    "entidad": "neumonía viral",
+    "relacion": "predomina en",
+    "valor": "adultos mayores con comorbilidades múltiples"
+  },
+  {
+    "entidad": "microorganismos atípicos",
+    "relacion": "predominan en",
+    "valor": "adultos jóvenes fumadores"
+  },
+  {
+    "entidad": "exámenes microbiológicos tradicionales",
+    "relacion": "tienen",
+    "valor": "limitaciones de sensibilidad y especificidad"
+  },
+  {
+    "entidad": "técnicas de biología molecular",
+    "relacion": "facilitan",
+    "valor": "la identificación del agente causal"
+  },
+  {
+    "entidad": "antibióticos de amplio espectro",
+    "relacion": "favorecen",
+    "valor": "infecciones con patógenos resistentes"
+  },
+  {
+    "entidad": "neumonía asociada a virus respiratorios",
+    "relacion": "tiene",
+    "valor": "menor estadía y mortalidad"
+  },
+  {
+    "entidad": "neumonía asociada a microorganismos atípicos",
+    "relacion": "tiene",
+    "valor": "similar estadía y letalidad a otras neumonías bacterianas"
+  },
+  {
+    "entidad": "elementos clínicos diferenciadores",
+    "relacion": "carecen de",
+    "valor": "sensibilidad y especificidad"
+  },
+  {
+    "entidad": "guías de práctica clínica",
+    "relacion": "sugieren",
+    "valor": "abandonar el término neumonía atípica"
+  },
+  {
+    "entidad": "Cirugía coronaria",
+    "relacion": "es",
+    "valor": "el tratamiento recomendado para enfermedad coronaria"
+  },
+  {
+    "entidad": "enfermedad coronaria",
+    "relacion": "es",
+    "valor": "la primera causa de muerte por enfermedades cardiovasculares a nivel mundial"
+  },
+  {
+    "entidad": "Hospital Clínico Regional de Concepción",
+    "relacion": "realiza",
+    "valor": "cirugías cardiacas"
+  },
+  {
+    "entidad": "Roberto González Lagos",
+    "relacion": "es",
+    "valor": "el autor principal del estudio"
+  },
+  {
+    "entidad": "CABG",
+    "relacion": "es",
+    "valor": "el mejor tratamiento para pacientes con enfermedad coronaria"
+  },
+  {
+    "entidad": "mortalidad operatoria",
+    "relacion": "es",
+    "valor": "1,98%"
+  },
+  {
+    "entidad": "mortalidad operatoria en pacientes con angina estable y FEVI > 50%",
+    "relacion": "es",
+    "valor": "0,66%"
+  },
+  {
+    "entidad": "EuroSCORE",
+    "relacion": "se utiliza para",
+    "valor": "evaluar el riesgo quirúrgico"
+  },
+  {
+    "entidad": "cirugía sin circulación extracorpórea",
+    "relacion": "representa",
+    "valor": "15 a 20% de los pacientes operados"
+  },
+  {
+    "entidad": "supervivencia a 5 años",
+    "relacion": "es",
+    "valor": "90,9%"
+  },
+  {
+    "entidad": "eventos adversos cardíacos y cerebrovasculares mayores (MACCE)",
+    "relacion": "ocurren",
+    "valor": "19,7% a 5 años"
+  },
+  {
+    "entidad": "disfunción ventricular izquierda",
+    "relacion": "es",
+    "valor": "un factor de riesgo para mortalidad operatoria"
+  },
+  {
+    "entidad": "cirugía coronaria",
+    "relacion": "ha demostrado",
+    "valor": "superioridad en supervivencia comparada con tratamiento médico"
+  },
+  {
+    "entidad": "cirugía coronaria",
+    "relacion": "ha sido",
+    "valor": "el procedimiento quirúrgico más estudiado"
+  },
+  {
+    "entidad": "safenectomía endoscópica",
+    "relacion": "ha mostrado",
+    "valor": "reducir la morbilidad asociada a la herida operatoria"
+  },
+  {
+    "entidad": "conductos arteriales",
+    "relacion": "se asocian a",
+    "valor": "una ventaja en supervivencia respecto a conductos venosos"
+  },
+  {
+    "entidad": "seguimiento clínico",
+    "relacion": "se realizó",
+    "valor": "en 83,3% de los pacientes"
+  },
+  {
+    "entidad": "Hospital Base de Puerto Montt",
+    "relacion": "realiza",
+    "valor": "medición de huella de carbono"
+  },
+  {
+    "entidad": "huella de carbono",
+    "relacion": "contribuye a",
+    "valor": "calentamiento global"
+  },
+  {
+    "entidad": "Hospital Base de Puerto Montt",
+    "relacion": "emite",
+    "valor": "CO2 equivalentes"
+  },
+  {
+    "entidad": "gases clínicos",
+    "relacion": "son",
+    "valor": "fuente significativa de emisiones de CO2e"
+  },
+  {
+    "entidad": "Sevofluorano",
+    "relacion": "es",
+    "valor": "el mayor contribuyente a las emisiones de CO2e en gases clínicos"
+  },
+  {
+    "entidad": "actividad clínica",
+    "relacion": "afecta",
+    "valor": "cambio climático"
+  },
+  {
+    "entidad": "gases de efecto invernadero",
+    "relacion": "son",
+    "valor": "compuestos atmosféricos"
+  },
+  {
+    "entidad": "sector salud",
+    "relacion": "es responsable de",
+    "valor": "un porcentaje importante de la huella de carbono"
+  },
+  {
+    "entidad": "anestesia",
+    "relacion": "contribuye a",
+    "valor": "emisiones de gases de efecto invernadero"
+  },
+  {
+    "entidad": "N2O",
+    "relacion": "juega un rol como",
+    "valor": "gas de efecto invernadero"
+  },
+  {
+    "entidad": "técnicas anestésicas",
+    "relacion": "determinan",
+    "valor": "diferencias en la huella de carbono"
+  },
+  {
+    "entidad": "Hospital Base de Puerto Montt",
+    "relacion": "utiliza",
+    "valor": "energía eléctrica generada por carbón y gas natural"
+  },
+  {
+    "entidad": "práctica anestésica",
+    "relacion": "debe considerar",
+    "valor": "nuevas tecnologías para reducir emisiones"
+  },
+  {
+    "entidad": "agentes anestésicos endovenosos",
+    "relacion": "son",
+    "valor": "una alternativa a los gases anestésicos"
+  },
+  {
+    "entidad": "bajos flujos de gases frescos",
+    "relacion": "ayudan a",
+    "valor": "disminuir el impacto ambiental de la anestesia"
+  },
+  {
+    "entidad": "cambio climático",
+    "relacion": "aumenta",
+    "valor": "mortalidad anual y costos en salud"
+  },
+  {
+    "entidad": "NHS (National Health Service)",
+    "relacion": "establece",
+    "valor": "importancia del manejo del carbono en salud"
+  },
+  {
+    "entidad": "Lesión renal aguda",
+    "relacion": "es una",
+    "valor": "complicación común en pacientes hospitalizados"
+  },
+  {
+    "entidad": "Lesión renal aguda",
+    "relacion": "se asocia con",
+    "valor": "prolongación de la estancia hospitalaria"
+  },
+  {
+    "entidad": "Lesión renal aguda",
+    "relacion": "se asocia con",
+    "valor": "aumento de morbilidad"
+  },
+  {
+    "entidad": "Lesión renal aguda",
+    "relacion": "se asocia con",
+    "valor": "aumento de mortalidad"
+  },
+  {
+    "entidad": "Lesión renal aguda",
+    "relacion": "se define como",
+    "valor": "incremento de creatinina en 0,3 mg/dL"
+  },
+  {
+    "entidad": "Lesión renal aguda",
+    "relacion": "se define como",
+    "valor": "gasto urinario menor a 0,5 mL/kg/h"
+  },
+  {
+    "entidad": "Hospital Universitario San Ignacio",
+    "relacion": "realiza",
+    "valor": "estudio sobre LRA"
+  },
+  {
+    "entidad": "sepsis",
+    "relacion": "es un factor de riesgo para",
+    "valor": "Lesión renal aguda adquirida en el hospital"
+  },
+  {
+    "entidad": "deshidratación",
+    "relacion": "es un factor de riesgo para",
+    "valor": "Lesión renal aguda adquirida en el hospital"
+  },
+  {
+    "entidad": "filtración glomerular basal",
+    "relacion": "es un factor de riesgo para",
+    "valor": "Lesión renal aguda adquirida en el hospital"
+  },
+  {
+    "entidad": "exposición a medio de contraste",
+    "relacion": "es un factor de riesgo para",
+    "valor": "Lesión renal aguda adquirida en el hospital"
+  },
+  {
+    "entidad": "exposición a antiinflamatorios no esteroideos",
+    "relacion": "es un factor de riesgo para",
+    "valor": "Lesión renal aguda adquirida en el hospital"
+  },
+  {
+    "entidad": "índice de comorbilidad de Charlson",
+    "relacion": "es un factor de riesgo para",
+    "valor": "Lesión renal aguda adquirida en el hospital"
+  },
+  {
+    "entidad": "Lesión renal aguda adquirida en el hospital",
+    "relacion": "se asocia con",
+    "valor": "mayor tiempo de estancia hospitalaria"
+  },
+  {
+    "entidad": "Lesión renal aguda adquirida en el hospital",
+    "relacion": "se asocia con",
+    "valor": "mayor riesgo de ingreso a UCI"
+  },
+  {
+    "entidad": "Lesión renal aguda adquirida en el hospital",
+    "relacion": "se asocia con",
+    "valor": "mayor mortalidad hospitalaria"
+  },
+  {
+    "entidad": "mortalidad hospitalaria",
+    "relacion": "es mayor en",
+    "valor": "pacientes con Lesión renal aguda"
+  },
+  {
+    "entidad": "pacientes con Lesión renal aguda",
+    "relacion": "requieren",
+    "valor": "terapia de soporte renal"
+  },
+  {
+    "entidad": "Hospital Universitario San Ignacio",
+    "relacion": "es un",
+    "valor": "centro de estudio"
+  },
+  {
+    "entidad": "factores de riesgo",
+    "relacion": "son",
+    "valor": "potencialmente prevenibles"
+  },
+  {
+    "entidad": "marcadores tumorales séricos convencionales",
+    "relacion": "son",
+    "valor": "herramienta para el abordaje de pacientes con cáncer"
+  },
+  {
+    "entidad": "marcadores tumorales séricos convencionales",
+    "relacion": "son producidos por",
+    "valor": "células tumorales o inducidos por el organismo"
+  },
+  {
+    "entidad": "marcadores tumorales séricos convencionales",
+    "relacion": "ayudan a",
+    "valor": "monitorizar el estado de la enfermedad"
+  },
+  {
+    "entidad": "cáncer primario metastásico a hígado",
+    "relacion": "es",
+    "valor": "una condición clínica evaluada"
+  },
+  {
+    "entidad": "Hospital Universitario de Santander",
+    "relacion": "es un",
+    "valor": "centro de atención médica en Colombia"
+  },
+  {
+    "entidad": "Centro Oncológico Insuasty-Oncología",
+    "relacion": "es un",
+    "valor": "centro de atención médica en Colombia"
+  },
+  {
+    "entidad": "análisis retrospectivo",
+    "relacion": "se realizó en",
+    "valor": "pacientes con sospecha de cáncer"
+  },
+  {
+    "entidad": "CA 19-9",
+    "relacion": "muestra capacidad",
+    "valor": "discriminativa para malignidad"
+  },
+  {
+    "entidad": "CA 19-9",
+    "relacion": "tiene un punto de corte de",
+    "valor": "17.6 U/ml"
+  },
+  {
+    "entidad": "marcadores tumorales",
+    "relacion": "no son",
+    "valor": "específicos para malignidad"
+  },
+  {
+    "entidad": "diagnóstico histopatológico",
+    "relacion": "es",
+    "valor": "el patrón de oro para diagnóstico"
+  },
+  {
+    "entidad": "marcadores tumorales",
+    "relacion": "no son recomendados",
+    "valor": "como método diagnóstico inicial"
+  },
+  {
+    "entidad": "marcadores tumorales",
+    "relacion": "incrementan",
+    "valor": "resultados falsos positivos y negativos"
+  },
+  {
+    "entidad": "carga tumoral",
+    "relacion": "correlaciona con",
+    "valor": "nivel del marcador"
+  },
+  {
+    "entidad": "marcadores tumorales",
+    "relacion": "deben ser reservados para",
+    "valor": "seguimiento de pacientes ya diagnosticados"
+  },
+  {
+    "entidad": "diabetes mellitus tipo 2",
+    "relacion": "es un",
+    "valor": "enfermedad crónica sistémica"
+  },
+  {
+    "entidad": "síntomas depresivos",
+    "relacion": "afecta a",
+    "valor": "pacientes con diabetes mellitus tipo 2"
+  },
+  {
+    "entidad": "pacientes con diabetes mellitus tipo 2",
+    "relacion": "muestran",
+    "valor": "mayor riesgo de desarrollar síntomas depresivos"
+  },
+  {
+    "entidad": "síntomas depresivos",
+    "relacion": "dificultan",
+    "valor": "manejo y pronóstico de diabetes mellitus tipo 2"
+  },
+  {
+    "entidad": "Beck Depression Inventory-IA",
+    "relacion": "es utilizado para",
+    "valor": "evaluar síntomas depresivos"
+  },
+  {
+    "entidad": "Morisky Green Levine scale",
+    "relacion": "es utilizado para",
+    "valor": "evaluar adherencia al tratamiento"
+  },
+  {
+    "entidad": "hemoglobina glicosilada",
+    "relacion": "se utiliza para medir",
+    "valor": "control metabólico"
+  },
+  {
+    "entidad": "pacientes con síntomas depresivos",
+    "relacion": "tienen",
+    "valor": "peor adherencia al tratamiento"
+  },
+  {
+    "entidad": "pacientes con diabetes mellitus tipo 2",
+    "relacion": "presentan",
+    "valor": "mayor descompensación metabólica"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen mayor",
+    "valor": "frecuencia de síntomas depresivos"
+  },
+  {
+    "entidad": "Centro de Atención Primaria de Salud Naval",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "American Diabetes Association",
+    "relacion": "recomienda",
+    "valor": "mantener hemoglobina glicosilada por debajo de 7%"
+  },
+  {
+    "entidad": "sintomatología depresiva",
+    "relacion": "se asocia con",
+    "valor": "peor control metabólico"
+  },
+  {
+    "entidad": "pacientes diabéticos",
+    "relacion": "muestran",
+    "valor": "baja adherencia a fármacos"
+  },
+  {
+    "entidad": "sintomatología depresiva",
+    "relacion": "es más común en",
+    "valor": "mujeres"
+  },
+  {
+    "entidad": "sintomatología depresiva",
+    "relacion": "se relaciona con",
+    "valor": "malas conductas de autocuidado"
+  },
+  {
+    "entidad": "pacientes con diabetes mellitus tipo 2",
+    "relacion": "son evaluados en",
+    "valor": "Centro de Atención Primaria de Salud Naval"
+  },
+  {
+    "entidad": "sintomatología depresiva",
+    "relacion": "se presenta en",
+    "valor": "34.5% de los pacientes con diabetes mellitus tipo 2"
+  }
+]

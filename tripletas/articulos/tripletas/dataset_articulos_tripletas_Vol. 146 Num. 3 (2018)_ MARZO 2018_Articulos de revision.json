@@ -1,0 +1,262 @@
+[
+  {
+    "entidad": "Creatinina",
+    "relacion": "es un",
+    "valor": "biomarcador endógeno"
+  },
+  {
+    "entidad": "Creatinina",
+    "relacion": "se utiliza para",
+    "valor": "estimación de la velocidad de filtración glomerular"
+  },
+  {
+    "entidad": "Velocidad de filtración glomerular (VFG)",
+    "relacion": "es la mejor aproximación a",
+    "valor": "función renal global"
+  },
+  {
+    "entidad": "Métodos enzimáticos",
+    "relacion": "son superiores a",
+    "valor": "métodos colorimétricos de Jaffe"
+  },
+  {
+    "entidad": "Método de Jaffe",
+    "relacion": "puede llevar a",
+    "valor": "subestimación de la función renal"
+  },
+  {
+    "entidad": "Insuficiencia renal",
+    "relacion": "afecta a",
+    "valor": "la secreción de creatinina"
+  },
+  {
+    "entidad": "Fórmulas de estimación de la VFG",
+    "relacion": "tienen limitaciones que impiden",
+    "valor": "su aplicabilidad universal"
+  },
+  {
+    "entidad": "Cockroft-Gault",
+    "relacion": "es una",
+    "valor": "fórmula para estimar el clearance de creatinina"
+  },
+  {
+    "entidad": "MDRD",
+    "relacion": "fue desarrollada en",
+    "valor": "pacientes con enfermedad renal"
+  },
+  {
+    "entidad": "CKD-EPI",
+    "relacion": "se publicó en",
+    "valor": "2009"
+  },
+  {
+    "entidad": "FAS",
+    "relacion": "intenta utilizar",
+    "valor": "una sola ecuación para distintos grupos etarios"
+  },
+  {
+    "entidad": "Creatinina",
+    "relacion": "se mide mediante",
+    "valor": "métodos enzimáticos"
+  },
+  {
+    "entidad": "National Kidney Disease Education Program (NKDEP)",
+    "relacion": "publicó",
+    "valor": "recomendaciones analíticas para la medición de creatinina"
+  },
+  {
+    "entidad": "Clearance de creatinina",
+    "relacion": "se fundamenta en",
+    "valor": "que es filtrada libremente y no se reabsorbe"
+  },
+  {
+    "entidad": "Excreción de creatinina",
+    "relacion": "aumenta a medida que",
+    "valor": "decae la VFG"
+  },
+  {
+    "entidad": "Masa muscular",
+    "relacion": "afecta a",
+    "valor": "los niveles séricos de creatinina"
+  },
+  {
+    "entidad": "Ejercicio",
+    "relacion": "puede producir",
+    "valor": "elevación de los niveles séricos de creatinina"
+  },
+  {
+    "entidad": "Fibratos",
+    "relacion": "aumentan",
+    "valor": "la producción de creatinina en el músculo esquelético"
+  },
+  {
+    "entidad": "ejercicio físico",
+    "relacion": "afecta a",
+    "valor": "marcadores de estrés oxidativo"
+  },
+  {
+    "entidad": "diabetes mellitus tipo 2",
+    "relacion": "es un",
+    "valor": "enfermedad crónica no transmisible"
+  },
+  {
+    "entidad": "sedentarismo",
+    "relacion": "genera",
+    "valor": "aumento en la producción de especies reactivas de oxígeno"
+  },
+  {
+    "entidad": "estrés oxidativo",
+    "relacion": "altera",
+    "valor": "secreción de insulina"
+  },
+  {
+    "entidad": "estrés oxidativo",
+    "relacion": "contribuye a",
+    "valor": "complicaciones micro y macrovasculares"
+  },
+  {
+    "entidad": "ejercicio físico",
+    "relacion": "es beneficioso para",
+    "valor": "pacientes con diabetes mellitus tipo 2"
+  },
+  {
+    "entidad": "ejercicio físico",
+    "relacion": "induce",
+    "valor": "respuesta de adaptación"
+  },
+  {
+    "entidad": "estrés oxidativo",
+    "relacion": "desempeña un papel en",
+    "valor": "patogénesis de diabetes mellitus tipo 2"
+  },
+  {
+    "entidad": "ejercicio continuo de moderada intensidad",
+    "relacion": "mejora",
+    "valor": "balance redox"
+  },
+  {
+    "entidad": "ejercicio de sobrecarga",
+    "relacion": "promueve",
+    "valor": "mejora de la salud metabólica"
+  },
+  {
+    "entidad": "ejercicio intervalado de alta intensidad",
+    "relacion": "disminuye",
+    "valor": "marcadores de daño por estrés oxidativo"
+  },
+  {
+    "entidad": "ejercicio concurrente",
+    "relacion": "combina",
+    "valor": "ejercicio continuo de moderada intensidad y ejercicio de sobrecarga"
+  },
+  {
+    "entidad": "ejercicio físico",
+    "relacion": "ofrece",
+    "valor": "nuevos beneficios para el control de diabetes mellitus tipo 2"
+  },
+  {
+    "entidad": "estrés oxidativo",
+    "relacion": "debe ser considerado en",
+    "valor": "tratamiento de diabetes mellitus tipo 2"
+  },
+  {
+    "entidad": "ejercicio físico",
+    "relacion": "depende de",
+    "valor": "protocolo de ejercicios aplicado"
+  },
+  {
+    "entidad": "ejercicio físico",
+    "relacion": "mejora",
+    "valor": "parámetros clínicos como control glicémico"
+  },
+  {
+    "entidad": "encefalitis autoinmune",
+    "relacion": "es un",
+    "valor": "trastorno neurológico"
+  },
+  {
+    "entidad": "encefalitis autoinmune",
+    "relacion": "causa",
+    "valor": "inflamación del tejido cerebral"
+  },
+  {
+    "entidad": "anticuerpos",
+    "relacion": "afectan",
+    "valor": "antígenos cerebrales específicos"
+  },
+  {
+    "entidad": "sistema límbico",
+    "relacion": "es un",
+    "valor": "lugar de afectación en encefalitis autoinmune"
+  },
+  {
+    "entidad": "inmunosupresores",
+    "relacion": "se utilizan en",
+    "valor": "tratamiento de encefalitis autoinmune"
+  },
+  {
+    "entidad": "diagnóstico temprano",
+    "relacion": "mejora",
+    "valor": "prognóstico en encefalitis autoinmune"
+  },
+  {
+    "entidad": "síntomas psiquiátricos",
+    "relacion": "son más frecuentes en",
+    "valor": "encefalitis autoinmune"
+  },
+  {
+    "entidad": "algoritmos diagnósticos",
+    "relacion": "fueron publicados por",
+    "valor": "Consorcio Internacional de encefalitis"
+  },
+  {
+    "entidad": "tratamiento inmunosupresor",
+    "relacion": "debe iniciarse",
+    "valor": "temprano para mejorar pronóstico"
+  },
+  {
+    "entidad": "encefalitis por anticuerpos anti R-NMDA",
+    "relacion": "es la causa más frecuente de",
+    "valor": "encefalitis autoinmune"
+  },
+  {
+    "entidad": "teratomas ováricos",
+    "relacion": "están asociados a",
+    "valor": "encefalitis por anticuerpos anti R-NMDA"
+  },
+  {
+    "entidad": "corticoesteroides",
+    "relacion": "son parte del",
+    "valor": "tratamiento de primera línea"
+  },
+  {
+    "entidad": "rituximab",
+    "relacion": "se utiliza en",
+    "valor": "tratamiento de segunda línea"
+  },
+  {
+    "entidad": "electroencefalograma (EEG)",
+    "relacion": "es anormal en",
+    "valor": "90% de los casos de encefalitis autoinmune"
+  },
+  {
+    "entidad": "LCR",
+    "relacion": "es anormal en",
+    "valor": "80% de los casos de encefalitis autoinmune"
+  },
+  {
+    "entidad": "recaídas clínicas",
+    "relacion": "ocurren en",
+    "valor": "12% de los pacientes con encefalitis autoinmune"
+  },
+  {
+    "entidad": "encefalomielitis aguda diseminada",
+    "relacion": "es un tipo de",
+    "valor": "encefalitis autoinmune"
+  },
+  {
+    "entidad": "encefalitis de Hashimoto",
+    "relacion": "es parte del",
+    "valor": "diagnóstico diferencial de encefalitis autoinmune"
+  }
+]

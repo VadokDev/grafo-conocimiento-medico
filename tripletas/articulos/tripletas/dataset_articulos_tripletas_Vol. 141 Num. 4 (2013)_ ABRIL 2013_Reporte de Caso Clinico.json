@@ -1,0 +1,282 @@
+[
+  {
+    "entidad": "Enfermedad de von Economo",
+    "relacion": "es un",
+    "valor": "trastorno del sistema nervioso central"
+  },
+  {
+    "entidad": "encefalitis letárgica",
+    "relacion": "es un tipo de",
+    "valor": "Enfermedad de von Economo"
+  },
+  {
+    "entidad": "infección de vías respiratorias superiores",
+    "relacion": "sigue a",
+    "valor": "encefalitis letárgica"
+  },
+  {
+    "entidad": "síntomas clínicos",
+    "relacion": "corresponden a",
+    "valor": "compromiso de los ganglios basales"
+  },
+  {
+    "entidad": "mieloclono",
+    "relacion": "es un síntoma de",
+    "valor": "encefalitis letárgica"
+  },
+  {
+    "entidad": "methylprednisolone",
+    "relacion": "se administra para tratar",
+    "valor": "encefalitis letárgica"
+  },
+  {
+    "entidad": "prednisona",
+    "relacion": "se utiliza después de",
+    "valor": "methylprednisolone"
+  },
+  {
+    "entidad": "Hospital Británico",
+    "relacion": "es un",
+    "valor": "centro de atención médica"
+  },
+  {
+    "entidad": "pulsos de metilprednisolona",
+    "relacion": "se administran para",
+    "valor": "mejorar síntomas de rigidez y temblores"
+  },
+  {
+    "entidad": "L-dopa",
+    "relacion": "se utiliza para tratar",
+    "valor": "parkinsonismo postencefalítico"
+  },
+  {
+    "entidad": "efectos adversos",
+    "relacion": "son causados por",
+    "valor": "L-dopa"
+  },
+  {
+    "entidad": "cinesia paradojal",
+    "relacion": "es un síntoma de",
+    "valor": "encefalitis letárgica"
+  },
+  {
+    "entidad": "corticoides",
+    "relacion": "pueden ser útiles en",
+    "valor": "tratamiento de encefalitis letárgica"
+  },
+  {
+    "entidad": "anticuerpos contra los ganglios basales",
+    "relacion": "se encuentran en",
+    "valor": "95% de los pacientes con encefalitis letárgica"
+  },
+  {
+    "entidad": "Streptococcus grupo A",
+    "relacion": "es una causa frecuente de",
+    "valor": "faringitis"
+  },
+  {
+    "entidad": "síndrome extrapiramidal",
+    "relacion": "es un síntoma de",
+    "valor": "encefalitis letárgica"
+  },
+  {
+    "entidad": "diagnóstico diferencial",
+    "relacion": "debe hacerse con",
+    "valor": "otras etiologías de encefalitis"
+  },
+  {
+    "entidad": "recuperación completa",
+    "relacion": "ocurre en",
+    "valor": "una minoría de pacientes con encefalitis letárgica"
+  },
+  {
+    "entidad": "esteroides",
+    "relacion": "se utilizan para",
+    "valor": "mejorar síntomas en encefalitis letárgica"
+  },
+  {
+    "entidad": "Pénfigo vulgar tipo cutáneo",
+    "relacion": "es un",
+    "valor": "subtipo de pénfigo vulgar"
+  },
+  {
+    "entidad": "Pénfigo vulgar",
+    "relacion": "es",
+    "valor": "una enfermedad ampollar autoinmune"
+  },
+  {
+    "entidad": "Pénfigo vulgar",
+    "relacion": "afecta a",
+    "valor": "piel y mucosas"
+  },
+  {
+    "entidad": "autoanticuerpos",
+    "relacion": "causa",
+    "valor": "acantólisis"
+  },
+  {
+    "entidad": "30 años",
+    "relacion": "es la edad de",
+    "valor": "un paciente masculino"
+  },
+  {
+    "entidad": "lesiones pruriginosas y costrosas",
+    "relacion": "se presentan en",
+    "valor": "cuero cabelludo"
+  },
+  {
+    "entidad": "biopsia de piel",
+    "relacion": "muestra",
+    "valor": "pérdida de epidermis y acantólisis"
+  },
+  {
+    "entidad": "inmunofluorescencia",
+    "relacion": "es positiva para",
+    "valor": "C3 e IgG intercelular"
+  },
+  {
+    "entidad": "prednisona",
+    "relacion": "se utiliza como",
+    "valor": "tratamiento para el pénfigo vulgar"
+  },
+  {
+    "entidad": "pénfigo vulgar sin compromiso mucoso",
+    "relacion": "es infrecuente",
+    "valor": "en la literatura"
+  },
+  {
+    "entidad": "desmogleínas",
+    "relacion": "son blanco de",
+    "valor": "autoanticuerpos en pénfigo"
+  },
+  {
+    "entidad": "Dsg3",
+    "relacion": "es expresada en",
+    "valor": "superficie de queratinocitos y mucosas"
+  },
+  {
+    "entidad": "Dsg1",
+    "relacion": "es producida en",
+    "valor": "epidermis superficial"
+  },
+  {
+    "entidad": "pénfigo vulgar",
+    "relacion": "requiere",
+    "valor": "diagnóstico clínico, histológico e inmunohistoquímico"
+  },
+  {
+    "entidad": "corticoides",
+    "relacion": "son la base de",
+    "valor": "tratamiento del pénfigo"
+  },
+  {
+    "entidad": "rituximab",
+    "relacion": "es evaluado en",
+    "valor": "tratamiento del pénfigo"
+  },
+  {
+    "entidad": "inmunoglobulina intravenosa",
+    "relacion": "se utiliza en",
+    "valor": "casos resistentes a tratamiento habitual"
+  },
+  {
+    "entidad": "efectos adversos",
+    "relacion": "son un problema de",
+    "valor": "tratamiento del pénfigo"
+  },
+  {
+    "entidad": "calcio y vitamina D",
+    "relacion": "se deben agregar en",
+    "valor": "tratamientos esteroidales prolongados"
+  },
+  {
+    "entidad": "Síndrome hemofagocítico",
+    "relacion": "es un",
+    "valor": "trastorno raro caracterizado por activación y proliferación excesiva de macrófagos"
+  },
+  {
+    "entidad": "Síndrome de Alport",
+    "relacion": "afecta a",
+    "valor": "pacientes con nefritis hereditaria"
+  },
+  {
+    "entidad": "trasplante renal",
+    "relacion": "es un",
+    "valor": "procedimiento médico"
+  },
+  {
+    "entidad": "Ciclosporina (CsA)",
+    "relacion": "es un",
+    "valor": "inmunosupresor utilizado en trasplantes"
+  },
+  {
+    "entidad": "Mycophenolate mofetil (MMF)",
+    "relacion": "es un",
+    "valor": "inmunosupresor utilizado en trasplantes"
+  },
+  {
+    "entidad": "methylprednisolone",
+    "relacion": "es un",
+    "valor": "corticoide utilizado para tratar el rechazo agudo"
+  },
+  {
+    "entidad": "tacrolimus",
+    "relacion": "es un",
+    "valor": "inmunosupresor utilizado en trasplantes"
+  },
+  {
+    "entidad": "pancitopenia",
+    "relacion": "es un",
+    "valor": "disminución de células sanguíneas"
+  },
+  {
+    "entidad": "hemofagocitosis",
+    "relacion": "es un",
+    "valor": "proceso donde macrófagos fagocitan células sanguíneas"
+  },
+  {
+    "entidad": "fiebre",
+    "relacion": "es un",
+    "valor": "síntoma asociado al síndrome hemofagocítico"
+  },
+  {
+    "entidad": "hiperferritinemia",
+    "relacion": "es un",
+    "valor": "aumento de ferritina en sangre"
+  },
+  {
+    "entidad": "anemia",
+    "relacion": "es un",
+    "valor": "disminución de glóbulos rojos"
+  },
+  {
+    "entidad": "infecciones",
+    "relacion": "pueden causar",
+    "valor": "síndrome hemofagocítico"
+  },
+  {
+    "entidad": "trasplantes",
+    "relacion": "se asocian a",
+    "valor": "síndrome hemofagocítico"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "es alta en",
+    "valor": "síndrome hemofagocítico"
+  },
+  {
+    "entidad": "falla orgánica múltiple",
+    "relacion": "es una causa de",
+    "valor": "muerte en síndrome hemofagocítico"
+  },
+  {
+    "entidad": "diagnóstico",
+    "relacion": "es importante para",
+    "valor": "síndrome hemofagocítico"
+  },
+  {
+    "entidad": "tratamiento",
+    "relacion": "debe ser precoz en",
+    "valor": "síndrome hemofagocítico"
+  }
+]

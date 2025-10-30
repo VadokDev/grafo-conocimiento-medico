@@ -1,0 +1,197 @@
+[
+  {
+    "entidad": "Disección coronaria espontánea",
+    "relacion": "es un",
+    "valor": "trastorno raro"
+  },
+  {
+    "entidad": "Disección coronaria espontánea",
+    "relacion": "causa",
+    "valor": "síndrome coronario agudo"
+  },
+  {
+    "entidad": "Disección coronaria espontánea",
+    "relacion": "puede causar",
+    "valor": "muerte súbita"
+  },
+  {
+    "entidad": "Disección coronaria espontánea",
+    "relacion": "es más común en",
+    "valor": "mujeres"
+  },
+  {
+    "entidad": "Hepatitis C",
+    "relacion": "es un",
+    "valor": "antecedente médico"
+  },
+  {
+    "entidad": "Mujer de 45 años",
+    "relacion": "presenta",
+    "valor": "angina"
+  },
+  {
+    "entidad": "Ultrasonido intravascular",
+    "relacion": "muestra",
+    "valor": "hematoma disecante"
+  },
+  {
+    "entidad": "Manejo médico",
+    "relacion": "incluye",
+    "valor": "nitroglicerina"
+  },
+  {
+    "entidad": "Manejo médico",
+    "relacion": "incluye",
+    "valor": "anticoagulación"
+  },
+  {
+    "entidad": "Manejo médico",
+    "relacion": "incluye",
+    "valor": "antiagregación plaquetaria"
+  },
+  {
+    "entidad": "Revascularización quirúrgica",
+    "relacion": "es necesaria debido a",
+    "valor": "persistencia de síntomas"
+  },
+  {
+    "entidad": "Mujer de 32 años",
+    "relacion": "presenta",
+    "valor": "angina"
+  },
+  {
+    "entidad": "Coronariografía",
+    "relacion": "revela",
+    "valor": "disección de la arteria descendente anterior"
+  },
+  {
+    "entidad": "Tratamiento quirúrgico",
+    "relacion": "es una opción para",
+    "valor": "disección coronaria espontánea"
+  },
+  {
+    "entidad": "Revascularización miocárdica quirúrgica",
+    "relacion": "es considerada",
+    "valor": "alternativa ante fracaso de tratamiento médico"
+  },
+  {
+    "entidad": "Cicatrización espontánea",
+    "relacion": "se observa en",
+    "valor": "50% de los casos"
+  },
+  {
+    "entidad": "Angioplastía",
+    "relacion": "puede ser realizada en",
+    "valor": "mismo momento del diagnóstico"
+  },
+  {
+    "entidad": "Trombolisis",
+    "relacion": "puede aumentar",
+    "valor": "hemorragia subintimal"
+  },
+  {
+    "entidad": "Clínica Mayo",
+    "relacion": "reporta",
+    "valor": "recurrencia del síndrome coronario agudo"
+  },
+  {
+    "entidad": "Revascularización",
+    "relacion": "logra",
+    "valor": "restaurar flujo coronario"
+  },
+  {
+    "entidad": "Asistencia circulatoria",
+    "relacion": "es una opción para",
+    "valor": "estabilizar al paciente"
+  },
+  {
+    "entidad": "neumonía eosinofílica crónica",
+    "relacion": "es un",
+    "valor": "trastorno pulmonar"
+  },
+  {
+    "entidad": "neumonía eosinofílica crónica",
+    "relacion": "afecta a",
+    "valor": "mujeres"
+  },
+  {
+    "entidad": "eosinófilos",
+    "relacion": "son un",
+    "valor": "tipo de glóbulo blanco"
+  },
+  {
+    "entidad": "lavado broncoalveolar",
+    "relacion": "se utiliza para",
+    "valor": "diagnosticar neumonía eosinofílica crónica"
+  },
+  {
+    "entidad": "corticoides",
+    "relacion": "se utilizan para",
+    "valor": "tratar neumonía eosinofílica crónica"
+  },
+  {
+    "entidad": "sintomatología",
+    "relacion": "incluye",
+    "valor": "tos, fiebre y disnea"
+  },
+  {
+    "entidad": "diagnóstico de neumonía eosinofílica crónica",
+    "relacion": "requiere",
+    "valor": "eosinofilia en sangre periférica"
+  },
+  {
+    "entidad": "neumonía eosinofílica crónica",
+    "relacion": "puede causar",
+    "valor": "insuficiencia respiratoria"
+  },
+  {
+    "entidad": "neumonía eosinofílica crónica",
+    "relacion": "se asocia a",
+    "valor": "antecedentes de asma"
+  },
+  {
+    "entidad": "neumonía eosinofílica crónica",
+    "relacion": "se diagnostica mediante",
+    "valor": "lavado broncoalveolar"
+  },
+  {
+    "entidad": "neumonía eosinofílica crónica",
+    "relacion": "puede presentar",
+    "valor": "recurrencias"
+  },
+  {
+    "entidad": "prednisona",
+    "relacion": "es un",
+    "valor": "corticoide utilizado en tratamiento"
+  },
+  {
+    "entidad": "neumonía eosinofílica crónica",
+    "relacion": "se caracteriza por",
+    "valor": "infiltrados eosinofílicos"
+  },
+  {
+    "entidad": "neumonía eosinofílica crónica",
+    "relacion": "requiere exclusión de",
+    "valor": "otras causas de eosinofilia"
+  },
+  {
+    "entidad": "radiografía de tórax",
+    "relacion": "muestra",
+    "valor": "infiltrados alveolares periféricos"
+  },
+  {
+    "entidad": "tomografía computarizada de tórax",
+    "relacion": "muestra",
+    "valor": "focos de condensación"
+  },
+  {
+    "entidad": "neumonía eosinofílica crónica",
+    "relacion": "puede evolucionar a",
+    "valor": "fibrosis pulmonar"
+  },
+  {
+    "entidad": "neumonía eosinofílica crónica",
+    "relacion": "requiere tratamiento por",
+    "valor": "al menos seis meses"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "entidad": "autocuidado",
+    "relacion": "es un",
+    "valor": "elemento central en la formación de estudiantes de la salud"
+  },
+  {
+    "entidad": "estrategias efectivas",
+    "relacion": "se asocian con",
+    "valor": "reducción del burnout en estudiantes de la salud"
+  },
+  {
+    "entidad": "World Health Organization Quality-of-Life Scale (WHOQOL-BREF)",
+    "relacion": "es un",
+    "valor": "instrumento de valoración del autocuidado"
+  },
+  {
+    "entidad": "Health Promoting Lifestyle Profile II (HPLP-II)",
+    "relacion": "es un",
+    "valor": "instrumento de valoración del autocuidado"
+  },
+  {
+    "entidad": "mindfulness",
+    "relacion": "es una",
+    "valor": "estrategia efectiva para el autocuidado"
+  },
+  {
+    "entidad": "intervenciones grupales",
+    "relacion": "son",
+    "valor": "estrategias para el desarrollo del autocuidado"
+  },
+  {
+    "entidad": "mentorías",
+    "relacion": "son",
+    "valor": "estrategias para el desarrollo del autocuidado"
+  },
+  {
+    "entidad": "intervenciones curriculares",
+    "relacion": "son",
+    "valor": "estrategias para el desarrollo del autocuidado"
+  },
+  {
+    "entidad": "burnout",
+    "relacion": "afecta a",
+    "valor": "estudiantes de la salud"
+  },
+  {
+    "entidad": "estrés crónico",
+    "relacion": "causa",
+    "valor": "burnout académico"
+  },
+  {
+    "entidad": "bienestar estudiantil",
+    "relacion": "debe ser considerado como",
+    "valor": "competencia en el currículo"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "es la",
+    "valor": "institución donde se realizó el estudio"
+  },
+  {
+    "entidad": "Comité de Ética de la Pontificia Universidad Católica de Chile",
+    "relacion": "autorizó",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "estrategias de autocuidado",
+    "relacion": "promueven",
+    "valor": "el profesionalismo en la atención de salud"
+  },
+  {
+    "entidad": "Ciencias de la Salud",
+    "relacion": "es un",
+    "valor": "área de estudio"
+  },
+  {
+    "entidad": "estudiantes de medicina",
+    "relacion": "son",
+    "valor": "parte de la población estudiada"
+  },
+  {
+    "entidad": "literatura gris",
+    "relacion": "fue explorada junto con",
+    "valor": "fuentes de información"
+  },
+  {
+    "entidad": "estrategias formativas",
+    "relacion": "son necesarias para",
+    "valor": "disminuir las tasas de burnout académico"
+  },
+  {
+    "entidad": "autocuidado",
+    "relacion": "impacta en",
+    "valor": "la efectividad clínica de la atención"
+  },
+  {
+    "entidad": "estrategias efectivas",
+    "relacion": "contribuyen a",
+    "valor": "el desarrollo de profesionalismo"
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "entidad": "Síndrome de Doege-Potter",
+    "relacion": "es un",
+    "valor": "entidad clínica rara"
+  },
+  {
+    "entidad": "eventos hipoglicémicos",
+    "relacion": "son causados por",
+    "valor": "tumores no-pancreáticos"
+  },
+  {
+    "entidad": "tumores no-pancreáticos",
+    "relacion": "secretan",
+    "valor": "IGF-II de alto peso molecular"
+  },
+  {
+    "entidad": "IGF-II",
+    "relacion": "es un",
+    "valor": "factor de crecimiento similar a la insulina"
+  },
+  {
+    "entidad": "IGF-I",
+    "relacion": "es un",
+    "valor": "factor de crecimiento similar a la insulina"
+  },
+  {
+    "entidad": "plasma",
+    "relacion": "se mide mediante",
+    "valor": "inmunoensayos ELISA"
+  },
+  {
+    "entidad": "forma de alto peso molecular de IGF-II",
+    "relacion": "se identifica mediante",
+    "valor": "Western blot"
+  },
+  {
+    "entidad": "razón IGF-II/IGF-I",
+    "relacion": "indica",
+    "valor": "alteraciones metabólicas del síndrome de Doege-Potter"
+  },
+  {
+    "entidad": "plasma IGF-II",
+    "relacion": "es",
+    "valor": "868.9 ng/mL en el paciente"
+  },
+  {
+    "entidad": "plasma IGF-I",
+    "relacion": "es",
+    "valor": "17.6 ng/mL en el paciente"
+  },
+  {
+    "entidad": "razón IGF-II/IGF-I en el paciente",
+    "relacion": "es",
+    "valor": "49.4"
+  },
+  {
+    "entidad": "razón IGF-II/IGF-I en controles",
+    "relacion": "es",
+    "valor": "6.3"
+  },
+  {
+    "entidad": "plasma",
+    "relacion": "confirma",
+    "valor": "presencia de IGF-II de alto peso molecular"
+  },
+  {
+    "entidad": "IGF-II",
+    "relacion": "está relacionado con",
+    "valor": "desarrollo tumoral y resistencia a la quimioterapia"
+  },
+  {
+    "entidad": "IGF2",
+    "relacion": "es codificado por",
+    "valor": "el gen IGF2"
+  },
+  {
+    "entidad": "IGF-II",
+    "relacion": "se une a",
+    "valor": "receptores IGF-II"
+  },
+  {
+    "entidad": "receptores IGF-II",
+    "relacion": "dirigen",
+    "valor": "IGF-II a degradación lisosomal"
+  },
+  {
+    "entidad": "válvula aórtica percutánea",
+    "relacion": "es un",
+    "valor": "tratamiento"
+  },
+  {
+    "entidad": "acceso transcarotídeo",
+    "relacion": "es un",
+    "valor": "método de implantación"
+  },
+  {
+    "entidad": "TAVI",
+    "relacion": "es un",
+    "valor": "procedimiento médico"
+  },
+  {
+    "entidad": "Hospital Las Higueras",
+    "relacion": "realiza",
+    "valor": "primer implante de TAVI por acceso transcarotídeo en Chile"
+  },
+  {
+    "entidad": "paciente de 81 años",
+    "relacion": "presenta",
+    "valor": "alto riesgo quirúrgico"
+  },
+  {
+    "entidad": "obstrucción de la luz aórtica descendente",
+    "relacion": "es un",
+    "valor": "hallazgo clínico"
+  },
+  {
+    "entidad": "Heart Team",
+    "relacion": "decide",
+    "valor": "realizar TAVI"
+  },
+  {
+    "entidad": "acceso transfemoral",
+    "relacion": "es un",
+    "valor": "método preferido para TAVI"
+  },
+  {
+    "entidad": "acceso transcarotídeo",
+    "relacion": "es considerado",
+    "valor": "segunda alternativa a TF"
+  },
+  {
+    "entidad": "técnica de Seldinger",
+    "relacion": "es utilizada en",
+    "valor": "procedimiento de acceso"
+  },
+  {
+    "entidad": "heparina",
+    "relacion": "es administrada",
+    "valor": "durante el procedimiento"
+  },
+  {
+    "entidad": "válvula Edwards Sapiens",
+    "relacion": "es implantada en",
+    "valor": "procedimiento TAVI"
+  },
+  {
+    "entidad": "complicaciones vasculares mayores",
+    "relacion": "son reducidas por",
+    "valor": "acceso transcarotídeo"
+  },
+  {
+    "entidad": "evaluación personalizada",
+    "relacion": "es recomendada para",
+    "valor": "elegir acceso en TAVI"
+  },
+  {
+    "entidad": "artículo",
+    "relacion": "reporta",
+    "valor": "primer caso de TAVI por vía transcarotídea en Chile"
+  },
+  {
+    "entidad": "colaboración del Heart Team",
+    "relacion": "es fundamental para",
+    "valor": "éxito en TAVI"
+  }
+]

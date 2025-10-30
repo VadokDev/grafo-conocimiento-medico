@@ -1,0 +1,292 @@
+[
+  {
+    "entidad": "Arteritis de células gigantes",
+    "relacion": "es un",
+    "valor": "vasculitis sistémica"
+  },
+  {
+    "entidad": "Arteritis de células gigantes",
+    "relacion": "afecta a",
+    "valor": "aorta y grandes ramas"
+  },
+  {
+    "entidad": "Tomografía por emisión de positrones (PET)",
+    "relacion": "demuestra",
+    "valor": "compromiso extenso de la aorta"
+  },
+  {
+    "entidad": "Biopsia de arteria temporal",
+    "relacion": "es",
+    "valor": "gold standard para el diagnóstico"
+  },
+  {
+    "entidad": "IL-6",
+    "relacion": "tiene un rol en",
+    "valor": "fisiopatología de la arteritis de células gigantes"
+  },
+  {
+    "entidad": "IL-1",
+    "relacion": "tiene un rol en",
+    "valor": "fisiopatología de la arteritis de células gigantes"
+  },
+  {
+    "entidad": "Interferón",
+    "relacion": "tiene un rol en",
+    "valor": "fisiopatología de la arteritis de células gigantes"
+  },
+  {
+    "entidad": "Compromiso isquémico",
+    "relacion": "es una complicación de",
+    "valor": "arteritis de células gigantes"
+  },
+  {
+    "entidad": "Prednisona",
+    "relacion": "es un",
+    "valor": "tratamiento para arteritis de células gigantes"
+  },
+  {
+    "entidad": "PET",
+    "relacion": "aumenta",
+    "valor": "detección de compromiso arterial"
+  },
+  {
+    "entidad": "Compromiso inflamatorio",
+    "relacion": "puede estar presente en",
+    "valor": "50 a 80% de los pacientes"
+  },
+  {
+    "entidad": "Complicaciones vasculares graves",
+    "relacion": "se asocian a",
+    "valor": "diagnóstico tardío de compromiso inflamatorio"
+  },
+  {
+    "entidad": "Ecotomografía con Doppler de arteria temporal",
+    "relacion": "muestra",
+    "valor": "edema del vaso"
+  },
+  {
+    "entidad": "Signo del halo",
+    "relacion": "es un",
+    "valor": "signo ecográfico en arteritis de células gigantes"
+  },
+  {
+    "entidad": "Biopsia de arteria temporal",
+    "relacion": "tiene una sensibilidad de",
+    "valor": "alrededor de 50%"
+  },
+  {
+    "entidad": "PET",
+    "relacion": "puede diagnosticar",
+    "valor": "estadíos muy tempranos de la enfermedad"
+  },
+  {
+    "entidad": "Compromiso de los vasos torácicos",
+    "relacion": "se asocia con",
+    "valor": "biopsia de arteria temporal negativa"
+  },
+  {
+    "entidad": "Compromiso extracraneal",
+    "relacion": "se describe entre",
+    "valor": "30 y 74% con PET"
+  },
+  {
+    "entidad": "Compromiso inflamatorio extracraneal",
+    "relacion": "se ha asociado a",
+    "valor": "aneurismas y enfermedad vascular oclusiva"
+  },
+  {
+    "entidad": "encefalitis autoinmune",
+    "relacion": "es un tipo de",
+    "valor": "encefalitis"
+  },
+  {
+    "entidad": "anticuerpos contra el receptor GABA-A",
+    "relacion": "causa",
+    "valor": "encefalitis autoinmune"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "es",
+    "valor": "mujer de 66 años"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "síntomas como convulsiones y alteraciones conductuales"
+  },
+  {
+    "entidad": "status epilepticus",
+    "relacion": "es una manifestación de",
+    "valor": "encefalitis autoinmune"
+  },
+  {
+    "entidad": "methylprednisolone",
+    "relacion": "es un tipo de",
+    "valor": "terapia inmunomoduladora"
+  },
+  {
+    "entidad": "azathioprine",
+    "relacion": "es un tipo de",
+    "valor": "terapia inmunomoduladora"
+  },
+  {
+    "entidad": "anticonvulsants",
+    "relacion": "son utilizados para",
+    "valor": "controlar crisis epilépticas"
+  },
+  {
+    "entidad": "anticuerpos anti-TPO",
+    "relacion": "pueden llevar a",
+    "valor": "diagnóstico erróneo de encefalitis de Hashimoto"
+  },
+  {
+    "entidad": "Resonancia Magnética Cerebral (RM)",
+    "relacion": "muestra",
+    "valor": "alteraciones en la región mesial del lóbulo temporal"
+  },
+  {
+    "entidad": "LCR",
+    "relacion": "muestra",
+    "valor": "presencia de anticuerpos"
+  },
+  {
+    "entidad": "terapia inmunosupresora",
+    "relacion": "tiene respuesta",
+    "valor": "en encefalitis autoinmune"
+  },
+  {
+    "entidad": "receptor GABA-A",
+    "relacion": "modula",
+    "valor": "transmisión sináptica inhibidora"
+  },
+  {
+    "entidad": "Dr. Joseph Dalmau",
+    "relacion": "realiza",
+    "valor": "estudio de anticuerpos anti GABA"
+  },
+  {
+    "entidad": "pacientes con encefalitis autoinmune",
+    "relacion": "requieren",
+    "valor": "manejo agresivo en crisis"
+  },
+  {
+    "entidad": "anticuerpos contra el receptor NMDA",
+    "relacion": "son un tipo de",
+    "valor": "autoanticuerpos asociados a encefalitis"
+  },
+  {
+    "entidad": "terapia inmunosupresora de primera línea",
+    "relacion": "incluye",
+    "valor": "corticoides e inmunoglobulinas intravenosas"
+  },
+  {
+    "entidad": "terapia inmunosupresora de segunda línea",
+    "relacion": "incluye",
+    "valor": "rituximab y ciclofosfamida"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "tuvo",
+    "valor": "buena respuesta a la terapia"
+  },
+  {
+    "entidad": "estudio de anticuerpos",
+    "relacion": "es necesario para",
+    "valor": "diagnóstico de encefalitis autoinmune"
+  },
+  {
+    "entidad": "Gougerot y Carteaud",
+    "relacion": "es un",
+    "valor": "tipo de papilomatosis"
+  },
+  {
+    "entidad": "papilomatosis confluente y reticulada",
+    "relacion": "se caracteriza por",
+    "valor": "máculas escamosas hiperpigmentadas"
+  },
+  {
+    "entidad": "mujer de 28 años",
+    "relacion": "presenta",
+    "valor": "eritema cutáneo pruriginoso"
+  },
+  {
+    "entidad": "eritema cutáneo pruriginoso",
+    "relacion": "fue biopsiado y resultó en",
+    "valor": "diagnóstico de papilomatosis confluente y reticulada"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "declinó",
+    "valor": "tratamiento sistémico"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "usó",
+    "valor": "humectantes durante el embarazo"
+  },
+  {
+    "entidad": "eritema",
+    "relacion": "cedió",
+    "valor": "espontáneamente después del parto"
+  },
+  {
+    "entidad": "diabetes gestacional",
+    "relacion": "fue",
+    "valor": "complicación del embarazo"
+  },
+  {
+    "entidad": "hipertensión gestacional",
+    "relacion": "fue",
+    "valor": "complicación del embarazo"
+  },
+  {
+    "entidad": "cholestasis",
+    "relacion": "fue",
+    "valor": "complicación del embarazo"
+  },
+  {
+    "entidad": "parto",
+    "relacion": "fue",
+    "valor": "vaginal y sin complicaciones"
+  },
+  {
+    "entidad": "papilomatosis confluente y reticulada",
+    "relacion": "se asocia con",
+    "valor": "anomalías endocrinas"
+  },
+  {
+    "entidad": "CRP",
+    "relacion": "puede ser",
+    "valor": "respuesta del huésped a cambios endocrinos"
+  },
+  {
+    "entidad": "resolución espontánea",
+    "relacion": "no se encontró como",
+    "valor": "resultado alternativo entre los casos revisados"
+  },
+  {
+    "entidad": "minociclina",
+    "relacion": "es",
+    "valor": "tratamiento de primera línea"
+  },
+  {
+    "entidad": "antibióticos",
+    "relacion": "se reportan como",
+    "valor": "tratamiento efectivo"
+  },
+  {
+    "entidad": "vitamina D",
+    "relacion": "mejora",
+    "valor": "papilomatosis confluente y reticulada"
+  },
+  {
+    "entidad": "KOH",
+    "relacion": "se utilizó para",
+    "valor": "evaluar la presencia de hongos"
+  },
+  {
+    "entidad": "patógenos bacterianos",
+    "relacion": "han sido implicados en",
+    "valor": "papilomatosis confluente y reticulada"
+  }
+]

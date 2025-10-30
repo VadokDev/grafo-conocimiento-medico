@@ -1,0 +1,747 @@
+[
+  {
+    "entidad": "Aborto",
+    "relacion": "es un",
+    "valor": "problema de salud pública en Chile"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud (OMS)",
+    "relacion": "estima",
+    "valor": "22 millones de abortos inseguros anuales en el mundo"
+  },
+  {
+    "entidad": "Objetivos del Milenio",
+    "relacion": "plantea",
+    "valor": "reducir la mortalidad materna en 75%"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "discutiendo",
+    "valor": "proyecto de ley para despenalización del aborto"
+  },
+  {
+    "entidad": "mortalidad materna",
+    "relacion": "ha disminuido",
+    "valor": "de 51.8 a 18.3 por 100,000 nacidos vivos entre 1982 y 2012"
+  },
+  {
+    "entidad": "complicaciones de embarazo",
+    "relacion": "son",
+    "valor": "las principales causas de mortalidad materna"
+  },
+  {
+    "entidad": "aborto",
+    "relacion": "es",
+    "valor": "la última causa de mortalidad materna"
+  },
+  {
+    "entidad": "abortos por causas no especificadas",
+    "relacion": "han disminuido",
+    "valor": "de 36.6% a 26.1% entre 2001 y 2012"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "ha asumido",
+    "valor": "compromisos con organismos internacionales"
+  },
+  {
+    "entidad": "mortalidad neonatal precoz",
+    "relacion": "se ha mantenido",
+    "valor": "constante en promedio 55.4%"
+  },
+  {
+    "entidad": "aborto inducido",
+    "relacion": "es",
+    "valor": "un acontecimiento negativo en la salud sexual y reproductiva"
+  },
+  {
+    "entidad": "mujeres mayores de 35 años",
+    "relacion": "tienen",
+    "valor": "las tasas más altas de mortalidad materna"
+  },
+  {
+    "entidad": "programas de educación continua",
+    "relacion": "deben ser",
+    "valor": "implementados para el personal de salud"
+  },
+  {
+    "entidad": "aborto",
+    "relacion": "no cumple con",
+    "valor": "los criterios de priorización de problemas de salud pública"
+  },
+  {
+    "entidad": "antecedente de aborto previo",
+    "relacion": "es un",
+    "valor": "importante factor de riesgo"
+  },
+  {
+    "entidad": "consejería preventiva",
+    "relacion": "es",
+    "valor": "indispensable ante la posibilidad de aborto"
+  },
+  {
+    "entidad": "Hospital Clínico Universidad de Chile",
+    "relacion": "es un",
+    "valor": "hospital universitario"
+  },
+  {
+    "entidad": "cintigrafía SPECT de paratiroides",
+    "relacion": "utiliza",
+    "valor": "sestamibi"
+  },
+  {
+    "entidad": "hiperparatiroidismo primario",
+    "relacion": "se caracteriza por",
+    "valor": "hipercalcemia y niveles elevados de hormona paratiroidea"
+  },
+  {
+    "entidad": "sestamibi",
+    "relacion": "es un",
+    "valor": "compuesto isonitrilo catiónico"
+  },
+  {
+    "entidad": "cintigrafía SPECT",
+    "relacion": "tiene",
+    "valor": "alta sensibilidad"
+  },
+  {
+    "entidad": "falsos negativos",
+    "relacion": "se reportan en",
+    "valor": "5.7-14% de los exámenes"
+  },
+  {
+    "entidad": "adenoma",
+    "relacion": "es la causa más frecuente de",
+    "valor": "hiperparatiroidismo primario"
+  },
+  {
+    "entidad": "hiperplasia de las glándulas paratiroides",
+    "relacion": "es menos frecuente que",
+    "valor": "adenoma"
+  },
+  {
+    "entidad": "carcinoma de paratiroides",
+    "relacion": "es menos frecuente que",
+    "valor": "adenoma"
+  },
+  {
+    "entidad": "cintigrafía SPECT",
+    "relacion": "se utiliza para",
+    "valor": "localizar glándulas paratiroides anormales"
+  },
+  {
+    "entidad": "células oxífilas",
+    "relacion": "afectan",
+    "valor": "grado de captación del sestamibi"
+  },
+  {
+    "entidad": "P-glicoproteína (P-gp)",
+    "relacion": "es una",
+    "valor": "proteína de transmembrana"
+  },
+  {
+    "entidad": "hiperparatiroidismo primario",
+    "relacion": "afecta principalmente a",
+    "valor": "mujeres entre 40 y 60 años"
+  },
+  {
+    "entidad": "cintigrafía SPECT",
+    "relacion": "mejora con",
+    "valor": "SPECT-CT"
+  },
+  {
+    "entidad": "tiempo entre cintigrafía y paratiroidectomía",
+    "relacion": "es mayor en",
+    "valor": "falsos negativos"
+  },
+  {
+    "entidad": "tamaño de la lesión",
+    "relacion": "es menor en",
+    "valor": "falsos negativos"
+  },
+  {
+    "entidad": "falsos negativos",
+    "relacion": "corresponden a",
+    "valor": "lesiones bajo el límite de resolución del equipo"
+  },
+  {
+    "entidad": "cintigrafía paratiroidea negativa",
+    "relacion": "influye en",
+    "valor": "conducta terapéutica"
+  },
+  {
+    "entidad": "ecotomografía",
+    "relacion": "puede ser",
+    "valor": "complementaria a la cintigrafía"
+  },
+  {
+    "entidad": "FDG-PET",
+    "relacion": "es una modalidad de",
+    "valor": "imágenes de segunda línea"
+  },
+  {
+    "entidad": "SPECT-CT",
+    "relacion": "mejora",
+    "valor": "localización anatómica de glándulas comprometidas"
+  },
+  {
+    "entidad": "Influenza A H1N1pdm09",
+    "relacion": "circular",
+    "valor": "estacionalmente después de la pandemia"
+  },
+  {
+    "entidad": "Hospital de Puerto Montt",
+    "relacion": "fue enfrentado a",
+    "valor": "un brote simultáneo de H1N1pdm09 y H3N2"
+  },
+  {
+    "entidad": "H1N1pdm09",
+    "relacion": "afecta a",
+    "valor": "una población más envejecida con más comorbilidades"
+  },
+  {
+    "entidad": "H1N1pdm09",
+    "relacion": "requiere",
+    "valor": "más cuidados intensivos que H3N2"
+  },
+  {
+    "entidad": "H1N1pdm09",
+    "relacion": "desarrolla",
+    "valor": "shock séptico"
+  },
+  {
+    "entidad": "H1N1pdm09",
+    "relacion": "muestra",
+    "valor": "un comportamiento clínico similar al de la influenza estacional"
+  },
+  {
+    "entidad": "H1N1pdm09",
+    "relacion": "ha variado",
+    "valor": "su presentación clínica a lo largo del tiempo"
+  },
+  {
+    "entidad": "comorbilidades",
+    "relacion": "aumentaron",
+    "valor": "de 53% a 74% en pacientes con H1N1pdm09"
+  },
+  {
+    "entidad": "neumonía",
+    "relacion": "como causa de hospitalización",
+    "valor": "disminuyó en pacientes con H1N1pdm09"
+  },
+  {
+    "entidad": "H1N1pdm09",
+    "relacion": "sustituyó",
+    "valor": "al virus estacional H1N1"
+  },
+  {
+    "entidad": "vacunación",
+    "relacion": "debería extenderse a",
+    "valor": "grupos etarios de menor edad"
+  },
+  {
+    "entidad": "H1N1pdm09",
+    "relacion": "presenta",
+    "valor": "menor agresividad en la población actual"
+  },
+  {
+    "entidad": "H1N1pdm09",
+    "relacion": "afecta a",
+    "valor": "una población con más patología asociada"
+  },
+  {
+    "entidad": "Fibrilación auricular (FA)",
+    "relacion": "es",
+    "valor": "la arritmia cardíaca más común"
+  },
+  {
+    "entidad": "FA",
+    "relacion": "asocia con",
+    "valor": "alta mortalidad"
+  },
+  {
+    "entidad": "FA",
+    "relacion": "asocia con",
+    "valor": "accidente cerebrovascular (ACV)"
+  },
+  {
+    "entidad": "FA",
+    "relacion": "asocia con",
+    "valor": "embolia sistémica (ES)"
+  },
+  {
+    "entidad": "Registro GARFIELD AF",
+    "relacion": "inició en",
+    "valor": "2010"
+  },
+  {
+    "entidad": "Registro GARFIELD AF",
+    "relacion": "registra",
+    "valor": "pacientes con FA no valvular"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "participa en",
+    "valor": "Registro GARFIELD AF"
+  },
+  {
+    "entidad": "pacientes chilenos con FA no valvular",
+    "relacion": "se caracterizan por",
+    "valor": "escasa información sobre características clínicas"
+  },
+  {
+    "entidad": "pacientes chilenos con FA no valvular",
+    "relacion": "reciben",
+    "valor": "terapias antitrombóticas"
+  },
+  {
+    "entidad": "terapias antitrombóticas",
+    "relacion": "incluyen",
+    "valor": "anticoagulantes orales"
+  },
+  {
+    "entidad": "anticoagulantes orales",
+    "relacion": "se prescriben en",
+    "valor": "82% de los pacientes"
+  },
+  {
+    "entidad": "antagonistas de vitamina K",
+    "relacion": "son utilizados por",
+    "valor": "70% de los pacientes"
+  },
+  {
+    "entidad": "nuevos anticoagulantes directos",
+    "relacion": "son utilizados por",
+    "valor": "10% de los pacientes"
+  },
+  {
+    "entidad": "pacientes chilenos con FA no valvular",
+    "relacion": "tienen",
+    "valor": "alta tasa de mortalidad"
+  },
+  {
+    "entidad": "mortalidad cardiovascular",
+    "relacion": "es causada por",
+    "valor": "insuficiencia cardíaca"
+  },
+  {
+    "entidad": "Registro GARFIELD AF",
+    "relacion": "reporta",
+    "valor": "eventos adversos médicos"
+  },
+  {
+    "entidad": "eventos adversos médicos",
+    "relacion": "incluyen",
+    "valor": "mortalidad, ACV y sangrado mayor"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "tasa",
+    "valor": "4,75 por 100 años/persona"
+  },
+  {
+    "entidad": "ACV",
+    "relacion": "tasa",
+    "valor": "2,40 por 100 años/persona"
+  },
+  {
+    "entidad": "sangrado mayor",
+    "relacion": "tasa",
+    "valor": "1,64 por 100 años/persona"
+  },
+  {
+    "entidad": "Registro GARFIELD AF",
+    "relacion": "proporciona",
+    "valor": "información sobre el manejo de FA"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "tiene",
+    "valor": "alta tasa de ACV hemorrágico"
+  },
+  {
+    "entidad": "pacientes mayores de 75 años",
+    "relacion": "tienen",
+    "valor": "mayor riesgo de sangrado"
+  },
+  {
+    "entidad": "Entrenamiento Intervalado de Alta Intensidad (HIIT)",
+    "relacion": "mejora",
+    "valor": "capacidad aeróbica en adolescentes"
+  },
+  {
+    "entidad": "capacidad aeróbica",
+    "relacion": "se mide mediante",
+    "valor": "VO2max"
+  },
+  {
+    "entidad": "VO2max",
+    "relacion": "se evalúa con",
+    "valor": "20-m shuttle run test (20mSRT)"
+  },
+  {
+    "entidad": "adolescentes",
+    "relacion": "participan en",
+    "valor": "programa de HIIT"
+  },
+  {
+    "entidad": "Grupo Experimental",
+    "relacion": "realiza",
+    "valor": "16 sesiones de HIIT"
+  },
+  {
+    "entidad": "Grupo Control",
+    "relacion": "continúa con",
+    "valor": "ejercicio habitual en la escuela"
+  },
+  {
+    "entidad": "Universidad de Las Américas",
+    "relacion": "financia",
+    "valor": "investigación"
+  },
+  {
+    "entidad": "Comité de Investigación Humana de la Universidad de Las Américas",
+    "relacion": "aprueba",
+    "valor": "consentimiento informado"
+  },
+  {
+    "entidad": "baja capacidad aeróbica",
+    "relacion": "sugiere",
+    "valor": "desarrollo de programas específicos"
+  },
+  {
+    "entidad": "programa HIIT",
+    "relacion": "debe ser",
+    "valor": "individualizado"
+  },
+  {
+    "entidad": "carga de entrenamiento",
+    "relacion": "debe ser",
+    "valor": "aumentada en Educación Física"
+  },
+  {
+    "entidad": "Índice de Masa Corporal (IMC)",
+    "relacion": "se determina en",
+    "valor": "adolescentes"
+  },
+  {
+    "entidad": "Relación Cintura-Estatura (RCE)",
+    "relacion": "se utiliza para",
+    "valor": "determinar estado nutricional"
+  },
+  {
+    "entidad": "calidad de vida",
+    "relacion": "se asocia con",
+    "valor": "nivel de capacidad aeróbica"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "analiza",
+    "valor": "efectos del HIIT en adolescentes"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "se asocia con",
+    "valor": "baja capacidad muscular y cardiorrespiratoria"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "reduce",
+    "valor": "factores de riesgo cardiovascular"
+  },
+  {
+    "entidad": "metabolismo",
+    "relacion": "genera",
+    "valor": "menor mortalidad en hombres"
+  },
+  {
+    "entidad": "20mSRT",
+    "relacion": "es uno de los",
+    "valor": "test más empleados para estudiar capacidad cardiorrespiratoria"
+  },
+  {
+    "entidad": "hipertensión arterial",
+    "relacion": "es un",
+    "valor": "factor de riesgo cardiovascular"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "afecta a",
+    "valor": "27% de la población en 2010"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen un menor riesgo de",
+    "valor": "desarrollar hipertensión que hombres"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "aumenta el riesgo de",
+    "valor": "desarrollar hipertensión"
+  },
+  {
+    "entidad": "sobrepeso",
+    "relacion": "aumenta el riesgo de",
+    "valor": "desarrollar hipertensión"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "aumenta el riesgo de",
+    "valor": "desarrollar hipertensión"
+  },
+  {
+    "entidad": "obesidad central",
+    "relacion": "aumenta el riesgo de",
+    "valor": "desarrollar hipertensión"
+  },
+  {
+    "entidad": "historia familiar de hipertensión",
+    "relacion": "aumenta el riesgo de",
+    "valor": "desarrollar hipertensión"
+  },
+  {
+    "entidad": "consumo excesivo de sodio",
+    "relacion": "aumenta el riesgo de",
+    "valor": "hipertensión"
+  },
+  {
+    "entidad": "baja calidad de la dieta",
+    "relacion": "aumenta el riesgo de",
+    "valor": "hipertensión"
+  },
+  {
+    "entidad": "actividad física insuficiente",
+    "relacion": "aumenta el riesgo de",
+    "valor": "hipertensión"
+  },
+  {
+    "entidad": "consumo excesivo de alcohol",
+    "relacion": "aumenta el riesgo de",
+    "valor": "hipertensión"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "aumenta el riesgo de",
+    "valor": "hipertensión"
+  },
+  {
+    "entidad": "estrés",
+    "relacion": "aumenta el riesgo de",
+    "valor": "hipertensión"
+  },
+  {
+    "entidad": "nivel educacional bajo",
+    "relacion": "aumenta el riesgo de",
+    "valor": "hipertensión"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "proporciona",
+    "valor": "base de datos de la Encuesta Nacional de Salud"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud 2009-2010",
+    "relacion": "analiza",
+    "valor": "factores de riesgo de hipertensión"
+  },
+  {
+    "entidad": "estrategias de prevención",
+    "relacion": "son esenciales para",
+    "valor": "reducir la prevalencia de hipertensión"
+  },
+  {
+    "entidad": "Inventario de Depresión de Beck IA",
+    "relacion": "evalúa",
+    "valor": "síntomas depresivos en adultos chilenos"
+  },
+  {
+    "entidad": "población chilena",
+    "relacion": "presenta",
+    "valor": "17% de síntomas depresivos"
+  },
+  {
+    "entidad": "BDI-IA",
+    "relacion": "tiene",
+    "valor": "consistencia interna adecuada"
+  },
+  {
+    "entidad": "BDI-IA",
+    "relacion": "mide",
+    "valor": "severidad de síntomas de depresión"
+  },
+  {
+    "entidad": "muestra",
+    "relacion": "incluye",
+    "valor": "adultos de 18 a 73 años"
+  },
+  {
+    "entidad": "muestra",
+    "relacion": "comparte",
+    "valor": "99 consultantes con diagnóstico de depresión"
+  },
+  {
+    "entidad": "muestra",
+    "relacion": "incluye",
+    "valor": "932 padres o tutores"
+  },
+  {
+    "entidad": "muestra",
+    "relacion": "incluye",
+    "valor": "73 estudiantes universitarios"
+  },
+  {
+    "entidad": "BDI-IA",
+    "relacion": "discrimina",
+    "valor": "entre participantes deprimidos y no deprimidos"
+  },
+  {
+    "entidad": "análisis factorial exploratorio",
+    "relacion": "sugiere",
+    "valor": "una solución unifactorial"
+  },
+  {
+    "entidad": "análisis factorial confirmatorio",
+    "relacion": "confirma",
+    "valor": "estructura unifactorial del BDI-IA"
+  },
+  {
+    "entidad": "puntaje de corte",
+    "relacion": "determina",
+    "valor": "13/14 puntos"
+  },
+  {
+    "entidad": "Instituto Milenio para la Investigación en Depresión y Personalidad",
+    "relacion": "realiza",
+    "valor": "estudios sobre depresión"
+  },
+  {
+    "entidad": "Ministerio de Economía, Fomento y Turismo",
+    "relacion": "financia",
+    "valor": "proyectos de investigación"
+  },
+  {
+    "entidad": "depresión unipolar",
+    "relacion": "es",
+    "valor": "segunda causa de años de vida perdidos en Chile"
+  },
+  {
+    "entidad": "depresión",
+    "relacion": "deteriora",
+    "valor": "calidad de vida de las personas"
+  },
+  {
+    "entidad": "BDI-IA",
+    "relacion": "es",
+    "valor": "un instrumento confiable para detectar sintomatología depresiva"
+  },
+  {
+    "entidad": "muestra",
+    "relacion": "es mayoritariamente",
+    "valor": "mujeres"
+  },
+  {
+    "entidad": "estructura unifactorial",
+    "relacion": "es estable",
+    "valor": "entre hombres y mujeres"
+  },
+  {
+    "entidad": "vestimenta del traumatólogo",
+    "relacion": "influye en",
+    "valor": "elección y confianza del paciente"
+  },
+  {
+    "entidad": "apariencia formal",
+    "relacion": "afecta a",
+    "valor": "credibilidad y fiabilidad de los profesionales de salud"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "prefieren",
+    "valor": "traumatólogos con delantal blanco y vestimenta formal"
+  },
+  {
+    "entidad": "delantal blanco",
+    "relacion": "es un símbolo de",
+    "valor": "la profesión médica"
+  },
+  {
+    "entidad": "vestimenta formal",
+    "relacion": "mejora",
+    "valor": "la percepción de competencias clínicas"
+  },
+  {
+    "entidad": "vestimenta del médico",
+    "relacion": "no influye en",
+    "valor": "satisfacción con la atención"
+  },
+  {
+    "entidad": "pacientes mayores",
+    "relacion": "prefieren",
+    "valor": "médicos con delantal blanco"
+  },
+  {
+    "entidad": "vestimenta",
+    "relacion": "considerada muy importante por",
+    "valor": "67,3% de los pacientes"
+  },
+  {
+    "entidad": "hospital Regional de Valdivia",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "Universidad Austral de Chile",
+    "relacion": "es un",
+    "valor": "institución educativa"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "realizado en",
+    "valor": "el departamento de Ortopedia y Traumatología"
+  },
+  {
+    "entidad": "método de encuesta",
+    "relacion": "fue aprobado por",
+    "valor": "el comité de ética"
+  },
+  {
+    "entidad": "vestimenta médica",
+    "relacion": "ha sido debatida por",
+    "valor": "su imagen pública"
+  },
+  {
+    "entidad": "vestimenta informal",
+    "relacion": "no es preferida en",
+    "valor": "situaciones de confianza"
+  },
+  {
+    "entidad": "vestimenta casual",
+    "relacion": "no es preferida en",
+    "valor": "situaciones médicas"
+  },
+  {
+    "entidad": "delantal formal",
+    "relacion": "es elegido por",
+    "valor": "pacientes en situaciones críticas"
+  },
+  {
+    "entidad": "vestimenta del médico",
+    "relacion": "no está ligada a",
+    "valor": "la dignidad de la profesión médica"
+  },
+  {
+    "entidad": "vestimenta",
+    "relacion": "varía según",
+    "valor": "expectativas culturales y generación de pacientes"
+  },
+  {
+    "entidad": "médico traumatólogo",
+    "relacion": "es evaluado por",
+    "valor": "su vestimenta y apariencia"
+  },
+  {
+    "entidad": "vestimenta",
+    "relacion": "influye en",
+    "valor": "la adherencia al tratamiento médico"
+  }
+]

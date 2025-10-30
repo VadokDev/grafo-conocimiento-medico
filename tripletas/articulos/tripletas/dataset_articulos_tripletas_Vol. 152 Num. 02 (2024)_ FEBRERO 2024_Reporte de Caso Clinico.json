@@ -1,0 +1,187 @@
+[
+  {
+    "entidad": "Oxigenación por membrana extracorpórea (ECMO)",
+    "relacion": "se utiliza en",
+    "valor": "síndrome de dificultad respiratoria aguda grave"
+  },
+  {
+    "entidad": "síndrome de dificultad respiratoria aguda grave",
+    "relacion": "es causado por",
+    "valor": "traumatismo torácico contuso"
+  },
+  {
+    "entidad": "traumatismo torácico contuso",
+    "relacion": "es un tipo de",
+    "valor": "lesión"
+  },
+  {
+    "entidad": "Hospital Clínico Regional de Concepción",
+    "relacion": "es un",
+    "valor": "centro médico"
+  },
+  {
+    "entidad": "Universidad de Concepción",
+    "relacion": "es un",
+    "valor": "institución educativa"
+  },
+  {
+    "entidad": "Roberto González Lagos",
+    "relacion": "es el autor de",
+    "valor": "el artículo"
+  },
+  {
+    "entidad": "ECMO",
+    "relacion": "requiere",
+    "valor": "personal capacitado"
+  },
+  {
+    "entidad": "ECMO",
+    "relacion": "es un soporte para",
+    "valor": "pacientes de alto riesgo"
+  },
+  {
+    "entidad": "pacientes con SDRA grave",
+    "relacion": "pueden beneficiarse de",
+    "valor": "ECMO"
+  },
+  {
+    "entidad": "ventilación mecánica",
+    "relacion": "es un método de",
+    "valor": "soporte respiratorio"
+  },
+  {
+    "entidad": "acidosis",
+    "relacion": "es una complicación de",
+    "valor": "insuficiencia respiratoria"
+  },
+  {
+    "entidad": "hemorragias",
+    "relacion": "son complicaciones comunes de",
+    "valor": "anticoagulación en ECMO"
+  },
+  {
+    "entidad": "ECMO",
+    "relacion": "puede ser utilizado como",
+    "valor": "puente a la recuperación de la función pulmonar"
+  },
+  {
+    "entidad": "Sociedad Chilena de Medicina Intensiva",
+    "relacion": "proporciona",
+    "valor": "directrices para el uso de ECMO"
+  },
+  {
+    "entidad": "ECMO",
+    "relacion": "se realiza en",
+    "valor": "pacientes con SDRA grave"
+  },
+  {
+    "entidad": "traumatismo torácico",
+    "relacion": "es un factor de riesgo para",
+    "valor": "SDRA"
+  },
+  {
+    "entidad": "ECMO",
+    "relacion": "es considerado",
+    "valor": "un recurso costoso"
+  },
+  {
+    "entidad": "ECMO",
+    "relacion": "es un tratamiento para",
+    "valor": "insuficiencia respiratoria catastrófica"
+  },
+  {
+    "entidad": "síncope",
+    "relacion": "es un",
+    "valor": "síntoma frecuente"
+  },
+  {
+    "entidad": "síncope",
+    "relacion": "corresponde a",
+    "valor": "1 a 3% de atenciones en Servicios de Urgencia en Estados Unidos"
+  },
+  {
+    "entidad": "síncope de alto riesgo",
+    "relacion": "tiene",
+    "valor": "potencial riesgo vital"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "es",
+    "valor": "mujer de 40 años"
+  },
+  {
+    "entidad": "síncope",
+    "relacion": "se presenta con",
+    "valor": "Torsade de Pointes y fibrilación ventricular"
+  },
+  {
+    "entidad": "coronariografía",
+    "relacion": "no muestra",
+    "valor": "lesiones coronarias"
+  },
+  {
+    "entidad": "ventriculografía",
+    "relacion": "muestra",
+    "valor": "hipoquinesia medioventricular"
+  },
+  {
+    "entidad": "ecocardiografía transtorácica",
+    "relacion": "es compatible con",
+    "valor": "cardiomiopatía de Takotsubo medio ventricular"
+  },
+  {
+    "entidad": "resonancia cardíaca",
+    "relacion": "revela",
+    "valor": "edema sin realce tardío"
+  },
+  {
+    "entidad": "ECG",
+    "relacion": "destaca",
+    "valor": "QTc largo con onda T invertida"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "múltiples episodios de taquicardia ventricular polimorfa no sostenida"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "evoluciona con",
+    "valor": "disminución del QTc y regresión de alteraciones segmentarias"
+  },
+  {
+    "entidad": "seguimiento a seis meses",
+    "relacion": "indica que",
+    "valor": "la paciente se encuentra asintomática"
+  },
+  {
+    "entidad": "cardiomiopatía de Takotsubo",
+    "relacion": "es una",
+    "valor": "condición con disfunción ventricular sistólica reversible"
+  },
+  {
+    "entidad": "síncope en mujeres jóvenes",
+    "relacion": "es considerado",
+    "valor": "una patología benigna"
+  },
+  {
+    "entidad": "síncope en cardiomiopatía de Takotsubo",
+    "relacion": "es",
+    "valor": "una forma inusual de presentación"
+  },
+  {
+    "entidad": "prolongación del QT",
+    "relacion": "es un hallazgo",
+    "valor": "frecuente en cardiomiopatía de Takotsubo"
+  },
+  {
+    "entidad": "taquicardias ventriculares",
+    "relacion": "son",
+    "valor": "eventos con potencial riesgo vital"
+  },
+  {
+    "entidad": "pacientes jóvenes sin comorbilidades",
+    "relacion": "tienen",
+    "valor": "una evolución benigna con baja mortalidad"
+  }
+]

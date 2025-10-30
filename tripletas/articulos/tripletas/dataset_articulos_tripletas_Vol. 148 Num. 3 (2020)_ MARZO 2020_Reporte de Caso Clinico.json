@@ -1,0 +1,202 @@
+[
+  {
+    "entidad": "ECMELLA",
+    "relacion": "es un",
+    "valor": "uso combinado de dispositivos de asistencia ventricular izquierda"
+  },
+  {
+    "entidad": "dispositivos de asistencia ventricular izquierda",
+    "relacion": "se utilizan en",
+    "valor": "manejo del shock cardiogénico post infarto agudo al miocardio"
+  },
+  {
+    "entidad": "shock cardiogénico",
+    "relacion": "es una complicación de",
+    "valor": "infarto agudo al miocardio"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "historia de diabetes mellitus tipo 2 e hipotiroidismo"
+  },
+  {
+    "entidad": "electrocardiograma",
+    "relacion": "muestra",
+    "valor": "bloqueo AV completo"
+  },
+  {
+    "entidad": "transthoracic echocardiogram",
+    "relacion": "revela",
+    "valor": "disfunción ventricular izquierda severa"
+  },
+  {
+    "entidad": "Impella",
+    "relacion": "es un",
+    "valor": "dispositivo de asistencia ventricular"
+  },
+  {
+    "entidad": "ECMO",
+    "relacion": "es un",
+    "valor": "sistema de oxigenación por membrana extracorpórea"
+  },
+  {
+    "entidad": "angioplastía",
+    "relacion": "se realiza en",
+    "valor": "arteria descendente anterior"
+  },
+  {
+    "entidad": "dispositivos de asistencia circulatoria",
+    "relacion": "son recomendados para",
+    "valor": "shock refractario"
+  },
+  {
+    "entidad": "ECMELLA",
+    "relacion": "mejora",
+    "valor": "resultados clínicos en shock cardiogénico"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "es alta en",
+    "valor": "shock cardiogénico"
+  },
+  {
+    "entidad": "disfunción ventricular izquierda",
+    "relacion": "es un",
+    "valor": "resultado de shock cardiogénico"
+  },
+  {
+    "entidad": "hospital Sótero del Río",
+    "relacion": "es un",
+    "valor": "centro de tratamiento para cardiología"
+  },
+  {
+    "entidad": "pacientes con shock cardiogénico",
+    "relacion": "pueden recibir",
+    "valor": "asistencia de múltiples dispositivos"
+  },
+  {
+    "entidad": "ECMO VA",
+    "relacion": "proporciona",
+    "valor": "soporte respiratorio y cardiaco"
+  },
+  {
+    "entidad": "dispositivos de asistencia",
+    "relacion": "pueden reducir",
+    "valor": "mortalidad intrahospitalaria"
+  },
+  {
+    "entidad": "ECMELLA",
+    "relacion": "se ha asociado con",
+    "valor": "mejoría en la oxigenación y perfusión"
+  },
+  {
+    "entidad": "mortalidad a 30 días",
+    "relacion": "es menor en",
+    "valor": "pacientes tratados con ECMELLA"
+  },
+  {
+    "entidad": "Hipofosfatemia",
+    "relacion": "es un",
+    "valor": "efecto adverso de medicamentos"
+  },
+  {
+    "entidad": "Fierro carboximaltosa",
+    "relacion": "induce",
+    "valor": "hipofosfatemia"
+  },
+  {
+    "entidad": "Imatinib",
+    "relacion": "induce",
+    "valor": "hipofosfatemia"
+  },
+  {
+    "entidad": "Fibroblast Growth Factor 23 (FGF23)",
+    "relacion": "regula",
+    "valor": "concentración sérica de fósforo"
+  },
+  {
+    "entidad": "Hipofosfatemia",
+    "relacion": "se caracteriza por",
+    "valor": "dolor óseo y debilidad muscular"
+  },
+  {
+    "entidad": "Mujer de 49 años",
+    "relacion": "tiene",
+    "valor": "leucemia mieloide crónica"
+  },
+  {
+    "entidad": "Mujer de 49 años",
+    "relacion": "desarrolla",
+    "valor": "hipofosfatemia sintomática"
+  },
+  {
+    "entidad": "Mujer de 49 años",
+    "relacion": "recibe",
+    "valor": "fierro carboximaltosa"
+  },
+  {
+    "entidad": "Mujer de 49 años",
+    "relacion": "presenta",
+    "valor": "pérdidas urinarias de fosfato"
+  },
+  {
+    "entidad": "Hombre de 40 años",
+    "relacion": "tiene",
+    "valor": "leucemia mieloide crónica"
+  },
+  {
+    "entidad": "Hombre de 40 años",
+    "relacion": "desarrolla",
+    "valor": "hipofosfatemia sintomática"
+  },
+  {
+    "entidad": "Hombre de 40 años",
+    "relacion": "recibe",
+    "valor": "imatinib"
+  },
+  {
+    "entidad": "Hombre de 40 años",
+    "relacion": "presenta",
+    "valor": "pérdidas renales de fosfato"
+  },
+  {
+    "entidad": "Tratamiento con imatinib",
+    "relacion": "no puede ser",
+    "valor": "interrumpido"
+  },
+  {
+    "entidad": "Hipofosfatemia",
+    "relacion": "puede ser",
+    "valor": "grave"
+  },
+  {
+    "entidad": "Suplementación de fósforo",
+    "relacion": "se recomienda en",
+    "valor": "hipofosfatemia grave"
+  },
+  {
+    "entidad": "FGF23",
+    "relacion": "se mide para",
+    "valor": "confirmar mecanismo de hipofosfatemia"
+  },
+  {
+    "entidad": "Control de niveles de fosfatemia",
+    "relacion": "se sugiere en",
+    "valor": "pacientes en tratamiento con imatinib"
+  },
+  {
+    "entidad": "Hipofosfatemia",
+    "relacion": "puede causar",
+    "valor": "osteomalacia"
+  },
+  {
+    "entidad": "Fierro carboximaltosa",
+    "relacion": "se asocia a",
+    "valor": "aumento de FGF23"
+  },
+  {
+    "entidad": "Imatinib",
+    "relacion": "se asocia a",
+    "valor": "hipofosfatemia no mediada por FGF23"
+  }
+]

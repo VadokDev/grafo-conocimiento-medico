@@ -1,0 +1,612 @@
+[
+  {
+    "entidad": "diabetes gestacional",
+    "relacion": "es un",
+    "valor": "trastorno metabólico"
+  },
+  {
+    "entidad": "adherencia terapéutica",
+    "relacion": "afecta a",
+    "valor": "control glucémico"
+  },
+  {
+    "entidad": "metformina",
+    "relacion": "es un",
+    "valor": "tratamiento para diabetes gestacional"
+  },
+  {
+    "entidad": "insulina",
+    "relacion": "es un",
+    "valor": "tratamiento para diabetes gestacional"
+  },
+  {
+    "entidad": "pacientes con diabetes gestacional",
+    "relacion": "utilizan",
+    "valor": "metformina o insulina"
+  },
+  {
+    "entidad": "nivel educativo alto",
+    "relacion": "asocia con",
+    "valor": "mejor adherencia al tratamiento"
+  },
+  {
+    "entidad": "adherencia terapéutica",
+    "relacion": "mejora",
+    "valor": "control glicémico"
+  },
+  {
+    "entidad": "control glicémico",
+    "relacion": "se logra en",
+    "valor": "pacientes con alta adherencia"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud (OMS)",
+    "relacion": "define",
+    "valor": "adherencia terapéutica"
+  },
+  {
+    "entidad": "mortalidad del producto",
+    "relacion": "puede disminuir hasta",
+    "valor": "15 veces con buena adherencia"
+  },
+  {
+    "entidad": "glucosa plasmática materna",
+    "relacion": "tiene relación con",
+    "valor": "complicaciones materno-fetales"
+  },
+  {
+    "entidad": "cuestionario Medida de Adhesión a los Tratamientos (MAT)",
+    "relacion": "evalúa",
+    "valor": "adherencia terapéutica"
+  },
+  {
+    "entidad": "hospital de segundo nivel de atención",
+    "relacion": "atiende a",
+    "valor": "pacientes con diabetes gestacional"
+  },
+  {
+    "entidad": "glucosa 2 h postprandial",
+    "relacion": "se considera",
+    "valor": "control glicémico"
+  },
+  {
+    "entidad": "pacientes con diabetes gestacional",
+    "relacion": "son atendidos en",
+    "valor": "consulta de obstetricia"
+  },
+  {
+    "entidad": "adherencia terapéutica",
+    "relacion": "es un factor importante para",
+    "valor": "control glucémico adecuado"
+  },
+  {
+    "entidad": "Modelo de Atención Integral de Salud Familiar (MAIS)",
+    "relacion": "establece",
+    "valor": "continuidad de la atención como principio esencial"
+  },
+  {
+    "entidad": "Estudio de familia",
+    "relacion": "permite",
+    "valor": "obtener información sobre usuarios de servicios de salud"
+  },
+  {
+    "entidad": "Herramienta para estudios de familia (HEF)",
+    "relacion": "fue construida y validada por",
+    "valor": "expertos en Atención Primaria de Salud"
+  },
+  {
+    "entidad": "HEF",
+    "relacion": "considera",
+    "valor": "dos niveles de valoración familiar"
+  },
+  {
+    "entidad": "familias",
+    "relacion": "se benefician de",
+    "valor": "intervenciones de mayor complejidad"
+  },
+  {
+    "entidad": "continuidad de atención",
+    "relacion": "responde a",
+    "valor": "principio de Continuidad de Paciente"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "reconoce",
+    "valor": "necesidad de registros integrados"
+  },
+  {
+    "entidad": "sistema integrado",
+    "relacion": "contribuye a",
+    "valor": "mejorar la gestión del sistema de salud"
+  },
+  {
+    "entidad": "experiencia individual de la familia",
+    "relacion": "es destacada por",
+    "valor": "enfoque familiar en atención"
+  },
+  {
+    "entidad": "HEF",
+    "relacion": "facilita",
+    "valor": "acompañamiento clínico y mejora de calidad de atención"
+  },
+  {
+    "entidad": "expertos en APS",
+    "relacion": "participaron en",
+    "valor": "el diseño de la herramienta HEF"
+  },
+  {
+    "entidad": "validez de contenido",
+    "relacion": "busca determinar",
+    "valor": "si los ítems reflejan el dominio de contenido deseado"
+  },
+  {
+    "entidad": "proyecto de investigación",
+    "relacion": "fue aprobado por",
+    "valor": "Comité Ético-Científico de la Facultad de Medicina de la Pontificia Universidad Católica de Chile"
+  },
+  {
+    "entidad": "HEF",
+    "relacion": "ayuda a resolver",
+    "valor": "problemas de variabilidad en estudios de familia"
+  },
+  {
+    "entidad": "continuidad asistencial",
+    "relacion": "se asocia a",
+    "valor": "aumento de satisfacción usuaria"
+  },
+  {
+    "entidad": "intervenciones de salud",
+    "relacion": "pueden ser",
+    "valor": "informativas, preventivas o de consejería"
+  },
+  {
+    "entidad": "HER2",
+    "relacion": "afecta a",
+    "valor": "compromiso ganglionar axilar"
+  },
+  {
+    "entidad": "cáncer de mama",
+    "relacion": "es",
+    "valor": "la malignidad más común en mujeres"
+  },
+  {
+    "entidad": "carcinoma ductal invasivo de tipo no especial (IDC-NST)",
+    "relacion": "es",
+    "valor": "el tipo más común de cáncer de mama"
+  },
+  {
+    "entidad": "estado HER2",
+    "relacion": "es un",
+    "valor": "predictor de compromiso ganglionar axilar"
+  },
+  {
+    "entidad": "tumor más grande",
+    "relacion": "es un",
+    "valor": "predictor de metástasis axilares"
+  },
+  {
+    "entidad": "mayor grado de malignidad",
+    "relacion": "es un",
+    "valor": "predictor de metástasis axilares"
+  },
+  {
+    "entidad": "invasión linfovascular (LVI)",
+    "relacion": "es un",
+    "valor": "predictor de metástasis axilares"
+  },
+  {
+    "entidad": "grupo HR-HER2-",
+    "relacion": "tiene",
+    "valor": "la peor supervivencia global"
+  },
+  {
+    "entidad": "grupo HR-HER2+",
+    "relacion": "tiene",
+    "valor": "la peor supervivencia libre de recurrencia locorregional"
+  },
+  {
+    "entidad": "trastuzumab",
+    "relacion": "es un",
+    "valor": "tratamiento para pacientes HER2+"
+  },
+  {
+    "entidad": "quimioterapia",
+    "relacion": "es un",
+    "valor": "tratamiento para todos los pacientes"
+  },
+  {
+    "entidad": "radioterapia",
+    "relacion": "es administrada a",
+    "valor": "pacientes con más de 3 ganglios axilares positivos"
+  },
+  {
+    "entidad": "subtipos moleculares de cáncer de mama",
+    "relacion": "son definidos por",
+    "valor": "estado de receptores hormonales y HER2"
+  },
+  {
+    "entidad": "estado HER2+",
+    "relacion": "es un",
+    "valor": "predictor de metástasis axilares al diagnóstico"
+  },
+  {
+    "entidad": "estado HER2",
+    "relacion": "no es un",
+    "valor": "predictor de supervivencia"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "no afecta a",
+    "valor": "las tasas de supervivencia"
+  },
+  {
+    "entidad": "número de ganglios linfáticos positivos",
+    "relacion": "tiene un impacto negativo en",
+    "valor": "las tasas de supervivencia"
+  },
+  {
+    "entidad": "subtipo HR-HER2-",
+    "relacion": "tiene",
+    "valor": "menor incidencia de metástasis axilares"
+  },
+  {
+    "entidad": "subtipo HR-HER2+",
+    "relacion": "tiene",
+    "valor": "mayor riesgo de recurrencia locorregional"
+  },
+  {
+    "entidad": "Guías de Práctica Clínica (GPC)",
+    "relacion": "promueven",
+    "valor": "mejor calidad y equidad en la atención sanitaria"
+  },
+  {
+    "entidad": "Guías de Práctica Clínica (GPC)",
+    "relacion": "mejoran",
+    "valor": "resultados de los pacientes"
+  },
+  {
+    "entidad": "médicos de atención primaria",
+    "relacion": "tienen",
+    "valor": "percepciones y actitudes hacia las GPC"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "desarrolla",
+    "valor": "Guías de Práctica Clínica"
+  },
+  {
+    "entidad": "Régimen de Garantías en Salud (GES)",
+    "relacion": "implementa",
+    "valor": "Guías de Práctica Clínica"
+  },
+  {
+    "entidad": "frecuencia de uso de las guías",
+    "relacion": "asociada con",
+    "valor": "actitud, norma subjetiva y control percibido"
+  },
+  {
+    "entidad": "mayor edad",
+    "relacion": "asociada con",
+    "valor": "menor frecuencia de uso de las guías"
+  },
+  {
+    "entidad": "nacionalidad extranjera",
+    "relacion": "asociada con",
+    "valor": "menor frecuencia de uso de las guías"
+  },
+  {
+    "entidad": "falta de formato breve y claro",
+    "relacion": "es una barrera",
+    "valor": "para el uso de las guías"
+  },
+  {
+    "entidad": "falta de tiempo",
+    "relacion": "es una barrera",
+    "valor": "para el uso de las guías"
+  },
+  {
+    "entidad": "algoritmos de las guías",
+    "relacion": "son",
+    "valor": "la parte más consultada"
+  },
+  {
+    "entidad": "versión online de las guías",
+    "relacion": "es",
+    "valor": "la versión más consultada"
+  },
+  {
+    "entidad": "clasificación de niveles de evidencia",
+    "relacion": "genera",
+    "valor": "confianza en las guías"
+  },
+  {
+    "entidad": "fuerza de las recomendaciones",
+    "relacion": "genera",
+    "valor": "confianza en las guías"
+  },
+  {
+    "entidad": "dimensiones de la teoría del comportamiento planeado",
+    "relacion": "están asociadas con",
+    "valor": "frecuencia de uso de las guías"
+  },
+  {
+    "entidad": "estrategias de implementación",
+    "relacion": "deben considerar",
+    "valor": "factores asociados con el uso de las guías"
+  },
+  {
+    "entidad": "Hospital de niños Roberto del Río",
+    "relacion": "es un",
+    "valor": "centro de hemofilia"
+  },
+  {
+    "entidad": "Hospital San José",
+    "relacion": "está ubicado en",
+    "valor": "Santiago, Chile"
+  },
+  {
+    "entidad": "Universidad de Chile",
+    "relacion": "es un",
+    "valor": "lugar de estudio"
+  },
+  {
+    "entidad": "hemofilia",
+    "relacion": "es una",
+    "valor": "enfermedad genética"
+  },
+  {
+    "entidad": "factor de VIII de la coagulación",
+    "relacion": "es un",
+    "valor": "factor deficiente en hemofilia A"
+  },
+  {
+    "entidad": "factor IX de la coagulación",
+    "relacion": "es un",
+    "valor": "factor deficiente en hemofilia B"
+  },
+  {
+    "entidad": "hemartrosis",
+    "relacion": "es un",
+    "valor": "evento hemorrágico frecuente en hemofilia"
+  },
+  {
+    "entidad": "sinoviortesis con radioisótopos",
+    "relacion": "es un",
+    "valor": "tratamiento para hemofilia"
+  },
+  {
+    "entidad": "sinovitis crónica",
+    "relacion": "es una",
+    "valor": "complicación en hemofilia"
+  },
+  {
+    "entidad": "articulación diana",
+    "relacion": "es una",
+    "valor": "articulación con hemartrosis recurrente"
+  },
+  {
+    "entidad": "Hospital Roberto del Río",
+    "relacion": "implementó",
+    "valor": "sinoviortesis con radioisótopos"
+  },
+  {
+    "entidad": "radioisótopos",
+    "relacion": "son utilizados en",
+    "valor": "sinoviortesis"
+  },
+  {
+    "entidad": "Itrio 90",
+    "relacion": "es un",
+    "valor": "radioisótopo utilizado"
+  },
+  {
+    "entidad": "Renio",
+    "relacion": "es un",
+    "valor": "radioisótopo utilizado"
+  },
+  {
+    "entidad": "sinoviortesis",
+    "relacion": "requiere",
+    "valor": "administración de FVIII/FIX"
+  },
+  {
+    "entidad": "sinoviortesis con radioisótopos",
+    "relacion": "es",
+    "valor": "mínimamente invasivo"
+  },
+  {
+    "entidad": "sinoviortesis con radioisótopos",
+    "relacion": "es",
+    "valor": "económico"
+  },
+  {
+    "entidad": "articulaciones",
+    "relacion": "son afectadas por",
+    "valor": "hemartrosis en hemofilia"
+  },
+  {
+    "entidad": "complicaciones",
+    "relacion": "son",
+    "valor": "escasas en sinoviortesis"
+  },
+  {
+    "entidad": "Instituto Nacional del Cáncer",
+    "relacion": "colabora con",
+    "valor": "Hospital de niños Roberto del Río"
+  },
+  {
+    "entidad": "sinoviortesis con radioisótopos",
+    "relacion": "mejora",
+    "valor": "calidad de vida de pacientes"
+  },
+  {
+    "entidad": "hemofilia",
+    "relacion": "puede causar",
+    "valor": "artropatía hemofílica"
+  },
+  {
+    "entidad": "sinoviortesis con radioisótopos",
+    "relacion": "debe ser realizada",
+    "valor": "tempranamente"
+  },
+  {
+    "entidad": "sintomatología depresiva",
+    "relacion": "afecta a",
+    "valor": "bienestar psicológico"
+  },
+  {
+    "entidad": "estudiantes universitarios chilenos",
+    "relacion": "presentan",
+    "valor": "alta frecuencia de síntomas depresivos"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen",
+    "valor": "mayor frecuencia de síntomas depresivos"
+  },
+  {
+    "entidad": "bienestar psicológico",
+    "relacion": "se relaciona con",
+    "valor": "dimensiones de autonomía, relaciones positivas y propósito en la vida"
+  },
+  {
+    "entidad": "depresión",
+    "relacion": "es un",
+    "valor": "trastorno mental"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud (OMS)",
+    "relacion": "define",
+    "valor": "salud como bienestar físico, mental y social"
+  },
+  {
+    "entidad": "psicología positiva",
+    "relacion": "promueve",
+    "valor": "el bienestar humano"
+  },
+  {
+    "entidad": "modelo de Ryff",
+    "relacion": "describe",
+    "valor": "seis dimensiones de bienestar psicológico"
+  },
+  {
+    "entidad": "autonomía",
+    "relacion": "es una dimensión de",
+    "valor": "bienestar psicológico"
+  },
+  {
+    "entidad": "relaciones positivas",
+    "relacion": "es una dimensión de",
+    "valor": "bienestar psicológico"
+  },
+  {
+    "entidad": "propósito en la vida",
+    "relacion": "es una dimensión de",
+    "valor": "bienestar psicológico"
+  },
+  {
+    "entidad": "estrés",
+    "relacion": "juega un rol",
+    "valor": "patogénico en la depresión"
+  },
+  {
+    "entidad": "factores socioeconómicos",
+    "relacion": "afectan",
+    "valor": "sintomatología depresiva y bienestar psicológico"
+  },
+  {
+    "entidad": "adultez emergente",
+    "relacion": "es un período de",
+    "valor": "exploración y transición"
+  },
+  {
+    "entidad": "estrategias preventivas y terapéuticas",
+    "relacion": "pueden contribuir a",
+    "valor": "la prevención de la depresión"
+  },
+  {
+    "entidad": "síntomas depresivos",
+    "relacion": "mediados por",
+    "valor": "factores neurobiológicos, personales y psicosociales"
+  },
+  {
+    "entidad": "Guías ACC/AHA 2017",
+    "relacion": "recomienda",
+    "valor": "disminuir el umbral para la clasificación de la hipertensión arterial a 130/80 mmHg"
+  },
+  {
+    "entidad": "Guías ACC/AHA 2017",
+    "relacion": "propone",
+    "valor": "nuevos umbrales de presión arterial sistólica y diastólica para iniciar el tratamiento con antihipertensivos"
+  },
+  {
+    "entidad": "Guías ACC/AHA 2017",
+    "relacion": "ha generado",
+    "valor": "polémica"
+  },
+  {
+    "entidad": "ACC/AHA 2017",
+    "relacion": "aumenta",
+    "valor": "la prevalencia de hipertensión arterial en Perú"
+  },
+  {
+    "entidad": "JNC 7",
+    "relacion": "es referencia para",
+    "valor": "comparar la prevalencia de hipertensión arterial"
+  },
+  {
+    "entidad": "Encuesta Demográfica y de Salud Familiar 2017",
+    "relacion": "reporta",
+    "valor": "prevalencia de hipertensión arterial en Perú de 13,6%"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "tienen mayor prevalencia que",
+    "valor": "mujeres en hipertensión arterial"
+  },
+  {
+    "entidad": "personas con obesidad",
+    "relacion": "tienen mayor prevalencia que",
+    "valor": "personas sin obesidad"
+  },
+  {
+    "entidad": "Tacna, Ica y Lima Metropolitana",
+    "relacion": "presentan",
+    "valor": "los mayores incrementos en prevalencia de hipertensión arterial"
+  },
+  {
+    "entidad": "ACC/AHA 2017",
+    "relacion": "debería ser acompañada por",
+    "valor": "una evaluación del impacto en el sistema de salud"
+  },
+  {
+    "entidad": "sistema de salud peruano",
+    "relacion": "debe considerar",
+    "valor": "los costos financieros de la aplicación de la nueva guía"
+  },
+  {
+    "entidad": "nueva guía 2018 de la Sociedad Europea de Cardiología",
+    "relacion": "mantiene",
+    "valor": "categorías tradicionales para la hipertensión arterial"
+  },
+  {
+    "entidad": "programas innovadores",
+    "relacion": "deben ser",
+    "valor": "una prioridad de salud pública para el control de la hipertensión arterial"
+  },
+  {
+    "entidad": "cambio en los puntos de corte para hipertensión arterial",
+    "relacion": "conlleva a",
+    "valor": "aproximadamente 7 millones de peruanos diagnosticados con hipertensión arterial"
+  },
+  {
+    "entidad": "hipertensión arterial",
+    "relacion": "aumenta el riesgo de",
+    "valor": "ansiedad y depresión en diagnosticados"
+  },
+  {
+    "entidad": "gasto de bolsillo en salud",
+    "relacion": "es",
+    "valor": "7% del gasto total del hogar en Perú"
+  }
+]

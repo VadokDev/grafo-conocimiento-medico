@@ -1,0 +1,177 @@
+[
+  {
+    "entidad": "CANVAS",
+    "relacion": "es un",
+    "valor": "síndrome de ataxia cerebelosa, neuropatía periférica y arreflexia vestibular"
+  },
+  {
+    "entidad": "tos seca",
+    "relacion": "asocia con",
+    "valor": "diagnóstico de CANVAS"
+  },
+  {
+    "entidad": "RFC1",
+    "relacion": "codifica",
+    "valor": "Factor de Replicación C1"
+  },
+  {
+    "entidad": "expansión anormal del pentanucleótido AAGGG",
+    "relacion": "es una",
+    "valor": "mutación genética en RFC1"
+  },
+  {
+    "entidad": "pacientes con CANVAS",
+    "relacion": "presentan",
+    "valor": "ataxia cerebelosa y neuropatía periférica"
+  },
+  {
+    "entidad": "neuropatía sensitiva",
+    "relacion": "se presenta en",
+    "valor": "pacientes con CANVAS"
+  },
+  {
+    "entidad": "ataxia del adulto",
+    "relacion": "puede ser causada por",
+    "valor": "mutaciones en RFC1"
+  },
+  {
+    "entidad": "herencia autosómica recesiva",
+    "relacion": "es el patrón de",
+    "valor": "herencia de CANVAS"
+  },
+  {
+    "entidad": "evaluación genética",
+    "relacion": "es necesaria para",
+    "valor": "diagnóstico de CANVAS"
+  },
+  {
+    "entidad": "sintomatología de CANVAS",
+    "relacion": "incluye",
+    "valor": "ataxia, neuropatía y tos seca"
+  },
+  {
+    "entidad": "pacientes con tos seca",
+    "relacion": "pueden tener",
+    "valor": "diagnóstico probable de CANVAS"
+  },
+  {
+    "entidad": "atrofia cerebelosa",
+    "relacion": "es un hallazgo en",
+    "valor": "resonancia magnética de pacientes con CANVAS"
+  },
+  {
+    "entidad": "evaluaciones extensas",
+    "relacion": "incluyen",
+    "valor": "pruebas genéticas y paraneoplásicas"
+  },
+  {
+    "entidad": "ganglionopatía",
+    "relacion": "es un tipo de",
+    "valor": "compromiso sensitivo en CANVAS"
+  },
+  {
+    "entidad": "expansiones patológicas en RFC1",
+    "relacion": "sugieren",
+    "valor": "fenotipos no reconocidos de la enfermedad"
+  },
+  {
+    "entidad": "diagnóstico precoz de CANVAS",
+    "relacion": "evita",
+    "valor": "odiseas diagnósticas y estrés familiar"
+  },
+  {
+    "entidad": "Poliuria post-obstructiva",
+    "relacion": "es un tipo de",
+    "valor": "poliuria"
+  },
+  {
+    "entidad": "obstrucción urinaria",
+    "relacion": "causa",
+    "valor": "falla renal aguda"
+  },
+  {
+    "entidad": "ureterolitotomía endoscópica",
+    "relacion": "es un",
+    "valor": "tratamiento para litiasis ureteral"
+  },
+  {
+    "entidad": "vasopresina",
+    "relacion": "afecta a",
+    "valor": "la reabsorción de agua"
+  },
+  {
+    "entidad": "diuresis",
+    "relacion": "se define como",
+    "valor": "producción de orina mayor a 3 L/día"
+  },
+  {
+    "entidad": "poliuria osmótica",
+    "relacion": "es causada por",
+    "valor": "exceso de urea acumulada"
+  },
+  {
+    "entidad": "poliuria mixta",
+    "relacion": "es causada por",
+    "valor": "disfunción tubular y resistencia a vasopresina"
+  },
+  {
+    "entidad": "hidronefrosis",
+    "relacion": "es un hallazgo de",
+    "valor": "obstrucción urinaria"
+  },
+  {
+    "entidad": "creatinina",
+    "relacion": "es un marcador de",
+    "valor": "función renal"
+  },
+  {
+    "entidad": "soluciones cristaloides",
+    "relacion": "se utilizan para",
+    "valor": "reposición de diuresis"
+  },
+  {
+    "entidad": "nitrógeno ureico en sangre",
+    "relacion": "es un indicador de",
+    "valor": "función renal"
+  },
+  {
+    "entidad": "catéter doble J",
+    "relacion": "se utiliza para",
+    "valor": "drainaje urinario"
+  },
+  {
+    "entidad": "poliuria inapropiada",
+    "relacion": "puede inducir",
+    "valor": "alteraciones de la homeostasis corporal"
+  },
+  {
+    "entidad": "diabetes insípida",
+    "relacion": "causa",
+    "valor": "poliuria acuosa"
+  },
+  {
+    "entidad": "insuficiencia renal aguda obstructiva",
+    "relacion": "es un tipo de",
+    "valor": "insuficiencia renal aguda"
+  },
+  {
+    "entidad": "análisis fisiopatológico",
+    "relacion": "se utiliza para",
+    "valor": "interpretar mecanismos de poliuria"
+  },
+  {
+    "entidad": "poliuria osmótica iónica",
+    "relacion": "es un tipo de",
+    "valor": "poliuria post-obstructiva"
+  },
+  {
+    "entidad": "poliuria",
+    "relacion": "puede ser",
+    "valor": "autolimitada o severa"
+  },
+  {
+    "entidad": "edema periureteral",
+    "relacion": "es un hallazgo asociado a",
+    "valor": "perforación ureteral"
+  }
+]

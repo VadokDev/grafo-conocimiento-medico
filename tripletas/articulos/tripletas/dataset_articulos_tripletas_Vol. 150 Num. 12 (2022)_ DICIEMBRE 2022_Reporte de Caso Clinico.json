@@ -1,0 +1,162 @@
+[
+  {
+    "entidad": "hematoma intramural espontáneo",
+    "relacion": "es un",
+    "valor": "tipo de hematoma"
+  },
+  {
+    "entidad": "obstrucción intestinal",
+    "relacion": "es causada por",
+    "valor": "hematoma intramural espontáneo"
+  },
+  {
+    "entidad": "pacientes anticoagulados",
+    "relacion": "son propensos a",
+    "valor": "hematomas intramurales espontáneos"
+  },
+  {
+    "entidad": "mujer de 73 años",
+    "relacion": "presenta",
+    "valor": "obstrucción intestinal"
+  },
+  {
+    "entidad": "tomografía computarizada",
+    "relacion": "se utiliza para",
+    "valor": "diagnosticar hematoma intramural"
+  },
+  {
+    "entidad": "tratamiento anticoagulante",
+    "relacion": "se suspende en",
+    "valor": "pacientes con hematoma intramural"
+  },
+  {
+    "entidad": "analgesia intravenosa",
+    "relacion": "se utiliza en",
+    "valor": "manejo de obstrucción intestinal"
+  },
+  {
+    "entidad": "Octaplex®",
+    "relacion": "se utiliza para",
+    "valor": "reversión de anticoagulación"
+  },
+  {
+    "entidad": "heparina de bajo peso molecular",
+    "relacion": "se reanuda en",
+    "valor": "pacientes con hematoma intramural"
+  },
+  {
+    "entidad": "hospitalización",
+    "relacion": "es necesaria en",
+    "valor": "casos de obstrucción intestinal"
+  },
+  {
+    "entidad": "síntomas",
+    "relacion": "se resuelven con",
+    "valor": "realimentación y manejo médico"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "es baja en",
+    "valor": "hematomas intramurales espontáneos"
+  },
+  {
+    "entidad": "nutrición parenteral",
+    "relacion": "se considera en",
+    "valor": "ayuno prolongado"
+  },
+  {
+    "entidad": "diagnóstico precoz",
+    "relacion": "es importante para",
+    "valor": "evitar cirugías innecesarias"
+  },
+  {
+    "entidad": "siderosis idiopática del sistema nervioso central",
+    "relacion": "es una",
+    "valor": "condición médica"
+  },
+  {
+    "entidad": "hemosiderina",
+    "relacion": "se deposita en",
+    "valor": "capas subpiales del sistema nervioso central"
+  },
+  {
+    "entidad": "siderosis idiopática del sistema nervioso central",
+    "relacion": "causa",
+    "valor": "degeneración progresiva"
+  },
+  {
+    "entidad": "paciente masculino de 55 años",
+    "relacion": "presenta",
+    "valor": "pérdida auditiva y disminución de agudeza visual"
+  },
+  {
+    "entidad": "siderosis idiopática del sistema nervioso central",
+    "relacion": "asociación con",
+    "valor": "atrofia óptica"
+  },
+  {
+    "entidad": "siderosis idiopática del sistema nervioso central",
+    "relacion": "asociación con",
+    "valor": "infarto cerebral"
+  },
+  {
+    "entidad": "tomografía cerebral",
+    "relacion": "muestra",
+    "valor": "lesiones isquémicas subagudas"
+  },
+  {
+    "entidad": "cerebro",
+    "relacion": "presenta",
+    "valor": "siderosis superficial difusa"
+  },
+  {
+    "entidad": "cerebro",
+    "relacion": "muestra",
+    "valor": "atrofia cerebelosa"
+  },
+  {
+    "entidad": "análisis de líquido cefalorraquídeo",
+    "relacion": "destaca",
+    "valor": "xantocromía leve"
+  },
+  {
+    "entidad": "aspirina",
+    "relacion": "se utiliza como",
+    "valor": "tratamiento"
+  },
+  {
+    "entidad": "estatinas",
+    "relacion": "se utilizan como",
+    "valor": "tratamiento"
+  },
+  {
+    "entidad": "siderosis superficial idiopática del sistema nervioso central",
+    "relacion": "puede ser",
+    "valor": "subdiagnosticada"
+  },
+  {
+    "entidad": "siderosis superficial del sistema nervioso central",
+    "relacion": "se diagnostica mediante",
+    "valor": "exámenes de laboratorio y neuroimágenes"
+  },
+  {
+    "entidad": "siderosis superficial del sistema nervioso central",
+    "relacion": "puede manifestarse con",
+    "valor": "hipoacusia neurosensorial"
+  },
+  {
+    "entidad": "siderosis superficial idiopática del sistema nervioso central",
+    "relacion": "no tiene",
+    "valor": "indicación de tratamiento quirúrgico"
+  },
+  {
+    "entidad": "quelantes de hierro",
+    "relacion": "se utilizan para",
+    "valor": "revertir depósitos de hemosiderina"
+  },
+  {
+    "entidad": "siderosis superficial idiopática del sistema nervioso central",
+    "relacion": "es",
+    "valor": "una enfermedad infrecuente"
+  }
+]

@@ -1,0 +1,287 @@
+[
+  {
+    "entidad": "Hemoglobinuria paroxística nocturna",
+    "relacion": "es una",
+    "valor": "causa infrecuente de lesión renal aguda"
+  },
+  {
+    "entidad": "lesión renal aguda",
+    "relacion": "puede ser causada por",
+    "valor": "hemoglobinuria paroxística nocturna"
+  },
+  {
+    "entidad": "mutación en el gen PIG-A",
+    "relacion": "causa",
+    "valor": "hemoglobinuria paroxística nocturna"
+  },
+  {
+    "entidad": "hemólisis",
+    "relacion": "es mediada por",
+    "valor": "complemento"
+  },
+  {
+    "entidad": "dexametasona",
+    "relacion": "se utiliza para",
+    "valor": "tratar hemoglobinuria paroxística nocturna"
+  },
+  {
+    "entidad": "plasmaféresis",
+    "relacion": "se utiliza para",
+    "valor": "tratar hemoglobinuria paroxística nocturna"
+  },
+  {
+    "entidad": "prednisona",
+    "relacion": "se utiliza para",
+    "valor": "tratar hemoglobinuria paroxística nocturna"
+  },
+  {
+    "entidad": "anticoagulación",
+    "relacion": "se utiliza para",
+    "valor": "tratar hemoglobinuria paroxística nocturna"
+  },
+  {
+    "entidad": "suplementación de hierro",
+    "relacion": "se utiliza para",
+    "valor": "tratar hemoglobinuria paroxística nocturna"
+  },
+  {
+    "entidad": "ácido fólico",
+    "relacion": "se utiliza para",
+    "valor": "tratar hemoglobinuria paroxística nocturna"
+  },
+  {
+    "entidad": "biopsia renal",
+    "relacion": "permite confirmar",
+    "valor": "daño tubular agudo"
+  },
+  {
+    "entidad": "Eculizumab",
+    "relacion": "es un",
+    "valor": "inhibidor del complemento"
+  },
+  {
+    "entidad": "Ravulizumab",
+    "relacion": "es un",
+    "valor": "inhibidor del complemento"
+  },
+  {
+    "entidad": "Pegcetacoplan",
+    "relacion": "es un",
+    "valor": "tratamiento para hemoglobinuria paroxística nocturna"
+  },
+  {
+    "entidad": "trasplante de médula ósea",
+    "relacion": "es considerado como",
+    "valor": "terapia de segunda línea"
+  },
+  {
+    "entidad": "SARS-CoV-2",
+    "relacion": "puede activar",
+    "valor": "vías del complemento"
+  },
+  {
+    "entidad": "pancitopenia",
+    "relacion": "es un síntoma de",
+    "valor": "hemoglobinuria paroxística nocturna"
+  },
+  {
+    "entidad": "cefalea",
+    "relacion": "es un síntoma de",
+    "valor": "hemoglobinuria paroxística nocturna"
+  },
+  {
+    "entidad": "orina oscura",
+    "relacion": "es un síntoma de",
+    "valor": "hemoglobinuria paroxística nocturna"
+  },
+  {
+    "entidad": "eventos trombóticos",
+    "relacion": "son complicaciones de",
+    "valor": "hemoglobinuria paroxística nocturna"
+  },
+  {
+    "entidad": "insuficiencia medular",
+    "relacion": "es un síntoma de",
+    "valor": "hemoglobinuria paroxística nocturna"
+  },
+  {
+    "entidad": "Leontiasis ósea urémica",
+    "relacion": "es una",
+    "valor": "manifestación de osteodistrofia renal"
+  },
+  {
+    "entidad": "enfermedad renal crónica",
+    "relacion": "afecta a",
+    "valor": "pacientes con leontiasis ósea urémica"
+  },
+  {
+    "entidad": "hiperparatiroidismo secundario",
+    "relacion": "causa",
+    "valor": "leontiasis ósea urémica"
+  },
+  {
+    "entidad": "paratohormona (PTH)",
+    "relacion": "aumenta",
+    "valor": "en pacientes con leontiasis ósea urémica"
+  },
+  {
+    "entidad": "TAC",
+    "relacion": "permite",
+    "valor": "evidenciar remodelamiento óseo"
+  },
+  {
+    "entidad": "leontiasis ósea urémica",
+    "relacion": "se caracteriza por",
+    "valor": "deformación ósea y facies leonina"
+  },
+  {
+    "entidad": "tratamiento",
+    "relacion": "es",
+    "valor": "multidisciplinario"
+  },
+  {
+    "entidad": "paratiroidectomía",
+    "relacion": "se utiliza para",
+    "valor": "reducir niveles de PTH"
+  },
+  {
+    "entidad": "mujer de 39 años",
+    "relacion": "presenta",
+    "valor": "leontiasis ósea urémica"
+  },
+  {
+    "entidad": "examen físico",
+    "relacion": "destaca",
+    "valor": "aumento de volumen facial"
+  },
+  {
+    "entidad": "TAC de cabeza y cuello",
+    "relacion": "evidencia",
+    "valor": "imágenes tuneliformes en huesos"
+  },
+  {
+    "entidad": "tiroidectomía total",
+    "relacion": "realizada en",
+    "valor": "paciente con bocio multinodular"
+  },
+  {
+    "entidad": "postoperatorio",
+    "relacion": "muestra",
+    "valor": "descenso de PTH"
+  },
+  {
+    "entidad": "leontiasis ósea urémica",
+    "relacion": "requiere",
+    "valor": "reconocimiento temprano para tratamiento"
+  },
+  {
+    "entidad": "trastorno del metabolismo óseo y mineral",
+    "relacion": "incluye",
+    "valor": "leontiasis ósea urémica"
+  },
+  {
+    "entidad": "hiperparatiroidismo",
+    "relacion": "se asocia con",
+    "valor": "alteraciones en el balance de calcio y fósforo"
+  },
+  {
+    "entidad": "osteoplastía",
+    "relacion": "se utiliza para",
+    "valor": "corrección de alteraciones anatómicas"
+  },
+  {
+    "entidad": "complicaciones",
+    "relacion": "pueden incluir",
+    "valor": "obstrucción de vías respiratorias y pérdida de visión"
+  },
+  {
+    "entidad": "Síndrome de Guillain-Barré",
+    "relacion": "es un",
+    "valor": "polirradiculoneuropatía inflamatoria aguda"
+  },
+  {
+    "entidad": "Síndrome de Guillain-Barré",
+    "relacion": "afecta a",
+    "valor": "sistema nervioso periférico"
+  },
+  {
+    "entidad": "Síndrome de Guillain-Barré",
+    "relacion": "afecta predominantemente",
+    "valor": "función motora"
+  },
+  {
+    "entidad": "dolor",
+    "relacion": "se reporta en",
+    "valor": "89% de los casos de SGB"
+  },
+  {
+    "entidad": "dolor",
+    "relacion": "es refractario a",
+    "valor": "analgésicos de primera línea"
+  },
+  {
+    "entidad": "mujer de 75 años",
+    "relacion": "presenta",
+    "valor": "tetraparesia flácida arrefléctica"
+  },
+  {
+    "entidad": "inmunoglobulina endovenosa",
+    "relacion": "se utiliza para",
+    "valor": "mejorar el componente motor"
+  },
+  {
+    "entidad": "dolor",
+    "relacion": "asocia con",
+    "valor": "retención urinaria persistente"
+  },
+  {
+    "entidad": "fentanilo transdérmico",
+    "relacion": "se indica para",
+    "valor": "manejo del dolor"
+  },
+  {
+    "entidad": "tamsulosina",
+    "relacion": "se indica para",
+    "valor": "manejo de la retención urinaria"
+  },
+  {
+    "entidad": "cateterismo intermitente",
+    "relacion": "se utiliza para",
+    "valor": "manejo de la retención urinaria"
+  },
+  {
+    "entidad": "retención urinaria",
+    "relacion": "es una complicación de",
+    "valor": "disautonomía en SGB"
+  },
+  {
+    "entidad": "opioides transdérmicos",
+    "relacion": "se sugiere considerar para",
+    "valor": "manejo del dolor refractario en SGB"
+  },
+  {
+    "entidad": "cateterismo intermitente",
+    "relacion": "se asocia con",
+    "valor": "tamsulosina para facilitar el retiro del catéter"
+  },
+  {
+    "entidad": "dolor",
+    "relacion": "puede ser",
+    "valor": "el primer síntoma del SGB"
+  },
+  {
+    "entidad": "retención urinaria",
+    "relacion": "afecta",
+    "valor": "calidad de vida"
+  },
+  {
+    "entidad": "infecciones urinarias",
+    "relacion": "son complicaciones de",
+    "valor": "cateterismo urinario"
+  },
+  {
+    "entidad": "disautonomía",
+    "relacion": "se asocia con",
+    "valor": "manifestaciones como retención urinaria"
+  }
+]

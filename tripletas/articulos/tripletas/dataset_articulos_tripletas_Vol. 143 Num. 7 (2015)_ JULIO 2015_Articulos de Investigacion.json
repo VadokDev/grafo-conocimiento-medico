@@ -1,0 +1,917 @@
+[
+  {
+    "entidad": "Karch-Lasagna",
+    "relacion": "es un",
+    "valor": "algoritmo de evaluación de causalidad"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud (OMS)",
+    "relacion": "es un",
+    "valor": "algoritmo de evaluación de causalidad"
+  },
+  {
+    "entidad": "Hospital Base Valdivia",
+    "relacion": "realiza",
+    "valor": "farmacovigilancia activa"
+  },
+  {
+    "entidad": "Subdepartamento de Farmacia",
+    "relacion": "evalúa",
+    "valor": "sospechas de RAM"
+  },
+  {
+    "entidad": "sospechas de RAM",
+    "relacion": "se clasifican en",
+    "valor": "ciertas, probables, posibles, condicionales, improbables e inclasificables"
+  },
+  {
+    "entidad": "Centro Nacional de Farmacovigilancia",
+    "relacion": "recibe",
+    "valor": "notificaciones de RAM"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "registra",
+    "valor": "sospechas de RAM"
+  },
+  {
+    "entidad": "Centro Internacional de Farmacovigilancia",
+    "relacion": "analiza",
+    "valor": "información mundial sobre RAM"
+  },
+  {
+    "entidad": "algoritmo de Karch y Lasagna",
+    "relacion": "atribuye",
+    "valor": "mayor nivel de causalidad que el algoritmo OMS"
+  },
+  {
+    "entidad": "evaluación de causalidad",
+    "relacion": "se realiza mediante",
+    "valor": "algoritmos"
+  },
+  {
+    "entidad": "método bayesiano",
+    "relacion": "utiliza",
+    "valor": "datos específicos para estimar probabilidad"
+  },
+  {
+    "entidad": "Juicio de Expertos/Introspección",
+    "relacion": "es un",
+    "valor": "método de evaluación de causalidad"
+  },
+  {
+    "entidad": "algoritmos",
+    "relacion": "son evaluados utilizando",
+    "valor": "diferentes criterios"
+  },
+  {
+    "entidad": "notificaciones de RAM",
+    "relacion": "son obligatorias desde",
+    "valor": "2012"
+  },
+  {
+    "entidad": "evaluadores",
+    "relacion": "son ciegos a",
+    "valor": "resultados de evaluaciones previas"
+  },
+  {
+    "entidad": "categorías de causalidad",
+    "relacion": "se observan con mayor frecuencia como",
+    "valor": "Probable y Posible"
+  },
+  {
+    "entidad": "información incompleta",
+    "relacion": "limita",
+    "valor": "evaluación de causalidad"
+  },
+  {
+    "entidad": "notificaciones de sospechas de RAM",
+    "relacion": "deben aumentar mediante",
+    "valor": "educación y formación de equipos de salud"
+  },
+  {
+    "entidad": "enfermedad inflamatoria intestinal (EII)",
+    "relacion": "es un",
+    "valor": "grupo de condiciones"
+  },
+  {
+    "entidad": "colitis ulcerosa (CU)",
+    "relacion": "es un",
+    "valor": "tipo de EII"
+  },
+  {
+    "entidad": "enfermedad de Crohn (EC)",
+    "relacion": "es un",
+    "valor": "tipo de EII"
+  },
+  {
+    "entidad": "EII",
+    "relacion": "aumenta",
+    "valor": "riesgo de neoplasias"
+  },
+  {
+    "entidad": "inflamación crónica del tracto gastrointestinal",
+    "relacion": "causa",
+    "valor": "aumento del riesgo de cáncer"
+  },
+  {
+    "entidad": "tumores malignos gastrointestinales",
+    "relacion": "son asociados a",
+    "valor": "EII"
+  },
+  {
+    "entidad": "cáncer colorrectal (CCR)",
+    "relacion": "es un",
+    "valor": "tipo de tumor maligno asociado a EII"
+  },
+  {
+    "entidad": "colangiocarcinoma",
+    "relacion": "es un",
+    "valor": "tipo de tumor maligno asociado a EII"
+  },
+  {
+    "entidad": "EII",
+    "relacion": "se relaciona con",
+    "valor": "neoplasias extraintestinales"
+  },
+  {
+    "entidad": "linfoma",
+    "relacion": "es un",
+    "valor": "tipo de neoplasia extraintestinal asociada a EII"
+  },
+  {
+    "entidad": "cáncer de piel",
+    "relacion": "es un",
+    "valor": "tipo de neoplasia extraintestinal asociada a EII"
+  },
+  {
+    "entidad": "cáncer cervicouterino",
+    "relacion": "es un",
+    "valor": "tipo de neoplasia extraintestinal asociada a EII"
+  },
+  {
+    "entidad": "inmunosupresores",
+    "relacion": "son utilizados en",
+    "valor": "tratamiento de EII"
+  },
+  {
+    "entidad": "azatioprina (AZT)",
+    "relacion": "es un",
+    "valor": "tipo de inmunosupresor"
+  },
+  {
+    "entidad": "6-mercaptopurina (6-MP)",
+    "relacion": "es un",
+    "valor": "tipo de inmunosupresor"
+  },
+  {
+    "entidad": "metotrexato",
+    "relacion": "es un",
+    "valor": "tipo de inmunosupresor"
+  },
+  {
+    "entidad": "terapia biológica",
+    "relacion": "es un",
+    "valor": "tratamiento para EII"
+  },
+  {
+    "entidad": "anti-TNFα",
+    "relacion": "es un",
+    "valor": "tipo de terapia biológica"
+  },
+  {
+    "entidad": "infliximab",
+    "relacion": "es un",
+    "valor": "tipo de anti-TNFα"
+  },
+  {
+    "entidad": "adalimumab",
+    "relacion": "es un",
+    "valor": "tipo de anti-TNFα"
+  },
+  {
+    "entidad": "golimumab",
+    "relacion": "es un",
+    "valor": "tipo de anti-TNFα"
+  },
+  {
+    "entidad": "natalizumab",
+    "relacion": "es un",
+    "valor": "tipo de terapia biológica"
+  },
+  {
+    "entidad": "vedolizumab",
+    "relacion": "es un",
+    "valor": "tipo de terapia biológica"
+  },
+  {
+    "entidad": "EII",
+    "relacion": "requiere",
+    "valor": "tratamiento basado en la severidad"
+  },
+  {
+    "entidad": "recomendaciones médicas",
+    "relacion": "son fundamentales para",
+    "valor": "disminuir riesgo de neoplasia"
+  },
+  {
+    "entidad": "pacientes con EII",
+    "relacion": "deben mantener",
+    "valor": "control periódico de neoplasia cervical"
+  },
+  {
+    "entidad": "vacuna para virus papiloma",
+    "relacion": "debe ser sugerida a",
+    "valor": "mujeres con EII entre 9 y 26 años"
+  },
+  {
+    "entidad": "Holoprosencefalia",
+    "relacion": "es una",
+    "valor": "anomalía estructural del cerebro"
+  },
+  {
+    "entidad": "Holoprosencefalia",
+    "relacion": "causa",
+    "valor": "defecto en el desarrollo del prosencéfalo"
+  },
+  {
+    "entidad": "Holoprosencefalia",
+    "relacion": "se asocia a",
+    "valor": "defectos faciales y neurológicos"
+  },
+  {
+    "entidad": "ECLAMC",
+    "relacion": "es un",
+    "valor": "programa de vigilancia epidemiológica"
+  },
+  {
+    "entidad": "ECLAMC",
+    "relacion": "monitorea",
+    "valor": "frecuencias de malformaciones congénitas"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "participa en",
+    "valor": "ECLAMC desde 1969"
+  },
+  {
+    "entidad": "Holoprosencefalia",
+    "relacion": "presenta",
+    "valor": "baja frecuencia en Chile"
+  },
+  {
+    "entidad": "Trisomía 13",
+    "relacion": "se asocia a",
+    "valor": "Holoprosencefalia"
+  },
+  {
+    "entidad": "diagnóstico prenatal",
+    "relacion": "se realiza a través de",
+    "valor": "estudio del cerebro fetal"
+  },
+  {
+    "entidad": "Holoprosencefalia alobar",
+    "relacion": "es",
+    "valor": "la forma más severa de Holoprosencefalia"
+  },
+  {
+    "entidad": "Holoprosencefalia semilobar",
+    "relacion": "es",
+    "valor": "una forma intermedia de Holoprosencefalia"
+  },
+  {
+    "entidad": "Holoprosencefalia lobar",
+    "relacion": "es",
+    "valor": "la forma más leve de Holoprosencefalia"
+  },
+  {
+    "entidad": "malformaciones craneofaciales",
+    "relacion": "se asocian a",
+    "valor": "Holoprosencefalia"
+  },
+  {
+    "entidad": "ECLAMC",
+    "relacion": "incluye",
+    "valor": "15 hospitales chilenos"
+  },
+  {
+    "entidad": "cariotipo normal",
+    "relacion": "se encuentra en",
+    "valor": "71% de los fetos con Holoprosencefalia"
+  },
+  {
+    "entidad": "cariotipo anormal",
+    "relacion": "se encuentra en",
+    "valor": "29% de los fetos con Holoprosencefalia"
+  },
+  {
+    "entidad": "teratógenos",
+    "relacion": "se sospecha que producen",
+    "valor": "Holoprosencefalia"
+  },
+  {
+    "entidad": "diagnóstico prenatal",
+    "relacion": "se realiza después de",
+    "valor": "la décima semana de gestación"
+  },
+  {
+    "entidad": "Holoprosencefalia",
+    "relacion": "se presenta en",
+    "valor": "varios tipos de anomalías faciales"
+  },
+  {
+    "entidad": "ECLAMC",
+    "relacion": "es miembro de",
+    "valor": "ICBDMS"
+  },
+  {
+    "entidad": "ciclope",
+    "relacion": "es un tipo de",
+    "valor": "anomalía asociada a Holoprosencefalia"
+  },
+  {
+    "entidad": "labio leporino medial",
+    "relacion": "es un defecto común en",
+    "valor": "pacientes con Holoprosencefalia"
+  },
+  {
+    "entidad": "cardiopatías congénitas",
+    "relacion": "se asocian a",
+    "valor": "Holoprosencefalia"
+  },
+  {
+    "entidad": "polidactilia",
+    "relacion": "se asocia a",
+    "valor": "Holoprosencefalia"
+  },
+  {
+    "entidad": "espina bífida",
+    "relacion": "se asocia a",
+    "valor": "Holoprosencefalia"
+  },
+  {
+    "entidad": "gastrectomía tubular vertical",
+    "relacion": "es un",
+    "valor": "procedimiento quirúrgico restrictivo"
+  },
+  {
+    "entidad": "ghrelina",
+    "relacion": "es",
+    "valor": "una hormona gástrica que regula el apetito"
+  },
+  {
+    "entidad": "Hospital Clínico Dr. José Joaquín Aguirre",
+    "relacion": "pertenece a",
+    "valor": "Facultad de Medicina de la Universidad de Chile"
+  },
+  {
+    "entidad": "ghrelina",
+    "relacion": "se sintetiza en",
+    "valor": "la mucosa del fondo y cuerpo gástrico"
+  },
+  {
+    "entidad": "ghrelina",
+    "relacion": "se secreta en menor cantidad por",
+    "valor": "intestino delgado, riñón, pulmón, placenta, testículos, ovarios, corazón, páncreas, hipófisis"
+  },
+  {
+    "entidad": "gastrectomía tubular vertical",
+    "relacion": "afecta a",
+    "valor": "niveles de ghrelina plasmática"
+  },
+  {
+    "entidad": "niveles de ghrelina",
+    "relacion": "pueden disminuir",
+    "valor": "después de la gastrectomía tubular vertical"
+  },
+  {
+    "entidad": "cambios en el índice de masa corporal (IMC)",
+    "relacion": "no tienen relación con",
+    "valor": "niveles de ghrelina postoperatoria"
+  },
+  {
+    "entidad": "pacientes obesos mórbidos",
+    "relacion": "son sometidos a",
+    "valor": "gastrectomía tubular vertical"
+  },
+  {
+    "entidad": "ghrelina",
+    "relacion": "estimula",
+    "valor": "la ingesta"
+  },
+  {
+    "entidad": "ghrelina",
+    "relacion": "comienza a disminuir",
+    "valor": "a medida que la ingesta aumenta"
+  },
+  {
+    "entidad": "GTV",
+    "relacion": "presenta buenos resultados a",
+    "valor": "mediano plazo"
+  },
+  {
+    "entidad": "niveles de ghrelina",
+    "relacion": "no se asocian con",
+    "valor": "recuperación de peso a largo plazo"
+  },
+  {
+    "entidad": "pacientes con cáncer",
+    "relacion": "pueden experimentar",
+    "valor": "aumentos significativos en el apetito con ghrelina exógena"
+  },
+  {
+    "entidad": "resección del fondo gástrico",
+    "relacion": "disminuye",
+    "valor": "la liberación de ghrelina"
+  },
+  {
+    "entidad": "producción extragástrica de ghrelina",
+    "relacion": "puede explicar",
+    "valor": "aumentos en los niveles de ghrelina postoperatoria"
+  },
+  {
+    "entidad": "nivel educacional",
+    "relacion": "afecta a",
+    "valor": "sobrevida posterior a un infarto agudo de miocardio"
+  },
+  {
+    "entidad": "infarto agudo de miocardio",
+    "relacion": "es un",
+    "valor": "evento cardiovascular"
+  },
+  {
+    "entidad": "Registro Chileno de Infarto de Miocardio (GEMI)",
+    "relacion": "es un",
+    "valor": "registro hospitalario"
+  },
+  {
+    "entidad": "GEMI",
+    "relacion": "inicia en",
+    "valor": "1993"
+  },
+  {
+    "entidad": "GEMI",
+    "relacion": "recoge información sobre",
+    "valor": "perfil sociodemográfico y clínico"
+  },
+  {
+    "entidad": "GEMI",
+    "relacion": "evalúa",
+    "valor": "relación entre nivel de educación y sobrevida"
+  },
+  {
+    "entidad": "Sociedad Chilena de Cardiología y Cirugía Cardiovascular",
+    "relacion": "colabora con",
+    "valor": "GEMI"
+  },
+  {
+    "entidad": "Escuela de Salud Pública, Facultad de Medicina, Universidad de Chile",
+    "relacion": "colabora con",
+    "valor": "GEMI"
+  },
+  {
+    "entidad": "Ministerio de Salud",
+    "relacion": "proporciona",
+    "valor": "base de datos de mortalidad"
+  },
+  {
+    "entidad": "nivel de educación",
+    "relacion": "se clasifica en",
+    "valor": "ninguno, básico, secundario, terciario"
+  },
+  {
+    "entidad": "mortalidad cardiovascular",
+    "relacion": "es asociada con",
+    "valor": "estatus socioeconómico"
+  },
+  {
+    "entidad": "desigualdades socioeconómicas",
+    "relacion": "genera",
+    "valor": "inequidades sanitarias"
+  },
+  {
+    "entidad": "nivel de educación",
+    "relacion": "se utiliza como",
+    "valor": "indicador de posición socioeconómica"
+  },
+  {
+    "entidad": "enfermedades cardiovasculares",
+    "relacion": "son",
+    "valor": "la primera causa de muerte en Latinoamérica"
+  },
+  {
+    "entidad": "programas de rehabilitación cardiovascular",
+    "relacion": "son",
+    "valor": "iniciativas del sector privado"
+  },
+  {
+    "entidad": "AUGE",
+    "relacion": "garantiza",
+    "valor": "atención a pacientes con IAM"
+  },
+  {
+    "entidad": "pacientes con menor nivel de educación",
+    "relacion": "son ingresados en",
+    "valor": "hospitales públicos"
+  },
+  {
+    "entidad": "pacientes con menor nivel de educación",
+    "relacion": "consultan",
+    "valor": "más tarde"
+  },
+  {
+    "entidad": "factores de riesgo cardiovascular",
+    "relacion": "son más prevalentes en",
+    "valor": "grupos vulnerables"
+  },
+  {
+    "entidad": "letalidad intrahospitalaria",
+    "relacion": "es mayor en",
+    "valor": "grupos menos educados"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "es influenciada por",
+    "valor": "determinantes sociales"
+  },
+  {
+    "entidad": "alfabetismo funcional",
+    "relacion": "afecta a",
+    "valor": "conductas sanitarias"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "es un",
+    "valor": "país en estudio"
+  },
+  {
+    "entidad": "Encuesta de Caracterización Socioeconómica Nacional (CASEN) 2006",
+    "relacion": "utiliza",
+    "valor": "como fuente de datos"
+  },
+  {
+    "entidad": "Papanicolaou (PAP)",
+    "relacion": "es un",
+    "valor": "examen de salud"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "realizan",
+    "valor": "PAP"
+  },
+  {
+    "entidad": "lectura de libros",
+    "relacion": "indica",
+    "valor": "nivel de alfabetismo funcional"
+  },
+  {
+    "entidad": "alfabetismo funcional bajo",
+    "relacion": "causa",
+    "valor": "atención sanitaria deficiente"
+  },
+  {
+    "entidad": "alfabetismo funcional",
+    "relacion": "se relaciona con",
+    "valor": "uso de servicios de salud"
+  },
+  {
+    "entidad": "Ministerio de Desarrollo Social",
+    "relacion": "proporciona",
+    "valor": "datos de la encuesta CASEN"
+  },
+  {
+    "entidad": "conductas sanitarias deficientes",
+    "relacion": "son consecuencia de",
+    "valor": "bajo alfabetismo funcional"
+  },
+  {
+    "entidad": "comunicación negativa",
+    "relacion": "afecta a",
+    "valor": "relación médico-paciente"
+  },
+  {
+    "entidad": "alfabetismo funcional",
+    "relacion": "influye en",
+    "valor": "resultados de salud"
+  },
+  {
+    "entidad": "lectura de un libro en el último año",
+    "relacion": "es un indicador de",
+    "valor": "alfabetismo funcional"
+  },
+  {
+    "entidad": "hombres y mujeres",
+    "relacion": "diferencian en",
+    "valor": "tasa de lectura de libros"
+  },
+  {
+    "entidad": "nivel educacional",
+    "relacion": "afecta",
+    "valor": "probabilidad de realizarse un PAP"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "influye en",
+    "valor": "probabilidad de realizarse un PAP"
+  },
+  {
+    "entidad": "consultas a servicios de urgencia",
+    "relacion": "son más comunes en",
+    "valor": "individuos con bajo alfabetismo funcional"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud",
+    "relacion": "identifica",
+    "valor": "alfabetismo funcional como determinante social de salud"
+  },
+  {
+    "entidad": "programas de alfabetización",
+    "relacion": "mejoran",
+    "valor": "conductas sanitarias"
+  },
+  {
+    "entidad": "alfabetismo funcional",
+    "relacion": "se asocia con",
+    "valor": "resultados adversos en salud"
+  },
+  {
+    "entidad": "enfermedad de Parkinson",
+    "relacion": "es un",
+    "valor": "trastorno degenerativo"
+  },
+  {
+    "entidad": "Hospital Barros Luco",
+    "relacion": "es un",
+    "valor": "hospital público en Chile"
+  },
+  {
+    "entidad": "Universidad de Santiago de Chile",
+    "relacion": "es un",
+    "valor": "institución educativa"
+  },
+  {
+    "entidad": "Universidad de Chile",
+    "relacion": "es un",
+    "valor": "institución educativa"
+  },
+  {
+    "entidad": "Dr. Luis Lay-Son Rivas",
+    "relacion": "es el",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "latencia diagnóstica",
+    "relacion": "afecta a",
+    "valor": "pacientes con enfermedad de Parkinson"
+  },
+  {
+    "entidad": "diagnóstico precoz",
+    "relacion": "mejora",
+    "valor": "calidad de vida de pacientes"
+  },
+  {
+    "entidad": "temblor",
+    "relacion": "es un",
+    "valor": "síntoma común de la enfermedad de Parkinson"
+  },
+  {
+    "entidad": "escalas de Hoehn y Yahr",
+    "relacion": "se utilizan para",
+    "valor": "definir el estadio de progresión de la enfermedad"
+  },
+  {
+    "entidad": "Unified Parkinson’s Disease Rating Scale Motor Examination",
+    "relacion": "se utiliza para",
+    "valor": "determinar el puntaje de los síntomas motores"
+  },
+  {
+    "entidad": "médicos de atención primaria",
+    "relacion": "son responsables de",
+    "valor": "la sospecha diagnóstica de la enfermedad de Parkinson"
+  },
+  {
+    "entidad": "sistema público de salud en Chile",
+    "relacion": "atiende a",
+    "valor": "la mayoría de los pacientes"
+  },
+  {
+    "entidad": "interconsulta externa",
+    "relacion": "es un",
+    "valor": "proceso administrativo en la red asistencial"
+  },
+  {
+    "entidad": "educación",
+    "relacion": "es fundamental para",
+    "valor": "el diagnóstico precoz de la enfermedad de Parkinson"
+  },
+  {
+    "entidad": "pacientes con enfermedad de Parkinson",
+    "relacion": "requieren",
+    "valor": "evaluación por un especialista"
+  },
+  {
+    "entidad": "referencia desde atención primaria",
+    "relacion": "incrementa",
+    "valor": "la latencia diagnóstica"
+  },
+  {
+    "entidad": "síntomas motores",
+    "relacion": "son más evidentes en",
+    "valor": "estadio avanzado de la enfermedad"
+  },
+  {
+    "entidad": "guía de síntomas y signos",
+    "relacion": "ayuda a",
+    "valor": "la detección precoz de la enfermedad de Parkinson"
+  },
+  {
+    "entidad": "examen oral estandarizado",
+    "relacion": "compara con",
+    "valor": "examen oral no estandarizado"
+  },
+  {
+    "entidad": "examen oral estandarizado",
+    "relacion": "mejora",
+    "valor": "percepción de objetividad"
+  },
+  {
+    "entidad": "examen oral no estandarizado",
+    "relacion": "presenta",
+    "valor": "subjetividad en la evaluación"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "realiza",
+    "valor": "evaluaciones en medicina interna"
+  },
+  {
+    "entidad": "estudiantes de medicina",
+    "relacion": "evalúan",
+    "valor": "experiencia de examen oral"
+  },
+  {
+    "entidad": "examen oral estandarizado",
+    "relacion": "reduce",
+    "valor": "niveles de ansiedad"
+  },
+  {
+    "entidad": "examen oral no estandarizado",
+    "relacion": "es percibido como",
+    "valor": "más heterogéneo"
+  },
+  {
+    "entidad": "examen oral estandarizado",
+    "relacion": "permite evaluar",
+    "valor": "competencias clínicas"
+  },
+  {
+    "entidad": "cuestionario de percepción",
+    "relacion": "mide",
+    "valor": "percepción de estudiantes"
+  },
+  {
+    "entidad": "Dra. Luz María Letelier S.",
+    "relacion": "es",
+    "valor": "autora del estudio"
+  },
+  {
+    "entidad": "métodos de evaluación",
+    "relacion": "deben ser",
+    "valor": "complementarios"
+  },
+  {
+    "entidad": "exámenes orales",
+    "relacion": "son",
+    "valor": "herramientas importantes en educación médica"
+  },
+  {
+    "entidad": "estandarización",
+    "relacion": "mejora",
+    "valor": "validez y confiabilidad de exámenes"
+  },
+  {
+    "entidad": "análisis estadístico",
+    "relacion": "se realiza con",
+    "valor": "prueba de Mann-Whitney U"
+  },
+  {
+    "entidad": "examen oral estandarizado",
+    "relacion": "es bien apreciado por",
+    "valor": "estudiantes"
+  },
+  {
+    "entidad": "examen oral no estandarizado",
+    "relacion": "es menos aceptado que",
+    "valor": "examen estandarizado"
+  },
+  {
+    "entidad": "nivel de ansiedad",
+    "relacion": "permanece alto en",
+    "valor": "ambos grupos de examen"
+  },
+  {
+    "entidad": "evaluación",
+    "relacion": "depende de",
+    "valor": "propiedades del método"
+  },
+  {
+    "entidad": "examen oral estandarizado",
+    "relacion": "homogeniza",
+    "valor": "preguntas entre estudiantes"
+  },
+  {
+    "entidad": "examen oral no estandarizado",
+    "relacion": "influye en",
+    "valor": "calificación final"
+  },
+  {
+    "entidad": "estudiantes",
+    "relacion": "perciben",
+    "valor": "justicia en evaluación"
+  },
+  {
+    "entidad": "examen oral estandarizado",
+    "relacion": "reduce",
+    "valor": "influencia del campo clínico"
+  },
+  {
+    "entidad": "Carcinoma espinocelular de labio",
+    "relacion": "representa",
+    "valor": "20% de todos los carcinomas orales"
+  },
+  {
+    "entidad": "Carcinoma espinocelular de labio",
+    "relacion": "es más común en",
+    "valor": "hombres"
+  },
+  {
+    "entidad": "Carcinoma espinocelular de labio",
+    "relacion": "es más prevalente en",
+    "valor": "el labio inferior"
+  },
+  {
+    "entidad": "Instituto Nacional del Cáncer",
+    "relacion": "realiza",
+    "valor": "registro de pacientes con carcinoma espinocelular de labio"
+  },
+  {
+    "entidad": "sobrevida a cinco años",
+    "relacion": "es",
+    "valor": "73% en pacientes chilenos"
+  },
+  {
+    "entidad": "cáncer oral",
+    "relacion": "aumenta con",
+    "valor": "la edad"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "son más afectados por",
+    "valor": "cáncer oral"
+  },
+  {
+    "entidad": "consumo de tabaco y alcohol",
+    "relacion": "son factores de riesgo para",
+    "valor": "carcinoma espinocelular"
+  },
+  {
+    "entidad": "radiación UV",
+    "relacion": "causa",
+    "valor": "mutaciones en el ADN"
+  },
+  {
+    "entidad": "exposición crónica al sol",
+    "relacion": "es el mayor factor de riesgo para",
+    "valor": "cáncer de labio"
+  },
+  {
+    "entidad": "grado de diferenciación histopatológica",
+    "relacion": "afecta",
+    "valor": "la sobrevida de los pacientes"
+  },
+  {
+    "entidad": "metástasis",
+    "relacion": "reduce",
+    "valor": "la sobrevida de los pacientes"
+  },
+  {
+    "entidad": "cirugía resectiva",
+    "relacion": "es el tratamiento más frecuente para",
+    "valor": "carcinoma de labio"
+  },
+  {
+    "entidad": "radioterapia",
+    "relacion": "presenta",
+    "valor": "la sobrevida más baja"
+  },
+  {
+    "entidad": "cáncer labial",
+    "relacion": "es fácil de",
+    "valor": "diagnosticar"
+  },
+  {
+    "entidad": "programas de salud",
+    "relacion": "son necesarios para",
+    "valor": "informar sobre el cáncer labial"
+  }
+]

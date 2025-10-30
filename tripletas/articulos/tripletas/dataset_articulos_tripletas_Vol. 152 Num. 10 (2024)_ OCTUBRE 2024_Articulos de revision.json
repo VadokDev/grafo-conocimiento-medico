@@ -1,0 +1,107 @@
+[
+  {
+    "entidad": "enfermedad hepática crónica (EHC)",
+    "relacion": "es",
+    "valor": "una de las principales causas de morbimortalidad en Chile"
+  },
+  {
+    "entidad": "daño hepático crónico (DHC)",
+    "relacion": "es",
+    "valor": "un deterioro progresivo y crónico de las funciones hepáticas"
+  },
+  {
+    "entidad": "atención primaria de salud (APS)",
+    "relacion": "debe orientarse hacia",
+    "valor": "la prevención primaria y la detección temprana de enfermedades hepáticas"
+  },
+  {
+    "entidad": "cirrosis hepática",
+    "relacion": "conduce a",
+    "valor": "enfermedad hepática en etapa terminal y carcinoma hepatocelular"
+  },
+  {
+    "entidad": "factores de riesgo",
+    "relacion": "están",
+    "valor": "bien caracterizados"
+  },
+  {
+    "entidad": "EHC",
+    "relacion": "debería ser considerada",
+    "valor": "una enfermedad crónica prevenible"
+  },
+  {
+    "entidad": "atención primaria de salud (APS)",
+    "relacion": "no incluye",
+    "valor": "EHC en programas de manejo de condiciones a largo plazo"
+  },
+  {
+    "entidad": "diagnóstico e intervenciones tempranas",
+    "relacion": "previenen",
+    "valor": "la progresión a una enfermedad avanzada"
+  },
+  {
+    "entidad": "cirrosis hepática descompensada",
+    "relacion": "asociada con",
+    "valor": "alta mortalidad"
+  },
+  {
+    "entidad": "fibrosis",
+    "relacion": "es determinada por",
+    "valor": "diversos factores incluyendo predisposición genética y comorbilidades"
+  },
+  {
+    "entidad": "elastografía transitoria",
+    "relacion": "es",
+    "valor": "un método no invasivo para la evaluación de la fibrosis hepática"
+  },
+  {
+    "entidad": "baclofeno",
+    "relacion": "mejora",
+    "valor": "la abstinencia en pacientes con enfermedad hepática crónica"
+  },
+  {
+    "entidad": "naltrexona",
+    "relacion": "es",
+    "valor": "una alternativa farmacológica para el tratamiento del consumo de alcohol"
+  },
+  {
+    "entidad": "prevención primaria de EHC",
+    "relacion": "debe incorporar",
+    "valor": "la promoción de un estilo de vida saludable"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "recomienda",
+    "valor": "tamizaje para virus hepáticos"
+  },
+  {
+    "entidad": "EHC",
+    "relacion": "puede ser detectada en",
+    "valor": "atención primaria de salud (APS)"
+  },
+  {
+    "entidad": "evaluación nutricional",
+    "relacion": "mejora",
+    "valor": "diversos desenlaces en pacientes con EHC"
+  },
+  {
+    "entidad": "dieta mediterránea",
+    "relacion": "ha mostrado beneficios en",
+    "valor": "enfermedad hepática esteatósica asociada a disfunción metabólica (MASLD)"
+  },
+  {
+    "entidad": "sarcopenia",
+    "relacion": "es prevalente en",
+    "valor": "pacientes con cirrosis"
+  },
+  {
+    "entidad": "inmunizaciones",
+    "relacion": "deben ser indicadas en",
+    "valor": "pacientes con hepatopatías"
+  },
+  {
+    "entidad": "consumo de alcohol",
+    "relacion": "debe ser",
+    "valor": "suspendido en pacientes con EHC"
+  }
+]

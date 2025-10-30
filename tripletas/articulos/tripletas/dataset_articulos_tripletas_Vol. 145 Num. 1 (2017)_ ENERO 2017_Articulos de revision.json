@@ -1,0 +1,352 @@
+[
+  {
+    "entidad": "cáncer de mama",
+    "relacion": "es",
+    "valor": "la primera causa de muerte en mujeres en Chile"
+  },
+  {
+    "entidad": "estímulo estrogénico",
+    "relacion": "es",
+    "valor": "el factor de riesgo más importante para el desarrollo de cáncer de mama"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "afecta a",
+    "valor": "la incidencia y recurrencia de cáncer de mama"
+  },
+  {
+    "entidad": "actividad física supervisada",
+    "relacion": "es recomendada para",
+    "valor": "mejorar la calidad de vida de pacientes con cáncer"
+  },
+  {
+    "entidad": "cáncer",
+    "relacion": "es",
+    "valor": "una de las primeras causas de muerte en el mundo"
+  },
+  {
+    "entidad": "cáncer de mama",
+    "relacion": "es",
+    "valor": "la segunda causa de mortalidad en Chile"
+  },
+  {
+    "entidad": "carcinogénesis",
+    "relacion": "es",
+    "valor": "un proceso de multipasos que transforma células normales en neoplásicas"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "es",
+    "valor": "una estrategia relevante de prevención secundaria en cáncer"
+  },
+  {
+    "entidad": "ejercicio",
+    "relacion": "se define como",
+    "valor": "actividad física realizada de manera dosificada y sistemática"
+  },
+  {
+    "entidad": "cáncer de mama",
+    "relacion": "puede involucrar",
+    "valor": "cirugía y radioterapia como tratamientos localizados"
+  },
+  {
+    "entidad": "cáncer de mama",
+    "relacion": "puede involucrar",
+    "valor": "terapia endocrina y quimioterapia como tratamientos sistémicos"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "mejora",
+    "valor": "la calidad de vida y funcionalidad en pacientes con cáncer"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "es un factor de riesgo",
+    "valor": "común para enfermedades cardiovasculares y cáncer de mama"
+  },
+  {
+    "entidad": "insulina",
+    "relacion": "puede promover",
+    "valor": "el desarrollo de cáncer de mama"
+  },
+  {
+    "entidad": "ejercicio",
+    "relacion": "induce cambios en",
+    "valor": "los niveles de biomarcadores relevantes en cáncer de mama"
+  },
+  {
+    "entidad": "sobrevivientes de cáncer de mama",
+    "relacion": "se benefician de",
+    "valor": "la actividad física en su calidad de vida"
+  },
+  {
+    "entidad": "prescripción de ejercicio",
+    "relacion": "debe ser",
+    "valor": "individualizada en pacientes con cáncer de mama"
+  },
+  {
+    "entidad": "actividad física dirigida",
+    "relacion": "es un desafío",
+    "valor": "lograr adherencia en pacientes oncológicos"
+  },
+  {
+    "entidad": "cáncer de mama",
+    "relacion": "se asocia con",
+    "valor": "menores tasas de sobrevida en pacientes con sobrepeso u obesidad"
+  },
+  {
+    "entidad": "Colitis Ulcerosa (CU)",
+    "relacion": "es un",
+    "valor": "enfermedad inflamatoria crónica"
+  },
+  {
+    "entidad": "CU",
+    "relacion": "afecta a",
+    "valor": "el colon y recto"
+  },
+  {
+    "entidad": "CU",
+    "relacion": "se caracteriza por",
+    "valor": "periodos de remisión y actividad"
+  },
+  {
+    "entidad": "exacerbaciones de CU",
+    "relacion": "pueden ser",
+    "valor": "severas y asociadas a complicaciones"
+  },
+  {
+    "entidad": "diagnóstico de CU grave",
+    "relacion": "se basa en",
+    "valor": "variables clínicas, bioquímicas y endoscópicas"
+  },
+  {
+    "entidad": "pacientes con CU grave",
+    "relacion": "deben ser",
+    "valor": "hospitalizados"
+  },
+  {
+    "entidad": "terapia de primera línea",
+    "relacion": "es",
+    "valor": "uso de corticoides intravenosos"
+  },
+  {
+    "entidad": "corticoides",
+    "relacion": "logran",
+    "valor": "remisión clínica en la mayoría de los pacientes"
+  },
+  {
+    "entidad": "25% de los pacientes",
+    "relacion": "serán",
+    "valor": "refractarios a corticoides"
+  },
+  {
+    "entidad": "infección por citomegalovirus",
+    "relacion": "debe ser",
+    "valor": "descartada rápidamente"
+  },
+  {
+    "entidad": "terapia de segunda línea",
+    "relacion": "incluye",
+    "valor": "fármacos biológicos o ciclosporina"
+  },
+  {
+    "entidad": "colectomía total",
+    "relacion": "no debe ser",
+    "valor": "retrasada si no hay respuesta a la terapia"
+  },
+  {
+    "entidad": "manejo activo",
+    "relacion": "permite",
+    "valor": "disminuir la exposición prolongada a corticoides"
+  },
+  {
+    "entidad": "heparina profiláctica",
+    "relacion": "está indicada para",
+    "valor": "prevenir eventos tromboembólicos"
+  },
+  {
+    "entidad": "antibióticos",
+    "relacion": "no han demostrado",
+    "valor": "beneficio en CU grave"
+  },
+  {
+    "entidad": "ganciclovir",
+    "relacion": "es la terapia antiviral sugerida para",
+    "valor": "reactivación de CMV"
+  },
+  {
+    "entidad": "evaluación nutricional",
+    "relacion": "es parte fundamental del",
+    "valor": "tratamiento de CU grave"
+  },
+  {
+    "entidad": "corticoides",
+    "relacion": "son",
+    "valor": "la terapia de primera línea en CU grave"
+  },
+  {
+    "entidad": "ciclosporina",
+    "relacion": "es una opción en",
+    "valor": "pacientes cortico-refractarios"
+  },
+  {
+    "entidad": "colectomía total con ileostomía terminal",
+    "relacion": "es el procedimiento de elección en",
+    "valor": "cirugía de urgencia por CU grave"
+  },
+  {
+    "entidad": "abordaje mínimamente invasivo",
+    "relacion": "es seguro y tiene resultados comparables a",
+    "valor": "cirugía abierta"
+  },
+  {
+    "entidad": "mortalidad de la cirugía",
+    "relacion": "es menor a",
+    "valor": "1% en centros especializados"
+  },
+  {
+    "entidad": "dieta mediterránea",
+    "relacion": "es considerada",
+    "valor": "un patrón dietético saludable"
+  },
+  {
+    "entidad": "dieta mediterránea",
+    "relacion": "incluye",
+    "valor": "variedad de alimentos"
+  },
+  {
+    "entidad": "dieta mediterránea",
+    "relacion": "se caracteriza por",
+    "valor": "alto consumo de frutas y verduras"
+  },
+  {
+    "entidad": "dieta mediterránea",
+    "relacion": "se caracteriza por",
+    "valor": "bajo consumo de carnes rojas"
+  },
+  {
+    "entidad": "dieta mediterránea",
+    "relacion": "promueve",
+    "valor": "consumo moderado de vino"
+  },
+  {
+    "entidad": "dieta mediterránea",
+    "relacion": "es rica en",
+    "valor": "antioxidantes y fibra"
+  },
+  {
+    "entidad": "enfermedades crónicas",
+    "relacion": "son",
+    "valor": "principal causa de morbimortalidad"
+  },
+  {
+    "entidad": "enfermedad cardiovascular",
+    "relacion": "puede ser prevenible por",
+    "valor": "mejorar el estilo de vida"
+  },
+  {
+    "entidad": "dieta mediterránea",
+    "relacion": "reduce",
+    "valor": "prevalencia de síndrome metabólico"
+  },
+  {
+    "entidad": "dieta mediterránea",
+    "relacion": "reduce",
+    "valor": "riesgo de diabetes mellitus"
+  },
+  {
+    "entidad": "dieta mediterránea",
+    "relacion": "reduce",
+    "valor": "riesgo de cáncer mamario"
+  },
+  {
+    "entidad": "dieta mediterránea",
+    "relacion": "mejora",
+    "valor": "calidad de vida"
+  },
+  {
+    "entidad": "Estudio de los Siete Países",
+    "relacion": "fue liderado por",
+    "valor": "Ancel Keys"
+  },
+  {
+    "entidad": "dieta mediterránea",
+    "relacion": "fue declarada",
+    "valor": "Patrimonio Cultural Inmaterial de la Humanidad"
+  },
+  {
+    "entidad": "componentes bioactivos",
+    "relacion": "incluyen",
+    "valor": "antioxidantes, fibra, fitoesteroles"
+  },
+  {
+    "entidad": "ácidos grasos monoinsaturados",
+    "relacion": "se encuentran en",
+    "valor": "aceite de oliva"
+  },
+  {
+    "entidad": "ácidos grasos omega-3",
+    "relacion": "se encuentran en",
+    "valor": "pescados y mariscos"
+  },
+  {
+    "entidad": "probióticos",
+    "relacion": "se encuentran en",
+    "valor": "lácteos fermentados"
+  },
+  {
+    "entidad": "dieta mediterránea",
+    "relacion": "promueve",
+    "valor": "bajo consumo de grasas saturadas"
+  },
+  {
+    "entidad": "dieta mediterránea",
+    "relacion": "mejora",
+    "valor": "función endotelial"
+  },
+  {
+    "entidad": "dieta mediterránea",
+    "relacion": "disminuye",
+    "valor": "presión arterial"
+  },
+  {
+    "entidad": "dieta mediterránea",
+    "relacion": "aumenta",
+    "valor": "sensibilidad a insulina"
+  },
+  {
+    "entidad": "dieta mediterránea",
+    "relacion": "se asocia con",
+    "valor": "menor riesgo de ateroesclerosis"
+  },
+  {
+    "entidad": "dieta mediterránea",
+    "relacion": "se asocia con",
+    "valor": "menor riesgo de diabetes mellitus"
+  },
+  {
+    "entidad": "dieta mediterránea",
+    "relacion": "se asocia con",
+    "valor": "menor riesgo de cáncer"
+  },
+  {
+    "entidad": "gastronomía chilena",
+    "relacion": "utiliza",
+    "valor": "ingredientes similares a la dieta mediterránea"
+  },
+  {
+    "entidad": "Programa Aliméntate Sano",
+    "relacion": "aplica",
+    "valor": "índice de alimentación mediterránea"
+  },
+  {
+    "entidad": "población adulta chilena",
+    "relacion": "cumple con",
+    "valor": "patrón de alimentación mediterránea"
+  },
+  {
+    "entidad": "intervenciones dirigidas",
+    "relacion": "podrían mejorar",
+    "valor": "adherencia a la dieta mediterránea"
+  }
+]

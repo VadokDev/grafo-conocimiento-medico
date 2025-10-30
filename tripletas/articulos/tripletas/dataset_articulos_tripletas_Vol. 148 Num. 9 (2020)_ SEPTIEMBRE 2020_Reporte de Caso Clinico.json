@@ -1,0 +1,307 @@
+[
+  {
+    "entidad": "Hipertrigliceridemia severa",
+    "relacion": "es una",
+    "valor": "condición médica"
+  },
+  {
+    "entidad": "Pancreatitis aguda",
+    "relacion": "es una",
+    "valor": "complicación asociada a hipertrigliceridemia severa"
+  },
+  {
+    "entidad": "Plasmaféresis crónica ambulatoria",
+    "relacion": "es un",
+    "valor": "tratamiento para hipertrigliceridemia severa refractaria"
+  },
+  {
+    "entidad": "Hospital San Pablo de Coquimbo",
+    "relacion": "realiza",
+    "valor": "plasmaféresis crónica ambulatoria"
+  },
+  {
+    "entidad": "Camila Jure Bustamante",
+    "relacion": "es un",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "Insulina",
+    "relacion": "es un",
+    "valor": "tratamiento utilizado para hipertrigliceridemia"
+  },
+  {
+    "entidad": "Heparina",
+    "relacion": "es un",
+    "valor": "tratamiento utilizado para hipertrigliceridemia"
+  },
+  {
+    "entidad": "Fibratos",
+    "relacion": "son",
+    "valor": "fármacos utilizados para tratar hipertrigliceridemia"
+  },
+  {
+    "entidad": "Estatinas",
+    "relacion": "son",
+    "valor": "fármacos utilizados para tratar hipertrigliceridemia"
+  },
+  {
+    "entidad": "Ácidos grasos omega-3",
+    "relacion": "son",
+    "valor": "fármacos utilizados para tratar hipertrigliceridemia"
+  },
+  {
+    "entidad": "Orlistat",
+    "relacion": "es un",
+    "valor": "fármaco utilizado para tratar hipertrigliceridemia"
+  },
+  {
+    "entidad": "Dieta estricta",
+    "relacion": "es una",
+    "valor": "medida de manejo para hipertrigliceridemia"
+  },
+  {
+    "entidad": "Trombosis de vena mesentérica superior",
+    "relacion": "es una",
+    "valor": "complicación asociada a hipertrigliceridemia"
+  },
+  {
+    "entidad": "Pseudoquiste pancreático",
+    "relacion": "es una",
+    "valor": "complicación asociada a hipertrigliceridemia"
+  },
+  {
+    "entidad": "Acenocumarol",
+    "relacion": "es un",
+    "valor": "tratamiento anticoagulante utilizado"
+  },
+  {
+    "entidad": "Volanesorsen",
+    "relacion": "es un",
+    "valor": "inhibidor de apoC3 en estudio para hipertrigliceridemia"
+  },
+  {
+    "entidad": "Alipogene tiparvovec",
+    "relacion": "es una",
+    "valor": "terapia génica para hipertrigliceridemia"
+  },
+  {
+    "entidad": "Pradigastat",
+    "relacion": "es un",
+    "valor": "inhibidor de DGAT1 en estudio para hipertrigliceridemia"
+  },
+  {
+    "entidad": "Sociedad Americana de Aféresis",
+    "relacion": "sugiere",
+    "valor": "uso de plasmaféresis en hipertrigliceridemia severa"
+  },
+  {
+    "entidad": "IMC",
+    "relacion": "es un",
+    "valor": "indicador de estado nutricional"
+  },
+  {
+    "entidad": "Hospital San Pablo de Coquimbo",
+    "relacion": "es un",
+    "valor": "centro de tratamiento"
+  },
+  {
+    "entidad": "Hipertrigliceridemia",
+    "relacion": "puede causar",
+    "valor": "pancreatitis aguda"
+  },
+  {
+    "entidad": "Plasmaféresis",
+    "relacion": "reduce",
+    "valor": "niveles de triglicéridos"
+  },
+  {
+    "entidad": "Triglicéridos",
+    "relacion": "son",
+    "valor": "sustancias que pueden causar pancreatitis aguda"
+  },
+  {
+    "entidad": "Dieta",
+    "relacion": "es un",
+    "valor": "pilar fundamental en el manejo de hipertrigliceridemia"
+  },
+  {
+    "entidad": "Patrón electrocardiográfico Brugada tipo I",
+    "relacion": "asociado a",
+    "valor": "cuadro febril por Influenza B"
+  },
+  {
+    "entidad": "Influenza B",
+    "relacion": "causa",
+    "valor": "cuadro febril"
+  },
+  {
+    "entidad": "síndrome de Brugada",
+    "relacion": "se caracteriza por",
+    "valor": "bloqueo de rama derecha y elevación del segmento ST"
+  },
+  {
+    "entidad": "síndrome de Brugada",
+    "relacion": "asociado a",
+    "valor": "arrítmias ventriculares malignas y muerte súbita"
+  },
+  {
+    "entidad": "gen SCN5A",
+    "relacion": "localizado en",
+    "valor": "cromosoma 3"
+  },
+  {
+    "entidad": "patrón Brugada tipo I",
+    "relacion": "permite",
+    "valor": "diagnóstico definitivo de síndrome de Brugada"
+  },
+  {
+    "entidad": "fiebre",
+    "relacion": "puede hacer evidente",
+    "valor": "patrón Brugada tipo I"
+  },
+  {
+    "entidad": "procainamida",
+    "relacion": "reproduce",
+    "valor": "patrón Brugada tipo I"
+  },
+  {
+    "entidad": "fiebre",
+    "relacion": "disminuye",
+    "valor": "activación de canales de sodio"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "puede provocar",
+    "valor": "lesión miocárdica"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "observado en",
+    "valor": "18% de los casos hospitalizados"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "induce",
+    "valor": "taquiarritmias ventriculares malignas"
+  },
+  {
+    "entidad": "pacientes con patrón Brugada tipo I",
+    "relacion": "deben consultar en",
+    "valor": "servicio de urgencia"
+  },
+  {
+    "entidad": "fiebre",
+    "relacion": "puede desencadenar",
+    "valor": "taquiarritmia ventricular maligna"
+  },
+  {
+    "entidad": "vacunas",
+    "relacion": "deben recibir",
+    "valor": "pacientes con síndrome de Brugada"
+  },
+  {
+    "entidad": "síndrome mielodisplásico con deleción del cromosoma 5q",
+    "relacion": "tiene",
+    "valor": "pronóstico favorable"
+  },
+  {
+    "entidad": "síndrome mielodisplásico con deleción del cromosoma 5q",
+    "relacion": "tiene",
+    "valor": "bajo riesgo de transformación a leucemia aguda"
+  },
+  {
+    "entidad": "lenalidomida",
+    "relacion": "es",
+    "valor": "tratamiento estándar"
+  },
+  {
+    "entidad": "azacitidina",
+    "relacion": "logra",
+    "valor": "remisión completa incluso como segunda línea de tratamiento"
+  },
+  {
+    "entidad": "mujer de 71 años",
+    "relacion": "presenta",
+    "valor": "fatiga y disnea"
+  },
+  {
+    "entidad": "mujer de 71 años",
+    "relacion": "tiene",
+    "valor": "anemia con recuento normal de glóbulos blancos y plaquetas"
+  },
+  {
+    "entidad": "biopsia de médula ósea",
+    "relacion": "muestra",
+    "valor": "50% de celularidad"
+  },
+  {
+    "entidad": "análisis de cariotipo",
+    "relacion": "revela",
+    "valor": "deleción del cromosoma 5 en 22% de las metafases"
+  },
+  {
+    "entidad": "síndrome 5q",
+    "relacion": "es diagnosticado como",
+    "valor": "de bajo riesgo según IPSS-R"
+  },
+  {
+    "entidad": "thalidomida",
+    "relacion": "es administrada",
+    "valor": "100 mg/día"
+  },
+  {
+    "entidad": "thalidomida",
+    "relacion": "logra",
+    "valor": "independencia transfusional durante tres años"
+  },
+  {
+    "entidad": "mujer de 71 años",
+    "relacion": "desarrolla",
+    "valor": "pancitopenia"
+  },
+  {
+    "entidad": "biopsia de médula ósea",
+    "relacion": "muestra",
+    "valor": "displasia eritroide y megacariocitos"
+  },
+  {
+    "entidad": "karyotipo complejo",
+    "relacion": "empeora",
+    "valor": "pronóstico"
+  },
+  {
+    "entidad": "azacitidina",
+    "relacion": "es administrada",
+    "valor": "por donación"
+  },
+  {
+    "entidad": "mujer de 71 años",
+    "relacion": "logra",
+    "valor": "remisión completa con cariotipo normal"
+  },
+  {
+    "entidad": "mujer de 71 años",
+    "relacion": "recibe",
+    "valor": "solo cuidados paliativos durante un año"
+  },
+  {
+    "entidad": "mujer de 71 años",
+    "relacion": "sufre",
+    "valor": "accidente cerebrovascular"
+  },
+  {
+    "entidad": "mujer de 71 años",
+    "relacion": "fallece",
+    "valor": "dos semanas después del accidente cerebrovascular"
+  },
+  {
+    "entidad": "thalidomida",
+    "relacion": "tiene",
+    "valor": "respuesta adecuada como alternativa de menor costo"
+  },
+  {
+    "entidad": "azacitidina",
+    "relacion": "mejora",
+    "valor": "supervivencia en pacientes con MDS de alto riesgo"
+  }
+]

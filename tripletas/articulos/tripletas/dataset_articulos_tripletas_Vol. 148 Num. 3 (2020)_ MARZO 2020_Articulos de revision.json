@@ -1,0 +1,302 @@
+[
+  {
+    "entidad": "COVID-19",
+    "relacion": "afecta a",
+    "valor": "pacientes con falla respiratoria"
+  },
+  {
+    "entidad": "ECMO",
+    "relacion": "es un",
+    "valor": "sistema de soporte vital extracorpóreo"
+  },
+  {
+    "entidad": "ECMO",
+    "relacion": "se utiliza en",
+    "valor": "falla respiratoria catastrófica"
+  },
+  {
+    "entidad": "ECMO",
+    "relacion": "se utiliza en",
+    "valor": "shock cardiogénico"
+  },
+  {
+    "entidad": "ECMO",
+    "relacion": "se utiliza en",
+    "valor": "reanimación cardiopulmonar extracorpórea"
+  },
+  {
+    "entidad": "ECMO",
+    "relacion": "se utiliza en",
+    "valor": "sepsis"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud",
+    "relacion": "recomienda",
+    "valor": "ECMO en pacientes con hipoxemia refractaria"
+  },
+  {
+    "entidad": "ECMO VV",
+    "relacion": "es la elección para",
+    "valor": "falla respiratoria catastrófica"
+  },
+  {
+    "entidad": "ECMO VA",
+    "relacion": "es la elección para",
+    "valor": "shock cardiogénico"
+  },
+  {
+    "entidad": "ECMO",
+    "relacion": "aumenta",
+    "valor": "la supervivencia en paro cardíaco"
+  },
+  {
+    "entidad": "ECLS",
+    "relacion": "proporciona",
+    "valor": "soporte respiratorio y cardiaco"
+  },
+  {
+    "entidad": "ECMO",
+    "relacion": "se considera",
+    "valor": "una modalidad de apoyo en centros con programas funcionando"
+  },
+  {
+    "entidad": "ECMO",
+    "relacion": "debe ajustarse a",
+    "valor": "factores locales durante la pandemia"
+  },
+  {
+    "entidad": "ECMO",
+    "relacion": "requiere",
+    "valor": "entrenamiento y capacitación continua"
+  },
+  {
+    "entidad": "ECMO",
+    "relacion": "se utiliza para",
+    "valor": "puente a trasplante pulmonar"
+  },
+  {
+    "entidad": "ECMO",
+    "relacion": "se utiliza en",
+    "valor": "pacientes con COVID-19"
+  },
+  {
+    "entidad": "ECMO",
+    "relacion": "se conecta a",
+    "valor": "sistemas de soporte vital"
+  },
+  {
+    "entidad": "ECMO",
+    "relacion": "se utiliza en",
+    "valor": "transportes interhospitalarios"
+  },
+  {
+    "entidad": "ECMO",
+    "relacion": "requiere",
+    "valor": "protocolos y listas de chequeo"
+  },
+  {
+    "entidad": "Biomarcadores",
+    "relacion": "son",
+    "valor": "herramientas esenciales en la práctica clínica"
+  },
+  {
+    "entidad": "Biomarcadores",
+    "relacion": "permiten",
+    "valor": "evaluación no invasiva de pacientes"
+  },
+  {
+    "entidad": "Biomarcadores",
+    "relacion": "guían",
+    "valor": "la toma de decisiones en la enfermedad inflamatoria intestinal"
+  },
+  {
+    "entidad": "Biomarcadores en sangre",
+    "relacion": "son",
+    "valor": "los más utilizados"
+  },
+  {
+    "entidad": "Velocidad de hemosedimentación (VHS)",
+    "relacion": "refleja",
+    "valor": "inflamación"
+  },
+  {
+    "entidad": "Proteína C Reactiva (PCR)",
+    "relacion": "es",
+    "valor": "un reactante de fase aguda"
+  },
+  {
+    "entidad": "Calprotectina fecal",
+    "relacion": "es",
+    "valor": "el biomarcador más utilizado"
+  },
+  {
+    "entidad": "Calprotectina fecal",
+    "relacion": "tiene",
+    "valor": "alta sensibilidad y especificidad"
+  },
+  {
+    "entidad": "Calprotectina fecal",
+    "relacion": "predice",
+    "valor": "la respuesta al tratamiento"
+  },
+  {
+    "entidad": "EII",
+    "relacion": "se caracteriza por",
+    "valor": "inflamación del tracto gastrointestinal"
+  },
+  {
+    "entidad": "Enfermedad de Crohn",
+    "relacion": "es un tipo de",
+    "valor": "enfermedad inflamatoria intestinal"
+  },
+  {
+    "entidad": "Colitis Ulcerosa",
+    "relacion": "es un tipo de",
+    "valor": "enfermedad inflamatoria intestinal"
+  },
+  {
+    "entidad": "Biomarcadores fecales",
+    "relacion": "ofrecen",
+    "valor": "mayor fiabilidad y especificidad"
+  },
+  {
+    "entidad": "Lactoferrina",
+    "relacion": "es",
+    "valor": "una proteína sensible y específica"
+  },
+  {
+    "entidad": "S100A12",
+    "relacion": "puede ser",
+    "valor": "un marcador pronóstico"
+  },
+  {
+    "entidad": "Test inmunológico de sangre oculta en deposiciones (TSODi)",
+    "relacion": "es",
+    "valor": "un biomarcador fecal utilizado en el tamizaje de cáncer colorrectal"
+  },
+  {
+    "entidad": "Medicina de precisión",
+    "relacion": "busca",
+    "valor": "personalizar el manejo de pacientes"
+  },
+  {
+    "entidad": "Biomarcadores en EII",
+    "relacion": "han aumentado",
+    "valor": "su importancia clínica"
+  },
+  {
+    "entidad": "Estrategia 'Treat to Target' (T2T)",
+    "relacion": "cambia",
+    "valor": "las metas de tratamiento en EII"
+  },
+  {
+    "entidad": "Síndrome hemofagocítico",
+    "relacion": "es un",
+    "valor": "trastorno hiperinflamatorio"
+  },
+  {
+    "entidad": "Síndrome hemofagocítico",
+    "relacion": "causa",
+    "valor": "tormenta de citoquinas"
+  },
+  {
+    "entidad": "Síndrome hemofagocítico",
+    "relacion": "puede ser",
+    "valor": "primario o secundario"
+  },
+  {
+    "entidad": "virus Epstein-Barr",
+    "relacion": "es un",
+    "valor": "gatillante frecuente del SHF secundario"
+  },
+  {
+    "entidad": "SHF primario",
+    "relacion": "es de origen",
+    "valor": "genético"
+  },
+  {
+    "entidad": "SHF secundario",
+    "relacion": "puede presentarse en",
+    "valor": "infecciones, cáncer y enfermedades autoinmunes"
+  },
+  {
+    "entidad": "infecciones virales",
+    "relacion": "son",
+    "valor": "frecuentes gatillantes de SHF"
+  },
+  {
+    "entidad": "SHF",
+    "relacion": "se asocia con",
+    "valor": "neoplasias hematológicas"
+  },
+  {
+    "entidad": "SHF",
+    "relacion": "se asocia con",
+    "valor": "enfermedades del tejido conectivo"
+  },
+  {
+    "entidad": "SHF",
+    "relacion": "presenta",
+    "valor": "fiebre persistente y esplenomegalia"
+  },
+  {
+    "entidad": "diagnóstico de SHF",
+    "relacion": "se basa en",
+    "valor": "criterios del consenso HLH-2004"
+  },
+  {
+    "entidad": "dexametasona",
+    "relacion": "es un",
+    "valor": "tratamiento para SHF"
+  },
+  {
+    "entidad": "etopósido",
+    "relacion": "es un",
+    "valor": "agente utilizado en el tratamiento de SHF"
+  },
+  {
+    "entidad": "trasplante alogénico de células progenitoras hematopoyéticas",
+    "relacion": "es",
+    "valor": "tratamiento curativo para SHF persistente"
+  },
+  {
+    "entidad": "emapalumab",
+    "relacion": "es un",
+    "valor": "anticuerpo monoclonal aprobado para SHF primario refractario"
+  },
+  {
+    "entidad": "rituximab",
+    "relacion": "se utiliza para",
+    "valor": "reducir células B en SHF asociado a VEB"
+  },
+  {
+    "entidad": "SHF secundario",
+    "relacion": "requiere",
+    "valor": "tratar la causa subyacente"
+  },
+  {
+    "entidad": "SHF",
+    "relacion": "tiene una mortalidad",
+    "valor": "> 95% sin tratamiento"
+  },
+  {
+    "entidad": "ferritina elevada",
+    "relacion": "es un",
+    "valor": "marcador de actividad inflamatoria"
+  },
+  {
+    "entidad": "sCD25",
+    "relacion": "se correlaciona con",
+    "valor": "severidad y actividad de la enfermedad"
+  },
+  {
+    "entidad": "Hscore",
+    "relacion": "estima",
+    "valor": "riesgo de tener SHF reactivo"
+  },
+  {
+    "entidad": "SHF",
+    "relacion": "debe ser diagnosticado",
+    "valor": "tempranamente para reducir mortalidad"
+  }
+]

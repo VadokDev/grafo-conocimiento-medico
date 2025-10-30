@@ -1,0 +1,2797 @@
+[
+  {
+    "entidad": "Ramelteón",
+    "relacion": "trata",
+    "valor": "insomnio"
+  },
+  {
+    "entidad": "Ramelteón",
+    "relacion": "uso",
+    "valor": "una vez al día, 30 minutos antes de acostarse"
+  },
+  {
+    "entidad": "Ramelteón",
+    "relacion": "se_administra_via",
+    "valor": "vía oral"
+  },
+  {
+    "entidad": "Ramelteón",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Ramelteón",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos actuales"
+  },
+  {
+    "entidad": "Ramelteón",
+    "relacion": "dieta",
+    "valor": "consultar sobre toronja y jugo de toronja"
+  },
+  {
+    "entidad": "Ramelteón",
+    "relacion": "olvido",
+    "valor": "tomar si puede dormir 7 a 8 horas"
+  },
+  {
+    "entidad": "Ramelteón",
+    "relacion": "efecto_secundario",
+    "valor": "somnolencia"
+  },
+  {
+    "entidad": "Ramelteón",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Ramelteón",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para tragar o respirar"
+  },
+  {
+    "entidad": "Ramelteón",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Ramelteón",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Ramelteón",
+    "relacion": "efecto_secundario",
+    "valor": "problemas de fertilidad"
+  },
+  {
+    "entidad": "Ramelteón",
+    "relacion": "almacenamiento",
+    "valor": "mantener en empaque original, a temperatura ambiente"
+  },
+  {
+    "entidad": "Ramelteón",
+    "relacion": "sobredosis",
+    "valor": "llamar a control de envenenamiento o servicios de emergencia"
+  },
+  {
+    "entidad": "Ramelteón",
+    "relacion": "marca_comercial",
+    "valor": "Rozerem"
+  },
+  {
+    "entidad": "Ranitidina",
+    "relacion": "contraindicado_en",
+    "valor": "retirado del mercado por la FDA debido a impurezas carcinógenas"
+  },
+  {
+    "entidad": "Ranitidina",
+    "relacion": "trata",
+    "valor": "úlcera de estómago"
+  },
+  {
+    "entidad": "Ranitidina",
+    "relacion": "trata",
+    "valor": "enfermedad por reflujo gastroesofágico (ERGE)"
+  },
+  {
+    "entidad": "Ranitidina",
+    "relacion": "trata",
+    "valor": "síndrome de Zollinger-Ellison"
+  },
+  {
+    "entidad": "Ranitidina",
+    "relacion": "trata",
+    "valor": "acidez estomacal asociada a indigestión ácida"
+  },
+  {
+    "entidad": "Ranitidina",
+    "relacion": "uso",
+    "valor": "tomar una vez al día al acostarse o de dos a cuatro veces al día"
+  },
+  {
+    "entidad": "Ranitidina",
+    "relacion": "uso",
+    "valor": "disolver tabletas efervescentes en agua antes de beber"
+  },
+  {
+    "entidad": "Ranitidina",
+    "relacion": "uso",
+    "valor": "no tomar más de 2 semanas sin indicación médica"
+  },
+  {
+    "entidad": "Ranitidina",
+    "relacion": "otro_uso",
+    "valor": "tratar hemorragias gastrointestinales altas"
+  },
+  {
+    "entidad": "Ranitidina",
+    "relacion": "otro_uso",
+    "valor": "prevenir úlceras por estrés"
+  },
+  {
+    "entidad": "Ranitidina",
+    "relacion": "otro_uso",
+    "valor": "daño estomacal por AINE"
+  },
+  {
+    "entidad": "Ranitidina",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias a la ranitidina"
+  },
+  {
+    "entidad": "Ranitidina",
+    "relacion": "precaucion",
+    "valor": "informar sobre otros medicamentos que se están tomando"
+  },
+  {
+    "entidad": "Ranitidina",
+    "relacion": "precaucion",
+    "valor": "informar si tiene enfermedades renales o hepáticas"
+  },
+  {
+    "entidad": "Ranitidina",
+    "relacion": "precaucion",
+    "valor": "informar si está embarazada o amamantando"
+  },
+  {
+    "entidad": "Ranitidina",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta a menos que lo indique el médico"
+  },
+  {
+    "entidad": "Ranitidina",
+    "relacion": "olvido",
+    "valor": "tomar la dosis olvidada tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Ranitidina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Ranitidina",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Ranitidina",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Ranitidina",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Ranitidina",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Ranitidina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago"
+  },
+  {
+    "entidad": "Ranitidina",
+    "relacion": "almacenamiento",
+    "valor": "mantener en empaque original y a temperatura ambiente"
+  },
+  {
+    "entidad": "Ranitidina",
+    "relacion": "almacenamiento",
+    "valor": "alejar de niños y mascotas"
+  },
+  {
+    "entidad": "Ranitidina",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Ranitidina",
+    "relacion": "marca_comercial",
+    "valor": "Tritec"
+  },
+  {
+    "entidad": "Ranitidina",
+    "relacion": "marca_comercial",
+    "valor": "Zantac"
+  },
+  {
+    "entidad": "Ranitidina",
+    "relacion": "marca_comercial",
+    "valor": "Zantac 75"
+  },
+  {
+    "entidad": "Ranitidina",
+    "relacion": "marca_comercial",
+    "valor": "Zantac EFFERdose"
+  },
+  {
+    "entidad": "Ranitidina",
+    "relacion": "marca_comercial",
+    "valor": "Zantac Jarabe"
+  },
+  {
+    "entidad": "Ranolazina",
+    "relacion": "trata",
+    "valor": "angina crónica"
+  },
+  {
+    "entidad": "Ranolazina",
+    "relacion": "uso",
+    "valor": "tabletas de liberación prolongada, dos veces al día"
+  },
+  {
+    "entidad": "Ranolazina",
+    "relacion": "se_administra_via",
+    "valor": "vía oral"
+  },
+  {
+    "entidad": "Ranolazina",
+    "relacion": "otro_uso",
+    "valor": "otros usos bajo consulta médica"
+  },
+  {
+    "entidad": "Ranolazina",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos concurrentes"
+  },
+  {
+    "entidad": "Ranolazina",
+    "relacion": "dieta",
+    "valor": "evitar productos de toronja y su jugo"
+  },
+  {
+    "entidad": "Ranolazina",
+    "relacion": "olvido",
+    "valor": "omitir la dosis y continuar con la habitual"
+  },
+  {
+    "entidad": "Ranolazina",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Ranolazina",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Ranolazina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Ranolazina",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Ranolazina",
+    "relacion": "efecto_secundario",
+    "valor": "ritmo cardíaco rápido, fuerte o irregular"
+  },
+  {
+    "entidad": "Ranolazina",
+    "relacion": "efecto_secundario",
+    "valor": "falta de aliento"
+  },
+  {
+    "entidad": "Ranolazina",
+    "relacion": "efecto_secundario",
+    "valor": "desmayos"
+  },
+  {
+    "entidad": "Ranolazina",
+    "relacion": "almacenamiento",
+    "valor": "mantener en empaque original, a temperatura ambiente, lejos del calor y humedad"
+  },
+  {
+    "entidad": "Ranolazina",
+    "relacion": "sobredosis",
+    "valor": "llamar a control de envenenamiento o servicios de emergencia"
+  },
+  {
+    "entidad": "Ranolazina",
+    "relacion": "marca_comercial",
+    "valor": "Ranexa ®"
+  },
+  {
+    "entidad": "Regorafenib",
+    "relacion": "contraindicado_en",
+    "valor": "daño hepático grave o mortal"
+  },
+  {
+    "entidad": "Regorafenib",
+    "relacion": "trata",
+    "valor": "cáncer de colon y recto"
+  },
+  {
+    "entidad": "Regorafenib",
+    "relacion": "trata",
+    "valor": "tumores estromales gastrointestinales (GIST)"
+  },
+  {
+    "entidad": "Regorafenib",
+    "relacion": "trata",
+    "valor": "carcinoma hepatocelular (HCC)"
+  },
+  {
+    "entidad": "Regorafenib",
+    "relacion": "uso",
+    "valor": "tableta para administrarse por vía oral"
+  },
+  {
+    "entidad": "Regorafenib",
+    "relacion": "uso",
+    "valor": "tomar con una comida baja en grasa una vez al día por 3 semanas y luego omitir por 1 semana"
+  },
+  {
+    "entidad": "Regorafenib",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias a regorafenib o ingredientes de las tabletas"
+  },
+  {
+    "entidad": "Regorafenib",
+    "relacion": "precaucion",
+    "valor": "informar sobre otros medicamentos, vitaminas y suplementos que se tomen"
+  },
+  {
+    "entidad": "Regorafenib",
+    "relacion": "precaucion",
+    "valor": "informar si tiene problemas de sangrado, presión arterial alta, o enfermedades cardíacas, renales o hepáticas"
+  },
+  {
+    "entidad": "Regorafenib",
+    "relacion": "precaucion",
+    "valor": "no quedar embarazada durante el tratamiento y hasta 2 meses después"
+  },
+  {
+    "entidad": "Regorafenib",
+    "relacion": "precaucion",
+    "valor": "no amamantar durante el tratamiento y hasta 2 semanas después"
+  },
+  {
+    "entidad": "Regorafenib",
+    "relacion": "dieta",
+    "valor": "no comer pomelo ni tomar jugo de pomelo"
+  },
+  {
+    "entidad": "Regorafenib",
+    "relacion": "olvido",
+    "valor": "tomar la dosis omitida tan pronto como lo recuerde, no tomar dos dosis el mismo día"
+  },
+  {
+    "entidad": "Regorafenib",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio"
+  },
+  {
+    "entidad": "Regorafenib",
+    "relacion": "efecto_secundario",
+    "valor": "debilidad"
+  },
+  {
+    "entidad": "Regorafenib",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de apetito"
+  },
+  {
+    "entidad": "Regorafenib",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Regorafenib",
+    "relacion": "efecto_secundario",
+    "valor": "inflamación, dolor y enrojecimiento de la boca o garganta"
+  },
+  {
+    "entidad": "Regorafenib",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de peso"
+  },
+  {
+    "entidad": "Regorafenib",
+    "relacion": "efecto_secundario",
+    "valor": "ronquera"
+  },
+  {
+    "entidad": "Regorafenib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor en el pecho"
+  },
+  {
+    "entidad": "Regorafenib",
+    "relacion": "efecto_secundario",
+    "valor": "falta de aliento"
+  },
+  {
+    "entidad": "Regorafenib",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Regorafenib",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, bien cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Regorafenib",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente, lejos del calor excesivo y la humedad"
+  },
+  {
+    "entidad": "Regorafenib",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento o a los servicios de emergencia"
+  },
+  {
+    "entidad": "Regorafenib",
+    "relacion": "marca_comercial",
+    "valor": "Stivarga ®"
+  },
+  {
+    "entidad": "Resmetirom",
+    "relacion": "trata",
+    "valor": "esteatohepatitis no alcohólica con fibrosis hepática de moderada a avanzada"
+  },
+  {
+    "entidad": "Resmetirom",
+    "relacion": "uso",
+    "valor": "tabletas para tomar por vía oral, una vez al día con o sin alimentos"
+  },
+  {
+    "entidad": "Resmetirom",
+    "relacion": "otro_uso",
+    "valor": "a veces se receta para otros usos"
+  },
+  {
+    "entidad": "Resmetirom",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos que se están tomando"
+  },
+  {
+    "entidad": "Resmetirom",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta a menos que lo indique el médico"
+  },
+  {
+    "entidad": "Resmetirom",
+    "relacion": "olvido",
+    "valor": "tomar la dosis omitida tan pronto como lo recuerde, omitir si se acerca la próxima dosis"
+  },
+  {
+    "entidad": "Resmetirom",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Resmetirom",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Resmetirom",
+    "relacion": "efecto_secundario",
+    "valor": "picazón"
+  },
+  {
+    "entidad": "Resmetirom",
+    "relacion": "efecto_secundario",
+    "valor": "dolor abdominal"
+  },
+  {
+    "entidad": "Resmetirom",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Resmetirom",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Resmetirom",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Resmetirom",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio"
+  },
+  {
+    "entidad": "Resmetirom",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, bien cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Resmetirom",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento o a los servicios de emergencia"
+  },
+  {
+    "entidad": "Revumenib",
+    "relacion": "contraindicado_en",
+    "valor": "síndrome de diferenciación"
+  },
+  {
+    "entidad": "Revumenib",
+    "relacion": "trata",
+    "valor": "leucemia aguda que ha empeorado o reaparecido"
+  },
+  {
+    "entidad": "Revumenib",
+    "relacion": "uso",
+    "valor": "tableta que se toma dos veces al día"
+  },
+  {
+    "entidad": "Revumenib",
+    "relacion": "se_administra_via",
+    "valor": "vía oral"
+  },
+  {
+    "entidad": "Revumenib",
+    "relacion": "dieta",
+    "valor": "puede tomarse con una comida baja en grasas"
+  },
+  {
+    "entidad": "Revumenib",
+    "relacion": "olvido",
+    "valor": "omita la dosis que le faltó y siga con la habitual"
+  },
+  {
+    "entidad": "Revumenib",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Revumenib",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Revumenib",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Revumenib",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Revumenib",
+    "relacion": "efecto_secundario",
+    "valor": "disminución del apetito"
+  },
+  {
+    "entidad": "Revumenib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor muscular, articular u óseo"
+  },
+  {
+    "entidad": "Revumenib",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio"
+  },
+  {
+    "entidad": "Revumenib",
+    "relacion": "efecto_secundario",
+    "valor": "hinchazón en los brazos y piernas"
+  },
+  {
+    "entidad": "Revumenib",
+    "relacion": "efecto_secundario",
+    "valor": "mareos, aturdimiento o desvanecimientos"
+  },
+  {
+    "entidad": "Revumenib",
+    "relacion": "efecto_secundario",
+    "valor": "ritmo cardíaco rápido, fuerte o irregular"
+  },
+  {
+    "entidad": "Revumenib",
+    "relacion": "efecto_secundario",
+    "valor": "hemorragias nasales o de las encías"
+  },
+  {
+    "entidad": "Revumenib",
+    "relacion": "efecto_secundario",
+    "valor": "tos o vómitos con sangre"
+  },
+  {
+    "entidad": "Revumenib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de garganta, tos, fiebre"
+  },
+  {
+    "entidad": "Revumenib",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original, cerrado herméticamente"
+  },
+  {
+    "entidad": "Revumenib",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente, lejos de luz y humedad"
+  },
+  {
+    "entidad": "Revumenib",
+    "relacion": "sobredosis",
+    "valor": "llame a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Revumenib",
+    "relacion": "marca_comercial",
+    "valor": "Revuforj ®"
+  },
+  {
+    "entidad": "Rifampicina",
+    "relacion": "trata",
+    "valor": "tuberculosis"
+  },
+  {
+    "entidad": "Rifampicina",
+    "relacion": "trata",
+    "valor": "infecciones por Neisseria meningitidis"
+  },
+  {
+    "entidad": "Rifampicina",
+    "relacion": "uso",
+    "valor": "tomar con un vaso de agua con el estómago vacío"
+  },
+  {
+    "entidad": "Rifampicina",
+    "relacion": "uso",
+    "valor": "una vez al día para tuberculosis"
+  },
+  {
+    "entidad": "Rifampicina",
+    "relacion": "uso",
+    "valor": "dos veces al día durante 2 días o una vez al día durante 4 días para prevenir meningitis"
+  },
+  {
+    "entidad": "Rifampicina",
+    "relacion": "otro_uso",
+    "valor": "tratar infecciones causadas por otros tipos de bacterias"
+  },
+  {
+    "entidad": "Rifampicina",
+    "relacion": "otro_uso",
+    "valor": "prevenir infecciones en personas en contacto cercano con infecciones bacterianas graves"
+  },
+  {
+    "entidad": "Rifampicina",
+    "relacion": "precaucion",
+    "valor": "informar si es alérgico a rifampicina o medicamentos relacionados"
+  },
+  {
+    "entidad": "Rifampicina",
+    "relacion": "precaucion",
+    "valor": "informar sobre otros medicamentos que está tomando"
+  },
+  {
+    "entidad": "Rifampicina",
+    "relacion": "precaucion",
+    "valor": "tomar al menos 1 hora antes de antiácidos"
+  },
+  {
+    "entidad": "Rifampicina",
+    "relacion": "precaucion",
+    "valor": "puede disminuir la eficacia de anticonceptivos hormonales"
+  },
+  {
+    "entidad": "Rifampicina",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Rifampicina",
+    "relacion": "olvido",
+    "valor": "tomar la dosis omitida tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Rifampicina",
+    "relacion": "olvido",
+    "valor": "no duplicar la dosis"
+  },
+  {
+    "entidad": "Rifampicina",
+    "relacion": "efecto_secundario",
+    "valor": "discoloración temporal de piel, dientes, orina"
+  },
+  {
+    "entidad": "Rifampicina",
+    "relacion": "efecto_secundario",
+    "valor": "picazón"
+  },
+  {
+    "entidad": "Rifampicina",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Rifampicina",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Rifampicina",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, bien cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Rifampicina",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente, lejos del calor y la humedad"
+  },
+  {
+    "entidad": "Rifampicina",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Rifampicina",
+    "relacion": "marca_comercial",
+    "valor": "Rifadin"
+  },
+  {
+    "entidad": "Rifampicina",
+    "relacion": "marca_comercial",
+    "valor": "Rimactane"
+  },
+  {
+    "entidad": "Rifampicina",
+    "relacion": "marca_comercial",
+    "valor": "Rifamate"
+  },
+  {
+    "entidad": "Rifampicina",
+    "relacion": "marca_comercial",
+    "valor": "Rifater"
+  },
+  {
+    "entidad": "Rifaximina",
+    "relacion": "trata",
+    "valor": "diarrea del turista"
+  },
+  {
+    "entidad": "Rifaximina",
+    "relacion": "trata",
+    "valor": "encefalopatía hepática"
+  },
+  {
+    "entidad": "Rifaximina",
+    "relacion": "trata",
+    "valor": "síndrome de intestino irritable"
+  },
+  {
+    "entidad": "Rifaximina",
+    "relacion": "uso",
+    "valor": "tabletas por vía oral, con o sin alimentos"
+  },
+  {
+    "entidad": "Rifaximina",
+    "relacion": "uso",
+    "valor": "tres veces al día durante 3 días para diarrea del turista"
+  },
+  {
+    "entidad": "Rifaximina",
+    "relacion": "uso",
+    "valor": "dos veces al día para prevenir encefalopatía hepática"
+  },
+  {
+    "entidad": "Rifaximina",
+    "relacion": "uso",
+    "valor": "tres veces al día durante 14 días para síndrome de intestino irritable"
+  },
+  {
+    "entidad": "Rifaximina",
+    "relacion": "olvido",
+    "valor": "tome la dosis que omitió tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Rifaximina",
+    "relacion": "olvido",
+    "valor": "si es casi hora de la siguiente dosis, omita la que olvidó"
+  },
+  {
+    "entidad": "Rifaximina",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Rifaximina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago"
+  },
+  {
+    "entidad": "Rifaximina",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Rifaximina",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio excesivo"
+  },
+  {
+    "entidad": "Rifaximina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Rifaximina",
+    "relacion": "efecto_secundario",
+    "valor": "tensión en los músculos"
+  },
+  {
+    "entidad": "Rifaximina",
+    "relacion": "efecto_secundario",
+    "valor": "dolor en las articulaciones"
+  },
+  {
+    "entidad": "Rifaximina",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea acuosa o sanguinolenta"
+  },
+  {
+    "entidad": "Rifaximina",
+    "relacion": "efecto_secundario",
+    "valor": "urticaria"
+  },
+  {
+    "entidad": "Rifaximina",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Rifaximina",
+    "relacion": "efecto_secundario",
+    "valor": "picazón"
+  },
+  {
+    "entidad": "Rifaximina",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para respirar o tragar"
+  },
+  {
+    "entidad": "Rifaximina",
+    "relacion": "efecto_secundario",
+    "valor": "inflamación del rostro"
+  },
+  {
+    "entidad": "Rifaximina",
+    "relacion": "efecto_secundario",
+    "valor": "ronquera"
+  },
+  {
+    "entidad": "Rifaximina",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, bien cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Rifaximina",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente, lejos del calor y la humedad"
+  },
+  {
+    "entidad": "Rifaximina",
+    "relacion": "sobredosis",
+    "valor": "llame a la línea de ayuda de control de envenenamiento al 1-800-222-1222"
+  },
+  {
+    "entidad": "Rifaximina",
+    "relacion": "marca_comercial",
+    "valor": "Xifaxan"
+  },
+  {
+    "entidad": "Risperidona",
+    "relacion": "contraindicado_en",
+    "valor": "adultos mayores con demencia"
+  },
+  {
+    "entidad": "Risperidona",
+    "relacion": "trata",
+    "valor": "esquizofrenia"
+  },
+  {
+    "entidad": "Risperidona",
+    "relacion": "trata",
+    "valor": "episodios de manía"
+  },
+  {
+    "entidad": "Risperidona",
+    "relacion": "trata",
+    "valor": "episodios mixtos en trastorno bipolar"
+  },
+  {
+    "entidad": "Risperidona",
+    "relacion": "trata",
+    "valor": "problemas de comportamiento en autismo"
+  },
+  {
+    "entidad": "Risperidona",
+    "relacion": "uso",
+    "valor": "tableta, solución y tableta de desintegración oral"
+  },
+  {
+    "entidad": "Risperidona",
+    "relacion": "uso",
+    "valor": "tomar una o dos veces al día"
+  },
+  {
+    "entidad": "Risperidona",
+    "relacion": "se_administra_via",
+    "valor": "oral"
+  },
+  {
+    "entidad": "Risperidona",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Risperidona",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos actuales"
+  },
+  {
+    "entidad": "Risperidona",
+    "relacion": "precaucion",
+    "valor": "no consumir alcohol"
+  },
+  {
+    "entidad": "Risperidona",
+    "relacion": "dieta",
+    "valor": "continuar con dieta normal"
+  },
+  {
+    "entidad": "Risperidona",
+    "relacion": "olvido",
+    "valor": "tomar dosis omitida tan pronto como se recuerde"
+  },
+  {
+    "entidad": "Risperidona",
+    "relacion": "efecto_secundario",
+    "valor": "aumento de peso"
+  },
+  {
+    "entidad": "Risperidona",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Risperidona",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Risperidona",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Risperidona",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Risperidona",
+    "relacion": "efecto_secundario",
+    "valor": "acidez estomacal"
+  },
+  {
+    "entidad": "Risperidona",
+    "relacion": "efecto_secundario",
+    "valor": "boca seca"
+  },
+  {
+    "entidad": "Risperidona",
+    "relacion": "efecto_secundario",
+    "valor": "aumento de la salivación"
+  },
+  {
+    "entidad": "Risperidona",
+    "relacion": "efecto_secundario",
+    "valor": "aumento en el apetito"
+  },
+  {
+    "entidad": "Risperidona",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago"
+  },
+  {
+    "entidad": "Risperidona",
+    "relacion": "efecto_secundario",
+    "valor": "ansiedad"
+  },
+  {
+    "entidad": "Risperidona",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para conciliar el sueño"
+  },
+  {
+    "entidad": "Risperidona",
+    "relacion": "efecto_secundario",
+    "valor": "visión borrosa"
+  },
+  {
+    "entidad": "Risperidona",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Risperidona",
+    "relacion": "almacenamiento",
+    "valor": "mantener en empaque original y fuera del alcance de niños"
+  },
+  {
+    "entidad": "Risperidona",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Risperidona",
+    "relacion": "marca_comercial",
+    "valor": "Risperdal"
+  },
+  {
+    "entidad": "Risperidona",
+    "relacion": "marca_comercial",
+    "valor": "Risperdal M-TAB"
+  },
+  {
+    "entidad": "Rivaroxabán",
+    "relacion": "contraindicado_en",
+    "valor": "fibrilación auricular"
+  },
+  {
+    "entidad": "Rivaroxabán",
+    "relacion": "trata",
+    "valor": "trombosis venosa profunda"
+  },
+  {
+    "entidad": "Rivaroxabán",
+    "relacion": "trata",
+    "valor": "embolia pulmonar"
+  },
+  {
+    "entidad": "Rivaroxabán",
+    "relacion": "trata",
+    "valor": "prevención de derrames cerebrales en fibrilación atrial"
+  },
+  {
+    "entidad": "Rivaroxabán",
+    "relacion": "trata",
+    "valor": "prevención de TVP y EP post cirugía de reemplazo de cadera o rodilla"
+  },
+  {
+    "entidad": "Rivaroxabán",
+    "relacion": "trata",
+    "valor": "prevención de TVP y EP en hospitalizados"
+  },
+  {
+    "entidad": "Rivaroxabán",
+    "relacion": "trata",
+    "valor": "reducción del riesgo de ataque cardiaco en enfermedad de arterias coronarias"
+  },
+  {
+    "entidad": "Rivaroxabán",
+    "relacion": "trata",
+    "valor": "tratamiento y prevención de TVP y EP en niños"
+  },
+  {
+    "entidad": "Rivaroxabán",
+    "relacion": "uso",
+    "valor": "tabletas y suspensión para tomar por vía oral"
+  },
+  {
+    "entidad": "Rivaroxabán",
+    "relacion": "uso",
+    "valor": "tomar con alimentos"
+  },
+  {
+    "entidad": "Rivaroxabán",
+    "relacion": "se_administra_via",
+    "valor": "oral"
+  },
+  {
+    "entidad": "Rivaroxabán",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos"
+  },
+  {
+    "entidad": "Rivaroxabán",
+    "relacion": "dieta",
+    "valor": "continuar con dieta normal a menos que se indique lo contrario"
+  },
+  {
+    "entidad": "Rivaroxabán",
+    "relacion": "olvido",
+    "valor": "tomar dosis omitida tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Rivaroxabán",
+    "relacion": "efecto_secundario",
+    "valor": "sangrado o moretones inusuales"
+  },
+  {
+    "entidad": "Rivaroxabán",
+    "relacion": "efecto_secundario",
+    "valor": "heces con sangre, negras o alquitranadas"
+  },
+  {
+    "entidad": "Rivaroxabán",
+    "relacion": "efecto_secundario",
+    "valor": "sangrado de nariz frecuente"
+  },
+  {
+    "entidad": "Rivaroxabán",
+    "relacion": "efecto_secundario",
+    "valor": "debilidad"
+  },
+  {
+    "entidad": "Rivaroxabán",
+    "relacion": "almacenamiento",
+    "valor": "mantener en empaque original, cerrado y fuera del alcance de niños"
+  },
+  {
+    "entidad": "Rivaroxabán",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Rivaroxabán",
+    "relacion": "marca_comercial",
+    "valor": "Xarelto"
+  },
+  {
+    "entidad": "Rolapitant",
+    "relacion": "trata",
+    "valor": "prevención de náusea y vómitos tras quimioterapia"
+  },
+  {
+    "entidad": "Rolapitant",
+    "relacion": "uso",
+    "valor": "una sola dosis dentro de 2 horas antes de la quimioterapia"
+  },
+  {
+    "entidad": "Rolapitant",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos actuales"
+  },
+  {
+    "entidad": "Rolapitant",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta a menos que lo indique el médico"
+  },
+  {
+    "entidad": "Rolapitant",
+    "relacion": "olvido",
+    "valor": "no se debe tomar en una base regular"
+  },
+  {
+    "entidad": "Rolapitant",
+    "relacion": "efecto_secundario",
+    "valor": "hipo"
+  },
+  {
+    "entidad": "Rolapitant",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago"
+  },
+  {
+    "entidad": "Rolapitant",
+    "relacion": "efecto_secundario",
+    "valor": "disminución del apetito"
+  },
+  {
+    "entidad": "Rolapitant",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Rolapitant",
+    "relacion": "efecto_secundario",
+    "valor": "acidez estomacal"
+  },
+  {
+    "entidad": "Rolapitant",
+    "relacion": "efecto_secundario",
+    "valor": "aftas en la boca"
+  },
+  {
+    "entidad": "Rolapitant",
+    "relacion": "efecto_secundario",
+    "valor": "fiebre, escalofríos, dolor de garganta u otros síntomas de infección"
+  },
+  {
+    "entidad": "Rolapitant",
+    "relacion": "almacenamiento",
+    "valor": "mantener en empaque original, bien cerrado y a temperatura ambiente"
+  },
+  {
+    "entidad": "Rolapitant",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Rolapitant",
+    "relacion": "marca_comercial",
+    "valor": "Varubi"
+  },
+  {
+    "entidad": "Ropinirol",
+    "relacion": "trata",
+    "valor": "síntomas de la enfermedad de Parkinson"
+  },
+  {
+    "entidad": "Ropinirol",
+    "relacion": "trata",
+    "valor": "síndrome de piernas inquietas"
+  },
+  {
+    "entidad": "Ropinirol",
+    "relacion": "uso",
+    "valor": "tabletas y tabletas de liberación prolongada por vía oral"
+  },
+  {
+    "entidad": "Ropinirol",
+    "relacion": "uso",
+    "valor": "tomar con alimentos para prevenir malestar estomacal"
+  },
+  {
+    "entidad": "Ropinirol",
+    "relacion": "uso",
+    "valor": "tableta regular tres veces al día para Parkinson"
+  },
+  {
+    "entidad": "Ropinirol",
+    "relacion": "uso",
+    "valor": "tableta de liberación prolongada una vez al día para Parkinson"
+  },
+  {
+    "entidad": "Ropinirol",
+    "relacion": "uso",
+    "valor": "tableta regular una vez al día para piernas inquietas, 1 a 3 horas antes de acostarse"
+  },
+  {
+    "entidad": "Ropinirol",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias a ropinirol o ingredientes"
+  },
+  {
+    "entidad": "Ropinirol",
+    "relacion": "precaucion",
+    "valor": "informar sobre otros medicamentos, vitaminas y suplementos"
+  },
+  {
+    "entidad": "Ropinirol",
+    "relacion": "precaucion",
+    "valor": "informar sobre antecedentes de impulsos de juego incontrolables"
+  },
+  {
+    "entidad": "Ropinirol",
+    "relacion": "precaucion",
+    "valor": "informar si está embarazada o amamantando"
+  },
+  {
+    "entidad": "Ropinirol",
+    "relacion": "precaucion",
+    "valor": "no conducir ni operar maquinaria hasta conocer efectos"
+  },
+  {
+    "entidad": "Ropinirol",
+    "relacion": "precaucion",
+    "valor": "el alcohol puede aumentar la somnolencia"
+  },
+  {
+    "entidad": "Ropinirol",
+    "relacion": "precaucion",
+    "valor": "fumar puede disminuir la eficacia del medicamento"
+  },
+  {
+    "entidad": "Ropinirol",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta a menos que se indique"
+  },
+  {
+    "entidad": "Ropinirol",
+    "relacion": "olvido",
+    "valor": "tomar tan pronto como lo recuerde, omitir si es casi hora de la siguiente dosis"
+  },
+  {
+    "entidad": "Ropinirol",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Ropinirol",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Ropinirol",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago"
+  },
+  {
+    "entidad": "Ropinirol",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Ropinirol",
+    "relacion": "efecto_secundario",
+    "valor": "somnolencia"
+  },
+  {
+    "entidad": "Ropinirol",
+    "relacion": "efecto_secundario",
+    "valor": "confusión"
+  },
+  {
+    "entidad": "Ropinirol",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, bien cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Ropinirol",
+    "relacion": "almacenamiento",
+    "valor": "almacenar a temperatura ambiente, lejos de luz solar y humedad"
+  },
+  {
+    "entidad": "Ropinirol",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Ropinirol",
+    "relacion": "marca_comercial",
+    "valor": "Requip"
+  },
+  {
+    "entidad": "Ropinirol",
+    "relacion": "marca_comercial",
+    "valor": "Requip XL"
+  },
+  {
+    "entidad": "Rozanolixizumab-noli",
+    "relacion": "trata",
+    "valor": "ciertos tipos de miastenia gravis"
+  },
+  {
+    "entidad": "Rozanolixizumab-noli",
+    "relacion": "uso",
+    "valor": "solución para infusión subcutánea"
+  },
+  {
+    "entidad": "Rozanolixizumab-noli",
+    "relacion": "se_administra_via",
+    "valor": "infusión subcutánea"
+  },
+  {
+    "entidad": "Rozanolixizumab-noli",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Rozanolixizumab-noli",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos actuales"
+  },
+  {
+    "entidad": "Rozanolixizumab-noli",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Rozanolixizumab-noli",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Rozanolixizumab-noli",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Rozanolixizumab-noli",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Rozanolixizumab-noli",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Rozanolixizumab-noli",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago"
+  },
+  {
+    "entidad": "Rozanolixizumab-noli",
+    "relacion": "efecto_secundario",
+    "valor": "dolor en las articulaciones"
+  },
+  {
+    "entidad": "Rozanolixizumab-noli",
+    "relacion": "efecto_secundario",
+    "valor": "hematomas, hinchazón o enrojecimiento en el lugar de la inyección"
+  },
+  {
+    "entidad": "Rozanolixizumab-noli",
+    "relacion": "efecto_secundario",
+    "valor": "fiebre"
+  },
+  {
+    "entidad": "Rozanolixizumab-noli",
+    "relacion": "efecto_secundario",
+    "valor": "dolor o ardor al orinar, aumento de la frecuencia urinaria"
+  },
+  {
+    "entidad": "Rozanolixizumab-noli",
+    "relacion": "efecto_secundario",
+    "valor": "tos, falta de aliento, dificultad para respirar"
+  },
+  {
+    "entidad": "Rozanolixizumab-noli",
+    "relacion": "efecto_secundario",
+    "valor": "fatiga, rigidez de nuca, somnolencia, falta de respuesta, sensibilidad a las luces brillantes, convulsiones"
+  },
+  {
+    "entidad": "Rozanolixizumab-noli",
+    "relacion": "marca_comercial",
+    "valor": "Rystiggo ®"
+  },
+  {
+    "entidad": "Rucaparib",
+    "relacion": "trata",
+    "valor": "cáncer de ovarios"
+  },
+  {
+    "entidad": "Rucaparib",
+    "relacion": "trata",
+    "valor": "cáncer de trompa de Falopio"
+  },
+  {
+    "entidad": "Rucaparib",
+    "relacion": "trata",
+    "valor": "cáncer primario de peritoneo"
+  },
+  {
+    "entidad": "Rucaparib",
+    "relacion": "trata",
+    "valor": "cáncer de próstata"
+  },
+  {
+    "entidad": "Rucaparib",
+    "relacion": "uso",
+    "valor": "tabletas para tomar por vía oral"
+  },
+  {
+    "entidad": "Rucaparib",
+    "relacion": "uso",
+    "valor": "dos veces al día"
+  },
+  {
+    "entidad": "Rucaparib",
+    "relacion": "uso",
+    "valor": "con o sin alimentos"
+  },
+  {
+    "entidad": "Rucaparib",
+    "relacion": "olvido",
+    "valor": "omite la dosis que le faltó y continúe con su programa de dosificación habitual"
+  },
+  {
+    "entidad": "Rucaparib",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Rucaparib",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Rucaparib",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Rucaparib",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Rucaparib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago"
+  },
+  {
+    "entidad": "Rucaparib",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de apetito"
+  },
+  {
+    "entidad": "Rucaparib",
+    "relacion": "efecto_secundario",
+    "valor": "mal sabor en la boca"
+  },
+  {
+    "entidad": "Rucaparib",
+    "relacion": "efecto_secundario",
+    "valor": "picazón"
+  },
+  {
+    "entidad": "Rucaparib",
+    "relacion": "efecto_secundario",
+    "valor": "aftas en la boca"
+  },
+  {
+    "entidad": "Rucaparib",
+    "relacion": "efecto_secundario",
+    "valor": "congestión nasal"
+  },
+  {
+    "entidad": "Rucaparib",
+    "relacion": "efecto_secundario",
+    "valor": "debilidad"
+  },
+  {
+    "entidad": "Rucaparib",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio"
+  },
+  {
+    "entidad": "Rucaparib",
+    "relacion": "efecto_secundario",
+    "valor": "fiebre"
+  },
+  {
+    "entidad": "Rucaparib",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de peso"
+  },
+  {
+    "entidad": "Rucaparib",
+    "relacion": "efecto_secundario",
+    "valor": "moretones que se forman con facilidad"
+  },
+  {
+    "entidad": "Rucaparib",
+    "relacion": "efecto_secundario",
+    "valor": "sangrado"
+  },
+  {
+    "entidad": "Rucaparib",
+    "relacion": "efecto_secundario",
+    "valor": "sangre en la orina o las heces"
+  },
+  {
+    "entidad": "Rucaparib",
+    "relacion": "efecto_secundario",
+    "valor": "piel pálida"
+  },
+  {
+    "entidad": "Rucaparib",
+    "relacion": "efecto_secundario",
+    "valor": "falta de aliento"
+  },
+  {
+    "entidad": "Rucaparib",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Rucaparib",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original y bien cerrado"
+  },
+  {
+    "entidad": "Rucaparib",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente y lejos del calor excesivo y la humedad"
+  },
+  {
+    "entidad": "Rucaparib",
+    "relacion": "sobredosis",
+    "valor": "llame a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Rucaparib",
+    "relacion": "marca_comercial",
+    "valor": "Rubraca ®"
+  },
+  {
+    "entidad": "Selpercatinib",
+    "relacion": "trata",
+    "valor": "cáncer de pulmón de células no pequeñas (CPCNP)"
+  },
+  {
+    "entidad": "Selpercatinib",
+    "relacion": "trata",
+    "valor": "cáncer de tiroides que ha progresado"
+  },
+  {
+    "entidad": "Selpercatinib",
+    "relacion": "trata",
+    "valor": "tumores sólidos en adultos y niños a partir de 2 años"
+  },
+  {
+    "entidad": "Selpercatinib",
+    "relacion": "uso",
+    "valor": "cápsula y tableta para administrarse por vía oral"
+  },
+  {
+    "entidad": "Selpercatinib",
+    "relacion": "uso",
+    "valor": "tomarse dos veces al día (o tres veces al día en niños pequeños)"
+  },
+  {
+    "entidad": "Selpercatinib",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias a selpercatinib o ingredientes"
+  },
+  {
+    "entidad": "Selpercatinib",
+    "relacion": "precaucion",
+    "valor": "informar sobre otros medicamentos que se están tomando"
+  },
+  {
+    "entidad": "Selpercatinib",
+    "relacion": "precaucion",
+    "valor": "tomar al menos 2 horas antes o después de ciertos medicamentos"
+  },
+  {
+    "entidad": "Selpercatinib",
+    "relacion": "precaucion",
+    "valor": "no quedar embarazada durante el tratamiento"
+  },
+  {
+    "entidad": "Selpercatinib",
+    "relacion": "dieta",
+    "valor": "hablar sobre comer o tomar jugo de toronja"
+  },
+  {
+    "entidad": "Selpercatinib",
+    "relacion": "olvido",
+    "valor": "tomar la dosis omitida tan pronto como se recuerde"
+  },
+  {
+    "entidad": "Selpercatinib",
+    "relacion": "efecto_secundario",
+    "valor": "boca seca"
+  },
+  {
+    "entidad": "Selpercatinib",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Selpercatinib",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Selpercatinib",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Selpercatinib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Selpercatinib",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio"
+  },
+  {
+    "entidad": "Selpercatinib",
+    "relacion": "efecto_secundario",
+    "valor": "hinchazón en brazos, piernas, manos y pies"
+  },
+  {
+    "entidad": "Selpercatinib",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original, cerrado herméticamente"
+  },
+  {
+    "entidad": "Selpercatinib",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente, lejos del calor y la humedad"
+  },
+  {
+    "entidad": "Selpercatinib",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Selpercatinib",
+    "relacion": "marca_comercial",
+    "valor": "Retevmo ®"
+  },
+  {
+    "entidad": "Semaglutida",
+    "relacion": "contraindicado_en",
+    "valor": "carcinoma medular de tiroides"
+  },
+  {
+    "entidad": "Semaglutida",
+    "relacion": "trata",
+    "valor": "diabetes tipo 2"
+  },
+  {
+    "entidad": "Semaglutida",
+    "relacion": "uso",
+    "valor": "tomar por vía oral con el estómago vacío una vez al día"
+  },
+  {
+    "entidad": "Semaglutida",
+    "relacion": "se_administra_via",
+    "valor": "oral"
+  },
+  {
+    "entidad": "Semaglutida",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y otros medicamentos"
+  },
+  {
+    "entidad": "Semaglutida",
+    "relacion": "dieta",
+    "valor": "seguir una dieta saludable y hacer ejercicio regularmente"
+  },
+  {
+    "entidad": "Semaglutida",
+    "relacion": "olvido",
+    "valor": "omitir la dosis y continuar con el programa habitual"
+  },
+  {
+    "entidad": "Semaglutida",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Semaglutida",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Semaglutida",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Semaglutida",
+    "relacion": "efecto_secundario",
+    "valor": "dolor abdominal"
+  },
+  {
+    "entidad": "Semaglutida",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Semaglutida",
+    "relacion": "efecto_secundario",
+    "valor": "disminución del apetito"
+  },
+  {
+    "entidad": "Semaglutida",
+    "relacion": "efecto_secundario",
+    "valor": "acidez estomacal"
+  },
+  {
+    "entidad": "Semaglutida",
+    "relacion": "efecto_secundario",
+    "valor": "eructos"
+  },
+  {
+    "entidad": "Semaglutida",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Semaglutida",
+    "relacion": "efecto_secundario",
+    "valor": "cambios en la visión"
+  },
+  {
+    "entidad": "Semaglutida",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, a temperatura ambiente y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Semaglutida",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Sevelámero",
+    "relacion": "trata",
+    "valor": "niveles altos de fósforo en la sangre en personas con enfermedad renal crónica sometidas a diálisis"
+  },
+  {
+    "entidad": "Sevelámero",
+    "relacion": "uso",
+    "valor": "tres veces al día con las comidas"
+  },
+  {
+    "entidad": "Sevelámero",
+    "relacion": "se_administra_via",
+    "valor": "vía oral"
+  },
+  {
+    "entidad": "Sevelámero",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Sevelámero",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos actuales"
+  },
+  {
+    "entidad": "Sevelámero",
+    "relacion": "dieta",
+    "valor": "dieta baja en fósforo"
+  },
+  {
+    "entidad": "Sevelámero",
+    "relacion": "olvido",
+    "valor": "omitir la dosis y continuar con el programa habitual"
+  },
+  {
+    "entidad": "Sevelámero",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Sevelámero",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Sevelámero",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Sevelámero",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago"
+  },
+  {
+    "entidad": "Sevelámero",
+    "relacion": "efecto_secundario",
+    "valor": "gases"
+  },
+  {
+    "entidad": "Sevelámero",
+    "relacion": "efecto_secundario",
+    "valor": "acidez estomacal"
+  },
+  {
+    "entidad": "Sevelámero",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento nuevo o que empeora"
+  },
+  {
+    "entidad": "Sevelámero",
+    "relacion": "efecto_secundario",
+    "valor": "heces negras y alquitranadas"
+  },
+  {
+    "entidad": "Sevelámero",
+    "relacion": "efecto_secundario",
+    "valor": "sangre de color rojo en las heces"
+  },
+  {
+    "entidad": "Sevelámero",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, bien cerrado y a temperatura ambiente"
+  },
+  {
+    "entidad": "Sevelámero",
+    "relacion": "marca_comercial",
+    "valor": "Renagel"
+  },
+  {
+    "entidad": "Sevelámero",
+    "relacion": "marca_comercial",
+    "valor": "Renvela"
+  },
+  {
+    "entidad": "Silodosina",
+    "relacion": "trata",
+    "valor": "síntomas del agrandamiento de la próstata (hiperplasia prostática benigna, HPB)"
+  },
+  {
+    "entidad": "Silodosina",
+    "relacion": "uso",
+    "valor": "tomar con los alimentos una vez al día"
+  },
+  {
+    "entidad": "Silodosina",
+    "relacion": "se_administra_via",
+    "valor": "vía oral"
+  },
+  {
+    "entidad": "Silodosina",
+    "relacion": "otro_uso",
+    "valor": "otros usos según indicación médica"
+  },
+  {
+    "entidad": "Silodosina",
+    "relacion": "precaucion",
+    "valor": "no usar en mujeres, especialmente si están embarazadas o en lactancia"
+  },
+  {
+    "entidad": "Silodosina",
+    "relacion": "dieta",
+    "valor": "consultar sobre el consumo de jugo de pomelo"
+  },
+  {
+    "entidad": "Silodosina",
+    "relacion": "olvido",
+    "valor": "tomar la dosis olvidada con una comida tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Silodosina",
+    "relacion": "efecto_secundario",
+    "valor": "orgasmo con poco o ningún semen"
+  },
+  {
+    "entidad": "Silodosina",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Silodosina",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Silodosina",
+    "relacion": "efecto_secundario",
+    "valor": "presión arterial baja"
+  },
+  {
+    "entidad": "Silodosina",
+    "relacion": "efecto_secundario",
+    "valor": "congestión o secreción nasal"
+  },
+  {
+    "entidad": "Silodosina",
+    "relacion": "efecto_secundario",
+    "valor": "erección dolorosa del pene"
+  },
+  {
+    "entidad": "Silodosina",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, bien cerrado y a temperatura ambiente"
+  },
+  {
+    "entidad": "Silodosina",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento o a servicios de emergencia"
+  },
+  {
+    "entidad": "Silodosina",
+    "relacion": "marca_comercial",
+    "valor": "Rapaflo ®"
+  },
+  {
+    "entidad": "Sirolimus",
+    "relacion": "contraindicado_en",
+    "valor": "prevención del rechazo de trasplantes de hígado o pulmón"
+  },
+  {
+    "entidad": "Sirolimus",
+    "relacion": "trata",
+    "valor": "prevención del rechazo de los trasplantes de riñón"
+  },
+  {
+    "entidad": "Sirolimus",
+    "relacion": "uso",
+    "valor": "tomar una vez al día, con o sin alimentos"
+  },
+  {
+    "entidad": "Sirolimus",
+    "relacion": "se_administra_via",
+    "valor": "vía oral"
+  },
+  {
+    "entidad": "Sirolimus",
+    "relacion": "otro_uso",
+    "valor": "tratamiento de la psoriasis"
+  },
+  {
+    "entidad": "Sirolimus",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos actuales"
+  },
+  {
+    "entidad": "Sirolimus",
+    "relacion": "dieta",
+    "valor": "evitar jugo de pomelo (toronja)"
+  },
+  {
+    "entidad": "Sirolimus",
+    "relacion": "olvido",
+    "valor": "tomar la dosis olvidada tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Sirolimus",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago"
+  },
+  {
+    "entidad": "Sirolimus",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Sirolimus",
+    "relacion": "efecto_secundario",
+    "valor": "estreñimiento"
+  },
+  {
+    "entidad": "Sirolimus",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea"
+  },
+  {
+    "entidad": "Sirolimus",
+    "relacion": "efecto_secundario",
+    "valor": "náusea"
+  },
+  {
+    "entidad": "Sirolimus",
+    "relacion": "efecto_secundario",
+    "valor": "dolor en las articulaciones"
+  },
+  {
+    "entidad": "Sirolimus",
+    "relacion": "efecto_secundario",
+    "valor": "sangrado o moretones inusuales"
+  },
+  {
+    "entidad": "Sirolimus",
+    "relacion": "efecto_secundario",
+    "valor": "tos"
+  },
+  {
+    "entidad": "Sirolimus",
+    "relacion": "efecto_secundario",
+    "valor": "piel hinchada, roja, agrietada y escamosa"
+  },
+  {
+    "entidad": "Sirolimus",
+    "relacion": "efecto_secundario",
+    "valor": "urticaria"
+  },
+  {
+    "entidad": "Sirolimus",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Sirolimus",
+    "relacion": "efecto_secundario",
+    "valor": "picazón"
+  },
+  {
+    "entidad": "Sirolimus",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para respirar o tragar"
+  },
+  {
+    "entidad": "Sirolimus",
+    "relacion": "efecto_secundario",
+    "valor": "inflamación del rostro y garganta"
+  },
+  {
+    "entidad": "Sirolimus",
+    "relacion": "efecto_secundario",
+    "valor": "ronquera"
+  },
+  {
+    "entidad": "Sirolimus",
+    "relacion": "almacenamiento",
+    "valor": "mantener en empaque original, a temperatura ambiente y lejos de luz y humedad"
+  },
+  {
+    "entidad": "Sirolimus",
+    "relacion": "almacenamiento",
+    "valor": "guardar el medicamento líquido en el refrigerador"
+  },
+  {
+    "entidad": "Sirolimus",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Sirolimus",
+    "relacion": "marca_comercial",
+    "valor": "Rapamune"
+  },
+  {
+    "entidad": "Temazepam",
+    "relacion": "contraindicado_en",
+    "valor": "medicamentos opioides"
+  },
+  {
+    "entidad": "Temazepam",
+    "relacion": "trata",
+    "valor": "insomnio"
+  },
+  {
+    "entidad": "Temazepam",
+    "relacion": "uso",
+    "valor": "tomar a la hora de acostarse, seguir instrucciones médicas"
+  },
+  {
+    "entidad": "Temazepam",
+    "relacion": "se_administra_via",
+    "valor": "vía oral"
+  },
+  {
+    "entidad": "Temazepam",
+    "relacion": "otro_uso",
+    "valor": "otros usos bajo consulta médica"
+  },
+  {
+    "entidad": "Temazepam",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias y medicamentos concurrentes"
+  },
+  {
+    "entidad": "Temazepam",
+    "relacion": "dieta",
+    "valor": "no es necesario cambiar la dieta"
+  },
+  {
+    "entidad": "Temazepam",
+    "relacion": "olvido",
+    "valor": "tomar si puede dormir 7 a 8 horas"
+  },
+  {
+    "entidad": "Temazepam",
+    "relacion": "efecto_secundario",
+    "valor": "somnolencia"
+  },
+  {
+    "entidad": "Temazepam",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Temazepam",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Temazepam",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Temazepam",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Temazepam",
+    "relacion": "efecto_secundario",
+    "valor": "urticaria"
+  },
+  {
+    "entidad": "Temazepam",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para respirar"
+  },
+  {
+    "entidad": "Temazepam",
+    "relacion": "almacenamiento",
+    "valor": "mantener en empaque original, fuera del alcance de niños"
+  },
+  {
+    "entidad": "Temazepam",
+    "relacion": "sobredosis",
+    "valor": "llamar a control de envenenamiento o servicios de emergencia"
+  },
+  {
+    "entidad": "Temazepam",
+    "relacion": "marca_comercial",
+    "valor": "Restoril"
+  },
+  {
+    "entidad": "Unoprostona oftálmica",
+    "relacion": "trata",
+    "valor": "glaucoma"
+  },
+  {
+    "entidad": "Unoprostona oftálmica",
+    "relacion": "trata",
+    "valor": "hipertensión ocular"
+  },
+  {
+    "entidad": "Unoprostona oftálmica",
+    "relacion": "uso",
+    "valor": "solución para introducir en el ojo, dos veces al día"
+  },
+  {
+    "entidad": "Unoprostona oftálmica",
+    "relacion": "se_administra_via",
+    "valor": "vía ocular"
+  },
+  {
+    "entidad": "Unoprostona oftálmica",
+    "relacion": "precaucion",
+    "valor": "indicar alergias a unoprostona o ingredientes de la solución"
+  },
+  {
+    "entidad": "Unoprostona oftálmica",
+    "relacion": "precaucion",
+    "valor": "dejar pasar al menos 5 minutos entre medicamentos oculares tópicos"
+  },
+  {
+    "entidad": "Unoprostona oftálmica",
+    "relacion": "precaucion",
+    "valor": "informar sobre otros medicamentos, vitaminas o suplementos"
+  },
+  {
+    "entidad": "Unoprostona oftálmica",
+    "relacion": "precaucion",
+    "valor": "indicar si tiene inflamación del ojo o problemas médicos"
+  },
+  {
+    "entidad": "Unoprostona oftálmica",
+    "relacion": "precaucion",
+    "valor": "informar si está embarazada o amamantando"
+  },
+  {
+    "entidad": "Unoprostona oftálmica",
+    "relacion": "dieta",
+    "valor": "continuar con la dieta normal a menos que se indique lo contrario"
+  },
+  {
+    "entidad": "Unoprostona oftálmica",
+    "relacion": "olvido",
+    "valor": "aplicar la dosis omitida tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Unoprostona oftálmica",
+    "relacion": "efecto_secundario",
+    "valor": "cambio de color de los ojos a café"
+  },
+  {
+    "entidad": "Unoprostona oftálmica",
+    "relacion": "efecto_secundario",
+    "valor": "oscurecimiento de los párpados y piel alrededor de los ojos"
+  },
+  {
+    "entidad": "Unoprostona oftálmica",
+    "relacion": "efecto_secundario",
+    "valor": "aumento en la longitud, grosor o cantidad de pestañas"
+  },
+  {
+    "entidad": "Unoprostona oftálmica",
+    "relacion": "efecto_secundario",
+    "valor": "ardor, picazón o comezón de los ojos"
+  },
+  {
+    "entidad": "Unoprostona oftálmica",
+    "relacion": "efecto_secundario",
+    "valor": "ojos secos"
+  },
+  {
+    "entidad": "Unoprostona oftálmica",
+    "relacion": "efecto_secundario",
+    "valor": "enrojecimiento, inflamación, secreción o dolor de los ojos"
+  },
+  {
+    "entidad": "Unoprostona oftálmica",
+    "relacion": "efecto_secundario",
+    "valor": "cambios en la visión de color"
+  },
+  {
+    "entidad": "Unoprostona oftálmica",
+    "relacion": "almacenamiento",
+    "valor": "mantener en el envase original, cerrado herméticamente y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Unoprostona oftálmica",
+    "relacion": "almacenamiento",
+    "valor": "almacenar a temperatura ambiente, lejos del exceso de calor y humedad"
+  },
+  {
+    "entidad": "Unoprostona oftálmica",
+    "relacion": "marca_comercial",
+    "valor": "Rescula ®"
+  },
+  {
+    "entidad": "Upadacitinib",
+    "relacion": "contraindicado_en",
+    "valor": "infecciones graves"
+  },
+  {
+    "entidad": "Upadacitinib",
+    "relacion": "trata",
+    "valor": "artritis reumatoide"
+  },
+  {
+    "entidad": "Upadacitinib",
+    "relacion": "trata",
+    "valor": "artritis psoriásica"
+  },
+  {
+    "entidad": "Upadacitinib",
+    "relacion": "trata",
+    "valor": "eczema"
+  },
+  {
+    "entidad": "Upadacitinib",
+    "relacion": "trata",
+    "valor": "colitis ulcerosa"
+  },
+  {
+    "entidad": "Upadacitinib",
+    "relacion": "trata",
+    "valor": "enfermedad de Crohn"
+  },
+  {
+    "entidad": "Upadacitinib",
+    "relacion": "trata",
+    "valor": "espondilitis anquilosante"
+  },
+  {
+    "entidad": "Upadacitinib",
+    "relacion": "trata",
+    "valor": "espondiloartritis axial activa no radiográfica"
+  },
+  {
+    "entidad": "Upadacitinib",
+    "relacion": "trata",
+    "valor": "artritis idiopática juvenil poliarticular"
+  },
+  {
+    "entidad": "Upadacitinib",
+    "relacion": "uso",
+    "valor": "tableta de liberación prolongada y solución oral"
+  },
+  {
+    "entidad": "Upadacitinib",
+    "relacion": "se_administra_via",
+    "valor": "oral"
+  },
+  {
+    "entidad": "Upadacitinib",
+    "relacion": "dieta",
+    "valor": "evitar jugo de toronja"
+  },
+  {
+    "entidad": "Upadacitinib",
+    "relacion": "olvido",
+    "valor": "tome la dosis que omitió tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Upadacitinib",
+    "relacion": "efecto_secundario",
+    "valor": "aumento de los niveles de colesterol"
+  },
+  {
+    "entidad": "Upadacitinib",
+    "relacion": "efecto_secundario",
+    "valor": "congestión o secreción nasal"
+  },
+  {
+    "entidad": "Upadacitinib",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Upadacitinib",
+    "relacion": "efecto_secundario",
+    "valor": "acné"
+  },
+  {
+    "entidad": "Upadacitinib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de cabeza"
+  },
+  {
+    "entidad": "Upadacitinib",
+    "relacion": "efecto_secundario",
+    "valor": "aumento de peso"
+  },
+  {
+    "entidad": "Upadacitinib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor muscular"
+  },
+  {
+    "entidad": "Upadacitinib",
+    "relacion": "efecto_secundario",
+    "valor": "urticaria"
+  },
+  {
+    "entidad": "Upadacitinib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor de estómago"
+  },
+  {
+    "entidad": "Upadacitinib",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para respirar"
+  },
+  {
+    "entidad": "Upadacitinib",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, bien cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Upadacitinib",
+    "relacion": "almacenamiento",
+    "valor": "guardar en refrigerado o a temperatura ambiente"
+  },
+  {
+    "entidad": "Upadacitinib",
+    "relacion": "sobredosis",
+    "valor": "llame a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Upadacitinib",
+    "relacion": "marca_comercial",
+    "valor": "Rinvoq"
+  },
+  {
+    "entidad": "Upadacitinib",
+    "relacion": "marca_comercial",
+    "valor": "Rinvoq LQ"
+  },
+  {
+    "entidad": "Vacuna contra el rotavirus",
+    "relacion": "trata",
+    "valor": "previene la enfermedad por rotavirus"
+  },
+  {
+    "entidad": "Vacuna contra el rotavirus",
+    "relacion": "se_administra_via",
+    "valor": "gotas en la boca"
+  },
+  {
+    "entidad": "Vacuna contra el rotavirus",
+    "relacion": "uso",
+    "valor": "2 a 3 dosis dependiendo de la marca"
+  },
+  {
+    "entidad": "Vacuna contra el rotavirus",
+    "relacion": "marca_comercial",
+    "valor": "Rotarix"
+  },
+  {
+    "entidad": "Vacuna contra el rotavirus",
+    "relacion": "marca_comercial",
+    "valor": "RotaTeq"
+  },
+  {
+    "entidad": "Vacuna contra el rotavirus",
+    "relacion": "precaucion",
+    "valor": "posponer si el bebé tiene enfermedades moderadas o graves"
+  },
+  {
+    "entidad": "Vacuna contra el rotavirus",
+    "relacion": "efecto_secundario",
+    "valor": "irritabilidad"
+  },
+  {
+    "entidad": "Vacuna contra el rotavirus",
+    "relacion": "efecto_secundario",
+    "valor": "diarrea leve y temporal"
+  },
+  {
+    "entidad": "Vacuna contra el rotavirus",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Vacuna contra el rotavirus",
+    "relacion": "sobredosis",
+    "valor": "contactar a un profesional médico si hay síntomas graves"
+  },
+  {
+    "entidad": "Vacuna contra el rotavirus",
+    "relacion": "almacenamiento",
+    "valor": "seguir las indicaciones del proveedor de atención médica"
+  },
+  {
+    "entidad": "Vimseltinib",
+    "relacion": "trata",
+    "valor": "tumores de células gigantes tenosinoviales"
+  },
+  {
+    "entidad": "Vimseltinib",
+    "relacion": "uso",
+    "valor": "cápsulas para tomar por vía oral, dos veces por semana"
+  },
+  {
+    "entidad": "Vimseltinib",
+    "relacion": "se_administra_via",
+    "valor": "vía oral"
+  },
+  {
+    "entidad": "Vimseltinib",
+    "relacion": "olvido",
+    "valor": "si olvida una dosis dentro de 48 horas, tómela tan pronto como lo recuerde"
+  },
+  {
+    "entidad": "Vimseltinib",
+    "relacion": "efecto_secundario",
+    "valor": "cansancio"
+  },
+  {
+    "entidad": "Vimseltinib",
+    "relacion": "efecto_secundario",
+    "valor": "entumecimiento, ardor u hormigueo en brazos, manos, pies o piernas"
+  },
+  {
+    "entidad": "Vimseltinib",
+    "relacion": "efecto_secundario",
+    "valor": "hinchazón en o alrededor del ojo"
+  },
+  {
+    "entidad": "Vimseltinib",
+    "relacion": "efecto_secundario",
+    "valor": "hinchazón de las manos, pies, tobillos o pantorrillas"
+  },
+  {
+    "entidad": "Vimseltinib",
+    "relacion": "efecto_secundario",
+    "valor": "coloración amarillenta de la piel o los ojos"
+  },
+  {
+    "entidad": "Vimseltinib",
+    "relacion": "efecto_secundario",
+    "valor": "orina oscura"
+  },
+  {
+    "entidad": "Vimseltinib",
+    "relacion": "efecto_secundario",
+    "valor": "pérdida de apetito"
+  },
+  {
+    "entidad": "Vimseltinib",
+    "relacion": "efecto_secundario",
+    "valor": "fatiga"
+  },
+  {
+    "entidad": "Vimseltinib",
+    "relacion": "efecto_secundario",
+    "valor": "náuseas"
+  },
+  {
+    "entidad": "Vimseltinib",
+    "relacion": "efecto_secundario",
+    "valor": "vómitos"
+  },
+  {
+    "entidad": "Vimseltinib",
+    "relacion": "efecto_secundario",
+    "valor": "fiebre"
+  },
+  {
+    "entidad": "Vimseltinib",
+    "relacion": "efecto_secundario",
+    "valor": "dolor o molestias en la zona superior derecha del estómago"
+  },
+  {
+    "entidad": "Vimseltinib",
+    "relacion": "efecto_secundario",
+    "valor": "erupción cutánea, picazón, urticaria o dificultad para respirar"
+  },
+  {
+    "entidad": "Vimseltinib",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su empaque original, bien cerrado y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Vimseltinib",
+    "relacion": "almacenamiento",
+    "valor": "guardar a temperatura ambiente y lejos del calor excesivo y la humedad"
+  },
+  {
+    "entidad": "Vimseltinib",
+    "relacion": "sobredosis",
+    "valor": "llame a la línea de ayuda de control de envenenamiento al 1-800-222-1222"
+  },
+  {
+    "entidad": "Vimseltinib",
+    "relacion": "marca_comercial",
+    "valor": "Romvimza ®"
+  },
+  {
+    "entidad": "Zanamivir inhalable",
+    "relacion": "trata",
+    "valor": "algunos tipos de influenza en personas con síntomas por menos de 2 días"
+  },
+  {
+    "entidad": "Zanamivir inhalable",
+    "relacion": "trata",
+    "valor": "prevención de gripe en personas expuestas"
+  },
+  {
+    "entidad": "Zanamivir inhalable",
+    "relacion": "uso",
+    "valor": "dos inhalaciones diarias por 5 días para tratar la influenza"
+  },
+  {
+    "entidad": "Zanamivir inhalable",
+    "relacion": "uso",
+    "valor": "una vez al día durante 10 días para prevenir contagio en casa"
+  },
+  {
+    "entidad": "Zanamivir inhalable",
+    "relacion": "uso",
+    "valor": "una vez al día durante 28 días para prevenir contagio en comunidad"
+  },
+  {
+    "entidad": "Zanamivir inhalable",
+    "relacion": "se_administra_via",
+    "valor": "inhalación por la boca"
+  },
+  {
+    "entidad": "Zanamivir inhalable",
+    "relacion": "otro_uso",
+    "valor": "tratar y prevenir la influenza A (H1N1)"
+  },
+  {
+    "entidad": "Zanamivir inhalable",
+    "relacion": "precaucion",
+    "valor": "informar sobre alergias a zanamivir y otros medicamentos"
+  },
+  {
+    "entidad": "Zanamivir inhalable",
+    "relacion": "precaucion",
+    "valor": "informar sobre medicamentos que está tomando"
+  },
+  {
+    "entidad": "Zanamivir inhalable",
+    "relacion": "precaucion",
+    "valor": "informar si tiene asma u otros problemas respiratorios"
+  },
+  {
+    "entidad": "Zanamivir inhalable",
+    "relacion": "precaucion",
+    "valor": "informar si está embarazada o dando el pecho"
+  },
+  {
+    "entidad": "Zanamivir inhalable",
+    "relacion": "precaucion",
+    "valor": "puede provocar problemas respiratorios graves"
+  },
+  {
+    "entidad": "Zanamivir inhalable",
+    "relacion": "precaucion",
+    "valor": "observar comportamiento de niños durante el tratamiento"
+  },
+  {
+    "entidad": "Zanamivir inhalable",
+    "relacion": "dieta",
+    "valor": "continuar con dieta normal a menos que se indique lo contrario"
+  },
+  {
+    "entidad": "Zanamivir inhalable",
+    "relacion": "olvido",
+    "valor": "inhala tan pronto como se acuerde, no doble dosis"
+  },
+  {
+    "entidad": "Zanamivir inhalable",
+    "relacion": "efecto_secundario",
+    "valor": "mareos"
+  },
+  {
+    "entidad": "Zanamivir inhalable",
+    "relacion": "efecto_secundario",
+    "valor": "irritación de la nariz"
+  },
+  {
+    "entidad": "Zanamivir inhalable",
+    "relacion": "efecto_secundario",
+    "valor": "dolor articular"
+  },
+  {
+    "entidad": "Zanamivir inhalable",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para respirar"
+  },
+  {
+    "entidad": "Zanamivir inhalable",
+    "relacion": "efecto_secundario",
+    "valor": "sibilancia"
+  },
+  {
+    "entidad": "Zanamivir inhalable",
+    "relacion": "efecto_secundario",
+    "valor": "falta de aire"
+  },
+  {
+    "entidad": "Zanamivir inhalable",
+    "relacion": "efecto_secundario",
+    "valor": "urticaria"
+  },
+  {
+    "entidad": "Zanamivir inhalable",
+    "relacion": "efecto_secundario",
+    "valor": "sarpullido"
+  },
+  {
+    "entidad": "Zanamivir inhalable",
+    "relacion": "efecto_secundario",
+    "valor": "comezón"
+  },
+  {
+    "entidad": "Zanamivir inhalable",
+    "relacion": "efecto_secundario",
+    "valor": "dificultad para tragar"
+  },
+  {
+    "entidad": "Zanamivir inhalable",
+    "relacion": "efecto_secundario",
+    "valor": "inflamación de la cara y garganta"
+  },
+  {
+    "entidad": "Zanamivir inhalable",
+    "relacion": "efecto_secundario",
+    "valor": "ronquera"
+  },
+  {
+    "entidad": "Zanamivir inhalable",
+    "relacion": "almacenamiento",
+    "valor": "mantener en su envase original y fuera del alcance de los niños"
+  },
+  {
+    "entidad": "Zanamivir inhalable",
+    "relacion": "almacenamiento",
+    "valor": "almacenar a temperatura ambiente, alejado del calor y humedad"
+  },
+  {
+    "entidad": "Zanamivir inhalable",
+    "relacion": "sobredosis",
+    "valor": "llamar a la línea de ayuda de control de envenenamiento"
+  },
+  {
+    "entidad": "Zanamivir inhalable",
+    "relacion": "marca_comercial",
+    "valor": "Relenza ®"
+  }
+]

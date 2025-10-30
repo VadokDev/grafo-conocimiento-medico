@@ -1,0 +1,842 @@
+[
+  {
+    "entidad": "Bienestar subjetivo",
+    "relacion": "tiene una asociación positiva con",
+    "valor": "Estado de salud auto percibido"
+  },
+  {
+    "entidad": "Bienestar subjetivo",
+    "relacion": "tiene una asociación positiva con",
+    "valor": "Funcionalidad"
+  },
+  {
+    "entidad": "Bienestar subjetivo",
+    "relacion": "tiene una asociación positiva con",
+    "valor": "Participación social"
+  },
+  {
+    "entidad": "Estado de salud auto percibido",
+    "relacion": "es un predictor de",
+    "valor": "Bienestar subjetivo"
+  },
+  {
+    "entidad": "Funcionalidad",
+    "relacion": "es un predictor de",
+    "valor": "Bienestar subjetivo"
+  },
+  {
+    "entidad": "Política Integral de Envejecimiento Positivo",
+    "relacion": "tiene como objetivo",
+    "valor": "proteger la salud funcional de las personas mayores"
+  },
+  {
+    "entidad": "Política Integral de Envejecimiento Positivo",
+    "relacion": "tiene como objetivo",
+    "valor": "mejorar la integración de las personas mayores en la sociedad"
+  },
+  {
+    "entidad": "Política Integral de Envejecimiento Positivo",
+    "relacion": "tiene como objetivo",
+    "valor": "incrementar los niveles de bienestar subjetivo"
+  },
+  {
+    "entidad": "Salud funcional",
+    "relacion": "es un indicador de",
+    "valor": "Bienestar subjetivo"
+  },
+  {
+    "entidad": "Servicio Nacional del Adulto Mayor (SENAMA)",
+    "relacion": "actualiza",
+    "valor": "Política Integral de Envejecimiento Positivo"
+  },
+  {
+    "entidad": "Funcionalidad",
+    "relacion": "afecta a",
+    "valor": "Participación social"
+  },
+  {
+    "entidad": "Polimorbilidad",
+    "relacion": "afecta negativamente a",
+    "valor": "Salud general"
+  },
+  {
+    "entidad": "Ingreso",
+    "relacion": "afecta positivamente a",
+    "valor": "Salud general"
+  },
+  {
+    "entidad": "Salud general",
+    "relacion": "afecta positivamente a",
+    "valor": "Funcionalidad"
+  },
+  {
+    "entidad": "Participación social",
+    "relacion": "afecta negativamente a",
+    "valor": "Bienestar subjetivo"
+  },
+  {
+    "entidad": "conducta suicida",
+    "relacion": "es un",
+    "valor": "problema de salud pública"
+  },
+  {
+    "entidad": "adolescentes",
+    "relacion": "son un",
+    "valor": "grupo de riesgo"
+  },
+  {
+    "entidad": "consumo de sustancias psicoactivas",
+    "relacion": "afecta a",
+    "valor": "conducta suicida"
+  },
+  {
+    "entidad": "calidad de vida relacionada con la salud (CVRS)",
+    "relacion": "se asocia con",
+    "valor": "conducta suicida"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "reportan",
+    "valor": "mayor ideación suicida"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "se asocia con",
+    "valor": "mayor frecuencia de ideación suicida"
+  },
+  {
+    "entidad": "marihuana",
+    "relacion": "se asocia con",
+    "valor": "mayor frecuencia de ideación suicida"
+  },
+  {
+    "entidad": "percepción de bienestar físico",
+    "relacion": "influye en",
+    "valor": "ideación suicida"
+  },
+  {
+    "entidad": "percepción de bienestar psicológico",
+    "relacion": "influye en",
+    "valor": "ideación suicida"
+  },
+  {
+    "entidad": "relación con los padres",
+    "relacion": "afecta",
+    "valor": "conducta suicida"
+  },
+  {
+    "entidad": "apoyo social",
+    "relacion": "afecta",
+    "valor": "conducta suicida"
+  },
+  {
+    "entidad": "entorno escolar",
+    "relacion": "afecta",
+    "valor": "conducta suicida"
+  },
+  {
+    "entidad": "adolescentes con baja autoestima",
+    "relacion": "tienen",
+    "valor": "mayor riesgo de conducta suicida"
+  },
+  {
+    "entidad": "adolescentes con depresión",
+    "relacion": "tienen",
+    "valor": "mayor riesgo de conducta suicida"
+  },
+  {
+    "entidad": "bullying",
+    "relacion": "se asocia con",
+    "valor": "mayor riesgo suicida"
+  },
+  {
+    "entidad": "muestra de adolescentes",
+    "relacion": "fue seleccionada de",
+    "valor": "establecimiento educacional en Valparaíso"
+  },
+  {
+    "entidad": "Universidad de Playa Ancha",
+    "relacion": "realizó",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "CEMERA",
+    "relacion": "colabora con",
+    "valor": "investigaciones sobre adolescentes"
+  },
+  {
+    "entidad": "Instituto de Investigación sobre Calidad de Vida",
+    "relacion": "colabora con",
+    "valor": "investigaciones sobre calidad de vida"
+  },
+  {
+    "entidad": "Derecho a la Alimentación",
+    "relacion": "es un",
+    "valor": "derecho humano"
+  },
+  {
+    "entidad": "Constitución chilena",
+    "relacion": "no incorpora",
+    "valor": "Derecho a la Alimentación"
+  },
+  {
+    "entidad": "Derecho a la Alimentación",
+    "relacion": "se relaciona con",
+    "valor": "seguridad alimentaria"
+  },
+  {
+    "entidad": "Derecho a la Alimentación",
+    "relacion": "se relaciona con",
+    "valor": "soberanía alimentaria"
+  },
+  {
+    "entidad": "Derecho a la Alimentación",
+    "relacion": "debe incluir",
+    "valor": "mecanismos de justiciabilidad"
+  },
+  {
+    "entidad": "Declaración Universal de los Derechos Humanos",
+    "relacion": "incluye",
+    "valor": "Derecho a la Alimentación"
+  },
+  {
+    "entidad": "Pacto Internacional de Derechos Económicos, Sociales y Culturales",
+    "relacion": "incluye",
+    "valor": "Derecho a la Alimentación"
+  },
+  {
+    "entidad": "Protocolo de San Salvador",
+    "relacion": "incluye",
+    "valor": "Derecho a la Alimentación"
+  },
+  {
+    "entidad": "políticas alimentarias",
+    "relacion": "contribuyen a",
+    "valor": "disminución de la desnutrición"
+  },
+  {
+    "entidad": "ley sobre etiquetado frontal de advertencia",
+    "relacion": "combate",
+    "valor": "obesidad"
+  },
+  {
+    "entidad": "impuestos a las bebidas azucaradas",
+    "relacion": "combate",
+    "valor": "obesidad"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud 2016-2017",
+    "relacion": "muestra",
+    "valor": "malnutrición por exceso"
+  },
+  {
+    "entidad": "enfermedades no transmisibles",
+    "relacion": "asociadas a",
+    "valor": "dietas poco saludables"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "aumenta",
+    "valor": "gravedad y letalidad en población con malnutrición"
+  },
+  {
+    "entidad": "nueva Constitución",
+    "relacion": "debe incluir",
+    "valor": "Derecho a la Alimentación"
+  },
+  {
+    "entidad": "Derecho a la Alimentación",
+    "relacion": "debe ser",
+    "valor": "exigible judicialmente"
+  },
+  {
+    "entidad": "Estado",
+    "relacion": "tiene el deber de",
+    "valor": "garantizar acceso a alimentos"
+  },
+  {
+    "entidad": "propuesta de texto constitucional",
+    "relacion": "incluye",
+    "valor": "derecho a una alimentación inocua y saludable"
+  },
+  {
+    "entidad": "soberanía alimentaria",
+    "relacion": "debe ser promovida por",
+    "valor": "Estado"
+  },
+  {
+    "entidad": "mecanismos de exigibilidad",
+    "relacion": "son necesarios para",
+    "valor": "Derecho a la Alimentación"
+  },
+  {
+    "entidad": "organismos internacionales",
+    "relacion": "proponen",
+    "valor": "incorporar Derecho a la Alimentación en constituciones"
+  },
+  {
+    "entidad": "pequeños agricultores",
+    "relacion": "están",
+    "valor": "desprotegidos"
+  },
+  {
+    "entidad": "Corte Interamericana de Derechos Humanos",
+    "relacion": "ha intervenido en",
+    "valor": "casos de comunidades indígenas"
+  },
+  {
+    "entidad": "proyectos de ley",
+    "relacion": "presentados para",
+    "valor": "incluir Derecho a la Alimentación en la Constitución"
+  },
+  {
+    "entidad": "políticas públicas",
+    "relacion": "deben ser",
+    "valor": "implementadas para materializar el Derecho a la Alimentación"
+  },
+  {
+    "entidad": "diabetes mellitus tipo 2",
+    "relacion": "es",
+    "valor": "una enfermedad crónica multifactorial"
+  },
+  {
+    "entidad": "adherencia al tratamiento farmacológico",
+    "relacion": "es crucial para",
+    "valor": "lograr control metabólico en pacientes con diabetes mellitus tipo 2"
+  },
+  {
+    "entidad": "falta de adherencia al tratamiento farmacológico",
+    "relacion": "afecta a",
+    "valor": "pacientes con diabetes mellitus tipo 2"
+  },
+  {
+    "entidad": "Morisky-Green questionnaire",
+    "relacion": "se utiliza para evaluar",
+    "valor": "la adherencia al tratamiento farmacológico"
+  },
+  {
+    "entidad": "Beliefs about Medicines Questionnaire (BMQ)",
+    "relacion": "evalúa",
+    "valor": "las creencias de los pacientes sobre los tratamientos"
+  },
+  {
+    "entidad": "conocimiento sobre diabetes mellitus tipo 2",
+    "relacion": "se mide con",
+    "valor": "un cuestionario estándar"
+  },
+  {
+    "entidad": "falta de adherencia al tratamiento farmacológico",
+    "relacion": "se asocia con",
+    "valor": "desconocimiento de la enfermedad"
+  },
+  {
+    "entidad": "nivel educativo precario",
+    "relacion": "se asocia con",
+    "valor": "descontrol metabólico en pacientes diabéticos"
+  },
+  {
+    "entidad": "creencias negativas sobre tratamientos",
+    "relacion": "se relacionan con",
+    "valor": "falta de adherencia al tratamiento farmacológico"
+  },
+  {
+    "entidad": "adherencia de los fármacos antidiabéticos orales",
+    "relacion": "se relaciona con",
+    "valor": "un adecuado control glucémico"
+  },
+  {
+    "entidad": "falta de adherencia al tratamiento farmacológico",
+    "relacion": "puede clasificarse en",
+    "valor": "no intencional e intencional"
+  },
+  {
+    "entidad": "pacientes con diabetes mellitus tipo 2",
+    "relacion": "presentan",
+    "valor": "falta de conocimiento sobre la enfermedad"
+  },
+  {
+    "entidad": "programas educativos sobre diabetes mellitus tipo 2",
+    "relacion": "son necesarios para",
+    "valor": "promover la adherencia al tratamiento"
+  },
+  {
+    "entidad": "mujeres sin adherencia al tratamiento farmacológico",
+    "relacion": "refieren consumir",
+    "valor": "plantas medicinales"
+  },
+  {
+    "entidad": "varones sin adherencia al tratamiento farmacológico",
+    "relacion": "tienen mayor probabilidad de",
+    "valor": "mentir sobre su adherencia"
+  },
+  {
+    "entidad": "nivel de glucemia",
+    "relacion": "es mayor en",
+    "valor": "pacientes sin adherencia al tratamiento farmacológico"
+  },
+  {
+    "entidad": "pacientes con diabetes mellitus tipo 2",
+    "relacion": "son atendidos en",
+    "valor": "clínicas de atención primaria"
+  },
+  {
+    "entidad": "Universidad Autónoma de Chiapas",
+    "relacion": "es",
+    "valor": "una institución involucrada en la investigación"
+  },
+  {
+    "entidad": "Instituto Mexicano del Seguro Social",
+    "relacion": "es",
+    "valor": "una institución involucrada en la investigación"
+  },
+  {
+    "entidad": "Nefrectomía radical",
+    "relacion": "es un",
+    "valor": "tratamiento para tumor renal"
+  },
+  {
+    "entidad": "Trombectomía de vena cava",
+    "relacion": "es un",
+    "valor": "procedimiento quirúrgico"
+  },
+  {
+    "entidad": "tumor renal",
+    "relacion": "afecta a",
+    "valor": "vena cava"
+  },
+  {
+    "entidad": "vena cava",
+    "relacion": "presenta compromiso en",
+    "valor": "4-10% de los casos de tumor renal"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "es mayor en",
+    "valor": "tumores renales con compromiso de vena cava"
+  },
+  {
+    "entidad": "equipo multidisciplinario",
+    "relacion": "realiza",
+    "valor": "nefrectomía con trombectomía de vena cava"
+  },
+  {
+    "entidad": "sobrevida",
+    "relacion": "mejora con",
+    "valor": "nefrectomía y trombectomía"
+  },
+  {
+    "entidad": "clasificación de la clínica Mayo",
+    "relacion": "describe",
+    "valor": "tipos de trombos en tumores renales"
+  },
+  {
+    "entidad": "trombo tipo I",
+    "relacion": "es",
+    "valor": "hasta 2 cm sobre la vena renal"
+  },
+  {
+    "entidad": "trombo tipo II",
+    "relacion": "es",
+    "valor": "2 cm bajo la vena hepática"
+  },
+  {
+    "entidad": "trombo tipo III",
+    "relacion": "es",
+    "valor": "intrahepático"
+  },
+  {
+    "entidad": "trombo tipo IV",
+    "relacion": "es",
+    "valor": "sobre el diafragma"
+  },
+  {
+    "entidad": "mortalidad perioperatoria",
+    "relacion": "puede alcanzar",
+    "valor": "hasta 10%"
+  },
+  {
+    "entidad": "complicaciones postoperatorias",
+    "relacion": "pueden llegar a",
+    "valor": "40%"
+  },
+  {
+    "entidad": "técnica quirúrgica",
+    "relacion": "ha sido modificada desde",
+    "valor": "1913"
+  },
+  {
+    "entidad": "pacientes con tumor renal cT3b y 3c",
+    "relacion": "son tratados con",
+    "valor": "nefrectomía radical y trombectomía"
+  },
+  {
+    "entidad": "ecocardiografía transesofágica",
+    "relacion": "influye en",
+    "valor": "decisiones quirúrgicas"
+  },
+  {
+    "entidad": "pembrolizumab",
+    "relacion": "es un",
+    "valor": "tratamiento adyuvante en cáncer renal"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "es un",
+    "valor": "centro académico"
+  },
+  {
+    "entidad": "Servicio Urología, Complejo asistencial Hospital Sótero del Río",
+    "relacion": "es un",
+    "valor": "centro de atención médica"
+  },
+  {
+    "entidad": "División Enfermedades Cardiovasculares",
+    "relacion": "pertenece a",
+    "valor": "Pontificia Universidad Católica de Chile"
+  },
+  {
+    "entidad": "Departamento de Cirugía Digestiva",
+    "relacion": "pertenece a",
+    "valor": "Pontificia Universidad Católica de Chile"
+  },
+  {
+    "entidad": "estrés crónico",
+    "relacion": "tiene efectos",
+    "valor": "en el desarrollo infantil y adolescente"
+  },
+  {
+    "entidad": "cuidado adulto responsable",
+    "relacion": "media",
+    "valor": "estrés crónico"
+  },
+  {
+    "entidad": "percepción de capacidad de respuesta",
+    "relacion": "es evaluada en",
+    "valor": "adolescentes de séptimo año básico"
+  },
+  {
+    "entidad": "Escala Parental Breve",
+    "relacion": "es",
+    "valor": "una herramienta de evaluación"
+  },
+  {
+    "entidad": "dimensiones de la Escala Parental Breve",
+    "relacion": "incluyen",
+    "valor": "capacidad de respuesta, demanda y monitoreo"
+  },
+  {
+    "entidad": "adolescentes chilenos",
+    "relacion": "perciben",
+    "valor": "discrepancia en demanda y monitoreo parental"
+  },
+  {
+    "entidad": "madres",
+    "relacion": "tienen puntajes",
+    "valor": "superiores en cuidado parental"
+  },
+  {
+    "entidad": "padres",
+    "relacion": "muestran",
+    "valor": "un gradiente constante en dimensiones de cuidado"
+  },
+  {
+    "entidad": "diferencias de género",
+    "relacion": "afectan",
+    "valor": "la percepción del cuidado parental"
+  },
+  {
+    "entidad": "salud adolescente",
+    "relacion": "es un indicador",
+    "valor": "del futuro de la población chilena"
+  },
+  {
+    "entidad": "estrategias de prevención ambiental",
+    "relacion": "son",
+    "valor": "eficaces en salud adolescente"
+  },
+  {
+    "entidad": "involucramiento parental",
+    "relacion": "es un factor",
+    "valor": "crucial en el desarrollo saludable"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "aproba",
+    "valor": "el proyecto de investigación"
+  },
+  {
+    "entidad": "FONDECYT Chile",
+    "relacion": "financia",
+    "valor": "la investigación"
+  },
+  {
+    "entidad": "adolescentes",
+    "relacion": "reportan",
+    "valor": "niveles de uso de sustancias preocupantes"
+  },
+  {
+    "entidad": "monitorización parental",
+    "relacion": "es un factor",
+    "valor": "crítico en el control del uso de sustancias"
+  },
+  {
+    "entidad": "perfeccionismo",
+    "relacion": "afecta a",
+    "valor": "trastornos alimentarios"
+  },
+  {
+    "entidad": "ansiedad social",
+    "relacion": "afecta a",
+    "valor": "trastornos alimentarios"
+  },
+  {
+    "entidad": "estrés académico",
+    "relacion": "incrementa el riesgo de",
+    "valor": "trastornos alimentarios"
+  },
+  {
+    "entidad": "mujeres estudiantes de medicina",
+    "relacion": "presentan riesgo de",
+    "valor": "trastornos alimentarios"
+  },
+  {
+    "entidad": "perfeccionismo",
+    "relacion": "se asocia con",
+    "valor": "insatisfacción corporal"
+  },
+  {
+    "entidad": "perfeccionismo maladaptativo",
+    "relacion": "predice",
+    "valor": "ansiedad social"
+  },
+  {
+    "entidad": "percepción de estrés académico",
+    "relacion": "es un predictor de",
+    "valor": "riesgo de trastornos alimentarios"
+  },
+  {
+    "entidad": "estándares personales",
+    "relacion": "son un predictor de",
+    "valor": "riesgo de trastornos alimentarios"
+  },
+  {
+    "entidad": "ansiedad social",
+    "relacion": "no tiene un papel relevante en",
+    "valor": "riesgo de trastornos alimentarios"
+  },
+  {
+    "entidad": "estrés académico",
+    "relacion": "es un factor de riesgo para",
+    "valor": "patologías de salud mental"
+  },
+  {
+    "entidad": "Universidad de Valparaíso",
+    "relacion": "es la institución de",
+    "valor": "estudio"
+  },
+  {
+    "entidad": "Grupo de Investigación en Resiliencia, Adversidad Temprana y Reparación (GIRAR)",
+    "relacion": "colabora con",
+    "valor": "investigación en salud"
+  },
+  {
+    "entidad": "Hospital Dr. Óscar Hernández Escobar",
+    "relacion": "colabora con",
+    "valor": "investigación en salud"
+  },
+  {
+    "entidad": "Centro Interdisciplinario de Estudios en Salud (CIESAL)",
+    "relacion": "colabora con",
+    "valor": "investigación en salud"
+  },
+  {
+    "entidad": "Infecciones respiratorias agudas no neumonías",
+    "relacion": "son",
+    "valor": "una causa común de consulta en atención ambulatoria"
+  },
+  {
+    "entidad": "Antibióticos",
+    "relacion": "reciben",
+    "valor": "frecuentemente tratamiento en infecciones respiratorias agudas no neumonías"
+  },
+  {
+    "entidad": "Uso inapropiado de antibióticos",
+    "relacion": "asocia con",
+    "valor": "efectos adversos y resistencia bacteriana"
+  },
+  {
+    "entidad": "Guías clínicas internacionales",
+    "relacion": "no recomiendan",
+    "valor": "usar antibióticos para infecciones respiratorias agudas no neumonías"
+  },
+  {
+    "entidad": "Estudio",
+    "relacion": "evalúa",
+    "valor": "frecuencia de prescripción de antibióticos en atención ambulatoria"
+  },
+  {
+    "entidad": "Integramédica",
+    "relacion": "es",
+    "valor": "una red de centros médicos ambulatorios"
+  },
+  {
+    "entidad": "Antibióticos",
+    "relacion": "fueron prescritos",
+    "valor": "en más de la mitad de los casos de infecciones respiratorias agudas no neumonías"
+  },
+  {
+    "entidad": "Azitromicina",
+    "relacion": "es",
+    "valor": "el antibiótico más frecuentemente prescrito"
+  },
+  {
+    "entidad": "Levofloxacino",
+    "relacion": "se prescribe",
+    "valor": "en un porcentaje significativo de casos"
+  },
+  {
+    "entidad": "Médicos generales",
+    "relacion": "prescriben",
+    "valor": "antibióticos en un alto porcentaje de sus atenciones"
+  },
+  {
+    "entidad": "Otorrinolaringólogos",
+    "relacion": "prescriben",
+    "valor": "antibióticos con mayor frecuencia en comparación con otras especialidades"
+  },
+  {
+    "entidad": "Edad",
+    "relacion": "afecta",
+    "valor": "la posibilidad de prescripción de antibióticos"
+  },
+  {
+    "entidad": "Antibióticos de amplio espectro",
+    "relacion": "se prescriben",
+    "valor": "sin clara indicación en muchos casos"
+  },
+  {
+    "entidad": "Comité de Ética de Integramédica",
+    "relacion": "aprueba",
+    "valor": "la investigación"
+  },
+  {
+    "entidad": "Antibióticos",
+    "relacion": "pueden causar",
+    "valor": "daño en la microbiota intestinal y pulmonar"
+  },
+  {
+    "entidad": "Faringoamigdalitis aguda",
+    "relacion": "recibe",
+    "valor": "alta frecuencia de prescripción de antibióticos"
+  },
+  {
+    "entidad": "Amoxicilina",
+    "relacion": "es",
+    "valor": "el antibiótico recomendado para faringoamigdalitis"
+  },
+  {
+    "entidad": "Bronquitis aguda",
+    "relacion": "recibe",
+    "valor": "alta frecuencia de prescripción de antibióticos"
+  },
+  {
+    "entidad": "Sinusitis aguda",
+    "relacion": "recibe",
+    "valor": "prescripción de antibióticos en un alto porcentaje"
+  },
+  {
+    "entidad": "Resfríos comunes",
+    "relacion": "no deben recibir",
+    "valor": "prescripción de antibióticos"
+  },
+  {
+    "entidad": "Influenza",
+    "relacion": "no debe recibir",
+    "valor": "prescripción de antibióticos"
+  },
+  {
+    "entidad": "estudiantes de medicina",
+    "relacion": "presentan",
+    "valor": "síntomas de ansiedad y depresión"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "afecta a",
+    "valor": "salud mental"
+  },
+  {
+    "entidad": "Universidad Diego Portales",
+    "relacion": "realiza",
+    "valor": "estudio sobre salud mental"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen",
+    "valor": "mayores niveles de síntomas de ansiedad y depresión"
+  },
+  {
+    "entidad": "estudiantes preclínicos",
+    "relacion": "muestran",
+    "valor": "mayores síntomas de ansiedad y depresión"
+  },
+  {
+    "entidad": "encuesta PHQ-9",
+    "relacion": "evalúa",
+    "valor": "síntomas de depresión"
+  },
+  {
+    "entidad": "encuesta GAD-7",
+    "relacion": "evalúa",
+    "valor": "síntomas de ansiedad"
+  },
+  {
+    "entidad": "aislamiento social",
+    "relacion": "conduce a",
+    "valor": "estrés y ansiedad"
+  },
+  {
+    "entidad": "crisis social en Chile",
+    "relacion": "impacta en",
+    "valor": "salud mental de estudiantes"
+  },
+  {
+    "entidad": "salud mental",
+    "relacion": "requiere",
+    "valor": "monitoreo y apoyo"
+  },
+  {
+    "entidad": "estudiantes de medicina",
+    "relacion": "son",
+    "valor": "grupo de riesgo para problemas de salud mental"
+  },
+  {
+    "entidad": "factores de riesgo",
+    "relacion": "incluyen",
+    "valor": "jóvenes y estudiantes"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "caracteriza",
+    "valor": "síntomas de ansiedad y depresión"
+  },
+  {
+    "entidad": "gobiernos",
+    "relacion": "adoptan",
+    "valor": "medidas durante la pandemia"
+  },
+  {
+    "entidad": "métodos de intervención",
+    "relacion": "deben ser",
+    "valor": "implementados para reducir síntomas"
+  },
+  {
+    "entidad": "salud mental",
+    "relacion": "afecta a",
+    "valor": "comunidad durante la pandemia"
+  },
+  {
+    "entidad": "diferencias de género",
+    "relacion": "se observan en",
+    "valor": "prevalencia de trastornos mentales"
+  }
+]

@@ -1,0 +1,157 @@
+[
+  {
+    "entidad": "Miastenia gravis",
+    "relacion": "es un",
+    "valor": "enfermedad autoinmune"
+  },
+  {
+    "entidad": "Miastenia gravis",
+    "relacion": "afecta a",
+    "valor": "músculos esqueléticos"
+  },
+  {
+    "entidad": "Miastenia gravis",
+    "relacion": "se asocia con",
+    "valor": "trastornos linfoproliferativos"
+  },
+  {
+    "entidad": "trastornos linfoproliferativos",
+    "relacion": "incluye",
+    "valor": "linfoma de células B"
+  },
+  {
+    "entidad": "trastornos linfoproliferativos",
+    "relacion": "incluye",
+    "valor": "leucemia linfocítica crónica"
+  },
+  {
+    "entidad": "trastornos linfoproliferativos",
+    "relacion": "incluye",
+    "valor": "plasmocitoma"
+  },
+  {
+    "entidad": "Hospital Salvador",
+    "relacion": "está ubicado en",
+    "valor": "Santiago, Chile"
+  },
+  {
+    "entidad": "Gabriel Cea",
+    "relacion": "es un",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "Departamento de Ciencias Neurológicas Oriente",
+    "relacion": "pertenece a",
+    "valor": "Facultad de Medicina, Universidad de Chile"
+  },
+  {
+    "entidad": "Universidad de Chile",
+    "relacion": "es un",
+    "valor": "institución educativa"
+  },
+  {
+    "entidad": "Comité de Ética Científico del Servicio de Salud Metropolitano Oriente",
+    "relacion": "aprueba",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "anticuerpos contra AChR",
+    "relacion": "se detectan en",
+    "valor": "50% a 90% de los pacientes"
+  },
+  {
+    "entidad": "timoma",
+    "relacion": "se asocia a",
+    "valor": "10-15% de los casos de Miastenia gravis"
+  },
+  {
+    "entidad": "BAFF",
+    "relacion": "está elevado en",
+    "valor": "pacientes con Miastenia gravis"
+  },
+  {
+    "entidad": "BAFF",
+    "relacion": "aumenta la sobrevida de",
+    "valor": "células B"
+  },
+  {
+    "entidad": "neoplasias linfoides",
+    "relacion": "se asocian a",
+    "valor": "enfermedades autoinmunes"
+  },
+  {
+    "entidad": "neoplasias linfoides",
+    "relacion": "se han reportado en",
+    "valor": "pacientes con Miastenia gravis"
+  },
+  {
+    "entidad": "Miastenia gravis",
+    "relacion": "es clasificada como",
+    "valor": "tipo IIa por la MG Foundation of America"
+  },
+  {
+    "entidad": "enfermedad de Parkinson",
+    "relacion": "es una",
+    "valor": "enfermedad neurodegenerativa"
+  },
+  {
+    "entidad": "fármacos dopaminérgicos",
+    "relacion": "se utilizan en",
+    "valor": "terapia sintomática de la enfermedad de Parkinson"
+  },
+  {
+    "entidad": "levodopa",
+    "relacion": "es un",
+    "valor": "fármaco dopaminérgico"
+  },
+  {
+    "entidad": "pramipexole",
+    "relacion": "es un",
+    "valor": "fármaco dopaminérgico"
+  },
+  {
+    "entidad": "efectos secundarios",
+    "relacion": "son causados por",
+    "valor": "fármacos dopaminérgicos"
+  },
+  {
+    "entidad": "edema de extremidades inferiores",
+    "relacion": "es un efecto secundario de",
+    "valor": "pramipexole y ropinerole"
+  },
+  {
+    "entidad": "suspensión de pramipexole",
+    "relacion": "resulta en",
+    "valor": "reducción del edema"
+  },
+  {
+    "entidad": "aumento de dosis de levodopa",
+    "relacion": "se utiliza para",
+    "valor": "tratar síntomas motores"
+  },
+  {
+    "entidad": "reacción adversa idiosincrática",
+    "relacion": "se presenta en",
+    "valor": "pacientes tratados con fármacos dopaminérgicos"
+  },
+  {
+    "entidad": "cardiopatía coronaria",
+    "relacion": "es un",
+    "valor": "factor de riesgo para edema"
+  },
+  {
+    "entidad": "dopamina",
+    "relacion": "regula",
+    "valor": "tono del sistema simpático"
+  },
+  {
+    "entidad": "dopamina",
+    "relacion": "influye en",
+    "valor": "secreción de aldosterona"
+  },
+  {
+    "entidad": "dopamina",
+    "relacion": "tiene efectos en",
+    "valor": "canales de Na-K+"
+  }
+]

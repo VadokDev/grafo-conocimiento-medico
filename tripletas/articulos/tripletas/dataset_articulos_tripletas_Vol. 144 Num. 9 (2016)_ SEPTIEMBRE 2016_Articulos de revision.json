@@ -1,0 +1,197 @@
+[
+  {
+    "entidad": "obesidad",
+    "relacion": "es un",
+    "valor": "factor de riesgo para complicaciones en infecciones respiratorias agudas en niños"
+  },
+  {
+    "entidad": "infecciones respiratorias agudas",
+    "relacion": "son causadas por",
+    "valor": "virus"
+  },
+  {
+    "entidad": "virus influenza A (H1N1)",
+    "relacion": "fue identificado como",
+    "valor": "factor de riesgo independiente para severidad"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "afecta",
+    "valor": "el curso clínico de enfermedades respiratorias virales"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "tiene una alta prevalencia de",
+    "valor": "obesidad infantil"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "se relaciona con",
+    "valor": "baja autoestima y dificultades de socialización"
+  },
+  {
+    "entidad": "infecciones respiratorias agudas",
+    "relacion": "son una causa de",
+    "valor": "morbimortalidad en pediatría"
+  },
+  {
+    "entidad": "virus respiratorio sincicial (VRS)",
+    "relacion": "es el principal agente causante de",
+    "valor": "bronquiolitis"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "conduce a",
+    "valor": "un estado pro-inflamatorio"
+  },
+  {
+    "entidad": "estado pro-inflamatorio",
+    "relacion": "afecta",
+    "valor": "la respuesta inmune"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "se asocia con",
+    "valor": "un aumento en la susceptibilidad a infecciones"
+  },
+  {
+    "entidad": "adipocitos",
+    "relacion": "aumentan su volumen por",
+    "valor": "exceso de energía disponible"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "puede resultar en",
+    "valor": "un menoscabo de la defensa del hospedero"
+  },
+  {
+    "entidad": "obesidad infantil",
+    "relacion": "se relaciona con",
+    "valor": "complicaciones en el curso de infecciones respiratorias"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "se ha triplicado en",
+    "valor": "la población infantil en Chile"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "es considerada",
+    "valor": "una epidemia del siglo XXI"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "se relaciona con",
+    "valor": "mayor duración de enfermedad por VRS"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "afecta",
+    "valor": "la mecánica pulmonar"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "se asocia con",
+    "valor": "reducción del volumen pulmonar total"
+  },
+  {
+    "entidad": "cirugía bariátrica",
+    "relacion": "es considerado",
+    "valor": "el tratamiento más efectivo para la obesidad severa"
+  },
+  {
+    "entidad": "cirugía bariátrica",
+    "relacion": "mejora",
+    "valor": "comorbilidades médicas"
+  },
+  {
+    "entidad": "tasa de suicidios",
+    "relacion": "aumenta en",
+    "valor": "pacientes sometidos a cirugía bariátrica"
+  },
+  {
+    "entidad": "trastornos psiquiátricos",
+    "relacion": "son factores de riesgo para",
+    "valor": "suicidio"
+  },
+  {
+    "entidad": "depresión",
+    "relacion": "se asocia con",
+    "valor": "suicidio"
+  },
+  {
+    "entidad": "obesidad severa",
+    "relacion": "se asocia con",
+    "valor": "trastornos psiquiátricos"
+  },
+  {
+    "entidad": "cirugía bariátrica",
+    "relacion": "requiere evaluación",
+    "valor": "de factores de riesgo suicida"
+  },
+  {
+    "entidad": "evaluación preoperatoria",
+    "relacion": "debe incluir",
+    "valor": "historia psiquiátrica"
+  },
+  {
+    "entidad": "seguimiento posoperatorio",
+    "relacion": "es importante para",
+    "valor": "evaluar salud mental"
+  },
+  {
+    "entidad": "sintomatología depresiva",
+    "relacion": "disminuye",
+    "valor": "después del primer año de cirugía bariátrica"
+  },
+  {
+    "entidad": "conductas autolesivas",
+    "relacion": "aumentan en",
+    "valor": "el período posoperatorio"
+  },
+  {
+    "entidad": "IMC",
+    "relacion": "se relaciona con",
+    "valor": "riesgo suicida"
+  },
+  {
+    "entidad": "pacientes obesos",
+    "relacion": "reportan",
+    "valor": "historia de intentos suicidas previos"
+  },
+  {
+    "entidad": "cirugía bariátrica",
+    "relacion": "puede estar asociada con",
+    "valor": "aumento de suicidio"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "es un factor de riesgo para",
+    "valor": "suicidio"
+  },
+  {
+    "entidad": "abuso de alcohol",
+    "relacion": "es un factor de riesgo para",
+    "valor": "suicidio"
+  },
+  {
+    "entidad": "trastorno de personalidad limítrofe",
+    "relacion": "se asocia con",
+    "valor": "suicidio"
+  },
+  {
+    "entidad": "trastorno de estrés postraumático",
+    "relacion": "se asocia con",
+    "valor": "suicidio"
+  },
+  {
+    "entidad": "evaluación especializada",
+    "relacion": "debe ser realizada para",
+    "valor": "sugerencias prequirúrgicas"
+  },
+  {
+    "entidad": "MMPI-2-RF",
+    "relacion": "es un método de",
+    "valor": "detección precoz de riesgo suicida"
+  }
+]

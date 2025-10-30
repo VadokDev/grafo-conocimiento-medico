@@ -1,0 +1,342 @@
+[
+  {
+    "entidad": "cannabis",
+    "relacion": "es",
+    "valor": "la droga ilícita más utilizada en el mundo"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "es",
+    "valor": "uno de los países con mayor consumo de cannabis"
+  },
+  {
+    "entidad": "cannabis",
+    "relacion": "asocia",
+    "valor": "trastornos psicóticos"
+  },
+  {
+    "entidad": "cannabis",
+    "relacion": "asocia",
+    "valor": "suicidalidad"
+  },
+  {
+    "entidad": "cannabis",
+    "relacion": "asocia",
+    "valor": "trastornos del ánimo"
+  },
+  {
+    "entidad": "cannabis",
+    "relacion": "asocia",
+    "valor": "trastornos ansiosos"
+  },
+  {
+    "entidad": "cannabis",
+    "relacion": "asocia",
+    "valor": "efectos nocivos en el neurodesarrollo cognitivo fetal y adolescente"
+  },
+  {
+    "entidad": "cannabis",
+    "relacion": "asocia",
+    "valor": "desarrollo de adicción"
+  },
+  {
+    "entidad": "THC",
+    "relacion": "es",
+    "valor": "el compuesto asociado al efecto psicotrópico más conocido"
+  },
+  {
+    "entidad": "cannabidiol (CBD)",
+    "relacion": "carece de",
+    "valor": "actividad psicoactiva"
+  },
+  {
+    "entidad": "cannabis",
+    "relacion": "contiene",
+    "valor": "cientos de componentes"
+  },
+  {
+    "entidad": "Instituto de Salud Pública de Chile (ISP)",
+    "relacion": "analizó",
+    "valor": "una amplia muestra de cannabis consumido en el país"
+  },
+  {
+    "entidad": "cannabis",
+    "relacion": "inicia",
+    "valor": "alteraciones neurobiológicas duraderas"
+  },
+  {
+    "entidad": "cannabis",
+    "relacion": "se relaciona con",
+    "valor": "aumento del riesgo cardiovascular"
+  },
+  {
+    "entidad": "cannabis",
+    "relacion": "se relaciona con",
+    "valor": "cáncer testicular"
+  },
+  {
+    "entidad": "cannabis",
+    "relacion": "se relaciona con",
+    "valor": "síntomas respiratorios"
+  },
+  {
+    "entidad": "desregulación emocional",
+    "relacion": "se define como",
+    "valor": "incapacidad para gestionar de manera efectiva las emociones"
+  },
+  {
+    "entidad": "impulsividad",
+    "relacion": "puede ser evaluada como",
+    "valor": "un rasgo de personalidad o como un fenómeno de estado"
+  },
+  {
+    "entidad": "cannabis",
+    "relacion": "puede asociarse con",
+    "valor": "motivos de afrontamiento"
+  },
+  {
+    "entidad": "cannabis",
+    "relacion": "puede asociarse con",
+    "valor": "conformidad"
+  },
+  {
+    "entidad": "cannabis",
+    "relacion": "afecta",
+    "valor": "la regulación emocional"
+  },
+  {
+    "entidad": "edad de inicio de consumo",
+    "relacion": "se relaciona con",
+    "valor": "mayores niveles de desregulación emocional e impulsividad"
+  },
+  {
+    "entidad": "estrategias terapéuticas",
+    "relacion": "deben ser",
+    "valor": "implementadas para la regulación emocional"
+  },
+  {
+    "entidad": "DERS-E",
+    "relacion": "evalúa",
+    "valor": "dificultades en la regulación emocional"
+  },
+  {
+    "entidad": "UPPS-P",
+    "relacion": "evalúa",
+    "valor": "impulsividad como rasgo"
+  },
+  {
+    "entidad": "consumidores habituales de cannabis",
+    "relacion": "presentan",
+    "valor": "mayor desregulación emocional"
+  },
+  {
+    "entidad": "consumidores intermitentes de cannabis",
+    "relacion": "presentan",
+    "valor": "menor desregulación emocional"
+  },
+  {
+    "entidad": "cannabis",
+    "relacion": "se relaciona con",
+    "valor": "aumento de los niveles de ansiedad"
+  },
+  {
+    "entidad": "cannabis",
+    "relacion": "se relaciona con",
+    "valor": "sintomatología depresiva"
+  },
+  {
+    "entidad": "cannabis",
+    "relacion": "se relaciona con",
+    "valor": "sintomatología psicótica"
+  },
+  {
+    "entidad": "cannabis",
+    "relacion": "se relaciona con",
+    "valor": "deterioro en el autocontrol de la agresión"
+  },
+  {
+    "entidad": "cannabis",
+    "relacion": "se relaciona con",
+    "valor": "dificultades para gestionar emociones"
+  },
+  {
+    "entidad": "Universidad de Chile",
+    "relacion": "desarrolla",
+    "valor": "modelo de innovación curricular basado en competencias"
+  },
+  {
+    "entidad": "Programa de Radiología",
+    "relacion": "pertenece a",
+    "valor": "Facultad de Medicina de la Universidad de Chile"
+  },
+  {
+    "entidad": "modelo de innovación curricular",
+    "relacion": "se centra en",
+    "valor": "competencias del egresado"
+  },
+  {
+    "entidad": "egresado",
+    "relacion": "debe demostrar",
+    "valor": "competencias en aspectos esenciales del desempeño"
+  },
+  {
+    "entidad": "proceso de acreditación",
+    "relacion": "inicia",
+    "valor": "en 2017"
+  },
+  {
+    "entidad": "demandas formativas",
+    "relacion": "se levantan a partir de",
+    "valor": "consultas a múltiples fuentes"
+  },
+  {
+    "entidad": "competencias",
+    "relacion": "se redactan para",
+    "valor": "cada ámbito de desempeño"
+  },
+  {
+    "entidad": "perfil de egreso",
+    "relacion": "es una declaración",
+    "valor": "de la formación profesional"
+  },
+  {
+    "entidad": "asesoría curricular",
+    "relacion": "es proporcionada por",
+    "valor": "especialistas en educación médica"
+  },
+  {
+    "entidad": "proceso de validación",
+    "relacion": "incluye",
+    "valor": "participación de actores internos y externos"
+  },
+  {
+    "entidad": "programas de asignaturas/rotaciones",
+    "relacion": "se elaboran para",
+    "valor": "cumplir con competencias declaradas"
+  },
+  {
+    "entidad": "innovación curricular",
+    "relacion": "permite",
+    "valor": "análisis de necesidades actuales en imagenología"
+  },
+  {
+    "entidad": "modelo curricular",
+    "relacion": "se organiza a partir de",
+    "valor": "análisis de necesidades de la sociedad"
+  },
+  {
+    "entidad": "evaluación",
+    "relacion": "es un desafío",
+    "valor": "en la implementación del currículo innovado"
+  },
+  {
+    "entidad": "estudiantes",
+    "relacion": "evalúan",
+    "valor": "cada una de sus rotaciones y cursos"
+  },
+  {
+    "entidad": "Centro de Imagenología",
+    "relacion": "es el campo clínico principal de",
+    "valor": "la Especialidad de Radiología"
+  },
+  {
+    "entidad": "competencias transversales",
+    "relacion": "deben incorporarse en",
+    "valor": "todas las etapas del aprendizaje"
+  },
+  {
+    "entidad": "metodología estructurada",
+    "relacion": "es utilizada para",
+    "valor": "el diseño curricular por competencias"
+  },
+  {
+    "entidad": "cuerpo académico",
+    "relacion": "colabora en",
+    "valor": "el desarrollo del currículo"
+  },
+  {
+    "entidad": "comunidad departamental",
+    "relacion": "es informada sobre",
+    "valor": "la propuesta curricular innovada"
+  },
+  {
+    "entidad": "transición de género",
+    "relacion": "es un",
+    "valor": "hito identitario trascendental"
+  },
+  {
+    "entidad": "personas trans",
+    "relacion": "tienen",
+    "valor": "índices de salud mental más bajos que personas cisgénero"
+  },
+  {
+    "entidad": "Modelo de Estrés de Minorías",
+    "relacion": "identifica",
+    "valor": "estresores distales y proximales"
+  },
+  {
+    "entidad": "discriminación",
+    "relacion": "afecta",
+    "valor": "percepción de salud mental"
+  },
+  {
+    "entidad": "satisfacción con el proceso de transición",
+    "relacion": "se asocia con",
+    "valor": "mejor percepción de salud mental"
+  },
+  {
+    "entidad": "transfobia internalizada",
+    "relacion": "impacta",
+    "valor": "salud mental de personas trans"
+  },
+  {
+    "entidad": "tiempo en transición",
+    "relacion": "varía según",
+    "valor": "nivel de transfobia internalizada"
+  },
+  {
+    "entidad": "conexión con la comunidad trans",
+    "relacion": "es un",
+    "valor": "factor protector para la salud mental"
+  },
+  {
+    "entidad": "personas asignadas hombres al nacer",
+    "relacion": "reportan",
+    "valor": "mejor percepción de salud mental que personas asignadas mujeres"
+  },
+  {
+    "entidad": "prestadores de salud",
+    "relacion": "deben brindar",
+    "valor": "atención culturalmente sensible"
+  },
+  {
+    "entidad": "discriminación",
+    "relacion": "se asocia con",
+    "valor": "peor percepción de salud mental"
+  },
+  {
+    "entidad": "proceso de transición",
+    "relacion": "contribuye a",
+    "valor": "consolidación de identidades"
+  },
+  {
+    "entidad": "personas trans",
+    "relacion": "experimentan",
+    "valor": "dificultades de salud mental"
+  },
+  {
+    "entidad": "apoyo social",
+    "relacion": "es un",
+    "valor": "factor protector para la salud mental"
+  },
+  {
+    "entidad": "identidad de género",
+    "relacion": "no presenta diferencias en",
+    "valor": "percepción de salud mental"
+  },
+  {
+    "entidad": "experiencias de discriminación",
+    "relacion": "se asocian con",
+    "valor": "niveles más bajos de salud mental"
+  }
+]

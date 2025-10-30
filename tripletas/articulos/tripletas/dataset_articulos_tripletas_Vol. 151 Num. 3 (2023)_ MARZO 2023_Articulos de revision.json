@@ -1,0 +1,192 @@
+[
+  {
+    "entidad": "terapia electroconvulsiva",
+    "relacion": "es un",
+    "valor": "tratamiento para trastornos afectivos"
+  },
+  {
+    "entidad": "trastornos afectivos",
+    "relacion": "incluye",
+    "valor": "trastorno depresivo mayor"
+  },
+  {
+    "entidad": "trastorno depresivo mayor",
+    "relacion": "afecta a",
+    "valor": "pacientes"
+  },
+  {
+    "entidad": "trastorno bipolar",
+    "relacion": "afecta a",
+    "valor": "pacientes"
+  },
+  {
+    "entidad": "serotonina",
+    "relacion": "es un",
+    "valor": "neurotransmisor"
+  },
+  {
+    "entidad": "receptor 5-HT1B",
+    "relacion": "está asociado con",
+    "valor": "respuesta a la terapia electroconvulsiva en pacientes con trastorno depresivo mayor"
+  },
+  {
+    "entidad": "transportador de dopamina",
+    "relacion": "participa en",
+    "valor": "respuesta a la terapia electroconvulsiva en trastorno depresivo mayor y trastorno bipolar"
+  },
+  {
+    "entidad": "factor de crecimiento endotelial vascular",
+    "relacion": "está asociado con",
+    "valor": "respuesta a la terapia electroconvulsiva"
+  },
+  {
+    "entidad": "estrés oxidativo",
+    "relacion": "está asociado con",
+    "valor": "fisiopatología de trastornos afectivos"
+  },
+  {
+    "entidad": "células natural killer",
+    "relacion": "son un tipo de",
+    "valor": "células inmunes"
+  },
+  {
+    "entidad": "interleuquinas",
+    "relacion": "son mediadores de",
+    "valor": "respuesta inmune"
+  },
+  {
+    "entidad": "red neuronal por defecto",
+    "relacion": "está involucrada en",
+    "valor": "efecto de la terapia electroconvulsiva"
+  },
+  {
+    "entidad": "corteza prefrontal",
+    "relacion": "modifica su actividad por",
+    "valor": "terapia electroconvulsiva"
+  },
+  {
+    "entidad": "sustancia gris",
+    "relacion": "muestra cambios en",
+    "valor": "volumen tras terapia electroconvulsiva"
+  },
+  {
+    "entidad": "hipocampo",
+    "relacion": "muestra cambios en",
+    "valor": "volumen tras terapia electroconvulsiva"
+  },
+  {
+    "entidad": "amígdala",
+    "relacion": "muestra cambios en",
+    "valor": "volumen tras terapia electroconvulsiva"
+  },
+  {
+    "entidad": "BDNF",
+    "relacion": "es un",
+    "valor": "factor neurotrófico"
+  },
+  {
+    "entidad": "metabolismo del triptófano",
+    "relacion": "muestra asociación con",
+    "valor": "trastornos afectivos"
+  },
+  {
+    "entidad": "circuitos de control cognitivo",
+    "relacion": "son importantes en",
+    "valor": "mecanismos de acción de la terapia electroconvulsiva"
+  },
+  {
+    "entidad": "cortisol",
+    "relacion": "no se correlaciona con",
+    "valor": "gravedad depresiva post-terapia electroconvulsiva"
+  },
+  {
+    "entidad": "rheumatoid arthritis",
+    "relacion": "es un",
+    "valor": "patología articular"
+  },
+  {
+    "entidad": "osteoarthritis",
+    "relacion": "es un",
+    "valor": "patología articular"
+  },
+  {
+    "entidad": "nuevas estrategias tecnológicas",
+    "relacion": "se enfocan en",
+    "valor": "administración de fármacos"
+  },
+  {
+    "entidad": "fármacos",
+    "relacion": "son utilizados para",
+    "valor": "tratamiento de enfermedades articulares"
+  },
+  {
+    "entidad": "nano y microtecnología",
+    "relacion": "utiliza",
+    "valor": "polímeros, lípidos, péptidos y ácidos nucleicos"
+  },
+  {
+    "entidad": "sistemas de liberación controlada",
+    "relacion": "tienen como objetivo",
+    "valor": "mejorar la efectividad de los tratamientos"
+  },
+  {
+    "entidad": "ácido hialurónico",
+    "relacion": "es un",
+    "valor": "biopolímero utilizado en articulaciones"
+  },
+  {
+    "entidad": "condroitin sulfato",
+    "relacion": "es un",
+    "valor": "biopolímero utilizado en articulaciones"
+  },
+  {
+    "entidad": "glucosamina",
+    "relacion": "promueve",
+    "valor": "la reparación del cartílago"
+  },
+  {
+    "entidad": "micropartículas",
+    "relacion": "son utilizadas para",
+    "valor": "liberación controlada de fármacos"
+  },
+  {
+    "entidad": "nanopartículas",
+    "relacion": "aumentan",
+    "valor": "la biodisponibilidad de fármacos"
+  },
+  {
+    "entidad": "ARN de interferencia",
+    "relacion": "controla",
+    "valor": "la expresión de proteínas"
+  },
+  {
+    "entidad": "metotrexato",
+    "relacion": "es un",
+    "valor": "fármaco utilizado en artritis reumatoide"
+  },
+  {
+    "entidad": "tacrolimus",
+    "relacion": "es un",
+    "valor": "fármaco utilizado en patologías autoinmunes"
+  },
+  {
+    "entidad": "sistemas lipídicos nanoestructurados",
+    "relacion": "mejoran",
+    "valor": "la carga del fármaco"
+  },
+  {
+    "entidad": "proyecto vrid 219.074.063-inv",
+    "relacion": "es financiado por",
+    "valor": "universidad de concepción"
+  },
+  {
+    "entidad": "universidad de concepción",
+    "relacion": "es un",
+    "valor": "centro de investigación"
+  },
+  {
+    "entidad": "fármacos antiinflamatorios no esteroides",
+    "relacion": "son utilizados para",
+    "valor": "alivio del dolor en osteoartritis"
+  }
+]

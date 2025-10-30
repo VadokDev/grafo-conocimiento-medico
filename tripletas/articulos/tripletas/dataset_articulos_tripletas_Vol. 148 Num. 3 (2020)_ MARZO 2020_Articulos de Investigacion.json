@@ -1,0 +1,697 @@
+[
+  {
+    "entidad": "Fragilidad",
+    "relacion": "afecta a",
+    "valor": "resultados postoperatorios"
+  },
+  {
+    "entidad": "Escala de Edmonton",
+    "relacion": "evalúa",
+    "valor": "fragilidad en el preoperatorio"
+  },
+  {
+    "entidad": "Risk Analysis Index modificado (RAI-M)",
+    "relacion": "evalúa",
+    "valor": "fragilidad en el preoperatorio"
+  },
+  {
+    "entidad": "RAI-M",
+    "relacion": "asocia con",
+    "valor": "mortalidad y morbilidad postoperatoria"
+  },
+  {
+    "entidad": "Rockwood frailty index",
+    "relacion": "es considerado como",
+    "valor": "estándar de oro"
+  },
+  {
+    "entidad": "RAI-M",
+    "relacion": "tiene características de",
+    "valor": "validez, rapidez de ejecución y sencillez"
+  },
+  {
+    "entidad": "Edmonton frail scale",
+    "relacion": "mide",
+    "valor": "dimensiones de fragilidad"
+  },
+  {
+    "entidad": "fragilidad",
+    "relacion": "se asocia con",
+    "valor": "aumento en la morbimortalidad"
+  },
+  {
+    "entidad": "evaluación geriátrica integral",
+    "relacion": "es el estándar de oro para",
+    "valor": "diagnóstico de fragilidad"
+  },
+  {
+    "entidad": "sarcopenia",
+    "relacion": "es una característica de",
+    "valor": "pacientes frágiles"
+  },
+  {
+    "entidad": "fragilidad",
+    "relacion": "requiere",
+    "valor": "evaluación multidisciplinaria"
+  },
+  {
+    "entidad": "fragilidad",
+    "relacion": "es un continuo entre",
+    "valor": "paciente robusto y frágil"
+  },
+  {
+    "entidad": "RAI-M",
+    "relacion": "es útil para",
+    "valor": "detectar fragilidad en el contexto preoperatorio"
+  },
+  {
+    "entidad": "Edmonton frail scale",
+    "relacion": "cumple con",
+    "valor": "características deseables de evaluación"
+  },
+  {
+    "entidad": "fragilidad",
+    "relacion": "no es lo mismo que",
+    "valor": "alteración funcional o comorbilidad"
+  },
+  {
+    "entidad": "Universidad del Desarrollo",
+    "relacion": "financia",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "Comité de Ética de la Investigación",
+    "relacion": "aprueba",
+    "valor": "la prueba experimental"
+  },
+  {
+    "entidad": "Hemorragia digestiva alta",
+    "relacion": "es un",
+    "valor": "motivo de hospitalización"
+  },
+  {
+    "entidad": "Hospital Clínico Universidad de Chile",
+    "relacion": "realiza",
+    "valor": "análisis de mortalidad intrahospitalaria"
+  },
+  {
+    "entidad": "Hemorragia digestiva alta variceal",
+    "relacion": "tiene",
+    "valor": "alta mortalidad"
+  },
+  {
+    "entidad": "Hemorragia digestiva alta no variceal",
+    "relacion": "tiene",
+    "valor": "menor mortalidad"
+  },
+  {
+    "entidad": "creatinina elevada",
+    "relacion": "es un",
+    "valor": "factor de riesgo para mortalidad"
+  },
+  {
+    "entidad": "transfusión de glóbulos rojos",
+    "relacion": "es un",
+    "valor": "factor de riesgo para mortalidad"
+  },
+  {
+    "entidad": "HDA variceal",
+    "relacion": "presenta",
+    "valor": "mayor gravedad al ingreso"
+  },
+  {
+    "entidad": "HDA no variceal",
+    "relacion": "presenta",
+    "valor": "menor gravedad al ingreso"
+  },
+  {
+    "entidad": "score de Blatchford",
+    "relacion": "se utiliza para",
+    "valor": "evaluar riesgo en HDA"
+  },
+  {
+    "entidad": "endoscopía digestiva alta",
+    "relacion": "se realiza en",
+    "valor": "pacientes con HDA"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile",
+    "relacion": "proporciona",
+    "valor": "datos epidemiológicos"
+  },
+  {
+    "entidad": "HDA",
+    "relacion": "asocia a",
+    "valor": "morbilidad y mortalidad significativa"
+  },
+  {
+    "entidad": "cirugía",
+    "relacion": "es requerida en",
+    "valor": "casos excepcionales de HDA"
+  },
+  {
+    "entidad": "HDA",
+    "relacion": "se clasifica en",
+    "valor": "variceal y no variceal"
+  },
+  {
+    "entidad": "mortalidad intrahospitalaria",
+    "relacion": "se ha reportado entre",
+    "valor": "5-12%"
+  },
+  {
+    "entidad": "HDA",
+    "relacion": "aumenta el",
+    "valor": "gasto de recursos de salud"
+  },
+  {
+    "entidad": "HDA",
+    "relacion": "se asocia a",
+    "valor": "pacientes mayores de 65 años"
+  },
+  {
+    "entidad": "HDA",
+    "relacion": "requiere",
+    "valor": "terapia endoscópica"
+  },
+  {
+    "entidad": "HDA",
+    "relacion": "se presenta con",
+    "valor": "melena y hematemesis"
+  },
+  {
+    "entidad": "nivel educativo",
+    "relacion": "asocia con",
+    "valor": "niveles de actividad física"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "es el",
+    "valor": "lugar del estudio"
+  },
+  {
+    "entidad": "inactividad física",
+    "relacion": "es un",
+    "valor": "factor de riesgo para enfermedades crónicas no transmisibles"
+  },
+  {
+    "entidad": "bajos niveles de actividad física",
+    "relacion": "aumentan el riesgo de",
+    "valor": "enfermedades cardiovasculares"
+  },
+  {
+    "entidad": "años de escolaridad",
+    "relacion": "se clasifican en",
+    "valor": "< 4, 5-8, 9-12, 13-16 y > 16"
+  },
+  {
+    "entidad": "mujeres sin educación",
+    "relacion": "tienen una prevalencia de",
+    "valor": "44% de inactividad física"
+  },
+  {
+    "entidad": "hombres sin educación",
+    "relacion": "tienen una prevalencia de",
+    "valor": "27% de inactividad física"
+  },
+  {
+    "entidad": "mujeres con > 16 años de escolaridad",
+    "relacion": "tienen una prevalencia de",
+    "valor": "27% de inactividad física"
+  },
+  {
+    "entidad": "hombres con > 16 años de escolaridad",
+    "relacion": "tienen una prevalencia de",
+    "valor": "15% de inactividad física"
+  },
+  {
+    "entidad": "Grupo de Investigación ELHOC",
+    "relacion": "representa",
+    "valor": "los autores del estudio"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud 2016-2017",
+    "relacion": "es la fuente de",
+    "valor": "los datos del estudio"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "se mide con",
+    "valor": "el Global Physical Questionnaire (GPAQ v2)"
+  },
+  {
+    "entidad": "sedentarismo",
+    "relacion": "se determina por",
+    "valor": "auto-reporte de tiempo sentado"
+  },
+  {
+    "entidad": "mujeres y hombres con menos de 8 años de escolaridad",
+    "relacion": "tienen mayor probabilidad de",
+    "valor": "no cumplir con recomendaciones de actividad física"
+  },
+  {
+    "entidad": "hombres sin educación",
+    "relacion": "tienen mayor probabilidad de",
+    "valor": "ser físicamente inactivos que mujeres en la misma categoría"
+  },
+  {
+    "entidad": "personas con bajo nivel educativo",
+    "relacion": "son más propensas a",
+    "valor": "no cumplir con recomendaciones de actividad física"
+  },
+  {
+    "entidad": "políticas públicas",
+    "relacion": "deben promover",
+    "valor": "la práctica regular de actividad física"
+  },
+  {
+    "entidad": "Programa Más Adultos Mayores Autovalentes",
+    "relacion": "inició",
+    "valor": "en 2015"
+  },
+  {
+    "entidad": "Programa Más Adultos Mayores Autovalentes",
+    "relacion": "es una",
+    "valor": "estrategia de prevención de discapacidad"
+  },
+  {
+    "entidad": "Componente de Estimulación Funcional",
+    "relacion": "pertenece a",
+    "valor": "Programa Más Adultos Mayores Autovalentes"
+  },
+  {
+    "entidad": "adultos mayores",
+    "relacion": "son el público objetivo de",
+    "valor": "Programa Más Adultos Mayores Autovalentes"
+  },
+  {
+    "entidad": "Servicio de Salud Metropolitano Norte",
+    "relacion": "gestiona",
+    "valor": "Programa Más Adultos Mayores Autovalentes"
+  },
+  {
+    "entidad": "Programa Más Adultos Mayores Autovalentes",
+    "relacion": "ofrece",
+    "valor": "talleres grupales de estimulación funcional"
+  },
+  {
+    "entidad": "talleres grupales",
+    "relacion": "involucran",
+    "valor": "ejercicios de memoria y actividades recreativas"
+  },
+  {
+    "entidad": "participantes del programa",
+    "relacion": "reportan",
+    "valor": "reducción de soledad"
+  },
+  {
+    "entidad": "participantes del programa",
+    "relacion": "reportan",
+    "valor": "mejora en la función física"
+  },
+  {
+    "entidad": "profesionales del programa",
+    "relacion": "son valorados por",
+    "valor": "su trato y atención"
+  },
+  {
+    "entidad": "Programa Más Adultos Mayores Autovalentes",
+    "relacion": "contribuye a",
+    "valor": "mejorar la calidad de vida"
+  },
+  {
+    "entidad": "adultos mayores",
+    "relacion": "presentan",
+    "valor": "mayor dependencia en Chile"
+  },
+  {
+    "entidad": "deterioro de la capacidad funcional",
+    "relacion": "es un problema",
+    "valor": "relevante para la salud global"
+  },
+  {
+    "entidad": "Componente de Estimulación Funcional",
+    "relacion": "se enfoca en",
+    "valor": "dimensiones sociales y afectivas"
+  },
+  {
+    "entidad": "examen médico preventivo del adulto mayor",
+    "relacion": "es utilizado para",
+    "valor": "evaluar riesgo de dependencia"
+  },
+  {
+    "entidad": "Poliadenopatías",
+    "relacion": "son",
+    "valor": "un desafío diagnóstico"
+  },
+  {
+    "entidad": "Linfadenopatías",
+    "relacion": "pueden ser",
+    "valor": "secundarias a enfermedades reumatológicas"
+  },
+  {
+    "entidad": "Lupus Eritematoso Sistémico",
+    "relacion": "es",
+    "valor": "una enfermedad reumatológica"
+  },
+  {
+    "entidad": "Síndrome de Sjögren",
+    "relacion": "es",
+    "valor": "una enfermedad reumatológica"
+  },
+  {
+    "entidad": "Sarcoidosis",
+    "relacion": "es",
+    "valor": "una enfermedad reumatológica"
+  },
+  {
+    "entidad": "Artritis Reumatoide",
+    "relacion": "es",
+    "valor": "una enfermedad reumatológica"
+  },
+  {
+    "entidad": "Enfermedad relacionada con IgG4",
+    "relacion": "es",
+    "valor": "una enfermedad reumatológica"
+  },
+  {
+    "entidad": "Enfermedad Mixta del Tejido Conectivo",
+    "relacion": "es",
+    "valor": "una enfermedad reumatológica"
+  },
+  {
+    "entidad": "Biopsia de ganglio linfático",
+    "relacion": "muestra",
+    "valor": "hiperplasia folicular"
+  },
+  {
+    "entidad": "Corticoides",
+    "relacion": "son",
+    "valor": "el tratamiento utilizado"
+  },
+  {
+    "entidad": "Lactato deshidrogenasa (LDH)",
+    "relacion": "es",
+    "valor": "un marcador que puede estar elevado en linfomas"
+  },
+  {
+    "entidad": "Esplenomegalia",
+    "relacion": "es",
+    "valor": "un hallazgo poco frecuente en enfermedades reumatológicas"
+  },
+  {
+    "entidad": "Tomografía Axial Computada (TAC)",
+    "relacion": "es",
+    "valor": "un examen para evaluar adenopatías"
+  },
+  {
+    "entidad": "Síntomas B",
+    "relacion": "son",
+    "valor": "fiebre, sudoración nocturna y pérdida de peso"
+  },
+  {
+    "entidad": "Comité de Ética",
+    "relacion": "aprueba",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "Hospital del Salvador",
+    "relacion": "es",
+    "valor": "el lugar donde se realizó el estudio"
+  },
+  {
+    "entidad": "Universidad de Chile",
+    "relacion": "es",
+    "valor": "la institución asociada al estudio"
+  },
+  {
+    "entidad": "Hemodiálisis crónica",
+    "relacion": "es un",
+    "valor": "tratamiento para enfermedad renal crónica"
+  },
+  {
+    "entidad": "adultos mayores",
+    "relacion": "representan",
+    "valor": "53% de los pacientes en hemodiálisis crónica en Chile"
+  },
+  {
+    "entidad": "toma de decisiones compartida",
+    "relacion": "es importante para",
+    "valor": "adultos mayores con enfermedad renal terminal"
+  },
+  {
+    "entidad": "voluntades anticipadas",
+    "relacion": "son",
+    "valor": "importantes para la toma de decisiones en adultos mayores"
+  },
+  {
+    "entidad": "enfermedad renal crónica",
+    "relacion": "causa",
+    "valor": "morbimortalidad mundial"
+  },
+  {
+    "entidad": "decisión médica",
+    "relacion": "es tomada por",
+    "valor": "médico tratante"
+  },
+  {
+    "entidad": "pacientes en hemodiálisis crónica",
+    "relacion": "tienen",
+    "valor": "dificultad para expresar voluntades anticipadas"
+  },
+  {
+    "entidad": "muerte",
+    "relacion": "es un tema",
+    "valor": "tabú entre los pacientes"
+  },
+  {
+    "entidad": "información sobre enfermedad",
+    "relacion": "es frecuentemente",
+    "valor": "incompleta y tardía"
+  },
+  {
+    "entidad": "decisión sobre tratamiento",
+    "relacion": "es influenciada por",
+    "valor": "familia y médico"
+  },
+  {
+    "entidad": "experiencia de ingreso a hemodiálisis",
+    "relacion": "es percibida como",
+    "valor": "ser espectador"
+  },
+  {
+    "entidad": "dificultad para enfrentar la muerte",
+    "relacion": "es experimentada por",
+    "valor": "adultos mayores en hemodiálisis"
+  },
+  {
+    "entidad": "diálisis",
+    "relacion": "es vista como",
+    "valor": "prioridad para mantener la vida"
+  },
+  {
+    "entidad": "decisión sobre suspensión de diálisis",
+    "relacion": "es delegada a",
+    "valor": "familia o médico"
+  },
+  {
+    "entidad": "comité ético-científico",
+    "relacion": "aprueba",
+    "valor": "protocolos de investigación"
+  },
+  {
+    "entidad": "Sociedad Chilena de Nefrología",
+    "relacion": "proporciona",
+    "valor": "fondos para investigación"
+  },
+  {
+    "entidad": "entrevistas en profundidad",
+    "relacion": "son utilizadas para",
+    "valor": "recolectar información cualitativa"
+  },
+  {
+    "entidad": "análisis fenomenológico",
+    "relacion": "es realizado para",
+    "valor": "comprender la experiencia de los pacientes"
+  },
+  {
+    "entidad": "tumores cardíacos primarios",
+    "relacion": "tienen",
+    "valor": "baja incidencia"
+  },
+  {
+    "entidad": "tumores cardíacos primarios",
+    "relacion": "se presentan como",
+    "valor": "desafío diagnóstico y terapéutico"
+  },
+  {
+    "entidad": "tumores cardíacos primarios",
+    "relacion": "se clasifican en",
+    "valor": "benignos y malignos"
+  },
+  {
+    "entidad": "mixoma",
+    "relacion": "es el tipo histológico más frecuente de",
+    "valor": "tumores cardíacos primarios"
+  },
+  {
+    "entidad": "ecocardiografía",
+    "relacion": "es el método diagnóstico principal para",
+    "valor": "tumores cardíacos primarios"
+  },
+  {
+    "entidad": "tratamiento quirúrgico",
+    "relacion": "es el tratamiento de elección para",
+    "valor": "tumores cardíacos primarios"
+  },
+  {
+    "entidad": "tumores cardíacos primarios benignos",
+    "relacion": "tienen",
+    "valor": "excelente pronóstico"
+  },
+  {
+    "entidad": "tumores cardíacos primarios malignos",
+    "relacion": "tienen",
+    "valor": "bajo pronóstico"
+  },
+  {
+    "entidad": "síntomas de insuficiencia cardíaca",
+    "relacion": "son comunes en",
+    "valor": "tumores cardíacos primarios"
+  },
+  {
+    "entidad": "fenómenos embólicos",
+    "relacion": "son complicaciones de",
+    "valor": "tumores cardíacos primarios"
+  },
+  {
+    "entidad": "Hospital Clínico Regional de Concepción",
+    "relacion": "realiza",
+    "valor": "cirugías por tumores cardíacos primarios"
+  },
+  {
+    "entidad": "tumores cardíacos primarios",
+    "relacion": "pueden ser",
+    "valor": "asintomáticos"
+  },
+  {
+    "entidad": "tumores cardíacos primarios",
+    "relacion": "se diagnostican mediante",
+    "valor": "ecocardiografía"
+  },
+  {
+    "entidad": "mortalidad operatoria",
+    "relacion": "es",
+    "valor": "baja en tumores cardíacos primarios"
+  },
+  {
+    "entidad": "tumores cardíacos primarios",
+    "relacion": "pueden causar",
+    "valor": "disnea"
+  },
+  {
+    "entidad": "tumores cardíacos primarios",
+    "relacion": "pueden ser tratados con",
+    "valor": "resecciones simples o complejas"
+  },
+  {
+    "entidad": "tumores cardíacos primarios",
+    "relacion": "son",
+    "valor": "predominantemente benignos en mujeres mayores de 50 años"
+  },
+  {
+    "entidad": "Childhood Trauma Questionnaire-Short Form (CTQ-SF)",
+    "relacion": "es un",
+    "valor": "instrumento para evaluar abuso y negligencia infantil"
+  },
+  {
+    "entidad": "CTQ-SF",
+    "relacion": "se aplica a",
+    "valor": "pacientes con depresión clínica"
+  },
+  {
+    "entidad": "CTQ-SF",
+    "relacion": "demuestra",
+    "valor": "propiedades psicométricas adecuadas"
+  },
+  {
+    "entidad": "estrés adverso temprano (EAT)",
+    "relacion": "afecta a",
+    "valor": "la salud mental"
+  },
+  {
+    "entidad": "EAT",
+    "relacion": "se relaciona con",
+    "valor": "mayor incidencia de psicopatología"
+  },
+  {
+    "entidad": "depresión",
+    "relacion": "es un tipo de",
+    "valor": "psicopatología"
+  },
+  {
+    "entidad": "depresión compleja",
+    "relacion": "requiere",
+    "valor": "mayor uso de recursos"
+  },
+  {
+    "entidad": "Childhood Trauma Questionnaire-Short Form (CTQ-SF)",
+    "relacion": "es validado por",
+    "valor": "estudios previos"
+  },
+  {
+    "entidad": "adaptación chilena del CTQ-SF",
+    "relacion": "muestra",
+    "valor": "evidencia de validez estructural"
+  },
+  {
+    "entidad": "CTQ-SF",
+    "relacion": "permite evaluar",
+    "valor": "abuso emocional, físico, sexual y negligencia"
+  },
+  {
+    "entidad": "Ministerio de Economía, Fomento y Turismo",
+    "relacion": "financia",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "Psicomedica, Clinical & Research Group",
+    "relacion": "es un",
+    "valor": "servicio de salud mental"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "aprueba",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "CITIAPS",
+    "relacion": "es parte de",
+    "valor": "la Universidad de Santiago de Chile"
+  },
+  {
+    "entidad": "Núcleo Milenio para Mejorar la Salud Mental de Adolescentes y Jóvenes (Imhay)",
+    "relacion": "se encuentra en",
+    "valor": "Santiago, Chile"
+  },
+  {
+    "entidad": "Childhood Trauma Questionnaire-Short Form (CTQ-SF)",
+    "relacion": "es utilizado en",
+    "valor": "evaluaciones clínicas"
+  },
+  {
+    "entidad": "alto riesgo suicida",
+    "relacion": "se asocia con",
+    "valor": "antecedentes de hospitalizaciones psiquiátricas"
+  },
+  {
+    "entidad": "escala de negligencia física (NF)",
+    "relacion": "es menos fiable que",
+    "valor": "otras escalas del CTQ-SF"
+  },
+  {
+    "entidad": "CTQ-SF",
+    "relacion": "es un estándar de referencia",
+    "valor": "en la evaluación del EAT"
+  }
+]

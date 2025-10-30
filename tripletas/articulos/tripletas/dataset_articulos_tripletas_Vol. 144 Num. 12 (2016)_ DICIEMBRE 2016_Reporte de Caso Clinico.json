@@ -1,0 +1,157 @@
+[
+  {
+    "entidad": "Mesotelioma benigno",
+    "relacion": "es un",
+    "valor": "tumor benigno"
+  },
+  {
+    "entidad": "Mesotelioma benigno",
+    "relacion": "causa",
+    "valor": "dolor abdominal inespecífico"
+  },
+  {
+    "entidad": "Enfermedad de Crohn",
+    "relacion": "afecta a",
+    "valor": "pacientes con dolor abdominal"
+  },
+  {
+    "entidad": "Enfermedad de Crohn",
+    "relacion": "se presenta con",
+    "valor": "síntomas digestivos"
+  },
+  {
+    "entidad": "Resonancia magnética",
+    "relacion": "se utiliza para",
+    "valor": "diagnosticar lesiones abdominales"
+  },
+  {
+    "entidad": "Cirugía",
+    "relacion": "es el",
+    "valor": "tratamiento efectivo para el mesotelioma benigno"
+  },
+  {
+    "entidad": "Mesotelioma benigno",
+    "relacion": "tiene",
+    "valor": "alta tasa de recurrencia"
+  },
+  {
+    "entidad": "Budesonida",
+    "relacion": "se utiliza para",
+    "valor": "tratar la Enfermedad de Crohn"
+  },
+  {
+    "entidad": "Azatioprina",
+    "relacion": "se utiliza para",
+    "valor": "tratar la Enfermedad de Crohn"
+  },
+  {
+    "entidad": "Adalimumab",
+    "relacion": "se utiliza para",
+    "valor": "tratar la Enfermedad de Crohn"
+  },
+  {
+    "entidad": "Inflamación crónica",
+    "relacion": "puede contribuir a",
+    "valor": "el desarrollo del mesotelioma benigno"
+  },
+  {
+    "entidad": "Histopatología",
+    "relacion": "es necesaria para",
+    "valor": "diagnóstico definitivo del mesotelioma benigno"
+  },
+  {
+    "entidad": "Terapia biológica",
+    "relacion": "se recomienda para",
+    "valor": "el manejo de la Enfermedad de Crohn"
+  },
+  {
+    "entidad": "síncope",
+    "relacion": "es secundario a",
+    "valor": "mixoma gigante del anillo mitral"
+  },
+  {
+    "entidad": "mixoma gigante del anillo mitral",
+    "relacion": "afecta a",
+    "valor": "mujer de 23 años"
+  },
+  {
+    "entidad": "mujer de 23 años",
+    "relacion": "presenta",
+    "valor": "tres eventos sincopales recientes"
+  },
+  {
+    "entidad": "ecocardiografía transtorácica (TTE)",
+    "relacion": "detecta",
+    "valor": "masa heterogénea en el anillo mitral"
+  },
+  {
+    "entidad": "masa heterogénea",
+    "relacion": "tiene dimensiones de",
+    "valor": "38 x 35 mm"
+  },
+  {
+    "entidad": "masa heterogénea",
+    "relacion": "protruye en",
+    "valor": "tracto de salida del ventrículo izquierdo"
+  },
+  {
+    "entidad": "resonancia magnética (RM)",
+    "relacion": "confirma",
+    "valor": "hallazgos de ecocardiografía"
+  },
+  {
+    "entidad": "cirugía cardíaca",
+    "relacion": "realiza",
+    "valor": "resección completa del mixoma"
+  },
+  {
+    "entidad": "anatomía patológica",
+    "relacion": "confirma",
+    "valor": "mixoma"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "es dada de alta en",
+    "valor": "quinto día postoperatorio"
+  },
+  {
+    "entidad": "insuficiencia mitral",
+    "relacion": "es leve y",
+    "valor": "protosistólica"
+  },
+  {
+    "entidad": "mixomas cardíacos",
+    "relacion": "son",
+    "valor": "tumores benignos en su mayoría"
+  },
+  {
+    "entidad": "mixomas mitrales",
+    "relacion": "se originan en",
+    "valor": "velos mitrales y anillo"
+  },
+  {
+    "entidad": "resección quirúrgica",
+    "relacion": "es el tratamiento óptimo para",
+    "valor": "mixomas"
+  },
+  {
+    "entidad": "síncope de esfuerzo",
+    "relacion": "puede sugerir",
+    "valor": "cardiopatía estructural o arrítmica"
+  },
+  {
+    "entidad": "miocardio",
+    "relacion": "puede estar asociado a",
+    "valor": "síncope de esfuerzo"
+  },
+  {
+    "entidad": "ecocardiografía",
+    "relacion": "es parte de",
+    "valor": "evaluación de síncope"
+  },
+  {
+    "entidad": "síncope",
+    "relacion": "es considerado",
+    "valor": "de alto riesgo"
+  }
+]

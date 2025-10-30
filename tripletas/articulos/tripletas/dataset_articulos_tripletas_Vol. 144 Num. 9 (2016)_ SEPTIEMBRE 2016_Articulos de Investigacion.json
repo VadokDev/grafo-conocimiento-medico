@@ -1,0 +1,797 @@
+[
+  {
+    "entidad": "trasplante hematopoyético alogénico",
+    "relacion": "ofrece",
+    "valor": "posibilidad de curación"
+  },
+  {
+    "entidad": "acondicionamiento mieloablativo",
+    "relacion": "aumenta",
+    "valor": "mortalidad relacionada con el trasplante"
+  },
+  {
+    "entidad": "acondicionamiento de intensidad reducida",
+    "relacion": "es una opción",
+    "valor": "para pacientes mayores"
+  },
+  {
+    "entidad": "leucemia aguda",
+    "relacion": "es un tipo de",
+    "valor": "enfermedad tratada con trasplante"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "realiza",
+    "valor": "programa de trasplante de células hematopoyéticas"
+  },
+  {
+    "entidad": "Mauricio Sarmiento M.",
+    "relacion": "es autor de",
+    "valor": "el artículo"
+  },
+  {
+    "entidad": "intensidad del acondicionamiento",
+    "relacion": "afecta",
+    "valor": "sobrevida global"
+  },
+  {
+    "entidad": "edad del paciente",
+    "relacion": "influye en",
+    "valor": "resultados del trasplante"
+  },
+  {
+    "entidad": "EICH",
+    "relacion": "se define como",
+    "valor": "enfermedad de injerto contra huésped"
+  },
+  {
+    "entidad": "filgrastim",
+    "relacion": "se utiliza para",
+    "valor": "movilización de precursores hematopoyéticos"
+  },
+  {
+    "entidad": "ciclosporina",
+    "relacion": "se usa en",
+    "valor": "profilaxis de EICH"
+  },
+  {
+    "entidad": "ganciclovir",
+    "relacion": "se utiliza para",
+    "valor": "terapia preventiva contra citomegalovirus"
+  },
+  {
+    "entidad": "mortalidad no relacionada a recaída",
+    "relacion": "se define como",
+    "valor": "cualquier causa de muerte no asociada a recidiva"
+  },
+  {
+    "entidad": "análisis estadístico",
+    "relacion": "se realiza con",
+    "valor": "método de Kaplan-Meier"
+  },
+  {
+    "entidad": "trasplante haploidéntico",
+    "relacion": "puede ser realizado en",
+    "valor": "pacientes mayores de 50 años"
+  },
+  {
+    "entidad": "acondicionamiento ajustado",
+    "relacion": "permite",
+    "valor": "aplicar trasplante a un mayor número de enfermos"
+  },
+  {
+    "entidad": "Rivaroxaban",
+    "relacion": "es un",
+    "valor": "anticoagulante"
+  },
+  {
+    "entidad": "fibrilación auricular no valvular",
+    "relacion": "afecta a",
+    "valor": "pacientes"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "tienen",
+    "valor": "diagnóstico reciente de fibrilación auricular no valvular"
+  },
+  {
+    "entidad": "Rivaroxaban",
+    "relacion": "evalúa",
+    "valor": "efecto anticoagulante"
+  },
+  {
+    "entidad": "actividad anti-Xa",
+    "relacion": "correlaciona con",
+    "valor": "niveles plasmáticos de Rivaroxaban"
+  },
+  {
+    "entidad": "Rivaroxaban",
+    "relacion": "inhibe",
+    "valor": "generación de trombina"
+  },
+  {
+    "entidad": "tiempo de protrombina",
+    "relacion": "se mide en",
+    "valor": "pacientes tratados con Rivaroxaban"
+  },
+  {
+    "entidad": "CHA2DS2-VASc",
+    "relacion": "es un",
+    "valor": "puntaje de riesgo"
+  },
+  {
+    "entidad": "HAS-BLED",
+    "relacion": "es un",
+    "valor": "puntaje de riesgo de sangrado"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "realiza",
+    "valor": "investigación en anticoagulación"
+  },
+  {
+    "entidad": "Rivaroxaban",
+    "relacion": "se administra",
+    "valor": "una vez al día"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "son",
+    "valor": "mayores de 18 años"
+  },
+  {
+    "entidad": "Rivaroxaban",
+    "relacion": "se correlaciona con",
+    "valor": "disminución de la generación de trombina"
+  },
+  {
+    "entidad": "Rivaroxaban",
+    "relacion": "se utiliza para",
+    "valor": "prevención de accidente cerebrovascular"
+  },
+  {
+    "entidad": "dosis de Rivaroxaban",
+    "relacion": "es",
+    "valor": "20 mg diarios o 15 mg diarios en caso de insuficiencia renal"
+  },
+  {
+    "entidad": "Rivaroxaban",
+    "relacion": "no afecta",
+    "valor": "niveles de complejos TAT"
+  },
+  {
+    "entidad": "Rivaroxaban",
+    "relacion": "se recomienda tomar con",
+    "valor": "el desayuno"
+  },
+  {
+    "entidad": "Rivaroxaban",
+    "relacion": "se correlaciona con",
+    "valor": "tiempo de protrombina"
+  },
+  {
+    "entidad": "Rivaroxaban",
+    "relacion": "se estudia en",
+    "valor": "pacientes con fibrilación auricular"
+  },
+  {
+    "entidad": "Rivaroxaban",
+    "relacion": "demuestra",
+    "valor": "efecto anticoagulante rápido y sostenido"
+  },
+  {
+    "entidad": "Rivaroxaban",
+    "relacion": "se utiliza en",
+    "valor": "pacientes con riesgo moderado de tromboembolismo"
+  },
+  {
+    "entidad": "ronquido",
+    "relacion": "es un",
+    "valor": "síntoma de apnea obstructiva del sueño (OSAS)"
+  },
+  {
+    "entidad": "OSAS",
+    "relacion": "causa",
+    "valor": "complicaciones de salud graves"
+  },
+  {
+    "entidad": "anomalías craneofaciales",
+    "relacion": "causan",
+    "valor": "ronquido"
+  },
+  {
+    "entidad": "imágenes de vías respiratorias superiores",
+    "relacion": "ayudan a",
+    "valor": "determinar el método de tratamiento adecuado"
+  },
+  {
+    "entidad": "TC",
+    "relacion": "es un",
+    "valor": "método de imagen"
+  },
+  {
+    "entidad": "RM",
+    "relacion": "es un",
+    "valor": "método de imagen"
+  },
+  {
+    "entidad": "pacientes roncadores",
+    "relacion": "tienen",
+    "valor": "un área orofaríngea más estrecha"
+  },
+  {
+    "entidad": "grosor de los músculos parafaríngeos",
+    "relacion": "aumenta",
+    "valor": "disminución del diámetro de la vía aérea medial-lateral"
+  },
+  {
+    "entidad": "índice de masa corporal (IMC)",
+    "relacion": "es mayor en",
+    "valor": "pacientes roncadores"
+  },
+  {
+    "entidad": "diámetro del cuello",
+    "relacion": "es mayor en",
+    "valor": "pacientes roncadores"
+  },
+  {
+    "entidad": "zona retropalatal de la orofaringe",
+    "relacion": "es la",
+    "valor": "sección más estrecha de la vía aérea"
+  },
+  {
+    "entidad": "músculos dilatadores faríngeos",
+    "relacion": "causan",
+    "valor": "dilatación de las vías respiratorias"
+  },
+  {
+    "entidad": "grosor de la pared muscular parafaríngea",
+    "relacion": "es mayor en",
+    "valor": "pacientes roncadores"
+  },
+  {
+    "entidad": "técnicas de imagen",
+    "relacion": "se comparan entre",
+    "valor": "TC y RM"
+  },
+  {
+    "entidad": "método de polisonografía",
+    "relacion": "es ideal para",
+    "valor": "diagnosticar OSAS"
+  },
+  {
+    "entidad": "métodos de diagnóstico",
+    "relacion": "deben ser",
+    "valor": "más simples"
+  },
+  {
+    "entidad": "músculos faríngeos",
+    "relacion": "se relajan durante",
+    "valor": "el sueño"
+  },
+  {
+    "entidad": "método de imagen",
+    "relacion": "no contiene",
+    "valor": "radiación ionizante"
+  },
+  {
+    "entidad": "población Aymara",
+    "relacion": "es un",
+    "valor": "grupo étnico en Chile"
+  },
+  {
+    "entidad": "enfermedades cardiovasculares",
+    "relacion": "son",
+    "valor": "la principal causa de morbi-mortalidad a nivel mundial"
+  },
+  {
+    "entidad": "Hipertensión Arterial Crónica (HTA)",
+    "relacion": "es un",
+    "valor": "factor de riesgo cardiovascular"
+  },
+  {
+    "entidad": "Diabetes Mellitus Tipo 2 (DM2)",
+    "relacion": "es un",
+    "valor": "factor de riesgo cardiovascular"
+  },
+  {
+    "entidad": "Dislipidemias",
+    "relacion": "son",
+    "valor": "factores de riesgo cardiovascular"
+  },
+  {
+    "entidad": "Tabaquismo",
+    "relacion": "es un",
+    "valor": "factor de riesgo cardiovascular"
+  },
+  {
+    "entidad": "Obesidad",
+    "relacion": "es un",
+    "valor": "factor de riesgo cardiovascular"
+  },
+  {
+    "entidad": "Sedentarismo",
+    "relacion": "es un",
+    "valor": "factor de riesgo cardiovascular"
+  },
+  {
+    "entidad": "Camiña",
+    "relacion": "es un",
+    "valor": "comuna en Chile"
+  },
+  {
+    "entidad": "Putre",
+    "relacion": "es un",
+    "valor": "comuna en Chile"
+  },
+  {
+    "entidad": "Instituto Nacional de Estadísticas (INE)",
+    "relacion": "proporciona",
+    "valor": "cifras proyectadas de población"
+  },
+  {
+    "entidad": "Corporación Nacional de Desarrollo Indígena (CONADI)",
+    "relacion": "utiliza",
+    "valor": "registros para clasificación de origen Aymara"
+  },
+  {
+    "entidad": "estudio descriptivo",
+    "relacion": "es un",
+    "valor": "tipo de estudio realizado"
+  },
+  {
+    "entidad": "muestra aleatoria simple",
+    "relacion": "es un",
+    "valor": "método de selección de participantes"
+  },
+  {
+    "entidad": "Pablo Vargas Mora",
+    "relacion": "es el",
+    "valor": "autor principal del estudio"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "tiene una prevalencia",
+    "valor": "superior a la población nacional"
+  },
+  {
+    "entidad": "tabaquismo",
+    "relacion": "tiene una baja prevalencia",
+    "valor": "en la población Aymara"
+  },
+  {
+    "entidad": "factores genéticos protectores",
+    "relacion": "podrían existir en",
+    "valor": "la etnia Aymara"
+  },
+  {
+    "entidad": "programas de salud pública",
+    "relacion": "deben ser",
+    "valor": "re-orientados para pueblos originarios"
+  },
+  {
+    "entidad": "esquizofrenia",
+    "relacion": "es un",
+    "valor": "trastorno psiquiátrico"
+  },
+  {
+    "entidad": "trastorno bipolar",
+    "relacion": "es un",
+    "valor": "trastorno psiquiátrico"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "es un",
+    "valor": "comorbilidad asociada a trastornos psiquiátricos"
+  },
+  {
+    "entidad": "diabetes mellitus",
+    "relacion": "es un",
+    "valor": "comorbilidad asociada a trastornos psiquiátricos"
+  },
+  {
+    "entidad": "dyslipidemia",
+    "relacion": "es un",
+    "valor": "comorbilidad asociada a trastornos psiquiátricos"
+  },
+  {
+    "entidad": "hidratos de carbono",
+    "relacion": "se asocia con",
+    "valor": "parámetros antropométricos"
+  },
+  {
+    "entidad": "ácidos grasos",
+    "relacion": "se asocia con",
+    "valor": "parámetros antropométricos"
+  },
+  {
+    "entidad": "antipsicóticos atípicos",
+    "relacion": "aumenta",
+    "valor": "circunferencia de cintura"
+  },
+  {
+    "entidad": "estabilizadores de ánimo",
+    "relacion": "se compara con",
+    "valor": "antipsicóticos atípicos"
+  },
+  {
+    "entidad": "índice de masa corporal (IMC)",
+    "relacion": "es un",
+    "valor": "parámetro antropométrico"
+  },
+  {
+    "entidad": "circunferencia de cintura (CC)",
+    "relacion": "es un",
+    "valor": "parámetro antropométrico"
+  },
+  {
+    "entidad": "porcentaje de grasa corporal",
+    "relacion": "es un",
+    "valor": "parámetro antropométrico"
+  },
+  {
+    "entidad": "Food and Agriculture Organization (FAO)",
+    "relacion": "recomienda",
+    "valor": "distribución de ácidos grasos 1:1:1"
+  },
+  {
+    "entidad": "pacientes con trastornos psiquiátricos",
+    "relacion": "presentan",
+    "valor": "conductas modificables como tabaquismo y sedentarismo"
+  },
+  {
+    "entidad": "dieta con bajo índice glicémico",
+    "relacion": "puede ayudar a",
+    "valor": "prevenir aumento de peso corporal"
+  },
+  {
+    "entidad": "antipsicóticos de segunda generación",
+    "relacion": "se asocia con",
+    "valor": "aumento de peso"
+  },
+  {
+    "entidad": "aumento de peso",
+    "relacion": "conduce a",
+    "valor": "mayor circunferencia de cintura"
+  },
+  {
+    "entidad": "estilo de vida saludable",
+    "relacion": "es necesario para",
+    "valor": "lograr pérdida de peso"
+  },
+  {
+    "entidad": "Anticoncepción de emergencia",
+    "relacion": "se refiere a",
+    "valor": "métodos anticonceptivos usados después de relaciones sexuales"
+  },
+  {
+    "entidad": "Sistema de salud pública de Chile",
+    "relacion": "analiza",
+    "valor": "consultas por anticoncepción de emergencia"
+  },
+  {
+    "entidad": "Ministerio de Salud",
+    "relacion": "proporciona",
+    "valor": "bases de datos sobre consultas"
+  },
+  {
+    "entidad": "Pobreza comunal",
+    "relacion": "asocia",
+    "valor": "inversamente a la tasa de consultas por anticoncepción de emergencia"
+  },
+  {
+    "entidad": "Escolaridad comunal",
+    "relacion": "asocia",
+    "valor": "directamente a la tasa de consultas por anticoncepción de emergencia"
+  },
+  {
+    "entidad": "Anticoncepción de emergencia",
+    "relacion": "incluye",
+    "valor": "dispositivo intrauterino de cobre y métodos hormonales"
+  },
+  {
+    "entidad": "Levonorgestrel",
+    "relacion": "es un",
+    "valor": "método anticonceptivo de emergencia"
+  },
+  {
+    "entidad": "Ulipristal",
+    "relacion": "es un",
+    "valor": "antiprogestina aprobada como anticoncepción de emergencia"
+  },
+  {
+    "entidad": "Regulación de fecundidad",
+    "relacion": "se realiza a nivel",
+    "valor": "comunal en Chile"
+  },
+  {
+    "entidad": "Modificaciones legales en 2010",
+    "relacion": "impactan",
+    "valor": "consultas por anticoncepción de emergencia"
+  },
+  {
+    "entidad": "Matronas",
+    "relacion": "autorizadas para",
+    "valor": "entregar anticoncepción de emergencia"
+  },
+  {
+    "entidad": "Sistema de salud municipal",
+    "relacion": "ofrece",
+    "valor": "cobertura de salud a la población"
+  },
+  {
+    "entidad": "Universidad Central",
+    "relacion": "realiza",
+    "valor": "estudio sobre entrega de anticoncepción de emergencia"
+  },
+  {
+    "entidad": "Consultas por anticoncepción de emergencia",
+    "relacion": "aumentan",
+    "valor": "progresivamente desde 2008 a 2013"
+  },
+  {
+    "entidad": "Regiones de Chile",
+    "relacion": "muestran",
+    "valor": "dispersión en tasas de consultas por anticoncepción de emergencia"
+  },
+  {
+    "entidad": "Violencia sexual",
+    "relacion": "asocia con",
+    "valor": "consultas por anticoncepción de emergencia"
+  },
+  {
+    "entidad": "Sistema de salud pública",
+    "relacion": "cubre",
+    "valor": "80% de la población nacional"
+  },
+  {
+    "entidad": "hipertensión",
+    "relacion": "es un",
+    "valor": "enfermedad"
+  },
+  {
+    "entidad": "diabetes tipo 2",
+    "relacion": "es un",
+    "valor": "enfermedad"
+  },
+  {
+    "entidad": "ejercicio intermitente de alta intensidad (HIIT)",
+    "relacion": "mejora",
+    "valor": "recuperación cardiovascular"
+  },
+  {
+    "entidad": "frecuencia cardiaca",
+    "relacion": "es un",
+    "valor": "marcador de recuperación cardiovascular"
+  },
+  {
+    "entidad": "pacientes con hipertensión y diabetes tipo 2",
+    "relacion": "participan en",
+    "valor": "programa de HIIT"
+  },
+  {
+    "entidad": "programa de HIIT",
+    "relacion": "reduce",
+    "valor": "esfuerzo cardiovascular"
+  },
+  {
+    "entidad": "frecuencia cardiaca de inicio",
+    "relacion": "disminuye en",
+    "valor": "pacientes adherentes"
+  },
+  {
+    "entidad": "frecuencia cardiaca de término",
+    "relacion": "disminuye en",
+    "valor": "pacientes adherentes"
+  },
+  {
+    "entidad": "adherencia al programa de HIIT",
+    "relacion": "se relaciona con",
+    "valor": "mejora en la recuperación post esfuerzo"
+  },
+  {
+    "entidad": "Hospital Público de los Lagos",
+    "relacion": "financia",
+    "valor": "proyecto de investigación"
+  },
+  {
+    "entidad": "Universidad de los Lagos",
+    "relacion": "es un",
+    "valor": "institución de investigación"
+  },
+  {
+    "entidad": "Centro de Salud Familiar Tomás Rojas",
+    "relacion": "es un",
+    "valor": "centro de salud"
+  },
+  {
+    "entidad": "frecuencia cardiaca en reposo",
+    "relacion": "puede disminuir tras",
+    "valor": "ejercicio"
+  },
+  {
+    "entidad": "ejercicio endurance",
+    "relacion": "mejora",
+    "valor": "frecuencia cardiaca post esfuerzo"
+  },
+  {
+    "entidad": "mortalidad por enfermedad cardiovascular",
+    "relacion": "se reduce con",
+    "valor": "recuperación rápida de la frecuencia cardiaca"
+  },
+  {
+    "entidad": "HIIT",
+    "relacion": "tiene efectos positivos sobre",
+    "valor": "funcionamiento del sistema cardiovascular"
+  },
+  {
+    "entidad": "adherencia al ejercicio",
+    "relacion": "afecta",
+    "valor": "beneficios cardiometabólicos"
+  },
+  {
+    "entidad": "protocolo 1x2x10",
+    "relacion": "es un",
+    "valor": "método de HIIT"
+  },
+  {
+    "entidad": "pacientes sedentarios",
+    "relacion": "tienen",
+    "valor": "respuesta cardiovascular más lenta"
+  },
+  {
+    "entidad": "frecuencia cardiaca de recuperación",
+    "relacion": "es un",
+    "valor": "marcador de salud cardiovascular"
+  },
+  {
+    "entidad": "pacientes sometidos a trasplante de precursores hematopoyéticos",
+    "relacion": "tienen",
+    "valor": "alto riesgo de osteoporosis"
+  },
+  {
+    "entidad": "deficiencia de vitamina D",
+    "relacion": "afecta a",
+    "valor": "pacientes con trasplante de precursores hematopoyéticos"
+  },
+  {
+    "entidad": "hiperparatiroidismo secundario",
+    "relacion": "es causado por",
+    "valor": "deficiencia de vitamina D"
+  },
+  {
+    "entidad": "pérdida de masa ósea",
+    "relacion": "ocurre en",
+    "valor": "pacientes sometidos a trasplante de precursores hematopoyéticos"
+  },
+  {
+    "entidad": "corticoides",
+    "relacion": "están asociados con",
+    "valor": "osteoporosis y fracturas"
+  },
+  {
+    "entidad": "terapia antineoplásica",
+    "relacion": "incrementa",
+    "valor": "pérdida de densidad mineral ósea"
+  },
+  {
+    "entidad": "enfermedad de injerto contra huésped",
+    "relacion": "afecta a",
+    "valor": "salud ósea"
+  },
+  {
+    "entidad": "niveles de vitamina D",
+    "relacion": "impactan en",
+    "valor": "sobrevida de pacientes con neoplasias hematológicas"
+  },
+  {
+    "entidad": "estrategias de prevención y tratamiento",
+    "relacion": "no están bien establecidas para",
+    "valor": "pérdida ósea en pacientes con TPH"
+  },
+  {
+    "entidad": "evaluación de salud ósea",
+    "relacion": "debe ser realizada en",
+    "valor": "pacientes con trasplante de precursores hematopoyéticos"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "es",
+    "valor": "la institución del estudio"
+  },
+  {
+    "entidad": "Pablo Florenzano",
+    "relacion": "es",
+    "valor": "el autor principal del estudio"
+  },
+  {
+    "entidad": "Hematología Oncológica",
+    "relacion": "es un departamento de",
+    "valor": "la Pontificia Universidad Católica de Chile"
+  },
+  {
+    "entidad": "Escala de Borg",
+    "relacion": "es",
+    "valor": "una herramienta de medición psicofisiológica"
+  },
+  {
+    "entidad": "Escala de Borg",
+    "relacion": "evalúa",
+    "valor": "la percepción del esfuerzo físico"
+  },
+  {
+    "entidad": "diabetes mellitus tipo 2",
+    "relacion": "afecta a",
+    "valor": "la percepción del esfuerzo"
+  },
+  {
+    "entidad": "RPE",
+    "relacion": "se asocia con",
+    "valor": "el consumo de oxígeno"
+  },
+  {
+    "entidad": "RPE",
+    "relacion": "es válida para",
+    "valor": "estimación de la intensidad del esfuerzo físico"
+  },
+  {
+    "entidad": "pacientes con diabetes mellitus tipo 2",
+    "relacion": "participan en",
+    "valor": "pruebas de esfuerzo"
+  },
+  {
+    "entidad": "hospital universitario",
+    "relacion": "pertenece a",
+    "valor": "universidad nacional de cuyo"
+  },
+  {
+    "entidad": "Walter Rosales",
+    "relacion": "es",
+    "valor": "el autor principal del estudio"
+  },
+  {
+    "entidad": "consentimiento informado",
+    "relacion": "es requerido para",
+    "valor": "participar en la investigación"
+  },
+  {
+    "entidad": "neuropatía diabética",
+    "relacion": "es",
+    "valor": "una complicación crónica de la diabetes mellitus"
+  },
+  {
+    "entidad": "frecuencia cardíaca",
+    "relacion": "es",
+    "valor": "una variable fisiológica útil para controlar la intensidad del ejercicio"
+  },
+  {
+    "entidad": "oxígeno",
+    "relacion": "es medido por",
+    "valor": "análisis de gases"
+  },
+  {
+    "entidad": "intensidad del ejercicio",
+    "relacion": "es controlada por",
+    "valor": "la escala de Borg"
+  },
+  {
+    "entidad": "universidad de santiago de chile",
+    "relacion": "apoya",
+    "valor": "la investigación"
+  },
+  {
+    "entidad": "fisiopatología de la neuropatía",
+    "relacion": "no es",
+    "valor": "bien conocida"
+  },
+  {
+    "entidad": "esfuerzo físico",
+    "relacion": "se relaciona con",
+    "valor": "la percepción del dolor muscular"
+  },
+  {
+    "entidad": "escala de percepción del esfuerzo",
+    "relacion": "ha sido utilizada en",
+    "valor": "diversos grupos poblacionales"
+  }
+]

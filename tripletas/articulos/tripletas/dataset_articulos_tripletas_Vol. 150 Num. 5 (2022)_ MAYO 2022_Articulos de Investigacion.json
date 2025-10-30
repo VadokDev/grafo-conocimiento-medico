@@ -1,0 +1,907 @@
+[
+  {
+    "entidad": "Leucemia Mieloide Aguda",
+    "relacion": "es",
+    "valor": "la leucemia aguda más frecuente en adultos"
+  },
+  {
+    "entidad": "Hospital Clínico de la Pontificia Universidad Católica de Chile",
+    "relacion": "realiza",
+    "valor": "tratamientos para Leucemia Mieloide Aguda"
+  },
+  {
+    "entidad": "pacientes con Leucemia Mieloide Aguda",
+    "relacion": "son tratados con",
+    "valor": "quimioterapia de inducción"
+  },
+  {
+    "entidad": "quimioterapia de inducción",
+    "relacion": "incluye",
+    "valor": "esquema 7+3"
+  },
+  {
+    "entidad": "esquema 7+3",
+    "relacion": "es",
+    "valor": "el más utilizado en Chile"
+  },
+  {
+    "entidad": "pacientes menores de 60 años",
+    "relacion": "logran",
+    "valor": "mejores resultados de sobrevida"
+  },
+  {
+    "entidad": "pacientes mayores de 60 años",
+    "relacion": "tienen",
+    "valor": "peores resultados de sobrevida"
+  },
+  {
+    "entidad": "Nicolás Triantafilo",
+    "relacion": "es",
+    "valor": "el autor principal del estudio"
+  },
+  {
+    "entidad": "Red de Salud UC-Christus",
+    "relacion": "es",
+    "valor": "la red de salud asociada al hospital"
+  },
+  {
+    "entidad": "pacientes con riesgo bajo",
+    "relacion": "tienen",
+    "valor": "una sobrevida a 5 años del 59%"
+  },
+  {
+    "entidad": "pacientes con riesgo intermedio",
+    "relacion": "tienen",
+    "valor": "una sobrevida a 5 años del 41%"
+  },
+  {
+    "entidad": "pacientes con riesgo alto",
+    "relacion": "tienen",
+    "valor": "una sobrevida a 5 años del 12%"
+  },
+  {
+    "entidad": "venetoclax",
+    "relacion": "ha sido incorporado a",
+    "valor": "el arsenal terapéutico"
+  },
+  {
+    "entidad": "estudio retrospectivo",
+    "relacion": "se realizó en",
+    "valor": "pacientes mayores de 15 años"
+  },
+  {
+    "entidad": "análisis citogenético",
+    "relacion": "se utiliza para",
+    "valor": "clasificar el riesgo de los pacientes"
+  },
+  {
+    "entidad": "pacientes con LMA secundaria",
+    "relacion": "son clasificados como",
+    "valor": "de riesgo alto"
+  },
+  {
+    "entidad": "mortalidad de inducción",
+    "relacion": "fue",
+    "valor": "4.6%"
+  },
+  {
+    "entidad": "infección fúngica invasora",
+    "relacion": "fue la causa de",
+    "valor": "la mayoría de las defunciones durante la inducción"
+  },
+  {
+    "entidad": "pacientes con diagnóstico de LMA de novo",
+    "relacion": "fueron incluidos en",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "pacientes sin estudio medular",
+    "relacion": "fueron catalogados como",
+    "valor": "de riesgo desconocido"
+  },
+  {
+    "entidad": "quimioterapia paliativa",
+    "relacion": "incluye",
+    "valor": "azacitidina y bajas dosis de citarabina"
+  },
+  {
+    "entidad": "pacientes tratados con terapia de soporte",
+    "relacion": "tienen",
+    "valor": "una mediana de sobrevida de menos de un mes"
+  },
+  {
+    "entidad": "Macarena Peña y Lillo",
+    "relacion": "es autora de",
+    "valor": "artículo sobre información de salud"
+  },
+  {
+    "entidad": "EIS Chile",
+    "relacion": "es una",
+    "valor": "encuesta sobre entornos informativos de salud"
+  },
+  {
+    "entidad": "Agencia Nacional de Investigación y Desarrollo (ANID)",
+    "relacion": "financia",
+    "valor": "proyecto de investigación"
+  },
+  {
+    "entidad": "National Cancer Institute",
+    "relacion": "desarrolla",
+    "valor": "Health Information National Trends Survey (HINTS)"
+  },
+  {
+    "entidad": "HINTS",
+    "relacion": "aborda",
+    "valor": "información sobre cáncer y comportamientos preventivos"
+  },
+  {
+    "entidad": "adultos en Santiago de Chile",
+    "relacion": "participan en",
+    "valor": "encuesta sobre búsqueda de información de salud"
+  },
+  {
+    "entidad": "internet",
+    "relacion": "es una fuente de",
+    "valor": "información de salud"
+  },
+  {
+    "entidad": "centros de salud",
+    "relacion": "son fuentes de",
+    "valor": "información de salud"
+  },
+  {
+    "entidad": "médicos y otros profesionales de la salud",
+    "relacion": "son fuentes de",
+    "valor": "información de salud"
+  },
+  {
+    "entidad": "búsqueda de información",
+    "relacion": "incide en",
+    "valor": "decisiones de salud"
+  },
+  {
+    "entidad": "escaneo de información",
+    "relacion": "es menos estudiado que",
+    "valor": "búsqueda de información"
+  },
+  {
+    "entidad": "confianza en fuentes informativas",
+    "relacion": "determina",
+    "valor": "injerencia de información en decisiones de salud"
+  },
+  {
+    "entidad": "televisión",
+    "relacion": "es una fuente de",
+    "valor": "información sobre hábitos de vida saludable"
+  },
+  {
+    "entidad": "recomendaciones de médicos",
+    "relacion": "son comunes sobre",
+    "valor": "hábitos de vida saludable"
+  },
+  {
+    "entidad": "personas de 25 años o más",
+    "relacion": "son el grupo objetivo de",
+    "valor": "la encuesta EIS Chile"
+  },
+  {
+    "entidad": "muestra de la encuesta",
+    "relacion": "es aleatoria y probabilística",
+    "valor": "en Santiago de Chile"
+  },
+  {
+    "entidad": "Censo de 2017",
+    "relacion": "es el marco muestral de",
+    "valor": "la encuesta EIS Chile"
+  },
+  {
+    "entidad": "conflictos de interés",
+    "relacion": "no existen en",
+    "valor": "el desarrollo del proyecto"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "puede haber influido en",
+    "valor": "la tasa de respuesta de la encuesta"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "afecta a",
+    "valor": "pacientes con hemopatías malignas"
+  },
+  {
+    "entidad": "pacientes con hemopatías malignas",
+    "relacion": "tienen",
+    "valor": "mayor riesgo de complicaciones por COVID-19"
+  },
+  {
+    "entidad": "Hospital Guillermo Grant Benavente",
+    "relacion": "realiza",
+    "valor": "tratamiento de pacientes con COVID-19"
+  },
+  {
+    "entidad": "SARS-CoV-2",
+    "relacion": "causa",
+    "valor": "infección respiratoria"
+  },
+  {
+    "entidad": "comorbilidades",
+    "relacion": "incluyen",
+    "valor": "hipertensión, obesidad, diabetes"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "es mayor en",
+    "valor": "pacientes con hemopatías malignas"
+  },
+  {
+    "entidad": "quimioterapia",
+    "relacion": "afecta",
+    "valor": "el estado inmunológico de los pacientes"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "son más comunes entre",
+    "valor": "los pacientes fallecidos"
+  },
+  {
+    "entidad": "remisión completa",
+    "relacion": "es menos frecuente en",
+    "valor": "pacientes fallecidos"
+  },
+  {
+    "entidad": "ventilación mecánica",
+    "relacion": "es utilizada en",
+    "valor": "pacientes con COVID-19"
+  },
+  {
+    "entidad": "Hematología",
+    "relacion": "es un servicio de",
+    "valor": "atención médica en el hospital"
+  },
+  {
+    "entidad": "Hematología",
+    "relacion": "estudia",
+    "valor": "pacientes con hemopatías malignas"
+  },
+  {
+    "entidad": "Hematología",
+    "relacion": "realiza",
+    "valor": "evaluaciones clínicas de pacientes"
+  },
+  {
+    "entidad": "pacientes oncológicos",
+    "relacion": "tienen",
+    "valor": "alta incidencia de infección severa por COVID-19"
+  },
+  {
+    "entidad": "Hematología",
+    "relacion": "requiere",
+    "valor": "especial atención en el contexto de COVID-19"
+  },
+  {
+    "entidad": "mortalidad por COVID-19",
+    "relacion": "no está influenciada por",
+    "valor": "quimioterapia citotóxica"
+  },
+  {
+    "entidad": "Hematología",
+    "relacion": "es un campo de",
+    "valor": "investigación médica"
+  },
+  {
+    "entidad": "Hematología",
+    "relacion": "se enfoca en",
+    "valor": "el tratamiento de enfermedades malignas de la sangre"
+  },
+  {
+    "entidad": "dieta",
+    "relacion": "afecta a",
+    "valor": "peso corporal"
+  },
+  {
+    "entidad": "ejercicio físico",
+    "relacion": "afecta a",
+    "valor": "peso corporal"
+  },
+  {
+    "entidad": "dieta",
+    "relacion": "afecta a",
+    "valor": "composición corporal"
+  },
+  {
+    "entidad": "ejercicio físico",
+    "relacion": "afecta a",
+    "valor": "composición corporal"
+  },
+  {
+    "entidad": "dieta",
+    "relacion": "afecta a",
+    "valor": "tasa metabólica en reposo"
+  },
+  {
+    "entidad": "ejercicio físico",
+    "relacion": "afecta a",
+    "valor": "tasa metabólica en reposo"
+  },
+  {
+    "entidad": "intervención nutricional",
+    "relacion": "reduce",
+    "valor": "peso corporal"
+  },
+  {
+    "entidad": "intervención nutricional",
+    "relacion": "reduce",
+    "valor": "masa grasa"
+  },
+  {
+    "entidad": "intervención nutricional",
+    "relacion": "mantiene",
+    "valor": "tasa metabólica en reposo"
+  },
+  {
+    "entidad": "masa libre de grasa",
+    "relacion": "disminuye en",
+    "valor": "mujeres"
+  },
+  {
+    "entidad": "masa libre de grasa",
+    "relacion": "se mantiene en",
+    "valor": "hombres"
+  },
+  {
+    "entidad": "adaptación metabólica",
+    "relacion": "observada en",
+    "valor": "participantes"
+  },
+  {
+    "entidad": "sexo masculino",
+    "relacion": "da cuenta de",
+    "valor": "mayor tasa metabólica en reposo"
+  },
+  {
+    "entidad": "cada kg de masa grasa",
+    "relacion": "varía",
+    "valor": "7.25 Kcal en tasa metabólica en reposo"
+  },
+  {
+    "entidad": "cada kg de masa libre de grasa",
+    "relacion": "varía",
+    "valor": "9.79 Kcal en tasa metabólica en reposo"
+  },
+  {
+    "entidad": "intervención",
+    "relacion": "evaluada en",
+    "valor": "adultos obesos chilenos"
+  },
+  {
+    "entidad": "Fondo Concursable de investigación Clínica Santa María",
+    "relacion": "financia",
+    "valor": "estudio"
+  },
+  {
+    "entidad": "Comité de Ética de la Clínica Santa María",
+    "relacion": "aprueba",
+    "valor": "estudio"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "causa",
+    "valor": "cambio en estilos de vida"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "afecta a",
+    "valor": "niveles de actividad física"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen",
+    "valor": "mayor probabilidad de ser físicamente inactivas"
+  },
+  {
+    "entidad": "educación",
+    "relacion": "afecta a",
+    "valor": "nivel de actividad física"
+  },
+  {
+    "entidad": "sobrepeso",
+    "relacion": "aumenta",
+    "valor": "probabilidad de inactividad física"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "aumenta",
+    "valor": "probabilidad de inactividad física"
+  },
+  {
+    "entidad": "tabaco",
+    "relacion": "aumenta",
+    "valor": "probabilidad de inactividad física"
+  },
+  {
+    "entidad": "alcohol",
+    "relacion": "aumenta",
+    "valor": "probabilidad de inactividad física"
+  },
+  {
+    "entidad": "horas de sueño",
+    "relacion": "afecta a",
+    "valor": "nivel de actividad física"
+  },
+  {
+    "entidad": "conductas sedentarias",
+    "relacion": "aumenta",
+    "valor": "probabilidad de inactividad física"
+  },
+  {
+    "entidad": "Universidad Santo Tomás",
+    "relacion": "realiza",
+    "valor": "estudio sobre actividad física"
+  },
+  {
+    "entidad": "Chile",
+    "relacion": "es un",
+    "valor": "país de estudio"
+  },
+  {
+    "entidad": "Colombia",
+    "relacion": "es un",
+    "valor": "país de estudio"
+  },
+  {
+    "entidad": "México",
+    "relacion": "es un",
+    "valor": "país de estudio"
+  },
+  {
+    "entidad": "Perú",
+    "relacion": "es un",
+    "valor": "país de estudio"
+  },
+  {
+    "entidad": "OMS",
+    "relacion": "declara",
+    "valor": "COVID-19 como pandemia"
+  },
+  {
+    "entidad": "distanciamiento físico",
+    "relacion": "es una",
+    "valor": "medida para mitigar COVID-19"
+  },
+  {
+    "entidad": "lavado de manos frecuente",
+    "relacion": "es una",
+    "valor": "medida para mitigar COVID-19"
+  },
+  {
+    "entidad": "sedentarismo",
+    "relacion": "aumenta",
+    "valor": "durante el confinamiento"
+  },
+  {
+    "entidad": "inactividad física",
+    "relacion": "es un",
+    "valor": "factor de riesgo para mala calidad de salud"
+  },
+  {
+    "entidad": "osteoporosis",
+    "relacion": "es una",
+    "valor": "enfermedad frecuente"
+  },
+  {
+    "entidad": "mujeres postmenopáusicas",
+    "relacion": "presentan",
+    "valor": "alta prevalencia de osteoporosis"
+  },
+  {
+    "entidad": "causas secundarias",
+    "relacion": "pueden ser identificadas en",
+    "valor": "hasta un tercio de mujeres con osteoporosis"
+  },
+  {
+    "entidad": "búsqueda estructurada",
+    "relacion": "es una",
+    "valor": "herramienta valiosa para identificar causas secundarias"
+  },
+  {
+    "entidad": "endocrinología",
+    "relacion": "es un",
+    "valor": "área de consulta para osteoporosis"
+  },
+  {
+    "entidad": "historia clínica",
+    "relacion": "incluye",
+    "valor": "antecedentes familiares y personales"
+  },
+  {
+    "entidad": "examen físico",
+    "relacion": "es necesario para",
+    "valor": "identificar causas secundarias"
+  },
+  {
+    "entidad": "estudio de laboratorio",
+    "relacion": "se utiliza para",
+    "valor": "identificar causas secundarias de osteoporosis"
+  },
+  {
+    "entidad": "hipoestrrogenismo",
+    "relacion": "es un",
+    "valor": "mecanismo asociado al desarrollo de osteoporosis"
+  },
+  {
+    "entidad": "envejecimiento",
+    "relacion": "es un",
+    "valor": "mecanismo asociado al desarrollo de osteoporosis"
+  },
+  {
+    "entidad": "deficiencia de vitamina D",
+    "relacion": "es un",
+    "valor": "factor de riesgo para osteoporosis"
+  },
+  {
+    "entidad": "uso de glucocorticoides",
+    "relacion": "es un",
+    "valor": "factor de riesgo para osteoporosis"
+  },
+  {
+    "entidad": "insuficiencia ovárica prematura",
+    "relacion": "es un",
+    "valor": "factor de riesgo para osteoporosis"
+  },
+  {
+    "entidad": "fractura por fragilidad",
+    "relacion": "es una",
+    "valor": "consecuencia de osteoporosis"
+  },
+  {
+    "entidad": "Pablo Florenzano",
+    "relacion": "es",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "es un",
+    "valor": "institución involucrada en la investigación"
+  },
+  {
+    "entidad": "mujeres con DMO baja",
+    "relacion": "presentan",
+    "valor": "alta prevalencia de causas secundarias"
+  },
+  {
+    "entidad": "radiografía de columna dorso-lumbar",
+    "relacion": "se utiliza para",
+    "valor": "evaluar fracturas vertebrales"
+  },
+  {
+    "entidad": "hipercalciuria",
+    "relacion": "es una",
+    "valor": "alteración de laboratorio común en osteoporosis"
+  },
+  {
+    "entidad": "síndrome de Cushing",
+    "relacion": "es una",
+    "valor": "condición que puede ser evaluada en mujeres con osteoporosis"
+  },
+  {
+    "entidad": "mastocitosis sistémica",
+    "relacion": "es una",
+    "valor": "condición que puede ser evaluada en mujeres con osteoporosis"
+  },
+  {
+    "entidad": "enfermedad celíaca",
+    "relacion": "es una",
+    "valor": "condición que puede ser evaluada en mujeres con osteoporosis"
+  },
+  {
+    "entidad": "adolescentes chilenos",
+    "relacion": "presentan",
+    "valor": "comportamientos de riesgo para la salud"
+  },
+  {
+    "entidad": "consumo precoz de alcohol",
+    "relacion": "asociado con",
+    "valor": "conductas suicidas"
+  },
+  {
+    "entidad": "consumo precoz de tabaco",
+    "relacion": "asociado con",
+    "valor": "conductas suicidas"
+  },
+  {
+    "entidad": "consumo precoz de drogas ilícitas",
+    "relacion": "asociado con",
+    "valor": "conductas suicidas"
+  },
+  {
+    "entidad": "consumo precoz de alcohol",
+    "relacion": "asociado con",
+    "valor": "comportamientos sexuales de riesgo"
+  },
+  {
+    "entidad": "consumo precoz de tabaco",
+    "relacion": "asociado con",
+    "valor": "comportamientos sexuales de riesgo"
+  },
+  {
+    "entidad": "consumo precoz de drogas ilícitas",
+    "relacion": "asociado con",
+    "valor": "comportamientos sexuales de riesgo"
+  },
+  {
+    "entidad": "bajo consumo de frutas y verduras",
+    "relacion": "asociado con",
+    "valor": "inicio precoz de drogas"
+  },
+  {
+    "entidad": "bajo nivel de actividad física",
+    "relacion": "asociado con",
+    "valor": "inicio precoz de tabaco"
+  },
+  {
+    "entidad": "policonsumo precoz",
+    "relacion": "asociado con",
+    "valor": "mayor participación en otros comportamientos de riesgo"
+  },
+  {
+    "entidad": "SENDA",
+    "relacion": "define",
+    "valor": "precocidad como el consumo antes de los 15 años"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "financiado por",
+    "valor": "Convenio de Desempeño UPA 1301"
+  },
+  {
+    "entidad": "Universidad de Playa Ancha",
+    "relacion": "realiza",
+    "valor": "investigación sobre salud"
+  },
+  {
+    "entidad": "comportamientos de riesgo para la salud",
+    "relacion": "incluyen",
+    "valor": "consumo de sustancias psicoactivas"
+  },
+  {
+    "entidad": "adolescentes",
+    "relacion": "son más propensos a",
+    "valor": "desarrollar comportamientos de riesgo"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "evalúa",
+    "valor": "asociación entre consumo de sustancias y comportamientos de riesgo"
+  },
+  {
+    "entidad": "actividad sexual temprana",
+    "relacion": "asociada con",
+    "valor": "inicio precoz de drogas ilícitas"
+  },
+  {
+    "entidad": "actividad sexual temprana",
+    "relacion": "asociada con",
+    "valor": "inicio precoz de tabaco"
+  },
+  {
+    "entidad": "uso infrecuente de preservativo",
+    "relacion": "asociado con",
+    "valor": "inicio precoz de drogas ilícitas"
+  },
+  {
+    "entidad": "bajo consumo de frutas y verduras",
+    "relacion": "asociado con",
+    "valor": "inicio precoz de drogas"
+  },
+  {
+    "entidad": "bajo nivel de actividad física",
+    "relacion": "asociado con",
+    "valor": "inicio precoz de tabaco"
+  },
+  {
+    "entidad": "Telemedicina",
+    "relacion": "se utiliza en",
+    "valor": "cirugía vascular y endovascular"
+  },
+  {
+    "entidad": "COVID-19",
+    "relacion": "afecta a",
+    "valor": "pacientes con patologías crónicas"
+  },
+  {
+    "entidad": "Escuela de Medicina, Pontificia Universidad Católica de Chile",
+    "relacion": "realiza",
+    "valor": "investigación en telemedicina"
+  },
+  {
+    "entidad": "Departamento de Cirugía Vascular y Endovascular",
+    "relacion": "pertenece a",
+    "valor": "Escuela de Medicina, Pontificia Universidad Católica de Chile"
+  },
+  {
+    "entidad": "telemedicina",
+    "relacion": "ofrece",
+    "valor": "atención médica a distancia"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "consultan por",
+    "valor": "motivos de salud"
+  },
+  {
+    "entidad": "patologías crónicas",
+    "relacion": "incluyen",
+    "valor": "hipertensión arterial, diabetes, obesidad"
+  },
+  {
+    "entidad": "telemedicina",
+    "relacion": "mejora",
+    "valor": "acceso a atención médica"
+  },
+  {
+    "entidad": "pacientes hipertensos",
+    "relacion": "son",
+    "valor": "grupo de riesgo durante COVID-19"
+  },
+  {
+    "entidad": "telemedicina",
+    "relacion": "permite",
+    "valor": "diagnóstico y tratamiento a distancia"
+  },
+  {
+    "entidad": "consultas médicas",
+    "relacion": "se realizan en",
+    "valor": "plataformas virtuales"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "reportan",
+    "valor": "satisfacción con telemedicina"
+  },
+  {
+    "entidad": "urgencias tiempo-dependientes",
+    "relacion": "son",
+    "valor": "derivadas a servicios de urgencias"
+  },
+  {
+    "entidad": "telemedicina",
+    "relacion": "reduce",
+    "valor": "costos en salud"
+  },
+  {
+    "entidad": "telemedicina",
+    "relacion": "aumenta",
+    "valor": "efectividad en atención médica"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "reciben",
+    "valor": "seguimiento médico"
+  },
+  {
+    "entidad": "diagnóstico definitivo",
+    "relacion": "se logra en",
+    "valor": "74,5% de las consultas"
+  },
+  {
+    "entidad": "motivo de consulta",
+    "relacion": "se resuelve en",
+    "valor": "73,6% de las ocasiones"
+  },
+  {
+    "entidad": "tratamiento",
+    "relacion": "se modifica o inicia en",
+    "valor": "68,9% de las ocasiones"
+  },
+  {
+    "entidad": "Comité Ético Científico de Ciencias de la Salud",
+    "relacion": "aprueba",
+    "valor": "metodología del estudio"
+  },
+  {
+    "entidad": "Transcatheter Aortic Valve Implantation (TAVI)",
+    "relacion": "es beneficioso para",
+    "valor": "pacientes con estenosis aórtica severa sintomática"
+  },
+  {
+    "entidad": "fibrilación auricular (FA)",
+    "relacion": "presenta sustratos fisiopatológicos comunes con",
+    "valor": "estenosis aórtica (EA)"
+  },
+  {
+    "entidad": "anticoagulantes orales directos (DOACs)",
+    "relacion": "previenen",
+    "valor": "eventos embólicos"
+  },
+  {
+    "entidad": "DOACs",
+    "relacion": "tienen menor incidencia de",
+    "valor": "sangrado"
+  },
+  {
+    "entidad": "pacientes con FA y TAVI",
+    "relacion": "tienen indicación de",
+    "valor": "anticoagulación oral (OACs)"
+  },
+  {
+    "entidad": "anticoagulantes orales",
+    "relacion": "no son recomendados por guías clínicas",
+    "valor": "antes de 3 meses post implante"
+  },
+  {
+    "entidad": "encuesta",
+    "relacion": "fue enviada a",
+    "valor": "cardiólogos involucrados en programas de TAVI"
+  },
+  {
+    "entidad": "cardiólogos intervencionistas",
+    "relacion": "prescriben",
+    "valor": "DOACs en la mayoría de escenarios"
+  },
+  {
+    "entidad": "pacientes con alto riesgo de sangrado",
+    "relacion": "se les realiza",
+    "valor": "cierre de la orejuela izquierda"
+  },
+  {
+    "entidad": "pacientes con enfermedad coronaria",
+    "relacion": "reciben",
+    "valor": "combinación de DOAC y un antiplatelet"
+  },
+  {
+    "entidad": "pacientes con angioplastía antigua",
+    "relacion": "reciben",
+    "valor": "OACs al alta"
+  },
+  {
+    "entidad": "fibrilación auricular",
+    "relacion": "aumenta",
+    "valor": "mortalidad y rehospitalización"
+  },
+  {
+    "entidad": "guías clínicas",
+    "relacion": "no recomiendan",
+    "valor": "uso de DOACs post TAVI"
+  },
+  {
+    "entidad": "experiencia local",
+    "relacion": "influye en",
+    "valor": "decisiones de prescripción de anticoagulantes"
+  },
+  {
+    "entidad": "estudio OCEAN",
+    "relacion": "compara",
+    "valor": "uso de VKAs y DOACs al alta en pacientes con FA e implante de TAVI"
+  },
+  {
+    "entidad": "estudio GALILEO",
+    "relacion": "fue interrumpido debido a",
+    "valor": "mayor tasa de muerte y eventos de sangrado"
+  },
+  {
+    "entidad": "estudio ATLANTIS",
+    "relacion": "compara",
+    "valor": "Apixaban contra terapia estándar post TAVI"
+  },
+  {
+    "entidad": "estudio ENVISAGE",
+    "relacion": "evaluará",
+    "valor": "eficacia y seguridad de Edoxaban en pacientes con FA post TAVI"
+  },
+  {
+    "entidad": "Brinkert et al.",
+    "relacion": "demostró que",
+    "valor": "continuar con OACs no aumenta el riesgo de hemorragias"
+  },
+  {
+    "entidad": "pacientes post TAVI",
+    "relacion": "se inclinan por",
+    "valor": "utilizar DOACs"
+  },
+  {
+    "entidad": "variabilidad de conductas",
+    "relacion": "refleja",
+    "valor": "ausencia de directrices claras"
+  }
+]

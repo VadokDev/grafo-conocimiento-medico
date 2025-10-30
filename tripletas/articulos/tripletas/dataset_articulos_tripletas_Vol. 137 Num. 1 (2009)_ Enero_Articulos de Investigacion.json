@@ -1,0 +1,102 @@
+[
+  {
+    "entidad": "Programa Nacional de Inmunizaciones (PNI)",
+    "relacion": "suministra",
+    "valor": "vacuna DPT"
+  },
+  {
+    "entidad": "Ministerio de Salud de Chile (MINSAL)",
+    "relacion": "detectó",
+    "valor": "aumento de reacciones adversas"
+  },
+  {
+    "entidad": "vacuna DPT",
+    "relacion": "asociada a",
+    "valor": "reacciones adversas"
+  },
+  {
+    "entidad": "vacuna 1",
+    "relacion": "asociada a",
+    "valor": "mayor riesgo de reacciones adversas"
+  },
+  {
+    "entidad": "vacuna 2",
+    "relacion": "asociada a",
+    "valor": "menor riesgo de reacciones adversas"
+  },
+  {
+    "entidad": "niños de 4 años",
+    "relacion": "presentan",
+    "valor": "mayor frecuencia de reacciones adversas"
+  },
+  {
+    "entidad": "estudio de casos y controles",
+    "relacion": "realizado en",
+    "valor": "hospitales Sótero del Río y Padre Hurtado"
+  },
+  {
+    "entidad": "estudio de cohorte retrospectiva",
+    "relacion": "realizado en",
+    "valor": "Centro de Salud Familiar Bernardo Leighton"
+  },
+  {
+    "entidad": "fiebre alta",
+    "relacion": "es un tipo de",
+    "valor": "reacción adversa"
+  },
+  {
+    "entidad": "convulsiones",
+    "relacion": "es un tipo de",
+    "valor": "reacción adversa"
+  },
+  {
+    "entidad": "hipotonía-hiporrespuesta",
+    "relacion": "es un tipo de",
+    "valor": "reacción adversa"
+  },
+  {
+    "entidad": "celulitis",
+    "relacion": "es un tipo de",
+    "valor": "reacción adversa"
+  },
+  {
+    "entidad": "llanto persistente",
+    "relacion": "es un tipo de",
+    "valor": "reacción adversa"
+  },
+  {
+    "entidad": "anafilaxia",
+    "relacion": "es un tipo de",
+    "valor": "reacción adversa"
+  },
+  {
+    "entidad": "reacciones adversas",
+    "relacion": "motivan",
+    "valor": "consulta médica"
+  },
+  {
+    "entidad": "observational studies",
+    "relacion": "confirman",
+    "valor": "utilidad en reacciones adversas a vacunas"
+  },
+  {
+    "entidad": "vacuna DPT de células enteras",
+    "relacion": "produce",
+    "valor": "alta tasa de reacciones adversas"
+  },
+  {
+    "entidad": "vacuna DPT acelular",
+    "relacion": "produce",
+    "valor": "menor tasa de reacciones adversas"
+  },
+  {
+    "entidad": "sistema de vigilancia del MINSAL",
+    "relacion": "detectó",
+    "valor": "aumento de reportes de reacciones adversas"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "aportó",
+    "valor": "información relevante para decisiones sanitarias"
+  }
+]

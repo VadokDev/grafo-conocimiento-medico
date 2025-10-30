@@ -1,0 +1,77 @@
+[
+  {
+    "entidad": "Necrosis papilar renal bilateral",
+    "relacion": "es una",
+    "valor": "causa de hematuria microscópica"
+  },
+  {
+    "entidad": "hematuria microscópica",
+    "relacion": "es un",
+    "valor": "síntoma"
+  },
+  {
+    "entidad": "analgesic abuse",
+    "relacion": "es la causa más común de",
+    "valor": "necrosis papilar renal"
+  },
+  {
+    "entidad": "imaging",
+    "relacion": "es esencial para",
+    "valor": "diagnóstico de necrosis papilar renal"
+  },
+  {
+    "entidad": "tomografía computarizada",
+    "relacion": "es un método de",
+    "valor": "diagnóstico"
+  },
+  {
+    "entidad": "paciente de 63 años",
+    "relacion": "presentó",
+    "valor": "hematuria asintomática"
+  },
+  {
+    "entidad": "necrosis papilar renal",
+    "relacion": "se caracteriza por",
+    "valor": "necrosis isquémica de la médula renal"
+  },
+  {
+    "entidad": "estudio etiológico",
+    "relacion": "incluyó",
+    "valor": "descartar patologías asociadas a necrosis papilar renal"
+  },
+  {
+    "entidad": "función renal",
+    "relacion": "fue",
+    "valor": "normal en la paciente"
+  },
+  {
+    "entidad": "seguimiento expectante",
+    "relacion": "fue decidido para",
+    "valor": "la paciente"
+  },
+  {
+    "entidad": "remisión completa",
+    "relacion": "fue observada en",
+    "valor": "imágenes de seguimiento"
+  },
+  {
+    "entidad": "necrosis papilar renal",
+    "relacion": "puede causar",
+    "valor": "injuria renal aguda"
+  },
+  {
+    "entidad": "hematuria recurrente no glomerular",
+    "relacion": "es un indicativo para",
+    "valor": "descartar necrosis papilar renal"
+  },
+  {
+    "entidad": "factores de riesgo",
+    "relacion": "pueden incluir",
+    "valor": "deshidratación y enfermedades asociadas"
+  },
+  {
+    "entidad": "biomarcadores",
+    "relacion": "pueden ser útiles para",
+    "valor": "diagnóstico temprano de necrosis papilar renal"
+  }
+]

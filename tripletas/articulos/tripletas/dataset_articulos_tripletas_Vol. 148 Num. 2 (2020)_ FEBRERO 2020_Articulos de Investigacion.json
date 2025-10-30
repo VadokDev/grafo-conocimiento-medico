@@ -1,0 +1,717 @@
+[
+  {
+    "entidad": "Ocular Surface Disease Index (OSDI)",
+    "relacion": "es",
+    "valor": "cuestionario para detectar enfermedad de ojo seco"
+  },
+  {
+    "entidad": "población chilena",
+    "relacion": "es objeto de",
+    "valor": "adaptación cultural y validación del OSDI"
+  },
+  {
+    "entidad": "Unidad de Lágrima y Superficie Ocular (ULSO)",
+    "relacion": "pertenece a",
+    "valor": "Centro de la Visión (CEV)"
+  },
+  {
+    "entidad": "Centro de la Visión (CEV)",
+    "relacion": "está ubicado en",
+    "valor": "Santiago, Chile"
+  },
+  {
+    "entidad": "Instituto de Ciencias Biomédicas (ICBM)",
+    "relacion": "pertenece a",
+    "valor": "Facultad de Medicina, Universidad de Chile"
+  },
+  {
+    "entidad": "Departamento de Tecnología Médica",
+    "relacion": "pertenece a",
+    "valor": "Facultad de Medicina, Universidad de Chile"
+  },
+  {
+    "entidad": "Coorporación para el Apoyo de la Investigación Científica en Nutrición (INTA)",
+    "relacion": "pertenece a",
+    "valor": "Universidad de Chile"
+  },
+  {
+    "entidad": "cuestionarios clínicos",
+    "relacion": "permiten",
+    "valor": "estandarizar y cuantificar síntomas"
+  },
+  {
+    "entidad": "Dry Eye Workshop II (DEWS II)",
+    "relacion": "reconoce",
+    "valor": "cuestionarios para evaluar el síndrome de ojo seco"
+  },
+  {
+    "entidad": "cuestionario OSDI",
+    "relacion": "ha sido traducido y validado en",
+    "valor": "varios idiomas"
+  },
+  {
+    "entidad": "cuestionario OSDI",
+    "relacion": "fue adaptado y validado mediante",
+    "valor": "análisis psicométrico"
+  },
+  {
+    "entidad": "análisis factorial",
+    "relacion": "resultó en",
+    "valor": "tres factores explicando 75.4% de la varianza total"
+  },
+  {
+    "entidad": "cuestionario OSDI",
+    "relacion": "demostró",
+    "valor": "excelente consistencia interna"
+  },
+  {
+    "entidad": "Dr. Leonidas Traipe",
+    "relacion": "es",
+    "valor": "autor del estudio"
+  },
+  {
+    "entidad": "muestra de 200 pacientes",
+    "relacion": "fue evaluada para",
+    "valor": "validación del OSDI"
+  },
+  {
+    "entidad": "cuestionario OSDI",
+    "relacion": "es utilizado para",
+    "valor": "evaluar la enfermedad de la superficie ocular"
+  },
+  {
+    "entidad": "cuestionario OSDI",
+    "relacion": "facilita",
+    "valor": "el diagnóstico del síndrome de ojo seco"
+  },
+  {
+    "entidad": "evaluación psicométrica",
+    "relacion": "incluye",
+    "valor": "consistencia interna y validez de constructo"
+  },
+  {
+    "entidad": "población chilena",
+    "relacion": "está",
+    "valor": "envejeciendo rápidamente"
+  },
+  {
+    "entidad": "situación financiera percibida",
+    "relacion": "asocia",
+    "valor": "autopercepción de salud en adultos mayores"
+  },
+  {
+    "entidad": "apoyo social percibido de amigos",
+    "relacion": "influye en",
+    "valor": "autopercepción de salud en mujeres"
+  },
+  {
+    "entidad": "edad",
+    "relacion": "no está asociada con",
+    "valor": "autopercepción de salud"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud (OMS)",
+    "relacion": "promueve",
+    "valor": "envejecimiento activo"
+  },
+  {
+    "entidad": "envejecimiento activo",
+    "relacion": "optimiza",
+    "valor": "oportunidades de salud y participación"
+  },
+  {
+    "entidad": "autopercepción de salud",
+    "relacion": "es afectada por",
+    "valor": "situación financiera y apoyo social"
+  },
+  {
+    "entidad": "mujeres",
+    "relacion": "tienen mayor",
+    "valor": "apoyo social de amigos"
+  },
+  {
+    "entidad": "hombres",
+    "relacion": "tienen mejor",
+    "valor": "autopercepción de salud"
+  },
+  {
+    "entidad": "vulnerabilidad psicosocial y económica",
+    "relacion": "afecta a",
+    "valor": "adultos mayores en Chile"
+  },
+  {
+    "entidad": "pobreza",
+    "relacion": "es un desafío para",
+    "valor": "la salud de adultos mayores"
+  },
+  {
+    "entidad": "finanzas",
+    "relacion": "impactan en",
+    "valor": "salud mental de adultos mayores"
+  },
+  {
+    "entidad": "apoyo social",
+    "relacion": "es un factor protector de",
+    "valor": "salud y longevidad"
+  },
+  {
+    "entidad": "relaciones de amistad",
+    "relacion": "promueven",
+    "valor": "confianza en mujeres adultas mayores"
+  },
+  {
+    "entidad": "dificultades asociadas al aumento de edad",
+    "relacion": "resultan en",
+    "valor": "autopercepción de salud negativa"
+  },
+  {
+    "entidad": "estudio",
+    "relacion": "recibió apoyo de",
+    "valor": "CEPEC y CONICYT"
+  },
+  {
+    "entidad": "muestra",
+    "relacion": "fue",
+    "valor": "adultos mayores activos"
+  },
+  {
+    "entidad": "maltrato infantil",
+    "relacion": "afecta a",
+    "valor": "curso clínico de pacientes con trastorno bipolar"
+  },
+  {
+    "entidad": "trastorno bipolar",
+    "relacion": "es un",
+    "valor": "trastorno psiquiátrico"
+  },
+  {
+    "entidad": "historia de maltrato infantil",
+    "relacion": "se asocia con",
+    "valor": "inicio temprano de la enfermedad"
+  },
+  {
+    "entidad": "historia de maltrato infantil",
+    "relacion": "se asocia con",
+    "valor": "mayor riesgo de intentos de suicidio"
+  },
+  {
+    "entidad": "maltrato infantil",
+    "relacion": "se relaciona con",
+    "valor": "alteraciones en cognición social"
+  },
+  {
+    "entidad": "pacientes con trastorno bipolar",
+    "relacion": "reportan",
+    "valor": "alta frecuencia de maltrato infantil"
+  },
+  {
+    "entidad": "estrés temprano",
+    "relacion": "modifica",
+    "valor": "curso clínico del trastorno bipolar"
+  },
+  {
+    "entidad": "abuso emocional",
+    "relacion": "se asocia con",
+    "valor": "inicio temprano de la enfermedad bipolar"
+  },
+  {
+    "entidad": "abuso sexual",
+    "relacion": "se asocia con",
+    "valor": "mayor riesgo de intentos de suicidio"
+  },
+  {
+    "entidad": "cognición social",
+    "relacion": "se ve afectada por",
+    "valor": "antecedentes de maltrato infantil"
+  },
+  {
+    "entidad": "pacientes bipolares",
+    "relacion": "presentan",
+    "valor": "alteraciones en el reconocimiento de emociones"
+  },
+  {
+    "entidad": "guías de práctica clínica",
+    "relacion": "omiten",
+    "valor": "considerar el maltrato infantil"
+  },
+  {
+    "entidad": "estrategias de intervención psicosocial",
+    "relacion": "deben ser promovidas para",
+    "valor": "pacientes con trastorno bipolar"
+  },
+  {
+    "entidad": "cognición no social",
+    "relacion": "no muestra diferencias significativas entre",
+    "valor": "pacientes con y sin antecedentes de maltrato infantil"
+  },
+  {
+    "entidad": "enfermedad coronaria",
+    "relacion": "afecta a",
+    "valor": "mujeres postmenopáusicas"
+  },
+  {
+    "entidad": "enfermedad coronaria",
+    "relacion": "afecta a",
+    "valor": "mujeres premenopáusicas"
+  },
+  {
+    "entidad": "diabetes mellitus tipo 2",
+    "relacion": "es un",
+    "valor": "factor de riesgo independiente"
+  },
+  {
+    "entidad": "mujeres postmenopáusicas",
+    "relacion": "tienen",
+    "valor": "mayor gravedad de enfermedad coronaria"
+  },
+  {
+    "entidad": "mujeres premenopáusicas",
+    "relacion": "tienen",
+    "valor": "menor frecuencia de diabetes mellitus tipo 2"
+  },
+  {
+    "entidad": "diabetes mellitus tipo 2",
+    "relacion": "asocia con",
+    "valor": "mayor gravedad de enfermedad coronaria"
+  },
+  {
+    "entidad": "hipertensión",
+    "relacion": "es un",
+    "valor": "factor de riesgo para enfermedad coronaria"
+  },
+  {
+    "entidad": "obesidad",
+    "relacion": "es un",
+    "valor": "factor de riesgo para enfermedad coronaria"
+  },
+  {
+    "entidad": "mujeres postmenopáusicas",
+    "relacion": "tienen",
+    "valor": "mayor prevalencia de múltiples factores de riesgo"
+  },
+  {
+    "entidad": "National Cholesterol Education Program",
+    "relacion": "reconoció",
+    "valor": "postmenopausia como factor de riesgo cardiovascular"
+  },
+  {
+    "entidad": "mujeres premenopáusicas",
+    "relacion": "tienen",
+    "valor": "menor compromiso de la función renal"
+  },
+  {
+    "entidad": "mujeres postmenopáusicas",
+    "relacion": "tienen",
+    "valor": "mayor compromiso de la función renal"
+  },
+  {
+    "entidad": "mujeres con diabetes mellitus tipo 2",
+    "relacion": "tienen",
+    "valor": "mayor frecuencia de enfermedad de múltiples vasos"
+  },
+  {
+    "entidad": "mujeres postmenopáusicas sin diabetes mellitus tipo 2",
+    "relacion": "tienen",
+    "valor": "más enfermedad de múltiples vasos que premenopáusicas sin diabetes mellitus tipo 2"
+  },
+  {
+    "entidad": "mujeres premenopáusicas con diabetes mellitus tipo 2",
+    "relacion": "tienen",
+    "valor": "más oclusión crónica que premenopáusicas sin diabetes mellitus tipo 2"
+  },
+  {
+    "entidad": "mujeres postmenopáusicas con diabetes mellitus tipo 2",
+    "relacion": "tienen",
+    "valor": "más oclusión crónica que postmenopáusicas sin diabetes mellitus tipo 2"
+  },
+  {
+    "entidad": "diabetes mellitus tipo 2",
+    "relacion": "atenuar",
+    "valor": "efecto protector de los estrógenos"
+  },
+  {
+    "entidad": "mujeres postmenopáusicas",
+    "relacion": "tienen",
+    "valor": "mayor riesgo de enfermedad cardiovascular"
+  },
+  {
+    "entidad": "mujeres premenopáusicas",
+    "relacion": "tienen",
+    "valor": "mayor proporción de mujeres sin enfermedad coronaria"
+  },
+  {
+    "entidad": "tuberculosis (TB)",
+    "relacion": "es",
+    "valor": "un grave problema de salud pública"
+  },
+  {
+    "entidad": "estrategia de pesquisa sistemática",
+    "relacion": "revela",
+    "valor": "alto número de nuevas infecciones tuberculosas"
+  },
+  {
+    "entidad": "contactos adultos",
+    "relacion": "se encuentran en",
+    "valor": "la Región Metropolitana, Chile"
+  },
+  {
+    "entidad": "Programa Nacional de Tuberculosis",
+    "relacion": "no incluye",
+    "valor": "pruebas de infección tuberculosa latente"
+  },
+  {
+    "entidad": "quimioprofilaxis",
+    "relacion": "no está incluida en",
+    "valor": "la estrategia del Programa Nacional de Tuberculosis"
+  },
+  {
+    "entidad": "sistema de salud",
+    "relacion": "realiza",
+    "valor": "seguimiento prolongado de contactos"
+  },
+  {
+    "entidad": "QuantiFERON TB-Gold plus",
+    "relacion": "es utilizado para",
+    "valor": "diagnosticar infección tuberculosa"
+  },
+  {
+    "entidad": "radiografía de tórax",
+    "relacion": "se realiza en",
+    "valor": "todos los contactos"
+  },
+  {
+    "entidad": "seguimiento activo",
+    "relacion": "es esencial para",
+    "valor": "detectar nuevas infecciones"
+  },
+  {
+    "entidad": "migrantes",
+    "relacion": "constituyen",
+    "valor": "un alto porcentaje de contactos"
+  },
+  {
+    "entidad": "quimioprofilaxis tuberculosa",
+    "relacion": "es indicada para",
+    "valor": "contactos con resultado positivo en QFT"
+  },
+  {
+    "entidad": "contactos intradomiciliarios",
+    "relacion": "tienen",
+    "valor": "alto riesgo de progresar a TB activa"
+  },
+  {
+    "entidad": "sistema de salud chileno",
+    "relacion": "debe priorizar",
+    "valor": "la pesquisa activa en contactos"
+  },
+  {
+    "entidad": "contactos",
+    "relacion": "son evaluados para",
+    "valor": "descartar TB activa"
+  },
+  {
+    "entidad": "Dra. María Elvira Balcells",
+    "relacion": "es",
+    "valor": "la autora principal del estudio"
+  },
+  {
+    "entidad": "FONDECYT",
+    "relacion": "financia",
+    "valor": "el estudio"
+  },
+  {
+    "entidad": "contactos sintomáticos",
+    "relacion": "son derivados para",
+    "valor": "estudio y descarte de TB activa"
+  },
+  {
+    "entidad": "Dermatomiositis",
+    "relacion": "es un",
+    "valor": "tipo de miopatía inflamatoria"
+  },
+  {
+    "entidad": "Miositis",
+    "relacion": "es un",
+    "valor": "grupo de patologías musculares de etiología autoinmune"
+  },
+  {
+    "entidad": "Pontificia Universidad Católica de Chile",
+    "relacion": "es un",
+    "valor": "institución de investigación"
+  },
+  {
+    "entidad": "Hospital Clínic de Barcelona",
+    "relacion": "es un",
+    "valor": "institución de investigación"
+  },
+  {
+    "entidad": "Laboratorio Clínico UC CHRISTUS",
+    "relacion": "suministra",
+    "valor": "financiamiento para pruebas"
+  },
+  {
+    "entidad": "Anticuerpos asociados a miositis",
+    "relacion": "se relacionan con",
+    "valor": "fenotipos clínicos de dermatomiositis"
+  },
+  {
+    "entidad": "Anticuerpos específicos de miositis",
+    "relacion": "se relacionan con",
+    "valor": "severidad de la enfermedad"
+  },
+  {
+    "entidad": "Anticuerpos específicos de miositis",
+    "relacion": "se relacionan con",
+    "valor": "presencia de cáncer"
+  },
+  {
+    "entidad": "Corticoides sistémicos",
+    "relacion": "constituyen",
+    "valor": "la primera línea de tratamiento para dermatomiositis"
+  },
+  {
+    "entidad": "Anticuerpos anti-Jo-1",
+    "relacion": "es el",
+    "valor": "anticuerpo más frecuente en dermatomiositis"
+  },
+  {
+    "entidad": "Anti-Mi-2",
+    "relacion": "es el",
+    "valor": "anticuerpo más frecuentemente detectado en el estudio"
+  },
+  {
+    "entidad": "Anticuerpos anti-NXP2",
+    "relacion": "se asocian con",
+    "valor": "cáncer"
+  },
+  {
+    "entidad": "Enfermedad pulmonar intersticial difusa",
+    "relacion": "es una",
+    "valor": "manifestación común en pacientes con dermatomiositis"
+  },
+  {
+    "entidad": "Biopsia muscular",
+    "relacion": "es la",
+    "valor": "herramienta crucial para el diagnóstico de dermatomiositis"
+  },
+  {
+    "entidad": "Electromiografía",
+    "relacion": "es útil para",
+    "valor": "descartar trastornos neuropáticos"
+  },
+  {
+    "entidad": "Resonancia magnética",
+    "relacion": "permite valorar",
+    "valor": "presencia de inflamación o atrofia muscular"
+  },
+  {
+    "entidad": "Cáncer",
+    "relacion": "aumenta el riesgo en",
+    "valor": "los primeros años tras el inicio de dermatomiositis"
+  },
+  {
+    "entidad": "Anticuerpos antinucleares (ANA)",
+    "relacion": "se encuentran en",
+    "valor": "hasta el 60-80% de los pacientes con dermatomiositis"
+  },
+  {
+    "entidad": "Criterios de Dalakas",
+    "relacion": "son",
+    "valor": "los más aceptados para el diagnóstico de dermatomiositis"
+  },
+  {
+    "entidad": "Criterios de Bohan y Peter",
+    "relacion": "son",
+    "valor": "los más utilizados para clasificar dermatomiositis"
+  },
+  {
+    "entidad": "menopausia",
+    "relacion": "define",
+    "valor": "cese permanente de la menstruación"
+  },
+  {
+    "entidad": "Organización Mundial de la Salud (OMS)",
+    "relacion": "define",
+    "valor": "menopausia"
+  },
+  {
+    "entidad": "mujeres chilenas",
+    "relacion": "presentan",
+    "valor": "aumento de riesgo cardiovascular"
+  },
+  {
+    "entidad": "menopausia",
+    "relacion": "asocia con",
+    "valor": "hipertensión"
+  },
+  {
+    "entidad": "menopausia",
+    "relacion": "asocia con",
+    "valor": "diabetes mellitus tipo 2"
+  },
+  {
+    "entidad": "menopausia",
+    "relacion": "provoca",
+    "valor": "modificación en la composición corporal"
+  },
+  {
+    "entidad": "menopausia",
+    "relacion": "aumenta",
+    "valor": "riesgo de enfermedades cardiovasculares"
+  },
+  {
+    "entidad": "mujeres con menopausia",
+    "relacion": "reportan",
+    "valor": "mayor presión arterial sistólica"
+  },
+  {
+    "entidad": "mujeres con menopausia",
+    "relacion": "tienen",
+    "valor": "mayor probabilidad de diabetes"
+  },
+  {
+    "entidad": "mujeres con menopausia",
+    "relacion": "tienen",
+    "valor": "mayor probabilidad de hipertensión"
+  },
+  {
+    "entidad": "Encuesta Nacional de Salud 2016-2017",
+    "relacion": "utiliza",
+    "valor": "datos para el estudio"
+  },
+  {
+    "entidad": "mujeres chilenas",
+    "relacion": "cursan con",
+    "valor": "menopausia"
+  },
+  {
+    "entidad": "esperanza de vida de las mujeres",
+    "relacion": "se estima que",
+    "valor": "87,8 años para 2050"
+  },
+  {
+    "entidad": "menopausia",
+    "relacion": "considerada como",
+    "valor": "factor de riesgo de ECV"
+  },
+  {
+    "entidad": "estrógeno",
+    "relacion": "disminuye durante",
+    "valor": "menopausia"
+  },
+  {
+    "entidad": "menopausia",
+    "relacion": "aumenta",
+    "valor": "estrés oxidativo"
+  },
+  {
+    "entidad": "estrés oxidativo",
+    "relacion": "aumenta el riesgo de",
+    "valor": "enfermedades crónicas"
+  },
+  {
+    "entidad": "mujeres con menopausia",
+    "relacion": "presentan",
+    "valor": "menor peso corporal"
+  },
+  {
+    "entidad": "mujeres con menopausia",
+    "relacion": "presentan",
+    "valor": "menor índice de masa corporal (IMC)"
+  },
+  {
+    "entidad": "mujeres con menopausia",
+    "relacion": "presentan",
+    "valor": "menor circunferencia de cintura (CC)"
+  },
+  {
+    "entidad": "menopausia",
+    "relacion": "no se asocia con",
+    "valor": "obesidad"
+  },
+  {
+    "entidad": "menopausia",
+    "relacion": "no se asocia con",
+    "valor": "síndrome metabólico"
+  },
+  {
+    "entidad": "menopausia",
+    "relacion": "no se asocia con",
+    "valor": "obesidad central"
+  },
+  {
+    "entidad": "cáncer",
+    "relacion": "es responsable de",
+    "valor": "23% de las defunciones anuales en Chile"
+  },
+  {
+    "entidad": "cáncer",
+    "relacion": "es una de",
+    "valor": "las principales causas de muerte"
+  },
+  {
+    "entidad": "actividad física",
+    "relacion": "afecta a",
+    "valor": "la calidad de vida de pacientes con cáncer"
+  },
+  {
+    "entidad": "inactividad física",
+    "relacion": "se asocia con",
+    "valor": "10% de los cánceres de mama, próstata y colorrectal"
+  },
+  {
+    "entidad": "pacientes con cáncer",
+    "relacion": "cumplen con",
+    "valor": "13% de las recomendaciones de actividad física"
+  },
+  {
+    "entidad": "cáncer",
+    "relacion": "causa",
+    "valor": "disminución en los niveles de actividad física"
+  },
+  {
+    "entidad": "tiempo sedente",
+    "relacion": "es mayor en",
+    "valor": "personas con diagnóstico de cáncer"
+  },
+  {
+    "entidad": "cáncer",
+    "relacion": "se relaciona con",
+    "valor": "deterioro en el estado nutricional"
+  },
+  {
+    "entidad": "cáncer",
+    "relacion": "aumenta",
+    "valor": "el riesgo de obesidad y sobrepeso"
+  },
+  {
+    "entidad": "percepción de salud y bienestar",
+    "relacion": "es peor en",
+    "valor": "personas con cáncer"
+  },
+  {
+    "entidad": "intervenciones de actividad física",
+    "relacion": "son necesarias para",
+    "valor": "mejorar el manejo de pacientes con cáncer"
+  },
+  {
+    "entidad": "cáncer",
+    "relacion": "requiere",
+    "valor": "políticas para aumentar la actividad física"
+  },
+  {
+    "entidad": "cáncer",
+    "relacion": "afecta",
+    "valor": "los niveles de actividad física de manera diferente según el tipo"
+  },
+  {
+    "entidad": "cáncer",
+    "relacion": "se asocia con",
+    "valor": "efectos secundarios de tratamientos como quimioterapia"
+  },
+  {
+    "entidad": "cáncer",
+    "relacion": "aumenta",
+    "valor": "la mortalidad en pacientes con bajos niveles de actividad física"
+  }
+]

@@ -1,0 +1,187 @@
+[
+  {
+    "entidad": "ultrasonido torácico",
+    "relacion": "es un",
+    "valor": "herramienta diagnóstica"
+  },
+  {
+    "entidad": "ultrasonido torácico",
+    "relacion": "se utiliza para",
+    "valor": "guiar procedimientos invasivos"
+  },
+  {
+    "entidad": "ultrasonido torácico",
+    "relacion": "aumenta",
+    "valor": "la seguridad del paciente"
+  },
+  {
+    "entidad": "ultrasonido torácico",
+    "relacion": "reduce",
+    "valor": "costos y tiempo"
+  },
+  {
+    "entidad": "neumotórax",
+    "relacion": "puede ser diagnosticado por",
+    "valor": "ultrasonido"
+  },
+  {
+    "entidad": "edema pulmonar",
+    "relacion": "puede ser identificado por",
+    "valor": "ultrasonido"
+  },
+  {
+    "entidad": "toracocentesis",
+    "relacion": "es guiada por",
+    "valor": "ultrasonido"
+  },
+  {
+    "entidad": "líquido pleural",
+    "relacion": "puede ser evaluado por",
+    "valor": "ultrasonido"
+  },
+  {
+    "entidad": "biopsias pleurales",
+    "relacion": "son facilitadas por",
+    "valor": "ultrasonido"
+  },
+  {
+    "entidad": "neumonía",
+    "relacion": "puede ser valorada por",
+    "valor": "ultrasonido"
+  },
+  {
+    "entidad": "Sociedad Británica del Tórax",
+    "relacion": "incluye",
+    "valor": "ultrasonido en el diagnóstico del mesotelioma"
+  },
+  {
+    "entidad": "ultrasonido",
+    "relacion": "ayuda en",
+    "valor": "el diagnóstico bacteriológico"
+  },
+  {
+    "entidad": "ultrasonido",
+    "relacion": "es más sensible que",
+    "valor": "tomografía computarizada para evaluar invasión"
+  },
+  {
+    "entidad": "ultrasonido",
+    "relacion": "se ha incrementado en",
+    "valor": "la última década"
+  },
+  {
+    "entidad": "ultrasonido",
+    "relacion": "es útil en",
+    "valor": "la evaluación de derrames pleurales"
+  },
+  {
+    "entidad": "ultrasonido",
+    "relacion": "permite medir",
+    "valor": "el espesor de la pleura"
+  },
+  {
+    "entidad": "ultrasonido",
+    "relacion": "es utilizado para",
+    "valor": "la colocación de drenajes pleurales"
+  },
+  {
+    "entidad": "ultrasonido",
+    "relacion": "facilita",
+    "valor": "la identificación de estructuras vasculares"
+  },
+  {
+    "entidad": "ultrasonido",
+    "relacion": "puede identificar",
+    "valor": "anatomía aberrante"
+  },
+  {
+    "entidad": "ultrasonido",
+    "relacion": "es clave para",
+    "valor": "la práctica de la neumología intervencionista"
+  },
+  {
+    "entidad": "microbiota gastrointestinal",
+    "relacion": "regula",
+    "valor": "respuesta inmune"
+  },
+  {
+    "entidad": "microbiota gastrointestinal",
+    "relacion": "interactúa con",
+    "valor": "sistema inmune"
+  },
+  {
+    "entidad": "microbiota gastrointestinal",
+    "relacion": "es esencial para",
+    "valor": "homeostasis humana"
+  },
+  {
+    "entidad": "bacterias comensales",
+    "relacion": "protegen de",
+    "valor": "bacterias y virus invasores"
+  },
+  {
+    "entidad": "inmunoglobulina A secretora (S-IgA)",
+    "relacion": "mantiene",
+    "valor": "bacterias comensales"
+  },
+  {
+    "entidad": "células dendríticas",
+    "relacion": "regulan",
+    "valor": "inmunidad intestinal"
+  },
+  {
+    "entidad": "células dendríticas",
+    "relacion": "inducen",
+    "valor": "células T reguladoras"
+  },
+  {
+    "entidad": "microbiota intestinal",
+    "relacion": "favorece",
+    "valor": "estado de salud del humano"
+  },
+  {
+    "entidad": "microbiota intestinal",
+    "relacion": "es adquirida por",
+    "valor": "recién nacidos"
+  },
+  {
+    "entidad": "células B IgA+",
+    "relacion": "producen",
+    "valor": "factores antimicrobianos"
+  },
+  {
+    "entidad": "células dendríticas",
+    "relacion": "muestran",
+    "valor": "microambiente intestinal"
+  },
+  {
+    "entidad": "probióticos",
+    "relacion": "contribuyen a",
+    "valor": "balance de la microbiota intestinal"
+  },
+  {
+    "entidad": "microbiota intestinal",
+    "relacion": "puede ser regulada por",
+    "valor": "microorganismos beneficiosos"
+  },
+  {
+    "entidad": "Lactobacillus y Bifidobacterium",
+    "relacion": "ejercen efectos sobre",
+    "valor": "función de barrera del epitelio intestinal"
+  },
+  {
+    "entidad": "S-IgA",
+    "relacion": "comunica",
+    "valor": "contenido luminal a la lámina propia"
+  },
+  {
+    "entidad": "microbiota",
+    "relacion": "es un",
+    "valor": "órgano más del organismo humano"
+  },
+  {
+    "entidad": "interacción entre microbiota y sistema inmune",
+    "relacion": "es",
+    "valor": "compleja y multifuncional"
+  }
+]

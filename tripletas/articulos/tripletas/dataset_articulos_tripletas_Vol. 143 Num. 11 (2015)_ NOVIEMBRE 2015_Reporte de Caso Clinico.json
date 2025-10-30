@@ -1,0 +1,187 @@
+[
+  {
+    "entidad": "Déficit adquirido de factor X",
+    "relacion": "asociado a",
+    "valor": "leucemia mielomonocítica crónica"
+  },
+  {
+    "entidad": "leucemia mielomonocítica crónica",
+    "relacion": "deriva de",
+    "valor": "síndrome mielodisplásico"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "tiene",
+    "valor": "68 años"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "convulsiones tónico-clónicas"
+  },
+  {
+    "entidad": "CAT scan",
+    "relacion": "muestra",
+    "valor": "hematoma en el lóbulo frontal"
+  },
+  {
+    "entidad": "Factor X",
+    "relacion": "deficiencia",
+    "valor": "aislada"
+  },
+  {
+    "entidad": "deficiencia de Factor X",
+    "relacion": "podría ser secundaria a",
+    "valor": "consumo debido a leucemia mielomonocítica crónica"
+  },
+  {
+    "entidad": "Azacitidina",
+    "relacion": "utilizado en",
+    "valor": "tratamiento de leucemia mielomonocítica crónica"
+  },
+  {
+    "entidad": "mielograma",
+    "relacion": "demuestra",
+    "valor": "hiperplasia global moderada de la médula ósea"
+  },
+  {
+    "entidad": "trombocitopenia",
+    "relacion": "observada en",
+    "valor": "paciente"
+  },
+  {
+    "entidad": "hemorragia",
+    "relacion": "asociada a",
+    "valor": "microangiopatía amiloidea"
+  },
+  {
+    "entidad": "trombocitopenia",
+    "relacion": "refractaria a",
+    "valor": "tratamiento"
+  },
+  {
+    "entidad": "mielodisplasia",
+    "relacion": "evoluciona a",
+    "valor": "leucemia mielomonocítica crónica"
+  },
+  {
+    "entidad": "mielodisplasia",
+    "relacion": "diagnosticada con",
+    "valor": "fibrosis reticulínica leve"
+  },
+  {
+    "entidad": "hemorragia",
+    "relacion": "evidente en",
+    "valor": "paciente"
+  },
+  {
+    "entidad": "trombocitopenia",
+    "relacion": "conduce a",
+    "valor": "alteraciones de hemostasia"
+  },
+  {
+    "entidad": "factor X",
+    "relacion": "se adquiere durante",
+    "valor": "evolución de la enfermedad"
+  },
+  {
+    "entidad": "leucemia mielomonocítica crónica",
+    "relacion": "caracterizada por",
+    "valor": "monocitosis en sangre periférica"
+  },
+  {
+    "entidad": "leucemia mielomonocítica crónica",
+    "relacion": "presenta",
+    "valor": "alteraciones morfológicas"
+  },
+  {
+    "entidad": "leucemia mielomonocítica crónica",
+    "relacion": "puede desarrollarse a partir de",
+    "valor": "síndrome mielodisplásico"
+  },
+  {
+    "entidad": "hemorragia",
+    "relacion": "asociada a",
+    "valor": "alteración persistente de pruebas de coagulación"
+  },
+  {
+    "entidad": "Leucoencefalopatía tóxica fatal",
+    "relacion": "asociada a",
+    "valor": "consumo de pasta base de cocaína"
+  },
+  {
+    "entidad": "pasta base de cocaína",
+    "relacion": "es un tipo de",
+    "valor": "droga"
+  },
+  {
+    "entidad": "Universidad de Chile",
+    "relacion": "pertenece a",
+    "valor": "Facultad de Medicina"
+  },
+  {
+    "entidad": "Luis Cartier Rovirosa",
+    "relacion": "es el autor de",
+    "valor": "el artículo"
+  },
+  {
+    "entidad": "metilprednisolona",
+    "relacion": "se utiliza para",
+    "valor": "tratar leucoencefalopatía tóxica"
+  },
+  {
+    "entidad": "consumo de cocaína",
+    "relacion": "causa",
+    "valor": "alteraciones del Sistema Nervioso Central"
+  },
+  {
+    "entidad": "leucoencefalopatía tóxica",
+    "relacion": "se caracteriza por",
+    "valor": "daño selectivo de axones"
+  },
+  {
+    "entidad": "neumonía aspirativa",
+    "relacion": "es una complicación de",
+    "valor": "leucoencefalopatía tóxica"
+  },
+  {
+    "entidad": "resonancia magnética",
+    "relacion": "muestra",
+    "valor": "lesiones hiperintensas en el cerebro"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "presentan",
+    "valor": "cefalea persistente y déficit motor"
+  },
+  {
+    "entidad": "autopsia médico-legal",
+    "relacion": "se realiza en",
+    "valor": "pacientes fallecidos"
+  },
+  {
+    "entidad": "aditivos tóxicos",
+    "relacion": "se sospecha que causan",
+    "valor": "leucoencefalopatías tóxicas fatales"
+  },
+  {
+    "entidad": "cocaína",
+    "relacion": "es la segunda droga ilegal de",
+    "valor": "mayor consumo en Chile"
+  },
+  {
+    "entidad": "latencia",
+    "relacion": "es el tiempo entre",
+    "valor": "ingesta y síntomas de leucoencefalopatía"
+  },
+  {
+    "entidad": "sistema vascular",
+    "relacion": "es afectado por",
+    "valor": "consumo de cocaína"
+  },
+  {
+    "entidad": "enfermedad desmielinizante subaguda",
+    "relacion": "se trata con",
+    "valor": "metilprednisolona"
+  }
+]

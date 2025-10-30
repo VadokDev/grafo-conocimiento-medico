@@ -1,0 +1,82 @@
+[
+  {
+    "entidad": "hipertensión portal",
+    "relacion": "es un",
+    "valor": "síndrome"
+  },
+  {
+    "entidad": "cirrosis",
+    "relacion": "es la causa más común de",
+    "valor": "hipertensión portal"
+  },
+  {
+    "entidad": "enfermedad vascular portosinusoidal (EVPS)",
+    "relacion": "es una",
+    "valor": "causa menos frecuente de hipertensión portal"
+  },
+  {
+    "entidad": "EVPS",
+    "relacion": "afecta a",
+    "valor": "vénulas portales y sinusoides hepáticos"
+  },
+  {
+    "entidad": "hombre de 68 años",
+    "relacion": "tiene antecedentes de",
+    "valor": "hipertensión portal y hemorragia variceal recurrente"
+  },
+  {
+    "entidad": "tratamiento médico",
+    "relacion": "no previene",
+    "valor": "hemorragias variceales"
+  },
+  {
+    "entidad": "derivación portosistémica intrahepática transyugular (TIPS)",
+    "relacion": "se realiza para",
+    "valor": "manejo de hemorragia variceal"
+  },
+  {
+    "entidad": "elastografía hepática",
+    "relacion": "muestra",
+    "valor": "rigidez hepática inusualmente baja"
+  },
+  {
+    "entidad": "biopsia hepática",
+    "relacion": "es fundamental para",
+    "valor": "diagnóstico de EVPS"
+  },
+  {
+    "entidad": "hallazgos histológicos",
+    "relacion": "respaldan",
+    "valor": "diagnóstico de EVPS"
+  },
+  {
+    "entidad": "EVPS",
+    "relacion": "no tiene",
+    "valor": "terapias específicas"
+  },
+  {
+    "entidad": "investigación continua",
+    "relacion": "es esencial para",
+    "valor": "comprender mejor EVPS"
+  },
+  {
+    "entidad": "trombosis de la vena porta",
+    "relacion": "es frecuente en",
+    "valor": "EVPS"
+  },
+  {
+    "entidad": "trasplante hepático (TH)",
+    "relacion": "se asocia a",
+    "valor": "buen resultado en EVPS"
+  },
+  {
+    "entidad": "EVPS",
+    "relacion": "es un",
+    "valor": "trastorno poco común"
+  },
+  {
+    "entidad": "Comité Ético Científico y de Investigación (CEIC)",
+    "relacion": "aprueba",
+    "valor": "realización del artículo"
+  }
+]

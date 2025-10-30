@@ -1,0 +1,217 @@
+[
+  {
+    "entidad": "células cancerosas",
+    "relacion": "necesitan",
+    "valor": "redirigir su metabolismo"
+  },
+  {
+    "entidad": "SIRT3",
+    "relacion": "tiene",
+    "valor": "función supresora de tumores"
+  },
+  {
+    "entidad": "ejercicio físico",
+    "relacion": "activa",
+    "valor": "SIRT3"
+  },
+  {
+    "entidad": "SIRT3",
+    "relacion": "promueve",
+    "valor": "metabolismo mitocondrial"
+  },
+  {
+    "entidad": "SIRT3",
+    "relacion": "reduce",
+    "valor": "estrés oxidativo"
+  },
+  {
+    "entidad": "SIRT3",
+    "relacion": "inhibe",
+    "valor": "glicólisis anaeróbica"
+  },
+  {
+    "entidad": "SIRT3",
+    "relacion": "aumenta",
+    "valor": "actividad de enzimas mitocondriales"
+  },
+  {
+    "entidad": "glutamina",
+    "relacion": "es consumida por",
+    "valor": "células cancerosas"
+  },
+  {
+    "entidad": "ROS",
+    "relacion": "aumentan",
+    "valor": "estrés oxidativo"
+  },
+  {
+    "entidad": "HIF-1α",
+    "relacion": "es regulado por",
+    "valor": "SIRT3"
+  },
+  {
+    "entidad": "p53",
+    "relacion": "es activado por",
+    "valor": "SIRT3"
+  },
+  {
+    "entidad": "AMPK",
+    "relacion": "regula",
+    "valor": "SIRT3"
+  },
+  {
+    "entidad": "ejercicio físico",
+    "relacion": "mejora",
+    "valor": "pronóstico en cáncer"
+  },
+  {
+    "entidad": "SIRT3",
+    "relacion": "se asocia con",
+    "valor": "mejor pronóstico en cáncer de próstata"
+  },
+  {
+    "entidad": "SIRT3",
+    "relacion": "se encuentra disminuida en",
+    "valor": "cáncer de mama"
+  },
+  {
+    "entidad": "SIRT3",
+    "relacion": "se asocia con",
+    "valor": "peor pronóstico en cáncer hepatocelular"
+  },
+  {
+    "entidad": "SIRT3",
+    "relacion": "incrementa",
+    "valor": "expresión de PGC-1α"
+  },
+  {
+    "entidad": "ejercicio físico",
+    "relacion": "modula",
+    "valor": "respuesta inmune"
+  },
+  {
+    "entidad": "miokinas",
+    "relacion": "inducen",
+    "valor": "apoptosis en células cancerosas"
+  },
+  {
+    "entidad": "SPARC",
+    "relacion": "suprime",
+    "valor": "iniciación y progresión de tumorigénesis colorrectal"
+  },
+  {
+    "entidad": "Síndrome hemolítico urémico atípico",
+    "relacion": "es un",
+    "valor": "síndrome raro de microangiopatía trombótica"
+  },
+  {
+    "entidad": "Síndrome hemolítico urémico atípico",
+    "relacion": "se caracteriza por",
+    "valor": "anemia hemolítica microangiopática, trombocitopenia y falla renal"
+  },
+  {
+    "entidad": "Síndrome hemolítico urémico atípico",
+    "relacion": "causa",
+    "valor": "enfermedad renal en etapa terminal"
+  },
+  {
+    "entidad": "Síndrome hemolítico urémico atípico",
+    "relacion": "afecta a",
+    "valor": "adultos jóvenes"
+  },
+  {
+    "entidad": "mutación genética",
+    "relacion": "determina",
+    "valor": "severidad de la enfermedad"
+  },
+  {
+    "entidad": "mutación genética",
+    "relacion": "afecta",
+    "valor": "pronóstico y respuesta a la terapia"
+  },
+  {
+    "entidad": "Eculizumab",
+    "relacion": "es un",
+    "valor": "tratamiento aprobado para SHUa primario"
+  },
+  {
+    "entidad": "Eculizumab",
+    "relacion": "produce",
+    "valor": "remisión hematológica y restauración de la función renal"
+  },
+  {
+    "entidad": "Sistema del complemento",
+    "relacion": "participa en",
+    "valor": "inmunidad innata"
+  },
+  {
+    "entidad": "Sistema del complemento",
+    "relacion": "se activa por",
+    "valor": "vías clásica, alterna y de lectinas"
+  },
+  {
+    "entidad": "Síndrome hemolítico urémico",
+    "relacion": "tiene como principal causa",
+    "valor": "infección por Escherichia coli productor de toxina Shiga"
+  },
+  {
+    "entidad": "Síndrome hemolítico urémico atípico",
+    "relacion": "se presenta en",
+    "valor": "10% de la población infantil"
+  },
+  {
+    "entidad": "Síndrome hemolítico urémico atípico",
+    "relacion": "tiene una incidencia anual de",
+    "valor": "0,5-2 casos por millón de habitantes"
+  },
+  {
+    "entidad": "Síndrome hemolítico urémico atípico",
+    "relacion": "se caracteriza por",
+    "valor": "activación anómala del complemento"
+  },
+  {
+    "entidad": "Síndrome hemolítico urémico atípico",
+    "relacion": "puede ser",
+    "valor": "primario o secundario"
+  },
+  {
+    "entidad": "trastornos autoinmunes",
+    "relacion": "son causas de",
+    "valor": "SHUa secundario"
+  },
+  {
+    "entidad": "trasplante renal",
+    "relacion": "puede ser complicado por",
+    "valor": "recurrencia de SHUa"
+  },
+  {
+    "entidad": "plasmaféresis",
+    "relacion": "es un tratamiento para",
+    "valor": "SHUa"
+  },
+  {
+    "entidad": "plasmaféresis",
+    "relacion": "se recomienda en",
+    "valor": "SHUa secundario"
+  },
+  {
+    "entidad": "infecciones",
+    "relacion": "son condiciones amplificadoras de",
+    "valor": "complemento"
+  },
+  {
+    "entidad": "Eculizumab",
+    "relacion": "debe ser administrado con",
+    "valor": "vacunas contra Neisseria meningitidis"
+  },
+  {
+    "entidad": "SHUa",
+    "relacion": "requiere",
+    "valor": "monitoreo de títulos de anticuerpos"
+  },
+  {
+    "entidad": "mutaciones en CFH",
+    "relacion": "se asocian a",
+    "valor": "mal pronóstico en SHUa"
+  }
+]

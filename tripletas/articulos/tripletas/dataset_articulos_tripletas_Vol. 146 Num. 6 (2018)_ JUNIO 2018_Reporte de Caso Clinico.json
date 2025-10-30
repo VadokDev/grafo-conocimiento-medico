@@ -1,0 +1,322 @@
+[
+  {
+    "entidad": "shock séptico refractario",
+    "relacion": "es un",
+    "valor": "tipo de shock"
+  },
+  {
+    "entidad": "adsorción extracorpórea de citoquinas",
+    "relacion": "es un",
+    "valor": "tratamiento"
+  },
+  {
+    "entidad": "dispositivos extracorpóreos",
+    "relacion": "utilizan",
+    "valor": "adsorción de citoquinas"
+  },
+  {
+    "entidad": "sistema inflamatorio",
+    "relacion": "afecta a",
+    "valor": "respuesta inmune"
+  },
+  {
+    "entidad": "sepsis",
+    "relacion": "causa",
+    "valor": "mortalidad en UCI"
+  },
+  {
+    "entidad": "cascada de citoquinas",
+    "relacion": "modula",
+    "valor": "respuesta inflamatoria"
+  },
+  {
+    "entidad": "hemodiálisis",
+    "relacion": "es compatible con",
+    "valor": "dispositivos de hemoadsorción"
+  },
+  {
+    "entidad": "Cytosorb",
+    "relacion": "es un",
+    "valor": "dispositivo de hemoadsorción"
+  },
+  {
+    "entidad": "vasopresores",
+    "relacion": "se utilizan para",
+    "valor": "mantener presión arterial"
+  },
+  {
+    "entidad": "pacientes quirúrgicos",
+    "relacion": "son tratados con",
+    "valor": "hemoadsorción"
+  },
+  {
+    "entidad": "mortalidad",
+    "relacion": "se correlaciona con",
+    "valor": "niveles de citoquinas"
+  },
+  {
+    "entidad": "tormenta citoquínica",
+    "relacion": "conduce a",
+    "valor": "síndrome de respuesta inflamatoria sistémica"
+  },
+  {
+    "entidad": "interleuquinas",
+    "relacion": "son parte de",
+    "valor": "citoquinas"
+  },
+  {
+    "entidad": "corticoides",
+    "relacion": "son utilizados para",
+    "valor": "modular respuesta inmune"
+  },
+  {
+    "entidad": "disfunción orgánica múltiple",
+    "relacion": "es una causa de",
+    "valor": "mortalidad en sepsis"
+  },
+  {
+    "entidad": "mujeres diabéticas",
+    "relacion": "son pacientes con",
+    "valor": "shock séptico refractario"
+  },
+  {
+    "entidad": "Cytosorb",
+    "relacion": "reduce",
+    "valor": "necesidad de vasopresores"
+  },
+  {
+    "entidad": "respuesta inflamatoria sistémica",
+    "relacion": "es mitigada por",
+    "valor": "adsorción de citoquinas"
+  },
+  {
+    "entidad": "dispositivos de hemoadsorción",
+    "relacion": "mejoran",
+    "valor": "hemodinamia en pacientes con SS"
+  },
+  {
+    "entidad": "remoción del foco séptico",
+    "relacion": "es vital para",
+    "valor": "recuperación del paciente"
+  },
+  {
+    "entidad": "daño hepatocelular",
+    "relacion": "asocia",
+    "valor": "autoinmunidad"
+  },
+  {
+    "entidad": "autoinmunidad",
+    "relacion": "puede manifestarse como",
+    "valor": "enfermedad multisistémica"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "dolor de rodilla"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "enzimas hepáticas elevadas"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "presenta",
+    "valor": "proteinuria"
+  },
+  {
+    "entidad": "anticuerpos antinucleares",
+    "relacion": "son positivos en",
+    "valor": "el paciente"
+  },
+  {
+    "entidad": "biopsia hepática",
+    "relacion": "revela",
+    "valor": "hepatitis autoinmune"
+  },
+  {
+    "entidad": "corticosteroides",
+    "relacion": "se utiliza para",
+    "valor": "tratar hepatitis autoinmune"
+  },
+  {
+    "entidad": "azatioprina",
+    "relacion": "se utiliza para",
+    "valor": "tratar hepatitis autoinmune"
+  },
+  {
+    "entidad": "lisinopril",
+    "relacion": "reduce",
+    "valor": "proteinuria"
+  },
+  {
+    "entidad": "biopsia renal",
+    "relacion": "revela",
+    "valor": "glomeruloesclerosis focal y segmentaria"
+  },
+  {
+    "entidad": "glomérulo",
+    "relacion": "presenta",
+    "valor": "fusión pedicelar completa"
+  },
+  {
+    "entidad": "glomérulo",
+    "relacion": "no presenta",
+    "valor": "depósitos inmunes"
+  },
+  {
+    "entidad": "terapia esteroidal",
+    "relacion": "es efectiva en",
+    "valor": "hepatitis autoinmune"
+  },
+  {
+    "entidad": "gloméruloesclerosis focal y segmentaria",
+    "relacion": "es una",
+    "valor": "glomeropatía"
+  },
+  {
+    "entidad": "paciente",
+    "relacion": "mantiene tratamiento con",
+    "valor": "azatioprina y lisinopril"
+  },
+  {
+    "entidad": "enfermedad autoinmune",
+    "relacion": "puede coexistir con",
+    "valor": "otras enfermedades autoinmunes"
+  },
+  {
+    "entidad": "proteinuria",
+    "relacion": "persiste a pesar de",
+    "valor": "tratamiento de hepatitis autoinmune"
+  },
+  {
+    "entidad": "Hepatitis autoinmune",
+    "relacion": "es más frecuente en",
+    "valor": "mujeres"
+  },
+  {
+    "entidad": "Hepatitis autoinmune",
+    "relacion": "puede evolucionar hacia",
+    "valor": "cirrosis"
+  },
+  {
+    "entidad": "gloméruloesclerosis focal y segmentaria",
+    "relacion": "es vista como",
+    "valor": "grupo de síndromes clínico-patológicos"
+  },
+  {
+    "entidad": "terapia inmunosupresora",
+    "relacion": "puede ser riesgosa en",
+    "valor": "Lupus Eritematoso Sistémico"
+  },
+  {
+    "entidad": "Síndrome de degeneración combinada de la médula espinal",
+    "relacion": "es un",
+    "valor": "síndrome neurológico"
+  },
+  {
+    "entidad": "quimioterapia intratecal",
+    "relacion": "utiliza",
+    "valor": "Metrotrexato y Citarabina"
+  },
+  {
+    "entidad": "Citarabina",
+    "relacion": "causa",
+    "valor": "toxicidad en el sistema nervioso central"
+  },
+  {
+    "entidad": "Metrotrexato",
+    "relacion": "puede tener",
+    "valor": "efecto desmielinizante"
+  },
+  {
+    "entidad": "pacientes",
+    "relacion": "desarrollan",
+    "valor": "mielopatías o radiculopatías tóxicas"
+  },
+  {
+    "entidad": "Citarabina",
+    "relacion": "no es degradada por",
+    "valor": "Cytidine deaminase en el sistema nervioso central"
+  },
+  {
+    "entidad": "mielopatía tóxica",
+    "relacion": "se desarrolla",
+    "valor": "rápidamente después de la quimioterapia intratecal"
+  },
+  {
+    "entidad": "mielopatía",
+    "relacion": "se asocia con",
+    "valor": "alteraciones en la médula espinal"
+  },
+  {
+    "entidad": "pacientes con LLA",
+    "relacion": "reciben",
+    "valor": "quimioterapia intratecal"
+  },
+  {
+    "entidad": "Tiamina",
+    "relacion": "se utiliza para",
+    "valor": "tratar síntomas neurológicos"
+  },
+  {
+    "entidad": "Piridoxina",
+    "relacion": "se utiliza para",
+    "valor": "tratar síntomas neurológicos"
+  },
+  {
+    "entidad": "Leucovorina",
+    "relacion": "se utiliza para",
+    "valor": "tratar síntomas neurológicos"
+  },
+  {
+    "entidad": "Cianocobalamina",
+    "relacion": "se utiliza para",
+    "valor": "tratar síntomas neurológicos"
+  },
+  {
+    "entidad": "mielograma",
+    "relacion": "muestra",
+    "valor": "linfoblastos en pacientes"
+  },
+  {
+    "entidad": "Resonancia Magnética",
+    "relacion": "muestra",
+    "valor": "hiperintensidad en la médula espinal"
+  },
+  {
+    "entidad": "edema de papila",
+    "relacion": "es un síntoma de",
+    "valor": "toxicidad de Citarabina"
+  },
+  {
+    "entidad": "Citarabina",
+    "relacion": "produce",
+    "valor": "edema de papila"
+  },
+  {
+    "entidad": "Citarabina",
+    "relacion": "se asocia con",
+    "valor": "síndrome de pseudo-tumor cerebral"
+  },
+  {
+    "entidad": "Citarabina",
+    "relacion": "se utiliza en",
+    "valor": "quimioterapia intratecal"
+  },
+  {
+    "entidad": "Metrotrexato",
+    "relacion": "se utiliza en",
+    "valor": "quimioterapia intratecal"
+  },
+  {
+    "entidad": "Betametazona",
+    "relacion": "se utiliza en",
+    "valor": "quimioterapia intratecal"
+  },
+  {
+    "entidad": "quimioterapia intratecal",
+    "relacion": "es un tratamiento para",
+    "valor": "Leucemias Linfoblásticas agudas"
+  }
+]

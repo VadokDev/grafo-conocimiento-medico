@@ -1,0 +1,222 @@
+[
+  {
+    "entidad": "Fibrosis Pulmonar Idiopática (FPI)",
+    "relacion": "es un",
+    "valor": "trastorno pulmonar"
+  },
+  {
+    "entidad": "enfermedades pulmonares intersticiales",
+    "relacion": "son un",
+    "valor": "grupo heterogéneo de trastornos"
+  },
+  {
+    "entidad": "FPI",
+    "relacion": "presenta",
+    "valor": "fisiopatología común a otros tipos de fibrosis pulmonares"
+  },
+  {
+    "entidad": "epitelio alveolar",
+    "relacion": "juega un rol en",
+    "valor": "la génesis de la fibrosis"
+  },
+  {
+    "entidad": "fibroblastos",
+    "relacion": "son responsables de",
+    "valor": "la producción excesiva de matriz extracelular"
+  },
+  {
+    "entidad": "senescencia celular",
+    "relacion": "es un concepto clave en",
+    "valor": "la patogénesis de la FPI"
+  },
+  {
+    "entidad": "sistema inmune",
+    "relacion": "interactúa con",
+    "valor": "el epitelio pulmonar en la FPI"
+  },
+  {
+    "entidad": "HLA-DRB1*1501",
+    "relacion": "se asocia con",
+    "valor": "mayor activación de linfocitos T CD4+"
+  },
+  {
+    "entidad": "mutaciones en TERT y TERC",
+    "relacion": "se han asociado con",
+    "valor": "mayor riesgo de desarrollar FPI"
+  },
+  {
+    "entidad": "Pirfenidona",
+    "relacion": "es una",
+    "valor": "terapia antifibrótica"
+  },
+  {
+    "entidad": "Nintedanib",
+    "relacion": "es un",
+    "valor": "inhibidor selectivo de tirosina quinasa"
+  },
+  {
+    "entidad": "Nerandomilast",
+    "relacion": "es un",
+    "valor": "inhibidor selectivo de PDE4B"
+  },
+  {
+    "entidad": "Admilparant",
+    "relacion": "es un",
+    "valor": "antagonista del receptor LPA1"
+  },
+  {
+    "entidad": "Bexotegrast",
+    "relacion": "es un",
+    "valor": "inhibidor dual de integrinas αvβ6 y αvβ1"
+  },
+  {
+    "entidad": "Teprostinil inhalado",
+    "relacion": "es un",
+    "valor": "vasodilatador pulmonar"
+  },
+  {
+    "entidad": "FPI",
+    "relacion": "requiere",
+    "valor": "enfoques terapéuticos personalizados"
+  },
+  {
+    "entidad": "telómeros",
+    "relacion": "se relacionan con",
+    "valor": "el envejecimiento celular"
+  },
+  {
+    "entidad": "células senescentes",
+    "relacion": "se caracterizan por",
+    "valor": "cambios morfológicos y resistencia a la apoptosis"
+  },
+  {
+    "entidad": "citosinas proinflamatorias",
+    "relacion": "son secretadas por",
+    "valor": "fibroblastos senescentes"
+  },
+  {
+    "entidad": "estrés oxidativo",
+    "relacion": "promueve",
+    "valor": "la senescencia celular"
+  },
+  {
+    "entidad": "polimorfismo rs35705950",
+    "relacion": "es un",
+    "valor": "factor de riesgo genético para FPI"
+  },
+  {
+    "entidad": "mecanismos epigenéticos",
+    "relacion": "contribuyen a",
+    "valor": "la progresión de enfermedades crónicas"
+  },
+  {
+    "entidad": "mujeres migrantes",
+    "relacion": "afectan",
+    "valor": "salud mental perinatal"
+  },
+  {
+    "entidad": "estrés aculturativo",
+    "relacion": "aumenta",
+    "valor": "vulnerabilidad a trastornos mentales"
+  },
+  {
+    "entidad": "barreras económicas",
+    "relacion": "limitan",
+    "valor": "acceso a servicios de salud"
+  },
+  {
+    "entidad": "discriminación",
+    "relacion": "contribuye a",
+    "valor": "trastornos de salud mental"
+  },
+  {
+    "entidad": "efecto del inmigrante saludable",
+    "relacion": "no se refleja en",
+    "valor": "salud mental"
+  },
+  {
+    "entidad": "redes sociales y familiares",
+    "relacion": "emergen como",
+    "valor": "factores protectores"
+  },
+  {
+    "entidad": "políticas públicas inclusivas",
+    "relacion": "son necesarias para",
+    "valor": "mitigar riesgos psicológicos"
+  },
+  {
+    "entidad": "programas diseñados para mujeres migrantes",
+    "relacion": "han demostrado ser",
+    "valor": "eficaces en la reducción de síntomas de trastornos perinatales"
+  },
+  {
+    "entidad": "mujeres migrantes recientes",
+    "relacion": "enfrentan",
+    "valor": "mayor riesgo de trastornos mentales"
+  },
+  {
+    "entidad": "mujeres con mayor tiempo de residencia",
+    "relacion": "muestran",
+    "valor": "cierta mejora en salud mental"
+  },
+  {
+    "entidad": "acceso a servicios de salud",
+    "relacion": "afecta",
+    "valor": "disparidades en salud mental"
+  },
+  {
+    "entidad": "factores de riesgo",
+    "relacion": "incluyen",
+    "valor": "estrés aculturativo y trauma migratorio"
+  },
+  {
+    "entidad": "barreras lingüísticas",
+    "relacion": "agravan",
+    "valor": "dificultades en acceso a servicios de salud"
+  },
+  {
+    "entidad": "discriminación en el sistema de salud",
+    "relacion": "aumenta",
+    "valor": "probabilidad de depresión posparto"
+  },
+  {
+    "entidad": "sistemas de salud",
+    "relacion": "deben ser",
+    "valor": "culturalmente sensibles"
+  },
+  {
+    "entidad": "intervenciones comunitarias",
+    "relacion": "disminuyen",
+    "valor": "síntomas de ansiedad y depresión"
+  },
+  {
+    "entidad": "mujeres refugiadas",
+    "relacion": "tienen",
+    "valor": "mayor riesgo de depresión posparto"
+  },
+  {
+    "entidad": "tiempo de residencia",
+    "relacion": "influye en",
+    "valor": "resultados de salud mental"
+  },
+  {
+    "entidad": "sistemas de salud inclusivos",
+    "relacion": "son esenciales para",
+    "valor": "mejorar bienestar de mujeres migrantes"
+  },
+  {
+    "entidad": "factores protectores",
+    "relacion": "pueden mitigar",
+    "valor": "impactos negativos en salud mental"
+  },
+  {
+    "entidad": "programas culturalmente adaptados",
+    "relacion": "reducen",
+    "valor": "tasas de depresión posparto"
+  },
+  {
+    "entidad": "mujeres migrantes",
+    "relacion": "enfrentan",
+    "valor": "desafíos únicos relacionados con desplazamiento"
+  }
+]
